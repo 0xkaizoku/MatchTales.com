@@ -5,13 +5,13 @@ export const SITE = {
   title: 'MatchTales — Why This Match Matters | World Cup 2026',
   description:
     'MatchTales is the story layer on top of the 2026 FIFA World Cup. Why-Care scores, rivalries, player legacies, iconic moments and human-written stories for every match.',
-  url: 'https://whycare-fc.preview.emergentagent.com',
+  url: 'https://www.matchtales.com',
   ogImage: '/og-default.svg',
   twitter: '@matchtales',
 };
 
 export const BACKEND_URL =
-  (import.meta.env.PUBLIC_BACKEND_URL as string) || 'https://whycare-fc.preview.emergentagent.com';
+  (import.meta.env.PUBLIC_BACKEND_URL as string) || 'https://www.matchtales.com';
 
 export const data = seed as any;
 

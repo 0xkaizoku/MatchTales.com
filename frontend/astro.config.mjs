@@ -9,7 +9,7 @@ const DEV_PORT = 3000;
 
 // https://astro.build
 export default defineConfig({
-  site: 'https://whycare-fc.preview.emergentagent.com',
+  site: 'https://www.matchtales.com',
   integrations: [
     tailwind({ applyBaseStyles: false }),
     sitemap(),

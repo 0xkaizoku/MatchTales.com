@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://whycare-fc.preview.emergentagent.com/sitemap-index.xml
+Sitemap: https://www.matchtales.com/sitemap-index.xml
