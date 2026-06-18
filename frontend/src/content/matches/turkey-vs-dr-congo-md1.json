@@ -1,0 +1,57 @@
+{
+  "headline": "Güler's Generation Announces Itself to the World",
+  "whyCareScore": 7.8,
+  "whyCareReason": "Two teenage prodigies dragged Turkey into the knockout conversation on day one, turning a Houston sweatbox into their personal coming-out party.",
+  "teaser": "Turkey's 22-year-old wonderkid Arda Güler and his equally gifted sidekick Kenan Yıldız dismantled a resilient DR Congo side 3-1 in a Group L opener that felt less like a first match and more like a coronation. If you've ever wanted to catch a superstar before the whole world catches up, your window just cracked open.",
+  "story": "Turkey arrived in Houston carrying the weight of a generation's promise and the specific impatience of a fanbase that has waited decades for a squad worthy of the hype. This wasn't your grandfather's Turkey, the team of Hakan Şükür and smoky Istanbul nights in the late 1990s. This was something newer, shinier, and frankly a little scary — a side built around two teenagers who play for Real Madrid and Juventus like they've been doing it their whole lives, because essentially they have.\n\nDR Congo brought their own electricity. The Leopards hadn't graced a World Cup since 1974, when the country was still called Zaire and the tournament was in West Germany, and every Congolese supporter in that NRG Stadium crowd knew exactly what this moment meant historically. Yoane Wissa, so dangerous for Brentford all season, gave them genuine hope when he pulled one back to make it 2-1, and for twenty breathless minutes you could genuinely feel the upset brewing under the Houston humidity.\n\nBut Turkey's third goal, when it came, felt inevitable in the way that only great young teams can make things feel inevitable. Hakan Çalhanoğlu, the old statesman of the group at 32, kept the engine ticking with the assurance of someone who has seen it all before, and together they saw the Leopards off. Three points. A statement. A beginning.",
+  "stakes": "Turkey's bright opening puts them firmly in the driving seat of Group L — a second win could effectively seal progression before the final matchday. For DR Congo, defeat on matchday one in their first World Cup in 52 years is a wound that needs urgent attention; anything less than a win in their next fixture and the dream dies almost before it started.",
+  "rivalryAngle": "There's no deep scar tissue between these two nations, no decades of grievance to feed the crowd. What there is, though, is a collision between two entirely different kinds of hope — Turkey's golden generation finally arriving on the biggest stage, and DR Congo reclaiming a World Cup identity that was stripped away by poverty, conflict, and circumstance for half a century. That contrast gave the match a quiet emotional charge that statistics cannot measure.",
+  "funFacts": [
+    "DR Congo's only previous World Cup appearance was in 1974 under the name Zaire — they lost all three group games and conceded 14 goals, including a 9-0 hammering by Yugoslavia.",
+    "Arda Güler became the youngest Turkish player to start a World Cup match, carrying a weight of expectation that would buckle most adults.",
+    "NRG Stadium in Houston, built for American football, holds over 72,000 people and was the same venue that hosted several 1994 World Cup matches — meaning it has now seen over 30 years of World Cup football across two different tournaments."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Arda Güler",
+      "team": "Turkey",
+      "hook": "The Real Madrid teenager is the reason neutral fans are circling Turkey's fixtures in pen — his vision and late-arriving runs made DR Congo's defence look permanently one step behind."
+    },
+    {
+      "name": "Yoane Wissa",
+      "team": "DR Congo",
+      "hook": "The Brentford striker's goal kept Congo's dream alive for a half-hour stretch and served notice that this Leopards attack will hurt someone before the group is done."
+    },
+    {
+      "name": "Hakan Çalhanoğlu",
+      "team": "Turkey",
+      "hook": "The Inter Milan metronome provided the experience and control that allowed Turkey's younger talents to express themselves without the game ever spinning away from them."
+    }
+  ],
+  "headToHead": "Turkey and DR Congo had never met in a competitive fixture before this evening in Houston, making the 3-1 scoreline the entirety of their shared history. Sometimes the first chapter is the most important one.",
+  "tags": [
+    "group stage",
+    "turkey",
+    "dr congo",
+    "world cup 2026",
+    "houston"
+  ],
+  "slug": "turkey-vs-dr-congo-md1",
+  "home": "Turkey",
+  "away": "DR Congo",
+  "homeCode": "TUR",
+  "awayCode": "COD",
+  "homeFlag": "🇹🇷",
+  "awayFlag": "🇨🇩",
+  "group": "L",
+  "matchday": 1,
+  "date": "2026-06-16",
+  "time": "16:00",
+  "venue": "NRG Stadium",
+  "city": "Houston",
+  "status": "FINISHED",
+  "homeScore": 3,
+  "awayScore": 1,
+  "marquee": false,
+  "liveMinute": null
+}

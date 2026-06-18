@@ -1,0 +1,57 @@
+{
+  "headline": "A Point Each, But Nobody Feels Lucky",
+  "whyCareScore": 7.4,
+  "whyCareReason": "Two teams built on defiance and tactical cleverness cancelled each other out in Seattle, leaving Group H wide open and both benches quietly furious at what slipped away.",
+  "teaser": "Switzerland and Ecuador played out a 1-1 draw at Lumen Field that felt more like a chess match than a football game — tense, clever, and absolutely loaded with consequence. If you like underdogs with something to prove, this was your fixture.",
+  "story": "Switzerland arrive at every World Cup as the team nobody picks and nobody beats. They are the quiet assassin of international football — organised to the point of obsession, captained by a man in Granit Xhaka who has reinvented himself so completely at Bayer Leverkusen that you half forget the years of grief he endured at Arsenal. They came to Seattle not to entertain, but to accumulate. One point is a result. Two points would have been a statement.\n\nEcuador brought something different: youth and altitude and hunger. Kendry Páez, still barely old enough to rent a car, carries the creative weight of a nation on shoulders that haven't finished growing. Moisés Caicedo behind him is the kind of midfielder Chelsea paid a world-record fee for, and watching him operate against a disciplined Swiss press was the tactical subplot worth the price of admission alone.\n\nThe 1-1 scoreline tells you the match was fair without telling you it was dull. It was neither. Both sides had moments that could have swung it — moments that will haunt the coaching staff on the flight home and fuel belief in equal measure.",
+  "stakes": "In a group neither side can afford to waste, a draw on matchday one means both Switzerland and Ecuador must win their next fixture to stay in control of their own destiny. Drop points again and you are relying on other results, which is no place for a team that backs its own organisation. Group H just became a genuine four-way scramble.",
+  "rivalryAngle": "These two sides have met rarely enough that there is no deep scar tissue between them, but there is a fascinating parallel: both countries produce footballers of serious quality that the big European clubs hoover up, yet their national teams are perpetually treated as supporting cast. This draw felt like two underdogs refusing to concede that role to each other, which made it compelling in its own stubborn way.",
+  "funFacts": [
+    "Switzerland have not lost a World Cup group-stage match since 2006 — a run of resilience that borders on the supernatural.",
+    "Kendry Páez became one of the youngest players in Ecuador history to start a World Cup match, having been born the same year Switzerland last crashed out in the group stage.",
+    "Lumen Field in Seattle sits at almost sea level, meaning Ecuador's altitude-trained lungs — usually a weapon — offered no advantage whatsoever on June 16."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Granit Xhaka",
+      "team": "Switzerland",
+      "hook": "The heartbeat of the Nati's press and transition, his reading of the game dictated Swiss rhythm throughout — a captain leading by doing, not just wearing the armband."
+    },
+    {
+      "name": "Moisés Caicedo",
+      "team": "Ecuador",
+      "hook": "The most expensive player on the pitch and arguably the best, Caicedo was everywhere in midfield, winning the ball and releasing it with the composure of someone who has done this in Champions League nights."
+    },
+    {
+      "name": "Kendry Páez",
+      "team": "Ecuador",
+      "hook": "The teenager the whole tournament wants to see grow up in real time — every touch felt like a glimpse of something that will terrify defenders for the next decade."
+    }
+  ],
+  "headToHead": "Switzerland and Ecuador have crossed paths only a handful of times at senior level, with no single result defining the relationship — which somehow made this World Cup encounter feel like the first chapter of something rather than a continuation of anything. Both sides will remember June 16, 2026 as the day the story started.",
+  "tags": [
+    "group h",
+    "world cup 2026",
+    "switzerland",
+    "ecuador",
+    "seattle"
+  ],
+  "slug": "switzerland-vs-ecuador-md1",
+  "home": "Switzerland",
+  "away": "Ecuador",
+  "homeCode": "SUI",
+  "awayCode": "ECU",
+  "homeFlag": "🇨🇭",
+  "awayFlag": "🇪🇨",
+  "group": "H",
+  "matchday": 1,
+  "date": "2026-06-16",
+  "time": "16:00",
+  "venue": "Lumen Field",
+  "city": "Seattle",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 1,
+  "marquee": false,
+  "liveMinute": null
+}

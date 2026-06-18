@@ -1,0 +1,2826 @@
+{
+  "meta": {
+    "name": "MatchTales",
+    "tournament": "FIFA World Cup 2026",
+    "hosts": [
+      "United States",
+      "Mexico",
+      "Canada"
+    ],
+    "startDate": "2026-06-11",
+    "today": "2026-06-17",
+    "tagline": "Why this match matters.",
+    "groupsCount": 12,
+    "teamsCount": 48
+  },
+  "teams": [
+    {
+      "name": "Mexico",
+      "code": "MEX",
+      "flag": "🇲🇽",
+      "group": "A",
+      "conf": "CONCACAF",
+      "rank": 14,
+      "nick": "El Tri",
+      "titles": 0,
+      "best": "Quarter-finals (1970, 1986)",
+      "color": "#006847",
+      "slug": "mexico",
+      "keyPlayers": [
+        [
+          "Santiago Giménez",
+          "Striker"
+        ],
+        [
+          "Edson Álvarez",
+          "Midfield"
+        ],
+        [
+          "Luis Malagón",
+          "Goalkeeper"
+        ]
+      ],
+      "funFact": "Mexico have reached the World Cup knockout stage a record-tying number of times but rarely broken the quarter-final ceiling.",
+      "story": "Co-hosts and the heartbeat of Group A — a nation that lives and breathes the tournament it helped invent the modern atmosphere for."
+    },
+    {
+      "name": "South Korea",
+      "code": "KOR",
+      "flag": "🇰🇷",
+      "group": "A",
+      "conf": "AFC",
+      "rank": 23,
+      "nick": "Taegeuk Warriors",
+      "titles": 0,
+      "best": "Fourth place (2002)",
+      "color": "#CD2E3A",
+      "slug": "south-korea",
+      "keyPlayers": [
+        [
+          "Son Heung-min",
+          "Forward"
+        ],
+        [
+          "Lee Kang-in",
+          "Midfield"
+        ],
+        [
+          "Kim Min-jae",
+          "Defender"
+        ]
+      ],
+      "funFact": "Son Heung-min is chasing the one trophy that has eluded a glittering Premier League career.",
+      "story": "Forever romantics after 2002, Korea travel with Son's farewell-tour energy and a fearless press."
+    },
+    {
+      "name": "South Africa",
+      "code": "RSA",
+      "flag": "🇿🇦",
+      "group": "A",
+      "conf": "CAF",
+      "rank": 58,
+      "nick": "Bafana Bafana",
+      "titles": 0,
+      "best": "Group stage (host 2010)",
+      "color": "#007A4D",
+      "slug": "south-africa",
+      "keyPlayers": [
+        [
+          "Lyle Foster",
+          "Striker"
+        ],
+        [
+          "Percy Tau",
+          "Forward"
+        ],
+        [
+          "Ronwen Williams",
+          "Goalkeeper"
+        ]
+      ],
+      "funFact": "Bafana Bafana remain the only host nation to be eliminated in the group stage (2010) — they want to rewrite that story.",
+      "story": "An underdog with golden-generation flashes, dreaming of a first knockout appearance."
+    },
+    {
+      "name": "Czechia",
+      "code": "CZE",
+      "flag": "🇨🇿",
+      "group": "A",
+      "conf": "UEFA",
+      "rank": 37,
+      "nick": "Národní tým",
+      "titles": 0,
+      "best": "Runners-up as Czechoslovakia (1934, 1962)",
+      "color": "#11457E",
+      "slug": "czechia",
+      "keyPlayers": [
+        [
+          "Patrik Schick",
+          "Striker"
+        ],
+        [
+          "Tomáš Souček",
+          "Midfield"
+        ],
+        [
+          "Adam Hložek",
+          "Forward"
+        ]
+      ],
+      "funFact": "Patrik Schick once scored from inside his own half at the Euros — Czechia always carry a moment of magic.",
+      "story": "Heirs to a proud Central European footballing tradition, hunting their first deep run as Czechia."
+    },
+    {
+      "name": "Canada",
+      "code": "CAN",
+      "flag": "🇨🇦",
+      "group": "B",
+      "conf": "CONCACAF",
+      "rank": 43,
+      "nick": "Les Rouges",
+      "titles": 0,
+      "best": "Group stage (1986, 2022)",
+      "color": "#FF0000",
+      "slug": "canada",
+      "keyPlayers": [
+        [
+          "Alphonso Davies",
+          "Wing-back"
+        ],
+        [
+          "Jonathan David",
+          "Striker"
+        ],
+        [
+          "Stephen Eustáquio",
+          "Midfield"
+        ]
+      ],
+      "funFact": "Canada are co-hosting their first home World Cup and chasing a first-ever World Cup goal celebration on home soil with fans behind them.",
+      "story": "Co-hosts with a rocket in Alphonso Davies and a point to prove after a winless 2022."
+    },
+    {
+      "name": "Belgium",
+      "code": "BEL",
+      "flag": "🇧🇪",
+      "group": "B",
+      "conf": "UEFA",
+      "rank": 8,
+      "nick": "Red Devils",
+      "titles": 0,
+      "best": "Third place (2018)",
+      "color": "#E30613",
+      "slug": "belgium",
+      "keyPlayers": [
+        [
+          "Kevin De Bruyne",
+          "Midfield"
+        ],
+        [
+          "Jérémy Doku",
+          "Winger"
+        ],
+        [
+          "Romelu Lukaku",
+          "Striker"
+        ]
+      ],
+      "funFact": "Belgium's 'golden generation' won bronze in 2018 but never the gold — this is the last dance for several greats.",
+      "story": "A team racing against time, blending fading legends with electric new pace."
+    },
+    {
+      "name": "Morocco",
+      "code": "MAR",
+      "flag": "🇲🇦",
+      "group": "B",
+      "conf": "CAF",
+      "rank": 13,
+      "nick": "Atlas Lions",
+      "titles": 0,
+      "best": "Fourth place (2022)",
+      "color": "#C1272D",
+      "slug": "morocco",
+      "keyPlayers": [
+        [
+          "Achraf Hakimi",
+          "Wing-back"
+        ],
+        [
+          "Brahim Díaz",
+          "Playmaker"
+        ],
+        [
+          "Bilal El Khannouss",
+          "Midfield"
+        ]
+      ],
+      "funFact": "Morocco became the first African and Arab nation to reach a World Cup semi-final in 2022 — and they are no longer a surprise.",
+      "story": "The continent's standard-bearers, carrying a billion dreams and a defence that strangles giants."
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "KSA",
+      "flag": "🇸🇦",
+      "group": "B",
+      "conf": "AFC",
+      "rank": 56,
+      "nick": "Green Falcons",
+      "titles": 0,
+      "best": "Round of 16 (1994)",
+      "color": "#006C35",
+      "slug": "saudi-arabia",
+      "keyPlayers": [
+        [
+          "Salem Al-Dawsari",
+          "Winger"
+        ],
+        [
+          "Firas Al-Buraikan",
+          "Striker"
+        ],
+        [
+          "Nawaf Al-Aqidi",
+          "Goalkeeper"
+        ]
+      ],
+      "funFact": "Saudi Arabia stunned eventual champions Argentina 2-1 in 2022 — one of the greatest upsets in World Cup history.",
+      "story": "Giant-killers who proved that on the right day, no superpower is safe."
+    },
+    {
+      "name": "USA",
+      "code": "USA",
+      "flag": "🇺🇸",
+      "group": "C",
+      "conf": "CONCACAF",
+      "rank": 16,
+      "nick": "USMNT",
+      "titles": 0,
+      "best": "Third place (1930)",
+      "color": "#0A3161",
+      "slug": "usa",
+      "keyPlayers": [
+        [
+          "Christian Pulisic",
+          "Winger"
+        ],
+        [
+          "Weston McKennie",
+          "Midfield"
+        ],
+        [
+          "Gio Reyna",
+          "Playmaker"
+        ]
+      ],
+      "funFact": "The USMNT headline their own home World Cup for the first time since 1994 — and the pressure is enormous.",
+      "story": "Hosts with a golden generation that finally has to deliver in front of a home crowd."
+    },
+    {
+      "name": "Wales",
+      "code": "WAL",
+      "flag": "🏴",
+      "group": "C",
+      "conf": "UEFA",
+      "rank": 30,
+      "nick": "Y Wal Goch",
+      "titles": 0,
+      "best": "Quarter-finals (1958)",
+      "color": "#C8102E",
+      "slug": "wales",
+      "keyPlayers": [
+        [
+          "Harry Wilson",
+          "Winger"
+        ],
+        [
+          "Brennan Johnson",
+          "Forward"
+        ],
+        [
+          "Neco Williams",
+          "Wing-back"
+        ]
+      ],
+      "funFact": "Wales waited 64 years between World Cups before 2022 — they refuse to disappear again.",
+      "story": "A small nation with a giant red wall of support and a flair for the dramatic."
+    },
+    {
+      "name": "Iran",
+      "code": "IRN",
+      "flag": "🇮🇷",
+      "group": "C",
+      "conf": "AFC",
+      "rank": 20,
+      "nick": "Team Melli",
+      "titles": 0,
+      "best": "Group stage (multiple)",
+      "color": "#239F40",
+      "slug": "iran",
+      "keyPlayers": [
+        [
+          "Mehdi Taremi",
+          "Striker"
+        ],
+        [
+          "Sardar Azmoun",
+          "Forward"
+        ],
+        [
+          "Alireza Jahanbakhsh",
+          "Winger"
+        ]
+      ],
+      "funFact": "Iran's 1998 win over the USA in Lyon remains one of football's most politically charged matches ever played.",
+      "story": "Asia's perennial heavyweight, still chasing a first-ever knockout berth."
+    },
+    {
+      "name": "Senegal",
+      "code": "SEN",
+      "flag": "🇸🇳",
+      "group": "C",
+      "conf": "CAF",
+      "rank": 18,
+      "nick": "Lions of Teranga",
+      "titles": 0,
+      "best": "Quarter-finals (2002)",
+      "color": "#00853F",
+      "slug": "senegal",
+      "keyPlayers": [
+        [
+          "Nicolas Jackson",
+          "Striker"
+        ],
+        [
+          "Pape Matar Sarr",
+          "Midfield"
+        ],
+        [
+          "Édouard Mendy",
+          "Goalkeeper"
+        ]
+      ],
+      "funFact": "Senegal's 2002 debut began with a shock win over reigning champions France — they love a grand entrance.",
+      "story": "African champions with power, pace and the swagger of a team that fears no one."
+    },
+    {
+      "name": "Argentina",
+      "code": "ARG",
+      "flag": "🇦🇷",
+      "group": "D",
+      "conf": "CONMEBOL",
+      "rank": 1,
+      "nick": "La Albiceleste",
+      "titles": 3,
+      "best": "Champions (1978, 1986, 2022)",
+      "color": "#75AADB",
+      "slug": "argentina",
+      "keyPlayers": [
+        [
+          "Lautaro Martínez",
+          "Striker"
+        ],
+        [
+          "Julián Álvarez",
+          "Forward"
+        ],
+        [
+          "Enzo Fernández",
+          "Midfield"
+        ]
+      ],
+      "funFact": "Reigning champions Argentina arrive in a post-Messi-prime world, defending the crown won in the Qatar epic.",
+      "story": "World champions chasing back-to-back glory — the team everyone wants to beat."
+    },
+    {
+      "name": "Australia",
+      "code": "AUS",
+      "flag": "🇦🇺",
+      "group": "D",
+      "conf": "AFC",
+      "rank": 26,
+      "nick": "Socceroos",
+      "titles": 0,
+      "best": "Round of 16 (2006, 2022)",
+      "color": "#FFCD00",
+      "slug": "australia",
+      "keyPlayers": [
+        [
+          "Cristian Volpato",
+          "Playmaker"
+        ],
+        [
+          "Riley McGree",
+          "Midfield"
+        ],
+        [
+          "Mat Ryan",
+          "Goalkeeper"
+        ]
+      ],
+      "funFact": "The Socceroos' 2022 run was powered by a viral, beer-soaked celebration video back home in Federation Square.",
+      "story": "Relentless, organised and impossible to dislike — the ultimate tournament grinders."
+    },
+    {
+      "name": "Poland",
+      "code": "POL",
+      "flag": "🇵🇱",
+      "group": "D",
+      "conf": "UEFA",
+      "rank": 28,
+      "nick": "Biało-czerwoni",
+      "titles": 0,
+      "best": "Third place (1974, 1982)",
+      "color": "#DC143C",
+      "slug": "poland",
+      "keyPlayers": [
+        [
+          "Robert Lewandowski",
+          "Striker"
+        ],
+        [
+          "Piotr Zieliński",
+          "Midfield"
+        ],
+        [
+          "Nicola Zalewski",
+          "Wing-back"
+        ]
+      ],
+      "funFact": "Robert Lewandowski scored his first-ever World Cup goal at age 34 — he wants the knockout run that has eluded him.",
+      "story": "One of the game's great strikers dragging a nation toward one last deep run."
+    },
+    {
+      "name": "Nigeria",
+      "code": "NGA",
+      "flag": "🇳🇬",
+      "group": "D",
+      "conf": "CAF",
+      "rank": 35,
+      "nick": "Super Eagles",
+      "titles": 0,
+      "best": "Round of 16 (1994, 1998, 2014)",
+      "color": "#008751",
+      "slug": "nigeria",
+      "keyPlayers": [
+        [
+          "Victor Osimhen",
+          "Striker"
+        ],
+        [
+          "Ademola Lookman",
+          "Winger"
+        ],
+        [
+          "Alex Iwobi",
+          "Midfield"
+        ]
+      ],
+      "funFact": "Nigeria's 1994 kit is still voted among the greatest World Cup shirts ever made.",
+      "story": "Explosive, fearless and blessed with Osimhen — Africa's most thrilling attacking side."
+    },
+    {
+      "name": "Spain",
+      "code": "ESP",
+      "flag": "🇪🇸",
+      "group": "E",
+      "conf": "UEFA",
+      "rank": 3,
+      "nick": "La Roja",
+      "titles": 1,
+      "best": "Champions (2010)",
+      "color": "#C60B1E",
+      "slug": "spain",
+      "keyPlayers": [
+        [
+          "Lamine Yamal",
+          "Winger"
+        ],
+        [
+          "Pedri",
+          "Midfield"
+        ],
+        [
+          "Nico Williams",
+          "Winger"
+        ]
+      ],
+      "funFact": "Teenager Lamine Yamal is already being compared to the greatest wingers in history — this is his coming-out tournament.",
+      "story": "Tiki-taka reborn with a fearless teenage generation lighting up the wings."
+    },
+    {
+      "name": "Japan",
+      "code": "JPN",
+      "flag": "🇯🇵",
+      "group": "E",
+      "conf": "AFC",
+      "rank": 17,
+      "nick": "Samurai Blue",
+      "titles": 0,
+      "best": "Round of 16 (multiple)",
+      "color": "#BC002D",
+      "slug": "japan",
+      "keyPlayers": [
+        [
+          "Takefusa Kubo",
+          "Winger"
+        ],
+        [
+          "Kaoru Mitoma",
+          "Winger"
+        ],
+        [
+          "Wataru Endō",
+          "Midfield"
+        ]
+      ],
+      "funFact": "Japan beat both Germany AND Spain in the 2022 group stage — then exited on penalties, breaking hearts.",
+      "story": "Technical, brave and forever knocking on the quarter-final door."
+    },
+    {
+      "name": "Costa Rica",
+      "code": "CRC",
+      "flag": "🇨🇷",
+      "group": "E",
+      "conf": "CONCACAF",
+      "rank": 52,
+      "nick": "Los Ticos",
+      "titles": 0,
+      "best": "Quarter-finals (2014)",
+      "color": "#002B7F",
+      "slug": "costa-rica",
+      "keyPlayers": [
+        [
+          "Manfred Ugalde",
+          "Striker"
+        ],
+        [
+          "Keylor Navas",
+          "Goalkeeper"
+        ],
+        [
+          "Carlos Mora",
+          "Winger"
+        ]
+      ],
+      "funFact": "Costa Rica's 2014 run, anchored by Keylor Navas, knocked out Italy, England and Uruguay from one group.",
+      "story": "The eternal underdog with a knack for the impossible."
+    },
+    {
+      "name": "Norway",
+      "code": "NOR",
+      "flag": "🇳🇴",
+      "group": "E",
+      "conf": "UEFA",
+      "rank": 24,
+      "nick": "Løvene",
+      "titles": 0,
+      "best": "Round of 16 (1998)",
+      "color": "#BA0C2F",
+      "slug": "norway",
+      "keyPlayers": [
+        [
+          "Erling Haaland",
+          "Striker"
+        ],
+        [
+          "Martin Ødegaard",
+          "Midfield"
+        ],
+        [
+          "Antonio Nusa",
+          "Winger"
+        ]
+      ],
+      "funFact": "Norway return to the World Cup after a 28-year absence — and they're bringing Erling Haaland with them.",
+      "story": "A goal machine and a captain-artist finally on the biggest stage together."
+    },
+    {
+      "name": "England",
+      "code": "ENG",
+      "flag": "🏴",
+      "group": "F",
+      "conf": "UEFA",
+      "rank": 4,
+      "nick": "Three Lions",
+      "titles": 1,
+      "best": "Champions (1966)",
+      "color": "#CE1124",
+      "slug": "england",
+      "keyPlayers": [
+        [
+          "Jude Bellingham",
+          "Midfield"
+        ],
+        [
+          "Harry Kane",
+          "Striker"
+        ],
+        [
+          "Bukayo Saka",
+          "Winger"
+        ]
+      ],
+      "funFact": "England have lost to Croatia in a World Cup semi-final (2018) and to Italy in a Euro final on penalties — the near-misses haunt them.",
+      "story": "A golden generation desperate to finally bring it home, starting with a 2018 score to settle."
+    },
+    {
+      "name": "Croatia",
+      "code": "CRO",
+      "flag": "🇭🇷",
+      "group": "F",
+      "conf": "UEFA",
+      "rank": 10,
+      "nick": "Vatreni",
+      "titles": 0,
+      "best": "Runners-up (2018), Third (2022)",
+      "color": "#FF0000",
+      "slug": "croatia",
+      "keyPlayers": [
+        [
+          "Luka Modrić",
+          "Midfield"
+        ],
+        [
+          "Joško Gvardiol",
+          "Defender"
+        ],
+        [
+          "Mateo Kovačić",
+          "Midfield"
+        ]
+      ],
+      "funFact": "Luka Modrić, the 2018 Ballon d'Or winner, is chasing one final tournament miracle at 40 years old.",
+      "story": "The ultimate big-game team — small nation, enormous heart, and a maestro's last waltz."
+    },
+    {
+      "name": "Egypt",
+      "code": "EGY",
+      "flag": "🇪🇬",
+      "group": "F",
+      "conf": "CAF",
+      "rank": 36,
+      "nick": "The Pharaohs",
+      "titles": 0,
+      "best": "Group stage (1934, 1990, 2018)",
+      "color": "#C8102E",
+      "slug": "egypt",
+      "keyPlayers": [
+        [
+          "Mohamed Salah",
+          "Forward"
+        ],
+        [
+          "Omar Marmoush",
+          "Striker"
+        ],
+        [
+          "Mohamed Elneny",
+          "Midfield"
+        ]
+      ],
+      "funFact": "Mohamed Salah carried Egypt to the 2018 World Cup but injury robbed him of his moment — he's back for redemption.",
+      "story": "A pharaoh's last quest: Salah dragging Egypt toward a first knockout stage in the modern era."
+    },
+    {
+      "name": "Panama",
+      "code": "PAN",
+      "flag": "🇵🇦",
+      "group": "F",
+      "conf": "CONCACAF",
+      "rank": 40,
+      "nick": "La Marea Roja",
+      "titles": 0,
+      "best": "Group stage (2018)",
+      "color": "#DA121A",
+      "slug": "panama",
+      "keyPlayers": [
+        [
+          "Adalberto Carrasquilla",
+          "Midfield"
+        ],
+        [
+          "José Fajardo",
+          "Striker"
+        ],
+        [
+          "Orlando Mosquera",
+          "Goalkeeper"
+        ]
+      ],
+      "funFact": "Panama's first-ever World Cup goal in 2018 was treated as a national holiday back home.",
+      "story": "Tiny nation, massive belief — the romantics of Group F."
+    },
+    {
+      "name": "France",
+      "code": "FRA",
+      "flag": "🇫🇷",
+      "group": "G",
+      "conf": "UEFA",
+      "rank": 2,
+      "nick": "Les Bleus",
+      "titles": 2,
+      "best": "Champions (1998, 2018)",
+      "color": "#0055A4",
+      "slug": "france",
+      "keyPlayers": [
+        [
+          "Kylian Mbappé",
+          "Forward"
+        ],
+        [
+          "Aurélien Tchouaméni",
+          "Midfield"
+        ],
+        [
+          "Désiré Doué",
+          "Winger"
+        ]
+      ],
+      "funFact": "Kylian Mbappé already has a World Cup final hat-trick (2022) — and he's still in his twenties.",
+      "story": "The most feared attack on earth, captained by a generational superstar in his prime."
+    },
+    {
+      "name": "Uruguay",
+      "code": "URU",
+      "flag": "🇺🇾",
+      "group": "G",
+      "conf": "CONMEBOL",
+      "rank": 11,
+      "nick": "La Celeste",
+      "titles": 2,
+      "best": "Champions (1930, 1950)",
+      "color": "#7BAFD4",
+      "slug": "uruguay",
+      "keyPlayers": [
+        [
+          "Federico Valverde",
+          "Midfield"
+        ],
+        [
+          "Darwin Núñez",
+          "Striker"
+        ],
+        [
+          "Manuel Ugarte",
+          "Midfield"
+        ]
+      ],
+      "funFact": "Uruguay, a nation of 3.4 million, has won as many World Cups as England, France and Spain combined would envy — two stars on the shirt.",
+      "story": "History's original champions, still snarling, still punching far above their weight."
+    },
+    {
+      "name": "Qatar",
+      "code": "QAT",
+      "flag": "🇶🇦",
+      "group": "G",
+      "conf": "AFC",
+      "rank": 34,
+      "nick": "Al Annabi",
+      "titles": 0,
+      "best": "Group stage (host 2022)",
+      "color": "#8A1538",
+      "slug": "qatar",
+      "keyPlayers": [
+        [
+          "Akram Afif",
+          "Forward"
+        ],
+        [
+          "Almoez Ali",
+          "Striker"
+        ],
+        [
+          "Hassan Al-Haydos",
+          "Midfield"
+        ]
+      ],
+      "funFact": "Qatar are the reigning Asian champions, hungry to prove their 2022 host campaign wasn't the full story.",
+      "story": "Asian kings out to silence the doubters away from home."
+    },
+    {
+      "name": "Ghana",
+      "code": "GHA",
+      "flag": "🇬🇭",
+      "group": "G",
+      "conf": "CAF",
+      "rank": 61,
+      "nick": "Black Stars",
+      "titles": 0,
+      "best": "Quarter-finals (2010)",
+      "color": "#006B3F",
+      "slug": "ghana",
+      "keyPlayers": [
+        [
+          "Mohammed Kudus",
+          "Forward"
+        ],
+        [
+          "Thomas Partey",
+          "Midfield"
+        ],
+        [
+          "Antoine Semenyo",
+          "Winger"
+        ]
+      ],
+      "funFact": "Ghana were a Luis Suárez handball away from becoming the first African semi-finalists in 2010 — the wound still aches.",
+      "story": "A proud giant chasing the redemption that 2010 cruelly denied them."
+    },
+    {
+      "name": "Brazil",
+      "code": "BRA",
+      "flag": "🇧🇷",
+      "group": "H",
+      "conf": "CONMEBOL",
+      "rank": 5,
+      "nick": "Seleção",
+      "titles": 5,
+      "best": "Champions (x5)",
+      "color": "#FFDF00",
+      "slug": "brazil",
+      "keyPlayers": [
+        [
+          "Vinícius Júnior",
+          "Winger"
+        ],
+        [
+          "Rodrygo",
+          "Forward"
+        ],
+        [
+          "Endrick",
+          "Striker"
+        ]
+      ],
+      "funFact": "Brazil are the only nation to play in every World Cup ever held — and the only five-time champions.",
+      "story": "The most successful nation in history, chasing a sixth star to end a 24-year wait."
+    },
+    {
+      "name": "Switzerland",
+      "code": "SUI",
+      "flag": "🇨🇭",
+      "group": "H",
+      "conf": "UEFA",
+      "rank": 19,
+      "nick": "Nati",
+      "titles": 0,
+      "best": "Quarter-finals (1934, 1938, 1954)",
+      "color": "#FF0000",
+      "slug": "switzerland",
+      "keyPlayers": [
+        [
+          "Granit Xhaka",
+          "Midfield"
+        ],
+        [
+          "Dan Ndoye",
+          "Winger"
+        ],
+        [
+          "Breel Embolo",
+          "Striker"
+        ]
+      ],
+      "funFact": "Switzerland have qualified for every major tournament for over a decade — masters of the unglamorous knockout grind.",
+      "story": "Quietly excellent and forever underestimated, the side that loves a giant-killing."
+    },
+    {
+      "name": "Cameroon",
+      "code": "CMR",
+      "flag": "🇨🇲",
+      "group": "H",
+      "conf": "CAF",
+      "rank": 48,
+      "nick": "Indomitable Lions",
+      "titles": 0,
+      "best": "Quarter-finals (1990)",
+      "color": "#007A5E",
+      "slug": "cameroon",
+      "keyPlayers": [
+        [
+          "Bryan Mbeumo",
+          "Forward"
+        ],
+        [
+          "André-Frank Zambo Anguissa",
+          "Midfield"
+        ],
+        [
+          "André Onana",
+          "Goalkeeper"
+        ]
+      ],
+      "funFact": "Roger Milla's corner-flag dance in 1990 made Cameroon the first African team to reach a World Cup quarter-final.",
+      "story": "The original African trailblazers, still roaring with that 1990 spirit."
+    },
+    {
+      "name": "Ecuador",
+      "code": "ECU",
+      "flag": "🇪🇨",
+      "group": "H",
+      "conf": "CONMEBOL",
+      "rank": 31,
+      "nick": "La Tri",
+      "titles": 0,
+      "best": "Round of 16 (2006)",
+      "color": "#FFD100",
+      "slug": "ecuador",
+      "keyPlayers": [
+        [
+          "Moisés Caicedo",
+          "Midfield"
+        ],
+        [
+          "Kendry Páez",
+          "Playmaker"
+        ],
+        [
+          "Pervis Estupiñán",
+          "Wing-back"
+        ]
+      ],
+      "funFact": "Teen prodigy Kendry Páez became one of the youngest scorers in South American qualifying history.",
+      "story": "Altitude-bred and youthful, with a midfield that giants envy."
+    },
+    {
+      "name": "Portugal",
+      "code": "POR",
+      "flag": "🇵🇹",
+      "group": "I",
+      "conf": "UEFA",
+      "rank": 6,
+      "nick": "A Seleção",
+      "titles": 0,
+      "best": "Third place (1966)",
+      "color": "#006600",
+      "slug": "portugal",
+      "keyPlayers": [
+        [
+          "Cristiano Ronaldo",
+          "Forward"
+        ],
+        [
+          "Bruno Fernandes",
+          "Midfield"
+        ],
+        [
+          "Rafael Leão",
+          "Winger"
+        ]
+      ],
+      "funFact": "Cristiano Ronaldo is the only player to score in five different World Cups — this is the final chapter.",
+      "story": "A legend's last World Cup, surrounded by a frighteningly talented supporting cast."
+    },
+    {
+      "name": "Serbia",
+      "code": "SRB",
+      "flag": "🇷🇸",
+      "group": "I",
+      "conf": "UEFA",
+      "rank": 33,
+      "nick": "Orlovi",
+      "titles": 0,
+      "best": "Quarter-finals as Yugoslavia",
+      "color": "#C6363C",
+      "slug": "serbia",
+      "keyPlayers": [
+        [
+          "Dušan Vlahović",
+          "Striker"
+        ],
+        [
+          "Aleksandar Mitrović",
+          "Striker"
+        ],
+        [
+          "Sergej Milinković-Savić",
+          "Midfield"
+        ]
+      ],
+      "funFact": "Serbia boast one of the most physically imposing attacks in world football — and a habit of group-stage heartbreak.",
+      "story": "All the raw talent in the world, chasing the consistency to finally match it."
+    },
+    {
+      "name": "Ivory Coast",
+      "code": "CIV",
+      "flag": "🇨🇮",
+      "group": "I",
+      "conf": "CAF",
+      "rank": 41,
+      "nick": "Les Éléphants",
+      "titles": 0,
+      "best": "Group stage (golden generation)",
+      "color": "#FF8200",
+      "slug": "ivory-coast",
+      "keyPlayers": [
+        [
+          "Simon Adingra",
+          "Winger"
+        ],
+        [
+          "Franck Kessié",
+          "Midfield"
+        ],
+        [
+          "Sébastien Haller",
+          "Striker"
+        ]
+      ],
+      "funFact": "Sébastien Haller scored the winner in the 2023 Africa Cup of Nations final months after beating cancer.",
+      "story": "African champions riding a wave of one of football's great comeback stories."
+    },
+    {
+      "name": "New Zealand",
+      "code": "NZL",
+      "flag": "🇳🇿",
+      "group": "I",
+      "conf": "OFC",
+      "rank": 83,
+      "nick": "All Whites",
+      "titles": 0,
+      "best": "Unbeaten group stage (2010)",
+      "color": "#000000",
+      "slug": "new-zealand",
+      "keyPlayers": [
+        [
+          "Chris Wood",
+          "Striker"
+        ],
+        [
+          "Marko Stamenić",
+          "Midfield"
+        ],
+        [
+          "Liberato Cacace",
+          "Wing-back"
+        ]
+      ],
+      "funFact": "New Zealand are the only team to leave the 2010 World Cup unbeaten — three draws, then knocked out.",
+      "story": "The ultimate Cinderella, dreaming of a first-ever World Cup win."
+    },
+    {
+      "name": "Germany",
+      "code": "GER",
+      "flag": "🇩🇪",
+      "group": "J",
+      "conf": "UEFA",
+      "rank": 9,
+      "nick": "Die Mannschaft",
+      "titles": 4,
+      "best": "Champions (x4)",
+      "color": "#000000",
+      "slug": "germany",
+      "keyPlayers": [
+        [
+          "Jamal Musiala",
+          "Playmaker"
+        ],
+        [
+          "Florian Wirtz",
+          "Playmaker"
+        ],
+        [
+          "Kai Havertz",
+          "Striker"
+        ]
+      ],
+      "funFact": "Germany crashed out in the group stage in BOTH 2018 and 2022 — a four-time champion in crisis seeks redemption.",
+      "story": "A fallen giant rebuilt around two of the most exciting playmakers on the planet."
+    },
+    {
+      "name": "Colombia",
+      "code": "COL",
+      "flag": "🇨🇴",
+      "group": "J",
+      "conf": "CONMEBOL",
+      "rank": 12,
+      "nick": "Los Cafeteros",
+      "titles": 0,
+      "best": "Quarter-finals (2014)",
+      "color": "#FCD116",
+      "slug": "colombia",
+      "keyPlayers": [
+        [
+          "James Rodríguez",
+          "Playmaker"
+        ],
+        [
+          "Luis Díaz",
+          "Winger"
+        ],
+        [
+          "Jhon Durán",
+          "Striker"
+        ]
+      ],
+      "funFact": "James Rodríguez won the 2014 Golden Boot and scored a goal so good it earned a FIFA Puskás Award.",
+      "story": "Carnival football with a maestro orchestrating one last great campaign."
+    },
+    {
+      "name": "Algeria",
+      "code": "ALG",
+      "flag": "🇩🇿",
+      "group": "J",
+      "conf": "CAF",
+      "rank": 38,
+      "nick": "Les Fennecs",
+      "titles": 0,
+      "best": "Round of 16 (2014)",
+      "color": "#006233",
+      "slug": "algeria",
+      "keyPlayers": [
+        [
+          "Riyad Mahrez",
+          "Winger"
+        ],
+        [
+          "Ismaël Bennacer",
+          "Midfield"
+        ],
+        [
+          "Mohamed Amoura",
+          "Striker"
+        ]
+      ],
+      "funFact": "Algeria pushed eventual champions Germany to extra time in a thrilling 2014 last-16 classic.",
+      "story": "Technical, proud and capable of toppling anyone on their day."
+    },
+    {
+      "name": "Iraq",
+      "code": "IRQ",
+      "flag": "🇮🇶",
+      "group": "J",
+      "conf": "AFC",
+      "rank": 55,
+      "nick": "Lions of Mesopotamia",
+      "titles": 0,
+      "best": "First World Cup since 1986",
+      "color": "#007A3D",
+      "slug": "iraq",
+      "keyPlayers": [
+        [
+          "Aymen Hussein",
+          "Striker"
+        ],
+        [
+          "Zidane Iqbal",
+          "Midfield"
+        ],
+        [
+          "Jalal Hassan",
+          "Goalkeeper"
+        ]
+      ],
+      "funFact": "Iraq won the 2007 Asian Cup amid extraordinary adversity — one of sport's most moving triumphs.",
+      "story": "A nation for whom simply being here is a victory, and they want much more."
+    },
+    {
+      "name": "Netherlands",
+      "code": "NED",
+      "flag": "🇳🇱",
+      "group": "K",
+      "conf": "UEFA",
+      "rank": 7,
+      "nick": "Oranje",
+      "titles": 0,
+      "best": "Runners-up (1974, 1978, 2010)",
+      "color": "#FF6200",
+      "slug": "netherlands",
+      "keyPlayers": [
+        [
+          "Cody Gakpo",
+          "Winger"
+        ],
+        [
+          "Xavi Simons",
+          "Playmaker"
+        ],
+        [
+          "Virgil van Dijk",
+          "Defender"
+        ]
+      ],
+      "funFact": "The Netherlands are the greatest team to never win the World Cup — three finals, three defeats.",
+      "story": "Total Football's heirs, forever chasing the trophy that history owes them."
+    },
+    {
+      "name": "Denmark",
+      "code": "DEN",
+      "flag": "🇩🇰",
+      "group": "K",
+      "conf": "UEFA",
+      "rank": 21,
+      "nick": "Danish Dynamite",
+      "titles": 0,
+      "best": "Quarter-finals (1998)",
+      "color": "#C60C30",
+      "slug": "denmark",
+      "keyPlayers": [
+        [
+          "Rasmus Højlund",
+          "Striker"
+        ],
+        [
+          "Christian Eriksen",
+          "Midfield"
+        ],
+        [
+          "Mikkel Damsgaard",
+          "Playmaker"
+        ]
+      ],
+      "funFact": "Christian Eriksen's recovery and return after collapsing at Euro 2020 is one of football's most emotional stories.",
+      "story": "A tight-knit side carrying Eriksen's miracle and a fearless collective spirit."
+    },
+    {
+      "name": "Jamaica",
+      "code": "JAM",
+      "flag": "🇯🇲",
+      "group": "K",
+      "conf": "CONCACAF",
+      "rank": 53,
+      "nick": "Reggae Boyz",
+      "titles": 0,
+      "best": "Group stage (1998)",
+      "color": "#009B3A",
+      "slug": "jamaica",
+      "keyPlayers": [
+        [
+          "Leon Bailey",
+          "Winger"
+        ],
+        [
+          "Michail Antonio",
+          "Striker"
+        ],
+        [
+          "Demarai Gray",
+          "Forward"
+        ]
+      ],
+      "funFact": "Jamaica's 1998 'Reggae Boyz' campaign inspired a generation and a famously joyful travelling support.",
+      "story": "Pace, power and pure vibes — the most fun underdog in the tournament."
+    },
+    {
+      "name": "Uzbekistan",
+      "code": "UZB",
+      "flag": "🇺🇿",
+      "group": "K",
+      "conf": "AFC",
+      "rank": 57,
+      "nick": "The White Wolves",
+      "titles": 0,
+      "best": "First-ever World Cup",
+      "color": "#1EB53A",
+      "slug": "uzbekistan",
+      "keyPlayers": [
+        [
+          "Eldor Shomurodov",
+          "Striker"
+        ],
+        [
+          "Abbosbek Fayzullaev",
+          "Playmaker"
+        ],
+        [
+          "Khojimat Erkinov",
+          "Midfield"
+        ]
+      ],
+      "funFact": "Uzbekistan have qualified for the World Cup for the very first time in their history.",
+      "story": "Debutants writing the opening page of a brand-new footballing story."
+    },
+    {
+      "name": "Italy",
+      "code": "ITA",
+      "flag": "🇮🇹",
+      "group": "L",
+      "conf": "UEFA",
+      "rank": 15,
+      "nick": "Azzurri",
+      "titles": 4,
+      "best": "Champions (x4)",
+      "color": "#0066CC",
+      "slug": "italy",
+      "keyPlayers": [
+        [
+          "Federico Chiesa",
+          "Winger"
+        ],
+        [
+          "Sandro Tonali",
+          "Midfield"
+        ],
+        [
+          "Gianluca Scamacca",
+          "Striker"
+        ]
+      ],
+      "funFact": "Four-time champions Italy stunningly MISSED the last two World Cups — this is a redemption arc for a fallen superpower.",
+      "story": "A sleeping giant awakened, desperate to remind the world of its pedigree."
+    },
+    {
+      "name": "Turkey",
+      "code": "TUR",
+      "flag": "🇹🇷",
+      "group": "L",
+      "conf": "UEFA",
+      "rank": 27,
+      "nick": "Ay-Yıldızlılar",
+      "titles": 0,
+      "best": "Third place (2002)",
+      "color": "#E30A17",
+      "slug": "turkey",
+      "keyPlayers": [
+        [
+          "Arda Güler",
+          "Playmaker"
+        ],
+        [
+          "Kenan Yıldız",
+          "Winger"
+        ],
+        [
+          "Hakan Çalhanoğlu",
+          "Midfield"
+        ]
+      ],
+      "funFact": "Turkey's 2002 third-place run included the fastest goal in World Cup history — 10.8 seconds.",
+      "story": "A thrilling new generation led by two of Europe's brightest teenagers."
+    },
+    {
+      "name": "Paraguay",
+      "code": "PAR",
+      "flag": "🇵🇾",
+      "group": "L",
+      "conf": "CONMEBOL",
+      "rank": 44,
+      "nick": "La Albirroja",
+      "titles": 0,
+      "best": "Quarter-finals (2010)",
+      "color": "#D52B1E",
+      "slug": "paraguay",
+      "keyPlayers": [
+        [
+          "Julio Enciso",
+          "Playmaker"
+        ],
+        [
+          "Miguel Almirón",
+          "Winger"
+        ],
+        [
+          "Antonio Sanabria",
+          "Striker"
+        ]
+      ],
+      "funFact": "Paraguay's gritty 2010 side reached the quarter-finals without winning a single knockout game in 90 minutes.",
+      "story": "Stubborn, streetwise South Americans who make every match a battle."
+    },
+    {
+      "name": "DR Congo",
+      "code": "COD",
+      "flag": "🇨🇩",
+      "group": "L",
+      "conf": "CAF",
+      "rank": 59,
+      "nick": "Leopards",
+      "titles": 0,
+      "best": "Group stage as Zaire (1974)",
+      "color": "#007FFF",
+      "slug": "dr-congo",
+      "keyPlayers": [
+        [
+          "Yoane Wissa",
+          "Striker"
+        ],
+        [
+          "Silas Katompa",
+          "Winger"
+        ],
+        [
+          "Chancel Mbemba",
+          "Defender"
+        ]
+      ],
+      "funFact": "As Zaire in 1974, they were the first Black African nation to reach a World Cup — now they return transformed.",
+      "story": "A historic name reborn, hungry to honour a pioneering legacy."
+    }
+  ],
+  "groups": {
+    "A": [
+      {
+        "name": "Mexico",
+        "code": "MEX",
+        "flag": "🇲🇽",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 2,
+        "GA": 0,
+        "GD": 2,
+        "Pts": 3
+      },
+      {
+        "name": "South Korea",
+        "code": "KOR",
+        "flag": "🇰🇷",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 2,
+        "GA": 1,
+        "GD": 1,
+        "Pts": 3
+      },
+      {
+        "name": "Czechia",
+        "code": "CZE",
+        "flag": "🇨🇿",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 1,
+        "GA": 2,
+        "GD": -1,
+        "Pts": 0
+      },
+      {
+        "name": "South Africa",
+        "code": "RSA",
+        "flag": "🇿🇦",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 0,
+        "GA": 2,
+        "GD": -2,
+        "Pts": 0
+      }
+    ],
+    "B": [
+      {
+        "name": "Morocco",
+        "code": "MAR",
+        "flag": "🇲🇦",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 2,
+        "GA": 0,
+        "GD": 2,
+        "Pts": 3
+      },
+      {
+        "name": "Belgium",
+        "code": "BEL",
+        "flag": "🇧🇪",
+        "P": 1,
+        "W": 0,
+        "D": 1,
+        "L": 0,
+        "GF": 1,
+        "GA": 1,
+        "GD": 0,
+        "Pts": 1
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "KSA",
+        "flag": "🇸🇦",
+        "P": 1,
+        "W": 0,
+        "D": 1,
+        "L": 0,
+        "GF": 1,
+        "GA": 1,
+        "GD": 0,
+        "Pts": 1
+      },
+      {
+        "name": "Canada",
+        "code": "CAN",
+        "flag": "🇨🇦",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 0,
+        "GA": 2,
+        "GD": -2,
+        "Pts": 0
+      }
+    ],
+    "C": [
+      {
+        "name": "USA",
+        "code": "USA",
+        "flag": "🇺🇸",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 2,
+        "GA": 1,
+        "GD": 1,
+        "Pts": 3
+      },
+      {
+        "name": "Senegal",
+        "code": "SEN",
+        "flag": "🇸🇳",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 1,
+        "GA": 0,
+        "GD": 1,
+        "Pts": 3
+      },
+      {
+        "name": "Wales",
+        "code": "WAL",
+        "flag": "🏴",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 1,
+        "GA": 2,
+        "GD": -1,
+        "Pts": 0
+      },
+      {
+        "name": "Iran",
+        "code": "IRN",
+        "flag": "🇮🇷",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 0,
+        "GA": 1,
+        "GD": -1,
+        "Pts": 0
+      }
+    ],
+    "D": [
+      {
+        "name": "Argentina",
+        "code": "ARG",
+        "flag": "🇦🇷",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 3,
+        "GA": 0,
+        "GD": 3,
+        "Pts": 3
+      },
+      {
+        "name": "Nigeria",
+        "code": "NGA",
+        "flag": "🇳🇬",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 2,
+        "GA": 1,
+        "GD": 1,
+        "Pts": 3
+      },
+      {
+        "name": "Poland",
+        "code": "POL",
+        "flag": "🇵🇱",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 1,
+        "GA": 2,
+        "GD": -1,
+        "Pts": 0
+      },
+      {
+        "name": "Australia",
+        "code": "AUS",
+        "flag": "🇦🇺",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 0,
+        "GA": 3,
+        "GD": -3,
+        "Pts": 0
+      }
+    ],
+    "E": [
+      {
+        "name": "Spain",
+        "code": "ESP",
+        "flag": "🇪🇸",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 4,
+        "GA": 0,
+        "GD": 4,
+        "Pts": 3
+      },
+      {
+        "name": "Japan",
+        "code": "JPN",
+        "flag": "🇯🇵",
+        "P": 1,
+        "W": 0,
+        "D": 1,
+        "L": 0,
+        "GF": 1,
+        "GA": 1,
+        "GD": 0,
+        "Pts": 1
+      },
+      {
+        "name": "Norway",
+        "code": "NOR",
+        "flag": "🇳🇴",
+        "P": 1,
+        "W": 0,
+        "D": 1,
+        "L": 0,
+        "GF": 1,
+        "GA": 1,
+        "GD": 0,
+        "Pts": 1
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CRC",
+        "flag": "🇨🇷",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 0,
+        "GA": 4,
+        "GD": -4,
+        "Pts": 0
+      }
+    ],
+    "F": [
+      {
+        "name": "Croatia",
+        "code": "CRO",
+        "flag": "🇭🇷",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 3,
+        "GA": 1,
+        "GD": 2,
+        "Pts": 3
+      },
+      {
+        "name": "England",
+        "code": "ENG",
+        "flag": "🏴",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 2,
+        "GA": 0,
+        "GD": 2,
+        "Pts": 3
+      },
+      {
+        "name": "Panama",
+        "code": "PAN",
+        "flag": "🇵🇦",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 1,
+        "GA": 3,
+        "GD": -2,
+        "Pts": 0
+      },
+      {
+        "name": "Egypt",
+        "code": "EGY",
+        "flag": "🇪🇬",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 0,
+        "GA": 2,
+        "GD": -2,
+        "Pts": 0
+      }
+    ],
+    "G": [
+      {
+        "name": "France",
+        "code": "FRA",
+        "flag": "🇫🇷",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 2,
+        "GA": 1,
+        "GD": 1,
+        "Pts": 3
+      },
+      {
+        "name": "Uruguay",
+        "code": "URU",
+        "flag": "🇺🇾",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 1,
+        "GA": 0,
+        "GD": 1,
+        "Pts": 3
+      },
+      {
+        "name": "Ghana",
+        "code": "GHA",
+        "flag": "🇬🇭",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 1,
+        "GA": 2,
+        "GD": -1,
+        "Pts": 0
+      },
+      {
+        "name": "Qatar",
+        "code": "QAT",
+        "flag": "🇶🇦",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 0,
+        "GA": 1,
+        "GD": -1,
+        "Pts": 0
+      }
+    ],
+    "H": [
+      {
+        "name": "Brazil",
+        "code": "BRA",
+        "flag": "🇧🇷",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 2,
+        "GA": 0,
+        "GD": 2,
+        "Pts": 3
+      },
+      {
+        "name": "Switzerland",
+        "code": "SUI",
+        "flag": "🇨🇭",
+        "P": 1,
+        "W": 0,
+        "D": 1,
+        "L": 0,
+        "GF": 1,
+        "GA": 1,
+        "GD": 0,
+        "Pts": 1
+      },
+      {
+        "name": "Ecuador",
+        "code": "ECU",
+        "flag": "🇪🇨",
+        "P": 1,
+        "W": 0,
+        "D": 1,
+        "L": 0,
+        "GF": 1,
+        "GA": 1,
+        "GD": 0,
+        "Pts": 1
+      },
+      {
+        "name": "Cameroon",
+        "code": "CMR",
+        "flag": "🇨🇲",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 0,
+        "GA": 2,
+        "GD": -2,
+        "Pts": 0
+      }
+    ],
+    "I": [
+      {
+        "name": "Ivory Coast",
+        "code": "CIV",
+        "flag": "🇨🇮",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 1,
+        "GA": 0,
+        "GD": 1,
+        "Pts": 3
+      },
+      {
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "🇵🇹",
+        "P": 1,
+        "W": 0,
+        "D": 1,
+        "L": 0,
+        "GF": 2,
+        "GA": 2,
+        "GD": 0,
+        "Pts": 1
+      },
+      {
+        "name": "Serbia",
+        "code": "SRB",
+        "flag": "🇷🇸",
+        "P": 1,
+        "W": 0,
+        "D": 1,
+        "L": 0,
+        "GF": 2,
+        "GA": 2,
+        "GD": 0,
+        "Pts": 1
+      },
+      {
+        "name": "New Zealand",
+        "code": "NZL",
+        "flag": "🇳🇿",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 0,
+        "GA": 1,
+        "GD": -1,
+        "Pts": 0
+      }
+    ],
+    "J": [
+      {
+        "name": "Germany",
+        "code": "GER",
+        "flag": "🇩🇪",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 2,
+        "GA": 1,
+        "GD": 1,
+        "Pts": 3
+      },
+      {
+        "name": "Algeria",
+        "code": "ALG",
+        "flag": "🇩🇿",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 1,
+        "GA": 0,
+        "GD": 1,
+        "Pts": 3
+      },
+      {
+        "name": "Colombia",
+        "code": "COL",
+        "flag": "🇨🇴",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 1,
+        "GA": 2,
+        "GD": -1,
+        "Pts": 0
+      },
+      {
+        "name": "Iraq",
+        "code": "IRQ",
+        "flag": "🇮🇶",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 0,
+        "GA": 1,
+        "GD": -1,
+        "Pts": 0
+      }
+    ],
+    "K": [
+      {
+        "name": "Netherlands",
+        "code": "NED",
+        "flag": "🇳🇱",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 3,
+        "GA": 1,
+        "GD": 2,
+        "Pts": 3
+      },
+      {
+        "name": "Denmark",
+        "code": "DEN",
+        "flag": "🇩🇰",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 2,
+        "GA": 0,
+        "GD": 2,
+        "Pts": 3
+      },
+      {
+        "name": "Jamaica",
+        "code": "JAM",
+        "flag": "🇯🇲",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 1,
+        "GA": 3,
+        "GD": -2,
+        "Pts": 0
+      },
+      {
+        "name": "Uzbekistan",
+        "code": "UZB",
+        "flag": "🇺🇿",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 0,
+        "GA": 2,
+        "GD": -2,
+        "Pts": 0
+      }
+    ],
+    "L": [
+      {
+        "name": "Turkey",
+        "code": "TUR",
+        "flag": "🇹🇷",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 3,
+        "GA": 1,
+        "GD": 2,
+        "Pts": 3
+      },
+      {
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "🇮🇹",
+        "P": 1,
+        "W": 1,
+        "D": 0,
+        "L": 0,
+        "GF": 1,
+        "GA": 0,
+        "GD": 1,
+        "Pts": 3
+      },
+      {
+        "name": "Paraguay",
+        "code": "PAR",
+        "flag": "🇵🇾",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 0,
+        "GA": 1,
+        "GD": -1,
+        "Pts": 0
+      },
+      {
+        "name": "DR Congo",
+        "code": "COD",
+        "flag": "🇨🇩",
+        "P": 1,
+        "W": 0,
+        "D": 0,
+        "L": 1,
+        "GF": 1,
+        "GA": 3,
+        "GD": -2,
+        "Pts": 0
+      }
+    ]
+  },
+  "fixtures": [
+    {
+      "slug": "mexico-vs-south-africa-md1",
+      "home": "Mexico",
+      "away": "South Africa",
+      "group": "A",
+      "matchday": 1,
+      "date": "2026-06-11",
+      "time": "19:00",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 0,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "south-korea-vs-czechia-md1",
+      "home": "South Korea",
+      "away": "Czechia",
+      "group": "A",
+      "matchday": 1,
+      "date": "2026-06-12",
+      "time": "16:00",
+      "venue": "Estadio Akron",
+      "city": "Guadalajara",
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 1,
+      "marquee": false,
+      "liveMinute": null
+    },
+    {
+      "slug": "belgium-vs-saudi-arabia-md1",
+      "home": "Belgium",
+      "away": "Saudi Arabia",
+      "group": "B",
+      "matchday": 1,
+      "date": "2026-06-12",
+      "time": "13:00",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 1,
+      "marquee": false,
+      "liveMinute": null
+    },
+    {
+      "slug": "canada-vs-morocco-md1",
+      "home": "Canada",
+      "away": "Morocco",
+      "group": "B",
+      "matchday": 1,
+      "date": "2026-06-12",
+      "time": "19:00",
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 2,
+      "marquee": false,
+      "liveMinute": null
+    },
+    {
+      "slug": "usa-vs-wales-md1",
+      "home": "USA",
+      "away": "Wales",
+      "group": "C",
+      "matchday": 1,
+      "date": "2026-06-11",
+      "time": "20:00",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 1,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "iran-vs-senegal-md1",
+      "home": "Iran",
+      "away": "Senegal",
+      "group": "C",
+      "matchday": 1,
+      "date": "2026-06-13",
+      "time": "16:00",
+      "venue": "Lumen Field",
+      "city": "Seattle",
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 1,
+      "marquee": false,
+      "liveMinute": null
+    },
+    {
+      "slug": "argentina-vs-australia-md1",
+      "home": "Argentina",
+      "away": "Australia",
+      "group": "D",
+      "matchday": 1,
+      "date": "2026-06-13",
+      "time": "21:00",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "status": "FINISHED",
+      "homeScore": 3,
+      "awayScore": 0,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "poland-vs-nigeria-md1",
+      "home": "Poland",
+      "away": "Nigeria",
+      "group": "D",
+      "matchday": 1,
+      "date": "2026-06-14",
+      "time": "16:00",
+      "venue": "Gillette Stadium",
+      "city": "Boston",
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 2,
+      "marquee": false,
+      "liveMinute": null
+    },
+    {
+      "slug": "spain-vs-costa-rica-md1",
+      "home": "Spain",
+      "away": "Costa Rica",
+      "group": "E",
+      "matchday": 1,
+      "date": "2026-06-14",
+      "time": "19:00",
+      "venue": "Hard Rock Stadium",
+      "city": "Miami",
+      "status": "FINISHED",
+      "homeScore": 4,
+      "awayScore": 0,
+      "marquee": false,
+      "liveMinute": null
+    },
+    {
+      "slug": "japan-vs-norway-md1",
+      "home": "Japan",
+      "away": "Norway",
+      "group": "E",
+      "matchday": 1,
+      "date": "2026-06-14",
+      "time": "13:00",
+      "venue": "Levi's Stadium",
+      "city": "San Francisco",
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 1,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "england-vs-egypt-md1",
+      "home": "England",
+      "away": "Egypt",
+      "group": "F",
+      "matchday": 1,
+      "date": "2026-06-13",
+      "time": "13:00",
+      "venue": "MetLife Stadium",
+      "city": "New Jersey",
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 0,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "croatia-vs-panama-md1",
+      "home": "Croatia",
+      "away": "Panama",
+      "group": "F",
+      "matchday": 1,
+      "date": "2026-06-13",
+      "time": "19:00",
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "status": "FINISHED",
+      "homeScore": 3,
+      "awayScore": 1,
+      "marquee": false,
+      "liveMinute": null
+    },
+    {
+      "slug": "france-vs-ghana-md1",
+      "home": "France",
+      "away": "Ghana",
+      "group": "G",
+      "matchday": 1,
+      "date": "2026-06-15",
+      "time": "21:00",
+      "venue": "NRG Stadium",
+      "city": "Houston",
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 1,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "uruguay-vs-qatar-md1",
+      "home": "Uruguay",
+      "away": "Qatar",
+      "group": "G",
+      "matchday": 1,
+      "date": "2026-06-15",
+      "time": "16:00",
+      "venue": "AT&T Stadium",
+      "city": "Dallas",
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 0,
+      "marquee": false,
+      "liveMinute": null
+    },
+    {
+      "slug": "brazil-vs-cameroon-md1",
+      "home": "Brazil",
+      "away": "Cameroon",
+      "group": "H",
+      "matchday": 1,
+      "date": "2026-06-15",
+      "time": "13:00",
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 0,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "switzerland-vs-ecuador-md1",
+      "home": "Switzerland",
+      "away": "Ecuador",
+      "group": "H",
+      "matchday": 1,
+      "date": "2026-06-16",
+      "time": "16:00",
+      "venue": "Lumen Field",
+      "city": "Seattle",
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 1,
+      "marquee": false,
+      "liveMinute": null
+    },
+    {
+      "slug": "portugal-vs-serbia-md1",
+      "home": "Portugal",
+      "away": "Serbia",
+      "group": "I",
+      "matchday": 1,
+      "date": "2026-06-16",
+      "time": "19:00",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 2,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "ivory-coast-vs-new-zealand-md1",
+      "home": "Ivory Coast",
+      "away": "New Zealand",
+      "group": "I",
+      "matchday": 1,
+      "date": "2026-06-16",
+      "time": "13:00",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 0,
+      "marquee": false,
+      "liveMinute": null
+    },
+    {
+      "slug": "germany-vs-colombia-md1",
+      "home": "Germany",
+      "away": "Colombia",
+      "group": "J",
+      "matchday": 1,
+      "date": "2026-06-16",
+      "time": "21:00",
+      "venue": "MetLife Stadium",
+      "city": "New Jersey",
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 1,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "algeria-vs-iraq-md1",
+      "home": "Algeria",
+      "away": "Iraq",
+      "group": "J",
+      "matchday": 1,
+      "date": "2026-06-17",
+      "time": "13:00",
+      "venue": "Gillette Stadium",
+      "city": "Boston",
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 0,
+      "marquee": false,
+      "liveMinute": null
+    },
+    {
+      "slug": "netherlands-vs-jamaica-md1",
+      "home": "Netherlands",
+      "away": "Jamaica",
+      "group": "K",
+      "matchday": 1,
+      "date": "2026-06-17",
+      "time": "16:00",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "status": "FINISHED",
+      "homeScore": 3,
+      "awayScore": 1,
+      "marquee": false,
+      "liveMinute": null
+    },
+    {
+      "slug": "denmark-vs-uzbekistan-md1",
+      "home": "Denmark",
+      "away": "Uzbekistan",
+      "group": "K",
+      "matchday": 1,
+      "date": "2026-06-17",
+      "time": "13:00",
+      "venue": "Hard Rock Stadium",
+      "city": "Miami",
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 0,
+      "marquee": false,
+      "liveMinute": null
+    },
+    {
+      "slug": "italy-vs-paraguay-md1",
+      "home": "Italy",
+      "away": "Paraguay",
+      "group": "L",
+      "matchday": 1,
+      "date": "2026-06-15",
+      "time": "19:00",
+      "venue": "Levi's Stadium",
+      "city": "San Francisco",
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 0,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "turkey-vs-dr-congo-md1",
+      "home": "Turkey",
+      "away": "DR Congo",
+      "group": "L",
+      "matchday": 1,
+      "date": "2026-06-16",
+      "time": "16:00",
+      "venue": "NRG Stadium",
+      "city": "Houston",
+      "status": "FINISHED",
+      "homeScore": 3,
+      "awayScore": 1,
+      "marquee": false,
+      "liveMinute": null
+    },
+    {
+      "slug": "usa-vs-iran-md2",
+      "home": "USA",
+      "away": "Iran",
+      "group": "C",
+      "matchday": 2,
+      "date": "2026-06-17",
+      "time": "20:00",
+      "venue": "Rose Bowl",
+      "city": "Los Angeles",
+      "status": "LIVE",
+      "homeScore": "1",
+      "awayScore": "1",
+      "marquee": true,
+      "liveMinute": 67
+    },
+    {
+      "slug": "england-vs-croatia-md2",
+      "home": "England",
+      "away": "Croatia",
+      "group": "F",
+      "matchday": 2,
+      "date": "2026-06-19",
+      "time": "16:00",
+      "venue": "MetLife Stadium",
+      "city": "New Jersey",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "argentina-vs-poland-md2",
+      "home": "Argentina",
+      "away": "Poland",
+      "group": "D",
+      "matchday": 2,
+      "date": "2026-06-19",
+      "time": "21:00",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "france-vs-uruguay-md2",
+      "home": "France",
+      "away": "Uruguay",
+      "group": "G",
+      "matchday": 2,
+      "date": "2026-06-20",
+      "time": "19:00",
+      "venue": "AT&T Stadium",
+      "city": "Dallas",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "brazil-vs-switzerland-md2",
+      "home": "Brazil",
+      "away": "Switzerland",
+      "group": "H",
+      "matchday": 2,
+      "date": "2026-06-20",
+      "time": "16:00",
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "spain-vs-japan-md2",
+      "home": "Spain",
+      "away": "Japan",
+      "group": "E",
+      "matchday": 2,
+      "date": "2026-06-20",
+      "time": "13:00",
+      "venue": "Hard Rock Stadium",
+      "city": "Miami",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "germany-vs-algeria-md2",
+      "home": "Germany",
+      "away": "Algeria",
+      "group": "J",
+      "matchday": 2,
+      "date": "2026-06-21",
+      "time": "16:00",
+      "venue": "MetLife Stadium",
+      "city": "New Jersey",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "portugal-vs-ivory-coast-md2",
+      "home": "Portugal",
+      "away": "Ivory Coast",
+      "group": "I",
+      "matchday": 2,
+      "date": "2026-06-21",
+      "time": "19:00",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "mexico-vs-south-korea-md2",
+      "home": "Mexico",
+      "away": "South Korea",
+      "group": "A",
+      "matchday": 2,
+      "date": "2026-06-18",
+      "time": "20:00",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "netherlands-vs-denmark-md2",
+      "home": "Netherlands",
+      "away": "Denmark",
+      "group": "K",
+      "matchday": 2,
+      "date": "2026-06-21",
+      "time": "13:00",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "marquee": false,
+      "liveMinute": null
+    },
+    {
+      "slug": "italy-vs-turkey-md2",
+      "home": "Italy",
+      "away": "Turkey",
+      "group": "L",
+      "matchday": 2,
+      "date": "2026-06-21",
+      "time": "21:00",
+      "venue": "Levi's Stadium",
+      "city": "San Francisco",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "marquee": true,
+      "liveMinute": null
+    }
+  ],
+  "rivalries": [
+    {
+      "slug": "england-croatia",
+      "title": "England vs Croatia — The 2018 Ghost",
+      "teams": [
+        "England",
+        "Croatia"
+      ],
+      "blurb": "Moscow, 2018. England led a World Cup semi-final and dared to dream — then Croatia broke their hearts in extra time. Eight years on, they meet again.",
+      "points": [
+        "2018 semi-final: Croatia won 2-1 after extra time",
+        "Modrić's last tournament vs Bellingham's first as a star",
+        "Group F's defining fixture"
+      ],
+      "img": "https://images.unsplash.com/photo-1556152352-8edad147cc21?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "heat": 9.4
+    },
+    {
+      "slug": "usa-iran",
+      "title": "USA vs Iran — More Than A Game",
+      "teams": [
+        "USA",
+        "Iran"
+      ],
+      "blurb": "From the politically-charged 1998 clash in Lyon to the tense 2022 decider, no fixture carries more weight off the pitch than this one.",
+      "points": [
+        "1998: Iran won 2-1 in an emotional Lyon night",
+        "2022: USA won 1-0 to advance",
+        "A rivalry that transcends sport"
+      ],
+      "img": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "heat": 8.7
+    },
+    {
+      "slug": "uruguay-ghana",
+      "title": "Uruguay vs Ghana — The Suárez Wound",
+      "teams": [
+        "Uruguay",
+        "Ghana"
+      ],
+      "blurb": "2010: Luis Suárez's handball on the line denied Ghana a place in history. 2022: Ghana's revenge mission backfired. The trilogy continues.",
+      "points": [
+        "2010 QF: Suárez handball, Gyan misses the penalty",
+        "2022: Uruguay won 2-0 but both went home",
+        "Africa's greatest near-miss"
+      ],
+      "img": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "heat": 8.9
+    },
+    {
+      "slug": "germany-algeria",
+      "title": "Germany vs Algeria — Old Scores",
+      "teams": [
+        "Germany",
+        "Algeria"
+      ],
+      "blurb": "From the 1982 'Disgrace of Gijón' to the 2014 extra-time epic, these two share one of the World Cup's most loaded histories.",
+      "points": [
+        "1982: Algeria beat West Germany, then the Gijón scandal",
+        "2014: Germany edged a classic 2-1 in extra time",
+        "Redemption on both sides"
+      ],
+      "img": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "heat": 7.8
+    }
+  ],
+  "moments": [
+    {
+      "year": 1986,
+      "title": "Maradona's Hand of God & Goal of the Century",
+      "team": "Argentina",
+      "text": "Within four minutes, Diego Maradona produced football's most infamous goal and its most beautiful — both against England."
+    },
+    {
+      "year": 1950,
+      "title": "The Maracanazo",
+      "team": "Uruguay",
+      "text": "Uruguay silenced 200,000 Brazilians at the Maracanã to win the World Cup in the greatest upset the sport has seen."
+    },
+    {
+      "year": 2022,
+      "title": "Argentina 3-3 France — The Greatest Final",
+      "team": "Argentina",
+      "text": "Messi vs Mbappé, a final-hat-trick, and penalties. Many call it the finest World Cup final ever played."
+    },
+    {
+      "year": 2014,
+      "title": "Germany 7-1 Brazil",
+      "team": "Germany",
+      "text": "On home soil, Brazil suffered the most shocking semi-final collapse in tournament history."
+    },
+    {
+      "year": 2002,
+      "title": "Senegal Shock France",
+      "team": "Senegal",
+      "text": "World Cup debutants Senegal beat the reigning champions in the opening match — a statement heard across a continent."
+    },
+    {
+      "year": 2018,
+      "title": "Croatia's Run to the Final",
+      "team": "Croatia",
+      "text": "A nation of four million played three straight knockout games to extra time and reached the final — pure defiance."
+    }
+  ],
+  "storiesMeta": [
+    {
+      "slug": "greatest-world-cup-upsets",
+      "title": "The Greatest World Cup Upsets of All Time",
+      "category": "History",
+      "excerpt": "From Saudi Arabia toppling Argentina to North Korea's 1966 miracle — when football's giants fell.",
+      "img": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 7
+    },
+    {
+      "slug": "the-last-dance-modric-ronaldo-messi",
+      "title": "The Last Dance: A Generation Says Goodbye",
+      "category": "Legacy",
+      "excerpt": "Modrić, Ronaldo and the legends playing their final World Cup. Savour them while you can.",
+      "img": "https://images.unsplash.com/photo-1627774250096-25d8c0ece8ba?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 6
+    },
+    {
+      "slug": "why-the-48-team-world-cup-changes-everything",
+      "title": "Why the 48-Team World Cup Changes Everything",
+      "category": "Explainer",
+      "excerpt": "More teams, more groups, more drama — and a brand-new path to the trophy. Here's what to know.",
+      "img": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 5
+    },
+    {
+      "slug": "hosts-united-usa-mexico-canada",
+      "title": "Three Nations, One Party: The Hosts' Story",
+      "category": "Hosts",
+      "excerpt": "For the first time, three countries host the World Cup together. The stakes for USA, Mexico and Canada could not be higher.",
+      "img": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 6
+    }
+  ],
+  "venues": [
+    {
+      "venue": "AT&T Stadium",
+      "city": "Dallas"
+    },
+    {
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City"
+    },
+    {
+      "venue": "BC Place",
+      "city": "Vancouver"
+    },
+    {
+      "venue": "BMO Field",
+      "city": "Toronto"
+    },
+    {
+      "venue": "Estadio Akron",
+      "city": "Guadalajara"
+    },
+    {
+      "venue": "Estadio Azteca",
+      "city": "Mexico City"
+    },
+    {
+      "venue": "Gillette Stadium",
+      "city": "Boston"
+    },
+    {
+      "venue": "Hard Rock Stadium",
+      "city": "Miami"
+    },
+    {
+      "venue": "Levi's Stadium",
+      "city": "San Francisco"
+    },
+    {
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia"
+    },
+    {
+      "venue": "Lumen Field",
+      "city": "Seattle"
+    },
+    {
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta"
+    },
+    {
+      "venue": "MetLife Stadium",
+      "city": "New Jersey"
+    },
+    {
+      "venue": "NRG Stadium",
+      "city": "Houston"
+    },
+    {
+      "venue": "Rose Bowl",
+      "city": "Los Angeles"
+    },
+    {
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import NewsletterForm from '../components/NewsletterForm.astro';
+---
+<BaseLayout title="About MatchTales — Our Mission" description="MatchTales exists to democratise football's stories — the context, the rivalries and the reasons every match matters.">
+  <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="max-w-2xl mx-auto">
+      <header class="mt-10">
+        <span class="text-[11px] font-sans font-medium text-pitch uppercase tracking-wide">Our mission</span>
+        <h1 class="mt-2 font-head text-3xl sm:text-4xl font-semibold tracking-tight leading-tight">Everyone deserves to know why the match matters.</h1>
+      </header>
+      <div class="mt-8 space-y-5 text-[18px] leading-8">
+        <p>Most football apps will tell you the score. They'll give you the lineups, the possession stats, the heat maps. What they won't tell you is the only thing that actually makes you care: <em>the story.</em></p>
+        <p>MatchTales is the story layer on top of the 2026 FIFA World Cup. We exist for the casual fan who wants to understand why everyone's shouting, for the newcomer who fell in love with the game last week, and for the die-hard who still gets goosebumps remembering a goal from 1986.</p>
+        <p>For every fixture, we answer one question: <strong>why should you care?</strong> The rivalries reignited. The legends taking their final bow. The nations who waited decades just to be here. The grudges that history refuses to forget. We give each match a Why-Care score, then we tell you the human story behind the number.</p>
+        <p>We believe football is the world's greatest ongoing drama — and that nobody should feel locked out of it. So we write like humans, for humans. No jargon walls, no gatekeeping. Just the stories that make 90 minutes feel like everything.</p>
+      </div>
+      <div class="mt-10 rounded-card border border-border/80 bg-surface2/60 p-6">
+        <h2 class="font-head text-lg font-semibold">A quick, honest note</h2>
+        <p class="mt-2 text-[15px] font-sans text-muted leading-7">MatchTales is an independent fan project. We are not affiliated with, endorsed by, or connected to FIFA or any official body. Team names, fixtures and tournament details are referenced for editorial and storytelling purposes. Our narratives are crafted to inform and delight — always with love for the game.</p>
+      </div>
+      <div class="mt-10 mb-10">
+        <h2 class="font-head text-xl font-semibold tracking-tight">Join the story</h2>
+        <p class="mt-1 text-muted font-sans mb-4">One email, every matchday, telling you exactly what to care about.</p>
+        <NewsletterForm />
+      </div>
+    </div>
+  </main>
+</BaseLayout>

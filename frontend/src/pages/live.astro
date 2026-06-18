@@ -1,0 +1,103 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import WhyCareMeter from '../components/WhyCareMeter.astro';
+import { getCollection } from 'astro:content';
+const entries = await getCollection('matches');
+const matches = entries.map((e) => e.data);
+const liveMatch = matches.find((m) => m.status === 'LIVE') || matches.find((m) => m.status === 'UPCOMING');
+const upcoming = matches.filter((m) => m.status === 'UPCOMING').sort((a,b)=>b.whyCareScore-a.whyCareScore).slice(0,5);
+---
+<BaseLayout title="Live Second-Screen — World Cup 2026 | MatchTales" description="Your World Cup companion: live hype meter, rolling commentary and fan polls. The perfect second screen.">
+  <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8 pb-10">
+    <header class="mt-8">
+      <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">Second Screen</h1>
+      <p class="mt-2 text-muted font-sans max-w-2xl">Watching the match? Keep this open. Live hype, rolling commentary and fan polls — the companion that makes every game better.</p>
+    </header>
+
+    <div class="mt-6 grid lg:grid-cols-3 gap-6" data-testid="live-screen" data-slug={liveMatch.slug}>
+      <!-- main live panel -->
+      <div class="lg:col-span-2 space-y-5">
+        <div class="rounded-card border border-border/80 bg-surface shadow-card overflow-hidden">
+          <div class="flex items-center justify-between px-5 py-3 border-b border-border/70 bg-surface2">
+            <span class="inline-flex items-center gap-2 text-sm font-sans font-semibold">{liveMatch.status === 'LIVE' ? <span class="inline-flex items-center gap-1.5 text-coral"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>LIVE</span> : <span class="text-muted">Next up</span>}</span>
+            <span class="text-[12px] font-sans text-muted">Group {liveMatch.group} · {liveMatch.venue}</span>
+          </div>
+          <div class="p-6">
+            <div class="flex items-center justify-between gap-4">
+              <div class="text-center flex-1"><div class="text-5xl">{liveMatch.homeFlag}</div><div class="mt-2 font-head font-semibold">{liveMatch.home}</div></div>
+              <div class="text-center"><div id="live-score" class="font-head font-bold text-4xl tabular-nums">{liveMatch.homeScore ?? 0}–{liveMatch.awayScore ?? 0}</div><div id="live-clock" class="mt-1 text-[12px] font-mono text-coral">{liveMatch.liveMinute ? liveMatch.liveMinute + "'" : 'KO soon'}</div></div>
+              <div class="text-center flex-1"><div class="text-5xl">{liveMatch.awayFlag}</div><div class="mt-2 font-head font-semibold">{liveMatch.away}</div></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- hype meter -->
+        <div class="rounded-card border border-border/80 bg-surface shadow-card p-5">
+          <div class="flex items-center justify-between"><h2 class="font-head font-semibold">Hype meter</h2><span id="hype-num" data-testid="live-hype-meter" class="font-head font-bold text-2xl text-pitch tabular-nums">{liveMatch.whyCareScore.toFixed(1)}</span></div>
+          <div class="mt-2 h-3 w-full rounded-full bg-border/60 overflow-hidden"><div id="hype-bar" class="h-full rounded-full bg-pitch transition-[width] duration-700" style={`width:${(liveMatch.whyCareScore/10)*100}%`}></div></div>
+          <p class="mt-2 text-sm text-muted font-sans">{liveMatch.whyCareReason}</p>
+        </div>
+
+        <!-- commentary -->
+        <div class="rounded-card border border-border/80 bg-surface shadow-card p-5">
+          <h2 class="font-head font-semibold mb-3">Live commentary</h2>
+          <ul id="commentary" data-testid="live-commentary-feed" class="space-y-3 font-sans text-sm"></ul>
+        </div>
+      </div>
+
+      <!-- side: poll + queue -->
+      <aside class="space-y-5">
+        <div class="rounded-card border border-border/80 bg-surface shadow-card p-5" data-testid="live-poll">
+          <h2 class="font-head font-semibold">Who wins?</h2>
+          <p class="text-sm text-muted font-sans mt-0.5 mb-3">{liveMatch.home} vs {liveMatch.away}</p>
+          <div class="space-y-2">
+            <button class="poll-opt w-full" data-opt="home"><span class="poll-label">{liveMatch.homeFlag} {liveMatch.home}</span></button>
+            <button class="poll-opt w-full" data-opt="draw"><span class="poll-label">Draw</span></button>
+            <button class="poll-opt w-full" data-opt="away"><span class="poll-label">{liveMatch.awayFlag} {liveMatch.away}</span></button>
+          </div>
+          <p id="poll-msg" class="mt-3 text-[12px] text-muted font-sans">Tap to vote · results update live</p>
+        </div>
+        <div class="rounded-card border border-border/80 bg-surface shadow-card p-5">
+          <h2 class="font-head font-semibold mb-3">Coming up</h2>
+          <ul class="space-y-3">{upcoming.map((m) => (<li><a href={`/match/${m.slug}`} class="flex items-center justify-between gap-2 group"><span class="font-sans text-sm group-hover:text-pitch">{m.homeFlag} {m.home} v {m.away} {m.awayFlag}</span><span class="text-[11px] text-muted font-sans">{m.whyCareScore.toFixed(1)}</span></a></li>))}</ul>
+        </div>
+      </aside>
+    </div>
+  </main>
+  <style>
+    .poll-opt{display:flex;align-items:center;justify-content:space-between;position:relative;overflow:hidden;border:1px solid hsl(var(--border));border-radius:12px;padding:0.6rem 0.9rem;font-family:'Space Grotesk',sans-serif;font-size:0.9rem;transition:background-color .15s, border-color .15s;background:hsl(var(--bg))}
+    .poll-opt:hover{border-color:hsl(var(--pitch))}
+    .poll-fill{position:absolute;inset:0;background:hsl(var(--pitch)/0.14);width:0;transition:width .6s cubic-bezier(.2,.8,.2,1)}
+    .poll-pct{position:relative;font-variant-numeric:tabular-nums;color:hsl(var(--muted));font-size:0.8rem}
+    .poll-label{position:relative}
+  </style>
+  <script>
+    function bindLiveScreen(){
+      const root=document.querySelector('[data-testid="live-screen"]'); if(!root||root.dataset.bound)return; root.dataset.bound='1';
+      const BACKEND=(import.meta.env.PUBLIC_BACKEND_URL)||''; const slug=root.dataset.slug;
+      // Simulated commentary
+      const events=[
+        {m:"1'",t:'Kick-off! The atmosphere is electric and the noise is deafening.'},
+        {m:"12'",t:'Early chance — a whipped cross flashes across the six-yard box. Inches away.'},
+        {m:"23'",t:'Booking. A late challenge in midfield earns the first yellow of the night.'},
+        {m:"34'",t:'GOAL! What a strike from distance — the keeper had no chance. The stadium erupts!'},
+        {m:"41'",t:'Tactical tweak as the visitors push another body forward in search of a reply.'},
+        {m:"45'",t:'Half-time. End-to-end stuff and we could do this all night.'},
+        {m:"58'",t:'EQUALISER! Against the run of play, it is all square again. Breathless.'},
+        {m:"67'",t:'Double substitution — fresh legs and fresh intent from the bench.'},
+        {m:"78'",t:'So close! A goal-line clearance keeps it level. Drama at both ends.'},
+      ];
+      const feed=document.getElementById('commentary'); let i=0;
+      function push(){ if(i>=events.length){return;} const e=events[i++]; const li=document.createElement('li'); li.className='flex gap-3 fade-up'; li.innerHTML=`<span class="shrink-0 font-mono text-[11px] text-coral pt-0.5">${e.m}</span><span>${e.t}</span>`; feed.prepend(li); const bar=document.getElementById('hype-bar'); const num=document.getElementById('hype-num'); let v=Math.min(9.9, parseFloat(num.textContent)+0.1+Math.random()*0.2); num.textContent=v.toFixed(1); bar.style.width=(v/10*100)+'%'; }
+      push(); const iv=setInterval(()=>{ if(i>=events.length){clearInterval(iv);return;} push(); }, 4000);
+      // Poll
+      const opts=root.querySelectorAll('.poll-opt'); const msg=document.getElementById('poll-msg');
+      function render(votes){ const total=(votes.home||0)+(votes.draw||0)+(votes.away||0); opts.forEach((o)=>{ const k=o.dataset.opt; const n=votes[k]||0; const pct=total?Math.round(n/total*100):0; let fill=o.querySelector('.poll-fill'); if(!fill){fill=document.createElement('span'); fill.className='poll-fill'; o.prepend(fill);} fill.style.width=pct+'%'; let pc=o.querySelector('.poll-pct'); if(!pc){pc=document.createElement('span'); pc.className='poll-pct'; o.appendChild(pc);} pc.textContent=pct+'%'; }); msg.textContent=`${total} vote${total===1?'':'s'} so far`; }
+      async function loadPoll(){ try{ const r=await fetch(`${BACKEND}/api/poll/${slug}`); const d=await r.json(); render(d.votes||{}); }catch(e){} }
+      opts.forEach((o)=>o.addEventListener('click', async ()=>{ try{ const r=await fetch(`${BACKEND}/api/poll/vote`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({matchSlug:slug,option:o.dataset.opt})}); const d=await r.json(); render(d.votes||{}); opts.forEach((x)=>x.style.opacity='0.7'); o.style.opacity='1'; }catch(e){msg.textContent='Could not register vote.';} }));
+      loadPoll();
+    }
+    bindLiveScreen();
+    document.addEventListener('astro:after-swap', bindLiveScreen);
+  </script>
+</BaseLayout>

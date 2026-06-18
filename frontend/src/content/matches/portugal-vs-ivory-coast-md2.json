@@ -1,0 +1,62 @@
+{
+  "headline": "Ronaldo's Last Dance Meets Africa's Roaring Elephants",
+  "whyCareScore": 8.7,
+  "whyCareReason": "A living legend chasing World Cup glory one final time collides with a resurgent African powerhouse that genuinely believes this is their moment — on a sun-soaked Sunday in Los Angeles, the stakes are beautiful.",
+  "teaser": "Cristiano Ronaldo, almost certainly playing in his final World Cup, faces an Ivory Coast side that has already survived the impossible once before. This is the kind of game that makes football fans out of people who claim they don't watch football.",
+  "story": "There's a particular kind of weight that follows Cristiano Ronaldo into every Portugal shirt now. He turned 41 in February. He has scored in five consecutive World Cups. He has won everything club football can offer. And yet the one trophy that has always stayed just out of reach — that golden trophy under the summer sky — remains the ghost at the feast. Matchday 2 in Group I, SoFi Stadium, June 21st. This is exactly the kind of afternoon a career like his deserves as a backdrop.\n\nIvory Coast arrive having written one of football's more stirring recent chapters. AFCON champions, a dressing room that fought through genuinely dark moments to rediscover their roar, and a generation of players who grew up watching their predecessors come agonisingly close on the world stage. Simon Adingra is electric. Sébastien Haller's story alone — returning from a testicular cancer diagnosis to lead the line at a World Cup — would carry a whole film.\n\nPortugal have Bruno Fernandes pulling strings and Rafael Leão capable of turning a full-back inside-out on any given evening. But football has a way of humbling the favourites in June heat. Group I is wide open, and whoever blinks first here could find themselves scrambling before matchday 3 even arrives.",
+  "stakes": "Both sides know a defeat here makes progression genuinely nervous work — a loss leaves little margin for error against the other teams in Group I. Win, and you're likely strolling into the knockouts; lose, and you're suddenly doing mental arithmetic about goal differences at midnight.",
+  "rivalryAngle": "These nations don't meet often enough to have built scar tissue between them, but the storyline writes itself anyway: Europe's great individual genius versus a collective African spirit that refuses to be diminished. Portugal and Ivory Coast have crossed paths in World Cup group stages before, and it never ends quietly.",
+  "funFacts": [
+    "Cristiano Ronaldo has scored in every World Cup he has appeared in — 2006, 2010, 2014, 2018 and 2022 — a record no other player in history has matched.",
+    "Sébastien Haller was diagnosed with a testicular tumour in July 2022, missed Ivory Coast's entire AFCON 2023 campaign, and still came back to captain his club to the Champions League.",
+    "SoFi Stadium in Inglewood seats over 70,000 and was built to host spectacle — it cost roughly $5.5 billion to construct, making it the most expensive stadium ever built at the time of its opening."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "hook": "At 41, every touch in a Portugal shirt now feels like a page being turned — he will want to write something worth remembering in LA."
+    },
+    {
+      "name": "Sébastien Haller",
+      "team": "Ivory Coast",
+      "hook": "A man who beat cancer to play at a World Cup; if he scores here, there won't be a dry eye in SoFi Stadium."
+    },
+    {
+      "name": "Rafael Leão",
+      "team": "Portugal",
+      "hook": "The AC Milan winger is the closest thing Portugal have to an unstoppable force on a good day — and Ivory Coast's right side will know it."
+    },
+    {
+      "name": "Simon Adingra",
+      "team": "Ivory Coast",
+      "hook": "Brighton's livewire winger was central to Ivory Coast's AFCON triumph and has the pace and directness to terrify any defence in this tournament."
+    }
+  ],
+  "headToHead": "Portugal and Ivory Coast met at the 2010 World Cup in South Africa, playing out a tight 0-0 draw that sent both sets of fans home slightly frustrated and slightly relieved. Meetings between these two are rarer than you'd expect given the quality both nations routinely produce.",
+  "tags": [
+    "world cup 2026",
+    "portugal",
+    "ivory coast",
+    "group i",
+    "ronaldo"
+  ],
+  "slug": "portugal-vs-ivory-coast-md2",
+  "home": "Portugal",
+  "away": "Ivory Coast",
+  "homeCode": "POR",
+  "awayCode": "CIV",
+  "homeFlag": "🇵🇹",
+  "awayFlag": "🇨🇮",
+  "group": "I",
+  "matchday": 2,
+  "date": "2026-06-21",
+  "time": "19:00",
+  "venue": "SoFi Stadium",
+  "city": "Los Angeles",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null
+}

@@ -1,0 +1,57 @@
+{
+  "headline": "Azteca Roars Again — El Tri Can't Afford to Blink",
+  "whyCareScore": 8.7,
+  "whyCareReason": "A co-host nation desperate to prove they belong, facing a South Korean side carrying the last great chapter of Son Heung-min's international story, inside the most atmospheric stadium on earth — this is must-watch football with genuine heartbreak potential on both sides.",
+  "teaser": "Mexico are playing a World Cup they helped build, in a stadium that holds 87,000 screaming souls, and they cannot afford to lose. South Korea are arriving with one of football's greatest ever players in what feels like his final real shot at glory.",
+  "story": "There is something almost mythological about the Estadio Azteca. Two World Cup finals. The Hand of God. The Goal of the Century. When Mexico run out onto that pitch on June 18th, they won't just be carrying a football shirt — they'll be carrying seventy years of collective memory, the weight of a nation that co-hosted this tournament and needs, desperately, to show the world it was worth it.\n\nSouth Korea arrive with that particular brand of danger that comes from having absolutely nothing to lose and everything to dream about. Their 2002 semi-final run — on home soil, against all odds — permanently rewired what Korean football believes is possible. This squad has grown up on that mythology, and Son Heung-min, now in the twilight of a genuinely brilliant career, knows this may be his last real dance on the biggest stage.\n\nThe Azteca crowd will be deafening from the first whistle. Mexico need the points. Korea need the upset. Both sides need a moment to call their own. That combination — desperation meeting ambition, inside the grandest cathedral the game has — is exactly how legends get made.",
+  "stakes": "A win for Mexico in Matchday 2 would put them in firm control of Group A and all but guarantee a round-of-16 berth on home soil, releasing enormous pressure from a host nation fanbase that expects nothing less. For South Korea, a victory would be one of the tournament's great early shocks and thrust them right into contention; a defeat, however, could leave them needing a miracle on Matchday 3.",
+  "rivalryAngle": "These two sides don't share the kind of bitter, decades-long rivalry that needs no introduction — but they share something more interesting: parallel footballing identities built on atmosphere, collective will, and the ability to punch above their weight at World Cups. When they met at the 2018 tournament, Korea produced one of the great upsets of that edition, beating Germany and sending Mexico fans into the streets of celebration. Now the roles are reversed and Mexico are the ones who need results to go their way.",
+  "funFacts": [
+    "The Estadio Azteca is the only stadium to have hosted two FIFA World Cup finals — 1970 and 1986 — and will make history again as part of the 2026 edition.",
+    "Son Heung-min became the first Asian player to win the Premier League Golden Boot in 2021-22, sharing it with Mohamed Salah — he arrives in Mexico City as one of the most decorated forwards of his generation.",
+    "Santiago Giménez scored 34 goals in the Eredivisie for Feyenoord in a single season before his move to a top European club, making him one of the most lethal centre-forwards Mexico has ever produced."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Santiago Giménez",
+      "team": "Mexico",
+      "hook": "The Azteca faithful will be chanting his name before kick-off — he is Mexico's most clinical striker in a generation and a goal here could define the entire tournament for El Tri."
+    },
+    {
+      "name": "Son Heung-min",
+      "team": "South Korea",
+      "hook": "Thirty-four years old and fully aware the clock is ticking, Son carries the dreams of an entire footballing nation and the quiet knowledge that moments like this don't come around twice."
+    },
+    {
+      "name": "Kim Min-jae",
+      "team": "South Korea",
+      "hook": "The colossus at the back who will need to be at his absolute best to contain Mexico's attack on a night when the noise alone could make your legs go."
+    }
+  ],
+  "headToHead": "Mexico and South Korea have met a handful of times in World Cup history, with the 2018 group stage fresh in the memory — Korea's shock win over Germany that day sent Mexican fans dancing in the streets since it helped El Tri advance. The psychological debt runs in interesting directions heading into June 18th.",
+  "tags": [
+    "group a",
+    "mexico",
+    "south korea",
+    "azteca",
+    "world cup 2026"
+  ],
+  "slug": "mexico-vs-south-korea-md2",
+  "home": "Mexico",
+  "away": "South Korea",
+  "homeCode": "MEX",
+  "awayCode": "KOR",
+  "homeFlag": "🇲🇽",
+  "awayFlag": "🇰🇷",
+  "group": "A",
+  "matchday": 2,
+  "date": "2026-06-18",
+  "time": "20:00",
+  "venue": "Estadio Azteca",
+  "city": "Mexico City",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null
+}

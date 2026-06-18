@@ -1,0 +1,54 @@
+---
+import WhyCareMeter from './WhyCareMeter.astro';
+import { fmtDate } from '../lib/site';
+export interface Props { m: any; }
+const { m } = Astro.props;
+const isLive = m.status === 'LIVE';
+const played = m.status === 'FINISHED' || isLive;
+---
+<section class="relative overflow-hidden rounded-card border border-border/70 bg-surface shadow-card grain">
+  <div class="absolute inset-0 pointer-events-none" style="background: var(--hero-bg)"></div>
+  <div class="relative p-6 sm:p-10">
+    <div class="flex items-center gap-2 text-[11px] font-sans font-medium text-muted">
+      <span class="rounded-full bg-surface2 px-2.5 py-1">Featured Match</span>
+      <span class="rounded-full bg-surface2 px-2.5 py-1">Group {m.group} · MD{m.matchday}</span>
+      {isLive && <span class="inline-flex items-center gap-1.5 rounded-full bg-coral px-2.5 py-1 text-white font-semibold"><span class="w-1.5 h-1.5 rounded-full bg-white pulse-glow"></span>LIVE</span>}
+    </div>
+
+    <div class="mt-5 grid lg:grid-cols-5 gap-6 items-center">
+      <div class="lg:col-span-3">
+        <h1 class="font-head text-3xl sm:text-4xl lg:text-5xl font-semibold tracking-tight leading-[1.05]">{m.headline}</h1>
+        <p class="mt-4 text-base sm:text-lg text-muted font-sans max-w-xl">{m.teaser}</p>
+        <div class="mt-6 flex flex-wrap items-center gap-3">
+          <a href={`/match/${m.slug}`} class="inline-flex items-center gap-2 h-11 rounded-btn bg-pitch px-5 font-sans font-medium text-white hover:bg-pitch2 transition-colors" data-testid="hero-read-cta">Read the story <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+          <a href="/fixtures" class="inline-flex items-center h-11 rounded-btn border border-border px-5 font-sans font-medium hover:bg-surface2 transition-colors">All fixtures</a>
+        </div>
+      </div>
+      <div class="lg:col-span-2">
+        <div class="rounded-card border border-border bg-bg/60 backdrop-blur p-5">
+          <div class="flex items-center justify-between gap-4">
+            <div class="text-center flex-1">
+              <div class="text-4xl">{m.homeFlag}</div>
+              <div class="mt-1 font-head font-semibold text-sm">{m.home}</div>
+            </div>
+            {played ? (
+              <div class="font-head font-bold text-3xl tabular-nums">{m.homeScore}–{m.awayScore}</div>
+            ) : (
+              <div class="text-center"><div class="font-head font-semibold text-muted">{m.time}</div><div class="text-[11px] text-muted font-sans">{fmtDate(m.date)}</div></div>
+            )}
+            <div class="text-center flex-1">
+              <div class="text-4xl">{m.awayFlag}</div>
+              <div class="mt-1 font-head font-semibold text-sm">{m.away}</div>
+            </div>
+          </div>
+          <div class="mt-5 pt-4 border-t border-border/70">
+            <div class="flex items-center justify-between mb-1"><span class="text-[11px] uppercase tracking-wide text-muted font-sans">Why Care</span></div>
+            <WhyCareMeter score={m.whyCareScore} size="lg" />
+            <p class="mt-2 text-[13px] text-muted font-sans leading-snug">{m.whyCareReason}</p>
+          </div>
+          <div class="mt-3 text-[12px] text-muted font-sans flex items-center gap-1.5"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-5.7-7-11a7 7 0 0 1 14 0c0 5.3-7 11-7 11Z"/><circle cx="12" cy="10" r="2.5"/></svg>{m.venue}, {m.city}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

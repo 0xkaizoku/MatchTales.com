@@ -1,0 +1,31 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { data } from '../lib/site';
+const groups = Object.keys(data.groups).sort();
+---
+<BaseLayout title="Groups & Standings — World Cup 2026 | MatchTales" description="All 12 groups of the 2026 World Cup with live-style standings and the storylines shaping qualification.">
+  <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
+    <header class="mt-8">
+      <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">Groups & Standings</h1>
+      <p class="mt-2 text-muted font-sans max-w-2xl">Twelve groups, 48 teams, one brutal race for the knockouts. Here's where everyone stands a week in.</p>
+    </header>
+    <div class="mt-6 grid sm:grid-cols-2 lg:grid-cols-3 gap-5 pb-10">
+      {groups.map((g) => (
+        <a href={`/group/${g.toLowerCase()}`} class="group rounded-card border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow overflow-hidden">
+          <div class="flex items-center justify-between px-4 py-3 border-b border-border/70"><h2 class="font-head font-semibold group-hover:text-pitch transition-colors">Group {g}</h2><span class="text-[11px] text-muted font-sans">View →</span></div>
+          <table class="w-full text-sm font-sans">
+            <tbody>
+              {data.groups[g].map((r: any, i: number) => (
+                <tr class="border-b border-border/60 last:border-0">
+                  <td class="py-2 pl-4 flex items-center gap-2"><span class={`inline-block w-1 h-4 rounded-full ${i<2?'bg-pitch':i===2?'bg-warning':'bg-transparent'}`}></span><span>{r.flag}</span><span class="font-medium truncate">{r.name}</span></td>
+                  <td class="text-center px-2 tabular-nums text-muted">{r.P}</td>
+                  <td class="text-center px-2 pr-4 font-semibold tabular-nums">{r.Pts}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </a>
+      ))}
+    </div>
+  </main>
+</BaseLayout>

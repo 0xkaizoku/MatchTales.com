@@ -1,0 +1,121 @@
+---
+import { SITE } from '../lib/site';
+const path = Astro.url.pathname;
+const links = [
+  { href: '/fixtures', label: 'Fixtures', id: 'fixtures' },
+  { href: '/groups', label: 'Groups', id: 'groups' },
+  { href: '/teams', label: 'Teams', id: 'teams' },
+  { href: '/stories', label: 'Stories', id: 'stories' },
+  { href: '/live', label: 'Live', id: 'live' },
+];
+const isActive = (href: string) => path === href || path.startsWith(href + '/');
+---
+<header class="sticky top-0 z-50 border-b border-border/70 backdrop-blur supports-[backdrop-filter]:bg-bg/75 bg-bg/95">
+  <div class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex h-16 items-center justify-between gap-4">
+      <a href="/" class="flex items-center gap-2 shrink-0" data-testid="nav-home-link" aria-label="MatchTales home">
+        <span class="grid place-items-center w-8 h-8 rounded-btn bg-pitch text-white font-head font-bold">M</span>
+        <span class="font-head text-lg font-semibold tracking-tight">MatchTales</span>
+      </a>
+
+      <nav class="hidden md:flex items-center gap-1" aria-label="Primary">
+        {links.map((l) => (
+          <a
+            href={l.href}
+            data-testid={`nav-${l.id}-link`}
+            class={`px-3 py-2 rounded-btn text-sm font-sans font-medium transition-colors duration-150 ${isActive(l.href) ? 'text-pitch bg-surface2' : 'text-muted hover:text-fg hover:bg-surface2'}`}
+          >
+            {l.label}
+          </a>
+        ))}
+      </nav>
+
+      <div class="flex items-center gap-2">
+        <button
+          id="search-open"
+          data-testid="site-search-open"
+          aria-label="Open search"
+          class="grid place-items-center w-9 h-9 rounded-btn border border-border text-muted hover:text-fg hover:bg-surface2 transition-colors"
+        >
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"></circle><path d="m21 21-4.3-4.3"></path></svg>
+        </button>
+        <button
+          id="theme-toggle"
+          data-testid="theme-toggle"
+          aria-label="Toggle dark mode"
+          class="grid place-items-center w-9 h-9 rounded-btn border border-border text-muted hover:text-fg hover:bg-surface2 transition-colors"
+        >
+          <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M6.3 17.7l-1.4 1.4M19.1 4.9l-1.4 1.4"></path></svg>
+          <svg class="icon-moon hidden" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"></path></svg>
+        </button>
+        <a href="/#newsletter" class="hidden sm:inline-flex h-9 items-center rounded-btn bg-pitch px-3.5 text-sm font-sans font-medium text-white hover:bg-pitch2 transition-colors" data-testid="nav-newsletter-cta">Subscribe</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Search overlay -->
+  <div id="search-overlay" class="fixed inset-0 z-[60] hidden" role="dialog" aria-modal="true" aria-label="Search">
+    <div id="search-backdrop" class="absolute inset-0 bg-black/50 backdrop-blur-sm"></div>
+    <div class="relative max-w-xl mx-auto mt-24 px-4">
+      <div class="rounded-card border border-border bg-surface shadow-card overflow-hidden">
+        <div class="flex items-center gap-2 px-4 border-b border-border">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-muted"><circle cx="11" cy="11" r="7"></circle><path d="m21 21-4.3-4.3"></path></svg>
+          <input id="site-search-input" data-testid="site-search-input" type="text" autocomplete="off" placeholder="Search teams, matches, stories…" class="flex-1 h-12 bg-transparent outline-none font-sans text-base" />
+          <kbd class="text-xs text-muted font-mono">esc</kbd>
+        </div>
+        <ul id="search-results" class="max-h-80 overflow-y-auto py-2 font-sans text-sm"></ul>
+      </div>
+    </div>
+  </div>
+</header>
+
+<script>
+  const html = document.documentElement;
+  function syncIcons() {
+    const dark = html.getAttribute('data-theme') === 'dark';
+    document.querySelectorAll('.icon-sun').forEach((e) => e.classList.toggle('hidden', dark));
+    document.querySelectorAll('.icon-moon').forEach((e) => e.classList.toggle('hidden', !dark));
+  }
+  function bind() {
+    syncIcons();
+    const toggle = document.getElementById('theme-toggle');
+    if (toggle && !toggle.dataset.bound) {
+      toggle.dataset.bound = '1';
+      toggle.addEventListener('click', () => {
+        const dark = html.getAttribute('data-theme') === 'dark';
+        const next = dark ? 'light' : 'dark';
+        html.setAttribute('data-theme', next);
+        try { localStorage.setItem('mt-theme', next); } catch (e) {}
+        syncIcons();
+      });
+    }
+    // Search
+    const overlay = document.getElementById('search-overlay');
+    const input = document.getElementById('site-search-input');
+    const results = document.getElementById('search-results');
+    const open = () => { overlay.classList.remove('hidden'); setTimeout(() => input.focus(), 30); };
+    const close = () => { overlay.classList.add('hidden'); input.value=''; results.innerHTML=''; };
+    const ob = document.getElementById('search-open');
+    if (ob && !ob.dataset.bound) { ob.dataset.bound='1'; ob.addEventListener('click', open); }
+    document.getElementById('search-backdrop')?.addEventListener('click', close);
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') close();
+      if ((e.metaKey||e.ctrlKey) && e.key.toLowerCase()==='k') { e.preventDefault(); open(); }
+    });
+    let index = null;
+    async function ensureIndex() {
+      if (index) return index;
+      try { const r = await fetch('/search-index.json'); index = await r.json(); } catch(e){ index=[]; }
+      return index;
+    }
+    input?.addEventListener('input', async () => {
+      const q = input.value.trim().toLowerCase();
+      const idx = await ensureIndex();
+      if (!q) { results.innerHTML=''; return; }
+      const hits = idx.filter((i) => i.t.toLowerCase().includes(q) || (i.s||'').toLowerCase().includes(q)).slice(0, 8);
+      results.innerHTML = hits.length ? hits.map((h) => `<li><a href="${h.u}" class="flex items-center gap-3 px-4 py-2.5 hover:bg-surface2"><span class="text-base">${h.e||''}</span><span class="flex-1"><span class="block font-medium">${h.t}</span><span class="block text-xs text-muted">${h.k}</span></span></a></li>`).join('') : `<li class="px-4 py-3 text-muted">No results for “${q}”</li>`;
+    });
+  }
+  bind();
+  document.addEventListener('astro:after-swap', bind);
+</script>

@@ -1,0 +1,62 @@
+{
+  "headline": "Two Worlds Collide Under the New Jersey Sky",
+  "whyCareScore": 8.4,
+  "whyCareReason": "A rebuilt Germany bristling with the most thrilling young playmakers in world football meets an Algeria side with the audacity and the talent to humiliate anyone — and Group J could turn on every single minute of this.",
+  "teaser": "Germany are back, dangerous, and desperate to prove they belong at the top table again. Algeria have beaten bigger names and will not be coming to MetLife to make up the numbers.",
+  "story": "There is something almost poetic about Germany turning up at a World Cup with the weight of expectation stripped away and replaced with something far more exciting — genuine, heart-in-mouth promise. The 2022 group-stage exit in Qatar still stings. The 2018 catastrophe in Russia before it still stings more. But Julian Nagelsmann has built something that feels different, threading the whole thing through the genius of Jamal Musiala and Florian Wirtz, two twenty-something magicians who make German football feel young and reckless and brilliant again.\n\nAlgeria, meanwhile, carry their own kind of pride into New Jersey. Les Fennecs have never been passengers at a major tournament — they reached the round of sixteen in Brazil 2014 and pushed Germany to extra time that day before going out with their heads high. That match lives long in the memory on both sides. A new generation of Algerian talent, led by the silky Riyad Mahrez and the tenacious Ismaël Bennacer, has the technical quality to suffocate better-fancied teams and the self-belief to do it on the biggest stage.\n\nMatchday two means both sides already know their footing in the group. Momentum, goal difference, confidence — all of it is still being written. These are the matches where World Cup narratives are forged, and MetLife Stadium, that vast cathedral of noise in the New Jersey swamplands, is exactly the right theatre for it.",
+  "stakes": "A win for Germany would put them in a commanding position to progress from Group J and potentially top the group heading into the knockout rounds. Algeria need points to keep their last-sixteen dreams alive, and a defeat here would put enormous pressure on their final group game. This is, quietly, a must-not-lose for both sides.",
+  "rivalryAngle": "These two met in the second round of the 2014 World Cup in Porto Alegre, and Algeria made Germany suffer for 90 minutes before Götze and Schürrle broke them in extra time. That match quietly became a landmark moment for Algerian football — proof they could compete with the very best. There is a generation of Algerian players who grew up watching that game and dreaming of going one step further.",
+  "funFacts": [
+    "Algeria's 2014 World Cup squad included a 26-year-old Riyad Mahrez, now arriving at this tournament as the elder statesman and captain of a fresh generation.",
+    "Jamal Musiala was born in Stuttgart but grew up partly in England — he chose Germany over the Three Lions in 2021, and Die Mannschaft have been better for it every single day since.",
+    "MetLife Stadium in New Jersey holds over 82,000 people and sits on the same site that hosted Super Bowls — the noise levels when 80,000 fans are split between two passionate footballing nations can be genuinely disorienting for players."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Jamal Musiala",
+      "team": "Germany",
+      "hook": "The man the entire German system is built to liberate — if he finds space in behind Algeria's midfield, this could be a very long night for Les Fennecs."
+    },
+    {
+      "name": "Florian Wirtz",
+      "team": "Germany",
+      "hook": "Playing alongside Musiala rather than instead of him, Wirtz gives Germany a second key that fits the same lock — Algeria's defensive shape will have to deal with both at once."
+    },
+    {
+      "name": "Riyad Mahrez",
+      "team": "Algeria",
+      "hook": "Thirty-five years old and still capable of moments that make you put your phone down — if Algeria are going to cause an upset, he will almost certainly be the one who starts it."
+    },
+    {
+      "name": "Mohamed Amoura",
+      "team": "Algeria",
+      "hook": "The younger, quicker attacking threat who can punish Germany on the counter if Die Mannschaft's full-backs commit too aggressively, as they often do."
+    }
+  ],
+  "headToHead": "Germany and Algeria have only met twice in competitive football, both times at World Cups — Germany won 2-0 in 1982 and 2-1 after extra time in 2014. Algeria have never beaten Germany, but they have never rolled over for them either.",
+  "tags": [
+    "germany",
+    "algeria",
+    "world cup 2026",
+    "group j",
+    "metlife stadium"
+  ],
+  "slug": "germany-vs-algeria-md2",
+  "home": "Germany",
+  "away": "Algeria",
+  "homeCode": "GER",
+  "awayCode": "ALG",
+  "homeFlag": "🇩🇪",
+  "awayFlag": "🇩🇿",
+  "group": "J",
+  "matchday": 2,
+  "date": "2026-06-21",
+  "time": "16:00",
+  "venue": "MetLife Stadium",
+  "city": "New Jersey",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null
+}

@@ -1,0 +1,66 @@
+---
+import { data } from '../lib/site';
+const groups = Object.keys(data.groups).sort();
+const initial = (Astro.props.initial as string) || groups[0];
+---
+<div data-testid="group-standings-widget" class="rounded-card border border-border/80 bg-surface shadow-card overflow-hidden">
+  <div class="flex gap-1.5 overflow-x-auto no-scrollbar p-3 border-b border-border/70" data-testid="group-standings-tabs" role="tablist">
+    {groups.map((g) => (
+      <button type="button" data-gtab={g} class={`gst-tab shrink-0 rounded-full border px-3 py-1 text-xs font-sans font-medium transition-colors ${g === initial ? 'border-pitch bg-pitch text-white' : 'border-border text-muted hover:text-fg'}`}>Group {g}</button>
+    ))}
+  </div>
+  {groups.map((g) => (
+    <table data-gpanel={g} class={`gst-panel w-full text-sm font-sans ${g === initial ? '' : 'hidden'}`} data-testid="group-standings-table">
+      <thead>
+        <tr class="text-[11px] uppercase tracking-wide text-muted bg-surface2">
+          <th class="text-left font-medium py-2 pl-4">Team</th>
+          <th class="font-medium px-1.5 w-8">P</th>
+          <th class="font-medium px-1.5 w-8">W</th>
+          <th class="font-medium px-1.5 w-8">D</th>
+          <th class="font-medium px-1.5 w-8">L</th>
+          <th class="font-medium px-1.5 w-10">GD</th>
+          <th class="font-medium px-1.5 pr-4 w-10">Pts</th>
+        </tr>
+      </thead>
+      <tbody>
+        {data.groups[g].map((r: any, i: number) => (
+          <tr class="border-b border-border/60 last:border-0">
+            <td class="py-2.5 pl-4">
+              <a href={`/team/${r.name.toLowerCase().replace(/\s+/g, '-')}`} class="flex items-center gap-2 hover:text-pitch">
+                <span class={`inline-block w-1 h-4 rounded-full ${i < 2 ? 'bg-pitch' : i === 2 ? 'bg-warning' : 'bg-transparent'}`}></span>
+                <span class="text-base">{r.flag}</span>
+                <span class="font-medium truncate">{r.name}</span>
+              </a>
+            </td>
+            <td class="text-center px-1.5 tabular-nums">{r.P}</td>
+            <td class="text-center px-1.5 tabular-nums">{r.W}</td>
+            <td class="text-center px-1.5 tabular-nums">{r.D}</td>
+            <td class="text-center px-1.5 tabular-nums">{r.L}</td>
+            <td class="text-center px-1.5 tabular-nums">{r.GD > 0 ? '+' + r.GD : r.GD}</td>
+            <td class="text-center px-1.5 pr-4 font-semibold tabular-nums">{r.Pts}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  ))}
+  <p class="text-[11px] text-muted px-4 py-2.5 border-t border-border/60 font-sans"><span class="inline-block w-1 h-3 rounded-full bg-pitch align-middle"></span> Qualify <span class="inline-block w-1 h-3 rounded-full bg-warning align-middle ml-2"></span> Best-third contention</p>
+</div>
+<script>
+  function bindGst() {
+    document.querySelectorAll('.gst-tab').forEach((tab) => {
+      if (tab.dataset.bound) return; tab.dataset.bound = '1';
+      tab.addEventListener('click', () => {
+        const g = tab.dataset.gtab;
+        const root = tab.closest('[data-testid="group-standings-widget"]');
+        root.querySelectorAll('.gst-tab').forEach((t) => {
+          const on = t.dataset.gtab === g;
+          t.classList.toggle('border-pitch', on); t.classList.toggle('bg-pitch', on); t.classList.toggle('text-white', on);
+          t.classList.toggle('border-border', !on); t.classList.toggle('text-muted', !on);
+        });
+        root.querySelectorAll('.gst-panel').forEach((p) => p.classList.toggle('hidden', p.dataset.gpanel !== g));
+      });
+    });
+  }
+  bindGst();
+  document.addEventListener('astro:after-swap', bindGst);
+</script>

@@ -1,0 +1,57 @@
+{
+  "headline": "Musiala and Wirtz Torch Colombia in Jersey",
+  "whyCareScore": 8.4,
+  "whyCareReason": "Two generational talents dismantling a romantic underdog story in front of 80,000 people at the biggest stadium in North America is the kind of opening-night drama that reminds you why the World Cup exists.",
+  "teaser": "Germany's two most exciting young players basically tag-teamed Colombia into submission on a humid New Jersey evening, and a legend named James Rodríguez spent 90 minutes trying — and nearly succeeding — to stop them. It finished 2-1, but it felt like a statement from a nation that spent eight years in the wilderness.",
+  "story": "Germany arrived at MetLife Stadium carrying the weight of 2018 and 2022 — two group-stage exits that would have been unthinkable to the generation that lifted the trophy in Brazil. Julian Nagelsmann has spent two years quietly rebuilding something, and at the centre of it are Jamal Musiala and Florian Wirtz, two playmakers so gifted they make football look almost unfair.\n\nColombia brought their own electricity. James Rodríguez, 34 now and playing with the urgency of a man who knows the clock is running down, pulled strings in midfield with that unhurried elegance of his. Luis Díaz terrorised the left channel. When Jhon Durán pulled one back to make it 2-1, the Colombian fans in the upper tier erupted and suddenly MetLife felt genuinely dangerous.\n\nBut Germany held. The victory was nervy, hard-won, and all the more meaningful for it. This wasn't the clinical machine of old — it was a team that can wobble, that can suffer, and that finds a way regardless. That, perhaps, is more frightening than the old version ever was.",
+  "stakes": "A matchday one win in Group J puts Germany in the driving seat for qualification, with breathing room heading into fixtures that could yet twist. Colombia, meanwhile, must now beat their remaining opponents or face the humiliation of an early flight home — the pressure on James and Díaz just doubled overnight.",
+  "rivalryAngle": "Germany and Colombia don't have the blood-in-the-soil rivalry of some World Cup pairings, but 2014 left a scar — Germany's 4-0 quarter-final demolition in Fortaleza still stings in Bogotá. This was Colombia's chance to rewrite that chapter on football's biggest stage, and for one wild moment when Durán scored, it looked possible.",
+  "funFacts": [
+    "MetLife Stadium holds around 82,500 for soccer — making it one of the largest venues in World Cup 2026 and a fittingly enormous stage for Germany's competitive return to form.",
+    "Florian Wirtz and Jamal Musiala starting together for Germany marks the first time two players born in 2003 or later have started a World Cup match for a European side.",
+    "James Rodríguez's appearance means he has now played in three separate World Cups — a feat that puts him in rare Colombian company alongside legends like Faryd Mondragón."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Jamal Musiala",
+      "team": "Germany",
+      "hook": "Elusive, instinctive, almost impossible to pin down — he was the reason Colombia's defensive shape looked like origami by half-time."
+    },
+    {
+      "name": "James Rodríguez",
+      "team": "Colombia",
+      "hook": "Still the conductor, still capable of turning a stadium breathless with one pass, and the sole reason this felt like a contest rather than a rout."
+    },
+    {
+      "name": "Jhon Durán",
+      "team": "Colombia",
+      "hook": "Came on and immediately made Germany panic — his goal was a reminder that Colombia are never truly out of anything."
+    }
+  ],
+  "headToHead": "The teams have met just a handful of times, but the 2014 World Cup quarter-final — Germany's controlled 4-0 win in Fortaleza — looms largest over every subsequent encounter. Colombia have been chasing that ghost ever since.",
+  "tags": [
+    "germany",
+    "colombia",
+    "group j",
+    "world cup 2026",
+    "metlife stadium"
+  ],
+  "slug": "germany-vs-colombia-md1",
+  "home": "Germany",
+  "away": "Colombia",
+  "homeCode": "GER",
+  "awayCode": "COL",
+  "homeFlag": "🇩🇪",
+  "awayFlag": "🇨🇴",
+  "group": "J",
+  "matchday": 1,
+  "date": "2026-06-16",
+  "time": "21:00",
+  "venue": "MetLife Stadium",
+  "city": "New Jersey",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 1,
+  "marquee": true,
+  "liveMinute": null
+}

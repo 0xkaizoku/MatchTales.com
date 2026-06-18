@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Phase 1: POC (Football-Data + Claude storytelling + backend persistence)",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: Astro+Tailwind scaffold, seed dataset, AI content generation",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: All core pages + components (home, fixtures, match, teams, groups, stories, live, about, privacy, 404)",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: SEO infra + vercel.json + dark mode + search + forms + live poll",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: Production build verification (108 pages + sitemap)",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: End-to-end testing via testing_agent_v3 (100% pass, 0 bugs)",
+    "status": "completed"
+  }
+]

@@ -1,0 +1,49 @@
+---
+import WhyCareMeter from './WhyCareMeter.astro';
+import { fmtDate, statusLabel } from '../lib/site';
+export interface Props { m: any; featured?: boolean; }
+const { m, featured = false } = Astro.props;
+const isLive = m.status === 'LIVE';
+const isFinished = m.status === 'FINISHED';
+const d = m.data || m;
+---
+<a href={`/match/${d.slug}`} data-testid="match-story-card" class="group block rounded-card border border-border/80 bg-surface p-4 sm:p-5 shadow-card hover:shadow-cardhover transition-shadow duration-200 h-full">
+  <div class="flex items-center justify-between gap-2 mb-3">
+    <span class="inline-flex items-center gap-1.5 text-[11px] font-sans font-medium text-muted">
+      <span class="rounded-full bg-surface2 px-2 py-0.5">Group {d.group}</span>
+      <span>MD{d.matchday}</span>
+    </span>
+    {isLive ? (
+      <span class="inline-flex items-center gap-1.5 text-[11px] font-sans font-semibold text-coral"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>LIVE {d.liveMinute ? d.liveMinute + "'" : ''}</span>
+    ) : (
+      <span class="text-[11px] font-sans text-muted">{statusLabel(d.status)}</span>
+    )}
+  </div>
+
+  <div class="flex items-center justify-between gap-3">
+    <div class="flex-1 min-w-0">
+      <div class="flex items-center gap-2">
+        <span class="text-xl">{d.homeFlag}</span>
+        <span class="font-head font-semibold truncate">{d.home}</span>
+      </div>
+      <div class="flex items-center gap-2 mt-1.5">
+        <span class="text-xl">{d.awayFlag}</span>
+        <span class="font-head font-semibold truncate">{d.away}</span>
+      </div>
+    </div>
+    {(isFinished || isLive) && d.homeScore !== null && d.homeScore !== undefined && (
+      <div class="text-right font-head font-bold text-2xl tabular-nums leading-tight">
+        <div>{d.homeScore}</div>
+        <div>{d.awayScore}</div>
+      </div>
+    )}
+  </div>
+
+  <h3 class="mt-3 font-head text-lg leading-snug tracking-tight group-hover:underline decoration-pitch decoration-2 underline-offset-4">{d.headline}</h3>
+  <p class="mt-1.5 text-sm text-muted line-clamp-2 font-sans">{d.teaser}</p>
+
+  <div class="mt-4 flex items-center justify-between gap-3 border-t border-border/60 pt-3">
+    <WhyCareMeter score={d.whyCareScore} size="sm" />
+    <span class="text-[11px] text-muted font-sans whitespace-nowrap">{fmtDate(d.date)} · {d.time}</span>
+  </div>
+</a>

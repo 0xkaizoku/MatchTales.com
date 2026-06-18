@@ -1,0 +1,62 @@
+{
+  "headline": "Oranje vs Dynamite: Atlanta Could Ignite",
+  "whyCareScore": 8.4,
+  "whyCareReason": "Two of Europe's most technically gifted sides collide in a match where a single goal could reshape the entire group's destiny — and both know it.",
+  "teaser": "The Netherlands haven't won a World Cup despite producing some of football's most beautiful teams ever, and Sunday in Atlanta they face a Denmark side powered by one of sport's most extraordinary comeback stories. This is the game the Group K draw was always going to hinge on.",
+  "story": "There is something almost cosmically unfair about Dutch football. Three World Cup finals, zero trophies. The heirs to Total Football — Cruyff's philosophy, Bergkamp's grace, Robben's anguish — keep arriving at tournaments brimming with talent and leaving with nothing but what-ifs. Ronald Koeman's squad in 2026 is different in texture but identical in expectation: brilliant, nervy, and carrying a nation's quiet desperation on its shoulders.\n\nDenmark, meanwhile, come wrapped in a story no screenwriter would dare pitch. Christian Eriksen — the man who died on a pitch at Euro 2020 and was brought back to life — still pulling strings in central midfield. Around him, a generation has grown up: Højlund with his sharp-elbowed hunger, Damsgaard with that electric left foot. They don't dazzle you with names. They dazzle you with belief.\n\nMercedes-Benz Stadium in Atlanta will be loud, humid, and pulsating when these two walk out on June 21st. Matchday 2 has a habit of being the hinge point of every group. Win and you control your fate. Drop points here and the knockout stages start to feel very, very distant, very fast.",
+  "stakes": "A Dutch win would put them in commanding position to reach the last 16, perhaps with a game to spare. Denmark, having navigated Matchday 1, would likely need a result here to avoid a nervy final-game scramble; defeat could leave them relying on others. There is no margin to gift away — not at a World Cup, not in Atlanta heat, not against opponents this good.",
+  "rivalryAngle": "These sides don't share the blood-feud intensity of some European fixtures, but they carry a persistent competitive itch — Scandinavia forever testing the continent's bigger footballing powers and occasionally embarrassing them. Denmark knocked the Netherlands out at Euro 1992, went on to win the whole tournament in one of sport's greatest upsets, and that ghost has never entirely left Dutch changing rooms. Eriksen's personal journey adds an almost unbearable emotional layer: watching him orchestrate things in a World Cup knockout race, years after what happened in Copenhagen, will be one of the tournament's defining images regardless of the result.",
+  "headToHead": "The sides have met 22 times in all competitions, with the Netherlands holding a slight historical edge, but Denmark have proven perfectly capable of causing upsets when the stakes are highest — Euro '92 remains the cautionary tale every Dutch fan still half-dreads.",
+  "funFacts": [
+    "Christian Eriksen collapsed during Denmark's opening group game at Euro 2020 and received CPR on the pitch; five years later he's at a World Cup and still the first name on Denmark's teamsheet.",
+    "Cody Gakpo scored in all three of the Netherlands' group games at the 2022 World Cup — he will arrive in Atlanta knowing he is the man Oranje fans look to when the pressure peaks.",
+    "Mercedes-Benz Stadium in Atlanta has a capacity of over 71,000 and a retractable roof that can seal in the noise — it will feel like a cauldron for a match this tense."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Xavi Simons",
+      "team": "Netherlands",
+      "hook": "At 23, Simons is the heartbeat between Dutch defence and attack — if he finds space in the pockets between Denmark's lines, the game could open up in ways Denmark will struggle to handle."
+    },
+    {
+      "name": "Christian Eriksen",
+      "team": "Denmark",
+      "hook": "Beyond everything his continued presence represents emotionally, Eriksen is still functionally brilliant — his passing range and set-piece delivery could be Denmark's most reliable way of unlocking a compact Dutch backline."
+    },
+    {
+      "name": "Rasmus Højlund",
+      "team": "Denmark",
+      "hook": "Still only in his early twenties but already carrying the physical and psychological weight of being Denmark's main striker; a goal here would announce him on the very biggest stage."
+    },
+    {
+      "name": "Virgil van Dijk",
+      "team": "Netherlands",
+      "hook": "At 34 he is the emotional fulcrum of this Dutch side — if he marshals Højlund out of the game, the Netherlands have a platform to win comfortably."
+    }
+  ],
+  "tags": [
+    "group stage",
+    "netherlands",
+    "denmark",
+    "group k",
+    "atlanta"
+  ],
+  "slug": "netherlands-vs-denmark-md2",
+  "home": "Netherlands",
+  "away": "Denmark",
+  "homeCode": "NED",
+  "awayCode": "DEN",
+  "homeFlag": "🇳🇱",
+  "awayFlag": "🇩🇰",
+  "group": "K",
+  "matchday": 2,
+  "date": "2026-06-21",
+  "time": "13:00",
+  "venue": "Mercedes-Benz Stadium",
+  "city": "Atlanta",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": false,
+  "liveMinute": null
+}

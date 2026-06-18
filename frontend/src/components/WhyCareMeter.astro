@@ -1,0 +1,18 @@
+---
+import { scoreMeta } from '../lib/site';
+export interface Props { score: number; size?: 'sm' | 'md' | 'lg'; showLabel?: boolean; }
+const { score, size = 'md', showLabel = true } = Astro.props;
+const meta = scoreMeta(score);
+const pct = Math.max(4, Math.min(100, (score / 10) * 100));
+const num = size === 'lg' ? 'text-3xl' : size === 'sm' ? 'text-base' : 'text-xl';
+---
+<div class="inline-block" data-testid="why-care-meter">
+  <div class="flex items-center gap-2">
+    <span class={`font-head font-semibold tabular-nums leading-none ${num}`}>{score.toFixed(1)}</span>
+    <span class="text-[10px] uppercase tracking-wide text-muted font-sans">/ 10</span>
+    {showLabel && <span class={`ml-1 inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[10px] font-sans font-medium text-white ${meta.cls}`}>{meta.label}</span>}
+  </div>
+  <div class="mt-1.5 h-1.5 w-full min-w-[120px] rounded-full bg-border/70 overflow-hidden" role="progressbar" aria-valuenow={score} aria-valuemin="0" aria-valuemax="10" aria-label="Why Care score">
+    <div class={`h-full rounded-full ${meta.cls}`} style={`width:${pct}%`}></div>
+  </div>
+</div>

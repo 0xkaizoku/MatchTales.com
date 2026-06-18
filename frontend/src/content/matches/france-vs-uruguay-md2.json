@@ -1,0 +1,62 @@
+{
+  "headline": "Mbappé vs La Celeste: The World Holds Its Breath",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A generational superstar leading the planet's most lethal attack collides with South America's most stubborn, snarling survivors in a group-stage match that could quietly decide who lifts the trophy in July.",
+  "teaser": "France have the most frightening forward line at this World Cup, and Uruguay absolutely do not care. This is the kind of match that produces legends — and broken hearts.",
+  "story": "Uruguay invented this tournament. Literally. They hosted and won the very first World Cup in 1930, and that history sits in La Celeste's chest like a warm coal that never quite goes out. France, meanwhile, are the defending world-class standard — not reigning champions, but the team everyone else quietly dreads drawing. When these two share a pitch in Dallas on June 20th, it won't just be football. It'll be a philosophy debate played at full sprint.\n\nKylian Mbappé arrives at this tournament carrying the particular weight of a man who has been anointed his generation's greatest and knows the clock is ticking. He doesn't just want to win — he needs to. Uruguay, marshalled by the ferocious midfield engine of Federico Valverde and the terrier-like Manuel Ugarte, will make that as uncomfortable as humanly possible. Darwin Núñez up front means La Celeste aren't just defending; they're hunting too.\n\nGroup G shapes up as one of the tournament's most treacherous, and Matchday 2 is where hierarchies get established. Win here, and a nation breathes easier. Lose, and the pressure becomes a living thing.",
+  "stakes": "A France win would almost certainly book their place in the knockout rounds and announce them as genuine title favourites. For Uruguay, victory would be a seismic statement — their best shot at a deep run depends on taking points off the big dogs early, and there is no bigger dog in this group than Les Bleus.",
+  "rivalryAngle": "These sides met in the 2018 World Cup quarter-finals in Nizhny Novgorod, where France edged past Uruguay 2-0 — a result that still stings in Montevideo. Uruguay lost their captain Edinson Cavani to injury mid-tournament that summer, and they've never quite felt they got a fair crack at it. Four years of simmering, and now they get another shot.",
+  "funFacts": [
+    "Uruguay's 1930 World Cup triumph came before France had ever even reached a knockout stage — the two nations have been measuring themselves against each other ever since.",
+    "AT&T Stadium in Dallas can hold over 80,000 fans, and it famously hosted some of the most electric atmosphere moments of the 1994 World Cup when Dallas was last a host city.",
+    "Kylian Mbappé was seven years old when Uruguay last beat France in a competitive fixture — that's how long La Celeste have been waiting to flip this script."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kylian Mbappé",
+      "team": "France",
+      "hook": "The captain, the obsession, the reason neutrals tune in — if France are going to impose themselves on this tournament, it starts with Mbappé announcing himself in Texas."
+    },
+    {
+      "name": "Federico Valverde",
+      "team": "Uruguay",
+      "hook": "The Real Madrid engine who can defend, press, drive and shoot — Valverde is the one man Uruguay trust to go toe-to-toe with France's midfield and not blink."
+    },
+    {
+      "name": "Désiré Doué",
+      "team": "France",
+      "hook": "Young, electric and utterly unpredictable, Doué is the wildcard France can deploy to stretch Uruguay's defensive shape to breaking point."
+    },
+    {
+      "name": "Darwin Núñez",
+      "team": "Uruguay",
+      "hook": "Raw, powerful and perpetually dangerous, Núñez is the constant reminder that Uruguay are never, ever just sitting back."
+    }
+  ],
+  "headToHead": "France and Uruguay have met 16 times, with Les Bleus holding the slight edge — but their 2018 World Cup quarter-final remains the defining chapter, a match Uruguay feel they were robbed of by circumstance as much as talent. Dallas is where the argument continues.",
+  "tags": [
+    "world cup 2026",
+    "france",
+    "uruguay",
+    "group g",
+    "mbappé"
+  ],
+  "slug": "france-vs-uruguay-md2",
+  "home": "France",
+  "away": "Uruguay",
+  "homeCode": "FRA",
+  "awayCode": "URU",
+  "homeFlag": "🇫🇷",
+  "awayFlag": "🇺🇾",
+  "group": "G",
+  "matchday": 2,
+  "date": "2026-06-20",
+  "time": "19:00",
+  "venue": "AT&T Stadium",
+  "city": "Dallas",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null
+}

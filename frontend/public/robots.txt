@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://whycare-fc.preview.emergentagent.com/sitemap-index.xml

@@ -1,0 +1,57 @@
+{
+  "headline": "Old Blood, New Fire: Italy Must Answer Turkey",
+  "whyCareScore": 8.4,
+  "whyCareReason": "A four-time world champion desperate to prove its renaissance is real collides with two teenage superstars who could genuinely light up this entire tournament.",
+  "teaser": "Italy haven't won a World Cup game in nearly a decade and need this badly. Turkey have a 20-year-old Real Madrid prodigy who might just be the most exciting player at the whole tournament.",
+  "story": "There's a particular kind of pressure that only Italy knows. Four World Cup trophies hang in the memory like old paintings — beautiful, fading, slightly reproachful. The Azzurri missed the 2018 tournament entirely, shuffled through 2022 qualifying in humiliation, and have spent years rebuilding their identity around a new midfield spine and a generation of forwards who carry the weight of a footballing nation's pride. On June 21st in San Francisco, that rebuilding project meets its first serious examination.\n\nTurkey arrive in California with something Italy cannot buy: pure, uncut excitement. Arda Güler spent last season threading impossible passes through Real Madrid's attack. Kenan Yıldız has been turning heads at Juventus with a confidence that borders on outrageous for someone barely old enough to rent a car. Together they form one of the most intoxicating young partnerships at this World Cup, and Hakan Çalhanoğlu — the cool, metronomic heartbeat of Inter Milan's midfield — is there to make sure the chaos has a blueprint.\n\nSomething about Levi's Stadium feels right for this. The Bay Area crowd will fill the stands with neutrals and diaspora alike, and neutrals, frankly, will be rooting for goals. Federico Chiesa flying at a full-back, Tonali conducting from deep, Scamacca lurking — Italy can hurt you. But so can Turkey, faster than you'll see it coming.",
+  "stakes": "Both sides opened Matchday 1 needing points, making this effectively a must-not-lose fixture for the group's momentum. A defeat for Italy in Matchday 2 would leave them in a desperate scramble on the final day, while Turkey know a win could all but seal progression and announce themselves as genuine dark horses. Second place or better is the target; dropping points here makes that dramatically harder.",
+  "rivalryAngle": "These nations have only a handful of competitive meetings, but they carry a loaded backstory — Turkey famously knocked Italy out at Euro 2000 in the group stage, a result that still stings Italian supporters who remember it. More than history, though, this is a story of contrasts: the weight of legacy versus the freedom of youth, a nation trying to reclaim something versus a nation trying to claim something for the first time.",
+  "funFacts": [
+    "Italy's last World Cup group-stage victory was against Australia on June 13, 2006 — nearly two decades ago.",
+    "Arda Güler became the youngest player to score in a UEFA Champions League knockout round, doing so for Real Madrid at just 19.",
+    "Levi's Stadium in Santa Clara sits roughly 40 miles south of San Francisco and is also home to the NFL's San Francisco 49ers, capacity 68,500."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Arda Güler",
+      "team": "Turkey",
+      "hook": "The 20-year-old Real Madrid playmaker is the tournament's most talked-about young talent — if he finds space between Italy's lines, he can unlock any defence on the planet."
+    },
+    {
+      "name": "Federico Chiesa",
+      "team": "Italy",
+      "hook": "Perpetually battling injuries but perpetually dangerous, Chiesa is the one Italian attacker who can change a game on pure instinct — Turkey's left side will have nightmares about him if he's fit and flying."
+    },
+    {
+      "name": "Hakan Çalhanoğlu",
+      "team": "Turkey",
+      "hook": "The Inter Milan midfielder controls tempo and wins set-piece moments; if Italy let him dictate the midfield battle, they'll regret it deeply."
+    }
+  ],
+  "headToHead": "Italy and Turkey have met only a handful of times competitively, with Turkey claiming a famous group-stage win at Euro 2000 that haunted the Azzurri. Historically Italy shade the overall record, but recent Turkish football has shifted the balance of quality considerably.",
+  "tags": [
+    "italy",
+    "turkey",
+    "group l",
+    "world cup 2026",
+    "san francisco"
+  ],
+  "slug": "italy-vs-turkey-md2",
+  "home": "Italy",
+  "away": "Turkey",
+  "homeCode": "ITA",
+  "awayCode": "TUR",
+  "homeFlag": "🇮🇹",
+  "awayFlag": "🇹🇷",
+  "group": "L",
+  "matchday": 2,
+  "date": "2026-06-21",
+  "time": "21:00",
+  "venue": "Levi's Stadium",
+  "city": "San Francisco",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null
+}

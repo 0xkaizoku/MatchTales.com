@@ -1,0 +1,174 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import WhyCareMeter from '../../components/WhyCareMeter.astro';
+import TeamBadge from '../../components/TeamBadge.astro';
+import HypeNotes from '../../components/HypeNotes.astro';
+import MatchStoryCard from '../../components/MatchStoryCard.astro';
+import { getCollection } from 'astro:content';
+import { fmtDate, statusLabel, SITE } from '../../lib/site';
+
+export async function getStaticPaths() {
+  const matches = await getCollection('matches');
+  return matches.map((entry) => ({ params: { slug: entry.data.slug }, props: { m: entry.data, all: matches.map((x) => x.data) } }));
+}
+const { m, all } = Astro.props;
+const paras = m.story.split(/\n\n+/).filter(Boolean);
+const isLive = m.status === 'LIVE';
+const played = m.status === 'FINISHED' || isLive;
+const related = all.filter((x: any) => x.slug !== m.slug && (x.group === m.group || x.tags.some((t: string) => m.tags.includes(t)))).slice(0, 3);
+const label = `${m.home} vs ${m.away}`;
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'SportsEvent',
+  name: `${m.home} vs ${m.away} — FIFA World Cup 2026`,
+  sport: 'Soccer',
+  startDate: `${m.date}T${m.time}:00`,
+  eventStatus: played ? 'https://schema.org/EventScheduled' : 'https://schema.org/EventScheduled',
+  location: { '@type': 'Place', name: m.venue, address: m.city },
+  competitor: [
+    { '@type': 'SportsTeam', name: m.home },
+    { '@type': 'SportsTeam', name: m.away },
+  ],
+  description: m.teaser,
+};
+---
+<BaseLayout title={`${m.headline} | ${label} — MatchTales`} description={m.teaser} type="article" schema={schema}>
+  <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
+    <!-- breadcrumb -->
+    <nav class="mt-6 text-[13px] font-sans text-muted flex items-center gap-1.5" aria-label="Breadcrumb">
+      <a href="/" class="hover:text-fg">Home</a><span>/</span>
+      <a href="/fixtures" class="hover:text-fg">Fixtures</a><span>/</span>
+      <a href={`/group/${m.group.toLowerCase()}`} class="hover:text-fg">Group {m.group}</a><span>/</span>
+      <span class="text-fg">{label}</span>
+    </nav>
+
+    <div class="mt-5 grid lg:grid-cols-3 gap-8">
+      <!-- main -->
+      <article data-testid="story-article" class="lg:col-span-2 min-w-0">
+        <div class="flex items-center gap-2 text-[11px] font-sans font-medium">
+          <span class="rounded-full bg-surface2 px-2.5 py-1 text-muted">Group {m.group} · Matchday {m.matchday}</span>
+          {isLive ? <span class="inline-flex items-center gap-1.5 rounded-full bg-coral px-2.5 py-1 text-white"><span class="w-1.5 h-1.5 rounded-full bg-white pulse-glow"></span>LIVE {m.liveMinute}'</span> : <span class="rounded-full bg-surface2 px-2.5 py-1 text-muted">{statusLabel(m.status)}</span>}
+        </div>
+        <h1 class="mt-3 font-head text-3xl sm:text-4xl font-semibold tracking-tight leading-[1.08]">{m.headline}</h1>
+        <div class="mt-3 flex flex-wrap items-center gap-2 text-sm font-sans text-muted">
+          <TeamBadge name={m.home} /> <span class="text-muted">vs</span> <TeamBadge name={m.away} />
+          <span>·</span><span>{fmtDate(m.date)} · {m.time}</span><span>·</span><span>{m.venue}, {m.city}</span>
+        </div>
+
+        <p class="mt-6 text-lg sm:text-xl font-sans text-muted leading-relaxed border-l-2 border-pitch pl-4">{m.teaser}</p>
+
+        <div class="mt-6 space-y-5 text-[17px] leading-8 dropcap">
+          {paras.map((p: string) => <p>{p}</p>)}
+        </div>
+
+        <!-- Stakes & rivalry -->
+        <div class="mt-8 grid sm:grid-cols-2 gap-4">
+          <div class="rounded-card border border-border/80 bg-surface p-5">
+            <h2 class="font-head text-sm font-semibold uppercase tracking-wide text-pitch">The stakes</h2>
+            <p class="mt-2 text-[15px] font-sans leading-7">{m.stakes}</p>
+          </div>
+          <div class="rounded-card border border-border/80 bg-surface p-5">
+            <h2 class="font-head text-sm font-semibold uppercase tracking-wide text-coral">The rivalry angle</h2>
+            <p class="mt-2 text-[15px] font-sans leading-7">{m.rivalryAngle}</p>
+          </div>
+        </div>
+
+        <!-- Key players -->
+        <section class="mt-8">
+          <h2 class="font-head text-xl font-semibold tracking-tight mb-3">Players who could decide it</h2>
+          <div class="grid sm:grid-cols-2 gap-3">
+            {m.keyPlayers.map((p: any) => (
+              <div class="rounded-card border border-border/80 bg-surface p-4" data-testid="player-legacy-card">
+                <div class="flex items-center justify-between gap-2">
+                  <span class="font-head font-semibold">{p.name}</span>
+                  <span class="text-[11px] rounded-full bg-surface2 px-2 py-0.5 font-sans text-muted">{p.team}</span>
+                </div>
+                <p class="mt-1.5 text-sm text-muted font-sans leading-6">{p.hook}</p>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        <!-- Fun facts -->
+        <section class="mt-8">
+          <h2 class="font-head text-xl font-semibold tracking-tight mb-3">Did you know?</h2>
+          <ul class="space-y-2.5">
+            {m.funFacts.map((f: string) => (
+              <li class="flex items-start gap-3 rounded-card border border-border/70 bg-surface2/60 p-3.5"><span class="shrink-0 grid place-items-center w-6 h-6 rounded-full bg-pitch text-white text-[12px] font-head">!</span><span class="text-[15px] font-sans leading-6">{f}</span></li>
+            ))}
+          </ul>
+        </section>
+
+        <!-- Head to head -->
+        {m.headToHead && (
+          <section class="mt-8 rounded-card border border-border/80 bg-surface p-5">
+            <h2 class="font-head text-sm font-semibold uppercase tracking-wide text-sky">Head to head</h2>
+            <p class="mt-2 text-[15px] font-sans leading-7">{m.headToHead}</p>
+          </section>
+        )}
+
+        <!-- highlights placeholder -->
+        <section class="mt-8">
+          <h2 class="font-head text-xl font-semibold tracking-tight mb-3">{played ? 'Highlights' : 'Pre-match build-up'}</h2>
+          <div class="aspect-video rounded-card border border-border/80 bg-surface2 grid place-items-center text-muted">
+            <div class="text-center font-sans"><svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" class="mx-auto opacity-50"><path d="m10 8 6 4-6 4V8Z"/><rect x="2" y="3" width="20" height="18" rx="3"/></svg><p class="mt-2 text-sm">Video highlights coming soon</p></div>
+          </div>
+        </section>
+      </article>
+
+      <!-- right rail -->
+      <aside class="lg:col-span-1">
+        <div class="lg:sticky lg:top-20 space-y-5">
+          <div class="rounded-card border border-border/80 bg-surface p-5 shadow-card">
+            <div class="flex items-center justify-between gap-4">
+              <div class="text-center flex-1"><div class="text-3xl">{m.homeFlag}</div><div class="mt-1 font-head font-semibold text-sm">{m.home}</div></div>
+              {played ? <div class="font-head font-bold text-3xl tabular-nums">{m.homeScore}–{m.awayScore}</div> : <div class="text-center"><div class="font-head font-semibold">{m.time}</div><div class="text-[11px] text-muted font-sans">{fmtDate(m.date)}</div></div>}
+              <div class="text-center flex-1"><div class="text-3xl">{m.awayFlag}</div><div class="mt-1 font-head font-semibold text-sm">{m.away}</div></div>
+            </div>
+            <div class="mt-5 pt-4 border-t border-border/70">
+              <span class="text-[11px] uppercase tracking-wide text-muted font-sans">Why Care Score</span>
+              <div class="mt-1"><WhyCareMeter score={m.whyCareScore} size="lg" /></div>
+              <p class="mt-2 text-[13px] text-muted font-sans leading-snug">{m.whyCareReason}</p>
+            </div>
+            <button id="share-btn" data-testid="match-story-share-button" data-label={`${m.headline} — ${label}`} class="mt-4 w-full h-10 rounded-btn border border-border font-sans text-sm font-medium hover:bg-surface2 transition-colors inline-flex items-center justify-center gap-2"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.6 13.5 6.8 4M15.4 6.5l-6.8 4"/></svg> Share this story</button>
+          </div>
+
+          {m.tags?.length > 0 && (
+            <div class="rounded-card border border-border/80 bg-surface p-5">
+              <h3 class="font-head text-sm font-semibold mb-2">Tags</h3>
+              <div class="flex flex-wrap gap-2">{m.tags.map((t: string) => <span class="rounded-full bg-surface2 px-2.5 py-1 text-[12px] font-sans text-muted">#{t.replace(/\s+/g,'')}</span>)}</div>
+            </div>
+          )}
+        </div>
+      </aside>
+    </div>
+
+    <!-- hype for this match -->
+    <section class="mt-12">
+      <h2 class="font-head text-2xl font-semibold tracking-tight mb-1">Hype this match</h2>
+      <p class="text-sm text-muted font-sans mb-5">What's your take on {label}?</p>
+      <HypeNotes matchSlug={m.slug} matchLabel={label} compact={true} />
+    </section>
+
+    {related.length > 0 && (
+      <section class="mt-12 mb-8">
+        <h2 class="font-head text-2xl font-semibold tracking-tight mb-4">More to care about</h2>
+        <div class="grid sm:grid-cols-3 gap-4">{related.map((r: any) => <MatchStoryCard m={r} />)}</div>
+      </section>
+    )}
+  </main>
+  <script>
+    function bindShare(){
+      const b=document.getElementById('share-btn');
+      if(!b||b.dataset.bound)return; b.dataset.bound='1';
+      b.addEventListener('click', async ()=>{
+        const url=location.href; const title=b.dataset.label||document.title;
+        if(navigator.share){ try{ await navigator.share({title, url}); }catch(e){} }
+        else { try{ await navigator.clipboard.writeText(url); const t=b.textContent; b.textContent='Link copied!'; setTimeout(()=>b.textContent=t,1500);}catch(e){} }
+      });
+    }
+    bindShare();
+    document.addEventListener('astro:after-swap', bindShare);
+  </script>
+</BaseLayout>

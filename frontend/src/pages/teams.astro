@@ -1,0 +1,50 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { data } from '../lib/site';
+const confs = [...new Set(data.teams.map((t: any) => t.conf))];
+const byGroup: Record<string, any[]> = {};
+for (const t of data.teams) { (byGroup[t.group] ||= []).push(t); }
+const groups = Object.keys(byGroup).sort();
+---
+<BaseLayout title="All 48 Teams — World Cup 2026 | MatchTales" description="Deep dives on all 48 nations at the 2026 World Cup: histories, key players, rivalries and what to watch.">
+  <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
+    <header class="mt-8">
+      <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">The 48 Nations</h1>
+      <p class="mt-2 text-muted font-sans max-w-2xl">Every team has a story. Tap in for histories, heroes and the reasons to fall in love with them this summer.</p>
+      <div class="mt-4 flex flex-wrap gap-2" data-testid="team-conf-filter">
+        <button data-conf="" class="tf-btn rounded-full border border-pitch bg-pitch text-white px-3 py-1 text-xs font-sans font-medium">All</button>
+        {confs.map((c: string) => <button data-conf={c} class="tf-btn rounded-full border border-border text-muted px-3 py-1 text-xs font-sans font-medium hover:text-fg">{c}</button>)}
+      </div>
+    </header>
+    {groups.map((g) => (
+      <section class="mt-8">
+        <h2 class="font-head text-lg font-semibold mb-3 text-muted">Group {g}</h2>
+        <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          {byGroup[g].map((t: any) => (
+            <a href={`/team/${t.slug}`} data-conf={t.conf} class="tcard group rounded-card border border-border/80 bg-surface p-4 shadow-card hover:shadow-cardhover transition-shadow">
+              <div class="flex items-center gap-3">
+                <span class="text-3xl">{t.flag}</span>
+                <div class="min-w-0"><div class="font-head font-semibold truncate group-hover:text-pitch transition-colors">{t.name}</div><div class="text-[11px] text-muted font-sans">{t.nick}</div></div>
+              </div>
+              <p class="mt-3 text-[13px] text-muted font-sans line-clamp-2">{t.story}</p>
+              <div class="mt-3 flex items-center gap-2 text-[11px] font-sans text-muted"><span class="rounded-full bg-surface2 px-2 py-0.5">#{t.rank}</span><span class="rounded-full bg-surface2 px-2 py-0.5">{t.conf}</span>{t.titles > 0 && <span class="rounded-full bg-pitch/10 text-pitch px-2 py-0.5">★ {t.titles}</span>}</div>
+            </a>
+          ))}
+        </div>
+      </section>
+    ))}
+  </main>
+  <script>
+    function bindTf(){
+      const wrap=document.querySelector('[data-testid="team-conf-filter"]'); if(!wrap||wrap.dataset.bound)return; wrap.dataset.bound='1';
+      wrap.querySelectorAll('.tf-btn').forEach((b)=>b.addEventListener('click',()=>{
+        const c=b.dataset.conf;
+        wrap.querySelectorAll('.tf-btn').forEach((x)=>{const on=x.dataset.conf===c; x.classList.toggle('border-pitch',on); x.classList.toggle('bg-pitch',on); x.classList.toggle('text-white',on); x.classList.toggle('border-border',!on); x.classList.toggle('text-muted',!on);});
+        document.querySelectorAll('.tcard').forEach((card)=>card.classList.toggle('hidden', !!c && card.dataset.conf!==c));
+        document.querySelectorAll('main section').forEach((sec)=>{const any=[...sec.querySelectorAll('.tcard')].some((cc)=>!cc.classList.contains('hidden')); sec.classList.toggle('hidden',!any);});
+      }));
+    }
+    bindTf();
+    document.addEventListener('astro:after-swap', bindTf);
+  </script>
+</BaseLayout>

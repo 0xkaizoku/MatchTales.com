@@ -1,0 +1,62 @@
+{
+  "headline": "Teenagers vs Tradition: Miami's Summer Blockbuster",
+  "whyCareScore": 9.2,
+  "whyCareReason": "Two of world football's most technically gifted sides — one reigning European champion, one perpetual giant-killer — collide in a must-watch Group E showdown where a single goal could reshape the entire bracket.",
+  "teaser": "Spain have a 18-year-old winger who makes defenders look like they're playing in flip-flops, and Japan are the team who knocked out Germany and Spain at the last World Cup. Yes, that Spain.",
+  "story": "There is something almost unfair about scheduling this one on a Saturday afternoon in Miami. Hard Rock Stadium will be buzzing with neutrals who just wandered in for the vibes, and then Lamine Yamal will touch the ball and suddenly everyone forgets what they came for.\n\nSpain arrive at this 2026 World Cup carrying the kind of generational swagger that makes even cynical football people sit up straight. Yamal, still a teenager, and Nico Williams on the opposite flank — this is tiki-taka with a turbo engine bolted on. Pedri pulls the strings in the middle like a man who has been playing at this level since he was in primary school, which, honestly, isn't far from the truth.\n\nJapan, though, have earned the right to be feared. At Qatar 2022 they beat Germany and Spain in the group stage, then pushed Croatia to penalties in the last sixteen. This is a side that does not read the script, never has, and Hajime Moriyasu's players will arrive in Florida absolutely certain they can do it again.",
+  "stakes": "A win for Spain would almost certainly book their place in the knockout rounds with a game to spare, cementing their status as Group E favourites. For Japan, three points here would be a seismic statement — the kind that echoes all the way to the quarter-finals they have spent twenty years chasing.",
+  "rivalryAngle": "The last time these two met in a World Cup group stage, Japan won 2-1 in Doha and Spain still went through — both sides remember it differently. For Spain it is unfinished business dressed up as a formality; for Japan it is proof that they belong, repeated every four years until the world finally, fully believes it.",
+  "funFacts": [
+    "Japan famously beat Spain 2-1 in the 2022 Qatar group stage, with both goals coming after the 48th minute — proving they never stop believing.",
+    "Lamine Yamal was born on 13 July 2007, meaning he turned 18 just days before this World Cup began — making him one of the youngest players ever at a men's World Cup.",
+    "Hard Rock Stadium in Miami hosted Super Bowls before hosting World Cup football — it is used to spectacle, but even it hasn't seen a clash quite like this."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Lamine Yamal",
+      "team": "Spain",
+      "hook": "The teenager who turns full-backs into folklore — if he gets space on that right flank in Miami, Japan will spend ninety minutes chasing shadows."
+    },
+    {
+      "name": "Kaoru Mitoma",
+      "team": "Japan",
+      "hook": "Brighton's cult hero graduated to the world stage and his low centre of gravity and relentless pressing make him a nightmare for any high defensive line Spain might set."
+    },
+    {
+      "name": "Pedri",
+      "team": "Spain",
+      "hook": "The heartbeat of this Spain team — his ability to break lines in tight spaces is precisely what Japan's disciplined defensive block will be designed to stop."
+    },
+    {
+      "name": "Wataru Endō",
+      "team": "Japan",
+      "hook": "The Liverpool captain is Japan's defensive anchor and the man tasked with disrupting Spain's rhythm at the source — whoever wins this midfield duel likely wins the match."
+    }
+  ],
+  "headToHead": "Spain and Japan have met six times in official and friendly competition, with Spain holding the historical edge — but Japan's stunning 2-1 win in Qatar 2022 means that particular ledger feels very much open. In knockout football's shadow, every head-to-head stat goes out the window.",
+  "tags": [
+    "world cup 2026",
+    "group e",
+    "spain",
+    "japan",
+    "miami"
+  ],
+  "slug": "spain-vs-japan-md2",
+  "home": "Spain",
+  "away": "Japan",
+  "homeCode": "ESP",
+  "awayCode": "JPN",
+  "homeFlag": "🇪🇸",
+  "awayFlag": "🇯🇵",
+  "group": "E",
+  "matchday": 2,
+  "date": "2026-06-20",
+  "time": "13:00",
+  "venue": "Hard Rock Stadium",
+  "city": "Miami",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null
+}

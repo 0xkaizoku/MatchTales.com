@@ -1,0 +1,152 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Hero from '../components/Hero.astro';
+import MatchStoryCard from '../components/MatchStoryCard.astro';
+import GroupStandingsWidget from '../components/GroupStandingsWidget.astro';
+import RivalryCard from '../components/RivalryCard.astro';
+import MomentCard from '../components/MomentCard.astro';
+import NewsletterForm from '../components/NewsletterForm.astro';
+import HypeNotes from '../components/HypeNotes.astro';
+import LiveScores from '../components/LiveScores.astro';
+import { getCollection } from 'astro:content';
+import { data, SITE } from '../lib/site';
+
+const matchEntries = await getCollection('matches');
+const matches = matchEntries.map((e) => e.data);
+
+const live = matches.filter((m) => m.status === 'LIVE');
+const upcoming = matches.filter((m) => m.status === 'UPCOMING').sort((a, b) => b.whyCareScore - a.whyCareScore);
+const finished = matches.filter((m) => m.status === 'FINISHED').sort((a, b) => b.whyCareScore - a.whyCareScore);
+
+const featured = (live[0] || upcoming[0]);
+const carousel = [...live, ...upcoming].filter((m) => m.slug !== featured.slug).slice(0, 8);
+const recent = finished.slice(0, 6);
+
+const storyEntries = await getCollection('stories');
+const stories = storyEntries.map((e) => ({ slug: e.id, ...e.data })).sort((a, b) => +b.pubDate - +a.pubDate);
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: SITE.name,
+  url: SITE.url,
+  description: SITE.description,
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: `${SITE.url}/fixtures?q={search_term_string}`,
+    'query-input': 'required name=search_term_string',
+  },
+};
+---
+<BaseLayout schema={schema}>
+  <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
+    <!-- Tournament banner -->
+    <div class="mt-6 flex flex-wrap items-center justify-between gap-3 rounded-card border border-border/70 bg-surface2 px-4 py-3">
+      <div class="flex items-center gap-2 text-sm font-sans">
+        <span class="font-head font-semibold text-pitch">FIFA World Cup 2026</span>
+        <span class="text-muted">· USA · Mexico · Canada</span>
+      </div>
+      <div class="flex items-center gap-2 text-[12px] font-sans text-muted">
+        <span class="inline-flex items-center gap-1.5"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>Week 1 underway</span>
+        <span>· 48 teams · 12 groups</span>
+      </div>
+    </div>
+
+    <section class="mt-6 fade-up"><Hero m={featured} /></section>
+
+    <!-- Upcoming carousel -->
+    <section class="mt-12" aria-labelledby="upcoming-h">
+      <div class="flex items-end justify-between gap-4 mb-4">
+        <div>
+          <h2 id="upcoming-h" class="font-head text-2xl font-semibold tracking-tight">Matches to care about</h2>
+          <p class="text-sm text-muted font-sans mt-0.5">Ranked by how much they'll make you feel something.</p>
+        </div>
+        <a href="/fixtures" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4 whitespace-nowrap">See all →</a>
+      </div>
+      <div class="flex gap-4 overflow-x-auto no-scrollbar snap-x snap-mandatory pb-2 -mx-1 px-1" data-testid="upcoming-matches-carousel">
+        {carousel.map((m) => (
+          <div class="min-w-[280px] sm:min-w-[320px] snap-start"><MatchStoryCard m={m} /></div>
+        ))}
+      </div>
+    </section>
+
+    <!-- Standings + live feed -->
+    <section class="mt-12 grid lg:grid-cols-3 gap-6" aria-label="Standings and live">
+      <div class="lg:col-span-2">
+        <h2 class="font-head text-2xl font-semibold tracking-tight mb-4">Group standings</h2>
+        <GroupStandingsWidget />
+      </div>
+      <div>
+        <h2 class="font-head text-2xl font-semibold tracking-tight mb-4">Around the world</h2>
+        <LiveScores />
+      </div>
+    </section>
+
+    <!-- Recent results / stories teasers -->
+    <section class="mt-12" aria-labelledby="recent-h">
+      <div class="flex items-end justify-between gap-4 mb-4">
+        <h2 id="recent-h" class="font-head text-2xl font-semibold tracking-tight">The week so far</h2>
+        <a href="/fixtures" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4">All results →</a>
+      </div>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        {recent.map((m) => <MatchStoryCard m={m} />)}
+      </div>
+    </section>
+
+    <!-- Rivalries -->
+    <section class="mt-14" aria-labelledby="riv-h">
+      <h2 id="riv-h" class="font-head text-2xl font-semibold tracking-tight">Featured rivalries</h2>
+      <p class="text-sm text-muted font-sans mt-0.5 mb-4">The grudges, the ghosts and the games that history won't let go.</p>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-2 gap-5">
+        {data.rivalries.map((r: any) => <RivalryCard r={r} />)}
+      </div>
+    </section>
+
+    <!-- Iconic moments -->
+    <section class="mt-14" aria-labelledby="mom-h">
+      <h2 id="mom-h" class="font-head text-2xl font-semibold tracking-tight mb-4">Iconic moments</h2>
+      <div class="grid sm:grid-cols-2 gap-4">
+        {data.moments.map((mo: any) => <MomentCard mo={mo} />)}
+      </div>
+    </section>
+
+    <!-- Trending stories -->
+    <section class="mt-14" aria-labelledby="st-h">
+      <div class="flex items-end justify-between gap-4 mb-4">
+        <h2 id="st-h" class="font-head text-2xl font-semibold tracking-tight">Trending stories</h2>
+        <a href="/stories" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4">Read more →</a>
+      </div>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        {stories.map((s) => (
+          <a href={`/stories/${s.slug}`} class="group rounded-card overflow-hidden border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow">
+            <div class="aspect-[16/10] overflow-hidden"><img src={s.image} alt={s.title} loading="lazy" width="400" height="250" class="w-full h-full object-cover" /></div>
+            <div class="p-4">
+              <span class="text-[11px] font-sans font-medium text-pitch uppercase tracking-wide">{s.category}</span>
+              <h3 class="mt-1 font-head font-semibold leading-snug group-hover:underline decoration-pitch decoration-2 underline-offset-4">{s.title}</h3>
+              <p class="mt-1.5 text-sm text-muted font-sans line-clamp-2">{s.excerpt}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Hype notes -->
+    <section class="mt-14" aria-labelledby="hype-h">
+      <h2 id="hype-h" class="font-head text-2xl font-semibold tracking-tight">Fan hype wall</h2>
+      <p class="text-sm text-muted font-sans mt-0.5 mb-5">Why do <em>you</em> care? Add your voice to the wall.</p>
+      <HypeNotes />
+    </section>
+
+    <!-- Newsletter -->
+    <section id="newsletter" class="mt-14 mb-8 scroll-mt-20">
+      <div class="relative overflow-hidden rounded-card border border-border/70 bg-surface shadow-card grain">
+        <div class="absolute inset-0 pointer-events-none" style="background: var(--hero-bg)"></div>
+        <div class="relative p-6 sm:p-10">
+          <h2 class="font-head text-2xl sm:text-3xl font-semibold tracking-tight">Never miss a story that matters</h2>
+          <p class="mt-2 text-muted font-sans max-w-lg">Get the morning's must-watch matches, the rivalries reignited and the legends saying goodbye — straight to your inbox.</p>
+          <div class="mt-5"><NewsletterForm /></div>
+        </div>
+      </div>
+    </section>
+  </main>
+</BaseLayout>

@@ -1,0 +1,74 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import MatchStoryCard from '../components/MatchStoryCard.astro';
+import { getCollection } from 'astro:content';
+import { data } from '../lib/site';
+
+const entries = await getCollection('matches');
+const matches = entries.map((e) => e.data).sort((a, b) => {
+  const order: any = { LIVE: 0, UPCOMING: 1, FINISHED: 2 };
+  if (order[a.status] !== order[b.status]) return order[a.status] - order[b.status];
+  return a.date.localeCompare(b.date) || a.time.localeCompare(b.time);
+});
+const groups = Object.keys(data.groups).sort();
+const teams = data.teams.map((t: any) => t.name).sort();
+const dates = [...new Set(matches.map((m) => m.date))].sort();
+const { fmtDate } = await import('../lib/site');
+---
+<BaseLayout title="Fixtures & Schedule — World Cup 2026 | MatchTales" description="Every 2026 World Cup fixture with a Why-Care score and the story behind it. Filter by group, date or team.">
+  <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
+    <header class="mt-8">
+      <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">Fixtures & Schedule</h1>
+      <p class="mt-2 text-muted font-sans max-w-2xl">Every match, ranked and explained. Filter by group, date or your team — and flip on spoiler-free mode if you're catching up.</p>
+    </header>
+
+    <!-- Filters -->
+    <div class="mt-6 rounded-card border border-border/80 bg-surface p-4 shadow-card sticky top-16 z-30" data-testid="fixture-filters">
+      <div class="grid sm:grid-cols-4 gap-3">
+        <label class="block"><span class="text-[11px] uppercase tracking-wide text-muted font-sans">Group</span>
+          <select id="f-group" data-testid="filter-group" class="mt-1 h-10 w-full rounded-btn border border-border bg-bg px-2 font-sans text-sm outline-none focus-visible:ring-2 focus-visible:ring-sky"><option value="">All groups</option>{groups.map((g) => <option value={g}>Group {g}</option>)}</select>
+        </label>
+        <label class="block"><span class="text-[11px] uppercase tracking-wide text-muted font-sans">Team</span>
+          <select id="f-team" data-testid="filter-team" class="mt-1 h-10 w-full rounded-btn border border-border bg-bg px-2 font-sans text-sm outline-none focus-visible:ring-2 focus-visible:ring-sky"><option value="">All teams</option>{teams.map((t: string) => <option value={t}>{t}</option>)}</select>
+        </label>
+        <label class="block"><span class="text-[11px] uppercase tracking-wide text-muted font-sans">Status</span>
+          <select id="f-status" data-testid="filter-status" class="mt-1 h-10 w-full rounded-btn border border-border bg-bg px-2 font-sans text-sm outline-none focus-visible:ring-2 focus-visible:ring-sky"><option value="">All</option><option value="LIVE">Live</option><option value="UPCOMING">Upcoming</option><option value="FINISHED">Finished</option></select>
+        </label>
+        <label class="flex items-end gap-2 pb-1"><input id="f-spoiler" data-testid="filter-spoiler" type="checkbox" class="w-4 h-4 accent-pitch" /><span class="text-sm font-sans">Spoiler-free (hide scores)</span></label>
+      </div>
+      <p id="f-count" class="mt-2 text-[12px] text-muted font-sans"></p>
+    </div>
+
+    <div id="fixtures-grid" class="mt-6 grid sm:grid-cols-2 lg:grid-cols-3 gap-4 pb-10">
+      {matches.map((m) => (
+        <div class="fx-item" data-group={m.group} data-status={m.status} data-home={m.home} data-away={m.away}>
+          <MatchStoryCard m={m} />
+        </div>
+      ))}
+    </div>
+    <p id="fx-empty" class="hidden text-center text-muted font-sans py-12">No matches fit those filters. Try widening your search.</p>
+  </main>
+  <script>
+    function bindFilters(){
+      const grid=document.getElementById('fixtures-grid'); if(!grid||grid.dataset.bound)return; grid.dataset.bound='1';
+      const items=[...document.querySelectorAll('.fx-item')];
+      const fg=document.getElementById('f-group'), ft=document.getElementById('f-team'), fs=document.getElementById('f-status'), fsp=document.getElementById('f-spoiler');
+      const count=document.getElementById('f-count'), empty=document.getElementById('fx-empty');
+      function apply(){
+        const g=fg.value, t=ft.value, s=fs.value, sp=fsp.checked; let n=0;
+        items.forEach((it)=>{
+          const ok=(!g||it.dataset.group===g)&&(!s||it.dataset.status===s)&&(!t||it.dataset.home===t||it.dataset.away===t);
+          it.classList.toggle('hidden',!ok); if(ok)n++;
+        });
+        document.querySelectorAll('[data-testid="match-story-card"]').forEach((c)=>{
+          c.querySelectorAll('.tabular-nums').forEach((sc)=>{ if(sc.closest('.fx-item')) sc.style.visibility = sp ? 'hidden' : ''; });
+        });
+        count.textContent = `${n} match${n===1?'':'es'} shown`;
+        empty.classList.toggle('hidden', n>0);
+      }
+      [fg,ft,fs,fsp].forEach((el)=>el.addEventListener('change',apply)); apply();
+    }
+    bindFilters();
+    document.addEventListener('astro:after-swap', bindFilters);
+  </script>
+</BaseLayout>

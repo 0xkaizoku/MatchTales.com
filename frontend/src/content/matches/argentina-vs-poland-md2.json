@@ -1,0 +1,62 @@
+{
+  "headline": "Kings vs. a Legend's Last Dance",
+  "whyCareScore": 9.2,
+  "whyCareReason": "The reigning world champions face a nation's fading golden window, with Robert Lewandowski chasing the one trophy that has always eluded him — and Atlanta about to feel every second of it.",
+  "teaser": "Argentina are the team every group fears, and Poland have a striker who has spent his entire career proving he belongs on the biggest stages. June 19th in Atlanta is the kind of game that produces memories you describe to your grandchildren.",
+  "story": "Mercedes-Benz Stadium will host a lot of football this summer, but few matches will carry this particular weight. Argentina arrive in Atlanta as what they are — world champions, the standard everyone else is measured against, a squad still buzzing with the same collective electricity that lit up Qatar three and a half years ago. Lionel Messi may no longer be the only story, but the culture he built is very much alive in Lautaro Martínez's hunger and Julián Álvarez's relentless pressing.\n\nPoland's story is different, and honestly more poignant. Robert Lewandowski is 37 years old, still strong, still lethal, still capable of the kind of moment that silences a stadium. But the clock is ticking loudly. This is almost certainly his last World Cup, and every time he pulls on that white and red shirt, you sense a man trying to write a final, definitive chapter in a career that has lacked only this — a deep run, a real shot.\n\nEenzo Fernández will be tasked with controlling midfield tempo, while Piotr Zieliński's clever movement could unlock spaces Argentina aren't used to conceding. This is matchday two, which means both sides will have a sense of the group's shape — and that clarity tends to sharpen minds and quicken pulses beautifully.",
+  "stakes": "A win for Argentina would put them in commanding control of Group D and almost certainly book their knockout-stage ticket with a game to spare. For Poland, anything less than three points begins to make their path brutally narrow — drop points here, and the pressure on their final group game becomes almost suffocating.",
+  "rivalryAngle": "These two sides met in Qatar 2022's group stage, a match Argentina needed and eventually won 2-0, with Lewandowski missing a penalty before the scoreline settled. That memory lives in the Polish camp. There is unfinished business in the most literal sense, and Lewandowski has never been the type to let a slight — or a missed spot-kick — go unanswered for long.",
+  "funFacts": [
+    "Argentina's 2022 World Cup squad scored in every single group game on their way to the title in Qatar — they will be desperate to maintain that scoring momentum from minute one.",
+    "Robert Lewandowski has scored 82 international goals for Poland, but has never gone past the round of 16 at a World Cup — a fact that motivates and haunts in equal measure.",
+    "Mercedes-Benz Stadium in Atlanta holds over 71,000 fans and was the venue for the 1996 Olympic football final — it knows how to host a moment."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Robert Lewandowski",
+      "team": "Poland",
+      "hook": "At 37 and on his final World Cup stage, every touch carries the weight of a career-long ambition — he needs a big game here more than he has needed anything in years."
+    },
+    {
+      "name": "Lautaro Martínez",
+      "team": "Argentina",
+      "hook": "The man who inherited Messi's number nine shirt and the expectation that comes with it; if Argentina want to assert dominance early, it runs through him."
+    },
+    {
+      "name": "Enzo Fernández",
+      "team": "Argentina",
+      "hook": "The midfield engine whose ability to win the ball and immediately shift the tempo gives Argentina their rhythm — if he dominates the centre, Argentina likely dominate the match."
+    },
+    {
+      "name": "Piotr Zieliński",
+      "team": "Poland",
+      "hook": "Quietly one of Europe's most intelligent midfielders, Zieliński has the technical quality to find Lewandowski in spaces that shouldn't exist — Poland's best hope of pulling off something special."
+    }
+  ],
+  "headToHead": "The most recent chapter came in Qatar 2022 — Argentina won 2-0 in a tense group-stage meeting that featured a Lewandowski penalty miss saved by Emiliano Martínez. Poland go into this one with something to prove and a very specific grievance to settle.",
+  "tags": [
+    "argentina",
+    "poland",
+    "group d",
+    "world cup 2026",
+    "atlanta"
+  ],
+  "slug": "argentina-vs-poland-md2",
+  "home": "Argentina",
+  "away": "Poland",
+  "homeCode": "ARG",
+  "awayCode": "POL",
+  "homeFlag": "🇦🇷",
+  "awayFlag": "🇵🇱",
+  "group": "D",
+  "matchday": 2,
+  "date": "2026-06-19",
+  "time": "21:00",
+  "venue": "Mercedes-Benz Stadium",
+  "city": "Atlanta",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null
+}

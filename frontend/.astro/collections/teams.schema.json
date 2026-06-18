@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "slug": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "dossier": {
+      "type": "string"
+    },
+    "whatToWatch": {
+      "type": "string"
+    },
+    "xFactor": {
+      "type": "string"
+    },
+    "verdict": {
+      "type": "string"
+    },
+    "funFacts": {
+      "default": [],
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "$schema": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "slug",
+    "name",
+    "dossier",
+    "whatToWatch",
+    "xFactor",
+    "verdict"
+  ]
+}

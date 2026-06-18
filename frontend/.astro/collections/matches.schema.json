@@ -1,0 +1,215 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "slug": {
+      "type": "string"
+    },
+    "headline": {
+      "type": "string"
+    },
+    "whyCareScore": {
+      "type": "number"
+    },
+    "whyCareReason": {
+      "type": "string"
+    },
+    "teaser": {
+      "type": "string"
+    },
+    "story": {
+      "type": "string"
+    },
+    "stakes": {
+      "type": "string"
+    },
+    "rivalryAngle": {
+      "type": "string"
+    },
+    "funFacts": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "keyPlayers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "team": {
+            "type": "string"
+          },
+          "hook": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "team",
+          "hook"
+        ]
+      }
+    },
+    "headToHead": {
+      "default": "",
+      "type": "string"
+    },
+    "tags": {
+      "default": [],
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "home": {
+      "type": "string"
+    },
+    "away": {
+      "type": "string"
+    },
+    "homeCode": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "awayCode": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "homeFlag": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "awayFlag": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "group": {
+      "type": "string"
+    },
+    "matchday": {
+      "type": "number"
+    },
+    "date": {
+      "type": "string"
+    },
+    "time": {
+      "type": "string"
+    },
+    "venue": {
+      "type": "string"
+    },
+    "city": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "homeScore": {
+      "anyOf": [
+        {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "awayScore": {
+      "anyOf": [
+        {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "marquee": {
+      "default": false,
+      "type": "boolean"
+    },
+    "liveMinute": {
+      "anyOf": [
+        {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "$schema": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "slug",
+    "headline",
+    "whyCareScore",
+    "whyCareReason",
+    "teaser",
+    "story",
+    "stakes",
+    "rivalryAngle",
+    "funFacts",
+    "keyPlayers",
+    "home",
+    "away",
+    "group",
+    "matchday",
+    "date",
+    "time",
+    "venue",
+    "city",
+    "status"
+  ]
+}
