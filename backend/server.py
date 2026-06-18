@@ -11,6 +11,8 @@ from typing import List, Optional
 import uuid
 from datetime import datetime, timezone
 import httpx
+import asyncio
+import sys
 
 ROOT_DIR = Path(__file__).parent
 load_dotenv(ROOT_DIR / '.env')
@@ -197,73 +199,156 @@ async def like_hype_note(note_id: str):
 # ---- Football-Data proxy (server-side, key hidden) ----
 @api_router.get("/live-scores")
 async def live_scores():
-    """Return matches for available competitions (mocked for manual management)."""
-    out = {
+    """Return matches for available competitions (mocked for manual management or real proxy)."""
+    if not FOOTBALL_API_KEY:
+        return {
+            "competitions": [
+                {
+                    "id": 2001,
+                    "name": "FIFA World Cup 2026",
+                    "code": "WC",
+                    "area": "North America",
+                    "emblem": None,
+                    "currentMatchday": 1
+                },
+                {
+                    "id": 2002,
+                    "name": "Premier League",
+                    "code": "PL",
+                    "area": "England",
+                    "emblem": None,
+                    "currentMatchday": 38
+                },
+                {
+                    "id": 2003,
+                    "name": "La Liga",
+                    "code": "PD",
+                    "area": "Spain",
+                    "emblem": None,
+                    "currentMatchday": 38
+                }
+            ],
+            "fetchedAt": now_iso()
+        }
+
+    cache_key = "live_scores_comps"
+    cached = cache_get(cache_key)
+    if cached is not _CACHE_MISS:
+        return cached
+
+    try:
+        headers = {"X-Auth-Token": FOOTBALL_API_KEY}
+        async with httpx.AsyncClient() as client:
+            resp = await client.get(f"{FOOTBALL_BASE}/competitions", headers=headers, timeout=10)
+            if resp.status_code == 200:
+                data = resp.json()
+                comps = []
+                for c in data.get("competitions", []):
+                    comps.append({
+                        "id": c.get("id"),
+                        "name": c.get("name"),
+                        "code": c.get("code"),
+                        "area": c.get("area", {}).get("name"),
+                        "emblem": c.get("emblem"),
+                        "currentMatchday": c.get("currentSeason", {}).get("currentMatchday", 1)
+                    })
+                out = {
+                    "competitions": comps,
+                    "fetchedAt": now_iso()
+                }
+                cache_set(cache_key, out)
+                return out
+            else:
+                logger.error(f"Error fetching comps from Football-Data: {resp.status_code} - {resp.text}")
+    except Exception as e:
+        logger.error(f"Exception fetching comps from Football-Data: {e}")
+
+    return {
         "competitions": [
-            {
-                "id": 2001,
-                "name": "FIFA World Cup 2026",
-                "code": "WC",
-                "area": "North America",
-                "emblem": None,
-                "currentMatchday": 1
-            },
-            {
-                "id": 2002,
-                "name": "Premier League",
-                "code": "PL",
-                "area": "England",
-                "emblem": None,
-                "currentMatchday": 38
-            },
-            {
-                "id": 2003,
-                "name": "La Liga",
-                "code": "PD",
-                "area": "Spain",
-                "emblem": None,
-                "currentMatchday": 38
-            }
+            {"id": 2001, "name": "FIFA World Cup 2026", "code": "WC", "area": "North America", "emblem": None, "currentMatchday": 1}
         ],
         "fetchedAt": now_iso()
     }
-    return out
 
 
 @api_router.get("/live-scores/{competition_code}")
 async def competition_matches(competition_code: str):
-    """Return matches for a competition (mocked for manual management)."""
-    out = {
+    """Return matches for a competition (mocked or real proxy)."""
+    if not FOOTBALL_API_KEY:
+        return {
+            "competition": competition_code,
+            "matches": [
+                {
+                    "id": 1,
+                    "utcDate": now_iso(),
+                    "status": "IN_PLAY",
+                    "matchday": 1,
+                    "home": "United States",
+                    "away": "Mexico",
+                    "homeCrest": None,
+                    "awayCrest": None,
+                    "homeScore": 2,
+                    "awayScore": 1
+                },
+                {
+                    "id": 2,
+                    "utcDate": now_iso(),
+                    "status": "TIMED",
+                    "matchday": 1,
+                    "home": "Canada",
+                    "away": "Honduras",
+                    "homeCrest": None,
+                    "awayCrest": None,
+                    "homeScore": None,
+                    "awayScore": None
+                }
+            ],
+            "fetchedAt": now_iso()
+        }
+
+    cache_key = f"live_scores_matches_{competition_code}"
+    cached = cache_get(cache_key)
+    if cached is not _CACHE_MISS:
+        return cached
+
+    try:
+        headers = {"X-Auth-Token": FOOTBALL_API_KEY}
+        async with httpx.AsyncClient() as client:
+            resp = await client.get(f"{FOOTBALL_BASE}/competitions/{competition_code}/matches", headers=headers, timeout=10)
+            if resp.status_code == 200:
+                data = resp.json()
+                matches = []
+                for m in data.get("matches", []):
+                    matches.append({
+                        "id": m.get("id"),
+                        "utcDate": m.get("utcDate"),
+                        "status": m.get("status"),
+                        "matchday": m.get("matchday"),
+                        "home": m.get("homeTeam", {}).get("name"),
+                        "away": m.get("awayTeam", {}).get("name"),
+                        "homeCrest": m.get("homeTeam", {}).get("crest"),
+                        "awayCrest": m.get("awayTeam", {}).get("crest"),
+                        "homeScore": m.get("score", {}).get("fullTime", {}).get("home"),
+                        "awayScore": m.get("score", {}).get("fullTime", {}).get("away"),
+                    })
+                out = {
+                    "competition": competition_code,
+                    "matches": matches,
+                    "fetchedAt": now_iso()
+                }
+                cache_set(cache_key, out)
+                return out
+            else:
+                logger.error(f"Error fetching matches from Football-Data: {resp.status_code} - {resp.text}")
+    except Exception as e:
+        logger.error(f"Exception fetching matches from Football-Data: {e}")
+
+    return {
         "competition": competition_code,
-        "matches": [
-            {
-                "id": 1,
-                "utcDate": now_iso(),
-                "status": "IN_PLAY",
-                "matchday": 1,
-                "home": "United States",
-                "away": "Mexico",
-                "homeCrest": None,
-                "awayCrest": None,
-                "homeScore": 2,
-                "awayScore": 1
-            },
-            {
-                "id": 2,
-                "utcDate": now_iso(),
-                "status": "TIMED",
-                "matchday": 1,
-                "home": "Canada",
-                "away": "Honduras",
-                "homeCrest": None,
-                "awayCrest": None,
-                "homeScore": None,
-                "awayScore": None
-            }
-        ],
+        "matches": [],
         "fetchedAt": now_iso()
     }
-    return out
+
 
 
 # ---- Match poll (second-screen) ----
@@ -305,6 +390,104 @@ app.add_middleware(
 
 
 
+# ---- Automation Endpoints & Background Loop ----
+async def run_automation_loop():
+    interval_mins = int(os.environ.get("AUTOMATION_INTERVAL_MINUTES", "30"))
+    interval_seconds = interval_mins * 60
+    logger.info(f"Background automation loop started. Runs every {interval_mins} minutes.")
+    
+    script_name = "daily_automated_run.py" if os.environ.get("AUTOMATION_TYPE", "daily") == "daily" else "automate_updates.py"
+    script_path = str(ROOT_DIR / "backend" / "scripts" / script_name)
+    
+    while True:
+        await asyncio.sleep(interval_seconds)
+        try:
+            logger.info(f"Executing scheduled periodic MatchTales updates using {script_name}...")
+            cmd = [sys.executable, script_path, "--write"]
+            if os.environ.get("AUTO_COMMIT") == "true":
+                cmd.append("--commit")
+            
+            process = await asyncio.create_subprocess_exec(
+                *cmd,
+                stdout=asyncio.subprocess.PIPE,
+                stderr=asyncio.subprocess.PIPE
+            )
+            stdout, stderr = await process.communicate()
+            if process.returncode == 0:
+                logger.info(f"Scheduled updates completed successfully:\n{stdout.decode('utf-8', errors='ignore')}")
+            else:
+                logger.error(f"Scheduled updates failed (code {process.returncode}):\n{stderr.decode('utf-8', errors='ignore')}")
+        except Exception as e:
+            logger.error(f"Exception in scheduled updates: {e}")
+
+
+@api_router.post("/automate/trigger")
+async def trigger_automation():
+    """Manually trigger the sync and content generation (standard API scores)."""
+    script_path = str(ROOT_DIR / "backend" / "scripts" / "automate_updates.py")
+    cmd = [sys.executable, script_path, "--write"]
+    if os.environ.get("AUTO_COMMIT") == "true":
+        cmd.append("--commit")
+        
+    try:
+        process = await asyncio.create_subprocess_exec(
+            *cmd,
+            stdout=asyncio.subprocess.PIPE,
+            stderr=asyncio.subprocess.PIPE
+        )
+        stdout, stderr = await process.communicate()
+        out_log = stdout.decode('utf-8', errors='ignore')
+        err_log = stderr.decode('utf-8', errors='ignore')
+        
+        if process.returncode == 0:
+            return {"ok": True, "message": "Automation triggered successfully", "output": out_log}
+        else:
+            raise HTTPException(status_code=500, detail={
+                "message": f"Automation script failed with exit code {process.returncode}",
+                "error": err_log,
+                "output": out_log
+            })
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to execute automation script: {str(e)}")
+
+
+@api_router.post("/automate/daily-run")
+async def trigger_daily_run():
+    """Manually trigger the daily web scraping and newsletter run."""
+    script_path = str(ROOT_DIR / "backend" / "scripts" / "daily_automated_run.py")
+    cmd = [sys.executable, script_path, "--write"]
+    if os.environ.get("AUTO_COMMIT") == "true":
+        cmd.append("--commit")
+        
+    try:
+        process = await asyncio.create_subprocess_exec(
+            *cmd,
+            stdout=asyncio.subprocess.PIPE,
+            stderr=asyncio.subprocess.PIPE
+        )
+        stdout, stderr = await process.communicate()
+        out_log = stdout.decode('utf-8', errors='ignore')
+        err_log = stderr.decode('utf-8', errors='ignore')
+        
+        if process.returncode == 0:
+            return {"ok": True, "message": "Daily automation run triggered successfully", "output": out_log}
+        else:
+            raise HTTPException(status_code=500, detail={
+                "message": f"Daily automation script failed with exit code {process.returncode}",
+                "error": err_log,
+                "output": out_log
+            })
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to execute daily automation script: {str(e)}")
+
+
+@app.on_event("startup")
+async def startup_event():
+    if os.environ.get("AUTOMATION_ENABLED") == "true":
+        asyncio.create_task(run_automation_loop())
+
+
 @app.on_event("shutdown")
 async def shutdown_db_client():
     client.close()
+
