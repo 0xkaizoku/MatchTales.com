@@ -83,6 +83,23 @@ const ogImageURL = image.startsWith('http') ? image : new URL(image, SITE.url).h
       })();
     </script>
 
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XEGR6KYB3M" is:inline></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-XEGR6KYB3M');
+
+      document.addEventListener('astro:page-load', () => {
+        gtag('event', 'page_view', {
+          page_path: window.location.pathname,
+          page_title: document.title,
+          page_location: window.location.href
+        });
+      });
+    </script>
+
     <ClientRouter />
   </head>
   <body class="min-h-screen flex flex-col">
