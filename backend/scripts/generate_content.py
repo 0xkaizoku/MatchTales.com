@@ -58,10 +58,52 @@ def extract_json(text: str) -> Dict[str, Any]:
 
 
 async def claude(session: str, prompt: str, max_tokens: int = 2200) -> str:
-    from emergentintegrations.llm.chat import LlmChat, UserMessage
-    chat = LlmChat(api_key=EMERGENT_KEY, session_id=session, system_message=VOICE).with_model("anthropic", "claude-sonnet-4-6")
+    import httpx
+    api_key = os.environ.get("ANTHROPIC_API_KEY", "")
+    if not api_key:
+        # Fallback to mock generation if no Anthropic key is present
+        if "fixtures" in prompt or "match" in prompt:
+            return json.dumps({
+                "headline": "Mock Hype Headline",
+                "whyCareScore": 8.2,
+                "whyCareReason": "This is a mock why-care reason for this match.",
+                "teaser": "Mock teaser sentence. Another mock teaser sentence.",
+                "story": "Mock paragraph one.\n\nMock paragraph two.\n\nMock paragraph three.",
+                "stakes": "Mock stakes description here.",
+                "rivalryAngle": "Mock rivalry details.",
+                "funFacts": ["Mock fact A", "Mock fact B", "Mock fact C"],
+                "keyPlayers": [{"name": "Player A", "team": "Team A", "hook": "why they matter"}, {"name": "Player B", "team": "Team B", "hook": "why they matter"}]
+            })
+        elif "story" in prompt or "editorial" in prompt:
+            return json.dumps({
+                "subtitle": "A mock editorial subtitle",
+                "body": "## Section Heading\n\nMock body paragraph for story."
+            })
+        else:
+            return json.dumps({
+                "dossier": "Mock team dossier paragraph one.\n\nMock team dossier paragraph two.",
+                "whatToWatch": "Mock watch reason details.",
+                "xFactor": "Mock x-factor player details.",
+                "verdict": "Mock tournament verdict prediction.",
+                "funFacts": ["Mock extra fact 1", "Mock extra fact 2"]
+            })
+
+    headers = {
+        "x-api-key": api_key,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+    }
+    data = {
+        "model": "claude-3-5-sonnet-20241022",
+        "max_tokens": max_tokens,
+        "system": VOICE,
+        "messages": [{"role": "user", "content": prompt}],
+    }
     async with SEM:
-        return await chat.send_message(UserMessage(text=prompt))
+        async with httpx.AsyncClient(timeout=60.0) as client:
+            resp = await client.post("https://api.anthropic.com/v1/messages", headers=headers, json=data)
+            resp.raise_for_status()
+            return resp.json()["content"][0]["text"]
 
 
 # ---------------- MATCHES ----------------

@@ -1,0 +1,15 @@
+{
+  "venvPath": "c:/Users/THIS PC/Downloads/match2-main/match2-main",
+  "venv": ".venv",
+  "extraPaths": [
+    "c:/Users/THIS PC/Downloads/match2-main/match2-main/frontend/api",
+    "c:/Users/THIS PC/Downloads/match2-main/match2-main/backend",
+    "c:/Users/THIS PC/Downloads/match2-main/match2-main/.venv/Lib/site-packages"
+  ],
+  "exclude": [
+    "**/node_modules",
+    "**/__pycache__",
+    "c:/__pyrefly_virtual__",
+    "__pyrefly_virtual__"
+  ]
+}
