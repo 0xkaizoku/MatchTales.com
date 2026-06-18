@@ -20,6 +20,13 @@ load_dotenv(ROOT_DIR / '.env')
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
+
+def get_script_path(script_name: str) -> str:
+    path = ROOT_DIR / "scripts" / script_name
+    if not path.exists():
+        path = ROOT_DIR / "backend" / "scripts" / script_name
+    return str(path)
+
 # MongoDB connection
 mongo_url = os.environ.get('MONGO_URL', 'mongodb://localhost:27017')
 client = AsyncIOMotorClient(mongo_url)
@@ -397,7 +404,7 @@ async def run_automation_loop():
     logger.info(f"Background automation loop started. Runs every {interval_mins} minutes.")
     
     script_name = "daily_automated_run.py" if os.environ.get("AUTOMATION_TYPE", "daily") == "daily" else "automate_updates.py"
-    script_path = str(ROOT_DIR / "backend" / "scripts" / script_name)
+    script_path = get_script_path(script_name)
     
     while True:
         await asyncio.sleep(interval_seconds)
@@ -424,7 +431,7 @@ async def run_automation_loop():
 @api_router.post("/automate/trigger")
 async def trigger_automation():
     """Manually trigger the sync and content generation (standard API scores)."""
-    script_path = str(ROOT_DIR / "backend" / "scripts" / "automate_updates.py")
+    script_path = get_script_path("automate_updates.py")
     cmd = [sys.executable, script_path, "--write"]
     if os.environ.get("AUTO_COMMIT") == "true":
         cmd.append("--commit")
@@ -454,7 +461,7 @@ async def trigger_automation():
 @api_router.post("/automate/daily-run")
 async def trigger_daily_run():
     """Manually trigger the daily web scraping and newsletter run."""
-    script_path = str(ROOT_DIR / "backend" / "scripts" / "daily_automated_run.py")
+    script_path = get_script_path("daily_automated_run.py")
     cmd = [sys.executable, script_path, "--write"]
     if os.environ.get("AUTO_COMMIT") == "true":
         cmd.append("--commit")
