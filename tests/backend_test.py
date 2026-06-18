@@ -8,6 +8,10 @@ import sys
 import time
 from datetime import datetime
 
+# Handle Windows emoji stdout printing
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
+
 class MatchTalesAPITester:
     def __init__(self, base_url="https://whycare-fc.preview.emergentagent.com"):
         self.base_url = base_url
@@ -403,7 +407,10 @@ class MatchTalesAPITester:
         return 0 if self.tests_passed == self.tests_run else 1
 
 def main():
-    tester = MatchTalesAPITester()
+    base_url = "https://whycare-fc.preview.emergentagent.com"
+    if len(sys.argv) > 1:
+        base_url = sys.argv[1]
+    tester = MatchTalesAPITester(base_url=base_url)
     exit_code = tester.run_all_tests()
     sys.exit(exit_code)
 

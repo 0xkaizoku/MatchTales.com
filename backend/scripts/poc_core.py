@@ -8,10 +8,14 @@ Run: python3 scripts/poc_core.py
 """
 import os
 import json
+import sys
 import asyncio
 import requests
 from pathlib import Path
 from dotenv import load_dotenv
+
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
 
 load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 

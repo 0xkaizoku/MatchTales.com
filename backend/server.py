@@ -197,71 +197,72 @@ async def like_hype_note(note_id: str):
 # ---- Football-Data proxy (server-side, key hidden) ----
 @api_router.get("/live-scores")
 async def live_scores():
-    """Return matches for available competitions (free tier) as a supplemental live widget."""
-    cache_key = "live-scores"
-    cached = cache_get(cache_key)
-    if cached is not _CACHE_MISS:
-        return cached
-    if not FOOTBALL_API_KEY:
-        raise HTTPException(status_code=503, detail="Live data not configured")
-    headers = {"X-Auth-Token": FOOTBALL_API_KEY}
-    out = {"competitions": [], "fetchedAt": now_iso()}
-    try:
-        async with httpx.AsyncClient(timeout=20) as cx:
-            comps_res = await cx.get(f"{FOOTBALL_BASE}/competitions", headers=headers)
-            comps_res.raise_for_status()
-            comps = comps_res.json().get("competitions", [])[:6]
-            for c in comps:
-                out["competitions"].append({
-                    "id": c["id"],
-                    "name": c["name"],
-                    "code": c["code"],
-                    "area": c["area"]["name"],
-                    "emblem": c.get("emblem"),
-                    "currentMatchday": c.get("currentSeason", {}).get("currentMatchday"),
-                })
-    except httpx.HTTPStatusError as e:
-        raise HTTPException(status_code=502, detail=f"Upstream error: {e.response.status_code}")
-    except Exception as e:
-        raise HTTPException(status_code=502, detail=f"Live data unavailable: {str(e)[:120]}")
-    cache_set(cache_key, out)
+    """Return matches for available competitions (mocked for manual management)."""
+    out = {
+        "competitions": [
+            {
+                "id": 2001,
+                "name": "FIFA World Cup 2026",
+                "code": "WC",
+                "area": "North America",
+                "emblem": None,
+                "currentMatchday": 1
+            },
+            {
+                "id": 2002,
+                "name": "Premier League",
+                "code": "PL",
+                "area": "England",
+                "emblem": None,
+                "currentMatchday": 38
+            },
+            {
+                "id": 2003,
+                "name": "La Liga",
+                "code": "PD",
+                "area": "Spain",
+                "emblem": None,
+                "currentMatchday": 38
+            }
+        ],
+        "fetchedAt": now_iso()
+    }
     return out
 
 
 @api_router.get("/live-scores/{competition_code}")
 async def competition_matches(competition_code: str):
-    cache_key = f"comp-{competition_code}"
-    cached = cache_get(cache_key)
-    if cached is not _CACHE_MISS:
-        return cached
-    if not FOOTBALL_API_KEY:
-        raise HTTPException(status_code=503, detail="Live data not configured")
-    headers = {"X-Auth-Token": FOOTBALL_API_KEY}
-    try:
-        async with httpx.AsyncClient(timeout=20) as cx:
-            res = await cx.get(f"{FOOTBALL_BASE}/competitions/{competition_code}/matches", headers=headers)
-            res.raise_for_status()
-            data = res.json()
-            matches = []
-            for m in data.get("matches", [])[:30]:
-                matches.append({
-                    "id": m["id"],
-                    "utcDate": m["utcDate"],
-                    "status": m["status"],
-                    "matchday": m.get("matchday"),
-                    "home": m["homeTeam"].get("shortName") or m["homeTeam"].get("name"),
-                    "away": m["awayTeam"].get("shortName") or m["awayTeam"].get("name"),
-                    "homeCrest": m["homeTeam"].get("crest"),
-                    "awayCrest": m["awayTeam"].get("crest"),
-                    "homeScore": m["score"]["fullTime"].get("home"),
-                    "awayScore": m["score"]["fullTime"].get("away"),
-                })
-            out = {"competition": competition_code, "matches": matches, "fetchedAt": now_iso()}
-    except httpx.HTTPStatusError as e:
-        raise HTTPException(status_code=502, detail=f"Upstream error: {e.response.status_code}")
-    except Exception as e:
-        raise HTTPException(status_code=502, detail=f"Live data unavailable: {str(e)[:120]}")
-    cache_set(cache_key, out)
+    """Return matches for a competition (mocked for manual management)."""
+    out = {
+        "competition": competition_code,
+        "matches": [
+            {
+                "id": 1,
+                "utcDate": now_iso(),
+                "status": "IN_PLAY",
+                "matchday": 1,
+                "home": "United States",
+                "away": "Mexico",
+                "homeCrest": None,
+                "awayCrest": None,
+                "homeScore": 2,
+                "awayScore": 1
+            },
+            {
+                "id": 2,
+                "utcDate": now_iso(),
+                "status": "TIMED",
+                "matchday": 1,
+                "home": "Canada",
+                "away": "Honduras",
+                "homeCrest": None,
+                "awayCrest": None,
+                "homeScore": None,
+                "awayScore": None
+            }
+        ],
+        "fetchedAt": now_iso()
+    }
     return out
 
 
