@@ -54,9 +54,9 @@
   "time": "20:00",
   "venue": "Rose Bowl",
   "city": "Los Angeles",
-  "status": "LIVE",
-  "homeScore": "1",
-  "awayScore": "1",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 1,
   "marquee": true,
-  "liveMinute": 67
+  "liveMinute": null
 }

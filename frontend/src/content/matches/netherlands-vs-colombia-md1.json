@@ -1,0 +1,44 @@
+{
+  "headline": "Mock Hype Headline",
+  "whyCareScore": 8.2,
+  "whyCareReason": "This is a mock why-care reason for this match.",
+  "teaser": "Mock teaser sentence. Another mock teaser sentence.",
+  "story": "Mock paragraph one.\n\nMock paragraph two.\n\nMock paragraph three.",
+  "stakes": "Mock stakes description here.",
+  "rivalryAngle": "Mock rivalry details.",
+  "funFacts": [
+    "Mock fact A",
+    "Mock fact B",
+    "Mock fact C"
+  ],
+  "keyPlayers": [
+    {
+      "name": "Player A",
+      "team": "Team A",
+      "hook": "why they matter"
+    },
+    {
+      "name": "Player B",
+      "team": "Team B",
+      "hook": "why they matter"
+    }
+  ],
+  "slug": "netherlands-vs-colombia-md1",
+  "home": "Netherlands",
+  "away": "Colombia",
+  "homeCode": "NED",
+  "awayCode": "COL",
+  "homeFlag": "🇳🇱",
+  "awayFlag": "🇨🇴",
+  "group": "K",
+  "matchday": 1,
+  "date": "2026-06-17",
+  "time": "16:00",
+  "venue": "Mercedes-Benz Stadium",
+  "city": "Atlanta",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 1,
+  "marquee": false,
+  "liveMinute": null
+}

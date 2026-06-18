@@ -139,11 +139,11 @@ team("Norway","NOR","🇳🇴","E","UEFA",24,"Løvene",0,"Round of 16 (1998)","#
      "A goal machine and a captain-artist finally on the biggest stage together.")
 
 # Group F
-team("England","ENG","🏴",  "F","UEFA",4,"Three Lions",1,"Champions (1966)","#CE1124",
+team("England","ENG","🏴",  "L","UEFA",4,"Three Lions",1,"Champions (1966)","#CE1124",
      [["Jude Bellingham","Midfield"],["Harry Kane","Striker"],["Bukayo Saka","Winger"]],
      "England have lost to Croatia in a World Cup semi-final (2018) and to Italy in a Euro final on penalties — the near-misses haunt them.",
      "A golden generation desperate to finally bring it home, starting with a 2018 score to settle.")
-team("Croatia","CRO","🇭🇷","F","UEFA",10,"Vatreni",0,"Runners-up (2018), Third (2022)","#FF0000",
+team("Croatia","CRO","🇭🇷","L","UEFA",10,"Vatreni",0,"Runners-up (2018), Third (2022)","#FF0000",
      [["Luka Modrić","Midfield"],["Joško Gvardiol","Defender"],["Mateo Kovačić","Midfield"]],
      "Luka Modrić, the 2018 Ballon d'Or winner, is chasing one final tournament miracle at 40 years old.",
      "The ultimate big-game team — small nation, enormous heart, and a maestro's last waltz.")
@@ -151,7 +151,7 @@ team("Egypt","EGY","🇪🇬","F","CAF",36,"The Pharaohs",0,"Group stage (1934, 
      [["Mohamed Salah","Forward"],["Omar Marmoush","Striker"],["Mohamed Elneny","Midfield"]],
      "Mohamed Salah carried Egypt to the 2018 World Cup but injury robbed him of his moment — he's back for redemption.",
      "A pharaoh's last quest: Salah dragging Egypt toward a first knockout stage in the modern era.")
-team("Panama","PAN","🇵🇦","F","CONCACAF",40,"La Marea Roja",0,"Group stage (2018)","#DA121A",
+team("Panama","PAN","🇵🇦","L","CONCACAF",40,"La Marea Roja",0,"Group stage (2018)","#DA121A",
      [["Adalberto Carrasquilla","Midfield"],["José Fajardo","Striker"],["Orlando Mosquera","Goalkeeper"]],
      "Panama's first-ever World Cup goal in 2018 was treated as a national holiday back home.",
      "Tiny nation, massive belief — the romantics of Group F.")
@@ -169,7 +169,7 @@ team("Qatar","QAT","🇶🇦","G","AFC",34,"Al Annabi",0,"Group stage (host 2022
      [["Akram Afif","Forward"],["Almoez Ali","Striker"],["Hassan Al-Haydos","Midfield"]],
      "Qatar are the reigning Asian champions, hungry to prove their 2022 host campaign wasn't the full story.",
      "Asian kings out to silence the doubters away from home.")
-team("Ghana","GHA","🇬🇭","G","CAF",61,"Black Stars",0,"Quarter-finals (2010)","#006B3F",
+team("Ghana","GHA","🇬🇭","L","CAF",61,"Black Stars",0,"Quarter-finals (2010)","#006B3F",
      [["Mohammed Kudus","Forward"],["Thomas Partey","Midfield"],["Antoine Semenyo","Winger"]],
      "Ghana were a Luis Suárez handball away from becoming the first African semi-finalists in 2010 — the wound still aches.",
      "A proud giant chasing the redemption that 2010 cruelly denied them.")
@@ -215,7 +215,7 @@ team("Germany","GER","🇩🇪","J","UEFA",9,"Die Mannschaft",4,"Champions (x4)"
      [["Jamal Musiala","Playmaker"],["Florian Wirtz","Playmaker"],["Kai Havertz","Striker"]],
      "Germany crashed out in the group stage in BOTH 2018 and 2022 — a four-time champion in crisis seeks redemption.",
      "A fallen giant rebuilt around two of the most exciting playmakers on the planet.")
-team("Colombia","COL","🇨🇴","J","CONMEBOL",12,"Los Cafeteros",0,"Quarter-finals (2014)","#FCD116",
+team("Colombia","COL","🇨🇴","K","CONMEBOL",12,"Los Cafeteros",0,"Quarter-finals (2014)","#FCD116",
      [["James Rodríguez","Playmaker"],["Luis Díaz","Winger"],["Jhon Durán","Striker"]],
      "James Rodríguez won the 2014 Golden Boot and scored a goal so good it earned a FIFA Puskás Award.",
      "Carnival football with a maestro orchestrating one last great campaign.")
@@ -237,7 +237,7 @@ team("Denmark","DEN","🇩🇰","K","UEFA",21,"Danish Dynamite",0,"Quarter-final
      [["Rasmus Højlund","Striker"],["Christian Eriksen","Midfield"],["Mikkel Damsgaard","Playmaker"]],
      "Christian Eriksen's recovery and return after collapsing at Euro 2020 is one of football's most emotional stories.",
      "A tight-knit side carrying Eriksen's miracle and a fearless collective spirit.")
-team("Jamaica","JAM","🇯🇲","K","CONCACAF",53,"Reggae Boyz",0,"Group stage (1998)","#009B3A",
+team("Jamaica","JAM","🇯🇲","J","CONCACAF",53,"Reggae Boyz",0,"Group stage (1998)","#009B3A",
      [["Leon Bailey","Winger"],["Michail Antonio","Striker"],["Demarai Gray","Forward"]],
      "Jamaica's 1998 'Reggae Boyz' campaign inspired a generation and a famously joyful travelling support.",
      "Pace, power and pure vibes — the most fun underdog in the tournament.")
@@ -247,19 +247,19 @@ team("Uzbekistan","UZB","🇺🇿","K","AFC",57,"The White Wolves",0,"First-ever
      "Debutants writing the opening page of a brand-new footballing story.")
 
 # Group L
-team("Italy","ITA","🇮🇹","L","UEFA",15,"Azzurri",4,"Champions (x4)","#0066CC",
+team("Italy","ITA","🇮🇹","F","UEFA",15,"Azzurri",4,"Champions (x4)","#0066CC",
      [["Federico Chiesa","Winger"],["Sandro Tonali","Midfield"],["Gianluca Scamacca","Striker"]],
      "Four-time champions Italy stunningly MISSED the last two World Cups — this is a redemption arc for a fallen superpower.",
      "A sleeping giant awakened, desperate to remind the world of its pedigree.")
-team("Turkey","TUR","🇹🇷","L","UEFA",27,"Ay-Yıldızlılar",0,"Third place (2002)","#E30A17",
+team("Turkey","TUR","🇹🇷","F","UEFA",27,"Ay-Yıldızlılar",0,"Third place (2002)","#E30A17",
      [["Arda Güler","Playmaker"],["Kenan Yıldız","Winger"],["Hakan Çalhanoğlu","Midfield"]],
      "Turkey's 2002 third-place run included the fastest goal in World Cup history — 10.8 seconds.",
      "A thrilling new generation led by two of Europe's brightest teenagers.")
-team("Paraguay","PAR","🇵🇾","L","CONMEBOL",44,"La Albirroja",0,"Quarter-finals (2010)","#D52B1E",
+team("Paraguay","PAR","🇵🇾","F","CONMEBOL",44,"La Albirroja",0,"Quarter-finals (2010)","#D52B1E",
      [["Julio Enciso","Playmaker"],["Miguel Almirón","Winger"],["Antonio Sanabria","Striker"]],
      "Paraguay's gritty 2010 side reached the quarter-finals without winning a single knockout game in 90 minutes.",
      "Stubborn, streetwise South Americans who make every match a battle.")
-team("DR Congo","COD","🇨🇩","L","CAF",59,"Leopards",0,"Group stage as Zaire (1974)","#007FFF",
+team("DR Congo","COD","🇨🇩","G","CAF",59,"Leopards",0,"Group stage as Zaire (1974)","#007FFF",
      [["Yoane Wissa","Striker"],["Silas Katompa","Winger"],["Chancel Mbemba","Defender"]],
      "As Zaire in 1974, they were the first Black African nation to reach a World Cup — now they return transformed.",
      "A historic name reborn, hungry to honour a pioneering legacy.")
@@ -352,26 +352,30 @@ F.append(fx("Argentina","Australia","D",1,"2026-06-13","21:00","Mercedes-Benz St
 F.append(fx("Poland","Nigeria","D",1,"2026-06-14","16:00","Gillette Stadium","Boston","FINISHED",1,2))
 F.append(fx("Spain","Costa Rica","E",1,"2026-06-14","19:00","Hard Rock Stadium","Miami","FINISHED",4,0))
 F.append(fx("Japan","Norway","E",1,"2026-06-14","13:00","Levi's Stadium","San Francisco","FINISHED",1,1,True))
-F.append(fx("England","Egypt","F",1,"2026-06-13","13:00","MetLife Stadium","New Jersey","FINISHED",2,0,True))
-F.append(fx("Croatia","Panama","F",1,"2026-06-13","19:00","Lincoln Financial Field","Philadelphia","FINISHED",3,1))
-F.append(fx("France","Ghana","G",1,"2026-06-15","21:00","NRG Stadium","Houston","FINISHED",2,1,True))
+F.append(fx("England","Ghana","L",1,"2026-06-13","13:00","MetLife Stadium","New Jersey","FINISHED",2,1,True))
+F.append(fx("Croatia","Panama","L",1,"2026-06-13","19:00","Lincoln Financial Field","Philadelphia","FINISHED",3,1))
+F.append(fx("France","DR Congo","G",1,"2026-06-15","21:00","NRG Stadium","Houston","FINISHED",2,0,True))
 F.append(fx("Uruguay","Qatar","G",1,"2026-06-15","16:00","AT&T Stadium","Dallas","FINISHED",1,0))
 F.append(fx("Brazil","Cameroon","H",1,"2026-06-15","13:00","Arrowhead Stadium","Kansas City","FINISHED",2,0,True))
 F.append(fx("Switzerland","Ecuador","H",1,"2026-06-16","16:00","Lumen Field","Seattle","FINISHED",1,1))
 F.append(fx("Portugal","Serbia","I",1,"2026-06-16","19:00","SoFi Stadium","Los Angeles","FINISHED",2,2,True))
 F.append(fx("Ivory Coast","New Zealand","I",1,"2026-06-16","13:00","BC Place","Vancouver","FINISHED",1,0))
-F.append(fx("Germany","Colombia","J",1,"2026-06-16","21:00","MetLife Stadium","New Jersey","FINISHED",2,1,True))
+F.append(fx("Germany","Jamaica","J",1,"2026-06-16","21:00","MetLife Stadium","New Jersey","FINISHED",2,0,True))
 F.append(fx("Algeria","Iraq","J",1,"2026-06-17","13:00","Gillette Stadium","Boston","FINISHED",1,0))
-F.append(fx("Netherlands","Jamaica","K",1,"2026-06-17","16:00","Mercedes-Benz Stadium","Atlanta","FINISHED",3,1))
+F.append(fx("Netherlands","Colombia","K",1,"2026-06-17","16:00","Mercedes-Benz Stadium","Atlanta","FINISHED",2,1))
 F.append(fx("Denmark","Uzbekistan","K",1,"2026-06-17","13:00","Hard Rock Stadium","Miami","FINISHED",2,0))
-F.append(fx("Italy","Paraguay","L",1,"2026-06-15","19:00","Levi's Stadium","San Francisco","FINISHED",1,0,True))
-F.append(fx("Turkey","DR Congo","L",1,"2026-06-16","16:00","NRG Stadium","Houston","FINISHED",3,1))
+F.append(fx("Italy","Paraguay","F",1,"2026-06-15","19:00","Levi's Stadium","San Francisco","FINISHED",1,0,True))
+F.append(fx("Turkey","Egypt","F",1,"2026-06-16","16:00","NRG Stadium","Houston","FINISHED",2,1))
 
-# Live now (June 17)
-F.append(fx("USA","Iran","C",2,"2026-06-17","20:00","Rose Bowl","Los Angeles","LIVE","1","1",True,67))
+# Matchday 2 (finished/live)
+F.append(fx("USA","Iran","C",2,"2026-06-17","20:00","Rose Bowl","Los Angeles","FINISHED",1,1,True))
 
-# Matchday 2 upcoming marquee
-F.append(fx("England","Croatia","F",2,"2026-06-19","16:00","MetLife Stadium","New Jersey","UPCOMING",None,None,True))
+# Matchday 2
+F.append(fx("England","Croatia","L",2,"2026-06-18","16:00","MetLife Stadium","New Jersey","FINISHED",4,2,True))
+F.append(fx("Uzbekistan","Colombia","K",2,"2026-06-18","16:00","Hard Rock Stadium","Miami","FINISHED",1,3))
+F.append(fx("Ghana","Panama","L",2,"2026-06-18","19:00","Lincoln Financial Field","Philadelphia","FINISHED",1,0))
+F.append(fx("Czechia","South Africa","A",2,"2026-06-18","21:30","Estadio Akron","Guadalajara","UPCOMING",None,None))
+
 F.append(fx("Argentina","Poland","D",2,"2026-06-19","21:00","Mercedes-Benz Stadium","Atlanta","UPCOMING",None,None,True))
 F.append(fx("France","Uruguay","G",2,"2026-06-20","19:00","AT&T Stadium","Dallas","UPCOMING",None,None,True))
 F.append(fx("Brazil","Switzerland","H",2,"2026-06-20","16:00","Arrowhead Stadium","Kansas City","UPCOMING",None,None,True))
@@ -380,7 +384,7 @@ F.append(fx("Germany","Algeria","J",2,"2026-06-21","16:00","MetLife Stadium","Ne
 F.append(fx("Portugal","Ivory Coast","I",2,"2026-06-21","19:00","SoFi Stadium","Los Angeles","UPCOMING",None,None,True))
 F.append(fx("Mexico","South Korea","A",2,"2026-06-18","20:00","Estadio Azteca","Mexico City","UPCOMING",None,None,True))
 F.append(fx("Netherlands","Denmark","K",2,"2026-06-21","13:00","Mercedes-Benz Stadium","Atlanta","UPCOMING",None,None,False))
-F.append(fx("Italy","Turkey","L",2,"2026-06-21","21:00","Levi's Stadium","San Francisco","UPCOMING",None,None,True))
+F.append(fx("Italy","Turkey","F",2,"2026-06-21","21:00","Levi's Stadium","San Francisco","UPCOMING",None,None,True))
 
 # ---- Build groups standings from finished fixtures
 groups = {}
@@ -422,7 +426,7 @@ data = {
     "tournament":"FIFA World Cup 2026",
     "hosts":["United States","Mexico","Canada"],
     "startDate":"2026-06-11",
-    "today":"2026-06-17",
+    "today":"2026-06-18",
     "tagline":"Why this match matters.",
     "groupsCount":12, "teamsCount":48,
   },
