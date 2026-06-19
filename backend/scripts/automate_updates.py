@@ -242,7 +242,7 @@ async def generate_claude_story(m: Dict[str, Any], teams_lookup: Dict[str, Any])
                 {"parts": [{"text": prompt}]}
             ],
             "generationConfig": {
-                "maxOutputTokens": 2200
+                "maxOutputTokens": 8192
             },
             "systemInstruction": {
                 "parts": [{"text": VOICE}]

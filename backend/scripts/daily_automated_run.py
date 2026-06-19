@@ -205,7 +205,7 @@ def scrape_web_info(query: str) -> str:
     return ""
 
 # --- LLM API Call ---
-async def call_llm(prompt: str, system_instruction: str = VOICE, max_tokens: int = 2200) -> str:
+async def call_llm(prompt: str, system_instruction: str = VOICE, max_tokens: int = 8192) -> str:
     anthropic_key = os.environ.get("ANTHROPIC_API_KEY", "")
     if anthropic_key:
         headers = {

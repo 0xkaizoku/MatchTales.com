@@ -14,8 +14,15 @@ const matchEntries = await getCollection('matches');
 const matches = matchEntries.map((e) => e.data);
 
 const todayStr = data.meta.today; // "2026-06-18"
-const tomorrowStr = "2026-06-19";
-const dayAfterStr = "2026-06-20";
+
+function addDays(dateStr: string, days: number) {
+  const d = new Date(dateStr + 'T00:00:00');
+  d.setDate(d.getDate() + days);
+  return d.toISOString().split('T')[0];
+}
+
+const tomorrowStr = addDays(todayStr, 1);
+const dayAfterStr = addDays(todayStr, 2);
 
 const todayMatches = matches.filter((m) => m.date === todayStr).sort((a, b) => b.whyCareScore - a.whyCareScore);
 const tomorrowMatches = matches.filter((m) => m.date === tomorrowStr).sort((a, b) => b.whyCareScore - a.whyCareScore);
