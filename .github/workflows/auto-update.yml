@@ -10,6 +10,8 @@ on:
 jobs:
   daily-update-newsletter:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout Repository
@@ -28,6 +30,11 @@ jobs:
         run: |
           pip install -r backend/requirements.txt
 
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Run Daily Automation
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -38,5 +45,6 @@ jobs:
           DB_NAME: ${{ secrets.DB_NAME }}
         run: |
           python backend/scripts/daily_automated_run.py --write --commit
+
 
 
