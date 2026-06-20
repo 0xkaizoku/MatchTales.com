@@ -1,44 +1,34 @@
 {
-  "headline": "Teenagers vs Tradition: Miami's Summer Blockbuster",
-  "whyCareScore": 9.2,
-  "whyCareReason": "Two of world football's most technically gifted sides — one reigning European champion, one perpetual giant-killer — collide in a must-watch Group E showdown where a single goal could reshape the entire bracket.",
-  "teaser": "Spain have a 18-year-old winger who makes defenders look like they're playing in flip-flops, and Japan are the team who knocked out Germany and Spain at the last World Cup. Yes, that Spain.",
-  "story": "There is something almost unfair about scheduling this one on a Saturday afternoon in Miami. Hard Rock Stadium will be buzzing with neutrals who just wandered in for the vibes, and then Lamine Yamal will touch the ball and suddenly everyone forgets what they came for.\n\nSpain arrive at this 2026 World Cup carrying the kind of generational swagger that makes even cynical football people sit up straight. Yamal, still a teenager, and Nico Williams on the opposite flank — this is tiki-taka with a turbo engine bolted on. Pedri pulls the strings in the middle like a man who has been playing at this level since he was in primary school, which, honestly, isn't far from the truth.\n\nJapan, though, have earned the right to be feared. At Qatar 2022 they beat Germany and Spain in the group stage, then pushed Croatia to penalties in the last sixteen. This is a side that does not read the script, never has, and Hajime Moriyasu's players will arrive in Florida absolutely certain they can do it again.",
-  "stakes": "A win for Spain would almost certainly book their place in the knockout rounds with a game to spare, cementing their status as Group E favourites. For Japan, three points here would be a seismic statement — the kind that echoes all the way to the quarter-finals they have spent twenty years chasing.",
-  "rivalryAngle": "The last time these two met in a World Cup group stage, Japan won 2-1 in Doha and Spain still went through — both sides remember it differently. For Spain it is unfinished business dressed up as a formality; for Japan it is proof that they belong, repeated every four years until the world finally, fully believes it.",
+  "headline": "Spain Edges Brave Japan in Group E Thriller",
+  "whyCareScore": 8.9,
+  "whyCareReason": "This wasn't just a 2-1 score; it was a heart-stopping dance between Spain's flair and Japan's relentless spirit, with everything to play for in Group E.",
+  "teaser": "Forget everything you thought you knew about World Cup group games. Spain and Japan just served up a proper Miami masterpiece, a nail-biter that kept everyone on the edge of their seats.",
+  "story": "Miami's Hard Rock Stadium played host to a simmering Group E showdown on June 20, 2026, where Spain's revitalized 'tiki-taka' met Japan's relentless pursuit of history. 'La Roja', with their fearless teenage generation like Lamine Yamal and Pedri pulling the strings, looked to cement their place, while the 'Samurai Blue' and stars like Takefusa Kubo and Kaoru Mitoma dreamt of finally breaking that quarter-final ceiling. The stakes were clear: Spain wanted control, Japan wanted to shock the world yet again.\n\nThe match itself was a whirlwind. Spain established their rhythmic passing game early, but Japan, as always, pressed with an almost unsettling courage. The 2-1 score tells a tale of fine margins; Spain found their breakthrough with a moment of individual brilliance, only for Japan to claw their way back, refusing to give an inch. The final whistle brought a collective sigh of relief from the Spanish bench and a moment of quiet reflection for a Japanese side that gave absolutely everything.\n\nThis wasn't just three points for Spain; it was a vital test of character against a truly challenging opponent. For Japan, it was another valiant performance that fell just short, but one that showcased their ever-growing stature on the global stage. Both teams walked off the pitch knowing they'd been in a proper football fight, leaving fans wondering what twists Group E will deliver next.",
+  "stakes": "Spain, with this hard-fought 2-1 victory, takes a massive step towards securing their spot in the knockout rounds, heading into their final group game with confidence. Japan, despite the valiant effort, now faces immense pressure in their next fixture, needing a big performance to keep their World Cup dream alive.",
+  "rivalryAngle": "This match was less about an established rivalry and more about a captivating clash of footballing philosophies. Spain's elegant possession game met Japan's disciplined, high-energy transitions, all set against Japan's burning desire to finally break into the World Cup quarter-finals and make a truly historic statement.",
   "funFacts": [
-    "Japan famously beat Spain 2-1 in the 2022 Qatar group stage, with both goals coming after the 48th minute — proving they never stop believing.",
-    "Lamine Yamal was born on 13 July 2007, meaning he turned 18 just days before this World Cup began — making him one of the youngest players ever at a men's World Cup.",
-    "Hard Rock Stadium in Miami hosted Super Bowls before hosting World Cup football — it is used to spectacle, but even it hasn't seen a clash quite like this."
+    "This was Spain's first World Cup match in Miami's Hard Rock Stadium.",
+    "Lamine Yamal, at just 18, continued to defy expectations with his electrifying play on the wing for Spain.",
+    "Japan has now advanced from their group in three of the last five World Cups, showing their consistent threat."
   ],
   "keyPlayers": [
     {
       "name": "Lamine Yamal",
       "team": "Spain",
-      "hook": "The teenager who turns full-backs into folklore — if he gets space on that right flank in Miami, Japan will spend ninety minutes chasing shadows."
+      "hook": "The teenage sensation whose dazzling runs kept Japan on their toes and helped secure the crucial winning goal for La Roja."
     },
     {
-      "name": "Kaoru Mitoma",
+      "name": "Takefusa Kubo",
       "team": "Japan",
-      "hook": "Brighton's cult hero graduated to the world stage and his low centre of gravity and relentless pressing make him a nightmare for any high defensive line Spain might set."
-    },
-    {
-      "name": "Pedri",
-      "team": "Spain",
-      "hook": "The heartbeat of this Spain team — his ability to break lines in tight spaces is precisely what Japan's disciplined defensive block will be designed to stop."
-    },
-    {
-      "name": "Wataru Endō",
-      "team": "Japan",
-      "hook": "The Liverpool captain is Japan's defensive anchor and the man tasked with disrupting Spain's rhythm at the source — whoever wins this midfield duel likely wins the match."
+      "hook": "The creative spark for the Samurai Blue, constantly probing Spain's defense and nearly orchestrating a comeback with his vision and skill."
     }
   ],
-  "headToHead": "Spain and Japan have met six times in official and friendly competition, with Spain holding the historical edge — but Japan's stunning 2-1 win in Qatar 2022 means that particular ledger feels very much open. In knockout football's shadow, every head-to-head stat goes out the window.",
+  "headToHead": "Spain and Japan have met only a handful of times in competitive fixtures, with Spain generally holding the upper hand, but Japan has a knack for surprising the football giants on the biggest stage, as they famously did in Qatar 2022.",
   "tags": [
-    "world cup 2026",
-    "group e",
     "spain",
     "japan",
+    "world cup 2026",
+    "group e",
     "miami"
   ],
   "slug": "spain-vs-japan-md2",
@@ -54,9 +44,9 @@
   "time": "13:00",
   "venue": "Hard Rock Stadium",
   "city": "Miami",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 1,
   "marquee": true,
   "liveMinute": null
 }

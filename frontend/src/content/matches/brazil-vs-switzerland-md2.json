@@ -1,44 +1,34 @@
 {
-  "headline": "Brazil's Hunger Meets Switzerland's Stubborn Magic",
-  "whyCareScore": 8.7,
-  "whyCareReason": "A nation of 215 million souls desperate to end a 24-year title drought collides with the most awkwardly dangerous underdog in world football, inside a stadium that holds 76,000 and will feel like a carnival and a courtroom at the same time.",
-  "teaser": "Brazil haven't won the World Cup since 2002 and every match feels like a therapy session for an entire continent. Switzerland, meanwhile, are the team that knocked out France in 2021 and have absolutely no interest in reading the script you wrote for them.",
-  "story": "Twenty-four years is a long time to carry a crown you no longer wear. Brazil arrive in Kansas City wrapped in the golden expectation that follows them everywhere — the samba, the skill, the sheer weight of legacy — but the sixth star keeps slipping just out of reach. Vinícius Júnior has channelled every slight, every doubt, into something electric at Real Madrid, and now he wants to do it on the only stage that truly satisfies his country.\n\nSwitzerland will not flinch. They never do. Granit Xhaka, who has somehow turned a career of yellow cards and fan frustration into elder-statesman authority, organises this side like a chess grandmaster who also happens to enjoy a scrap. Around him, Dan Ndoye offers pace that can punish any high defensive line, and Breel Embolo — born in Yaoundé, raised in Basel — brings a physical directness that elegant defences genuinely hate facing.\n\nThen there is Endrick: 19 years old, chosen by Brazil's coaching staff to lead the line at the biggest tournament on earth. The kid from Brasília who signed for Real Madrid before he was legally allowed to drive. No pressure, son. Kansas City on a June evening, the whole of Brazil watching. Just go and be yourself.",
-  "stakes": "A win for Brazil would put them in the driving seat to top Group H and set up a more favourable knockout path, easing pressure heading into Matchday 3. For Switzerland, three points here would be one of the great results in their history and could effectively seal progression. A draw keeps both sides in contention but leaves everyone nervous about the final round of fixtures.",
-  "rivalryAngle": "These two sides met at the 2018 World Cup group stage in Rostov, where Switzerland earned a gutsy 1-1 draw and sent Tite's squad into a spiral of anxiety they never fully recovered from. Brazil remember it. The Swiss remember it fondly, quietly, in that characteristically understated Swiss way. This is the sequel, and Brazil will have spent eight years making sure they know exactly how that chapter ends differently.",
+  "headline": "Brazil Glides Past Stubborn Switzerland",
+  "whyCareScore": 8.1,
+  "whyCareReason": "Brazil's quest for a sixth star met resolute Swiss defending, but eventually, the samba magic broke through.",
+  "teaser": "The weight of a nation rested on Brazil's shoulders, facing a Swiss side known for its giant-killing ambitions. This wasn't just another group stage match; it was a testament to the beautiful game's enduring drama.",
+  "story": "Arrowhead Stadium in Kansas City vibrated with the hopes of a continent as the Seleção, football's most decorated nation, continued their relentless march towards a record-extending sixth World Cup title. Their opponent, Switzerland, the quietly excellent Nati, arrived with a reputation for frustrating the game's heavyweights, a side that loves nothing more than to play spoiler on the biggest stage. This was never going to be an easy stroll in the park for the yellow and green.\n\nFor much of the match, Switzerland proved their worth, holding Brazil at bay with disciplined defending and a refusal to be intimidated. It was a familiar script for the Seleção faithful, who have often seen their dazzling talent tested by resolute opponents. But Brazil's quality shone through in the end, with Vinícius Júnior and Rodrygo finding the crucial breakthroughs. The relief and joy that erupted with each goal was palpable, not just in the stadium, but surely across Brazil itself.\n\nThe 2-0 victory was more than just three points; it was a statement. It showed that even when tested, this Brazilian side has the patience, the skill, and the individual brilliance to unlock the most stubborn defenses. While Switzerland battled bravely until the final whistle, it was Brazil's night, a confident stride forward in their long-awaited chase for World Cup glory. The dream of the 'hexa' feels a little closer.",
+  "stakes": "This victory significantly boosts Brazil's chances of topping Group H, putting them in a strong position for the knockout rounds. For Switzerland, despite the loss, their resilient performance suggests they are still a threat, but they will need a result in their final group game to keep their World Cup dreams alive.",
+  "rivalryAngle": "Switzerland has a knack for being Brazil's World Cup bogey team, having drawn with the Seleção in two of their last three World Cup encounters. This 2-0 win was a welcome departure from those cagey affairs, allowing Brazil to assert their dominance and banish any lingering frustrations from past stalemates.",
   "funFacts": [
-    "Switzerland held Brazil to a 1-1 draw at the 2018 World Cup in Russia — one of the great tactical holds of that tournament.",
-    "Arrowhead Stadium is the home of the Kansas City Chiefs NFL franchise, meaning this World Cup match will be played in one of the loudest, most famous sports venues in American culture.",
-    "Endrick became the youngest Brazilian to score a World Cup qualifying goal when he netted against Peru in 2023, aged just 17."
+    "Brazil had only won one of their previous three World Cup matches against Switzerland before this game.",
+    "Arrowhead Stadium, typically home to the NFL's Kansas City Chiefs, hosted a World Cup match for the first time.",
+    "Switzerland has a history of keeping World Cup matches incredibly tight; they had not lost by more than one goal in the group stage since 2014."
   ],
   "keyPlayers": [
     {
       "name": "Vinícius Júnior",
       "team": "Brazil",
-      "hook": "When he is on song he is the most unplayable winger on the planet — low centre of gravity, fearless in one-on-ones, and carrying the collective hope of an entire footballing civilisation on his shoulders."
+      "hook": "Lit up Arrowhead with his dazzling runs and scored a crucial goal to break Swiss resistance."
     },
     {
       "name": "Granit Xhaka",
       "team": "Switzerland",
-      "hook": "The heartbeat of Swiss organisation, he will spend 90 minutes making sure Brazil's creativity gets strangled in midfield before it ever threatens the goal."
-    },
-    {
-      "name": "Endrick",
-      "team": "Brazil",
-      "hook": "A teenager asked to lead the Seleção attack at a World Cup — the story writes itself, and the whole world wants to see whether this chapter ends in tears or fireworks."
-    },
-    {
-      "name": "Dan Ndoye",
-      "team": "Switzerland",
-      "hook": "Rapid, direct and capable of a moment of genuine brilliance on the counter, he is exactly the kind of player who can hurt Brazil when they commit bodies forward."
+      "hook": "The midfield general battled tirelessly, trying to stem the yellow tide and orchestrate Swiss attacks."
     }
   ],
-  "headToHead": "Brazil and Switzerland have met four times at World Cups, with Brazil winning two and the other two ending level — including that maddening draw in 2018 that still haunts Brazilian fans. The Swiss have never beaten Brazil in a competitive fixture, but they have a stubborn habit of making sure Brazil do not enjoy the evening.",
+  "headToHead": "Brazil and Switzerland have a short but intriguing World Cup history, with two draws and one Brazil win prior to this match, making the Nati a surprisingly tricky opponent for the Seleção.",
   "tags": [
     "brazil",
     "switzerland",
-    "group h",
     "world cup 2026",
+    "group h",
     "kansas city"
   ],
   "slug": "brazil-vs-switzerland-md2",
@@ -54,9 +44,9 @@
   "time": "16:00",
   "venue": "Arrowhead Stadium",
   "city": "Kansas City",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 0,
   "marquee": true,
   "liveMinute": null
 }
