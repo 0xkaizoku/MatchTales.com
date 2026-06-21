@@ -1,45 +1,35 @@
 {
-  "headline": "Oranje vs Dynamite: Atlanta Could Ignite",
-  "whyCareScore": 8.4,
-  "whyCareReason": "Two of Europe's most technically gifted sides collide in a match where a single goal could reshape the entire group's destiny — and both know it.",
-  "teaser": "The Netherlands haven't won a World Cup despite producing some of football's most beautiful teams ever, and Sunday in Atlanta they face a Denmark side powered by one of sport's most extraordinary comeback stories. This is the game the Group K draw was always going to hinge on.",
-  "story": "There is something almost cosmically unfair about Dutch football. Three World Cup finals, zero trophies. The heirs to Total Football — Cruyff's philosophy, Bergkamp's grace, Robben's anguish — keep arriving at tournaments brimming with talent and leaving with nothing but what-ifs. Ronald Koeman's squad in 2026 is different in texture but identical in expectation: brilliant, nervy, and carrying a nation's quiet desperation on its shoulders.\n\nDenmark, meanwhile, come wrapped in a story no screenwriter would dare pitch. Christian Eriksen — the man who died on a pitch at Euro 2020 and was brought back to life — still pulling strings in central midfield. Around him, a generation has grown up: Højlund with his sharp-elbowed hunger, Damsgaard with that electric left foot. They don't dazzle you with names. They dazzle you with belief.\n\nMercedes-Benz Stadium in Atlanta will be loud, humid, and pulsating when these two walk out on June 21st. Matchday 2 has a habit of being the hinge point of every group. Win and you control your fate. Drop points here and the knockout stages start to feel very, very distant, very fast.",
-  "stakes": "A Dutch win would put them in commanding position to reach the last 16, perhaps with a game to spare. Denmark, having navigated Matchday 1, would likely need a result here to avoid a nervy final-game scramble; defeat could leave them relying on others. There is no margin to gift away — not at a World Cup, not in Atlanta heat, not against opponents this good.",
-  "rivalryAngle": "These sides don't share the blood-feud intensity of some European fixtures, but they carry a persistent competitive itch — Scandinavia forever testing the continent's bigger footballing powers and occasionally embarrassing them. Denmark knocked the Netherlands out at Euro 1992, went on to win the whole tournament in one of sport's greatest upsets, and that ghost has never entirely left Dutch changing rooms. Eriksen's personal journey adds an almost unbearable emotional layer: watching him orchestrate things in a World Cup knockout race, years after what happened in Copenhagen, will be one of the tournament's defining images regardless of the result.",
-  "headToHead": "The sides have met 22 times in all competitions, with the Netherlands holding a slight historical edge, but Denmark have proven perfectly capable of causing upsets when the stakes are highest — Euro '92 remains the cautionary tale every Dutch fan still half-dreads.",
+  "headline": "Atlanta Thriller: Oranje, Danish Dynamite Split Points",
+  "whyCareScore": 8.8,
+  "whyCareReason": "The Mercedes-Benz Stadium crowd in Atlanta was treated to a back-and-forth classic where neither European heavyweight would back down.",
+  "teaser": "If you thought a World Cup draw couldn't be exciting, you clearly missed this Group K barn burner. Goals, drama, and nail-biting moments were on full display as the Netherlands and Denmark battled to a deadlock.",
+  "story": "The gleaming Mercedes-Benz Stadium in Atlanta played host to a clash of European titans, each carrying a different kind of World Cup hope. For the Netherlands, it was the familiar burden of 'Total Football's' legacy, a golden trophy always just out of reach. Denmark, meanwhile, arrived with the quiet strength of a tight-knit squad, still powered by the enduring miracle of Christian Eriksen and a collective spirit that fears no one.\n\nAnd what a game it was on June 21st, 2026. From the first whistle, this Group K encounter refused to settle, swinging like a pendulum in the humid Georgia night. Goals flowed from both sides, each strike answered with defiant force. Cody Gakpo and Rasmus Højlund, two young stars expected to carry their nations' scoring hopes, both found the net, ensuring the scoreboard kept pace with the frenetic action.\n\nWhen the final whistle blew, the 2-2 draw felt like both a fair reflection and a tantalizing tease. Neither side managed to land the knockout blow, but both showed immense heart and quality. It was a proper World Cup spectacle, leaving fans breathless and wondering what brilliance these teams might yet conjure on the grandest stage.",
+  "stakes": "While a point each keeps their qualification hopes alive, neither the Oranje nor the Danish Dynamite will feel entirely satisfied after matchday two. With only one more group game to play, winning is now paramount for both teams to secure safe passage into the knockout stages of the tournament.",
+  "rivalryAngle": "This wasn't a rivalry steeped in ancient grudges, but rather a compelling narrative clash of two distinct football philosophies. The Dutch pursuit of perfection met Denmark's gritty, unified defiance, creating a beautiful tension that held Atlanta spellbound.",
   "funFacts": [
-    "Christian Eriksen collapsed during Denmark's opening group game at Euro 2020 and received CPR on the pitch; five years later he's at a World Cup and still the first name on Denmark's teamsheet.",
-    "Cody Gakpo scored in all three of the Netherlands' group games at the 2022 World Cup — he will arrive in Atlanta knowing he is the man Oranje fans look to when the pressure peaks.",
-    "Mercedes-Benz Stadium in Atlanta has a capacity of over 71,000 and a retractable roof that can seal in the noise — it will feel like a cauldron for a match this tense."
+    "Mercedes-Benz Stadium in Atlanta is one of 16 venues across the USA, Canada, and Mexico hosting matches for the 2026 FIFA World Cup.",
+    "The Netherlands and Denmark have met several times on the World Cup stage, with their first encounter dating back to 1974.",
+    "Cody Gakpo and Rasmus Højlund, both goal scorers tonight, are widely considered two of Europe's most promising young attacking talents."
   ],
   "keyPlayers": [
     {
-      "name": "Xavi Simons",
+      "name": "Cody Gakpo",
       "team": "Netherlands",
-      "hook": "At 23, Simons is the heartbeat between Dutch defence and attack — if he finds space in the pockets between Denmark's lines, the game could open up in ways Denmark will struggle to handle."
-    },
-    {
-      "name": "Christian Eriksen",
-      "team": "Denmark",
-      "hook": "Beyond everything his continued presence represents emotionally, Eriksen is still functionally brilliant — his passing range and set-piece delivery could be Denmark's most reliable way of unlocking a compact Dutch backline."
+      "hook": "Showed flashes of individual brilliance, grabbing a crucial goal to keep his team in the fight."
     },
     {
       "name": "Rasmus Højlund",
       "team": "Denmark",
-      "hook": "Still only in his early twenties but already carrying the physical and psychological weight of being Denmark's main striker; a goal here would announce him on the very biggest stage."
-    },
-    {
-      "name": "Virgil van Dijk",
-      "team": "Netherlands",
-      "hook": "At 34 he is the emotional fulcrum of this Dutch side — if he marshals Højlund out of the game, the Netherlands have a platform to win comfortably."
+      "hook": "Proved a handful for the Dutch defense, netting a vital equalizer with his trademark power and precision."
     }
   ],
+  "headToHead": "Historically, matches between the Netherlands and Denmark have often been tight affairs, with neither side consistently dominating the other across their past encounters.",
   "tags": [
-    "group stage",
+    "group k",
     "netherlands",
     "denmark",
-    "group k",
-    "atlanta"
+    "world cup 2026",
+    "draw"
   ],
   "slug": "netherlands-vs-denmark-md2",
   "home": "Netherlands",
@@ -54,9 +44,9 @@
   "time": "13:00",
   "venue": "Mercedes-Benz Stadium",
   "city": "Atlanta",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 2,
   "marquee": false,
   "liveMinute": null
 }

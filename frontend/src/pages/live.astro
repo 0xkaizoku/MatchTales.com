@@ -4,7 +4,7 @@ import WhyCareMeter from '../components/WhyCareMeter.astro';
 import { getCollection } from 'astro:content';
 const entries = await getCollection('matches');
 const matches = entries.map((e) => e.data);
-const liveMatch = matches.find((m) => m.status === 'LIVE') || matches.find((m) => m.status === 'UPCOMING');
+const liveMatch = matches.find((m) => m.status === 'LIVE') || matches.find((m) => m.status === 'UPCOMING') || matches[0];
 const upcoming = matches.filter((m) => m.status === 'UPCOMING').sort((a,b)=>b.whyCareScore-a.whyCareScore).slice(0,5);
 ---
 <BaseLayout title="Live Second-Screen — World Cup 2026 | MatchTales" description="Your World Cup companion: live hype meter, rolling commentary and fan polls. The perfect second screen.">
