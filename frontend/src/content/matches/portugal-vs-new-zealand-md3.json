@@ -1,0 +1,50 @@
+{
+  "headline": "Anticipation builds for Portugal vs New Zealand",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A crucial Matchday 3 clash in Group I with significant tournament implications.",
+  "teaser": "The stage is set for a massive clash between Portugal and New Zealand. Here is why you cannot miss it.",
+  "story": "As Group I fixtures heat up, Portugal prepares to face New Zealand in a highly anticipated Matchday 3 showdown. Both squads have shown impressive form and are eager to secure three points in this crucial fixture.\n\nTactical matchups across the pitch will define the contest, with both managers likely deploying their strongest line-ups to seize control of the midfield early in the match.\n\nFans are expecting a high-octane encounter filled with drama, skill, and memorable moments as both nations strive to make their mark on the world stage.",
+  "stakes": "This match is critical for the qualification hopes of both Portugal and New Zealand in Group I.",
+  "rivalryAngle": "A historic football connection between Portugal (A Seleção) and New Zealand (All Whites) adds fuel to this clash.",
+  "funFacts": [
+    "Portugal are known as A Seleção.",
+    "New Zealand are known as All Whites.",
+    "This is a key Matchday 3 fixture in the World Cup group phase."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "hook": "The captain leading the charge."
+    },
+    {
+      "name": "Chris Wood",
+      "team": "New Zealand",
+      "hook": "The creative spark in midfield."
+    }
+  ],
+  "headToHead": "Previous encounters between these two nations have always been tightly contested affairs.",
+  "tags": [
+    "portugal",
+    "new-zealand",
+    "group-i"
+  ],
+  "slug": "portugal-vs-new-zealand-md3",
+  "home": "Portugal",
+  "away": "New Zealand",
+  "homeCode": "POR",
+  "awayCode": "NZL",
+  "homeFlag": "🇵🇹",
+  "awayFlag": "🇳🇿",
+  "group": "I",
+  "matchday": 3,
+  "date": "2026-06-25",
+  "time": "19:00",
+  "venue": "SoFi Stadium",
+  "city": "Los Angeles",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null
+}

@@ -1,0 +1,50 @@
+{
+  "headline": "Anticipation builds for Ivory Coast vs Serbia",
+  "whyCareScore": 7.5,
+  "whyCareReason": "A crucial Matchday 3 clash in Group I with significant tournament implications.",
+  "teaser": "The stage is set for a massive clash between Ivory Coast and Serbia. Here is why you cannot miss it.",
+  "story": "As Group I fixtures heat up, Ivory Coast prepares to face Serbia in a highly anticipated Matchday 3 showdown. Both squads have shown impressive form and are eager to secure three points in this crucial fixture.\n\nTactical matchups across the pitch will define the contest, with both managers likely deploying their strongest line-ups to seize control of the midfield early in the match.\n\nFans are expecting a high-octane encounter filled with drama, skill, and memorable moments as both nations strive to make their mark on the world stage.",
+  "stakes": "This match is critical for the qualification hopes of both Ivory Coast and Serbia in Group I.",
+  "rivalryAngle": "A historic football connection between Ivory Coast (Les Éléphants) and Serbia (Orlovi) adds fuel to this clash.",
+  "funFacts": [
+    "Ivory Coast are known as Les Éléphants.",
+    "Serbia are known as Orlovi.",
+    "This is a key Matchday 3 fixture in the World Cup group phase."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Simon Adingra",
+      "team": "Ivory Coast",
+      "hook": "The captain leading the charge."
+    },
+    {
+      "name": "Dušan Vlahović",
+      "team": "Serbia",
+      "hook": "The creative spark in midfield."
+    }
+  ],
+  "headToHead": "Previous encounters between these two nations have always been tightly contested affairs.",
+  "tags": [
+    "ivory-coast",
+    "serbia",
+    "group-i"
+  ],
+  "slug": "ivory-coast-vs-serbia-md3",
+  "home": "Ivory Coast",
+  "away": "Serbia",
+  "homeCode": "CIV",
+  "awayCode": "SRB",
+  "homeFlag": "🇨🇮",
+  "awayFlag": "🇷🇸",
+  "group": "I",
+  "matchday": 3,
+  "date": "2026-06-25",
+  "time": "13:00",
+  "venue": "BC Place",
+  "city": "Vancouver",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": false,
+  "liveMinute": null
+}

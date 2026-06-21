@@ -1,0 +1,50 @@
+{
+  "headline": "Colombia and Denmark battle to 1-2",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A crucial Matchday 3 clash in Group K with significant tournament implications.",
+  "teaser": "A thrilling 1-2 finish as Colombia takes on Denmark. Read how this classic unfolded.",
+  "story": "The clash between Colombia and Denmark in Group K was a classic matchday 3 encounter. Both teams showed incredible tactical discipline and passion on the pitch, leaving the fans at the edge of their seats.\n\nThe final score of 1-2 reflects the intensity of the game. Key tactical adjustments from both managers ensured that the match remained a balanced and highly competitive affair until the final whistle.\n\nWith this result, both Colombia and Denmark look forward to their next challenges, knowing that every single point could be decisive in their quest for World Cup glory.",
+  "stakes": "This match is critical for the qualification hopes of both Colombia and Denmark in Group K.",
+  "rivalryAngle": "A historic football connection between Colombia (Los Cafeteros) and Denmark (Danish Dynamite) adds fuel to this clash.",
+  "funFacts": [
+    "Colombia are known as Los Cafeteros.",
+    "Denmark are known as Danish Dynamite.",
+    "This is a key Matchday 3 fixture in the World Cup group phase."
+  ],
+  "keyPlayers": [
+    {
+      "name": "James Rodríguez",
+      "team": "Colombia",
+      "hook": "The captain leading the charge."
+    },
+    {
+      "name": "Rasmus Højlund",
+      "team": "Denmark",
+      "hook": "The creative spark in midfield."
+    }
+  ],
+  "headToHead": "Previous encounters between these two nations have always been tightly contested affairs.",
+  "tags": [
+    "colombia",
+    "denmark",
+    "group-k"
+  ],
+  "slug": "colombia-vs-denmark-md3",
+  "home": "Colombia",
+  "away": "Denmark",
+  "homeCode": "COL",
+  "awayCode": "DEN",
+  "homeFlag": "🇨🇴",
+  "awayFlag": "🇩🇰",
+  "group": "K",
+  "matchday": 3,
+  "date": "2026-06-22",
+  "time": "16:00",
+  "venue": "Hard Rock Stadium",
+  "city": "Miami",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 2,
+  "marquee": true,
+  "liveMinute": null
+}

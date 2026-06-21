@@ -1,0 +1,50 @@
+{
+  "headline": "England and Panama battle to 3-0",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A crucial Matchday 3 clash in Group L with significant tournament implications.",
+  "teaser": "A thrilling 3-0 finish as England takes on Panama. Read how this classic unfolded.",
+  "story": "The clash between England and Panama in Group L was a classic matchday 3 encounter. Both teams showed incredible tactical discipline and passion on the pitch, leaving the fans at the edge of their seats.\n\nThe final score of 3-0 reflects the intensity of the game. Key tactical adjustments from both managers ensured that the match remained a balanced and highly competitive affair until the final whistle.\n\nWith this result, both England and Panama look forward to their next challenges, knowing that every single point could be decisive in their quest for World Cup glory.",
+  "stakes": "This match is critical for the qualification hopes of both England and Panama in Group L.",
+  "rivalryAngle": "A historic football connection between England (Three Lions) and Panama (La Marea Roja) adds fuel to this clash.",
+  "funFacts": [
+    "England are known as Three Lions.",
+    "Panama are known as La Marea Roja.",
+    "This is a key Matchday 3 fixture in the World Cup group phase."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Jude Bellingham",
+      "team": "England",
+      "hook": "The captain leading the charge."
+    },
+    {
+      "name": "Adalberto Carrasquilla",
+      "team": "Panama",
+      "hook": "The creative spark in midfield."
+    }
+  ],
+  "headToHead": "Previous encounters between these two nations have always been tightly contested affairs.",
+  "tags": [
+    "england",
+    "panama",
+    "group-l"
+  ],
+  "slug": "england-vs-panama-md3",
+  "home": "England",
+  "away": "Panama",
+  "homeCode": "ENG",
+  "awayCode": "PAN",
+  "homeFlag": "🏴",
+  "awayFlag": "🇵🇦",
+  "group": "L",
+  "matchday": 3,
+  "date": "2026-06-22",
+  "time": "16:00",
+  "venue": "MetLife Stadium",
+  "city": "New Jersey",
+  "status": "FINISHED",
+  "homeScore": 3,
+  "awayScore": 0,
+  "marquee": true,
+  "liveMinute": null
+}

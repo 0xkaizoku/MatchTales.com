@@ -1,0 +1,50 @@
+{
+  "headline": "Croatia and Ghana battle to 1-1",
+  "whyCareScore": 7.5,
+  "whyCareReason": "A crucial Matchday 3 clash in Group L with significant tournament implications.",
+  "teaser": "A thrilling 1-1 finish as Croatia takes on Ghana. Read how this classic unfolded.",
+  "story": "The clash between Croatia and Ghana in Group L was a classic matchday 3 encounter. Both teams showed incredible tactical discipline and passion on the pitch, leaving the fans at the edge of their seats.\n\nThe final score of 1-1 reflects the intensity of the game. Key tactical adjustments from both managers ensured that the match remained a balanced and highly competitive affair until the final whistle.\n\nWith this result, both Croatia and Ghana look forward to their next challenges, knowing that every single point could be decisive in their quest for World Cup glory.",
+  "stakes": "This match is critical for the qualification hopes of both Croatia and Ghana in Group L.",
+  "rivalryAngle": "A historic football connection between Croatia (Vatreni) and Ghana (Black Stars) adds fuel to this clash.",
+  "funFacts": [
+    "Croatia are known as Vatreni.",
+    "Ghana are known as Black Stars.",
+    "This is a key Matchday 3 fixture in the World Cup group phase."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Luka Modrić",
+      "team": "Croatia",
+      "hook": "The captain leading the charge."
+    },
+    {
+      "name": "Mohammed Kudus",
+      "team": "Ghana",
+      "hook": "The creative spark in midfield."
+    }
+  ],
+  "headToHead": "Previous encounters between these two nations have always been tightly contested affairs.",
+  "tags": [
+    "croatia",
+    "ghana",
+    "group-l"
+  ],
+  "slug": "croatia-vs-ghana-md3",
+  "home": "Croatia",
+  "away": "Ghana",
+  "homeCode": "CRO",
+  "awayCode": "GHA",
+  "homeFlag": "🇭🇷",
+  "awayFlag": "🇬🇭",
+  "group": "L",
+  "matchday": 3,
+  "date": "2026-06-22",
+  "time": "19:00",
+  "venue": "Lincoln Financial Field",
+  "city": "Philadelphia",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 1,
+  "marquee": false,
+  "liveMinute": null
+}

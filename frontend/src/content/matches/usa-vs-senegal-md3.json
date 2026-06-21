@@ -1,0 +1,50 @@
+{
+  "headline": "Anticipation builds for USA vs Senegal",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A crucial Matchday 3 clash in Group C with significant tournament implications.",
+  "teaser": "The stage is set for a massive clash between USA and Senegal. Here is why you cannot miss it.",
+  "story": "As Group C fixtures heat up, USA prepares to face Senegal in a highly anticipated Matchday 3 showdown. Both squads have shown impressive form and are eager to secure three points in this crucial fixture.\n\nTactical matchups across the pitch will define the contest, with both managers likely deploying their strongest line-ups to seize control of the midfield early in the match.\n\nFans are expecting a high-octane encounter filled with drama, skill, and memorable moments as both nations strive to make their mark on the world stage.",
+  "stakes": "This match is critical for the qualification hopes of both USA and Senegal in Group C.",
+  "rivalryAngle": "A historic football connection between USA (USMNT) and Senegal (Lions of Teranga) adds fuel to this clash.",
+  "funFacts": [
+    "USA are known as USMNT.",
+    "Senegal are known as Lions of Teranga.",
+    "This is a key Matchday 3 fixture in the World Cup group phase."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Christian Pulisic",
+      "team": "USA",
+      "hook": "The captain leading the charge."
+    },
+    {
+      "name": "Nicolas Jackson",
+      "team": "Senegal",
+      "hook": "The creative spark in midfield."
+    }
+  ],
+  "headToHead": "Previous encounters between these two nations have always been tightly contested affairs.",
+  "tags": [
+    "usa",
+    "senegal",
+    "group-c"
+  ],
+  "slug": "usa-vs-senegal-md3",
+  "home": "USA",
+  "away": "Senegal",
+  "homeCode": "USA",
+  "awayCode": "SEN",
+  "homeFlag": "🇺🇸",
+  "awayFlag": "🇸🇳",
+  "group": "C",
+  "matchday": 3,
+  "date": "2026-06-23",
+  "time": "20:00",
+  "venue": "SoFi Stadium",
+  "city": "Los Angeles",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null
+}

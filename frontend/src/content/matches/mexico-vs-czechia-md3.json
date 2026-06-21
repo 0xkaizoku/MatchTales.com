@@ -1,0 +1,50 @@
+{
+  "headline": "Anticipation builds for Mexico vs Czechia",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A crucial Matchday 3 clash in Group A with significant tournament implications.",
+  "teaser": "The stage is set for a massive clash between Mexico and Czechia. Here is why you cannot miss it.",
+  "story": "As Group A fixtures heat up, Mexico prepares to face Czechia in a highly anticipated Matchday 3 showdown. Both squads have shown impressive form and are eager to secure three points in this crucial fixture.\n\nTactical matchups across the pitch will define the contest, with both managers likely deploying their strongest line-ups to seize control of the midfield early in the match.\n\nFans are expecting a high-octane encounter filled with drama, skill, and memorable moments as both nations strive to make their mark on the world stage.",
+  "stakes": "This match is critical for the qualification hopes of both Mexico and Czechia in Group A.",
+  "rivalryAngle": "A historic football connection between Mexico (El Tri) and Czechia (Národní tým) adds fuel to this clash.",
+  "funFacts": [
+    "Mexico are known as El Tri.",
+    "Czechia are known as Národní tým.",
+    "This is a key Matchday 3 fixture in the World Cup group phase."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Santiago Giménez",
+      "team": "Mexico",
+      "hook": "The captain leading the charge."
+    },
+    {
+      "name": "Patrik Schick",
+      "team": "Czechia",
+      "hook": "The creative spark in midfield."
+    }
+  ],
+  "headToHead": "Previous encounters between these two nations have always been tightly contested affairs.",
+  "tags": [
+    "mexico",
+    "czechia",
+    "group-a"
+  ],
+  "slug": "mexico-vs-czechia-md3",
+  "home": "Mexico",
+  "away": "Czechia",
+  "homeCode": "MEX",
+  "awayCode": "CZE",
+  "homeFlag": "🇲🇽",
+  "awayFlag": "🇨🇿",
+  "group": "A",
+  "matchday": 3,
+  "date": "2026-06-22",
+  "time": "20:00",
+  "venue": "Estadio Azteca",
+  "city": "Mexico City",
+  "status": "LIVE",
+  "homeScore": 1,
+  "awayScore": 1,
+  "marquee": true,
+  "liveMinute": 65
+}

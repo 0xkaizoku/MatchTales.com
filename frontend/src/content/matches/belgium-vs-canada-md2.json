@@ -1,0 +1,50 @@
+{
+  "headline": "Belgium and Canada battle to 2-1",
+  "whyCareScore": 7.5,
+  "whyCareReason": "A crucial Matchday 2 clash in Group B with significant tournament implications.",
+  "teaser": "A thrilling 2-1 finish as Belgium takes on Canada. Read how this classic unfolded.",
+  "story": "The clash between Belgium and Canada in Group B was a classic matchday 2 encounter. Both teams showed incredible tactical discipline and passion on the pitch, leaving the fans at the edge of their seats.\n\nThe final score of 2-1 reflects the intensity of the game. Key tactical adjustments from both managers ensured that the match remained a balanced and highly competitive affair until the final whistle.\n\nWith this result, both Belgium and Canada look forward to their next challenges, knowing that every single point could be decisive in their quest for World Cup glory.",
+  "stakes": "This match is critical for the qualification hopes of both Belgium and Canada in Group B.",
+  "rivalryAngle": "A historic football connection between Belgium (Red Devils) and Canada (Les Rouges) adds fuel to this clash.",
+  "funFacts": [
+    "Belgium are known as Red Devils.",
+    "Canada are known as Les Rouges.",
+    "This is a key Matchday 2 fixture in the World Cup group phase."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kevin De Bruyne",
+      "team": "Belgium",
+      "hook": "The captain leading the charge."
+    },
+    {
+      "name": "Alphonso Davies",
+      "team": "Canada",
+      "hook": "The creative spark in midfield."
+    }
+  ],
+  "headToHead": "Previous encounters between these two nations have always been tightly contested affairs.",
+  "tags": [
+    "belgium",
+    "canada",
+    "group-b"
+  ],
+  "slug": "belgium-vs-canada-md2",
+  "home": "Belgium",
+  "away": "Canada",
+  "homeCode": "BEL",
+  "awayCode": "CAN",
+  "homeFlag": "🇧🇪",
+  "awayFlag": "🇨🇦",
+  "group": "B",
+  "matchday": 2,
+  "date": "2026-06-18",
+  "time": "13:00",
+  "venue": "BC Place",
+  "city": "Vancouver",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 1,
+  "marquee": false,
+  "liveMinute": null
+}

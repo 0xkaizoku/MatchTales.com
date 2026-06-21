@@ -1,0 +1,50 @@
+{
+  "headline": "Anticipation builds for Switzerland vs Cameroon",
+  "whyCareScore": 7.5,
+  "whyCareReason": "A crucial Matchday 3 clash in Group H with significant tournament implications.",
+  "teaser": "The stage is set for a massive clash between Switzerland and Cameroon. Here is why you cannot miss it.",
+  "story": "As Group H fixtures heat up, Switzerland prepares to face Cameroon in a highly anticipated Matchday 3 showdown. Both squads have shown impressive form and are eager to secure three points in this crucial fixture.\n\nTactical matchups across the pitch will define the contest, with both managers likely deploying their strongest line-ups to seize control of the midfield early in the match.\n\nFans are expecting a high-octane encounter filled with drama, skill, and memorable moments as both nations strive to make their mark on the world stage.",
+  "stakes": "This match is critical for the qualification hopes of both Switzerland and Cameroon in Group H.",
+  "rivalryAngle": "A historic football connection between Switzerland (Nati) and Cameroon (Indomitable Lions) adds fuel to this clash.",
+  "funFacts": [
+    "Switzerland are known as Nati.",
+    "Cameroon are known as Indomitable Lions.",
+    "This is a key Matchday 3 fixture in the World Cup group phase."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Granit Xhaka",
+      "team": "Switzerland",
+      "hook": "The captain leading the charge."
+    },
+    {
+      "name": "Bryan Mbeumo",
+      "team": "Cameroon",
+      "hook": "The creative spark in midfield."
+    }
+  ],
+  "headToHead": "Previous encounters between these two nations have always been tightly contested affairs.",
+  "tags": [
+    "switzerland",
+    "cameroon",
+    "group-h"
+  ],
+  "slug": "switzerland-vs-cameroon-md3",
+  "home": "Switzerland",
+  "away": "Cameroon",
+  "homeCode": "SUI",
+  "awayCode": "CMR",
+  "homeFlag": "🇨🇭",
+  "awayFlag": "🇨🇲",
+  "group": "H",
+  "matchday": 3,
+  "date": "2026-06-25",
+  "time": "16:00",
+  "venue": "Lumen Field",
+  "city": "Seattle",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": false,
+  "liveMinute": null
+}

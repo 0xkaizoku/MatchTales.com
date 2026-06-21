@@ -1,0 +1,50 @@
+{
+  "headline": "Anticipation builds for Argentina vs Nigeria",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A crucial Matchday 3 clash in Group D with significant tournament implications.",
+  "teaser": "The stage is set for a massive clash between Argentina and Nigeria. Here is why you cannot miss it.",
+  "story": "As Group D fixtures heat up, Argentina prepares to face Nigeria in a highly anticipated Matchday 3 showdown. Both squads have shown impressive form and are eager to secure three points in this crucial fixture.\n\nTactical matchups across the pitch will define the contest, with both managers likely deploying their strongest line-ups to seize control of the midfield early in the match.\n\nFans are expecting a high-octane encounter filled with drama, skill, and memorable moments as both nations strive to make their mark on the world stage.",
+  "stakes": "This match is critical for the qualification hopes of both Argentina and Nigeria in Group D.",
+  "rivalryAngle": "A historic football connection between Argentina (La Albiceleste) and Nigeria (Super Eagles) adds fuel to this clash.",
+  "funFacts": [
+    "Argentina are known as La Albiceleste.",
+    "Nigeria are known as Super Eagles.",
+    "This is a key Matchday 3 fixture in the World Cup group phase."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Lautaro Martínez",
+      "team": "Argentina",
+      "hook": "The captain leading the charge."
+    },
+    {
+      "name": "Victor Osimhen",
+      "team": "Nigeria",
+      "hook": "The creative spark in midfield."
+    }
+  ],
+  "headToHead": "Previous encounters between these two nations have always been tightly contested affairs.",
+  "tags": [
+    "argentina",
+    "nigeria",
+    "group-d"
+  ],
+  "slug": "argentina-vs-nigeria-md3",
+  "home": "Argentina",
+  "away": "Nigeria",
+  "homeCode": "ARG",
+  "awayCode": "NGA",
+  "homeFlag": "🇦🇷",
+  "awayFlag": "🇳🇬",
+  "group": "D",
+  "matchday": 3,
+  "date": "2026-06-23",
+  "time": "21:00",
+  "venue": "Mercedes-Benz Stadium",
+  "city": "Atlanta",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null
+}

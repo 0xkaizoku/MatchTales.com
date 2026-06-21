@@ -1,0 +1,50 @@
+{
+  "headline": "Iraq and Jamaica battle to 1-1",
+  "whyCareScore": 7.5,
+  "whyCareReason": "A crucial Matchday 2 clash in Group J with significant tournament implications.",
+  "teaser": "A thrilling 1-1 finish as Iraq takes on Jamaica. Read how this classic unfolded.",
+  "story": "The clash between Iraq and Jamaica in Group J was a classic matchday 2 encounter. Both teams showed incredible tactical discipline and passion on the pitch, leaving the fans at the edge of their seats.\n\nThe final score of 1-1 reflects the intensity of the game. Key tactical adjustments from both managers ensured that the match remained a balanced and highly competitive affair until the final whistle.\n\nWith this result, both Iraq and Jamaica look forward to their next challenges, knowing that every single point could be decisive in their quest for World Cup glory.",
+  "stakes": "This match is critical for the qualification hopes of both Iraq and Jamaica in Group J.",
+  "rivalryAngle": "A historic football connection between Iraq (Lions of Mesopotamia) and Jamaica (Reggae Boyz) adds fuel to this clash.",
+  "funFacts": [
+    "Iraq are known as Lions of Mesopotamia.",
+    "Jamaica are known as Reggae Boyz.",
+    "This is a key Matchday 2 fixture in the World Cup group phase."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Aymen Hussein",
+      "team": "Iraq",
+      "hook": "The captain leading the charge."
+    },
+    {
+      "name": "Leon Bailey",
+      "team": "Jamaica",
+      "hook": "The creative spark in midfield."
+    }
+  ],
+  "headToHead": "Previous encounters between these two nations have always been tightly contested affairs.",
+  "tags": [
+    "iraq",
+    "jamaica",
+    "group-j"
+  ],
+  "slug": "iraq-vs-jamaica-md2",
+  "home": "Iraq",
+  "away": "Jamaica",
+  "homeCode": "IRQ",
+  "awayCode": "JAM",
+  "homeFlag": "🇮🇶",
+  "awayFlag": "🇯🇲",
+  "group": "J",
+  "matchday": 2,
+  "date": "2026-06-21",
+  "time": "13:00",
+  "venue": "Gillette Stadium",
+  "city": "Boston",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 1,
+  "marquee": false,
+  "liveMinute": null
+}

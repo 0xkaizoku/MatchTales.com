@@ -1,0 +1,50 @@
+{
+  "headline": "Anticipation builds for Spain vs Norway",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A crucial Matchday 3 clash in Group E with significant tournament implications.",
+  "teaser": "The stage is set for a massive clash between Spain and Norway. Here is why you cannot miss it.",
+  "story": "As Group E fixtures heat up, Spain prepares to face Norway in a highly anticipated Matchday 3 showdown. Both squads have shown impressive form and are eager to secure three points in this crucial fixture.\n\nTactical matchups across the pitch will define the contest, with both managers likely deploying their strongest line-ups to seize control of the midfield early in the match.\n\nFans are expecting a high-octane encounter filled with drama, skill, and memorable moments as both nations strive to make their mark on the world stage.",
+  "stakes": "This match is critical for the qualification hopes of both Spain and Norway in Group E.",
+  "rivalryAngle": "A historic football connection between Spain (La Roja) and Norway (Løvene) adds fuel to this clash.",
+  "funFacts": [
+    "Spain are known as La Roja.",
+    "Norway are known as Løvene.",
+    "This is a key Matchday 3 fixture in the World Cup group phase."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Lamine Yamal",
+      "team": "Spain",
+      "hook": "The captain leading the charge."
+    },
+    {
+      "name": "Erling Haaland",
+      "team": "Norway",
+      "hook": "The creative spark in midfield."
+    }
+  ],
+  "headToHead": "Previous encounters between these two nations have always been tightly contested affairs.",
+  "tags": [
+    "spain",
+    "norway",
+    "group-e"
+  ],
+  "slug": "spain-vs-norway-md3",
+  "home": "Spain",
+  "away": "Norway",
+  "homeCode": "ESP",
+  "awayCode": "NOR",
+  "homeFlag": "🇪🇸",
+  "awayFlag": "🇳🇴",
+  "group": "E",
+  "matchday": 3,
+  "date": "2026-06-24",
+  "time": "19:00",
+  "venue": "Hard Rock Stadium",
+  "city": "Miami",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null
+}

@@ -1,0 +1,50 @@
+{
+  "headline": "Nigeria and Australia battle to 2-2",
+  "whyCareScore": 7.5,
+  "whyCareReason": "A crucial Matchday 2 clash in Group D with significant tournament implications.",
+  "teaser": "A thrilling 2-2 finish as Nigeria takes on Australia. Read how this classic unfolded.",
+  "story": "The clash between Nigeria and Australia in Group D was a classic matchday 2 encounter. Both teams showed incredible tactical discipline and passion on the pitch, leaving the fans at the edge of their seats.\n\nThe final score of 2-2 reflects the intensity of the game. Key tactical adjustments from both managers ensured that the match remained a balanced and highly competitive affair until the final whistle.\n\nWith this result, both Nigeria and Australia look forward to their next challenges, knowing that every single point could be decisive in their quest for World Cup glory.",
+  "stakes": "This match is critical for the qualification hopes of both Nigeria and Australia in Group D.",
+  "rivalryAngle": "A historic football connection between Nigeria (Super Eagles) and Australia (Socceroos) adds fuel to this clash.",
+  "funFacts": [
+    "Nigeria are known as Super Eagles.",
+    "Australia are known as Socceroos.",
+    "This is a key Matchday 2 fixture in the World Cup group phase."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Victor Osimhen",
+      "team": "Nigeria",
+      "hook": "The captain leading the charge."
+    },
+    {
+      "name": "Cristian Volpato",
+      "team": "Australia",
+      "hook": "The creative spark in midfield."
+    }
+  ],
+  "headToHead": "Previous encounters between these two nations have always been tightly contested affairs.",
+  "tags": [
+    "nigeria",
+    "australia",
+    "group-d"
+  ],
+  "slug": "nigeria-vs-australia-md2",
+  "home": "Nigeria",
+  "away": "Australia",
+  "homeCode": "NGA",
+  "awayCode": "AUS",
+  "homeFlag": "🇳🇬",
+  "awayFlag": "🇦🇺",
+  "group": "D",
+  "matchday": 2,
+  "date": "2026-06-19",
+  "time": "16:00",
+  "venue": "Gillette Stadium",
+  "city": "Boston",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 2,
+  "marquee": false,
+  "liveMinute": null
+}

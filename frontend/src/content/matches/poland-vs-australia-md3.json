@@ -1,0 +1,50 @@
+{
+  "headline": "Anticipation builds for Poland vs Australia",
+  "whyCareScore": 7.5,
+  "whyCareReason": "A crucial Matchday 3 clash in Group D with significant tournament implications.",
+  "teaser": "The stage is set for a massive clash between Poland and Australia. Here is why you cannot miss it.",
+  "story": "As Group D fixtures heat up, Poland prepares to face Australia in a highly anticipated Matchday 3 showdown. Both squads have shown impressive form and are eager to secure three points in this crucial fixture.\n\nTactical matchups across the pitch will define the contest, with both managers likely deploying their strongest line-ups to seize control of the midfield early in the match.\n\nFans are expecting a high-octane encounter filled with drama, skill, and memorable moments as both nations strive to make their mark on the world stage.",
+  "stakes": "This match is critical for the qualification hopes of both Poland and Australia in Group D.",
+  "rivalryAngle": "A historic football connection between Poland (Biało-czerwoni) and Australia (Socceroos) adds fuel to this clash.",
+  "funFacts": [
+    "Poland are known as Biało-czerwoni.",
+    "Australia are known as Socceroos.",
+    "This is a key Matchday 3 fixture in the World Cup group phase."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Robert Lewandowski",
+      "team": "Poland",
+      "hook": "The captain leading the charge."
+    },
+    {
+      "name": "Cristian Volpato",
+      "team": "Australia",
+      "hook": "The creative spark in midfield."
+    }
+  ],
+  "headToHead": "Previous encounters between these two nations have always been tightly contested affairs.",
+  "tags": [
+    "poland",
+    "australia",
+    "group-d"
+  ],
+  "slug": "poland-vs-australia-md3",
+  "home": "Poland",
+  "away": "Australia",
+  "homeCode": "POL",
+  "awayCode": "AUS",
+  "homeFlag": "🇵🇱",
+  "awayFlag": "🇦🇺",
+  "group": "D",
+  "matchday": 3,
+  "date": "2026-06-23",
+  "time": "16:00",
+  "venue": "Gillette Stadium",
+  "city": "Boston",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": false,
+  "liveMinute": null
+}

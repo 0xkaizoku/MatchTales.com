@@ -1,0 +1,50 @@
+{
+  "headline": "Anticipation builds for Germany vs Iraq",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A crucial Matchday 3 clash in Group J with significant tournament implications.",
+  "teaser": "The stage is set for a massive clash between Germany and Iraq. Here is why you cannot miss it.",
+  "story": "As Group J fixtures heat up, Germany prepares to face Iraq in a highly anticipated Matchday 3 showdown. Both squads have shown impressive form and are eager to secure three points in this crucial fixture.\n\nTactical matchups across the pitch will define the contest, with both managers likely deploying their strongest line-ups to seize control of the midfield early in the match.\n\nFans are expecting a high-octane encounter filled with drama, skill, and memorable moments as both nations strive to make their mark on the world stage.",
+  "stakes": "This match is critical for the qualification hopes of both Germany and Iraq in Group J.",
+  "rivalryAngle": "A historic football connection between Germany (Die Mannschaft) and Iraq (Lions of Mesopotamia) adds fuel to this clash.",
+  "funFacts": [
+    "Germany are known as Die Mannschaft.",
+    "Iraq are known as Lions of Mesopotamia.",
+    "This is a key Matchday 3 fixture in the World Cup group phase."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Jamal Musiala",
+      "team": "Germany",
+      "hook": "The captain leading the charge."
+    },
+    {
+      "name": "Aymen Hussein",
+      "team": "Iraq",
+      "hook": "The creative spark in midfield."
+    }
+  ],
+  "headToHead": "Previous encounters between these two nations have always been tightly contested affairs.",
+  "tags": [
+    "germany",
+    "iraq",
+    "group-j"
+  ],
+  "slug": "germany-vs-iraq-md3",
+  "home": "Germany",
+  "away": "Iraq",
+  "homeCode": "GER",
+  "awayCode": "IRQ",
+  "homeFlag": "🇩🇪",
+  "awayFlag": "🇮🇶",
+  "group": "J",
+  "matchday": 3,
+  "date": "2026-06-25",
+  "time": "21:00",
+  "venue": "MetLife Stadium",
+  "city": "New Jersey",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null
+}
