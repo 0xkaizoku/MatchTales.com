@@ -3,7 +3,7 @@ title: "Three Nations, One Party: The Hosts' Story"
 subtitle: "From the Rose Bowl to the Azteca to BMO Field, three footballing souls are about to find out who they really are."
 category: "Hosts"
 excerpt: "For the first time, three countries host the World Cup together. The stakes for USA, Mexico and Canada could not be higher."
-image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1459865264687-595d652de67e?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 6
 pubDate: 2026-06-16
 ---

@@ -3,7 +3,7 @@ title: "The Rise of Lamine Yamal and Spain's New Age"
 subtitle: "How a teenage sensation and a direct style are reinventing La Roja's historical identity."
 category: "Tactics"
 excerpt: "How a teenage sensation and a direct style are reinventing La Roja's historical identity on the world stage."
-image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1517649763962-0c623066013b?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 5
 pubDate: 2026-06-16
 ---

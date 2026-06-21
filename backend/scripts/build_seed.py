@@ -303,13 +303,13 @@ STORIES_META = [
   {"slug":"why-the-48-team-world-cup-changes-everything","title":"Why the 48-Team World Cup Changes Everything","category":"Explainer",
    "excerpt":"More teams, more groups, more drama — and a brand-new path to the trophy. Here's what to know.","img":"https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85","read":5},
   {"slug":"hosts-united-usa-mexico-canada","title":"Three Nations, One Party: The Hosts' Story","category":"Hosts",
-   "excerpt":"For the first time, three countries host the World Cup together. The stakes for USA, Mexico and Canada could not be higher.","img":"https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85","read":6},
+   "excerpt":"For the first time, three countries host the World Cup together. The stakes for USA, Mexico and Canada could not be higher.","img":"https://images.unsplash.com/photo-1459865264687-595d652de67e?crop=entropy&cs=srgb&fm=jpg&q=85","read":6},
   {"slug":"lamine-yamal-new-tiki-taka","title":"The Rise of Lamine Yamal and Spain's New Age","category":"Tactics",
-   "excerpt":"How a teenage sensation and a direct style are reinventing La Roja's historical identity on the world stage.","img":"https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85","read":5},
+   "excerpt":"How a teenage sensation and a direct style are reinventing La Roja's historical identity on the world stage.","img":"https://images.unsplash.com/photo-1517649763962-0c623066013b?crop=entropy&cs=srgb&fm=jpg&q=85","read":5},
   {"slug":"norways-golden-duo-haaland-odegaard","title":"Norway's Golden Duo: Haaland and Ødegaard's World Cup Dream","category":"Spotlight",
-   "excerpt":"After 28 years in the wilderness, Norway return to the biggest stage powered by two of the world's finest talents.","img":"https://images.unsplash.com/photo-1556152352-8edad147cc21?crop=entropy&cs=srgb&fm=jpg&q=85","read":6},
+   "excerpt":"After 28 years in the wilderness, Norway return to the biggest stage powered by two of the world's finest talents.","img":"https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85","read":6},
   {"slug":"african-heavyweights-senegal-morocco","title":"African Heavyweights: The Battle for Continental Supremacy","category":"Continent",
-   "excerpt":"Morocco's historic semi-final run in 2022 vs Senegal's reigning champions — who will carry Africa furthest in 2026?","img":"https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85","read":7},
+   "excerpt":"Morocco's historic semi-final run in 2022 vs Senegal's reigning champions — who will carry Africa furthest in 2026?","img":"https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85","read":7},
 ]
 
 # ---- Fixtures

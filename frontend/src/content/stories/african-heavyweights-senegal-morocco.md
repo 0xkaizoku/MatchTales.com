@@ -3,7 +3,7 @@ title: "African Heavyweights: The Battle for Continental Supremacy"
 subtitle: "Who will carry Africa furthest in the new 48-team era?"
 category: "Continent"
 excerpt: "Morocco's historic semi-final run in 2022 vs Senegal's reigning champions \u2014 who will carry Africa furthest in 2026?"
-image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 7
 pubDate: 2026-06-16
 ---

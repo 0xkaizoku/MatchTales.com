@@ -3,7 +3,7 @@ title: "Norway's Golden Duo: Haaland and \u00d8degaard's World Cup Dream"
 subtitle: "After 28 years in the wilderness, Norway return powered by two of the world's finest talents."
 category: "Spotlight"
 excerpt: "After 28 years in the wilderness, Norway return to the biggest stage powered by two of the world's finest talents."
-image: "https://images.unsplash.com/photo-1556152352-8edad147cc21?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 6
 pubDate: 2026-06-16
 ---
