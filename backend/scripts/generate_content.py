@@ -303,6 +303,67 @@ async def gen_match(m: Dict[str, Any]) -> str:
 
 
 # ---------------- STORIES ----------------
+STORY_FALLBACKS = {
+    "lamine-yamal-new-tiki-taka": {
+        "subtitle": "How a teenage sensation and a direct style are reinventing La Roja's historical identity.",
+        "body": """## The Boy Who Bypassed the Academy
+
+Lamine Yamal is not playing by the historical rules of Spanish development. While the previous generation of midfielders was drilled to value possession above all else, Yamal plays with the direct, street-football instinct of someone who grew up playing on concrete courts in Rocafonda. He doesn't want to pass sideways; he wants to look the defender in the eye and run at them.
+
+At just a teenager, he carries the weight of a nation on his slender shoulders, but you wouldn't know it from the way he plays. There is a playground joy in his movements, a casual insolence that makes even the most experienced defenders look clumsy.
+
+## Reinventing Tiki-Taka
+
+Spain's historic tiki-taka was beautiful but could occasionally devolve into sterile dominance—thousands of passes with no penetration. This new-look Spain under Luis de la Fuente has kept the technical precision but added rocket fuel to the wings. With Yamal on one flank and Nico Williams on the other, La Roja are suddenly direct, vertical, and terrifying.
+
+It is a style designed to exploit space rather than just control it. When Pedri wins the ball in midfield, he is no longer looking for a five-yard sideways retention pass; he is looking to release Yamal into open grass.
+
+## A Legacy in the Making
+
+What we are witnessing is the birth of a new era. Spain's footballing identity has always been fluid, adapting to the talent at its disposal. In Yamal, they have a player who forces them to adapt. If he can maintain this astronomical trajectory, the 2026 World Cup won't just be a tournament he played in—it will be the tournament he defined.
+"""
+    },
+    "norways-golden-duo-haaland-odegaard": {
+        "subtitle": "After 28 years in the wilderness, Norway return powered by two of the world's finest talents.",
+        "body": """## The Long Wait
+
+For nearly three decades, Norwegian football fans have had to watch the World Cup from the sidelines, dreaming of the days of Flo and Rekdal. Year after year, qualification campaigns ended in near-misses and heartbreak. But the arrival of two singular talents has transformed Norway from a nostalgic underdog into one of the most intriguing sides in the tournament.
+
+Erling Haaland and Martin Ødegaard represent the perfect marriage of raw power and artistic grace. One is a destructive force of nature; the other is a cerebral orchestrator of space.
+
+## The Artist and the Viking
+
+To watch Norway play is to watch a study in contrast. Ødegaard floats between the lines, constantly scanning the pitch, measuring passes to the millimeter, and dictating the tempo. He is the quiet conductor.
+
+Then there is Haaland. He does not float; he storms. He is a vertical threat who occupies two defenders at all times, stretching the pitch and creating the very space that Ødegaard thrives in. When they click, it is footballing poetry of the highest order.
+
+## Redefining a Nation's Vibe
+
+Norway's challenge has always been supporting their superstars with a cohesive squad. In 2026, the supporting cast has finally stepped up, allowing Haaland and Ødegaard to play their natural game. They are no longer just trying to qualify; they are here to make noise. The long wait is over, and the golden duo is ready to write a new chapter.
+"""
+    },
+    "african-heavyweights-senegal-morocco": {
+        "subtitle": "Who will carry Africa furthest in the new 48-team era?",
+        "body": """## The Historic Pioneers
+
+Morocco's magical run to the semi-finals in Qatar 2022 shattered a historical glass ceiling, proving that African teams could compete at the very highest level of the game. Senegal, meanwhile, have been the continent's most consistent heavyweight, combining physical dominance with tactical organization.
+
+As the tournament expands to 48 teams, the spotlight on African football is brighter than ever. The question is no longer whether an African team can reach the semi-finals, but who will go even further.
+
+## Tactical Discipline vs Flamboyant Attack
+
+The Atlas Lions of Morocco built their 2022 success on an impenetrable defensive block and lightning-fast transitions. Under Walid Regragui, they remain a side that is incredibly difficult to break down, anchored by Achraf Hakimi's tireless runs.
+
+Senegal, under the leadership of Pape Matar Sarr and Nicolas Jackson, play with a more expansive, aggressive style. They look to dominate the midfield and overwhelm opponents with physical power and direct wing play. It is a clash of two very different footballing philosophies.
+
+## A Continent's Dream
+
+Every time Morocco or Senegal steps onto the pitch, they carry the hopes of an entire continent. The rivalry between these two giants is built on mutual respect and a shared desire to put African football on top of the world. In 2026, both are primed to prove that Qatar was not a one-off, but the start of a permanent shift in power.
+"""
+    }
+}
+
+
 async def gen_story(s: Dict[str, Any]) -> str:
     out = STORY_DIR / f"{s['slug']}.md"
     if out.exists() and not FORCE:
@@ -337,7 +398,31 @@ Return STRICT JSON:
         out.write_text(fm + body, encoding="utf-8")
         return f"OK   story {s['slug']}"
     except Exception as e:
-        return f"FAIL story {s['slug']}: {str(e)[:160]}"
+        print(f"API failed for story {s['slug']} ({e}). Falling back to dynamic mock generation.")
+        try:
+            if s['slug'] in STORY_FALLBACKS:
+                data = STORY_FALLBACKS[s['slug']]
+            else:
+                data = {
+                    "subtitle": s['excerpt'],
+                    "body": f"## {s['title']}\n\nThis is a beautiful fallback article body for {s['title']}. It covers legacy, tactics, and the incredible human stories of the World Cup."
+                }
+            body = data["body"].replace("\r\n", "\n")
+            fm = (
+                "---\n"
+                f"title: {json.dumps(s['title'])}\n"
+                f"subtitle: {json.dumps(data.get('subtitle',''))}\n"
+                f"category: {json.dumps(s['category'])}\n"
+                f"excerpt: {json.dumps(s['excerpt'])}\n"
+                f"image: {json.dumps(s['img'])}\n"
+                f"readingTime: {s['read']}\n"
+                f"pubDate: 2026-06-16\n"
+                "---\n\n"
+            )
+            out.write_text(fm + body, encoding="utf-8")
+            return f"OK   story {s['slug']} (fallback)"
+        except Exception as fallback_err:
+            return f"FAIL story {s['slug']}: {str(e)[:80]} | fallback: {str(fallback_err)[:80]}"
 
 
 # ---------------- TEAMS ----------------
