@@ -402,14 +402,14 @@ F.append(fx("New Zealand","Serbia","I",2,"2026-06-21","13:00","BC Place","Vancou
 F.append(fx("Iraq","Jamaica","J",2,"2026-06-21","13:00","Gillette Stadium","Boston","FINISHED",1,1))
 
 # Matchday 3
-F.append(fx("Mexico","Czechia","A",3,"2026-06-22","20:00","Estadio Azteca","Mexico City","LIVE",1,1,True,65))
-F.append(fx("South Korea","South Africa","A",3,"2026-06-22","20:00","Estadio Akron","Guadalajara","LIVE",2,1,False,65))
-F.append(fx("Canada","Saudi Arabia","B",3,"2026-06-22","16:00","BMO Field","Toronto","UPCOMING",None,None,False))
-F.append(fx("Belgium","Morocco","B",3,"2026-06-22","19:00","BC Place","Vancouver","UPCOMING",None,None,True))
-F.append(fx("USA","Senegal","C",3,"2026-06-23","20:00","SoFi Stadium","Los Angeles","UPCOMING",None,None,True))
-F.append(fx("Iran","Wales","C",3,"2026-06-23","16:00","Lumen Field","Seattle","UPCOMING",None,None,False))
-F.append(fx("Argentina","Nigeria","D",3,"2026-06-23","21:00","Mercedes-Benz Stadium","Atlanta","UPCOMING",None,None,True))
-F.append(fx("Poland","Australia","D",3,"2026-06-23","16:00","Gillette Stadium","Boston","UPCOMING",None,None,False))
+F.append(fx("Mexico","Czechia","A",3,"2026-06-22","20:00","Estadio Azteca","Mexico City","FINISHED",1,1,True))
+F.append(fx("South Korea","South Africa","A",3,"2026-06-22","20:00","Estadio Akron","Guadalajara","FINISHED",2,1,False))
+F.append(fx("Canada","Saudi Arabia","B",3,"2026-06-22","16:00","BMO Field","Toronto","FINISHED",2,1,False))
+F.append(fx("Belgium","Morocco","B",3,"2026-06-22","19:00","BC Place","Vancouver","FINISHED",1,2,True))
+F.append(fx("USA","Senegal","C",3,"2026-06-23","20:00","SoFi Stadium","Los Angeles","LIVE",1,1,True,70))
+F.append(fx("Iran","Wales","C",3,"2026-06-23","16:00","Lumen Field","Seattle","FINISHED",0,1,False))
+F.append(fx("Argentina","Nigeria","D",3,"2026-06-23","21:00","Mercedes-Benz Stadium","Atlanta","LIVE",2,1,True,15))
+F.append(fx("Poland","Australia","D",3,"2026-06-23","16:00","Gillette Stadium","Boston","FINISHED",1,2,False))
 F.append(fx("Spain","Norway","E",3,"2026-06-24","19:00","Hard Rock Stadium","Miami","UPCOMING",None,None,True))
 F.append(fx("Japan","Costa Rica","E",3,"2026-06-24","13:00","Levi's Stadium","San Francisco","UPCOMING",None,None,False))
 F.append(fx("Italy","Egypt","F",3,"2026-06-24","19:00","Levi's Stadium","San Francisco","UPCOMING",None,None,True))
@@ -467,7 +467,7 @@ data = {
     "tournament":"FIFA World Cup 2026",
     "hosts":["United States","Mexico","Canada"],
     "startDate":"2026-06-11",
-    "today":"2026-06-22",
+    "today":"2026-06-23",
     "tagline":"Why this match matters.",
     "groupsCount":12, "teamsCount":48,
   },

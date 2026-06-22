@@ -1,9 +1,9 @@
 {
-  "headline": "Anticipation builds for South Korea vs South Africa",
+  "headline": "South Korea and South Africa battle to 2-1",
   "whyCareScore": 7.5,
   "whyCareReason": "A crucial Matchday 3 clash in Group A with significant tournament implications.",
-  "teaser": "The stage is set for a massive clash between South Korea and South Africa. Here is why you cannot miss it.",
-  "story": "As Group A fixtures heat up, South Korea prepares to face South Africa in a highly anticipated Matchday 3 showdown. Both squads have shown impressive form and are eager to secure three points in this crucial fixture.\n\nTactical matchups across the pitch will define the contest, with both managers likely deploying their strongest line-ups to seize control of the midfield early in the match.\n\nFans are expecting a high-octane encounter filled with drama, skill, and memorable moments as both nations strive to make their mark on the world stage.",
+  "teaser": "A thrilling 2-1 finish as South Korea takes on South Africa. Read how this classic unfolded.",
+  "story": "The clash between South Korea and South Africa in Group A was a classic matchday 3 encounter. Both teams showed incredible tactical discipline and passion on the pitch, leaving the fans at the edge of their seats.\n\nThe final score of 2-1 reflects the intensity of the game. Key tactical adjustments from both managers ensured that the match remained a balanced and highly competitive affair until the final whistle.\n\nWith this result, both South Korea and South Africa look forward to their next challenges, knowing that every single point could be decisive in their quest for World Cup glory.",
   "stakes": "This match is critical for the qualification hopes of both South Korea and South Africa in Group A.",
   "rivalryAngle": "A historic football connection between South Korea (Taegeuk Warriors) and South Africa (Bafana Bafana) adds fuel to this clash.",
   "funFacts": [
@@ -42,9 +42,9 @@
   "time": "20:00",
   "venue": "Estadio Akron",
   "city": "Guadalajara",
-  "status": "LIVE",
+  "status": "FINISHED",
   "homeScore": 2,
   "awayScore": 1,
   "marquee": false,
-  "liveMinute": 65
+  "liveMinute": null
 }
