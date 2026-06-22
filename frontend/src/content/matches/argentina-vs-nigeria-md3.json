@@ -42,9 +42,9 @@
   "time": "21:00",
   "venue": "Mercedes-Benz Stadium",
   "city": "Atlanta",
-  "status": "LIVE",
-  "homeScore": 2,
-  "awayScore": 1,
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
   "marquee": true,
-  "liveMinute": 15
+  "liveMinute": null
 }

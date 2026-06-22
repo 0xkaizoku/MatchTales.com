@@ -42,9 +42,9 @@
   "time": "20:00",
   "venue": "SoFi Stadium",
   "city": "Los Angeles",
-  "status": "LIVE",
-  "homeScore": 1,
-  "awayScore": 1,
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
   "marquee": true,
-  "liveMinute": 70
+  "liveMinute": null
 }
