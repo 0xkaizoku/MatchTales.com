@@ -1,9 +1,9 @@
 {
-  "headline": "Anticipation builds for Spain vs Norway",
+  "headline": "Spain and Norway battle to 3-1",
   "whyCareScore": 9.2,
   "whyCareReason": "A crucial Matchday 3 clash in Group E with significant tournament implications.",
-  "teaser": "The stage is set for a massive clash between Spain and Norway. Here is why you cannot miss it.",
-  "story": "As Group E fixtures heat up, Spain prepares to face Norway in a highly anticipated Matchday 3 showdown. Both squads have shown impressive form and are eager to secure three points in this crucial fixture.\n\nTactical matchups across the pitch will define the contest, with both managers likely deploying their strongest line-ups to seize control of the midfield early in the match.\n\nFans are expecting a high-octane encounter filled with drama, skill, and memorable moments as both nations strive to make their mark on the world stage.",
+  "teaser": "A thrilling 3-1 finish as Spain takes on Norway. Read how this classic unfolded.",
+  "story": "The clash between Spain and Norway in Group E was a classic matchday 3 encounter. Both teams showed incredible tactical discipline and passion on the pitch, leaving the fans at the edge of their seats.\n\nThe final score of 3-1 reflects the intensity of the game. Key tactical adjustments from both managers ensured that the match remained a balanced and highly competitive affair until the final whistle.\n\nWith this result, both Spain and Norway look forward to their next challenges, knowing that every single point could be decisive in their quest for World Cup glory.",
   "stakes": "This match is critical for the qualification hopes of both Spain and Norway in Group E.",
   "rivalryAngle": "A historic football connection between Spain (La Roja) and Norway (Løvene) adds fuel to this clash.",
   "funFacts": [
@@ -42,9 +42,9 @@
   "time": "19:00",
   "venue": "Hard Rock Stadium",
   "city": "Miami",
-  "status": "LIVE",
-  "homeScore": 2,
+  "status": "FINISHED",
+  "homeScore": 3,
   "awayScore": 1,
   "marquee": true,
-  "liveMinute": 65
+  "liveMinute": null
 }

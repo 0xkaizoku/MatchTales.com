@@ -8,7 +8,7 @@
       "Canada"
     ],
     "startDate": "2026-06-11",
-    "today": "2026-06-24",
+    "today": "2026-06-25",
     "tagline": "Why this match matters.",
     "groupsCount": 12,
     "teamsCount": 48
@@ -1629,27 +1629,14 @@
         "name": "Spain",
         "code": "ESP",
         "flag": "🇪🇸",
-        "P": 2,
-        "W": 2,
+        "P": 3,
+        "W": 3,
         "D": 0,
         "L": 0,
-        "GF": 6,
-        "GA": 1,
-        "GD": 5,
-        "Pts": 6
-      },
-      {
-        "name": "Norway",
-        "code": "NOR",
-        "flag": "🇳🇴",
-        "P": 2,
-        "W": 1,
-        "D": 1,
-        "L": 0,
-        "GF": 4,
+        "GF": 9,
         "GA": 2,
-        "GD": 2,
-        "Pts": 4
+        "GD": 7,
+        "Pts": 9
       },
       {
         "name": "Japan",
@@ -1662,6 +1649,19 @@
         "GF": 4,
         "GA": 3,
         "GD": 1,
+        "Pts": 4
+      },
+      {
+        "name": "Norway",
+        "code": "NOR",
+        "flag": "🇳🇴",
+        "P": 3,
+        "W": 1,
+        "D": 1,
+        "L": 1,
+        "GF": 5,
+        "GA": 5,
+        "GD": 0,
         "Pts": 4
       },
       {
@@ -1737,14 +1737,14 @@
         "name": "Italy",
         "code": "ITA",
         "flag": "🇮🇹",
-        "P": 2,
-        "W": 2,
+        "P": 3,
+        "W": 3,
         "D": 0,
         "L": 0,
-        "GF": 2,
+        "GF": 4,
         "GA": 0,
-        "GD": 2,
-        "Pts": 6
+        "GD": 4,
+        "Pts": 9
       },
       {
         "name": "Turkey",
@@ -1776,17 +1776,30 @@
         "name": "Egypt",
         "code": "EGY",
         "flag": "🇪🇬",
-        "P": 2,
+        "P": 3,
         "W": 0,
         "D": 1,
-        "L": 1,
+        "L": 2,
         "GF": 2,
-        "GA": 3,
-        "GD": -1,
+        "GA": 5,
+        "GD": -3,
         "Pts": 1
       }
     ],
     "G": [
+      {
+        "name": "France",
+        "code": "FRA",
+        "flag": "🇫🇷",
+        "P": 3,
+        "W": 2,
+        "D": 1,
+        "L": 0,
+        "GF": 6,
+        "GA": 1,
+        "GD": 5,
+        "Pts": 7
+      },
       {
         "name": "Uruguay",
         "code": "URU",
@@ -1799,19 +1812,6 @@
         "GA": 1,
         "GD": 3,
         "Pts": 7
-      },
-      {
-        "name": "France",
-        "code": "FRA",
-        "flag": "🇫🇷",
-        "P": 2,
-        "W": 1,
-        "D": 1,
-        "L": 0,
-        "GF": 3,
-        "GA": 1,
-        "GD": 2,
-        "Pts": 4
       },
       {
         "name": "DR Congo",
@@ -1830,13 +1830,13 @@
         "name": "Qatar",
         "code": "QAT",
         "flag": "🇶🇦",
-        "P": 2,
+        "P": 3,
         "W": 0,
         "D": 0,
-        "L": 2,
+        "L": 3,
         "GF": 1,
-        "GA": 3,
-        "GD": -2,
+        "GA": 6,
+        "GD": -5,
         "Pts": 0
       }
     ],
@@ -1871,53 +1871,53 @@
         "name": "Switzerland",
         "code": "SUI",
         "flag": "🇨🇭",
-        "P": 2,
+        "P": 3,
         "W": 0,
-        "D": 1,
+        "D": 2,
         "L": 1,
-        "GF": 1,
-        "GA": 3,
+        "GF": 2,
+        "GA": 4,
         "GD": -2,
-        "Pts": 1
+        "Pts": 2
       },
       {
         "name": "Cameroon",
         "code": "CMR",
         "flag": "🇨🇲",
-        "P": 2,
+        "P": 3,
         "W": 0,
-        "D": 0,
+        "D": 1,
         "L": 2,
-        "GF": 1,
-        "GA": 4,
+        "GF": 2,
+        "GA": 5,
         "GD": -3,
-        "Pts": 0
+        "Pts": 1
       }
     ],
     "I": [
       {
-        "name": "Serbia",
-        "code": "SRB",
-        "flag": "🇷🇸",
-        "P": 2,
-        "W": 1,
+        "name": "Ivory Coast",
+        "code": "CIV",
+        "flag": "🇨🇮",
+        "P": 3,
+        "W": 2,
         "D": 1,
         "L": 0,
         "GF": 4,
         "GA": 2,
         "GD": 2,
-        "Pts": 4
+        "Pts": 7
       },
       {
-        "name": "Ivory Coast",
-        "code": "CIV",
-        "flag": "🇨🇮",
-        "P": 2,
+        "name": "Serbia",
+        "code": "SRB",
+        "flag": "🇷🇸",
+        "P": 3,
         "W": 1,
         "D": 1,
-        "L": 0,
-        "GF": 2,
-        "GA": 1,
+        "L": 1,
+        "GF": 5,
+        "GA": 4,
         "GD": 1,
         "Pts": 4
       },
@@ -1966,14 +1966,14 @@
         "name": "Algeria",
         "code": "ALG",
         "flag": "🇩🇿",
-        "P": 2,
-        "W": 1,
+        "P": 3,
+        "W": 2,
         "D": 0,
         "L": 1,
-        "GF": 2,
+        "GF": 3,
         "GA": 2,
-        "GD": 0,
-        "Pts": 3
+        "GD": 1,
+        "Pts": 6
       },
       {
         "name": "Iraq",
@@ -1992,13 +1992,13 @@
         "name": "Jamaica",
         "code": "JAM",
         "flag": "🇯🇲",
-        "P": 2,
+        "P": 3,
         "W": 0,
         "D": 1,
-        "L": 1,
+        "L": 2,
         "GF": 1,
-        "GA": 3,
-        "GD": -2,
+        "GA": 4,
+        "GD": -3,
         "Pts": 1
       }
     ],
@@ -2964,11 +2964,11 @@
       "time": "19:00",
       "venue": "Hard Rock Stadium",
       "city": "Miami",
-      "status": "LIVE",
-      "homeScore": 2,
+      "status": "FINISHED",
+      "homeScore": 3,
       "awayScore": 1,
       "marquee": true,
-      "liveMinute": 65
+      "liveMinute": null
     },
     {
       "slug": "japan-vs-costa-rica-md3",
@@ -2996,11 +2996,11 @@
       "time": "19:00",
       "venue": "Levi's Stadium",
       "city": "San Francisco",
-      "status": "LIVE",
-      "homeScore": 1,
+      "status": "FINISHED",
+      "homeScore": 2,
       "awayScore": 0,
       "marquee": true,
-      "liveMinute": 65
+      "liveMinute": null
     },
     {
       "slug": "turkey-vs-paraguay-md3",
@@ -3028,9 +3028,9 @@
       "time": "21:00",
       "venue": "NRG Stadium",
       "city": "Houston",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 3,
+      "awayScore": 0,
       "marquee": true,
       "liveMinute": null
     },
@@ -3060,11 +3060,11 @@
       "time": "13:00",
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 2,
+      "awayScore": 1,
       "marquee": true,
-      "liveMinute": null
+      "liveMinute": 75
     },
     {
       "slug": "switzerland-vs-cameroon-md3",
@@ -3076,9 +3076,9 @@
       "time": "16:00",
       "venue": "Lumen Field",
       "city": "Seattle",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 1,
       "marquee": false,
       "liveMinute": null
     },
@@ -3092,11 +3092,11 @@
       "time": "19:00",
       "venue": "SoFi Stadium",
       "city": "Los Angeles",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 3,
+      "awayScore": 0,
       "marquee": true,
-      "liveMinute": null
+      "liveMinute": 45
     },
     {
       "slug": "ivory-coast-vs-serbia-md3",
@@ -3108,9 +3108,9 @@
       "time": "13:00",
       "venue": "BC Place",
       "city": "Vancouver",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 1,
       "marquee": false,
       "liveMinute": null
     },
@@ -3140,9 +3140,9 @@
       "time": "13:00",
       "venue": "Gillette Stadium",
       "city": "Boston",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 0,
       "marquee": false,
       "liveMinute": null
     },
