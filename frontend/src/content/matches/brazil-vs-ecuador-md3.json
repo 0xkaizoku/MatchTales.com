@@ -42,9 +42,9 @@
   "time": "13:00",
   "venue": "Arrowhead Stadium",
   "city": "Kansas City",
-  "status": "LIVE",
-  "homeScore": 2,
-  "awayScore": 1,
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
   "marquee": true,
-  "liveMinute": 75
+  "liveMinute": null
 }
