@@ -1,9 +1,9 @@
 {
-  "headline": "Anticipation builds for Japan vs Costa Rica",
+  "headline": "Japan and Costa Rica battle to 2-0",
   "whyCareScore": 7.5,
   "whyCareReason": "A crucial Matchday 3 clash in Group E with significant tournament implications.",
-  "teaser": "The stage is set for a massive clash between Japan and Costa Rica. Here is why you cannot miss it.",
-  "story": "As Group E fixtures heat up, Japan prepares to face Costa Rica in a highly anticipated Matchday 3 showdown. Both squads have shown impressive form and are eager to secure three points in this crucial fixture.\n\nTactical matchups across the pitch will define the contest, with both managers likely deploying their strongest line-ups to seize control of the midfield early in the match.\n\nFans are expecting a high-octane encounter filled with drama, skill, and memorable moments as both nations strive to make their mark on the world stage.",
+  "teaser": "A thrilling 2-0 finish as Japan takes on Costa Rica. Read how this classic unfolded.",
+  "story": "The clash between Japan and Costa Rica in Group E was a classic matchday 3 encounter. Both teams showed incredible tactical discipline and passion on the pitch, leaving the fans at the edge of their seats.\n\nThe final score of 2-0 reflects the intensity of the game. Key tactical adjustments from both managers ensured that the match remained a balanced and highly competitive affair until the final whistle.\n\nWith this result, both Japan and Costa Rica look forward to their next challenges, knowing that every single point could be decisive in their quest for World Cup glory.",
   "stakes": "This match is critical for the qualification hopes of both Japan and Costa Rica in Group E.",
   "rivalryAngle": "A historic football connection between Japan (Samurai Blue) and Costa Rica (Los Ticos) adds fuel to this clash.",
   "funFacts": [
@@ -42,9 +42,9 @@
   "time": "13:00",
   "venue": "Levi's Stadium",
   "city": "San Francisco",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 0,
   "marquee": false,
   "liveMinute": null
 }

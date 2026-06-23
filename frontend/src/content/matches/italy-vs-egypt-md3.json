@@ -42,9 +42,9 @@
   "time": "19:00",
   "venue": "Levi's Stadium",
   "city": "San Francisco",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "LIVE",
+  "homeScore": 1,
+  "awayScore": 0,
   "marquee": true,
-  "liveMinute": null
+  "liveMinute": 65
 }
