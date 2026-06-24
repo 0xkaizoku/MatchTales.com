@@ -1,33 +1,40 @@
 {
-  "headline": "Anticipation builds for Portugal vs New Zealand",
-  "whyCareScore": 9.2,
-  "whyCareReason": "A crucial Matchday 3 clash in Group I with significant tournament implications.",
-  "teaser": "The stage is set for a massive clash between Portugal and New Zealand. Here is why you cannot miss it.",
-  "story": "As Group I fixtures heat up, Portugal prepares to face New Zealand in a highly anticipated Matchday 3 showdown. Both squads have shown impressive form and are eager to secure three points in this crucial fixture.\n\nTactical matchups across the pitch will define the contest, with both managers likely deploying their strongest line-ups to seize control of the midfield early in the match.\n\nFans are expecting a high-octane encounter filled with drama, skill, and memorable moments as both nations strive to make their mark on the world stage.",
-  "stakes": "This match is critical for the qualification hopes of both Portugal and New Zealand in Group I.",
-  "rivalryAngle": "A historic football connection between Portugal (A Seleção) and New Zealand (All Whites) adds fuel to this clash.",
+  "headline": "Ronaldo's Last Dance, New Zealand's Hollywood Dream",
+  "whyCareScore": 8.5,
+  "whyCareReason": "It's the sporting equivalent of watching a Hollywood blockbuster where a living legend meets a plucky underdog, all with the clock ticking.",
+  "teaser": "Ever wondered what it's like when a global superstar faces a team nobody expects to win? This World Cup match in Los Angeles has all the drama you could ask for, with history on the line for both sides.",
+  "story": "The SoFi Stadium lights will shine extra bright on June 25, 2026, as Cristiano Ronaldo, arguably the greatest of all time, steps onto the World Cup stage potentially for his final act. He leads a Portuguese side, \"A Seleção\", overflowing with talent like Bruno Fernandes and Rafael Leão, all determined to send their captain off with the ultimate prize. For Portugal, this isn't just a game; it's a mission, a testament to a golden generation.\n\nAcross the pitch stand New Zealand's \"All Whites,\" the ultimate Cinderella story of this tournament. They've journeyed from the remote corners of the football world, dreaming of something truly special: their first-ever World Cup victory. Led by experienced striker Chris Wood, this team embodies the spirit of resilience, hoping to shock the planet and etch their names into football folklore.\n\nThis Group I encounter is more than just points; it's a clash of legacies. Will Ronaldo add another unforgettable chapter to his unparalleled career, or will the All Whites create the upset of a lifetime in the City of Angels? The beauty of the World Cup is that sometimes, just sometimes, the impossible happens.",
+  "stakes": "This is crunch time in Group I. Portugal will be aiming to seal their spot in the knockout rounds, potentially as group winners, while New Zealand dreams of making history and spoiling the party, perhaps even snatching an unthinkable point or three.",
+  "rivalryAngle": "Forget old grudges, this is a clash of narratives. On one side, a global footballing superpower and a legendary icon chasing one last hurrah. On the other, the ultimate underdog, an Oceanic nation daring to dream of a monumental upset on the biggest stage.",
   "funFacts": [
-    "Portugal are known as A Seleção.",
-    "New Zealand are known as All Whites.",
-    "This is a key Matchday 3 fixture in the World Cup group phase."
+    "New Zealand has never won a World Cup match in their history, recording three draws and six losses across two previous appearances.",
+    "Cristiano Ronaldo could become the first male player to score in six different World Cup tournaments if he finds the net in 2026.",
+    "SoFi Stadium, known for hosting the Super Bowl, will be hosting its first-ever World Cup matches in 2026."
   ],
   "keyPlayers": [
     {
       "name": "Cristiano Ronaldo",
       "team": "Portugal",
-      "hook": "The captain leading the charge."
+      "hook": "The legendary forward's final World Cup could be a fairytale ending or a poignant goodbye."
+    },
+    {
+      "name": "Bruno Fernandes",
+      "team": "Portugal",
+      "hook": "Portugal's midfield maestro pulls the strings, delivering creative passes and crucial goals."
     },
     {
       "name": "Chris Wood",
       "team": "New Zealand",
-      "hook": "The creative spark in midfield."
+      "hook": "The All Whites' talismanic striker carries the hopes of his nation on his broad shoulders."
     }
   ],
-  "headToHead": "Previous encounters between these two nations have always been tightly contested affairs.",
+  "headToHead": "These two nations have never met on the senior international stage before, making this a fresh chapter in World Cup lore.",
   "tags": [
     "portugal",
-    "new-zealand",
-    "group-i"
+    "new zealand",
+    "world cup",
+    "ronaldo",
+    "underdog"
   ],
   "slug": "portugal-vs-new-zealand-md3",
   "home": "Portugal",

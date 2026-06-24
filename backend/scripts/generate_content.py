@@ -219,6 +219,7 @@ def generate_fallback_mock(m: Dict[str, Any], h: Dict[str, Any], a: Dict[str, An
     group = m["group"]
     matchday = m["matchday"]
     played = m["status"] == "FINISHED"
+    is_live = m["status"] == "LIVE"
     
     def _get_player_name(players, default="Star Player"):
         if not players:
@@ -243,6 +244,16 @@ def generate_fallback_mock(m: Dict[str, Any], h: Dict[str, Any], a: Dict[str, An
             f"could be decisive in their quest for World Cup glory."
         )
         teaser = f"A thrilling {score_str} finish as {home_name} takes on {away_name}. Read how this classic unfolded."
+    elif is_live:
+        score_str = f"{m['homeScore']}-{m['awayScore']}"
+        headline = f"LIVE: {home_name} vs {away_name} ({score_str})"
+        story = (
+            f"The high-stakes Group {group} match between {home_name} and {away_name} is currently live. "
+            f"Both sides are leaving everything on the pitch in this crucial matchday {matchday} encounter, with the current score standing at {score_str}.\n\n"
+            f"With qualification hopes on the line, every pass, tackle, and run carries immense weight as the clock ticks down.\n\n"
+            f"Fans are treated to a breathless spectacle of competitive football where a single moment could decide the destiny of both nations."
+        )
+        teaser = f"Live updates as {home_name} battles {away_name} in Group {group}. Current score: {score_str}."
     else:
         headline = f"Anticipation builds for {home_name} vs {away_name}"
         story = (
