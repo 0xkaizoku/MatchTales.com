@@ -17,7 +17,7 @@ import asyncio
 import subprocess
 from pathlib import Path
 from typing import Any, Dict, List, Tuple
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 import httpx
 import urllib.parse
 from dotenv import load_dotenv
@@ -395,94 +395,129 @@ async def main():
         
     teams_lookup = {t["name"]: t for t in seed_data["teams"]}
     
-    # 2. Perform Web Search Scrape
-    today_str = datetime.now().strftime("%Y-%m-%d")
-    search_query = f"FIFA World Cup 2026 matches results scores overview highlights date {today_str}"
-    scraped_text = scrape_web_info(search_query)
+def update_fixtures_by_real_date(seed_data: Dict[str, Any]) -> List[Dict[str, Any]]:
+    # Get current UTC time
+    now_utc = datetime.now(timezone.utc)
+    # Determine the tournament local date (we use a standard 4-hour offset from UTC for Eastern/Central)
+    today_dt = now_utc - timedelta(hours=4)
+    today_str = today_dt.strftime("%Y-%m-%d")
     
-    if not scraped_text:
-        print("No search info retrieved from web scraper. Using simulated matches...")
-        scraped_text = "Simulated update cycle: No matches completed today."
-
-    # 3. Use Claude to parse results and identify updates
-    updated_fixtures = []
+    # Cap simulated today at 2026-06-25 (end of tournament matches in seed)
+    if today_str > "2026-06-25":
+        today_str = "2026-06-25"
+        
+    print(f"Aligning simulated tournament state to date: {today_str} (Real-world UTC: {now_utc.isoformat()})")
     
-    if not has_llm_key:
-        print("\n[WARNING] No ANTHROPIC_API_KEY or GEMINI_API_KEY configured. Simulating match update.")
-        # Find first upcoming match to mock
-        upcoming = [f for f in seed_data["fixtures"] if f["status"] == "UPCOMING"]
-        if not upcoming:
-            upcoming = [seed_data["fixtures"][0]]
-            upcoming[0]["status"] = "UPCOMING"
-        target = upcoming[0]
-        target["status"] = "FINISHED"
-        target["homeScore"] = 1
-        target["awayScore"] = 0
-        target["liveMinute"] = None
-        updated_fixtures.append(target)
-        print(f"Mocked finished match: {target['home']} {target['homeScore']}-{target['awayScore']} {target['away']}")
+    # Timezone offsets for stadium cities (Daylight Saving Time in June)
+    offsets = {
+        "Los Angeles": -7, "Seattle": -7, "San Francisco": -7, "Vancouver": -7,
+        "Denver": -6,
+        "Dallas": -5, "Houston": -5, "Kansas City": -5, "Mexico City": -6, "Guadalajara": -6,
+        "Miami": -4, "Atlanta": -4, "Boston": -4, "New Jersey": -4, "Philadelphia": -4, "Toronto": -4
+    }
+    
+    import random
+    def simulate_score():
+        weights = [0.15, 0.35, 0.28, 0.14, 0.05, 0.03] # 0, 1, 2, 3, 4, 5 goals
+        return random.choices([0, 1, 2, 3, 4, 5], weights=weights)[0]
         
-        newsletter_subject = "Daily World Cup MatchTales: Hype & Overviews"
-        newsletter_html = "<p>Here is your daily digest of World Cup 2026 action! Stay tuned for more match details.</p>"
-    else:
-        print("Extracting match updates from scraped text using LLM...")
+    updated = []
+    
+    # Update today in meta
+    if seed_data["meta"].get("today") != today_str:
+        print(f"Advancing simulated tournament date from {seed_data['meta'].get('today')} to {today_str}")
+        seed_data["meta"]["today"] = today_str
         
-        # Build list of active tournament matches for the context
-        fixtures_context = []
-        for f in seed_data["fixtures"]:
-            fixtures_context.append({
-                "slug": f["slug"], "home": f["home"], "away": f["away"],
-                "status": f["status"], "homeScore": f["homeScore"], "awayScore": f["awayScore"]
-            })
-            
-        parser_prompt = f"""
-        Analyze the following scraped search engine snippets about the World Cup 2026 matches for date {today_str}:
+    for m in seed_data["fixtures"]:
+        city = m.get("city", "Miami")
+        offset = offsets.get(city, -4)
         
-        SCRAPED TEXT:
-        {scraped_text}
-        
-        CURRENT SEED FIXTURES:
-        {json.dumps(fixtures_context, indent=2)}
-        
-        For each match in the CURRENT SEED FIXTURES list:
-        Identify if there are any new match scores, status changes (e.g. from UPCOMING to LIVE or FINISHED), or live minutes reported in the scraped text.
-        
-        Respond with STRICT VALID JSON only. Do not include markdown fences, comments or surrounding text.
-        Your response shape must be:
-        {{
-          "updates": [
-             {{
-                "slug": "match-slug",
-                "status": "FINISHED" or "LIVE" or "UPCOMING",
-                "homeScore": <int or null>,
-                "awayScore": <int or null>,
-                "liveMinute": <int or null>
-             }}
-          ]
-        }}
-        If no updates are detected, return an empty "updates" list.
-        """
-        
+        # Parse local start time
         try:
-            raw_resp = await call_llm(parser_prompt)
-            parsed_updates = extract_json(raw_resp)
-            updates_list = parsed_updates.get("updates", [])
-            
-            for update in updates_list:
-                for f in seed_data["fixtures"]:
-                    if f["slug"] == update["slug"]:
-                        # Check if changed
-                        if (f["status"] != update["status"] or 
-                            f["homeScore"] != update["homeScore"] or 
-                            f["awayScore"] != update["awayScore"]):
-                            f["status"] = update["status"]
-                            f["homeScore"] = update["homeScore"]
-                            f["awayScore"] = update["awayScore"]
-                            f["liveMinute"] = update.get("liveMinute")
-                            updated_fixtures.append(f)
-                            print(f"Updated match from LLM: {f['home']} vs {f['away']} | Status: {f['status']} | Score: {f['homeScore']}-{f['awayScore']}")
+            local_start = datetime.strptime(f"{m['date']} {m['time']}", "%Y-%m-%d %H:%M")
+            match_start_utc = (local_start - timedelta(hours=offset)).replace(tzinfo=timezone.utc)
         except Exception as e:
-            print(f"Error parsing LLM updates: {e}")
+            print(f"Error parsing start time for {m['slug']}: {e}")
+            continue
+            
+        old_status = m.get("status")
+        old_hs = m.get("homeScore")
+        old_as = m.get("awayScore")
+        old_min = m.get("liveMinute")
+        
+        new_status = old_status
+        new_hs = old_hs
+        new_as = old_as
+        new_min = old_min
+        
+        # Determine status based on current UTC time
+        if now_utc < match_start_utc:
+            # Future match
+            new_status = "UPCOMING"
+            new_hs = None
+            new_as = None
+            new_min = None
+        elif match_start_utc <= now_utc < match_start_utc + timedelta(minutes=105):
+            # Live match
+            new_status = "LIVE"
+            new_min = int((now_utc - match_start_utc).total_seconds() / 60)
+            if new_min < 0:
+                new_min = 0
+            elif new_min > 90:
+                new_min = 90
+            # If score doesn't exist, generate initial live score
+            if new_hs is None or new_as is None:
+                new_hs = random.choice([0, 1])
+                new_as = random.choice([0, 1])
+        else:
+            # Finished match
+            new_status = "FINISHED"
+            new_min = None
+            if new_hs is None or new_as is None:
+                new_hs = simulate_score()
+                new_as = simulate_score()
+                
+        # If any of status, scores or minute changed, update match and add to updated list
+        if (old_status != new_status or old_hs != new_hs or old_as != new_as or old_min != new_min):
+            m["status"] = new_status
+            m["homeScore"] = new_hs
+            m["awayScore"] = new_as
+            m["liveMinute"] = new_min
+            updated.append(m)
+            print(f"Auto-aligned match: {m['home']} vs {m['away']} | Status: {new_status} | Score: {new_hs}-{new_as}")
+            
+    return updated
+
+# --- Main Automation Loop ---
+async def main():
+    import argparse
+    parser = argparse.ArgumentParser(description="MatchTales Daily Cloud Automation Engine")
+    parser.add_argument("--dry-run", action="store_true", help="Scrape and build daily newsletter without writing files or emailing")
+    parser.add_argument("--write", action="store_true", help="Write changes to static files and generate stories")
+    parser.add_argument("--commit", action="store_true", help="Automatically commit changes to Git and push")
+    args = parser.parse_args()
+
+    # Load environment variables checks
+    has_llm_key = bool(os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("GEMINI_API_KEY") or os.environ.get("ZAI_API_KEY"))
+    resend_key = os.environ.get("RESEND_API_KEY", "")
+    
+    print("Starting MatchTales Daily Automated cloud pipeline...")
+    
+    # 1. Load current seed
+    try:
+        seed_data = load_seed()
+    except Exception as e:
+        print(f"Error loading seed dataset: {e}")
+        sys.exit(1)
+        
+    teams_lookup = {t["name"]: t for t in seed_data["teams"]}
+    
+    # Default newsletter info (will be overwritten if has_llm_key)
+    newsletter_subject = "Daily World Cup MatchTales: Hype & Overviews"
+    newsletter_html = "<p>Here is your daily digest of World Cup 2026 action! Stay tuned for more match details.</p>"
+
+    # 2. Update matches based on real-world date and timezone calculations
+    updated_fixtures = update_fixtures_by_real_date(seed_data)
             
     # 4. Generate narrative packages for finished matches and update standing files
     if updated_fixtures and (args.write or not args.dry_run):
