@@ -3140,11 +3140,11 @@
       "time": "13:00",
       "venue": "Gillette Stadium",
       "city": "Boston",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 0,
+      "awayScore": 1,
       "marquee": false,
-      "liveMinute": null
+      "liveMinute": 41
     },
     {
       "slug": "netherlands-vs-uzbekistan-md3",
