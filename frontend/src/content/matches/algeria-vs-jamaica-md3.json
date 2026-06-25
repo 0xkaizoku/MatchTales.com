@@ -1,33 +1,45 @@
 {
-  "headline": "Algeria and Jamaica battle to 1-0",
-  "whyCareScore": 7.5,
-  "whyCareReason": "A crucial Matchday 3 clash in Group J with significant tournament implications.",
-  "teaser": "A thrilling 1-0 finish as Algeria takes on Jamaica. Read how this classic unfolded.",
-  "story": "The clash between Algeria and Jamaica in Group J was a classic matchday 3 encounter. Both teams showed incredible tactical discipline and passion on the pitch, leaving the fans at the edge of their seats.\n\nThe final score of 1-0 reflects the intensity of the game. Key tactical adjustments from both managers ensured that the match remained a balanced and highly competitive affair until the final whistle.\n\nWith this result, both Algeria and Jamaica look forward to their next challenges, knowing that every single point could be decisive in their quest for World Cup glory.",
-  "stakes": "This match is critical for the qualification hopes of both Algeria and Jamaica in Group J.",
-  "rivalryAngle": "A historic football connection between Algeria (Les Fennecs) and Jamaica (Reggae Boyz) adds fuel to this clash.",
+  "headline": "Do-or-Die Dance for Algeria, Jamaica",
+  "whyCareScore": 8.8,
+  "whyCareReason": "It's the final group stage game in Boston, likely a winner-takes-all fight for knockout football between two vibrant nations.",
+  "teaser": "Get ready for a clash of footballing cultures as Algeria's silky skills meet Jamaica's electric pace. This isn't just a game, it's a party in Boston with everything on the line.",
+  "story": "Boston's Gillette Stadium is set to host a true festival of football when Algeria's Fennecs meet Jamaica's Reggae Boyz on June 25, 2026. This isn't just about three points, it's about two footballing philosophies clashing. Algeria brings that North African flair, technical skill honed on dusty pitches and big European stages, a proud footballing nation that genuinely believes they can beat anyone on their day. They’re here to remind everyone of their quality.\n\nAcross from them, Jamaica arrives with pure vibes and an undeniable raw power. Think speed demons like Leon Bailey and the sheer strength of Michail Antonio, ready to light up the pitch with their electrifying pace. The Reggae Boyz are perhaps the most fun underdog in the tournament, carrying the hopes of a whole island nation eager to see them make some noise on the global stage. This match is their chance to prove they belong.\n\nFor both teams, this Group J finale is everything. With knockout stage dreams hanging in the balance, every tackle, every pass, every shot will feel monumental. Boston will be buzzing, not just with football fans, but with communities from around the world celebrating the beautiful game. Expect passion, skill, and maybe a few surprises as these two proud nations battle for their World Cup future.",
+  "stakes": "This is the final group stage game, meaning it's almost certainly a do-or-die scenario for both Algeria and Jamaica. A win here could secure a spot in the knockout rounds, while a loss or a draw might send them packing from the tournament. Every single moment on the pitch will carry immense weight.",
+  "rivalryAngle": "While Algeria and Jamaica don't have a long-standing rivalry, this match creates its own special storyline. It's a fantastic clash of styles: Algeria's technical wizardry versus Jamaica's athletic power and infectious energy. Both teams are representing passionate footballing cultures eager to make their mark globally.",
   "funFacts": [
-    "Algeria are known as Les Fennecs.",
-    "Jamaica are known as Reggae Boyz.",
-    "This is a key Matchday 3 fixture in the World Cup group phase."
+    "Gillette Stadium in Boston usually hosts American football, so seeing the 'beautiful game' here adds a unique flavour.",
+    "Algeria famously beat West Germany at the 1982 World Cup, one of the tournament's greatest upsets.",
+    "Jamaica was the first English-speaking Caribbean nation to qualify for a World Cup, making their debut in 1998."
   ],
   "keyPlayers": [
     {
       "name": "Riyad Mahrez",
       "team": "Algeria",
-      "hook": "The captain leading the charge."
+      "hook": "The Fennecs' dazzling winger, whose magical left foot can unlock the tightest defenses in a flash."
+    },
+    {
+      "name": "Ismaël Bennacer",
+      "team": "Algeria",
+      "hook": "The midfield general who dictates Algeria's tempo and provides crucial protection for the backline."
     },
     {
       "name": "Leon Bailey",
       "team": "Jamaica",
-      "hook": "The creative spark in midfield."
+      "hook": "Jamaica's lightning-fast attacker, whose trickery and direct running make him a constant threat on the wing."
+    },
+    {
+      "name": "Michail Antonio",
+      "team": "Jamaica",
+      "hook": "The powerful Reggae Boyz striker, whose aerial dominance and clinical finishing could prove decisive."
     }
   ],
-  "headToHead": "Previous encounters between these two nations have always been tightly contested affairs.",
+  "headToHead": "These two nations don't often cross paths on the international stage, making this World Cup Group J fixture a rare and exciting encounter. It's effectively a fresh slate, with neither team carrying any historical baggage into this crucial match.",
   "tags": [
     "algeria",
     "jamaica",
-    "group-j"
+    "world cup 2026",
+    "group stage",
+    "knockout race"
   ],
   "slug": "algeria-vs-jamaica-md3",
   "home": "Algeria",
@@ -42,9 +54,9 @@
   "time": "13:00",
   "venue": "Gillette Stadium",
   "city": "Boston",
-  "status": "FINISHED",
-  "homeScore": 1,
-  "awayScore": 0,
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
   "marquee": false,
   "liveMinute": null
 }
