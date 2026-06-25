@@ -2,8 +2,8 @@ name: MatchTales Daily Automated Run
 
 on:
   schedule:
-    # Runs once daily at 8:00 AM UTC
-    - cron: '0 8 * * *'
+    # Runs every 6 hours (4 times a day)
+    - cron: '0 */6 * * *'
   workflow_dispatch:
     # Allows manual triggering from the GitHub Actions tab
 
