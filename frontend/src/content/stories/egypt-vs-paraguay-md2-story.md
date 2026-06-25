@@ -3,7 +3,7 @@ title: "Egypt and Paraguay battle to 1-1"
 subtitle: "A thrilling 1-1 finish as Egypt takes on Paraguay. Read how this classic unfolded."
 category: "Match Report"
 excerpt: "A crucial Matchday 2 clash in Group F with significant tournament implications."
-image: "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1542744095-291d1f67b221?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-20
 ---

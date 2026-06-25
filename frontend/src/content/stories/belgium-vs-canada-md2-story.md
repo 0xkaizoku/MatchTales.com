@@ -3,7 +3,7 @@ title: "Belgium and Canada battle to 2-1"
 subtitle: "A thrilling 2-1 finish as Belgium takes on Canada. Read how this classic unfolded."
 category: "Match Report"
 excerpt: "A crucial Matchday 2 clash in Group B with significant tournament implications."
-image: "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1543807535-eceef0bc6599?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-18
 ---

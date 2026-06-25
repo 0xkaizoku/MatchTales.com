@@ -3,7 +3,7 @@ title: "USA and Senegal battle to 1-1"
 subtitle: "A thrilling 1-1 finish as USA takes on Senegal. Read how this classic unfolded."
 category: "Match Report"
 excerpt: "A crucial Matchday 3 clash in Group C with significant tournament implications."
-image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-23
 ---

@@ -3,7 +3,7 @@ title: "Aussie Grit Ends Polish World Cup Journey"
 subtitle: "Forget everything you thought you knew about World Cup upsets. This match was a masterclass in how a well-drilled, spirited team can absolutely spoil a party, even for one of the game's greatest strikers."
 category: "Match Report"
 excerpt: "A World Cup legend\u2019s last dance turned into a heartbreaking exit, courtesy of an underdog refusing to quit."
-image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-23
 ---

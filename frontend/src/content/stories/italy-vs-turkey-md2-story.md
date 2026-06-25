@@ -3,7 +3,7 @@ title: "Azzurri's grit, Turkey's spark. Italy wins."
 subtitle: "Did you see Italy scrape by Turkey in San Francisco? The Azzurri showed their grit and experience, but Turkey's teen stars nearly pulled off a shocker."
 category: "Match Report"
 excerpt: "Italy, a sleeping giant, secured a vital victory against a thrilling young Turkish side, proving every World Cup point matters."
-image: "https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1486286701208-1d58e9338013?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-21
 ---

@@ -3,7 +3,7 @@ title: "Morocco and Saudi Arabia battle to 2-0"
 subtitle: "A thrilling 2-0 finish as Morocco takes on Saudi Arabia. Read how this classic unfolded."
 category: "Match Report"
 excerpt: "A crucial Matchday 2 clash in Group B with significant tournament implications."
-image: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-19
 ---

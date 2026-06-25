@@ -3,7 +3,7 @@ title: "Atlas Lions Silence a Nation's Dream Night"
 subtitle: "Canada threw a World Cup party on home soil and Morocco promptly turned the lights off. The Atlas Lions, Africa's most feared side, showed exactly why they don't do sentiment."
 category: "Match Report"
 excerpt: "Canada played their first home World Cup game in front of a delirious Toronto crowd and lost it to one of Africa's most tactically ferocious sides  -  the heartbreak is as cinematic as football gets."
-image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-12
 ---

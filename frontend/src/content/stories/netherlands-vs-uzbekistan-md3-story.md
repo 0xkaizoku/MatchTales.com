@@ -3,7 +3,7 @@ title: "Netherlands and Uzbekistan battle to 3-1"
 subtitle: "A thrilling 3-1 finish as Netherlands takes on Uzbekistan. Read how this classic unfolded."
 category: "Match Report"
 excerpt: "A crucial Matchday 3 clash in Group K with significant tournament implications."
-image: "https://images.unsplash.com/photo-1459865264687-595d652de67e?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1486286701208-1d58e9338013?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-22
 ---

@@ -3,7 +3,7 @@ title: "Draw Keeps Hope and Pressure Alive"
 subtitle: "Imagine a stadium buzzing in Mexico, two nations far from home, both dreaming of World Cup glory. That's what Czechia and South Africa brought to Estadio Akron, ending in a nail-biting 1-1 draw that left everyone wondering what happens next."
 category: "Match Report"
 excerpt: "This 1-1 draw in Guadalajara was a gut-check for two nations desperate to make their mark on the biggest stage."
-image: "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1510563800743-aed236490d08?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-18
 ---

@@ -3,7 +3,7 @@ title: "Italy Grinds Out the Win, Barely Breaking Sweat"
 subtitle: "Italy were supposed to be reborn at this World Cup, and against stubborn Paraguay they just about proved it  -  one ugly, beautiful 1-0 win at a time. If you've ever watched a team defend a lead like their life depended on it, this was the masterclass."
 category: "Match Report"
 excerpt: "A nation that missed two World Cups in a row clawed its way back to the biggest stage and immediately showed it still knows how to suffer for a clean sheet."
-image: "https://images.unsplash.com/photo-1517649763962-0c623066013b?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-15
 ---

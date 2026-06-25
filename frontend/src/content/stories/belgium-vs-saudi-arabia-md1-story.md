@@ -3,7 +3,7 @@ title: "Legends Stall, Falcons Refuse to Fold"
 subtitle: "Belgium's ageing superstars, Kevin De Bruyne and Romelu Lukaku included, couldn't find a way past a Saudi side that simply refused to be bullied at a rainy BC Place. A 1-1 draw sounds flat on paper, but it felt like a warning shot heard all the way from Vancouver to Brussels."
 category: "Match Report"
 excerpt: "Belgium's golden generation needed a winning send-off to the tournament and instead got a gut-punch reminder that Saudi Arabia have already slain Argentina  -  they don't do polite exits."
-image: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-12
 ---

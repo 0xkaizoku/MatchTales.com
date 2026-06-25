@@ -3,7 +3,7 @@ title: "Valverde's Uruguay grind out gritty opener"
 subtitle: "Uruguay, a tiny country that invented what winning a World Cup even means, squeezed past Asian champions Qatar 1-0 in Dallas on Sunday. It was scrappy, tense, and completely them."
 category: "Match Report"
 excerpt: "A nation of three million who've won this tournament twice refusing to let the world forget it  -  that's not a football result, that's a civilisational statement."
-image: "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-15
 ---

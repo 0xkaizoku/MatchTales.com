@@ -3,7 +3,7 @@ title: "Iran and Wales battle to 0-1"
 subtitle: "A thrilling 0-1 finish as Iran takes on Wales. Read how this classic unfolded."
 category: "Match Report"
 excerpt: "A crucial Matchday 3 clash in Group C with significant tournament implications."
-image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-23
 ---

@@ -3,7 +3,7 @@ title: "Uruguay's Gritty Draw Stalls French Juggernaut"
 subtitle: "Imagine the world's most terrifying football team running into a brick wall made of pure grit. That's exactly what happened in Dallas when Uruguay refused to roll over for France."
 category: "Match Report"
 excerpt: "History's original champions clawed back a crucial point against the reigning giants, sending shockwaves through Group G."
-image: "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-20
 ---

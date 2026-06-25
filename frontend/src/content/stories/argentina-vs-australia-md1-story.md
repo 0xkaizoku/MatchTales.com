@@ -3,7 +3,7 @@ title: "Champions Remind Everyone Why They're Champions"
 subtitle: "Argentina, the team Lionel Messi built into world champions, showed up in Atlanta and made it look cruelly easy against a gutsy Australia side. Three goals, zero reply, and a statement that echoes all the way to the final."
 category: "Match Report"
 excerpt: "The reigning world champions opened their title defence with a ruthless 3-0 dismantling that sent a cold message to every team still left to play them."
-image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1556152352-8edad147cc21?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-13
 ---

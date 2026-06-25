@@ -3,7 +3,7 @@ title: "Croatia and Ghana battle to 1-1"
 subtitle: "A thrilling 1-1 finish as Croatia takes on Ghana. Read how this classic unfolded."
 category: "Match Report"
 excerpt: "A crucial Matchday 3 clash in Group L with significant tournament implications."
-image: "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-22
 ---

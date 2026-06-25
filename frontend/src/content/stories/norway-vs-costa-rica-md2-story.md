@@ -3,7 +3,7 @@ title: "Norway and Costa Rica battle to 3-1"
 subtitle: "A thrilling 3-1 finish as Norway takes on Costa Rica. Read how this classic unfolded."
 category: "Match Report"
 excerpt: "A crucial Matchday 2 clash in Group E with significant tournament implications."
-image: "https://images.unsplash.com/photo-1517649763962-0c623066013b?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1543807535-eceef0bc6599?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-20
 ---

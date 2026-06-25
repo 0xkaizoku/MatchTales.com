@@ -3,7 +3,7 @@ title: "Yamal's Spain Devour Costa Rica in Miami Heat"
 subtitle: "Spain's 18-year-old superstar Lamine Yamal turned a Miami afternoon into his personal highlight reel, dismantling Costa Rica so completely that even neutral fans were left shaking their heads and smiling. If you've ever wanted to watch football look genuinely, ridiculously fun, this was the match."
 category: "Match Report"
 excerpt: "This wasn't just a 4-0  -  it was a generational announcement, a teenage winger tearing apart a World Cup stage like it was a park kickabout."
-image: "https://images.unsplash.com/photo-1524143980106-21141365837f?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-14
 ---

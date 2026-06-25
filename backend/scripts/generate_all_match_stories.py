@@ -44,6 +44,24 @@ def main():
         match_json_path = MATCH_DIR / f"{slug}.json"
         story_md_path = STORY_DIR / f"{story_slug}.md"
 
+        PRESERVED_SLUGS = [
+            "spain-vs-norway-md3-story",
+            "japan-vs-costa-rica-md3-story",
+            "italy-vs-egypt-md3-story",
+            "turkey-vs-paraguay-md3-story",
+            "france-vs-qatar-md3-story",
+            "uruguay-vs-dr-congo-md3-story",
+            "brazil-vs-ecuador-md3-story",
+            "switzerland-vs-cameroon-md3-story",
+            "portugal-vs-new-zealand-md3-story",
+            "ivory-coast-vs-serbia-md3-story",
+            "algeria-vs-jamaica-md3-story",
+            "germany-vs-iraq-md3-story"
+        ]
+        if story_slug in PRESERVED_SLUGS:
+            skipped_count += 1
+            continue
+
         if story_md_path.exists() and not args.force:
             skipped_count += 1
             continue
@@ -60,7 +78,7 @@ def main():
 
         # Get the Unsplash image from seed storyMeta if available, otherwise fallback
         meta_entry = story_meta_by_slug.get(story_slug, {})
-        image_url = meta_entry.get("img", "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85")
+        image_url = meta_entry.get("img", "https://images.unsplash.com/photo-1550591927-391fccf9934b?crop=entropy&cs=srgb&fm=jpg&q=85")
 
         # Formulate variables
         home = match_data.get("home", fixture["home"])

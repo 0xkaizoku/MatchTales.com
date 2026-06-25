@@ -3,7 +3,7 @@ title: "Qatar and DR Congo battle to 1-2"
 subtitle: "A thrilling 1-2 finish as Qatar takes on DR Congo. Read how this classic unfolded."
 category: "Match Report"
 excerpt: "A crucial Matchday 2 clash in Group G with significant tournament implications."
-image: "https://images.unsplash.com/photo-1522778147-f246514b53fb?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1543807535-eceef0bc6599?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-21
 ---

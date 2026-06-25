@@ -3,7 +3,7 @@ title: "Mock Hype Headline"
 subtitle: "Mock teaser sentence. Another mock teaser sentence."
 category: "Match Report"
 excerpt: "This is a mock why-care reason for this match."
-image: "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1556152352-8edad147cc21?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-15
 ---

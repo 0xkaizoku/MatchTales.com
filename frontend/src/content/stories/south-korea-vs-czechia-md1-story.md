@@ -3,7 +3,7 @@ title: "Son's Farewell Tour Starts With A Bang"
 subtitle: "Thirty-four-year-old Son Heung-min may never play another World Cup, and he spent his probable last opening game reminding everyone exactly why Korea still believes in miracles. Czechia fought back to 1-1 and nearly stole it, before Korea broke their hearts in a Guadalajara evening that felt cinematic from the first whistle."
 category: "Match Report"
 excerpt: "A captain's farewell narrative, a proud European tradition, and a last-gasp result that reshuffled Group A on the very first day  -  this one had everything a neutral could want."
-image: "https://images.unsplash.com/photo-1522778147-f246514b53fb?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1551244072-5d12893278ab?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-12
 ---

@@ -3,7 +3,7 @@ title: "Spain Edges Brave Japan in Group E Thriller"
 subtitle: "Forget everything you thought you knew about World Cup group games. Spain and Japan just served up a proper Miami masterpiece, a nail-biter that kept everyone on the edge of their seats."
 category: "Match Report"
 excerpt: "This wasn't just a 2-1 score; it was a heart-stopping dance between Spain's flair and Japan's relentless spirit, with everything to play for in Group E."
-image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-20
 ---

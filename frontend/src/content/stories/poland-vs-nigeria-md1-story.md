@@ -3,7 +3,7 @@ title: "Super Eagles Clip Lewandowski's Wings in Boston"
 subtitle: "Robert Lewandowski, one of football's greatest ever strikers, came to Boston desperate for a World Cup to define his legacy  -  and Nigeria's Super Eagles had absolutely no interest in being sentimental about it. Two goals, three points, and a statement that African football is here to be feared."
 category: "Match Report"
 excerpt: "A living legend chasing World Cup glory watched his dream crack open on a warm June night in New England, undone by Nigeria's electric, fearless attack."
-image: "https://images.unsplash.com/photo-1517649763962-0c623066013b?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1543807535-eceef0bc6599?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-14
 ---

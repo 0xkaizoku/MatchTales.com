@@ -3,7 +3,7 @@ title: "Eight Years Later, England Want Revenge"
 subtitle: "Eight years ago Croatia broke English hearts in a World Cup semi-final, and now they've been handed the same group at the same tournament. Football doesn't do coincidences  -  it does storylines."
 category: "Match Report"
 excerpt: "This is a golden generation's defining grudge match  -  the same two nations, a World Cup on the line, and England still haunted by that semi-final night in Moscow."
-image: "https://images.unsplash.com/photo-1459865264687-595d652de67e?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-18
 ---

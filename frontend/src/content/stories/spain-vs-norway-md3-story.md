@@ -3,9 +3,9 @@ title: "Spain Lights Up Miami in 3-1 Win Over Norway"
 subtitle: "Spain's fearless young wingers, led by the dazzling Lamine Yamal, put on a show in Miami, outclassing Erling Haaland's Norway."
 category: "Match Report"
 excerpt: "Lamine Yamal shines as Spain secures a convincing victory against Norway at Hard Rock Stadium."
-image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1550591927-391fccf9934b?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 5
-pubDate: 2026-06-16
+pubDate: 2026-06-24
 ---
 
 Miami. Not exactly a traditional football hotbed, right? But on a balmy Wednesday night, with the Hard Rock Stadium buzzing like a hive of anticipation, Spain rolled into town and put on a show. It was billed as a clash of generations, a meeting of two very different footballing philosophies, and by the final whistle, the young guns of Spain had decisively outshot, outmaneuvered, and quite frankly, outshone the Norwegian challenge, securing a 3-1 victory that felt both inevitable and thrilling.

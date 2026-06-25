@@ -3,7 +3,7 @@ title: "Adingra's Brilliance Breaks Kiwi Hearts in Vancouver"
 subtitle: "Ivory Coast, a nation that once nearly lost its football soul, edged New Zealand's dreamers 1-0 in a match that had no business being as gripping as it was. The All Whites came agonisingly close to the World Cup win they've chased for 44 years, and honestly, they might haunt you a little."
 category: "Match Report"
 excerpt: "A scrappy, tense 1-0 that felt like watching someone defuse a bomb  -  one moment of genius separating two teams with everything to prove."
-image: "https://images.unsplash.com/photo-1522778147-f246514b53fb?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1520333789090-1afc82db536a?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-16
 ---

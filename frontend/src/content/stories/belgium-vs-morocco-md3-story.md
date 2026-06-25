@@ -3,7 +3,7 @@ title: "Belgium and Morocco battle to 1-2"
 subtitle: "A thrilling 1-2 finish as Belgium takes on Morocco. Read how this classic unfolded."
 category: "Match Report"
 excerpt: "A crucial Matchday 3 clash in Group B with significant tournament implications."
-image: "https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-22
 ---

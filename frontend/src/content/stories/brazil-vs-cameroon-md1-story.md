@@ -3,7 +3,7 @@ title: "Brazil's Long Wait Inches Closer to Six"
 subtitle: "Brazil finally look like themselves again  -  slick, ruthless, inevitable. Cameroon fought with everything they had, but the Sele\u00e7\u00e3o's quality was simply on another level in Kansas City."
 category: "Match Report"
 excerpt: "This was the most storied nation in football history taking its first step toward ending a 24-year ache, on American soil, against a side that once shook the world."
-image: "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1551244072-5d12893278ab?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-15
 ---

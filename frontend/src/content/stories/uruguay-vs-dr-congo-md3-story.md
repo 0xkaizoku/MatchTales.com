@@ -3,7 +3,7 @@ title: "Uruguay Overpowers DR Congo 2-0 in Dallas"
 subtitle: "Federico Valverde leads La Celeste to a vital victory over the Leopards at AT&T Stadium."
 category: "Match Report"
 excerpt: "Federico Valverde leads La Celeste to a crucial victory against the Leopards."
-image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1486286701208-1d58e9338013?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-24
 ---

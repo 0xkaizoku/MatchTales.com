@@ -3,7 +3,7 @@ title: "New Zealand and Serbia battle to 0-2"
 subtitle: "A thrilling 0-2 finish as New Zealand takes on Serbia. Read how this classic unfolded."
 category: "Match Report"
 excerpt: "A crucial Matchday 2 clash in Group I with significant tournament implications."
-image: "https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-21
 ---

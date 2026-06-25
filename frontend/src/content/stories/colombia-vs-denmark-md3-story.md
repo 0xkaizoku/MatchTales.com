@@ -3,7 +3,7 @@ title: "Colombia and Denmark battle to 1-2"
 subtitle: "A thrilling 1-2 finish as Colombia takes on Denmark. Read how this classic unfolded."
 category: "Match Report"
 excerpt: "A crucial Matchday 3 clash in Group K with significant tournament implications."
-image: "https://images.unsplash.com/photo-1459865264687-595d652de67e?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1543807535-eceef0bc6599?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-22
 ---

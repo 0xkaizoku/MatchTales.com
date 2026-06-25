@@ -3,7 +3,7 @@ title: "Dragons and Lions: A Seattle Standoff"
 subtitle: "Ever wonder what happens when African champions meet a nation famous for its giant red wall of support? Seattle found out on June 18th, and it was pure World Cup theatre.\nThis match had everything: power, passion, and a scoreline that keeps everyone guessing in Group C."
 category: "Match Report"
 excerpt: "Lumen Field buzzed as these two fighting nations traded blows and a critical point in a Group C clash that felt bigger than a draw."
-image: "https://images.unsplash.com/photo-1522778147-f246514b53fb?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-18
 ---

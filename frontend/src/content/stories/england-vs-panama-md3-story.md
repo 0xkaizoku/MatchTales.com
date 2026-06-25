@@ -3,7 +3,7 @@ title: "England and Panama battle to 3-0"
 subtitle: "A thrilling 3-0 finish as England takes on Panama. Read how this classic unfolded."
 category: "Match Report"
 excerpt: "A crucial Matchday 3 clash in Group L with significant tournament implications."
-image: "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-22
 ---

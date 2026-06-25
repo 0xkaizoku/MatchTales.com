@@ -3,7 +3,7 @@ title: "Haaland Held, Kubo Dazzles, Nobody Blinks"
 subtitle: "Erling Haaland finally got his World Cup moment, but Japan's electric wingers refused to let Norway run away with it. A 1-1 draw at Levi's Stadium that somehow felt like both teams won and lost at the same time."
 category: "Match Report"
 excerpt: "Two of world football's most watchable teams  -  one built on flair, one on a striker who bends physics  -  shared the spoils in a match that felt too alive to end in a tie."
-image: "https://images.unsplash.com/photo-1524143980106-21141365837f?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1536122985607-4fe00b283652?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-14
 ---

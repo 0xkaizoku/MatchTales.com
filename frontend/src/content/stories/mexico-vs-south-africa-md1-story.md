@@ -3,7 +3,7 @@ title: "Azteca Roars Again as El Tri Draw First Blood"
 subtitle: "Mexico opened their home World Cup with a 2-0 win over South Africa at the legendary Azteca, and Santiago Gim\u00e9nez gave 87,000 fans exactly the night they'd been dreaming about for years. If you've never watched football, this is what it sounds like when an entire city exhales at once."
 category: "Match Report"
 excerpt: "A co-host nation flexing at home in the tournament's opening group, with 87,000 voices shaking the walls of the most iconic stadium on earth  -  that's not just a 2-0, that's a statement."
-image: "https://images.unsplash.com/photo-1517649763962-0c623066013b?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-11
 ---

@@ -3,7 +3,7 @@ title: "Mexico and Czechia battle to 1-1"
 subtitle: "A thrilling 1-1 finish as Mexico takes on Czechia. Read how this classic unfolded."
 category: "Match Report"
 excerpt: "A crucial Matchday 3 clash in Group A with significant tournament implications."
-image: "https://images.unsplash.com/photo-1524143980106-21141365837f?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-22
 ---

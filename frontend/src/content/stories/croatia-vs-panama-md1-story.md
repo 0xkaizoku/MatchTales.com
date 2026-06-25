@@ -3,7 +3,7 @@ title: "Modri\u0107's Last Dance Leaves Panama Breathless"
 subtitle: "An ageing Croatian maestro turned back the clock in Philadelphia, pulling strings like it was 2018 all over again. Panama believed they belonged  -  and for one glorious half-hour, they almost proved it."
 category: "Match Report"
 excerpt: "A living legend played what may be his final World Cup group game on American soil and reminded everyone exactly why we fell in love with him in the first place."
-image: "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1511512578047-dfb367046420?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-13
 ---

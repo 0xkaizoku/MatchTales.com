@@ -3,7 +3,7 @@ title: "South Korea and South Africa battle to 2-1"
 subtitle: "A thrilling 2-1 finish as South Korea takes on South Africa. Read how this classic unfolded."
 category: "Match Report"
 excerpt: "A crucial Matchday 3 clash in Group A with significant tournament implications."
-image: "https://images.unsplash.com/photo-1522778147-f246514b53fb?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1518843025960-d60217f226f5?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-22
 ---

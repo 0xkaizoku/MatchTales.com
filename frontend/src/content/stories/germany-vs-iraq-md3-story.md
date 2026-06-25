@@ -3,7 +3,7 @@ title: "Germany Defeats Iraq 2-0 in New Jersey"
 subtitle: "Die Mannschaft returns to form at MetLife Stadium, securing a comfortable win behind Musiala's brilliance."
 category: "Match Report"
 excerpt: "Die Mannschaft secures three points against Iraq at MetLife Stadium."
-image: "https://images.unsplash.com/photo-1627774250096-25d8c0ece8ba?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 5
 pubDate: 2026-06-25
 ---

@@ -3,7 +3,7 @@ title: "Azteca Roars! Mexico Grinds Out Vital Win"
 subtitle: "Imagine a stadium so loud it feels like the ground is shaking, as a nation\u2019s hopes ride on every kick. That\u2019s what it felt like in Mexico City, where El Tri battled through for a nail-biting win against a fearless South Korea."
 category: "Match Report"
 excerpt: "Mexico, playing on home soil at the iconic Estadio Azteca, dug deep for a crucial 1-0 victory that keeps their World Cup dream alive and kicking."
-image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-18
 ---

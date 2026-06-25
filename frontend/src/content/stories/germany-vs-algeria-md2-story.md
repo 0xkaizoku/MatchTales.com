@@ -3,7 +3,7 @@ title: "Germany Edges Resilient Algeria in New Jersey"
 subtitle: "Germany came into this match needing to prove their new generation could carry the weight, but Algeria had other plans. It was a nail-biting showdown at MetLife, where the outcome hung in the balance until the final whistle."
 category: "Match Report"
 excerpt: "The football world watched as a rebuilding German powerhouse narrowly avoided a shock defeat to a fearless Algerian side."
-image: "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-21
 ---

@@ -3,7 +3,7 @@ title: "Mahrez's Men Make Boston Bow Count"
 subtitle: "Algeria edged Iraq 1-0 at Gillette Stadium in a match that felt bigger than the scoreline suggested  -  two nations with huge footballing hearts and everything to prove on the grandest stage of all. One goal separated them, but the emotion? That was immeasurable."
 category: "Match Report"
 excerpt: "A debut World Cup win for Algeria sealed by a single goal in a nervy, proud contest that could define which nation advances from a group nobody quite fancied  -  and which goes home early."
-image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1543807535-eceef0bc6599?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-17
 ---

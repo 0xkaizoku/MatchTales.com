@@ -3,7 +3,7 @@ title: "Iraq and Jamaica battle to 1-1"
 subtitle: "A thrilling 1-1 finish as Iraq takes on Jamaica. Read how this classic unfolded."
 category: "Match Report"
 excerpt: "A crucial Matchday 2 clash in Group J with significant tournament implications."
-image: "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1520333789090-1afc82db536a?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-21
 ---

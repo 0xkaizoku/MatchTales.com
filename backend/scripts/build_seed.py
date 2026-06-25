@@ -311,17 +311,17 @@ STORIES_META = [
   {"slug":"african-heavyweights-senegal-morocco","title":"African Heavyweights: The Battle for Continental Supremacy","category":"Continent",
    "excerpt":"Morocco's historic semi-final run in 2022 vs Senegal's reigning champions — who will carry Africa furthest in 2026?","img":"https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85","read":7},
   {"slug":"spain-vs-norway-md3-story","title":"Spain Lights Up Miami in 3-1 Win Over Norway","category":"Match Report",
-   "excerpt":"Lamine Yamal shines as Spain secures a convincing victory against Norway at Hard Rock Stadium.","img":"https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85","read":5},
+   "excerpt":"Lamine Yamal shines as Spain secures a convincing victory against Norway at Hard Rock Stadium.","img":"https://images.unsplash.com/photo-1550591927-391fccf9934b?crop=entropy&cs=srgb&fm=jpg&q=85","read":5},
   {"slug":"japan-vs-costa-rica-md3-story","title":"Samurai Blue Cruise to 2-0 Victory Against Costa Rica","category":"Match Report",
    "excerpt":"Japan dominates play to secure a comfortable win over Costa Rica in San Francisco.","img":"https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85","read":4},
   {"slug":"italy-vs-egypt-md3-story","title":"Italy Stifles Salah's Egypt in 2-0 Win","category":"Match Report",
    "excerpt":"A defensive masterclass in San Francisco sees Italy shut out Egypt on Matchday 3.","img":"https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85","read":5},
   {"slug":"turkey-vs-paraguay-md3-story","title":"Turkey and Paraguay Draw 1-1 in Houston Battle","category":"Match Report",
-   "excerpt":"Arda Guler's spark helps Turkey claim a point against a gritty Paraguay team.","img":"https://images.unsplash.com/photo-1522778147-f246514b53fb?crop=entropy&cs=srgb&fm=jpg&q=85","read":4},
+   "excerpt":"Arda Guler's spark helps Turkey claim a point against a gritty Paraguay team.","img":"https://images.unsplash.com/photo-1529900748604-07564a03e7a6?crop=entropy&cs=srgb&fm=jpg&q=85","read":4},
   {"slug":"france-vs-qatar-md3-story","title":"France Dominates Qatar 3-0 to Top Group G","category":"Match Report",
-   "excerpt":"Kylian Mbappe inspires Les Bleus to a comfortable victory at the NRG Stadium in Houston.","img":"https://images.unsplash.com/photo-1524143980106-21141365837f?crop=entropy&cs=srgb&fm=jpg&q=85","read":5},
+   "excerpt":"Kylian Mbappe inspires Les Bleus to a comfortable victory at the NRG Stadium in Houston.","img":"https://images.unsplash.com/photo-1510563800743-aed236490d08?crop=entropy&cs=srgb&fm=jpg&q=85","read":5},
   {"slug":"uruguay-vs-dr-congo-md3-story","title":"Uruguay Overpowers DR Congo 2-0 in Dallas","category":"Match Report",
-   "excerpt":"Federico Valverde leads La Celeste to a crucial victory against the Leopards.","img":"https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85","read":4},
+   "excerpt":"Federico Valverde leads La Celeste to a crucial victory against the Leopards.","img":"https://images.unsplash.com/photo-1486286701208-1d58e9338013?crop=entropy&cs=srgb&fm=jpg&q=85","read":4},
   {"slug":"brazil-vs-ecuador-md3-story","title":"Brazil Edges Ecuador 2-1 in Arrowhead Thriller","category":"Match Report",
    "excerpt":"A late surge from Vinicius Junior secures three points for Brazil in Kansas City.","img":"https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85","read":5},
   {"slug":"switzerland-vs-cameroon-md3-story","title":"Switzerland and Cameroon Share Spoils in 1-1 Draw","category":"Match Report",
@@ -333,8 +333,9 @@ STORIES_META = [
   {"slug":"algeria-vs-jamaica-md3-story","title":"Algeria Blunts Jamaica in 1-0 Boston Triumph","category":"Match Report",
    "excerpt":"Riyad Mahrez leads Les Fennecs to a hard-fought victory against the Reggae Boyz.","img":"https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85","read":4},
   {"slug":"germany-vs-iraq-md3-story","title":"Germany Defeats Iraq 2-0 in New Jersey","category":"Match Report",
-   "excerpt":"Die Mannschaft secures three points against Iraq at MetLife Stadium.","img":"https://images.unsplash.com/photo-1627774250096-25d8c0ece8ba?crop=entropy&cs=srgb&fm=jpg&q=85","read":5},
+   "excerpt":"Die Mannschaft secures three points against Iraq at MetLife Stadium.","img":"https://images.unsplash.com/photo-1531415074968-036ba1b575da?crop=entropy&cs=srgb&fm=jpg&q=85","read":5},
 ]
+
 
 # ---- Fixtures
 # status: FINISHED / LIVE / UPCOMING. Matchday 1 finished, MD2 marquee upcoming/live.
@@ -489,16 +490,35 @@ import hashlib
 for fixture in F:
     story_slug = f"{fixture['slug']}-story"
     unsplash_images = [
-        "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85",
-        "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1550591927-391fccf9934b?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1646643508957-088fe0eac722?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1556152352-8edad147cc21?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1510563800743-aed236490d08?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1486286701208-1d58e9338013?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?crop=entropy&cs=srgb&fm=jpg&q=85",
         "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85",
-        "https://images.unsplash.com/photo-1522778147-f246514b53fb?crop=entropy&cs=srgb&fm=jpg&q=85",
-        "https://images.unsplash.com/photo-1524143980106-21141365837f?crop=entropy&cs=srgb&fm=jpg&q=85",
         "https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1536122985607-4fe00b283652?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?crop=entropy&cs=srgb&fm=jpg&q=85",
         "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85",
-        "https://images.unsplash.com/photo-1459865264687-595d652de67e?crop=entropy&cs=srgb&fm=jpg&q=85",
-        "https://images.unsplash.com/photo-1517649763962-0c623066013b?crop=entropy&cs=srgb&fm=jpg&q=85",
-        "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85"
+        "https://images.unsplash.com/photo-1550565118-3a14e8d0386f?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1551244072-5d12893278ab?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1531415074968-036ba1b575da?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1511512578047-dfb367046420?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1504307651254-35680f356dfd?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1518843025960-d60217f226f5?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1520333789090-1afc82db536a?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1523240795612-9a054b0db644?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1542744095-291d1f67b221?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1543807535-eceef0bc6599?crop=entropy&cs=srgb&fm=jpg&q=85"
     ]
     img_idx = int(hashlib.md5(fixture['slug'].encode('utf-8')).hexdigest(), 16) % len(unsplash_images)
     img_url = unsplash_images[img_idx]

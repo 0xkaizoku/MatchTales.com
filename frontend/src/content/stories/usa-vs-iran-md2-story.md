@@ -3,7 +3,7 @@ title: "Home Soil, Hollow Excuses, Everything On The Line"
 subtitle: "The USA and Iran have only met once at a World Cup and it broke hearts and made history simultaneously. On June 17th in Los Angeles, they do it all again  -  and this time, one of them might be going home."
 category: "Match Report"
 excerpt: "A politically charged grudge match between two nations who can barely look each other in the eye off the pitch, played in front of 90,000 screaming Americans at the Rose Bowl with World Cup progression hanging in the balance  -  this is the kind of fixture that makes football fans out of people who don't watch football."
-image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-17
 ---

@@ -3,7 +3,7 @@ title: "Canada and Saudi Arabia battle to 2-1"
 subtitle: "A thrilling 2-1 finish as Canada takes on Saudi Arabia. Read how this classic unfolded."
 category: "Match Report"
 excerpt: "A crucial Matchday 3 clash in Group B with significant tournament implications."
-image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-22
 ---

@@ -3,7 +3,7 @@ title: "Eriksen's Wolves Devour Uzbekistan's World Cup Dream"
 subtitle: "Denmark welcomed Uzbekistan to their very first World Cup with a cool 2-0 win in the Miami heat  -  but the real story was a midfielder whose heart literally stopped in 2021 playing like he never missed a beat. Christian Eriksen is still doing things that shouldn't be possible."
 category: "Match Report"
 excerpt: "Watching a man who was clinically dead on a pitch five years ago help steer his country to a World Cup opening-day win is the kind of thing sport was invented to produce."
-image: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1486286701208-1d58e9338013?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-17
 ---

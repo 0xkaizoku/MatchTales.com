@@ -3,7 +3,7 @@ title: "Argentina and Nigeria battle to 2-1"
 subtitle: "A thrilling 2-1 finish as Argentina takes on Nigeria. Read how this classic unfolded."
 category: "Match Report"
 excerpt: "A crucial Matchday 3 clash in Group D with significant tournament implications."
-image: "https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-23
 ---

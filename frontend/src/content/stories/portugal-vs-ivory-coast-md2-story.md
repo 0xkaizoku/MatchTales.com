@@ -3,7 +3,7 @@ title: "Ronaldo's Hollywood Swansong Hits Ivory Coast Wall"
 subtitle: "Portugal's superstar Cristiano Ronaldo is playing in his last World Cup, but the party was gatecrashed by the kings of African football today in LA. It was a proper nail-biter, and now their group is a total mess heading into the final games."
 category: "Match Report"
 excerpt: "Portugal, with a legend nearing retirement, couldn't break down the reigning African champions, leaving Group I wide open."
-image: "https://images.unsplash.com/photo-1522778147-f246514b53fb?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-21
 ---

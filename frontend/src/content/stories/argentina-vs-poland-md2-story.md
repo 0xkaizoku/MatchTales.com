@@ -3,7 +3,7 @@ title: "Argentina Holds Off Poland's Great Striker"
 subtitle: "You know Argentina, the current World Cup champs? They just had to fight tooth and nail against Poland, a team carried by their superstar striker.\nIt was a proper nail-biter, a reminder that even the best have to work for it."
 category: "Match Report"
 excerpt: "The reigning champions faced down a football legend desperate for a World Cup moment, making every minute a tightrope walk."
-image: "https://images.unsplash.com/photo-1524143980106-21141365837f?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-19
 ---

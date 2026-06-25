@@ -3,7 +3,7 @@ title: "Nigeria and Australia battle to 2-2"
 subtitle: "A thrilling 2-2 finish as Nigeria takes on Australia. Read how this classic unfolded."
 category: "Match Report"
 excerpt: "A crucial Matchday 2 clash in Group D with significant tournament implications."
-image: "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1518843025960-d60217f226f5?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-19
 ---

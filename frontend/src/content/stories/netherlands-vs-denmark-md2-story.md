@@ -3,7 +3,7 @@ title: "Atlanta Thriller: Oranje, Danish Dynamite Split Points"
 subtitle: "If you thought a World Cup draw couldn't be exciting, you clearly missed this Group K barn burner. Goals, drama, and nail-biting moments were on full display as the Netherlands and Denmark battled to a deadlock."
 category: "Match Report"
 excerpt: "The Mercedes-Benz Stadium crowd in Atlanta was treated to a back-and-forth classic where neither European heavyweight would back down."
-image: "https://images.unsplash.com/photo-1524143980106-21141365837f?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-21
 ---

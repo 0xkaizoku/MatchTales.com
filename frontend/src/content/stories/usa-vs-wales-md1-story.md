@@ -3,7 +3,7 @@ title: "Home Soil, Real Pressure, Golden Generation Delivers"
 subtitle: "The USA just beat Wales in their opening World Cup match on home soil  -  Christian Pulisic and company gave a nation something to actually believe in. Wales made them sweat every second of it, which is exactly what you'd expect from a country that treats football like a religion."
 category: "Match Report"
 excerpt: "A host nation's golden generation finally answered the biggest question of their careers in front of 70,000 screaming fans in Los Angeles, beating a ferociously proud Welsh side 2-1 in a match that swung on every beat of the heart."
-image: "https://images.unsplash.com/photo-1459865264687-595d652de67e?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-11
 ---

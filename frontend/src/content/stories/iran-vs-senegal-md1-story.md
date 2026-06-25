@@ -3,7 +3,7 @@ title: "Senegal Silence Seattle, Iran's Dream Deferred"
 subtitle: "Senegal's Lions of Teranga arrived in Seattle and quietly broke Iranian hearts with a 1-0 win that was more controlled than the scoreline suggests. For Team Melli, Asia's most passionate football nation, the dream of a first-ever World Cup knockout stage just got significantly harder."
 category: "Match Report"
 excerpt: "A single goal in the Pacific Northwest just reshaped both teams' paths to the knockout rounds, and for Iran  -  still without a last-16 appearance after decades of trying  -  the margin for error is now razor-thin."
-image: "https://images.unsplash.com/photo-1517649763962-0c623066013b?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-13
 ---

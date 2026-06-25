@@ -3,7 +3,7 @@ title: "A Point Each, But Nobody Feels Lucky"
 subtitle: "Switzerland and Ecuador played out a 1-1 draw at Lumen Field that felt more like a chess match than a football game  -  tense, clever, and absolutely loaded with consequence. If you like underdogs with something to prove, this was your fixture."
 category: "Match Report"
 excerpt: "Two teams built on defiance and tactical cleverness cancelled each other out in Seattle, leaving Group H wide open and both benches quietly furious at what slipped away."
-image: "https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1520333789090-1afc82db536a?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-16
 ---

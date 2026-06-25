@@ -3,7 +3,7 @@ title: "France Dominates Qatar 3-0 to Top Group G"
 subtitle: "Kylian Mbappe and Les Bleus sweep aside Qatar in Houston, showcasing their immense squad depth."
 category: "Match Report"
 excerpt: "Kylian Mbappe inspires Les Bleus to a comfortable victory at the NRG Stadium in Houston."
-image: "https://images.unsplash.com/photo-1524143980106-21141365837f?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1510563800743-aed236490d08?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 5
 pubDate: 2026-06-24
 ---

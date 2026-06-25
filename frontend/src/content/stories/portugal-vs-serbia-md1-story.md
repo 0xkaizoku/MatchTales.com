@@ -3,7 +3,7 @@ title: "Ronaldo's Last Stand Ends in Glorious Stalemate"
 subtitle: "Cristiano Ronaldo came to Los Angeles hunting World Cup glory one final time, and Serbia had the audacity to nearly steal the whole thing. Two goals apiece, a stadium of 70,000 in disbelief, and Group I suddenly wide open."
 category: "Match Report"
 excerpt: "A 41-year-old man chasing immortality, two Serbian giants refusing to bow  -  this 2-2 draw at SoFi had the kind of tension that makes strangers grab each other's arms."
-image: "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-16
 ---

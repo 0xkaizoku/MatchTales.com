@@ -3,7 +3,7 @@ title: "Brazil Glides Past Stubborn Switzerland"
 subtitle: "The weight of a nation rested on Brazil's shoulders, facing a Swiss side known for its giant-killing ambitions. This wasn't just another group stage match; it was a testament to the beautiful game's enduring drama."
 category: "Match Report"
 excerpt: "Brazil's quest for a sixth star met resolute Swiss defending, but eventually, the samba magic broke through."
-image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-20
 ---
