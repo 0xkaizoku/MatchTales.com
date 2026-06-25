@@ -441,6 +441,8 @@ def update_fixtures_by_real_date(seed_data: Dict[str, Any]) -> List[Dict[str, An
             continue
             
         old_status = m.get("status")
+        if old_status == "FINISHED":
+            continue
         old_hs = m.get("homeScore")
         old_as = m.get("awayScore")
         old_min = m.get("liveMinute")

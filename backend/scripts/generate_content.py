@@ -379,13 +379,36 @@ async def gen_story(s: Dict[str, Any]) -> str:
     out = STORY_DIR / f"{s['slug']}.md"
     if out.exists() and not FORCE:
         return f"skip {s['slug']}"
+    match_slug = s['slug'].replace("-story", "")
+    fixture = next((f for f in SEED.get("fixtures", []) if f["slug"] == match_slug), None)
+    
+    match_ctx = ""
+    if fixture:
+        played = fixture.get("status") == "FINISHED"
+        score = f"{fixture.get('homeScore')}-{fixture.get('awayScore')}" if played else "not played yet"
+        h_team = TI.get(fixture["home"], {})
+        a_team = TI.get(fixture["away"], {})
+        match_ctx = f"""MATCH DETAILS FOR CONTEXT:
+Match: {fixture['home']} vs {fixture['away']}
+Score: {score}
+Date: {fixture['date']}
+Venue: {fixture['venue']}, {fixture['city']}
+Status: {fixture['status']}
+Key Players for {fixture['home']}: {json.dumps(h_team.get('keyPlayers', []))}
+Key Players for {fixture['away']}: {json.dumps(a_team.get('keyPlayers', []))}
+Home Team Story/Vibe: {h_team.get('story', '')}
+Away Team Story/Vibe: {a_team.get('story', '')}
+"""
+
     prompt = f"""Write a long-form MatchTales editorial article.
 
+{match_ctx}
 TITLE: {s['title']}
 CATEGORY: {s['category']}
 ANGLE: {s['excerpt']}
 
 Write ~600-750 words of gorgeous, human, emotionally-rich football journalism. Use 3-5 short sections.
+CRITICAL STYLE RULE: Do NOT use any em-dashes (—) or double hyphens (--) under any circumstances in the text. Use a colon, single hyphen, or wrap in parentheses instead.
 Return STRICT JSON:
 {{
   "subtitle": "one-line dek under the title",

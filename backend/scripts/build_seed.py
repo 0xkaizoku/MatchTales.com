@@ -310,6 +310,30 @@ STORIES_META = [
    "excerpt":"After 28 years in the wilderness, Norway return to the biggest stage powered by two of the world's finest talents.","img":"https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85","read":6},
   {"slug":"african-heavyweights-senegal-morocco","title":"African Heavyweights: The Battle for Continental Supremacy","category":"Continent",
    "excerpt":"Morocco's historic semi-final run in 2022 vs Senegal's reigning champions — who will carry Africa furthest in 2026?","img":"https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85","read":7},
+  {"slug":"spain-vs-norway-md3-story","title":"Spain Lights Up Miami in 3-1 Win Over Norway","category":"Match Report",
+   "excerpt":"Lamine Yamal shines as Spain secures a convincing victory against Norway at Hard Rock Stadium.","img":"https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85","read":5},
+  {"slug":"japan-vs-costa-rica-md3-story","title":"Samurai Blue Cruise to 2-0 Victory Against Costa Rica","category":"Match Report",
+   "excerpt":"Japan dominates play to secure a comfortable win over Costa Rica in San Francisco.","img":"https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85","read":4},
+  {"slug":"italy-vs-egypt-md3-story","title":"Italy Stifles Salah's Egypt in 2-0 Win","category":"Match Report",
+   "excerpt":"A defensive masterclass in San Francisco sees Italy shut out Egypt on Matchday 3.","img":"https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85","read":5},
+  {"slug":"turkey-vs-paraguay-md3-story","title":"Turkey and Paraguay Draw 1-1 in Houston Battle","category":"Match Report",
+   "excerpt":"Arda Guler's spark helps Turkey claim a point against a gritty Paraguay team.","img":"https://images.unsplash.com/photo-1522778147-f246514b53fb?crop=entropy&cs=srgb&fm=jpg&q=85","read":4},
+  {"slug":"france-vs-qatar-md3-story","title":"France Dominates Qatar 3-0 to Top Group G","category":"Match Report",
+   "excerpt":"Kylian Mbappe inspires Les Bleus to a comfortable victory at the NRG Stadium in Houston.","img":"https://images.unsplash.com/photo-1524143980106-21141365837f?crop=entropy&cs=srgb&fm=jpg&q=85","read":5},
+  {"slug":"uruguay-vs-dr-congo-md3-story","title":"Uruguay Overpowers DR Congo 2-0 in Dallas","category":"Match Report",
+   "excerpt":"Federico Valverde leads La Celeste to a crucial victory against the Leopards.","img":"https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85","read":4},
+  {"slug":"brazil-vs-ecuador-md3-story","title":"Brazil Edges Ecuador 2-1 in Arrowhead Thriller","category":"Match Report",
+   "excerpt":"A late surge from Vinicius Junior secures three points for Brazil in Kansas City.","img":"https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85","read":5},
+  {"slug":"switzerland-vs-cameroon-md3-story","title":"Switzerland and Cameroon Share Spoils in 1-1 Draw","category":"Match Report",
+   "excerpt":"A hard-fought encounter in Seattle leaves Group H wide open.","img":"https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85","read":4},
+  {"slug":"portugal-vs-new-zealand-md3-story","title":"Portugal Sweeps New Zealand 3-0 in LA","category":"Match Report",
+   "excerpt":"Ronaldo's side dominates at the SoFi Stadium to seal progress.","img":"https://images.unsplash.com/photo-1459865264687-595d652de67e?crop=entropy&cs=srgb&fm=jpg&q=85","read":5},
+  {"slug":"ivory-coast-vs-serbia-md3-story","title":"Ivory Coast Defeats Serbia 2-1 in Vancouver","category":"Match Report",
+   "excerpt":"Haller's heroics lift the African champions past a tough Serbia team.","img":"https://images.unsplash.com/photo-1517649763962-0c623066013b?crop=entropy&cs=srgb&fm=jpg&q=85","read":5},
+  {"slug":"algeria-vs-jamaica-md3-story","title":"Algeria Blunts Jamaica in 1-0 Boston Triumph","category":"Match Report",
+   "excerpt":"Riyad Mahrez leads Les Fennecs to a hard-fought victory against the Reggae Boyz.","img":"https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85","read":4},
+  {"slug":"germany-vs-iraq-md3-story","title":"Germany Defeats Iraq 2-0 in New Jersey","category":"Match Report",
+   "excerpt":"Die Mannschaft secures three points against Iraq at MetLife Stadium.","img":"https://images.unsplash.com/photo-1627774250096-25d8c0ece8ba?crop=entropy&cs=srgb&fm=jpg&q=85","read":5},
 ]
 
 # ---- Fixtures
@@ -418,9 +442,9 @@ F.append(fx("France","Qatar","G",3,"2026-06-24","21:00","NRG Stadium","Houston",
 F.append(fx("Uruguay","DR Congo","G",3,"2026-06-24","16:00","AT&T Stadium","Dallas","FINISHED",2,0,False))
 F.append(fx("Brazil","Ecuador","H",3,"2026-06-25","13:00","Arrowhead Stadium","Kansas City","FINISHED",2,1,True))
 F.append(fx("Switzerland","Cameroon","H",3,"2026-06-25","16:00","Lumen Field","Seattle","FINISHED",1,1,False))
-F.append(fx("Portugal","New Zealand","I",3,"2026-06-25","19:00","SoFi Stadium","Los Angeles","LIVE",3,0,True,75))
+F.append(fx("Portugal","New Zealand","I",3,"2026-06-25","19:00","SoFi Stadium","Los Angeles","FINISHED",3,0,True))
 F.append(fx("Ivory Coast","Serbia","I",3,"2026-06-25","13:00","BC Place","Vancouver","FINISHED",2,1,False))
-F.append(fx("Germany","Iraq","J",3,"2026-06-25","21:00","MetLife Stadium","New Jersey","UPCOMING",None,None,True))
+F.append(fx("Germany","Iraq","J",3,"2026-06-25","21:00","MetLife Stadium","New Jersey","FINISHED",2,0,True))
 F.append(fx("Algeria","Jamaica","J",3,"2026-06-25","13:00","Gillette Stadium","Boston","FINISHED",1,0,False))
 F.append(fx("Netherlands","Uzbekistan","K",3,"2026-06-22","13:00","Mercedes-Benz Stadium","Atlanta","FINISHED",3,1,False))
 F.append(fx("Colombia","Denmark","K",3,"2026-06-22","16:00","Hard Rock Stadium","Miami","FINISHED",1,2,True))
@@ -460,6 +484,40 @@ for g in groups:
     groups[g].sort(key=lambda r:(r["Pts"], r["GD"], r["GF"]), reverse=True)
 
 VENUES = sorted({(m["venue"], m["city"]) for m in F})
+
+import hashlib
+for fixture in F:
+    story_slug = f"{fixture['slug']}-story"
+    unsplash_images = [
+        "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1522778147-f246514b53fb?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1524143980106-21141365837f?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1459865264687-595d652de67e?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1517649763962-0c623066013b?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85"
+    ]
+    img_idx = int(hashlib.md5(fixture['slug'].encode('utf-8')).hexdigest(), 16) % len(unsplash_images)
+    img_url = unsplash_images[img_idx]
+    
+    home, away = fixture["home"], fixture["away"]
+    hs, as_ = fixture["homeScore"], fixture["awayScore"]
+    played = fixture["status"] == "FINISHED"
+    score_str = f" {hs}-{as_}" if (played and hs is not None and as_ is not None) else ""
+    title = f"{home} vs {away}{score_str} Match Report"
+    
+    if not any(s["slug"] == story_slug for s in STORIES_META):
+        STORIES_META.append({
+            "slug": story_slug,
+            "title": title,
+            "category": "Match Report",
+            "excerpt": f"Full editorial coverage and details of the World Cup match between {home} and {away}.",
+            "img": img_url,
+            "read": 4
+        })
 
 data = {
   "meta": {

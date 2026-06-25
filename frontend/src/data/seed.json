@@ -1845,106 +1845,106 @@
         "name": "Brazil",
         "code": "BRA",
         "flag": "🇧🇷",
-        "P": 2,
-        "W": 2,
+        "P": 3,
+        "W": 3,
         "D": 0,
         "L": 0,
-        "GF": 4,
-        "GA": 0,
-        "GD": 4,
-        "Pts": 6
+        "GF": 6,
+        "GA": 1,
+        "GD": 5,
+        "Pts": 9
       },
       {
         "name": "Ecuador",
         "code": "ECU",
         "flag": "🇪🇨",
-        "P": 2,
+        "P": 3,
         "W": 1,
         "D": 1,
-        "L": 0,
-        "GF": 3,
-        "GA": 2,
-        "GD": 1,
+        "L": 1,
+        "GF": 4,
+        "GA": 4,
+        "GD": 0,
         "Pts": 4
       },
       {
         "name": "Switzerland",
         "code": "SUI",
         "flag": "🇨🇭",
-        "P": 2,
+        "P": 3,
         "W": 0,
-        "D": 1,
+        "D": 2,
         "L": 1,
-        "GF": 1,
-        "GA": 3,
+        "GF": 2,
+        "GA": 4,
         "GD": -2,
-        "Pts": 1
+        "Pts": 2
       },
       {
         "name": "Cameroon",
         "code": "CMR",
         "flag": "🇨🇲",
-        "P": 2,
+        "P": 3,
         "W": 0,
-        "D": 0,
+        "D": 1,
         "L": 2,
-        "GF": 1,
-        "GA": 4,
+        "GF": 2,
+        "GA": 5,
         "GD": -3,
-        "Pts": 0
+        "Pts": 1
       }
     ],
     "I": [
       {
-        "name": "Serbia",
-        "code": "SRB",
-        "flag": "🇷🇸",
-        "P": 2,
-        "W": 1,
+        "name": "Ivory Coast",
+        "code": "CIV",
+        "flag": "🇨🇮",
+        "P": 3,
+        "W": 2,
         "D": 1,
         "L": 0,
         "GF": 4,
         "GA": 2,
         "GD": 2,
-        "Pts": 4
-      },
-      {
-        "name": "Ivory Coast",
-        "code": "CIV",
-        "flag": "🇨🇮",
-        "P": 2,
-        "W": 1,
-        "D": 1,
-        "L": 0,
-        "GF": 2,
-        "GA": 1,
-        "GD": 1,
-        "Pts": 4
+        "Pts": 7
       },
       {
         "name": "Portugal",
         "code": "POR",
         "flag": "🇵🇹",
-        "P": 2,
-        "W": 0,
+        "P": 3,
+        "W": 1,
         "D": 2,
         "L": 0,
-        "GF": 3,
+        "GF": 6,
         "GA": 3,
-        "GD": 0,
-        "Pts": 2
+        "GD": 3,
+        "Pts": 5
+      },
+      {
+        "name": "Serbia",
+        "code": "SRB",
+        "flag": "🇷🇸",
+        "P": 3,
+        "W": 1,
+        "D": 1,
+        "L": 1,
+        "GF": 5,
+        "GA": 4,
+        "GD": 1,
+        "Pts": 4
       },
       {
         "name": "New Zealand",
         "code": "NZL",
         "flag": "🇳🇿",
-        "P": 2,
+        "P": 3,
         "W": 0,
         "D": 0,
-        "L": 2,
+        "L": 3,
         "GF": 0,
-        "GA": 3,
-        "GD": -3,
+        "GA": 6,
+        "GD": -6,
         "Pts": 0
       }
     ],
@@ -1953,52 +1953,52 @@
         "name": "Germany",
         "code": "GER",
         "flag": "🇩🇪",
-        "P": 2,
-        "W": 2,
+        "P": 3,
+        "W": 3,
         "D": 0,
         "L": 0,
-        "GF": 4,
+        "GF": 6,
         "GA": 1,
-        "GD": 3,
-        "Pts": 6
+        "GD": 5,
+        "Pts": 9
       },
       {
         "name": "Algeria",
         "code": "ALG",
         "flag": "🇩🇿",
-        "P": 2,
-        "W": 1,
+        "P": 3,
+        "W": 2,
         "D": 0,
         "L": 1,
-        "GF": 2,
+        "GF": 3,
         "GA": 2,
-        "GD": 0,
-        "Pts": 3
+        "GD": 1,
+        "Pts": 6
       },
       {
         "name": "Iraq",
         "code": "IRQ",
         "flag": "🇮🇶",
-        "P": 2,
+        "P": 3,
         "W": 0,
         "D": 1,
-        "L": 1,
+        "L": 2,
         "GF": 1,
-        "GA": 2,
-        "GD": -1,
+        "GA": 4,
+        "GD": -3,
         "Pts": 1
       },
       {
         "name": "Jamaica",
         "code": "JAM",
         "flag": "🇯🇲",
-        "P": 2,
+        "P": 3,
         "W": 0,
         "D": 1,
-        "L": 1,
+        "L": 2,
         "GF": 1,
-        "GA": 3,
-        "GD": -2,
+        "GA": 4,
+        "GD": -3,
         "Pts": 1
       }
     ],
@@ -3060,9 +3060,9 @@
       "time": "13:00",
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 1,
       "marquee": true,
       "liveMinute": null
     },
@@ -3076,9 +3076,9 @@
       "time": "16:00",
       "venue": "Lumen Field",
       "city": "Seattle",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 1,
       "marquee": false,
       "liveMinute": null
     },
@@ -3092,9 +3092,9 @@
       "time": "19:00",
       "venue": "SoFi Stadium",
       "city": "Los Angeles",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 3,
+      "awayScore": 0,
       "marquee": true,
       "liveMinute": null
     },
@@ -3108,9 +3108,9 @@
       "time": "13:00",
       "venue": "BC Place",
       "city": "Vancouver",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 1,
       "marquee": false,
       "liveMinute": null
     },
@@ -3124,9 +3124,9 @@
       "time": "21:00",
       "venue": "MetLife Stadium",
       "city": "New Jersey",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 0,
       "marquee": true,
       "liveMinute": null
     },
@@ -3140,11 +3140,11 @@
       "time": "13:00",
       "venue": "Gillette Stadium",
       "city": "Boston",
-      "status": "LIVE",
-      "homeScore": 0,
-      "awayScore": 1,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 0,
       "marquee": false,
-      "liveMinute": 41
+      "liveMinute": null
     },
     {
       "slug": "netherlands-vs-uzbekistan-md3",
@@ -3371,6 +3371,582 @@
       "excerpt": "Morocco's historic semi-final run in 2022 vs Senegal's reigning champions — who will carry Africa furthest in 2026?",
       "img": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85",
       "read": 7
+    },
+    {
+      "slug": "spain-vs-norway-md3-story",
+      "title": "Spain Lights Up Miami in 3-1 Win Over Norway",
+      "category": "Match Report",
+      "excerpt": "Lamine Yamal shines as Spain secures a convincing victory against Norway at Hard Rock Stadium.",
+      "img": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 5
+    },
+    {
+      "slug": "japan-vs-costa-rica-md3-story",
+      "title": "Samurai Blue Cruise to 2-0 Victory Against Costa Rica",
+      "category": "Match Report",
+      "excerpt": "Japan dominates play to secure a comfortable win over Costa Rica in San Francisco.",
+      "img": "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "italy-vs-egypt-md3-story",
+      "title": "Italy Stifles Salah's Egypt in 2-0 Win",
+      "category": "Match Report",
+      "excerpt": "A defensive masterclass in San Francisco sees Italy shut out Egypt on Matchday 3.",
+      "img": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 5
+    },
+    {
+      "slug": "turkey-vs-paraguay-md3-story",
+      "title": "Turkey and Paraguay Draw 1-1 in Houston Battle",
+      "category": "Match Report",
+      "excerpt": "Arda Guler's spark helps Turkey claim a point against a gritty Paraguay team.",
+      "img": "https://images.unsplash.com/photo-1522778147-f246514b53fb?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "france-vs-qatar-md3-story",
+      "title": "France Dominates Qatar 3-0 to Top Group G",
+      "category": "Match Report",
+      "excerpt": "Kylian Mbappe inspires Les Bleus to a comfortable victory at the NRG Stadium in Houston.",
+      "img": "https://images.unsplash.com/photo-1524143980106-21141365837f?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 5
+    },
+    {
+      "slug": "uruguay-vs-dr-congo-md3-story",
+      "title": "Uruguay Overpowers DR Congo 2-0 in Dallas",
+      "category": "Match Report",
+      "excerpt": "Federico Valverde leads La Celeste to a crucial victory against the Leopards.",
+      "img": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "brazil-vs-ecuador-md3-story",
+      "title": "Brazil Edges Ecuador 2-1 in Arrowhead Thriller",
+      "category": "Match Report",
+      "excerpt": "A late surge from Vinicius Junior secures three points for Brazil in Kansas City.",
+      "img": "https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 5
+    },
+    {
+      "slug": "switzerland-vs-cameroon-md3-story",
+      "title": "Switzerland and Cameroon Share Spoils in 1-1 Draw",
+      "category": "Match Report",
+      "excerpt": "A hard-fought encounter in Seattle leaves Group H wide open.",
+      "img": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "portugal-vs-new-zealand-md3-story",
+      "title": "Portugal Sweeps New Zealand 3-0 in LA",
+      "category": "Match Report",
+      "excerpt": "Ronaldo's side dominates at the SoFi Stadium to seal progress.",
+      "img": "https://images.unsplash.com/photo-1459865264687-595d652de67e?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 5
+    },
+    {
+      "slug": "ivory-coast-vs-serbia-md3-story",
+      "title": "Ivory Coast Defeats Serbia 2-1 in Vancouver",
+      "category": "Match Report",
+      "excerpt": "Haller's heroics lift the African champions past a tough Serbia team.",
+      "img": "https://images.unsplash.com/photo-1517649763962-0c623066013b?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 5
+    },
+    {
+      "slug": "algeria-vs-jamaica-md3-story",
+      "title": "Algeria Blunts Jamaica in 1-0 Boston Triumph",
+      "category": "Match Report",
+      "excerpt": "Riyad Mahrez leads Les Fennecs to a hard-fought victory against the Reggae Boyz.",
+      "img": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "germany-vs-iraq-md3-story",
+      "title": "Germany Defeats Iraq 2-0 in New Jersey",
+      "category": "Match Report",
+      "excerpt": "Die Mannschaft secures three points against Iraq at MetLife Stadium.",
+      "img": "https://images.unsplash.com/photo-1627774250096-25d8c0ece8ba?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 5
+    },
+    {
+      "slug": "mexico-vs-south-africa-md1-story",
+      "title": "Mexico vs South Africa 2-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Mexico and South Africa.",
+      "img": "https://images.unsplash.com/photo-1517649763962-0c623066013b?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "south-korea-vs-czechia-md1-story",
+      "title": "South Korea vs Czechia 2-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between South Korea and Czechia.",
+      "img": "https://images.unsplash.com/photo-1522778147-f246514b53fb?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "belgium-vs-saudi-arabia-md1-story",
+      "title": "Belgium vs Saudi Arabia 1-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Belgium and Saudi Arabia.",
+      "img": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "canada-vs-morocco-md1-story",
+      "title": "Canada vs Morocco 0-2 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Canada and Morocco.",
+      "img": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "usa-vs-wales-md1-story",
+      "title": "USA vs Wales 2-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between USA and Wales.",
+      "img": "https://images.unsplash.com/photo-1459865264687-595d652de67e?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "iran-vs-senegal-md1-story",
+      "title": "Iran vs Senegal 0-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Iran and Senegal.",
+      "img": "https://images.unsplash.com/photo-1517649763962-0c623066013b?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "argentina-vs-australia-md1-story",
+      "title": "Argentina vs Australia 3-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Argentina and Australia.",
+      "img": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "poland-vs-nigeria-md1-story",
+      "title": "Poland vs Nigeria 1-2 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Poland and Nigeria.",
+      "img": "https://images.unsplash.com/photo-1517649763962-0c623066013b?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "spain-vs-costa-rica-md1-story",
+      "title": "Spain vs Costa Rica 4-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Spain and Costa Rica.",
+      "img": "https://images.unsplash.com/photo-1524143980106-21141365837f?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "japan-vs-norway-md1-story",
+      "title": "Japan vs Norway 1-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Japan and Norway.",
+      "img": "https://images.unsplash.com/photo-1524143980106-21141365837f?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "england-vs-ghana-md1-story",
+      "title": "England vs Ghana 2-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between England and Ghana.",
+      "img": "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "croatia-vs-panama-md1-story",
+      "title": "Croatia vs Panama 3-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Croatia and Panama.",
+      "img": "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "france-vs-dr-congo-md1-story",
+      "title": "France vs DR Congo 2-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between France and DR Congo.",
+      "img": "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "uruguay-vs-qatar-md1-story",
+      "title": "Uruguay vs Qatar 1-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Uruguay and Qatar.",
+      "img": "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "brazil-vs-cameroon-md1-story",
+      "title": "Brazil vs Cameroon 2-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Brazil and Cameroon.",
+      "img": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "switzerland-vs-ecuador-md1-story",
+      "title": "Switzerland vs Ecuador 1-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Switzerland and Ecuador.",
+      "img": "https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "portugal-vs-serbia-md1-story",
+      "title": "Portugal vs Serbia 2-2 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Portugal and Serbia.",
+      "img": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "ivory-coast-vs-new-zealand-md1-story",
+      "title": "Ivory Coast vs New Zealand 1-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Ivory Coast and New Zealand.",
+      "img": "https://images.unsplash.com/photo-1522778147-f246514b53fb?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "germany-vs-jamaica-md1-story",
+      "title": "Germany vs Jamaica 2-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Germany and Jamaica.",
+      "img": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "algeria-vs-iraq-md1-story",
+      "title": "Algeria vs Iraq 1-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Algeria and Iraq.",
+      "img": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "netherlands-vs-colombia-md1-story",
+      "title": "Netherlands vs Colombia 2-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Netherlands and Colombia.",
+      "img": "https://images.unsplash.com/photo-1524143980106-21141365837f?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "denmark-vs-uzbekistan-md1-story",
+      "title": "Denmark vs Uzbekistan 2-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Denmark and Uzbekistan.",
+      "img": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "italy-vs-paraguay-md1-story",
+      "title": "Italy vs Paraguay 1-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Italy and Paraguay.",
+      "img": "https://images.unsplash.com/photo-1517649763962-0c623066013b?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "turkey-vs-egypt-md1-story",
+      "title": "Turkey vs Egypt 2-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Turkey and Egypt.",
+      "img": "https://images.unsplash.com/photo-1517649763962-0c623066013b?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "usa-vs-iran-md2-story",
+      "title": "USA vs Iran 1-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between USA and Iran.",
+      "img": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "england-vs-croatia-md2-story",
+      "title": "England vs Croatia 4-2 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between England and Croatia.",
+      "img": "https://images.unsplash.com/photo-1459865264687-595d652de67e?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "uzbekistan-vs-colombia-md2-story",
+      "title": "Uzbekistan vs Colombia 1-3 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Uzbekistan and Colombia.",
+      "img": "https://images.unsplash.com/photo-1524143980106-21141365837f?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "ghana-vs-panama-md2-story",
+      "title": "Ghana vs Panama 1-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Ghana and Panama.",
+      "img": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "czechia-vs-south-africa-md2-story",
+      "title": "Czechia vs South Africa 1-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Czechia and South Africa.",
+      "img": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "argentina-vs-poland-md2-story",
+      "title": "Argentina vs Poland 2-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Argentina and Poland.",
+      "img": "https://images.unsplash.com/photo-1524143980106-21141365837f?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "france-vs-uruguay-md2-story",
+      "title": "France vs Uruguay 1-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between France and Uruguay.",
+      "img": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "brazil-vs-switzerland-md2-story",
+      "title": "Brazil vs Switzerland 2-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Brazil and Switzerland.",
+      "img": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "spain-vs-japan-md2-story",
+      "title": "Spain vs Japan 2-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Spain and Japan.",
+      "img": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "germany-vs-algeria-md2-story",
+      "title": "Germany vs Algeria 2-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Germany and Algeria.",
+      "img": "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "portugal-vs-ivory-coast-md2-story",
+      "title": "Portugal vs Ivory Coast 1-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Portugal and Ivory Coast.",
+      "img": "https://images.unsplash.com/photo-1522778147-f246514b53fb?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "mexico-vs-south-korea-md2-story",
+      "title": "Mexico vs South Korea 1-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Mexico and South Korea.",
+      "img": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "netherlands-vs-denmark-md2-story",
+      "title": "Netherlands vs Denmark 2-2 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Netherlands and Denmark.",
+      "img": "https://images.unsplash.com/photo-1524143980106-21141365837f?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "italy-vs-turkey-md2-story",
+      "title": "Italy vs Turkey 1-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Italy and Turkey.",
+      "img": "https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "belgium-vs-canada-md2-story",
+      "title": "Belgium vs Canada 2-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Belgium and Canada.",
+      "img": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "morocco-vs-saudi-arabia-md2-story",
+      "title": "Morocco vs Saudi Arabia 2-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Morocco and Saudi Arabia.",
+      "img": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "senegal-vs-wales-md2-story",
+      "title": "Senegal vs Wales 1-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Senegal and Wales.",
+      "img": "https://images.unsplash.com/photo-1522778147-f246514b53fb?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "nigeria-vs-australia-md2-story",
+      "title": "Nigeria vs Australia 2-2 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Nigeria and Australia.",
+      "img": "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "norway-vs-costa-rica-md2-story",
+      "title": "Norway vs Costa Rica 3-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Norway and Costa Rica.",
+      "img": "https://images.unsplash.com/photo-1517649763962-0c623066013b?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "egypt-vs-paraguay-md2-story",
+      "title": "Egypt vs Paraguay 1-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Egypt and Paraguay.",
+      "img": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "qatar-vs-dr-congo-md2-story",
+      "title": "Qatar vs DR Congo 1-2 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Qatar and DR Congo.",
+      "img": "https://images.unsplash.com/photo-1522778147-f246514b53fb?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "ecuador-vs-cameroon-md2-story",
+      "title": "Ecuador vs Cameroon 2-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Ecuador and Cameroon.",
+      "img": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "new-zealand-vs-serbia-md2-story",
+      "title": "New Zealand vs Serbia 0-2 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between New Zealand and Serbia.",
+      "img": "https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "iraq-vs-jamaica-md2-story",
+      "title": "Iraq vs Jamaica 1-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Iraq and Jamaica.",
+      "img": "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "mexico-vs-czechia-md3-story",
+      "title": "Mexico vs Czechia 1-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Mexico and Czechia.",
+      "img": "https://images.unsplash.com/photo-1524143980106-21141365837f?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "south-korea-vs-south-africa-md3-story",
+      "title": "South Korea vs South Africa 2-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between South Korea and South Africa.",
+      "img": "https://images.unsplash.com/photo-1522778147-f246514b53fb?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "canada-vs-saudi-arabia-md3-story",
+      "title": "Canada vs Saudi Arabia 2-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Canada and Saudi Arabia.",
+      "img": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "belgium-vs-morocco-md3-story",
+      "title": "Belgium vs Morocco 1-2 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Belgium and Morocco.",
+      "img": "https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "usa-vs-senegal-md3-story",
+      "title": "USA vs Senegal 1-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between USA and Senegal.",
+      "img": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "iran-vs-wales-md3-story",
+      "title": "Iran vs Wales 0-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Iran and Wales.",
+      "img": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "argentina-vs-nigeria-md3-story",
+      "title": "Argentina vs Nigeria 2-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Argentina and Nigeria.",
+      "img": "https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "poland-vs-australia-md3-story",
+      "title": "Poland vs Australia 1-2 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Poland and Australia.",
+      "img": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "netherlands-vs-uzbekistan-md3-story",
+      "title": "Netherlands vs Uzbekistan 3-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Netherlands and Uzbekistan.",
+      "img": "https://images.unsplash.com/photo-1459865264687-595d652de67e?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "colombia-vs-denmark-md3-story",
+      "title": "Colombia vs Denmark 1-2 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Colombia and Denmark.",
+      "img": "https://images.unsplash.com/photo-1459865264687-595d652de67e?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "england-vs-panama-md3-story",
+      "title": "England vs Panama 3-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between England and Panama.",
+      "img": "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "croatia-vs-ghana-md3-story",
+      "title": "Croatia vs Ghana 1-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Croatia and Ghana.",
+      "img": "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
     }
   ],
   "venues": [
