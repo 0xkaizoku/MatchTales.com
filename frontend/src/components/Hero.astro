@@ -1,6 +1,6 @@
 ---
 import WhyCareMeter from './WhyCareMeter.astro';
-import { fmtDate } from '../lib/site';
+import { fmtDate, getFlagUrl } from '../lib/site';
 export interface Props { m: any; }
 const { m } = Astro.props;
 const isLive = m.status === 'LIVE';
@@ -28,7 +28,7 @@ const played = m.status === 'FINISHED' || isLive;
         <div class="rounded-card border border-border bg-bg/60 backdrop-blur p-5">
           <div class="flex items-center justify-between gap-4">
             <div class="text-center flex-1">
-              <div class="text-4xl">{m.homeFlag}</div>
+              <img src={getFlagUrl(m.homeCode)} alt={m.home} class="w-10 h-7 mx-auto" loading="lazy" />
               <div class="mt-1 font-head font-semibold text-sm">{m.home}</div>
             </div>
             {played ? (
@@ -37,7 +37,7 @@ const played = m.status === 'FINISHED' || isLive;
               <div class="text-center"><div class="font-head font-semibold text-muted">{m.time}</div><div class="text-[11px] text-muted font-sans">{fmtDate(m.date)}</div></div>
             )}
             <div class="text-center flex-1">
-              <div class="text-4xl">{m.awayFlag}</div>
+              <img src={getFlagUrl(m.awayCode)} alt={m.away} class="w-10 h-7 mx-auto" loading="lazy" />
               <div class="mt-1 font-head font-semibold text-sm">{m.away}</div>
             </div>
           </div>

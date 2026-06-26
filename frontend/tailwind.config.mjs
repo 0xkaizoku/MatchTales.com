@@ -16,6 +16,7 @@ export default {
         sky: 'hsl(var(--accent-sky) / <alpha-value>)',
         coral: 'hsl(var(--accent-coral) / <alpha-value>)',
         lime: 'hsl(var(--accent-lime) / <alpha-value>)',
+        danger: 'hsl(var(--accent-coral) / <alpha-value>)',
       },
       fontFamily: {
         head: ['"Space Grotesk"', 'ui-sans-serif', 'system-ui', 'sans-serif'],

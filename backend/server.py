@@ -23,8 +23,6 @@ logger = logging.getLogger(__name__)
 
 def get_script_path(script_name: str) -> str:
     path = ROOT_DIR / "scripts" / script_name
-    if not path.exists():
-        path = ROOT_DIR / "backend" / "scripts" / script_name
     return str(path)
 
 # MongoDB connection
@@ -132,7 +130,7 @@ async def subscribe_newsletter(payload: NewsletterCreate):
         try:
             async with httpx.AsyncClient() as cx:
                 email_body = f"""
-                <div style="font-family: sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; border: 1px solid #e2e8f0; rounded: 8px;">
+                <div style="font-family: sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; border: 1px solid #e2e8f0; border-radius: 8px;">
                     <h2 style="color: #0f172a;">Welcome to MatchTales! ⚽</h2>
                     <p>Hi {payload.name or "football fan"},</p>
                     <p>Thanks for subscribing to MatchTales! We'll send you editorial match stories, Why-Care insights, and tournament hype notes directly to your inbox for the FIFA World Cup 2026.</p>
