@@ -1,0 +1,50 @@
+{
+  "slug": "switzerland-vs-qatar-md3",
+  "headline": "Qatar Outclass Switzerland in 1-2 Triumph",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A crucial group stage result in Group B that leaves standing tables dramatically altered.",
+  "teaser": "A thrilling match in Vancouver concludes with Switzerland and Qatar leaving everything on the pitch. Read the full post-match analysis.",
+  "story": "Under the bright lights in Vancouver, Switzerland and Qatar took to the pitch on 2026-06-22 for a highly anticipated Matchday 3 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.\n\nWith both managers deploying disciplined defensive setups, space was at a premium. Granit Xhaka showed moments of brilliance for Switzerland, while Akram Afif was the creative heartbeat for Qatar. In the end, a few decisive moments settled the score at 1-2, giving fans plenty to talk about.\n\nFor the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.",
+  "stakes": "With Group B wide open, this matchday 3 encounter holds massive implications for both Switzerland and Qatar as they look to secure a place in the knockout rounds.",
+  "rivalryAngle": "The footballing connection between Switzerland and Qatar adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Switzerland are affectionately known as the Nati.",
+    "Qatar are affectionately known as the Al Annabi.",
+    "This high-profile match was held at BC Place in Vancouver on 2026-06-22."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Granit Xhaka",
+      "team": "Switzerland",
+      "hook": "The key playmaker leading the tactical setup for the Nati."
+    },
+    {
+      "name": "Akram Afif",
+      "team": "Qatar",
+      "hook": "The creative spark expected to make the difference for the Al Annabi."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "switzerland",
+    "qatar",
+    "group-b"
+  ],
+  "home": "Switzerland",
+  "away": "Qatar",
+  "homeCode": "SUI",
+  "awayCode": "QAT",
+  "homeFlag": "🇨🇭",
+  "awayFlag": "🇶🇦",
+  "group": "B",
+  "matchday": 3,
+  "date": "2026-06-22",
+  "time": "19:00",
+  "venue": "BC Place",
+  "city": "Vancouver",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 2,
+  "marquee": true,
+  "liveMinute": null
+}

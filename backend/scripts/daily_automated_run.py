@@ -402,9 +402,9 @@ def update_fixtures_by_real_date(seed_data: Dict[str, Any]) -> List[Dict[str, An
     today_dt = now_utc - timedelta(hours=4)
     today_str = today_dt.strftime("%Y-%m-%d")
     
-    # Cap simulated today at 2026-06-25 (end of tournament matches in seed)
-    if today_str > "2026-06-25":
-        today_str = "2026-06-25"
+    # Cap simulated today at 2026-06-26 (end of tournament matches in seed)
+    if today_str > "2026-06-26":
+        today_str = "2026-06-26"
         
     print(f"Aligning simulated tournament state to date: {today_str} (Real-world UTC: {now_utc.isoformat()})")
     

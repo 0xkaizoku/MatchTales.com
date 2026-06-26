@@ -1,0 +1,50 @@
+{
+  "slug": "brazil-vs-morocco-md1",
+  "headline": "Late Drama Sees Brazil Beat Morocco 2-1",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A crucial group stage result in Group C that leaves standing tables dramatically altered.",
+  "teaser": "The final whistle blew at SoFi Stadium with a 2-1 scoreline. Brazil and Morocco played out an absorbing contest that will shape the Group C standings.",
+  "story": "Under the bright lights in Los Angeles, Brazil and Morocco took to the pitch on 2026-06-11 for a highly anticipated Matchday 1 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.\n\nWith both managers deploying disciplined defensive setups, space was at a premium. Vinícius Júnior showed moments of brilliance for Brazil, while Achraf Hakimi was the creative heartbeat for Morocco. In the end, a few decisive moments settled the score at 2-1, giving fans plenty to talk about.\n\nFor the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.",
+  "stakes": "With Group C wide open, this matchday 1 encounter holds massive implications for both Brazil and Morocco as they look to secure a place in the knockout rounds.",
+  "rivalryAngle": "The footballing connection between Brazil and Morocco adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Brazil are affectionately known as the Seleção.",
+    "Morocco are affectionately known as the Atlas Lions.",
+    "This high-profile match was held at SoFi Stadium in Los Angeles on 2026-06-11."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Vinícius Júnior",
+      "team": "Brazil",
+      "hook": "The key playmaker leading the tactical setup for the Seleção."
+    },
+    {
+      "name": "Achraf Hakimi",
+      "team": "Morocco",
+      "hook": "The creative spark expected to make the difference for the Atlas Lions."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "brazil",
+    "morocco",
+    "group-c"
+  ],
+  "home": "Brazil",
+  "away": "Morocco",
+  "homeCode": "BRA",
+  "awayCode": "MAR",
+  "homeFlag": "🇧🇷",
+  "awayFlag": "🇲🇦",
+  "group": "C",
+  "matchday": 1,
+  "date": "2026-06-11",
+  "time": "20:00",
+  "venue": "SoFi Stadium",
+  "city": "Los Angeles",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 1,
+  "marquee": true,
+  "liveMinute": null
+}

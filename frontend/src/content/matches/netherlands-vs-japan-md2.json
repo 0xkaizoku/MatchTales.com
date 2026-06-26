@@ -1,0 +1,50 @@
+{
+  "slug": "netherlands-vs-japan-md2",
+  "headline": "Netherlands Secure Crucial 1-0 Win Over Japan",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A crucial group stage result in Group F that leaves standing tables dramatically altered.",
+  "teaser": "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Netherlands and Japan fought out their group stage clash.",
+  "story": "The atmosphere at the Levi's Stadium in San Francisco was electric as Netherlands faced Japan in a Group F matchup on 2026-06-21. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.\n\nThe match was defined by intense tactical battles in midfield and clinical finishing. Netherlands relied heavily on the technical qualities of Cody Gakpo to dictate the tempo. On the other side, Japan looked dangerous on the counter, with Takefusa Kubo asking serious questions of the opposition defence. The scoreline of 1 to 0 highlights how closely contested the affair was.\n\nAs the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group F standings, making the upcoming fixtures even more critical for both nations.",
+  "stakes": "With Group F wide open, this matchday 2 encounter holds massive implications for both Netherlands and Japan as they look to secure a place in the knockout rounds.",
+  "rivalryAngle": "The footballing connection between Netherlands and Japan adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Netherlands are affectionately known as the Oranje.",
+    "Japan are affectionately known as the Samurai Blue.",
+    "This high-profile match was held at Levi's Stadium in San Francisco on 2026-06-21."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Cody Gakpo",
+      "team": "Netherlands",
+      "hook": "The key playmaker leading the tactical setup for the Oranje."
+    },
+    {
+      "name": "Takefusa Kubo",
+      "team": "Japan",
+      "hook": "The creative spark expected to make the difference for the Samurai Blue."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "netherlands",
+    "japan",
+    "group-f"
+  ],
+  "home": "Netherlands",
+  "away": "Japan",
+  "homeCode": "NED",
+  "awayCode": "JPN",
+  "homeFlag": "🇳🇱",
+  "awayFlag": "🇯🇵",
+  "group": "F",
+  "matchday": 2,
+  "date": "2026-06-21",
+  "time": "21:00",
+  "venue": "Levi's Stadium",
+  "city": "San Francisco",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 0,
+  "marquee": true,
+  "liveMinute": null
+}

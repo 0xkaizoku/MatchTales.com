@@ -7,7 +7,6 @@ image: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&c
 readingTime: 7
 pubDate: 2026-06-16
 ---
-
 ## The Historic Pioneers
 
 Morocco's magical run to the semi-finals in Qatar 2022 shattered a historical glass ceiling, proving that African teams could compete at the very highest level of the game. Senegal, meanwhile, have been the continent's most consistent heavyweight, combining physical dominance with tactical organization.

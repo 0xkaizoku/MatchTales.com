@@ -1,0 +1,50 @@
+{
+  "slug": "qatar-vs-bosnia-and-herzegovina-md2",
+  "headline": "Triumph for Qatar in Tense 2-0 Battle",
+  "whyCareScore": 7.4,
+  "whyCareReason": "A crucial group stage result in Group B that leaves standing tables dramatically altered.",
+  "teaser": "A thrilling match in Toronto concludes with Qatar and Bosnia and Herzegovina leaving everything on the pitch. Read the full post-match analysis.",
+  "story": "Under the bright lights in Toronto, Qatar and Bosnia and Herzegovina took to the pitch on 2026-06-19 for a highly anticipated Matchday 2 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.\n\nWith both managers deploying disciplined defensive setups, space was at a premium. Akram Afif showed moments of brilliance for Qatar, while Edin Džeko was the creative heartbeat for Bosnia and Herzegovina. In the end, a few decisive moments settled the score at 2-0, giving fans plenty to talk about.\n\nFor the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.",
+  "stakes": "With Group B wide open, this matchday 2 encounter holds massive implications for both Qatar and Bosnia and Herzegovina as they look to secure a place in the knockout rounds.",
+  "rivalryAngle": "The footballing connection between Qatar and Bosnia and Herzegovina adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Qatar are affectionately known as the Al Annabi.",
+    "Bosnia and Herzegovina are affectionately known as the Zmajevi.",
+    "This high-profile match was held at BMO Field in Toronto on 2026-06-19."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Akram Afif",
+      "team": "Qatar",
+      "hook": "The key playmaker leading the tactical setup for the Al Annabi."
+    },
+    {
+      "name": "Edin Džeko",
+      "team": "Bosnia and Herzegovina",
+      "hook": "The creative spark expected to make the difference for the Zmajevi."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "qatar",
+    "bosnia-and-herzegovina",
+    "group-b"
+  ],
+  "home": "Qatar",
+  "away": "Bosnia and Herzegovina",
+  "homeCode": "QAT",
+  "awayCode": "BIH",
+  "homeFlag": "🇶🇦",
+  "awayFlag": "🇧🇦",
+  "group": "B",
+  "matchday": 2,
+  "date": "2026-06-19",
+  "time": "19:00",
+  "venue": "BMO Field",
+  "city": "Toronto",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 0,
+  "marquee": false,
+  "liveMinute": null
+}

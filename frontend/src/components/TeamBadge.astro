@@ -1,10 +1,10 @@
 ---
-import { teamByName } from '../lib/site';
+import { teamByName, getFlagUrl } from '../lib/site';
 export interface Props { name: string; size?: 'sm' | 'md'; }
 const { name, size = 'md' } = Astro.props;
 const t = teamByName(name);
 const slug = t ? t.slug : name.toLowerCase().replace(/\s+/g, '-');
 ---
 <a href={`/team/${slug}`} class={`inline-flex items-center gap-1.5 hover:text-pitch transition-colors ${size === 'sm' ? 'text-sm' : ''}`}>
-  <span>{t?.flag}</span><span class="font-medium">{name}</span>
+  <img src={getFlagUrl(t?.code)} alt={t?.name} class="w-6 h-4" loading="lazy" /><span class="font-medium">{name}</span>
 </a>

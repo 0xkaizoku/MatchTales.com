@@ -1,0 +1,50 @@
+{
+  "slug": "ecuador-vs-ivory-coast-md2",
+  "headline": "Ecuador Outclass Ivory Coast in 3-1 Victory",
+  "whyCareScore": 7.4,
+  "whyCareReason": "A crucial group stage result in Group E that leaves standing tables dramatically altered.",
+  "teaser": "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Ecuador and Ivory Coast fought out their group stage clash.",
+  "story": "The atmosphere at the Levi's Stadium in San Francisco was electric as Ecuador faced Ivory Coast in a Group E matchup on 2026-06-20. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.\n\nThe match was defined by intense tactical battles in midfield and clinical finishing. Ecuador relied heavily on the technical qualities of Moisés Caicedo to dictate the tempo. On the other side, Ivory Coast looked dangerous on the counter, with Simon Adingra asking serious questions of the opposition defence. The scoreline of 3 to 1 highlights how closely contested the affair was.\n\nAs the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group E standings, making the upcoming fixtures even more critical for both nations.",
+  "stakes": "With Group E wide open, this matchday 2 encounter holds massive implications for both Ecuador and Ivory Coast as they look to secure a place in the knockout rounds.",
+  "rivalryAngle": "The footballing connection between Ecuador and Ivory Coast adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Ecuador are affectionately known as the La Tri.",
+    "Ivory Coast are affectionately known as the Les Éléphants.",
+    "This high-profile match was held at Levi's Stadium in San Francisco on 2026-06-20."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Moisés Caicedo",
+      "team": "Ecuador",
+      "hook": "The key playmaker leading the tactical setup for the La Tri."
+    },
+    {
+      "name": "Simon Adingra",
+      "team": "Ivory Coast",
+      "hook": "The creative spark expected to make the difference for the Les Éléphants."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "ecuador",
+    "ivory-coast",
+    "group-e"
+  ],
+  "home": "Ecuador",
+  "away": "Ivory Coast",
+  "homeCode": "ECU",
+  "awayCode": "CIV",
+  "homeFlag": "🇪🇨",
+  "awayFlag": "🇨🇮",
+  "group": "E",
+  "matchday": 2,
+  "date": "2026-06-20",
+  "time": "19:00",
+  "venue": "Levi's Stadium",
+  "city": "San Francisco",
+  "status": "FINISHED",
+  "homeScore": 3,
+  "awayScore": 1,
+  "marquee": false,
+  "liveMinute": null
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "haiti-vs-scotland-md1",
+  "headline": "Scotland Outclass Haiti in 0-1 Triumph",
+  "whyCareScore": 7.4,
+  "whyCareReason": "A crucial group stage result in Group C that leaves standing tables dramatically altered.",
+  "teaser": "Tactical discipline and clinical finishes defined this Matchday 1 encounter. Here is how Haiti and Scotland fought out their group stage clash.",
+  "story": "Under the bright lights in Seattle, Haiti and Scotland took to the pitch on 2026-06-13 for a highly anticipated Matchday 1 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.\n\nWith both managers deploying disciplined defensive setups, space was at a premium. Frantzdy Pierrot showed moments of brilliance for Haiti, while Andrew Robertson was the creative heartbeat for Scotland. In the end, a few decisive moments settled the score at 0-1, giving fans plenty to talk about.\n\nFor the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.",
+  "stakes": "With Group C wide open, this matchday 1 encounter holds massive implications for both Haiti and Scotland as they look to secure a place in the knockout rounds.",
+  "rivalryAngle": "The footballing connection between Haiti and Scotland adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Haiti are affectionately known as the Les Grenadiers.",
+    "Scotland are affectionately known as the Tartan Army.",
+    "This high-profile match was held at Lumen Field in Seattle on 2026-06-13."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Frantzdy Pierrot",
+      "team": "Haiti",
+      "hook": "The key playmaker leading the tactical setup for the Les Grenadiers."
+    },
+    {
+      "name": "Andrew Robertson",
+      "team": "Scotland",
+      "hook": "The creative spark expected to make the difference for the Tartan Army."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "haiti",
+    "scotland",
+    "group-c"
+  ],
+  "home": "Haiti",
+  "away": "Scotland",
+  "homeCode": "HAI",
+  "awayCode": "SCO",
+  "homeFlag": "🇭🇹",
+  "awayFlag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+  "group": "C",
+  "matchday": 1,
+  "date": "2026-06-13",
+  "time": "16:00",
+  "venue": "Lumen Field",
+  "city": "Seattle",
+  "status": "FINISHED",
+  "homeScore": 0,
+  "awayScore": 1,
+  "marquee": false,
+  "liveMinute": null
+}

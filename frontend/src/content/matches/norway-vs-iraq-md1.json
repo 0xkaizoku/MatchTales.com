@@ -1,0 +1,50 @@
+{
+  "slug": "norway-vs-iraq-md1",
+  "headline": "Norway Secure Crucial 1-0 Win Over Iraq",
+  "whyCareScore": 7.4,
+  "whyCareReason": "A crucial group stage result in Group I that leaves standing tables dramatically altered.",
+  "teaser": "A thrilling match in Vancouver concludes with Norway and Iraq leaving everything on the pitch. Read the full post-match analysis.",
+  "story": "The atmosphere at the BC Place in Vancouver was electric as Norway faced Iraq in a Group I matchup on 2026-06-16. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.\n\nThe match was defined by intense tactical battles in midfield and clinical finishing. Norway relied heavily on the technical qualities of Erling Haaland to dictate the tempo. On the other side, Iraq looked dangerous on the counter, with Aymen Hussein asking serious questions of the opposition defence. The scoreline of 1 to 0 highlights how closely contested the affair was.\n\nAs the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group I standings, making the upcoming fixtures even more critical for both nations.",
+  "stakes": "With Group I wide open, this matchday 1 encounter holds massive implications for both Norway and Iraq as they look to secure a place in the knockout rounds.",
+  "rivalryAngle": "The footballing connection between Norway and Iraq adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Norway are affectionately known as the Løvene.",
+    "Iraq are affectionately known as the Lions of Mesopotamia.",
+    "This high-profile match was held at BC Place in Vancouver on 2026-06-16."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Erling Haaland",
+      "team": "Norway",
+      "hook": "The key playmaker leading the tactical setup for the Løvene."
+    },
+    {
+      "name": "Aymen Hussein",
+      "team": "Iraq",
+      "hook": "The creative spark expected to make the difference for the Lions of Mesopotamia."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "norway",
+    "iraq",
+    "group-i"
+  ],
+  "home": "Norway",
+  "away": "Iraq",
+  "homeCode": "NOR",
+  "awayCode": "IRQ",
+  "homeFlag": "🇳🇴",
+  "awayFlag": "🇮🇶",
+  "group": "I",
+  "matchday": 1,
+  "date": "2026-06-16",
+  "time": "13:00",
+  "venue": "BC Place",
+  "city": "Vancouver",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 0,
+  "marquee": false,
+  "liveMinute": null
+}

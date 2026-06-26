@@ -7,7 +7,6 @@ image: "https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&c
 readingTime: 6
 pubDate: 2026-06-16
 ---
-
 ## The Long Wait
 
 For nearly three decades, Norwegian football fans have had to watch the World Cup from the sidelines, dreaming of the days of Flo and Rekdal. Year after year, qualification campaigns ended in near-misses and heartbreak. But the arrival of two singular talents has transformed Norway from a nostalgic underdog into one of the most intriguing sides in the tournament.

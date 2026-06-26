@@ -1,34 +1,40 @@
 {
-  "headline": "Mock Hype Headline",
-  "whyCareScore": 8.2,
-  "whyCareReason": "This is a mock why-care reason for this match.",
-  "teaser": "Mock teaser sentence. Another mock teaser sentence.",
-  "story": "Mock paragraph one.\n\nMock paragraph two.\n\nMock paragraph three.",
-  "stakes": "Mock stakes description here.",
-  "rivalryAngle": "Mock rivalry details.",
+  "slug": "england-vs-ghana-md1",
+  "headline": "Late Drama Sees England Beat Ghana 2-1",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A crucial group stage result in Group L that leaves standing tables dramatically altered.",
+  "teaser": "The final whistle blew at MetLife Stadium with a 2-1 scoreline. England and Ghana played out an absorbing contest that will shape the Group L standings.",
+  "story": "Under the bright lights in New Jersey, England and Ghana took to the pitch on 2026-06-13 for a highly anticipated Matchday 1 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.\n\nWith both managers deploying disciplined defensive setups, space was at a premium. Jude Bellingham showed moments of brilliance for England, while Mohammed Kudus was the creative heartbeat for Ghana. In the end, a few decisive moments settled the score at 2-1, giving fans plenty to talk about.\n\nFor the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.",
+  "stakes": "With Group L wide open, this matchday 1 encounter holds massive implications for both England and Ghana as they look to secure a place in the knockout rounds.",
+  "rivalryAngle": "The footballing connection between England and Ghana adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
   "funFacts": [
-    "Mock fact A",
-    "Mock fact B",
-    "Mock fact C"
+    "England are affectionately known as the Three Lions.",
+    "Ghana are affectionately known as the Black Stars.",
+    "This high-profile match was held at MetLife Stadium in New Jersey on 2026-06-13."
   ],
   "keyPlayers": [
     {
-      "name": "Player A",
-      "team": "Team A",
-      "hook": "why they matter"
+      "name": "Jude Bellingham",
+      "team": "England",
+      "hook": "The key playmaker leading the tactical setup for the Three Lions."
     },
     {
-      "name": "Player B",
-      "team": "Team B",
-      "hook": "why they matter"
+      "name": "Mohammed Kudus",
+      "team": "Ghana",
+      "hook": "The creative spark expected to make the difference for the Black Stars."
     }
   ],
-  "slug": "england-vs-ghana-md1",
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "england",
+    "ghana",
+    "group-l"
+  ],
   "home": "England",
   "away": "Ghana",
   "homeCode": "ENG",
   "awayCode": "GHA",
-  "homeFlag": "🏴",
+  "homeFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
   "awayFlag": "🇬🇭",
   "group": "L",
   "matchday": 1,

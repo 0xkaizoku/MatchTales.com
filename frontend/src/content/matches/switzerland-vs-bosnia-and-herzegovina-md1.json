@@ -1,0 +1,50 @@
+{
+  "slug": "switzerland-vs-bosnia-and-herzegovina-md1",
+  "headline": "Switzerland and Bosnia and Herzegovina Share Spoils in 1-1 Draw",
+  "whyCareScore": 7.4,
+  "whyCareReason": "A crucial group stage result in Group B that leaves standing tables dramatically altered.",
+  "teaser": "A thrilling match in Vancouver concludes with Switzerland and Bosnia and Herzegovina leaving everything on the pitch. Read the full post-match analysis.",
+  "story": "The atmosphere at the BC Place in Vancouver was electric as Switzerland faced Bosnia and Herzegovina in a Group B matchup on 2026-06-12. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.\n\nThe match was defined by intense tactical battles in midfield and clinical finishing. Switzerland relied heavily on the technical qualities of Granit Xhaka to dictate the tempo. On the other side, Bosnia and Herzegovina looked dangerous on the counter, with Edin Džeko asking serious questions of the opposition defence. The scoreline of 1 to 1 highlights how closely contested the affair was.\n\nAs the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group B standings, making the upcoming fixtures even more critical for both nations.",
+  "stakes": "With Group B wide open, this matchday 1 encounter holds massive implications for both Switzerland and Bosnia and Herzegovina as they look to secure a place in the knockout rounds.",
+  "rivalryAngle": "The footballing connection between Switzerland and Bosnia and Herzegovina adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Switzerland are affectionately known as the Nati.",
+    "Bosnia and Herzegovina are affectionately known as the Zmajevi.",
+    "This high-profile match was held at BC Place in Vancouver on 2026-06-12."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Granit Xhaka",
+      "team": "Switzerland",
+      "hook": "The key playmaker leading the tactical setup for the Nati."
+    },
+    {
+      "name": "Edin Džeko",
+      "team": "Bosnia and Herzegovina",
+      "hook": "The creative spark expected to make the difference for the Zmajevi."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "switzerland",
+    "bosnia-and-herzegovina",
+    "group-b"
+  ],
+  "home": "Switzerland",
+  "away": "Bosnia and Herzegovina",
+  "homeCode": "SUI",
+  "awayCode": "BIH",
+  "homeFlag": "🇨🇭",
+  "awayFlag": "🇧🇦",
+  "group": "B",
+  "matchday": 1,
+  "date": "2026-06-12",
+  "time": "13:00",
+  "venue": "BC Place",
+  "city": "Vancouver",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 1,
+  "marquee": false,
+  "liveMinute": null
+}

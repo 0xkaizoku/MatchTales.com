@@ -1,0 +1,50 @@
+{
+  "slug": "cape-verde-vs-saudi-arabia-md3",
+  "headline": "Cape Verde and Saudi Arabia Share Spoils in 1-1 Draw",
+  "whyCareScore": 7.4,
+  "whyCareReason": "A crucial group stage result in Group H that leaves standing tables dramatically altered.",
+  "teaser": "The final whistle blew at Lumen Field with a 1-1 scoreline. Cape Verde and Saudi Arabia played out an absorbing contest that will shape the Group H standings.",
+  "story": "The atmosphere at the Lumen Field in Seattle was electric as Cape Verde faced Saudi Arabia in a Group H matchup on 2026-06-25. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.\n\nThe match was defined by intense tactical battles in midfield and clinical finishing. Cape Verde relied heavily on the technical qualities of Ryan Mendes to dictate the tempo. On the other side, Saudi Arabia looked dangerous on the counter, with Salem Al-Dawsari asking serious questions of the opposition defence. The scoreline of 1 to 1 highlights how closely contested the affair was.\n\nAs the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group H standings, making the upcoming fixtures even more critical for both nations.",
+  "stakes": "With Group H wide open, this matchday 3 encounter holds massive implications for both Cape Verde and Saudi Arabia as they look to secure a place in the knockout rounds.",
+  "rivalryAngle": "The footballing connection between Cape Verde and Saudi Arabia adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Cape Verde are affectionately known as the Blue Sharks.",
+    "Saudi Arabia are affectionately known as the Green Falcons.",
+    "This high-profile match was held at Lumen Field in Seattle on 2026-06-25."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Ryan Mendes",
+      "team": "Cape Verde",
+      "hook": "The key playmaker leading the tactical setup for the Blue Sharks."
+    },
+    {
+      "name": "Salem Al-Dawsari",
+      "team": "Saudi Arabia",
+      "hook": "The creative spark expected to make the difference for the Green Falcons."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "cape-verde",
+    "saudi-arabia",
+    "group-h"
+  ],
+  "home": "Cape Verde",
+  "away": "Saudi Arabia",
+  "homeCode": "CPV",
+  "awayCode": "KSA",
+  "homeFlag": "🇨🇻",
+  "awayFlag": "🇸🇦",
+  "group": "H",
+  "matchday": 3,
+  "date": "2026-06-25",
+  "time": "16:00",
+  "venue": "Lumen Field",
+  "city": "Seattle",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": false,
+  "liveMinute": null
+}

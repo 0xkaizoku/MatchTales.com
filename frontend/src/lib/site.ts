@@ -61,3 +61,59 @@ export function statusLabel(status: string) {
 export function matchHref(slug: string) {
   return `/match/${slug}`;
 }
+
+const flagCodeMap: Record<string, string> = {
+  MEX: 'mx',
+  KOR: 'kr',
+  RSA: 'za',
+  CZE: 'cz',
+  CAN: 'ca',
+  SUI: 'ch',
+  QAT: 'qa',
+  BIH: 'ba',
+  BRA: 'br',
+  MAR: 'ma',
+  HAI: 'ht',
+  SCO: 'gb-sct',
+  USA: 'us',
+  PAR: 'py',
+  AUS: 'au',
+  TUR: 'tr',
+  GER: 'de',
+  CUW: 'cw',
+  CIV: 'ci',
+  ECU: 'ec',
+  NED: 'nl',
+  JPN: 'jp',
+  TUN: 'tn',
+  SWE: 'se',
+  BEL: 'be',
+  EGY: 'eg',
+  IRN: 'ir',
+  NZL: 'nz',
+  ESP: 'es',
+  CPV: 'cv',
+  KSA: 'sa',
+  URU: 'uy',
+  FRA: 'fr',
+  SEN: 'sn',
+  NOR: 'no',
+  IRQ: 'iq',
+  ARG: 'ar',
+  ALG: 'dz',
+  AUT: 'at',
+  JOR: 'jo',
+  POR: 'pt',
+  UZB: 'uz',
+  COL: 'co',
+  COD: 'cd',
+  ENG: 'gb-eng',
+  CRO: 'hr',
+  GHA: 'gh',
+  PAN: 'pa'
+};
+
+export function getFlagUrl(code: string) {
+  const c = flagCodeMap[(code || '').toUpperCase()] || 'un';
+  return `https://flagcdn.com/w40/${c}.png`;
+}

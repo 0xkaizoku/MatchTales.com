@@ -1,0 +1,50 @@
+{
+  "slug": "iraq-vs-senegal-md2",
+  "headline": "Senegal Grab Dramatic 0-2 Win Against Iraq",
+  "whyCareScore": 7.4,
+  "whyCareReason": "A crucial group stage result in Group I that leaves standing tables dramatically altered.",
+  "teaser": "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Iraq and Senegal fought out their group stage clash.",
+  "story": "The atmosphere at the BC Place in Vancouver was electric as Iraq faced Senegal in a Group I matchup on 2026-06-21. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.\n\nThe match was defined by intense tactical battles in midfield and clinical finishing. Iraq relied heavily on the technical qualities of Aymen Hussein to dictate the tempo. On the other side, Senegal looked dangerous on the counter, with Nicolas Jackson asking serious questions of the opposition defence. The scoreline of 0 to 2 highlights how closely contested the affair was.\n\nAs the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group I standings, making the upcoming fixtures even more critical for both nations.",
+  "stakes": "With Group I wide open, this matchday 2 encounter holds massive implications for both Iraq and Senegal as they look to secure a place in the knockout rounds.",
+  "rivalryAngle": "The footballing connection between Iraq and Senegal adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Iraq are affectionately known as the Lions of Mesopotamia.",
+    "Senegal are affectionately known as the Lions of Teranga.",
+    "This high-profile match was held at BC Place in Vancouver on 2026-06-21."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Aymen Hussein",
+      "team": "Iraq",
+      "hook": "The key playmaker leading the tactical setup for the Lions of Mesopotamia."
+    },
+    {
+      "name": "Nicolas Jackson",
+      "team": "Senegal",
+      "hook": "The creative spark expected to make the difference for the Lions of Teranga."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "iraq",
+    "senegal",
+    "group-i"
+  ],
+  "home": "Iraq",
+  "away": "Senegal",
+  "homeCode": "IRQ",
+  "awayCode": "SEN",
+  "homeFlag": "🇮🇶",
+  "awayFlag": "🇸🇳",
+  "group": "I",
+  "matchday": 2,
+  "date": "2026-06-21",
+  "time": "13:00",
+  "venue": "BC Place",
+  "city": "Vancouver",
+  "status": "FINISHED",
+  "homeScore": 0,
+  "awayScore": 2,
+  "marquee": false,
+  "liveMinute": null
+}

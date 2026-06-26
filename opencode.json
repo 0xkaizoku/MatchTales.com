@@ -1,0 +1,38 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "zyloo": {
+      "npm": "@ai-sdk/openai-compatible",
+      "options": {
+        "apiKey": "{env:ZYLOO_API_KEY_OPENCODE}",
+        "baseURL": "https://api.zyloo.io/v1"
+      },
+      "models": {
+        "claude-sonnet-4-6": {
+          "id": "zyloo/claude-sonnet-4-6",
+          "name": "Claude Sonnet 4.6",
+          "options": { "reasoningEffort": "high" }
+        },
+        "gpt-5.4": {
+          "id": "zyloo/gpt-5.4",
+          "name": "GPT 5.4",
+          "options": { "reasoningEffort": "high" }
+        }
+      }
+    },
+    "cloudflare": {
+      "npm": "@ai-sdk/openai-compatible",
+      "options": {
+        "apiKey": "{env:CLOUDFLARE_API_TOKEN}",
+        "baseURL": "https://api.cloudflare.com/client/v4/accounts/{env:CLOUDFLARE_ACCOUNT_ID}/ai/v1"
+      },
+      "models": {
+        "glm-5.2": {
+          "id": "@cf/zai-org/glm-5.2",
+          "name": "GLM 5.2"
+        }
+      }
+    }
+  },
+  "model": "zyloo/claude-sonnet-4-6"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "brazil-vs-scotland-md3",
+  "headline": "Points Shared in Drama-Filled 1-1 Draw",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A crucial group stage result in Group C that leaves standing tables dramatically altered.",
+  "teaser": "A thrilling match in Los Angeles concludes with Brazil and Scotland leaving everything on the pitch. Read the full post-match analysis.",
+  "story": "The atmosphere at the SoFi Stadium in Los Angeles was electric as Brazil faced Scotland in a Group C matchup on 2026-06-23. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.\n\nThe match was defined by intense tactical battles in midfield and clinical finishing. Brazil relied heavily on the technical qualities of Vinícius Júnior to dictate the tempo. On the other side, Scotland looked dangerous on the counter, with Andrew Robertson asking serious questions of the opposition defence. The scoreline of 1 to 1 highlights how closely contested the affair was.\n\nAs the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group C standings, making the upcoming fixtures even more critical for both nations.",
+  "stakes": "With Group C wide open, this matchday 3 encounter holds massive implications for both Brazil and Scotland as they look to secure a place in the knockout rounds.",
+  "rivalryAngle": "The footballing connection between Brazil and Scotland adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Brazil are affectionately known as the Seleção.",
+    "Scotland are affectionately known as the Tartan Army.",
+    "This high-profile match was held at SoFi Stadium in Los Angeles on 2026-06-23."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Vinícius Júnior",
+      "team": "Brazil",
+      "hook": "The key playmaker leading the tactical setup for the Seleção."
+    },
+    {
+      "name": "Andrew Robertson",
+      "team": "Scotland",
+      "hook": "The creative spark expected to make the difference for the Tartan Army."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "brazil",
+    "scotland",
+    "group-c"
+  ],
+  "home": "Brazil",
+  "away": "Scotland",
+  "homeCode": "BRA",
+  "awayCode": "SCO",
+  "homeFlag": "🇧🇷",
+  "awayFlag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+  "group": "C",
+  "matchday": 3,
+  "date": "2026-06-23",
+  "time": "20:00",
+  "venue": "SoFi Stadium",
+  "city": "Los Angeles",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 1,
+  "marquee": true,
+  "liveMinute": null
+}

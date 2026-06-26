@@ -1,5 +1,5 @@
 ---
-import { data } from '../lib/site';
+import { data, getFlagUrl } from '../lib/site';
 const groups = Object.keys(data.groups).sort();
 const initial = (Astro.props.initial as string) || groups[0];
 ---
@@ -28,7 +28,7 @@ const initial = (Astro.props.initial as string) || groups[0];
             <td class="py-2.5 pl-4">
               <a href={`/team/${r.name.toLowerCase().replace(/\s+/g, '-')}`} class="flex items-center gap-2 hover:text-pitch">
                 <span class={`inline-block w-1 h-4 rounded-full ${i < 2 ? 'bg-pitch' : i === 2 ? 'bg-warning' : 'bg-transparent'}`}></span>
-                <span class="text-base">{r.flag}</span>
+                <img src={getFlagUrl(r.code)} alt={r.name} class="w-6 h-4 inline-block" loading="lazy" />
                 <span class="font-medium truncate">{r.name}</span>
               </a>
             </td>

@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { data } from '../lib/site';
+import { data, getFlagUrl } from '../lib/site';
 const groups = Object.keys(data.groups).sort();
 ---
 <BaseLayout title="Groups & Standings — World Cup 2026 | MatchTales" description="All 12 groups of the 2026 World Cup with live-style standings and the storylines shaping qualification.">
@@ -17,7 +17,7 @@ const groups = Object.keys(data.groups).sort();
             <tbody>
               {data.groups[g].map((r: any, i: number) => (
                 <tr class="border-b border-border/60 last:border-0">
-                  <td class="py-2 pl-4 flex items-center gap-2"><span class={`inline-block w-1 h-4 rounded-full ${i<2?'bg-pitch':i===2?'bg-warning':'bg-transparent'}`}></span><span>{r.flag}</span><span class="font-medium truncate">{r.name}</span></td>
+                  <td class="py-2 pl-4 flex items-center gap-2"><span class={`inline-block w-1 h-4 rounded-full ${i<2?'bg-pitch':i===2?'bg-warning':'bg-transparent'}`}></span><img src={getFlagUrl(r.code)} alt={r.name} class="w-6 h-4" loading="lazy" /><span class="font-medium truncate">{r.name}</span></td>
                   <td class="text-center px-2 tabular-nums text-muted">{r.P}</td>
                   <td class="text-center px-2 pr-4 font-semibold tabular-nums">{r.Pts}</td>
                 </tr>

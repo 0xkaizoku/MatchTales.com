@@ -1,0 +1,50 @@
+{
+  "slug": "germany-vs-ivory-coast-md1",
+  "headline": "Germany Outclass Ivory Coast in 4-0 Victory",
+  "whyCareScore": 7.4,
+  "whyCareReason": "A crucial group stage result in Group E that leaves standing tables dramatically altered.",
+  "teaser": "Tactical discipline and clinical finishes defined this Matchday 1 encounter. Here is how Germany and Ivory Coast fought out their group stage clash.",
+  "story": "The atmosphere at the Hard Rock Stadium in Miami was electric as Germany faced Ivory Coast in a Group E matchup on 2026-06-14. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.\n\nThe match was defined by intense tactical battles in midfield and clinical finishing. Germany relied heavily on the technical qualities of Jamal Musiala to dictate the tempo. On the other side, Ivory Coast looked dangerous on the counter, with Simon Adingra asking serious questions of the opposition defence. The scoreline of 4 to 0 highlights how closely contested the affair was.\n\nAs the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group E standings, making the upcoming fixtures even more critical for both nations.",
+  "stakes": "With Group E wide open, this matchday 1 encounter holds massive implications for both Germany and Ivory Coast as they look to secure a place in the knockout rounds.",
+  "rivalryAngle": "The footballing connection between Germany and Ivory Coast adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Germany are affectionately known as the Die Mannschaft.",
+    "Ivory Coast are affectionately known as the Les Éléphants.",
+    "This high-profile match was held at Hard Rock Stadium in Miami on 2026-06-14."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Jamal Musiala",
+      "team": "Germany",
+      "hook": "The key playmaker leading the tactical setup for the Die Mannschaft."
+    },
+    {
+      "name": "Simon Adingra",
+      "team": "Ivory Coast",
+      "hook": "The creative spark expected to make the difference for the Les Éléphants."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "germany",
+    "ivory-coast",
+    "group-e"
+  ],
+  "home": "Germany",
+  "away": "Ivory Coast",
+  "homeCode": "GER",
+  "awayCode": "CIV",
+  "homeFlag": "🇩🇪",
+  "awayFlag": "🇨🇮",
+  "group": "E",
+  "matchday": 1,
+  "date": "2026-06-14",
+  "time": "19:00",
+  "venue": "Hard Rock Stadium",
+  "city": "Miami",
+  "status": "FINISHED",
+  "homeScore": 4,
+  "awayScore": 0,
+  "marquee": false,
+  "liveMinute": null
+}
