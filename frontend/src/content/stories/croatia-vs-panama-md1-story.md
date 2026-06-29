@@ -14,7 +14,7 @@ On 2026-06-13, the footballing world turned its attention to Lincoln Financial F
 
 Under the bright lights in Philadelphia, Croatia and Panama took to the pitch on 2026-06-13 for a highly anticipated Matchday 1 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 
-With both managers deploying disciplined defensive setups, space was at a premium. Luka Modrić showed moments of brilliance for Croatia, while Adalberto Carrasquilla was the creative heartbeat for Panama. In the end, a few decisive moments settled the score at 3-1, giving fans plenty to talk about.
+With both managers deploying disciplined defensive setups, space was at a premium. Luka Modrić showed moments of brilliance for Croatia, while Adalberto Carrasquilla was the creative heartbeat for Panama. In the end, a few decisive moments settled the score at 1-0, giving fans plenty to talk about.
 
 For the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.
 

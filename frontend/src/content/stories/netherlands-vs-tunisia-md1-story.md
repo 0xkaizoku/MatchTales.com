@@ -14,7 +14,7 @@ On 2026-06-15, the footballing world turned its attention to Levi's Stadium in S
 
 Under the bright lights in San Francisco, Netherlands and Tunisia took to the pitch on 2026-06-15 for a highly anticipated Matchday 1 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 
-With both managers deploying disciplined defensive setups, space was at a premium. Cody Gakpo showed moments of brilliance for Netherlands, while Elyes Skhiri was the creative heartbeat for Tunisia. In the end, a few decisive moments settled the score at 1-0, giving fans plenty to talk about.
+With both managers deploying disciplined defensive setups, space was at a premium. Cody Gakpo showed moments of brilliance for Netherlands, while Elyes Skhiri was the creative heartbeat for Tunisia. In the end, a few decisive moments settled the score at 3-1, giving fans plenty to talk about.
 
 For the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.
 

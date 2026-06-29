@@ -1,5 +1,5 @@
 ---
-title: "Cura\u00e7ao vs Ecuador 1-1 Match Report"
+title: "Cura\u00e7ao vs Ecuador 0-1 Match Report"
 subtitle: "A thrilling match in San Francisco concludes with Cura\u00e7ao and Ecuador leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group E that leaves standing tables dramatically altered."
@@ -14,7 +14,7 @@ On 2026-06-14, the footballing world turned its attention to Levi's Stadium in S
 
 Under the bright lights in San Francisco, Curaçao and Ecuador took to the pitch on 2026-06-14 for a highly anticipated Matchday 1 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 
-With both managers deploying disciplined defensive setups, space was at a premium. Juninho Bacuna showed moments of brilliance for Curaçao, while Moisés Caicedo was the creative heartbeat for Ecuador. In the end, a few decisive moments settled the score at 1-1, giving fans plenty to talk about.
+With both managers deploying disciplined defensive setups, space was at a premium. Juninho Bacuna showed moments of brilliance for Curaçao, while Moisés Caicedo was the creative heartbeat for Ecuador. In the end, a few decisive moments settled the score at 0-0, giving fans plenty to talk about.
 
 For the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.
 

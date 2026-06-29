@@ -1,5 +1,5 @@
 ---
-title: "Qatar vs Bosnia and Herzegovina 2-0 Match Report"
+title: "Qatar vs Bosnia and Herzegovina 0-6 Match Report"
 subtitle: "A thrilling match in Toronto concludes with Qatar and Bosnia and Herzegovina leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group B that leaves standing tables dramatically altered."
@@ -14,7 +14,7 @@ On 2026-06-19, the footballing world turned its attention to BMO Field in Toront
 
 Under the bright lights in Toronto, Qatar and Bosnia and Herzegovina took to the pitch on 2026-06-19 for a highly anticipated Matchday 2 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 
-With both managers deploying disciplined defensive setups, space was at a premium. Akram Afif showed moments of brilliance for Qatar, while Edin Džeko was the creative heartbeat for Bosnia and Herzegovina. In the end, a few decisive moments settled the score at 2-0, giving fans plenty to talk about.
+With both managers deploying disciplined defensive setups, space was at a premium. Akram Afif showed moments of brilliance for Qatar, while Edin Džeko was the creative heartbeat for Bosnia and Herzegovina. In the end, a few decisive moments settled the score at 1-3, giving fans plenty to talk about.
 
 For the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.
 

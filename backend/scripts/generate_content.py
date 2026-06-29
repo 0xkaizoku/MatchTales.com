@@ -202,7 +202,7 @@ def _match_record(m: Dict[str, Any], h: Dict[str, Any], a: Dict[str, Any], data:
         "slug": m["slug"], "home": m["home"], "away": m["away"],
         "homeCode": h.get("code"), "awayCode": a.get("code"),
         "homeFlag": h.get("flag"), "awayFlag": a.get("flag"),
-        "group": m["group"], "matchday": m["matchday"], "date": m["date"], "time": m["time"],
+        "group": m["group"], "matchday": m["matchday"], "date": m["date"], "time": m.get("time", "15:00"),
         "venue": m["venue"], "city": m["city"], "status": m["status"],
         "homeScore": m["homeScore"], "awayScore": m["awayScore"],
         "marquee": m.get("marquee", False), "liveMinute": m.get("liveMinute"),

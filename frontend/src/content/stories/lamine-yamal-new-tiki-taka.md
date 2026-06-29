@@ -11,7 +11,7 @@ pubDate: 2026-06-16
 
 Lamine Yamal is not playing by the historical rules of Spanish development. While the previous generation of midfielders was drilled to value possession above all else, Yamal plays with the direct, street-football instinct of someone who grew up playing on concrete courts in Rocafonda. He doesn't want to pass sideways; he wants to look the defender in the eye and run at them.
 
-At just a teenager, he carries the weight of a nation on his slender shoulders, but you wouldn't know it from the way he plays. There is a playground joy in his movements, a casual insolence that makes even the most experienced defenders look clumsy.
+At just 18, he carries the weight of a nation on his slender shoulders, but you wouldn't know it from the way he plays. There is a playground joy in his movements, a casual insolence that makes even the most experienced defenders look clumsy. Spain navigated Group H with 7 points, advancing comfortably - though a surprising 0-0 draw with Saudi Arabia on Matchday 1 served as a reminder that even the most talented squads need their creative spark to ignite.
 
 ## Reinventing Tiki-Taka
 
@@ -22,3 +22,5 @@ It is a style designed to exploit space rather than just control it. When Pedri 
 ## A Legacy in the Making
 
 What we are witnessing is the birth of a new era. Spain's footballing identity has always been fluid, adapting to the talent at its disposal. In Yamal, they have a player who forces them to adapt. If he can maintain this astronomical trajectory, the 2026 World Cup won't just be a tournament he played in - it will be the tournament he defined.
+
+Group stage done. Knockout rounds next. The world is watching.

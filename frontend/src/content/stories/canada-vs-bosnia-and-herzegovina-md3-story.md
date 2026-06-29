@@ -1,6 +1,6 @@
 ---
-title: "Canada vs Bosnia and Herzegovina 2-1 Match Report"
-subtitle: "The final whistle blew at BMO Field with a 2-1 scoreline. Canada and Bosnia and Herzegovina played out an absorbing contest that will shape the Group B standings."
+title: "Canada vs Bosnia and Herzegovina 2-3 Match Report"
+subtitle: "The final whistle blew at BMO Field with a 1-1 scoreline. Canada and Bosnia and Herzegovina played out an absorbing contest that will shape the Group B standings."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group B that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -14,7 +14,7 @@ On 2026-06-22, the footballing world turned its attention to BMO Field in Toront
 
 The atmosphere at the BMO Field in Toronto was electric as Canada faced Bosnia and Herzegovina in a Group B matchup on 2026-06-22. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
-The match was defined by intense tactical battles in midfield and clinical finishing. Canada relied heavily on the technical qualities of Alphonso Davies to dictate the tempo. On the other side, Bosnia and Herzegovina looked dangerous on the counter, with Edin Džeko asking serious questions of the opposition defence. The scoreline of 2 to 1 highlights how closely contested the affair was.
+The match was defined by intense tactical battles in midfield and clinical finishing. Canada relied heavily on the technical qualities of Alphonso Davies to dictate the tempo. On the other side, Bosnia and Herzegovina looked dangerous on the counter, with Edin Džeko asking serious questions of the opposition defence. The scoreline of 1 to 1 highlights how closely contested the affair was.
 
 As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group B standings, making the upcoming fixtures even more critical for both nations.
 

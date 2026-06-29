@@ -1,5 +1,5 @@
 ---
-title: "Netherlands vs Japan 1-0 Match Report"
+title: "Netherlands vs Japan 2-2 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Netherlands and Japan fought out their group stage clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group F that leaves standing tables dramatically altered."
@@ -14,7 +14,7 @@ On 2026-06-21, the footballing world turned its attention to Levi's Stadium in S
 
 The atmosphere at the Levi's Stadium in San Francisco was electric as Netherlands faced Japan in a Group F matchup on 2026-06-21. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
-The match was defined by intense tactical battles in midfield and clinical finishing. Netherlands relied heavily on the technical qualities of Cody Gakpo to dictate the tempo. On the other side, Japan looked dangerous on the counter, with Takefusa Kubo asking serious questions of the opposition defence. The scoreline of 1 to 0 highlights how closely contested the affair was.
+The match was defined by intense tactical battles in midfield and clinical finishing. Netherlands relied heavily on the technical qualities of Cody Gakpo to dictate the tempo. On the other side, Japan looked dangerous on the counter, with Takefusa Kubo asking serious questions of the opposition defence. The scoreline of 2 to 2 highlights how closely contested the affair was.
 
 As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group F standings, making the upcoming fixtures even more critical for both nations.
 

@@ -1,6 +1,6 @@
 ---
-title: "Netherlands vs Sweden 2-0 Match Report"
-subtitle: "The final whistle blew at Levi's Stadium with a 2-0 scoreline. Netherlands and Sweden played out an absorbing contest that will shape the Group F standings."
+title: "Netherlands vs Sweden 3-1 Match Report"
+subtitle: "The final whistle blew at Levi's Stadium with a 5-1 scoreline. Netherlands and Sweden played out an absorbing contest that will shape the Group F standings."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group F that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1518843025960-d60217f226f5?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -14,7 +14,7 @@ On 2026-06-24, the footballing world turned its attention to Levi's Stadium in S
 
 Under the bright lights in San Francisco, Netherlands and Sweden took to the pitch on 2026-06-24 for a highly anticipated Matchday 3 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 
-With both managers deploying disciplined defensive setups, space was at a premium. Cody Gakpo showed moments of brilliance for Netherlands, while Alexander Isak was the creative heartbeat for Sweden. In the end, a few decisive moments settled the score at 2-0, giving fans plenty to talk about.
+With both managers deploying disciplined defensive setups, space was at a premium. Cody Gakpo showed moments of brilliance for Netherlands, while Alexander Isak was the creative heartbeat for Sweden. In the end, a few decisive moments settled the score at 5-1, giving fans plenty to talk about.
 
 For the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.
 

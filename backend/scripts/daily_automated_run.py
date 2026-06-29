@@ -165,7 +165,7 @@ def _match_record(m: Dict[str, Any], h: Dict[str, Any], a: Dict[str, Any], data:
         "slug": m["slug"], "home": m["home"], "away": m["away"],
         "homeCode": h.get("code"), "awayCode": a.get("code"),
         "homeFlag": h.get("flag"), "awayFlag": a.get("flag"),
-        "group": m["group"], "matchday": m["matchday"], "date": m["date"], "time": m["time"],
+        "group": m["group"], "matchday": m["matchday"], "date": m["date"], "time": m.get("time", "15:00"),
         "venue": m["venue"], "city": m["city"], "status": m["status"],
         "homeScore": m["homeScore"], "awayScore": m["awayScore"],
         "marquee": m.get("marquee", False), "liveMinute": m.get("liveMinute"),
@@ -434,7 +434,7 @@ def update_fixtures_by_real_date(seed_data: Dict[str, Any]) -> List[Dict[str, An
         
         # Parse local start time
         try:
-            local_start = datetime.strptime(f"{m['date']} {m['time']}", "%Y-%m-%d %H:%M")
+            local_start = datetime.strptime(f"{m['date']} {m.get('time', '15:00')}", "%Y-%m-%d %H:%M")
             match_start_utc = (local_start - timedelta(hours=offset)).replace(tzinfo=timezone.utc)
         except Exception as e:
             print(f"Error parsing start time for {m['slug']}: {e}")

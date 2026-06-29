@@ -1,15 +1,15 @@
 {
-  "slug": "united-states-vs-turkey-md3",
-  "headline": "United States Outclass Turkiye in 2-1 Victory",
+  "slug": "united-states-vs-turkiye-md3",
+  "headline": "Tactical Masterclass Sees Turkiye Beat United States 2-3",
   "whyCareScore": 9.2,
   "whyCareReason": "A crucial group stage result in Group D that leaves standing tables dramatically altered.",
-  "teaser": "A thrilling match in Atlanta concludes with United States and Turkiye leaving everything on the pitch. Read the full post-match analysis.",
-  "story": "The atmosphere at the Mercedes-Benz Stadium in Atlanta was electric as United States faced Turkiye in a Group D matchup on 2026-06-23. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.\n\nThe match was defined by intense tactical battles in midfield and clinical finishing. United States relied heavily on the technical qualities of Christian Pulisic to dictate the tempo. On the other side, Turkiye looked dangerous on the counter, with Arda Güler asking serious questions of the opposition defence. The scoreline of 2 to 1 highlights how closely contested the affair was.\n\nAs the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group D standings, making the upcoming fixtures even more critical for both nations.",
+  "teaser": "The final whistle blew at Mercedes-Benz Stadium with a 2-3 scoreline. United States and Turkiye played out an absorbing contest that will shape the Group D standings.",
+  "story": "Under the bright lights in Atlanta, United States and Turkiye took to the pitch on 2026-06-23 for a highly anticipated Matchday 3 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.\n\nWith both managers deploying disciplined defensive setups, space was at a premium. Christian Pulisic showed moments of brilliance for United States, while Arda Güler was the creative heartbeat for Turkiye. In the end, a few decisive moments settled the score at 2-3, giving fans plenty to talk about.\n\nFor the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.",
   "stakes": "With Group D wide open, this matchday 3 encounter holds massive implications for both United States and Turkiye as they look to secure a place in the knockout rounds.",
   "rivalryAngle": "The footballing connection between United States and Turkiye adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
   "funFacts": [
     "United States are affectionately known as the USMNT.",
-    "Turkey are affectionately known as the Ay-Yıldızlılar.",
+    "Turkiye are affectionately known as the Ay-Yıldızlılar.",
     "This high-profile match was held at Mercedes-Benz Stadium in Atlanta on 2026-06-23."
   ],
   "keyPlayers": [
@@ -20,14 +20,14 @@
     },
     {
       "name": "Arda Güler",
-      "team": "Turkey",
+      "team": "Turkiye",
       "hook": "The creative spark expected to make the difference for the Ay-Yıldızlılar."
     }
   ],
   "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
   "tags": [
     "united-states",
-    "turkey",
+    "turkiye",
     "group-d"
   ],
   "home": "United States",
@@ -44,7 +44,7 @@
   "city": "Atlanta",
   "status": "FINISHED",
   "homeScore": 2,
-  "awayScore": 1,
+  "awayScore": 3,
   "marquee": true,
   "liveMinute": null
 }

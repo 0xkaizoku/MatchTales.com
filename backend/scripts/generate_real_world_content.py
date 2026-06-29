@@ -105,12 +105,12 @@ def main():
         group = f["group"]
         md = f["matchday"]
         date = f["date"]
-        time = f["time"]
+        time = f.get("time", "15:00")
         venue = f["venue"]
         city = f["city"]
         status = f["status"]
-        hs = f["homeScore"]
-        as_ = f["awayScore"]
+        hs = f.get("homeScore")
+        as_ = f.get("awayScore")
         marquee = f.get("marquee", False)
         live_minute = f.get("liveMinute")
         

@@ -14,7 +14,7 @@ On 2026-06-21, the footballing world turned its attention to BC Place in Vancouv
 
 The atmosphere at the BC Place in Vancouver was electric as Iraq faced Senegal in a Group I matchup on 2026-06-21. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
-The match was defined by intense tactical battles in midfield and clinical finishing. Iraq relied heavily on the technical qualities of Aymen Hussein to dictate the tempo. On the other side, Senegal looked dangerous on the counter, with Nicolas Jackson asking serious questions of the opposition defence. The scoreline of 0 to 2 highlights how closely contested the affair was.
+The match was defined by intense tactical battles in midfield and clinical finishing. Iraq relied heavily on the technical qualities of Aymen Hussein to dictate the tempo. On the other side, Senegal looked dangerous on the counter, with Nicolas Jackson asking serious questions of the opposition defence. The scoreline of 0 to 5 highlights how closely contested the affair was.
 
 As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group I standings, making the upcoming fixtures even more critical for both nations.
 

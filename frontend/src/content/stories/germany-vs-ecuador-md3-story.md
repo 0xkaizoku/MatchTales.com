@@ -1,5 +1,5 @@
 ---
-title: "Germany vs Ecuador 3-1 Match Report"
+title: "Germany vs Ecuador 1-2 Match Report"
 subtitle: "A thrilling match in Miami concludes with Germany and Ecuador leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group E that leaves standing tables dramatically altered."
@@ -14,7 +14,7 @@ On 2026-06-24, the footballing world turned its attention to Hard Rock Stadium i
 
 The atmosphere at the Hard Rock Stadium in Miami was electric as Germany faced Ecuador in a Group E matchup on 2026-06-24. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
-The match was defined by intense tactical battles in midfield and clinical finishing. Germany relied heavily on the technical qualities of Jamal Musiala to dictate the tempo. On the other side, Ecuador looked dangerous on the counter, with Moisés Caicedo asking serious questions of the opposition defence. The scoreline of 3 to 1 highlights how closely contested the affair was.
+The match was defined by intense tactical battles in midfield and clinical finishing. Germany relied heavily on the technical qualities of Jamal Musiala to dictate the tempo. On the other side, Ecuador looked dangerous on the counter, with Moisés Caicedo asking serious questions of the opposition defence. The scoreline of 1 to 2 highlights how closely contested the affair was.
 
 As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group E standings, making the upcoming fixtures even more critical for both nations.
 

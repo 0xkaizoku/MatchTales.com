@@ -14,7 +14,7 @@ On 2026-06-21, the footballing world turned its attention to Mercedes-Benz Stadi
 
 Under the bright lights in Atlanta, Portugal and Colombia took to the pitch on 2026-06-21 for a highly anticipated Matchday 2 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 
-With both managers deploying disciplined defensive setups, space was at a premium. Cristiano Ronaldo showed moments of brilliance for Portugal, while James Rodríguez was the creative heartbeat for Colombia. In the end, a few decisive moments settled the score at 2-2, giving fans plenty to talk about.
+With both managers deploying disciplined defensive setups, space was at a premium. Cristiano Ronaldo showed moments of brilliance for Portugal, while James Rodríguez was the creative heartbeat for Colombia. In the end, a few decisive moments settled the score at 0-0, giving fans plenty to talk about.
 
 For the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.
 

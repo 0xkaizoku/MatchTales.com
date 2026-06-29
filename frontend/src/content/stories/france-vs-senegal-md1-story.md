@@ -1,6 +1,6 @@
 ---
 title: "France vs Senegal 2-2 Match Report"
-subtitle: "The final whistle blew at SoFi Stadium with a 2-2 scoreline. France and Senegal played out an absorbing contest that will shape the Group I standings."
+subtitle: "The final whistle blew at SoFi Stadium with a 3-1 scoreline. France and Senegal played out an absorbing contest that will shape the Group I standings."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group I that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -14,7 +14,7 @@ On 2026-06-16, the footballing world turned its attention to SoFi Stadium in Los
 
 The atmosphere at the SoFi Stadium in Los Angeles was electric as France faced Senegal in a Group I matchup on 2026-06-16. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
-The match was defined by intense tactical battles in midfield and clinical finishing. France relied heavily on the technical qualities of Kylian Mbappé to dictate the tempo. On the other side, Senegal looked dangerous on the counter, with Nicolas Jackson asking serious questions of the opposition defence. The scoreline of 2 to 2 highlights how closely contested the affair was.
+The match was defined by intense tactical battles in midfield and clinical finishing. France relied heavily on the technical qualities of Kylian Mbappé to dictate the tempo. On the other side, Senegal looked dangerous on the counter, with Nicolas Jackson asking serious questions of the opposition defence. The scoreline of 3 to 1 highlights how closely contested the affair was.
 
 As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group I standings, making the upcoming fixtures even more critical for both nations.
 

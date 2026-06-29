@@ -14,7 +14,7 @@ On 2026-06-22, the footballing world turned its attention to Mercedes-Benz Stadi
 
 The atmosphere at the Mercedes-Benz Stadium in Atlanta was electric as Portugal faced DR Congo in a Group K matchup on 2026-06-22. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
-The match was defined by intense tactical battles in midfield and clinical finishing. Portugal relied heavily on the technical qualities of Cristiano Ronaldo to dictate the tempo. On the other side, DR Congo looked dangerous on the counter, with Yoane Wissa asking serious questions of the opposition defence. The scoreline of 3 to 1 highlights how closely contested the affair was.
+The match was defined by intense tactical battles in midfield and clinical finishing. Portugal relied heavily on the technical qualities of Cristiano Ronaldo to dictate the tempo. On the other side, DR Congo looked dangerous on the counter, with Yoane Wissa asking serious questions of the opposition defence. The scoreline of 1 to 1 highlights how closely contested the affair was.
 
 As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group K standings, making the upcoming fixtures even more critical for both nations.
 

@@ -1,41 +1,41 @@
 {
   "slug": "belgium-vs-new-zealand-md1",
-  "headline": "Late Drama Sees Belgium Beat New Zealand 2-0",
+  "headline": "Deadlock Unbroken as New Zealand Draws Iran 2-2",
   "whyCareScore": 9.2,
   "whyCareReason": "A crucial group stage result in Group G that leaves standing tables dramatically altered.",
-  "teaser": "Tactical discipline and clinical finishes defined this Matchday 1 encounter. Here is how Belgium and New Zealand fought out their group stage clash.",
-  "story": "Under the bright lights in Houston, Belgium and New Zealand took to the pitch on 2026-06-15 for a highly anticipated Matchday 1 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.\n\nWith both managers deploying disciplined defensive setups, space was at a premium. Kevin De Bruyne showed moments of brilliance for Belgium, while Chris Wood was the creative heartbeat for New Zealand. In the end, a few decisive moments settled the score at 2-0, giving fans plenty to talk about.\n\nFor the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.",
-  "stakes": "With Group G wide open, this matchday 1 encounter holds massive implications for both Belgium and New Zealand as they look to secure a place in the knockout rounds.",
-  "rivalryAngle": "The footballing connection between Belgium and New Zealand adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "teaser": "Tactical discipline and clinical finishes defined this Matchday 1 encounter. Here is how New Zealand and Iran fought out their group stage clash.",
+  "story": "Under the bright lights in Houston, New Zealand and Iran took to the pitch on 2026-06-15 for a highly anticipated Matchday 1 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.\n\nWith both managers deploying disciplined defensive setups, space was at a premium. Chris Wood showed moments of brilliance for New Zealand, while Mehdi Taremi was the creative heartbeat for Iran. In the end, a few decisive moments settled the score at 2-2, giving fans plenty to talk about.\n\nFor the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.",
+  "stakes": "With Group G wide open, this matchday 1 encounter holds massive implications for both New Zealand and Iran as they look to secure a place in the knockout rounds.",
+  "rivalryAngle": "The footballing connection between New Zealand and Iran adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
   "funFacts": [
-    "Belgium are affectionately known as the Red Devils.",
     "New Zealand are affectionately known as the All Whites.",
+    "Iran are affectionately known as the Team Melli.",
     "This high-profile match was held at NRG Stadium in Houston on 2026-06-15."
   ],
   "keyPlayers": [
     {
-      "name": "Kevin De Bruyne",
-      "team": "Belgium",
-      "hook": "The key playmaker leading the tactical setup for the Red Devils."
-    },
-    {
       "name": "Chris Wood",
       "team": "New Zealand",
-      "hook": "The creative spark expected to make the difference for the All Whites."
+      "hook": "The key playmaker leading the tactical setup for the All Whites."
+    },
+    {
+      "name": "Mehdi Taremi",
+      "team": "Iran",
+      "hook": "The creative spark expected to make the difference for the Team Melli."
     }
   ],
   "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
   "tags": [
-    "belgium",
     "new-zealand",
+    "iran",
     "group-g"
   ],
-  "home": "Belgium",
-  "away": "New Zealand",
-  "homeCode": "BEL",
-  "awayCode": "NZL",
-  "homeFlag": "🇧🇪",
-  "awayFlag": "🇳🇿",
+  "home": "New Zealand",
+  "away": "Iran",
+  "homeCode": "NZL",
+  "awayCode": "IRN",
+  "homeFlag": "🇳🇿",
+  "awayFlag": "🇮🇷",
   "group": "G",
   "matchday": 1,
   "date": "2026-06-15",
@@ -44,7 +44,7 @@
   "city": "Houston",
   "status": "FINISHED",
   "homeScore": 2,
-  "awayScore": 0,
+  "awayScore": 2,
   "marquee": true,
   "liveMinute": null
 }

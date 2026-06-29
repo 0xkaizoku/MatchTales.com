@@ -1,6 +1,6 @@
 ---
 title: "Sweden vs Tunisia 1-1 Match Report"
-subtitle: "The final whistle blew at NRG Stadium with a 1-1 scoreline. Sweden and Tunisia played out an absorbing contest that will shape the Group F standings."
+subtitle: "The final whistle blew at NRG Stadium with a 5-1 scoreline. Sweden and Tunisia played out an absorbing contest that will shape the Group F standings."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group F that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -14,7 +14,7 @@ On 2026-06-20, the footballing world turned its attention to NRG Stadium in Hous
 
 The atmosphere at the NRG Stadium in Houston was electric as Sweden faced Tunisia in a Group F matchup on 2026-06-20. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
-The match was defined by intense tactical battles in midfield and clinical finishing. Sweden relied heavily on the technical qualities of Alexander Isak to dictate the tempo. On the other side, Tunisia looked dangerous on the counter, with Elyes Skhiri asking serious questions of the opposition defence. The scoreline of 1 to 1 highlights how closely contested the affair was.
+The match was defined by intense tactical battles in midfield and clinical finishing. Sweden relied heavily on the technical qualities of Alexander Isak to dictate the tempo. On the other side, Tunisia looked dangerous on the counter, with Elyes Skhiri asking serious questions of the opposition defence. The scoreline of 5 to 1 highlights how closely contested the affair was.
 
 As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group F standings, making the upcoming fixtures even more critical for both nations.
 

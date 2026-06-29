@@ -1,6 +1,6 @@
 ---
 title: "England vs Panama 3-0 Match Report"
-subtitle: "The final whistle blew at MetLife Stadium with a 3-0 scoreline. England and Panama played out an absorbing contest that will shape the Group L standings."
+subtitle: "The final whistle blew at MetLife Stadium with a 2-0 scoreline. England and Panama played out an absorbing contest that will shape the Group L standings."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group L that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -14,7 +14,7 @@ On 2026-06-22, the footballing world turned its attention to MetLife Stadium in 
 
 Under the bright lights in New Jersey, England and Panama took to the pitch on 2026-06-22 for a highly anticipated Matchday 3 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 
-With both managers deploying disciplined defensive setups, space was at a premium. Jude Bellingham showed moments of brilliance for England, while Adalberto Carrasquilla was the creative heartbeat for Panama. In the end, a few decisive moments settled the score at 3-0, giving fans plenty to talk about.
+With both managers deploying disciplined defensive setups, space was at a premium. Jude Bellingham showed moments of brilliance for England, while Adalberto Carrasquilla was the creative heartbeat for Panama. In the end, a few decisive moments settled the score at 2-0, giving fans plenty to talk about.
 
 For the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.
 

@@ -1,5 +1,5 @@
 ---
-title: "France vs Iraq 3-0 Match Report"
+title: "France vs Iraq 4-1 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 3 encounter. Here is how France and Iraq fought out their group stage clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group I that leaves standing tables dramatically altered."

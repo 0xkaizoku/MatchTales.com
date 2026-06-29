@@ -1,6 +1,6 @@
 ---
 title: "Cape Verde vs Uruguay 1-1 Match Report"
-subtitle: "The final whistle blew at Lumen Field with a 1-1 scoreline. Cape Verde and Uruguay played out an absorbing contest that will shape the Group H standings."
+subtitle: "The final whistle blew at Lumen Field with a 2-2 scoreline. Cape Verde and Uruguay played out an absorbing contest that will shape the Group H standings."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group H that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1486286701208-1d58e9338013?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -14,7 +14,7 @@ On 2026-06-16, the footballing world turned its attention to Lumen Field in Seat
 
 The atmosphere at the Lumen Field in Seattle was electric as Cape Verde faced Uruguay in a Group H matchup on 2026-06-16. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
-The match was defined by intense tactical battles in midfield and clinical finishing. Cape Verde relied heavily on the technical qualities of Ryan Mendes to dictate the tempo. On the other side, Uruguay looked dangerous on the counter, with Federico Valverde asking serious questions of the opposition defence. The scoreline of 1 to 1 highlights how closely contested the affair was.
+The match was defined by intense tactical battles in midfield and clinical finishing. Cape Verde relied heavily on the technical qualities of Ryan Mendes to dictate the tempo. On the other side, Uruguay looked dangerous on the counter, with Federico Valverde asking serious questions of the opposition defence. The scoreline of 2 to 2 highlights how closely contested the affair was.
 
 As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group H standings, making the upcoming fixtures even more critical for both nations.
 

@@ -34,7 +34,7 @@ const groupMatches = matchEntries.map((e) => e.data).filter((m) => m.group === g
       </div>
       <div class="rounded-card border border-border/80 bg-surface2/50 p-5">
         <h2 class="font-head text-lg font-semibold mb-2">The state of play</h2>
-        <p class="text-sm font-sans text-muted leading-7">After Matchday 1, <strong class="text-fg">{standing[0].flag} {standing[0].name}</strong> lead the way{standing[0].Pts>0?` on ${standing[0].Pts} point${standing[0].Pts>1?'s':''}`:''}. The top two go through automatically, with the third-placed side chasing one of the eight best-third spots. Every goal counts.</p>
+        <p class="text-sm font-sans text-muted leading-7">After Matchday 1, <strong class="text-fg"><img src={getFlagUrl(standing[0].code)} alt={standing[0].name} class="w-5 h-3.5 inline-block align-middle mr-1" loading="lazy" />{standing[0].name}</strong> lead the way{standing[0].Pts>0?` on ${standing[0].Pts} point${standing[0].Pts>1?'s':''}`:''}. The top two go through automatically, with the third-placed side chasing one of the eight best-third spots. Every goal counts.</p>
       </div>
     </div>
 

@@ -2,7 +2,7 @@
 title: "The Greatest World Cup Upsets of All Time"
 subtitle: "When the underdogs bit back and the world stopped breathing"
 category: "History"
-excerpt: "From Saudi Arabia toppling Argentina to North Korea's 1966 miracle \u2014 when football's giants fell."
+excerpt: "From Ecuador toppling Germany in 2026 to Saudi Arabia's 2022 miracle - when football's giants fall, everything changes."
 image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 7
 pubDate: 2026-06-16
@@ -13,7 +13,7 @@ We say we love a giant-killing. We say it every tournament, every group stage dr
 
 That's the thing about a World Cup upset. It doesn't just surprise you. It rewires your understanding of what football is supposed to be. The script gets torn up in real time, and eighty thousand people in a stadium  -  plus however many millions watching at home  -  all have the same thought at once: *wait, can they actually do this?*
 
-They can. They have. And those moments live forever.
+They can. They have. And in 2026, they already have again.
 
 ## Pak Doo-ik and the Day England's Empire Crumbled
 
@@ -34,6 +34,18 @@ And then there's the one that genuinely felt like it broke physics. Argentina ve
 Saudi Arabia's offside trap, drilled to a razor's edge by Hervé Renard, had already disallowed three Argentine goals in the first half. The stadium was nervous but Argentina were in control. And then, eleven minutes into the second half, Saleh Al-Shehri equalised, and ninety seconds later Salem Al-Dawsari curled in one of the great World Cup goals  -  a shot of such audacity and precision that even the Argentine players seemed to stop and admire it for a split second.
 
 Final score: Saudi Arabia 2-1 Argentina. The country declared a national holiday the next day. Saudi players sobbed on the pitch. Messi stood and stared. The greatest footballer who ever lived had just been beaten by a team ranked 51st in the world, and the only appropriate response was silence.
+
+## Ecuador 2-1 Germany, Miami, June 2026
+
+And then there is the one still fresh in every football fan's memory. Germany arrived in Miami for their Group E finale having obliterated Ivory Coast 7-1. They needed only a draw. Ecuador, led by a team playing with the hunger of a generation that has spent years knocking on the door of elite football, had other ideas.
+
+Two goals. Two moments of South American brilliance that silenced the German machine completely. The final whistle confirmed the unthinkable: Ecuador topped Group E. Germany, the tournament's form team by goal difference, shuffled out as runners-up in a group they were supposed to win going away.
+
+## Senegal 5-0 Norway, Vancouver, June 2026
+
+If Ecuador's win was a shock, Senegal's annihilation of Norway was something else entirely. Erling Haaland was on the pitch. The whole world watched him absorb five Senegalese goals with the bewildered expression of a man who has arrived at the wrong address.
+
+Ismaila Sarr was unplayable. The Senegalese press was relentless, their combinations crisp, their hunger unmistakable. Norway - a team built around the world's best striker - were simply overwhelmed. Five-nil. The kind of scoreline that makes you re-read it twice.
 
 ## Why We Need Them
 

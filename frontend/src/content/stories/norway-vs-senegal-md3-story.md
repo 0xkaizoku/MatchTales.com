@@ -1,5 +1,5 @@
 ---
-title: "Norway vs Senegal 2-1 Match Report"
+title: "Norway vs Senegal 0-5 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 3 encounter. Here is how Norway and Senegal fought out their group stage clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group I that leaves standing tables dramatically altered."
@@ -14,7 +14,7 @@ On 2026-06-25, the footballing world turned its attention to BC Place in Vancouv
 
 Under the bright lights in Vancouver, Norway and Senegal took to the pitch on 2026-06-25 for a highly anticipated Matchday 3 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 
-With both managers deploying disciplined defensive setups, space was at a premium. Erling Haaland showed moments of brilliance for Norway, while Nicolas Jackson was the creative heartbeat for Senegal. In the end, a few decisive moments settled the score at 2-1, giving fans plenty to talk about.
+With both managers deploying disciplined defensive setups, space was at a premium. Erling Haaland showed moments of brilliance for Norway, while Nicolas Jackson was the creative heartbeat for Senegal. In the end, a few decisive moments settled the score at 3-2, giving fans plenty to talk about.
 
 For the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.
 

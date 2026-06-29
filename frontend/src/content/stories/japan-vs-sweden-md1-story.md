@@ -14,7 +14,7 @@ On 2026-06-16, the footballing world turned its attention to NRG Stadium in Hous
 
 The atmosphere at the NRG Stadium in Houston was electric as Japan faced Sweden in a Group F matchup on 2026-06-16. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
-The match was defined by intense tactical battles in midfield and clinical finishing. Japan relied heavily on the technical qualities of Takefusa Kubo to dictate the tempo. On the other side, Sweden looked dangerous on the counter, with Alexander Isak asking serious questions of the opposition defence. The scoreline of 2 to 1 highlights how closely contested the affair was.
+The match was defined by intense tactical battles in midfield and clinical finishing. Japan relied heavily on the technical qualities of Takefusa Kubo to dictate the tempo. On the other side, Sweden looked dangerous on the counter, with Alexander Isak asking serious questions of the opposition defence. The scoreline of 1 to 1 highlights how closely contested the affair was.
 
 As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group F standings, making the upcoming fixtures even more critical for both nations.
 

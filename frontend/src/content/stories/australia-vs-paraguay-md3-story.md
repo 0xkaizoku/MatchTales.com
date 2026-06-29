@@ -1,5 +1,5 @@
 ---
-title: "Australia vs Paraguay 1-2 Match Report"
+title: "Australia vs Paraguay 1-0 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 3 encounter. Here is how Australia and Paraguay fought out their group stage clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group D that leaves standing tables dramatically altered."
@@ -14,7 +14,7 @@ On 2026-06-23, the footballing world turned its attention to Gillette Stadium in
 
 The atmosphere at the Gillette Stadium in Boston was electric as Australia faced Paraguay in a Group D matchup on 2026-06-23. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
-The match was defined by intense tactical battles in midfield and clinical finishing. Australia relied heavily on the technical qualities of Cristian Volpato to dictate the tempo. On the other side, Paraguay looked dangerous on the counter, with Julio Enciso asking serious questions of the opposition defence. The scoreline of 1 to 2 highlights how closely contested the affair was.
+The match was defined by intense tactical battles in midfield and clinical finishing. Australia relied heavily on the technical qualities of Cristian Volpato to dictate the tempo. On the other side, Paraguay looked dangerous on the counter, with Julio Enciso asking serious questions of the opposition defence. The scoreline of 0 to 0 highlights how closely contested the affair was.
 
 As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group D standings, making the upcoming fixtures even more critical for both nations.
 

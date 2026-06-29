@@ -14,7 +14,7 @@ On 2026-06-25, the footballing world turned its attention to MetLife Stadium in 
 
 The atmosphere at the MetLife Stadium in New Jersey was electric as Argentina faced Jordan in a Group J matchup on 2026-06-25. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
-The match was defined by intense tactical battles in midfield and clinical finishing. Argentina relied heavily on the technical qualities of Lautaro Martínez to dictate the tempo. On the other side, Jordan looked dangerous on the counter, with Musa Al-Taamari asking serious questions of the opposition defence. The scoreline of 2 to 0 highlights how closely contested the affair was.
+The match was defined by intense tactical battles in midfield and clinical finishing. Argentina relied heavily on the technical qualities of Lautaro Martínez to dictate the tempo. On the other side, Jordan looked dangerous on the counter, with Musa Al-Taamari asking serious questions of the opposition defence. The scoreline of 3 to 1 highlights how closely contested the affair was.
 
 As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group J standings, making the upcoming fixtures even more critical for both nations.
 

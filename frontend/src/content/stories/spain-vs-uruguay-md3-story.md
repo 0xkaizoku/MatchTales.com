@@ -14,7 +14,7 @@ On 2026-06-25, the footballing world turned its attention to Arrowhead Stadium i
 
 Under the bright lights in Kansas City, Spain and Uruguay took to the pitch on 2026-06-25 for a highly anticipated Matchday 3 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 
-With both managers deploying disciplined defensive setups, space was at a premium. Lamine Yamal showed moments of brilliance for Spain, while Federico Valverde was the creative heartbeat for Uruguay. In the end, a few decisive moments settled the score at 2-1, giving fans plenty to talk about.
+With both managers deploying disciplined defensive setups, space was at a premium. Lamine Yamal showed moments of brilliance for Spain, while Federico Valverde was the creative heartbeat for Uruguay. In the end, a few decisive moments settled the score at 1-0, giving fans plenty to talk about.
 
 For the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.
 

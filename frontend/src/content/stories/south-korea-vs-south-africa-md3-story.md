@@ -1,5 +1,5 @@
 ---
-title: "South Korea vs South Africa 2-1 Match Report"
+title: "South Korea vs South Africa 0-2 Match Report"
 subtitle: "A thrilling match in Guadalajara concludes with South Korea and South Africa leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group A that leaves standing tables dramatically altered."
@@ -14,7 +14,7 @@ On 2026-06-22, the footballing world turned its attention to Estadio Akron in Gu
 
 Under the bright lights in Guadalajara, South Korea and South Africa took to the pitch on 2026-06-22 for a highly anticipated Matchday 3 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 
-With both managers deploying disciplined defensive setups, space was at a premium. Son Heung-min showed moments of brilliance for South Korea, while Lyle Foster was the creative heartbeat for South Africa. In the end, a few decisive moments settled the score at 2-1, giving fans plenty to talk about.
+With both managers deploying disciplined defensive setups, space was at a premium. Son Heung-min showed moments of brilliance for South Korea, while Lyle Foster was the creative heartbeat for South Africa. In the end, a few decisive moments settled the score at 0-1, giving fans plenty to talk about.
 
 For the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.
 

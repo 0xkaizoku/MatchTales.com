@@ -1,5 +1,5 @@
 ---
-title: "Ghana vs Panama 1-0 Match Report"
+title: "Ghana vs Panama 2-0 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Ghana and Panama fought out their group stage clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group L that leaves standing tables dramatically altered."

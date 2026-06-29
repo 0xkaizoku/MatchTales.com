@@ -1,10 +1,10 @@
 {
   "slug": "united-states-vs-australia-md2",
-  "headline": "Triumph for United States in Tense 2-1 Battle",
+  "headline": "Triumph for United States in Tense 2-0 Battle",
   "whyCareScore": 9.2,
   "whyCareReason": "A crucial group stage result in Group D that leaves standing tables dramatically altered.",
   "teaser": "A thrilling match in Atlanta concludes with United States and Australia leaving everything on the pitch. Read the full post-match analysis.",
-  "story": "Under the bright lights in Atlanta, United States and Australia took to the pitch on 2026-06-19 for a highly anticipated Matchday 2 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.\n\nWith both managers deploying disciplined defensive setups, space was at a premium. Christian Pulisic showed moments of brilliance for United States, while Cristian Volpato was the creative heartbeat for Australia. In the end, a few decisive moments settled the score at 2-1, giving fans plenty to talk about.\n\nFor the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.",
+  "story": "Under the bright lights in Atlanta, United States and Australia took to the pitch on 2026-06-19 for a highly anticipated Matchday 2 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.\n\nWith both managers deploying disciplined defensive setups, space was at a premium. Christian Pulisic showed moments of brilliance for United States, while Cristian Volpato was the creative heartbeat for Australia. In the end, a few decisive moments settled the score at 2-0, giving fans plenty to talk about.\n\nFor the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.",
   "stakes": "With Group D wide open, this matchday 2 encounter holds massive implications for both United States and Australia as they look to secure a place in the knockout rounds.",
   "rivalryAngle": "The footballing connection between United States and Australia adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
   "funFacts": [
@@ -44,7 +44,7 @@
   "city": "Atlanta",
   "status": "FINISHED",
   "homeScore": 2,
-  "awayScore": 1,
+  "awayScore": 0,
   "marquee": true,
   "liveMinute": null
 }

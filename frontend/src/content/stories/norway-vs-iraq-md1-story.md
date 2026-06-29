@@ -1,5 +1,5 @@
 ---
-title: "Norway vs Iraq 1-0 Match Report"
+title: "Norway vs Iraq 2-0 Match Report"
 subtitle: "A thrilling match in Vancouver concludes with Norway and Iraq leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group I that leaves standing tables dramatically altered."
@@ -14,7 +14,7 @@ On 2026-06-16, the footballing world turned its attention to BC Place in Vancouv
 
 The atmosphere at the BC Place in Vancouver was electric as Norway faced Iraq in a Group I matchup on 2026-06-16. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
-The match was defined by intense tactical battles in midfield and clinical finishing. Norway relied heavily on the technical qualities of Erling Haaland to dictate the tempo. On the other side, Iraq looked dangerous on the counter, with Aymen Hussein asking serious questions of the opposition defence. The scoreline of 1 to 0 highlights how closely contested the affair was.
+The match was defined by intense tactical battles in midfield and clinical finishing. Norway relied heavily on the technical qualities of Erling Haaland to dictate the tempo. On the other side, Iraq looked dangerous on the counter, with Aymen Hussein asking serious questions of the opposition defence. The scoreline of 4 to 1 highlights how closely contested the affair was.
 
 As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group I standings, making the upcoming fixtures even more critical for both nations.
 

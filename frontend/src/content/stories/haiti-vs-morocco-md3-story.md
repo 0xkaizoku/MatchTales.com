@@ -1,6 +1,6 @@
 ---
-title: "Haiti vs Morocco 0-1 Match Report"
-subtitle: "The final whistle blew at Lumen Field with a 0-1 scoreline. Haiti and Morocco played out an absorbing contest that will shape the Group C standings."
+title: "Haiti vs Morocco 0-3 Match Report"
+subtitle: "The final whistle blew at Lumen Field with a 2-4 scoreline. Haiti and Morocco played out an absorbing contest that will shape the Group C standings."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group C that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -14,7 +14,7 @@ On 2026-06-23, the footballing world turned its attention to Lumen Field in Seat
 
 Under the bright lights in Seattle, Haiti and Morocco took to the pitch on 2026-06-23 for a highly anticipated Matchday 3 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 
-With both managers deploying disciplined defensive setups, space was at a premium. Frantzdy Pierrot showed moments of brilliance for Haiti, while Achraf Hakimi was the creative heartbeat for Morocco. In the end, a few decisive moments settled the score at 0-1, giving fans plenty to talk about.
+With both managers deploying disciplined defensive setups, space was at a premium. Frantzdy Pierrot showed moments of brilliance for Haiti, while Achraf Hakimi was the creative heartbeat for Morocco. In the end, a few decisive moments settled the score at 2-4, giving fans plenty to talk about.
 
 For the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.
 

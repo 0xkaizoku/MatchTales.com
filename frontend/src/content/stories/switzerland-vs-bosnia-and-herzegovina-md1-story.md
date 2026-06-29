@@ -1,5 +1,5 @@
 ---
-title: "Switzerland vs Bosnia and Herzegovina 1-1 Match Report"
+title: "Switzerland vs Bosnia and Herzegovina 0-0 Match Report"
 subtitle: "A thrilling match in Vancouver concludes with Switzerland and Bosnia and Herzegovina leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group B that leaves standing tables dramatically altered."
@@ -14,7 +14,7 @@ On 2026-06-12, the footballing world turned its attention to BC Place in Vancouv
 
 The atmosphere at the BC Place in Vancouver was electric as Switzerland faced Bosnia and Herzegovina in a Group B matchup on 2026-06-12. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
-The match was defined by intense tactical battles in midfield and clinical finishing. Switzerland relied heavily on the technical qualities of Granit Xhaka to dictate the tempo. On the other side, Bosnia and Herzegovina looked dangerous on the counter, with Edin Džeko asking serious questions of the opposition defence. The scoreline of 1 to 1 highlights how closely contested the affair was.
+The match was defined by intense tactical battles in midfield and clinical finishing. Switzerland relied heavily on the technical qualities of Granit Xhaka to dictate the tempo. On the other side, Bosnia and Herzegovina looked dangerous on the counter, with Edin Džeko asking serious questions of the opposition defence. The scoreline of 4 to 1 highlights how closely contested the affair was.
 
 As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group B standings, making the upcoming fixtures even more critical for both nations.
 

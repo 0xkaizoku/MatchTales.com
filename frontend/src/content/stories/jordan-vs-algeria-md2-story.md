@@ -1,6 +1,6 @@
 ---
 title: "Jordan vs Algeria 1-1 Match Report"
-subtitle: "The final whistle blew at Gillette Stadium with a 1-1 scoreline. Jordan and Algeria played out an absorbing contest that will shape the Group J standings."
+subtitle: "The final whistle blew at Gillette Stadium with a 1-2 scoreline. Jordan and Algeria played out an absorbing contest that will shape the Group J standings."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group J that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -14,7 +14,7 @@ On 2026-06-21, the footballing world turned its attention to Gillette Stadium in
 
 Under the bright lights in Boston, Jordan and Algeria took to the pitch on 2026-06-21 for a highly anticipated Matchday 2 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 
-With both managers deploying disciplined defensive setups, space was at a premium. Musa Al-Taamari showed moments of brilliance for Jordan, while Riyad Mahrez was the creative heartbeat for Algeria. In the end, a few decisive moments settled the score at 1-1, giving fans plenty to talk about.
+With both managers deploying disciplined defensive setups, space was at a premium. Musa Al-Taamari showed moments of brilliance for Jordan, while Riyad Mahrez was the creative heartbeat for Algeria. In the end, a few decisive moments settled the score at 1-2, giving fans plenty to talk about.
 
 For the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.
 

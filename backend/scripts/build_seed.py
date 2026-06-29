@@ -115,9 +115,9 @@ team("Australia","AUS","🇦🇺","D","AFC",27,"Socceroos",0,"Round of 16 (2006,
      [["Cristian Volpato","Playmaker"],["Riley McGree","Midfield"],["Mat Ryan","Goalkeeper"]],
      "The Socceroos' 2022 run was powered by a viral, beer-soaked celebration video back home in Federation Square.",
      "Relentless, organised and impossible to dislike — the ultimate tournament grinders.")
-team("Turkey","TUR","🇹🇷","D","UEFA",22,"Ay-Yıldızlılar",0,"Third place (2002)","#E30A17",
+team("Turkiye","TUR","🇹🇷","D","UEFA",22,"Ay-Yıldızlılar",0,"Third place (2002)","#E30A17",
      [["Arda Güler","Playmaker"],["Kenan Yıldız","Winger"],["Hakan Çalhanoğlu","Midfield"]],
-     "Turkey's 2002 third-place run included the fastest goal in World Cup history — 10.8 seconds.",
+     "Turkiye's 2002 third-place run included the fastest goal in World Cup history — 10.8 seconds.",
      "A thrilling new generation led by two of Europe's brightest teenagers.")
 
 # Group E
@@ -356,7 +356,7 @@ F.append(fx("Canada","Qatar","B",1,"2026-06-12","19:00","BMO Field","Toronto","F
 F.append(fx("Brazil","Morocco","C",1,"2026-06-11","20:00","SoFi Stadium","Los Angeles","FINISHED",2,1,True))
 F.append(fx("Haiti","Scotland","C",1,"2026-06-13","16:00","Lumen Field","Seattle","FINISHED",0,1))
 F.append(fx("United States","Paraguay","D",1,"2026-06-13","21:00","Mercedes-Benz Stadium","Atlanta","FINISHED",3,0,True))
-F.append(fx("Australia","Turkey","D",1,"2026-06-14","16:00","Gillette Stadium","Boston","FINISHED",1,2))
+F.append(fx("Australia","Turkiye","D",1,"2026-06-14","16:00","Gillette Stadium","Boston","FINISHED",1,2))
 F.append(fx("Germany","Ivory Coast","E",1,"2026-06-14","19:00","Hard Rock Stadium","Miami","FINISHED",4,0))
 F.append(fx("Curaçao","Ecuador","E",1,"2026-06-14","13:00","Levi's Stadium","San Francisco","FINISHED",1,1,True))
 F.append(fx("England","Ghana","L",1,"2026-06-13","13:00","MetLife Stadium","New Jersey","FINISHED",2,1,True))
@@ -394,7 +394,7 @@ F.append(fx("Netherlands","Japan","F",2,"2026-06-21","21:00","Levi's Stadium","S
 F.append(fx("Switzerland","Canada","B",2,"2026-06-18","13:00","BC Place","Vancouver","FINISHED",2,1))
 F.append(fx("Qatar","Bosnia and Herzegovina","B",2,"2026-06-19","19:00","BMO Field","Toronto","FINISHED",2,0))
 F.append(fx("Scotland","Morocco","C",2,"2026-06-18","16:00","Lumen Field","Seattle","FINISHED",1,1))
-F.append(fx("Turkey","Paraguay","D",2,"2026-06-19","16:00","Gillette Stadium","Boston","FINISHED",2,2))
+F.append(fx("Turkiye","Paraguay","D",2,"2026-06-19","16:00","Gillette Stadium","Boston","FINISHED",2,2))
 F.append(fx("Ecuador","Ivory Coast","E",2,"2026-06-20","19:00","Levi's Stadium","San Francisco","FINISHED",3,1))
 F.append(fx("Sweden","Tunisia","F",2,"2026-06-20","16:00","NRG Stadium","Houston","FINISHED",1,1))
 F.append(fx("Iran","New Zealand","G",2,"2026-06-21","16:00","AT&T Stadium","Dallas","FINISHED",1,2))
@@ -409,7 +409,7 @@ F.append(fx("Canada","Bosnia and Herzegovina","B",3,"2026-06-22","16:00","BMO Fi
 F.append(fx("Switzerland","Qatar","B",3,"2026-06-22","19:00","BC Place","Vancouver","FINISHED",1,2,True))
 F.append(fx("Brazil","Scotland","C",3,"2026-06-23","20:00","SoFi Stadium","Los Angeles","FINISHED",1,1,True))
 F.append(fx("Haiti","Morocco","C",3,"2026-06-23","16:00","Lumen Field","Seattle","FINISHED",0,1,False))
-F.append(fx("United States","Turkey","D",3,"2026-06-23","21:00","Mercedes-Benz Stadium","Atlanta","FINISHED",2,1,True))
+F.append(fx("United States","Turkiye","D",3,"2026-06-23","21:00","Mercedes-Benz Stadium","Atlanta","FINISHED",2,1,True))
 F.append(fx("Australia","Paraguay","D",3,"2026-06-23","16:00","Gillette Stadium","Boston","FINISHED",1,2,False))
 F.append(fx("Germany","Ecuador","E",3,"2026-06-24","19:00","Hard Rock Stadium","Miami","FINISHED",3,1,True))
 F.append(fx("Curaçao","Ivory Coast","E",3,"2026-06-24","13:00","Levi's Stadium","San Francisco","FINISHED",2,0,False))

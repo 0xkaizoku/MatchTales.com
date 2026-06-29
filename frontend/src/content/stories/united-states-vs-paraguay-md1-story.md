@@ -1,5 +1,5 @@
 ---
-title: "United States vs Paraguay 3-0 Match Report"
+title: "United States vs Paraguay 4-1 Match Report"
 subtitle: "A thrilling match in Atlanta concludes with United States and Paraguay leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group D that leaves standing tables dramatically altered."
@@ -14,7 +14,7 @@ On 2026-06-13, the footballing world turned its attention to Mercedes-Benz Stadi
 
 The atmosphere at the Mercedes-Benz Stadium in Atlanta was electric as United States faced Paraguay in a Group D matchup on 2026-06-13. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
-The match was defined by intense tactical battles in midfield and clinical finishing. United States relied heavily on the technical qualities of Christian Pulisic to dictate the tempo. On the other side, Paraguay looked dangerous on the counter, with Julio Enciso asking serious questions of the opposition defence. The scoreline of 3 to 0 highlights how closely contested the affair was.
+The match was defined by intense tactical battles in midfield and clinical finishing. United States relied heavily on the technical qualities of Christian Pulisic to dictate the tempo. On the other side, Paraguay looked dangerous on the counter, with Julio Enciso asking serious questions of the opposition defence. The scoreline of 4 to 1 highlights how closely contested the affair was.
 
 As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group D standings, making the upcoming fixtures even more critical for both nations.
 

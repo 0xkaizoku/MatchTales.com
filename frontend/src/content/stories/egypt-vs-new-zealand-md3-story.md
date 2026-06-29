@@ -1,6 +1,6 @@
 ---
-title: "Egypt vs New Zealand 2-0 Match Report"
-subtitle: "Tactical discipline and clinical finishes defined this Matchday 3 encounter. Here is how Egypt and New Zealand fought out their group stage clash."
+title: "Egypt vs Iran 1-1 Match Report"
+subtitle: "Tactical discipline and clinical finishes defined this Matchday 3 encounter. Here is how Egypt and Iran fought out their group stage clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group G that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,19 +10,19 @@ pubDate: 2026-06-24
 
 ## The Showdown at AT&T Stadium
 
-On 2026-06-24, the footballing world turned its attention to AT&T Stadium in Dallas for an absorbing encounter between **Egypt** and **New Zealand** in Group G.
+On 2026-06-24, the footballing world turned its attention to AT&T Stadium in Dallas for an absorbing encounter between **Egypt** and **Iran** in Group G.
 
-The atmosphere at the AT&T Stadium in Dallas was electric as Egypt faced New Zealand in a Group G matchup on 2026-06-24. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
+The atmosphere at the AT&T Stadium in Dallas was electric as Egypt faced Iran in a Group G matchup on 2026-06-24. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
-The match was defined by intense tactical battles in midfield and clinical finishing. Egypt relied heavily on the technical qualities of Mohamed Salah to dictate the tempo. On the other side, New Zealand looked dangerous on the counter, with Chris Wood asking serious questions of the opposition defence. The scoreline of 2 to 0 highlights how closely contested the affair was.
+The match was defined by intense tactical battles in midfield and clinical finishing. Egypt relied heavily on the technical qualities of Mohamed Salah to dictate the tempo. On the other side, Iran looked dangerous on the counter, with Mehdi Taremi asking serious questions of the opposition defence. The scoreline of 1 to 1 highlights how closely contested the affair was.
 
 As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group G standings, making the upcoming fixtures even more critical for both nations.
 
 ## Stakes and Context
 
-With Group G wide open, this matchday 3 encounter holds massive implications for both Egypt and New Zealand as they look to secure a place in the knockout rounds.
+With Group G wide open, this matchday 3 encounter holds massive implications for both Egypt and Iran as they look to secure a place in the knockout rounds.
 
-The footballing connection between Egypt and New Zealand adds an extra layer of emotion to this fixture, making it a must-watch for fans.
+The footballing connection between Egypt and Iran adds an extra layer of emotion to this fixture, making it a must-watch for fans.
 
 ### Head-to-Head History
 
@@ -32,10 +32,10 @@ Historically, matches between these two nations have always been tightly contest
 
 The match was defined by individual battles and standout performances from:
 - **Mohamed Salah** (Egypt): The key playmaker leading the tactical setup for the The Pharaohs.
-- **Chris Wood** (New Zealand): The creative spark expected to make the difference for the All Whites.
+- **Mehdi Taremi** (Iran): The creative spark expected to make the difference for the Team Melli.
 
 ## Match Facts
 
 - Egypt are affectionately known as the The Pharaohs.
-- New Zealand are affectionately known as the All Whites.
+- Iran are affectionately known as the Team Melli.
 - This high-profile match was held at AT&T Stadium in Dallas on 2026-06-24.

@@ -1,5 +1,5 @@
 ---
-title: "Switzerland vs Canada 2-1 Match Report"
+title: "Switzerland vs Canada 4-1 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Switzerland and Canada fought out their group stage clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group B that leaves standing tables dramatically altered."

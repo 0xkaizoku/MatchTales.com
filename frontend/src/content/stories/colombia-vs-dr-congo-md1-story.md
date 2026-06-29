@@ -1,6 +1,6 @@
 ---
 title: "Colombia vs DR Congo 2-0 Match Report"
-subtitle: "The final whistle blew at Hard Rock Stadium with a 2-0 scoreline. Colombia and DR Congo played out an absorbing contest that will shape the Group K standings."
+subtitle: "The final whistle blew at Hard Rock Stadium with a 1-0 scoreline. Colombia and DR Congo played out an absorbing contest that will shape the Group K standings."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group K that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -14,7 +14,7 @@ On 2026-06-17, the footballing world turned its attention to Hard Rock Stadium i
 
 The atmosphere at the Hard Rock Stadium in Miami was electric as Colombia faced DR Congo in a Group K matchup on 2026-06-17. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
-The match was defined by intense tactical battles in midfield and clinical finishing. Colombia relied heavily on the technical qualities of James Rodríguez to dictate the tempo. On the other side, DR Congo looked dangerous on the counter, with Yoane Wissa asking serious questions of the opposition defence. The scoreline of 2 to 0 highlights how closely contested the affair was.
+The match was defined by intense tactical battles in midfield and clinical finishing. Colombia relied heavily on the technical qualities of James Rodríguez to dictate the tempo. On the other side, DR Congo looked dangerous on the counter, with Yoane Wissa asking serious questions of the opposition defence. The scoreline of 1 to 0 highlights how closely contested the affair was.
 
 As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group K standings, making the upcoming fixtures even more critical for both nations.
 

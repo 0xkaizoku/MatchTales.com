@@ -1,6 +1,6 @@
 ---
-title: "Brazil vs Morocco 2-1 Match Report"
-subtitle: "The final whistle blew at SoFi Stadium with a 2-1 scoreline. Brazil and Morocco played out an absorbing contest that will shape the Group C standings."
+title: "Brazil vs Morocco 1-1 Match Report"
+subtitle: "The final whistle blew at SoFi Stadium with a 1-1 scoreline. Brazil and Morocco played out an absorbing contest that will shape the Group C standings."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group C that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1551244072-5d12893278ab?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -14,7 +14,7 @@ On 2026-06-11, the footballing world turned its attention to SoFi Stadium in Los
 
 Under the bright lights in Los Angeles, Brazil and Morocco took to the pitch on 2026-06-11 for a highly anticipated Matchday 1 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 
-With both managers deploying disciplined defensive setups, space was at a premium. Vinícius Júnior showed moments of brilliance for Brazil, while Achraf Hakimi was the creative heartbeat for Morocco. In the end, a few decisive moments settled the score at 2-1, giving fans plenty to talk about.
+With both managers deploying disciplined defensive setups, space was at a premium. Vinícius Júnior showed moments of brilliance for Brazil, while Achraf Hakimi was the creative heartbeat for Morocco. In the end, a few decisive moments settled the score at 1-1, giving fans plenty to talk about.
 
 For the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.
 

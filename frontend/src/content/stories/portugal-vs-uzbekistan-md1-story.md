@@ -1,6 +1,6 @@
 ---
 title: "Portugal vs Uzbekistan 2-1 Match Report"
-subtitle: "The final whistle blew at Mercedes-Benz Stadium with a 2-1 scoreline. Portugal and Uzbekistan played out an absorbing contest that will shape the Group K standings."
+subtitle: "The final whistle blew at Mercedes-Benz Stadium with a 5-0 scoreline. Portugal and Uzbekistan played out an absorbing contest that will shape the Group K standings."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group K that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -14,7 +14,7 @@ On 2026-06-17, the footballing world turned its attention to Mercedes-Benz Stadi
 
 Under the bright lights in Atlanta, Portugal and Uzbekistan took to the pitch on 2026-06-17 for a highly anticipated Matchday 1 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 
-With both managers deploying disciplined defensive setups, space was at a premium. Cristiano Ronaldo showed moments of brilliance for Portugal, while Eldor Shomurodov was the creative heartbeat for Uzbekistan. In the end, a few decisive moments settled the score at 2-1, giving fans plenty to talk about.
+With both managers deploying disciplined defensive setups, space was at a premium. Cristiano Ronaldo showed moments of brilliance for Portugal, while Eldor Shomurodov was the creative heartbeat for Uzbekistan. In the end, a few decisive moments settled the score at 5-0, giving fans plenty to talk about.
 
 For the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes.
 

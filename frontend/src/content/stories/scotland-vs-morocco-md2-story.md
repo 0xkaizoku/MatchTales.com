@@ -14,7 +14,7 @@ On 2026-06-18, the footballing world turned its attention to Lumen Field in Seat
 
 The atmosphere at the Lumen Field in Seattle was electric as Scotland faced Morocco in a Group C matchup on 2026-06-18. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
-The match was defined by intense tactical battles in midfield and clinical finishing. Scotland relied heavily on the technical qualities of Andrew Robertson to dictate the tempo. On the other side, Morocco looked dangerous on the counter, with Achraf Hakimi asking serious questions of the opposition defence. The scoreline of 1 to 1 highlights how closely contested the affair was.
+The match was defined by intense tactical battles in midfield and clinical finishing. Scotland relied heavily on the technical qualities of Andrew Robertson to dictate the tempo. On the other side, Morocco looked dangerous on the counter, with Achraf Hakimi asking serious questions of the opposition defence. The scoreline of 0 to 1 highlights how closely contested the affair was.
 
 As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group C standings, making the upcoming fixtures even more critical for both nations.
 

@@ -1,5 +1,5 @@
 ---
-title: "Germany vs Ivory Coast 4-0 Match Report"
+title: "Germany vs Ivory Coast 7-1 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 1 encounter. Here is how Germany and Ivory Coast fought out their group stage clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group E that leaves standing tables dramatically altered."
@@ -14,7 +14,7 @@ On 2026-06-14, the footballing world turned its attention to Hard Rock Stadium i
 
 The atmosphere at the Hard Rock Stadium in Miami was electric as Germany faced Ivory Coast in a Group E matchup on 2026-06-14. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
-The match was defined by intense tactical battles in midfield and clinical finishing. Germany relied heavily on the technical qualities of Jamal Musiala to dictate the tempo. On the other side, Ivory Coast looked dangerous on the counter, with Simon Adingra asking serious questions of the opposition defence. The scoreline of 4 to 0 highlights how closely contested the affair was.
+The match was defined by intense tactical battles in midfield and clinical finishing. Germany relied heavily on the technical qualities of Jamal Musiala to dictate the tempo. On the other side, Ivory Coast looked dangerous on the counter, with Simon Adingra asking serious questions of the opposition defence. The scoreline of 2 to 1 highlights how closely contested the affair was.
 
 As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group E standings, making the upcoming fixtures even more critical for both nations.
 
