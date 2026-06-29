@@ -2,7 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 const entries = await getCollection('stories');
-const stories = entries.map((e) => ({ slug: e.id, ...e.data })).sort((a, b) => +b.pubDate - +a.pubDate);
+const stories = entries.map((e) => ({ slug: e.id, ...e.data })).sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
 const featured = stories[0];
 const rest = stories.slice(1);
 ---

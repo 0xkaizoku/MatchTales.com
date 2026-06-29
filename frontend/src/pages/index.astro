@@ -31,7 +31,7 @@ const dayAfterMatches = matches.filter((m) => m.date === dayAfterStr).sort((a, b
 const featured = todayMatches[0] || tomorrowMatches[0] || matches[0];
 
 const storyEntries = await getCollection('stories');
-const stories = storyEntries.map((e) => ({ slug: e.id, ...e.data })).sort((a, b) => +b.pubDate - +a.pubDate);
+const stories = storyEntries.map((e) => ({ slug: e.id, ...e.data })).sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
 
 const schema = {
   '@context': 'https://schema.org',
