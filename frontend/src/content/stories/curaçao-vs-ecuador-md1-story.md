@@ -1,5 +1,5 @@
 ---
-title: "Cura\u00e7ao vs Ecuador 0-1 Match Report"
+title: "Cura\u00e7ao vs Ecuador 0-0 Match Report"
 subtitle: "A thrilling match in San Francisco concludes with Cura\u00e7ao and Ecuador leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group E that leaves standing tables dramatically altered."
@@ -10,7 +10,7 @@ pubDate: 2026-06-14
 
 ## The Showdown at Levi's Stadium
 
-On 2026-06-14, the footballing world turned its attention to Levi's Stadium in San Francisco for an absorbing encounter between **Curaçao** and **Ecuador** in Group E.
+On 2026-06-14, the footballing world turned its attention to Levi's Stadium in San Francisco for an absorbing encounter between **Curaçao** and **Ecuador** in the Group E.
 
 Under the bright lights in San Francisco, Curaçao and Ecuador took to the pitch on 2026-06-14 for a highly anticipated Matchday 1 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

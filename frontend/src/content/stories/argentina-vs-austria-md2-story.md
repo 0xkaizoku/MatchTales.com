@@ -1,6 +1,6 @@
 ---
-title: "Argentina vs Austria 2-1 Match Report"
-subtitle: "The final whistle blew at MetLife Stadium with a 2-0 scoreline. Argentina and Austria played out an absorbing contest that will shape the Group J standings."
+title: "Argentina vs Austria 2-0 Match Report"
+subtitle: "The final whistle blew at MetLife Stadium with a 2-0 scoreline. Argentina and Austria played out an absorbing contest in this Group J fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group J that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1551244072-5d12893278ab?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,13 +10,13 @@ pubDate: 2026-06-21
 
 ## The Showdown at MetLife Stadium
 
-On 2026-06-21, the footballing world turned its attention to MetLife Stadium in New Jersey for an absorbing encounter between **Argentina** and **Austria** in Group J.
+On 2026-06-21, the footballing world turned its attention to MetLife Stadium in New Jersey for an absorbing encounter between **Argentina** and **Austria** in the Group J.
 
 The atmosphere at the MetLife Stadium in New Jersey was electric as Argentina faced Austria in a Group J matchup on 2026-06-21. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
 The match was defined by intense tactical battles in midfield and clinical finishing. Argentina relied heavily on the technical qualities of Lautaro Martínez to dictate the tempo. On the other side, Austria looked dangerous on the counter, with Marcel Sabitzer asking serious questions of the opposition defence. The scoreline of 2 to 0 highlights how closely contested the affair was.
 
-As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group J standings, making the upcoming fixtures even more critical for both nations.
+As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for the Group J standings, making the upcoming fixtures even more critical for both nations.
 
 ## Stakes and Context
 

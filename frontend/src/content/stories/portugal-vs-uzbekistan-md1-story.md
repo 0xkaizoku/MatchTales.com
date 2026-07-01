@@ -1,6 +1,6 @@
 ---
-title: "Portugal vs Uzbekistan 2-1 Match Report"
-subtitle: "The final whistle blew at Mercedes-Benz Stadium with a 5-0 scoreline. Portugal and Uzbekistan played out an absorbing contest that will shape the Group K standings."
+title: "Portugal vs Uzbekistan 5-0 Match Report"
+subtitle: "The final whistle blew at Mercedes-Benz Stadium with a 5-0 scoreline. Portugal and Uzbekistan played out an absorbing contest in this Group K fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group K that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,7 +10,7 @@ pubDate: 2026-06-17
 
 ## The Showdown at Mercedes-Benz Stadium
 
-On 2026-06-17, the footballing world turned its attention to Mercedes-Benz Stadium in Atlanta for an absorbing encounter between **Portugal** and **Uzbekistan** in Group K.
+On 2026-06-17, the footballing world turned its attention to Mercedes-Benz Stadium in Atlanta for an absorbing encounter between **Portugal** and **Uzbekistan** in the Group K.
 
 Under the bright lights in Atlanta, Portugal and Uzbekistan took to the pitch on 2026-06-17 for a highly anticipated Matchday 1 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

@@ -1,0 +1,50 @@
+{
+  "slug": "canada-vs-south-africa-md4",
+  "headline": "Canada Outclass South Africa in 1-0 Round of 32 Victory",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup.",
+  "teaser": "Tactical discipline and clinical finishes defined this knockout encounter. Here is how Canada and South Africa fought out their clash.",
+  "story": "The atmosphere at the BMO Field in Toronto was electric as Canada faced South Africa in a Round of 32 matchup on 2026-06-28. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.\n\nThe match was defined by intense tactical battles in midfield and clinical finishing. Canada relied heavily on the technical qualities of Alphonso Davies to dictate the tempo. On the other side, South Africa looked dangerous on the counter, with Lyle Foster asking serious questions of the opposition defence. The scoreline of 1 to 0 highlights how closely contested the affair was.\n\nAs the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for the tournament bracket, making the upcoming fixtures even more critical for both nations.",
+  "stakes": "In the Round of 32, there is no room for error. A single loss means the end of the World Cup dream for either Canada or South Africa.",
+  "rivalryAngle": "The footballing connection between Canada and South Africa adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Canada are affectionately known as the Les Rouges.",
+    "South Africa are affectionately known as the Bafana Bafana.",
+    "This high-profile match was held at BMO Field in Toronto on 2026-06-28."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Alphonso Davies",
+      "team": "Canada",
+      "hook": "The key playmaker leading the tactical setup for the Les Rouges."
+    },
+    {
+      "name": "Lyle Foster",
+      "team": "South Africa",
+      "hook": "The creative spark expected to make the difference for the Bafana Bafana."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "canada",
+    "south-africa",
+    "group-r32"
+  ],
+  "home": "Canada",
+  "away": "South Africa",
+  "homeCode": "CAN",
+  "awayCode": "RSA",
+  "homeFlag": "🇨🇦",
+  "awayFlag": "🇿🇦",
+  "group": "R32",
+  "matchday": 4,
+  "date": "2026-06-28",
+  "time": "16:00",
+  "venue": "BMO Field",
+  "city": "Toronto",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 0,
+  "marquee": true,
+  "liveMinute": null
+}

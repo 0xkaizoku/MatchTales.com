@@ -1,5 +1,5 @@
 ---
-title: "South Korea vs South Africa 0-2 Match Report"
+title: "South Korea vs South Africa 0-1 Match Report"
 subtitle: "A thrilling match in Guadalajara concludes with South Korea and South Africa leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group A that leaves standing tables dramatically altered."
@@ -10,7 +10,7 @@ pubDate: 2026-06-22
 
 ## The Showdown at Estadio Akron
 
-On 2026-06-22, the footballing world turned its attention to Estadio Akron in Guadalajara for an absorbing encounter between **South Korea** and **South Africa** in Group A.
+On 2026-06-22, the footballing world turned its attention to Estadio Akron in Guadalajara for an absorbing encounter between **South Korea** and **South Africa** in the Group A.
 
 Under the bright lights in Guadalajara, South Korea and South Africa took to the pitch on 2026-06-22 for a highly anticipated Matchday 3 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

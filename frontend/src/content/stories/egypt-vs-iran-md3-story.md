@@ -1,22 +1,22 @@
 ---
 title: "Egypt vs Iran 1-1 Match Report"
-subtitle: "Tactical discipline and clinical finishes defined this Matchday 3 encounter. Here is how Egypt and Iran fought out their group stage clash."
+subtitle: "A thrilling match in Dallas concludes with Egypt and Iran leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group G that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 4
 pubDate: 2026-06-24
 ---
 
 ## The Showdown at AT&T Stadium
 
-On 2026-06-24, the footballing world turned its attention to AT&T Stadium in Dallas for an absorbing encounter between **Egypt** and **Iran** in Group G.
+On 2026-06-24, the footballing world turned its attention to AT&T Stadium in Dallas for an absorbing encounter between **Egypt** and **Iran** in the Group G.
 
 The atmosphere at the AT&T Stadium in Dallas was electric as Egypt faced Iran in a Group G matchup on 2026-06-24. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
 The match was defined by intense tactical battles in midfield and clinical finishing. Egypt relied heavily on the technical qualities of Mohamed Salah to dictate the tempo. On the other side, Iran looked dangerous on the counter, with Mehdi Taremi asking serious questions of the opposition defence. The scoreline of 1 to 1 highlights how closely contested the affair was.
 
-As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group G standings, making the upcoming fixtures even more critical for both nations.
+As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for the Group G standings, making the upcoming fixtures even more critical for both nations.
 
 ## Stakes and Context
 

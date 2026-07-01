@@ -1,0 +1,50 @@
+{
+  "slug": "colombia-vs-ghana-md4",
+  "headline": "Anticipation Builds for Colombia vs Ghana Round of 32 Clash",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A blockbuster Round of 32 fixture in Houston with a place in the next round on the line.",
+  "teaser": "The stage is set in Houston for a massive clash between Colombia and Ghana. Both nations are hungry for three points to boost their knockout dreams.",
+  "story": "Anticipation is building ahead of the knockout fixture between Colombia and Ghana at the NRG Stadium in Houston. Both teams are finalized their preparations for this critical Round of 32 showdown.\n\nTactical matchups across the pitch will define the contest. Colombia will rely on their talisman James Rodríguez to unlock the opposition's defensive block, while Ghana will look to their key playmaker Mohammed Kudus to establish control in the midfield. Both managers have kept their cards close to their chest in the pre-match press conferences.\n\nWith only single-elimination matches in the knockout phase, there is no margin for error.",
+  "stakes": "In the Round of 32, there is no room for error. A single loss means the end of the World Cup dream for either Colombia or Ghana.",
+  "rivalryAngle": "The footballing connection between Colombia and Ghana adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Colombia are affectionately known as the Los Cafeteros.",
+    "Ghana are affectionately known as the Black Stars.",
+    "This high-profile match was held at NRG Stadium in Houston on 2026-07-04."
+  ],
+  "keyPlayers": [
+    {
+      "name": "James Rodríguez",
+      "team": "Colombia",
+      "hook": "The key playmaker leading the tactical setup for the Los Cafeteros."
+    },
+    {
+      "name": "Mohammed Kudus",
+      "team": "Ghana",
+      "hook": "The creative spark expected to make the difference for the Black Stars."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "colombia",
+    "ghana",
+    "group-r32"
+  ],
+  "home": "Colombia",
+  "away": "Ghana",
+  "homeCode": "COL",
+  "awayCode": "GHA",
+  "homeFlag": "🇨🇴",
+  "awayFlag": "🇬🇭",
+  "group": "R32",
+  "matchday": 4,
+  "date": "2026-07-04",
+  "time": "19:00",
+  "venue": "NRG Stadium",
+  "city": "Houston",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null
+}

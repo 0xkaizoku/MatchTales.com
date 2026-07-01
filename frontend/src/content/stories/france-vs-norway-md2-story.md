@@ -1,5 +1,5 @@
 ---
-title: "France vs Norway 1-1 Match Report"
+title: "France vs Norway 4-1 Match Report"
 subtitle: "A thrilling match in Los Angeles concludes with France and Norway leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group I that leaves standing tables dramatically altered."
@@ -10,7 +10,7 @@ pubDate: 2026-06-21
 
 ## The Showdown at SoFi Stadium
 
-On 2026-06-21, the footballing world turned its attention to SoFi Stadium in Los Angeles for an absorbing encounter between **France** and **Norway** in Group I.
+On 2026-06-21, the footballing world turned its attention to SoFi Stadium in Los Angeles for an absorbing encounter between **France** and **Norway** in the Group I.
 
 Under the bright lights in Los Angeles, France and Norway took to the pitch on 2026-06-21 for a highly anticipated Matchday 2 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

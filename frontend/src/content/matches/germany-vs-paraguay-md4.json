@@ -1,0 +1,50 @@
+{
+  "slug": "germany-vs-paraguay-md4",
+  "headline": "Deadlock Unbroken as Germany Draws Paraguay 1-1",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup.",
+  "teaser": "A thrilling match in Miami concludes with Germany and Paraguay leaving everything on the pitch. Read the full post-match analysis.",
+  "story": "Under the bright lights in Miami, Germany and Paraguay took to the pitch on 2026-06-29 for a highly anticipated knockout fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.\n\nWith both managers deploying disciplined defensive setups, space was at a premium. Jamal Musiala showed moments of brilliance for Germany, while Julio Enciso was the creative heartbeat for Paraguay. In the end, a few decisive moments settled the score at 1-1, giving fans plenty to talk about.\n\nFor the victors, this result represents a massive step toward their World Cup dreams. For the defeated, it is a heartbreaking end to their campaign.",
+  "stakes": "In the Round of 32, there is no room for error. A single loss means the end of the World Cup dream for either Germany or Paraguay.",
+  "rivalryAngle": "The footballing connection between Germany and Paraguay adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Germany are affectionately known as the Die Mannschaft.",
+    "Paraguay are affectionately known as the La Albirroja.",
+    "This high-profile match was held at Hard Rock Stadium in Miami on 2026-06-29."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Jamal Musiala",
+      "team": "Germany",
+      "hook": "The key playmaker leading the tactical setup for the Die Mannschaft."
+    },
+    {
+      "name": "Julio Enciso",
+      "team": "Paraguay",
+      "hook": "The creative spark expected to make the difference for the La Albirroja."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "germany",
+    "paraguay",
+    "group-r32"
+  ],
+  "home": "Germany",
+  "away": "Paraguay",
+  "homeCode": "GER",
+  "awayCode": "PAR",
+  "homeFlag": "🇩🇪",
+  "awayFlag": "🇵🇾",
+  "group": "R32",
+  "matchday": 4,
+  "date": "2026-06-29",
+  "time": "19:00",
+  "venue": "Hard Rock Stadium",
+  "city": "Miami",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 1,
+  "marquee": true,
+  "liveMinute": null
+}

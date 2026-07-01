@@ -1,0 +1,50 @@
+{
+  "slug": "australia-vs-egypt-md4",
+  "headline": "Australia and Egypt Set for Epic Round of 32 Showdown",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A blockbuster Round of 32 fixture in San Francisco with a place in the next round on the line.",
+  "teaser": "The stage is set in San Francisco for a massive clash between Australia and Egypt. Both nations are hungry for three points to boost their knockout dreams.",
+  "story": "Football fans around the world are looking forward to 2026-07-03, when Australia and Egypt will go head-to-head in San Francisco. The match promises to be a showcase of tactical discipline and individual skill.\n\nThe clash of styles makes this game particularly intriguing. The structural discipline of Australia will be tested by the fluid attacking movements of Egypt, with Cristian Volpato and Mohamed Salah expected to play central roles in their respective strategies.\n\nThe fans are already gathering in San Francisco, creating a wonderful festival atmosphere. Regardless of the outcome, this promises to be a classic chapter in their footballing history.",
+  "stakes": "In the Round of 32, there is no room for error. A single loss means the end of the World Cup dream for either Australia or Egypt.",
+  "rivalryAngle": "The footballing connection between Australia and Egypt adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Australia are affectionately known as the Socceroos.",
+    "Egypt are affectionately known as the The Pharaohs.",
+    "This high-profile match was held at Levi's Stadium in San Francisco on 2026-07-03."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Cristian Volpato",
+      "team": "Australia",
+      "hook": "The key playmaker leading the tactical setup for the Socceroos."
+    },
+    {
+      "name": "Mohamed Salah",
+      "team": "Egypt",
+      "hook": "The creative spark expected to make the difference for the The Pharaohs."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "australia",
+    "egypt",
+    "group-r32"
+  ],
+  "home": "Australia",
+  "away": "Egypt",
+  "homeCode": "AUS",
+  "awayCode": "EGY",
+  "homeFlag": "🇦🇺",
+  "awayFlag": "🇪🇬",
+  "group": "R32",
+  "matchday": 4,
+  "date": "2026-07-03",
+  "time": "16:00",
+  "venue": "Levi's Stadium",
+  "city": "San Francisco",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null
+}

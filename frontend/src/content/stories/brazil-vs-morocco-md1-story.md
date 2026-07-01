@@ -1,6 +1,6 @@
 ---
 title: "Brazil vs Morocco 1-1 Match Report"
-subtitle: "The final whistle blew at SoFi Stadium with a 1-1 scoreline. Brazil and Morocco played out an absorbing contest that will shape the Group C standings."
+subtitle: "The final whistle blew at SoFi Stadium with a 1-1 scoreline. Brazil and Morocco played out an absorbing contest in this Group C fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group C that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1551244072-5d12893278ab?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,7 +10,7 @@ pubDate: 2026-06-11
 
 ## The Showdown at SoFi Stadium
 
-On 2026-06-11, the footballing world turned its attention to SoFi Stadium in Los Angeles for an absorbing encounter between **Brazil** and **Morocco** in Group C.
+On 2026-06-11, the footballing world turned its attention to SoFi Stadium in Los Angeles for an absorbing encounter between **Brazil** and **Morocco** in the Group C.
 
 Under the bright lights in Los Angeles, Brazil and Morocco took to the pitch on 2026-06-11 for a highly anticipated Matchday 1 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

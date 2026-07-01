@@ -1,0 +1,50 @@
+{
+  "slug": "argentina-vs-cape-verde-md4",
+  "headline": "High Stakes in New Jersey as Argentina Meets Cape Verde in the Round of 32",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A blockbuster Round of 32 fixture in New Jersey with a place in the next round on the line.",
+  "teaser": "A fascinating encounter awaits at MetLife Stadium on Matchday 4. Can Argentina overcome the tactical setup of Cape Verde to secure a crucial win?",
+  "story": "Anticipation is building ahead of the knockout fixture between Argentina and Cape Verde at the MetLife Stadium in New Jersey. Both teams are finalized their preparations for this critical Round of 32 showdown.\n\nTactical matchups across the pitch will define the contest. Argentina will rely on their talisman Lautaro Martínez to unlock the opposition's defensive block, while Cape Verde will look to their key playmaker Ryan Mendes to establish control in the midfield. Both managers have kept their cards close to their chest in the pre-match press conferences.\n\nWith only single-elimination matches in the knockout phase, there is no margin for error.",
+  "stakes": "In the Round of 32, there is no room for error. A single loss means the end of the World Cup dream for either Argentina or Cape Verde.",
+  "rivalryAngle": "The footballing connection between Argentina and Cape Verde adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Argentina are affectionately known as the La Albiceleste.",
+    "Cape Verde are affectionately known as the Blue Sharks.",
+    "This high-profile match was held at MetLife Stadium in New Jersey on 2026-07-03."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Lautaro Martínez",
+      "team": "Argentina",
+      "hook": "The key playmaker leading the tactical setup for the La Albiceleste."
+    },
+    {
+      "name": "Ryan Mendes",
+      "team": "Cape Verde",
+      "hook": "The creative spark expected to make the difference for the Blue Sharks."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "argentina",
+    "cape-verde",
+    "group-r32"
+  ],
+  "home": "Argentina",
+  "away": "Cape Verde",
+  "homeCode": "ARG",
+  "awayCode": "CPV",
+  "homeFlag": "🇦🇷",
+  "awayFlag": "🇨🇻",
+  "group": "R32",
+  "matchday": 4,
+  "date": "2026-07-03",
+  "time": "19:00",
+  "venue": "MetLife Stadium",
+  "city": "New Jersey",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null
+}

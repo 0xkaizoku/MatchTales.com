@@ -1,5 +1,5 @@
 ---
-title: "United States vs Australia 2-1 Match Report"
+title: "United States vs Australia 2-0 Match Report"
 subtitle: "A thrilling match in Atlanta concludes with United States and Australia leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group D that leaves standing tables dramatically altered."
@@ -10,7 +10,7 @@ pubDate: 2026-06-19
 
 ## The Showdown at Mercedes-Benz Stadium
 
-On 2026-06-19, the footballing world turned its attention to Mercedes-Benz Stadium in Atlanta for an absorbing encounter between **United States** and **Australia** in Group D.
+On 2026-06-19, the footballing world turned its attention to Mercedes-Benz Stadium in Atlanta for an absorbing encounter between **United States** and **Australia** in the Group D.
 
 Under the bright lights in Atlanta, United States and Australia took to the pitch on 2026-06-19 for a highly anticipated Matchday 2 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

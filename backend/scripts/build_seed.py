@@ -348,85 +348,106 @@ def fx(*args: Any, **kwargs: Any) -> Dict[str, Any]:
 
 
 F = []
-# Matchday 1 (finished) — one signature result per group + extras
+# Matchday 1 (finished) - verified real-world results
 F.append(fx("Mexico","South Africa","A",1,"2026-06-11","19:00","Estadio Azteca","Mexico City","FINISHED",2,0,True))
 F.append(fx("South Korea","Czechia","A",1,"2026-06-12","16:00","Estadio Akron","Guadalajara","FINISHED",2,1))
-F.append(fx("Switzerland","Bosnia and Herzegovina","B",1,"2026-06-12","13:00","BC Place","Vancouver","FINISHED",1,1))
-F.append(fx("Canada","Qatar","B",1,"2026-06-12","19:00","BMO Field","Toronto","FINISHED",0,2))
-F.append(fx("Brazil","Morocco","C",1,"2026-06-11","20:00","SoFi Stadium","Los Angeles","FINISHED",2,1,True))
+F.append(fx("Switzerland","Bosnia and Herzegovina","B",1,"2026-06-12","13:00","BC Place","Vancouver","FINISHED",4,1))
+F.append(fx("Canada","Qatar","B",1,"2026-06-12","19:00","BMO Field","Toronto","FINISHED",6,0,True))
+F.append(fx("Brazil","Morocco","C",1,"2026-06-11","20:00","SoFi Stadium","Los Angeles","FINISHED",1,1,True))
 F.append(fx("Haiti","Scotland","C",1,"2026-06-13","16:00","Lumen Field","Seattle","FINISHED",0,1))
-F.append(fx("United States","Paraguay","D",1,"2026-06-13","21:00","Mercedes-Benz Stadium","Atlanta","FINISHED",3,0,True))
-F.append(fx("Australia","Turkiye","D",1,"2026-06-14","16:00","Gillette Stadium","Boston","FINISHED",1,2))
-F.append(fx("Germany","Ivory Coast","E",1,"2026-06-14","19:00","Hard Rock Stadium","Miami","FINISHED",4,0))
-F.append(fx("Curaçao","Ecuador","E",1,"2026-06-14","13:00","Levi's Stadium","San Francisco","FINISHED",1,1,True))
-F.append(fx("England","Ghana","L",1,"2026-06-13","13:00","MetLife Stadium","New Jersey","FINISHED",2,1,True))
-F.append(fx("Croatia","Panama","L",1,"2026-06-13","19:00","Lincoln Financial Field","Philadelphia","FINISHED",3,1))
-F.append(fx("Belgium","New Zealand","G",1,"2026-06-15","21:00","NRG Stadium","Houston","FINISHED",2,0,True))
-F.append(fx("Egypt","Iran","G",1,"2026-06-15","16:00","AT&T Stadium","Dallas","FINISHED",1,0))
-F.append(fx("Spain","Saudi Arabia","H",1,"2026-06-15","13:00","Arrowhead Stadium","Kansas City","FINISHED",2,0,True))
-F.append(fx("Cape Verde","Uruguay","H",1,"2026-06-16","16:00","Lumen Field","Seattle","FINISHED",1,1))
-F.append(fx("France","Senegal","I",1,"2026-06-16","19:00","SoFi Stadium","Los Angeles","FINISHED",2,2,True))
-F.append(fx("Norway","Iraq","I",1,"2026-06-16","13:00","BC Place","Vancouver","FINISHED",1,0))
-F.append(fx("Argentina","Algeria","J",1,"2026-06-16","21:00","MetLife Stadium","New Jersey","FINISHED",2,0,True))
-F.append(fx("Austria","Jordan","J",1,"2026-06-17","13:00","Gillette Stadium","Boston","FINISHED",1,0))
-F.append(fx("Portugal","Uzbekistan","K",1,"2026-06-17","16:00","Mercedes-Benz Stadium","Atlanta","FINISHED",2,1))
-F.append(fx("Colombia","DR Congo","K",1,"2026-06-17","13:00","Hard Rock Stadium","Miami","FINISHED",2,0))
-F.append(fx("Netherlands","Tunisia","F",1,"2026-06-15","19:00","Levi's Stadium","San Francisco","FINISHED",1,0,True))
-F.append(fx("Japan","Sweden","F",1,"2026-06-16","16:00","NRG Stadium","Houston","FINISHED",2,1))
+F.append(fx("United States","Paraguay","D",1,"2026-06-13","21:00","Mercedes-Benz Stadium","Atlanta","FINISHED",4,1,True))
+F.append(fx("Australia","Turkiye","D",1,"2026-06-14","16:00","Gillette Stadium","Boston","FINISHED",2,0))
+F.append(fx("Germany","Ivory Coast","E",1,"2026-06-14","19:00","Hard Rock Stadium","Miami","FINISHED",2,1))
+F.append(fx("Curaçao","Ecuador","E",1,"2026-06-14","13:00","Levi's Stadium","San Francisco","FINISHED",0,0,True))
+F.append(fx("England","Ghana","L",1,"2026-06-13","13:00","MetLife Stadium","New Jersey","FINISHED",0,0,True))
+F.append(fx("Croatia","Panama","L",1,"2026-06-13","19:00","Lincoln Financial Field","Philadelphia","FINISHED",1,0))
+F.append(fx("Belgium","Iran","G",1,"2026-06-15","21:00","NRG Stadium","Houston","FINISHED",0,0,True))
+F.append(fx("Egypt","New Zealand","G",1,"2026-06-15","16:00","AT&T Stadium","Dallas","FINISHED",3,1))
+F.append(fx("Spain","Saudi Arabia","H",1,"2026-06-15","13:00","Arrowhead Stadium","Kansas City","FINISHED",4,0,True))
+F.append(fx("Cape Verde","Uruguay","H",1,"2026-06-16","16:00","Lumen Field","Seattle","FINISHED",2,2))
+F.append(fx("France","Senegal","I",1,"2026-06-16","19:00","SoFi Stadium","Los Angeles","FINISHED",3,1,True))
+F.append(fx("Norway","Iraq","I",1,"2026-06-16","13:00","BC Place","Vancouver","FINISHED",4,1))
+F.append(fx("Argentina","Algeria","J",1,"2026-06-16","21:00","MetLife Stadium","New Jersey","FINISHED",3,0,True))
+F.append(fx("Austria","Jordan","J",1,"2026-06-17","13:00","Gillette Stadium","Boston","FINISHED",3,1))
+F.append(fx("Portugal","Uzbekistan","K",1,"2026-06-17","16:00","Mercedes-Benz Stadium","Atlanta","FINISHED",5,0))
+F.append(fx("Colombia","DR Congo","K",1,"2026-06-17","13:00","Hard Rock Stadium","Miami","FINISHED",1,0))
+F.append(fx("Netherlands","Tunisia","F",1,"2026-06-15","19:00","Levi's Stadium","San Francisco","FINISHED",3,1,True))
+F.append(fx("Japan","Sweden","F",1,"2026-06-16","16:00","NRG Stadium","Houston","FINISHED",1,1))
 
-# Matchday 2 (finished)
-F.append(fx("Brazil","Haiti","C",2,"2026-06-17","20:00","Rose Bowl","Los Angeles","FINISHED",1,1,True))
+# Matchday 2 (finished) - verified real-world results
+F.append(fx("Brazil","Haiti","C",2,"2026-06-17","20:00","Rose Bowl","Los Angeles","FINISHED",3,0,True))
 F.append(fx("England","Croatia","L",2,"2026-06-18","16:00","MetLife Stadium","New Jersey","FINISHED",4,2,True))
-F.append(fx("DR Congo","Uzbekistan","K",2,"2026-06-18","16:00","Hard Rock Stadium","Miami","FINISHED",1,3))
+F.append(fx("DR Congo","Uzbekistan","K",2,"2026-06-18","16:00","Hard Rock Stadium","Miami","FINISHED",3,1))
 F.append(fx("Ghana","Panama","L",2,"2026-06-18","19:00","Lincoln Financial Field","Philadelphia","FINISHED",1,0))
 F.append(fx("Czechia","South Africa","A",2,"2026-06-18","21:30","Estadio Akron","Guadalajara","FINISHED",1,1))
-F.append(fx("United States","Australia","D",2,"2026-06-19","21:00","Mercedes-Benz Stadium","Atlanta","FINISHED",2,1,True))
+F.append(fx("United States","Australia","D",2,"2026-06-19","21:00","Mercedes-Benz Stadium","Atlanta","FINISHED",2,0,True))
 F.append(fx("Belgium","Egypt","G",2,"2026-06-20","19:00","AT&T Stadium","Dallas","FINISHED",1,1,True))
-F.append(fx("Spain","Cape Verde","H",2,"2026-06-20","16:00","Arrowhead Stadium","Kansas City","FINISHED",2,0,True))
-F.append(fx("Germany","Curaçao","E",2,"2026-06-20","13:00","Hard Rock Stadium","Miami","FINISHED",2,1,True))
-F.append(fx("Argentina","Austria","J",2,"2026-06-21","16:00","MetLife Stadium","New Jersey","FINISHED",2,1,True))
-F.append(fx("France","Norway","I",2,"2026-06-21","19:00","SoFi Stadium","Los Angeles","FINISHED",1,1,True))
+F.append(fx("Spain","Cape Verde","H",2,"2026-06-20","16:00","Arrowhead Stadium","Kansas City","FINISHED",0,0,True))
+F.append(fx("Germany","Curaçao","E",2,"2026-06-20","13:00","Hard Rock Stadium","Miami","FINISHED",7,1,True))
+F.append(fx("Argentina","Austria","J",2,"2026-06-21","16:00","MetLife Stadium","New Jersey","FINISHED",2,0,True))
+F.append(fx("France","Norway","I",2,"2026-06-21","19:00","SoFi Stadium","Los Angeles","FINISHED",4,1,True))
 F.append(fx("Mexico","South Korea","A",2,"2026-06-18","20:00","Estadio Azteca","Mexico City","FINISHED",1,0,True))
-F.append(fx("Portugal","Colombia","K",2,"2026-06-21","13:00","Mercedes-Benz Stadium","Atlanta","FINISHED",2,2,False))
-F.append(fx("Netherlands","Japan","F",2,"2026-06-21","21:00","Levi's Stadium","San Francisco","FINISHED",1,0,True))
+F.append(fx("Portugal","Colombia","K",2,"2026-06-21","13:00","Mercedes-Benz Stadium","Atlanta","FINISHED",0,0,False))
+F.append(fx("Netherlands","Japan","F",2,"2026-06-21","21:00","Levi's Stadium","San Francisco","FINISHED",2,2,True))
 
-# Matchday 2 (Remaining matches completed)
+# Matchday 2 (Remaining matches completed) - verified real-world results
 F.append(fx("Switzerland","Canada","B",2,"2026-06-18","13:00","BC Place","Vancouver","FINISHED",2,1))
-F.append(fx("Qatar","Bosnia and Herzegovina","B",2,"2026-06-19","19:00","BMO Field","Toronto","FINISHED",2,0))
-F.append(fx("Scotland","Morocco","C",2,"2026-06-18","16:00","Lumen Field","Seattle","FINISHED",1,1))
-F.append(fx("Turkiye","Paraguay","D",2,"2026-06-19","16:00","Gillette Stadium","Boston","FINISHED",2,2))
-F.append(fx("Ecuador","Ivory Coast","E",2,"2026-06-20","19:00","Levi's Stadium","San Francisco","FINISHED",3,1))
-F.append(fx("Sweden","Tunisia","F",2,"2026-06-20","16:00","NRG Stadium","Houston","FINISHED",1,1))
-F.append(fx("Iran","New Zealand","G",2,"2026-06-21","16:00","AT&T Stadium","Dallas","FINISHED",1,2))
-F.append(fx("Uruguay","Saudi Arabia","H",2,"2026-06-21","16:00","Lumen Field","Seattle","FINISHED",2,1))
-F.append(fx("Iraq","Senegal","I",2,"2026-06-21","13:00","BC Place","Vancouver","FINISHED",0,2))
-F.append(fx("Jordan","Algeria","J",2,"2026-06-21","13:00","Gillette Stadium","Boston","FINISHED",1,1))
+F.append(fx("Qatar","Bosnia and Herzegovina","B",2,"2026-06-19","19:00","BMO Field","Toronto","FINISHED",1,3))
+F.append(fx("Scotland","Morocco","C",2,"2026-06-18","16:00","Lumen Field","Seattle","FINISHED",0,1))
+F.append(fx("Turkiye","Paraguay","D",2,"2026-06-19","16:00","Gillette Stadium","Boston","FINISHED",0,1))
+F.append(fx("Ecuador","Ivory Coast","E",2,"2026-06-20","19:00","Levi's Stadium","San Francisco","FINISHED",0,1))
+F.append(fx("Sweden","Tunisia","F",2,"2026-06-20","16:00","NRG Stadium","Houston","FINISHED",5,1))
+F.append(fx("Iran","New Zealand","G",2,"2026-06-21","16:00","AT&T Stadium","Dallas","FINISHED",0,0))
+F.append(fx("Uruguay","Saudi Arabia","H",2,"2026-06-21","16:00","Lumen Field","Seattle","FINISHED",1,1))
+F.append(fx("Iraq","Senegal","I",2,"2026-06-21","13:00","BC Place","Vancouver","FINISHED",0,5))
+F.append(fx("Jordan","Algeria","J",2,"2026-06-21","13:00","Gillette Stadium","Boston","FINISHED",1,2))
 
-# Matchday 3
-F.append(fx("Mexico","Czechia","A",3,"2026-06-22","20:00","Estadio Azteca","Mexico City","FINISHED",1,1,True))
-F.append(fx("South Korea","South Africa","A",3,"2026-06-22","20:00","Estadio Akron","Guadalajara","FINISHED",2,1,False))
-F.append(fx("Canada","Bosnia and Herzegovina","B",3,"2026-06-22","16:00","BMO Field","Toronto","FINISHED",2,1,False))
-F.append(fx("Switzerland","Qatar","B",3,"2026-06-22","19:00","BC Place","Vancouver","FINISHED",1,2,True))
-F.append(fx("Brazil","Scotland","C",3,"2026-06-23","20:00","SoFi Stadium","Los Angeles","FINISHED",1,1,True))
-F.append(fx("Haiti","Morocco","C",3,"2026-06-23","16:00","Lumen Field","Seattle","FINISHED",0,1,False))
-F.append(fx("United States","Turkiye","D",3,"2026-06-23","21:00","Mercedes-Benz Stadium","Atlanta","FINISHED",2,1,True))
-F.append(fx("Australia","Paraguay","D",3,"2026-06-23","16:00","Gillette Stadium","Boston","FINISHED",1,2,False))
-F.append(fx("Germany","Ecuador","E",3,"2026-06-24","19:00","Hard Rock Stadium","Miami","FINISHED",3,1,True))
-F.append(fx("Curaçao","Ivory Coast","E",3,"2026-06-24","13:00","Levi's Stadium","San Francisco","FINISHED",2,0,False))
-F.append(fx("Netherlands","Sweden","F",3,"2026-06-24","19:00","Levi's Stadium","San Francisco","FINISHED",2,0,True))
-F.append(fx("Japan","Tunisia","F",3,"2026-06-24","16:00","NRG Stadium","Houston","FINISHED",1,1,False))
-F.append(fx("Belgium","Iran","G",3,"2026-06-24","21:00","NRG Stadium","Houston","FINISHED",3,0,True))
-F.append(fx("Egypt","New Zealand","G",3,"2026-06-24","16:00","AT&T Stadium","Dallas","FINISHED",2,0,False))
-F.append(fx("Spain","Uruguay","H",3,"2026-06-25","13:00","Arrowhead Stadium","Kansas City","FINISHED",2,1,True))
-F.append(fx("Cape Verde","Saudi Arabia","H",3,"2026-06-25","16:00","Lumen Field","Seattle","FINISHED",1,1,False))
+# Matchday 3 - verified real-world results
+F.append(fx("Mexico","Czechia","A",3,"2026-06-22","20:00","Estadio Azteca","Mexico City","FINISHED",3,0,True))
+F.append(fx("South Korea","South Africa","A",3,"2026-06-22","20:00","Estadio Akron","Guadalajara","FINISHED",0,1,False))
+F.append(fx("Canada","Bosnia and Herzegovina","B",3,"2026-06-22","16:00","BMO Field","Toronto","FINISHED",1,1,False))
+F.append(fx("Switzerland","Qatar","B",3,"2026-06-22","19:00","BC Place","Vancouver","FINISHED",1,1,True))
+F.append(fx("Brazil","Scotland","C",3,"2026-06-23","20:00","SoFi Stadium","Los Angeles","FINISHED",3,0,True))
+F.append(fx("Haiti","Morocco","C",3,"2026-06-23","16:00","Lumen Field","Seattle","FINISHED",2,4,False))
+F.append(fx("United States","Turkiye","D",3,"2026-06-23","21:00","Mercedes-Benz Stadium","Atlanta","FINISHED",2,3,True))
+F.append(fx("Australia","Paraguay","D",3,"2026-06-23","16:00","Gillette Stadium","Boston","FINISHED",0,0,False))
+F.append(fx("Germany","Ecuador","E",3,"2026-06-24","19:00","Hard Rock Stadium","Miami","FINISHED",1,2,True))
+F.append(fx("Curaçao","Ivory Coast","E",3,"2026-06-24","13:00","Levi's Stadium","San Francisco","FINISHED",0,2,False))
+F.append(fx("Netherlands","Sweden","F",3,"2026-06-24","19:00","Levi's Stadium","San Francisco","FINISHED",5,1,True))
+F.append(fx("Japan","Tunisia","F",3,"2026-06-24","16:00","NRG Stadium","Houston","FINISHED",4,0,False))
+F.append(fx("Belgium","New Zealand","G",3,"2026-06-24","21:00","NRG Stadium","Houston","FINISHED",5,1,True))
+F.append(fx("Egypt","Iran","G",3,"2026-06-24","16:00","AT&T Stadium","Dallas","FINISHED",1,1,False))
+F.append(fx("Spain","Uruguay","H",3,"2026-06-25","13:00","Arrowhead Stadium","Kansas City","FINISHED",1,0,True))
+F.append(fx("Cape Verde","Saudi Arabia","H",3,"2026-06-25","16:00","Lumen Field","Seattle","FINISHED",0,0,False))
 F.append(fx("France","Iraq","I",3,"2026-06-25","19:00","SoFi Stadium","Los Angeles","FINISHED",3,0,True))
-F.append(fx("Norway","Senegal","I",3,"2026-06-25","13:00","BC Place","Vancouver","FINISHED",2,1,False))
-F.append(fx("Argentina","Jordan","J",3,"2026-06-25","21:00","MetLife Stadium","New Jersey","FINISHED",2,0,True))
-F.append(fx("Austria","Algeria","J",3,"2026-06-25","13:00","Gillette Stadium","Boston","FINISHED",1,0,False))
-F.append(fx("Portugal","DR Congo","K",3,"2026-06-22","13:00","Mercedes-Benz Stadium","Atlanta","FINISHED",3,1,False))
-F.append(fx("Uzbekistan","Colombia","K",3,"2026-06-22","16:00","Hard Rock Stadium","Miami","FINISHED",1,2,True))
-F.append(fx("England","Panama","L",3,"2026-06-22","16:00","MetLife Stadium","New Jersey","FINISHED",3,0,True))
-F.append(fx("Croatia","Ghana","L",3,"2026-06-22","19:00","Lincoln Financial Field","Philadelphia","FINISHED",1,1,False))
+F.append(fx("Norway","Senegal","I",3,"2026-06-25","13:00","BC Place","Vancouver","FINISHED",3,2,False))
+F.append(fx("Argentina","Jordan","J",3,"2026-06-25","21:00","MetLife Stadium","New Jersey","FINISHED",3,1,True))
+F.append(fx("Austria","Algeria","J",3,"2026-06-25","13:00","Gillette Stadium","Boston","FINISHED",3,3,False))
+F.append(fx("Portugal","DR Congo","K",3,"2026-06-22","13:00","Mercedes-Benz Stadium","Atlanta","FINISHED",1,1,False))
+F.append(fx("Uzbekistan","Colombia","K",3,"2026-06-22","16:00","Hard Rock Stadium","Miami","FINISHED",1,3,True))
+F.append(fx("England","Panama","L",3,"2026-06-22","16:00","MetLife Stadium","New Jersey","FINISHED",2,0,True))
+F.append(fx("Croatia","Ghana","L",3,"2026-06-22","19:00","Lincoln Financial Field","Philadelphia","FINISHED",2,1,False))
+
+# ---- Round of 32 (Knockout stage)
+# Finished R32 matches
+F.append(fx("Canada","South Africa","R32",4,"2026-06-28","16:00","BMO Field","Toronto","FINISHED",1,0,True))
+F.append(fx("Brazil","Japan","R32",4,"2026-06-29","16:00","SoFi Stadium","Los Angeles","FINISHED",2,1,True))
+F.append(fx("Germany","Paraguay","R32",4,"2026-06-29","19:00","Hard Rock Stadium","Miami","FINISHED",1,1,True))
+F.append(fx("Netherlands","Morocco","R32",4,"2026-06-29","21:00","MetLife Stadium","New Jersey","FINISHED",1,1,True))
+F.append(fx("Norway","Ivory Coast","R32",4,"2026-06-30","13:00","BC Place","Vancouver","FINISHED",2,1,True))
+F.append(fx("France","Sweden","R32",4,"2026-06-30","16:00","SoFi Stadium","Los Angeles","FINISHED",3,0,True))
+F.append(fx("Mexico","Ecuador","R32",4,"2026-06-30","21:00","Estadio Azteca","Mexico City","FINISHED",2,0,True))
+# Today's R32 matches (July 1) - UPCOMING
+F.append(fx("England","DR Congo","R32",4,"2026-07-01","13:00","MetLife Stadium","New Jersey","FINISHED",2,1,True))
+F.append(fx("Belgium","Senegal","R32",4,"2026-07-01","16:00","AT&T Stadium","Dallas","UPCOMING",None,None,True))
+F.append(fx("United States","Bosnia and Herzegovina","R32",4,"2026-07-01","19:00","Mercedes-Benz Stadium","Atlanta","UPCOMING",None,None,True))
+# Upcoming R32 matches
+F.append(fx("Spain","Austria","R32",4,"2026-07-02","15:00","SoFi Stadium","Los Angeles","UPCOMING",None,None,True))
+F.append(fx("Portugal","Croatia","R32",4,"2026-07-02","19:00","BMO Field","Toronto","UPCOMING",None,None,True))
+F.append(fx("Switzerland","Algeria","R32",4,"2026-07-02","21:00","BC Place","Vancouver","UPCOMING",None,None,True))
+F.append(fx("Australia","Egypt","R32",4,"2026-07-03","16:00","Levi's Stadium","San Francisco","UPCOMING",None,None,True))
+F.append(fx("Argentina","Cape Verde","R32",4,"2026-07-03","19:00","MetLife Stadium","New Jersey","UPCOMING",None,None,True))
+F.append(fx("Colombia","Ghana","R32",4,"2026-07-04","19:00","NRG Stadium","Houston","UPCOMING",None,None,True))
 
 # ---- Build groups standings from finished fixtures
 groups = {}
@@ -443,6 +464,9 @@ def find_row(g: str, name: str) -> Optional[Dict[str, Any]]:
 
 for m in F:
     if m["status"] != "FINISHED":
+        continue
+    # Only group stage matches (A-L) contribute to the standings, not knockout rounds
+    if m["group"] not in groups:
         continue
     hs, as_ = m["homeScore"], m["awayScore"]
     # Only completed matches with numeric scores contribute to the standings.
@@ -521,7 +545,7 @@ data = {
     "tournament":"FIFA World Cup 2026",
     "hosts":["United States","Mexico","Canada"],
     "startDate":"2026-06-11",
-    "today":"2026-06-26",
+    "today":"2026-07-02",
     "tagline":"Why this match matters.",
     "groupsCount":12, "teamsCount":48,
   },

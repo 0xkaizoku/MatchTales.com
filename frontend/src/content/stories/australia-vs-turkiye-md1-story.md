@@ -1,6 +1,6 @@
 ---
 title: "Australia vs Turkiye 2-0 Match Report"
-subtitle: "Tactical discipline and clinical finishes defined this Matchday 1 encounter. Here is how Australia and Turkiye fought out their group stage clash."
+subtitle: "Tactical discipline and clinical finishes defined this Matchday 1 encounter. Here is how Australia and Turkiye fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group D that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,7 +10,7 @@ pubDate: 2026-06-14
 
 ## The Showdown at Gillette Stadium
 
-On 2026-06-14, the footballing world turned its attention to Gillette Stadium in Boston for an absorbing encounter between **Australia** and **Turkiye** in Group D.
+On 2026-06-14, the footballing world turned its attention to Gillette Stadium in Boston for an absorbing encounter between **Australia** and **Turkiye** in the Group D.
 
 Under the bright lights in Boston, Australia and Turkiye took to the pitch on 2026-06-14 for a highly anticipated Matchday 1 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

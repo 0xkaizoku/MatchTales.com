@@ -1,6 +1,6 @@
 ---
-title: "Argentina vs Algeria 2-0 Match Report"
-subtitle: "The final whistle blew at MetLife Stadium with a 3-0 scoreline. Argentina and Algeria played out an absorbing contest that will shape the Group J standings."
+title: "Argentina vs Algeria 3-0 Match Report"
+subtitle: "The final whistle blew at MetLife Stadium with a 3-0 scoreline. Argentina and Algeria played out an absorbing contest in this Group J fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group J that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1511512578047-dfb367046420?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,7 +10,7 @@ pubDate: 2026-06-16
 
 ## The Showdown at MetLife Stadium
 
-On 2026-06-16, the footballing world turned its attention to MetLife Stadium in New Jersey for an absorbing encounter between **Argentina** and **Algeria** in Group J.
+On 2026-06-16, the footballing world turned its attention to MetLife Stadium in New Jersey for an absorbing encounter between **Argentina** and **Algeria** in the Group J.
 
 Under the bright lights in New Jersey, Argentina and Algeria took to the pitch on 2026-06-16 for a highly anticipated Matchday 1 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

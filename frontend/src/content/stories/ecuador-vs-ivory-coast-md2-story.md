@@ -1,6 +1,6 @@
 ---
-title: "Ecuador vs Ivory Coast 3-1 Match Report"
-subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Ecuador and Ivory Coast fought out their group stage clash."
+title: "Ecuador vs Ivory Coast 0-1 Match Report"
+subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Ecuador and Ivory Coast fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group E that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1486286701208-1d58e9338013?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,13 +10,13 @@ pubDate: 2026-06-20
 
 ## The Showdown at Levi's Stadium
 
-On 2026-06-20, the footballing world turned its attention to Levi's Stadium in San Francisco for an absorbing encounter between **Ecuador** and **Ivory Coast** in Group E.
+On 2026-06-20, the footballing world turned its attention to Levi's Stadium in San Francisco for an absorbing encounter between **Ecuador** and **Ivory Coast** in the Group E.
 
 The atmosphere at the Levi's Stadium in San Francisco was electric as Ecuador faced Ivory Coast in a Group E matchup on 2026-06-20. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
 The match was defined by intense tactical battles in midfield and clinical finishing. Ecuador relied heavily on the technical qualities of Moisés Caicedo to dictate the tempo. On the other side, Ivory Coast looked dangerous on the counter, with Simon Adingra asking serious questions of the opposition defence. The scoreline of 0 to 1 highlights how closely contested the affair was.
 
-As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group E standings, making the upcoming fixtures even more critical for both nations.
+As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for the Group E standings, making the upcoming fixtures even more critical for both nations.
 
 ## Stakes and Context
 

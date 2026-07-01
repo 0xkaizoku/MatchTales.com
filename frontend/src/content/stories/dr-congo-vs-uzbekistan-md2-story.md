@@ -1,5 +1,5 @@
 ---
-title: "DR Congo vs Uzbekistan 1-3 Match Report"
+title: "DR Congo vs Uzbekistan 3-1 Match Report"
 subtitle: "A thrilling match in Miami concludes with DR Congo and Uzbekistan leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group K that leaves standing tables dramatically altered."
@@ -10,7 +10,7 @@ pubDate: 2026-06-18
 
 ## The Showdown at Hard Rock Stadium
 
-On 2026-06-18, the footballing world turned its attention to Hard Rock Stadium in Miami for an absorbing encounter between **DR Congo** and **Uzbekistan** in Group K.
+On 2026-06-18, the footballing world turned its attention to Hard Rock Stadium in Miami for an absorbing encounter between **DR Congo** and **Uzbekistan** in the Group K.
 
 Under the bright lights in Miami, DR Congo and Uzbekistan took to the pitch on 2026-06-18 for a highly anticipated Matchday 2 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

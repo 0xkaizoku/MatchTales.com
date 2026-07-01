@@ -1,6 +1,6 @@
 ---
-title: "Brazil vs Haiti 2-0 Match Report"
-subtitle: "The final whistle blew at Rose Bowl with a 3-0 scoreline. Brazil and Haiti played out an absorbing contest that will shape the Group C standings."
+title: "Brazil vs Haiti 3-0 Match Report"
+subtitle: "The final whistle blew at Rose Bowl with a 3-0 scoreline. Brazil and Haiti played out an absorbing contest in this Group C fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group C that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1543807535-eceef0bc6599?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,13 +10,13 @@ pubDate: 2026-06-17
 
 ## The Showdown at Rose Bowl
 
-On 2026-06-17, the footballing world turned its attention to Rose Bowl in Los Angeles for an absorbing encounter between **Brazil** and **Haiti** in Group C.
+On 2026-06-17, the footballing world turned its attention to Rose Bowl in Los Angeles for an absorbing encounter between **Brazil** and **Haiti** in the Group C.
 
 The atmosphere at the Rose Bowl in Los Angeles was electric as Brazil faced Haiti in a Group C matchup on 2026-06-17. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
 The match was defined by intense tactical battles in midfield and clinical finishing. Brazil relied heavily on the technical qualities of Vinícius Júnior to dictate the tempo. On the other side, Haiti looked dangerous on the counter, with Frantzdy Pierrot asking serious questions of the opposition defence. The scoreline of 3 to 0 highlights how closely contested the affair was.
 
-As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group C standings, making the upcoming fixtures even more critical for both nations.
+As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for the Group C standings, making the upcoming fixtures even more critical for both nations.
 
 ## Stakes and Context
 

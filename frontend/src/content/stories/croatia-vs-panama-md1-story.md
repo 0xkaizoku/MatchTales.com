@@ -1,5 +1,5 @@
 ---
-title: "Croatia vs Panama 3-1 Match Report"
+title: "Croatia vs Panama 1-0 Match Report"
 subtitle: "A thrilling match in Philadelphia concludes with Croatia and Panama leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group L that leaves standing tables dramatically altered."
@@ -10,7 +10,7 @@ pubDate: 2026-06-13
 
 ## The Showdown at Lincoln Financial Field
 
-On 2026-06-13, the footballing world turned its attention to Lincoln Financial Field in Philadelphia for an absorbing encounter between **Croatia** and **Panama** in Group L.
+On 2026-06-13, the footballing world turned its attention to Lincoln Financial Field in Philadelphia for an absorbing encounter between **Croatia** and **Panama** in the Group L.
 
 Under the bright lights in Philadelphia, Croatia and Panama took to the pitch on 2026-06-13 for a highly anticipated Matchday 1 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

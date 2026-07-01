@@ -1,6 +1,6 @@
 ---
 title: "Mexico vs South Africa 2-0 Match Report"
-subtitle: "Tactical discipline and clinical finishes defined this Matchday 1 encounter. Here is how Mexico and South Africa fought out their group stage clash."
+subtitle: "Tactical discipline and clinical finishes defined this Matchday 1 encounter. Here is how Mexico and South Africa fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group A that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,13 +10,13 @@ pubDate: 2026-06-11
 
 ## The Showdown at Estadio Azteca
 
-On 2026-06-11, the footballing world turned its attention to Estadio Azteca in Mexico City for an absorbing encounter between **Mexico** and **South Africa** in Group A.
+On 2026-06-11, the footballing world turned its attention to Estadio Azteca in Mexico City for an absorbing encounter between **Mexico** and **South Africa** in the Group A.
 
 The atmosphere at the Estadio Azteca in Mexico City was electric as Mexico faced South Africa in a Group A matchup on 2026-06-11. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
 The match was defined by intense tactical battles in midfield and clinical finishing. Mexico relied heavily on the technical qualities of Santiago Giménez to dictate the tempo. On the other side, South Africa looked dangerous on the counter, with Lyle Foster asking serious questions of the opposition defence. The scoreline of 2 to 0 highlights how closely contested the affair was.
 
-As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group A standings, making the upcoming fixtures even more critical for both nations.
+As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for the Group A standings, making the upcoming fixtures even more critical for both nations.
 
 ## Stakes and Context
 

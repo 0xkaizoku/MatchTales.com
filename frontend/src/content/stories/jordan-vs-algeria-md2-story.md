@@ -1,6 +1,6 @@
 ---
-title: "Jordan vs Algeria 1-1 Match Report"
-subtitle: "The final whistle blew at Gillette Stadium with a 1-2 scoreline. Jordan and Algeria played out an absorbing contest that will shape the Group J standings."
+title: "Jordan vs Algeria 1-2 Match Report"
+subtitle: "The final whistle blew at Gillette Stadium with a 1-2 scoreline. Jordan and Algeria played out an absorbing contest in this Group J fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group J that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,7 +10,7 @@ pubDate: 2026-06-21
 
 ## The Showdown at Gillette Stadium
 
-On 2026-06-21, the footballing world turned its attention to Gillette Stadium in Boston for an absorbing encounter between **Jordan** and **Algeria** in Group J.
+On 2026-06-21, the footballing world turned its attention to Gillette Stadium in Boston for an absorbing encounter between **Jordan** and **Algeria** in the Group J.
 
 Under the bright lights in Boston, Jordan and Algeria took to the pitch on 2026-06-21 for a highly anticipated Matchday 2 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

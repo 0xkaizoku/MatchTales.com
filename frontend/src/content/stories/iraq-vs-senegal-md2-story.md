@@ -1,6 +1,6 @@
 ---
-title: "Iraq vs Senegal 0-2 Match Report"
-subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Iraq and Senegal fought out their group stage clash."
+title: "Iraq vs Senegal 0-5 Match Report"
+subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Iraq and Senegal fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group I that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1550565118-3a14e8d0386f?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,13 +10,13 @@ pubDate: 2026-06-21
 
 ## The Showdown at BC Place
 
-On 2026-06-21, the footballing world turned its attention to BC Place in Vancouver for an absorbing encounter between **Iraq** and **Senegal** in Group I.
+On 2026-06-21, the footballing world turned its attention to BC Place in Vancouver for an absorbing encounter between **Iraq** and **Senegal** in the Group I.
 
 The atmosphere at the BC Place in Vancouver was electric as Iraq faced Senegal in a Group I matchup on 2026-06-21. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
 The match was defined by intense tactical battles in midfield and clinical finishing. Iraq relied heavily on the technical qualities of Aymen Hussein to dictate the tempo. On the other side, Senegal looked dangerous on the counter, with Nicolas Jackson asking serious questions of the opposition defence. The scoreline of 0 to 5 highlights how closely contested the affair was.
 
-As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group I standings, making the upcoming fixtures even more critical for both nations.
+As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for the Group I standings, making the upcoming fixtures even more critical for both nations.
 
 ## Stakes and Context
 

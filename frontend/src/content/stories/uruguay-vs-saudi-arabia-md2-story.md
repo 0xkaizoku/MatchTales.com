@@ -1,6 +1,6 @@
 ---
-title: "Uruguay vs Saudi Arabia 2-1 Match Report"
-subtitle: "The final whistle blew at Lumen Field with a 1-1 scoreline. Uruguay and Saudi Arabia played out an absorbing contest that will shape the Group H standings."
+title: "Uruguay vs Saudi Arabia 1-1 Match Report"
+subtitle: "The final whistle blew at Lumen Field with a 1-1 scoreline. Uruguay and Saudi Arabia played out an absorbing contest in this Group H fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group H that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1543807535-eceef0bc6599?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,13 +10,13 @@ pubDate: 2026-06-21
 
 ## The Showdown at Lumen Field
 
-On 2026-06-21, the footballing world turned its attention to Lumen Field in Seattle for an absorbing encounter between **Uruguay** and **Saudi Arabia** in Group H.
+On 2026-06-21, the footballing world turned its attention to Lumen Field in Seattle for an absorbing encounter between **Uruguay** and **Saudi Arabia** in the Group H.
 
 The atmosphere at the Lumen Field in Seattle was electric as Uruguay faced Saudi Arabia in a Group H matchup on 2026-06-21. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
 The match was defined by intense tactical battles in midfield and clinical finishing. Uruguay relied heavily on the technical qualities of Federico Valverde to dictate the tempo. On the other side, Saudi Arabia looked dangerous on the counter, with Salem Al-Dawsari asking serious questions of the opposition defence. The scoreline of 1 to 1 highlights how closely contested the affair was.
 
-As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group H standings, making the upcoming fixtures even more critical for both nations.
+As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for the Group H standings, making the upcoming fixtures even more critical for both nations.
 
 ## Stakes and Context
 

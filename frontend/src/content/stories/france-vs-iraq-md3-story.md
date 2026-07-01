@@ -1,6 +1,6 @@
 ---
-title: "France vs Iraq 4-1 Match Report"
-subtitle: "Tactical discipline and clinical finishes defined this Matchday 3 encounter. Here is how France and Iraq fought out their group stage clash."
+title: "France vs Iraq 3-0 Match Report"
+subtitle: "Tactical discipline and clinical finishes defined this Matchday 3 encounter. Here is how France and Iraq fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group I that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,7 +10,7 @@ pubDate: 2026-06-25
 
 ## The Showdown at SoFi Stadium
 
-On 2026-06-25, the footballing world turned its attention to SoFi Stadium in Los Angeles for an absorbing encounter between **France** and **Iraq** in Group I.
+On 2026-06-25, the footballing world turned its attention to SoFi Stadium in Los Angeles for an absorbing encounter between **France** and **Iraq** in the Group I.
 
 Under the bright lights in Los Angeles, France and Iraq took to the pitch on 2026-06-25 for a highly anticipated Matchday 3 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

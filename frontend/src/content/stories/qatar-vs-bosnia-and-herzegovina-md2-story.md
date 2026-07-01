@@ -1,5 +1,5 @@
 ---
-title: "Qatar vs Bosnia and Herzegovina 0-6 Match Report"
+title: "Qatar vs Bosnia and Herzegovina 1-3 Match Report"
 subtitle: "A thrilling match in Toronto concludes with Qatar and Bosnia and Herzegovina leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group B that leaves standing tables dramatically altered."
@@ -10,7 +10,7 @@ pubDate: 2026-06-19
 
 ## The Showdown at BMO Field
 
-On 2026-06-19, the footballing world turned its attention to BMO Field in Toronto for an absorbing encounter between **Qatar** and **Bosnia and Herzegovina** in Group B.
+On 2026-06-19, the footballing world turned its attention to BMO Field in Toronto for an absorbing encounter between **Qatar** and **Bosnia and Herzegovina** in the Group B.
 
 Under the bright lights in Toronto, Qatar and Bosnia and Herzegovina took to the pitch on 2026-06-19 for a highly anticipated Matchday 2 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

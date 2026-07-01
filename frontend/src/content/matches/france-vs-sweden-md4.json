@@ -1,0 +1,50 @@
+{
+  "slug": "france-vs-sweden-md4",
+  "headline": "Late Drama Sees France Knock Out Sweden 3-0",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup.",
+  "teaser": "The final whistle blew at SoFi Stadium with a 3-0 scoreline. France and Sweden played out an absorbing contest in this Round of 32 fixture.",
+  "story": "Under the bright lights in Los Angeles, France and Sweden took to the pitch on 2026-06-30 for a highly anticipated knockout fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.\n\nWith both managers deploying disciplined defensive setups, space was at a premium. Kylian Mbappé showed moments of brilliance for France, while Alexander Isak was the creative heartbeat for Sweden. In the end, a few decisive moments settled the score at 3-0, giving fans plenty to talk about.\n\nFor the victors, this result represents a massive step toward their World Cup dreams. For the defeated, it is a heartbreaking end to their campaign.",
+  "stakes": "In the Round of 32, there is no room for error. A single loss means the end of the World Cup dream for either France or Sweden.",
+  "rivalryAngle": "The footballing connection between France and Sweden adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "France are affectionately known as the Les Bleus.",
+    "Sweden are affectionately known as the Blågult.",
+    "This high-profile match was held at SoFi Stadium in Los Angeles on 2026-06-30."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kylian Mbappé",
+      "team": "France",
+      "hook": "The key playmaker leading the tactical setup for the Les Bleus."
+    },
+    {
+      "name": "Alexander Isak",
+      "team": "Sweden",
+      "hook": "The creative spark expected to make the difference for the Blågult."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "france",
+    "sweden",
+    "group-r32"
+  ],
+  "home": "France",
+  "away": "Sweden",
+  "homeCode": "FRA",
+  "awayCode": "SWE",
+  "homeFlag": "🇫🇷",
+  "awayFlag": "🇸🇪",
+  "group": "R32",
+  "matchday": 4,
+  "date": "2026-06-30",
+  "time": "16:00",
+  "venue": "SoFi Stadium",
+  "city": "Los Angeles",
+  "status": "FINISHED",
+  "homeScore": 3,
+  "awayScore": 0,
+  "marquee": true,
+  "liveMinute": null
+}

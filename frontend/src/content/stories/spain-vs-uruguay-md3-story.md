@@ -1,6 +1,6 @@
 ---
-title: "Spain vs Uruguay 2-1 Match Report"
-subtitle: "Tactical discipline and clinical finishes defined this Matchday 3 encounter. Here is how Spain and Uruguay fought out their group stage clash."
+title: "Spain vs Uruguay 1-0 Match Report"
+subtitle: "Tactical discipline and clinical finishes defined this Matchday 3 encounter. Here is how Spain and Uruguay fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group H that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,7 +10,7 @@ pubDate: 2026-06-25
 
 ## The Showdown at Arrowhead Stadium
 
-On 2026-06-25, the footballing world turned its attention to Arrowhead Stadium in Kansas City for an absorbing encounter between **Spain** and **Uruguay** in Group H.
+On 2026-06-25, the footballing world turned its attention to Arrowhead Stadium in Kansas City for an absorbing encounter between **Spain** and **Uruguay** in the Group H.
 
 Under the bright lights in Kansas City, Spain and Uruguay took to the pitch on 2026-06-25 for a highly anticipated Matchday 3 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

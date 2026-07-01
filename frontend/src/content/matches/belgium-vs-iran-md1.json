@@ -1,0 +1,50 @@
+{
+  "slug": "belgium-vs-iran-md1",
+  "headline": "Points Shared in Drama-Filled 0-0 Draw",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A crucial group stage result in Group G that leaves standing tables dramatically altered.",
+  "teaser": "The final whistle blew at NRG Stadium with a 0-0 scoreline. Belgium and Iran played out an absorbing contest in this Group G fixture.",
+  "story": "The atmosphere at the NRG Stadium in Houston was electric as Belgium faced Iran in a Group G matchup on 2026-06-15. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.\n\nThe match was defined by intense tactical battles in midfield and clinical finishing. Belgium relied heavily on the technical qualities of Kevin De Bruyne to dictate the tempo. On the other side, Iran looked dangerous on the counter, with Mehdi Taremi asking serious questions of the opposition defence. The scoreline of 0 to 0 highlights how closely contested the affair was.\n\nAs the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for the Group G standings, making the upcoming fixtures even more critical for both nations.",
+  "stakes": "With Group G wide open, this matchday 1 encounter holds massive implications for both Belgium and Iran as they look to secure a place in the knockout rounds.",
+  "rivalryAngle": "The footballing connection between Belgium and Iran adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Belgium are affectionately known as the Red Devils.",
+    "Iran are affectionately known as the Team Melli.",
+    "This high-profile match was held at NRG Stadium in Houston on 2026-06-15."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kevin De Bruyne",
+      "team": "Belgium",
+      "hook": "The key playmaker leading the tactical setup for the Red Devils."
+    },
+    {
+      "name": "Mehdi Taremi",
+      "team": "Iran",
+      "hook": "The creative spark expected to make the difference for the Team Melli."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "belgium",
+    "iran",
+    "group-g"
+  ],
+  "home": "Belgium",
+  "away": "Iran",
+  "homeCode": "BEL",
+  "awayCode": "IRN",
+  "homeFlag": "🇧🇪",
+  "awayFlag": "🇮🇷",
+  "group": "G",
+  "matchday": 1,
+  "date": "2026-06-15",
+  "time": "21:00",
+  "venue": "NRG Stadium",
+  "city": "Houston",
+  "status": "FINISHED",
+  "homeScore": 0,
+  "awayScore": 0,
+  "marquee": true,
+  "liveMinute": null
+}

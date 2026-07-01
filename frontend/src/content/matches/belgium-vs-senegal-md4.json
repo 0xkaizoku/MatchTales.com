@@ -1,0 +1,50 @@
+{
+  "slug": "belgium-vs-senegal-md4",
+  "headline": "Anticipation Builds for Belgium vs Senegal Round of 32 Clash",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A blockbuster Round of 32 fixture in Dallas with a place in the next round on the line.",
+  "teaser": "The stage is set in Dallas for a massive clash between Belgium and Senegal. Both nations are hungry for three points to boost their knockout dreams.",
+  "story": "Anticipation is building ahead of the knockout fixture between Belgium and Senegal at the AT&T Stadium in Dallas. Both teams are finalized their preparations for this critical Round of 32 showdown.\n\nTactical matchups across the pitch will define the contest. Belgium will rely on their talisman Kevin De Bruyne to unlock the opposition's defensive block, while Senegal will look to their key playmaker Nicolas Jackson to establish control in the midfield. Both managers have kept their cards close to their chest in the pre-match press conferences.\n\nWith only single-elimination matches in the knockout phase, there is no margin for error.",
+  "stakes": "In the Round of 32, there is no room for error. A single loss means the end of the World Cup dream for either Belgium or Senegal.",
+  "rivalryAngle": "The footballing connection between Belgium and Senegal adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Belgium are affectionately known as the Red Devils.",
+    "Senegal are affectionately known as the Lions of Teranga.",
+    "This high-profile match was held at AT&T Stadium in Dallas on 2026-07-01."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kevin De Bruyne",
+      "team": "Belgium",
+      "hook": "The key playmaker leading the tactical setup for the Red Devils."
+    },
+    {
+      "name": "Nicolas Jackson",
+      "team": "Senegal",
+      "hook": "The creative spark expected to make the difference for the Lions of Teranga."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "belgium",
+    "senegal",
+    "group-r32"
+  ],
+  "home": "Belgium",
+  "away": "Senegal",
+  "homeCode": "BEL",
+  "awayCode": "SEN",
+  "homeFlag": "🇧🇪",
+  "awayFlag": "🇸🇳",
+  "group": "R32",
+  "matchday": 4,
+  "date": "2026-07-01",
+  "time": "16:00",
+  "venue": "AT&T Stadium",
+  "city": "Dallas",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null
+}

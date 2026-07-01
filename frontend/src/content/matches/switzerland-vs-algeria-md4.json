@@ -1,0 +1,50 @@
+{
+  "slug": "switzerland-vs-algeria-md4",
+  "headline": "Anticipation Builds for Switzerland vs Algeria Round of 32 Clash",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A blockbuster Round of 32 fixture in Vancouver with a place in the next round on the line.",
+  "teaser": "With Group R32 wide open, both Switzerland and Algeria view this fixture as a must-win game. Here is what to watch for.",
+  "story": "Anticipation is building ahead of the knockout fixture between Switzerland and Algeria at the BC Place in Vancouver. Both teams are finalized their preparations for this critical Round of 32 showdown.\n\nTactical matchups across the pitch will define the contest. Switzerland will rely on their talisman Granit Xhaka to unlock the opposition's defensive block, while Algeria will look to their key playmaker Riyad Mahrez to establish control in the midfield. Both managers have kept their cards close to their chest in the pre-match press conferences.\n\nWith only single-elimination matches in the knockout phase, there is no margin for error.",
+  "stakes": "In the Round of 32, there is no room for error. A single loss means the end of the World Cup dream for either Switzerland or Algeria.",
+  "rivalryAngle": "The footballing connection between Switzerland and Algeria adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Switzerland are affectionately known as the Nati.",
+    "Algeria are affectionately known as the Les Fennecs.",
+    "This high-profile match was held at BC Place in Vancouver on 2026-07-02."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Granit Xhaka",
+      "team": "Switzerland",
+      "hook": "The key playmaker leading the tactical setup for the Nati."
+    },
+    {
+      "name": "Riyad Mahrez",
+      "team": "Algeria",
+      "hook": "The creative spark expected to make the difference for the Les Fennecs."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "switzerland",
+    "algeria",
+    "group-r32"
+  ],
+  "home": "Switzerland",
+  "away": "Algeria",
+  "homeCode": "SUI",
+  "awayCode": "ALG",
+  "homeFlag": "🇨🇭",
+  "awayFlag": "🇩🇿",
+  "group": "R32",
+  "matchday": 4,
+  "date": "2026-07-02",
+  "time": "21:00",
+  "venue": "BC Place",
+  "city": "Vancouver",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null
+}

@@ -96,8 +96,10 @@ def main():
         out_file = TEAM_DIR / f"{slug}.json"
         out_file.write_text(json.dumps(team_data, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    # 5. Generate 72 match packages & match story markdowns
-    print("Generating 72 matches and match stories...")
+    # 5. Generate match packages & match story markdowns
+    is_knockout_group = lambda g: g in ('R32', 'R16', 'QF', 'SF', 'F')
+    knockout_label = {'R32': 'Round of 32', 'R16': 'Round of 16', 'QF': 'Quarter-Final', 'SF': 'Semi-Final', 'F': 'Final'}
+    print(f"Generating {len(seed['fixtures'])} matches and match stories...")
     for f in seed["fixtures"]:
         slug = f["slug"]
         home = f["home"]
@@ -131,23 +133,44 @@ def main():
         if status in ("FINISHED", "LIVE"):
             score_desc = f" {hs}-{as_}"
             
+        # Determine if this is a knockout match
+        is_ko = is_knockout_group(group)
+        ko_round = knockout_label.get(group, group)
+        group_label = ko_round if is_ko else f"Group {group}"
+        
         # 1. Headline
         h_val = int(hashlib.md5(slug.encode("utf-8")).hexdigest(), 16)
         if status == "FINISHED":
             if hs > as_:
-                headlines = [
-                    f"{home} Secure Crucial{score_desc} Win Over {away}",
-                    f"Triumph for {home} in Tense{score_desc} Battle",
-                    f"{home} Outclass {away} in{score_desc} Victory",
-                    f"Late Drama Sees {home} Beat {away}{score_desc}"
-                ]
+                if is_ko:
+                    headlines = [
+                        f"{home} Advance with{score_desc} {ko_round} Win Over {away}",
+                        f"Triumph for {home} in Tense{score_desc} Knockout Battle",
+                        f"{home} Outclass {away} in{score_desc} {ko_round} Victory",
+                        f"Late Drama Sees {home} Knock Out {away}{score_desc}"
+                    ]
+                else:
+                    headlines = [
+                        f"{home} Secure Crucial{score_desc} Win Over {away}",
+                        f"Triumph for {home} in Tense{score_desc} Battle",
+                        f"{home} Outclass {away} in{score_desc} Victory",
+                        f"Late Drama Sees {home} Beat {away}{score_desc}"
+                    ]
             elif as_ > hs:
-                headlines = [
-                    f"{away} Grab Dramatic{score_desc} Win Against {home}",
-                    f"{away} Outclass {home} in{score_desc} Triumph",
-                    f"Crucial Away Win for {away} over {home}{score_desc}",
-                    f"Tactical Masterclass Sees {away} Beat {home}{score_desc}"
-                ]
+                if is_ko:
+                    headlines = [
+                        f"{away} Advance with Dramatic{score_desc} {ko_round} Win",
+                        f"{away} Knock Out {home} in{score_desc} Triumph",
+                        f"Crucial {ko_round} Win for {away} over {home}{score_desc}",
+                        f"Tactical Masterclass Sees {away} Eliminate {home}{score_desc}"
+                    ]
+                else:
+                    headlines = [
+                        f"{away} Grab Dramatic{score_desc} Win Against {home}",
+                        f"{away} Outclass {home} in{score_desc} Triumph",
+                        f"Crucial Away Win for {away} over {home}{score_desc}",
+                        f"Tactical Masterclass Sees {away} Beat {home}{score_desc}"
+                    ]
             else:
                 headlines = [
                     f"{home} and {away} Share Spoils in{score_desc} Draw",
@@ -159,28 +182,42 @@ def main():
         elif status == "LIVE":
             headline = f"LIVE: {home} vs {away} In-Play ({hs}-{as_})"
         else:
-            headlines = [
-                f"Anticipation Builds for {home} vs {away} Clash",
-                f"{home} and {away} Set for Group {group} Showdown",
-                f"High Stakes in {city} as {home} Meets {away}",
-                f"Tactical Duel Awaits in {home} vs {away}"
-            ]
+            if is_ko:
+                headlines = [
+                    f"Anticipation Builds for {home} vs {away} {ko_round} Clash",
+                    f"{home} and {away} Set for Epic {ko_round} Showdown",
+                    f"High Stakes in {city} as {home} Meets {away} in the {ko_round}",
+                    f"Win or Go Home: {home} vs {away}"
+                ]
+            else:
+                headlines = [
+                    f"Anticipation Builds for {home} vs {away} Clash",
+                    f"{home} and {away} Set for Group {group} Showdown",
+                    f"High Stakes in {city} as {home} Meets {away}",
+                    f"Tactical Duel Awaits in {home} vs {away}"
+                ]
             headline = headlines[h_val % len(headlines)]
             
         # 2. Why Care Reason
         if status == "FINISHED":
-            why_care = f"A crucial group stage result in Group {group} that leaves standing tables dramatically altered."
+            if is_ko:
+                why_care = f"A decisive {ko_round} knockout match with one team advancing and one sent home from the 2026 World Cup."
+            else:
+                why_care = f"A crucial group stage result in Group {group} that leaves standing tables dramatically altered."
         elif status == "LIVE":
-            why_care = f"This high-stakes Group {group} match is currently live with qualification hopes hanging in the balance."
+            why_care = f"This high-stakes {group_label} match is currently live with tournament hopes hanging in the balance."
         else:
-            why_care = f"A highly anticipated Matchday {md} clash in Group {group} with significant tournament implications."
+            if is_ko:
+                why_care = f"A blockbuster {ko_round} fixture in {city} with a place in the next round on the line."
+            else:
+                why_care = f"A highly anticipated Matchday {md} clash in Group {group} with significant tournament implications."
             
         # 3. Teaser
         if status == "FINISHED":
             teasers = [
-                f"The final whistle blew at {venue} with a {hs}-{as_} scoreline. {home} and {away} played out an absorbing contest that will shape the Group {group} standings.",
+                f"The final whistle blew at {venue} with a {hs}-{as_} scoreline. {home} and {away} played out an absorbing contest in this {group_label} fixture.",
                 f"A thrilling match in {city} concludes with {home} and {away} leaving everything on the pitch. Read the full post-match analysis.",
-                f"Tactical discipline and clinical finishes defined this Matchday {md} encounter. Here is how {home} and {away} fought out their group stage clash."
+                f"Tactical discipline and clinical finishes defined this {'knockout' if is_ko else 'Matchday ' + str(md)} encounter. Here is how {home} and {away} fought out their clash."
             ]
             teaser = teasers[h_val % len(teasers)]
         elif status == "LIVE":
@@ -196,16 +233,16 @@ def main():
         # 4. Story paragraphs
         if status == "FINISHED":
             p1_options = [
-                f"The atmosphere at the {venue} in {city} was electric as {home} faced {away} in a Group {group} matchup on {date}. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.",
-                f"Under the bright lights in {city}, {home} and {away} took to the pitch on {date} for a highly anticipated Matchday {md} fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament."
+                f"The atmosphere at the {venue} in {city} was electric as {home} faced {away} in a {group_label} matchup on {date}. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.",
+                f"Under the bright lights in {city}, {home} and {away} took to the pitch on {date} for a highly anticipated {'knockout' if is_ko else 'Matchday ' + str(md)} fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament."
             ]
             p2_options = [
                 f"The match was defined by intense tactical battles in midfield and clinical finishing. {home} relied heavily on the technical qualities of {p_home} to dictate the tempo. On the other side, {away} looked dangerous on the counter, with {p_away} asking serious questions of the opposition defence. The scoreline of {hs} to {as_} highlights how closely contested the affair was.",
                 f"With both managers deploying disciplined defensive setups, space was at a premium. {p_home} showed moments of brilliance for {home}, while {p_away} was the creative heartbeat for {away}. In the end, a few decisive moments settled the score at {hs}-{as_}, giving fans plenty to talk about."
             ]
             p3_options = [
-                f"As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group {group} standings, making the upcoming fixtures even more critical for both nations.",
-                f"For the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes."
+                f"As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for the {'tournament bracket' if is_ko else 'Group ' + group + ' standings'}, making the upcoming fixtures even more critical for both nations.",
+                f"For the victors, this result represents a massive step toward their World Cup dreams. For the defeated, it is a heartbreaking end to their campaign." if is_ko else f"For the victors, this result represents a massive step toward the knockout rounds. For the defeated, it is back to the drawing board to save their World Cup campaign before the group stage concludes."
             ]
         elif status == "LIVE":
             p1_options = [
@@ -217,12 +254,12 @@ def main():
                 f"With qualification on the line, the tactical adjustments from both benches have been constant. {home} are searching for pathways through the defensive lines using {p_home}, while {away} are hitting back with quick transitions led by {p_away}."
             ]
             p3_options = [
-                f"As the clock ticks down, the tension is reaching a fever pitch. A single mistake or a moment of individual magic could decide the destiny of both nations in this Group {group} campaign.",
-                f"Every second counts now. Both teams know that securing three points here will dramatically improve their chances of advancing to the next round."
+                f"As the clock ticks down, the tension is reaching a fever pitch. A single mistake or a moment of individual magic could decide the destiny of both nations in this {group_label} campaign.",
+                f"Every second counts now. Both teams know that securing a result here will dramatically improve their chances of advancing to the next round."
             ]
         else:
             p1_options = [
-                f"Anticipation is building ahead of the Matchday {md} fixture between {home} and {away} at the {venue} in {city}. Both teams are finalized their preparations for this critical Group {group} showdown.",
+                f"Anticipation is building ahead of the {'knockout' if is_ko else 'Matchday ' + str(md)} fixture between {home} and {away} at the {venue} in {city}. Both teams are finalized their preparations for this critical {group_label} showdown.",
                 f"Football fans around the world are looking forward to {date}, when {home} and {away} will go head-to-head in {city}. The match promises to be a showcase of tactical discipline and individual skill."
             ]
             p2_options = [
@@ -230,7 +267,7 @@ def main():
                 f"The clash of styles makes this game particularly intriguing. The structural discipline of {home} will be tested by the fluid attacking movements of {away}, with {p_home} and {p_away} expected to play central roles in their respective strategies."
             ]
             p3_options = [
-                f"With only three matches in the group phase, there is no margin for error. A strong performance in this fixture will set a positive tone for the rest of the tournament.",
+                f"With only single-elimination matches in the knockout phase, there is no margin for error." if is_ko else f"With only three matches in the group phase, there is no margin for error. A strong performance in this fixture will set a positive tone for the rest of the tournament.",
                 f"The fans are already gathering in {city}, creating a wonderful festival atmosphere. Regardless of the outcome, this promises to be a classic chapter in their footballing history."
             ]
             
@@ -240,7 +277,10 @@ def main():
         story = f"{p1}\n\n{p2}\n\n{p3}"
         
         # 5. Stakes
-        stakes = f"With Group {group} wide open, this matchday {md} encounter holds massive implications for both {home} and {away} as they look to secure a place in the knockout rounds."
+        if is_ko:
+            stakes = f"In the {ko_round}, there is no room for error. A single loss means the end of the World Cup dream for either {home} or {away}."
+        else:
+            stakes = f"With Group {group} wide open, this matchday {md} encounter holds massive implications for both {home} and {away} as they look to secure a place in the knockout rounds."
         
         # 6. Rivalry Angle
         rivalry_angle = f"The footballing connection between {home} and {away} adds an extra layer of emotion to this fixture, making it a must-watch for fans."
@@ -321,7 +361,7 @@ def main():
             f"pubDate: {date}\n"
             f"---\n\n"
             f"## The Showdown at {venue}\n\n"
-            f"On {date}, the footballing world turned its attention to {venue} in {city} for an absorbing encounter between **{home}** and **{away}** in Group {group}.\n\n"
+            f"On {date}, the footballing world turned its attention to {venue} in {city} for an absorbing encounter between **{home}** and **{away}** in the {group_label}.\n\n"
             f"{clean_style(story)}\n\n"
             f"## Stakes and Context\n\n"
             f"{clean_style(stakes)}\n\n"

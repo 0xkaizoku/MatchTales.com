@@ -1,6 +1,6 @@
 ---
 title: "Mexico vs South Korea 1-0 Match Report"
-subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Mexico and South Korea fought out their group stage clash."
+subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Mexico and South Korea fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group A that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,7 +10,7 @@ pubDate: 2026-06-18
 
 ## The Showdown at Estadio Azteca
 
-On 2026-06-18, the footballing world turned its attention to Estadio Azteca in Mexico City for an absorbing encounter between **Mexico** and **South Korea** in Group A.
+On 2026-06-18, the footballing world turned its attention to Estadio Azteca in Mexico City for an absorbing encounter between **Mexico** and **South Korea** in the Group A.
 
 Under the bright lights in Mexico City, Mexico and South Korea took to the pitch on 2026-06-18 for a highly anticipated Matchday 2 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

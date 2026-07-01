@@ -1,6 +1,6 @@
 ---
-title: "Scotland vs Morocco 1-1 Match Report"
-subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Scotland and Morocco fought out their group stage clash."
+title: "Scotland vs Morocco 0-1 Match Report"
+subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Scotland and Morocco fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group C that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,13 +10,13 @@ pubDate: 2026-06-18
 
 ## The Showdown at Lumen Field
 
-On 2026-06-18, the footballing world turned its attention to Lumen Field in Seattle for an absorbing encounter between **Scotland** and **Morocco** in Group C.
+On 2026-06-18, the footballing world turned its attention to Lumen Field in Seattle for an absorbing encounter between **Scotland** and **Morocco** in the Group C.
 
 The atmosphere at the Lumen Field in Seattle was electric as Scotland faced Morocco in a Group C matchup on 2026-06-18. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
 The match was defined by intense tactical battles in midfield and clinical finishing. Scotland relied heavily on the technical qualities of Andrew Robertson to dictate the tempo. On the other side, Morocco looked dangerous on the counter, with Achraf Hakimi asking serious questions of the opposition defence. The scoreline of 0 to 1 highlights how closely contested the affair was.
 
-As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group C standings, making the upcoming fixtures even more critical for both nations.
+As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for the Group C standings, making the upcoming fixtures even more critical for both nations.
 
 ## Stakes and Context
 

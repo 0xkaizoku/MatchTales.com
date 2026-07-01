@@ -1,0 +1,50 @@
+{
+  "slug": "spain-vs-austria-md4",
+  "headline": "Win or Go Home: Spain vs Austria",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A blockbuster Round of 32 fixture in Los Angeles with a place in the next round on the line.",
+  "teaser": "With Group R32 wide open, both Spain and Austria view this fixture as a must-win game. Here is what to watch for.",
+  "story": "Football fans around the world are looking forward to 2026-07-02, when Spain and Austria will go head-to-head in Los Angeles. The match promises to be a showcase of tactical discipline and individual skill.\n\nThe clash of styles makes this game particularly intriguing. The structural discipline of Spain will be tested by the fluid attacking movements of Austria, with Lamine Yamal and Marcel Sabitzer expected to play central roles in their respective strategies.\n\nThe fans are already gathering in Los Angeles, creating a wonderful festival atmosphere. Regardless of the outcome, this promises to be a classic chapter in their footballing history.",
+  "stakes": "In the Round of 32, there is no room for error. A single loss means the end of the World Cup dream for either Spain or Austria.",
+  "rivalryAngle": "The footballing connection between Spain and Austria adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Spain are affectionately known as the La Roja.",
+    "Austria are affectionately known as the Das Nationalteam.",
+    "This high-profile match was held at SoFi Stadium in Los Angeles on 2026-07-02."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Lamine Yamal",
+      "team": "Spain",
+      "hook": "The key playmaker leading the tactical setup for the La Roja."
+    },
+    {
+      "name": "Marcel Sabitzer",
+      "team": "Austria",
+      "hook": "The creative spark expected to make the difference for the Das Nationalteam."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "spain",
+    "austria",
+    "group-r32"
+  ],
+  "home": "Spain",
+  "away": "Austria",
+  "homeCode": "ESP",
+  "awayCode": "AUT",
+  "homeFlag": "🇪🇸",
+  "awayFlag": "🇦🇹",
+  "group": "R32",
+  "matchday": 4,
+  "date": "2026-07-02",
+  "time": "15:00",
+  "venue": "SoFi Stadium",
+  "city": "Los Angeles",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null
+}

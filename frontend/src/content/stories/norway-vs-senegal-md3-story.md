@@ -1,6 +1,6 @@
 ---
-title: "Norway vs Senegal 0-5 Match Report"
-subtitle: "Tactical discipline and clinical finishes defined this Matchday 3 encounter. Here is how Norway and Senegal fought out their group stage clash."
+title: "Norway vs Senegal 3-2 Match Report"
+subtitle: "Tactical discipline and clinical finishes defined this Matchday 3 encounter. Here is how Norway and Senegal fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group I that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1551244072-5d12893278ab?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,7 +10,7 @@ pubDate: 2026-06-25
 
 ## The Showdown at BC Place
 
-On 2026-06-25, the footballing world turned its attention to BC Place in Vancouver for an absorbing encounter between **Norway** and **Senegal** in Group I.
+On 2026-06-25, the footballing world turned its attention to BC Place in Vancouver for an absorbing encounter between **Norway** and **Senegal** in the Group I.
 
 Under the bright lights in Vancouver, Norway and Senegal took to the pitch on 2026-06-25 for a highly anticipated Matchday 3 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

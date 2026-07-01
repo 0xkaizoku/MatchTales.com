@@ -1,6 +1,6 @@
 ---
-title: "Canada vs Qatar 1-1 Match Report"
-subtitle: "Tactical discipline and clinical finishes defined this Matchday 1 encounter. Here is how Canada and Qatar fought out their group stage clash."
+title: "Canada vs Qatar 6-0 Match Report"
+subtitle: "Tactical discipline and clinical finishes defined this Matchday 1 encounter. Here is how Canada and Qatar fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group B that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,13 +10,13 @@ pubDate: 2026-06-12
 
 ## The Showdown at BMO Field
 
-On 2026-06-12, the footballing world turned its attention to BMO Field in Toronto for an absorbing encounter between **Canada** and **Qatar** in Group B.
+On 2026-06-12, the footballing world turned its attention to BMO Field in Toronto for an absorbing encounter between **Canada** and **Qatar** in the Group B.
 
 The atmosphere at the BMO Field in Toronto was electric as Canada faced Qatar in a Group B matchup on 2026-06-12. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
 The match was defined by intense tactical battles in midfield and clinical finishing. Canada relied heavily on the technical qualities of Alphonso Davies to dictate the tempo. On the other side, Qatar looked dangerous on the counter, with Akram Afif asking serious questions of the opposition defence. The scoreline of 6 to 0 highlights how closely contested the affair was.
 
-As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group B standings, making the upcoming fixtures even more critical for both nations.
+As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for the Group B standings, making the upcoming fixtures even more critical for both nations.
 
 ## Stakes and Context
 

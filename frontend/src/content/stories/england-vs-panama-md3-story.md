@@ -1,6 +1,6 @@
 ---
-title: "England vs Panama 3-0 Match Report"
-subtitle: "The final whistle blew at MetLife Stadium with a 2-0 scoreline. England and Panama played out an absorbing contest that will shape the Group L standings."
+title: "England vs Panama 2-0 Match Report"
+subtitle: "The final whistle blew at MetLife Stadium with a 2-0 scoreline. England and Panama played out an absorbing contest in this Group L fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group L that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,7 +10,7 @@ pubDate: 2026-06-22
 
 ## The Showdown at MetLife Stadium
 
-On 2026-06-22, the footballing world turned its attention to MetLife Stadium in New Jersey for an absorbing encounter between **England** and **Panama** in Group L.
+On 2026-06-22, the footballing world turned its attention to MetLife Stadium in New Jersey for an absorbing encounter between **England** and **Panama** in the Group L.
 
 Under the bright lights in New Jersey, England and Panama took to the pitch on 2026-06-22 for a highly anticipated Matchday 3 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

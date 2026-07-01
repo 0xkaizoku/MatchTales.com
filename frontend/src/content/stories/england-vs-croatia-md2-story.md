@@ -1,6 +1,6 @@
 ---
 title: "England vs Croatia 4-2 Match Report"
-subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how England and Croatia fought out their group stage clash."
+subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how England and Croatia fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group L that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,7 +10,7 @@ pubDate: 2026-06-18
 
 ## The Showdown at MetLife Stadium
 
-On 2026-06-18, the footballing world turned its attention to MetLife Stadium in New Jersey for an absorbing encounter between **England** and **Croatia** in Group L.
+On 2026-06-18, the footballing world turned its attention to MetLife Stadium in New Jersey for an absorbing encounter between **England** and **Croatia** in the Group L.
 
 Under the bright lights in New Jersey, England and Croatia took to the pitch on 2026-06-18 for a highly anticipated Matchday 2 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

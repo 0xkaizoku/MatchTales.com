@@ -1,6 +1,6 @@
 ---
-title: "Uzbekistan vs Colombia 0-2 Match Report"
-subtitle: "The final whistle blew at Hard Rock Stadium with a 1-3 scoreline. Uzbekistan and Colombia played out an absorbing contest that will shape the Group K standings."
+title: "Uzbekistan vs Colombia 1-3 Match Report"
+subtitle: "The final whistle blew at Hard Rock Stadium with a 1-3 scoreline. Uzbekistan and Colombia played out an absorbing contest in this Group K fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group K that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,7 +10,7 @@ pubDate: 2026-06-22
 
 ## The Showdown at Hard Rock Stadium
 
-On 2026-06-22, the footballing world turned its attention to Hard Rock Stadium in Miami for an absorbing encounter between **Uzbekistan** and **Colombia** in Group K.
+On 2026-06-22, the footballing world turned its attention to Hard Rock Stadium in Miami for an absorbing encounter between **Uzbekistan** and **Colombia** in the Group K.
 
 Under the bright lights in Miami, Uzbekistan and Colombia took to the pitch on 2026-06-22 for a highly anticipated Matchday 3 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

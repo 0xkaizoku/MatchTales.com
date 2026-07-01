@@ -1,5 +1,5 @@
 ---
-title: "Turkiye vs Paraguay 2-2 Match Report"
+title: "Turkiye vs Paraguay 0-1 Match Report"
 subtitle: "A thrilling match in Boston concludes with Turkiye and Paraguay leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group D that leaves standing tables dramatically altered."
@@ -10,7 +10,7 @@ pubDate: 2026-06-19
 
 ## The Showdown at Gillette Stadium
 
-On 2026-06-19, the footballing world turned its attention to Gillette Stadium in Boston for an absorbing encounter between **Turkiye** and **Paraguay** in Group D.
+On 2026-06-19, the footballing world turned its attention to Gillette Stadium in Boston for an absorbing encounter between **Turkiye** and **Paraguay** in the Group D.
 
 Under the bright lights in Boston, Turkiye and Paraguay took to the pitch on 2026-06-19 for a highly anticipated Matchday 2 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

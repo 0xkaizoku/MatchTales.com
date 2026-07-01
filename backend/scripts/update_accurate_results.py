@@ -157,7 +157,7 @@ for fixture in seed['fixtures']:
             print(f"  UPDATED {slug}: {old_home}-{old_away} -> {home_score}-{away_score}")
 
 # Update meta date
-seed['meta']['today'] = '2026-06-27'
+seed['meta']['today'] = '2026-07-01'
 
 # Recalculate standings
 print("\nRecalculating group standings...")

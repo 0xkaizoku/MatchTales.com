@@ -1,6 +1,6 @@
 ---
-title: "Haiti vs Morocco 0-3 Match Report"
-subtitle: "The final whistle blew at Lumen Field with a 2-4 scoreline. Haiti and Morocco played out an absorbing contest that will shape the Group C standings."
+title: "Haiti vs Morocco 2-4 Match Report"
+subtitle: "The final whistle blew at Lumen Field with a 2-4 scoreline. Haiti and Morocco played out an absorbing contest in this Group C fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group C that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,7 +10,7 @@ pubDate: 2026-06-23
 
 ## The Showdown at Lumen Field
 
-On 2026-06-23, the footballing world turned its attention to Lumen Field in Seattle for an absorbing encounter between **Haiti** and **Morocco** in Group C.
+On 2026-06-23, the footballing world turned its attention to Lumen Field in Seattle for an absorbing encounter between **Haiti** and **Morocco** in the Group C.
 
 Under the bright lights in Seattle, Haiti and Morocco took to the pitch on 2026-06-23 for a highly anticipated Matchday 3 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

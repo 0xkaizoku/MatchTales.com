@@ -1,6 +1,6 @@
 ---
-title: "Austria vs Jordan 1-0 Match Report"
-subtitle: "Tactical discipline and clinical finishes defined this Matchday 1 encounter. Here is how Austria and Jordan fought out their group stage clash."
+title: "Austria vs Jordan 3-1 Match Report"
+subtitle: "Tactical discipline and clinical finishes defined this Matchday 1 encounter. Here is how Austria and Jordan fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group J that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,13 +10,13 @@ pubDate: 2026-06-17
 
 ## The Showdown at Gillette Stadium
 
-On 2026-06-17, the footballing world turned its attention to Gillette Stadium in Boston for an absorbing encounter between **Austria** and **Jordan** in Group J.
+On 2026-06-17, the footballing world turned its attention to Gillette Stadium in Boston for an absorbing encounter between **Austria** and **Jordan** in the Group J.
 
 The atmosphere at the Gillette Stadium in Boston was electric as Austria faced Jordan in a Group J matchup on 2026-06-17. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
 The match was defined by intense tactical battles in midfield and clinical finishing. Austria relied heavily on the technical qualities of Marcel Sabitzer to dictate the tempo. On the other side, Jordan looked dangerous on the counter, with Musa Al-Taamari asking serious questions of the opposition defence. The scoreline of 3 to 1 highlights how closely contested the affair was.
 
-As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for Group J standings, making the upcoming fixtures even more critical for both nations.
+As the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for the Group J standings, making the upcoming fixtures even more critical for both nations.
 
 ## Stakes and Context
 

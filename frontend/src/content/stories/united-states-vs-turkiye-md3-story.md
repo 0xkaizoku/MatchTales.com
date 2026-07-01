@@ -1,6 +1,6 @@
 ---
-title: "United States vs Turkiye 2-0 Match Report"
-subtitle: "The final whistle blew at Mercedes-Benz Stadium with a 2-3 scoreline. United States and Turkiye played out an absorbing contest that will shape the Group D standings."
+title: "United States vs Turkiye 2-3 Match Report"
+subtitle: "The final whistle blew at Mercedes-Benz Stadium with a 2-3 scoreline. United States and Turkiye played out an absorbing contest in this Group D fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group D that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,7 +10,7 @@ pubDate: 2026-06-23
 
 ## The Showdown at Mercedes-Benz Stadium
 
-On 2026-06-23, the footballing world turned its attention to Mercedes-Benz Stadium in Atlanta for an absorbing encounter between **United States** and **Turkiye** in Group D.
+On 2026-06-23, the footballing world turned its attention to Mercedes-Benz Stadium in Atlanta for an absorbing encounter between **United States** and **Turkiye** in the Group D.
 
 Under the bright lights in Atlanta, United States and Turkiye took to the pitch on 2026-06-23 for a highly anticipated Matchday 3 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

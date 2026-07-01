@@ -1,6 +1,6 @@
 ---
-title: "Switzerland vs Canada 4-1 Match Report"
-subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Switzerland and Canada fought out their group stage clash."
+title: "Switzerland vs Canada 2-1 Match Report"
+subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Switzerland and Canada fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group B that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,7 +10,7 @@ pubDate: 2026-06-18
 
 ## The Showdown at BC Place
 
-On 2026-06-18, the footballing world turned its attention to BC Place in Vancouver for an absorbing encounter between **Switzerland** and **Canada** in Group B.
+On 2026-06-18, the footballing world turned its attention to BC Place in Vancouver for an absorbing encounter between **Switzerland** and **Canada** in the Group B.
 
 Under the bright lights in Vancouver, Switzerland and Canada took to the pitch on 2026-06-18 for a highly anticipated Matchday 2 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

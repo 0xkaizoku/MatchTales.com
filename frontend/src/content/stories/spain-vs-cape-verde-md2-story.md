@@ -1,5 +1,5 @@
 ---
-title: "Spain vs Cape Verde 2-0 Match Report"
+title: "Spain vs Cape Verde 0-0 Match Report"
 subtitle: "A thrilling match in Kansas City concludes with Spain and Cape Verde leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group H that leaves standing tables dramatically altered."
@@ -10,7 +10,7 @@ pubDate: 2026-06-20
 
 ## The Showdown at Arrowhead Stadium
 
-On 2026-06-20, the footballing world turned its attention to Arrowhead Stadium in Kansas City for an absorbing encounter between **Spain** and **Cape Verde** in Group H.
+On 2026-06-20, the footballing world turned its attention to Arrowhead Stadium in Kansas City for an absorbing encounter between **Spain** and **Cape Verde** in the Group H.
 
 Under the bright lights in Kansas City, Spain and Cape Verde took to the pitch on 2026-06-20 for a highly anticipated Matchday 2 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

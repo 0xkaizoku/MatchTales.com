@@ -10,7 +10,7 @@ pubDate: 2026-06-12
 
 ## The Showdown at Estadio Akron
 
-On 2026-06-12, the footballing world turned its attention to Estadio Akron in Guadalajara for an absorbing encounter between **South Korea** and **Czechia** in Group A.
+On 2026-06-12, the footballing world turned its attention to Estadio Akron in Guadalajara for an absorbing encounter between **South Korea** and **Czechia** in the Group A.
 
 Under the bright lights in Guadalajara, South Korea and Czechia took to the pitch on 2026-06-12 for a highly anticipated Matchday 1 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 

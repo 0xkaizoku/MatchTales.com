@@ -1,0 +1,50 @@
+{
+  "slug": "england-vs-dr-congo-md4",
+  "headline": "Late Drama Sees England Knock Out DR Congo 2-1",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup.",
+  "teaser": "Tactical discipline and clinical finishes defined this knockout encounter. Here is how England and DR Congo fought out their clash.",
+  "story": "Under the bright lights in New Jersey, England and DR Congo took to the pitch on 2026-07-01 for a highly anticipated knockout fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.\n\nWith both managers deploying disciplined defensive setups, space was at a premium. Jude Bellingham showed moments of brilliance for England, while Yoane Wissa was the creative heartbeat for DR Congo. In the end, a few decisive moments settled the score at 2-1, giving fans plenty to talk about.\n\nFor the victors, this result represents a massive step toward their World Cup dreams. For the defeated, it is a heartbreaking end to their campaign.",
+  "stakes": "In the Round of 32, there is no room for error. A single loss means the end of the World Cup dream for either England or DR Congo.",
+  "rivalryAngle": "The footballing connection between England and DR Congo adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "England are affectionately known as the Three Lions.",
+    "DR Congo are affectionately known as the Leopards.",
+    "This high-profile match was held at MetLife Stadium in New Jersey on 2026-07-01."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Jude Bellingham",
+      "team": "England",
+      "hook": "The key playmaker leading the tactical setup for the Three Lions."
+    },
+    {
+      "name": "Yoane Wissa",
+      "team": "DR Congo",
+      "hook": "The creative spark expected to make the difference for the Leopards."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "england",
+    "dr-congo",
+    "group-r32"
+  ],
+  "home": "England",
+  "away": "DR Congo",
+  "homeCode": "ENG",
+  "awayCode": "COD",
+  "homeFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  "awayFlag": "🇨🇩",
+  "group": "R32",
+  "matchday": 4,
+  "date": "2026-07-01",
+  "time": "13:00",
+  "venue": "MetLife Stadium",
+  "city": "New Jersey",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 1,
+  "marquee": true,
+  "liveMinute": null
+}

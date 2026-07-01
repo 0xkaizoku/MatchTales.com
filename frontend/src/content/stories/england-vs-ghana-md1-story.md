@@ -1,6 +1,6 @@
 ---
-title: "England vs Ghana 2-1 Match Report"
-subtitle: "The final whistle blew at MetLife Stadium with a 0-0 scoreline. England and Ghana played out an absorbing contest that will shape the Group L standings."
+title: "England vs Ghana 0-0 Match Report"
+subtitle: "The final whistle blew at MetLife Stadium with a 0-0 scoreline. England and Ghana played out an absorbing contest in this Group L fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group L that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1536122985607-4fe00b283652?crop=entropy&cs=srgb&fm=jpg&q=85"
@@ -10,7 +10,7 @@ pubDate: 2026-06-13
 
 ## The Showdown at MetLife Stadium
 
-On 2026-06-13, the footballing world turned its attention to MetLife Stadium in New Jersey for an absorbing encounter between **England** and **Ghana** in Group L.
+On 2026-06-13, the footballing world turned its attention to MetLife Stadium in New Jersey for an absorbing encounter between **England** and **Ghana** in the Group L.
 
 Under the bright lights in New Jersey, England and Ghana took to the pitch on 2026-06-13 for a highly anticipated Matchday 1 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 
