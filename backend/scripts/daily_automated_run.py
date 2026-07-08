@@ -401,12 +401,14 @@ def update_fixtures_by_real_date(seed_data: Dict[str, Any]) -> List[Dict[str, An
     # Determine the tournament local date (we use a standard 4-hour offset from UTC for Eastern/Central)
     today_dt = now_utc - timedelta(hours=4)
     today_str = today_dt.strftime("%Y-%m-%d")
-    
-    # Cap simulated today at 2026-06-26 (end of tournament matches in seed)
-    if today_str > "2026-06-26":
-        today_str = "2026-06-26"
-        
-    print(f"Aligning simulated tournament state to date: {today_str} (Real-world UTC: {now_utc.isoformat()})")
+
+    # Clamp to the 2026 World Cup window (group stage through final)
+    if today_str < "2026-06-11":
+        today_str = "2026-06-11"
+    elif today_str > "2026-07-19":
+        today_str = "2026-07-19"
+
+    print(f"Aligning tournament state to date: {today_str} (Real-world UTC: {now_utc.isoformat()})")
     
     # Timezone offsets for stadium cities (Daylight Saving Time in June)
     offsets = {
@@ -504,7 +506,13 @@ async def main():
     resend_key = os.environ.get("RESEND_API_KEY", "")
     
     print("Starting MatchTales Daily Automated cloud pipeline...")
-    
+
+    # 0. Apply verified real-world scores before time-based status alignment
+    accurate_script = ROOT_DIR / "backend" / "scripts" / "update_accurate_results.py"
+    if accurate_script.exists():
+        print("Applying verified match results from update_accurate_results.py...")
+        subprocess.run([sys.executable, str(accurate_script)], check=False)
+
     # 1. Load current seed
     try:
         seed_data = load_seed()

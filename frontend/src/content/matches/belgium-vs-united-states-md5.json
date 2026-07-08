@@ -1,0 +1,50 @@
+{
+  "slug": "belgium-vs-united-states-md5",
+  "headline": "Belgium Outclass United States in 4-1 Round of 16 Victory",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A decisive Round of 16 knockout match with one team advancing and one sent home from the 2026 World Cup.",
+  "teaser": "The final whistle blew at Lumen Field with a 4-1 scoreline. Belgium and United States played out an absorbing contest in this Round of 16 fixture.",
+  "story": "The atmosphere at the Lumen Field in Seattle was electric as Belgium faced United States in a Round of 16 matchup on 2026-07-06. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.\n\nThe match was defined by intense tactical battles in midfield and clinical finishing. Belgium relied heavily on the technical qualities of Kevin De Bruyne to dictate the tempo. On the other side, United States looked dangerous on the counter, with Christian Pulisic asking serious questions of the opposition defence. The scoreline of 4 to 1 highlights how closely contested the affair was.\n\nAs the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for the tournament bracket, making the upcoming fixtures even more critical for both nations.",
+  "stakes": "In the Round of 16, there is no room for error. A single loss means the end of the World Cup dream for either Belgium or United States.",
+  "rivalryAngle": "The footballing connection between Belgium and United States adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Belgium are affectionately known as the Red Devils.",
+    "United States are affectionately known as the USMNT.",
+    "This high-profile match was held at Lumen Field in Seattle on 2026-07-06."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kevin De Bruyne",
+      "team": "Belgium",
+      "hook": "The key playmaker leading the tactical setup for the Red Devils."
+    },
+    {
+      "name": "Christian Pulisic",
+      "team": "United States",
+      "hook": "The creative spark expected to make the difference for the USMNT."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "belgium",
+    "united-states",
+    "group-r16"
+  ],
+  "home": "Belgium",
+  "away": "United States",
+  "homeCode": "BEL",
+  "awayCode": "USA",
+  "homeFlag": "🇧🇪",
+  "awayFlag": "🇺🇸",
+  "group": "R16",
+  "matchday": 5,
+  "date": "2026-07-06",
+  "time": "16:00",
+  "venue": "Lumen Field",
+  "city": "Seattle",
+  "status": "FINISHED",
+  "homeScore": 4,
+  "awayScore": 1,
+  "marquee": true,
+  "liveMinute": null
+}

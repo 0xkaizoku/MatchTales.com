@@ -1,16 +1,16 @@
 {
   "slug": "australia-vs-egypt-md4",
-  "headline": "Australia and Egypt Set for Epic Round of 32 Showdown",
+  "headline": "Tense 1-1 Stalemate Between Australia and Egypt",
   "whyCareScore": 9.2,
-  "whyCareReason": "A blockbuster Round of 32 fixture in San Francisco with a place in the next round on the line.",
-  "teaser": "The stage is set in San Francisco for a massive clash between Australia and Egypt. Both nations are hungry for three points to boost their knockout dreams.",
-  "story": "Football fans around the world are looking forward to 2026-07-03, when Australia and Egypt will go head-to-head in San Francisco. The match promises to be a showcase of tactical discipline and individual skill.\n\nThe clash of styles makes this game particularly intriguing. The structural discipline of Australia will be tested by the fluid attacking movements of Egypt, with Cristian Volpato and Mohamed Salah expected to play central roles in their respective strategies.\n\nThe fans are already gathering in San Francisco, creating a wonderful festival atmosphere. Regardless of the outcome, this promises to be a classic chapter in their footballing history.",
+  "whyCareReason": "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup.",
+  "teaser": "The final whistle blew at AT&T Stadium with a 1-1 scoreline. Australia and Egypt played out an absorbing contest in this Round of 32 fixture.",
+  "story": "Under the bright lights in Arlington, Australia and Egypt took to the pitch on 2026-07-03 for a highly anticipated knockout fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.\n\nWith both managers deploying disciplined defensive setups, space was at a premium. Cristian Volpato showed moments of brilliance for Australia, while Mohamed Salah was the creative heartbeat for Egypt. In the end, a few decisive moments settled the score at 1-1, giving fans plenty to talk about.\n\nFor the victors, this result represents a massive step toward their World Cup dreams. For the defeated, it is a heartbreaking end to their campaign.",
   "stakes": "In the Round of 32, there is no room for error. A single loss means the end of the World Cup dream for either Australia or Egypt.",
   "rivalryAngle": "The footballing connection between Australia and Egypt adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
   "funFacts": [
     "Australia are affectionately known as the Socceroos.",
     "Egypt are affectionately known as the The Pharaohs.",
-    "This high-profile match was held at Levi's Stadium in San Francisco on 2026-07-03."
+    "This high-profile match was held at AT&T Stadium in Arlington on 2026-07-03."
   ],
   "keyPlayers": [
     {
@@ -40,11 +40,11 @@
   "matchday": 4,
   "date": "2026-07-03",
   "time": "16:00",
-  "venue": "Levi's Stadium",
-  "city": "San Francisco",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "venue": "AT&T Stadium",
+  "city": "Arlington",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 1,
   "marquee": true,
   "liveMinute": null
 }

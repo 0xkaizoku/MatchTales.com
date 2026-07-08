@@ -8,7 +8,7 @@
       "Canada"
     ],
     "startDate": "2026-06-11",
-    "today": "2026-07-02",
+    "today": "2026-07-08",
     "tagline": "Why this match matters.",
     "groupsCount": 12,
     "teamsCount": 48
@@ -3330,8 +3330,8 @@
       "matchday": 4,
       "date": "2026-07-01",
       "time": "13:00",
-      "venue": "MetLife Stadium",
-      "city": "New Jersey",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
       "status": "FINISHED",
       "homeScore": 2,
       "awayScore": 1,
@@ -3346,11 +3346,11 @@
       "matchday": 4,
       "date": "2026-07-01",
       "time": "16:00",
-      "venue": "AT&T Stadium",
-      "city": "Dallas",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "venue": "Lumen Field",
+      "city": "Seattle",
+      "status": "FINISHED",
+      "homeScore": 3,
+      "awayScore": 2,
       "marquee": true,
       "liveMinute": null
     },
@@ -3362,11 +3362,11 @@
       "matchday": 4,
       "date": "2026-07-01",
       "time": "19:00",
-      "venue": "Mercedes-Benz Stadium",
-      "city": "Atlanta",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "venue": "Levi's Stadium",
+      "city": "Santa Clara",
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 0,
       "marquee": true,
       "liveMinute": null
     },
@@ -3380,9 +3380,9 @@
       "time": "15:00",
       "venue": "SoFi Stadium",
       "city": "Los Angeles",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 3,
+      "awayScore": 0,
       "marquee": true,
       "liveMinute": null
     },
@@ -3396,9 +3396,9 @@
       "time": "19:00",
       "venue": "BMO Field",
       "city": "Toronto",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 1,
       "marquee": true,
       "liveMinute": null
     },
@@ -3412,9 +3412,9 @@
       "time": "21:00",
       "venue": "BC Place",
       "city": "Vancouver",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 0,
       "marquee": true,
       "liveMinute": null
     },
@@ -3426,11 +3426,11 @@
       "matchday": 4,
       "date": "2026-07-03",
       "time": "16:00",
-      "venue": "Levi's Stadium",
-      "city": "San Francisco",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "venue": "AT&T Stadium",
+      "city": "Arlington",
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 1,
       "marquee": true,
       "liveMinute": null
     },
@@ -3442,11 +3442,11 @@
       "matchday": 4,
       "date": "2026-07-03",
       "time": "19:00",
-      "venue": "MetLife Stadium",
-      "city": "New Jersey",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "venue": "Hard Rock Stadium",
+      "city": "Miami Gardens",
+      "status": "FINISHED",
+      "homeScore": 3,
+      "awayScore": 2,
       "marquee": true,
       "liveMinute": null
     },
@@ -3456,10 +3456,202 @@
       "away": "Ghana",
       "group": "R32",
       "matchday": 4,
+      "date": "2026-07-03",
+      "time": "21:00",
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 0,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "morocco-vs-canada-md5",
+      "home": "Morocco",
+      "away": "Canada",
+      "group": "R16",
+      "matchday": 5,
       "date": "2026-07-04",
-      "time": "19:00",
+      "time": "13:00",
       "venue": "NRG Stadium",
       "city": "Houston",
+      "status": "FINISHED",
+      "homeScore": 3,
+      "awayScore": 0,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "france-vs-paraguay-md5",
+      "home": "France",
+      "away": "Paraguay",
+      "group": "R16",
+      "matchday": 5,
+      "date": "2026-07-04",
+      "time": "16:00",
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 0,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "norway-vs-brazil-md5",
+      "home": "Norway",
+      "away": "Brazil",
+      "group": "R16",
+      "matchday": 5,
+      "date": "2026-07-05",
+      "time": "13:00",
+      "venue": "MetLife Stadium",
+      "city": "New Jersey",
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 1,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "england-vs-mexico-md5",
+      "home": "England",
+      "away": "Mexico",
+      "group": "R16",
+      "matchday": 5,
+      "date": "2026-07-05",
+      "time": "20:00",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "status": "FINISHED",
+      "homeScore": 3,
+      "awayScore": 2,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "spain-vs-portugal-md5",
+      "home": "Spain",
+      "away": "Portugal",
+      "group": "R16",
+      "matchday": 5,
+      "date": "2026-07-06",
+      "time": "13:00",
+      "venue": "AT&T Stadium",
+      "city": "Dallas",
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 0,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "belgium-vs-united-states-md5",
+      "home": "Belgium",
+      "away": "United States",
+      "group": "R16",
+      "matchday": 5,
+      "date": "2026-07-06",
+      "time": "16:00",
+      "venue": "Lumen Field",
+      "city": "Seattle",
+      "status": "FINISHED",
+      "homeScore": 4,
+      "awayScore": 1,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "argentina-vs-egypt-md5",
+      "home": "Argentina",
+      "away": "Egypt",
+      "group": "R16",
+      "matchday": 5,
+      "date": "2026-07-07",
+      "time": "13:00",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "status": "FINISHED",
+      "homeScore": 3,
+      "awayScore": 2,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "switzerland-vs-colombia-md5",
+      "home": "Switzerland",
+      "away": "Colombia",
+      "group": "R16",
+      "matchday": 5,
+      "date": "2026-07-07",
+      "time": "16:00",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "france-vs-morocco-md6",
+      "home": "France",
+      "away": "Morocco",
+      "group": "QF",
+      "matchday": 6,
+      "date": "2026-07-09",
+      "time": "16:00",
+      "venue": "Gillette Stadium",
+      "city": "Boston",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "spain-vs-belgium-md6",
+      "home": "Spain",
+      "away": "Belgium",
+      "group": "QF",
+      "matchday": 6,
+      "date": "2026-07-10",
+      "time": "12:00",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "norway-vs-england-md6",
+      "home": "Norway",
+      "away": "England",
+      "group": "QF",
+      "matchday": 6,
+      "date": "2026-07-11",
+      "time": "17:00",
+      "venue": "Hard Rock Stadium",
+      "city": "Miami",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "marquee": true,
+      "liveMinute": null
+    },
+    {
+      "slug": "argentina-vs-switzerland-md6",
+      "home": "Argentina",
+      "away": "Switzerland",
+      "group": "QF",
+      "matchday": 6,
+      "date": "2026-07-11",
+      "time": "20:00",
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
       "status": "UPCOMING",
       "homeScore": null,
       "awayScore": null,
@@ -3488,8 +3680,8 @@
       "slug": "usa-iran",
       "title": "USA vs Iran  -  More Than A Game",
       "teams": [
-        "Brazil",
-        "Haiti"
+        "United States",
+        "Iran"
       ],
       "blurb": "From the politically-charged 1998 clash in Lyon to the tense 2022 decider, no fixture carries more weight off the pitch than this one.",
       "points": [
@@ -3504,7 +3696,7 @@
       "slug": "uruguay-ghana",
       "title": "Uruguay vs Ghana  -  The Suárez Wound",
       "teams": [
-        "Egypt",
+        "Uruguay",
         "Ghana"
       ],
       "blurb": "2010: Luis Suárez's handball on the line denied Ghana a place in history. 2022: Ghana's revenge mission backfired. The trilogy continues.",
@@ -3520,8 +3712,8 @@
       "slug": "germany-algeria",
       "title": "Germany vs Algeria  -  Old Scores",
       "teams": [
-        "Argentina",
-        "Austria"
+        "Germany",
+        "Algeria"
       ],
       "blurb": "From the 1982 'Disgrace of Gijón' to the 2014 extra-time epic, these two share one of the World Cup's most loaded histories.",
       "points": [
@@ -3537,31 +3729,31 @@
     {
       "year": 1986,
       "title": "Maradona's Hand of God & Goal of the Century",
-      "team": "United States",
+      "team": "Argentina",
       "text": "Within four minutes, Diego Maradona produced football's most infamous goal and its most beautiful  -  both against England."
     },
     {
       "year": 1950,
       "title": "The Maracanazo",
-      "team": "Egypt",
+      "team": "Uruguay",
       "text": "Uruguay silenced 200,000 Brazilians at the Maracanã to win the World Cup in the greatest upset the sport has seen."
     },
     {
       "year": 2022,
       "title": "Argentina 3-3 France  -  The Greatest Final",
-      "team": "United States",
+      "team": "Argentina",
       "text": "Messi vs Mbappé, a final-hat-trick, and penalties. Many call it the finest World Cup final ever played."
     },
     {
       "year": 2014,
       "title": "Germany 7-1 Brazil",
-      "team": "Argentina",
+      "team": "Germany",
       "text": "On home soil, Brazil suffered the most shocking semi-final collapse in tournament history."
     },
     {
       "year": 2002,
       "title": "Senegal Shock France",
-      "team": "Scotland",
+      "team": "Senegal",
       "text": "World Cup debutants Senegal beat the reigning champions in the opening match  -  a statement heard across a continent."
     },
     {
@@ -4270,7 +4462,7 @@
     },
     {
       "slug": "belgium-vs-senegal-md4-story",
-      "title": "Belgium vs Senegal Match Report",
+      "title": "Belgium vs Senegal 3-2 Match Report",
       "category": "Match Report",
       "excerpt": "Full editorial coverage and details of the World Cup match between Belgium and Senegal.",
       "img": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?crop=entropy&cs=srgb&fm=jpg&q=85",
@@ -4278,7 +4470,7 @@
     },
     {
       "slug": "united-states-vs-bosnia-and-herzegovina-md4-story",
-      "title": "United States vs Bosnia and Herzegovina Match Report",
+      "title": "United States vs Bosnia and Herzegovina 2-0 Match Report",
       "category": "Match Report",
       "excerpt": "Full editorial coverage and details of the World Cup match between United States and Bosnia and Herzegovina.",
       "img": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?crop=entropy&cs=srgb&fm=jpg&q=85",
@@ -4286,7 +4478,7 @@
     },
     {
       "slug": "spain-vs-austria-md4-story",
-      "title": "Spain vs Austria Match Report",
+      "title": "Spain vs Austria 3-0 Match Report",
       "category": "Match Report",
       "excerpt": "Full editorial coverage and details of the World Cup match between Spain and Austria.",
       "img": "https://images.unsplash.com/photo-1520333789090-1afc82db536a?crop=entropy&cs=srgb&fm=jpg&q=85",
@@ -4294,7 +4486,7 @@
     },
     {
       "slug": "portugal-vs-croatia-md4-story",
-      "title": "Portugal vs Croatia Match Report",
+      "title": "Portugal vs Croatia 2-1 Match Report",
       "category": "Match Report",
       "excerpt": "Full editorial coverage and details of the World Cup match between Portugal and Croatia.",
       "img": "https://images.unsplash.com/photo-1510563800743-aed236490d08?crop=entropy&cs=srgb&fm=jpg&q=85",
@@ -4302,7 +4494,7 @@
     },
     {
       "slug": "switzerland-vs-algeria-md4-story",
-      "title": "Switzerland vs Algeria Match Report",
+      "title": "Switzerland vs Algeria 2-0 Match Report",
       "category": "Match Report",
       "excerpt": "Full editorial coverage and details of the World Cup match between Switzerland and Algeria.",
       "img": "https://images.unsplash.com/photo-1486286701208-1d58e9338013?crop=entropy&cs=srgb&fm=jpg&q=85",
@@ -4310,7 +4502,7 @@
     },
     {
       "slug": "australia-vs-egypt-md4-story",
-      "title": "Australia vs Egypt Match Report",
+      "title": "Australia vs Egypt 1-1 Match Report",
       "category": "Match Report",
       "excerpt": "Full editorial coverage and details of the World Cup match between Australia and Egypt.",
       "img": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85",
@@ -4318,7 +4510,7 @@
     },
     {
       "slug": "argentina-vs-cape-verde-md4-story",
-      "title": "Argentina vs Cape Verde Match Report",
+      "title": "Argentina vs Cape Verde 3-2 Match Report",
       "category": "Match Report",
       "excerpt": "Full editorial coverage and details of the World Cup match between Argentina and Cape Verde.",
       "img": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85",
@@ -4326,14 +4518,114 @@
     },
     {
       "slug": "colombia-vs-ghana-md4-story",
-      "title": "Colombia vs Ghana Match Report",
+      "title": "Colombia vs Ghana 1-0 Match Report",
       "category": "Match Report",
       "excerpt": "Full editorial coverage and details of the World Cup match between Colombia and Ghana.",
       "img": "https://images.unsplash.com/photo-1646643508957-088fe0eac722?crop=entropy&cs=srgb&fm=jpg&q=85",
       "read": 4
+    },
+    {
+      "slug": "morocco-vs-canada-md5-story",
+      "title": "Morocco vs Canada 3-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Morocco and Canada.",
+      "img": "https://images.unsplash.com/photo-1520333789090-1afc82db536a?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "france-vs-paraguay-md5-story",
+      "title": "France vs Paraguay 1-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between France and Paraguay.",
+      "img": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "norway-vs-brazil-md5-story",
+      "title": "Norway vs Brazil 2-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Norway and Brazil.",
+      "img": "https://images.unsplash.com/photo-1550591927-391fccf9934b?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "england-vs-mexico-md5-story",
+      "title": "England vs Mexico 3-2 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between England and Mexico.",
+      "img": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "spain-vs-portugal-md5-story",
+      "title": "Spain vs Portugal 1-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Spain and Portugal.",
+      "img": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "belgium-vs-united-states-md5-story",
+      "title": "Belgium vs United States 4-1 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Belgium and United States.",
+      "img": "https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "argentina-vs-egypt-md5-story",
+      "title": "Argentina vs Egypt 3-2 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Argentina and Egypt.",
+      "img": "https://images.unsplash.com/photo-1550565118-3a14e8d0386f?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "switzerland-vs-colombia-md5-story",
+      "title": "Switzerland vs Colombia 0-0 Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Switzerland and Colombia.",
+      "img": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "france-vs-morocco-md6-story",
+      "title": "France vs Morocco Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between France and Morocco.",
+      "img": "https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "spain-vs-belgium-md6-story",
+      "title": "Spain vs Belgium Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Spain and Belgium.",
+      "img": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "norway-vs-england-md6-story",
+      "title": "Norway vs England Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Norway and England.",
+      "img": "https://images.unsplash.com/photo-1551244072-5d12893278ab?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
+    },
+    {
+      "slug": "argentina-vs-switzerland-md6-story",
+      "title": "Argentina vs Switzerland Match Report",
+      "category": "Match Report",
+      "excerpt": "Full editorial coverage and details of the World Cup match between Argentina and Switzerland.",
+      "img": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 4
     }
   ],
   "venues": [
+    {
+      "venue": "AT&T Stadium",
+      "city": "Arlington"
+    },
     {
       "venue": "AT&T Stadium",
       "city": "Dallas"
@@ -4367,8 +4659,16 @@
       "city": "Miami"
     },
     {
+      "venue": "Hard Rock Stadium",
+      "city": "Miami Gardens"
+    },
+    {
       "venue": "Levi's Stadium",
       "city": "San Francisco"
+    },
+    {
+      "venue": "Levi's Stadium",
+      "city": "Santa Clara"
     },
     {
       "venue": "Lincoln Financial Field",

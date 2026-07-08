@@ -8,11 +8,11 @@ readingTime: 4
 pubDate: 2026-07-01
 ---
 
-## The Showdown at MetLife Stadium
+## The Showdown at Mercedes-Benz Stadium
 
-On 2026-07-01, the footballing world turned its attention to MetLife Stadium in New Jersey for an absorbing encounter between **England** and **DR Congo** in the Round of 32.
+On 2026-07-01, the footballing world turned its attention to Mercedes-Benz Stadium in Atlanta for an absorbing encounter between **England** and **DR Congo** in the Round of 32.
 
-Under the bright lights in New Jersey, England and DR Congo took to the pitch on 2026-07-01 for a highly anticipated knockout fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
+Under the bright lights in Atlanta, England and DR Congo took to the pitch on 2026-07-01 for a highly anticipated knockout fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 
 With both managers deploying disciplined defensive setups, space was at a premium. Jude Bellingham showed moments of brilliance for England, while Yoane Wissa was the creative heartbeat for DR Congo. In the end, a few decisive moments settled the score at 2-1, giving fans plenty to talk about.
 
@@ -38,4 +38,4 @@ The match was defined by individual battles and standout performances from:
 
 - England are affectionately known as the Three Lions.
 - DR Congo are affectionately known as the Leopards.
-- This high-profile match was held at MetLife Stadium in New Jersey on 2026-07-01.
+- This high-profile match was held at Mercedes-Benz Stadium in Atlanta on 2026-07-01.

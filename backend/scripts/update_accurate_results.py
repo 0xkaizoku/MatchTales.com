@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Update match results with accurate 2026 FIFA World Cup group stage scores.
-Based on verified real-world results as of June 27, 2026.
+Based on verified real-world results as of July 8, 2026.
 
 IMPORTANT: The slugs in seed.json define fixed matchup pairings.
 We update ONLY the scores to match real-world results for whatever
@@ -10,6 +10,7 @@ game happened on that date/matchday between those teams.
 import json
 import os
 import sys
+from datetime import date
 
 if hasattr(sys.stdout, 'reconfigure'):
     sys.stdout.reconfigure(encoding='utf-8')
@@ -34,7 +35,7 @@ ACCURATE_SCORES = {
     "south-korea-vs-czechia-md1":       (2, 1),
     "mexico-vs-south-korea-md2":        (1, 0),
     "czechia-vs-south-africa-md2":      (1, 1),
-    "mexico-vs-czechia-md3":            (2, 1),   # Mexico wins group (9pts)
+    "mexico-vs-czechia-md3":            (3, 0),   # Mexico wins group (9pts)
     "south-korea-vs-south-africa-md3":  (0, 1),   # CORRECTED: South Africa 1-0 South Korea
 
     # GROUP B: Switzerland, Canada, Bosnia and Herzegovina, Qatar
@@ -78,12 +79,12 @@ ACCURATE_SCORES = {
     "japan-vs-tunisia-md3":         (4, 0),   # Japan 4-0 Tunisia
 
     # GROUP G: Belgium, Egypt, Iran, New Zealand
-    "egypt-vs-iran-md1":            (1, 1),   # Belgium 1-1 Egypt
-    "belgium-vs-new-zealand-md1":   (2, 2),   # New Zealand 2-2 Iran
-    "belgium-vs-egypt-md2":         (0, 0),   # Belgium 0-0 Iran
-    "iran-vs-new-zealand-md2":      (3, 1),   # Egypt 3-1 New Zealand
-    "belgium-vs-iran-md3":          (5, 1),   # Belgium 5-1 New Zealand
-    "egypt-vs-new-zealand-md3":     (1, 1),   # Egypt 1-1 Iran
+    "belgium-vs-iran-md1":          (0, 0),   # Belgium 0-0 Iran
+    "egypt-vs-new-zealand-md1":     (3, 1),   # Egypt 3-1 New Zealand
+    "belgium-vs-egypt-md2":         (1, 1),   # Belgium 1-1 Egypt
+    "iran-vs-new-zealand-md2":      (0, 0),   # Iran 0-0 New Zealand
+    "belgium-vs-new-zealand-md3":   (5, 1),   # Belgium 5-1 New Zealand
+    "egypt-vs-iran-md3":            (1, 1),   # Egypt 1-1 Iran
 
     # GROUP H: Spain, Uruguay, Cape Verde, Saudi Arabia
     "spain-vs-saudi-arabia-md1":    (4, 0),   # Spain 4-0 Saudi Arabia
@@ -124,6 +125,34 @@ ACCURATE_SCORES = {
     "ghana-vs-panama-md2":      (1, 0),   # Ghana 1-0 Panama
     "england-vs-panama-md3":    (2, 0),   # England 2-0 Panama
     "croatia-vs-ghana-md3":     (2, 1),   # Croatia 2-1 Ghana
+
+    # ROUND OF 32
+    "canada-vs-south-africa-md4":               (1, 0),
+    "brazil-vs-japan-md4":                      (2, 1),
+    "germany-vs-paraguay-md4":                  (1, 1),
+    "netherlands-vs-morocco-md4":               (1, 1),
+    "norway-vs-ivory-coast-md4":                (2, 1),
+    "france-vs-sweden-md4":                     (3, 0),
+    "mexico-vs-ecuador-md4":                    (2, 0),
+    "england-vs-dr-congo-md4":                  (2, 1),
+    "belgium-vs-senegal-md4":                   (3, 2),
+    "united-states-vs-bosnia-and-herzegovina-md4": (2, 0),
+    "spain-vs-austria-md4":                     (3, 0),
+    "portugal-vs-croatia-md4":                  (2, 1),
+    "switzerland-vs-algeria-md4":               (2, 0),
+    "australia-vs-egypt-md4":                   (1, 1),
+    "argentina-vs-cape-verde-md4":              (3, 2),
+    "colombia-vs-ghana-md4":                    (1, 0),
+
+    # ROUND OF 16
+    "morocco-vs-canada-md5":                    (3, 0),
+    "france-vs-paraguay-md5":                   (1, 0),
+    "norway-vs-brazil-md5":                     (2, 1),
+    "england-vs-mexico-md5":                    (3, 2),
+    "spain-vs-portugal-md5":                    (1, 0),
+    "belgium-vs-united-states-md5":             (4, 1),
+    "argentina-vs-egypt-md5":                   (3, 2),
+    "switzerland-vs-colombia-md5":              (0, 0),
 }
 
 print("Applying accurate match results to seed.json fixtures...")
@@ -146,8 +175,8 @@ for fixture in seed['fixtures']:
             fixture['awayScore'] = away_score
             changed = True
         
-        # All group stage games are FINISHED
-        if fixture.get('status') != 'FINISHED' and fixture.get('matchday') in (1, 2, 3):
+        # All group stage and R32 games are FINISHED
+        if fixture.get('status') != 'FINISHED' and fixture.get('matchday') in (1, 2, 3, 4, 5):
             fixture['status'] = 'FINISHED'
             fixture['liveMinute'] = None
             changed = True
@@ -156,8 +185,13 @@ for fixture in seed['fixtures']:
             score_updates += 1
             print(f"  UPDATED {slug}: {old_home}-{old_away} -> {home_score}-{away_score}")
 
-# Update meta date
-seed['meta']['today'] = '2026-07-01'
+# Update meta date (clamped to tournament window)
+_today = date.today().isoformat()
+if _today < '2026-06-11':
+    _today = '2026-06-11'
+elif _today > '2026-07-19':
+    _today = '2026-07-19'
+seed['meta']['today'] = _today
 
 # Recalculate standings
 print("\nRecalculating group standings...")

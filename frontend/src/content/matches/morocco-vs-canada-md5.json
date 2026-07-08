@@ -1,0 +1,50 @@
+{
+  "slug": "morocco-vs-canada-md5",
+  "headline": "Morocco Outclass Canada in 3-0 Round of 16 Victory",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A decisive Round of 16 knockout match with one team advancing and one sent home from the 2026 World Cup.",
+  "teaser": "A thrilling match in Houston concludes with Morocco and Canada leaving everything on the pitch. Read the full post-match analysis.",
+  "story": "The atmosphere at the NRG Stadium in Houston was electric as Morocco faced Canada in a Round of 16 matchup on 2026-07-04. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.\n\nThe match was defined by intense tactical battles in midfield and clinical finishing. Morocco relied heavily on the technical qualities of Achraf Hakimi to dictate the tempo. On the other side, Canada looked dangerous on the counter, with Alphonso Davies asking serious questions of the opposition defence. The scoreline of 3 to 0 highlights how closely contested the affair was.\n\nAs the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for the tournament bracket, making the upcoming fixtures even more critical for both nations.",
+  "stakes": "In the Round of 16, there is no room for error. A single loss means the end of the World Cup dream for either Morocco or Canada.",
+  "rivalryAngle": "The footballing connection between Morocco and Canada adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Morocco are affectionately known as the Atlas Lions.",
+    "Canada are affectionately known as the Les Rouges.",
+    "This high-profile match was held at NRG Stadium in Houston on 2026-07-04."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Achraf Hakimi",
+      "team": "Morocco",
+      "hook": "The key playmaker leading the tactical setup for the Atlas Lions."
+    },
+    {
+      "name": "Alphonso Davies",
+      "team": "Canada",
+      "hook": "The creative spark expected to make the difference for the Les Rouges."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "morocco",
+    "canada",
+    "group-r16"
+  ],
+  "home": "Morocco",
+  "away": "Canada",
+  "homeCode": "MAR",
+  "awayCode": "CAN",
+  "homeFlag": "🇲🇦",
+  "awayFlag": "🇨🇦",
+  "group": "R16",
+  "matchday": 5,
+  "date": "2026-07-04",
+  "time": "13:00",
+  "venue": "NRG Stadium",
+  "city": "Houston",
+  "status": "FINISHED",
+  "homeScore": 3,
+  "awayScore": 0,
+  "marquee": true,
+  "liveMinute": null
+}

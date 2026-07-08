@@ -1,16 +1,16 @@
 {
   "slug": "belgium-vs-senegal-md4",
-  "headline": "Anticipation Builds for Belgium vs Senegal Round of 32 Clash",
+  "headline": "Belgium Advance with 3-2 Round of 32 Win Over Senegal",
   "whyCareScore": 9.2,
-  "whyCareReason": "A blockbuster Round of 32 fixture in Dallas with a place in the next round on the line.",
-  "teaser": "The stage is set in Dallas for a massive clash between Belgium and Senegal. Both nations are hungry for three points to boost their knockout dreams.",
-  "story": "Anticipation is building ahead of the knockout fixture between Belgium and Senegal at the AT&T Stadium in Dallas. Both teams are finalized their preparations for this critical Round of 32 showdown.\n\nTactical matchups across the pitch will define the contest. Belgium will rely on their talisman Kevin De Bruyne to unlock the opposition's defensive block, while Senegal will look to their key playmaker Nicolas Jackson to establish control in the midfield. Both managers have kept their cards close to their chest in the pre-match press conferences.\n\nWith only single-elimination matches in the knockout phase, there is no margin for error.",
+  "whyCareReason": "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup.",
+  "teaser": "The final whistle blew at Lumen Field with a 3-2 scoreline. Belgium and Senegal played out an absorbing contest in this Round of 32 fixture.",
+  "story": "The atmosphere at the Lumen Field in Seattle was electric as Belgium faced Senegal in a Round of 32 matchup on 2026-07-01. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.\n\nThe match was defined by intense tactical battles in midfield and clinical finishing. Belgium relied heavily on the technical qualities of Kevin De Bruyne to dictate the tempo. On the other side, Senegal looked dangerous on the counter, with Nicolas Jackson asking serious questions of the opposition defence. The scoreline of 3 to 2 highlights how closely contested the affair was.\n\nAs the final whistle blew, the players collapsed in exhaustion, having left everything on the grass. This result will have major ramifications for the tournament bracket, making the upcoming fixtures even more critical for both nations.",
   "stakes": "In the Round of 32, there is no room for error. A single loss means the end of the World Cup dream for either Belgium or Senegal.",
   "rivalryAngle": "The footballing connection between Belgium and Senegal adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
   "funFacts": [
     "Belgium are affectionately known as the Red Devils.",
     "Senegal are affectionately known as the Lions of Teranga.",
-    "This high-profile match was held at AT&T Stadium in Dallas on 2026-07-01."
+    "This high-profile match was held at Lumen Field in Seattle on 2026-07-01."
   ],
   "keyPlayers": [
     {
@@ -40,11 +40,11 @@
   "matchday": 4,
   "date": "2026-07-01",
   "time": "16:00",
-  "venue": "AT&T Stadium",
-  "city": "Dallas",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "venue": "Lumen Field",
+  "city": "Seattle",
+  "status": "FINISHED",
+  "homeScore": 3,
+  "awayScore": 2,
   "marquee": true,
   "liveMinute": null
 }

@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import WhyCareMeter from '../components/WhyCareMeter.astro';
 import { getCollection } from 'astro:content';
+import { getFlagUrl } from '../lib/site';
 const entries = await getCollection('matches');
 const matches = entries.map((e) => e.data);
 const liveMatch = matches.find((m) => m.status === 'LIVE') || matches.find((m) => m.status === 'UPCOMING') || matches[0];
@@ -24,9 +25,9 @@ const upcoming = matches.filter((m) => m.status === 'UPCOMING').sort((a,b)=>b.wh
           </div>
           <div class="p-6">
             <div class="flex items-center justify-between gap-4">
-              <div class="text-center flex-1"><div class="text-5xl">{liveMatch.homeFlag}</div><div class="mt-2 font-head font-semibold">{liveMatch.home}</div></div>
+              <div class="text-center flex-1"><img src={getFlagUrl(liveMatch.homeCode)} alt={liveMatch.home} class="w-12 h-8 mx-auto" loading="lazy" /><div class="mt-2 font-head font-semibold">{liveMatch.home}</div></div>
               <div class="text-center"><div id="live-score" class="font-head font-bold text-4xl tabular-nums">{liveMatch.homeScore ?? 0}–{liveMatch.awayScore ?? 0}</div><div id="live-clock" class="mt-1 text-[12px] font-mono text-coral">{liveMatch.liveMinute ? liveMatch.liveMinute + "'" : 'KO soon'}</div></div>
-              <div class="text-center flex-1"><div class="text-5xl">{liveMatch.awayFlag}</div><div class="mt-2 font-head font-semibold">{liveMatch.away}</div></div>
+              <div class="text-center flex-1"><img src={getFlagUrl(liveMatch.awayCode)} alt={liveMatch.away} class="w-12 h-8 mx-auto" loading="lazy" /><div class="mt-2 font-head font-semibold">{liveMatch.away}</div></div>
             </div>
           </div>
         </div>
@@ -51,15 +52,28 @@ const upcoming = matches.filter((m) => m.status === 'UPCOMING').sort((a,b)=>b.wh
           <h2 class="font-head font-semibold">Who wins?</h2>
           <p class="text-sm text-muted font-sans mt-0.5 mb-3">{liveMatch.home} vs {liveMatch.away}</p>
           <div class="space-y-2">
-            <button class="poll-opt w-full" data-opt="home"><span class="poll-label">{liveMatch.homeFlag} {liveMatch.home}</span></button>
+            <button class="poll-opt w-full" data-opt="home"><span class="poll-label"><img src={getFlagUrl(liveMatch.homeCode)} alt={liveMatch.home} class="w-5 h-3.5 inline-block align-middle mr-1" loading="lazy" />{liveMatch.home}</span></button>
             <button class="poll-opt w-full" data-opt="draw"><span class="poll-label">Draw</span></button>
-            <button class="poll-opt w-full" data-opt="away"><span class="poll-label">{liveMatch.awayFlag} {liveMatch.away}</span></button>
+            <button class="poll-opt w-full" data-opt="away"><span class="poll-label"><img src={getFlagUrl(liveMatch.awayCode)} alt={liveMatch.away} class="w-5 h-3.5 inline-block align-middle mr-1" loading="lazy" />{liveMatch.away}</span></button>
           </div>
           <p id="poll-msg" class="mt-3 text-[12px] text-muted font-sans">Tap to vote · results update live</p>
         </div>
         <div class="rounded-card border border-border/80 bg-surface shadow-card p-5">
           <h2 class="font-head font-semibold mb-3">Coming up</h2>
-          <ul class="space-y-3">{upcoming.map((m) => (<li><a href={`/match/${m.slug}`} class="flex items-center justify-between gap-2 group"><span class="font-sans text-sm group-hover:text-pitch">{m.homeFlag} {m.home} v {m.away} {m.awayFlag}</span><span class="text-[11px] text-muted font-sans">{m.whyCareScore.toFixed(1)}</span></a></li>))}</ul>
+          <ul class="space-y-3">
+            {upcoming.map((m) => (
+              <li>
+                <a href={`/match/${m.slug}`} class="flex items-center justify-between gap-2 group">
+                  <span class="font-sans text-sm group-hover:text-pitch">
+                    <img src={getFlagUrl(m.homeCode)} alt={m.home} class="w-5 h-3.5 inline-block align-middle" loading="lazy" />
+                    <span class="mx-0.5">{m.home}</span> v <span class="mx-0.5">{m.away}</span>
+                    <img src={getFlagUrl(m.awayCode)} alt={m.away} class="w-5 h-3.5 inline-block align-middle" loading="lazy" />
+                  </span>
+                  <span class="text-[11px] text-muted font-sans">{m.whyCareScore.toFixed(1)}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
         </div>
       </aside>
     </div>

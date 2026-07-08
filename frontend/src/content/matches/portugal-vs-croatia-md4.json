@@ -1,10 +1,10 @@
 {
   "slug": "portugal-vs-croatia-md4",
-  "headline": "Portugal and Croatia Set for Epic Round of 32 Showdown",
+  "headline": "Triumph for Portugal in Tense 2-1 Knockout Battle",
   "whyCareScore": 9.2,
-  "whyCareReason": "A blockbuster Round of 32 fixture in Toronto with a place in the next round on the line.",
-  "teaser": "A fascinating encounter awaits at BMO Field on Matchday 4. Can Portugal overcome the tactical setup of Croatia to secure a crucial win?",
-  "story": "Football fans around the world are looking forward to 2026-07-02, when Portugal and Croatia will go head-to-head in Toronto. The match promises to be a showcase of tactical discipline and individual skill.\n\nThe clash of styles makes this game particularly intriguing. The structural discipline of Portugal will be tested by the fluid attacking movements of Croatia, with Cristiano Ronaldo and Luka Modrić expected to play central roles in their respective strategies.\n\nThe fans are already gathering in Toronto, creating a wonderful festival atmosphere. Regardless of the outcome, this promises to be a classic chapter in their footballing history.",
+  "whyCareReason": "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup.",
+  "teaser": "A thrilling match in Toronto concludes with Portugal and Croatia leaving everything on the pitch. Read the full post-match analysis.",
+  "story": "Under the bright lights in Toronto, Portugal and Croatia took to the pitch on 2026-07-02 for a highly anticipated knockout fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.\n\nWith both managers deploying disciplined defensive setups, space was at a premium. Cristiano Ronaldo showed moments of brilliance for Portugal, while Luka Modrić was the creative heartbeat for Croatia. In the end, a few decisive moments settled the score at 2-1, giving fans plenty to talk about.\n\nFor the victors, this result represents a massive step toward their World Cup dreams. For the defeated, it is a heartbreaking end to their campaign.",
   "stakes": "In the Round of 32, there is no room for error. A single loss means the end of the World Cup dream for either Portugal or Croatia.",
   "rivalryAngle": "The footballing connection between Portugal and Croatia adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
   "funFacts": [
@@ -42,9 +42,9 @@
   "time": "19:00",
   "venue": "BMO Field",
   "city": "Toronto",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 1,
   "marquee": true,
   "liveMinute": null
 }

@@ -92,8 +92,8 @@ const isActive = (href: string) => path === href || path.startsWith(href + '/');
     const overlay = document.getElementById('search-overlay');
     const input = document.getElementById('site-search-input');
     const results = document.getElementById('search-results');
-    const open = () => { overlay.classList.remove('hidden'); setTimeout(() => input.focus(), 30); };
-    const close = () => { overlay.classList.add('hidden'); input.value=''; results.innerHTML=''; };
+    const open = () => { overlay?.classList.remove('hidden'); setTimeout(() => input?.focus(), 30); };
+    const close = () => { overlay?.classList.add('hidden'); if(input) input.value=''; if(results) results.innerHTML=''; };
     const ob = document.getElementById('search-open');
     if (ob && !ob.dataset.bound) { ob.dataset.bound='1'; ob.addEventListener('click', open); }
     document.getElementById('search-backdrop')?.addEventListener('click', close);
@@ -101,18 +101,19 @@ const isActive = (href: string) => path === href || path.startsWith(href + '/');
       if (e.key === 'Escape') close();
       if ((e.metaKey||e.ctrlKey) && e.key.toLowerCase()==='k') { e.preventDefault(); open(); }
     });
-    let index = null;
+    let index: any[] | null = null;
     async function ensureIndex() {
       if (index) return index;
       try { const r = await fetch('/search-index.json'); index = await r.json(); } catch(e){ index=[]; }
       return index;
     }
     input?.addEventListener('input', async () => {
+      if (!input || !results) return;
       const q = input.value.trim().toLowerCase();
       const idx = await ensureIndex();
       if (!q) { results.innerHTML=''; return; }
-      const hits = idx.filter((i) => i.t.toLowerCase().includes(q) || (i.s||'').toLowerCase().includes(q)).slice(0, 8);
-      results.innerHTML = hits.length ? hits.map((h) => `<li><a href="${h.u}" class="flex items-center gap-3 px-4 py-2.5 hover:bg-surface2"><span class="text-base">${h.e||''}</span><span class="flex-1"><span class="block font-medium">${h.t}</span><span class="block text-xs text-muted">${h.k}</span></span></a></li>`).join('') : `<li class="px-4 py-3 text-muted">No results for “${q}”</li>`;
+      const hits = (idx || []).filter((i: any) => i.t.toLowerCase().includes(q) || (i.s||'').toLowerCase().includes(q)).slice(0, 8);
+      results.innerHTML = hits.length ? hits.map((h: any) => `<li><a href="${h.u}" class="flex items-center gap-3 px-4 py-2.5 hover:bg-surface2"><span class="text-base">${h.e||''}</span><span class="flex-1"><span class="block font-medium">${h.t}</span><span class="block text-xs text-muted">${h.k}</span></span></a></li>`).join('') : `<li class="px-4 py-3 text-muted">No results for “${q}”</li>`;
     });
   }
   bind();

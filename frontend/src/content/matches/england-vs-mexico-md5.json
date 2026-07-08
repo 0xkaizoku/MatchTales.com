@@ -1,0 +1,50 @@
+{
+  "slug": "england-vs-mexico-md5",
+  "headline": "Triumph for England in Tense 3-2 Knockout Battle",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A decisive Round of 16 knockout match with one team advancing and one sent home from the 2026 World Cup.",
+  "teaser": "The final whistle blew at Estadio Azteca with a 3-2 scoreline. England and Mexico played out an absorbing contest in this Round of 16 fixture.",
+  "story": "Under the bright lights in Mexico City, England and Mexico took to the pitch on 2026-07-05 for a highly anticipated knockout fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.\n\nWith both managers deploying disciplined defensive setups, space was at a premium. Jude Bellingham showed moments of brilliance for England, while Santiago Giménez was the creative heartbeat for Mexico. In the end, a few decisive moments settled the score at 3-2, giving fans plenty to talk about.\n\nFor the victors, this result represents a massive step toward their World Cup dreams. For the defeated, it is a heartbreaking end to their campaign.",
+  "stakes": "In the Round of 16, there is no room for error. A single loss means the end of the World Cup dream for either England or Mexico.",
+  "rivalryAngle": "The footballing connection between England and Mexico adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "England are affectionately known as the Three Lions.",
+    "Mexico are affectionately known as the El Tri.",
+    "This high-profile match was held at Estadio Azteca in Mexico City on 2026-07-05."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Jude Bellingham",
+      "team": "England",
+      "hook": "The key playmaker leading the tactical setup for the Three Lions."
+    },
+    {
+      "name": "Santiago Giménez",
+      "team": "Mexico",
+      "hook": "The creative spark expected to make the difference for the El Tri."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "england",
+    "mexico",
+    "group-r16"
+  ],
+  "home": "England",
+  "away": "Mexico",
+  "homeCode": "ENG",
+  "awayCode": "MEX",
+  "homeFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  "awayFlag": "🇲🇽",
+  "group": "R16",
+  "matchday": 5,
+  "date": "2026-07-05",
+  "time": "20:00",
+  "venue": "Estadio Azteca",
+  "city": "Mexico City",
+  "status": "FINISHED",
+  "homeScore": 3,
+  "awayScore": 2,
+  "marquee": true,
+  "liveMinute": null
+}

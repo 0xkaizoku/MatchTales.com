@@ -6,8 +6,21 @@ Run: python3 scripts/build_seed.py
 """
 import json
 from dataclasses import dataclass, field
+from datetime import date
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
+
+TOURNAMENT_START = "2026-06-11"
+TOURNAMENT_END = "2026-07-19"
+
+def tournament_today() -> str:
+    """Clamp real calendar date to the World Cup window for meta.today."""
+    today = date.today().isoformat()
+    if today < TOURNAMENT_START:
+        return TOURNAMENT_START
+    if today > TOURNAMENT_END:
+        return TOURNAMENT_END
+    return today
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT.parent / "frontend" / "src" / "data" / "seed.json"
@@ -270,27 +283,27 @@ RIV = [
    "blurb":"Moscow, 2018. England led a World Cup semi-final and dared to dream — then Croatia broke their hearts in extra time. Eight years on, they meet again.",
    "points":["2018 semi-final: Croatia won 2-1 after extra time","Modrić's last tournament vs Bellingham's first as a star","Group F's defining fixture"],
    "img":"https://images.unsplash.com/photo-1556152352-8edad147cc21?crop=entropy&cs=srgb&fm=jpg&q=85","heat":9.4},
-  {"slug":"usa-iran","title":"USA vs Iran — More Than A Game","teams":["Brazil","Haiti"],
-   "blurb":"From the politically-charged 1998 clash in Lyon to the tense 2022 decider, no fixture carries more weight off the pitch than this one.",
-   "points":["1998: Iran won 2-1 in an emotional Lyon night","2022: USA won 1-0 to advance","A rivalry that transcends sport"],
-   "img":"https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85","heat":8.7},
-  {"slug":"uruguay-ghana","title":"Uruguay vs Ghana — The Suárez Wound","teams":["Egypt","Ghana"],
-   "blurb":"2010: Luis Suárez's handball on the line denied Ghana a place in history. 2022: Ghana's revenge mission backfired. The trilogy continues.",
-   "points":["2010 QF: Suárez handball, Gyan misses the penalty","2022: Uruguay won 2-0 but both went home","Africa's greatest near-miss"],
-   "img":"https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85","heat":8.9},
-  {"slug":"germany-algeria","title":"Germany vs Algeria — Old Scores","teams":["Argentina","Austria"],
-   "blurb":"From the 1982 'Disgrace of Gijón' to the 2014 extra-time epic, these two share one of the World Cup's most loaded histories.",
-   "points":["1982: Algeria beat West Germany, then the Gijón scandal","2014: Germany edged a classic 2-1 in extra time","Redemption on both sides"],
-   "img":"https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85","heat":7.8},
+   {"slug":"usa-iran","title":"USA vs Iran — More Than A Game","teams":["United States","Iran"],
+    "blurb":"From the politically-charged 1998 clash in Lyon to the tense 2022 decider, no fixture carries more weight off the pitch than this one.",
+    "points":["1998: Iran won 2-1 in an emotional Lyon night","2022: USA won 1-0 to advance","A rivalry that transcends sport"],
+    "img":"https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85","heat":8.7},
+   {"slug":"uruguay-ghana","title":"Uruguay vs Ghana — The Suárez Wound","teams":["Uruguay","Ghana"],
+    "blurb":"2010: Luis Suárez's handball on the line denied Ghana a place in history. 2022: Ghana's revenge mission backfired. The trilogy continues.",
+    "points":["2010 QF: Suárez handball, Gyan misses the penalty","2022: Uruguay won 2-0 but both went home","Africa's greatest near-miss"],
+    "img":"https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85","heat":8.9},
+   {"slug":"germany-algeria","title":"Germany vs Algeria — Old Scores","teams":["Germany","Algeria"],
+    "blurb":"From the 1982 'Disgrace of Gijón' to the 2014 extra-time epic, these two share one of the World Cup's most loaded histories.",
+    "points":["1982: Algeria beat West Germany, then the Gijón scandal","2014: Germany edged a classic 2-1 in extra time","Redemption on both sides"],
+    "img":"https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85","heat":7.8},
 ]
 
 # ---- Iconic moments
 MOMENTS = [
-  {"year":1986,"title":"Maradona's Hand of God & Goal of the Century","team":"United States","text":"Within four minutes, Diego Maradona produced football's most infamous goal and its most beautiful — both against England."},
-  {"year":1950,"title":"The Maracanazo","team":"Egypt","text":"Uruguay silenced 200,000 Brazilians at the Maracanã to win the World Cup in the greatest upset the sport has seen."},
-  {"year":2022,"title":"Argentina 3-3 France — The Greatest Final","team":"United States","text":"Messi vs Mbappé, a final-hat-trick, and penalties. Many call it the finest World Cup final ever played."},
-  {"year":2014,"title":"Germany 7-1 Brazil","team":"Argentina","text":"On home soil, Brazil suffered the most shocking semi-final collapse in tournament history."},
-  {"year":2002,"title":"Senegal Shock France","team":"Scotland","text":"World Cup debutants Senegal beat the reigning champions in the opening match — a statement heard across a continent."},
+  {"year":1986,"title":"Maradona's Hand of God & Goal of the Century","team":"Argentina","text":"Within four minutes, Diego Maradona produced football's most infamous goal and its most beautiful — both against England."},
+  {"year":1950,"title":"The Maracanazo","team":"Uruguay","text":"Uruguay silenced 200,000 Brazilians at the Maracanã to win the World Cup in the greatest upset the sport has seen."},
+  {"year":2022,"title":"Argentina 3-3 France — The Greatest Final","team":"Argentina","text":"Messi vs Mbappé, a final-hat-trick, and penalties. Many call it the finest World Cup final ever played."},
+  {"year":2014,"title":"Germany 7-1 Brazil","team":"Germany","text":"On home soil, Brazil suffered the most shocking semi-final collapse in tournament history."},
+  {"year":2002,"title":"Senegal Shock France","team":"Senegal","text":"World Cup debutants Senegal beat the reigning champions in the opening match — a statement heard across a continent."},
   {"year":2018,"title":"Croatia's Run to the Final","team":"Croatia","text":"A nation of four million played three straight knockout games to extra time and reached the final — pure defiance."},
 ]
 
@@ -437,17 +450,32 @@ F.append(fx("Netherlands","Morocco","R32",4,"2026-06-29","21:00","MetLife Stadiu
 F.append(fx("Norway","Ivory Coast","R32",4,"2026-06-30","13:00","BC Place","Vancouver","FINISHED",2,1,True))
 F.append(fx("France","Sweden","R32",4,"2026-06-30","16:00","SoFi Stadium","Los Angeles","FINISHED",3,0,True))
 F.append(fx("Mexico","Ecuador","R32",4,"2026-06-30","21:00","Estadio Azteca","Mexico City","FINISHED",2,0,True))
-# Today's R32 matches (July 1) - UPCOMING
-F.append(fx("England","DR Congo","R32",4,"2026-07-01","13:00","MetLife Stadium","New Jersey","FINISHED",2,1,True))
-F.append(fx("Belgium","Senegal","R32",4,"2026-07-01","16:00","AT&T Stadium","Dallas","UPCOMING",None,None,True))
-F.append(fx("United States","Bosnia and Herzegovina","R32",4,"2026-07-01","19:00","Mercedes-Benz Stadium","Atlanta","UPCOMING",None,None,True))
-# Upcoming R32 matches
-F.append(fx("Spain","Austria","R32",4,"2026-07-02","15:00","SoFi Stadium","Los Angeles","UPCOMING",None,None,True))
-F.append(fx("Portugal","Croatia","R32",4,"2026-07-02","19:00","BMO Field","Toronto","UPCOMING",None,None,True))
-F.append(fx("Switzerland","Algeria","R32",4,"2026-07-02","21:00","BC Place","Vancouver","UPCOMING",None,None,True))
-F.append(fx("Australia","Egypt","R32",4,"2026-07-03","16:00","Levi's Stadium","San Francisco","UPCOMING",None,None,True))
-F.append(fx("Argentina","Cape Verde","R32",4,"2026-07-03","19:00","MetLife Stadium","New Jersey","UPCOMING",None,None,True))
-F.append(fx("Colombia","Ghana","R32",4,"2026-07-04","19:00","NRG Stadium","Houston","UPCOMING",None,None,True))
+# R32 completed results (verified via ESPN/FIFA, July 8 2026)
+F.append(fx("England","DR Congo","R32",4,"2026-07-01","13:00","Mercedes-Benz Stadium","Atlanta","FINISHED",2,1,True))
+F.append(fx("Belgium","Senegal","R32",4,"2026-07-01","16:00","Lumen Field","Seattle","FINISHED",3,2,True))
+F.append(fx("United States","Bosnia and Herzegovina","R32",4,"2026-07-01","19:00","Levi's Stadium","Santa Clara","FINISHED",2,0,True))
+F.append(fx("Spain","Austria","R32",4,"2026-07-02","15:00","SoFi Stadium","Los Angeles","FINISHED",3,0,True))
+F.append(fx("Portugal","Croatia","R32",4,"2026-07-02","19:00","BMO Field","Toronto","FINISHED",2,1,True))
+F.append(fx("Switzerland","Algeria","R32",4,"2026-07-02","21:00","BC Place","Vancouver","FINISHED",2,0,True))
+F.append(fx("Australia","Egypt","R32",4,"2026-07-03","16:00","AT&T Stadium","Arlington","FINISHED",1,1,True))
+F.append(fx("Argentina","Cape Verde","R32",4,"2026-07-03","19:00","Hard Rock Stadium","Miami Gardens","FINISHED",3,2,True))
+F.append(fx("Colombia","Ghana","R32",4,"2026-07-03","21:00","Arrowhead Stadium","Kansas City","FINISHED",1,0,True))
+
+# Round of 16 (matchday 5) - all finished as of July 7, 2026
+F.append(fx("Morocco","Canada","R16",5,"2026-07-04","13:00","NRG Stadium","Houston","FINISHED",3,0,True))
+F.append(fx("France","Paraguay","R16",5,"2026-07-04","16:00","Lincoln Financial Field","Philadelphia","FINISHED",1,0,True))
+F.append(fx("Norway","Brazil","R16",5,"2026-07-05","13:00","MetLife Stadium","New Jersey","FINISHED",2,1,True))
+F.append(fx("England","Mexico","R16",5,"2026-07-05","20:00","Estadio Azteca","Mexico City","FINISHED",3,2,True))
+F.append(fx("Spain","Portugal","R16",5,"2026-07-06","13:00","AT&T Stadium","Dallas","FINISHED",1,0,True))
+F.append(fx("Belgium","United States","R16",5,"2026-07-06","16:00","Lumen Field","Seattle","FINISHED",4,1,True))
+F.append(fx("Argentina","Egypt","R16",5,"2026-07-07","13:00","Mercedes-Benz Stadium","Atlanta","FINISHED",3,2,True))
+F.append(fx("Switzerland","Colombia","R16",5,"2026-07-07","16:00","BC Place","Vancouver","FINISHED",0,0,True))
+
+# Quarter-finals (matchday 6) - upcoming as of July 8, 2026
+F.append(fx("France","Morocco","QF",6,"2026-07-09","16:00","Gillette Stadium","Boston","UPCOMING",None,None,True))
+F.append(fx("Spain","Belgium","QF",6,"2026-07-10","12:00","SoFi Stadium","Los Angeles","UPCOMING",None,None,True))
+F.append(fx("Norway","England","QF",6,"2026-07-11","17:00","Hard Rock Stadium","Miami","UPCOMING",None,None,True))
+F.append(fx("Argentina","Switzerland","QF",6,"2026-07-11","20:00","Arrowhead Stadium","Kansas City","UPCOMING",None,None,True))
 
 # ---- Build groups standings from finished fixtures
 groups = {}
@@ -544,8 +572,8 @@ data = {
     "name":"MatchTales",
     "tournament":"FIFA World Cup 2026",
     "hosts":["United States","Mexico","Canada"],
-    "startDate":"2026-06-11",
-    "today":"2026-07-02",
+    "startDate":TOURNAMENT_START,
+    "today":tournament_today(),
     "tagline":"Why this match matters.",
     "groupsCount":12, "teamsCount":48,
   },

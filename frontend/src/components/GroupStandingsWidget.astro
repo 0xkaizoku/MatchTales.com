@@ -45,22 +45,28 @@ const initial = (Astro.props.initial as string) || groups[0];
   ))}
   <p class="text-[11px] text-muted px-4 py-2.5 border-t border-border/60 font-sans"><span class="inline-block w-1 h-3 rounded-full bg-pitch align-middle"></span> Qualify <span class="inline-block w-1 h-3 rounded-full bg-warning align-middle ml-2"></span> Best-third contention</p>
 </div>
-<script>
-  function bindGst() {
-    document.querySelectorAll('.gst-tab').forEach((tab) => {
-      if (tab.dataset.bound) return; tab.dataset.bound = '1';
-      tab.addEventListener('click', () => {
-        const g = tab.dataset.gtab;
-        const root = tab.closest('[data-testid="group-standings-widget"]');
-        root.querySelectorAll('.gst-tab').forEach((t) => {
-          const on = t.dataset.gtab === g;
-          t.classList.toggle('border-pitch', on); t.classList.toggle('bg-pitch', on); t.classList.toggle('text-white', on);
-          t.classList.toggle('border-border', !on); t.classList.toggle('text-muted', !on);
+  <script>
+    function bindGst() {
+      document.querySelectorAll('.gst-tab').forEach(function(tab) {
+        var htmlTab = tab;
+        if (htmlTab.dataset.bound) return; htmlTab.dataset.bound = '1';
+        htmlTab.addEventListener('click', function() {
+          var g = htmlTab.dataset.gtab;
+          var root = htmlTab.closest('[data-testid="group-standings-widget"]');
+          if (!root) return;
+          root.querySelectorAll('.gst-tab').forEach(function(t) {
+            var ht = t;
+            var on = ht.dataset.gtab === g;
+            ht.classList.toggle('border-pitch', on); ht.classList.toggle('bg-pitch', on); ht.classList.toggle('text-white', on);
+            ht.classList.toggle('border-border', !on); ht.classList.toggle('text-muted', !on);
+          });
+          root.querySelectorAll('.gst-panel').forEach(function(p) {
+            var hp = p;
+            hp.classList.toggle('hidden', hp.dataset.gpanel !== g);
+          });
         });
-        root.querySelectorAll('.gst-panel').forEach((p) => p.classList.toggle('hidden', p.dataset.gpanel !== g));
       });
-    });
-  }
-  bindGst();
-  document.addEventListener('astro:after-swap', bindGst);
-</script>
+    }
+    bindGst();
+    document.addEventListener('astro:after-swap', bindGst);
+  </script>

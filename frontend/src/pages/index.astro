@@ -55,7 +55,11 @@ const schema = {
         <span class="text-muted">· USA · Mexico · Canada</span>
       </div>
       <div class="flex items-center gap-2 text-[12px] font-sans text-muted">
-        <span class="inline-flex items-center gap-1.5"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>Tournament schedule alignment</span>
+        {todayMatches.length === 0 && tomorrowMatches.length === 0 ? (
+          <span class="inline-flex items-center gap-1.5 text-pitch font-medium"><span class="w-2 h-2 rounded-full bg-pitch"></span>Tournament concluded</span>
+        ) : (
+          <span class="inline-flex items-center gap-1.5"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>Tournament schedule alignment</span>
+        )}
         <span>· 48 teams · 12 groups</span>
       </div>
     </div>
@@ -76,6 +80,21 @@ const schema = {
         </div>
         <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4" data-testid="today-matches-grid">
           {todayMatches.map((m) => <MatchStoryCard m={m} />)}
+        </div>
+      </section>
+    )}
+
+    <!-- Tournament complete notice -->
+    {todayMatches.length === 0 && tomorrowMatches.length === 0 && (
+      <section class="mt-12" aria-labelledby="complete-h">
+        <div class="rounded-card border border-border/80 bg-surface p-6 sm:p-8 shadow-card text-center">
+          <div class="text-4xl mb-3">🏆</div>
+          <h2 id="complete-h" class="font-head text-2xl sm:text-3xl font-semibold tracking-tight">The 2026 World Cup is complete</h2>
+          <p class="mt-2 text-muted font-sans max-w-lg mx-auto">All fixtures have been played. Browse the final standings, relive the match reports, and read the stories that made this tournament unforgettable.</p>
+          <div class="mt-5 flex flex-wrap items-center justify-center gap-3">
+            <a href="/fixtures" class="inline-flex items-center h-11 rounded-btn bg-pitch px-5 font-sans font-medium text-white hover:bg-pitch2 transition-colors">All results</a>
+            <a href="/stories" class="inline-flex items-center h-11 rounded-btn border border-border px-5 font-sans font-medium hover:bg-surface2 transition-colors">Read stories</a>
+          </div>
         </div>
       </section>
     )}

@@ -1,0 +1,50 @@
+{
+  "slug": "argentina-vs-switzerland-md6",
+  "headline": "High Stakes in Kansas City as Argentina Meets Switzerland in the Quarter-Final",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A blockbuster Quarter-Final fixture in Kansas City with a place in the next round on the line.",
+  "teaser": "With Group QF wide open, both Argentina and Switzerland view this fixture as a must-win game. Here is what to watch for.",
+  "story": "Anticipation is building ahead of the knockout fixture between Argentina and Switzerland at the Arrowhead Stadium in Kansas City. Both teams are finalized their preparations for this critical Quarter-Final showdown.\n\nTactical matchups across the pitch will define the contest. Argentina will rely on their talisman Lautaro Martínez to unlock the opposition's defensive block, while Switzerland will look to their key playmaker Granit Xhaka to establish control in the midfield. Both managers have kept their cards close to their chest in the pre-match press conferences.\n\nWith only single-elimination matches in the knockout phase, there is no margin for error.",
+  "stakes": "In the Quarter-Final, there is no room for error. A single loss means the end of the World Cup dream for either Argentina or Switzerland.",
+  "rivalryAngle": "The footballing connection between Argentina and Switzerland adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "Argentina are affectionately known as the La Albiceleste.",
+    "Switzerland are affectionately known as the Nati.",
+    "This high-profile match was held at Arrowhead Stadium in Kansas City on 2026-07-11."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Lautaro Martínez",
+      "team": "Argentina",
+      "hook": "The key playmaker leading the tactical setup for the La Albiceleste."
+    },
+    {
+      "name": "Granit Xhaka",
+      "team": "Switzerland",
+      "hook": "The creative spark expected to make the difference for the Nati."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "argentina",
+    "switzerland",
+    "group-qf"
+  ],
+  "home": "Argentina",
+  "away": "Switzerland",
+  "homeCode": "ARG",
+  "awayCode": "SUI",
+  "homeFlag": "🇦🇷",
+  "awayFlag": "🇨🇭",
+  "group": "QF",
+  "matchday": 6,
+  "date": "2026-07-11",
+  "time": "20:00",
+  "venue": "Arrowhead Stadium",
+  "city": "Kansas City",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null
+}

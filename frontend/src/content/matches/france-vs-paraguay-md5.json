@@ -1,0 +1,50 @@
+{
+  "slug": "france-vs-paraguay-md5",
+  "headline": "Late Drama Sees France Knock Out Paraguay 1-0",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A decisive Round of 16 knockout match with one team advancing and one sent home from the 2026 World Cup.",
+  "teaser": "Tactical discipline and clinical finishes defined this knockout encounter. Here is how France and Paraguay fought out their clash.",
+  "story": "Under the bright lights in Philadelphia, France and Paraguay took to the pitch on 2026-07-04 for a highly anticipated knockout fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.\n\nWith both managers deploying disciplined defensive setups, space was at a premium. Kylian Mbappé showed moments of brilliance for France, while Julio Enciso was the creative heartbeat for Paraguay. In the end, a few decisive moments settled the score at 1-0, giving fans plenty to talk about.\n\nFor the victors, this result represents a massive step toward their World Cup dreams. For the defeated, it is a heartbreaking end to their campaign.",
+  "stakes": "In the Round of 16, there is no room for error. A single loss means the end of the World Cup dream for either France or Paraguay.",
+  "rivalryAngle": "The footballing connection between France and Paraguay adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "funFacts": [
+    "France are affectionately known as the Les Bleus.",
+    "Paraguay are affectionately known as the La Albirroja.",
+    "This high-profile match was held at Lincoln Financial Field in Philadelphia on 2026-07-04."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kylian Mbappé",
+      "team": "France",
+      "hook": "The key playmaker leading the tactical setup for the Les Bleus."
+    },
+    {
+      "name": "Julio Enciso",
+      "team": "Paraguay",
+      "hook": "The creative spark expected to make the difference for the La Albirroja."
+    }
+  ],
+  "headToHead": "Historically, matches between these two nations have always been tightly contested affairs, with tactical discipline proving key.",
+  "tags": [
+    "france",
+    "paraguay",
+    "group-r16"
+  ],
+  "home": "France",
+  "away": "Paraguay",
+  "homeCode": "FRA",
+  "awayCode": "PAR",
+  "homeFlag": "🇫🇷",
+  "awayFlag": "🇵🇾",
+  "group": "R16",
+  "matchday": 5,
+  "date": "2026-07-04",
+  "time": "16:00",
+  "venue": "Lincoln Financial Field",
+  "city": "Philadelphia",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 0,
+  "marquee": true,
+  "liveMinute": null
+}
