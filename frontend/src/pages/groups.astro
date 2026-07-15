@@ -3,11 +3,16 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { data, getFlagUrl } from '../lib/site';
 const groups = Object.keys(data.groups).sort();
 ---
-<BaseLayout title="Groups & Standings — World Cup 2026 | MatchTales" description="All 12 groups of the 2026 World Cup with live-style standings and the storylines shaping qualification.">
+<BaseLayout title="Groups & Standings | World Cup 2026" description="All 12 groups of the 2026 World Cup with final standings, qualification race context and match storylines." keywords="World Cup 2026 groups, standings, tables, qualification">
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
     <header class="mt-8">
-      <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">Groups & Standings</h1>
-      <p class="mt-2 text-muted font-sans max-w-2xl">Twelve groups, 48 teams, one brutal race for the knockouts. Here's where everyone stands a week in.</p>
+      <div class="flex flex-wrap items-end justify-between gap-3">
+        <div>
+          <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">Groups & Standings</h1>
+          <p class="mt-2 text-muted font-sans max-w-2xl">Twelve groups, 48 teams, final group-stage tables. Top two plus best thirds advanced to the Round of 32.</p>
+        </div>
+        <a href="/leaderboard" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4 whitespace-nowrap">Full leaderboards →</a>
+      </div>
     </header>
     <div class="mt-6 grid sm:grid-cols-2 lg:grid-cols-3 gap-5 pb-10">
       {groups.map((g) => (

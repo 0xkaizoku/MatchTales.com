@@ -1,28 +1,28 @@
 ---
-title: "Norway vs England Match Report"
-subtitle: "A fascinating encounter awaits at Hard Rock Stadium on Matchday 6. Can Norway overcome the tactical setup of England to secure a crucial win?"
+title: "Norway vs England 1-2 Match Report"
+subtitle: "England trailed, regrouped, and finished 2-1 winners against a fearless Norway side in Dallas."
 category: "Match Report"
-excerpt: "A blockbuster Quarter-Final fixture in Miami with a place in the next round on the line."
-image: "https://images.unsplash.com/photo-1551244072-5d12893278ab?crop=entropy&cs=srgb&fm=jpg&q=85"
+excerpt: "Haaland and Odegaard vs the Three Lions: a quarter-final packed with Premier League storylines."
+image: "https://images.unsplash.com/photo-1551244072-5d12893278ab?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 4
 pubDate: 2026-07-11
 ---
 
 ## The Showdown at Hard Rock Stadium
 
-On 2026-07-11, the footballing world turned its attention to Hard Rock Stadium in Miami for an absorbing encounter between **Norway** and **England** in the Quarter-Final.
+On 2026-07-11, the footballing world turned its attention to Hard Rock Stadium in Miami for an absorbing encounter between **Norway** and **England** in the QF.
 
-Football fans around the world are looking forward to 2026-07-11, when Norway and England will go head-to-head in Miami. The match promises to be a showcase of tactical discipline and individual skill.
+Norway started like a side with nothing to lose. Early pressure and a clinical finish put England behind and silenced large parts of the stadium. England's response was pure tournament football: tighter midfield distances, quicker wide switches, and growing territory.
 
-The clash of styles makes this game particularly intriguing. The structural discipline of Norway will be tested by the fluid attacking movements of England, with Erling Haaland and Jude Bellingham expected to play central roles in their respective strategies.
+Two second-half goals flipped the scoreline. Norway still threatened through Haaland's runs in behind, forcing England's back line into last-ditch recovery sprints. The Three Lions managed the final minutes with game-smart fouls and composure in possession.
 
-The fans are already gathering in Miami, creating a wonderful festival atmosphere. Regardless of the outcome, this promises to be a classic chapter in their footballing history.
+England advance 2-1. Norway leave with a tournament that reintroduced them as a genuine knockout force.
 
 ## Stakes and Context
 
-In the Quarter-Final, there is no room for error. A single loss means the end of the World Cup dream for either Norway or England.
+Quarter-final football leaves no safety net. England move on; Norway's revival ends one step short of the semis.
 
-The footballing connection between Norway and England adds an extra layer of emotion to this fixture, making it a must-watch for fans.
+So many club teammates on opposite sides made this feel like a Premier League derby with a World Cup prize.
 
 ### Head-to-Head History
 
@@ -39,3 +39,7 @@ The match was defined by individual battles and standout performances from:
 - Norway are affectionately known as the Løvene.
 - England are affectionately known as the Three Lions.
 - This high-profile match was held at Hard Rock Stadium in Miami on 2026-07-11.
+
+## Final Score
+
+**Norway 1-2 England**

@@ -3,7 +3,7 @@ title: "United States vs Paraguay 4-1 Match Report"
 subtitle: "A thrilling match in Atlanta concludes with United States and Paraguay leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group D that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1551958219-acbc608c6377?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 4
 pubDate: 2026-06-13
 ---

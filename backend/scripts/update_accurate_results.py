@@ -152,7 +152,13 @@ ACCURATE_SCORES = {
     "spain-vs-portugal-md5":                    (1, 0),
     "belgium-vs-united-states-md5":             (4, 1),
     "argentina-vs-egypt-md5":                   (3, 2),
-    "switzerland-vs-colombia-md5":              (0, 0),
+    "switzerland-vs-colombia-md5":              (0, 0),  # Switzerland advance on pens
+
+    # QUARTER-FINALS
+    "france-vs-morocco-md6":                    (2, 1),
+    "spain-vs-belgium-md6":                     (2, 0),
+    "norway-vs-england-md6":                    (1, 2),
+    "argentina-vs-switzerland-md6":             (2, 0),
 }
 
 print("Applying accurate match results to seed.json fixtures...")

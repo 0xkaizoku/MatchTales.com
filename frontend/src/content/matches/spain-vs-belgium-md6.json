@@ -1,12 +1,12 @@
 {
   "slug": "spain-vs-belgium-md6",
-  "headline": "Spain and Belgium Set for Epic Quarter-Final Showdown",
+  "headline": "Spain Blank Belgium 2-0 and March into the Semis",
   "whyCareScore": 9.2,
-  "whyCareReason": "A blockbuster Quarter-Final fixture in Los Angeles with a place in the next round on the line.",
-  "teaser": "With Group QF wide open, both Spain and Belgium view this fixture as a must-win game. Here is what to watch for.",
-  "story": "Football fans around the world are looking forward to 2026-07-10, when Spain and Belgium will go head-to-head in Los Angeles. The match promises to be a showcase of tactical discipline and individual skill.\n\nThe clash of styles makes this game particularly intriguing. The structural discipline of Spain will be tested by the fluid attacking movements of Belgium, with Lamine Yamal and Kevin De Bruyne expected to play central roles in their respective strategies.\n\nThe fans are already gathering in Los Angeles, creating a wonderful festival atmosphere. Regardless of the outcome, this promises to be a classic chapter in their footballing history.",
-  "stakes": "In the Quarter-Final, there is no room for error. A single loss means the end of the World Cup dream for either Spain or Belgium.",
-  "rivalryAngle": "The footballing connection between Spain and Belgium adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "whyCareReason": "Possession kings against a Belgian side built to disrupt: a quarter-final that decided a semi-final berth in Atlanta.",
+  "teaser": "Spain controlled the tempo and converted two clear chances to eliminate Belgium 2-0 in the quarter-finals.",
+  "story": "Spain arrived with the same patient, positional game that carried them through the group and Round of 16. Belgium sat deep, looked for transitions, and nearly stole the opener on a second-half break.\n\nLa Roja's midfield eventually found the gaps. Two well-worked goals rewarded their territorial dominance and punished Belgian fatigue late on. Belgium's stars created flashes, but Spain's structure never fully cracked.\n\nAt 2-0, the quarter-final was settled. Spain advance as one of the tournament's most coherent teams; Belgium's golden generation exits at the last eight.",
+  "stakes": "Winner to the semi-finals. Loser goes home after a long knockout road.",
+  "rivalryAngle": "Spain's possession school against Belgium's athletic counter-punch is a modern European classic.",
   "funFacts": [
     "Spain are affectionately known as the La Roja.",
     "Belgium are affectionately known as the Red Devils.",
@@ -42,9 +42,10 @@
   "time": "12:00",
   "venue": "SoFi Stadium",
   "city": "Los Angeles",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 0,
   "marquee": true,
-  "liveMinute": null
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 }

@@ -46,5 +46,9 @@
   "homeScore": 0,
   "awayScore": 0,
   "marquee": true,
-  "liveMinute": null
+  "liveMinute": null,
+  "decidedBy": "pens",
+  "homePen": 3,
+  "awayPen": 1,
+  "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 }

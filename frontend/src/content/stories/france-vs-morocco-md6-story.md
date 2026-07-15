@@ -1,28 +1,28 @@
 ---
-title: "France vs Morocco Match Report"
-subtitle: "The stage is set in Boston for a massive clash between France and Morocco. Both nations are hungry for three points to boost their knockout dreams."
+title: "France vs Morocco 2-1 Match Report"
+subtitle: "France survived a Morocco surge and sealed a 2-1 win at Gillette Stadium to book their place in the last four."
 category: "Match Report"
-excerpt: "A blockbuster Quarter-Final fixture in Boston with a place in the next round on the line."
-image: "https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=srgb&fm=jpg&q=85"
+excerpt: "A heavyweight quarter-final in Boston: Mbappe vs the Atlas Lions, with a World Cup semi-final on the line."
+image: "https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 4
 pubDate: 2026-07-09
 ---
 
 ## The Showdown at Gillette Stadium
 
-On 2026-07-09, the footballing world turned its attention to Gillette Stadium in Boston for an absorbing encounter between **France** and **Morocco** in the Quarter-Final.
+On 2026-07-09, the footballing world turned its attention to Gillette Stadium in Boston for an absorbing encounter between **France** and **Morocco** in the QF.
 
-Football fans around the world are looking forward to 2026-07-09, when France and Morocco will go head-to-head in Boston. The match promises to be a showcase of tactical discipline and individual skill.
+Boston was a wall of noise as France and Morocco renewed their World Cup rivalry in a quarter-final that lived up to every billing. Les Bleus struck first through clinical finishing in the opening half, then absorbed waves of Atlas Lions pressure after the break.
 
-The clash of styles makes this game particularly intriguing. The structural discipline of France will be tested by the fluid attacking movements of Morocco, with Kylian Mbappé and Achraf Hakimi expected to play central roles in their respective strategies.
+Morocco pulled a goal back and poured numbers forward, forcing France into desperate blocks and a series of late clearances. Kylian Mbappe remained the constant threat on the counter, stretching Morocco's full-backs whenever space opened.
 
-The fans are already gathering in Boston, creating a wonderful festival atmosphere. Regardless of the outcome, this promises to be a classic chapter in their footballing history.
+When the final whistle confirmed a 2-1 scoreline, France had earned a semi-final ticket the hard way. Morocco exited with pride intact after another deep knockout run.
 
 ## Stakes and Context
 
-In the Quarter-Final, there is no room for error. A single loss means the end of the World Cup dream for either France or Morocco.
+A single loss ended Morocco's tournament. France now chase a third straight World Cup final appearance.
 
-The footballing connection between France and Morocco adds an extra layer of emotion to this fixture, making it a must-watch for fans.
+France and Morocco share players, pathways and recent World Cup history. This meeting carried club-level familiarity and national-level stakes.
 
 ### Head-to-Head History
 
@@ -39,3 +39,7 @@ The match was defined by individual battles and standout performances from:
 - France are affectionately known as the Les Bleus.
 - Morocco are affectionately known as the Atlas Lions.
 - This high-profile match was held at Gillette Stadium in Boston on 2026-07-09.
+
+## Final Score
+
+**France 2-1 Morocco**

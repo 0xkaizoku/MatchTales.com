@@ -3,7 +3,7 @@ title: "South Korea vs South Africa 0-1 Match Report"
 subtitle: "A thrilling match in Guadalajara concludes with South Korea and South Africa leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group A that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1518843025960-d60217f226f5?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1518843025960-d60217f226f5?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 4
 pubDate: 2026-06-22
 ---

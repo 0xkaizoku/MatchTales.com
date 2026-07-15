@@ -3,7 +3,7 @@ title: "Argentina vs Jordan 3-1 Match Report"
 subtitle: "A thrilling match in New Jersey concludes with Argentina and Jordan leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group J that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 4
 pubDate: 2026-06-25
 ---

@@ -2,12 +2,17 @@ import seed from '../data/seed.json';
 
 export const SITE = {
   name: 'MatchTales',
-  title: 'MatchTales — Why This Match Matters | World Cup 2026',
+  title: 'MatchTales | Why This Match Matters | World Cup 2026',
   description:
     'MatchTales is the story layer on top of the 2026 FIFA World Cup. Why-Care scores, rivalries, player legacies, iconic moments and human-written stories for every match.',
   url: 'https://www.matchtales.com',
-  ogImage: '/og-default.svg',
+  // Social crawlers prefer raster OG images over SVG
+  ogImage:
+    'https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&h=630&q=80',
   twitter: '@matchtales',
+  locale: 'en_US',
+  keywords:
+    'World Cup 2026, FIFA World Cup, match previews, match reports, group standings, Why Care score, football stories, soccer narratives',
 };
 
 export const BACKEND_URL =
@@ -16,7 +21,12 @@ export const BACKEND_URL =
 export const data = seed as any;
 
 export function slugify(s: string) {
-  return s.toLowerCase().replace(/\s+/g, '-');
+  return s
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/(^-|-$)/g, '');
 }
 
 export function teamBySlug(slug: string) {
@@ -25,6 +35,11 @@ export function teamBySlug(slug: string) {
 
 export function teamByName(name: string) {
   return data.teams.find((t: any) => t.name === name);
+}
+
+/** Prefer canonical team.slug from seed; never invent broken links. */
+export function teamSlugByName(name: string) {
+  return teamByName(name)?.slug || slugify(name);
 }
 
 export function fixturesByGroup(group: string) {
@@ -57,9 +72,87 @@ export function statusLabel(status: string) {
   return 'Upcoming';
 }
 
-// Build a quick lookup of generated match story slugs -> for matching fixtures
+/** Stage label for group letter or knockout code. */
+export function stageLabel(group: string) {
+  const g = (group || '').toUpperCase();
+  if (g === 'R32') return 'Round of 32';
+  if (g === 'R16') return 'Round of 16';
+  if (g === 'QF') return 'Quarter-final';
+  if (g === 'SF') return 'Semi-final';
+  if (g === '3RD' || g === 'THIRD') return 'Third place';
+  if (g === 'FINAL') return 'Final';
+  if (g.length === 1) return `Group ${g}`;
+  return group;
+}
+
+/** Score display with optional pens note. */
+export function scoreDisplay(m: {
+  homeScore?: number | string | null;
+  awayScore?: number | string | null;
+  decidedBy?: string | null;
+  homePen?: number | string | null;
+  awayPen?: number | string | null;
+}) {
+  if (m.homeScore === null || m.homeScore === undefined) return null;
+  const base = `${m.homeScore}–${m.awayScore}`;
+  if (m.decidedBy === 'pens' && m.homePen != null && m.awayPen != null) {
+    return { main: base, note: `${m.homePen}–${m.awayPen} pens` };
+  }
+  if (m.decidedBy === 'aet') return { main: base, note: 'AET' };
+  return { main: base, note: null as string | null };
+}
+
 export function matchHref(slug: string) {
   return `/match/${slug}`;
+}
+
+/** Clamp meta description length for SERP display (~150-160). */
+export function seoDescription(text: string, max = 158) {
+  const t = (text || '').replace(/\s+/g, ' ').trim();
+  if (t.length <= max) return t;
+  return t.slice(0, max - 1).replace(/\s+\S*$/, '') + '…';
+}
+
+/**
+ * Resize Unsplash (and similar) URLs for bandwidth.
+ * Keeps non-Unsplash URLs untouched.
+ */
+export function optimizeImage(url: string | null | undefined, width = 800, quality = 75) {
+  if (!url) return '';
+  if (!url.includes('images.unsplash.com')) return url;
+  try {
+    const u = new URL(url);
+    u.searchParams.set('auto', 'format');
+    u.searchParams.set('fit', 'crop');
+    u.searchParams.set('w', String(width));
+    u.searchParams.set('q', String(quality));
+    // Drop overly large legacy params noise
+    u.searchParams.delete('crop');
+    u.searchParams.delete('cs');
+    u.searchParams.delete('fm');
+    return u.toString();
+  } catch {
+    return url;
+  }
+}
+
+/** Absolute URL helper for canonical / schema. */
+export function absoluteUrl(path: string) {
+  if (!path) return SITE.url;
+  if (path.startsWith('http')) return path;
+  return new URL(path.startsWith('/') ? path : `/${path}`, SITE.url).href;
+}
+
+/** Top group-stage table for leaderboard pages. */
+export function groupStageLeaders(limit = 24) {
+  const rows: any[] = [];
+  for (const g of Object.keys(data.groups)) {
+    data.groups[g].forEach((r: any, i: number) => {
+      rows.push({ ...r, group: g, groupPos: i + 1 });
+    });
+  }
+  rows.sort((a, b) => b.Pts - a.Pts || b.GD - a.GD || b.GF - a.GF);
+  return rows.slice(0, limit);
 }
 
 const flagCodeMap: Record<string, string> = {
@@ -110,10 +203,11 @@ const flagCodeMap: Record<string, string> = {
   ENG: 'gb-eng',
   CRO: 'hr',
   GHA: 'gh',
-  PAN: 'pa'
+  PAN: 'pa',
 };
 
-export function getFlagUrl(code: string) {
+/** FlagCDN URL. Use w20 for lists, w40 for cards, w80 for headers. */
+export function getFlagUrl(code: string, size: 20 | 40 | 80 = 40) {
   const c = flagCodeMap[(code || '').toUpperCase()] || 'un';
-  return `https://flagcdn.com/w40/${c}.png`;
+  return `https://flagcdn.com/w${size}/${c}.png`;
 }

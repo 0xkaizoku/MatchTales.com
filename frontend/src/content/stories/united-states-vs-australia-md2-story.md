@@ -3,7 +3,7 @@ title: "United States vs Australia 2-0 Match Report"
 subtitle: "A thrilling match in Atlanta concludes with United States and Australia leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group D that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1511512578047-dfb367046420?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1511512578047-dfb367046420?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 4
 pubDate: 2026-06-19
 ---

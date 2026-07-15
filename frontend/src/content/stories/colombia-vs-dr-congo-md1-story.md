@@ -3,7 +3,7 @@ title: "Colombia vs DR Congo 1-0 Match Report"
 subtitle: "The final whistle blew at Hard Rock Stadium with a 1-0 scoreline. Colombia and DR Congo played out an absorbing contest in this Group K fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group K that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 4
 pubDate: 2026-06-17
 ---

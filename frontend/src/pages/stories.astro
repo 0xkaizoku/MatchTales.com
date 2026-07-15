@@ -1,20 +1,46 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { optimizeImage, SITE, fmtDate } from '../lib/site';
+
 const entries = await getCollection('stories');
-const stories = entries.map((e) => ({ slug: e.id, ...e.data })).sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
-const featured = stories[0];
-const rest = stories.slice(1);
+const stories = entries
+  .map((e) => ({ slug: e.id, ...e.data, image: optimizeImage(e.data.image, 720, 72) }))
+  .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
+
+const longForm = stories.filter((s) => s.category !== 'Match Report');
+const matchReports = stories.filter((s) => s.category === 'Match Report');
+const featured = longForm[0] || stories[0];
+const longRest = longForm.filter((s) => s.slug !== featured?.slug);
+// Cap rendered match-report cards for HTML size; all remain in sitemap + search
+const reportPreview = matchReports.slice(0, 18);
+
+const schema = {
+  '@type': 'CollectionPage',
+  name: 'World Cup 2026 Stories',
+  description: 'Long-form World Cup 2026 storytelling and match reports.',
+  url: `${SITE.url}/stories`,
+};
 ---
-<BaseLayout title="Stories — World Cup 2026 Long Reads | MatchTales" description="Long-form football storytelling: the greatest upsets, the legends saying goodbye, the rivalries and the hosts' tale.">
+<BaseLayout
+  title="Stories | World Cup 2026 Long Reads"
+  description="Long-form World Cup 2026 storytelling: match reports, greatest upsets, legends saying goodbye, rivalries and host-nation tales."
+  keywords="World Cup 2026 stories, match reports, football long reads, rivalries"
+  schema={schema}
+  image={featured?.image}
+  preloadImage={featured?.image}
+>
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
     <header class="mt-8">
       <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">Stories</h1>
-      <p class="mt-2 text-muted font-sans max-w-2xl">The deep cuts — long reads on the upsets, the legacies and the moments that make this tournament unforgettable.</p>
+      <p class="mt-2 text-muted font-sans max-w-2xl">Deep reads and match reports from the 2026 World Cup. Subscribe via <a href="/rss.xml" class="text-sky hover:underline underline-offset-2">RSS</a>.</p>
     </header>
+
     {featured && (
       <a href={`/stories/${featured.slug}`} class="group mt-6 grid md:grid-cols-2 gap-0 rounded-card overflow-hidden border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow">
-        <div class="aspect-[16/10] md:aspect-auto overflow-hidden"><img src={featured.image} alt={featured.title} width="640" height="400" class="w-full h-full object-cover" /></div>
+        <div class="aspect-[16/10] md:aspect-auto overflow-hidden min-h-[220px]">
+          <img src={featured.image} alt={featured.title} width="640" height="400" class="w-full h-full object-cover" fetchpriority="high" decoding="async" sizes="(max-width: 768px) 100vw, 50vw" />
+        </div>
         <div class="p-6 sm:p-8 flex flex-col justify-center">
           <span class="text-[11px] font-sans font-medium text-pitch uppercase tracking-wide">{featured.category} · {featured.readingTime} min read</span>
           <h2 class="mt-2 font-head text-2xl sm:text-3xl font-semibold tracking-tight leading-tight group-hover:underline decoration-pitch decoration-2 underline-offset-4">{featured.title}</h2>
@@ -23,13 +49,46 @@ const rest = stories.slice(1);
         </div>
       </a>
     )}
-    <div class="mt-6 grid sm:grid-cols-2 lg:grid-cols-3 gap-5 pb-10">
-      {rest.map((s) => (
-        <a href={`/stories/${s.slug}`} class="group rounded-card overflow-hidden border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow">
-          <div class="aspect-[16/10] overflow-hidden"><img src={s.image} alt={s.title} loading="lazy" width="420" height="262" class="w-full h-full object-cover" /></div>
-          <div class="p-5"><span class="text-[11px] font-sans font-medium text-pitch uppercase tracking-wide">{s.category} · {s.readingTime} min</span><h3 class="mt-1 font-head text-lg font-semibold leading-snug group-hover:underline decoration-pitch decoration-2 underline-offset-4">{s.title}</h3><p class="mt-1.5 text-sm text-muted font-sans line-clamp-2">{s.excerpt}</p></div>
-        </a>
-      ))}
-    </div>
+
+    {longRest.length > 0 && (
+      <section class="mt-10" aria-labelledby="long-h">
+        <h2 id="long-h" class="font-head text-xl font-semibold tracking-tight mb-4">Long reads</h2>
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+          {longRest.map((s) => (
+            <a href={`/stories/${s.slug}`} class="group rounded-card overflow-hidden border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow">
+              <div class="aspect-[16/10] overflow-hidden">
+                <img src={s.image} alt={s.title} loading="lazy" decoding="async" width="420" height="262" sizes="(max-width: 640px) 100vw, 33vw" class="w-full h-full object-cover" />
+              </div>
+              <div class="p-4">
+                <span class="text-[11px] font-sans font-medium text-pitch uppercase tracking-wide">{s.category}</span>
+                <h3 class="mt-1 font-head font-semibold leading-snug group-hover:underline decoration-pitch decoration-2 underline-offset-4">{s.title}</h3>
+                <p class="mt-1.5 text-sm text-muted font-sans line-clamp-2">{s.excerpt}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <section class="mt-12 mb-10" aria-labelledby="reports-h">
+      <div class="flex items-end justify-between gap-3 mb-4">
+        <div>
+          <h2 id="reports-h" class="font-head text-xl font-semibold tracking-tight">Latest match reports</h2>
+          <p class="text-sm text-muted font-sans mt-0.5">{matchReports.length} reports total. Showing the newest {reportPreview.length}.</p>
+        </div>
+        <a href="/fixtures" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4 whitespace-nowrap">All fixtures →</a>
+      </div>
+      <div class="rounded-card border border-border/80 bg-surface shadow-card divide-y divide-border/60">
+        {reportPreview.map((s) => (
+          <a href={`/stories/${s.slug}`} class="flex items-center justify-between gap-3 px-4 py-3 hover:bg-surface2/60 transition-colors">
+            <div class="min-w-0">
+              <div class="font-head font-semibold text-sm sm:text-base truncate group-hover:underline">{s.title}</div>
+              <div class="text-[12px] text-muted font-sans mt-0.5 line-clamp-1">{s.excerpt}</div>
+            </div>
+            <time class="text-[11px] text-muted font-sans whitespace-nowrap shrink-0" datetime={new Date(s.pubDate).toISOString()}>{fmtDate(new Date(s.pubDate).toISOString().slice(0, 10))}</time>
+          </a>
+        ))}
+      </div>
+    </section>
   </main>
 </BaseLayout>

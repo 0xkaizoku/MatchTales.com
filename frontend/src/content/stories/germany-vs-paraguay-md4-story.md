@@ -1,16 +1,16 @@
 ---
-title: "Germany vs Paraguay 1-1 Match Report"
+title: "Germany vs Paraguay 1-1 (3-4 pens) Match Report"
 subtitle: "A thrilling match in Miami concludes with Germany and Paraguay leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1543807535-eceef0bc6599?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1543807535-eceef0bc6599?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 4
 pubDate: 2026-06-29
 ---
 
 ## The Showdown at Hard Rock Stadium
 
-On 2026-06-29, the footballing world turned its attention to Hard Rock Stadium in Miami for an absorbing encounter between **Germany** and **Paraguay** in the Round of 32.
+On 2026-06-29, the footballing world turned its attention to Hard Rock Stadium in Miami for an absorbing encounter between **Germany** and **Paraguay** in the R32.
 
 Under the bright lights in Miami, Germany and Paraguay took to the pitch on 2026-06-29 for a highly anticipated knockout fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 
@@ -39,3 +39,7 @@ The match was defined by individual battles and standout performances from:
 - Germany are affectionately known as the Die Mannschaft.
 - Paraguay are affectionately known as the La Albirroja.
 - This high-profile match was held at Hard Rock Stadium in Miami on 2026-06-29.
+
+## Final Score
+
+**Germany 1-1 (3-4 pens) Paraguay**

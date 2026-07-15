@@ -6,7 +6,7 @@ const byGroup: Record<string, any[]> = {};
 for (const t of data.teams) { (byGroup[t.group] ||= []).push(t); }
 const groups = Object.keys(byGroup).sort();
 ---
-<BaseLayout title="All 48 Teams — World Cup 2026 | MatchTales" description="Deep dives on all 48 nations at the 2026 World Cup: histories, key players, rivalries and what to watch.">
+<BaseLayout title="All 48 Teams | World Cup 2026" description="Deep dives on all 48 nations at the 2026 World Cup: histories, key players, rivalries and what to watch." keywords="World Cup 2026 teams, squads, nations, dossiers">
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
     <header class="mt-8">
       <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">The 48 Nations</h1>

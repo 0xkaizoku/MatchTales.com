@@ -8,7 +8,7 @@ import MomentCard from '../components/MomentCard.astro';
 import NewsletterForm from '../components/NewsletterForm.astro';
 import HypeNotes from '../components/HypeNotes.astro';
 import { getCollection } from 'astro:content';
-import { data, SITE, fmtDate } from '../lib/site';
+import { data, SITE, fmtDate, optimizeImage } from '../lib/site';
 
 const matchEntries = await getCollection('matches');
 const matches = matchEntries.map((e) => e.data);
@@ -28,25 +28,46 @@ const todayMatches = matches.filter((m) => m.date === todayStr).sort((a, b) => b
 const tomorrowMatches = matches.filter((m) => m.date === tomorrowStr).sort((a, b) => b.whyCareScore - a.whyCareScore);
 const dayAfterMatches = matches.filter((m) => m.date === dayAfterStr).sort((a, b) => b.whyCareScore - a.whyCareScore);
 
-const featured = todayMatches[0] || tomorrowMatches[0] || matches[0];
+const recentResults = matches
+  .filter((m) => m.status === 'FINISHED')
+  .sort((a, b) => b.date.localeCompare(a.date) || b.whyCareScore - a.whyCareScore)
+  .slice(0, 3);
+
+const sfMatches = matches
+  .filter((m) => (m.group || '').toUpperCase() === 'SF')
+  .sort((a, b) => a.date.localeCompare(b.date));
+
+const finalMatch = matches.find((m) => (m.group || '').toUpperCase() === 'FINAL' || m.slug?.includes('md9'));
+const thirdPlace = matches.find((m) => (m.group || '').toUpperCase() === '3RD' || m.matchday === 8);
+
+const upcoming = matches
+  .filter((m) => m.status === 'UPCOMING')
+  .sort((a, b) => a.date.localeCompare(b.date) || a.time.localeCompare(b.time));
+
+const featured =
+  todayMatches[0] ||
+  matches.find((m) => m.status === 'LIVE') ||
+  finalMatch ||
+  sfMatches[sfMatches.length - 1] ||
+  recentResults[0] ||
+  matches[0];
+
+const tournamentPhase =
+  upcoming.some((m) => (m.group || '').toUpperCase() === 'F')
+    ? 'Final week'
+    : upcoming.length
+      ? 'Knockout stage'
+      : 'Tournament complete';
 
 const storyEntries = await getCollection('stories');
-const stories = storyEntries.map((e) => ({ slug: e.id, ...e.data })).sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
+const stories = storyEntries
+  .map((e) => ({ slug: e.id, ...e.data, image: optimizeImage(e.data.image, 480, 70) }))
+  .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())
+  .slice(0, 4);
 
-const schema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebSite',
-  name: SITE.name,
-  url: SITE.url,
-  description: SITE.description,
-  potentialAction: {
-    '@type': 'SearchAction',
-    target: `${SITE.url}/fixtures?q={search_term_string}`,
-    'query-input': 'required name=search_term_string',
-  },
-};
+const preloadHero = featured?.image ? optimizeImage(featured.image, 1200, 78) : undefined;
 ---
-<BaseLayout schema={schema}>
+<BaseLayout title={SITE.title} description={SITE.description} preloadImage={preloadHero} image={preloadHero || SITE.ogImage}>
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
     <!-- Tournament banner -->
     <div class="mt-6 flex flex-wrap items-center justify-between gap-3 rounded-card border border-border/70 bg-surface2 px-4 py-3">
@@ -55,11 +76,8 @@ const schema = {
         <span class="text-muted">· USA · Mexico · Canada</span>
       </div>
       <div class="flex items-center gap-2 text-[12px] font-sans text-muted">
-        {todayMatches.length === 0 && tomorrowMatches.length === 0 ? (
-          <span class="inline-flex items-center gap-1.5 text-pitch font-medium"><span class="w-2 h-2 rounded-full bg-pitch"></span>Tournament concluded</span>
-        ) : (
-          <span class="inline-flex items-center gap-1.5"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>Tournament schedule alignment</span>
-        )}
+        <span class="inline-flex items-center gap-1.5 text-coral font-medium"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>{tournamentPhase}</span>
+        <span>· Updated {fmtDate(todayStr)}</span>
         <span>· 48 teams · 12 groups</span>
       </div>
     </div>
@@ -84,17 +102,51 @@ const schema = {
       </section>
     )}
 
-    <!-- Tournament complete notice -->
-    {todayMatches.length === 0 && tomorrowMatches.length === 0 && (
-      <section class="mt-12" aria-labelledby="complete-h">
-        <div class="rounded-card border border-border/80 bg-surface p-6 sm:p-8 shadow-card text-center">
-          <div class="text-4xl mb-3">🏆</div>
-          <h2 id="complete-h" class="font-head text-2xl sm:text-3xl font-semibold tracking-tight">The 2026 World Cup is complete</h2>
-          <p class="mt-2 text-muted font-sans max-w-lg mx-auto">All fixtures have been played. Browse the final standings, relive the match reports, and read the stories that made this tournament unforgettable.</p>
-          <div class="mt-5 flex flex-wrap items-center justify-center gap-3">
-            <a href="/fixtures" class="inline-flex items-center h-11 rounded-btn bg-pitch px-5 font-sans font-medium text-white hover:bg-pitch2 transition-colors">All results</a>
-            <a href="/stories" class="inline-flex items-center h-11 rounded-btn border border-border px-5 font-sans font-medium hover:bg-surface2 transition-colors">Read stories</a>
+    <!-- Semi-finals -->
+    {sfMatches.length > 0 && (
+      <section class="mt-12" aria-labelledby="sf-h">
+        <div class="flex items-end justify-between gap-4 mb-4">
+          <div>
+            <h2 id="sf-h" class="font-head text-2xl font-semibold tracking-tight">Semi-finals</h2>
+            <p class="text-sm text-muted font-sans mt-0.5">Last four decided. Spain and Argentina advance to the final; France and England meet for bronze.</p>
           </div>
+          <a href="/leaderboard" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4 whitespace-nowrap">Leaderboards →</a>
+        </div>
+        <div class="grid sm:grid-cols-2 gap-4">
+          {sfMatches.map((m, i) => <MatchStoryCard m={m} eager={i === 0} />)}
+        </div>
+      </section>
+    )}
+
+    <!-- Road to the final -->
+    {(finalMatch || thirdPlace) && (
+      <section class="mt-12" aria-labelledby="road-h">
+        <div class="flex items-end justify-between gap-4 mb-4">
+          <div>
+            <h2 id="road-h" class="font-head text-2xl font-semibold tracking-tight">Road to the trophy</h2>
+            <p class="text-sm text-muted font-sans mt-0.5">Third-place play-off and the World Cup final still to come.</p>
+          </div>
+          <a href="/fixtures" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4 whitespace-nowrap">Full schedule →</a>
+        </div>
+        <div class="grid sm:grid-cols-2 gap-4">
+          {thirdPlace && <MatchStoryCard m={thirdPlace} />}
+          {finalMatch && <MatchStoryCard m={finalMatch} />}
+        </div>
+      </section>
+    )}
+
+    <!-- Recent results -->
+    {recentResults.length > 0 && (
+      <section class="mt-12" aria-labelledby="recent-h">
+        <div class="flex items-end justify-between gap-4 mb-4">
+          <div>
+            <h2 id="recent-h" class="font-head text-2xl font-semibold tracking-tight">Latest results</h2>
+            <p class="text-sm text-muted font-sans mt-0.5">Fresh scores with full stories, stakes and Why-Care context.</p>
+          </div>
+          <a href="/fixtures" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4 whitespace-nowrap">All fixtures →</a>
+        </div>
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          {recentResults.map((m) => <MatchStoryCard m={m} />)}
         </div>
       </section>
     )}
@@ -131,7 +183,10 @@ const schema = {
 
     <!-- Standings widget -->
     <section class="mt-12" aria-label="Group standings">
-      <h2 class="font-head text-2xl font-semibold tracking-tight mb-4">Group standings</h2>
+      <div class="flex items-end justify-between gap-4 mb-4">
+        <h2 class="font-head text-2xl font-semibold tracking-tight">Group standings</h2>
+        <a href="/leaderboard" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4">Full leaderboards →</a>
+      </div>
       <GroupStandingsWidget />
     </section>
 
@@ -161,7 +216,7 @@ const schema = {
       <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
         {stories.map((s) => (
           <a href={`/stories/${s.slug}`} class="group rounded-card overflow-hidden border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow">
-            <div class="aspect-[16/10] overflow-hidden"><img src={s.image} alt={s.title} loading="lazy" width="400" height="250" class="w-full h-full object-cover" /></div>
+            <div class="aspect-[16/10] overflow-hidden"><img src={s.image} alt={s.title} loading="lazy" decoding="async" width="400" height="250" sizes="(max-width: 640px) 100vw, 25vw" class="w-full h-full object-cover" /></div>
             <div class="p-4">
               <span class="text-[11px] font-sans font-medium text-pitch uppercase tracking-wide">{s.category}</span>
               <h3 class="mt-1 font-head font-semibold leading-snug group-hover:underline decoration-pitch decoration-2 underline-offset-4">{s.title}</h3>

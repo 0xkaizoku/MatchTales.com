@@ -5,7 +5,7 @@ import TeamBadge from '../../components/TeamBadge.astro';
 import HypeNotes from '../../components/HypeNotes.astro';
 import MatchStoryCard from '../../components/MatchStoryCard.astro';
 import { getCollection } from 'astro:content';
-import { fmtDate, statusLabel, SITE, getFlagUrl } from '../../lib/site';
+import { fmtDate, statusLabel, SITE, getFlagUrl, stageLabel, scoreDisplay, optimizeImage, seoDescription } from '../../lib/site';
 
 export async function getStaticPaths() {
   const matches = await getCollection('matches');
@@ -17,37 +17,108 @@ const isLive = m.status === 'LIVE';
 const played = m.status === 'FINISHED' || isLive;
 const related = all.filter((x: any) => x.slug !== m.slug && (x.group === m.group || x.tags.some((t: string) => m.tags.includes(t)))).slice(0, 3);
 const label = `${m.home} vs ${m.away}`;
+const stage = stageLabel(m.group);
+const stageBadge = m.matchday <= 3 ? `${stage} · Matchday ${m.matchday}` : stage;
+const score = scoreDisplay(m);
+const ogImage = m.image ? optimizeImage(m.image, 1200, 80) : SITE.ogImage;
+const heroImage = m.image ? optimizeImage(m.image, 1200, 78) : '';
+const pageTitle = `${m.headline} | ${label} World Cup 2026`;
+const pageDesc = seoDescription(m.teaser || m.whyCareReason || `${label} at the 2026 FIFA World Cup: story, stakes and Why-Care context.`);
 
-const schema = {
+const breadcrumb = {
   '@context': 'https://schema.org',
-  '@type': 'SportsEvent',
-  name: `${m.home} vs ${m.away} — FIFA World Cup 2026`,
-  sport: 'Soccer',
-  startDate: `${m.date}T${m.time}:00`,
-  eventStatus: played ? 'https://schema.org/EventCompleted' : 'https://schema.org/EventScheduled',
-  location: { '@type': 'Place', name: m.venue, address: m.city },
-  competitor: [
-    { '@type': 'SportsTeam', name: m.home },
-    { '@type': 'SportsTeam', name: m.away },
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: SITE.url },
+    { '@type': 'ListItem', position: 2, name: 'Fixtures', item: `${SITE.url}/fixtures` },
+    { '@type': 'ListItem', position: 3, name: stage, item: m.group.length === 1 ? `${SITE.url}/group/${m.group.toLowerCase()}` : `${SITE.url}/fixtures` },
+    { '@type': 'ListItem', position: 4, name: label, item: `${SITE.url}/match/${m.slug}` },
   ],
-  description: m.teaser,
 };
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'SportsEvent',
+    name: `${m.home} vs ${m.away} - FIFA World Cup 2026`,
+    sport: 'Soccer',
+    startDate: `${m.date}T${m.time}:00`,
+    eventStatus: played ? 'https://schema.org/EventCompleted' : 'https://schema.org/EventScheduled',
+    eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+    image: heroImage ? [heroImage] : undefined,
+    location: { '@type': 'Place', name: m.venue, address: { '@type': 'PostalAddress', addressLocality: m.city } },
+    homeTeam: { '@type': 'SportsTeam', name: m.home },
+    awayTeam: { '@type': 'SportsTeam', name: m.away },
+    competitor: [
+      { '@type': 'SportsTeam', name: m.home },
+      { '@type': 'SportsTeam', name: m.away },
+    ],
+    description: pageDesc,
+    organizer: { '@type': 'Organization', name: 'FIFA' },
+    ...(played && m.homeScore != null
+      ? {
+          homeTeamScore: Number(m.homeScore),
+          awayTeamScore: Number(m.awayScore),
+        }
+      : {}),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: m.headline,
+    description: pageDesc,
+    image: heroImage || undefined,
+    datePublished: `${m.date}T12:00:00Z`,
+    dateModified: `${m.date}T12:00:00Z`,
+    author: { '@type': 'Organization', name: SITE.name },
+    publisher: { '@type': 'Organization', name: SITE.name, logo: { '@type': 'ImageObject', url: `${SITE.url}/favicon.svg` } },
+    mainEntityOfPage: `${SITE.url}/match/${m.slug}`,
+  },
+  breadcrumb,
+];
 ---
-<BaseLayout title={`${m.headline} | ${label} — MatchTales`} description={m.teaser} type="article" schema={schema}>
+<BaseLayout
+  title={pageTitle}
+  description={pageDesc}
+  image={ogImage}
+  type="article"
+  schema={schema}
+  publishedTime={`${m.date}T12:00:00Z`}
+  modifiedTime={`${m.date}T12:00:00Z`}
+  preloadImage={heroImage || undefined}
+  keywords={`${m.home}, ${m.away}, World Cup 2026, ${stage}, match report, ${m.tags?.join(', ') || ''}`}
+>
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
-    <!-- breadcrumb -->
-    <nav class="mt-6 text-[13px] font-sans text-muted flex items-center gap-1.5" aria-label="Breadcrumb">
+    <nav class="mt-6 text-[13px] font-sans text-muted flex items-center gap-1.5 flex-wrap" aria-label="Breadcrumb">
       <a href="/" class="hover:text-fg">Home</a><span>/</span>
       <a href="/fixtures" class="hover:text-fg">Fixtures</a><span>/</span>
-      <a href={`/group/${m.group.toLowerCase()}`} class="hover:text-fg">Group {m.group}</a><span>/</span>
+      {m.group.length === 1 ? (
+        <><a href={`/group/${m.group.toLowerCase()}`} class="hover:text-fg">Group {m.group}</a><span>/</span></>
+      ) : (
+        <><span>{stage}</span><span>/</span></>
+      )}
       <span class="text-fg">{label}</span>
     </nav>
 
+    {heroImage && (
+      <div class="mt-5 overflow-hidden rounded-card border border-border/80 shadow-card aspect-[21/9] sm:aspect-[2.4/1] bg-surface2">
+        <img
+          src={heroImage}
+          alt={`${label} - ${m.headline}`}
+          width="1200"
+          height="500"
+          class="w-full h-full object-cover"
+          fetchpriority="high"
+          decoding="async"
+          sizes="(max-width: 1120px) 100vw, 1120px"
+        />
+      </div>
+    )}
+
     <div class="mt-5 grid lg:grid-cols-3 gap-8">
-      <!-- main -->
       <article data-testid="story-article" class="lg:col-span-2 min-w-0">
-        <div class="flex items-center gap-2 text-[11px] font-sans font-medium">
-          <span class="rounded-full bg-surface2 px-2.5 py-1 text-muted">Group {m.group} · Matchday {m.matchday}</span>
+        <div class="flex items-center gap-2 text-[11px] font-sans font-medium flex-wrap">
+          <span class="rounded-full bg-surface2 px-2.5 py-1 text-muted">{stageBadge}</span>
           {isLive ? <span class="inline-flex items-center gap-1.5 rounded-full bg-coral px-2.5 py-1 text-white"><span class="w-1.5 h-1.5 rounded-full bg-white pulse-glow"></span>LIVE {m.liveMinute}'</span> : <span class="rounded-full bg-surface2 px-2.5 py-1 text-muted">{statusLabel(m.status)}</span>}
         </div>
         <h1 class="mt-3 font-head text-3xl sm:text-4xl font-semibold tracking-tight leading-[1.08]">{m.headline}</h1>
@@ -62,7 +133,6 @@ const schema = {
           {paras.map((p: string) => <p>{p}</p>)}
         </div>
 
-        <!-- Stakes & rivalry -->
         <div class="mt-8 grid sm:grid-cols-2 gap-4">
           <div class="rounded-card border border-border/80 bg-surface p-5">
             <h2 class="font-head text-sm font-semibold uppercase tracking-wide text-pitch">The stakes</h2>
@@ -74,7 +144,6 @@ const schema = {
           </div>
         </div>
 
-        <!-- Key players -->
         <section class="mt-8">
           <h2 class="font-head text-xl font-semibold tracking-tight mb-3">Players who could decide it</h2>
           <div class="grid sm:grid-cols-2 gap-3">
@@ -90,7 +159,6 @@ const schema = {
           </div>
         </section>
 
-        <!-- Fun facts -->
         <section class="mt-8">
           <h2 class="font-head text-xl font-semibold tracking-tight mb-3">Did you know?</h2>
           <ul class="space-y-2.5">
@@ -100,38 +168,35 @@ const schema = {
           </ul>
         </section>
 
-        <!-- Head to head -->
         {m.headToHead && (
           <section class="mt-8 rounded-card border border-border/80 bg-surface p-5">
             <h2 class="font-head text-sm font-semibold uppercase tracking-wide text-sky">Head to head</h2>
             <p class="mt-2 text-[15px] font-sans leading-7">{m.headToHead}</p>
           </section>
         )}
-
-        <!-- highlights placeholder -->
-        <section class="mt-8">
-          <h2 class="font-head text-xl font-semibold tracking-tight mb-3">{played ? 'Highlights' : 'Pre-match build-up'}</h2>
-          <div class="aspect-video rounded-card border border-border/80 bg-surface2 grid place-items-center text-muted">
-            <div class="text-center font-sans"><svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" class="mx-auto opacity-50"><path d="m10 8 6 4-6 4V8Z"/><rect x="2" y="3" width="20" height="18" rx="3"/></svg><p class="mt-2 text-sm">Video highlights coming soon</p></div>
-          </div>
-        </section>
       </article>
 
-      <!-- right rail -->
       <aside class="lg:col-span-1">
         <div class="lg:sticky lg:top-20 space-y-5">
           <div class="rounded-card border border-border/80 bg-surface p-5 shadow-card">
             <div class="flex items-center justify-between gap-4">
-              <div class="text-center flex-1"><img src={getFlagUrl(m.homeCode)} alt={m.home} class="w-10 h-7 mx-auto" loading="lazy" /><div class="mt-1 font-head font-semibold text-sm">{m.home}</div></div>
-              {played ? <div class="font-head font-bold text-3xl tabular-nums">{m.homeScore}–{m.awayScore}</div> : <div class="text-center"><div class="font-head font-semibold">{m.time}</div><div class="text-[11px] text-muted font-sans">{fmtDate(m.date)}</div></div>}
-              <div class="text-center flex-1"><img src={getFlagUrl(m.awayCode)} alt={m.away} class="w-10 h-7 mx-auto" loading="lazy" /><div class="mt-1 font-head font-semibold text-sm">{m.away}</div></div>
+              <div class="text-center flex-1"><img src={getFlagUrl(m.homeCode)} alt={m.home} class="w-10 h-7 mx-auto" loading="lazy" width="40" height="28" /><div class="mt-1 font-head font-semibold text-sm">{m.home}</div></div>
+              {played && score ? (
+                <div class="text-center">
+                  <div class="font-head font-bold text-3xl tabular-nums">{score.main}</div>
+                  {score.note && <div class="text-[11px] font-sans text-muted mt-0.5">{score.note}</div>}
+                </div>
+              ) : (
+                <div class="text-center"><div class="font-head font-semibold">{m.time}</div><div class="text-[11px] text-muted font-sans">{fmtDate(m.date)}</div></div>
+              )}
+              <div class="text-center flex-1"><img src={getFlagUrl(m.awayCode)} alt={m.away} class="w-10 h-7 mx-auto" loading="lazy" width="40" height="28" /><div class="mt-1 font-head font-semibold text-sm">{m.away}</div></div>
             </div>
             <div class="mt-5 pt-4 border-t border-border/70">
               <span class="text-[11px] uppercase tracking-wide text-muted font-sans">Why Care Score</span>
               <div class="mt-1"><WhyCareMeter score={m.whyCareScore} size="lg" /></div>
               <p class="mt-2 text-[13px] text-muted font-sans leading-snug">{m.whyCareReason}</p>
             </div>
-            <button id="share-btn" data-testid="match-story-share-button" data-label={`${m.headline} — ${label}`} class="mt-4 w-full h-10 rounded-btn border border-border font-sans text-sm font-medium hover:bg-surface2 transition-colors inline-flex items-center justify-center gap-2"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.6 13.5 6.8 4M15.4 6.5l-6.8 4"/></svg> Share this story</button>
+            <button id="share-btn" data-testid="match-story-share-button" data-label={`${m.headline} - ${label}`} class="mt-4 w-full h-10 rounded-btn border border-border font-sans text-sm font-medium hover:bg-surface2 transition-colors inline-flex items-center justify-center gap-2"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.6 13.5 6.8 4M15.4 6.5l-6.8 4"/></svg> Share this story</button>
           </div>
 
           {m.tags?.length > 0 && (
@@ -140,11 +205,16 @@ const schema = {
               <div class="flex flex-wrap gap-2">{m.tags.map((t: string) => <span class="rounded-full bg-surface2 px-2.5 py-1 text-[12px] font-sans text-muted">#{t.replace(/\s+/g,'')}</span>)}</div>
             </div>
           )}
+
+          <div class="rounded-card border border-border/80 bg-surface2/50 p-4 text-[12px] font-sans text-muted">
+            <p><strong class="text-fg">Venue:</strong> {m.venue}, {m.city}</p>
+            <p class="mt-1"><strong class="text-fg">Stage:</strong> {stage}</p>
+            <p class="mt-1"><strong class="text-fg">Kick-off:</strong> {fmtDate(m.date)} · {m.time} local</p>
+          </div>
         </div>
       </aside>
     </div>
 
-    <!-- hype for this match -->
     <section class="mt-12">
       <h2 class="font-head text-2xl font-semibold tracking-tight mb-1">Hype this match</h2>
       <p class="text-sm text-muted font-sans mb-5">What's your take on {label}?</p>

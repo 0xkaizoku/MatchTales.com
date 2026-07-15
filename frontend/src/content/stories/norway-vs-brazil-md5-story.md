@@ -3,7 +3,7 @@ title: "Norway vs Brazil 2-1 Match Report"
 subtitle: "The final whistle blew at MetLife Stadium with a 2-1 scoreline. Norway and Brazil played out an absorbing contest in this Round of 16 fixture."
 category: "Match Report"
 excerpt: "A decisive Round of 16 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1550591927-391fccf9934b?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1550591927-391fccf9934b?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 4
 pubDate: 2026-07-05
 ---

@@ -1,28 +1,28 @@
 ---
-title: "Argentina vs Switzerland Match Report"
-subtitle: "With Group QF wide open, both Argentina and Switzerland view this fixture as a must-win game. Here is what to watch for."
+title: "Argentina vs Switzerland 2-0 Match Report"
+subtitle: "Argentina broke Swiss resistance with two second-half goals to seal a 2-0 quarter-final win in Kansas City."
 category: "Match Report"
-excerpt: "A blockbuster Quarter-Final fixture in Kansas City with a place in the next round on the line."
-image: "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?crop=entropy&cs=srgb&fm=jpg&q=85"
+excerpt: "Champions against Swiss organisation: a quarter-final defined by patience, quality, and late ruthlessness."
+image: "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 4
 pubDate: 2026-07-11
 ---
 
 ## The Showdown at Arrowhead Stadium
 
-On 2026-07-11, the footballing world turned its attention to Arrowhead Stadium in Kansas City for an absorbing encounter between **Argentina** and **Switzerland** in the Quarter-Final.
+On 2026-07-11, the footballing world turned its attention to Arrowhead Stadium in Kansas City for an absorbing encounter between **Argentina** and **Switzerland** in the QF.
 
-Anticipation is building ahead of the knockout fixture between Argentina and Switzerland at the Arrowhead Stadium in Kansas City. Both teams are finalized their preparations for this critical Quarter-Final showdown.
+Switzerland did what Switzerland do: compact shape, disciplined distances, and almost zero clear chances conceded before the hour mark. Argentina monopolised the ball and waited for the moment the Swiss block stretched.
 
-Tactical matchups across the pitch will define the contest. Argentina will rely on their talisman Lautaro Martínez to unlock the opposition's defensive block, while Switzerland will look to their key playmaker Granit Xhaka to establish control in the midfield. Both managers have kept their cards close to their chest in the pre-match press conferences.
+That moment arrived after the break. A well-timed combination opened the first goal, and a second on the counter closed the contest. Switzerland pushed numbers forward late, but Argentina's game management was ruthless.
 
-With only single-elimination matches in the knockout phase, there is no margin for error.
+The 2-0 result sends the holders into the semi-finals. Switzerland exit after a campaign built on structure and giant-killing ambition.
 
 ## Stakes and Context
 
-In the Quarter-Final, there is no room for error. A single loss means the end of the World Cup dream for either Argentina or Switzerland.
+A place in the World Cup semi-finals. Argentina stay on course; Switzerland's run ends in the last eight.
 
-The footballing connection between Argentina and Switzerland adds an extra layer of emotion to this fixture, making it a must-watch for fans.
+Organisation versus invention: Switzerland try to suffocate, Argentina try to unlock.
 
 ### Head-to-Head History
 
@@ -39,3 +39,7 @@ The match was defined by individual battles and standout performances from:
 - Argentina are affectionately known as the La Albiceleste.
 - Switzerland are affectionately known as the Nati.
 - This high-profile match was held at Arrowhead Stadium in Kansas City on 2026-07-11.
+
+## Final Score
+
+**Argentina 2-0 Switzerland**

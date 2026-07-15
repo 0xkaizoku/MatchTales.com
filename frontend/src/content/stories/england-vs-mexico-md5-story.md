@@ -3,7 +3,7 @@ title: "England vs Mexico 3-2 Match Report"
 subtitle: "The final whistle blew at Estadio Azteca with a 3-2 scoreline. England and Mexico played out an absorbing contest in this Round of 16 fixture."
 category: "Match Report"
 excerpt: "A decisive Round of 16 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 4
 pubDate: 2026-07-05
 ---

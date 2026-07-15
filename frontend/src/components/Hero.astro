@@ -1,17 +1,26 @@
 ---
 import WhyCareMeter from './WhyCareMeter.astro';
-import { fmtDate, getFlagUrl } from '../lib/site';
+import { fmtDate, getFlagUrl, stageLabel, scoreDisplay, optimizeImage } from '../lib/site';
 export interface Props { m: any; }
 const { m } = Astro.props;
 const isLive = m.status === 'LIVE';
 const played = m.status === 'FINISHED' || isLive;
+const score = scoreDisplay(m);
+const stage = stageLabel(m.group);
+const stageBadge = m.matchday <= 3 ? `${stage} · MD${m.matchday}` : stage;
+const bgImg = m.image ? optimizeImage(m.image, 960, 60) : '';
 ---
 <section class="relative overflow-hidden rounded-card border border-border/70 bg-surface shadow-card grain">
   <div class="absolute inset-0 pointer-events-none" style="background: var(--hero-bg)"></div>
+  {bgImg && (
+    <div class="absolute inset-0 opacity-[0.12] pointer-events-none">
+      <img src={bgImg} alt="" class="w-full h-full object-cover" width="960" height="540" loading="eager" decoding="async" fetchpriority="high" />
+    </div>
+  )}
   <div class="relative p-6 sm:p-10">
-    <div class="flex items-center gap-2 text-[11px] font-sans font-medium text-muted">
+    <div class="flex items-center gap-2 text-[11px] font-sans font-medium text-muted flex-wrap">
       <span class="rounded-full bg-surface2 px-2.5 py-1">Featured Match</span>
-      <span class="rounded-full bg-surface2 px-2.5 py-1">Group {m.group} · MD{m.matchday}</span>
+      <span class="rounded-full bg-surface2 px-2.5 py-1">{stageBadge}</span>
       {isLive && <span class="inline-flex items-center gap-1.5 rounded-full bg-coral px-2.5 py-1 text-white font-semibold"><span class="w-1.5 h-1.5 rounded-full bg-white pulse-glow"></span>LIVE</span>}
     </div>
 
@@ -28,16 +37,19 @@ const played = m.status === 'FINISHED' || isLive;
         <div class="rounded-card border border-border bg-bg/60 backdrop-blur p-5">
           <div class="flex items-center justify-between gap-4">
             <div class="text-center flex-1">
-              <img src={getFlagUrl(m.homeCode)} alt={m.home} class="w-10 h-7 mx-auto" loading="lazy" />
+              <img src={getFlagUrl(m.homeCode)} alt={m.home} class="w-10 h-7 mx-auto" loading="lazy" width="40" height="28" />
               <div class="mt-1 font-head font-semibold text-sm">{m.home}</div>
             </div>
-            {played ? (
-              <div class="font-head font-bold text-3xl tabular-nums">{m.homeScore}–{m.awayScore}</div>
+            {played && score ? (
+              <div class="text-center">
+                <div class="font-head font-bold text-3xl tabular-nums">{score.main}</div>
+                {score.note && <div class="text-[11px] font-sans text-muted mt-0.5">{score.note}</div>}
+              </div>
             ) : (
               <div class="text-center"><div class="font-head font-semibold text-muted">{m.time}</div><div class="text-[11px] text-muted font-sans">{fmtDate(m.date)}</div></div>
             )}
             <div class="text-center flex-1">
-              <img src={getFlagUrl(m.awayCode)} alt={m.away} class="w-10 h-7 mx-auto" loading="lazy" />
+              <img src={getFlagUrl(m.awayCode)} alt={m.away} class="w-10 h-7 mx-auto" loading="lazy" width="40" height="28" />
               <div class="mt-1 font-head font-semibold text-sm">{m.away}</div>
             </div>
           </div>

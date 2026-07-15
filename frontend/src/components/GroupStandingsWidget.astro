@@ -1,12 +1,12 @@
 ---
-import { data, getFlagUrl } from '../lib/site';
+import { data, getFlagUrl, teamSlugByName } from '../lib/site';
 const groups = Object.keys(data.groups).sort();
 const initial = (Astro.props.initial as string) || groups[0];
 ---
 <div data-testid="group-standings-widget" class="rounded-card border border-border/80 bg-surface shadow-card overflow-hidden">
   <div class="flex gap-1.5 overflow-x-auto no-scrollbar p-3 border-b border-border/70" data-testid="group-standings-tabs" role="tablist">
     {groups.map((g) => (
-      <button type="button" data-gtab={g} class={`gst-tab shrink-0 rounded-full border px-3 py-1 text-xs font-sans font-medium transition-colors ${g === initial ? 'border-pitch bg-pitch text-white' : 'border-border text-muted hover:text-fg'}`}>Group {g}</button>
+      <button type="button" data-gtab={g} role="tab" aria-selected={g === initial} class={`gst-tab shrink-0 rounded-full border px-3 py-1 text-xs font-sans font-medium transition-colors ${g === initial ? 'border-pitch bg-pitch text-white' : 'border-border text-muted hover:text-fg'}`}>Group {g}</button>
     ))}
   </div>
   {groups.map((g) => (
@@ -26,9 +26,9 @@ const initial = (Astro.props.initial as string) || groups[0];
         {data.groups[g].map((r: any, i: number) => (
           <tr class="border-b border-border/60 last:border-0">
             <td class="py-2.5 pl-4">
-              <a href={`/team/${r.name.toLowerCase().replace(/\s+/g, '-')}`} class="flex items-center gap-2 hover:text-pitch">
+              <a href={`/team/${teamSlugByName(r.name)}`} class="flex items-center gap-2 hover:text-pitch">
                 <span class={`inline-block w-1 h-4 rounded-full ${i < 2 ? 'bg-pitch' : i === 2 ? 'bg-warning' : 'bg-transparent'}`}></span>
-                <img src={getFlagUrl(r.code)} alt={r.name} class="w-6 h-4 inline-block" loading="lazy" />
+                <img src={getFlagUrl(r.code)} alt="" class="w-6 h-4 inline-block" loading="lazy" width="24" height="16" />
                 <span class="font-medium truncate">{r.name}</span>
               </a>
             </td>
@@ -43,7 +43,11 @@ const initial = (Astro.props.initial as string) || groups[0];
       </tbody>
     </table>
   ))}
-  <p class="text-[11px] text-muted px-4 py-2.5 border-t border-border/60 font-sans"><span class="inline-block w-1 h-3 rounded-full bg-pitch align-middle"></span> Qualify <span class="inline-block w-1 h-3 rounded-full bg-warning align-middle ml-2"></span> Best-third contention</p>
+  <p class="text-[11px] text-muted px-4 py-2.5 border-t border-border/60 font-sans flex flex-wrap items-center gap-x-3 gap-y-1">
+    <span><span class="inline-block w-1 h-3 rounded-full bg-pitch align-middle"></span> Qualify</span>
+    <span><span class="inline-block w-1 h-3 rounded-full bg-warning align-middle"></span> Best-third contention</span>
+    <a href="/leaderboard" class="ml-auto text-sky hover:underline underline-offset-2">Full leaderboards →</a>
+  </p>
 </div>
   <script>
     function bindGst() {

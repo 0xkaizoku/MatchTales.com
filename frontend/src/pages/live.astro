@@ -5,10 +5,17 @@ import { getCollection } from 'astro:content';
 import { getFlagUrl } from '../lib/site';
 const entries = await getCollection('matches');
 const matches = entries.map((e) => e.data);
-const liveMatch = matches.find((m) => m.status === 'LIVE') || matches.find((m) => m.status === 'UPCOMING') || matches[0];
-const upcoming = matches.filter((m) => m.status === 'UPCOMING').sort((a,b)=>b.whyCareScore-a.whyCareScore).slice(0,5);
+const upcomingAll = matches
+  .filter((m) => m.status === 'UPCOMING')
+  .sort((a, b) => a.date.localeCompare(b.date) || b.whyCareScore - a.whyCareScore);
+const liveMatch =
+  matches.find((m) => m.status === 'LIVE') ||
+  upcomingAll[0] ||
+  matches.filter((m) => m.status === 'FINISHED').sort((a, b) => b.date.localeCompare(a.date))[0] ||
+  matches[0];
+const upcoming = upcomingAll.slice(0, 5);
 ---
-<BaseLayout title="Live Second-Screen — World Cup 2026 | MatchTales" description="Your World Cup companion: live hype meter, rolling commentary and fan polls. The perfect second screen.">
+<BaseLayout title="Live Second Screen | World Cup 2026" description="Your World Cup companion: live hype meter, rolling commentary and fan polls. The perfect second screen for every match." keywords="World Cup live, second screen, hype meter, match companion">
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8 pb-10">
     <header class="mt-8">
       <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">Second Screen</h1>

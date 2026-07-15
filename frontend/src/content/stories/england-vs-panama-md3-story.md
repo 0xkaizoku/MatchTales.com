@@ -3,7 +3,7 @@ title: "England vs Panama 2-0 Match Report"
 subtitle: "The final whistle blew at MetLife Stadium with a 2-0 scoreline. England and Panama played out an absorbing contest in this Group L fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group L that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 4
 pubDate: 2026-06-22
 ---

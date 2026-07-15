@@ -1,12 +1,15 @@
 {
   "name": "MatchTales",
   "short_name": "MatchTales",
-  "description": "Why this match matters — the story layer on top of the 2026 FIFA World Cup.",
+  "description": "Why this match matters - the story layer on top of the 2026 FIFA World Cup.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#FBFAF7",
   "theme_color": "#1F4D3D",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["sports", "news", "entertainment"],
   "icons": [
-    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ]
 }

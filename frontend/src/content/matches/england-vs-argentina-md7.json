@@ -1,0 +1,55 @@
+{
+  "slug": "england-vs-argentina-md7",
+  "headline": "Argentina Edge England 2-1 in a Semi-Final Classic",
+  "whyCareScore": 9.8,
+  "whyCareReason": "History, heat and a final place on the line: England vs Argentina in Miami on 15 July.",
+  "teaser": "Argentina survived an England surge and sealed a 2-1 semi-final win to reach another World Cup final.",
+  "story": "Miami knew the script before kick-off: two football cultures with unfinished World Cup business, and ninety minutes to decide a finalist. England started with intensity, Bellingham driving transitions and Kane occupying Argentina's centre-backs.\n\nArgentina absorbed the storm, then struck twice in a ruthless ten-minute spell either side of half-time. England refused to fold. A late goal set up a frantic finale, with corners raining in and Hard Rock Stadium roaring for an equaliser.\n\nWhen the whistle went at 2-1, Argentina had earned the right to chase back-to-back titles. England's long run ends in the last four, with bronze still available in the third-place match.",
+  "stakes": "Winner to the final at MetLife Stadium. Loser faces France for third place.",
+  "rivalryAngle": "One of football's most loaded fixtures: 1986 ghosts, 1998 red cards, 2002 penalties, and a 2026 semi-final chapter.",
+  "funFacts": [
+    "This was the first England-Argentina World Cup semi-final meeting.",
+    "Argentina are aiming to become the first side to retain the World Cup since Brazil in 1962.",
+    "Hard Rock Stadium hosted a full-capacity night for the last four."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Lautaro Martínez",
+      "team": "Argentina",
+      "hook": "The focal point of Argentina's finishing when the game opened up."
+    },
+    {
+      "name": "Jude Bellingham",
+      "team": "England",
+      "hook": "England's engine room and the man most likely to force chaos in the box."
+    }
+  ],
+  "headToHead": "World Cup meetings between England and Argentina are rarely quiet. History hangs over every challenge and every set piece.",
+  "tags": [
+    "england",
+    "argentina",
+    "semi-final",
+    "world-cup-2026"
+  ],
+  "home": "England",
+  "away": "Argentina",
+  "homeCode": "ENG",
+  "awayCode": "ARG",
+  "homeFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  "awayFlag": "🇦🇷",
+  "group": "SF",
+  "matchday": 7,
+  "date": "2026-07-15",
+  "time": "20:00",
+  "venue": "Hard Rock Stadium",
+  "city": "Miami",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 2,
+  "marquee": true,
+  "liveMinute": null,
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+}

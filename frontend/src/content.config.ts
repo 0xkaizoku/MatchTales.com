@@ -33,6 +33,10 @@ const matches = defineCollection({
     awayScore: z.union([z.number(), z.string()]).nullable().optional(),
     marquee: z.boolean().default(false),
     liveMinute: z.union([z.number(), z.string()]).nullable().optional(),
+    image: z.string().optional().nullable(),
+    decidedBy: z.string().optional().nullable(),
+    homePen: z.union([z.number(), z.string()]).nullable().optional(),
+    awayPen: z.union([z.number(), z.string()]).nullable().optional(),
   }),
 });
 

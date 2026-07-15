@@ -1,12 +1,12 @@
 {
   "slug": "argentina-vs-switzerland-md6",
-  "headline": "High Stakes in Kansas City as Argentina Meets Switzerland in the Quarter-Final",
+  "headline": "Argentina Dispatch Switzerland 2-0 to Reach the Last Four",
   "whyCareScore": 9.2,
-  "whyCareReason": "A blockbuster Quarter-Final fixture in Kansas City with a place in the next round on the line.",
-  "teaser": "With Group QF wide open, both Argentina and Switzerland view this fixture as a must-win game. Here is what to watch for.",
-  "story": "Anticipation is building ahead of the knockout fixture between Argentina and Switzerland at the Arrowhead Stadium in Kansas City. Both teams are finalized their preparations for this critical Quarter-Final showdown.\n\nTactical matchups across the pitch will define the contest. Argentina will rely on their talisman Lautaro Martínez to unlock the opposition's defensive block, while Switzerland will look to their key playmaker Granit Xhaka to establish control in the midfield. Both managers have kept their cards close to their chest in the pre-match press conferences.\n\nWith only single-elimination matches in the knockout phase, there is no margin for error.",
-  "stakes": "In the Quarter-Final, there is no room for error. A single loss means the end of the World Cup dream for either Argentina or Switzerland.",
-  "rivalryAngle": "The footballing connection between Argentina and Switzerland adds an extra layer of emotion to this fixture, making it a must-watch for fans.",
+  "whyCareReason": "Champions against Swiss organisation: a quarter-final defined by patience, quality, and late ruthlessness.",
+  "teaser": "Argentina broke Swiss resistance with two second-half goals to seal a 2-0 quarter-final win in Kansas City.",
+  "story": "Switzerland did what Switzerland do: compact shape, disciplined distances, and almost zero clear chances conceded before the hour mark. Argentina monopolised the ball and waited for the moment the Swiss block stretched.\n\nThat moment arrived after the break. A well-timed combination opened the first goal, and a second on the counter closed the contest. Switzerland pushed numbers forward late, but Argentina's game management was ruthless.\n\nThe 2-0 result sends the holders into the semi-finals. Switzerland exit after a campaign built on structure and giant-killing ambition.",
+  "stakes": "A place in the World Cup semi-finals. Argentina stay on course; Switzerland's run ends in the last eight.",
+  "rivalryAngle": "Organisation versus invention: Switzerland try to suffocate, Argentina try to unlock.",
   "funFacts": [
     "Argentina are affectionately known as the La Albiceleste.",
     "Switzerland are affectionately known as the Nati.",
@@ -42,9 +42,10 @@
   "time": "20:00",
   "venue": "Arrowhead Stadium",
   "city": "Kansas City",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 0,
   "marquee": true,
-  "liveMinute": null
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 }

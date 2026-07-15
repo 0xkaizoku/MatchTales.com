@@ -21,8 +21,9 @@ export default {
       fontFamily: {
         head: ['"Space Grotesk"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
         body: ['Spectral', 'Georgia', 'serif'],
-        sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
-        mono: ['"IBM Plex Mono"', 'ui-monospace', 'monospace'],
+        // Match loaded webfonts (Inter was referenced but never loaded)
+        sans: ['"Space Grotesk"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+        mono: ['ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'monospace'],
       },
       borderRadius: {
         card: '14px',

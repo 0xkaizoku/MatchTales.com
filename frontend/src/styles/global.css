@@ -40,15 +40,30 @@ html[data-theme='dark'] {
 html {
   -webkit-text-size-adjust: 100%;
   scroll-behavior: smooth;
+  /* Avoid layout shift while webfonts swap in */
+  font-synthesis: none;
 }
 
 body {
   background-color: hsl(var(--bg));
   color: hsl(var(--fg));
-  font-family: 'Spectral', Georgia, serif;
+  font-family: 'Spectral', Georgia, 'Times New Roman', serif;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   min-height: 100vh;
+  /* Content-visibility helpers for long pages */
+  overflow-x: hidden;
+}
+
+img, video {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Content-visibility for heavy lists below the fold */
+.content-auto {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 320px;
 }
 
 ::selection {

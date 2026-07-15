@@ -2,7 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import MatchStoryCard from '../components/MatchStoryCard.astro';
 import { getCollection } from 'astro:content';
-import { data } from '../lib/site';
+import { data, SITE, fmtDate, stageLabel } from '../lib/site';
 
 const entries = await getCollection('matches');
 const matches = entries.map((e) => e.data).sort((a, b) => {
@@ -12,21 +12,41 @@ const matches = entries.map((e) => e.data).sort((a, b) => {
 });
 const groups = Object.keys(data.groups).sort();
 const teams = data.teams.map((t: any) => t.name).sort();
-const dates = [...new Set(matches.map((m) => m.date))].sort();
-const { fmtDate } = await import('../lib/site');
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'World Cup 2026 Fixtures & Schedule',
+  description: 'Every 2026 World Cup fixture with Why-Care scores, results and match stories.',
+  url: `${SITE.url}/fixtures`,
+  isPartOf: { '@id': `${SITE.url}/#website` },
+};
 ---
-<BaseLayout title="Fixtures & Schedule — World Cup 2026 | MatchTales" description="Every 2026 World Cup fixture with a Why-Care score and the story behind it. Filter by group, date or team.">
+<BaseLayout
+  title="Fixtures & Schedule | World Cup 2026"
+  description="Every 2026 World Cup fixture with a Why-Care score, accurate result and the story behind it. Filter by group, knockout stage, date or team."
+  keywords="World Cup 2026 fixtures, match schedule, results, knockout bracket, group stage"
+  schema={schema}
+>
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
     <header class="mt-8">
       <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">Fixtures & Schedule</h1>
-      <p class="mt-2 text-muted font-sans max-w-2xl">Every match, ranked and explained. Filter by group, date or your team — and flip on spoiler-free mode if you're catching up.</p>
+      <p class="mt-2 text-muted font-sans max-w-2xl">Every match, ranked and explained. Filter by stage or team - flip spoiler-free mode if you're catching up.</p>
     </header>
 
-    <!-- Filters -->
     <div class="mt-6 rounded-card border border-border/80 bg-surface p-4 shadow-card sticky top-16 z-30" data-testid="fixture-filters">
       <div class="grid sm:grid-cols-4 gap-3">
-        <label class="block"><span class="text-[11px] uppercase tracking-wide text-muted font-sans">Group</span>
-          <select id="f-group" data-testid="filter-group" class="mt-1 h-10 w-full rounded-btn border border-border bg-bg px-2 font-sans text-sm outline-none focus-visible:ring-2 focus-visible:ring-sky"><option value="">All groups</option>{groups.map((g) => <option value={g}>Group {g}</option>)}</select>
+        <label class="block"><span class="text-[11px] uppercase tracking-wide text-muted font-sans">Stage</span>
+          <select id="f-group" data-testid="filter-group" class="mt-1 h-10 w-full rounded-btn border border-border bg-bg px-2 font-sans text-sm outline-none focus-visible:ring-2 focus-visible:ring-sky">
+            <option value="">All stages</option>
+            {groups.map((g) => <option value={g}>Group {g}</option>)}
+            <option value="R32">Round of 32</option>
+            <option value="R16">Round of 16</option>
+            <option value="QF">Quarter-finals</option>
+            <option value="SF">Semi-finals</option>
+            <option value="3RD">Third place</option>
+            <option value="FINAL">Final</option>
+          </select>
         </label>
         <label class="block"><span class="text-[11px] uppercase tracking-wide text-muted font-sans">Team</span>
           <select id="f-team" data-testid="filter-team" class="mt-1 h-10 w-full rounded-btn border border-border bg-bg px-2 font-sans text-sm outline-none focus-visible:ring-2 focus-visible:ring-sky"><option value="">All teams</option>{teams.map((t: string) => <option value={t}>{t}</option>)}</select>
@@ -39,10 +59,11 @@ const { fmtDate } = await import('../lib/site');
       <p id="f-count" class="mt-2 text-[12px] text-muted font-sans"></p>
     </div>
 
-    <div id="fixtures-grid" class="mt-6 grid sm:grid-cols-2 lg:grid-cols-3 gap-4 pb-10">
+    <!-- Compact list: no 104 remote hero images (was ~335KB HTML). -->
+    <div id="fixtures-grid" class="mt-6 grid sm:grid-cols-2 lg:grid-cols-3 gap-3 pb-10">
       {matches.map((m) => (
-        <div class="fx-item" data-group={m.group} data-status={m.status} data-home={m.home} data-away={m.away}>
-          <MatchStoryCard m={m} />
+        <div class="fx-item" data-group={m.group} data-status={m.status} data-home={m.home} data-away={m.away} data-stage={stageLabel(m.group)}>
+          <MatchStoryCard m={m} compact={true} />
         </div>
       ))}
     </div>
@@ -60,9 +81,7 @@ const { fmtDate } = await import('../lib/site');
           const ok=(!g||it.dataset.group===g)&&(!s||it.dataset.status===s)&&(!t||it.dataset.home===t||it.dataset.away===t);
           it.classList.toggle('hidden',!ok); if(ok)n++;
         });
-        document.querySelectorAll('[data-testid="match-story-card"]').forEach((c)=>{
-          c.querySelectorAll('.tabular-nums').forEach((sc)=>{ if(sc.closest('.fx-item')) sc.style.visibility = sp ? 'hidden' : ''; });
-        });
+        document.querySelectorAll('.fx-item .score-block').forEach((sc)=>{ sc.style.visibility = sp ? 'hidden' : ''; });
         count.textContent = `${n} match${n===1?'':'es'} shown`;
         empty.classList.toggle('hidden', n>0);
       }

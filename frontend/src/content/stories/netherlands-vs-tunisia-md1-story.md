@@ -3,7 +3,7 @@ title: "Netherlands vs Tunisia 3-1 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this knockout encounter. Here is how Netherlands and Tunisia fought out their clash."
 category: "Match Report"
 excerpt: "A decisive Final knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 4
 pubDate: 2026-06-15
 ---

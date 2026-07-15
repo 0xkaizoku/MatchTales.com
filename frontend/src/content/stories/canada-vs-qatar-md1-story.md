@@ -3,7 +3,7 @@ title: "Canada vs Qatar 6-0 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 1 encounter. Here is how Canada and Qatar fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group B that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 4
 pubDate: 2026-06-12
 ---

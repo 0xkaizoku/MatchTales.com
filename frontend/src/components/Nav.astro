@@ -4,6 +4,7 @@ const path = Astro.url.pathname;
 const links = [
   { href: '/fixtures', label: 'Fixtures', id: 'fixtures' },
   { href: '/groups', label: 'Groups', id: 'groups' },
+  { href: '/leaderboard', label: 'Leaderboards', id: 'leaderboard' },
   { href: '/teams', label: 'Teams', id: 'teams' },
   { href: '/stories', label: 'Stories', id: 'stories' },
 ];
@@ -21,6 +22,7 @@ const isActive = (href: string) => path === href || path.startsWith(href + '/');
         {links.map((l) => (
           <a
             href={l.href}
+            data-astro-prefetch
             data-testid={`nav-${l.id}-link`}
             class={`px-3 py-2 rounded-btn text-sm font-sans font-medium transition-colors duration-150 ${isActive(l.href) ? 'text-pitch bg-surface2' : 'text-muted hover:text-fg hover:bg-surface2'}`}
           >

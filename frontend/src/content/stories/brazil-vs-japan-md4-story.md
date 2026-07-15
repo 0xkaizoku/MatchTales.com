@@ -3,7 +3,7 @@ title: "Brazil vs Japan 2-1 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this knockout encounter. Here is how Brazil and Japan fought out their clash."
 category: "Match Report"
 excerpt: "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1511512578047-dfb367046420?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1511512578047-dfb367046420?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 4
 pubDate: 2026-06-29
 ---

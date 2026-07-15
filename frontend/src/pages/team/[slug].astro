@@ -16,17 +16,33 @@ const standing = data.groups[team.group];
 const pos = standing.findIndex((r: any) => r.name === team.name) + 1;
 const paras = dossier ? dossier.dossier.split(/\n\n+/).filter(Boolean) : [team.story];
 
-const schema = {
-  '@context': 'https://schema.org', '@type': 'SportsTeam', name: team.name, sport: 'Soccer',
-  description: team.story,
-};
+const pageDesc = `${team.name} (${team.nick}) at the 2026 World Cup: group ${team.group} dossier, fixtures, key players and storylines. ${team.story}`;
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'SportsTeam',
+    name: team.name,
+    sport: 'Soccer',
+    description: team.story,
+    memberOf: { '@type': 'SportsOrganization', name: 'FIFA World Cup 2026' },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.matchtales.com' },
+      { '@type': 'ListItem', position: 2, name: 'Teams', item: 'https://www.matchtales.com/teams' },
+      { '@type': 'ListItem', position: 3, name: team.name, item: `https://www.matchtales.com/team/${team.slug}` },
+    ],
+  },
+];
 ---
-<BaseLayout title={`${team.name} — World Cup 2026 Guide | MatchTales`} description={team.story} schema={schema}>
+<BaseLayout title={`${team.name} World Cup 2026 Guide`} description={pageDesc} schema={schema} keywords={`${team.name}, ${team.nick}, World Cup 2026, Group ${team.group}, squad, fixtures`}>
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
     <!-- header band -->
     <div class="mt-6 relative overflow-hidden rounded-card border border-border/70 shadow-card" style={`background: linear-gradient(135deg, ${team.color}22, transparent)`}>
       <div class="p-6 sm:p-8">
-        <nav class="text-[13px] font-sans text-muted flex items-center gap-1.5 mb-4"><a href="/teams" class="hover:text-fg">Teams</a><span>/</span><a href={`/group/${team.group.toLowerCase()}`} class="hover:text-fg">Group {team.group}</a><span>/</span><span class="text-fg">{team.name}</span></nav>
+        <nav class="text-[13px] font-sans text-muted flex items-center gap-1.5 mb-4" aria-label="Breadcrumb"><a href="/teams" class="hover:text-fg">Teams</a><span>/</span><a href={`/group/${team.group.toLowerCase()}`} class="hover:text-fg">Group {team.group}</a><span>/</span><span class="text-fg">{team.name}</span></nav>
         <div class="flex items-center gap-4">
           <img src={getFlagUrl(team.code)} alt={team.name} class="w-16 h-11 object-contain" loading="lazy" />
           <div>

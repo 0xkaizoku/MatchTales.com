@@ -3,7 +3,7 @@ import '../styles/global.css';
 import Nav from '../components/Nav.astro';
 import Footer from '../components/Footer.astro';
 import BottomNav from '../components/BottomNav.astro';
-import { SITE } from '../lib/site';
+import { SITE, seoDescription, absoluteUrl, optimizeImage } from '../lib/site';
 import { ClientRouter } from 'astro:transitions';
 
 export interface Props {
@@ -14,6 +14,12 @@ export interface Props {
   canonical?: string;
   schema?: any;
   noLayout?: boolean;
+  noindex?: boolean;
+  keywords?: string;
+  publishedTime?: string;
+  modifiedTime?: string;
+  /** Preload a hero image for LCP (absolute or site-relative URL). */
+  preloadImage?: string;
 }
 
 const {
@@ -24,87 +30,209 @@ const {
   canonical,
   schema,
   noLayout = false,
+  noindex = false,
+  keywords = SITE.keywords,
+  publishedTime,
+  modifiedTime,
+  preloadImage,
 } = Astro.props;
 
-const canonicalURL = canonical || new URL(Astro.url.pathname, SITE.url).href;
-const ogImageURL = image.startsWith('http') ? image : new URL(image, SITE.url).href;
+const canonicalURL = canonical || absoluteUrl(Astro.url.pathname);
+const desc = seoDescription(description);
+const fullTitle = title.includes('MatchTales') ? title : `${title} | MatchTales`;
+
+// Prefer optimized raster OG images
+let ogImageURL = image.startsWith('http') ? image : absoluteUrl(image);
+if (ogImageURL.includes('images.unsplash.com')) {
+  ogImageURL = optimizeImage(ogImageURL, 1200, 80);
+}
+const preloadHref = preloadImage
+  ? preloadImage.startsWith('http')
+    ? optimizeImage(preloadImage, 1200, 78)
+    : absoluteUrl(preloadImage)
+  : null;
+
+const orgSchema = {
+  '@type': 'Organization',
+  '@id': `${SITE.url}/#organization`,
+  name: SITE.name,
+  url: SITE.url,
+  logo: {
+    '@type': 'ImageObject',
+    url: absoluteUrl('/favicon.svg'),
+  },
+  description: SITE.description,
+};
+
+const websiteSchema = {
+  '@type': 'WebSite',
+  '@id': `${SITE.url}/#website`,
+  name: SITE.name,
+  url: SITE.url,
+  description: SITE.description,
+  publisher: { '@id': `${SITE.url}/#organization` },
+  inLanguage: 'en-US',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: {
+      '@type': 'EntryPoint',
+      urlTemplate: `${SITE.url}/fixtures?q={search_term_string}`,
+    },
+    'query-input': 'required name=search_term_string',
+  },
+};
+
+const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
+// Strip outer @context from page schemas when embedding in @graph
+const graphItems = pageSchemas.map((s: any) => {
+  if (s && typeof s === 'object') {
+    const { ['@context']: _ctx, ...rest } = s;
+    return rest;
+  }
+  return s;
+});
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [orgSchema, websiteSchema, ...graphItems],
+};
 ---
 <!doctype html>
 <html lang="en" data-theme="light">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="generator" content={Astro.generator} />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <meta name="format-detection" content="telephone=no" />
     <link rel="canonical" href={canonicalURL} />
-    <title>{title}</title>
-    <meta name="description" content={description} />
-    <meta name="theme-color" content="#1F4D3D" />
+    <link rel="alternate" hreflang="en" href={canonicalURL} />
+    <link rel="alternate" hreflang="x-default" href={canonicalURL} />
+    <title>{fullTitle}</title>
+    <meta name="description" content={desc} />
+    <meta name="keywords" content={keywords} />
+    <meta name="author" content={SITE.name} />
+    <meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'} />
+    <meta name="googlebot" content={noindex ? 'noindex, nofollow' : 'index, follow, max-image-preview:large'} />
+    <meta name="theme-color" content="#1F4D3D" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0F1F1A" media="(prefers-color-scheme: dark)" />
+    <meta name="color-scheme" content="light dark" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/favicon.svg" />
     <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="sitemap" type="application/xml" href="/sitemap-index.xml" />
+    <link rel="alternate" type="application/rss+xml" title="MatchTales Stories" href="/rss.xml" />
 
     <!-- Open Graph -->
     <meta property="og:type" content={type} />
     <meta property="og:site_name" content={SITE.name} />
-    <meta property="og:title" content={title} />
-    <meta property="og:description" content={description} />
+    <meta property="og:locale" content={SITE.locale} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={desc} />
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:image" content={ogImageURL} />
+    <meta property="og:image:secure_url" content={ogImageURL} />
+    <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={fullTitle} />
+    {publishedTime && <meta property="article:published_time" content={publishedTime} />}
+    {modifiedTime && <meta property="article:modified_time" content={modifiedTime} />}
+    {type === 'article' && <meta property="article:section" content="Football" />}
+    {type === 'article' && <meta property="article:author" content={SITE.name} />}
 
-    <!-- Twitter -->
+    <!-- Twitter / X -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={title} />
-    <meta name="twitter:description" content={description} />
+    <meta name="twitter:site" content={SITE.twitter} />
+    <meta name="twitter:creator" content={SITE.twitter} />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={desc} />
     <meta name="twitter:image" content={ogImageURL} />
+    <meta name="twitter:image:alt" content={fullTitle} />
 
-    <!-- Fonts -->
+    <!-- Performance: connection hints -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap"
-      rel="stylesheet"
-    />
+    <link rel="preconnect" href="https://flagcdn.com" crossorigin />
+    <link rel="dns-prefetch" href="https://images.unsplash.com" />
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
 
-    {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
+    <!-- Non-blocking fonts (swap). Fewer weights = faster FCP. -->
+    <link
+      rel="preload"
+      as="style"
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap"
+      media="print"
+      onload="this.media='all'"
+    />
+    <noscript>
+      <link
+        rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap"
+      />
+    </noscript>
+
+    {preloadHref && <link rel="preload" as="image" href={preloadHref} fetchpriority="high" />}
+
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
     <script is:inline>
       (function () {
-        const apply = () => {
+        try {
+          var stored = localStorage.getItem('mt-theme');
+          var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          document.documentElement.setAttribute('data-theme', stored || (prefersDark ? 'dark' : 'light'));
+        } catch (e) {}
+        document.addEventListener('astro:after-swap', function () {
           try {
-            const stored = localStorage.getItem('mt-theme');
-            const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-            const theme = stored || (prefersDark ? 'dark' : 'light');
-            document.documentElement.setAttribute('data-theme', theme);
+            var s = localStorage.getItem('mt-theme');
+            var d = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            document.documentElement.setAttribute('data-theme', s || (d ? 'dark' : 'light'));
           } catch (e) {}
-        };
-        apply();
-        document.addEventListener('astro:after-swap', apply);
+        });
       })();
     </script>
 
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XEGR6KYB3M" is:inline></script>
+    <!-- Analytics: load after idle so it never competes with LCP -->
     <script is:inline>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-XEGR6KYB3M');
-
-      document.addEventListener('astro:page-load', () => {
-        gtag('event', 'page_view', {
-          page_path: window.location.pathname,
-          page_title: document.title,
-          page_location: window.location.href
+      (function () {
+        function loadGA() {
+          if (window.__mtGa) return;
+          window.__mtGa = 1;
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=G-XEGR6KYB3M';
+          document.head.appendChild(s);
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          window.gtag = gtag;
+          gtag('js', new Date());
+          gtag('config', 'G-XEGR6KYB3M', { send_page_view: true, anonymize_ip: true });
+        }
+        if ('requestIdleCallback' in window) requestIdleCallback(loadGA, { timeout: 3500 });
+        else setTimeout(loadGA, 2500);
+        document.addEventListener('astro:page-load', function () {
+          if (window.gtag) {
+            gtag('event', 'page_view', {
+              page_path: location.pathname,
+              page_title: document.title,
+              page_location: location.href
+            });
+          }
         });
-      });
+      })();
     </script>
 
     <ClientRouter />
   </head>
   <body class="min-h-screen flex flex-col">
+    <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-[100] focus:bg-pitch focus:text-white focus:px-3 focus:py-2 focus:rounded-btn">Skip to content</a>
     {!noLayout && <Nav />}
-    <div class="flex-1">
+    <div class="flex-1" id="main-content">
       <slot />
     </div>
     {!noLayout && <Footer />}

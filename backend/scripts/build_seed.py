@@ -471,11 +471,19 @@ F.append(fx("Belgium","United States","R16",5,"2026-07-06","16:00","Lumen Field"
 F.append(fx("Argentina","Egypt","R16",5,"2026-07-07","13:00","Mercedes-Benz Stadium","Atlanta","FINISHED",3,2,True))
 F.append(fx("Switzerland","Colombia","R16",5,"2026-07-07","16:00","BC Place","Vancouver","FINISHED",0,0,True))
 
-# Quarter-finals (matchday 6) - upcoming as of July 8, 2026
-F.append(fx("France","Morocco","QF",6,"2026-07-09","16:00","Gillette Stadium","Boston","UPCOMING",None,None,True))
-F.append(fx("Spain","Belgium","QF",6,"2026-07-10","12:00","SoFi Stadium","Los Angeles","UPCOMING",None,None,True))
-F.append(fx("Norway","England","QF",6,"2026-07-11","17:00","Hard Rock Stadium","Miami","UPCOMING",None,None,True))
-F.append(fx("Argentina","Switzerland","QF",6,"2026-07-11","20:00","Arrowhead Stadium","Kansas City","UPCOMING",None,None,True))
+# Quarter-finals (matchday 6) - finished
+F.append(fx("France","Morocco","QF",6,"2026-07-09","16:00","Gillette Stadium","Boston","FINISHED",2,1,True))
+F.append(fx("Spain","Belgium","QF",6,"2026-07-10","12:00","SoFi Stadium","Los Angeles","FINISHED",2,0,True))
+F.append(fx("Norway","England","QF",6,"2026-07-11","17:00","Hard Rock Stadium","Miami","FINISHED",1,2,True))
+F.append(fx("Argentina","Switzerland","QF",6,"2026-07-11","20:00","Arrowhead Stadium","Kansas City","FINISHED",2,0,True))
+
+# Semi-finals (matchday 7) - finished as of July 15, 2026
+F.append(fx("France","Spain","SF",7,"2026-07-14","20:00","AT&T Stadium","Dallas","FINISHED",1,2,True))
+F.append(fx("England","Argentina","SF",7,"2026-07-15","20:00","Hard Rock Stadium","Miami","FINISHED",1,2,True))
+
+# Third place + Final remaining
+F.append(fx("France","England","3RD",8,"2026-07-18","15:00","Hard Rock Stadium","Miami","UPCOMING",None,None,True))
+F.append(fx("Spain","Argentina","FINAL",9,"2026-07-19","15:00","MetLife Stadium","New Jersey","UPCOMING",None,None,True))
 
 # ---- Build groups standings from finished fixtures
 groups = {}

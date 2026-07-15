@@ -1,4 +1,13 @@
+# MatchTales — https://www.matchtales.com
 User-agent: *
 Allow: /
 
+# App / internal endpoints
+Disallow: /api/
+Disallow: /search-index.json
+
+# Prefer canonical host
+Host: https://www.matchtales.com
+
 Sitemap: https://www.matchtales.com/sitemap-index.xml
+Sitemap: https://www.matchtales.com/rss.xml

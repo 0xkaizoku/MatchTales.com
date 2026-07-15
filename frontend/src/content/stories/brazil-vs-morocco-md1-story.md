@@ -3,7 +3,7 @@ title: "Brazil vs Morocco 1-1 Match Report"
 subtitle: "The final whistle blew at SoFi Stadium with a 1-1 scoreline. Brazil and Morocco played out an absorbing contest in this Group C fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group C that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1551244072-5d12893278ab?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1551244072-5d12893278ab?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 4
 pubDate: 2026-06-11
 ---

@@ -3,7 +3,7 @@ title: "Switzerland vs Bosnia and Herzegovina 4-1 Match Report"
 subtitle: "A thrilling match in Vancouver concludes with Switzerland and Bosnia and Herzegovina leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group B that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 4
 pubDate: 2026-06-12
 ---

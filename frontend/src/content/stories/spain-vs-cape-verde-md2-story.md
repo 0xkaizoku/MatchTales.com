@@ -3,7 +3,7 @@ title: "Spain vs Cape Verde 0-0 Match Report"
 subtitle: "A thrilling match in Kansas City concludes with Spain and Cape Verde leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group H that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1536122985607-4fe00b283652?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1536122985607-4fe00b283652?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 4
 pubDate: 2026-06-20
 ---

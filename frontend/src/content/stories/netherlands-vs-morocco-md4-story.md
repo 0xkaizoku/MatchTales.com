@@ -1,16 +1,16 @@
 ---
-title: "Netherlands vs Morocco 1-1 Match Report"
+title: "Netherlands vs Morocco 1-1 (2-4 pens) Match Report"
 subtitle: "The final whistle blew at MetLife Stadium with a 1-1 scoreline. Netherlands and Morocco played out an absorbing contest in this Round of 32 fixture."
 category: "Match Report"
 excerpt: "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 4
 pubDate: 2026-06-29
 ---
 
 ## The Showdown at MetLife Stadium
 
-On 2026-06-29, the footballing world turned its attention to MetLife Stadium in New Jersey for an absorbing encounter between **Netherlands** and **Morocco** in the Round of 32.
+On 2026-06-29, the footballing world turned its attention to MetLife Stadium in New Jersey for an absorbing encounter between **Netherlands** and **Morocco** in the R32.
 
 Under the bright lights in New Jersey, Netherlands and Morocco took to the pitch on 2026-06-29 for a highly anticipated knockout fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 
@@ -39,3 +39,7 @@ The match was defined by individual battles and standout performances from:
 - Netherlands are affectionately known as the Oranje.
 - Morocco are affectionately known as the Atlas Lions.
 - This high-profile match was held at MetLife Stadium in New Jersey on 2026-06-29.
+
+## Final Score
+
+**Netherlands 1-1 (2-4 pens) Morocco**
