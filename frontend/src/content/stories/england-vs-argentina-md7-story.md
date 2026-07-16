@@ -1,8 +1,8 @@
 ---
 title: "England vs Argentina 1-2 Match Report"
-subtitle: "Argentina survived an England surge and sealed a 2-1 semi-final win to reach another World Cup final."
+subtitle: "Argentina staged a late comeback to beat England 2-1 and book a return to the World Cup final."
 category: "Match Report"
-excerpt: "History, heat and a final place on the line: England vs Argentina in Miami on 15 July."
+excerpt: "History, heat and a final place on the line: England vs Argentina in a World Cup semi-final."
 image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 5
 pubDate: 2026-07-15
@@ -10,17 +10,17 @@ pubDate: 2026-07-15
 
 ## The Showdown at Hard Rock Stadium
 
-On 2026-07-15, the footballing world turned its attention to Hard Rock Stadium in Miami for **England** vs **Argentina** in the Semi-Final.
+On 2026-07-15, the footballing world turns its attention to Hard Rock Stadium in Miami for **England** vs **Argentina** in the Semi-Final.
 
-Miami knew the script before kick-off: two football cultures with unfinished World Cup business, and ninety minutes to decide a finalist. England started with intensity, Bellingham driving transitions and Kane occupying Argentina's centre-backs.
+The semi-final carried every layer of history the rivalry always brings. England led and looked set to manage the night, until Argentina's champion instinct flipped the script in the closing stages.
 
-Argentina absorbed the storm, then struck twice in a ruthless ten-minute spell either side of half-time. England refused to fold. A late goal set up a frantic finale, with corners raining in and Hard Rock Stadium roaring for an equaliser.
+Two late goals completed the comeback. England still threatened in the final minutes, but Argentina's game management and quality in the box proved decisive once more.
 
-When the whistle went at 2-1, Argentina had earned the right to chase back-to-back titles. England's long run ends in the last four, with bronze still available in the third-place match.
+At 2-1 the holders were finalists again. England drop into the third-place play-off after a campaign that reached the last four.
 
 ## Stakes and Context
 
-Winner to the final at MetLife Stadium. Loser faces France for third place.
+A place in the 2026 World Cup final. The loser plays for bronze.
 
 One of football's most loaded fixtures: 1986 ghosts, 1998 red cards, 2002 penalties, and a 2026 semi-final chapter.
 

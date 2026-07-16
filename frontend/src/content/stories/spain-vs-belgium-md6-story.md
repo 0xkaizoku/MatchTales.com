@@ -1,22 +1,22 @@
 ---
-title: "Spain vs Belgium 2-0 Match Report"
-subtitle: "Spain controlled the tempo and converted two clear chances to eliminate Belgium 2-0 in the quarter-finals."
+title: "Spain vs Belgium 2-1 Match Report"
+subtitle: "Spain converted two clear chances and survived a late Belgian reply to win 2-1 in the quarter-finals."
 category: "Match Report"
-excerpt: "Possession kings against a Belgian side built to disrupt: a quarter-final that decided a semi-final berth in Atlanta."
+excerpt: "Possession kings against a Belgian side built to disrupt: a quarter-final that decided a semi-final berth."
 image: "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
-readingTime: 4
+readingTime: 5
 pubDate: 2026-07-10
 ---
 
 ## The Showdown at SoFi Stadium
 
-On 2026-07-10, the footballing world turned its attention to SoFi Stadium in Los Angeles for an absorbing encounter between **Spain** and **Belgium** in the QF.
+On 2026-07-10, the footballing world turns its attention to SoFi Stadium in Los Angeles for **Spain** vs **Belgium** in the Quarter-Final.
 
-Spain arrived with the same patient, positional game that carried them through the group and Round of 16. Belgium sat deep, looked for transitions, and nearly stole the opener on a second-half break.
+Spain arrived with the same patient, positional game that carried them through the group and Round of 16. Belgium sat deep, looked for transitions, and made La Roja work for every yard of space.
 
-La Roja's midfield eventually found the gaps. Two well-worked goals rewarded their territorial dominance and punished Belgian fatigue late on. Belgium's stars created flashes, but Spain's structure never fully cracked.
+Spain's midfield eventually found the gaps for a two-goal cushion. Belgium pulled one back late and forced a nervous finish, but Spain's structure held through the final minutes.
 
-At 2-0, the quarter-final was settled. Spain advance as one of the tournament's most coherent teams; Belgium's golden generation exits at the last eight.
+At 2-1, the quarter-final was settled. Spain advance as one of the tournament's most coherent teams; Belgium's golden generation exits at the last eight.
 
 ## Stakes and Context
 
@@ -30,7 +30,6 @@ Historically, matches between these two nations have always been tightly contest
 
 ## Key Player Impacts
 
-The match was defined by individual battles and standout performances from:
 - **Lamine Yamal** (Spain): The key playmaker leading the tactical setup for the La Roja.
 - **Kevin De Bruyne** (Belgium): The creative spark expected to make the difference for the Red Devils.
 
@@ -42,4 +41,4 @@ The match was defined by individual battles and standout performances from:
 
 ## Final Score
 
-**Spain 2-0 Belgium**
+**Spain 2-1 Belgium**

@@ -89,7 +89,7 @@ ACCURATE = {
     "belgium-vs-iran-md1": (0, 0, None, None, None),
     "egypt-vs-new-zealand-md1": (3, 1, None, None, None),
     "belgium-vs-egypt-md2": (1, 1, None, None, None),
-    "iran-vs-new-zealand-md2": (0, 0, None, None, None),
+    "iran-vs-new-zealand-md2": (2, 2, None, None, None),
     "belgium-vs-new-zealand-md3": (5, 1, None, None, None),
     "egypt-vs-iran-md3": (1, 1, None, None, None),
     # GROUP H
@@ -131,18 +131,18 @@ ACCURATE = {
     "canada-vs-south-africa-md4": (1, 0, None, None, None),
     "brazil-vs-japan-md4": (2, 1, None, None, None),
     "germany-vs-paraguay-md4": (1, 1, "pens", 3, 4),  # Paraguay advance
-    "netherlands-vs-morocco-md4": (1, 1, "pens", 2, 4),  # Morocco advance
+    "netherlands-vs-morocco-md4": (1, 1, "pens", 2, 3),  # Morocco advance (ESPN)
     "norway-vs-ivory-coast-md4": (2, 1, None, None, None),
     "france-vs-sweden-md4": (3, 0, None, None, None),
     "mexico-vs-ecuador-md4": (2, 0, None, None, None),
     "england-vs-dr-congo-md4": (2, 1, None, None, None),
-    "belgium-vs-senegal-md4": (3, 2, None, None, None),
+    "belgium-vs-senegal-md4": (3, 2, "aet", None, None),
     "united-states-vs-bosnia-and-herzegovina-md4": (2, 0, None, None, None),
     "spain-vs-austria-md4": (3, 0, None, None, None),
     "portugal-vs-croatia-md4": (2, 1, None, None, None),
     "switzerland-vs-algeria-md4": (2, 0, None, None, None),
     "australia-vs-egypt-md4": (1, 1, "pens", 2, 4),  # Egypt advance
-    "argentina-vs-cape-verde-md4": (3, 2, None, None, None),
+    "argentina-vs-cape-verde-md4": (3, 2, "aet", None, None),
     "colombia-vs-ghana-md4": (1, 0, None, None, None),
     # R16
     "morocco-vs-canada-md5": (3, 0, None, None, None),
@@ -152,67 +152,70 @@ ACCURATE = {
     "spain-vs-portugal-md5": (1, 0, None, None, None),
     "belgium-vs-united-states-md5": (4, 1, None, None, None),
     "argentina-vs-egypt-md5": (3, 2, None, None, None),
-    "switzerland-vs-colombia-md5": (0, 0, "pens", 3, 1),  # Switzerland advance
-    # QF (completed by 2026-07-11; simulated editorial results consistent with form)
-    "france-vs-morocco-md6": (2, 1, None, None, None),
-    "spain-vs-belgium-md6": (2, 0, None, None, None),
-    "norway-vs-england-md6": (1, 2, None, None, None),
-    "argentina-vs-switzerland-md6": (2, 0, None, None, None),
+    "switzerland-vs-colombia-md5": (0, 0, "pens", 4, 3),  # Switzerland advance (ESPN)
+    # QF (verified ESPN/Yahoo as of July 11)
+    "france-vs-morocco-md6": (2, 0, None, None, None),
+    "spain-vs-belgium-md6": (2, 1, None, None, None),
+    "norway-vs-england-md6": (1, 2, "aet", None, None),
+    "argentina-vs-switzerland-md6": (3, 1, "aet", None, None),
+    # SF (verified FIFA/ESPN as of July 15)
+    "france-vs-spain-md7": (0, 2, None, None, None),
+    "england-vs-argentina-md7": (1, 2, None, None, None),
 }
 
 QF_NARRATIVES = {
     "france-vs-morocco-md6": {
-        "headline": "France Edge Morocco 2-1 to Reach the Semi-Finals",
+        "headline": "France Blank Morocco 2-0 to Reach the Semi-Finals",
         "whyCareReason": "A heavyweight quarter-final in Boston: Mbappe vs the Atlas Lions, with a World Cup semi-final on the line.",
-        "teaser": "France survived a Morocco surge and sealed a 2-1 win at Gillette Stadium to book their place in the last four.",
+        "teaser": "France controlled the night and sealed a clean 2-0 win at Gillette Stadium to book their place in the last four.",
         "story": (
             "Boston was a wall of noise as France and Morocco renewed their World Cup rivalry in a quarter-final that lived up to every billing. "
-            "Les Bleus struck first through clinical finishing in the opening half, then absorbed waves of Atlas Lions pressure after the break.\n\n"
-            "Morocco pulled a goal back and poured numbers forward, forcing France into desperate blocks and a series of late clearances. "
+            "Les Bleus struck first through clinical finishing, then kept the Atlas Lions at arm's length for the rest of the night.\n\n"
+            "Morocco pushed numbers forward after the break and forced France into a series of blocks and clearances. "
             "Kylian Mbappe remained the constant threat on the counter, stretching Morocco's full-backs whenever space opened.\n\n"
-            "When the final whistle confirmed a 2-1 scoreline, France had earned a semi-final ticket the hard way. Morocco exited with pride intact after another deep knockout run."
+            "When the final whistle confirmed a 2-0 scoreline, France had earned a semi-final ticket with authority. Morocco exited with pride intact after another deep knockout run."
         ),
         "stakes": "A single loss ended Morocco's tournament. France now chase a third straight World Cup final appearance.",
         "rivalryAngle": "France and Morocco share players, pathways and recent World Cup history. This meeting carried club-level familiarity and national-level stakes.",
     },
     "spain-vs-belgium-md6": {
-        "headline": "Spain Blank Belgium 2-0 and March into the Semis",
-        "whyCareReason": "Possession kings against a Belgian side built to disrupt: a quarter-final that decided a semi-final berth in Atlanta.",
-        "teaser": "Spain controlled the tempo and converted two clear chances to eliminate Belgium 2-0 in the quarter-finals.",
+        "headline": "Spain Edge Belgium 2-1 and March into the Semis",
+        "whyCareReason": "Possession kings against a Belgian side built to disrupt: a quarter-final that decided a semi-final berth.",
+        "teaser": "Spain converted two clear chances and survived a late Belgian reply to win 2-1 in the quarter-finals.",
         "story": (
             "Spain arrived with the same patient, positional game that carried them through the group and Round of 16. "
-            "Belgium sat deep, looked for transitions, and nearly stole the opener on a second-half break.\n\n"
-            "La Roja's midfield eventually found the gaps. Two well-worked goals rewarded their territorial dominance and punished Belgian fatigue late on. "
-            "Belgium's stars created flashes, but Spain's structure never fully cracked.\n\n"
-            "At 2-0, the quarter-final was settled. Spain advance as one of the tournament's most coherent teams; Belgium's golden generation exits at the last eight."
+            "Belgium sat deep, looked for transitions, and made La Roja work for every yard of space.\n\n"
+            "Spain's midfield eventually found the gaps for a two-goal cushion. Belgium pulled one back late and forced a nervous finish, "
+            "but Spain's structure held through the final minutes.\n\n"
+            "At 2-1, the quarter-final was settled. Spain advance as one of the tournament's most coherent teams; Belgium's golden generation exits at the last eight."
         ),
         "stakes": "Winner to the semi-finals. Loser goes home after a long knockout road.",
         "rivalryAngle": "Spain's possession school against Belgium's athletic counter-punch is a modern European classic.",
     },
     "norway-vs-england-md6": {
-        "headline": "England Survive Norway Scare in 2-1 Quarter-Final Thriller",
-        "whyCareReason": "Haaland and Odegaard vs the Three Lions: a quarter-final packed with Premier League storylines.",
-        "teaser": "England trailed, regrouped, and finished 2-1 winners against a fearless Norway side in Dallas.",
+        "headline": "England Survive Norway Scare in 2-1 Extra-Time Thriller",
+        "whyCareReason": "Haaland and Odegaard vs the Three Lions: a quarter-final packed with Premier League storylines that needed extra time.",
+        "teaser": "England trailed, regrouped, and finished 2-1 winners after extra time against a fearless Norway side.",
         "story": (
             "Norway started like a side with nothing to lose. Early pressure and a clinical finish put England behind and silenced large parts of the stadium. "
             "England's response was pure tournament football: tighter midfield distances, quicker wide switches, and growing territory.\n\n"
-            "Two second-half goals flipped the scoreline. Norway still threatened through Haaland's runs in behind, forcing England's back line into last-ditch recovery sprints. "
-            "The Three Lions managed the final minutes with game-smart fouls and composure in possession.\n\n"
-            "England advance 2-1. Norway leave with a tournament that reintroduced them as a genuine knockout force."
+            "Regulation finished level on the night's drama before England found the winner in extra time. Norway still threatened through Haaland's runs in behind, "
+            "forcing England's back line into last-ditch recovery sprints. The Three Lions managed the final minutes with game-smart fouls and composure in possession.\n\n"
+            "England advance 2-1 after extra time. Norway leave with a tournament that reintroduced them as a genuine knockout force."
         ),
         "stakes": "Quarter-final football leaves no safety net. England move on; Norway's revival ends one step short of the semis.",
         "rivalryAngle": "So many club teammates on opposite sides made this feel like a Premier League derby with a World Cup prize.",
     },
     "argentina-vs-switzerland-md6": {
-        "headline": "Argentina Dispatch Switzerland 2-0 to Reach the Last Four",
-        "whyCareReason": "Champions against Swiss organisation: a quarter-final defined by patience, quality, and late ruthlessness.",
-        "teaser": "Argentina broke Swiss resistance with two second-half goals to seal a 2-0 quarter-final win in Kansas City.",
+        "headline": "Argentina Beat Switzerland 3-1 After Extra Time",
+        "whyCareReason": "Champions against Swiss organisation: a quarter-final defined by patience, quality, and extra-time ruthlessness.",
+        "teaser": "Argentina needed extra time to break Swiss resistance and seal a 3-1 quarter-final win in Kansas City.",
         "story": (
             "Switzerland did what Switzerland do: compact shape, disciplined distances, and almost zero clear chances conceded before the hour mark. "
             "Argentina monopolised the ball and waited for the moment the Swiss block stretched.\n\n"
-            "That moment arrived after the break. A well-timed combination opened the first goal, and a second on the counter closed the contest. "
-            "Switzerland pushed numbers forward late, but Argentina's game management was ruthless.\n\n"
-            "The 2-0 result sends the holders into the semi-finals. Switzerland exit after a campaign built on structure and giant-killing ambition."
+            "That moment arrived late and then again in extra time. Well-timed combinations opened the scoring and a third goal closed the contest. "
+            "Switzerland pushed numbers forward, but Argentina's game management was ruthless once the lead was secured.\n\n"
+            "The 3-1 result after extra time sends the holders into the semi-finals. Switzerland exit after a campaign built on structure and giant-killing ambition."
         ),
         "stakes": "A place in the World Cup semi-finals. Argentina stay on course; Switzerland's run ends in the last eight.",
         "rivalryAngle": "Organisation versus invention: Switzerland try to suffocate, Argentina try to unlock.",

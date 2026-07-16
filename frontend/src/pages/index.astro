@@ -52,12 +52,17 @@ const featured =
   recentResults[0] ||
   matches[0];
 
-const tournamentPhase =
-  upcoming.some((m) => (m.group || '').toUpperCase() === 'F')
+const hasFinalUpcoming = upcoming.some((m) => {
+  const g = (m.group || '').toUpperCase();
+  return g === 'F' || g === 'FINAL' || g === '3RD';});
+const tournamentPhase = !upcoming.length
+  ? 'Tournament complete'
+  : hasFinalUpcoming
     ? 'Final week'
-    : upcoming.length
-      ? 'Knockout stage'
-      : 'Tournament complete';
+    : 'Knockout stage';
+const daysToFinal = finalMatch
+  ? Math.max(0, Math.round((new Date(finalMatch.date + 'T00:00:00').getTime() - new Date(todayStr + 'T00:00:00').getTime()) / 86400000))
+  : null;
 
 const storyEntries = await getCollection('stories');
 const stories = storyEntries
@@ -75,12 +80,27 @@ const preloadHero = featured?.image ? optimizeImage(featured.image, 1200, 78) : 
         <span class="font-head font-semibold text-pitch">FIFA World Cup 2026</span>
         <span class="text-muted">· USA · Mexico · Canada</span>
       </div>
-      <div class="flex items-center gap-2 text-[12px] font-sans text-muted">
+      <div class="flex flex-wrap items-center gap-2 text-[12px] font-sans text-muted">
         <span class="inline-flex items-center gap-1.5 text-coral font-medium"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>{tournamentPhase}</span>
         <span>· Updated {fmtDate(todayStr)}</span>
+        {daysToFinal != null && daysToFinal > 0 && (
+          <span class="inline-flex items-center rounded-full bg-pitch/10 px-2 py-0.5 font-medium text-pitch">
+            {daysToFinal === 1 ? 'Final tomorrow' : `${daysToFinal} days to the final`}
+          </span>
+        )}
+        {daysToFinal === 0 && (
+          <span class="inline-flex items-center rounded-full bg-coral/15 px-2 py-0.5 font-medium text-coral">Final day</span>
+        )}
         <span>· 48 teams · 12 groups</span>
       </div>
     </div>
+
+    {todayMatches.length === 0 && upcoming.length > 0 && (
+      <div class="mt-4 rounded-card border border-pitch/20 bg-pitch/5 px-4 py-3 text-sm font-sans text-ink">
+        <span class="font-head font-semibold text-pitch">Rest day.</span>
+        <span class="text-muted"> No fixtures today. Next up: {thirdPlace ? `${thirdPlace.home} vs ${thirdPlace.away} for bronze (${fmtDate(thirdPlace.date)})` : 'the final weekend'}{finalMatch ? `, then ${finalMatch.home} vs ${finalMatch.away} in the final (${fmtDate(finalMatch.date)})` : ''}.</span>
+      </div>
+    )}
 
     {featured && (
       <section class="mt-6 fade-up"><Hero m={featured} /></section>
@@ -124,7 +144,11 @@ const preloadHero = featured?.image ? optimizeImage(featured.image, 1200, 78) : 
         <div class="flex items-end justify-between gap-4 mb-4">
           <div>
             <h2 id="road-h" class="font-head text-2xl font-semibold tracking-tight">Road to the trophy</h2>
-            <p class="text-sm text-muted font-sans mt-0.5">Third-place play-off and the World Cup final still to come.</p>
+            <p class="text-sm text-muted font-sans mt-0.5">
+              {daysToFinal != null && daysToFinal > 0
+                ? `Bronze on ${thirdPlace ? fmtDate(thirdPlace.date) : 'Saturday'}, final in ${daysToFinal} day${daysToFinal === 1 ? '' : 's'} at MetLife.`
+                : 'Third-place play-off and the World Cup final still to come.'}
+            </p>
           </div>
           <a href="/fixtures" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4 whitespace-nowrap">Full schedule →</a>
         </div>

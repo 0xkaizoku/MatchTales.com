@@ -1,10 +1,10 @@
 {
   "slug": "argentina-vs-switzerland-md6",
-  "headline": "Argentina Dispatch Switzerland 2-0 to Reach the Last Four",
+  "headline": "Argentina Beat Switzerland 3-1 After Extra Time",
   "whyCareScore": 9.2,
-  "whyCareReason": "Champions against Swiss organisation: a quarter-final defined by patience, quality, and late ruthlessness.",
-  "teaser": "Argentina broke Swiss resistance with two second-half goals to seal a 2-0 quarter-final win in Kansas City.",
-  "story": "Switzerland did what Switzerland do: compact shape, disciplined distances, and almost zero clear chances conceded before the hour mark. Argentina monopolised the ball and waited for the moment the Swiss block stretched.\n\nThat moment arrived after the break. A well-timed combination opened the first goal, and a second on the counter closed the contest. Switzerland pushed numbers forward late, but Argentina's game management was ruthless.\n\nThe 2-0 result sends the holders into the semi-finals. Switzerland exit after a campaign built on structure and giant-killing ambition.",
+  "whyCareReason": "Champions against Swiss organisation: a quarter-final defined by patience, quality, and extra-time ruthlessness.",
+  "teaser": "Argentina needed extra time to break Swiss resistance and seal a 3-1 quarter-final win in Kansas City.",
+  "story": "Switzerland did what Switzerland do: compact shape, disciplined distances, and almost zero clear chances conceded before the hour mark. Argentina monopolised the ball and waited for the moment the Swiss block stretched.\n\nThat moment arrived late and then again in extra time. Well-timed combinations opened the scoring and a third goal closed the contest. Switzerland pushed numbers forward, but Argentina's game management was ruthless once the lead was secured.\n\nThe 3-1 result after extra time sends the holders into the semi-finals. Switzerland exit after a campaign built on structure and giant-killing ambition.",
   "stakes": "A place in the World Cup semi-finals. Argentina stay on course; Switzerland's run ends in the last eight.",
   "rivalryAngle": "Organisation versus invention: Switzerland try to suffocate, Argentina try to unlock.",
   "funFacts": [
@@ -43,9 +43,10 @@
   "venue": "Arrowhead Stadium",
   "city": "Kansas City",
   "status": "FINISHED",
-  "homeScore": 2,
-  "awayScore": 0,
+  "homeScore": 3,
+  "awayScore": 1,
   "marquee": true,
   "liveMinute": null,
-  "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+  "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200",
+  "decidedBy": "aet"
 }

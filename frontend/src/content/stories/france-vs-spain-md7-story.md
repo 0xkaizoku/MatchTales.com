@@ -1,6 +1,6 @@
 ---
-title: "France vs Spain 1-2 Match Report"
-subtitle: "Spain broke French resistance with two second-half moments of quality to win 2-1 and book a place in the MetLife final."
+title: "France vs Spain 0-2 Match Report"
+subtitle: "Spain produced a masterclass of control and finishing to beat France 2-0 and book a place in the MetLife final."
 category: "Match Report"
 excerpt: "European heavyweights collide in Dallas: a semi-final that decided the first finalist of 2026."
 image: "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
@@ -10,13 +10,13 @@ pubDate: 2026-07-14
 
 ## The Showdown at AT&T Stadium
 
-On 2026-07-14, the footballing world turned its attention to AT&T Stadium in Dallas for **France** vs **Spain** in the Semi-Final.
+On 2026-07-14, the footballing world turns its attention to AT&T Stadium in Dallas for **France** vs **Spain** in the Semi-Final.
 
 Dallas delivered a semi-final worthy of the last four. France arrived with knockout steel and Mbappe's threat in behind; Spain arrived with the same patient control that has defined their entire tournament.
 
-Les Bleus led early against the run of play, forcing Spain to chase the game. La Roja never panicked. Pedri and the midfield dictated rest defence distances, Yamal stretched the right channel, and the equaliser arrived just after the hour.
+La Roja never panicked. Pedri and the midfield dictated rest defence distances, Yamal stretched the right channel, and two moments of quality either side of half-time broke French resistance.
 
-The winner was pure Spain: a recycled attack, a cut-back, and a clinical finish. France threw everything forward in the final minutes but could not force extra time. Spain are World Cup finalists. France drop into the third-place play-off.
+France threw everything forward in the final minutes but could not force a way back. Spain are World Cup finalists. France drop into the third-place play-off.
 
 ## Stakes and Context
 
@@ -41,4 +41,4 @@ Recent meetings have been tight, tactical affairs where midfield control has usu
 
 ## Final Score
 
-**France 1-2 Spain**
+**France 0-2 Spain**

@@ -4,13 +4,13 @@ subtitle: "The final whistle blew at Lumen Field with a 3-2 scoreline. Belgium a
 category: "Match Report"
 excerpt: "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup."
 image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
-readingTime: 4
+readingTime: 5
 pubDate: 2026-07-01
 ---
 
 ## The Showdown at Lumen Field
 
-On 2026-07-01, the footballing world turned its attention to Lumen Field in Seattle for an absorbing encounter between **Belgium** and **Senegal** in the Round of 32.
+On 2026-07-01, the footballing world turns its attention to Lumen Field in Seattle for **Belgium** vs **Senegal** in the Round of 32.
 
 The atmosphere at the Lumen Field in Seattle was electric as Belgium faced Senegal in a Round of 32 matchup on 2026-07-01. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
@@ -30,7 +30,6 @@ Historically, matches between these two nations have always been tightly contest
 
 ## Key Player Impacts
 
-The match was defined by individual battles and standout performances from:
 - **Kevin De Bruyne** (Belgium): The key playmaker leading the tactical setup for the Red Devils.
 - **Nicolas Jackson** (Senegal): The creative spark expected to make the difference for the Lions of Teranga.
 
@@ -39,3 +38,7 @@ The match was defined by individual battles and standout performances from:
 - Belgium are affectionately known as the Red Devils.
 - Senegal are affectionately known as the Lions of Teranga.
 - This high-profile match was held at Lumen Field in Seattle on 2026-07-01.
+
+## Final Score
+
+**Belgium 3-2 AET Senegal**

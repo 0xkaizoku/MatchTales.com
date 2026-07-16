@@ -43,8 +43,8 @@
   "venue": "AT&T Stadium",
   "city": "Dallas",
   "status": "FINISHED",
-  "homeScore": 0,
-  "awayScore": 0,
+  "homeScore": 2,
+  "awayScore": 2,
   "marquee": false,
   "liveMinute": null,
   "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"

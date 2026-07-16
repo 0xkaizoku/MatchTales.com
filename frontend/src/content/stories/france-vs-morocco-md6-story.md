@@ -1,22 +1,22 @@
 ---
-title: "France vs Morocco 2-1 Match Report"
-subtitle: "France survived a Morocco surge and sealed a 2-1 win at Gillette Stadium to book their place in the last four."
+title: "France vs Morocco 2-0 Match Report"
+subtitle: "France controlled the night and sealed a clean 2-0 win at Gillette Stadium to book their place in the last four."
 category: "Match Report"
 excerpt: "A heavyweight quarter-final in Boston: Mbappe vs the Atlas Lions, with a World Cup semi-final on the line."
 image: "https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
-readingTime: 4
+readingTime: 5
 pubDate: 2026-07-09
 ---
 
 ## The Showdown at Gillette Stadium
 
-On 2026-07-09, the footballing world turned its attention to Gillette Stadium in Boston for an absorbing encounter between **France** and **Morocco** in the QF.
+On 2026-07-09, the footballing world turns its attention to Gillette Stadium in Boston for **France** vs **Morocco** in the Quarter-Final.
 
-Boston was a wall of noise as France and Morocco renewed their World Cup rivalry in a quarter-final that lived up to every billing. Les Bleus struck first through clinical finishing in the opening half, then absorbed waves of Atlas Lions pressure after the break.
+Boston was a wall of noise as France and Morocco renewed their World Cup rivalry in a quarter-final that lived up to every billing. Les Bleus struck first through clinical finishing, then kept the Atlas Lions at arm's length for the rest of the night.
 
-Morocco pulled a goal back and poured numbers forward, forcing France into desperate blocks and a series of late clearances. Kylian Mbappe remained the constant threat on the counter, stretching Morocco's full-backs whenever space opened.
+Morocco pushed numbers forward after the break and forced France into a series of blocks and clearances. Kylian Mbappe remained the constant threat on the counter, stretching Morocco's full-backs whenever space opened.
 
-When the final whistle confirmed a 2-1 scoreline, France had earned a semi-final ticket the hard way. Morocco exited with pride intact after another deep knockout run.
+When the final whistle confirmed a 2-0 scoreline, France had earned a semi-final ticket with authority. Morocco exited with pride intact after another deep knockout run.
 
 ## Stakes and Context
 
@@ -30,7 +30,6 @@ Historically, matches between these two nations have always been tightly contest
 
 ## Key Player Impacts
 
-The match was defined by individual battles and standout performances from:
 - **Kylian Mbappé** (France): The key playmaker leading the tactical setup for the Les Bleus.
 - **Achraf Hakimi** (Morocco): The creative spark expected to make the difference for the Atlas Lions.
 
@@ -42,4 +41,4 @@ The match was defined by individual battles and standout performances from:
 
 ## Final Score
 
-**France 2-1 Morocco**
+**France 2-0 Morocco**

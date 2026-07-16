@@ -4,13 +4,13 @@ subtitle: "A thrilling match in Miami Gardens concludes with Argentina and Cape 
 category: "Match Report"
 excerpt: "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup."
 image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
-readingTime: 4
+readingTime: 5
 pubDate: 2026-07-03
 ---
 
 ## The Showdown at Hard Rock Stadium
 
-On 2026-07-03, the footballing world turned its attention to Hard Rock Stadium in Miami Gardens for an absorbing encounter between **Argentina** and **Cape Verde** in the Round of 32.
+On 2026-07-03, the footballing world turns its attention to Hard Rock Stadium in Miami Gardens for **Argentina** vs **Cape Verde** in the Round of 32.
 
 The atmosphere at the Hard Rock Stadium in Miami Gardens was electric as Argentina faced Cape Verde in a Round of 32 matchup on 2026-07-03. Fans of both teams created a sea of colour and noise, setting the stage for a memorable World Cup showdown.
 
@@ -30,7 +30,6 @@ Historically, matches between these two nations have always been tightly contest
 
 ## Key Player Impacts
 
-The match was defined by individual battles and standout performances from:
 - **Lautaro Martínez** (Argentina): The key playmaker leading the tactical setup for the La Albiceleste.
 - **Ryan Mendes** (Cape Verde): The creative spark expected to make the difference for the Blue Sharks.
 
@@ -39,3 +38,7 @@ The match was defined by individual battles and standout performances from:
 - Argentina are affectionately known as the La Albiceleste.
 - Cape Verde are affectionately known as the Blue Sharks.
 - This high-profile match was held at Hard Rock Stadium in Miami Gardens on 2026-07-03.
+
+## Final Score
+
+**Argentina 3-2 AET Cape Verde**

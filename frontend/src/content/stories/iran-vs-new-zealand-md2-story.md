@@ -1,16 +1,16 @@
 ---
-title: "Iran vs New Zealand 0-0 Match Report"
+title: "Iran vs New Zealand 2-2 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Iran and New Zealand fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group G that leaves standing tables dramatically altered."
 image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
-readingTime: 4
+readingTime: 5
 pubDate: 2026-06-21
 ---
 
 ## The Showdown at AT&T Stadium
 
-On 2026-06-21, the footballing world turned its attention to AT&T Stadium in Dallas for an absorbing encounter between **Iran** and **New Zealand** in the Group G.
+On 2026-06-21, the footballing world turns its attention to AT&T Stadium in Dallas for **Iran** vs **New Zealand** in the Group G.
 
 Under the bright lights in Dallas, Iran and New Zealand took to the pitch on 2026-06-21 for a highly anticipated Matchday 2 fixture. The tension in the stadium was palpable, reflecting the immense stakes of the tournament.
 
@@ -30,7 +30,6 @@ Historically, matches between these two nations have always been tightly contest
 
 ## Key Player Impacts
 
-The match was defined by individual battles and standout performances from:
 - **Mehdi Taremi** (Iran): The key playmaker leading the tactical setup for the Team Melli.
 - **Chris Wood** (New Zealand): The creative spark expected to make the difference for the All Whites.
 
@@ -39,3 +38,7 @@ The match was defined by individual battles and standout performances from:
 - Iran are affectionately known as the Team Melli.
 - New Zealand are affectionately known as the All Whites.
 - This high-profile match was held at AT&T Stadium in Dallas on 2026-06-21.
+
+## Final Score
+
+**Iran 2-2 New Zealand**

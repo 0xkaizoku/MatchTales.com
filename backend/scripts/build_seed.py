@@ -472,13 +472,13 @@ F.append(fx("Argentina","Egypt","R16",5,"2026-07-07","13:00","Mercedes-Benz Stad
 F.append(fx("Switzerland","Colombia","R16",5,"2026-07-07","16:00","BC Place","Vancouver","FINISHED",0,0,True))
 
 # Quarter-finals (matchday 6) - finished
-F.append(fx("France","Morocco","QF",6,"2026-07-09","16:00","Gillette Stadium","Boston","FINISHED",2,1,True))
-F.append(fx("Spain","Belgium","QF",6,"2026-07-10","12:00","SoFi Stadium","Los Angeles","FINISHED",2,0,True))
+F.append(fx("France","Morocco","QF",6,"2026-07-09","16:00","Gillette Stadium","Boston","FINISHED",2,0,True))
+F.append(fx("Spain","Belgium","QF",6,"2026-07-10","12:00","SoFi Stadium","Los Angeles","FINISHED",2,1,True))
 F.append(fx("Norway","England","QF",6,"2026-07-11","17:00","Hard Rock Stadium","Miami","FINISHED",1,2,True))
-F.append(fx("Argentina","Switzerland","QF",6,"2026-07-11","20:00","Arrowhead Stadium","Kansas City","FINISHED",2,0,True))
+F.append(fx("Argentina","Switzerland","QF",6,"2026-07-11","20:00","Arrowhead Stadium","Kansas City","FINISHED",3,1,True))
 
 # Semi-finals (matchday 7) - finished as of July 15, 2026
-F.append(fx("France","Spain","SF",7,"2026-07-14","20:00","AT&T Stadium","Dallas","FINISHED",1,2,True))
+F.append(fx("France","Spain","SF",7,"2026-07-14","20:00","AT&T Stadium","Dallas","FINISHED",0,2,True))
 F.append(fx("England","Argentina","SF",7,"2026-07-15","20:00","Hard Rock Stadium","Miami","FINISHED",1,2,True))
 
 # Third place + Final remaining

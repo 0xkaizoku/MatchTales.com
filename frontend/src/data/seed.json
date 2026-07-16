@@ -1767,8 +1767,8 @@
         "W": 0,
         "D": 3,
         "L": 0,
-        "GF": 1,
-        "GA": 1,
+        "GF": 3,
+        "GA": 3,
         "GD": 0,
         "Pts": 3
       },
@@ -1780,8 +1780,8 @@
         "W": 0,
         "D": 1,
         "L": 2,
-        "GF": 2,
-        "GA": 8,
+        "GF": 4,
+        "GA": 10,
         "GD": -6,
         "Pts": 1
       }
@@ -2773,8 +2773,8 @@
       "venue": "AT&T Stadium",
       "city": "Dallas",
       "status": "FINISHED",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 2,
       "marquee": false,
       "liveMinute": null
     },
@@ -3278,7 +3278,7 @@
       "liveMinute": null,
       "decidedBy": "pens",
       "homePen": 2,
-      "awayPen": 4
+      "awayPen": 3
     },
     {
       "slug": "norway-vs-ivory-coast-md4",
@@ -3358,7 +3358,8 @@
       "homeScore": 3,
       "awayScore": 2,
       "marquee": true,
-      "liveMinute": null
+      "liveMinute": null,
+      "decidedBy": "aet"
     },
     {
       "slug": "united-states-vs-bosnia-and-herzegovina-md4",
@@ -3457,7 +3458,8 @@
       "homeScore": 3,
       "awayScore": 2,
       "marquee": true,
-      "liveMinute": null
+      "liveMinute": null,
+      "decidedBy": "aet"
     },
     {
       "slug": "colombia-vs-ghana-md4",
@@ -3603,8 +3605,8 @@
       "marquee": true,
       "liveMinute": null,
       "decidedBy": "pens",
-      "homePen": 3,
-      "awayPen": 1
+      "homePen": 4,
+      "awayPen": 3
     },
     {
       "slug": "france-vs-morocco-md6",
@@ -3618,7 +3620,7 @@
       "city": "Boston",
       "status": "FINISHED",
       "homeScore": 2,
-      "awayScore": 1,
+      "awayScore": 0,
       "marquee": true,
       "liveMinute": null
     },
@@ -3634,7 +3636,7 @@
       "city": "Los Angeles",
       "status": "FINISHED",
       "homeScore": 2,
-      "awayScore": 0,
+      "awayScore": 1,
       "marquee": true,
       "liveMinute": null
     },
@@ -3652,7 +3654,8 @@
       "homeScore": 1,
       "awayScore": 2,
       "marquee": true,
-      "liveMinute": null
+      "liveMinute": null,
+      "decidedBy": "aet"
     },
     {
       "slug": "argentina-vs-switzerland-md6",
@@ -3665,10 +3668,11 @@
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
       "status": "FINISHED",
-      "homeScore": 2,
-      "awayScore": 0,
+      "homeScore": 3,
+      "awayScore": 1,
       "marquee": true,
-      "liveMinute": null
+      "liveMinute": null,
+      "decidedBy": "aet"
     },
     {
       "slug": "france-vs-spain-md7",
@@ -3681,7 +3685,7 @@
       "venue": "AT&T Stadium",
       "city": "Dallas",
       "status": "FINISHED",
-      "homeScore": 1,
+      "homeScore": 0,
       "awayScore": 2,
       "marquee": true,
       "liveMinute": null,
@@ -3815,6 +3819,18 @@
   ],
   "moments": [
     {
+      "year": 2026,
+      "title": "Spain 2-0 France: Dallas Semi-Final",
+      "team": "Spain",
+      "text": "La Roja produced a controlled 2-0 semi-final win over France to book the first place in the MetLife final."
+    },
+    {
+      "year": 2026,
+      "title": "Argentina 2-1 England: Miami Semi-Final",
+      "team": "Argentina",
+      "text": "Argentina staged a late comeback to beat England 2-1 and reach another World Cup final."
+    },
+    {
       "year": 1986,
       "title": "Maradona's Hand of God & Goal of the Century",
       "team": "Argentina",
@@ -3852,6 +3868,14 @@
     }
   ],
   "storiesMeta": [
+    {
+      "slug": "final-week-countdown-spain-argentina",
+      "title": "Final Week Countdown: Spain, Argentina and Two Nights Left",
+      "category": "Final Week",
+      "excerpt": "A rest-day guide to the podium race: France vs England for bronze, then Spain vs Argentina for the world title.",
+      "img": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 6
+    },
     {
       "slug": "greatest-world-cup-upsets",
       "title": "The Greatest World Cup Upsets of All Time",

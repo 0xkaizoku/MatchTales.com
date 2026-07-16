@@ -82,7 +82,7 @@ ACCURATE_SCORES = {
     "belgium-vs-iran-md1":          (0, 0),   # Belgium 0-0 Iran
     "egypt-vs-new-zealand-md1":     (3, 1),   # Egypt 3-1 New Zealand
     "belgium-vs-egypt-md2":         (1, 1),   # Belgium 1-1 Egypt
-    "iran-vs-new-zealand-md2":      (0, 0),   # Iran 0-0 New Zealand
+    "iran-vs-new-zealand-md2":      (2, 2),   # Iran 2-2 New Zealand
     "belgium-vs-new-zealand-md3":   (5, 1),   # Belgium 5-1 New Zealand
     "egypt-vs-iran-md3":            (1, 1),   # Egypt 1-1 Iran
 
@@ -155,10 +155,10 @@ ACCURATE_SCORES = {
     "switzerland-vs-colombia-md5":              (0, 0),  # Switzerland advance on pens
 
     # QUARTER-FINALS
-    "france-vs-morocco-md6":                    (2, 1),
-    "spain-vs-belgium-md6":                     (2, 0),
+    "france-vs-morocco-md6":                    (2, 0),
+    "spain-vs-belgium-md6":                     (2, 1),
     "norway-vs-england-md6":                    (1, 2),
-    "argentina-vs-switzerland-md6":             (2, 0),
+    "argentina-vs-switzerland-md6":             (3, 1),
 }
 
 print("Applying accurate match results to seed.json fixtures...")

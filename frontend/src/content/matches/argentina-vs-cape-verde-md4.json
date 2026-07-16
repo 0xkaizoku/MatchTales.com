@@ -47,5 +47,6 @@
   "awayScore": 2,
   "marquee": true,
   "liveMinute": null,
-  "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+  "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200",
+  "decidedBy": "aet"
 }
