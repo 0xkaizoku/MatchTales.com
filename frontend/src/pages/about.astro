@@ -1,8 +1,17 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import NewsletterForm from '../components/NewsletterForm.astro';
+import { SITE } from '../lib/site';
+const schema = {
+  '@type': 'AboutPage',
+  name: 'About MatchTales',
+  description: 'MatchTales exists to democratise football stories for the 2026 FIFA World Cup.',
+  url: `${SITE.url}/about`,
+  isPartOf: { '@id': `${SITE.url}/#website` },
+  mainEntity: { '@id': `${SITE.url}/#organization` },
+};
 ---
-<BaseLayout title="About MatchTales | Our Mission" description="MatchTales exists to democratise football's stories: the context, the rivalries and the reasons every World Cup 2026 match matters." keywords="about MatchTales, World Cup storytelling, Why Care score">
+<BaseLayout title="About MatchTales | Our Mission" description="MatchTales exists to democratise football's stories: the context, the rivalries and the reasons every World Cup 2026 match matters." keywords="about MatchTales, World Cup storytelling, Why Care score" schema={schema} imageAlt="About MatchTales - World Cup 2026 storytelling">
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
     <div class="max-w-2xl mx-auto">
       <header class="mt-10">

@@ -2,7 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import WhyCareMeter from '../components/WhyCareMeter.astro';
 import { getCollection } from 'astro:content';
-import { getFlagUrl } from '../lib/site';
+import { getFlagUrl, SITE } from '../lib/site';
 const entries = await getCollection('matches');
 const matches = entries.map((e) => e.data);
 const upcomingAll = matches
@@ -14,8 +14,15 @@ const liveMatch =
   matches.filter((m) => m.status === 'FINISHED').sort((a, b) => b.date.localeCompare(a.date))[0] ||
   matches[0];
 const upcoming = upcomingAll.slice(0, 5);
+const schema = {
+  '@type': 'WebPage',
+  name: 'Live Second Screen - World Cup 2026',
+  description: 'Live hype meter, rolling commentary and fan polls for World Cup 2026 matches.',
+  url: `${SITE.url}/live`,
+  isPartOf: { '@id': `${SITE.url}/#website` },
+};
 ---
-<BaseLayout title="Live Second Screen | World Cup 2026" description="Your World Cup companion: live hype meter, rolling commentary and fan polls. The perfect second screen for every match." keywords="World Cup live, second screen, hype meter, match companion">
+<BaseLayout title="Live Second Screen | World Cup 2026" description="Your World Cup companion: live hype meter, rolling commentary and fan polls. The perfect second screen for every match." keywords="World Cup live, second screen, hype meter, match companion" schema={schema} imageAlt="MatchTales live second screen for World Cup 2026">
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8 pb-10">
     <header class="mt-8">
       <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">Second Screen</h1>

@@ -87,7 +87,7 @@ const schema = {
             <a href={`/team/${teamSlugByName(name)}`} class="rounded-card border border-pitch/40 bg-surface p-5 shadow-card hover:shadow-cardhover transition-shadow">
               <div class="text-[11px] uppercase tracking-wide text-pitch font-sans font-medium">World Cup Final · 19 Jul</div>
               <div class="mt-2 font-head text-2xl font-semibold flex items-center gap-2">
-                <img src={getFlagUrl(data.teams.find((t: any) => t.name === name)?.code)} alt="" class="w-8 h-6" width="32" height="24" loading="lazy" />
+                <img src={getFlagUrl(data.teams.find((t: any) => t.name === name)?.code)} alt={`${name} flag`} class="w-8 h-6" width="32" height="24" loading="lazy" />
                 {name}
               </div>
               {finalMatch && <p class="mt-1 text-sm text-muted font-sans">{finalMatch.venue}, {finalMatch.city}</p>}
@@ -146,7 +146,7 @@ const schema = {
                   <td class="py-2.5 pl-4 tabular-nums text-muted">{i + 1}</td>
                   <td class="py-2.5">
                     <a href={`/team/${teamSlugByName(r.name)}`} class="flex items-center gap-2 hover:text-pitch">
-                      <img src={getFlagUrl(r.code)} alt="" class="w-6 h-4" width="24" height="16" loading="lazy" />
+                      <img src={getFlagUrl(r.code)} alt={`${r.name} flag`} class="w-6 h-4" width="24" height="16" loading="lazy" />
                       <span class="font-medium">{r.name}</span>
                     </a>
                   </td>
@@ -169,7 +169,7 @@ const schema = {
             {scorers.map((r, i) => (
               <li class="flex items-center gap-3 px-4 py-2.5">
                 <span class="w-6 text-center text-[12px] tabular-nums text-muted font-sans">{i + 1}</span>
-                <img src={getFlagUrl(r.code)} alt="" class="w-6 h-4" width="24" height="16" loading="lazy" />
+                <img src={getFlagUrl(r.code)} alt={`${r.name} flag`} class="w-6 h-4" width="24" height="16" loading="lazy" />
                 <a href={`/team/${teamSlugByName(r.name)}`} class="flex-1 font-sans text-sm font-medium hover:text-pitch truncate">{r.name}</a>
                 <span class="font-head font-semibold tabular-nums">{r.gf}</span>
               </li>
@@ -195,7 +195,7 @@ const schema = {
                   <tr class="border-b border-border/50 last:border-0">
                     <td class="py-2 pl-4 flex items-center gap-2 min-w-0">
                       <span class={`inline-block w-1 h-4 rounded-full shrink-0 ${i < 2 ? 'bg-pitch' : i === 2 ? 'bg-warning' : 'bg-transparent'}`}></span>
-                      <img src={getFlagUrl(r.code)} alt="" class="w-5 h-3.5 shrink-0" width="20" height="14" loading="lazy" />
+                      <img src={getFlagUrl(r.code)} alt={`${r.name} flag`} class="w-5 h-3.5 shrink-0" width="20" height="14" loading="lazy" />
                       <span class="font-medium truncate">{r.name}</span>
                     </td>
                     <td class="text-center pr-4 font-semibold tabular-nums w-10">{r.Pts}</td>

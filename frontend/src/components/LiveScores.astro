@@ -23,7 +23,7 @@
         const d = await r.json();
         const comps = d.competitions || [];
         if (!comps.length) { feed.innerHTML = '<div class="px-4 py-5 text-sm text-muted text-center">No live competitions right now.</div>'; return; }
-        feed.innerHTML = comps.map((c) => `<div class="flex items-center gap-3 px-4 py-3">${c.emblem ? `<img src=\"${c.emblem}\" alt=\"\" width=\"24\" height=\"24\" class=\"w-6 h-6 object-contain\" loading=\"lazy\"/>` : ''}<span class="flex-1 min-w-0"><span class="block text-sm font-medium truncate">${c.name}</span><span class="block text-[11px] text-muted">${c.area}${c.currentMatchday ? ' · MD ' + c.currentMatchday : ''}</span></span></div>`).join('');
+        feed.innerHTML = comps.map((c) => `<div class="flex items-center gap-3 px-4 py-3">${c.emblem ? `<img src=\"${c.emblem}\" alt=\"${String(c.name || 'Competition').replace(/"/g, '&quot;')} emblem\" width=\"24\" height=\"24\" class=\"w-6 h-6 object-contain\" loading=\"lazy\"/>` : ''}<span class="flex-1 min-w-0"><span class="block text-sm font-medium truncate">${c.name}</span><span class="block text-[11px] text-muted">${c.area}${c.currentMatchday ? ' · MD ' + c.currentMatchday : ''}</span></span></div>`).join('');
       } catch (e) {
         feed.innerHTML = '<div class="px-4 py-5 text-sm text-muted text-center">Live feed unavailable right now.</div>';
       }

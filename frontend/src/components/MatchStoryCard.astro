@@ -57,11 +57,11 @@ const showImage = Boolean(img);
     <div class="flex items-center justify-between gap-3">
       <div class="flex-1 min-w-0">
         <div class="flex items-center gap-2">
-          <img src={getFlagUrl(d.homeCode, 20)} alt="" class="w-5 h-3.5" loading="lazy" width="20" height="14" decoding="async" />
+          <img src={getFlagUrl(d.homeCode, 20)} alt={`${d.home} flag`} class="w-5 h-3.5" loading="lazy" width="20" height="14" decoding="async" />
           <span class="font-head font-semibold truncate text-[15px] sm:text-base">{d.home}</span>
         </div>
         <div class="flex items-center gap-2 mt-1">
-          <img src={getFlagUrl(d.awayCode, 20)} alt="" class="w-5 h-3.5" loading="lazy" width="20" height="14" decoding="async" />
+          <img src={getFlagUrl(d.awayCode, 20)} alt={`${d.away} flag`} class="w-5 h-3.5" loading="lazy" width="20" height="14" decoding="async" />
           <span class="font-head font-semibold truncate text-[15px] sm:text-base">{d.away}</span>
         </div>
       </div>

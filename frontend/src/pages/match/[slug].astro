@@ -87,6 +87,7 @@ const schema = [
   modifiedTime={`${m.date}T12:00:00Z`}
   preloadImage={heroImage || undefined}
   keywords={`${m.home}, ${m.away}, World Cup 2026, ${stage}, match report, ${m.tags?.join(', ') || ''}`}
+  imageAlt={`${label} - ${m.headline}`}
 >
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
     <nav class="mt-6 text-[13px] font-sans text-muted flex items-center gap-1.5 flex-wrap" aria-label="Breadcrumb">

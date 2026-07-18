@@ -14,7 +14,7 @@ const bgImg = m.image ? optimizeImage(m.image, 960, 60) : '';
   <div class="absolute inset-0 pointer-events-none" style="background: var(--hero-bg)"></div>
   {bgImg && (
     <div class="absolute inset-0 opacity-[0.12] pointer-events-none">
-      <img src={bgImg} alt="" class="w-full h-full object-cover" width="960" height="540" loading="eager" decoding="async" fetchpriority="high" />
+      <img src={bgImg} alt={`${m.home} vs ${m.away} at the 2026 World Cup`} class="w-full h-full object-cover" width="960" height="540" loading="eager" decoding="async" fetchpriority="high" />
     </div>
   )}
   <div class="relative p-6 sm:p-10">

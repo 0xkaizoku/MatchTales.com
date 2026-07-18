@@ -1,7 +1,15 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../lib/site';
+const schema = {
+  '@type': 'WebPage',
+  name: 'Privacy Policy',
+  description: 'How MatchTales handles your data. We collect almost nothing and never sell it.',
+  url: `${SITE.url}/privacy`,
+  isPartOf: { '@id': `${SITE.url}/#website` },
+};
 ---
-<BaseLayout title="Privacy Policy" description="How MatchTales handles your data. Short version: we collect almost nothing, and we never sell it.">
+<BaseLayout title="Privacy Policy" description="How MatchTales handles your data. Short version: we collect almost nothing, and we never sell it." schema={schema} imageAlt="MatchTales privacy policy">
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
     <div class="max-w-2xl mx-auto py-10">
       <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">Privacy Policy</h1>

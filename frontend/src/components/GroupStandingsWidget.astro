@@ -2,75 +2,125 @@
 import { data, getFlagUrl, teamSlugByName } from '../lib/site';
 const groups = Object.keys(data.groups).sort();
 const initial = (Astro.props.initial as string) || groups[0];
+// Only SSR one group's links (4) so the homepage stays well under 100 links.
+// Other groups swap in via client-side data.
+const groupsPayload = groups.map((g) => ({
+  g,
+  rows: data.groups[g].map((r: any) => ({
+    name: r.name,
+    code: r.code,
+    slug: teamSlugByName(r.name),
+    P: r.P,
+    W: r.W,
+    D: r.D,
+    L: r.L,
+    GD: r.GD,
+    Pts: r.Pts,
+  })),
+}));
+const initialRows = groupsPayload.find((x) => x.g === initial)?.rows || groupsPayload[0].rows;
 ---
-<div data-testid="group-standings-widget" class="rounded-card border border-border/80 bg-surface shadow-card overflow-hidden">
+<div
+  data-testid="group-standings-widget"
+  class="rounded-card border border-border/80 bg-surface shadow-card overflow-hidden"
+  data-groups={JSON.stringify(groupsPayload)}
+  data-active={initial}
+>
   <div class="flex gap-1.5 overflow-x-auto no-scrollbar p-3 border-b border-border/70" data-testid="group-standings-tabs" role="tablist">
     {groups.map((g) => (
       <button type="button" data-gtab={g} role="tab" aria-selected={g === initial} class={`gst-tab shrink-0 rounded-full border px-3 py-1 text-xs font-sans font-medium transition-colors ${g === initial ? 'border-pitch bg-pitch text-white' : 'border-border text-muted hover:text-fg'}`}>Group {g}</button>
     ))}
   </div>
-  {groups.map((g) => (
-    <table data-gpanel={g} class={`gst-panel w-full text-sm font-sans ${g === initial ? '' : 'hidden'}`} data-testid="group-standings-table">
-      <thead>
-        <tr class="text-[11px] uppercase tracking-wide text-muted bg-surface2">
-          <th class="text-left font-medium py-2 pl-4">Team</th>
-          <th class="font-medium px-1.5 w-8">P</th>
-          <th class="font-medium px-1.5 w-8">W</th>
-          <th class="font-medium px-1.5 w-8">D</th>
-          <th class="font-medium px-1.5 w-8">L</th>
-          <th class="font-medium px-1.5 w-10">GD</th>
-          <th class="font-medium px-1.5 pr-4 w-10">Pts</th>
+  <table class="gst-panel w-full text-sm font-sans" data-testid="group-standings-table">
+    <thead>
+      <tr class="text-[11px] uppercase tracking-wide text-muted bg-surface2">
+        <th class="text-left font-medium py-2 pl-4">Team</th>
+        <th class="font-medium px-1.5 w-8">P</th>
+        <th class="font-medium px-1.5 w-8">W</th>
+        <th class="font-medium px-1.5 w-8">D</th>
+        <th class="font-medium px-1.5 w-8">L</th>
+        <th class="font-medium px-1.5 w-10">GD</th>
+        <th class="font-medium px-1.5 pr-4 w-10">Pts</th>
+      </tr>
+    </thead>
+    <tbody id="gst-body">
+      {initialRows.map((r: any, i: number) => (
+        <tr class="border-b border-border/60 last:border-0">
+          <td class="py-2.5 pl-4">
+            <a href={`/team/${r.slug}`} class="flex items-center gap-2 hover:text-pitch">
+              <span class={`inline-block w-1 h-4 rounded-full ${i < 2 ? 'bg-pitch' : i === 2 ? 'bg-warning' : 'bg-transparent'}`}></span>
+              <img src={getFlagUrl(r.code)} alt={`${r.name} flag`} class="w-6 h-4 inline-block" loading="lazy" width="24" height="16" />
+              <span class="font-medium truncate">{r.name}</span>
+            </a>
+          </td>
+          <td class="text-center px-1.5 tabular-nums">{r.P}</td>
+          <td class="text-center px-1.5 tabular-nums">{r.W}</td>
+          <td class="text-center px-1.5 tabular-nums">{r.D}</td>
+          <td class="text-center px-1.5 tabular-nums">{r.L}</td>
+          <td class="text-center px-1.5 tabular-nums">{r.GD > 0 ? '+' + r.GD : r.GD}</td>
+          <td class="text-center px-1.5 pr-4 font-semibold tabular-nums">{r.Pts}</td>
         </tr>
-      </thead>
-      <tbody>
-        {data.groups[g].map((r: any, i: number) => (
-          <tr class="border-b border-border/60 last:border-0">
-            <td class="py-2.5 pl-4">
-              <a href={`/team/${teamSlugByName(r.name)}`} class="flex items-center gap-2 hover:text-pitch">
-                <span class={`inline-block w-1 h-4 rounded-full ${i < 2 ? 'bg-pitch' : i === 2 ? 'bg-warning' : 'bg-transparent'}`}></span>
-                <img src={getFlagUrl(r.code)} alt="" class="w-6 h-4 inline-block" loading="lazy" width="24" height="16" />
-                <span class="font-medium truncate">{r.name}</span>
-              </a>
-            </td>
-            <td class="text-center px-1.5 tabular-nums">{r.P}</td>
-            <td class="text-center px-1.5 tabular-nums">{r.W}</td>
-            <td class="text-center px-1.5 tabular-nums">{r.D}</td>
-            <td class="text-center px-1.5 tabular-nums">{r.L}</td>
-            <td class="text-center px-1.5 tabular-nums">{r.GD > 0 ? '+' + r.GD : r.GD}</td>
-            <td class="text-center px-1.5 pr-4 font-semibold tabular-nums">{r.Pts}</td>
-          </tr>
-        ))}
-      </tbody>
-    </table>
-  ))}
+      ))}
+    </tbody>
+  </table>
   <p class="text-[11px] text-muted px-4 py-2.5 border-t border-border/60 font-sans flex flex-wrap items-center gap-x-3 gap-y-1">
     <span><span class="inline-block w-1 h-3 rounded-full bg-pitch align-middle"></span> Qualify</span>
     <span><span class="inline-block w-1 h-3 rounded-full bg-warning align-middle"></span> Best-third contention</span>
     <a href="/leaderboard" class="ml-auto text-sky hover:underline underline-offset-2">Full leaderboards →</a>
   </p>
 </div>
-  <script>
-    function bindGst() {
-      document.querySelectorAll('.gst-tab').forEach(function(tab) {
-        var htmlTab = tab;
-        if (htmlTab.dataset.bound) return; htmlTab.dataset.bound = '1';
-        htmlTab.addEventListener('click', function() {
-          var g = htmlTab.dataset.gtab;
-          var root = htmlTab.closest('[data-testid="group-standings-widget"]');
-          if (!root) return;
-          root.querySelectorAll('.gst-tab').forEach(function(t) {
-            var ht = t;
-            var on = ht.dataset.gtab === g;
-            ht.classList.toggle('border-pitch', on); ht.classList.toggle('bg-pitch', on); ht.classList.toggle('text-white', on);
-            ht.classList.toggle('border-border', !on); ht.classList.toggle('text-muted', !on);
+<script>
+  function flagUrl(code: string) {
+    const map: Record<string, string> = {
+      MEX: 'mx', KOR: 'kr', RSA: 'za', CZE: 'cz', CAN: 'ca', SUI: 'ch', QAT: 'qa', BIH: 'ba',
+      BRA: 'br', MAR: 'ma', HAI: 'ht', SCO: 'gb-sct', USA: 'us', PAR: 'py', AUS: 'au', TUR: 'tr',
+      GER: 'de', CUW: 'cw', CIV: 'ci', ECU: 'ec', NED: 'nl', JPN: 'jp', TUN: 'tn', SWE: 'se',
+      BEL: 'be', EGY: 'eg', IRN: 'ir', NZL: 'nz', ESP: 'es', CPV: 'cv', KSA: 'sa', URU: 'uy',
+      FRA: 'fr', SEN: 'sn', NOR: 'no', IRQ: 'iq', ARG: 'ar', ALG: 'dz', AUT: 'at', JOR: 'jo',
+      POR: 'pt', UZB: 'uz', COL: 'co', COD: 'cd', ENG: 'gb-eng', CRO: 'hr', GHA: 'gh', PAN: 'pa',
+    };
+    const c = map[(code || '').toUpperCase()] || 'un';
+    return `https://flagcdn.com/w40/${c}.png`;
+  }
+  function esc(s: string) {
+    return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;');
+  }
+  function renderRows(rows: any[]) {
+    return rows.map((r: any, i: number) => {
+      const bar = i < 2 ? 'bg-pitch' : i === 2 ? 'bg-warning' : 'bg-transparent';
+      const gd = r.GD > 0 ? '+' + r.GD : r.GD;
+      return `<tr class="border-b border-border/60 last:border-0"><td class="py-2.5 pl-4"><a href="/team/${esc(r.slug)}" class="flex items-center gap-2 hover:text-pitch"><span class="inline-block w-1 h-4 rounded-full ${bar}"></span><img src="${flagUrl(r.code)}" alt="${esc(r.name)} flag" class="w-6 h-4 inline-block" loading="lazy" width="24" height="16" /><span class="font-medium truncate">${esc(r.name)}</span></a></td><td class="text-center px-1.5 tabular-nums">${r.P}</td><td class="text-center px-1.5 tabular-nums">${r.W}</td><td class="text-center px-1.5 tabular-nums">${r.D}</td><td class="text-center px-1.5 tabular-nums">${r.L}</td><td class="text-center px-1.5 tabular-nums">${gd}</td><td class="text-center px-1.5 pr-4 font-semibold tabular-nums">${r.Pts}</td></tr>`;
+    }).join('');
+  }
+  function bindGst() {
+    document.querySelectorAll('[data-testid="group-standings-widget"]').forEach((root) => {
+      const el = root as HTMLElement;
+      if (el.dataset.bound) return;
+      el.dataset.bound = '1';
+      let payload: any[] = [];
+      try { payload = JSON.parse(el.dataset.groups || '[]'); } catch (e) { payload = []; }
+      el.querySelectorAll('.gst-tab').forEach((tab) => {
+        const htmlTab = tab as HTMLElement;
+        htmlTab.addEventListener('click', () => {
+          const g = htmlTab.dataset.gtab;
+          el.querySelectorAll('.gst-tab').forEach((t) => {
+            const ht = t as HTMLElement;
+            const on = ht.dataset.gtab === g;
+            ht.classList.toggle('border-pitch', on);
+            ht.classList.toggle('bg-pitch', on);
+            ht.classList.toggle('text-white', on);
+            ht.classList.toggle('border-border', !on);
+            ht.classList.toggle('text-muted', !on);
+            ht.setAttribute('aria-selected', on ? 'true' : 'false');
           });
-          root.querySelectorAll('.gst-panel').forEach(function(p) {
-            var hp = p;
-            hp.classList.toggle('hidden', hp.dataset.gpanel !== g);
-          });
+          const group = payload.find((x) => x.g === g);
+          const body = el.querySelector('#gst-body');
+          if (body && group) body.innerHTML = renderRows(group.rows);
+          el.dataset.active = g || '';
         });
       });
-    }
-    bindGst();
-    document.addEventListener('astro:after-swap', bindGst);
-  </script>
+    });
+  }
+  bindGst();
+  document.addEventListener('astro:after-swap', bindGst);
+</script>

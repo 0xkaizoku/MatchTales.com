@@ -37,7 +37,7 @@ const schema = [
   },
 ];
 ---
-<BaseLayout title={s.title} description={seoDescription(s.excerpt)} image={og} type="article" schema={schema} publishedTime={pub} modifiedTime={pub} preloadImage={hero} keywords={`${s.category}, World Cup 2026, ${s.title}`}>
+<BaseLayout title={s.title} description={seoDescription(s.excerpt)} image={og} imageAlt={s.title} type="article" schema={schema} publishedTime={pub} modifiedTime={pub} preloadImage={hero} keywords={`${s.category}, World Cup 2026, ${s.title}`}>
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
     <article class="max-w-2xl mx-auto" data-testid="story-article">
       <nav class="mt-6 text-[13px] font-sans text-muted flex items-center gap-1.5" aria-label="Breadcrumb"><a href="/stories" class="hover:text-fg">Stories</a><span>/</span><span class="text-fg">{s.category}</span></nav>

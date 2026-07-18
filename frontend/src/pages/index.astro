@@ -71,8 +71,25 @@ const stories = storyEntries
   .slice(0, 4);
 
 const preloadHero = featured?.image ? optimizeImage(featured.image, 1200, 78) : undefined;
+const homeSchema = {
+  '@type': 'WebPage',
+  name: SITE.title,
+  description: SITE.description,
+  url: SITE.url,
+  isPartOf: { '@id': `${SITE.url}/#website` },
+  about: {
+    '@type': 'SportsEvent',
+    name: 'FIFA World Cup 2026',
+    sport: 'Soccer',
+    location: [
+      { '@type': 'Country', name: 'United States' },
+      { '@type': 'Country', name: 'Mexico' },
+      { '@type': 'Country', name: 'Canada' },
+    ],
+  },
+};
 ---
-<BaseLayout title={SITE.title} description={SITE.description} preloadImage={preloadHero} image={preloadHero || SITE.ogImage}>
+<BaseLayout title={SITE.title} description={SITE.description} preloadImage={preloadHero} image={preloadHero || SITE.ogImage} schema={homeSchema} imageAlt="MatchTales - Why this World Cup 2026 match matters">
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
     <!-- Tournament banner -->
     <div class="mt-6 flex flex-wrap items-center justify-between gap-3 rounded-card border border-border/70 bg-surface2 px-4 py-3">
