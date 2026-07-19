@@ -8,7 +8,7 @@
       "Canada"
     ],
     "startDate": "2026-06-11",
-    "today": "2026-07-18",
+    "today": "2026-07-20",
     "tagline": "Why this match matters.",
     "groupsCount": 12,
     "teamsCount": 48
@@ -3722,9 +3722,9 @@
       "time": "15:00",
       "venue": "Hard Rock Stadium",
       "city": "Miami",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 1,
       "marquee": true,
       "liveMinute": null,
       "decidedBy": null,
@@ -3741,12 +3741,12 @@
       "time": "15:00",
       "venue": "MetLife Stadium",
       "city": "New Jersey",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 1,
       "marquee": true,
       "liveMinute": null,
-      "decidedBy": null,
+      "decidedBy": "aet",
       "homePen": null,
       "awayPen": null
     }
@@ -3820,6 +3820,18 @@
   "moments": [
     {
       "year": 2026,
+      "title": "Spain 2-1 Argentina aet: MetLife Final",
+      "team": "Spain",
+      "text": "Spain outlasted Argentina 2-1 after extra time at MetLife Stadium to win the first 48-team World Cup."
+    },
+    {
+      "year": 2026,
+      "title": "France 2-1 England: Miami Bronze Match",
+      "team": "France",
+      "text": "France beat England 2-1 at Hard Rock Stadium to claim third place at World Cup 2026."
+    },
+    {
+      "year": 2026,
       "title": "Spain 2-0 France: Dallas Semi-Final",
       "team": "Spain",
       "text": "La Roja produced a controlled 2-0 semi-final win over France to book the first place in the MetLife final."
@@ -3853,21 +3865,17 @@
       "title": "Germany 7-1 Brazil",
       "team": "Germany",
       "text": "On home soil, Brazil suffered the most shocking semi-final collapse in tournament history."
-    },
-    {
-      "year": 2002,
-      "title": "Senegal Shock France",
-      "team": "Senegal",
-      "text": "World Cup debutants Senegal beat the reigning champions in the opening match  -  a statement heard across a continent."
-    },
-    {
-      "year": 2018,
-      "title": "Croatia's Run to the Final",
-      "team": "Croatia",
-      "text": "A nation of four million played three straight knockout games to extra time and reached the final  -  pure defiance."
     }
   ],
   "storiesMeta": [
+    {
+      "slug": "spain-world-champions-2026-wrap",
+      "title": "Spain Are World Champions: How the 2026 Final Week Ended",
+      "category": "Final Week",
+      "excerpt": "A full wrap of the podium: France 2-1 England for third, then Spain 2-1 Argentina after extra time at MetLife.",
+      "img": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "read": 7
+    },
     {
       "slug": "final-week-countdown-spain-argentina",
       "title": "Final Week Countdown: Spain, Argentina and Two Nights Left",
