@@ -55,14 +55,39 @@ const featured =
 const hasFinalUpcoming = upcoming.some((m) => {
   const g = (m.group || '').toUpperCase();
   return g === 'F' || g === 'FINAL' || g === '3RD';});
-const tournamentPhase = !upcoming.length
-  ? 'Tournament complete'
+const tournamentComplete = upcoming.length === 0;
+const finalFinished = finalMatch?.status === 'FINISHED' && finalMatch.homeScore != null;
+const thirdFinished = thirdPlace?.status === 'FINISHED' && thirdPlace.homeScore != null;
+
+function resultWinner(m: any): string | null {
+  if (!m || m.status !== 'FINISHED' || m.homeScore == null) return null;
+  const hs = Number(m.homeScore);
+  const as = Number(m.awayScore);
+  if (hs > as) return m.home;
+  if (as > hs) return m.away;
+  if (m.decidedBy === 'pens' && m.homePen != null) {
+    return Number(m.homePen) > Number(m.awayPen) ? m.home : m.away;
+  }
+  return null;
+}
+
+const champion = resultWinner(finalMatch);
+const runnerUp = finalFinished && finalMatch
+  ? (champion === finalMatch.home ? finalMatch.away : finalMatch.home)
+  : null;
+const bronzeWinner = resultWinner(thirdPlace);
+
+const tournamentPhase = tournamentComplete
+  ? champion
+    ? `${champion} are champions`
+    : 'Tournament complete'
   : hasFinalUpcoming
     ? 'Final week'
     : 'Knockout stage';
 const daysToFinal = finalMatch
-  ? Math.max(0, Math.round((new Date(finalMatch.date + 'T00:00:00').getTime() - new Date(todayStr + 'T00:00:00').getTime()) / 86400000))
+  ? Math.round((new Date(finalMatch.date + 'T00:00:00').getTime() - new Date(todayStr + 'T00:00:00').getTime()) / 86400000)
   : null;
+const finalStillAhead = daysToFinal != null && daysToFinal > 0 && !finalFinished;
 
 const storyEntries = await getCollection('stories');
 const stories = storyEntries
@@ -100,22 +125,37 @@ const homeSchema = {
       <div class="flex flex-wrap items-center gap-2 text-[12px] font-sans text-muted">
         <span class="inline-flex items-center gap-1.5 text-coral font-medium"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>{tournamentPhase}</span>
         <span>· Updated {fmtDate(todayStr)}</span>
-        {daysToFinal != null && daysToFinal > 0 && (
+        {finalStillAhead && (
           <span class="inline-flex items-center rounded-full bg-pitch/10 px-2 py-0.5 font-medium text-pitch">
             {daysToFinal === 1 ? 'Final tomorrow' : `${daysToFinal} days to the final`}
           </span>
         )}
-        {daysToFinal === 0 && (
+        {daysToFinal === 0 && !finalFinished && (
           <span class="inline-flex items-center rounded-full bg-coral/15 px-2 py-0.5 font-medium text-coral">Final day</span>
+        )}
+        {tournamentComplete && champion && (
+          <span class="inline-flex items-center rounded-full bg-pitch/10 px-2 py-0.5 font-medium text-pitch">World champions</span>
         )}
         <span>· 48 teams · 12 groups</span>
       </div>
     </div>
 
+    {tournamentComplete && champion && finalMatch && (
+      <div class="mt-4 rounded-card border border-pitch/25 bg-pitch/5 px-4 py-3 text-sm font-sans text-ink">
+        <span class="font-head font-semibold text-pitch">{champion} are World Cup 2026 champions.</span>
+        <span class="text-muted">
+          {' '}{finalMatch.home} {finalMatch.homeScore}–{finalMatch.awayScore}{finalMatch.decidedBy === 'aet' ? ' aet' : ''} {finalMatch.away} at MetLife
+          {thirdFinished && thirdPlace && bronzeWinner ? ` · ${bronzeWinner} take bronze (${thirdPlace.homeScore}–${thirdPlace.awayScore} over ${bronzeWinner === thirdPlace.home ? thirdPlace.away : thirdPlace.home})` : ''}.
+          {' '}<a href="/stories/spain-world-champions-2026-wrap" class="text-sky hover:underline underline-offset-2">Read the final week wrap</a>
+          {' · '}<a href={`/match/${finalMatch.slug}`} class="text-sky hover:underline underline-offset-2">Final match report</a>
+        </span>
+      </div>
+    )}
+
     {todayMatches.length === 0 && upcoming.length > 0 && (
       <div class="mt-4 rounded-card border border-pitch/20 bg-pitch/5 px-4 py-3 text-sm font-sans text-ink">
         <span class="font-head font-semibold text-pitch">Rest day.</span>
-        <span class="text-muted"> No fixtures today. Next up: {thirdPlace ? `${thirdPlace.home} vs ${thirdPlace.away} for bronze (${fmtDate(thirdPlace.date)})` : 'the final weekend'}{finalMatch ? `, then ${finalMatch.home} vs ${finalMatch.away} in the final (${fmtDate(finalMatch.date)})` : ''}.</span>
+        <span class="text-muted"> No fixtures today. Next up: {thirdPlace && thirdPlace.status !== 'FINISHED' ? `${thirdPlace.home} vs ${thirdPlace.away} for bronze (${fmtDate(thirdPlace.date)})` : 'the final weekend'}{finalMatch && finalMatch.status !== 'FINISHED' ? `, then ${finalMatch.home} vs ${finalMatch.away} in the final (${fmtDate(finalMatch.date)})` : ''}.</span>
       </div>
     )}
 
@@ -145,7 +185,11 @@ const homeSchema = {
         <div class="flex items-end justify-between gap-4 mb-4">
           <div>
             <h2 id="sf-h" class="font-head text-2xl font-semibold tracking-tight">Semi-finals</h2>
-            <p class="text-sm text-muted font-sans mt-0.5">Last four decided. Spain and Argentina advance to the final; France and England meet for bronze.</p>
+            <p class="text-sm text-muted font-sans mt-0.5">
+              {tournamentComplete || finalFinished
+                ? 'Spain beat France and Argentina beat England to set up the MetLife final.'
+                : 'Last four decided. Spain and Argentina advance to the final; France and England meet for bronze.'}
+            </p>
           </div>
           <a href="/leaderboard" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4 whitespace-nowrap">Leaderboards →</a>
         </div>
@@ -155,19 +199,25 @@ const homeSchema = {
       </section>
     )}
 
-    <!-- Road to the final -->
+    <!-- Final week / podium -->
     {(finalMatch || thirdPlace) && (
       <section class="mt-12" aria-labelledby="road-h">
         <div class="flex items-end justify-between gap-4 mb-4">
           <div>
-            <h2 id="road-h" class="font-head text-2xl font-semibold tracking-tight">Road to the trophy</h2>
+            <h2 id="road-h" class="font-head text-2xl font-semibold tracking-tight">
+              {finalFinished && thirdFinished ? 'The podium' : 'Road to the trophy'}
+            </h2>
             <p class="text-sm text-muted font-sans mt-0.5">
-              {daysToFinal != null && daysToFinal > 0
-                ? `Bronze on ${thirdPlace ? fmtDate(thirdPlace.date) : 'Saturday'}, final in ${daysToFinal} day${daysToFinal === 1 ? '' : 's'} at MetLife.`
-                : 'Third-place play-off and the World Cup final still to come.'}
+              {finalFinished && thirdFinished && champion
+                ? `Gold for ${champion}${runnerUp ? `, silver for ${runnerUp}` : ''}${bronzeWinner ? `, bronze for ${bronzeWinner}` : ''}. Full match reports below.`
+                : finalStillAhead
+                  ? `Bronze on ${thirdPlace ? fmtDate(thirdPlace.date) : 'Saturday'}, final in ${daysToFinal} day${daysToFinal === 1 ? '' : 's'} at MetLife.`
+                  : thirdFinished && !finalFinished
+                    ? 'Bronze decided. The World Cup final is next at MetLife.'
+                    : 'Third-place play-off and the World Cup final still to come.'}
             </p>
           </div>
-          <a href="/fixtures" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4 whitespace-nowrap">Full schedule →</a>
+          <a href="/stories" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4 whitespace-nowrap">All stories →</a>
         </div>
         <div class="grid sm:grid-cols-2 gap-4">
           {thirdPlace && <MatchStoryCard m={thirdPlace} />}

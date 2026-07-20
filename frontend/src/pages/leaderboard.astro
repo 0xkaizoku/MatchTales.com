@@ -31,6 +31,17 @@ const finalists = sfResults.map((r) => r.winner).filter(Boolean) as string[];
 const bronzeTeams = sfResults.map((r) => r.loser).filter(Boolean) as string[];
 const finalMatch = knockout.find((m) => (m.group || '').toUpperCase() === 'FINAL');
 const thirdMatch = knockout.find((m) => (m.group || '').toUpperCase() === '3RD');
+const finalFinished = finalMatch?.status === 'FINISHED' && finalMatch.homeScore != null;
+const thirdFinished = thirdMatch?.status === 'FINISHED' && thirdMatch.homeScore != null;
+const champion = finalFinished ? matchWinner(finalMatch) : null;
+const runnerUp =
+  finalFinished && finalMatch && champion
+    ? champion === finalMatch.home
+      ? finalMatch.away
+      : finalMatch.home
+    : null;
+const bronzeWinner = thirdFinished ? matchWinner(thirdMatch) : null;
+const todayLabel = data.meta?.today || '2026-07-21';
 
 // Simple goals table from finished fixtures (group + knockout)
 const goalMap: Record<string, { name: string; code: string; gf: number; ga: number; played: number }> = {};
@@ -58,16 +69,20 @@ const schema = {
   '@context': 'https://schema.org',
   '@type': 'CollectionPage',
   name: 'World Cup 2026 Leaderboards',
-  description: 'Group stage tables, goal charts and knockout progress for the 2026 FIFA World Cup.',
+  description: champion
+    ? `World Cup 2026 final standings: ${champion} are champions. Podium, group tables, goals scored and full knockout progress.`
+    : 'Group stage tables, goal charts and knockout progress for the 2026 FIFA World Cup.',
   url: `${SITE.url}/leaderboard`,
   isPartOf: { '@type': 'WebSite', name: SITE.name, url: SITE.url },
 };
 ---
 <BaseLayout
   title="Leaderboards & Standings | World Cup 2026"
-  description="World Cup 2026 leaderboards as of 16 July: finalists, group tables, goals scored and full knockout progress."
+  description={champion
+    ? `World Cup 2026 leaderboards: ${champion} champions, podium results, group tables and goal charts.`
+    : 'World Cup 2026 leaderboards: finalists, group tables, goals scored and full knockout progress.'}
   schema={schema}
-  keywords="World Cup 2026 standings, finalists, group tables, leaderboard, goals scored, knockout bracket, FIFA 2026"
+  keywords="World Cup 2026 standings, champions, podium, finalists, group tables, leaderboard, goals scored, knockout bracket, FIFA 2026"
 >
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8 pb-12">
     <header class="mt-8">
@@ -75,11 +90,65 @@ const schema = {
         <a href="/" class="hover:text-fg">Home</a><span>/</span><span class="text-fg">Leaderboards</span>
       </nav>
       <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">Leaderboards</h1>
-      <p class="mt-2 text-muted font-sans max-w-2xl">As of 16 July 2026: rest day after the semi-finals. Spain and Argentina are in the final; France and England play for bronze. Group tables and goal charts below.</p>
+      <p class="mt-2 text-muted font-sans max-w-2xl">
+        {champion
+          ? `As of ${todayLabel}: tournament complete. ${champion} are world champions${runnerUp ? `, ${runnerUp} finish runners-up` : ''}${bronzeWinner ? `, ${bronzeWinner} take bronze` : ''}. Group tables and goal charts below.`
+          : 'Finalists, group tables, goals scored and full knockout progress for World Cup 2026.'}
+      </p>
     </header>
 
-    <!-- Finalists -->
-    {finalists.length > 0 && (
+    <!-- Podium / Finalists -->
+    {finalFinished && champion ? (
+      <section class="mt-10" aria-labelledby="podium-h">
+        <h2 id="podium-h" class="font-head text-2xl font-semibold tracking-tight mb-4">Podium</h2>
+        <div class="grid sm:grid-cols-3 gap-4">
+          <a href={`/team/${teamSlugByName(champion)}`} class="rounded-card border border-pitch/40 bg-surface p-5 shadow-card hover:shadow-cardhover transition-shadow sm:order-2">
+            <div class="text-[11px] uppercase tracking-wide text-pitch font-sans font-medium">Champions · Gold</div>
+            <div class="mt-2 font-head text-2xl font-semibold flex items-center gap-2">
+              <img src={getFlagUrl(data.teams.find((t: any) => t.name === champion)?.code)} alt={`${champion} flag`} class="w-8 h-6" width="32" height="24" loading="lazy" />
+              {champion}
+            </div>
+            {finalMatch && (
+              <p class="mt-1 text-sm text-muted font-sans">
+                {finalMatch.homeScore}–{finalMatch.awayScore}{finalMatch.decidedBy === 'aet' ? ' aet' : ''} vs {runnerUp}
+              </p>
+            )}
+          </a>
+          {runnerUp && (
+            <a href={`/team/${teamSlugByName(runnerUp)}`} class="rounded-card border border-border/80 bg-surface p-5 shadow-card hover:shadow-cardhover transition-shadow sm:order-1">
+              <div class="text-[11px] uppercase tracking-wide text-muted font-sans font-medium">Runners-up · Silver</div>
+              <div class="mt-2 font-head text-xl font-semibold flex items-center gap-2">
+                <img src={getFlagUrl(data.teams.find((t: any) => t.name === runnerUp)?.code)} alt={`${runnerUp} flag`} class="w-8 h-6" width="32" height="24" loading="lazy" />
+                {runnerUp}
+              </div>
+            </a>
+          )}
+          {bronzeWinner && (
+            <a href={`/team/${teamSlugByName(bronzeWinner)}`} class="rounded-card border border-border/80 bg-surface p-5 shadow-card hover:shadow-cardhover transition-shadow sm:order-3">
+              <div class="text-[11px] uppercase tracking-wide text-muted font-sans font-medium">Third place · Bronze</div>
+              <div class="mt-2 font-head text-xl font-semibold flex items-center gap-2">
+                <img src={getFlagUrl(data.teams.find((t: any) => t.name === bronzeWinner)?.code)} alt={`${bronzeWinner} flag`} class="w-8 h-6" width="32" height="24" loading="lazy" />
+                {bronzeWinner}
+              </div>
+              {thirdMatch && (
+                <p class="mt-1 text-sm text-muted font-sans">
+                  {thirdMatch.homeScore}–{thirdMatch.awayScore} vs {bronzeWinner === thirdMatch.home ? thirdMatch.away : thirdMatch.home}
+                </p>
+              )}
+            </a>
+          )}
+        </div>
+        <div class="mt-3 flex flex-wrap gap-x-4 gap-y-1 text-sm font-sans font-medium">
+          {finalMatch && (
+            <a href={`/match/${finalMatch.slug}`} class="text-sky hover:underline underline-offset-4">Final match report →</a>
+          )}
+          {thirdMatch && (
+            <a href={`/match/${thirdMatch.slug}`} class="text-sky hover:underline underline-offset-4">Bronze match report →</a>
+          )}
+          <a href="/stories/spain-world-champions-2026-wrap" class="text-sky hover:underline underline-offset-4">Champions wrap story →</a>
+        </div>
+      </section>
+    ) : finalists.length > 0 && (
       <section class="mt-10" aria-labelledby="finalists-h">
         <h2 id="finalists-h" class="font-head text-2xl font-semibold tracking-tight mb-4">Finalists</h2>
         <div class="grid sm:grid-cols-2 gap-4">
@@ -95,7 +164,9 @@ const schema = {
           ))}
         </div>
         {finalMatch && (
-          <a href={`/match/${finalMatch.slug}`} class="mt-3 inline-flex text-sm font-sans font-medium text-sky hover:underline underline-offset-4">Read the final preview →</a>
+          <a href={`/match/${finalMatch.slug}`} class="mt-3 inline-flex text-sm font-sans font-medium text-sky hover:underline underline-offset-4">
+            {finalMatch.status === 'FINISHED' ? 'Read the final match report →' : 'Read the final preview →'}
+          </a>
         )}
       </section>
     )}
@@ -109,11 +180,16 @@ const schema = {
             <a href={`/match/${m.slug}`} class="rounded-card border border-border/80 bg-surface p-5 shadow-card hover:shadow-cardhover transition-shadow">
               <div class="text-[11px] uppercase tracking-wide text-muted font-sans">{stageLabel(m.group)} · {m.date}</div>
               <div class="mt-2 font-head text-lg font-semibold">{m.home} {m.homeScore}–{m.awayScore} {m.away}</div>
-              <p class="mt-1 text-sm text-muted font-sans">{winner} advance</p>
+              <p class="mt-1 text-sm text-muted font-sans">{winner} {finalFinished ? 'reached the final' : 'advance'}</p>
             </a>
           ))}
         </div>
-        {bronzeTeams.length > 0 && thirdMatch && (
+        {thirdFinished && thirdMatch && bronzeWinner ? (
+          <p class="mt-3 text-sm text-muted font-sans">
+            Third place: <a href={`/match/${thirdMatch.slug}`} class="text-sky hover:underline underline-offset-2">{thirdMatch.home} {thirdMatch.homeScore}–{thirdMatch.awayScore} {thirdMatch.away}</a>
+            {' '}· {bronzeWinner} take bronze
+          </p>
+        ) : bronzeTeams.length > 0 && thirdMatch && (
           <p class="mt-3 text-sm text-muted font-sans">
             Third place: <a href={`/match/${thirdMatch.slug}`} class="text-sky hover:underline underline-offset-2">{bronzeTeams.join(' vs ')}</a> · 18 Jul
           </p>
@@ -221,7 +297,7 @@ const schema = {
               <span class="text-[11px] rounded-full bg-surface2 px-2 py-0.5 text-muted font-sans shrink-0">{stageLabel(m.group)}</span>
               <span class="font-sans text-sm font-medium truncate">{m.home} vs {m.away}</span>
             </div>
-            <span class="font-head font-bold tabular-nums">{m.homeScore}–{m.awayScore}{m.decidedBy === 'pens' ? ' (p)' : ''}</span>
+            <span class="font-head font-bold tabular-nums">{m.homeScore}–{m.awayScore}{m.decidedBy === 'pens' ? ' (p)' : m.decidedBy === 'aet' ? ' aet' : ''}</span>
           </a>
         ))}
       </div>
