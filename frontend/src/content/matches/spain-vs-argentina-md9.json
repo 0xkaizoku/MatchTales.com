@@ -1,27 +1,27 @@
 {
   "slug": "spain-vs-argentina-md9",
-  "headline": "Spain Beat Argentina 2-1 in Extra Time to Win the World Cup",
+  "headline": "Spain Beat Argentina 1-0 in Extra Time to Win the World Cup",
   "whyCareScore": 10.0,
-  "whyCareReason": "The biggest night of the expanded World Cup: Spain outlast Argentina 2-1 after extra time at MetLife Stadium.",
-  "teaser": "Spain are world champions. A 2-1 extra-time win over Argentina at MetLife ends the first 48-team World Cup.",
-  "story": "MetLife Stadium held the weight of a final that had been building for a month. Spain brought the same midfield distances and wide threat that carried them through every knockout round. Argentina brought champion steel and the aura of a side that still believed it could retain the trophy.\n\nRegulation time finished level after two moments of genuine quality and a night of brutal defensive work. Extra time belonged to Spain's fresher legs and Yamal's stretch on the right. The second Spanish goal finally cracked Argentina's shape, and La Roja managed the closing minutes with the calm that has defined their tournament.\n\nWhen the whistle went at 2-1 after extra time, Spain had their first World Cup since 2010. Argentina's bid for back-to-back titles ends on the biggest stage, still one of the stories of the age.",
+  "whyCareReason": "The biggest night of the expanded World Cup: Spain outlast Argentina 1-0 after extra time at MetLife Stadium.",
+  "teaser": "Spain are world champions. A 1-0 extra-time win over Argentina at MetLife ends the first 48-team World Cup.",
+  "story": "MetLife Stadium held the weight of a final that had been building for a month. Spain brought the same midfield distances and wide threat that carried them through every knockout round. Argentina brought champion steel and the aura of a side chasing back-to-back titles.\n\nRegulation time finished scoreless after two hours of relentless defensive discipline from both sides. Extra time belonged to Spain's fresher legs and the moment of individual quality that finals demand. The single goal finally cracked Argentina's shape, and La Roja managed the closing minutes with the calm that has defined their tournament.\n\nWhen the whistle went at 1-0 after extra time, Spain had their first World Cup since 2010. Argentina's bid for back-to-back titles ends on the biggest stage, still one of the great stories of this generation.",
   "stakes": "The FIFA World Cup. Spain lift the trophy. Argentina finish runners-up.",
   "rivalryAngle": "Style clash at the absolute peak: Spanish positional control against Argentina's structure, moments of magic and final experience.",
   "funFacts": [
     "This was the first World Cup final hosted in the New York / New Jersey metro area.",
     "Spain's win is their first world title since South Africa 2010.",
-    "Argentina had not lost a World Cup final knockout night since before their 2022 triumph - until MetLife."
+    "Argentina had not lost a World Cup final knockout night since before their 2022 triumph until MetLife."
   ],
   "keyPlayers": [
     {
       "name": "Lamine Yamal",
       "team": "Spain",
-      "hook": "The breakout wide star who stretched Argentina's rest defence all night."
+      "hook": "The breakout wide star who stretched Argentina's rest defence all night and created the winner."
     },
     {
-      "name": "Lautaro Martínez",
+      "name": "Lautaro Martinez",
       "team": "Argentina",
-      "hook": "Argentina's centre-forward spearhead who forced Spain into their toughest final hour."
+      "hook": "Argentina's centre-forward spearhead who forced Spain into their toughest defensive hour."
     }
   ],
   "headToHead": "Major-tournament meetings between Spain and Argentina remain rare at this stage, which only raised the intrigue of the MetLife final.",
@@ -36,8 +36,8 @@
   "away": "Argentina",
   "homeCode": "ESP",
   "awayCode": "ARG",
-  "homeFlag": "🇪🇸",
-  "awayFlag": "🇦🇷",
+  "homeFlag": "",
+  "awayFlag": "",
   "group": "FINAL",
   "matchday": 9,
   "date": "2026-07-19",
@@ -45,8 +45,8 @@
   "venue": "MetLife Stadium",
   "city": "New Jersey",
   "status": "FINISHED",
-  "homeScore": 2,
-  "awayScore": 1,
+  "homeScore": 1,
+  "awayScore": 0,
   "marquee": true,
   "liveMinute": null,
   "decidedBy": "aet",

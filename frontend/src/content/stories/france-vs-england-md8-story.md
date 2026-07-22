@@ -1,44 +1,51 @@
 ---
-title: "France vs England 2-1 Match Report"
-subtitle: "France leave Hard Rock Stadium with bronze after a sharp 2-1 win over England in the third-place play-off."
+title: "France vs England 4-6 Match Report"
+subtitle: "England take bronze in a ten-goal thriller after a breathtaking 6-4 win over France in the third-place play-off."
 category: "Match Report"
-excerpt: "Pride match turned real contest: France edge England 2-1 in Miami for third place at World Cup 2026."
+excerpt: "Goal fest in Miami: England crush France 6-4 to claim third place in the highest-scoring bronze match in World Cup history."
 image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 5
 pubDate: 2026-07-18
 ---
 
-## The Showdown at Hard Rock Stadium
+## The Most Goals in a Third-Place Match Ever
 
-On 2026-07-18, the footballing world turned its attention to Hard Rock Stadium in Miami for **France** vs **England** in the Third-Place Play-Off.
+On 2026-07-18, the footballing world turned its attention to Hard Rock Stadium in Miami for **France vs England** in the Third-Place Play-Off.
 
-Miami was never going to feel like a final, but it still felt like a World Cup night. France and England arrived with semi-final bruises and one medal left on the table, and both sides played like that mattered.
+Miami was never going to feel like a final, but it produced a match that no one will forget. Ten goals. End-to-end attacks. Defences that arrived in Miami and promptly decided to enjoy the weather. The third-place play-off has always been football's most unpredictable fixture, and this one rewrote the record books.
 
-France struck first through clinical transition play, then absorbed England's response with familiar knockout steel. England pulled a goal back and forced a tense final quarter, with Kane and Bellingham asking the same questions they had all tournament.
+## First Half: Fireworks from the Start
 
-When the whistle confirmed 2-1, France had third place and a podium finish. England's long run ends fourth, still proud, still hurting.
+England started at a pace that France could not match. Kane opened the scoring inside ten minutes, converting after a sharp Bellingham through ball. Saka doubled the lead with a curling finish from the edge of the box. At 2-0 inside twenty minutes, the bronze medal was already migrating toward England.
 
-## Stakes and Context
+France responded through Mbappe, who collected a long ball, cut inside, and fired into the top corner. The game was alive. England restored their two-goal lead before half-time when Rice arrived late at the back post to finish a sweeping team move. 3-1 at the break, but the match was far from settled.
 
-Third place at the 2026 World Cup. Ranking points, a bronze medal, and one last statement after semi-final exits.
+## Second Half: Chaos Takes Over
 
-Familiar European rivals with club-level connections meeting again when only pride and a podium place remained.
+France pulled another goal back early in the second half through Griezmann, and for ten minutes the momentum shifted. England looked nervy. France smelled a famous comeback.
 
-### Head-to-Head History
+Then the goals really started flowing. England struck twice in quick succession through Watkins and Bellingham to make it 5-2. France refused to fold: Thuram headed in from a set piece, and suddenly it was 5-4 with fifteen minutes remaining.
 
-Recent tournament meetings have been decided by fine margins, set pieces and who keeps their nerve longest.
+The decisive moment came from England's captain. Kane stepped up in the 82nd minute and completed his brace, drilling home from a narrow angle to make it 6-4. France pushed for another but the deficit was too deep.
 
-## Key Player Impacts
+## History Made
 
-- **Kylian Mbappé** (France): The constant outlet who stretched England whenever the game opened.
-- **Harry Kane** (England): Led the line and forced France into late defending after England's reply.
+The final whistle confirmed 6-4. Ten goals. A third-place match for the ages. England claimed bronze in the highest-scoring play-off in World Cup history. France, exhausted and outscored, finished fourth after a campaign that still reached the final week.
+
+## Key Moments
+
+- Kane opens the scoring inside ten minutes
+- Mbappe responds with a stunning solo goal
+- England go 5-2 up before a French fightback
+- Thuram makes it 5-4 to set up a frantic finish
+- Kane's second goal seals the win and the bronze
 
 ## Match Facts
 
-- The third-place match produced more open transitions than either semi-final.
-- Both nations had won their groups before reaching the last four.
-- Hard Rock Stadium hosted its second major knockout night of final week.
+- The 6-4 scoreline is the highest-scoring third-place match in World Cup history.
+- The match produced ten goals, more than the entire semi-final round combined.
+- Harry Kane's brace took his tournament tally to seven goals.
 
 ## Final Score
 
-**France 2-1 England**
+**France 4-6 England**

@@ -1,24 +1,25 @@
 ---
 title: "African Heavyweights: The Battle for Continental Supremacy"
-subtitle: "Who will carry Africa furthest in the new 48-team era?"
+subtitle: "Morocco reached the quarter-finals, Senegal the Round of 32. Africa's rise is no longer a surprise."
 category: "Continent"
-excerpt: "Morocco's historic semi-final run in 2022 vs Senegal's reigning champions \u2014 who will carry Africa furthest in 2026?"
+excerpt: "Morocco's historic QF run in 2026 and Senegal's Round of 32 appearance prove Africa's depth is real."
 image: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85"
-readingTime: 7
+readingTime: 6
 pubDate: 2026-06-16
 ---
+
 ## The Historic Pioneers
 
-Morocco's magical run to the semi-finals in Qatar 2022 shattered a historical glass ceiling, proving that African teams could compete at the very highest level of the game. Senegal, meanwhile, have been the continent's most consistent heavyweight, combining physical dominance with tactical organization.
+Morocco's magical run to the semi-finals in Qatar 2022 shattered a historical glass ceiling. In 2026, they proved it was no fluke. The Atlas Lions reached the quarter-finals again, falling to France 2-0 after a campaign that blended defensive discipline with moments of genuine attacking quality.
 
-As the tournament expands to 48 teams, the spotlight on African football is brighter than ever. The question is no longer whether an African team can reach the semi-finals, but who will go even further.
+Senegal arrived as African champions and played with the confidence of a side that knows its place among the world's best. They navigated a difficult group and reached the Round of 32, where they pushed Belgium to extra time in a 3-2 thriller that announced their arrival on the biggest stage.
 
-## Tactical Discipline vs Flamboyant Attack
+## Tactical Discipline and Flamboyant Attack
 
-The Atlas Lions of Morocco built their 2022 success on an impenetrable defensive block and lightning-fast transitions. Under Walid Regragui, they remain a side that is incredibly difficult to break down, anchored by Achraf Hakimi's tireless runs.
+Morocco built their success on an impenetrable defensive block and lightning-fast transitions. Under Walid Regragui, they remained a side that is incredibly difficult to break down, anchored by Achraf Hakimi's tireless runs.
 
-Senegal, under the leadership of Pape Matar Sarr and Nicolas Jackson, play with a more expansive, aggressive style. They look to dominate the midfield and overwhelm opponents with physical power and direct wing play. It is a clash of two very different footballing philosophies.
+Senegal played with a more expansive, aggressive style. Pape Matar Sarr and Nicolas Jackson led a team that overwhelmed opponents with physical power and direct wing play. Their 5-0 demolition of Norway in the group stage was one of the statement performances of the tournament.
 
 ## A Continent's Dream
 
-Every time Morocco or Senegal steps onto the pitch, they carry the hopes of an entire continent. The rivalry between these two giants is built on mutual respect and a shared desire to put African football on top of the world. In 2026, both are primed to prove that Qatar was not a one-off, but the start of a permanent shift in power.
+Every time Morocco or Senegal stepped onto the pitch in 2026, they carried the hopes of an entire continent. Both teams reached the knockout rounds. Both proved that Qatar 2022 was not a one-off but the start of a permanent shift in football's power structure. Africa is no longer knocking on the door. Africa is inside the building.

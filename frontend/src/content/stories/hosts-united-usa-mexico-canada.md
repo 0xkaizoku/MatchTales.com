@@ -1,34 +1,35 @@
 ---
 title: "Three Nations, One Party: The Hosts' Story"
-subtitle: "From the Rose Bowl to the Azteca to BMO Field, three footballing souls are about to find out who they really are."
+subtitle: "From the Rose Bowl to the Azteca to BMO Field, three footballing souls found out who they really are."
 category: "Hosts"
-excerpt: "For the first time, three countries host the World Cup together. The stakes for USA, Mexico and Canada could not be higher."
+excerpt: "For the first time, three countries host the World Cup together. The USA reached the R16, Mexico the R32, and Canada the R32."
 image: "https://images.unsplash.com/photo-1459865264687-595d652de67e?crop=entropy&cs=srgb&fm=jpg&q=85"
 readingTime: 6
 pubDate: 2026-06-16
 ---
-There is a moment, sometime around the opening ceremony of any World Cup, when a host nation stops being a country and becomes something closer to a feeling. The flags go up, the streets fill, strangers hug each other in languages they don't share, and the whole place hums with a kind of delirious pride that normal life simply cannot manufacture. Now imagine that moment happening in three countries at once, across a landmass so vast it contains every climate on earth. That is what the summer of 2026 has felt like. And now, with the group stage done, we can begin to see what each host nation truly is.
+
+There is a moment, sometime around the opening ceremony of any World Cup, when a host nation stops being a country and becomes something closer to a feeling. The flags go up, the streets fill, strangers hug each other in languages they do not share, and the whole place hums with pride that normal life cannot manufacture. Now imagine that happening in three countries at once, across a landmass so vast it contains every climate on earth. That is what the summer of 2026 felt like.
 
 ## The Weight of the Sombrero
 
-For Mexico, this is personal in a way that goes beyond football. The Azteca - that crumbling, magnificent cathedral in the south of Mexico City - has seen two World Cup finals, in 1970 and 1986. It heard the roar when Maradona dribbled through England. It hosted the Pele generation's coronation.
+For Mexico, this was personal in a way that goes beyond football. The Azteca has seen two World Cup finals, in 1970 and 1986. It heard the roar when Maradona dribbled through England. It hosted the Pele generation's coronation.
 
-And now? Mexico have done it. Nine points from three games, group winners in Group A, *el quinto partido* finally within reach. Santiago Gimenez has been brilliant. The Azteca has been everything everyone promised it would be - a wall of sound, a cathedral packed to the gods. The curse of the last 16 is not yet broken, but El Tri go to the knockout rounds having answered the question of whether they could perform at home with an emphatic yes.
+Mexico won Group A with nine points from three games. Santiago Gimenez was brilliant. The Azteca was a wall of sound. But the knockout rounds brought a familiar heartbreak: Mexico fell to England 3-2 in the Round of 16. El Tri gave everything, pushed one of the tournament's best sides to the limit, and exited with their heads high. The curse of the fifth game remains unbroken, but this generation proved they belong on the biggest stage.
 
 ## The Country That Finally Believes
 
-Canada's story is different, and in some ways it is the most moving of the three. This is a country that qualified for its first World Cup in 36 years in 2022, ran onto the pitch in Qatar with the energy of children at Christmas, and then lost all three group games. Alphonso Davies cried. The whole country cried with him.
+Canada's story is the most moving of the three. This is a country that qualified for its first World Cup in 36 years in 2022 and lost all three group games. Alphonso Davies cried. The whole country cried with him.
 
-But something has shifted. In 2026, Canada drew with Bosnia, drew with Switzerland, then fell to a tough qualifying round exit. They go out at the group stage again - but not without a fight, not without Jonathan David tearing defences apart at BMO Field, not without the country understanding, in its bones now, what it feels like to care about this sport. The origin story is being written in real time, even if it hasn't reached the ending anyone wanted yet.
+In 2026, something shifted. Canada navigated a tough group, held their own against Switzerland and Bosnia, and reached the knockout rounds for the first time in their history. The Round of 32 brought a 1-0 loss to Morocco, but that scoreline does not capture what it meant. Jonathan David tore defences apart at BMO Field. The country now understands what it feels like to care about this sport. The origin story is being written in real time.
 
-## The Giant That Has Everything to Prove
+## The Giant That Had Everything to Prove
 
-And then there is the United States of America, which is simultaneously the most straightforward and most complicated host of the three. The USMNT have been extraordinary. Nine points. Eight goals scored. Pulisic brilliant, Reyna creative, the whole team playing with a belief that goes beyond coaching and into something cultural.
+The United States were extraordinary in the group stage. Nine points from three matches. Eight goals scored. Pulisic brilliant, Reyna creative. The MetLife Stadium crowd when the USA beat Paraguay 4-1 on opening night made a sound that belonged in the Maracana.
 
-America has answered the question definitively: it *cares*. Not performatively, not commercially, but in the chest. The MetLife Stadium crowd when the USA beat Paraguay 4-1 on opening night made a sound that belonged in the Maracana. The knockout rounds await, and for the first time in living memory, the world is not condescending about the USMNT's chances.
+The knockout rounds brought Belgium, and a 4-1 defeat that exposed the gap between promise and experience. But America answered the question definitively: it cares. Not performatively, not commercially, but in the chest.
 
 ## One Party, Three Hearts, Three Stories
 
-What makes 2026 unlike anything before it is that the host-nation narrative, usually a single thread you follow from opening game to exit, has been braided three times over. Mexico go to the knockouts with nine points and a nation dreaming. Canada exit with experience, heartbreak, and a country permanently converted. The United States go on as genuine contenders, carrying a football nation's expectations for the first time in their history.
+What made 2026 unlike anything before it is that the host-nation narrative was braided three times over. Mexico reached the knockout rounds with nine points and a nation dreaming. Canada won their first ever knockout game and a country permanently converted. The United States went as genuine contenders for the first time in their history.
 
-Sometime in the coming weeks, in a city that might be Dallas or Seattle or New Jersey, a football match will begin and the crowd will make a sound unlike any other. Not quite belonging to one nation. Belonging, in a way, to all three at once. It already has been, in all likelihood, extraordinary.
+In the end, all three hosts fell before the quarter-finals. But the party they threw across an entire continent will not be forgotten. And the football they played will be the foundation for everything that comes next.

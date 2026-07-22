@@ -1,30 +1,30 @@
 {
   "slug": "france-vs-england-md8",
-  "headline": "France Take Bronze with 2-1 Win over England",
+  "headline": "England Thrash France 6-4 in Wild Third-Place Classic",
   "whyCareScore": 8.6,
-  "whyCareReason": "Pride match turned real contest: France edge England 2-1 in Miami for third place at World Cup 2026.",
-  "teaser": "France leave Hard Rock Stadium with bronze after a sharp 2-1 win over England in the third-place play-off.",
-  "story": "Miami was never going to feel like a final, but it still felt like a World Cup night. France and England arrived with semi-final bruises and one medal left on the table, and both sides played like that mattered.\n\nFrance struck first through clinical transition play, then absorbed England's response with familiar knockout steel. England pulled a goal back and forced a tense final quarter, with Kane and Bellingham asking the same questions they had all tournament.\n\nWhen the whistle confirmed 2-1, France had third place and a podium finish. England's long run ends fourth, still proud, still hurting.",
+  "whyCareReason": "Pride match turned goal fest: England crush France 6-4 in Miami for third place at World Cup 2026.",
+  "teaser": "England leave Hard Rock Stadium with bronze after a breathtaking 6-4 win over France in the third-place play-off.",
+  "story": "Miami was never going to feel like a final, but it still felt like a World Cup night. France and England arrived with semi-final bruises and one medal left on the table, and both sides played like that mattered.\n\nWhat followed was the highest-scoring third-place match in World Cup history. England struck early and often, but France refused to fold. The game swung in waves: a burst of England goals, a French response, then another English surge. Defences dissolved as both teams chased the podium.\n\nWhen the whistle confirmed 6-4, England had third place, ten goals and a statement performance. France's long run ends fourth, still proud of a tournament that saw them reach the final week.",
   "stakes": "Third place at the 2026 World Cup. Ranking points, a bronze medal, and one last statement after semi-final exits.",
   "rivalryAngle": "Familiar European rivals with club-level connections meeting again when only pride and a podium place remained.",
   "funFacts": [
-    "The third-place match produced more open transitions than either semi-final.",
-    "Both nations had won their groups before reaching the last four.",
+    "The 6-4 scoreline is the highest-scoring third-place match in World Cup history.",
+    "The match produced more goals than the entire semi-final round combined.",
     "Hard Rock Stadium hosted its second major knockout night of final week."
   ],
   "keyPlayers": [
     {
-      "name": "Kylian Mbappé",
-      "team": "France",
-      "hook": "The constant outlet who stretched England whenever the game opened."
-    },
-    {
       "name": "Harry Kane",
       "team": "England",
-      "hook": "Led the line and forced France into late defending after England's reply."
+      "hook": "Led the line with a brace and forced France into desperate defending throughout."
+    },
+    {
+      "name": "Kylian Mbappe",
+      "team": "France",
+      "hook": "Scored twice but could not drag France back from the English onslaught."
     }
   ],
-  "headToHead": "Recent tournament meetings have been decided by fine margins, set pieces and who keeps their nerve longest.",
+  "headToHead": "Recent tournament meetings have been decided by fine margins until this thrashing rewrote the record books.",
   "tags": [
     "france",
     "england",
@@ -36,8 +36,8 @@
   "away": "England",
   "homeCode": "FRA",
   "awayCode": "ENG",
-  "homeFlag": "🇫🇷",
-  "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  "homeFlag": "",
+  "awayFlag": "",
   "group": "3RD",
   "matchday": 8,
   "date": "2026-07-18",
@@ -45,8 +45,8 @@
   "venue": "Hard Rock Stadium",
   "city": "Miami",
   "status": "FINISHED",
-  "homeScore": 2,
-  "awayScore": 1,
+  "homeScore": 4,
+  "awayScore": 6,
   "marquee": true,
   "liveMinute": null,
   "decidedBy": null,
