@@ -1,0 +1,97 @@
+{
+  "funFacts": [
+    "Leclerc race time 1:27:11.335.",
+    "Russell +0.427, Hamilton +0.772.",
+    "Antonelli pole, classified 15th."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Charles Leclerc",
+      "team": "Ferrari",
+      "hook": "Won Silverstone, 5 July."
+    },
+    {
+      "name": "Kimi Antonelli",
+      "team": "Mercedes",
+      "hook": "Pole. Finished 15th."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "f1",
+    "silverstone",
+    "leclerc"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "British Grand Prix",
+  "resultSummary": "1 Leclerc, 2 Russell +0.427, 3 Hamilton +0.772. Antonelli P15 from pole.",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Charles Leclerc",
+      "score": "1:27:11.335",
+      "note": "Ferrari"
+    },
+    {
+      "pos": "2",
+      "name": "George Russell",
+      "score": "+0.427",
+      "note": "Mercedes"
+    },
+    {
+      "pos": "3",
+      "name": "Lewis Hamilton",
+      "score": "+0.772",
+      "note": "Ferrari"
+    },
+    {
+      "pos": "15",
+      "name": "Kimi Antonelli",
+      "score": "P15",
+      "note": "Mercedes, started P1"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Sky Sports F1 2026 results",
+      "url": "https://www.skysports.com/f1/results"
+    },
+    {
+      "name": "Sky: Antonelli results",
+      "url": "https://www.skysports.com/f1/drivers/kimi-antonelli/results"
+    }
+  ],
+  "format": "race",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "british-gp-2026",
+  "headline": "Leclerc wins Silverstone. The championship leader finishes 15th from pole.",
+  "whyCareScore": 8.9,
+  "whyCareReason": "Charles Leclerc's Ferrari wins the British Grand Prix. Kimi Antonelli started first and finished 15th. That is a title race finding weather.",
+  "teaser": "5 July, Silverstone. Leclerc 1:27:11.335. Russell second by 0.427, Hamilton third by 0.772. Antonelli pole, P15.",
+  "story": "Why this one matters: a championship leader starting on pole at Silverstone is supposed to bank 25 points. Antonelli banked none that counted. Leclerc won in 1:27:11.335. George Russell was 0.427 behind. Lewis Hamilton 0.772 behind. A Ferrari 1-3 with a Mercedes in the sandwich.\n\nAntonelli's Sky Sports driver page lists Great Britain: grid 1st, finish 15th. The lead he had been building since China suddenly had a dent. Russell closed. Hamilton, already a winner in Barcelona, stood on another podium in red.\n\nFive days later Belgium would restore the kid. This Sunday belongs to Leclerc.",
+  "stakes": "A home-soil weekend for Russell, a first 2026 win for Leclerc, a dent in Antonelli's march.",
+  "rivalryAngle": "Mercedes pole to 15th. Ferrari first and third.",
+  "home": "Charles Leclerc",
+  "away": "George Russell",
+  "group": "F1",
+  "date": "2026-07-05",
+  "time": "15:00",
+  "venue": "Silverstone",
+  "city": "Silverstone",
+  "status": "FINISHED",
+  "sport": "f1",
+  "competition": "f1-2026"
+}

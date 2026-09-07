@@ -1,0 +1,72 @@
+{
+  "funFacts": [
+    "Rogers 2', Havertz 25', Odegaard ~50'.",
+    "Arsenal's first three-win start conceding fewer than two since the Invincibles season, per PremierLeague.com.",
+    "Chelsea had scored inside five minutes in each of their first three games."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Martin Odegaard",
+      "team": "Arsenal",
+      "hook": "Winner shortly after half-time."
+    },
+    {
+      "name": "Morgan Rogers",
+      "team": "Chelsea",
+      "hook": "Volley after 77 seconds."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "premier-league",
+    "arsenal",
+    "chelsea"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026/27",
+  "roundLabel": "Matchweek 3",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "The Independent: Arsenal 2-1 Chelsea",
+      "url": "https://www.independent.co.uk/sport/football/arsenal-chelsea-live-stream-score-premier-league-result-b3044763.html"
+    },
+    {
+      "name": "PremierLeague.com Sunday wrap",
+      "url": "https://www.premierleague.com/en/news/4706438/sunday-wrap-arsenal-pass-big-early-test-after-late-drama-at-everton"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 2,
+  "awayScore": 1,
+  "slug": "arsenal-vs-chelsea-mw3",
+  "headline": "Arsenal 2-1 Chelsea: champions pass the first real test",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Both sides had two wins from two. Only Arsenal still have nine points. Odegaard's winner is an early title marker.",
+  "teaser": "Morgan Rogers scored after 77 seconds. Kai Havertz equalised. Martin Odegaard won it. David Raya saved Estevao late.",
+  "story": "Why this one matters: after three games only Arsenal and Manchester City have nine points. This was the first time both London sides sat on a perfect record and one of them had to blink.\n\nMorgan Rogers volleyed Chelsea ahead after 77 seconds, the third straight Chelsea game with a goal inside five minutes, a Premier League first. Kai Havertz equalised in the 25th minute against his former club. Martin Odegaard finished a flowing move shortly after the break. Estevao was denied a late equaliser by David Raya.\n\nMikel Arteta told Sky it was a joy to watch from start to finish. Xabi Alonso called Chelsea's afternoon suffering. Attendance 60,240 at the Emirates. Referee Chris Kavanagh.",
+  "stakes": "Early title geometry. Nine points versus six.",
+  "rivalryAngle": "London, two perfect records, one left standing.",
+  "home": "Arsenal",
+  "away": "Chelsea",
+  "group": "PL",
+  "date": "2026-09-06",
+  "time": "16:30",
+  "venue": "Emirates Stadium",
+  "city": "London",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "premier-league-2026-27"
+}

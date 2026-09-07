@@ -5,13 +5,13 @@ import { SITE } from '../lib/site';
 const schema = {
   '@type': 'AboutPage',
   name: 'About MatchTales',
-  description: 'MatchTales exists to democratise football stories for the 2026 FIFA World Cup.',
+  description: 'MatchTales exists to tell you why the match, the round or the race matters.',
   url: `${SITE.url}/about`,
   isPartOf: { '@id': `${SITE.url}/#website` },
   mainEntity: { '@id': `${SITE.url}/#organization` },
 };
 ---
-<BaseLayout title="About MatchTales | Our Mission" description="MatchTales exists to democratise football's stories: the context, the rivalries and the reasons every World Cup 2026 match matters." keywords="about MatchTales, World Cup storytelling, Why Care score" schema={schema} imageAlt="About MatchTales - World Cup 2026 storytelling">
+<BaseLayout title="About MatchTales | Our Mission" description="MatchTales exists to democratise the story: the context, the rivalries and the reasons a match, a round or a race matters." keywords="about MatchTales, Why Care score, sports storytelling" schema={schema} imageAlt="About MatchTales">
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
     <div class="max-w-2xl mx-auto">
       <header class="mt-10">
@@ -19,14 +19,14 @@ const schema = {
         <h1 class="mt-2 font-head text-3xl sm:text-4xl font-semibold tracking-tight leading-tight">Everyone deserves to know why the match matters.</h1>
       </header>
       <div class="mt-8 space-y-5 text-[18px] leading-8">
-        <p>Most football apps will tell you the score. They'll give you the lineups, the possession stats, the heat maps. What they won't tell you is the only thing that actually makes you care: <em>the story.</em></p>
-        <p>MatchTales is the story layer on top of the 2026 FIFA World Cup. We exist for the casual fan who wants to understand why everyone's shouting, for the newcomer who fell in love with the game last week, and for the die-hard who still gets goosebumps remembering a goal from 1986.</p>
-        <p>For every fixture, we answer one question: <strong>why should you care?</strong> The rivalries reignited. The legends taking their final bow. The nations who waited decades just to be here. The grudges that history refuses to forget. We give each match a Why-Care score, then we tell you the human story behind the number.</p>
-        <p>We believe football is the world's greatest ongoing drama — and that nobody should feel locked out of it. So we write like humans, for humans. No jargon walls, no gatekeeping. Just the stories that make 90 minutes feel like everything.</p>
+        <p>Most sports apps will tell you the score. Lineups, possession, heat maps. What they will not tell you is the only thing that actually makes you care: <em>the story.</em></p>
+        <p>MatchTales started as the story layer on the 2026 FIFA World Cup. Spain lifted the trophy on 19 July. The desk did not close. We now cover tennis, football, Formula 1, soccer, golf and basketball with the same question: why should you care about this one? Each sport has its own <a href="/sports" class="text-sky hover:underline">directory</a>.</p>
+        <p>We give events a Why-Care score, then we tell you the human stake behind the number. A promoted side beating Manchester United. A 21-year-old wasting five championship points and still winning Wimbledon. A Super Bowl rematch that opens the NFL year. A kid from Italy winning Monza from nineteenth.</p>
+        <p>We write like humans, for humans. No jargon walls. If a scorer, a minute or a ranking is on the page, it is locked to a named source. If we cannot source it, we leave it off.</p>
       </div>
       <div class="mt-10 rounded-card border border-border/80 bg-surface2/60 p-6">
         <h2 class="font-head text-lg font-semibold">A quick, honest note</h2>
-        <p class="mt-2 text-[15px] font-sans text-muted leading-7">MatchTales is an independent fan project. We are not affiliated with, endorsed by, or connected to FIFA or any official body. Team names, fixtures and tournament details are referenced for editorial and storytelling purposes. Our narratives are crafted to inform and delight — always with love for the game.</p>
+        <p class="mt-2 text-[15px] font-sans text-muted leading-7">MatchTales is an independent fan project. We are not affiliated with FIFA, the NFL, NBA, WNBA, ATP, WTA, PGA Tour or Formula 1. Names and fixtures are referenced for editorial purposes. If two sources disagree, we print the score both agree on and we skip the rest.</p>
       </div>
       <div class="mt-10 mb-10">
         <h2 class="font-head text-xl font-semibold tracking-tight">Join the story</h2>

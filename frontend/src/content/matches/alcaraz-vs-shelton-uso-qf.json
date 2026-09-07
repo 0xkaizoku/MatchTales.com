@@ -1,0 +1,72 @@
+{
+  "funFacts": [
+    "Alcaraz missed about four months with a right wrist injury.",
+    "Shelton beat Tsitsipas 6-2, 6-3, 6-4.",
+    "No 2026 US Open singles champion as of 8 September."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Carlos Alcaraz",
+      "team": "Spain",
+      "hook": "Defending champion, injury return, through Paul in straights."
+    },
+    {
+      "name": "Ben Shelton",
+      "team": "USA",
+      "hook": "Eighth seed, home Ashe, Tsitsipas in straights."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "us-open",
+    "alcaraz",
+    "shelton"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "",
+  "roundLabel": "Men's quarter-final",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Reuters: Alcaraz-Shelton QF",
+      "url": "https://www.reuters.com/sports/tennis/shelton-next-up-alcaraz-tackles-all-american-gauntlet-path-us-open-final-2026-09-07/"
+    },
+    {
+      "name": "usopen.org: Sunday winners",
+      "url": "https://www.usopen.org/en_US/news/articles/2026-09-06/who_won_on_sunday_at_the_2026_us_open_results_and_highlights.html"
+    }
+  ],
+  "format": "singles",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "alcaraz-vs-shelton-uso-qf",
+  "headline": "Alcaraz vs Shelton: the US Open quarter that New York wanted",
+  "whyCareScore": 9.5,
+  "whyCareReason": "A defending champion back from a four-month wrist layoff against a home lefty on Ashe. No 2026 champion yet.",
+  "teaser": "Quarter-final, 8-9 September. Alcaraz beat Tommy Paul 6-4, 6-3, 6-4. Shelton beat Tsitsipas 6-2, 6-3, 6-4. They meet next.",
+  "story": "Why this one matters: the US Open is still live. Do not write a champion. Write the match that sits in front of you.\n\nCarlos Alcaraz is the defending champion, back from a right-wrist injury that kept him out about four months. He opened against Roman Safiullin 6-4, 6-4, 6-4 and then beat Tommy Paul 6-4, 6-3, 6-4. Ben Shelton, the eighth seed, beat Stefanos Tsitsipas 6-2, 6-3, 6-4 and called Alcaraz's return superhuman. Fireworks on Tuesday night, he said.\n\nIf Alcaraz wins he likely sees Tiafoe or Michelsen in a semi. The American men have not had a Slam champion since Andy Roddick here in 2003. That is the air in the building. The match is the thing.",
+  "stakes": "A quarter-final that can send a favourite into an American semi, or send New York into orbit.",
+  "rivalryAngle": "Defending champion versus home thunder.",
+  "home": "Carlos Alcaraz",
+  "away": "Ben Shelton",
+  "group": "GS",
+  "date": "2026-09-08",
+  "time": "19:00",
+  "venue": "Arthur Ashe Stadium",
+  "city": "New York",
+  "status": "UPCOMING",
+  "sport": "tennis",
+  "competition": "us-open-2026"
+}

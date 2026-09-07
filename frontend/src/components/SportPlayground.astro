@@ -1,0 +1,359 @@
+---
+import desk from '../data/desk.json';
+import type { SportSlug } from '../data/sports';
+export interface Props { sport: SportSlug; }
+const { sport } = Astro.props;
+const maxPts = desk.f1Drivers[0]?.pts || 267;
+const maxCtor = desk.f1Constructors[0]?.pts || 468;
+const tennisDraw = [
+  { draw: 'Men', p1: 'Carlos Alcaraz', p2: 'Ben Shelton', href: '/match/alcaraz-vs-shelton-uso-qf', note: 'Defending champion against a lefty serve. The US Open has not named a 2026 men\'s champion.' },
+  { draw: 'Men', p1: 'Frances Tiafoe', p2: 'Alex Michelsen', href: '/stories/us-open-quarterfinals-why-tuesday-matters', note: 'All-American quarter. No finalist yet. No invented winner.' },
+  { draw: 'Women', p1: 'Aryna Sabalenka', p2: 'Linda Noskova', href: '/match/sabalenka-vs-noskova-uso-qf', note: 'World number one against the new Wimbledon champion. Still live.' },
+  { draw: 'Women', p1: 'Jessica Pegula', p2: 'Emma Navarro', href: '/stories/us-open-quarterfinals-why-tuesday-matters', note: 'The other American quarter. The women\'s champion is not decided.' },
+];
+const men = tennisDraw.filter((q) => q.draw === 'Men');
+const women = tennisDraw.filter((q) => q.draw === 'Women');
+const nflLinks: Record<string, string> = {
+  '2026-09-09': '/match/patriots-at-seahawks-kickoff-2026',
+  '2026-09-10': '/match/49ers-vs-rams-melbourne-2026',
+};
+const hoopsPairs = [
+  { a: desk.wnbaSeeds[0], b: desk.wnbaSeeds[7] },
+  { a: desk.wnbaSeeds[1], b: desk.wnbaSeeds[6] },
+  { a: desk.wnbaSeeds[2], b: desk.wnbaSeeds[5] },
+  { a: desk.wnbaSeeds[3], b: desk.wnbaSeeds[4] },
+];
+---
+<div class={`pg pg-${sport}`} data-playground={sport}>
+  {sport === 'tennis' && (
+    <section class="pg-frame">
+      <div class="pg-head">
+        <div>
+          <h2 class="font-head text-xl font-semibold tracking-tight">The draw</h2>
+          <p class="text-sm text-muted font-sans mt-1">Pin a quarter-final. Flushing Meadows has not named a 2026 singles champion.</p>
+        </div>
+        <span class="pg-live">Ball still in the air</span>
+      </div>
+      <div class="court-board">
+        <div class="draw-col">
+          <p class="draw-label">Men</p>
+          {men.map((q) => (
+            <button type="button" class="draw-slot" data-note={q.note} data-href={q.href}>
+              <span class="draw-names">{q.p1}</span>
+              <span class="draw-vs">vs</span>
+              <span class="draw-names">{q.p2}</span>
+            </button>
+          ))}
+        </div>
+        <div class="court-net" aria-hidden="true"><span></span></div>
+        <div class="draw-col">
+          <p class="draw-label">Women</p>
+          {women.map((q) => (
+            <button type="button" class="draw-slot" data-note={q.note} data-href={q.href}>
+              <span class="draw-names">{q.p1}</span>
+              <span class="draw-vs">vs</span>
+              <span class="draw-names">{q.p2}</span>
+            </button>
+          ))}
+        </div>
+      </div>
+      <div class="pg-panel" data-panel hidden>
+        <p class="pg-panel-note"></p>
+        <a class="pg-panel-link" href="#">Read why it matters</a>
+      </div>
+    </section>
+  )}
+
+  {sport === 'football' && (
+    <section class="pg-frame field-frame">
+      <div class="pg-head">
+        <div>
+          <h2 class="font-head text-xl font-semibold tracking-tight">Until the first snap</h2>
+          <p class="text-sm text-muted font-sans mt-1">The regular season has not started. The clock is Patriots at Seahawks, Wednesday 9 September, 8:20 p.m. ET.</p>
+        </div>
+      </div>
+      <div class="field-board">
+        <svg class="field-lines" viewBox="0 0 640 220" aria-hidden="true">
+          <rect x="8" y="8" width="624" height="204" rx="10" fill="none" stroke="currentColor" />
+          <line x1="320" y1="8" x2="320" y2="212" />
+          {Array.from({ length: 9 }).map((_, i) => (
+            <line x1={64 + i * 64} y1="8" x2={64 + i * 64} y2="212" opacity="0.35" />
+          ))}
+        </svg>
+        <div class="kick-clock">
+          <p class="text-[11px] font-sans uppercase tracking-wide text-muted">Countdown to kickoff</p>
+          <p id="nfl-clock" class="font-head text-4xl sm:text-5xl tabular-nums tracking-tight">Loading</p>
+        </div>
+      </div>
+      <ol class="slate">
+        {desk.nflWeek1.map((g) => {
+          const href = nflLinks[g.date];
+          const Tag = href ? 'a' : 'div';
+          return (
+            <li>
+              <Tag href={href} class="slate-row">
+                <span class="slate-when">{g.date} · {g.time}</span>
+                <span class="slate-who font-head font-semibold">{g.away} at {g.home}</span>
+                <span class="slate-note">{g.note}</span>
+              </Tag>
+            </li>
+          );
+        })}
+      </ol>
+    </section>
+  )}
+
+  {sport === 'f1' && (
+    <section class="pg-frame grid-frame">
+      <div class="pg-head">
+        <div>
+          <h2 class="font-head text-xl font-semibold tracking-tight">The grid after Monza</h2>
+          <p class="text-sm text-muted font-sans mt-1">Bars are points against the leader. Madrid, 11-13 September, has not been raced.</p>
+        </div>
+        <div class="seg" role="tablist" aria-label="Championship">
+          <button type="button" class="seg-btn is-on" data-tab="drivers">Drivers</button>
+          <button type="button" class="seg-btn" data-tab="constructors">Constructors</button>
+        </div>
+      </div>
+      <div class="f1-arm">
+        <div class="f1-lights" aria-hidden="true">
+          <span></span><span></span><span></span><span></span><span></span>
+        </div>
+        <button type="button" class="arm-btn" data-arm>Arm the Madrid lights</button>
+      </div>
+      <div data-pane="drivers" class="grid-pane">
+        {desk.f1Drivers.map((r) => (
+          <div class="grid-row">
+            <span class="grid-pos tabular-nums">{r.pos}</span>
+            <span class="min-w-0"><span class="font-head font-semibold">{r.name}</span> <span class="text-muted text-sm">{r.team}</span></span>
+            <span class="tabular-nums font-head">{r.pts}</span>
+            <div class="grid-track"><div class="bar-fill" style={`--p:${r.pts / maxPts}`}></div></div>
+          </div>
+        ))}
+      </div>
+      <div data-pane="constructors" class="grid-pane" hidden>
+        {desk.f1Constructors.map((r) => (
+          <div class="grid-row">
+            <span class="grid-pos tabular-nums">{r.pos}</span>
+            <span class="font-head font-semibold">{r.name}</span>
+            <span class="tabular-nums font-head">{r.pts}</span>
+            <div class="grid-track"><div class="bar-fill" style={`--p:${r.pts / maxCtor}`}></div></div>
+          </div>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {sport === 'soccer' && (
+    <section class="pg-frame pitch-frame">
+      <div class="pg-head">
+        <div>
+          <h2 class="font-head text-xl font-semibold tracking-tight">The table after three</h2>
+          <p class="text-sm text-muted font-sans mt-1">Pin a club. Matchweek 4 starts 12 September. No results invented.</p>
+        </div>
+      </div>
+      <div class="pl-table">
+        {desk.premierLeagueTable.map((r) => (
+          <button
+            type="button"
+            class="pl-row"
+            data-note={`${r.team}: ${r.p} played, ${r.pts} points, GD ${r.gd > 0 ? '+' : ''}${r.gd}.`}
+          >
+            <span class="tabular-nums text-muted w-6">{r.pos}</span>
+            <span class="flex-1 text-left font-head font-semibold">{r.team}</span>
+            <span class="tabular-nums w-8 text-right">{r.pts}</span>
+            <span class="pl-gd">
+              <span class="bar-fill" style={`--p:${Math.min(1, Math.abs(r.gd) / 5)};${r.gd < 0 ? 'transform-origin:right center' : ''}`}></span>
+            </span>
+          </button>
+        ))}
+      </div>
+      <p id="pl-note" class="pg-foot">Source: Premier League table updated 6 September 2026.</p>
+      <p class="pg-archive">World Cup 2026 is finished. Spain are champions. <a href="/world-cup">Archive</a></p>
+    </section>
+  )}
+
+  {sport === 'golf' && (
+    <section class="pg-frame card-frame">
+      <div class="pg-head">
+        <div>
+          <h2 class="font-head text-xl font-semibold tracking-tight">The board</h2>
+          <p class="text-sm text-muted font-sans mt-1">Majors and the FedEx Cup are done. Presidents Cup is not. Tap a card.</p>
+        </div>
+      </div>
+      <div class="scorecards">
+        <a href="/match/the-open-2026-royal-birkdale" class="scorecard" data-note="Ryan Fox 270, ten under. Young 271. Burns 272. Birdie on 18 at Royal Birkdale.">
+          <span class="score-event">The Open · Royal Birkdale</span>
+          <span class="score-name">Ryan Fox</span>
+          <span class="score-num">-10</span>
+          <span class="score-line">270. Young 271 · Burns 272.</span>
+        </a>
+        <a href="/match/tour-championship-2026-east-lake" class="scorecard" data-note="Scottie Scheffler 264, sixteen under. Hovland thirteen under. Second FedEx Cup.">
+          <span class="score-event">Tour Championship · East Lake</span>
+          <span class="score-name">Scottie Scheffler</span>
+          <span class="score-num">-16</span>
+          <span class="score-line">264. Hovland -13. Second FedEx Cup.</span>
+        </a>
+        <a href="/stories/presidents-cup-2026-preview" class="scorecard is-next" data-note="Presidents Cup, 25-28 September. Preview only. No result.">
+          <span class="score-event">Next</span>
+          <span class="score-name">Presidents Cup</span>
+          <span class="score-num score-empty">TBD</span>
+          <span class="score-line">25-28 September. No result yet.</span>
+        </a>
+      </div>
+      <p id="golf-note" class="pg-foot">Tap a name. Scores are locked to the event pages.</p>
+    </section>
+  )}
+
+  {sport === 'basketball' && (
+    <section class="pg-frame floor-frame">
+      <div class="pg-head">
+        <div>
+          <h2 class="font-head text-xl font-semibold tracking-tight">The bracket</h2>
+          <p class="text-sm text-muted font-sans mt-1">WNBA first round, 1 vs 8. Playoffs begin 27 September. Pin a series.</p>
+        </div>
+      </div>
+      <div class="bracket">
+        {hoopsPairs.map((pair) => (
+          <button
+            type="button"
+            class="series"
+            data-note={`${pair.a.team} (${pair.a.record}) vs ${pair.b.team} (${pair.b.record}). First round. No series result yet.`}
+          >
+            <span class="seed-pill">
+              <b>{pair.a.seed}</b>
+              <span>{pair.a.team}</span>
+              <em>{pair.a.record}</em>
+            </span>
+            <span class="series-vs">vs</span>
+            <span class="seed-pill">
+              <b>{pair.b.seed}</b>
+              <span>{pair.b.team}</span>
+              <em>{pair.b.record}</em>
+            </span>
+          </button>
+        ))}
+      </div>
+      <p id="hoops-note" class="pg-foot">Source: WNBA.com standings. Playoffs have not started.</p>
+      <p class="pg-archive">June archive: <a href="/match/nba-finals-2026-knicks-spurs">Knicks 4-1 Spurs</a></p>
+    </section>
+  )}
+</div>
+
+<script>
+  function bindPlaygrounds() {
+    document.querySelectorAll('[data-playground]').forEach((root) => {
+      if (!(root instanceof HTMLElement) || root.dataset.bound) return;
+      root.dataset.bound = '1';
+      const sport = root.dataset.playground;
+
+      const setOn = (nodes: NodeListOf<Element>, el: Element) => {
+        nodes.forEach((n) => n.classList.remove('is-on'));
+        el.classList.add('is-on');
+      };
+
+      if (sport === 'tennis') {
+        const panel = root.querySelector('[data-panel]');
+        const noteEl = root.querySelector('.pg-panel-note');
+        const linkEl = root.querySelector('.pg-panel-link');
+        root.querySelectorAll('.draw-slot').forEach((row) => {
+          row.addEventListener('click', () => {
+            setOn(root.querySelectorAll('.draw-slot'), row);
+            const note = row.getAttribute('data-note') || '';
+            const href = row.getAttribute('data-href') || '#';
+            if (noteEl) noteEl.textContent = note;
+            if (linkEl instanceof HTMLAnchorElement) {
+              linkEl.href = href;
+              linkEl.hidden = false;
+            }
+            panel?.removeAttribute('hidden');
+          });
+        });
+      }
+
+      if (sport === 'football') {
+        const el = document.getElementById('nfl-clock');
+        if (el) {
+          const target = Date.UTC(2026, 8, 10, 0, 20, 0);
+          const tick = () => {
+            const diff = target - Date.now();
+            if (diff <= 0) { el.textContent = 'Kickoff window'; return; }
+            const h = Math.floor(diff / 3600000);
+            const m = Math.floor((diff % 3600000) / 60000);
+            const s = Math.floor((diff % 60000) / 1000);
+            el.textContent = `${h}h ${String(m).padStart(2, '0')}m ${String(s).padStart(2, '0')}s`;
+          };
+          tick();
+          window.setInterval(tick, 1000);
+        }
+        root.querySelectorAll('.slate-row').forEach((row) => {
+          row.addEventListener('pointerenter', () => setOn(root.querySelectorAll('.slate-row'), row));
+          row.addEventListener('focus', () => setOn(root.querySelectorAll('.slate-row'), row));
+        });
+      }
+
+      if (sport === 'f1') {
+        const tabs = root.querySelectorAll('.seg-btn');
+        tabs.forEach((btn) => {
+          btn.addEventListener('click', () => {
+            const tab = btn.getAttribute('data-tab');
+            tabs.forEach((t) => t.classList.toggle('is-on', t === btn));
+            root.querySelectorAll('[data-pane]').forEach((pane) => {
+              const on = pane.getAttribute('data-pane') === tab;
+              (pane as HTMLElement).hidden = !on;
+            });
+          });
+        });
+        const lights = root.querySelector('.f1-lights');
+        const arm = root.querySelector('[data-arm]');
+        arm?.addEventListener('click', () => {
+          if (!(lights instanceof HTMLElement) || !(arm instanceof HTMLButtonElement)) return;
+          lights.classList.remove('is-go', 'is-out');
+          void lights.offsetWidth;
+          lights.classList.add('is-go');
+          arm.disabled = true;
+          window.setTimeout(() => {
+            lights.classList.add('is-out');
+            arm.disabled = false;
+            arm.textContent = 'Lights out. Madrid is next.';
+          }, 1400);
+        });
+      }
+
+      if (sport === 'soccer') {
+        const pl = document.getElementById('pl-note');
+        root.querySelectorAll('.pl-row').forEach((row) => {
+          row.addEventListener('click', () => {
+            setOn(root.querySelectorAll('.pl-row'), row);
+            const note = row.getAttribute('data-note');
+            if (note && pl) pl.textContent = note;
+          });
+        });
+      }
+
+      if (sport === 'golf') {
+        const note = document.getElementById('golf-note');
+        root.querySelectorAll('.scorecard').forEach((row) => {
+          row.addEventListener('pointerenter', () => {
+            setOn(root.querySelectorAll('.scorecard'), row);
+            const n = row.getAttribute('data-note');
+            if (n && note) note.textContent = n;
+          });
+        });
+      }
+
+      if (sport === 'basketball') {
+        const hoops = document.getElementById('hoops-note');
+        root.querySelectorAll('.series').forEach((row) => {
+          row.addEventListener('click', () => {
+            setOn(root.querySelectorAll('.series'), row);
+            const n = row.getAttribute('data-note');
+            if (n && hoops) hoops.textContent = n;
+          });
+        });
+      }
+    });
+  }
+  bindPlaygrounds();
+  document.addEventListener('astro:after-swap', bindPlaygrounds);
+</script>

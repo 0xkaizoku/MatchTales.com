@@ -1,0 +1,72 @@
+{
+  "funFacts": [
+    "Hull's first Premier League match in nine years.",
+    "Ajayi 17', Mendy 38'.",
+    "Hull have not conceded in their first three league games."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Semi Ajayi",
+      "team": "Hull City",
+      "hook": "Opened the scoring in the 17th minute."
+    },
+    {
+      "name": "Nobel Mendy",
+      "team": "Hull City",
+      "hook": "Close-range header, 38th minute, 2-0."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "premier-league",
+    "hull",
+    "manchester-united"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026/27",
+  "roundLabel": "Matchweek 1",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "The Athletic: opening weekend",
+      "url": "https://www.nytimes.com/athletic/7535116/2026/08/25/premier-league-winners-losers-gameweek-one/"
+    },
+    {
+      "name": "theScore: opening weekend analysis",
+      "url": "https://www.thescore.com/epl/news/3583101/analysis-from-opening-weekend-of-new-premier-league-season"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 2,
+  "awayScore": 0,
+  "slug": "hull-city-vs-manchester-united-mw1",
+  "headline": "Hull City 2-0 Manchester United on the night they came back",
+  "whyCareScore": 9.2,
+  "whyCareReason": "A promoted side's first Premier League match in nine years ends with United beaten 2-0. That is a stake, not a cute scoreline.",
+  "teaser": "Semi Ajayi and Nobel Mendy score. Hull, everyone's favourites to go down, punch the season in the mouth.",
+  "story": "Why this one matters: Manchester United are supposed to be the measuring stick. Hull City had not played a Premier League match in nine years. On 22 August at the MKM Stadium the measuring stick fell over.\n\nSemi Ajayi scored in the 17th minute after a scramble from a corner. Nobel Mendy headed in close range in the 38th. Hull 2-0 United. Oli McBurnie ran the show according to The Athletic's opening-weekend notes. The Tigers were everyone's favourites to go down. They left with three points and a clean sheet they still have not given up three weeks later.\n\nUnited will win games this season. They already have. This night is the one the table will keep whispering about.",
+  "stakes": "Opening-day points, a promoted club's first statement, United's first wound.",
+  "rivalryAngle": "New money, old giant. Hull were not supposed to be in this sentence.",
+  "home": "Hull City",
+  "away": "Manchester United",
+  "group": "PL",
+  "date": "2026-08-22",
+  "time": "12:30",
+  "venue": "MKM Stadium",
+  "city": "Hull",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "premier-league-2026-27"
+}

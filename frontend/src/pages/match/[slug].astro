@@ -4,8 +4,13 @@ import WhyCareMeter from '../../components/WhyCareMeter.astro';
 import TeamBadge from '../../components/TeamBadge.astro';
 import HypeNotes from '../../components/HypeNotes.astro';
 import MatchStoryCard from '../../components/MatchStoryCard.astro';
+import CompetitorMark from '../../components/CompetitorMark.astro';
+import SourcesList from '../../components/SourcesList.astro';
+import TennisScore from '../../components/TennisScore.astro';
+import LeaderboardTable from '../../components/LeaderboardTable.astro';
+import SportChip from '../../components/SportChip.astro';
 import { getCollection } from 'astro:content';
-import { fmtDate, statusLabel, SITE, getFlagUrl, stageLabel, scoreDisplay, optimizeImage, seoDescription } from '../../lib/site';
+import { fmtDate, statusLabel, SITE, stageLabel, scoreDisplay, optimizeImage, seoDescription, sportOf, sportBySlug, isWorldCup } from '../../lib/site';
 
 export async function getStaticPaths() {
   const matches = await getCollection('matches');
@@ -15,23 +20,27 @@ const { m, all } = Astro.props;
 const paras = m.story.split(/\n\n+/).filter(Boolean);
 const isLive = m.status === 'LIVE';
 const played = m.status === 'FINISHED' || isLive;
-const related = all.filter((x: any) => x.slug !== m.slug && (x.group === m.group || x.tags.some((t: string) => m.tags.includes(t)))).slice(0, 3);
+const sport = sportOf(m);
+const sportMeta = sportBySlug(sport);
+const related = all.filter((x: any) => x.slug !== m.slug && sportOf(x) === sport && (x.group === m.group || (x.tags || []).some((t: string) => (m.tags || []).includes(t)))).slice(0, 3);
 const label = `${m.home} vs ${m.away}`;
-const stage = stageLabel(m.group);
-const stageBadge = m.matchday <= 3 ? `${stage} · Matchday ${m.matchday}` : stage;
+const stage = stageLabel(m.group, m.roundLabel);
+const stageBadge = m.roundLabel || (m.matchday && m.matchday <= 3 ? `${stage} · Matchday ${m.matchday}` : stage);
 const score = scoreDisplay(m);
 const ogImage = m.image ? optimizeImage(m.image, 1200, 80) : SITE.ogImage;
 const heroImage = m.image ? optimizeImage(m.image, 1200, 78) : '';
-const pageTitle = `${m.headline} | ${label} World Cup 2026`;
-const pageDesc = seoDescription(m.teaser || m.whyCareReason || `${label} at the 2026 FIFA World Cup: story, stakes and Why-Care context.`);
+const pageTitle = `${m.headline} | ${label}`;
+const pageDesc = seoDescription(m.teaser || m.whyCareReason || `${label}: story, stakes and Why-Care context.`);
+const format = m.format || 'team-match';
+const wc = isWorldCup(m);
 
 const breadcrumb = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Home', item: SITE.url },
-    { '@type': 'ListItem', position: 2, name: 'Fixtures', item: `${SITE.url}/fixtures` },
-    { '@type': 'ListItem', position: 3, name: stage, item: m.group.length === 1 ? `${SITE.url}/group/${m.group.toLowerCase()}` : `${SITE.url}/fixtures` },
+    { '@type': 'ListItem', position: 2, name: sportMeta?.label || 'Sport', item: `${SITE.url}${sportMeta?.href || '/'}` },
+    { '@type': 'ListItem', position: 3, name: stage, item: wc && m.group.length === 1 ? `${SITE.url}/group/${m.group.toLowerCase()}` : `${SITE.url}${sportMeta?.href || '/fixtures'}` },
     { '@type': 'ListItem', position: 4, name: label, item: `${SITE.url}/match/${m.slug}` },
   ],
 };
@@ -40,8 +49,8 @@ const schema = [
   {
     '@context': 'https://schema.org',
     '@type': 'SportsEvent',
-    name: `${m.home} vs ${m.away} - FIFA World Cup 2026`,
-    sport: 'Soccer',
+    name: `${m.home} vs ${m.away}`,
+    sport: sportMeta?.label || 'Soccer',
     startDate: `${m.date}T${m.time}:00`,
     eventStatus: played ? 'https://schema.org/EventCompleted' : 'https://schema.org/EventScheduled',
     eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
@@ -54,7 +63,7 @@ const schema = [
       { '@type': 'SportsTeam', name: m.away },
     ],
     description: pageDesc,
-    organizer: { '@type': 'Organization', name: 'FIFA' },
+    organizer: { '@type': 'Organization', name: wc ? 'FIFA' : SITE.name },
     ...(played && m.homeScore != null
       ? {
           homeTeamScore: Number(m.homeScore),
@@ -86,14 +95,14 @@ const schema = [
   publishedTime={`${m.date}T12:00:00Z`}
   modifiedTime={`${m.date}T12:00:00Z`}
   preloadImage={heroImage || undefined}
-  keywords={`${m.home}, ${m.away}, World Cup 2026, ${stage}, match report, ${m.tags?.join(', ') || ''}`}
+  keywords={`${m.home}, ${m.away}, ${sportMeta?.label || ''}, ${stage}, match report, ${m.tags?.join(', ') || ''}`}
   imageAlt={`${label} - ${m.headline}`}
 >
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
     <nav class="mt-6 text-[13px] font-sans text-muted flex items-center gap-1.5 flex-wrap" aria-label="Breadcrumb">
       <a href="/" class="hover:text-fg">Home</a><span>/</span>
-      <a href="/fixtures" class="hover:text-fg">Fixtures</a><span>/</span>
-      {m.group.length === 1 ? (
+      <a href={sportMeta?.href || '/stories'} class="hover:text-fg">{sportMeta?.label || 'Sport'}</a><span>/</span>
+      {wc && m.group.length === 1 ? (
         <><a href={`/group/${m.group.toLowerCase()}`} class="hover:text-fg">Group {m.group}</a><span>/</span></>
       ) : (
         <><span>{stage}</span><span>/</span></>
@@ -119,16 +128,27 @@ const schema = [
     <div class="mt-5 grid lg:grid-cols-3 gap-8">
       <article data-testid="story-article" class="lg:col-span-2 min-w-0">
         <div class="flex items-center gap-2 text-[11px] font-sans font-medium flex-wrap">
+          <SportChip sport={sport} />
           <span class="rounded-full bg-surface2 px-2.5 py-1 text-muted">{stageBadge}</span>
           {isLive ? <span class="inline-flex items-center gap-1.5 rounded-full bg-coral px-2.5 py-1 text-white"><span class="w-1.5 h-1.5 rounded-full bg-white pulse-glow"></span>LIVE {m.liveMinute}'</span> : <span class="rounded-full bg-surface2 px-2.5 py-1 text-muted">{statusLabel(m.status)}</span>}
         </div>
         <h1 class="mt-3 font-head text-3xl sm:text-4xl font-semibold tracking-tight leading-[1.08]">{m.headline}</h1>
         <div class="mt-3 flex flex-wrap items-center gap-2 text-sm font-sans text-muted">
-          <TeamBadge name={m.home} /> <span class="text-muted">vs</span> <TeamBadge name={m.away} />
+          {wc ? (<><TeamBadge name={m.home} /> <span class="text-muted">vs</span> <TeamBadge name={m.away} /></>) : (<><span class="font-medium">{m.home}</span> <span class="text-muted">vs</span> <span class="font-medium">{m.away}</span></>)}
           <span>·</span><span>{fmtDate(m.date)} · {m.time}</span><span>·</span><span>{m.venue}, {m.city}</span>
         </div>
 
         <p class="mt-6 text-lg sm:text-xl font-sans text-muted leading-relaxed border-l-2 border-pitch pl-4">{m.teaser}</p>
+
+        {format === 'singles' && m.tennisSets?.length > 0 && (
+          <div class="mt-6"><TennisScore p1={m.home} p2={m.away} sets={m.tennisSets} /></div>
+        )}
+        {(format === 'leaderboard' || format === 'race') && m.leaderboard?.length > 0 && (
+          <div class="mt-6">
+            <LeaderboardTable rows={m.leaderboard} nameLabel={format === 'race' ? 'Driver' : 'Player'} scoreLabel={format === 'race' ? 'Gap / time' : 'Score'} />
+          </div>
+        )}
+        {m.resultSummary && <p class="mt-4 font-head font-semibold">{m.resultSummary}</p>}
 
         <div class="mt-6 space-y-5 text-[17px] leading-8 dropcap">
           {paras.map((p: string) => <p>{p}</p>)}
@@ -175,13 +195,14 @@ const schema = [
             <p class="mt-2 text-[15px] font-sans leading-7">{m.headToHead}</p>
           </section>
         )}
+        <SourcesList sources={m.sources} />
       </article>
 
       <aside class="lg:col-span-1">
         <div class="lg:sticky lg:top-20 space-y-5">
           <div class="rounded-card border border-border/80 bg-surface p-5 shadow-card">
             <div class="flex items-center justify-between gap-4">
-              <div class="text-center flex-1"><img src={getFlagUrl(m.homeCode)} alt={m.home} class="w-10 h-7 mx-auto" loading="lazy" width="40" height="28" /><div class="mt-1 font-head font-semibold text-sm">{m.home}</div></div>
+              <div class="text-center flex-1"><div class="flex justify-center"><CompetitorMark name={m.home} code={m.homeCode} sport={sport} /></div><div class="mt-1 font-head font-semibold text-sm">{m.home}</div></div>
               {played && score ? (
                 <div class="text-center">
                   <div class="font-head font-bold text-3xl tabular-nums">{score.main}</div>
@@ -190,7 +211,7 @@ const schema = [
               ) : (
                 <div class="text-center"><div class="font-head font-semibold">{m.time}</div><div class="text-[11px] text-muted font-sans">{fmtDate(m.date)}</div></div>
               )}
-              <div class="text-center flex-1"><img src={getFlagUrl(m.awayCode)} alt={m.away} class="w-10 h-7 mx-auto" loading="lazy" width="40" height="28" /><div class="mt-1 font-head font-semibold text-sm">{m.away}</div></div>
+              <div class="text-center flex-1"><div class="flex justify-center"><CompetitorMark name={m.away} code={m.awayCode} sport={sport} /></div><div class="mt-1 font-head font-semibold text-sm">{m.away}</div></div>
             </div>
             <div class="mt-5 pt-4 border-t border-border/70">
               <span class="text-[11px] uppercase tracking-wide text-muted font-sans">Why Care Score</span>

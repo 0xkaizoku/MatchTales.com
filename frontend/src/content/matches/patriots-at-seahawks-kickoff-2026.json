@@ -1,0 +1,77 @@
+{
+  "funFacts": [
+    "Kickoff Wednesday 9 September, 8:20 p.m. ET, NBC.",
+    "SB LX: Seahawks 29-13, Walker MVP, Myers five FGs.",
+    "No 2026 regular-season games have been played as of 8 September."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kenneth Walker III",
+      "team": "Seahawks",
+      "hook": "Super Bowl MVP, 135 rush yards."
+    },
+    {
+      "name": "Drake Maye",
+      "team": "Patriots",
+      "hook": "Sacked six times in the Super Bowl. Gets a first reply."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "nfl",
+    "seahawks",
+    "patriots",
+    "kickoff"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1566577739112-5184e6ac4a4e?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Week 1 kickoff",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "FOX: 2026 Week 1 schedule",
+      "url": "https://www.foxsports.com/stories/nfl/when-does-2026-nfl-season-start-complete-week-1-schedule"
+    },
+    {
+      "name": "Wikipedia: Super Bowl LX",
+      "url": "https://en.wikipedia.org/wiki/Super_Bowl_LX"
+    },
+    {
+      "name": "NFL.com Super Bowl LX hub",
+      "url": "https://www.nfl.com/super-bowl"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "patriots-at-seahawks-kickoff-2026",
+  "headline": "Patriots at Seahawks: Super Bowl LX, again, and the season has not started",
+  "whyCareScore": 9.7,
+  "whyCareReason": "Wednesday 9 September, 8:20 p.m. ET, NBC. The only NFL game that exists yet. It is a rematch of a 29-13 beating.",
+  "teaser": "Seattle won Super Bowl LX 29-13 on 8 February. Kenneth Walker III was MVP. Tomorrow night they host New England again.",
+  "story": "Why this one matters: as of 8 September 2026 the NFL regular season has not kicked a ball. Preseason ended 29 August. The first snap is tomorrow in Seattle, and it is the Super Bowl again.\n\nSuper Bowl LX, 8 February, Levi's Stadium: Seahawks 29-13 Patriots. Walker 135 rushing yards, first running-back MVP since Terrell Davis in 1998. Jason Myers five field goals, a Super Bowl record, first 200-point scorer in NFL history. Sam Darnold 19/38, 202 yards, 1 TD, 0 INT. Drake Maye 27/43, 295, 2 TD, 2 INT, sacked six times. Uchenna Nwosu returned a fumble 45 yards for a touchdown. Seattle's second title, Mike Macdonald's second-year team, the Dark Side defence.\n\nKickoff is Wednesday because Labor Day fell as late as it can. That is the calendar. The story is the rematch.",
+  "stakes": "Week 1, a Super Bowl rematch, the first snap of 2026.",
+  "rivalryAngle": "Seattle 29-13 in February. New England gets a first reply in September.",
+  "home": "Seattle Seahawks",
+  "away": "New England Patriots",
+  "group": "NFL",
+  "date": "2026-09-09",
+  "time": "20:20",
+  "venue": "Lumen Field",
+  "city": "Seattle",
+  "status": "UPCOMING",
+  "sport": "football",
+  "competition": "nfl-2026"
+}

@@ -2,98 +2,47 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Hero from '../components/Hero.astro';
 import MatchStoryCard from '../components/MatchStoryCard.astro';
-import GroupStandingsWidget from '../components/GroupStandingsWidget.astro';
-import RivalryCard from '../components/RivalryCard.astro';
-import MomentCard from '../components/MomentCard.astro';
 import NewsletterForm from '../components/NewsletterForm.astro';
 import HypeNotes from '../components/HypeNotes.astro';
 import { getCollection } from 'astro:content';
-import { data, SITE, fmtDate, optimizeImage } from '../lib/site';
+import SportDirectory from '../components/SportDirectory.astro';
+import { SITE, fmtDate, optimizeImage, isWorldCup, SITE_TODAY } from '../lib/site';
+import desk from '../data/desk.json';
 
 const matchEntries = await getCollection('matches');
 const matches = matchEntries.map((e) => e.data);
-
-const todayStr = data.meta.today; // "2026-06-18"
+const todayStr = SITE_TODAY;
 
 function addDays(dateStr: string, days: number) {
-  const d = new Date(dateStr + 'T00:00:00');
-  d.setDate(d.getDate() + days);
-  return d.toISOString().split('T')[0];
+  const [y, m, d] = dateStr.split('-').map(Number);
+  const dt = new Date(Date.UTC(y, m - 1, d + days));
+  return dt.toISOString().slice(0, 10);
 }
-
 const tomorrowStr = addDays(todayStr, 1);
-const dayAfterStr = addDays(todayStr, 2);
-
-const todayMatches = matches.filter((m) => m.date === todayStr).sort((a, b) => b.whyCareScore - a.whyCareScore);
-const tomorrowMatches = matches.filter((m) => m.date === tomorrowStr).sort((a, b) => b.whyCareScore - a.whyCareScore);
-const dayAfterMatches = matches.filter((m) => m.date === dayAfterStr).sort((a, b) => b.whyCareScore - a.whyCareScore);
-
-const recentResults = matches
-  .filter((m) => m.status === 'FINISHED')
-  .sort((a, b) => b.date.localeCompare(a.date) || b.whyCareScore - a.whyCareScore)
-  .slice(0, 3);
-
-const sfMatches = matches
-  .filter((m) => (m.group || '').toUpperCase() === 'SF')
-  .sort((a, b) => a.date.localeCompare(b.date));
-
-const finalMatch = matches.find((m) => (m.group || '').toUpperCase() === 'FINAL' || m.slug?.includes('md9'));
-const thirdPlace = matches.find((m) => (m.group || '').toUpperCase() === '3RD' || m.matchday === 8);
-
-const upcoming = matches
-  .filter((m) => m.status === 'UPCOMING')
-  .sort((a, b) => a.date.localeCompare(b.date) || a.time.localeCompare(b.time));
 
 const featured =
-  todayMatches[0] ||
+  matches.find((m) => m.slug === 'alcaraz-vs-shelton-uso-qf') ||
   matches.find((m) => m.status === 'LIVE') ||
-  finalMatch ||
-  sfMatches[sfMatches.length - 1] ||
-  recentResults[0] ||
+  matches.find((m) => m.status === 'UPCOMING' && m.date >= todayStr) ||
+  matches.find((m) => m.slug === 'spain-vs-argentina-md9') ||
   matches[0];
 
-const hasFinalUpcoming = upcoming.some((m) => {
-  const g = (m.group || '').toUpperCase();
-  return g === 'F' || g === 'FINAL' || g === '3RD';});
-const tournamentComplete = upcoming.length === 0;
-const finalFinished = finalMatch?.status === 'FINISHED' && finalMatch.homeScore != null;
-const thirdFinished = thirdPlace?.status === 'FINISHED' && thirdPlace.homeScore != null;
+const tomorrow = matches
+  .filter((m) => m.date === tomorrowStr)
+  .sort((a, b) => b.whyCareScore - a.whyCareScore);
 
-function resultWinner(m: any): string | null {
-  if (!m || m.status !== 'FINISHED' || m.homeScore == null) return null;
-  const hs = Number(m.homeScore);
-  const as = Number(m.awayScore);
-  if (hs > as) return m.home;
-  if (as > hs) return m.away;
-  if (m.decidedBy === 'pens' && m.homePen != null) {
-    return Number(m.homePen) > Number(m.awayPen) ? m.home : m.away;
-  }
-  return null;
-}
+const recent = matches
+  .filter((m) => m.status === 'FINISHED' && !isWorldCup(m))
+  .sort((a, b) => b.date.localeCompare(a.date) || b.whyCareScore - a.whyCareScore)
+  .slice(0, 6);
 
-const champion = resultWinner(finalMatch);
-const runnerUp = finalFinished && finalMatch
-  ? (champion === finalMatch.home ? finalMatch.away : finalMatch.home)
-  : null;
-const bronzeWinner = resultWinner(thirdPlace);
-
-const tournamentPhase = tournamentComplete
-  ? champion
-    ? `${champion} are champions`
-    : 'Tournament complete'
-  : hasFinalUpcoming
-    ? 'Final week'
-    : 'Knockout stage';
-const daysToFinal = finalMatch
-  ? Math.round((new Date(finalMatch.date + 'T00:00:00').getTime() - new Date(todayStr + 'T00:00:00').getTime()) / 86400000)
-  : null;
-const finalStillAhead = daysToFinal != null && daysToFinal > 0 && !finalFinished;
+const wcFinal = matches.find((m) => (m.group || '').toUpperCase() === 'FINAL');
 
 const storyEntries = await getCollection('stories');
 const stories = storyEntries
   .map((e) => ({ slug: e.id, ...e.data, image: optimizeImage(e.data.image, 480, 70) }))
   .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())
-  .slice(0, 4);
+  .slice(0, 6);
 
 const preloadHero = featured?.image ? optimizeImage(featured.image, 1200, 78) : undefined;
 const homeSchema = {
@@ -102,212 +51,111 @@ const homeSchema = {
   description: SITE.description,
   url: SITE.url,
   isPartOf: { '@id': `${SITE.url}/#website` },
-  about: {
-    '@type': 'SportsEvent',
-    name: 'FIFA World Cup 2026',
-    sport: 'Soccer',
-    location: [
-      { '@type': 'Country', name: 'United States' },
-      { '@type': 'Country', name: 'Mexico' },
-      { '@type': 'Country', name: 'Canada' },
-    ],
-  },
 };
 ---
-<BaseLayout title={SITE.title} description={SITE.description} preloadImage={preloadHero} image={preloadHero || SITE.ogImage} schema={homeSchema} imageAlt="MatchTales - Why this World Cup 2026 match matters">
+<BaseLayout title={SITE.title} description={SITE.description} preloadImage={preloadHero} image={preloadHero || SITE.ogImage} schema={homeSchema} imageAlt="MatchTales: why this match matters">
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
-    <!-- Tournament banner -->
     <div class="mt-6 flex flex-wrap items-center justify-between gap-3 rounded-card border border-border/70 bg-surface2 px-4 py-3">
       <div class="flex items-center gap-2 text-sm font-sans">
-        <span class="font-head font-semibold text-pitch">FIFA World Cup 2026</span>
-        <span class="text-muted">· USA · Mexico · Canada</span>
+        <span class="font-head font-semibold text-pitch">The desk</span>
+        <span class="text-muted">· Tuesday {fmtDate(todayStr)}</span>
       </div>
       <div class="flex flex-wrap items-center gap-2 text-[12px] font-sans text-muted">
-        <span class="inline-flex items-center gap-1.5 text-coral font-medium"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>{tournamentPhase}</span>
-        <span>· Updated {fmtDate(todayStr)}</span>
-        {finalStillAhead && (
-          <span class="inline-flex items-center rounded-full bg-pitch/10 px-2 py-0.5 font-medium text-pitch">
-            {daysToFinal === 1 ? 'Final tomorrow' : `${daysToFinal} days to the final`}
-          </span>
-        )}
-        {daysToFinal === 0 && !finalFinished && (
-          <span class="inline-flex items-center rounded-full bg-coral/15 px-2 py-0.5 font-medium text-coral">Final day</span>
-        )}
-        {tournamentComplete && champion && (
-          <span class="inline-flex items-center rounded-full bg-pitch/10 px-2 py-0.5 font-medium text-pitch">World champions</span>
-        )}
-        <span>· 48 teams · 12 groups</span>
+        <span class="inline-flex items-center gap-1.5 text-coral font-medium"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>US Open quarter-finals</span>
+        <span>· NFL kickoff tomorrow</span>
+        <span>· Antonelli won Monza from 19th</span>
       </div>
     </div>
-
-    {tournamentComplete && champion && finalMatch && (
-      <div class="mt-4 rounded-card border border-pitch/25 bg-pitch/5 px-4 py-3 text-sm font-sans text-ink">
-        <span class="font-head font-semibold text-pitch">{champion} are World Cup 2026 champions.</span>
-        <span class="text-muted">
-          {' '}{finalMatch.home} {finalMatch.homeScore}–{finalMatch.awayScore}{finalMatch.decidedBy === 'aet' ? ' aet' : ''} {finalMatch.away} at MetLife
-          {thirdFinished && thirdPlace && bronzeWinner ? ` · ${bronzeWinner} take bronze (${thirdPlace.homeScore}–${thirdPlace.awayScore} over ${bronzeWinner === thirdPlace.home ? thirdPlace.away : thirdPlace.home})` : ''}.
-          {' '}<a href="/stories/spain-world-champions-2026-wrap" class="text-sky hover:underline underline-offset-2">Read the final week wrap</a>
-          {' · '}<a href={`/match/${finalMatch.slug}`} class="text-sky hover:underline underline-offset-2">Final match report</a>
-        </span>
-      </div>
-    )}
-
-    {todayMatches.length === 0 && upcoming.length > 0 && (
-      <div class="mt-4 rounded-card border border-pitch/20 bg-pitch/5 px-4 py-3 text-sm font-sans text-ink">
-        <span class="font-head font-semibold text-pitch">Rest day.</span>
-        <span class="text-muted"> No fixtures today. Next up: {thirdPlace && thirdPlace.status !== 'FINISHED' ? `${thirdPlace.home} vs ${thirdPlace.away} for bronze (${fmtDate(thirdPlace.date)})` : 'the final weekend'}{finalMatch && finalMatch.status !== 'FINISHED' ? `, then ${finalMatch.home} vs ${finalMatch.away} in the final (${fmtDate(finalMatch.date)})` : ''}.</span>
-      </div>
-    )}
 
     {featured && (
       <section class="mt-6 fade-up"><Hero m={featured} /></section>
     )}
 
-    <!-- Today's matches -->
-    {todayMatches.length > 0 && (
-      <section class="mt-12" aria-labelledby="today-h">
-        <div class="flex items-end justify-between gap-4 mb-4">
-          <div>
-            <h2 id="today-h" class="font-head text-2xl font-semibold tracking-tight">Today · {fmtDate(todayStr)}</h2>
-            <p class="text-sm text-muted font-sans mt-0.5">Stories, stats, and scores from today's fixtures.</p>
-          </div>
-          <a href="/fixtures" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4 whitespace-nowrap">All fixtures →</a>
-        </div>
-        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4" data-testid="today-matches-grid">
-          {todayMatches.map((m) => <MatchStoryCard m={m} />)}
-        </div>
-      </section>
-    )}
+    <section class="mt-10">
+      <SportDirectory />
+    </section>
 
-    <!-- Semi-finals -->
-    {sfMatches.length > 0 && (
-      <section class="mt-12" aria-labelledby="sf-h">
-        <div class="flex items-end justify-between gap-4 mb-4">
-          <div>
-            <h2 id="sf-h" class="font-head text-2xl font-semibold tracking-tight">Semi-finals</h2>
-            <p class="text-sm text-muted font-sans mt-0.5">
-              {tournamentComplete || finalFinished
-                ? 'Spain beat France and Argentina beat England to set up the MetLife final.'
-                : 'Last four decided. Spain and Argentina advance to the final; France and England meet for bronze.'}
-            </p>
-          </div>
-          <a href="/leaderboard" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4 whitespace-nowrap">Leaderboards →</a>
-        </div>
-        <div class="grid sm:grid-cols-2 gap-4">
-          {sfMatches.map((m, i) => <MatchStoryCard m={m} eager={i === 0} />)}
-        </div>
-      </section>
-    )}
+    <section class="mt-12" aria-labelledby="ny-h">
+      <h2 id="ny-h" class="font-head text-2xl font-semibold tracking-tight">Why Tuesday in New York matters</h2>
+      <p class="mt-2 text-muted font-sans max-w-2xl">Carlos Alcaraz vs Ben Shelton. Aryna Sabalenka vs Linda Noskova, the new Wimbledon champion. Two all-American quarters. The US Open has not named a 2026 singles champion yet. That is the point.</p>
+      <ul class="mt-4 grid sm:grid-cols-2 gap-3">
+        {desk.usOpenQF.map((q) => (
+          <li class="rounded-card border border-border/80 bg-surface p-4">
+            <span class="text-[11px] font-sans text-muted uppercase tracking-wide">{q.draw}</span>
+            <p class="mt-1 font-head font-semibold">{q.p1} <span class="text-muted font-sans font-normal">vs</span> {q.p2}</p>
+          </li>
+        ))}
+      </ul>
+      <p class="mt-3"><a href="/sport/tennis" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-2">Tennis desk</a></p>
+    </section>
 
-    <!-- Final week / podium -->
-    {(finalMatch || thirdPlace) && (
-      <section class="mt-12" aria-labelledby="road-h">
+    {tomorrow.length > 0 && (
+      <section class="mt-12" aria-labelledby="tom-h">
         <div class="flex items-end justify-between gap-4 mb-4">
           <div>
-            <h2 id="road-h" class="font-head text-2xl font-semibold tracking-tight">
-              {finalFinished && thirdFinished ? 'The podium' : 'Road to the trophy'}
-            </h2>
-            <p class="text-sm text-muted font-sans mt-0.5">
-              {finalFinished && thirdFinished && champion
-                ? `Gold for ${champion}${runnerUp ? `, silver for ${runnerUp}` : ''}${bronzeWinner ? `, bronze for ${bronzeWinner}` : ''}. Full match reports below.`
-                : finalStillAhead
-                  ? `Bronze on ${thirdPlace ? fmtDate(thirdPlace.date) : 'Saturday'}, final in ${daysToFinal} day${daysToFinal === 1 ? '' : 's'} at MetLife.`
-                  : thirdFinished && !finalFinished
-                    ? 'Bronze decided. The World Cup final is next at MetLife.'
-                    : 'Third-place play-off and the World Cup final still to come.'}
-            </p>
+            <h2 id="tom-h" class="font-head text-2xl font-semibold tracking-tight">Tomorrow · {fmtDate(tomorrowStr)}</h2>
+            <p class="text-sm text-muted font-sans mt-0.5">Patriots at Seahawks is Super Bowl LX again. The regular season has not started. This is the first snap.</p>
           </div>
-          <a href="/stories" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4 whitespace-nowrap">All stories →</a>
-        </div>
-        <div class="grid sm:grid-cols-2 gap-4">
-          {thirdPlace && <MatchStoryCard m={thirdPlace} />}
-          {finalMatch && <MatchStoryCard m={finalMatch} />}
-        </div>
-      </section>
-    )}
-
-    <!-- Recent results -->
-    {recentResults.length > 0 && (
-      <section class="mt-12" aria-labelledby="recent-h">
-        <div class="flex items-end justify-between gap-4 mb-4">
-          <div>
-            <h2 id="recent-h" class="font-head text-2xl font-semibold tracking-tight">Latest results</h2>
-            <p class="text-sm text-muted font-sans mt-0.5">Fresh scores with full stories, stakes and Why-Care context.</p>
-          </div>
-          <a href="/fixtures" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4 whitespace-nowrap">All fixtures →</a>
+          <a href="/sport/football" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4 whitespace-nowrap">Football desk</a>
         </div>
         <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {recentResults.map((m) => <MatchStoryCard m={m} />)}
+          {tomorrow.map((m) => <MatchStoryCard m={m} />)}
         </div>
       </section>
     )}
 
-    <!-- Tomorrow's matches -->
-    {tomorrowMatches.length > 0 && (
-      <section class="mt-12" aria-labelledby="tomorrow-h">
-        <div class="flex items-end justify-between gap-4 mb-4">
-          <div>
-            <h2 id="tomorrow-h" class="font-head text-2xl font-semibold tracking-tight">Tomorrow · {fmtDate(tomorrowStr)}</h2>
-            <p class="text-sm text-muted font-sans mt-0.5">Upcoming storylines to look forward to.</p>
-          </div>
-        </div>
-        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4" data-testid="tomorrow-matches-grid">
-          {tomorrowMatches.map((m) => <MatchStoryCard m={m} />)}
+    {recent.length > 0 && (
+      <section class="mt-12" aria-labelledby="rec-h">
+        <h2 id="rec-h" class="font-head text-2xl font-semibold tracking-tight mb-4">Just happened</h2>
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          {recent.map((m) => <MatchStoryCard m={m} />)}
         </div>
       </section>
     )}
 
-    <!-- Day After's matches -->
-    {dayAfterMatches.length > 0 && (
-      <section class="mt-12" aria-labelledby="dayafter-h">
-        <div class="flex items-end justify-between gap-4 mb-4">
-          <div>
-            <h2 id="dayafter-h" class="font-head text-2xl font-semibold tracking-tight">{fmtDate(dayAfterStr)}</h2>
-            <p class="text-sm text-muted font-sans mt-0.5">Weekend marquee fixtures in focus.</p>
-          </div>
-        </div>
-        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4" data-testid="dayafter-matches-grid">
-          {dayAfterMatches.map((m) => <MatchStoryCard m={m} />)}
-        </div>
+    <section class="mt-12 grid lg:grid-cols-2 gap-8">
+      <div>
+        <h2 class="font-head text-xl font-semibold tracking-tight mb-3">Premier League after 3</h2>
+        <ol class="space-y-2 font-sans text-sm">
+          {desk.premierLeagueTable.slice(0, 4).map((r) => (
+            <li class="flex items-center justify-between gap-3 border-b border-border/60 pb-2">
+              <span><span class="text-muted tabular-nums mr-2">{r.pos}</span>{r.team}</span>
+              <span class="font-head tabular-nums">{r.pts}</span>
+            </li>
+          ))}
+        </ol>
+        <p class="mt-3 text-[12px] text-muted">Hull have not conceded. Spurs have one point. Matchweek 4 starts 12 September. <a href="/sport/soccer" class="text-sky hover:underline">Soccer desk</a></p>
+      </div>
+      <div>
+        <h2 class="font-head text-xl font-semibold tracking-tight mb-3">F1 after Monza</h2>
+        <ol class="space-y-2 font-sans text-sm">
+          {desk.f1Drivers.map((r) => (
+            <li class="flex items-center justify-between gap-3 border-b border-border/60 pb-2">
+              <span><span class="text-muted tabular-nums mr-2">{r.pos}</span>{r.name} <span class="text-muted">{r.team}</span></span>
+              <span class="font-head tabular-nums">{r.pts}</span>
+            </li>
+          ))}
+        </ol>
+        <p class="mt-3 text-[12px] text-muted">Antonelli won from grid 19. Madrid is 11-13 September. <a href="/sport/f1" class="text-sky hover:underline">F1 desk</a></p>
+      </div>
+    </section>
+
+    {wcFinal && (
+      <section class="mt-12 rounded-card border border-pitch/25 bg-pitch/5 px-5 py-4">
+        <p class="font-head font-semibold text-pitch">World Cup 2026 is a finished novel.</p>
+        <p class="mt-1 text-sm font-sans text-muted">Spain 1-0 Argentina after extra time at MetLife, 19 July. Ferran Torres, 106th minute. England 6-4 France for bronze, Saka hat-trick. <a href="/world-cup" class="text-sky hover:underline underline-offset-2">Open the archive</a></p>
       </section>
     )}
 
-    <!-- Standings widget -->
-    <section class="mt-12" aria-label="Group standings">
+    <section class="mt-12" aria-labelledby="st-h">
       <div class="flex items-end justify-between gap-4 mb-4">
-        <h2 class="font-head text-2xl font-semibold tracking-tight">Group standings</h2>
-        <a href="/leaderboard" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4">Full leaderboards →</a>
+        <h2 id="st-h" class="font-head text-2xl font-semibold tracking-tight">Latest stories</h2>
+        <a href="/stories" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4">All stories</a>
       </div>
-      <GroupStandingsWidget />
-    </section>
-
-    <!-- Rivalries -->
-    <section class="mt-14" aria-labelledby="riv-h">
-      <h2 id="riv-h" class="font-head text-2xl font-semibold tracking-tight">Featured rivalries</h2>
-      <p class="text-sm text-muted font-sans mt-0.5 mb-4">The grudges, the ghosts and the games that history won't let go.</p>
-      <div class="grid sm:grid-cols-2 lg:grid-cols-2 gap-5">
-        {data.rivalries.map((r: any) => <RivalryCard r={r} />)}
-      </div>
-    </section>
-
-    <!-- Iconic moments -->
-    <section class="mt-14" aria-labelledby="mom-h">
-      <h2 id="mom-h" class="font-head text-2xl font-semibold tracking-tight mb-4">Iconic moments</h2>
-      <div class="grid sm:grid-cols-2 gap-4">
-        {data.moments.map((mo: any) => <MomentCard mo={mo} />)}
-      </div>
-    </section>
-
-    <!-- Trending stories -->
-    <section class="mt-14" aria-labelledby="st-h">
-      <div class="flex items-end justify-between gap-4 mb-4">
-        <h2 id="st-h" class="font-head text-2xl font-semibold tracking-tight">Trending stories</h2>
-        <a href="/stories" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4">Read more →</a>
-      </div>
-      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {stories.map((s) => (
           <a href={`/stories/${s.slug}`} class="group rounded-card overflow-hidden border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow">
-            <div class="aspect-[16/10] overflow-hidden"><img src={s.image} alt={s.title} loading="lazy" decoding="async" width="400" height="250" sizes="(max-width: 640px) 100vw, 25vw" class="w-full h-full object-cover" /></div>
+            <div class="aspect-[16/10] overflow-hidden"><img src={s.image} alt={s.title} loading="lazy" decoding="async" width="400" height="250" class="w-full h-full object-cover" /></div>
             <div class="p-4">
               <span class="text-[11px] font-sans font-medium text-pitch uppercase tracking-wide">{s.category}</span>
               <h3 class="mt-1 font-head font-semibold leading-snug group-hover:underline decoration-pitch decoration-2 underline-offset-4">{s.title}</h3>
@@ -318,20 +166,18 @@ const homeSchema = {
       </div>
     </section>
 
-    <!-- Hype notes -->
     <section class="mt-14" aria-labelledby="hype-h">
       <h2 id="hype-h" class="font-head text-2xl font-semibold tracking-tight">Fan hype wall</h2>
       <p class="text-sm text-muted font-sans mt-0.5 mb-5">Why do <em>you</em> care? Add your voice to the wall.</p>
       <HypeNotes />
     </section>
 
-    <!-- Newsletter -->
     <section id="newsletter" class="mt-14 mb-8 scroll-mt-20">
       <div class="relative overflow-hidden rounded-card border border-border/70 bg-surface shadow-card grain">
         <div class="absolute inset-0 pointer-events-none" style="background: var(--hero-bg)"></div>
         <div class="relative p-6 sm:p-10">
           <h2 class="font-head text-2xl sm:text-3xl font-semibold tracking-tight">Never miss a story that matters</h2>
-          <p class="mt-2 text-muted font-sans max-w-lg">Get the morning's must-watch matches, the rivalries reignited and the legends saying goodbye — straight to your inbox.</p>
+          <p class="mt-2 text-muted font-sans max-w-lg">One email when the stake is real: the rematch, the round, the race. Straight to your inbox.</p>
           <div class="mt-5"><NewsletterForm /></div>
         </div>
       </div>

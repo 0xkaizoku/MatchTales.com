@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SportDirectory from '../components/SportDirectory.astro';
+import { SITE, SITE_TODAY, fmtDate } from '../lib/site';
+
+const schema = {
+  '@type': 'CollectionPage',
+  name: 'Sports directory',
+  description: 'Six MatchTales desks: tennis, football, Formula 1, soccer, golf and basketball. Each has its own interactive board.',
+  url: `${SITE.url}/sports`,
+  isPartOf: { '@id': `${SITE.url}/#website` },
+};
+---
+<BaseLayout
+  title="Sports directory | MatchTales"
+  description="Pick a desk. Tennis, football, Formula 1, soccer, golf and basketball each have their own interactive, animated directory."
+  keywords="sports directory, tennis, NFL, Formula 1, soccer, golf, basketball, MatchTales"
+  schema={schema}
+  imageAlt="MatchTales sports directory"
+>
+  <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8 pb-12">
+    <header class="mt-8 max-w-2xl">
+      <p class="text-[11px] font-sans font-medium uppercase tracking-wide text-muted">Directory · {fmtDate(SITE_TODAY)}</p>
+      <h1 class="mt-2 font-head text-3xl sm:text-5xl font-semibold tracking-tight leading-[1.05] text-balance">Every sport gets its own room.</h1>
+      <p class="mt-3 text-muted font-sans text-lg leading-7">Soccer is one desk, not the building. Hover a tile. The motion is the map. Open a board that only exists for that sport.</p>
+    </header>
+
+    <div class="mt-8">
+      <SportDirectory compact />
+    </div>
+  </main>
+</BaseLayout>

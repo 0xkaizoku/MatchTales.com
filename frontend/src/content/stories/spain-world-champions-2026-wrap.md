@@ -2,41 +2,59 @@
 title: "Spain Are World Champions: How the 2026 Final Week Ended"
 subtitle: "Bronze for England, silver for Argentina, gold for Spain. The first 48-team World Cup has its ending."
 category: "Final Week"
-excerpt: "A full wrap of the podium: England 6-4 France in a ten-goal classic for third, then Spain 1-0 Argentina after extra time at MetLife."
+excerpt: "Ferran Torres in the 106th minute. Spain 1-0 Argentina after extra time at MetLife. England 6-4 France for bronze, Bukayo Saka with a hat-trick."
 image: "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 7
 pubDate: 2026-07-20
+sport: soccer
+competition: world-cup-2026
+relatedSlug: spain-vs-argentina-md9
+sources:
+  - name: "FIFA: final tournament standings"
+    url: "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings"
+  - name: "CBS News: Spain wins 2026 FIFA World Cup"
+    url: "https://www.cbsnews.com/news/2026-fifa-world-cup-final-spain-argentina-sunday/"
+  - name: "NPR: Spain defeats Argentina"
+    url: "https://www.npr.org/2026/07/19/nx-s1-5899071/2026-world-cup-fifa-argentina-spain-final-championship"
+  - name: "Wikipedia: 2026 FIFA World Cup final"
+    url: "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_final"
 ---
 
-## The Trophy Has a Home
+## Why this week still sits in the chest
 
-World Cup 2026 is over. Spain are champions after a 1-0 extra-time win over Argentina at MetLife Stadium. England take bronze after a breathtaking 6-4 win over France in Miami. The first 48-team tournament finally has its podium.
+A World Cup is a month of noise that collapses into two nights. On 18 July, England and France played a bronze match that FIFA later called barely believable. On 19 July, Spain beat Argentina 1-0 after extra time at MetLife Stadium. If you only remember one sentence, make it this: Ferran Torres scored in the 106th minute, from a Nico Williams header, and Spain are champions for the first time since 2010.
 
-## Bronze Night in Miami
+## Bronze night in Miami
 
-England vs France on 18 July was never the final, but it became the most memorable third-place match in history. Ten goals, two comebacks, and a performance from England that turned a consolation fixture into a statement.
+England 6, France 4, Hard Rock Stadium, 18 July. FIFA's standings piece put names to the chaos. England: Rice 3', Konsa 18', Saka 37', Saka 45+1', Saka 87' from the penalty spot, Bellingham 90+8'. France: Mbappe 48', Barcola 54', Mbappe 66', Dembele 90+6'.
 
-Harry Kane scored twice and led a forward line that tore through France repeatedly. England struck early through Kane and Saka, survived a Mbappe response, and kept pushing. At 5-2 the game looked finished, but France fought back to 5-4 before Kane sealed the win. Six goals for England. Four for France. A third-place match that deserved a crowd that stayed on its feet for the full 90 minutes.
+That is a hat-trick for Bukayo Saka in a third-place match. England's best finish since 1966. Ten goals. The highest-scoring bronze final the tournament has on record.
 
-England left Miami with bronze and the record for the highest-scoring play-off in World Cup history. France finished fourth after a tournament that confirmed their status as a perennial contender.
+The game was never the final. It still felt like one, because both sides had just lost a semi-final and refused to treat the night as a handshake.
 
-## MetLife Delivers the Final
+## MetLife, extra time, one punch
 
-Spain vs Argentina on 19 July was everything the bracket promised: control against champion steel. Spain's midfield distances stayed intact under pressure. Argentina forced the game into the kind of chaotic stretches only finals create.
+Spain vs Argentina on 19 July was the bracket's promise: control against champion steel. Regulation ended 0-0, the first goalless final since 1994. CBS reported Spain outshooting Argentina 20-3. FIFA said 20 attempts to two over 120 minutes. Argentina, reduced to ten after Enzo Fernandez was sent off, failed to register a shot in normal time.
 
-Regulation ended scoreless for the first time in a final since 1994. Extra time tilted toward Spain's wider threat and fresher legs. Lamine Yamal, the breakout star of the tournament, created the decisive moment in the 103rd minute. La Roja had not lifted this trophy since 2010. They lift it again in New Jersey.
+The goal arrived in extra time. Nico Williams headed a cross back into space. Torres, on as a 62nd-minute substitute, smashed it past Emiliano Martinez. Torres later said it was a goal scored by 47 million people, Spain's population, give or take a census.
 
-## What the Expanded Tournament Proved
+Attendance 80,663. Referee Slavko Vincic of Slovenia. Torres named man of the match. Martinez made 11 saves, a World Cup final record, and still walked off a runner-up.
 
-Forty-eight teams stretched the story across the United States, Mexico and Canada without diluting the final week. Group drama still mattered. Knockout nights still hinged on set pieces, rest defence and nerve. The final still felt like the only match in the world.
+Spain conceded one goal in eight matches, a record for a champion. La Roja are unbeaten in their last 38 (29 wins, nine draws) per CBS. They also became the first nation to hold the men's and women's World Cups at once.
 
-The expanded format drew criticism before a ball was kicked. Ninety-five days later, the verdict is clear: more teams meant more stories, not less quality. The Round of 32 produced genuine upsets. The group stage kept its drama. And the final week delivered two of the most memorable matches of the tournament.
+A brawl broke out after the whistle. That is in the match record too. Finals do not always end clean.
 
-## The Names That Will Travel
+## What the expanded tournament proved
 
-- **Spain**: tournament control, wide creativity, and a champions calm that carried them through extra time in the final.
+Forty-eight teams stretched the story across the United States, Mexico and Canada. Group drama still mattered. Knockout nights still hinged on set pieces, rest defence and nerve. The final still felt like the only match in the world.
+
+Spain's path, from FIFA: a shock 0-0 with Cabo Verde to open Group H, then wins over Saudi Arabia, Uruguay, Austria, Portugal, Belgium and France, then Argentina. One goal conceded the whole way.
+
+## The names that travel
+
+- **Spain**: tournament control, one extra-time punch, a second star on the shirt.
 - **Argentina**: knockout toughness all the way to the last night, one goal short of back-to-back titles.
-- **England**: bronze after a ten-goal classic and a campaign that forced every favourite to solve them.
-- **France**: semi-finalists who pushed Spain close and still carry the most dangerous attacking talent in world football.
+- **England**: bronze after a ten-goal classic, Saka the headline.
+- **France**: semi-finalists who still carry the most dangerous attacking talent in the sport.
 
-The scores are in. The stories will keep moving. MatchTales will keep the why-it-mattered lens on every chapter that follows.
+The scores are in. The stories keep moving. MatchTales keeps the why-it-mattered lens on every chapter that follows.

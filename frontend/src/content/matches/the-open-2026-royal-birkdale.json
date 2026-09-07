@@ -1,0 +1,103 @@
+{
+  "funFacts": [
+    "Fox 72-68-62-68 = 270.",
+    "Young finished one back after a Sunday 64.",
+    "18th played 161 over par for the field."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Ryan Fox",
+      "team": "New Zealand",
+      "hook": "Birdie on 18 to win by one."
+    },
+    {
+      "name": "Cameron Young",
+      "team": "USA",
+      "hook": "Sunday 64, clubhouse lead, second by one."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "the-open",
+    "fox",
+    "birkdale"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "",
+  "roundLabel": "154th Open Championship",
+  "resultSummary": "Fox 270 (-10), Young 271, Burns 272",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Ryan Fox",
+      "score": "270 (-10)",
+      "note": "72-68-62-68"
+    },
+    {
+      "pos": "2",
+      "name": "Cameron Young",
+      "score": "271 (-9)",
+      "note": "67-67-73-64"
+    },
+    {
+      "pos": "3",
+      "name": "Sam Burns",
+      "score": "272 (-8)",
+      "note": "73-62-65-72"
+    },
+    {
+      "pos": "T4",
+      "name": "Tommy Fleetwood",
+      "score": "273 (-7)",
+      "note": ""
+    },
+    {
+      "pos": "T4",
+      "name": "Scottie Scheffler",
+      "score": "273 (-7)",
+      "note": ""
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Wikipedia: 2026 Open Championship",
+      "url": "https://en.wikipedia.org/wiki/2026_Open_Championship"
+    },
+    {
+      "name": "CBS: Fox wins Claret Jug",
+      "url": "https://www.cbssports.com/golf/news/open-2026-leaderboard-live-updates-round-4-scores-results/live/"
+    }
+  ],
+  "format": "leaderboard",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "the-open-2026-royal-birkdale",
+  "headline": "Ryan Fox birdies the 18th and steals the Claret Jug",
+  "whyCareScore": 9.4,
+  "whyCareReason": "A 39-year-old New Zealander shoots 62-68 on the weekend, birdies the hardest hole on the property, and becomes the third Kiwi to win a men's major.",
+  "teaser": "Fox 270 (-10), Young 271, Burns 272. Royal Birkdale, 16-19 July. Birdie on 18. $3.2 million.",
+  "story": "Why this one matters: majors are supposed to belong to the names on the world ranking. Ryan Fox began Sunday two shots behind Sam Burns, tied Young with a birdie at 16, then birdied the 18th, the hardest hole of the week, from about 12 feet.\n\nRounds: 72-68-62-68 = 270, ten under. Cameron Young 64 on Sunday for 271. Burns 272. Tommy Fleetwood and Scottie Scheffler tied fourth at 273. The 62 on Saturday tied the men's major record for lowest round. CBS called the 36-hole comeback the largest by position to win a men's major.\n\nThird New Zealander to win a men's major. Purse $17.75 million, winner $3.2 million. Par 70, 7,223 yards, cut 141 (+1).",
+  "stakes": "The last men's major of 2026.",
+  "rivalryAngle": "Fox versus a leaderboard that included Scheffler, Fleetwood, Young, Burns.",
+  "home": "Ryan Fox",
+  "away": "Cameron Young",
+  "group": "OPEN",
+  "date": "2026-07-19",
+  "time": "18:00",
+  "venue": "Royal Birkdale",
+  "city": "Southport",
+  "status": "FINISHED",
+  "sport": "golf",
+  "competition": "the-open-2026"
+}

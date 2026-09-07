@@ -115,6 +115,7 @@
       "type": "string"
     },
     "matchday": {
+      "default": 0,
       "type": "number"
     },
     "date": {
@@ -241,6 +242,101 @@
         }
       ]
     },
+    "sport": {
+      "default": "soccer",
+      "type": "string"
+    },
+    "competition": {
+      "default": "world-cup-2026",
+      "type": "string"
+    },
+    "format": {
+      "default": "team-match",
+      "type": "string",
+      "enum": [
+        "team-match",
+        "singles",
+        "race",
+        "leaderboard"
+      ]
+    },
+    "season": {
+      "default": "",
+      "type": "string"
+    },
+    "roundLabel": {
+      "default": "",
+      "type": "string"
+    },
+    "resultSummary": {
+      "default": "",
+      "type": "string"
+    },
+    "leaderboard": {
+      "default": [],
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "pos": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "score": {
+            "type": "string"
+          },
+          "note": {
+            "default": "",
+            "type": "string"
+          }
+        },
+        "required": [
+          "pos",
+          "name",
+          "score"
+        ]
+      }
+    },
+    "tennisSets": {
+      "default": [],
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "p1": {
+            "type": "string"
+          },
+          "p2": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "p1",
+          "p2"
+        ]
+      }
+    },
+    "sources": {
+      "default": [],
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "url"
+        ]
+      }
+    },
     "$schema": {
       "type": "string"
     }
@@ -259,7 +355,6 @@
     "home",
     "away",
     "group",
-    "matchday",
     "date",
     "time",
     "venue",

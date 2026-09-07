@@ -1,25 +1,29 @@
 ---
 import WhyCareMeter from './WhyCareMeter.astro';
-import { fmtDate, getFlagUrl, stageLabel, scoreDisplay, optimizeImage } from '../lib/site';
+import CompetitorMark from './CompetitorMark.astro';
+import { fmtDate, stageLabel, scoreDisplay, optimizeImage, sportOf, sportBySlug } from '../lib/site';
 export interface Props { m: any; }
 const { m } = Astro.props;
 const isLive = m.status === 'LIVE';
 const played = m.status === 'FINISHED' || isLive;
 const score = scoreDisplay(m);
-const stage = stageLabel(m.group);
-const stageBadge = m.matchday <= 3 ? `${stage} · MD${m.matchday}` : stage;
+const sport = sportOf(m);
+const sportMeta = sportBySlug(sport);
+const stage = stageLabel(m.group, m.roundLabel);
+const stageBadge = m.roundLabel || (m.matchday && m.matchday <= 3 ? `${stage} · MD${m.matchday}` : stage);
 const bgImg = m.image ? optimizeImage(m.image, 960, 60) : '';
 ---
 <section class="relative overflow-hidden rounded-card border border-border/70 bg-surface shadow-card grain">
   <div class="absolute inset-0 pointer-events-none" style="background: var(--hero-bg)"></div>
   {bgImg && (
     <div class="absolute inset-0 opacity-[0.12] pointer-events-none">
-      <img src={bgImg} alt={`${m.home} vs ${m.away} at the 2026 World Cup`} class="w-full h-full object-cover" width="960" height="540" loading="eager" decoding="async" fetchpriority="high" />
+      <img src={bgImg} alt={`${m.home} vs ${m.away}`} class="w-full h-full object-cover" width="960" height="540" loading="eager" decoding="async" fetchpriority="high" />
     </div>
   )}
   <div class="relative p-6 sm:p-10">
     <div class="flex items-center gap-2 text-[11px] font-sans font-medium text-muted flex-wrap">
-      <span class="rounded-full bg-surface2 px-2.5 py-1">Featured Match</span>
+      <span class="rounded-full bg-surface2 px-2.5 py-1">On the desk</span>
+      {sportMeta && <span class="rounded-full bg-surface2 px-2.5 py-1">{sportMeta.label}</span>}
       <span class="rounded-full bg-surface2 px-2.5 py-1">{stageBadge}</span>
       {isLive && <span class="inline-flex items-center gap-1.5 rounded-full bg-coral px-2.5 py-1 text-white font-semibold"><span class="w-1.5 h-1.5 rounded-full bg-white pulse-glow"></span>LIVE</span>}
     </div>
@@ -30,14 +34,14 @@ const bgImg = m.image ? optimizeImage(m.image, 960, 60) : '';
         <p class="mt-4 text-base sm:text-lg text-muted font-sans max-w-xl">{m.teaser}</p>
         <div class="mt-6 flex flex-wrap items-center gap-3">
           <a href={`/match/${m.slug}`} class="inline-flex items-center gap-2 h-11 rounded-btn bg-pitch px-5 font-sans font-medium text-white hover:bg-pitch2 transition-colors" data-testid="hero-read-cta">Read the story <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
-          <a href="/fixtures" class="inline-flex items-center h-11 rounded-btn border border-border px-5 font-sans font-medium hover:bg-surface2 transition-colors">All fixtures</a>
+          {sportMeta && <a href={sportMeta.href} class="inline-flex items-center h-11 rounded-btn border border-border px-5 font-sans font-medium hover:bg-surface2 transition-colors">{sportMeta.label} desk</a>}
         </div>
       </div>
       <div class="lg:col-span-2">
         <div class="rounded-card border border-border bg-bg/60 backdrop-blur p-5">
           <div class="flex items-center justify-between gap-4">
             <div class="text-center flex-1">
-              <img src={getFlagUrl(m.homeCode)} alt={m.home} class="w-10 h-7 mx-auto" loading="lazy" width="40" height="28" />
+              <div class="flex justify-center"><CompetitorMark name={m.home} code={m.homeCode} sport={sport} size="md" /></div>
               <div class="mt-1 font-head font-semibold text-sm">{m.home}</div>
             </div>
             {played && score ? (
@@ -49,7 +53,7 @@ const bgImg = m.image ? optimizeImage(m.image, 960, 60) : '';
               <div class="text-center"><div class="font-head font-semibold text-muted">{m.time}</div><div class="text-[11px] text-muted font-sans">{fmtDate(m.date)}</div></div>
             )}
             <div class="text-center flex-1">
-              <img src={getFlagUrl(m.awayCode)} alt={m.away} class="w-10 h-7 mx-auto" loading="lazy" width="40" height="28" />
+              <div class="flex justify-center"><CompetitorMark name={m.away} code={m.awayCode} sport={sport} size="md" /></div>
               <div class="mt-1 font-head font-semibold text-sm">{m.away}</div>
             </div>
           </div>

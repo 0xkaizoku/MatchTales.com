@@ -2,26 +2,26 @@
   "slug": "france-vs-england-md8",
   "headline": "England Thrash France 6-4 in Wild Third-Place Classic",
   "whyCareScore": 8.6,
-  "whyCareReason": "Pride match turned goal fest: England crush France 6-4 in Miami for third place at World Cup 2026.",
-  "teaser": "England leave Hard Rock Stadium with bronze after a breathtaking 6-4 win over France in the third-place play-off.",
-  "story": "Miami was never going to feel like a final, but it still felt like a World Cup night. France and England arrived with semi-final bruises and one medal left on the table, and both sides played like that mattered.\n\nWhat followed was the highest-scoring third-place match in World Cup history. England struck early and often, but France refused to fold. The game swung in waves: a burst of England goals, a French response, then another English surge. Defences dissolved as both teams chased the podium.\n\nWhen the whistle confirmed 6-4, England had third place, ten goals and a statement performance. France's long run ends fourth, still proud of a tournament that saw them reach the final week.",
+  "whyCareReason": "Pride match turned history: England 6-4 France in Miami, Bukayo Saka with a hat-trick, England's best finish since 1966.",
+  "teaser": "England leave Hard Rock Stadium with bronze after a 6-4 win over France. Saka scored three. FIFA called it barely believable.",
+  "story": "Miami was never going to feel like a final. It still produced the highest-scoring third-place match in World Cup history.\n\nEngland's scorers, from FIFA and the Wikipedia knockout record: Declan Rice 3', Ezri Konsa 18', Bukayo Saka 37', 45+1' and 87' from the penalty spot, Jude Bellingham 90+8'. France: Kylian Mbappe 48' and 66', Bradley Barcola 54', Ousmane Dembele 90+6'. Saka's hat-trick sat inside a ten-goal night.\n\nEngland take bronze, their best tournament finish since 1966. France finish fourth after a semi-final loss to Spain.",
   "stakes": "Third place at the 2026 World Cup. Ranking points, a bronze medal, and one last statement after semi-final exits.",
   "rivalryAngle": "Familiar European rivals with club-level connections meeting again when only pride and a podium place remained.",
   "funFacts": [
+    "Bukayo Saka scored a hat-trick in the bronze final.",
     "The 6-4 scoreline is the highest-scoring third-place match in World Cup history.",
-    "The match produced more goals than the entire semi-final round combined.",
-    "Hard Rock Stadium hosted its second major knockout night of final week."
+    "England's finish is their best at a World Cup since 1966."
   ],
   "keyPlayers": [
     {
-      "name": "Harry Kane",
+      "name": "Bukayo Saka",
       "team": "England",
-      "hook": "Led the line with a brace and forced France into desperate defending throughout."
+      "hook": "Hat-trick, including a penalty at 87'. FIFA's bronze-final headline."
     },
     {
       "name": "Kylian Mbappe",
       "team": "France",
-      "hook": "Scored twice but could not drag France back from the English onslaught."
+      "hook": "Two goals (48', 66') in a losing 6-4. The night still ran through him."
     }
   ],
   "headToHead": "Recent tournament meetings have been decided by fine margins until this thrashing rewrote the record books.",
@@ -45,12 +45,18 @@
   "venue": "Hard Rock Stadium",
   "city": "Miami",
   "status": "FINISHED",
-  "homeScore": 6,
-  "awayScore": 4,
+  "homeScore": 4,
+  "awayScore": 6,
   "marquee": true,
   "liveMinute": null,
   "decidedBy": null,
   "homePen": null,
   "awayPen": null,
-  "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+  "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200",
+  "sport": "soccer",
+  "competition": "world-cup-2026",
+  "sources": [
+    { "name": "FIFA: final tournament standings", "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings" },
+    { "name": "Wikipedia: 2026 World Cup knockout stage", "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_knockout_stage" }
+  ]
 }

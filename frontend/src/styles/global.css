@@ -129,3 +129,500 @@ h1, h2, h3, h4, .font-head {
   to { opacity: 1; transform: translateY(0); }
 }
 .fade-up { animation: fadeUp 0.5s cubic-bezier(0.2,0.8,0.2,1) both; }
+
+/* Six-sport mosaic: tennis is the live tile, soccer is not the default. */
+.dir-grid {
+  display: grid;
+  gap: 0.85rem;
+  grid-template-columns: 1fr;
+}
+@media (min-width: 768px) {
+  .dir-grid {
+    grid-template-columns: repeat(6, 1fr);
+  }
+  .dir-tile[data-span='hero'] { grid-column: span 4; min-height: 18.5rem; }
+  .dir-tile[data-span='side'] { grid-column: span 2; min-height: 18.5rem; }
+  .dir-tile[data-span='half'] { grid-column: span 3; min-height: 14rem; }
+}
+
+.dir-tile {
+  --sport-hue: var(--pitch);
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  display: flex;
+  flex-direction: column;
+  min-height: 13rem;
+  padding: 1.15rem 1.2rem 1.15rem;
+  border-radius: var(--r-card);
+  border: 1px solid hsl(var(--border) / 0.85);
+  background: hsl(var(--surface));
+  color: inherit;
+  text-decoration: none;
+  transform: translateY(0) scale(1);
+  transition:
+    transform 220ms cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 220ms cubic-bezier(0.22, 1, 0.36, 1),
+    border-color 200ms ease;
+  animation: dirRise 520ms cubic-bezier(0.22, 1, 0.36, 1) both;
+  animation-delay: calc(var(--i, 0) * 55ms);
+}
+.dir-tile .motif {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.38;
+  z-index: 0;
+}
+.dir-tile:hover,
+.dir-tile:focus-visible {
+  transform: translateY(-5px) scale(1.012);
+  border-color: hsl(var(--sport-hue) / 0.55);
+  box-shadow: 0 14px 36px hsl(var(--sport-hue) / 0.16);
+}
+.dir-tile:active {
+  transform: translateY(-1px) scale(0.995);
+  transition-duration: 100ms;
+}
+.dir-tile::before {
+  content: '';
+  position: absolute;
+  inset: auto -20% -40% -20%;
+  height: 70%;
+  background: radial-gradient(closest-side, hsl(var(--sport-hue) / 0.22), transparent 72%);
+  transform: translateY(18%) scale(0.92);
+  opacity: 0.85;
+  pointer-events: none;
+  z-index: 0;
+  transition: transform 280ms cubic-bezier(0.22, 1, 0.36, 1), opacity 200ms ease;
+}
+.dir-tile:hover::before,
+.dir-tile:focus-visible::before {
+  transform: translateY(0) scale(1.08);
+  opacity: 1;
+}
+.dir-tile:hover .motif,
+.dir-tile:focus-visible .motif { opacity: 0.62; }
+.dir-tile > *:not(.motif) { position: relative; z-index: 1; }
+.dir-tile[data-sport='tennis'] .dir-pulse {
+  animation: pulseGlow 1.6s ease-in-out infinite;
+}
+
+@keyframes dirRise {
+  from { transform: translateY(10px); }
+  to { transform: translateY(0); }
+}
+
+.sport-shell { --sport-hue: var(--pitch); }
+.sport-hero {
+  position: relative;
+  overflow: hidden;
+  border-radius: var(--r-card);
+  border: 1px solid hsl(var(--border) / 0.8);
+  background:
+    radial-gradient(900px circle at 12% 0%, hsl(var(--sport-hue) / 0.22), transparent 50%),
+    hsl(var(--surface));
+}
+.sport-hero .motif {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.42;
+}
+.sport-shell[data-sport='f1'] .sport-hero {
+  background:
+    radial-gradient(700px circle at 80% 10%, hsl(var(--sport-hue) / 0.28), transparent 48%),
+    hsl(var(--surface));
+}
+
+.bar-fill {
+  height: 100%;
+  transform-origin: left center;
+  transform: scaleX(var(--p, 0));
+  background: hsl(var(--sport-hue));
+  animation: barIn 700ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+@keyframes barIn {
+  from { transform: scaleX(0); }
+}
+
+.motif-orbit {
+  animation: orbit 14s linear infinite;
+  transform-origin: center;
+}
+.motif-dash {
+  stroke-dasharray: 8 10;
+  animation: dashmove 1.2s linear infinite;
+}
+.motif-bounce {
+  animation: bouncey 1.7s cubic-bezier(0.22, 1, 0.36, 1) infinite;
+}
+.motif-spin {
+  animation: spinslow 9s linear infinite;
+  transform-origin: center;
+}
+.motif.is-off * { animation-play-state: paused; }
+@keyframes orbit {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+@keyframes dashmove {
+  to { stroke-dashoffset: -36; }
+}
+@keyframes bouncey {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-7px); }
+}
+@keyframes spinslow {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.pg { margin-top: 2rem; }
+.pg-frame {
+  border: 1px solid hsl(var(--border) / 0.8);
+  border-radius: var(--r-card);
+  background: hsl(var(--surface));
+  padding: 1.25rem 1.15rem 1.35rem;
+}
+.pg-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 1.1rem;
+}
+.pg-live {
+  font-family: 'Space Grotesk', ui-sans-serif, system-ui, sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: hsl(var(--sport-hue));
+}
+.pg-foot, .pg-archive {
+  margin-top: 0.85rem;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 12px;
+  color: hsl(var(--muted));
+}
+.pg-archive a { color: hsl(var(--accent-sky)); }
+.pg-archive a:hover { text-decoration: underline; }
+
+.court-board {
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: 1fr;
+}
+@media (min-width: 768px) {
+  .court-board { grid-template-columns: 1fr auto 1fr; align-items: stretch; }
+}
+.draw-label {
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: hsl(var(--muted));
+  margin-bottom: 0.5rem;
+}
+.draw-slot {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  text-align: left;
+  gap: 0.15rem;
+  padding: 0.85rem 0.95rem;
+  margin-bottom: 0.5rem;
+  border-radius: 12px;
+  border: 1px solid hsl(var(--border) / 0.85);
+  background: hsl(var(--bg));
+  cursor: pointer;
+  transition: transform 180ms cubic-bezier(0.22, 1, 0.36, 1), border-color 180ms ease, background-color 180ms ease;
+}
+.draw-slot:hover, .draw-slot:focus-visible, .draw-slot.is-on {
+  transform: translateY(-3px);
+  border-color: hsl(var(--sport-hue) / 0.55);
+  background: hsl(var(--surface-2));
+}
+.draw-names { font-family: 'Space Grotesk', ui-sans-serif, sans-serif; font-weight: 600; }
+.draw-vs { font-size: 11px; color: hsl(var(--muted)); }
+.court-net {
+  display: none;
+  width: 10px;
+  position: relative;
+}
+@media (min-width: 768px) {
+  .court-net { display: block; }
+  .court-net span {
+    position: absolute;
+    inset: 1.5rem 4px 0.5rem;
+    background: hsl(var(--sport-hue) / 0.55);
+    border-radius: 99px;
+  }
+}
+.pg-panel {
+  margin-top: 0.85rem;
+  padding: 0.9rem 1rem;
+  border-radius: 12px;
+  background: hsl(var(--surface-2));
+  animation: dirRise 280ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+.pg-panel-note { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 14px; }
+.pg-panel-link {
+  display: inline-block;
+  margin-top: 0.45rem;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  color: hsl(var(--sport-hue));
+}
+
+.field-board {
+  position: relative;
+  min-height: 11rem;
+  border-radius: 12px;
+  overflow: hidden;
+  color: hsl(var(--sport-hue) / 0.55);
+  background: hsl(var(--sport-hue) / 0.08);
+}
+.field-lines { width: 100%; height: 11rem; display: block; }
+.kick-clock {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-content: center;
+  text-align: center;
+  color: hsl(var(--fg));
+}
+.slate { margin-top: 1rem; display: grid; gap: 0.5rem; }
+.slate-row {
+  display: grid;
+  gap: 0.15rem;
+  padding: 0.85rem 1rem;
+  border-radius: 12px;
+  border: 1px solid hsl(var(--border) / 0.85);
+  background: hsl(var(--bg));
+  text-decoration: none;
+  color: inherit;
+  transition: transform 180ms cubic-bezier(0.22, 1, 0.36, 1), border-color 180ms ease;
+}
+.slate-row:hover, .slate-row:focus-visible, .slate-row.is-on {
+  transform: translateX(4px);
+  border-color: hsl(var(--sport-hue) / 0.5);
+}
+.slate-when, .slate-note { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 12px; color: hsl(var(--muted)); }
+
+.seg {
+  display: inline-flex;
+  padding: 3px;
+  border-radius: 999px;
+  border: 1px solid hsl(var(--border));
+  background: hsl(var(--bg));
+}
+.seg-btn {
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  border: 0;
+  background: transparent;
+  color: hsl(var(--muted));
+  cursor: pointer;
+  transition: background-color 160ms ease, color 160ms ease;
+}
+.seg-btn.is-on {
+  background: hsl(var(--sport-hue));
+  color: #fff;
+}
+.f1-arm {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.85rem;
+  margin-bottom: 1rem;
+}
+.f1-lights { display: flex; gap: 0.45rem; }
+.f1-lights span {
+  width: 14px;
+  height: 14px;
+  border-radius: 99px;
+  background: hsl(220 10% 38% / 0.45);
+  transform: scale(0.92);
+}
+.f1-lights.is-go span {
+  animation: lightOn 180ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+.f1-lights.is-go span:nth-child(1) { animation-delay: 0ms; }
+.f1-lights.is-go span:nth-child(2) { animation-delay: 180ms; }
+.f1-lights.is-go span:nth-child(3) { animation-delay: 360ms; }
+.f1-lights.is-go span:nth-child(4) { animation-delay: 540ms; }
+.f1-lights.is-go span:nth-child(5) { animation-delay: 720ms; }
+.f1-lights.is-out span {
+  animation: none;
+  background: hsl(220 10% 38% / 0.25);
+  transform: scale(0.85);
+}
+@keyframes lightOn {
+  from { transform: scale(0.8); background: hsl(220 10% 38% / 0.45); }
+  to { transform: scale(1); background: hsl(0 78% 52%); }
+}
+.arm-btn {
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 0.4rem 0.85rem;
+  border-radius: 999px;
+  border: 1px solid hsl(var(--sport-hue) / 0.5);
+  background: transparent;
+  color: hsl(var(--sport-hue));
+  cursor: pointer;
+  transition: transform 140ms cubic-bezier(0.22, 1, 0.36, 1), background-color 160ms ease;
+}
+.arm-btn:hover, .arm-btn:focus-visible { background: hsl(var(--sport-hue) / 0.1); }
+.arm-btn:active { transform: scale(0.97); }
+.arm-btn:disabled { opacity: 0.6; cursor: wait; }
+.grid-row {
+  display: grid;
+  grid-template-columns: 1.5rem 1fr auto;
+  gap: 0.35rem 0.7rem;
+  align-items: center;
+  padding: 0.55rem 0;
+  border-bottom: 1px solid hsl(var(--border) / 0.6);
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 14px;
+}
+.grid-row:last-child { border-bottom: 0; }
+.grid-pos { color: hsl(var(--muted)); }
+.grid-track {
+  grid-column: 1 / -1;
+  height: 6px;
+  border-radius: 99px;
+  background: hsl(var(--border) / 0.7);
+  overflow: hidden;
+}
+
+.pl-table { border-top: 1px solid hsl(var(--border) / 0.7); }
+.pl-row {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  width: 100%;
+  padding: 0.55rem 0.15rem;
+  border-bottom: 1px solid hsl(var(--border) / 0.55);
+  background: transparent;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 160ms ease, transform 160ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+.pl-row:hover, .pl-row:focus-visible, .pl-row.is-on {
+  background: hsl(var(--surface-2));
+  transform: translateX(3px);
+}
+.pl-gd {
+  width: 56px;
+  height: 6px;
+  border-radius: 99px;
+  background: hsl(var(--border) / 0.7);
+  overflow: hidden;
+}
+
+.scorecards {
+  display: grid;
+  gap: 0.75rem;
+}
+@media (min-width: 768px) {
+  .scorecards { grid-template-columns: 1fr 1fr 1fr; }
+}
+.scorecard {
+  display: flex;
+  flex-direction: column;
+  padding: 1.1rem 1rem 1rem;
+  border-radius: 12px;
+  border: 1px solid hsl(var(--border) / 0.85);
+  background: hsl(var(--bg));
+  text-decoration: none;
+  color: inherit;
+  min-height: 11rem;
+  transition: transform 200ms cubic-bezier(0.22, 1, 0.36, 1), border-color 180ms ease;
+}
+.scorecard:hover, .scorecard:focus-visible, .scorecard.is-on {
+  transform: translateY(-4px);
+  border-color: hsl(var(--sport-hue) / 0.55);
+}
+.score-event {
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: hsl(var(--muted));
+}
+.score-name { margin-top: 0.55rem; font-family: 'Space Grotesk', sans-serif; font-weight: 600; }
+.score-num {
+  margin-top: auto;
+  padding-top: 1rem;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 2.4rem;
+  font-weight: 600;
+  letter-spacing: -0.03em;
+  color: hsl(var(--sport-hue));
+  line-height: 1;
+}
+.score-empty { color: hsl(var(--muted)); font-size: 1.6rem; }
+.score-line { margin-top: 0.4rem; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 12px; color: hsl(var(--muted)); }
+
+.bracket { display: grid; gap: 0.55rem; }
+.series {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  gap: 0.5rem;
+  align-items: center;
+  width: 100%;
+  padding: 0.7rem 0.75rem;
+  border-radius: 12px;
+  border: 1px solid hsl(var(--border) / 0.85);
+  background: hsl(var(--bg));
+  cursor: pointer;
+  text-align: left;
+  transition: transform 180ms cubic-bezier(0.22, 1, 0.36, 1), border-color 180ms ease;
+}
+.series:hover, .series:focus-visible, .series.is-on {
+  transform: translateY(-3px);
+  border-color: hsl(var(--sport-hue) / 0.5);
+}
+.seed-pill {
+  display: grid;
+  grid-template-columns: 1.4rem 1fr;
+  gap: 0.15rem 0.45rem;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 13px;
+}
+.seed-pill b { font-family: 'Space Grotesk', sans-serif; color: hsl(var(--sport-hue)); }
+.seed-pill em { grid-column: 2; font-style: normal; font-size: 11px; color: hsl(var(--muted)); }
+.series-vs { font-size: 11px; color: hsl(var(--muted)); }
+
+@media (hover: hover) and (pointer: fine) {
+  .dir-tile { will-change: transform; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .dir-tile,
+  .dir-tile:hover,
+  .dir-tile:focus-visible,
+  .bar-fill,
+  .motif-orbit,
+  .motif-dash,
+  .motif-bounce,
+  .motif-spin,
+  .draw-slot,
+  .slate-row,
+  .scorecard,
+  .series,
+  .pl-row,
+  .f1-lights span,
+  .dir-tile[data-sport='tennis'] .dir-pulse {
+    animation: none !important;
+    transition: none !important;
+    transform: none !important;
+  }
+}

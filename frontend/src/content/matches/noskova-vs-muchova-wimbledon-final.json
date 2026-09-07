@@ -1,0 +1,85 @@
+{
+  "funFacts": [
+    "Five championship points missed, sixth converted.",
+    "Youngest women's Wimbledon champion since 2011.",
+    "Noskova also won the Berlin Open in June."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Linda Noskova",
+      "team": "Czechia",
+      "hook": "First Slam, 6-2 5-7 6-3."
+    },
+    {
+      "name": "Karolina Muchova",
+      "team": "Czechia",
+      "hook": "Saved five championship points, still lost."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "wimbledon",
+    "noskova",
+    "muchova"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "",
+  "roundLabel": "Women's final",
+  "resultSummary": "Noskova 6-2, 5-7, 6-3 Muchova",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "6",
+      "p2": "2"
+    },
+    {
+      "p1": "5",
+      "p2": "7"
+    },
+    {
+      "p1": "6",
+      "p2": "3"
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC: Noskova beats Muchova",
+      "url": "https://www.bbc.com/sport/tennis/articles/ce37x57gv49o"
+    },
+    {
+      "name": "The Athletic: Wimbledon women's final",
+      "url": "https://www.nytimes.com/athletic/7437108/2026/07/11/wimbledon-final-karolina-muchova-linda-noskova-result-analysis/"
+    }
+  ],
+  "format": "singles",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "noskova-vs-muchova-wimbledon-final",
+  "headline": "Noskova wastes five championship points, then wins Wimbledon anyway",
+  "whyCareScore": 9.6,
+  "whyCareReason": "A 21-year-old from a village of a thousand people becomes the youngest women's Wimbledon champion since Kvitova in 2011.",
+  "teaser": "Linda Noskova def. Karolina Muchova 6-2, 5-7, 6-3. All-Czech final. First Slam. Converted the sixth championship point.",
+  "story": "Why this one matters: Wimbledon finals are supposed to belong to the names you already know. On 11 July the names were Czech, seeded 9 and 10, and friends.\n\nNoskova led 6-2, 5-2. Muchova won five games in a row, saved five championship points, forced a decider. Noskova reset and won 6-3 in the third, converting a sixth championship point with a service winner after an ace. BBC, The Athletic and CBS all logged the same score: 6-2, 5-7, 6-3.\n\nShe is 21. Youngest women's champion here since Petra Kvitova in 2011. First Slam. She also won Berlin on the grass before she arrived. Prize money around $4.8 million, nearly doubling her career on-court earnings.",
+  "stakes": "A first major, an all-Czech final, a new name on the board.",
+  "rivalryAngle": "Friends, same country, opposite sides of Centre Court.",
+  "home": "Linda Noskova",
+  "away": "Karolina Muchova",
+  "group": "GS",
+  "date": "2026-07-11",
+  "time": "14:00",
+  "venue": "Centre Court",
+  "city": "Wimbledon",
+  "status": "FINISHED",
+  "sport": "tennis",
+  "competition": "wimbledon-2026"
+}

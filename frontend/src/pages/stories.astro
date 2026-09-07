@@ -18,8 +18,8 @@ const reportPreview = matchReports.slice(0, 18);
 const schema = [
   {
     '@type': 'CollectionPage',
-    name: 'World Cup 2026 Stories',
-    description: 'Long-form World Cup 2026 storytelling and match reports.',
+    name: 'MatchTales Stories',
+    description: 'Why-it-matters blogs across tennis, football, Formula 1, soccer, golf and basketball.',
     url: `${SITE.url}/stories`,
     isPartOf: { '@id': `${SITE.url}/#website` },
   },
@@ -33,9 +33,9 @@ const schema = [
 ];
 ---
 <BaseLayout
-  title="Stories | World Cup 2026 Long Reads"
-  description="Long-form World Cup 2026 storytelling: match reports, greatest upsets, legends saying goodbye, rivalries and host-nation tales."
-  keywords="World Cup 2026 stories, match reports, football long reads, rivalries"
+  title="Stories | Why this match matters"
+  description="Mini blogs and match reports: World Cup archive, Premier League, US Open, The Open, NFL kickoff, NBA Finals, WNBA, Formula 1."
+  keywords="MatchTales stories, why this match matters, World Cup 2026, Premier League, US Open, F1"
   schema={schema}
   image={featured?.image}
   imageAlt={featured?.title || 'World Cup 2026 stories on MatchTales'}
@@ -44,7 +44,16 @@ const schema = [
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
     <header class="mt-8">
       <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">Stories</h1>
-      <p class="mt-2 text-muted font-sans max-w-2xl">Deep reads and match reports from the 2026 World Cup. Subscribe via <a href="/rss.xml" class="text-sky hover:underline underline-offset-2">RSS</a>.</p>
+      <p class="mt-2 text-muted font-sans max-w-2xl">The why, then the score. Tennis, football, F1, soccer, golf, basketball. Subscribe via <a href="/rss.xml" class="text-sky hover:underline underline-offset-2">RSS</a>.</p>
+      <div class="mt-4 flex flex-wrap gap-2">
+        <a href="/stories" class="px-3 py-1 rounded-full border border-border text-[12px] font-sans hover:bg-surface2">All</a>
+        <a href="/sport/tennis" class="px-3 py-1 rounded-full border border-border text-[12px] font-sans hover:bg-surface2">Tennis</a>
+        <a href="/sport/football" class="px-3 py-1 rounded-full border border-border text-[12px] font-sans hover:bg-surface2">Football</a>
+        <a href="/sport/f1" class="px-3 py-1 rounded-full border border-border text-[12px] font-sans hover:bg-surface2">F1</a>
+        <a href="/sport/soccer" class="px-3 py-1 rounded-full border border-border text-[12px] font-sans hover:bg-surface2">Soccer</a>
+        <a href="/sport/golf" class="px-3 py-1 rounded-full border border-border text-[12px] font-sans hover:bg-surface2">Golf</a>
+        <a href="/sport/basketball" class="px-3 py-1 rounded-full border border-border text-[12px] font-sans hover:bg-surface2">Basketball</a>
+      </div>
     </header>
 
     {featured && (

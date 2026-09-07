@@ -1,0 +1,113 @@
+{
+  "funFacts": [
+    "Started 19th, won.",
+    "First Italian Monza winner since 1966.",
+    "Drivers' lead 66 points after the race."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kimi Antonelli",
+      "team": "Mercedes",
+      "hook": "P19 to P1, seventh win, 267 points."
+    },
+    {
+      "name": "Pierre Gasly",
+      "team": "Alpine",
+      "hook": "First career pole, finished seventh."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "f1",
+    "monza",
+    "antonelli"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Italian Grand Prix",
+  "resultSummary": "1 Antonelli (P19), 2 Russell +3.857, 3 Verstappen +14.718. Lead 267-201.",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Kimi Antonelli",
+      "score": "1:51:15.281",
+      "note": "Mercedes, started P19"
+    },
+    {
+      "pos": "2",
+      "name": "George Russell",
+      "score": "+3.857",
+      "note": "Mercedes"
+    },
+    {
+      "pos": "3",
+      "name": "Max Verstappen",
+      "score": "+14.718",
+      "note": "Red Bull"
+    },
+    {
+      "pos": "4",
+      "name": "Lando Norris",
+      "score": "+19.056",
+      "note": "McLaren"
+    },
+    {
+      "pos": "5",
+      "name": "Oscar Piastri",
+      "score": "+19.253",
+      "note": "McLaren"
+    },
+    {
+      "pos": "6",
+      "name": "Lewis Hamilton",
+      "score": "+24.655",
+      "note": "Ferrari"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "BBC Italian GP results",
+      "url": "https://www.bbc.co.uk/sport/formula1/2026/italian-grand-prix/results"
+    },
+    {
+      "name": "Wikipedia: 2026 Italian Grand Prix",
+      "url": "https://en.wikipedia.org/wiki/2026_Italian_Grand_Prix"
+    },
+    {
+      "name": "ESPN 2026 results recap",
+      "url": "https://www.espn.com/f1/story/_/id/49535228/formula-1-2026-results-kimi-antonelli-lewis-hamilton-george-russell-winners-podium-final-positions-every-race"
+    }
+  ],
+  "format": "race",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "italian-gp-2026",
+  "headline": "Antonelli wins Monza from 19th. First Italian home win since 1966.",
+  "whyCareScore": 9.9,
+  "whyCareReason": "Grid 19, chequered flag 1. Pierre Gasly's first pole. A Mercedes one-two. A 66-point lead. History in the grandstands.",
+  "teaser": "6 September. Antonelli 1:51:15.281 from P19. Russell +3.857, Verstappen +14.718. First Italian Monza winner since Ludovico Scarfiotti.",
+  "story": "Why this one matters: home races are supposed to go wrong. This one went from nineteenth to first, and Italy had not done that at Monza since Ludovico Scarfiotti in 1966. No one had won from as far back as 19th since John Watson from 22nd at Long Beach in 1983.\n\nPierre Gasly took Alpine's first pole. Russell led by lap two. Antonelli climbed through a race that lasted 1:51:15.281 and passed his teammate late. Russell second by 3.857. Verstappen third by 14.718. Norris fourth, Piastri fifth, Hamilton sixth. Leclerc, Alonso and Stroll did not finish. Fastest lap Antonelli, 1:23.504. BBC, Wikipedia and ESPN agree on the classified order.\n\nChampionship: Antonelli 267, Russell 201, Hamilton 191, Norris 171, Leclerc 155. Constructors: Mercedes 468, Ferrari 346, McLaren 287. Seventh win of the season. Next is Madrid, a new circuit, 11-13 September.",
+  "stakes": "A home win, a 66-point lead, a constructors grip, a new track next week.",
+  "rivalryAngle": "Teammates at the front. Ferrari in the gravel. Italy in the grandstands.",
+  "home": "Kimi Antonelli",
+  "away": "George Russell",
+  "group": "F1",
+  "date": "2026-09-06",
+  "time": "14:00",
+  "venue": "Monza",
+  "city": "Monza",
+  "status": "FINISHED",
+  "sport": "f1",
+  "competition": "f1-2026"
+}

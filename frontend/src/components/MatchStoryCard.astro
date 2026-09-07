@@ -1,6 +1,8 @@
 ---
 import WhyCareMeter from './WhyCareMeter.astro';
-import { fmtDate, statusLabel, getFlagUrl, stageLabel, scoreDisplay, optimizeImage } from '../lib/site';
+import CompetitorMark from './CompetitorMark.astro';
+import SportChip from './SportChip.astro';
+import { fmtDate, statusLabel, stageLabel, scoreDisplay, optimizeImage, sportOf } from '../lib/site';
 export interface Props {
   m: any;
   featured?: boolean;
@@ -14,7 +16,8 @@ const d = m.data || m;
 const isLive = d.status === 'LIVE';
 const isFinished = d.status === 'FINISHED';
 const score = scoreDisplay(d);
-const stage = stageLabel(d.group);
+const sport = sportOf(d);
+const stage = stageLabel(d.group, d.roundLabel);
 const img = !compact && d.image ? optimizeImage(d.image, 640, 72) : '';
 const showImage = Boolean(img);
 ---
@@ -44,8 +47,9 @@ const showImage = Boolean(img);
   <div class:list={['p-4 sm:p-5', compact && 'py-3.5']}>
     <div class="flex items-center justify-between gap-2 mb-2">
       <span class="inline-flex items-center gap-1.5 text-[11px] font-sans font-medium text-muted">
+        <SportChip sport={sport} compact link={false} />
         <span class="rounded-full bg-surface2 px-2 py-0.5">{stage}</span>
-        {d.matchday != null && d.matchday <= 3 ? <span>MD{d.matchday}</span> : null}
+        {d.matchday > 0 && d.matchday <= 3 ? <span>MD{d.matchday}</span> : null}
       </span>
       {isLive ? (
         <span class="inline-flex items-center gap-1.5 text-[11px] font-sans font-semibold text-coral"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>LIVE</span>
@@ -57,11 +61,11 @@ const showImage = Boolean(img);
     <div class="flex items-center justify-between gap-3">
       <div class="flex-1 min-w-0">
         <div class="flex items-center gap-2">
-          <img src={getFlagUrl(d.homeCode, 20)} alt={`${d.home} flag`} class="w-5 h-3.5" loading="lazy" width="20" height="14" decoding="async" />
+          <CompetitorMark name={d.home} code={d.homeCode} sport={sport} size="sm" />
           <span class="font-head font-semibold truncate text-[15px] sm:text-base">{d.home}</span>
         </div>
         <div class="flex items-center gap-2 mt-1">
-          <img src={getFlagUrl(d.awayCode, 20)} alt={`${d.away} flag`} class="w-5 h-3.5" loading="lazy" width="20" height="14" decoding="async" />
+          <CompetitorMark name={d.away} code={d.awayCode} sport={sport} size="sm" />
           <span class="font-head font-semibold truncate text-[15px] sm:text-base">{d.away}</span>
         </div>
       </div>

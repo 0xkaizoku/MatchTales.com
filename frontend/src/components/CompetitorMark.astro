@@ -1,0 +1,18 @@
+---
+import { getFlagUrl, initials } from '../lib/site';
+export interface Props {
+  name: string;
+  code?: string | null;
+  sport?: string;
+  size?: 'sm' | 'md' | 'lg';
+}
+const { name, code, sport = 'soccer', size = 'md' } = Astro.props;
+const useFlag = sport === 'soccer' && !!code;
+const box = size === 'lg' ? 'w-12 h-8' : size === 'sm' ? 'w-5 h-3.5' : 'w-10 h-7';
+const tile = size === 'lg' ? 'w-12 h-8 text-xs' : size === 'sm' ? 'w-5 h-5 text-[8px]' : 'w-10 h-7 text-[10px]';
+---
+{useFlag ? (
+  <img src={getFlagUrl(code as string, size === 'sm' ? 20 : 40)} alt={`${name} flag`} class={`${box} object-cover`} loading="lazy" width={size === 'sm' ? 20 : 40} height={size === 'sm' ? 14 : 28} decoding="async" />
+) : (
+  <span class={`grid place-items-center ${tile} rounded-btn bg-surface2 font-head font-semibold text-muted`} aria-hidden="true">{initials(name)}</span>
+)}

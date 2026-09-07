@@ -1,0 +1,82 @@
+---
+export interface Props { sport: string; }
+const { sport } = Astro.props;
+---
+<svg class="motif w-full h-full" viewBox="0 0 400 180" fill="none" aria-hidden="true">
+  {sport === 'tennis' && (
+    <g stroke="hsl(var(--sport-hue))" stroke-width="1.4" opacity="0.75">
+      <rect x="48" y="16" width="304" height="148" rx="3" />
+      <rect x="78" y="16" width="244" height="148" />
+      <line x1="200" y1="16" x2="200" y2="164" />
+      <line x1="78" y1="90" x2="322" y2="90" />
+      <circle class="motif-bounce" cx="252" cy="52" r="7" fill="hsl(var(--sport-hue))" stroke="none" />
+    </g>
+  )}
+  {sport === 'football' && (
+    <g stroke="hsl(var(--sport-hue))" stroke-width="1.35" opacity="0.75">
+      <rect x="28" y="30" width="344" height="120" rx="8" />
+      <line x1="200" y1="30" x2="200" y2="150" />
+      {Array.from({ length: 9 }).map((_, i) => (
+        <line x1={52 + i * 32} y1="30" x2={52 + i * 32} y2="150" opacity="0.45" />
+      ))}
+      <ellipse class="motif-bounce" cx="200" cy="90" rx="14" ry="9" fill="hsl(var(--sport-hue) / 0.4)" />
+    </g>
+  )}
+  {sport === 'f1' && (
+    <g stroke="hsl(var(--sport-hue))" stroke-width="1.7" opacity="0.85">
+      <path class="motif-dash" d="M18 128 C 70 28, 150 168, 232 62 S 348 28, 392 96" />
+      <circle class="motif-orbit" cx="232" cy="62" r="5" fill="hsl(var(--sport-hue))" stroke="none" />
+      <g fill="hsl(var(--sport-hue))" stroke="none" opacity="0.9">
+        <circle cx="48" cy="36" r="4" />
+        <circle cx="66" cy="36" r="4" />
+        <circle cx="84" cy="36" r="4" />
+        <circle cx="102" cy="36" r="4" />
+        <circle cx="120" cy="36" r="4" />
+      </g>
+    </g>
+  )}
+  {sport === 'soccer' && (
+    <g stroke="hsl(var(--sport-hue))" stroke-width="1.4" opacity="0.75">
+      <rect x="36" y="18" width="328" height="144" rx="4" />
+      <rect x="36" y="52" width="48" height="76" />
+      <rect x="316" y="52" width="48" height="76" />
+      <circle cx="200" cy="90" r="26" />
+      <line x1="200" y1="18" x2="200" y2="162" />
+      <circle class="motif-bounce" cx="156" cy="62" r="6" fill="hsl(var(--sport-hue))" stroke="none" />
+    </g>
+  )}
+  {sport === 'golf' && (
+    <g stroke="hsl(var(--sport-hue))" stroke-width="1.5" opacity="0.8">
+      <path class="motif-dash" d="M36 148 Q 150 18 292 92 T 382 54" />
+      <circle cx="36" cy="148" r="4" fill="hsl(var(--sport-hue))" stroke="none" />
+      <circle class="motif-bounce" cx="292" cy="92" r="5" fill="hsl(var(--sport-hue))" stroke="none" />
+      <path d="M338 28 v36" />
+      <path d="M338 28 q18 8 0 18" fill="hsl(var(--sport-hue) / 0.35)" />
+    </g>
+  )}
+  {sport === 'basketball' && (
+    <g stroke="hsl(var(--sport-hue))" stroke-width="1.5" opacity="0.8">
+      <rect x="70" y="18" width="260" height="144" rx="4" />
+      <path d="M70 90 h260" opacity="0.4" />
+      <rect x="70" y="48" width="70" height="84" />
+      <rect x="260" y="48" width="70" height="84" />
+      <circle cx="200" cy="90" r="28" />
+      <circle class="motif-spin" cx="200" cy="90" r="7" fill="hsl(var(--sport-hue))" stroke="none" />
+    </g>
+  )}
+</svg>
+
+<script>
+  function pauseOffscreenMotifs() {
+    const nodes = document.querySelectorAll('.motif');
+    if (!nodes.length || !('IntersectionObserver' in window)) return;
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        entry.target.classList.toggle('is-off', !entry.isIntersecting);
+      });
+    }, { threshold: 0.08 });
+    nodes.forEach((n) => io.observe(n));
+  }
+  pauseOffscreenMotifs();
+  document.addEventListener('astro:after-swap', pauseOffscreenMotifs);
+</script>

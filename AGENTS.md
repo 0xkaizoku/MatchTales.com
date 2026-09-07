@@ -6,11 +6,13 @@ Welcome, AI Coding Agent! This file outlines the architecture, tech stack, rules
 
 ## 1. Project Overview
 
-**MatchTales** is a story-centric web platform for the **2026 FIFA World Cup**. Instead of just displaying scores, MatchTales focuses on the narrative context:
-*   **"Why Care" Scores & Reasons:** Editorial assessments of match stakes.
-*   **Narrative Match Stories:** Compelling pre-match previews and post-match write-ups.
-*   **Team Dossiers:** Historical contexts, key storylines, and X-factors.
-*   **Interactive Features:** Community hype walls, live second-screen companionship, live commentaries, and newsletter subscriptions.
+**MatchTales** is a story-centric web platform. It began as the narrative layer on the **2026 FIFA World Cup** and now covers soccer, tennis, golf, American football, basketball and Formula 1 with the same question: why does this one matter?
+*   **"Why Care" Scores & Reasons:** Editorial assessments of match, round and race stakes.
+*   **Narrative Stories:** Previews and write-ups locked to named sources. No invented scorers.
+*   **World Cup Archive:** 48 teams, 12 groups, completed 19 July 2026. Spain are champions.
+*   **Sport desks:** mosaic at `/sports`. Unique boards at `/sport/tennis`, `/sport/football`, `/sport/f1`, `/sport/soccer`, `/sport/golf`, `/sport/basketball`. Soccer is one desk, not the default.
+*   **Interactive Features:** Community hype walls, live second-screen companionship, newsletter subscriptions.
+*   **Site clock:** editorial today is `2026-09-08` in `frontend/src/data/sports.ts` (`SITE_TODAY`).
 
 ---
 
@@ -23,9 +25,9 @@ The project is split into two main directories:
 *   **Styling:** Tailwind CSS (Vanilla CSS & Tailwind config).
 *   **Data Layer:** Seed data loaded from `src/data/seed.json`.
 *   **Astro Content Collections:**
-    *   `matches` (`src/content/matches/*.json`): JSON metadata for match previews, stadiums, key players, and statistics.
-    *   `teams` (`src/content/teams/*.json`): Dossiers and tactical reviews for all 48 qualified countries.
-    *   `stories` (`src/content/stories/*.md`): Markdown long-form stories and match analyses.
+    *   `matches` (`src/content/matches/*.json`): Event JSON (World Cup plus other sports). Optional `sport`, `competition`, `format`, `sources`, `leaderboard`, `tennisSets`.
+    *   `teams` (`src/content/teams/*.json`): Dossiers for the 48 World Cup countries.
+    *   `stories` (`src/content/stories/*.md`): Markdown blogs. Optional `sport`, `sources`, `relatedSlug`. No em-dashes. No invented stats.
 *   **Flag Rendering Utility:** `getFlagUrl(code)` in [site.ts](file:///frontend/src/lib/site.ts) maps FIFA country codes to FlagCDN images (e.g., `gb-eng` for England, `gb-sct` for Scotland). Do **NOT** use raw system emojis for flags, as they fail to render on many platforms (e.g., Windows).
 
 ### Backend (`/backend`)

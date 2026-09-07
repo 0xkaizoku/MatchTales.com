@@ -1,0 +1,72 @@
+{
+  "funFacts": [
+    "Played 23 August 2026.",
+    "Brighton topped the table after matchweek one.",
+    "Villa have scored zero Premier League goals in three games."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Brighton press",
+      "team": "Brighton",
+      "hook": "The Athletic's note: Villa could not play out against it."
+    },
+    {
+      "name": "Aston Villa",
+      "team": "Aston Villa",
+      "hook": "Own goal, red card, 4-0."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "premier-league",
+    "brighton",
+    "villa"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026/27",
+  "roundLabel": "Matchweek 1",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "The Athletic: opening weekend",
+      "url": "https://www.nytimes.com/athletic/7535116/2026/08/25/premier-league-winners-losers-gameweek-one/"
+    },
+    {
+      "name": "BBC scores",
+      "url": "https://www.bbc.co.uk/sport/football/premier-league/scores-fixtures/2026-08"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 4,
+  "awayScore": 0,
+  "slug": "brighton-vs-aston-villa-mw1",
+  "headline": "Brighton 4-0 Aston Villa, and the table looks strange already",
+  "whyCareScore": 8.1,
+  "whyCareReason": "Opening weekend is supposed to be rust. Brighton put four past Villa and sat top of the real table.",
+  "teaser": "Own goal, a first-half red card, a high press that Villa could not play through. 4-0 at the Amex on 23 August.",
+  "story": "Why this one matters: Aston Villa are a European club with European habits. Brighton are the side that keeps teaching the league the same lesson. On 23 August the lesson was 4-0.\n\nThe Athletic's opening-weekend performance table put Brighton near the top and noted Villa's own goal, a first-half red card, and a maddening determination to play out against Brighton's press. Brighton finished matchweek one on top of the actual table too.\n\nThree weeks later Brighton have four points and eight goals. Villa have one point and zero goals. The 4-0 still explains both sentences.",
+  "stakes": "Opening-weekend geometry for two clubs with European ambitions.",
+  "rivalryAngle": "Press versus pride. Villa tried to play through it. They did not.",
+  "home": "Brighton",
+  "away": "Aston Villa",
+  "group": "PL",
+  "date": "2026-08-23",
+  "time": "14:00",
+  "venue": "American Express Stadium",
+  "city": "Brighton",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "premier-league-2026-27"
+}

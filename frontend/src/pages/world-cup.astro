@@ -1,0 +1,83 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import MatchStoryCard from '../components/MatchStoryCard.astro';
+import { getCollection } from 'astro:content';
+import { SITE, isWorldCup, optimizeImage } from '../lib/site';
+
+const matchEntries = await getCollection('matches');
+const matches = matchEntries.map((e) => e.data).filter((m) => isWorldCup(m));
+const finalMatch = matches.find((m) => (m.group || '').toUpperCase() === 'FINAL');
+const thirdPlace = matches.find((m) => (m.group || '').toUpperCase() === '3RD');
+const sf = matches.filter((m) => (m.group || '').toUpperCase() === 'SF').sort((a, b) => a.date.localeCompare(b.date));
+
+const stories = (await getCollection('stories'))
+  .map((e) => ({ slug: e.id, ...e.data, image: optimizeImage(e.data.image, 480, 70) }))
+  .filter((s) => (s.competition || '') === 'world-cup-2026' || s.category === 'Final Week' || s.category === 'Match Report')
+  .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())
+  .slice(0, 6);
+
+const schema = {
+  '@type': 'CollectionPage',
+  name: 'FIFA World Cup 2026 archive',
+  description: 'Spain won the 2026 World Cup 1-0 after extra time against Argentina at MetLife Stadium on 19 July.',
+  url: `${SITE.url}/world-cup`,
+};
+---
+<BaseLayout
+  title="World Cup 2026 archive | Spain are champions"
+  description="Spain beat Argentina 1-0 after extra time at MetLife on 19 July. Ferran Torres scored in the 106th minute. England took bronze 6-4 over France."
+  keywords="World Cup 2026, Spain champions, Argentina, Ferran Torres, England bronze"
+  schema={schema}
+>
+  <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
+    <header class="mt-8 max-w-2xl">
+      <p class="text-[11px] font-sans font-medium text-pitch uppercase tracking-wide">Tournament complete · 11 Jun to 19 Jul 2026</p>
+      <h1 class="mt-2 font-head text-3xl sm:text-4xl font-semibold tracking-tight">Spain are world champions.</h1>
+      <p class="mt-3 text-muted font-sans text-lg leading-7">
+        Ferran Torres scored in the 106th minute at MetLife Stadium. Spain 1-0 Argentina after extra time. England took bronze 6-4 over France the night before, Bukayo Saka with a hat-trick.
+      </p>
+    </header>
+
+    <div class="mt-6 flex flex-wrap gap-2 text-sm font-sans">
+      <a href="/fixtures" class="px-3 py-1.5 rounded-full border border-border hover:bg-surface2">All fixtures</a>
+      <a href="/groups" class="px-3 py-1.5 rounded-full border border-border hover:bg-surface2">Groups</a>
+      <a href="/teams" class="px-3 py-1.5 rounded-full border border-border hover:bg-surface2">Teams</a>
+      <a href="/leaderboard" class="px-3 py-1.5 rounded-full border border-border hover:bg-surface2">Leaderboards</a>
+      <a href="/stories/spain-world-champions-2026-wrap" class="px-3 py-1.5 rounded-full bg-pitch text-white">Final week wrap</a>
+    </div>
+
+    <section class="mt-12">
+      <h2 class="font-head text-xl font-semibold tracking-tight mb-4">The podium</h2>
+      <div class="grid sm:grid-cols-2 gap-4">
+        {thirdPlace && <MatchStoryCard m={thirdPlace} />}
+        {finalMatch && <MatchStoryCard m={finalMatch} eager />}
+      </div>
+    </section>
+
+    {sf.length > 0 && (
+      <section class="mt-12">
+        <h2 class="font-head text-xl font-semibold tracking-tight mb-4">Semi-finals</h2>
+        <div class="grid sm:grid-cols-2 gap-4">
+          {sf.map((m) => <MatchStoryCard m={m} />)}
+        </div>
+      </section>
+    )}
+
+    {stories.length > 0 && (
+      <section class="mt-12 mb-10">
+        <h2 class="font-head text-xl font-semibold tracking-tight mb-4">From the archive</h2>
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+          {stories.map((s) => (
+            <a href={`/stories/${s.slug}`} class="group rounded-card overflow-hidden border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow">
+              <div class="p-4">
+                <span class="text-[11px] font-sans font-medium text-pitch uppercase tracking-wide">{s.category}</span>
+                <h3 class="mt-1 font-head font-semibold leading-snug group-hover:underline decoration-pitch decoration-2 underline-offset-4">{s.title}</h3>
+                <p class="mt-1.5 text-sm text-muted font-sans line-clamp-2">{s.excerpt}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+  </main>
+</BaseLayout>

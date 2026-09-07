@@ -1,14 +1,14 @@
 ---
-import { SITE } from '../lib/site';
 const path = Astro.url.pathname;
 const links = [
-  { href: '/fixtures', label: 'Fixtures', id: 'fixtures' },
-  { href: '/groups', label: 'Groups', id: 'groups' },
-  { href: '/leaderboard', label: 'Leaderboards', id: 'leaderboard' },
-  { href: '/teams', label: 'Teams', id: 'teams' },
+  { href: '/sports', label: 'Sports', id: 'sports' },
   { href: '/stories', label: 'Stories', id: 'stories' },
+  { href: '/live', label: 'Live', id: 'live' },
 ];
-const isActive = (href: string) => path === href || path.startsWith(href + '/');
+const isActive = (href: string) => {
+  if (href === '/sports') return path === '/sports' || path.startsWith('/sport/');
+  return path === href || path.startsWith(href + '/');
+};
 ---
 <header class="sticky top-0 z-50 border-b border-border/70 backdrop-blur supports-[backdrop-filter]:bg-bg/75 bg-bg/95">
   <div class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">

@@ -4,24 +4,24 @@
   "whyCareScore": 10.0,
   "whyCareReason": "The biggest night of the expanded World Cup: Spain outlast Argentina 1-0 after extra time at MetLife Stadium.",
   "teaser": "Spain are world champions. A 1-0 extra-time win over Argentina at MetLife ends the first 48-team World Cup.",
-  "story": "MetLife Stadium held the weight of a final that had been building for a month. Spain brought the same midfield distances and wide threat that carried them through every knockout round. Argentina brought champion steel and the aura of a side chasing back-to-back titles.\n\nRegulation time finished scoreless after two hours of relentless defensive discipline from both sides. Extra time belonged to Spain's fresher legs and the moment of individual quality that finals demand. The single goal finally cracked Argentina's shape, and La Roja managed the closing minutes with the calm that has defined their tournament.\n\nWhen the whistle went at 1-0 after extra time, Spain had their first World Cup since 2010. Argentina's bid for back-to-back titles ends on the biggest stage, still one of the great stories of this generation.",
+  "story": "MetLife Stadium held a final that had been building for a month. Spain brought the midfield distances that carried them through every knockout round. Argentina brought champion steel and a chase for back-to-back titles.\n\nRegulation finished 0-0. Spain outshot Argentina by a huge margin. Argentina, down to ten after Enzo Fernandez was sent off, did not register a shot in normal time. Extra time finally broke. Nico Williams headed a ball into space. Ferran Torres, on as a substitute, scored in the 106th minute.\n\nSpain 1-0 after extra time. Second World Cup, first since 2010. Attendance 80,663. Referee Slavko Vincic. Torres was man of the match. Emiliano Martinez made 11 saves, a World Cup final record.",
   "stakes": "The FIFA World Cup. Spain lift the trophy. Argentina finish runners-up.",
   "rivalryAngle": "Style clash at the absolute peak: Spanish positional control against Argentina's structure, moments of magic and final experience.",
   "funFacts": [
-    "This was the first World Cup final hosted in the New York / New Jersey metro area.",
-    "Spain's win is their first world title since South Africa 2010.",
-    "Argentina had not lost a World Cup final knockout night since before their 2022 triumph until MetLife."
+    "Ferran Torres scored in the 106th minute from a Nico Williams header.",
+    "Spain conceded one goal in eight matches, a record for a World Cup champion.",
+    "Spain became the first nation to hold the men's and women's World Cups at the same time."
   ],
   "keyPlayers": [
     {
-      "name": "Lamine Yamal",
+      "name": "Ferran Torres",
       "team": "Spain",
-      "hook": "The breakout wide star who stretched Argentina's rest defence all night and created the winner."
+      "hook": "Came on in the 62nd minute and scored the only goal, in the 106th, from a Nico Williams header."
     },
     {
-      "name": "Lautaro Martinez",
+      "name": "Emiliano Martinez",
       "team": "Argentina",
-      "hook": "Argentina's centre-forward spearhead who forced Spain into their toughest defensive hour."
+      "hook": "Eleven saves in a World Cup final, a record, and still on the losing side."
     }
   ],
   "headToHead": "Major-tournament meetings between Spain and Argentina remain rare at this stage, which only raised the intrigue of the MetLife final.",
@@ -52,5 +52,12 @@
   "decidedBy": "aet",
   "homePen": null,
   "awayPen": null,
-  "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+  "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200",
+  "sport": "soccer",
+  "competition": "world-cup-2026",
+  "sources": [
+    { "name": "FIFA: final tournament standings", "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings" },
+    { "name": "CBS News: Spain 1-0 Argentina", "url": "https://www.cbsnews.com/news/2026-fifa-world-cup-final-spain-argentina-sunday/" },
+    { "name": "Wikipedia: 2026 FIFA World Cup final", "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_final" }
+  ]
 }

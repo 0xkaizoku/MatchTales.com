@@ -1,0 +1,91 @@
+{
+  "funFacts": [
+    "Scheffler 264 (-16), three clear of Hovland.",
+    "Second FedEx Cup in three years.",
+    "Passed Tiger Woods in PGA Tour career earnings, per AP."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Scottie Scheffler",
+      "team": "USA",
+      "hook": "Sunday 66 from three back."
+    },
+    {
+      "name": "Viktor Hovland",
+      "team": "Norway",
+      "hook": "Led Sunday, finished three back."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "fedex-cup",
+    "scheffler",
+    "east-lake"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "",
+  "roundLabel": "Tour Championship",
+  "resultSummary": "Scheffler 264 (-16), Hovland 267, Gerard 268",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Scottie Scheffler",
+      "score": "-16",
+      "note": "65-67-66-66"
+    },
+    {
+      "pos": "2",
+      "name": "Viktor Hovland",
+      "score": "-13",
+      "note": ""
+    },
+    {
+      "pos": "3",
+      "name": "Ryan Gerard",
+      "score": "-12",
+      "note": ""
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Sky Sports: Tour Championship",
+      "url": "https://www.skysports.com/golf/news/12176/13578960/tour-championship-scottie-scheffler-holds-off-viktor-hovland-to-claim-fedexcup-title-and-break-more-pga-tour-records"
+    },
+    {
+      "name": "AP via OCR: Scheffler FedEx Cup",
+      "url": "https://www.ocregister.com/2026/08/30/scottie-scheffler-wins-2nd-fedex-cup-tops-tiger-woods-in-pga-tour-career-earnings/"
+    }
+  ],
+  "format": "leaderboard",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "tour-championship-2026-east-lake",
+  "headline": "Scheffler wins East Lake, a second FedEx Cup, and passes Tiger's PGA earnings",
+  "whyCareScore": 8.8,
+  "whyCareReason": "World No. 1 starts Sunday three back of Hovland, shoots 66, wins by three at 16 under, and takes the $10 million.",
+  "teaser": "Scheffler 264 (-16), Hovland -13, Ryan Gerard -12. Second FedEx Cup in three years. Career PGA earnings past Tiger Woods.",
+  "story": "Why this one matters: people spent a summer asking if Scottie Scheffler had loosened his grip. He answered across three playoff events: St. Jude, a miss at the BMW (Wyndham Clark won that), then East Lake.\n\nFinal rounds 65-67-66-66 = 264, 16 under. Viktor Hovland 267. Ryan Gerard 268. Scheffler made up three shots in four holes on Sunday, a 5-iron to 2 inches on the second, a 25-foot birdie on the fourth. First time he posted the low 72-hole score at the Tour Championship. When he won in 2024 he started with a two-shot lead under the old starting-strokes format.\n\n$10 million first prize from a $40 million purse. AP: he moved past Tiger Woods for most PGA Tour career earnings. Second FedEx Cup (2024, 2026). Rory McIlroy still has the most titles with three.",
+  "stakes": "Season-long trophy, Player of the Year geometry, the earnings line.",
+  "rivalryAngle": "Scheffler versus Hovland on a Sunday at East Lake.",
+  "home": "Scottie Scheffler",
+  "away": "Viktor Hovland",
+  "group": "PGA",
+  "date": "2026-08-30",
+  "time": "18:00",
+  "venue": "East Lake Golf Club",
+  "city": "Atlanta",
+  "status": "FINISHED",
+  "sport": "golf",
+  "competition": "fedex-cup-2026"
+}

@@ -1,6 +1,15 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
+const source = z.object({ name: z.string(), url: z.string() });
+const leaderboardRow = z.object({
+  pos: z.string(),
+  name: z.string(),
+  score: z.string(),
+  note: z.string().optional().default(''),
+});
+const tennisSet = z.object({ p1: z.string(), p2: z.string() });
+
 const matches = defineCollection({
   loader: glob({ pattern: '*.json', base: './src/content/matches' }),
   schema: z.object({
@@ -23,7 +32,7 @@ const matches = defineCollection({
     homeFlag: z.string().optional().nullable(),
     awayFlag: z.string().optional().nullable(),
     group: z.string(),
-    matchday: z.number(),
+    matchday: z.number().optional().default(0),
     date: z.string(),
     time: z.string(),
     venue: z.string(),
@@ -37,6 +46,15 @@ const matches = defineCollection({
     decidedBy: z.string().optional().nullable(),
     homePen: z.union([z.number(), z.string()]).nullable().optional(),
     awayPen: z.union([z.number(), z.string()]).nullable().optional(),
+    sport: z.string().optional().default('soccer'),
+    competition: z.string().optional().default('world-cup-2026'),
+    format: z.enum(['team-match', 'singles', 'race', 'leaderboard']).optional().default('team-match'),
+    season: z.string().optional().default(''),
+    roundLabel: z.string().optional().default(''),
+    resultSummary: z.string().optional().default(''),
+    leaderboard: z.array(leaderboardRow).optional().default([]),
+    tennisSets: z.array(tennisSet).optional().default([]),
+    sources: z.array(source).optional().default([]),
   }),
 });
 
@@ -50,6 +68,10 @@ const stories = defineCollection({
     image: z.string(),
     readingTime: z.number().default(5),
     pubDate: z.coerce.date(),
+    sport: z.string().optional().default('soccer'),
+    competition: z.string().optional().default(''),
+    relatedSlug: z.string().optional().default(''),
+    sources: z.array(source).optional().default([]),
   }),
 });
 

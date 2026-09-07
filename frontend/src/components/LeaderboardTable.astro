@@ -1,0 +1,31 @@
+---
+export interface Props {
+  rows: { pos: string; name: string; score: string; note?: string }[];
+  nameLabel?: string;
+  scoreLabel?: string;
+}
+const { rows, nameLabel = 'Name', scoreLabel = 'Score' } = Astro.props;
+---
+<div class="overflow-x-auto rounded-card border border-border/80">
+  <table class="w-full text-sm font-sans">
+    <thead class="bg-surface2 text-[11px] uppercase tracking-wide text-muted">
+      <tr>
+        <th class="text-left font-medium px-3 py-2 w-12">Pos</th>
+        <th class="text-left font-medium px-3 py-2">{nameLabel}</th>
+        <th class="text-right font-medium px-3 py-2">{scoreLabel}</th>
+      </tr>
+    </thead>
+    <tbody>
+      {rows.map((r) => (
+        <tr class="border-t border-border/70">
+          <td class="px-3 py-2 tabular-nums text-muted">{r.pos}</td>
+          <td class="px-3 py-2 font-medium">
+            {r.name}
+            {r.note && <span class="block text-[11px] font-normal text-muted">{r.note}</span>}
+          </td>
+          <td class="px-3 py-2 text-right tabular-nums font-head">{r.score}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</div>

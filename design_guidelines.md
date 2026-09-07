@@ -1,7 +1,7 @@
 {
   "product": {
     "name": "MatchTales",
-    "positioning": "Contextual Match Storyteller & Why Care Hub for the 2026 FIFA World Cup",
+    "positioning": "Contextual match storyteller and Why Care hub across soccer, tennis, golf, football, basketball and Formula 1, with a complete World Cup 2026 archive",
     "brand_attributes": [
       "editorial",
       "premium",

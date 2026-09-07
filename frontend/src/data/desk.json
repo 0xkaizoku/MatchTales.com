@@ -1,0 +1,51 @@
+{
+  "asOf": "2026-09-08",
+  "premierLeagueTable": [
+    { "pos": 1, "team": "Manchester City", "p": 3, "w": 3, "d": 0, "l": 0, "gf": 7, "ga": 2, "gd": 5, "pts": 9 },
+    { "pos": 2, "team": "Arsenal", "p": 3, "w": 3, "d": 0, "l": 0, "gf": 6, "ga": 1, "gd": 5, "pts": 9 },
+    { "pos": 3, "team": "Hull City", "p": 3, "w": 2, "d": 1, "l": 0, "gf": 3, "ga": 0, "gd": 3, "pts": 7 },
+    { "pos": 4, "team": "Chelsea", "p": 3, "w": 2, "d": 0, "l": 1, "gf": 8, "ga": 7, "gd": 1, "pts": 6 },
+    { "pos": 5, "team": "Brentford", "p": 3, "w": 1, "d": 2, "l": 0, "gf": 5, "ga": 2, "gd": 3, "pts": 5 },
+    { "pos": 6, "team": "Liverpool", "p": 3, "w": 1, "d": 2, "l": 0, "gf": 6, "ga": 4, "gd": 2, "pts": 5 },
+    { "pos": 7, "team": "Newcastle United", "p": 3, "w": 1, "d": 2, "l": 0, "gf": 6, "ga": 4, "gd": 2, "pts": 5 },
+    { "pos": 8, "team": "Everton", "p": 3, "w": 1, "d": 2, "l": 0, "gf": 5, "ga": 3, "gd": 2, "pts": 5 },
+    { "pos": 9, "team": "Leeds United", "p": 3, "w": 1, "d": 2, "l": 0, "gf": 3, "ga": 2, "gd": 1, "pts": 5 },
+    { "pos": 10, "team": "Brighton", "p": 3, "w": 1, "d": 1, "l": 1, "gf": 8, "ga": 5, "gd": 3, "pts": 4 },
+    { "pos": 18, "team": "Tottenham Hotspur", "p": 3, "w": 0, "d": 1, "l": 2, "gf": 0, "ga": 5, "gd": -5, "pts": 1 },
+    { "pos": 19, "team": "Fulham", "p": 3, "w": 0, "d": 0, "l": 3, "gf": 4, "ga": 7, "gd": -3, "pts": 0 },
+    { "pos": 20, "team": "Coventry City", "p": 3, "w": 0, "d": 0, "l": 3, "gf": 0, "ga": 5, "gd": -5, "pts": 0 }
+  ],
+  "f1Drivers": [
+    { "pos": 1, "name": "Kimi Antonelli", "team": "Mercedes", "pts": 267 },
+    { "pos": 2, "name": "George Russell", "team": "Mercedes", "pts": 201 },
+    { "pos": 3, "name": "Lewis Hamilton", "team": "Ferrari", "pts": 191 },
+    { "pos": 4, "name": "Lando Norris", "team": "McLaren", "pts": 171 },
+    { "pos": 5, "name": "Charles Leclerc", "team": "Ferrari", "pts": 155 }
+  ],
+  "f1Constructors": [
+    { "pos": 1, "name": "Mercedes", "pts": 468 },
+    { "pos": 2, "name": "Ferrari", "pts": 346 },
+    { "pos": 3, "name": "McLaren", "pts": 287 }
+  ],
+  "wnbaSeeds": [
+    { "seed": 1, "team": "Minnesota Lynx", "record": "31-9" },
+    { "seed": 2, "team": "Golden State Valkyries", "record": "29-11" },
+    { "seed": 3, "team": "Las Vegas Aces", "record": "27-13" },
+    { "seed": 4, "team": "Atlanta Dream", "record": "26-14" },
+    { "seed": 5, "team": "Indiana Fever", "record": "26-14" },
+    { "seed": 6, "team": "New York Liberty", "record": "24-16" },
+    { "seed": 7, "team": "Washington Mystics", "record": "24-16" },
+    { "seed": 8, "team": "Dallas Wings", "record": "24-16" }
+  ],
+  "nflWeek1": [
+    { "date": "2026-09-09", "time": "8:20 p.m. ET", "home": "Seattle Seahawks", "away": "New England Patriots", "note": "NBC. Super Bowl LX rematch." },
+    { "date": "2026-09-10", "time": "8:35 p.m. ET", "home": "Los Angeles Rams", "away": "San Francisco 49ers", "note": "Melbourne Cricket Ground. Netflix." },
+    { "date": "2026-09-14", "time": "8:15 p.m. ET", "home": "Kansas City Chiefs", "away": "Denver Broncos", "note": "Monday Night Football. ESPN/ABC." }
+  ],
+  "usOpenQF": [
+    { "draw": "Men", "p1": "Carlos Alcaraz", "p2": "Ben Shelton", "status": "Quarter-final" },
+    { "draw": "Men", "p1": "Frances Tiafoe", "p2": "Alex Michelsen", "status": "Quarter-final" },
+    { "draw": "Women", "p1": "Aryna Sabalenka", "p2": "Linda Noskova", "status": "Quarter-final" },
+    { "draw": "Women", "p1": "Jessica Pegula", "p2": "Emma Navarro", "status": "Quarter-final" }
+  ]
+}

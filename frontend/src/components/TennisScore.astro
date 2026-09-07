@@ -1,0 +1,28 @@
+---
+export interface Props {
+  p1: string;
+  p2: string;
+  sets: { p1: string; p2: string }[];
+}
+const { p1, p2, sets } = Astro.props;
+---
+<div class="overflow-x-auto rounded-card border border-border/80">
+  <table class="w-full text-sm font-sans">
+    <thead class="bg-surface2 text-[11px] uppercase tracking-wide text-muted">
+      <tr>
+        <th class="text-left font-medium px-3 py-2">Player</th>
+        {sets.map((_, i) => <th class="text-center font-medium px-2 py-2 w-10">{i + 1}</th>)}
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-t border-border/70">
+        <td class="px-3 py-2 font-head font-semibold">{p1}</td>
+        {sets.map((s) => <td class="text-center tabular-nums font-head px-2 py-2">{s.p1}</td>)}
+      </tr>
+      <tr class="border-t border-border/70">
+        <td class="px-3 py-2 font-head font-semibold">{p2}</td>
+        {sets.map((s) => <td class="text-center tabular-nums font-head px-2 py-2">{s.p2}</td>)}
+      </tr>
+    </tbody>
+  </table>
+</div>

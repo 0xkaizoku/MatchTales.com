@@ -1,0 +1,91 @@
+{
+  "funFacts": [
+    "Antonelli's sixth win of 2026.",
+    "Race time 1:24:42.479.",
+    "Leclerc second, Verstappen third."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kimi Antonelli",
+      "team": "Mercedes",
+      "hook": "Won Spa, sixth of the year."
+    },
+    {
+      "name": "Charles Leclerc",
+      "team": "Ferrari",
+      "hook": "Second, 1.952 behind."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "f1",
+    "spa",
+    "antonelli"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Belgian Grand Prix",
+  "resultSummary": "1 Antonelli, 2 Leclerc +1.952, 3 Verstappen +11.586",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Kimi Antonelli",
+      "score": "1:24:42.479",
+      "note": "Mercedes"
+    },
+    {
+      "pos": "2",
+      "name": "Charles Leclerc",
+      "score": "+1.952",
+      "note": "Ferrari"
+    },
+    {
+      "pos": "3",
+      "name": "Max Verstappen",
+      "score": "+11.586",
+      "note": "Red Bull"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Sky Sports F1 results",
+      "url": "https://www.skysports.com/f1/results"
+    },
+    {
+      "name": "RaceFans Belgian GP",
+      "url": "https://www.racefans.net/category/race-results"
+    }
+  ],
+  "format": "race",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "belgian-gp-2026",
+  "headline": "Antonelli wins Spa: sixth of the season, the lead grows again",
+  "whyCareScore": 8.5,
+  "whyCareReason": "A week after Silverstone's 15th, the championship leader wins Belgium. Mercedes in the new-rules year keeps answering.",
+  "teaser": "19 July, Spa. Antonelli 1:24:42.479. Leclerc +1.952, Verstappen +11.586. Sixth win of 2026.",
+  "story": "Why this one matters: title races are not won at Silverstone when you finish 15th. They are not lost there either if you win Spa seven days later.\n\nKimi Antonelli won the Belgian Grand Prix in 1:24:42.479. Charles Leclerc was 1.952 behind. Max Verstappen 11.586 behind. RaceFans logged it as his sixth victory of 2026 and another extension of the championship lead.\n\nThe 2026 regulations were billed as the biggest changes ever. Mercedes has been the answer. Antonelli has been the name on the answers.",
+  "stakes": "Restoring a championship lead after a home-soil wreck at Silverstone.",
+  "rivalryAngle": "Antonelli versus Leclerc, one week after the Ferrari win in Britain.",
+  "home": "Kimi Antonelli",
+  "away": "Charles Leclerc",
+  "group": "F1",
+  "date": "2026-07-19",
+  "time": "14:00",
+  "venue": "Spa-Francorchamps",
+  "city": "Spa",
+  "status": "FINISHED",
+  "sport": "f1",
+  "competition": "f1-2026"
+}

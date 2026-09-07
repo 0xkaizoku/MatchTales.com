@@ -1,10 +1,12 @@
 import seed from '../data/seed.json';
+import { SITE_TODAY, sportOf, isWorldCup, initials, SPORTS, sportBySlug } from '../data/sports';
+export { SITE_TODAY, sportOf, isWorldCup, initials, SPORTS, sportBySlug };
 
 export const SITE = {
   name: 'MatchTales',
-  title: 'MatchTales | Why This Match Matters | World Cup 2026',
+  title: 'MatchTales | Why This Match Matters',
   description:
-    'MatchTales is the story layer on top of the 2026 FIFA World Cup. Why-Care scores, rivalries, player legacies, iconic moments and human-written stories for every match.',
+    'MatchTales is the story layer on top of the score. Why-Care scores, rivalries and human-written reports across tennis, football, Formula 1, soccer, golf and basketball.',
   url: 'https://www.matchtales.com',
   // Social crawlers prefer raster OG images over SVG
   ogImage:
@@ -12,7 +14,7 @@ export const SITE = {
   twitter: '@matchtales',
   locale: 'en_US',
   keywords:
-    'World Cup 2026, FIFA World Cup, match previews, match reports, group standings, Why Care score, football stories, soccer narratives',
+    'why this match matters, US Open tennis, NFL kickoff, Formula 1, Premier League, The Open, WNBA, World Cup 2026 archive, MatchTales',
 };
 
 export const BACKEND_URL =
@@ -73,7 +75,8 @@ export function statusLabel(status: string) {
 }
 
 /** Stage label for group letter or knockout code. */
-export function stageLabel(group: string) {
+export function stageLabel(group: string, roundLabel?: string) {
+  if (roundLabel) return roundLabel;
   const g = (group || '').toUpperCase();
   if (g === 'R32') return 'Round of 32';
   if (g === 'R16') return 'Round of 16';
@@ -81,6 +84,13 @@ export function stageLabel(group: string) {
   if (g === 'SF') return 'Semi-final';
   if (g === '3RD' || g === 'THIRD') return 'Third place';
   if (g === 'FINAL') return 'Final';
+  if (g === 'PL') return 'Premier League';
+  if (g === 'NFL') return 'NFL';
+  if (g === 'NBA') return 'NBA';
+  if (g === 'WNBA') return 'WNBA';
+  if (g === 'ATP' || g === 'WTA' || g === 'GS') return 'Grand Slam';
+  if (g === 'PGA' || g === 'OPEN') return 'Golf';
+  if (g === 'F1') return 'Formula 1';
   if (g.length === 1) return `Group ${g}`;
   return group;
 }

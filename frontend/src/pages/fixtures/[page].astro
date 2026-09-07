@@ -2,13 +2,13 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import MatchStoryCard from '../../components/MatchStoryCard.astro';
 import { getCollection } from 'astro:content';
-import { data, SITE, stageLabel } from '../../lib/site';
+import { data, SITE, stageLabel, isWorldCup } from '../../lib/site';
 
 const PER_PAGE = 72;
 
 export async function getStaticPaths() {
   const entries = await getCollection('matches');
-  const total = entries.length;
+  const total = entries.filter((e) => isWorldCup(e.data)).length;
   const totalPages = Math.max(1, Math.ceil(total / 72));
   // Page 1 lives at /fixtures; only emit 2..N
   return Array.from({ length: Math.max(0, totalPages - 1) }, (_, i) => ({
@@ -18,7 +18,7 @@ export async function getStaticPaths() {
 
 const pageNum = Math.max(2, parseInt(Astro.params.page || '2', 10) || 2);
 const entries = await getCollection('matches');
-const matches = entries.map((e) => e.data).sort((a, b) => {
+const matches = entries.map((e) => e.data).filter((m) => isWorldCup(m)).sort((a, b) => {
   const order: any = { LIVE: 0, UPCOMING: 1, FINISHED: 2 };
   if (order[a.status] !== order[b.status]) return order[a.status] - order[b.status];
   return a.date.localeCompare(b.date) || a.time.localeCompare(b.time);

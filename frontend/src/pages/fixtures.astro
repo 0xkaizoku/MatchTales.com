@@ -2,13 +2,13 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import MatchStoryCard from '../components/MatchStoryCard.astro';
 import { getCollection } from 'astro:content';
-import { data, SITE, stageLabel } from '../lib/site';
+import { data, SITE, stageLabel, isWorldCup } from '../lib/site';
 
 /** Cap per page so chrome + match links stay ≤100 for crawlers. */
 const PER_PAGE = 72;
 
 const entries = await getCollection('matches');
-const matches = entries.map((e) => e.data).sort((a, b) => {
+const matches = entries.map((e) => e.data).filter((m) => isWorldCup(m)).sort((a, b) => {
   const order: any = { LIVE: 0, UPCOMING: 1, FINISHED: 2 };
   if (order[a.status] !== order[b.status]) return order[a.status] - order[b.status];
   return a.date.localeCompare(b.date) || a.time.localeCompare(b.time);
@@ -51,8 +51,8 @@ const schema = [
       <nav class="text-[13px] font-sans text-muted flex items-center gap-1.5 mb-3" aria-label="Breadcrumb">
         <a href="/" class="hover:text-fg">Home</a><span>/</span><span class="text-fg">Fixtures</span>
       </nav>
-      <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">Fixtures & Schedule</h1>
-      <p class="mt-2 text-muted font-sans max-w-2xl">Every match, ranked and explained. Filter by stage or team - flip spoiler-free mode if you're catching up.</p>
+      <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">World Cup fixtures</h1>
+      <p class="mt-2 text-muted font-sans max-w-2xl">The 2026 archive. Spain are champions. Filter by stage or team. For club soccer, tennis, golf, football, basketball and F1, use the sport desks.</p>
     </header>
 
     <div class="mt-6 rounded-card border border-border/80 bg-surface p-4 shadow-card sticky top-16 z-30" data-testid="fixture-filters">

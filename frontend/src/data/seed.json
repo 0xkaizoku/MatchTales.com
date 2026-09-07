@@ -8,7 +8,7 @@
       "Canada"
     ],
     "startDate": "2026-06-11",
-    "today": "2026-07-19",
+    "today": "2026-09-08",
     "tagline": "Why this match matters.",
     "groupsCount": 12,
     "teamsCount": 48
@@ -3714,8 +3714,8 @@
     },
     {
       "slug": "france-vs-england-md8",
-      "home": "England",
-      "away": "France",
+      "home": "France",
+      "away": "England",
       "group": "3RD",
       "matchday": 8,
       "date": "2026-07-18",
@@ -3723,8 +3723,8 @@
       "venue": "Hard Rock Stadium",
       "city": "Miami",
       "status": "FINISHED",
-      "homeScore": 6,
-      "awayScore": 4,
+      "homeScore": 4,
+      "awayScore": 6,
       "marquee": true,
       "liveMinute": null,
       "decidedBy": null,

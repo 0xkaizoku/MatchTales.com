@@ -26,6 +26,37 @@
       "type": "string",
       "format": "date-time"
     },
+    "sport": {
+      "default": "soccer",
+      "type": "string"
+    },
+    "competition": {
+      "default": "",
+      "type": "string"
+    },
+    "relatedSlug": {
+      "default": "",
+      "type": "string"
+    },
+    "sources": {
+      "default": [],
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "url"
+        ]
+      }
+    },
     "$schema": {
       "type": "string"
     }

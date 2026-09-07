@@ -1,0 +1,72 @@
+{
+  "funFacts": [
+    "Sabalenka is a two-time defending US Open champion.",
+    "Noskova won Wimbledon 6-2, 5-7, 6-3 against Muchova.",
+    "QF scheduled on Ashe 8 September."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Aryna Sabalenka",
+      "team": "Belarus",
+      "hook": "Chasing a third straight US Open title."
+    },
+    {
+      "name": "Linda Noskova",
+      "team": "Czechia",
+      "hook": "Reigning Wimbledon champion, first Slam already in the bag."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "us-open",
+    "sabalenka",
+    "noskova"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "",
+  "roundLabel": "Women's quarter-final",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Reuters US Open QF preview",
+      "url": "https://www.reuters.com/sports/tennis/shelton-next-up-alcaraz-tackles-all-american-gauntlet-path-us-open-final-2026-09-07/"
+    },
+    {
+      "name": "usopen.org Sunday recap",
+      "url": "https://www.usopen.org/en_US/news/articles/2026-09-06/who_won_on_sunday_at_the_2026_us_open_results_and_highlights.html"
+    }
+  ],
+  "format": "singles",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "sabalenka-vs-noskova-uso-qf",
+  "headline": "Sabalenka vs Noskova: three-peat against the new Wimbledon champion",
+  "whyCareScore": 9.1,
+  "whyCareReason": "Aryna Sabalenka is chasing a third straight US Open. Linda Noskova just won Wimbledon. They meet in the quarters.",
+  "teaser": "Ashe, 8 September daytime. Sabalenka beat Taylor Townsend 6-4, 6-3. Noskova is the reigning Wimbledon champion.",
+  "story": "Why this one matters: three-peats at this tournament do not grow on Flushing trees. Sabalenka is the two-time defending champion. Noskova is the woman who just took Centre Court in July.\n\nSabalenka beat Taylor Townsend 6-4, 6-3 on Sunday, a match that started with five straight breaks before the world No. 1 found a foothold. Noskova had to survive a tough last-16 emotionally, by her own words.\n\nThis is not a final. It is the match that decides whether the three-peat stays alive, and whether Wimbledon's new name is still standing in New York.",
+  "stakes": "A three-peat versus a first hard-court major run.",
+  "rivalryAngle": "The favourite versus the grass-court shock.",
+  "home": "Aryna Sabalenka",
+  "away": "Linda Noskova",
+  "group": "GS",
+  "date": "2026-09-08",
+  "time": "11:30",
+  "venue": "Arthur Ashe Stadium",
+  "city": "New York",
+  "status": "UPCOMING",
+  "sport": "tennis",
+  "competition": "us-open-2026"
+}

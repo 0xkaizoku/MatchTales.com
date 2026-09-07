@@ -1,0 +1,22 @@
+---
+import { sportBySlug, sportOf } from '../data/sports';
+export interface Props {
+  sport?: string;
+  compact?: boolean;
+  /** Set false when nested inside another link. */
+  link?: boolean;
+}
+const { sport, compact = false, link = true } = Astro.props;
+const meta = sportBySlug(sportOf({ sport }));
+const cls = [
+  'inline-flex items-center rounded-full font-sans font-medium',
+  compact ? 'bg-surface2 px-2 py-0.5 text-[10px] text-muted' : 'border border-border px-2.5 py-1 text-[11px] text-muted',
+  link ? 'hover:bg-surface2 transition-colors' : '',
+].filter(Boolean).join(' ');
+---
+{meta && link && (
+  <a href={meta.href} class={cls}>{meta.label}</a>
+)}
+{meta && !link && (
+  <span class={cls}>{meta.label}</span>
+)}

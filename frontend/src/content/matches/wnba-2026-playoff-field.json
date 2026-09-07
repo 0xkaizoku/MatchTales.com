@@ -1,0 +1,72 @@
+{
+  "funFacts": [
+    "Playoffs begin 27 September 2026.",
+    "Lynx 31-9, best record.",
+    "Four teams tied at 24-16 for seeds 6 through 8."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Minnesota Lynx",
+      "team": "Lynx",
+      "hook": "31-9, one-seed, clinched 9 August."
+    },
+    {
+      "name": "Golden State Valkyries",
+      "team": "Valkyries",
+      "hook": "29-11, two-seed in year two."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "wnba",
+    "lynx",
+    "playoffs"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Playoffs preview",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "WNBA.com standings",
+      "url": "https://www.wnba.com/standings"
+    },
+    {
+      "name": "Wikipedia: 2026 WNBA playoffs",
+      "url": "https://en.wikipedia.org/wiki/2026_WNBA_playoffs"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "wnba-2026-playoff-field",
+  "headline": "The WNBA field is set: Lynx 31-9, playoffs 27 September",
+  "whyCareScore": 8.6,
+  "whyCareReason": "September basketball in 2026 is the women's game. Eight teams, a 27 September start, Minnesota on top.",
+  "teaser": "Seeds: Lynx 31-9, Valkyries 29-11, Aces 27-13, Dream 26-14, Fever 26-14, Liberty 24-16, Mystics 24-16, Wings 24-16.",
+  "story": "Why this one matters: the NBA is in its offseason. The WNBA just locked an eight-team field and the playoffs begin 27 September. If you want basketball that still has a scoreboard in September, this is it.\n\nWNBA.com standings: Minnesota Lynx 31-9, Golden State Valkyries 29-11, Las Vegas Aces 27-13, Atlanta Dream 26-14, Indiana Fever 26-14, New York Liberty 24-16, Washington Mystics 24-16, Dallas Wings 24-16. First round is best of three. Semifinals best of five. Finals best of seven for the second time.\n\nThe Aces are the defending champions from 2025. The Lynx have the one-seed. The Valkyries, in year two, have the two-seed. Do not invent a 2026 champion. The games have not started.",
+  "stakes": "Home court, a one-seed, a 27 September start.",
+  "rivalryAngle": "Lynx versus a field that includes last year's champions and a second-year Valkyries side.",
+  "home": "Minnesota Lynx",
+  "away": "Playoff field",
+  "group": "WNBA",
+  "date": "2026-09-27",
+  "time": "19:00",
+  "venue": "Target Center",
+  "city": "Minneapolis",
+  "status": "UPCOMING",
+  "sport": "basketball",
+  "competition": "wnba-2026"
+}

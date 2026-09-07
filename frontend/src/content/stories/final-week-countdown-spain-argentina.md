@@ -6,6 +6,8 @@ excerpt: "A rest-day guide to the podium race: France vs England for bronze, the
 image: "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
 readingTime: 6
 pubDate: 2026-07-16
+sport: soccer
+competition: world-cup-2026
 ---
 
 ## The Quiet Between Storms
@@ -42,3 +44,7 @@ MetLife Stadium will host the crowning night of a tournament that stretched acro
 - **Bench impact**: bronze and final nights reward squads that can change a game after the hour.
 
 Two nights left. The stories are already written in outline. The scores still have to be lived.
+
+## Postscript, 20 July
+
+The scores arrived. England 6-4 France on 18 July, Saka hat-trick. Spain 1-0 Argentina after extra time on 19 July, Ferran Torres 106'. Read the wrap.

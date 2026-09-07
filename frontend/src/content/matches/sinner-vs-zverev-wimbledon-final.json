@@ -1,0 +1,89 @@
+{
+  "funFacts": [
+    "Sinner's second straight Wimbledon.",
+    "Fifth major overall, first of 2026.",
+    "First break of the match came at 5-3 in the third set."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Jannik Sinner",
+      "team": "Italy",
+      "hook": "Won the second-set breaker, then broke at 5-3 in the third."
+    },
+    {
+      "name": "Alexander Zverev",
+      "team": "Germany",
+      "hook": "Took the first-set breaker, could not find a second."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "wimbledon",
+    "sinner",
+    "zverev"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "",
+  "roundLabel": "Men's final",
+  "resultSummary": "Sinner 6-7 (7-9), 7-6 (7-2), 6-3, 6-4 Zverev",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "6",
+      "p2": "7"
+    },
+    {
+      "p1": "7",
+      "p2": "6"
+    },
+    {
+      "p1": "6",
+      "p2": "3"
+    },
+    {
+      "p1": "6",
+      "p2": "4"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CBS: Wimbledon 2026 winners",
+      "url": "https://www.cbssports.com/tennis/news/wimbledon-2026-results-winners-jannik-sinner-linda-noskova/live/"
+    },
+    {
+      "name": "Wikipedia: 2026 in tennis",
+      "url": "https://en.wikipedia.org/wiki/2026_in_tennis"
+    }
+  ],
+  "format": "singles",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "sinner-vs-zverev-wimbledon-final",
+  "headline": "Sinner beats Zverev in four: two tiebreaks, then the champion's weight",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Second straight Wimbledon, fifth major. Zverev had just won Roland Garros. Grass still belonged to Sinner.",
+  "teaser": "Jannik Sinner def. Alexander Zverev 6-7 (7-9), 7-6 (7-2), 6-3, 6-4. Championship point on a 23-shot rally.",
+  "story": "Why this one matters: Alexander Zverev arrived as the reigning French Open champion, looking for a Channel Slam. Jannik Sinner arrived as world No. 1, looking for a second straight Wimbledon and a first major of 2026 after an Australian Open semi loss to Djokovic and a French Open second-round exit with heat exhaustion.\n\nThe score, from CBS: 6-7 (7-9), 7-6 (7-2), 6-3, 6-4. First break of the match at 5-3 in the third. Championship point after a 23-shot rally, Sinner's forehand. He now has 100 major match wins.\n\nThe first two sets were serve. The last two were the favourite remembering who he is.",
+  "stakes": "A fifth Slam versus Zverev's first Wimbledon final.",
+  "rivalryAngle": "The two biggest first-strike games in men's tennis, on grass.",
+  "home": "Jannik Sinner",
+  "away": "Alexander Zverev",
+  "group": "GS",
+  "date": "2026-07-12",
+  "time": "14:00",
+  "venue": "Centre Court",
+  "city": "Wimbledon",
+  "status": "FINISHED",
+  "sport": "tennis",
+  "competition": "wimbledon-2026"
+}
