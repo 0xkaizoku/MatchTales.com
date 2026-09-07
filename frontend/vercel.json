@@ -65,5 +65,13 @@
       "source": "/api/(.*)",
       "destination": "/api/index.py"
     }
+  ],
+  "redirects": [
+    { "source": "/stories/how-matchtales-sources", "destination": "/stories", "permanent": true },
+    { "source": "/stories/how-matchtales-sources/", "destination": "/stories", "permanent": true },
+    { "source": "/stories/matchtales-after-the-world-cup", "destination": "/stories", "permanent": true },
+    { "source": "/stories/matchtales-after-the-world-cup/", "destination": "/stories", "permanent": true },
+    { "source": "/stories/july-to-september-2026-desk", "destination": "/stories", "permanent": true },
+    { "source": "/stories/july-to-september-2026-desk/", "destination": "/stories", "permanent": true }
   ]
 }

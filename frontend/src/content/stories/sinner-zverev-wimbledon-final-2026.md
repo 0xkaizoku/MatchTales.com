@@ -3,7 +3,7 @@ title: "Sinner's fifth major: two tiebreaks, then the champion's weight"
 subtitle: "6-7 (7-9), 7-6 (7-2), 6-3, 6-4. Zverev had Roland Garros. Sinner still had Wimbledon."
 category: "Mini blog"
 excerpt: "Jannik Sinner beat Alexander Zverev in four sets on 12 July for a second straight Wimbledon and a fifth Slam."
-image: "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1600&q=80"
 readingTime: 6
 pubDate: 2026-07-12
 sport: tennis

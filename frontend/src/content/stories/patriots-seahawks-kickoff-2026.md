@@ -3,7 +3,7 @@ title: "Why Patriots at Seahawks is the only NFL game that exists yet"
 subtitle: "Wednesday 9 September, 8:20 p.m. ET, NBC. Labor Day was as late as it can be. The rematch is the opener."
 category: "Preview"
 excerpt: "Week 1 has not been played. The opener is Super Bowl LX again. That is the stake."
-image: "https://images.unsplash.com/photo-1566577739112-5184e6ac4a4e?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.unsplash.com/photo-1566577739112-5184e6ac4a4e?auto=format&fit=crop&w=1600&q=80"
 readingTime: 5
 pubDate: 2026-09-08
 sport: football

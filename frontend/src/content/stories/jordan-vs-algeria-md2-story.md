@@ -3,7 +3,7 @@ title: "Jordan vs Algeria 1-2 Match Report"
 subtitle: "The final whistle blew at Gillette Stadium with a 1-2 scoreline. Jordan and Algeria played out an absorbing contest in this Group J fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group J that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1518843025960-d60217f226f5?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-21
 ---

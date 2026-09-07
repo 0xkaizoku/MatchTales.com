@@ -3,7 +3,7 @@ title: "Spain vs Uruguay 1-0 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 3 encounter. Here is how Spain and Uruguay fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group H that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1629217855633-79a6925d6c47?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-25
 ---

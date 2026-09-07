@@ -3,7 +3,7 @@ title: "Spain vs Argentina 1-0 aet: Torres, 106th minute"
 subtitle: "Spain are world champions. Ferran Torres scored from a Nico Williams header. Extra time at MetLife."
 category: "Match Report"
 excerpt: "Spain 1-0 Argentina after extra time on 19 July at MetLife Stadium. Torres 106'. Attendance 80,663. Second Spanish title, first since 2010."
-image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?auto=format&fit=crop&w=1600&q=80"
 readingTime: 5
 pubDate: 2026-07-19
 sport: soccer

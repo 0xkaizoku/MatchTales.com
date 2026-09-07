@@ -3,7 +3,7 @@ title: "Belgium vs Senegal 3-2 Match Report"
 subtitle: "The final whistle blew at Lumen Field with a 3-2 scoreline. Belgium and Senegal played out an absorbing contest in this Round of 32 fixture."
 category: "Match Report"
 excerpt: "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?auto=format&fit=crop&w=1600&q=80"
 readingTime: 5
 pubDate: 2026-07-01
 ---

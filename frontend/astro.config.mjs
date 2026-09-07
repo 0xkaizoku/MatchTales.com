@@ -25,7 +25,10 @@ export default defineConfig({
       filter: (page) =>
         !page.includes('/404') &&
         !page.includes('/api/') &&
-        !page.endsWith('/search-index.json'),
+        !page.endsWith('/search-index.json') &&
+        !page.includes('/stories/how-matchtales-sources') &&
+        !page.includes('/stories/matchtales-after-the-world-cup') &&
+        !page.includes('/stories/july-to-september-2026-desk'),
       changefreq: 'daily',
       priority: 0.7,
       lastmod: new Date(),
@@ -38,9 +41,9 @@ export default defineConfig({
         } else if (url.includes('/sports') || url.includes('/sport/') || url.includes('/match/') || url.includes('/fixtures') || url.includes('/leaderboard')) {
           item.priority = 0.9;
           item.changefreq = 'daily';
-        } else if (url.includes('/stories/') || url.includes('/team/')) {
+        } else if (url.includes('/stories') || url.includes('/team/')) {
           item.priority = 0.8;
-          item.changefreq = 'weekly';
+          item.changefreq = 'daily';
         } else if (url.includes('/group/')) {
           item.priority = 0.75;
           item.changefreq = 'daily';

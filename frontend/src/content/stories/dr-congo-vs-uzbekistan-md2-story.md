@@ -3,7 +3,7 @@ title: "DR Congo vs Uzbekistan 3-1 Match Report"
 subtitle: "A thrilling match in Miami concludes with DR Congo and Uzbekistan leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group K that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1459865264687-595d652de67e?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-18
 ---

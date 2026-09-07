@@ -3,7 +3,7 @@ title: "Canada vs Bosnia and Herzegovina 1-1 Match Report"
 subtitle: "The final whistle blew at BMO Field with a 1-1 scoreline. Canada and Bosnia and Herzegovina played out an absorbing contest in this Group B fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group B that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1551958219-acbc608c6377?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-22
 ---

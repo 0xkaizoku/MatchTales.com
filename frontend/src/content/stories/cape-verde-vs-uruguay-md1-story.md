@@ -3,7 +3,7 @@ title: "Cape Verde vs Uruguay 2-2 Match Report"
 subtitle: "The final whistle blew at Lumen Field with a 2-2 scoreline. Cape Verde and Uruguay played out an absorbing contest in this Group H fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group H that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1486286701208-1d58e9338013?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-16
 ---

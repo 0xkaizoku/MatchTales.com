@@ -3,7 +3,7 @@ title: "Portugal vs Uzbekistan 5-0 Match Report"
 subtitle: "The final whistle blew at Mercedes-Benz Stadium with a 5-0 scoreline. Portugal and Uzbekistan played out an absorbing contest in this Group K fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group K that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1522778119026-d647f0596c07?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-17
 ---

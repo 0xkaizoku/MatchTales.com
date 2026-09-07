@@ -3,7 +3,7 @@ title: "Spain Are World Champions: How the 2026 Final Week Ended"
 subtitle: "Bronze for England, silver for Argentina, gold for Spain. The first 48-team World Cup has its ending."
 category: "Final Week"
 excerpt: "Ferran Torres in the 106th minute. Spain 1-0 Argentina after extra time at MetLife. England 6-4 France for bronze, Bukayo Saka with a hat-trick."
-image: "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1629217855633-79a6925d6c47?auto=format&fit=crop&w=1600&q=80"
 readingTime: 7
 pubDate: 2026-07-20
 sport: soccer

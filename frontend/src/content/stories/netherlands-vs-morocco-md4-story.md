@@ -3,7 +3,7 @@ title: "Netherlands vs Morocco 1-1 Match Report"
 subtitle: "The final whistle blew at MetLife Stadium with a 1-1 scoreline. Netherlands and Morocco played out an absorbing contest in this Round of 32 fixture."
 category: "Match Report"
 excerpt: "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?auto=format&fit=crop&w=1600&q=80"
 readingTime: 5
 pubDate: 2026-06-29
 ---

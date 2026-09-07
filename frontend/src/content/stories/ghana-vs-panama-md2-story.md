@@ -3,7 +3,7 @@ title: "Ghana vs Panama 1-0 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Ghana and Panama fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group L that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1486286701208-1d58e9338013?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1569531955323-33c6b2dca44b?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-18
 ---

@@ -98,14 +98,18 @@ const schema = [
         </div>
         <a href="/fixtures" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4 whitespace-nowrap">All fixtures →</a>
       </div>
-      <div class="rounded-card border border-border/80 bg-surface shadow-card divide-y divide-border/60">
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
         {reportPreview.map((s) => (
-          <a href={`/stories/${s.slug}`} class="flex items-center justify-between gap-3 px-4 py-3 hover:bg-surface2/60 transition-colors">
-            <div class="min-w-0">
-              <div class="font-head font-semibold text-sm sm:text-base truncate group-hover:underline">{s.title}</div>
-              <div class="text-[12px] text-muted font-sans mt-0.5 line-clamp-1">{s.excerpt}</div>
+          <a href={`/stories/${s.slug}`} class="group rounded-card overflow-hidden border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow">
+            <div class="aspect-[16/10] overflow-hidden">
+              <img src={s.image} alt={s.title} loading="lazy" decoding="async" width="420" height="262" sizes="(max-width: 640px) 100vw, 33vw" class="w-full h-full object-cover" />
             </div>
-            <time class="text-[11px] text-muted font-sans whitespace-nowrap shrink-0" datetime={new Date(s.pubDate).toISOString()}>{fmtDate(new Date(s.pubDate).toISOString().slice(0, 10))}</time>
+            <div class="p-4">
+              <span class="text-[11px] font-sans font-medium text-pitch uppercase tracking-wide">{s.category}</span>
+              <h3 class="mt-1 font-head font-semibold leading-snug group-hover:underline decoration-pitch decoration-2 underline-offset-4">{s.title}</h3>
+              <p class="mt-1.5 text-sm text-muted font-sans line-clamp-2">{s.excerpt}</p>
+              <time class="mt-2 block text-[11px] text-muted font-sans" datetime={new Date(s.pubDate).toISOString()}>{fmtDate(new Date(s.pubDate).toISOString().slice(0, 10))}</time>
+            </div>
           </a>
         ))}
       </div>

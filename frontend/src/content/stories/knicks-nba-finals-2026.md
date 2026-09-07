@@ -3,7 +3,7 @@ title: "Knicks 4-1: 53 years, Brunson 45, a 29-point Game 4"
 subtitle: "New York's first title since 1973. The series ran 3-13 June. The city remembered how to throw a parade."
 category: "Mini blog"
 excerpt: "Knicks beat the Spurs in five. Game 4: 107-106 from 29 down, OG Anunoby 1.2 seconds. Game 5: 94-90, Brunson 45 on the road."
-image: "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1600&q=80"
 readingTime: 7
 pubDate: 2026-06-14
 sport: basketball

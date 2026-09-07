@@ -3,7 +3,7 @@ title: "Hull City 2-0 Manchester United, and the season already has a scar"
 subtitle: "A promoted side's first Premier League night in nine years. United lose. The table notices."
 category: "Mini blog"
 excerpt: "Semi Ajayi 17', Nobel Mendy 38'. Hull, everyone's favourites to go down, beat Manchester United 2-0 on 22 August."
-image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.unsplash.com/photo-1522778119026-d647f0596c20?auto=format&fit=crop&w=1600&q=80"
 readingTime: 6
 pubDate: 2026-08-22
 sport: soccer

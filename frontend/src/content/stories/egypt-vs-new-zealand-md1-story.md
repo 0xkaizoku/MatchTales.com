@@ -3,7 +3,7 @@ title: "Egypt vs New Zealand 3-1 Match Report"
 subtitle: "A thrilling match in Dallas concludes with Egypt and New Zealand leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group G that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1518063319789-7217e6706b04?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-15
 ---

@@ -3,7 +3,7 @@ title: "Antonelli wins Monza from 19th. Italy had not done that since 1966."
 subtitle: "Grid 19, flag 1. Gasly's first pole. Mercedes one-two. A 66-point lead. 6 September."
 category: "Mini blog"
 excerpt: "Kimi Antonelli 1:51:15.281. Russell +3.857. Verstappen +14.718. First Italian Monza winner since Ludovico Scarfiotti."
-image: "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1600&q=80"
 readingTime: 7
 pubDate: 2026-09-06
 sport: f1

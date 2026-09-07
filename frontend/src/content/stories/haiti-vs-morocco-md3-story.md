@@ -3,7 +3,7 @@ title: "Haiti vs Morocco 2-4 Match Report"
 subtitle: "The final whistle blew at Lumen Field with a 2-4 scoreline. Haiti and Morocco played out an absorbing contest in this Group C fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group C that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1543351611-58f69d7c1781?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-23
 ---

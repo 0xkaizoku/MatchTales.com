@@ -3,7 +3,7 @@ title: "The next thing on the golf calendar is the Presidents Cup"
 subtitle: "25-28 September. No result. The FedEx Cup is in Scheffler's bag. This is the team event that comes next."
 category: "Preview"
 excerpt: "Preview only. The 2026 Presidents Cup has not been played. Do not invent a winner."
-image: "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-09-08
 sport: golf

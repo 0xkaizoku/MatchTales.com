@@ -3,7 +3,7 @@ title: "Croatia vs Panama 1-0 Match Report"
 subtitle: "A thrilling match in Philadelphia concludes with Croatia and Panama leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group L that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1511512578047-dfb367046420?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1599158150601-1417ebbaafdd?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-13
 ---

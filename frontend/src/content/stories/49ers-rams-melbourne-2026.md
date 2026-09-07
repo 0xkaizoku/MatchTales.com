@@ -3,7 +3,7 @@ title: "49ers vs Rams in Melbourne: the league leaves home on night two"
 subtitle: "First NFL regular-season game in Australia. MCG. Netflix. 10 September."
 category: "Preview"
 excerpt: "Thursday 8:35 p.m. ET, Friday 10:35 a.m. AEST. NFC West, a cricket ground, a streaming app."
-image: "https://images.unsplash.com/photo-1566577739112-5184e6ac4a4e?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.unsplash.com/photo-1566577739112-5184e6ac4a4e?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-09-08
 sport: football

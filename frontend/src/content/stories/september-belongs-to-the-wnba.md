@@ -3,7 +3,7 @@ title: "September basketball is the women's game"
 subtitle: "The Knicks are champions in June. The WNBA is the league that still has games. That is not a slight. That is a calendar."
 category: "Mini blog"
 excerpt: "NBA Finals ended 13 June. WNBA playoffs begin 27 September. If you came here for basketball this month, you came for the Lynx, the Valkyries, the Aces."
-image: "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1600&q=80"
 readingTime: 5
 pubDate: 2026-09-08
 sport: basketball

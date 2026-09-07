@@ -3,7 +3,7 @@ title: "Belgium vs New Zealand 5-1 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 3 encounter. Here is how Belgium and New Zealand fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group G that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1543351611-58f69d7c1781?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-24
 ---

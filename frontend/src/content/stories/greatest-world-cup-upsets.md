@@ -3,7 +3,7 @@ title: "The Greatest World Cup Upsets of All Time"
 subtitle: "When the underdogs bit back and the world stopped breathing"
 category: "History"
 excerpt: "From Ecuador toppling Germany in 2026 to Saudi Arabia's 2022 miracle - when football's giants fall, everything changes."
-image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?auto=format&fit=crop&w=1600&q=80"
 readingTime: 7
 pubDate: 2026-06-16
 ---

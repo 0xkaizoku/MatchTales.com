@@ -3,7 +3,7 @@ title: "Why matchweek 4 matters: Hull vs Chelsea, Sunderland vs Arsenal"
 subtitle: "From 12 September. No scores. Just the fixtures that can confirm or wreck the three-week table."
 category: "Preview"
 excerpt: "Chelsea host Hull, the only side without a goal conceded. Sunderland host Arsenal. Spurs host Everton. Nothing has been played."
-image: "https://images.unsplash.com/photo-1522778119026-d647f0596c07?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.unsplash.com/photo-1430232324554-8f4aebd06683?auto=format&fit=crop&w=1600&q=80"
 readingTime: 5
 pubDate: 2026-09-08
 sport: soccer

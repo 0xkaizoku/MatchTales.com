@@ -3,7 +3,7 @@ title: "Australia vs Paraguay 0-0 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 3 encounter. Here is how Australia and Paraguay fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group D that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1599158150601-1417ebbaafdd?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-23
 ---

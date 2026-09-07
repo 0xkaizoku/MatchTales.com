@@ -3,7 +3,7 @@ title: "Cape Verde vs Saudi Arabia 0-0 Match Report"
 subtitle: "The final whistle blew at Lumen Field with a 0-0 scoreline. Cape Verde and Saudi Arabia played out an absorbing contest in this Group H fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group H that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1518843025960-d60217f226f5?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1522778119026-d647f0596c20?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-25
 ---

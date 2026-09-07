@@ -3,7 +3,7 @@ title: "Germany vs Paraguay 1-1 (3-4 pens) Match Report"
 subtitle: "A thrilling match in Miami concludes with Germany and Paraguay leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1543807535-eceef0bc6599?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1459865264687-595d652de67e?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-29
 ---

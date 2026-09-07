@@ -3,7 +3,7 @@ title: "Belgium vs Iran 0-0 Match Report"
 subtitle: "The final whistle blew at NRG Stadium with a 0-0 scoreline. Belgium and Iran played out an absorbing contest in this Group G fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group G that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1646643508957-088fe0eac722?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1569531955323-33c6b2dca44b?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-15
 ---

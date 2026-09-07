@@ -3,7 +3,7 @@ title: "Noskova wastes five championship points. Then she wins Wimbledon."
 subtitle: "6-2, 5-7, 6-3. All-Czech. Age 21. Youngest women's champion here since Kvitova in 2011."
 category: "Mini blog"
 excerpt: "Linda Noskova beat Karolina Muchova in an extraordinary Wimbledon final on 11 July. First Slam. Sixth championship point."
-image: "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1600&q=80"
 readingTime: 6
 pubDate: 2026-07-11
 sport: tennis

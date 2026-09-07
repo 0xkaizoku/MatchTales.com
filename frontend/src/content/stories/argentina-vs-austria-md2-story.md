@@ -3,7 +3,7 @@ title: "Argentina vs Austria 2-0 Match Report"
 subtitle: "The final whistle blew at MetLife Stadium with a 2-0 scoreline. Argentina and Austria played out an absorbing contest in this Group J fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group J that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1551244072-5d12893278ab?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1486286701208-1d58e9338013?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-21
 ---

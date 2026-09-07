@@ -3,7 +3,7 @@ title: "France vs Senegal 3-1 Match Report"
 subtitle: "The final whistle blew at SoFi Stadium with a 3-1 scoreline. France and Senegal played out an absorbing contest in this Group I fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group I that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-16
 ---

@@ -3,7 +3,7 @@ title: "Argentina vs Egypt 3-2 Match Report"
 subtitle: "A thrilling match in Atlanta concludes with Argentina and Egypt leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A decisive Round of 16 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1550565118-3a14e8d0386f?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-07-07
 ---

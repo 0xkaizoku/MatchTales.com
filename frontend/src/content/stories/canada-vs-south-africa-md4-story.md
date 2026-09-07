@@ -3,7 +3,7 @@ title: "Canada vs South Africa 1-0 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this knockout encounter. Here is how Canada and South Africa fought out their clash."
 category: "Match Report"
 excerpt: "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1486286701208-1d58e9338013?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1627774250096-25d8c0ece8ba?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-28
 ---

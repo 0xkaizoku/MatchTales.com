@@ -3,7 +3,7 @@ title: "Australia vs Turkiye 2-0 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 1 encounter. Here is how Australia and Turkiye fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group D that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1517747614396-d21a78b850e8?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-14
 ---

@@ -3,7 +3,7 @@ title: "Belgium vs Egypt 1-1 Match Report"
 subtitle: "The final whistle blew at AT&T Stadium with a 1-1 scoreline. Belgium and Egypt played out an absorbing contest in this Group G fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group G that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1459865264687-595d652de67e?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-20
 ---

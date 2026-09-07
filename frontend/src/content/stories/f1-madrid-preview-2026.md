@@ -3,7 +3,7 @@ title: "Why Madrid week matters: 66 points, a new circuit, ten races left"
 subtitle: "Tag Heuer Spanish GP, Madring, 11-13 September. No result. Antonelli leads. The track is new."
 category: "Preview"
 excerpt: "Preview only. The 2026 Spanish Grand Prix in Madrid has not been run. Do not invent a winner."
-image: "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-09-08
 sport: f1

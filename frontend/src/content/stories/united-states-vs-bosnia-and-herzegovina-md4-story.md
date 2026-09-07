@@ -3,7 +3,7 @@ title: "United States vs Bosnia and Herzegovina 2-0 Match Report"
 subtitle: "The final whistle blew at Levi's Stadium with a 2-0 scoreline. United States and Bosnia and Herzegovina played out an absorbing contest in this Round of 32 fixture."
 category: "Match Report"
 excerpt: "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1543807535-eceef0bc6599?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-07-01
 ---

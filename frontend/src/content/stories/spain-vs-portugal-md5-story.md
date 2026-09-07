@@ -3,7 +3,7 @@ title: "Spain vs Portugal 1-0 Match Report"
 subtitle: "A thrilling match in Dallas concludes with Spain and Portugal leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A decisive Round of 16 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-07-06
 ---

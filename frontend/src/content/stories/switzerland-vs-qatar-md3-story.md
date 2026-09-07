@@ -3,7 +3,7 @@ title: "Switzerland vs Qatar 1-1 Match Report"
 subtitle: "A thrilling match in Vancouver concludes with Switzerland and Qatar leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group B that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1569531955323-33c6b2dca44b?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-22
 ---

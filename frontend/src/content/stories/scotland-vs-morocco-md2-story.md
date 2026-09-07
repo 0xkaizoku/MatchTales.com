@@ -3,7 +3,7 @@ title: "Scotland vs Morocco 0-1 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Scotland and Morocco fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group C that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?crop=entropy&cs=srgb&fm=jpg&q=85&w=1200"
+image: "https://images.unsplash.com/photo-1486286701208-1d58e9338013?auto=format&fit=crop&w=1600&q=80"
 readingTime: 4
 pubDate: 2026-06-18
 ---

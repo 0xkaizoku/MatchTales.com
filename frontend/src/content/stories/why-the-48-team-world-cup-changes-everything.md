@@ -3,7 +3,7 @@ title: "Why the 48-Team World Cup Changes Everything"
 subtitle: "Forget everything you know about the World Cup. The biggest tournament on earth just got bigger and stranger and better."
 category: "Explainer"
 excerpt: "More teams, more groups, more drama, and a brand-new path to the trophy. Here is what you need to know."
-image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=srgb&fm=jpg&q=85"
+image: "https://images.unsplash.com/photo-1569531955323-33c6b2dca44b?auto=format&fit=crop&w=1600&q=80"
 readingTime: 5
 pubDate: 2026-06-16
 ---
