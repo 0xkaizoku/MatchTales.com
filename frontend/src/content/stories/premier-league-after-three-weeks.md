@@ -3,7 +3,7 @@ title: "Three weeks in: City and Arsenal on 9, Hull on 7, Spurs on 1"
 subtitle: "The table after 6 September is not a joke. It is three games old and already rude."
 category: "Mini blog"
 excerpt: "Manchester City 9, Arsenal 9, Hull City 7 with a clean sheet. Tottenham 1 point. Fulham and Coventry 0. Matchweek 4 starts 12 September."
-image: "https://images.unsplash.com/photo-1434648957308-5e6a859697e8?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?auto=format&fit=crop&w=1600&h=900&q=80"
 readingTime: 6
 pubDate: 2026-09-07
 sport: soccer

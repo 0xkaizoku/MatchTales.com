@@ -3,7 +3,7 @@ title: "Antonelli wins Spa: sixth of the season, the lead grows again"
 subtitle: "19 July. 1:24:42.479. Leclerc second. Verstappen third. The Silverstone dent gets an answer."
 category: "Mini blog"
 excerpt: "Kimi Antonelli's sixth win of 2026, a week after finishing 15th from pole in Britain."
-image: "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1600&h=900&q=80"
 readingTime: 5
 pubDate: 2026-07-19
 sport: f1

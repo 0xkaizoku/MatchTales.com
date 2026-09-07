@@ -3,7 +3,7 @@ title: "Czechia vs South Africa 1-1 Match Report"
 subtitle: "A thrilling match in Guadalajara concludes with Czechia and South Africa leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group A that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1430232324554-8f4aebd06683?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/3651672/pexels-photo-3651672.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 4
 pubDate: 2026-06-18
 ---

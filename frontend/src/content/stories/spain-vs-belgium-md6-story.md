@@ -3,7 +3,7 @@ title: "Spain vs Belgium 2-1 Match Report"
 subtitle: "Spain converted two clear chances and survived a late Belgian reply to win 2-1 in the quarter-finals."
 category: "Match Report"
 excerpt: "Possession kings against a Belgian side built to disrupt: a quarter-final that decided a semi-final berth."
-image: "https://images.unsplash.com/photo-1522778119026-d647f0596c20?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/40/1600/900"
 readingTime: 5
 pubDate: 2026-07-10
 ---

@@ -3,7 +3,7 @@ title: "Alonso's Chelsea: 3-2, 4-3, then 2-1 at the Emirates"
 subtitle: "Seven goals in two wins, then a first loss. The start is loud. The defence is the argument."
 category: "Mini blog"
 excerpt: "Chelsea beat Fulham 3-2 and Brighton 4-3, then lost 2-1 at Arsenal. Rogers scored after 77 seconds in all three? No: inside five minutes in each of the first three."
-image: "https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?auto=format&fit=crop&w=1600&h=900&q=80"
 readingTime: 6
 pubDate: 2026-09-06
 sport: soccer

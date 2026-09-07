@@ -3,7 +3,7 @@ title: "African Heavyweights: The Battle for Continental Supremacy"
 subtitle: "Morocco reached the quarter-finals, Senegal the Round of 32. Africa's rise is no longer a surprise."
 category: "Continent"
 excerpt: "Morocco's historic QF run in 2026 and Senegal's Round of 32 appearance prove Africa's depth is real."
-image: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1600&h=900&q=80"
 readingTime: 6
 pubDate: 2026-06-16
 ---

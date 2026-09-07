@@ -3,7 +3,7 @@ title: "Haiti vs Scotland 0-1 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 1 encounter. Here is how Haiti and Scotland fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group C that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/10/1600/900"
 readingTime: 4
 pubDate: 2026-06-13
 ---

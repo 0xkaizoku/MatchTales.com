@@ -2,7 +2,7 @@
 import WhyCareMeter from './WhyCareMeter.astro';
 import CompetitorMark from './CompetitorMark.astro';
 import SportChip from './SportChip.astro';
-import { fmtDate, statusLabel, stageLabel, scoreDisplay, optimizeImage, sportOf } from '../lib/site';
+import { fmtDate, statusLabel, stageLabel, scoreDisplay, contentImage, imgOnError, sportOf } from '../lib/site';
 export interface Props {
   m: any;
   featured?: boolean;
@@ -18,8 +18,8 @@ const isFinished = d.status === 'FINISHED';
 const score = scoreDisplay(d);
 const sport = sportOf(d);
 const stage = stageLabel(d.group, d.roundLabel);
-const img = !compact && d.image ? optimizeImage(d.image, 640, 72) : '';
-const showImage = Boolean(img);
+const img = !compact ? contentImage(d.image, d.slug, 640, 72) : '';
+const showImage = Boolean(img) && !compact;
 ---
 <a
   href={`/match/${d.slug}`}
@@ -41,6 +41,7 @@ const showImage = Boolean(img);
         fetchpriority={eager ? 'high' : 'auto'}
         sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
         class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.03]"
+        onerror={imgOnError(d.slug)}
       />
     </div>
   )}

@@ -3,7 +3,7 @@ title: "Colombia vs Ghana 1-0 Match Report"
 subtitle: "The final whistle blew at Arrowhead Stadium with a 1-0 scoreline. Colombia and Ghana played out an absorbing contest in this Round of 32 fixture."
 category: "Match Report"
 excerpt: "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/2834917/pexels-photo-2834917.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 4
 pubDate: 2026-07-03
 ---

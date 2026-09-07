@@ -3,7 +3,7 @@ title: "Ecuador vs Ivory Coast 0-1 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Ecuador and Ivory Coast fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group E that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1569531955323-33c6b2dca44b?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/41257/pexels-photo-41257.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 4
 pubDate: 2026-06-20
 ---

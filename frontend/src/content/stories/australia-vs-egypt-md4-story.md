@@ -3,7 +3,7 @@ title: "Australia vs Egypt 1-1 (2-4 pens) Match Report"
 subtitle: "The final whistle blew at AT&T Stadium with a 1-1 scoreline. Australia and Egypt played out an absorbing contest in this Round of 32 fixture."
 category: "Match Report"
 excerpt: "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1629217855633-79a6925d6c47?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1577223625816-7546f13df25d?auto=format&fit=crop&w=1600&h=900&q=80"
 readingTime: 4
 pubDate: 2026-07-03
 ---

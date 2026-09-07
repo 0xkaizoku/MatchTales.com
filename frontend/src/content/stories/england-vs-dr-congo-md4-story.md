@@ -3,7 +3,7 @@ title: "England vs DR Congo 2-1 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this knockout encounter. Here is how England and DR Congo fought out their clash."
 category: "Match Report"
 excerpt: "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/6340493/pexels-photo-6340493.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 4
 pubDate: 2026-07-01
 ---

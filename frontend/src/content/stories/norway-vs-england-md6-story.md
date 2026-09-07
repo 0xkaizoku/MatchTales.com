@@ -3,7 +3,7 @@ title: "Norway vs England 1-2 Match Report"
 subtitle: "England trailed, regrouped, and finished 2-1 winners after extra time against a fearless Norway side."
 category: "Match Report"
 excerpt: "Haaland and Odegaard vs the Three Lions: a quarter-final packed with Premier League storylines that needed extra time."
-image: "https://images.unsplash.com/photo-1434648957308-5e6a859697e8?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/26/1600/900"
 readingTime: 5
 pubDate: 2026-07-11
 ---

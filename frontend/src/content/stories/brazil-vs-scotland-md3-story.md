@@ -3,7 +3,7 @@ title: "Brazil vs Scotland 3-0 Match Report"
 subtitle: "A thrilling match in Los Angeles concludes with Brazil and Scotland leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group C that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1518843025960-d60217f226f5?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/3621104/pexels-photo-3621104.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 4
 pubDate: 2026-06-23
 ---

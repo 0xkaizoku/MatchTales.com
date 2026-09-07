@@ -3,7 +3,7 @@ title: "Belgium vs United States 4-1 Match Report"
 subtitle: "The final whistle blew at Lumen Field with a 4-1 scoreline. Belgium and United States played out an absorbing contest in this Round of 16 fixture."
 category: "Match Report"
 excerpt: "A decisive Round of 16 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/114296/pexels-photo-114296.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 4
 pubDate: 2026-07-06
 ---

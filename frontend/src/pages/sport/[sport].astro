@@ -4,7 +4,7 @@ import MatchStoryCard from '../../components/MatchStoryCard.astro';
 import SportMotif from '../../components/SportMotif.astro';
 import SportPlayground from '../../components/SportPlayground.astro';
 import { getCollection } from 'astro:content';
-import { SITE, fmtDate, optimizeImage, SPORTS, sportBySlug, sportOf, isWorldCup, SITE_TODAY } from '../../lib/site';
+import { SITE, fmtDate, contentImage, imgOnError, SPORTS, sportBySlug, sportOf, isWorldCup, SITE_TODAY } from '../../lib/site';
 
 export function getStaticPaths() {
   return SPORTS.map((s) => ({ params: { sport: s.slug } }));
@@ -27,7 +27,7 @@ const live = events.filter((m) => m.status === 'LIVE' || (m.status === 'UPCOMING
 const recent = events.filter((m) => m.status === 'FINISHED').slice(0, 8);
 
 const stories = storyEntries
-  .map((e) => ({ slug: e.id, ...e.data, image: optimizeImage(e.data.image, 640, 72) }))
+  .map((e) => ({ slug: e.id, ...e.data, image: contentImage(e.data.image, e.id, 640, 72) }))
   .filter((s) => {
     const sp = s.sport || 'soccer';
     if (sp !== meta.slug) return false;
@@ -103,8 +103,8 @@ const schema = {
         <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
           {stories.map((s) => (
             <a href={`/stories/${s.slug}`} class="group rounded-card overflow-hidden border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow">
-              <div class="aspect-[16/10] overflow-hidden">
-                <img src={s.image} alt={s.title} loading="lazy" decoding="async" width="420" height="262" class="w-full h-full object-cover" />
+              <div class="aspect-[16/10] overflow-hidden bg-surface2">
+                <img src={s.image} alt={s.title} loading="lazy" decoding="async" width="420" height="262" class="w-full h-full object-cover" onerror={imgOnError(s.slug)} />
               </div>
               <div class="p-4">
                 <span class="text-[11px] font-sans font-medium uppercase tracking-wide" style={`color:hsl(${meta.hue})`}>{s.category}</span>

@@ -3,7 +3,7 @@ title: "Iraq vs Senegal 0-5 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Iraq and Senegal fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group I that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1522778119026-d647f0596c07?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/12/1600/900"
 readingTime: 4
 pubDate: 2026-06-21
 ---

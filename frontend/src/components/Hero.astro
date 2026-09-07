@@ -1,7 +1,7 @@
 ---
 import WhyCareMeter from './WhyCareMeter.astro';
 import CompetitorMark from './CompetitorMark.astro';
-import { fmtDate, stageLabel, scoreDisplay, optimizeImage, sportOf, sportBySlug } from '../lib/site';
+import { fmtDate, stageLabel, scoreDisplay, contentImage, imgOnError, sportOf, sportBySlug } from '../lib/site';
 export interface Props { m: any; }
 const { m } = Astro.props;
 const isLive = m.status === 'LIVE';
@@ -11,13 +11,13 @@ const sport = sportOf(m);
 const sportMeta = sportBySlug(sport);
 const stage = stageLabel(m.group, m.roundLabel);
 const stageBadge = m.roundLabel || (m.matchday && m.matchday <= 3 ? `${stage} · MD${m.matchday}` : stage);
-const bgImg = m.image ? optimizeImage(m.image, 960, 60) : '';
+const bgImg = contentImage(m.image, m.slug, 960, 60);
 ---
 <section class="relative overflow-hidden rounded-card border border-border/70 bg-surface shadow-card grain">
   <div class="absolute inset-0 pointer-events-none" style="background: var(--hero-bg)"></div>
   {bgImg && (
     <div class="absolute inset-0 opacity-[0.12] pointer-events-none">
-      <img src={bgImg} alt={`${m.home} vs ${m.away}`} class="w-full h-full object-cover" width="960" height="540" loading="eager" decoding="async" fetchpriority="high" />
+      <img src={bgImg} alt={`${m.home} vs ${m.away}`} class="w-full h-full object-cover" width="960" height="540" loading="eager" decoding="async" fetchpriority="high" onerror={imgOnError(m.slug)} />
     </div>
   )}
   <div class="relative p-6 sm:p-10">

@@ -3,7 +3,7 @@ title: "France vs Iraq 3-0 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 3 encounter. Here is how France and Iraq fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group I that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1627774250096-25d8c0ece8ba?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/3621106/pexels-photo-3621106.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 4
 pubDate: 2026-06-25
 ---

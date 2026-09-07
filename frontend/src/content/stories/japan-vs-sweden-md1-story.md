@@ -3,7 +3,7 @@ title: "Japan vs Sweden 1-1 Match Report"
 subtitle: "A thrilling match in Houston concludes with Japan and Sweden leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A decisive Final knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/13/1600/900"
 readingTime: 4
 pubDate: 2026-06-16
 ---

@@ -3,7 +3,7 @@ title: "Why Tuesday in New York matters"
 subtitle: "Alcaraz-Shelton. Tiafoe-Michelsen. Sabalenka-Noskova. Pegula-Navarro. The US Open is still live."
 category: "Preview"
 excerpt: "Quarter-finals as of 7-8 September 2026. No 2026 singles champion. The American men have not had a Slam title since Roddick in 2003."
-image: "https://images.unsplash.com/photo-1599474924187-334a4ae5bd3c?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/209969/pexels-photo-209969.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 6
 pubDate: 2026-09-08
 sport: tennis

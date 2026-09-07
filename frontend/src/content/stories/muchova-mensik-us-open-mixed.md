@@ -3,7 +3,7 @@ title: "Muchova and Mensik take the mixed doubles million"
 subtitle: "6-3, 1-6, [10-6] over Bencic and Cobolli. First Slam title for both. 26 August, Arthur Ashe."
 category: "Mini blog"
 excerpt: "The all-Czech pair won the 2026 US Open mixed doubles, saving match points in the semis, then rolling the final tiebreak."
-image: "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1600&h=900&q=80"
 readingTime: 5
 pubDate: 2026-08-26
 sport: tennis

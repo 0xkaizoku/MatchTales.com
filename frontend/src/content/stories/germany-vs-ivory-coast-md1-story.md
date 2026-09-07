@@ -3,7 +3,7 @@ title: "Germany vs Ivory Coast 2-1 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 1 encounter. Here is how Germany and Ivory Coast fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group E that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1430232324554-8f4aebd06683?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/6/1600/900"
 readingTime: 4
 pubDate: 2026-06-14
 ---

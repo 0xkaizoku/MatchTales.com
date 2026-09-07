@@ -3,7 +3,7 @@ title: "Norway vs Iraq 4-1 Match Report"
 subtitle: "A thrilling match in Vancouver concludes with Norway and Iraq leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group I that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1430232324554-8f4aebd06683?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/27/1600/900"
 readingTime: 4
 pubDate: 2026-06-16
 ---

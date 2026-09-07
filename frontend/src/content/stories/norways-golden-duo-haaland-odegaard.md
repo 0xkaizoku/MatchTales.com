@@ -3,7 +3,7 @@ title: "Norway's Golden Duo: Haaland and Odegaard's World Cup Dream"
 subtitle: "After 28 years in the wilderness, Norway returned powered by two of the world's finest talents."
 category: "Spotlight"
 excerpt: "After 28 years in the wilderness, Norway returned powered by two of the world's finest talents."
-image: "https://images.unsplash.com/photo-1551958219-acbc608c6377?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1459865264687-595d652de67e?auto=format&fit=crop&w=1600&h=900&q=80"
 readingTime: 5
 pubDate: 2026-06-16
 ---

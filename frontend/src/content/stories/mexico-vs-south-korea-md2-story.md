@@ -3,7 +3,7 @@ title: "Mexico vs South Korea 1-0 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Mexico and South Korea fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group A that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1522778119026-d647f0596c20?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/19/1600/900"
 readingTime: 4
 pubDate: 2026-06-18
 ---

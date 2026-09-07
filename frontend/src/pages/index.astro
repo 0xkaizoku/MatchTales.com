@@ -6,7 +6,7 @@ import NewsletterForm from '../components/NewsletterForm.astro';
 import HypeNotes from '../components/HypeNotes.astro';
 import { getCollection } from 'astro:content';
 import SportDirectory from '../components/SportDirectory.astro';
-import { SITE, fmtDate, optimizeImage, isWorldCup, SITE_TODAY } from '../lib/site';
+import { SITE, fmtDate, optimizeImage, contentImage, imgOnError, isWorldCup, SITE_TODAY } from '../lib/site';
 import desk from '../data/desk.json';
 
 const matchEntries = await getCollection('matches');
@@ -40,7 +40,7 @@ const wcFinal = matches.find((m) => (m.group || '').toUpperCase() === 'FINAL');
 
 const storyEntries = await getCollection('stories');
 const stories = storyEntries
-  .map((e) => ({ slug: e.id, ...e.data, image: optimizeImage(e.data.image, 480, 70) }))
+  .map((e) => ({ slug: e.id, ...e.data, image: contentImage(e.data.image, e.id, 480, 70) }))
   .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())
   .slice(0, 6);
 
@@ -155,7 +155,7 @@ const homeSchema = {
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {stories.map((s) => (
           <a href={`/stories/${s.slug}`} class="group rounded-card overflow-hidden border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow">
-            <div class="aspect-[16/10] overflow-hidden"><img src={s.image} alt={s.title} loading="lazy" decoding="async" width="400" height="250" class="w-full h-full object-cover" /></div>
+            <div class="aspect-[16/10] overflow-hidden bg-surface2"><img src={s.image} alt={s.title} loading="lazy" decoding="async" width="400" height="250" class="w-full h-full object-cover" onerror={imgOnError(s.slug)} /></div>
             <div class="p-4">
               <span class="text-[11px] font-sans font-medium text-pitch uppercase tracking-wide">{s.category}</span>
               <h3 class="mt-1 font-head font-semibold leading-snug group-hover:underline decoration-pitch decoration-2 underline-offset-4">{s.title}</h3>

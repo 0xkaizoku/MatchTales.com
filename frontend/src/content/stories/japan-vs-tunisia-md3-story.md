@@ -3,7 +3,7 @@ title: "Japan vs Tunisia 4-0 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this knockout encounter. Here is how Japan and Tunisia fought out their clash."
 category: "Match Report"
 excerpt: "A decisive Final knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1486286701208-1d58e9338013?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/14/1600/900"
 readingTime: 4
 pubDate: 2026-06-24
 ---

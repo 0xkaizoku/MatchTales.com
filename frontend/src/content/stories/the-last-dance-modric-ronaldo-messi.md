@@ -3,7 +3,7 @@ title: "The Last Dance: A Generation Says Goodbye"
 subtitle: "Time is calling last orders on some of football's greatest careers. Drink it in."
 category: "Legacy"
 excerpt: "Modrić, Ronaldo and the legends playing their final World Cup. Savour them while you can."
-image: "https://images.unsplash.com/photo-1627774250096-25d8c0ece8ba?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1471295253337-3ceaaedca402?auto=format&fit=crop&w=1600&h=900&q=80"
 readingTime: 6
 pubDate: 2026-06-16
 ---

@@ -3,7 +3,7 @@ title: "England vs Croatia 4-2 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how England and Croatia fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group L that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1522778119026-d647f0596c07?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/6078303/pexels-photo-6078303.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 4
 pubDate: 2026-06-18
 ---

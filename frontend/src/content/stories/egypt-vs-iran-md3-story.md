@@ -3,7 +3,7 @@ title: "Egypt vs Iran 1-1 Match Report"
 subtitle: "A thrilling match in Dallas concludes with Egypt and Iran leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group G that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1543351611-58f69d7c1781?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 4
 pubDate: 2026-06-24
 ---

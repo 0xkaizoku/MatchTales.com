@@ -3,7 +3,7 @@ title: "Mexico vs Ecuador 2-0 Match Report"
 subtitle: "The final whistle blew at Estadio Azteca with a 2-0 scoreline. Mexico and Ecuador played out an absorbing contest in this Round of 32 fixture."
 category: "Match Report"
 excerpt: "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/17/1600/900"
 readingTime: 4
 pubDate: 2026-06-30
 ---

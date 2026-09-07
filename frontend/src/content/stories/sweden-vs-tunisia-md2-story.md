@@ -3,7 +3,7 @@ title: "Sweden vs Tunisia 5-1 Match Report"
 subtitle: "The final whistle blew at NRG Stadium with a 5-1 scoreline. Sweden and Tunisia played out an absorbing contest in this Final fixture."
 category: "Match Report"
 excerpt: "A decisive Final knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1599158150601-1417ebbaafdd?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/45/1600/900"
 readingTime: 4
 pubDate: 2026-06-20
 ---

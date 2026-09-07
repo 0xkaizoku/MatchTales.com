@@ -3,7 +3,7 @@ title: "Portugal vs DR Congo 1-1 Match Report"
 subtitle: "A thrilling match in Atlanta concludes with Portugal and DR Congo leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group K that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/32/1600/900"
 readingTime: 4
 pubDate: 2026-06-22
 ---

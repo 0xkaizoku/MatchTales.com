@@ -3,7 +3,7 @@ title: "France vs Morocco 2-0 Match Report"
 subtitle: "France controlled the night and sealed a clean 2-0 win at Gillette Stadium to book their place in the last four."
 category: "Match Report"
 excerpt: "A heavyweight quarter-final in Boston: Mbappe vs the Atlas Lions, with a World Cup semi-final on the line."
-image: "https://images.unsplash.com/photo-1522778119026-d647f0596c20?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 5
 pubDate: 2026-07-09
 ---

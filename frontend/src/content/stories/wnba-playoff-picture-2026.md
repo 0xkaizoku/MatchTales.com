@@ -3,7 +3,7 @@ title: "The WNBA field is set: Lynx 31-9, playoffs 27 September"
 subtitle: "Eight teams. A second-year Valkyries side on the two-seed. Defending champion Aces on the three. No 2026 champion yet."
 category: "Mini blog"
 excerpt: "Minnesota, Golden State, Las Vegas, Atlanta, Indiana, New York, Washington, Dallas. First round best of three. Finals best of seven."
-image: "https://images.unsplash.com/photo-1504450758481-7338eba7524a?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=1600&h=900&q=80"
 readingTime: 6
 pubDate: 2026-09-08
 sport: basketball

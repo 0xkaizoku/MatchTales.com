@@ -1,11 +1,11 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
-import { optimizeImage, SITE, fmtDate } from '../lib/site';
+import { contentImage, imgOnError, SITE, fmtDate } from '../lib/site';
 
 const entries = await getCollection('stories');
 const stories = entries
-  .map((e) => ({ slug: e.id, ...e.data, image: optimizeImage(e.data.image, 720, 72) }))
+  .map((e) => ({ slug: e.id, ...e.data, image: contentImage(e.data.image, e.id, 720, 72) }))
   .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
 
 const longForm = stories.filter((s) => s.category !== 'Match Report');
@@ -58,8 +58,8 @@ const schema = [
 
     {featured && (
       <a href={`/stories/${featured.slug}`} class="group mt-6 grid md:grid-cols-2 gap-0 rounded-card overflow-hidden border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow">
-        <div class="aspect-[16/10] md:aspect-auto overflow-hidden min-h-[220px]">
-          <img src={featured.image} alt={featured.title} width="640" height="400" class="w-full h-full object-cover" fetchpriority="high" decoding="async" sizes="(max-width: 768px) 100vw, 50vw" />
+        <div class="aspect-[16/10] md:aspect-auto overflow-hidden min-h-[220px] bg-surface2">
+          <img src={featured.image} alt={featured.title} width="640" height="400" class="w-full h-full object-cover" fetchpriority="high" decoding="async" sizes="(max-width: 768px) 100vw, 50vw" onerror={imgOnError(featured.slug)} />
         </div>
         <div class="p-6 sm:p-8 flex flex-col justify-center">
           <span class="text-[11px] font-sans font-medium text-pitch uppercase tracking-wide">{featured.category} · {featured.readingTime} min read</span>
@@ -76,8 +76,8 @@ const schema = [
         <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
           {longRest.map((s) => (
             <a href={`/stories/${s.slug}`} class="group rounded-card overflow-hidden border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow">
-              <div class="aspect-[16/10] overflow-hidden">
-                <img src={s.image} alt={s.title} loading="lazy" decoding="async" width="420" height="262" sizes="(max-width: 640px) 100vw, 33vw" class="w-full h-full object-cover" />
+              <div class="aspect-[16/10] overflow-hidden bg-surface2">
+                <img src={s.image} alt={s.title} loading="lazy" decoding="async" width="420" height="262" sizes="(max-width: 640px) 100vw, 33vw" class="w-full h-full object-cover" onerror={imgOnError(s.slug)} />
               </div>
               <div class="p-4">
                 <span class="text-[11px] font-sans font-medium text-pitch uppercase tracking-wide">{s.category}</span>
@@ -101,8 +101,8 @@ const schema = [
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
         {reportPreview.map((s) => (
           <a href={`/stories/${s.slug}`} class="group rounded-card overflow-hidden border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow">
-            <div class="aspect-[16/10] overflow-hidden">
-              <img src={s.image} alt={s.title} loading="lazy" decoding="async" width="420" height="262" sizes="(max-width: 640px) 100vw, 33vw" class="w-full h-full object-cover" />
+            <div class="aspect-[16/10] overflow-hidden bg-surface2">
+              <img src={s.image} alt={s.title} loading="lazy" decoding="async" width="420" height="262" sizes="(max-width: 640px) 100vw, 33vw" class="w-full h-full object-cover" onerror={imgOnError(s.slug)} />
             </div>
             <div class="p-4">
               <span class="text-[11px] font-sans font-medium text-pitch uppercase tracking-wide">{s.category}</span>

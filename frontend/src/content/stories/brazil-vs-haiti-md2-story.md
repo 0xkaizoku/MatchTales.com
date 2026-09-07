@@ -3,7 +3,7 @@ title: "Brazil vs Haiti 3-0 Match Report"
 subtitle: "The final whistle blew at Rose Bowl with a 3-0 scoreline. Brazil and Haiti played out an absorbing contest in this Group C fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group C that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1522778119026-d647f0596c07?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/399187/pexels-photo-399187.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 4
 pubDate: 2026-06-17
 ---

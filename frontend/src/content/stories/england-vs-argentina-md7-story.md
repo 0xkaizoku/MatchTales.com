@@ -3,7 +3,7 @@ title: "England vs Argentina 1-2 Match Report"
 subtitle: "Argentina staged a late comeback to beat England 2-1 and book a return to the World Cup final."
 category: "Match Report"
 excerpt: "History, heat and a final place on the line: England vs Argentina in a World Cup semi-final."
-image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/935985/pexels-photo-935985.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 5
 pubDate: 2026-07-15
 ---

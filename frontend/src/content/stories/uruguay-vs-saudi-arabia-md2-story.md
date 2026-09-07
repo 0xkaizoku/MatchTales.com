@@ -3,7 +3,7 @@ title: "Uruguay vs Saudi Arabia 1-1 Match Report"
 subtitle: "The final whistle blew at Lumen Field with a 1-1 scoreline. Uruguay and Saudi Arabia played out an absorbing contest in this Group H fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group H that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1486286701208-1d58e9338013?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/56/1600/900"
 readingTime: 4
 pubDate: 2026-06-21
 ---

@@ -3,7 +3,7 @@ title: "Spain vs Saudi Arabia 4-0 Match Report"
 subtitle: "The final whistle blew at Arrowhead Stadium with a 4-0 scoreline. Spain and Saudi Arabia played out an absorbing contest in this Group H fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group H that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/43/1600/900"
 readingTime: 4
 pubDate: 2026-06-15
 ---

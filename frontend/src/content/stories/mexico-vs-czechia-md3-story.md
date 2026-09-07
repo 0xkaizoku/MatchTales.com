@@ -3,7 +3,7 @@ title: "Mexico vs Czechia 3-0 Match Report"
 subtitle: "The final whistle blew at Estadio Azteca with a 3-0 scoreline. Mexico and Czechia played out an absorbing contest in this Group A fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group A that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1551958219-acbc608c6377?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/16/1600/900"
 readingTime: 4
 pubDate: 2026-06-22
 ---

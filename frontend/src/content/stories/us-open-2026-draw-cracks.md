@@ -3,7 +3,7 @@ title: "Alcaraz's wrist, Djokovic's Monday, the draw cracking open"
 subtitle: "The defending champion is back from four months out. Novak Djokovic lost in round one. New York noticed both."
 category: "Mini blog"
 excerpt: "US Open 2026, 30 August to 13 September. Alcaraz returned. Djokovic went out Monday. No singles champion yet."
-image: "https://images.unsplash.com/photo-1534158914592-062992fbe900?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 6
 pubDate: 2026-09-01
 sport: tennis

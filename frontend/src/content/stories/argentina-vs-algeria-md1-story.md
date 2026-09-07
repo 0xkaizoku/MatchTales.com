@@ -3,7 +3,7 @@ title: "Argentina vs Algeria 3-0 Match Report"
 subtitle: "The final whistle blew at MetLife Stadium with a 3-0 scoreline. Argentina and Algeria played out an absorbing contest in this Group J fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group J that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1522778119026-d647f0596c07?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1517747614396-d21a78b850e8?auto=format&fit=crop&w=1600&h=900&q=80"
 readingTime: 4
 pubDate: 2026-06-16
 ---

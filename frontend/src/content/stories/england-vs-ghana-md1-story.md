@@ -3,7 +3,7 @@ title: "England vs Ghana 0-0 Match Report"
 subtitle: "The final whistle blew at MetLife Stadium with a 0-0 scoreline. England and Ghana played out an absorbing contest in this Group L fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group L that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1486286701208-1d58e9338013?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/220574/pexels-photo-220574.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 4
 pubDate: 2026-06-13
 ---

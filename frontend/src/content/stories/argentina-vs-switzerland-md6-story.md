@@ -3,7 +3,7 @@ title: "Argentina vs Switzerland 3-1 Match Report"
 subtitle: "Argentina needed extra time to break Swiss resistance and seal a 3-1 quarter-final win in Kansas City."
 category: "Match Report"
 excerpt: "Champions against Swiss organisation: a quarter-final defined by patience, quality, and extra-time ruthlessness."
-image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1434648957308-5e6a859697e8?auto=format&fit=crop&w=1600&h=900&q=80"
 readingTime: 5
 pubDate: 2026-07-11
 ---

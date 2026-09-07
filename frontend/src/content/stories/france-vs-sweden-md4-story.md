@@ -3,7 +3,7 @@ title: "France vs Sweden 3-0 Match Report"
 subtitle: "The final whistle blew at SoFi Stadium with a 3-0 scoreline. France and Sweden played out an absorbing contest in this Round of 32 fixture."
 category: "Match Report"
 excerpt: "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1599158150601-1417ebbaafdd?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/3/1600/900"
 readingTime: 4
 pubDate: 2026-06-30
 ---

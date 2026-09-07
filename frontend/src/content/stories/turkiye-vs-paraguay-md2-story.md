@@ -3,7 +3,7 @@ title: "Turkiye vs Paraguay 0-1 Match Report"
 subtitle: "A thrilling match in Boston concludes with Turkiye and Paraguay leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group D that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1543351611-58f69d7c1781?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/51/1600/900"
 readingTime: 4
 pubDate: 2026-06-19
 ---

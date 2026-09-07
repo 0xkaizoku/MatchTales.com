@@ -3,7 +3,7 @@ title: "Croatia vs Ghana 2-1 Match Report"
 subtitle: "The final whistle blew at Lincoln Financial Field with a 2-1 scoreline. Croatia and Ghana played out an absorbing contest in this Group L fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group L that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1629217855633-79a6925d6c47?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/3074920/pexels-photo-3074920.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 4
 pubDate: 2026-06-22
 ---

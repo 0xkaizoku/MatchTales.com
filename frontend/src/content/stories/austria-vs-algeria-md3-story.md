@@ -3,7 +3,7 @@ title: "Austria vs Algeria 3-3 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 3 encounter. Here is how Austria and Algeria fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group J that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1434648957308-5e6a859697e8?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1600&h=900&q=80"
 readingTime: 4
 pubDate: 2026-06-25
 ---

@@ -3,7 +3,7 @@ title: "Norris wins Hungary, then Zandvoort. McLaren's counter has a double."
 subtitle: "26 July and 23 August. Two in a row. Antonelli still left the Netherlands with the lead, and second place."
 category: "Mini blog"
 excerpt: "Lando Norris 1:39:56.180 at the Hungaroring, then 2:04:44.859 from pole at Zandvoort. Verstappen DNF at home."
-image: "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/627678/pexels-photo-627678.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 6
 pubDate: 2026-08-23
 sport: f1

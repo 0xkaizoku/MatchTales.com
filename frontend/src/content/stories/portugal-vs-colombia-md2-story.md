@@ -3,7 +3,7 @@ title: "Portugal vs Colombia 0-0 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Portugal and Colombia fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group K that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1543351611-58f69d7c1781?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/30/1600/900"
 readingTime: 4
 pubDate: 2026-06-21
 ---

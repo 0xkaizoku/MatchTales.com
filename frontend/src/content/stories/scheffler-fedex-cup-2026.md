@@ -3,7 +3,7 @@ title: "Scheffler at East Lake: second FedEx Cup, and the Tiger earnings line"
 subtitle: "264, 16 under, three clear of Hovland. $10 million. World No. 1, again, with receipts."
 category: "Mini blog"
 excerpt: "Scottie Scheffler won the 2026 Tour Championship on 30 August, his second FedEx Cup in three years, and passed Tiger Woods in PGA Tour career earnings."
-image: "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/1325735/pexels-photo-1325735.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 6
 pubDate: 2026-08-30
 sport: golf

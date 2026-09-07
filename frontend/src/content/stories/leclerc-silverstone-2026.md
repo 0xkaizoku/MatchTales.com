@@ -3,7 +3,7 @@ title: "Leclerc wins Silverstone. The championship leader finishes 15th from pol
 subtitle: "5 July. Ferrari first and third. Antonelli starts first and banks nothing. Title races find weather."
 category: "Mini blog"
 excerpt: "Charles Leclerc 1:27:11.335. Russell +0.427. Hamilton +0.772. Kimi Antonelli pole, classified 15th."
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 5
 pubDate: 2026-07-05
 sport: f1

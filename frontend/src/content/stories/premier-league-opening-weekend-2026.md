@@ -3,7 +3,7 @@ title: "Opening weekend: Hull, Brighton, Brentford, and a league that did not ea
 subtitle: "Ten matches, 21-24 August. Arsenal start with a 3-0. Chelsea win 3-2 at Fulham. Spurs lose 3-0 at Brentford."
 category: "Mini blog"
 excerpt: "Brighton 4-0 Villa. Hull 2-0 United. Brentford 3-0 Spurs. Arsenal 3-0 Coventry. The 2026/27 Premier League arrived loud."
-image: "https://images.unsplash.com/photo-1459865264687-595d652de67e?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1551958219-acbc608c6377?auto=format&fit=crop&w=1600&h=900&q=80"
 readingTime: 7
 pubDate: 2026-08-24
 sport: soccer

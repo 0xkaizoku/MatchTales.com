@@ -3,7 +3,7 @@ title: "Qatar vs Bosnia and Herzegovina 1-3 Match Report"
 subtitle: "A thrilling match in Toronto concludes with Qatar and Bosnia and Herzegovina leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group B that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/34/1600/900"
 readingTime: 4
 pubDate: 2026-06-19
 ---

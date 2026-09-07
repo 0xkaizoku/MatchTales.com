@@ -123,27 +123,51 @@ export function seoDescription(text: string, max = 158) {
   return t.slice(0, max - 1).replace(/\s+\S*$/, '') + '…';
 }
 
+/** Deterministic never-blank photo when a remote URL 404s. */
+export function picsumFor(slug: string) {
+  const seed = (slug || 'matchtales').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '') || 'matchtales';
+  return `https://picsum.photos/seed/${seed}/1600/900`;
+}
+
+/** Inline img onerror: swap a broken thumb for a unique working photo. */
+export function imgOnError(slug: string) {
+  return `this.onerror=null;this.src='${picsumFor(slug)}'`;
+}
+
 /**
- * Resize Unsplash (and similar) URLs for bandwidth.
- * Keeps non-Unsplash URLs untouched.
+ * Resize Unsplash / Pexels URLs for bandwidth.
+ * Keeps other hosts untouched.
  */
 export function optimizeImage(url: string | null | undefined, width = 800, quality = 75) {
   if (!url) return '';
-  if (!url.includes('images.unsplash.com')) return url;
   try {
     const u = new URL(url);
-    u.searchParams.set('auto', 'format');
-    u.searchParams.set('fit', 'crop');
-    u.searchParams.set('w', String(width));
-    u.searchParams.set('q', String(quality));
-    // Drop overly large legacy params noise
-    u.searchParams.delete('crop');
-    u.searchParams.delete('cs');
-    u.searchParams.delete('fm');
-    return u.toString();
+    if (u.hostname === 'images.unsplash.com') {
+      u.searchParams.set('auto', 'format');
+      u.searchParams.set('fit', 'crop');
+      u.searchParams.set('w', String(width));
+      u.searchParams.set('q', String(quality));
+      u.searchParams.delete('crop');
+      u.searchParams.delete('cs');
+      u.searchParams.delete('fm');
+      return u.toString();
+    }
+    if (u.hostname === 'images.pexels.com') {
+      u.searchParams.set('auto', 'compress');
+      u.searchParams.set('cs', 'tinysrgb');
+      u.searchParams.set('w', String(width));
+      u.searchParams.set('fit', 'crop');
+      return u.toString();
+    }
+    return url;
   } catch {
     return url;
   }
+}
+
+/** Card/hero src that is never an empty string. */
+export function contentImage(url: string | null | undefined, slug: string, width = 800, quality = 75) {
+  return optimizeImage(url, width, quality) || picsumFor(slug);
 }
 
 /** Absolute URL helper for canonical / schema. */

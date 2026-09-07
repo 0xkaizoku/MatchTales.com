@@ -3,7 +3,7 @@ title: "United States vs Turkiye 2-3 Match Report"
 subtitle: "The final whistle blew at Mercedes-Benz Stadium with a 2-3 scoreline. United States and Turkiye played out an absorbing contest in this Group D fixture."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group D that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/55/1600/900"
 readingTime: 4
 pubDate: 2026-06-23
 ---

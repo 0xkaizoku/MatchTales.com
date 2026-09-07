@@ -3,7 +3,7 @@ title: "Ryan Fox birdies the 18th and the Claret Jug changes hands"
 subtitle: "72-68-62-68 = 270. One shot ahead of Cameron Young. Third New Zealander to win a men's major."
 category: "Mini blog"
 excerpt: "The 154th Open at Royal Birkdale, 16-19 July. Fox, 39, birdied the hardest hole of the week to win by one."
-image: "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/54123/pexels-photo-54123.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 6
 pubDate: 2026-07-19
 sport: golf

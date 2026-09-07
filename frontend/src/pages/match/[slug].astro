@@ -10,7 +10,7 @@ import TennisScore from '../../components/TennisScore.astro';
 import LeaderboardTable from '../../components/LeaderboardTable.astro';
 import SportChip from '../../components/SportChip.astro';
 import { getCollection } from 'astro:content';
-import { fmtDate, statusLabel, SITE, stageLabel, scoreDisplay, optimizeImage, seoDescription, sportOf, sportBySlug, isWorldCup } from '../../lib/site';
+import { fmtDate, statusLabel, SITE, stageLabel, scoreDisplay, contentImage, imgOnError, seoDescription, sportOf, sportBySlug, isWorldCup } from '../../lib/site';
 
 export async function getStaticPaths() {
   const matches = await getCollection('matches');
@@ -27,8 +27,8 @@ const label = `${m.home} vs ${m.away}`;
 const stage = stageLabel(m.group, m.roundLabel);
 const stageBadge = m.roundLabel || (m.matchday && m.matchday <= 3 ? `${stage} · Matchday ${m.matchday}` : stage);
 const score = scoreDisplay(m);
-const ogImage = m.image ? optimizeImage(m.image, 1200, 80) : SITE.ogImage;
-const heroImage = m.image ? optimizeImage(m.image, 1200, 78) : '';
+const ogImage = contentImage(m.image, m.slug, 1200, 80) || SITE.ogImage;
+const heroImage = contentImage(m.image, m.slug, 1200, 78);
 const pageTitle = `${m.headline} | ${label}`;
 const pageDesc = seoDescription(m.teaser || m.stakes || `${label}: story, stakes and the result.`);
 const format = m.format || 'team-match';
@@ -121,6 +121,7 @@ const schema = [
           fetchpriority="high"
           decoding="async"
           sizes="(max-width: 1120px) 100vw, 1120px"
+          onerror={imgOnError(m.slug)}
         />
       </div>
     )}

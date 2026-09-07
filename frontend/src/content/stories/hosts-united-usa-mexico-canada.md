@@ -3,7 +3,7 @@ title: "Three Nations, One Party: The Hosts' Story"
 subtitle: "From the Rose Bowl to the Azteca to BMO Field, three footballing souls found out who they really are."
 category: "Hosts"
 excerpt: "For the first time, three countries host the World Cup together. The USA reached the R16, Mexico the R32, and Canada the R32."
-image: "https://images.unsplash.com/photo-1459865264687-595d652de67e?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?auto=format&fit=crop&w=1600&h=900&q=80"
 readingTime: 6
 pubDate: 2026-06-16
 ---

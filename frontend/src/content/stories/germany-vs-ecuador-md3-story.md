@@ -3,7 +3,7 @@ title: "Germany vs Ecuador 1-2 Match Report"
 subtitle: "A thrilling match in Miami concludes with Germany and Ecuador leaving everything on the pitch. Read the full post-match analysis."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group E that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1434648957308-5e6a859697e8?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/5/1600/900"
 readingTime: 4
 pubDate: 2026-06-24
 ---

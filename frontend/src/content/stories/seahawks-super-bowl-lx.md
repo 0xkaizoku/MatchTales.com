@@ -3,7 +3,7 @@ title: "Super Bowl LX was 29-13. That is why Wednesday night is a rematch."
 subtitle: "Seahawks beat Patriots on 8 February at Levi's Stadium. Kenneth Walker III, MVP. The 2026 season opens with the same two teams."
 category: "Mini blog"
 excerpt: "Seattle 29, New England 13. Walker 135 rush yards. Myers five field goals. Maye sacked six times. Second Seahawks title."
-image: "https://images.unsplash.com/photo-1566577739112-5184e6ac4a4e?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?auto=format&fit=crop&w=1600&h=900&q=80"
 readingTime: 6
 pubDate: 2026-02-09
 sport: football

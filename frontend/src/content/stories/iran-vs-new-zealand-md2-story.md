@@ -3,7 +3,7 @@ title: "Iran vs New Zealand 2-2 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this Matchday 2 encounter. Here is how Iran and New Zealand fought out their clash."
 category: "Match Report"
 excerpt: "A crucial group stage result in Group G that leaves standing tables dramatically altered."
-image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/11/1600/900"
 readingTime: 5
 pubDate: 2026-06-21
 ---

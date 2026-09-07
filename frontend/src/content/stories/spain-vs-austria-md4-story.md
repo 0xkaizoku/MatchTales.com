@@ -3,7 +3,7 @@ title: "Spain vs Austria 3-0 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this knockout encounter. Here is how Spain and Austria fought out their clash."
 category: "Match Report"
 excerpt: "A decisive Round of 32 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1627774250096-25d8c0ece8ba?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/39/1600/900"
 readingTime: 4
 pubDate: 2026-07-02
 ---

@@ -3,7 +3,7 @@ title: "France vs Spain 0-2 Match Report"
 subtitle: "Spain produced a masterclass of control and finishing to beat France 2-0 and book a place in the MetLife final."
 category: "Match Report"
 excerpt: "European heavyweights collide in Dallas: a semi-final that decided the first finalist of 2026."
-image: "https://images.unsplash.com/photo-1629217855633-79a6925d6c47?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/2/1600/900"
 readingTime: 5
 pubDate: 2026-07-14
 ---

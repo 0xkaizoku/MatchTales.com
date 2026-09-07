@@ -3,7 +3,7 @@ title: "Final Week Countdown: Spain, Argentina and Two Nights Left"
 subtitle: "Semis done. Bronze on Saturday. The final on Sunday. How the last chapter of World Cup 2026 is shaping up."
 category: "Final Week"
 excerpt: "A rest-day guide to the podium race: France vs England for bronze, then Spain vs Argentina for the world title."
-image: "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1522778119026-d647f0596c20?auto=format&fit=crop&w=1600&h=900&q=80"
 readingTime: 6
 pubDate: 2026-07-16
 sport: soccer

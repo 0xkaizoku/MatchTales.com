@@ -3,7 +3,7 @@ title: "France vs Paraguay 1-0 Match Report"
 subtitle: "Tactical discipline and clinical finishes defined this knockout encounter. Here is how France and Paraguay fought out their clash."
 category: "Match Report"
 excerpt: "A decisive Round of 16 knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/0/1600/900"
 readingTime: 4
 pubDate: 2026-07-04
 ---

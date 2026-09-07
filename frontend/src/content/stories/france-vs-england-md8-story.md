@@ -3,7 +3,7 @@ title: "France vs England 4-6: Saka's hat-trick, bronze for England"
 subtitle: "The highest-scoring third-place match in World Cup history, with names attached this time."
 category: "Match Report"
 excerpt: "England 6-4 France in Miami. Rice, Konsa, Saka (3), Bellingham. Mbappe (2), Barcola, Dembele. Bronze, and England's best finish since 1966."
-image: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.pexels.com/photos/3775147/pexels-photo-3775147.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 5
 pubDate: 2026-07-18
 sport: soccer

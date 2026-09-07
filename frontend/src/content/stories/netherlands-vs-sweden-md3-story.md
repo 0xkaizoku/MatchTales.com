@@ -3,7 +3,7 @@ title: "Netherlands vs Sweden 5-1 Match Report"
 subtitle: "The final whistle blew at Levi's Stadium with a 5-1 scoreline. Netherlands and Sweden played out an absorbing contest in this Final fixture."
 category: "Match Report"
 excerpt: "A decisive Final knockout match with one team advancing and one sent home from the 2026 World Cup."
-image: "https://images.unsplash.com/photo-1629217855633-79a6925d6c47?auto=format&fit=crop&w=1600&q=80"
+image: "https://picsum.photos/id/23/1600/900"
 readingTime: 4
 pubDate: 2026-06-24
 ---
