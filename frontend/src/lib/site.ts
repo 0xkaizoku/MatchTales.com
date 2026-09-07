@@ -6,7 +6,7 @@ export const SITE = {
   name: 'MatchTales',
   title: 'MatchTales | Why This Match Matters',
   description:
-    'MatchTales is the story layer on top of the score. Why-Care scores, rivalries and human-written reports across tennis, football, Formula 1, soccer, golf and basketball.',
+    'MatchTales is the story layer on top of the score. Rivalries and human-written reports across tennis, football, Formula 1, soccer, golf and basketball.',
   url: 'https://www.matchtales.com',
   // Social crawlers prefer raster OG images over SVG
   ogImage:

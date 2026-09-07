@@ -14,7 +14,7 @@ const matchEntries = await getCollection('matches');
 const groupMatches = matchEntries.map((e) => e.data).filter((m) => m.group === group).sort((a, b) => a.date.localeCompare(b.date) || a.time.localeCompare(b.time));
 const played = Math.max(...standing.map((r: any) => r.P), 0);
 const teamNames = teams.map((t: any) => t.name).join(', ');
-const desc = `Group ${group} World Cup 2026 standings and match stories: ${teamNames}. Final table, results and Why-Care context.`;
+const desc = `Group ${group} World Cup 2026 standings and match stories: ${teamNames}. Final table and results.`;
 const schema = [
   {
     '@type': 'CollectionPage',

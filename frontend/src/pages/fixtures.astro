@@ -25,7 +25,7 @@ const schema = [
   {
     '@type': 'CollectionPage',
     name: 'World Cup 2026 Fixtures & Schedule',
-    description: 'Every 2026 World Cup fixture with Why-Care scores, results and match stories.',
+    description: 'Every 2026 World Cup fixture with results and match stories.',
     url: `${SITE.url}/fixtures`,
     isPartOf: { '@id': `${SITE.url}/#website` },
     numberOfItems: matches.length,
@@ -41,7 +41,7 @@ const schema = [
 ---
 <BaseLayout
   title="Fixtures & Schedule | World Cup 2026"
-  description="Every 2026 World Cup fixture with a Why-Care score, accurate result and the story behind it. Filter by group, knockout stage, date or team."
+  description="Every 2026 World Cup fixture with an accurate result and the story behind it. Filter by group, knockout stage, date or team."
   keywords="World Cup 2026 fixtures, match schedule, results, knockout bracket, group stage"
   schema={schema}
   imageAlt="World Cup 2026 fixtures and match schedule on MatchTales"
