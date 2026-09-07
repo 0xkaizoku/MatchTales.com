@@ -2,7 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import WhyCareMeter from '../components/WhyCareMeter.astro';
 import { getCollection } from 'astro:content';
-import { SITE, sportOf } from '../lib/site';
+import { SITE, sportOf, sportBySlug, scoreDisplay, fmtDate, statusLabel } from '../lib/site';
 import CompetitorMark from '../components/CompetitorMark.astro';
 const entries = await getCollection('matches');
 const matches = entries.map((e) => e.data);
@@ -15,7 +15,16 @@ const liveMatch =
   upcomingAll[0] ||
   matches.filter((m) => m.status === 'FINISHED').sort((a, b) => b.date.localeCompare(a.date))[0] ||
   matches[0];
-const upcoming = upcomingAll.slice(0, 5);
+const upcoming = upcomingAll.filter((m) => m.slug !== liveMatch.slug).slice(0, 5);
+const sport = sportOf(liveMatch);
+const sportMeta = sportBySlug(sport);
+const score = scoreDisplay(liveMatch);
+const isLive = liveMatch.status === 'LIVE';
+const notes = [
+  { k: 'Why', t: liveMatch.whyCareReason },
+  { k: 'Now', t: liveMatch.teaser },
+  { k: 'Stake', t: liveMatch.stakes },
+].filter((n) => n.t);
 const schema = {
   '@type': 'WebPage',
   name: 'Live Second Screen',
@@ -36,14 +45,24 @@ const schema = {
       <div class="lg:col-span-2 space-y-5">
         <div class="rounded-card border border-border/80 bg-surface shadow-card overflow-hidden">
           <div class="flex items-center justify-between px-5 py-3 border-b border-border/70 bg-surface2">
-            <span class="inline-flex items-center gap-2 text-sm font-sans font-semibold">{liveMatch.status === 'LIVE' ? <span class="inline-flex items-center gap-1.5 text-coral"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>LIVE</span> : <span class="text-muted">Next up</span>}</span>
-            <span class="text-[12px] font-sans text-muted">{liveMatch.roundLabel || liveMatch.group} · {liveMatch.venue}</span>
+            <span class="inline-flex items-center gap-2 text-sm font-sans font-semibold">{isLive ? <span class="inline-flex items-center gap-1.5 text-coral"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>LIVE</span> : <span class="text-muted">{statusLabel(liveMatch.status)}</span>}</span>
+            <span class="text-[12px] font-sans text-muted">{sportMeta?.label} · {liveMatch.roundLabel || liveMatch.group} · {liveMatch.venue}</span>
           </div>
           <div class="p-6">
             <div class="flex items-center justify-between gap-4">
-              <div class="text-center flex-1"><div class="flex justify-center"><CompetitorMark name={liveMatch.home} code={liveMatch.homeCode} sport={sportOf(liveMatch)} size="lg" /></div><div class="mt-2 font-head font-semibold">{liveMatch.home}</div></div>
-              <div class="text-center"><div id="live-score" class="font-head font-bold text-4xl tabular-nums">{liveMatch.homeScore ?? 0}–{liveMatch.awayScore ?? 0}</div><div id="live-clock" class="mt-1 text-[12px] font-mono text-coral">{liveMatch.liveMinute ? liveMatch.liveMinute + "'" : 'KO soon'}</div></div>
-              <div class="text-center flex-1"><div class="flex justify-center"><CompetitorMark name={liveMatch.away} code={liveMatch.awayCode} sport={sportOf(liveMatch)} size="lg" /></div><div class="mt-2 font-head font-semibold">{liveMatch.away}</div></div>
+              <div class="text-center flex-1"><div class="flex justify-center"><CompetitorMark name={liveMatch.home} code={liveMatch.homeCode} sport={sport} size="lg" /></div><div class="mt-2 font-head font-semibold">{liveMatch.home}</div></div>
+              <div class="text-center">
+                {score ? (
+                  <>
+                    <div id="live-score" class="font-head font-bold text-4xl tabular-nums">{score.main}</div>
+                    {score.note && <div class="mt-1 text-[12px] font-sans text-muted">{score.note}</div>}
+                  </>
+                ) : (
+                  <div id="live-score" class="font-head font-bold text-3xl tabular-nums">{liveMatch.time}</div>
+                )}
+                <div id="live-clock" class="mt-1 text-[12px] font-mono text-muted">{isLive && liveMatch.liveMinute ? liveMatch.liveMinute + "'" : `${fmtDate(liveMatch.date)} · ${liveMatch.venue}`}</div>
+              </div>
+              <div class="text-center flex-1"><div class="flex justify-center"><CompetitorMark name={liveMatch.away} code={liveMatch.awayCode} sport={sport} size="lg" /></div><div class="mt-2 font-head font-semibold">{liveMatch.away}</div></div>
             </div>
           </div>
         </div>
@@ -57,8 +76,16 @@ const schema = {
 
         <!-- commentary -->
         <div class="rounded-card border border-border/80 bg-surface shadow-card p-5">
-          <h2 class="font-head font-semibold mb-3">Live commentary</h2>
-          <ul id="commentary" data-testid="live-commentary-feed" class="space-y-3 font-sans text-sm"></ul>
+          <h2 class="font-head font-semibold mb-3">Why it is on</h2>
+          <ul id="commentary" data-testid="live-commentary-feed" class="space-y-3 font-sans text-sm">
+            {notes.map((n) => (
+              <li class="flex gap-3">
+                <span class="shrink-0 font-mono text-[11px] text-coral pt-0.5">{n.k}</span>
+                <span>{n.t}</span>
+              </li>
+            ))}
+          </ul>
+          <p class="mt-3 text-[12px] text-muted font-sans">No invented scoreline. If a ball has not been played, the page does not pretend it has.</p>
         </div>
       </div>
 
@@ -105,21 +132,6 @@ const schema = {
     function bindLiveScreen(){
       const root=document.querySelector('[data-testid="live-screen"]'); if(!root||root.dataset.bound)return; root.dataset.bound='1';
       const BACKEND=(import.meta.env.PUBLIC_BACKEND_URL)||''; const slug=root.dataset.slug;
-      // Simulated commentary
-      const events=[
-        {m:"1'",t:'Kick-off! The atmosphere is electric and the noise is deafening.'},
-        {m:"12'",t:'Early chance — a whipped cross flashes across the six-yard box. Inches away.'},
-        {m:"23'",t:'Booking. A late challenge in midfield earns the first yellow of the night.'},
-        {m:"34'",t:'GOAL! What a strike from distance — the keeper had no chance. The stadium erupts!'},
-        {m:"41'",t:'Tactical tweak as the visitors push another body forward in search of a reply.'},
-        {m:"45'",t:'Half-time. End-to-end stuff and we could do this all night.'},
-        {m:"58'",t:'EQUALISER! Against the run of play, it is all square again. Breathless.'},
-        {m:"67'",t:'Double substitution — fresh legs and fresh intent from the bench.'},
-        {m:"78'",t:'So close! A goal-line clearance keeps it level. Drama at both ends.'},
-      ];
-      const feed=document.getElementById('commentary'); let i=0;
-      function push(){ if(i>=events.length){return;} const e=events[i++]; const li=document.createElement('li'); li.className='flex gap-3 fade-up'; li.innerHTML=`<span class="shrink-0 font-mono text-[11px] text-coral pt-0.5">${e.m}</span><span>${e.t}</span>`; feed.prepend(li); const bar=document.getElementById('hype-bar'); const num=document.getElementById('hype-num'); let v=Math.min(9.9, parseFloat(num.textContent)+0.1+Math.random()*0.2); num.textContent=v.toFixed(1); bar.style.width=(v/10*100)+'%'; }
-      push(); const iv=setInterval(()=>{ if(i>=events.length){clearInterval(iv);return;} push(); }, 4000);
       // Poll
       const opts=root.querySelectorAll('.poll-opt'); const msg=document.getElementById('poll-msg');
       function render(votes){ const total=(votes.home||0)+(votes.draw||0)+(votes.away||0); opts.forEach((o)=>{ const k=o.dataset.opt; const n=votes[k]||0; const pct=total?Math.round(n/total*100):0; let fill=o.querySelector('.poll-fill'); if(!fill){fill=document.createElement('span'); fill.className='poll-fill'; o.prepend(fill);} fill.style.width=pct+'%'; let pc=o.querySelector('.poll-pct'); if(!pc){pc=document.createElement('span'); pc.className='poll-pct'; o.appendChild(pc);} pc.textContent=pct+'%'; }); msg.textContent=`${total} vote${total===1?'':'s'} so far`; }

@@ -35,7 +35,7 @@ export default defineConfig({
         if (url.endsWith('matchtales.com/') || url.endsWith('matchtales.com')) {
           item.priority = 1.0;
           item.changefreq = 'hourly';
-        } else if (url.includes('/match/') || url.includes('/fixtures') || url.includes('/leaderboard')) {
+        } else if (url.includes('/sports') || url.includes('/sport/') || url.includes('/match/') || url.includes('/fixtures') || url.includes('/leaderboard')) {
           item.priority = 0.9;
           item.changefreq = 'daily';
         } else if (url.includes('/stories/') || url.includes('/team/')) {
