@@ -24,8 +24,8 @@ Men: Carlos Alcaraz vs Ben Shelton. Frances Tiafoe vs Alex Michelsen. Women: Ary
 
 ## The American sentence
 
-The United States has not had a men's major champion since Andy Roddick here in 2003. Three American men are in the last eight. Tiafoe beat 2021 champion Daniil Medvedev 7-6 (1), 6-4, 7-6 (6). Shelton beat Tsitsipas 6-2, 6-3, 6-4. Michelsen reached his first Slam quarter. If Alcaraz keeps winning he may have to beat three Americans to reach the final. That is the air. It is not a result.
+The United States has not had a men's major champion since Andy Roddick here in 2003. Three American men are in the last eight. Tiafoe beat 2021 champion Daniil Medvedev 7-6 (1), 6-4, 7-6 (6). Shelton beat Tsitsipas 6-2, 6-3, 6-4. Michelsen reached his first Slam quarter. As of the day session, Tiafoe-Michelsen is live in a fifth set: 5-7, 3-6, 7-5, 6-3, 3-4. That is a score, not a winner.
 
 ## The women's sentence
 
-Sabalenka is chasing a third straight US Open. Noskova is the Wimbledon champion. Pegula and Navarro are an all-American quarter. Do not pick a winner in this piece. Pick a chair.
+Sabalenka is through: 7-6 (7-1), 3-6, 7-6 (10-7) over Noskova, the Wimbledon champion. Pegula and Navarro are still an all-American quarter. Do not pick that winner. Pick a chair.

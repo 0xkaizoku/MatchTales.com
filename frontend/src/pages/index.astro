@@ -21,8 +21,8 @@ function addDays(dateStr: string, days: number) {
 const tomorrowStr = addDays(todayStr, 1);
 
 const featured =
-  matches.find((m) => m.slug === 'alcaraz-vs-shelton-uso-qf') ||
   matches.find((m) => m.status === 'LIVE') ||
+  matches.find((m) => m.slug === 'alcaraz-vs-shelton-uso-qf') ||
   matches.find((m) => m.status === 'UPCOMING' && m.date >= todayStr) ||
   matches.find((m) => m.slug === 'spain-vs-argentina-md9') ||
   matches[0];
@@ -61,7 +61,7 @@ const homeSchema = {
         <span class="text-muted">· Tuesday {fmtDate(todayStr)}</span>
       </div>
       <div class="flex flex-wrap items-center gap-2 text-[12px] font-sans text-muted">
-        <span class="inline-flex items-center gap-1.5 text-coral font-medium"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>US Open quarter-finals</span>
+        <span class="inline-flex items-center gap-1.5 text-coral font-medium"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>Tiafoe-Michelsen, fifth set</span>
         <span>· NFL kickoff tomorrow</span>
         <span>· Antonelli won Monza from 19th</span>
       </div>
@@ -77,12 +77,13 @@ const homeSchema = {
 
     <section class="mt-12" aria-labelledby="ny-h">
       <h2 id="ny-h" class="font-head text-2xl font-semibold tracking-tight">Why Tuesday in New York matters</h2>
-      <p class="mt-2 text-muted font-sans max-w-2xl">Carlos Alcaraz vs Ben Shelton. Aryna Sabalenka vs Linda Noskova, the new Wimbledon champion. Two all-American quarters. The US Open has not named a 2026 singles champion yet. That is the point.</p>
+      <p class="mt-2 text-muted font-sans max-w-2xl">Tiafoe and Michelsen are live in a fifth set on Ashe: 5-7, 3-6, 7-5, 6-3, 3-4. Sabalenka is through in three. Alcaraz vs Shelton is still the night session. Pegula vs Navarro has not started. No 2026 singles champion yet. That is the point.</p>
       <ul class="mt-4 grid sm:grid-cols-2 gap-3">
         {desk.usOpenQF.map((q) => (
           <li class="rounded-card border border-border/80 bg-surface p-4">
             <span class="text-[11px] font-sans text-muted uppercase tracking-wide">{q.draw}</span>
             <p class="mt-1 font-head font-semibold">{q.p1} <span class="text-muted font-sans font-normal">vs</span> {q.p2}</p>
+            <p class="mt-1 text-[12px] font-sans text-muted">{q.status}</p>
           </li>
         ))}
       </ul>

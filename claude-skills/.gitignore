@@ -1,0 +1,32 @@
+# --- excluded by request ---
+my-voice/
+
+# --- skills that live in their own upstream repos ---
+# Restored by ./bootstrap.sh -- see README.md
+tastemaker/
+learn-ai-faster/
+sub-reddit-finder
+video-use
+
+# --- virtualenvs & build artifacts ---
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+node_modules/
+.next/
+dist/
+build/
+
+# --- secrets ---
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials.json
+
+# --- os cruft ---
+.DS_Store
+Thumbs.db

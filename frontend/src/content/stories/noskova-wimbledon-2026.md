@@ -28,4 +28,4 @@ BBC, The Athletic and CBS logged the same numbers. Youngest women's Wimbledon ch
 
 ## What it changes
 
-On 8 September she is in the US Open quarter-finals against Aryna Sabalenka, the two-time defending champion in New York. Wimbledon was the first plot twist. New York is the next one, still unplayed.
+On 8 September she met Aryna Sabalenka in the US Open quarter-finals and lost 7-6 (7-1), 3-6, 7-6 (10-7). Wimbledon was the first plot twist. New York ended in a tie-break.

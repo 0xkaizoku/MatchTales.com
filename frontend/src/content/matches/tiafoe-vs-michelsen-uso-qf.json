@@ -1,0 +1,93 @@
+{
+  "funFacts": [
+    "All-American men's quarter-final on Ashe.",
+    "Michelsen took the first two sets. Tiafoe took the next two.",
+    "No winner. Fifth set in progress."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Frances Tiafoe",
+      "team": "USA",
+      "hook": "Eleventh seed. Beat Medvedev to get here. Trailed two sets to love."
+    },
+    {
+      "name": "Alex Michelsen",
+      "team": "USA",
+      "hook": "First Slam quarter-final. Took the first two sets, serving in the fifth."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "us-open",
+    "tiafoe",
+    "michelsen"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": "5th set",
+  "image": "https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "",
+  "roundLabel": "Men's quarter-final",
+  "resultSummary": "LIVE: Tiafoe 5-7, 3-6, 7-5, 6-3, 3-4 Michelsen (fifth set)",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "5",
+      "p2": "7"
+    },
+    {
+      "p1": "3",
+      "p2": "6"
+    },
+    {
+      "p1": "7",
+      "p2": "5"
+    },
+    {
+      "p1": "6",
+      "p2": "3"
+    },
+    {
+      "p1": "3",
+      "p2": "4"
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC Sport scores: US Open 8 September",
+      "url": "https://www.bbc.com/sport/tennis/scores-and-schedule/2026-09-08"
+    },
+    {
+      "name": "ESPN tennis scoreboard 8 September",
+      "url": "https://www.espn.com/tennis/scoreboard/_/date/20260908"
+    }
+  ],
+  "format": "singles",
+  "homeScore": 2,
+  "awayScore": 2,
+  "slug": "tiafoe-vs-michelsen-uso-qf",
+  "headline": "Tiafoe vs Michelsen: two sets each, fifth set live on Ashe",
+  "whyCareScore": 9.6,
+  "whyCareReason": "An all-American quarter-final that was two sets to love, then two-all, now a fifth. No winner. Do not invent one.",
+  "teaser": "LIVE on Arthur Ashe. Tiafoe 5-7, 3-6, 7-5, 6-3, 3-4 Michelsen. Michelsen serving. The American Slam drought since Roddick in 2003 is still the air in the building.",
+  "story": "Why this one matters: three American men reached the last eight. This is the all-American quarter, and it has gone the distance.\n\nBBC has it live on Ashe. Alex Michelsen took the first two sets 7-5, 6-3. Frances Tiafoe, the eleventh seed, took the next two 7-5, 6-3. In the fifth it is 3-4, Michelsen serving. That is the score. That is not a result.\n\nTiafoe beat Daniil Medvedev to get here. Michelsen is in his first Slam quarter-final. The United States has not had a men's major champion since Andy Roddick on this court in 2003. Write the fifth set. Do not write a finalist.",
+  "stakes": "A semi-final against Alcaraz or Shelton. One American goes through. One goes home. Not decided.",
+  "rivalryAngle": "Two Americans, one court, a drought that is 23 years old and still unsolved tonight.",
+  "home": "Frances Tiafoe",
+  "away": "Alex Michelsen",
+  "group": "GS",
+  "date": "2026-09-08",
+  "time": "13:00",
+  "venue": "Arthur Ashe Stadium",
+  "city": "New York",
+  "status": "LIVE",
+  "sport": "tennis",
+  "competition": "us-open-2026"
+}

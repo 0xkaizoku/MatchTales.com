@@ -27,7 +27,7 @@ export const SPORTS: SportMeta[] = [
     short: 'Tennis',
     href: '/sport/tennis',
     tagline: 'Wimbledon is in the books. The US Open is still live in New York.',
-    liveNow: 'Quarter-finals: Alcaraz vs Shelton, Sabalenka vs Noskova.',
+    liveNow: 'Tiafoe-Michelsen live in a fifth set. Sabalenka through. Alcaraz vs Shelton still to play.',
     accent: 'sky',
     hue: '198 88% 45%',
     pulse: 'LIVE IN NEW YORK',
