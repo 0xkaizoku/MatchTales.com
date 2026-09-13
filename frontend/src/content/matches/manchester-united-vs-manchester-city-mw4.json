@@ -1,0 +1,72 @@
+{
+  "funFacts": [
+    "Haaland 63'.",
+    "City 4-0-0, 12 points.",
+    "United 1-1-2, 4 points."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Erling Haaland",
+      "team": "Manchester City",
+      "hook": "Winner, 63rd minute, Old Trafford."
+    },
+    {
+      "name": "Manchester United",
+      "team": "Manchester United",
+      "hook": "Home derby, 0-1, four points from four games."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "premier-league",
+    "manchester-united",
+    "manchester-city"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026/27",
+  "roundLabel": "Matchweek 4",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Football Web Pages: United 0-1 City",
+      "url": "https://www.footballwebpages.co.uk/premier-league/fixtures-results"
+    },
+    {
+      "name": "AFP: Haaland, 10-man City",
+      "url": "https://www.nampa.org/text/23014907"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 0,
+  "awayScore": 1,
+  "slug": "manchester-united-vs-manchester-city-mw4",
+  "headline": "Haaland 63': ten-man City win 1-0 at Old Trafford",
+  "whyCareScore": 9.3,
+  "whyCareReason": "City stay perfect. United stay on 4 points. The derby is already a scar.",
+  "teaser": "Manchester United 0-1 Manchester City. Haaland 63'. Attendance 74,161. City 4-0-0.",
+  "story": "Why this one matters: two clubs with different Septembers met at Old Trafford and the table did not blink. City had nine points. United had four. After 90 minutes City have 12 and United still have four.\n\nFootball Web Pages: Braut Haaland 63', attendance 74,161. AFP's match wrap is titled around ten-man City. Match XI, Squawka and NBC all put City second on 12 points, 8-2 on goals, +6.\n\nArsenal are first on goal difference. That is the only thing between the two perfect records. United have a derby loss to sit with the Hull wound.",
+  "stakes": "Four wins from four for City. A derby that keeps United in mid-table geometry.",
+  "rivalryAngle": "Old Trafford, a derby, a 1-0 that the table already understood.",
+  "home": "Manchester United",
+  "away": "Manchester City",
+  "group": "PL",
+  "date": "2026-09-13",
+  "time": "16:30",
+  "venue": "Old Trafford",
+  "city": "Manchester",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "premier-league-2026-27"
+}

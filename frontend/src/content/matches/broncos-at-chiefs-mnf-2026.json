@@ -1,0 +1,73 @@
+{
+  "funFacts": [
+    "Kickoff 8:15 p.m. ET, ESPN/ABC.",
+    "Both teams 0-0 until this game.",
+    "Week 1 already has Seahawks 13-10 and 49ers 27-7."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kansas City Chiefs",
+      "team": "Chiefs",
+      "hook": "Home, Monday night, Week 1 still open."
+    },
+    {
+      "name": "Denver Broncos",
+      "team": "Broncos",
+      "hook": "Road, 8:15 p.m. ET. No score yet."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "nfl",
+    "chiefs",
+    "broncos",
+    "mnf"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1566577739112-5184e6ac4a4e?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Week 1 \u00b7 MNF",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ESPN NFL scoreboard",
+      "url": "https://www.espn.com/nfl/scoreboard"
+    },
+    {
+      "name": "FOX Week 1 schedule",
+      "url": "https://www.foxsports.com/stories/nfl/when-does-2026-nfl-season-start-complete-week-1-schedule"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "broncos-at-chiefs-mnf-2026",
+  "headline": "Broncos at Chiefs: Monday night, Week 1 still has one snap left",
+  "whyCareScore": 9.1,
+  "whyCareReason": "Arrowhead, 8:15 p.m. ET, ESPN/ABC. The last game of Week 1 has not been played. Do not invent a score.",
+  "teaser": "Monday 14 September. Denver at Kansas City. The early Sunday window is in the book. This one is not.",
+  "story": "Why this one matters: Week 1 already has a Super Bowl rematch, an Australia game, a 59-37 in Charlotte, and a 31-30 overtime in Detroit. It does not yet have a Monday night result.\n\nBroncos at Chiefs, Arrowhead Stadium, 8:15 p.m. ET, ESPN and ABC. ESPN's scoreboard on 13 September listed both clubs 0-0 with kickoff still to come. That is the honest line on 14 September before the ball is snapped.\n\nPrint the time. Print the channel. Do not print a winner.",
+  "stakes": "The last result of Week 1, in a building that has lived on them.",
+  "rivalryAngle": "AFC West, a Sunday leftover on Monday night.",
+  "home": "Kansas City Chiefs",
+  "away": "Denver Broncos",
+  "group": "NFL",
+  "date": "2026-09-14",
+  "time": "20:15",
+  "venue": "Arrowhead Stadium",
+  "city": "Kansas City",
+  "status": "UPCOMING",
+  "sport": "football",
+  "competition": "nfl-2026"
+}

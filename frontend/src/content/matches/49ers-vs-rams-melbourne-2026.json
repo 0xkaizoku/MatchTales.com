@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "First NFL regular-season game in Australia.",
-    "Netflix, 8:35 p.m. ET Thursday.",
-    "Local kickoff 10:35 a.m. AEST Friday."
+    "Crowd 100,021.",
+    "Purdy three touchdown passes.",
+    "Stafford pulled late."
   ],
   "keyPlayers": [
     {
-      "name": "San Francisco 49ers",
+      "name": "Brock Purdy",
       "team": "49ers",
-      "hook": "NFC West, travelling the farthest for Week 1."
+      "hook": "205 yards, three touchdowns."
     },
     {
-      "name": "Los Angeles Rams",
+      "name": "Matthew Stafford",
       "team": "Rams",
-      "hook": "Listed as the home side in Melbourne."
+      "hook": "Pulled late in a 27-7 loss."
     }
   ],
   "headToHead": "",
@@ -35,31 +35,31 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Week 1 · Australia",
-  "resultSummary": "",
+  "roundLabel": "Week 1 \u00b7 Australia",
+  "resultSummary": "49ers 27, Rams 7",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "FOX Week 1 schedule",
-      "url": "https://www.foxsports.com/stories/nfl/when-does-2026-nfl-season-start-complete-week-1-schedule"
+      "name": "ESPN: 49ers rout Rams in Australia",
+      "url": "https://www.espn.com/nfl/scoreboard"
     },
     {
-      "name": "CBS Week 1 times",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-schedule-dates-times/"
+      "name": "Wikipedia: NFL International Series",
+      "url": "https://en.wikipedia.org/wiki/NFL_International_Series"
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 7,
+  "awayScore": 27,
   "slug": "49ers-vs-rams-melbourne-2026",
-  "headline": "49ers vs Rams in Melbourne: the league leaves home on night two",
-  "whyCareScore": 8.4,
-  "whyCareReason": "The NFL's first regular-season game in Australia, 24 hours after kickoff, on Netflix, at the MCG.",
-  "teaser": "Thursday 10 September, 8:35 p.m. ET. San Francisco versus Los Angeles at Melbourne Cricket Ground. Local kickoff Friday 10:35 a.m. AEST.",
-  "story": "Why this one matters: the league spent a century pretending the map stopped at the ocean. Week 1 of 2026 puts an NFC West rivalry in a cricket ground on Netflix.\n\n49ers versus Rams, Melbourne Cricket Ground, Thursday 10 September 8:35 p.m. ET, Friday morning in Melbourne. It is the NFL's first regular-season game in Australia. It is also night two of a season that opened with a Super Bowl rematch.\n\nNo score yet. Do not invent one. The stake is the place.",
-  "stakes": "A franchise rivalry in a new country, on a streaming app, 24 hours after kickoff.",
-  "rivalryAngle": "NFC West, twice a year, once on the other side of the world.",
+  "headline": "49ers 27, Rams 7: first NFL game in Australia, Purdy three touchdowns",
+  "whyCareScore": 8.8,
+  "whyCareReason": "100,021 at the MCG. Stafford pulled late. San Francisco enjoyed the week and the scoreboard.",
+  "teaser": "FINAL: 49ers 27, Rams 7. Purdy 205 yards, three TDs. First regular-season NFL game in Australia.",
+  "story": "Why this one matters: the league had never played a regular-season game in Australia. On 10 September (11 September local) it did, and San Francisco won it 27-7.\n\nESPN: 49ers 3-7-7-10, Rams 0-7-0-0. Brock Purdy 205 passing yards, three touchdowns. Christian McCaffrey 68 rushing yards. Puka Nacua 74 receiving yards. Matthew Stafford was pulled late. Wikipedia's International Series table lists attendance 100,021 at Melbourne Cricket Ground.\n\nThe stake was the place. The result is 27-7. Night two of Week 1 already had a blowout.",
+  "stakes": "A franchise rivalry on a new continent, decided by three Purdy touchdowns.",
+  "rivalryAngle": "NFC West, once a year on the other side of the world.",
   "home": "Los Angeles Rams",
   "away": "San Francisco 49ers",
   "group": "NFL",
@@ -67,7 +67,7 @@
   "time": "20:35",
   "venue": "Melbourne Cricket Ground",
   "city": "Melbourne",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "football",
   "competition": "nfl-2026"
 }

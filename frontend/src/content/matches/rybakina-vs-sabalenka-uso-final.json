@@ -1,0 +1,85 @@
+{
+  "funFacts": [
+    "Rybakina's third major, first US Open.",
+    "Closed the match with a 12th ace.",
+    "Sabalenka finishes 2026 without a Slam, first time since 2022, per GB News."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Elena Rybakina",
+      "team": "Kazakhstan",
+      "hook": "New world No. 1. 6-4, 5-7, 6-2."
+    },
+    {
+      "name": "Aryna Sabalenka",
+      "team": "Belarus",
+      "hook": "Two-time defending champion. Three-peat stopped."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "us-open",
+    "rybakina",
+    "sabalenka"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "",
+  "roundLabel": "Women's final",
+  "resultSummary": "Rybakina 6-4, 5-7, 6-2 Sabalenka",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "6",
+      "p2": "4"
+    },
+    {
+      "p1": "5",
+      "p2": "7"
+    },
+    {
+      "p1": "6",
+      "p2": "2"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters: Rybakina beats Sabalenka",
+      "url": "https://www.reuters.com/sports/tennis/rybakina-beats-sabalenka-first-us-open-title-2026-09-12/"
+    },
+    {
+      "name": "CBS: US Open women's final",
+      "url": "https://www.cbssports.com/tennis/news/2026-us-open-results-elena-rybakina-aryna-sabalenka-womens-final/"
+    }
+  ],
+  "format": "singles",
+  "homeScore": 2,
+  "awayScore": 1,
+  "slug": "rybakina-vs-sabalenka-uso-final",
+  "headline": "Rybakina dethrones Sabalenka 6-4, 5-7, 6-2 and takes No. 1 with it",
+  "whyCareScore": 9.8,
+  "whyCareReason": "A three-peat dies in the third set. Third major for Rybakina. First US Open. New world No. 1.",
+  "teaser": "Rybakina 6-4, 5-7, 6-2 Sabalenka. Closed with an ace. $5.5 million. Sabalenka smashed a racket.",
+  "story": "Why this one matters: Aryna Sabalenka had won this tournament in 2024 and 2025. A third straight would have put her with Serena Williams and Chris Evert. Elena Rybakina ended that on Saturday, 6-4, 5-7, 6-2, and replaced her at world No. 1.\n\nReuters, CBS and ABC logged the same score. Rybakina broke early in the third and again at 5-2. She dropped three points on serve in that set, per CBS, and closed with her 12th ace after a double fault on the first championship point. UPI: 12-6 in aces, 36-32 in winners, 2 hours 21 minutes. Prize $5.5 million.\n\nIt is Rybakina's third Slam after Wimbledon 2022 and the Australian Open earlier in 2026. Sabalenka's Flushing Meadows streak ends at 19 or 20 consecutive wins depending on the count you use. Reuters called it 20. UPI called it 19. The final score is not in dispute.",
+  "stakes": "A three-peat denied. A new No. 1. A first US Open for Kazakhstan.",
+  "rivalryAngle": "The two biggest first-strike games in women's tennis, both already Slam champions this decade.",
+  "home": "Elena Rybakina",
+  "away": "Aryna Sabalenka",
+  "group": "GS",
+  "date": "2026-09-12",
+  "time": "16:00",
+  "venue": "Arthur Ashe Stadium",
+  "city": "New York",
+  "status": "FINISHED",
+  "sport": "tennis",
+  "competition": "us-open-2026"
+}

@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "All-American men's quarter-final on Ashe.",
-    "Michelsen took the first two sets. Tiafoe took the next two.",
-    "No winner. Fifth set in progress."
+    "Michelsen served for the match at 5-4 in the third.",
+    "Tiafoe trailed 0-3 in the fifth.",
+    "ATP: 4 hours 38 minutes, 40 break points, both broke eight times."
   ],
   "keyPlayers": [
     {
       "name": "Frances Tiafoe",
       "team": "USA",
-      "hook": "Eleventh seed. Beat Medvedev to get here. Trailed two sets to love."
+      "hook": "Eleventh seed. Two sets down. Third US Open semi-final."
     },
     {
       "name": "Alex Michelsen",
       "team": "USA",
-      "hook": "First Slam quarter-final. Took the first two sets, serving in the fifth."
+      "hook": "First Slam quarter-final. Led two sets, 5-4 in the third, 3-0 in the fifth."
     }
   ],
   "headToHead": "",
@@ -28,14 +28,14 @@
   "awayFlag": "",
   "matchday": 0,
   "marquee": true,
-  "liveMinute": "5th set",
+  "liveMinute": null,
   "image": "https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
   "decidedBy": null,
   "homePen": null,
   "awayPen": null,
   "season": "",
   "roundLabel": "Men's quarter-final",
-  "resultSummary": "LIVE: Tiafoe 5-7, 3-6, 7-5, 6-3, 3-4 Michelsen (fifth set)",
+  "resultSummary": "Tiafoe 5-7, 3-6, 7-5, 6-3, 7-6 (10-6) Michelsen",
   "leaderboard": [],
   "tennisSets": [
     {
@@ -55,31 +55,31 @@
       "p2": "3"
     },
     {
-      "p1": "3",
-      "p2": "4"
+      "p1": "7",
+      "p2": "6"
     }
   ],
   "sources": [
     {
-      "name": "BBC Sport scores: US Open 8 September",
-      "url": "https://www.bbc.com/sport/tennis/scores-and-schedule/2026-09-08"
+      "name": "ATP: Tiafoe rallies past Michelsen",
+      "url": "https://www.atptour.com/en/news/michelsen-tiafoe-us-open-2026-qf-tuesday"
     },
     {
-      "name": "ESPN tennis scoreboard 8 September",
-      "url": "https://www.espn.com/tennis/scoreboard/_/date/20260908"
+      "name": "BBC: Tiafoe beats Michelsen",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c33k6zl5m87o"
     }
   ],
   "format": "singles",
-  "homeScore": 2,
+  "homeScore": 3,
   "awayScore": 2,
   "slug": "tiafoe-vs-michelsen-uso-qf",
-  "headline": "Tiafoe vs Michelsen: two sets each, fifth set live on Ashe",
-  "whyCareScore": 9.6,
-  "whyCareReason": "An all-American quarter-final that was two sets to love, then two-all, now a fifth. No winner. Do not invent one.",
-  "teaser": "LIVE on Arthur Ashe. Tiafoe 5-7, 3-6, 7-5, 6-3, 3-4 Michelsen. Michelsen serving. The American Slam drought since Roddick in 2003 is still the air in the building.",
-  "story": "Why this one matters: three American men reached the last eight. This is the all-American quarter, and it has gone the distance.\n\nBBC has it live on Ashe. Alex Michelsen took the first two sets 7-5, 6-3. Frances Tiafoe, the eleventh seed, took the next two 7-5, 6-3. In the fifth it is 3-4, Michelsen serving. That is the score. That is not a result.\n\nTiafoe beat Daniil Medvedev to get here. Michelsen is in his first Slam quarter-final. The United States has not had a men's major champion since Andy Roddick on this court in 2003. Write the fifth set. Do not write a finalist.",
-  "stakes": "A semi-final against Alcaraz or Shelton. One American goes through. One goes home. Not decided.",
-  "rivalryAngle": "Two Americans, one court, a drought that is 23 years old and still unsolved tonight.",
+  "headline": "Tiafoe from two sets down, then 0-3 in the fifth, then a semi-final",
+  "whyCareScore": 9.7,
+  "whyCareReason": "Michelsen served for the match at 5-4 in the third. Tiafoe won 7-6 (10-6) in the fifth after 4 hours 38 minutes.",
+  "teaser": "Tiafoe 5-7, 3-6, 7-5, 6-3, 7-6 (10-6) Michelsen. Two sets down. 0-3 in the fifth. A hug at the net.",
+  "story": "Why this one matters: an all-American quarter-final on Ashe was supposed to end in the third set. It ended in a 10-point tie-break, with Alex Michelsen crying on Frances Tiafoe's shoulder.\n\nATP logged the score as 5-7, 3-6, 7-5, 6-3, 7-6 (10-6), 4 hours 38 minutes. Michelsen had not dropped a set in the tournament. He served for the match at 5-4 in the third and double-faulted twice. Tiafoe, the eleventh seed, took that set 7-5, the fourth 6-3, then trailed 0-3 in the fifth. The match tie-break went 10-6 on a Tiafoe forehand down the line.\n\nBBC, ATP and USOpen.org agree on the same numbers. Tiafoe reaches a third US Open semi-final. Michelsen finished with more total points, 173-170, and still lost. The next sentence was Shelton.",
+  "stakes": "A first American men's semi-final pairing at this Open. One of them had already beaten Alcaraz.",
+  "rivalryAngle": "Friends, same country, one court, a 23-year drought still unsolved.",
   "home": "Frances Tiafoe",
   "away": "Alex Michelsen",
   "group": "GS",
@@ -87,7 +87,7 @@
   "time": "13:00",
   "venue": "Arthur Ashe Stadium",
   "city": "New York",
-  "status": "LIVE",
+  "status": "FINISHED",
   "sport": "tennis",
   "competition": "us-open-2026"
 }

@@ -1,0 +1,113 @@
+{
+  "funFacts": [
+    "Norris pole 1:31.824.",
+    "Hamilton retired lap 6, brakes.",
+    "Antonelli eighth win, lead 81 points."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kimi Antonelli",
+      "team": "Mercedes",
+      "hook": "Won from P2 after the VSC. 292 points."
+    },
+    {
+      "name": "Lando Norris",
+      "team": "McLaren",
+      "hook": "Pole. Led. VSC. Third."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "f1",
+    "madrid",
+    "antonelli"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Spanish Grand Prix",
+  "resultSummary": "1 Antonelli, 2 Verstappen +4.351, 3 Norris +5.089. Hamilton DNF.",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Kimi Antonelli",
+      "score": "1:34:23.754",
+      "note": "Mercedes, started P2"
+    },
+    {
+      "pos": "2",
+      "name": "Max Verstappen",
+      "score": "+4.351",
+      "note": "Red Bull"
+    },
+    {
+      "pos": "3",
+      "name": "Lando Norris",
+      "score": "+5.089",
+      "note": "McLaren, pole"
+    },
+    {
+      "pos": "4",
+      "name": "Charles Leclerc",
+      "score": "+29.116",
+      "note": "Ferrari"
+    },
+    {
+      "pos": "5",
+      "name": "George Russell",
+      "score": "+29.829",
+      "note": "Mercedes, fastest lap 1:35.587"
+    },
+    {
+      "pos": "DNF",
+      "name": "Lewis Hamilton",
+      "score": "Lap 6",
+      "note": "Ferrari, brakes"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Formula1.com race result",
+      "url": "https://www.formula1.com/en/results/2026/races/1294/spain/race-result"
+    },
+    {
+      "name": "Wikipedia: 2026 Spanish Grand Prix",
+      "url": "https://en.wikipedia.org/wiki/2026_Spanish_Grand_Prix"
+    },
+    {
+      "name": "The Athletic: Spanish GP briefing",
+      "url": "https://www.nytimes.com/athletic/7589661/2026/09/13/f1-spanish-grand-prix-results/"
+    }
+  ],
+  "format": "race",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "spanish-gp-2026",
+  "headline": "Antonelli wins Madrid: Norris pole, VSC, Hamilton out with no brakes",
+  "whyCareScore": 9.6,
+  "whyCareReason": "Eighth win of 2026. Lead 292-211. First Spanish Grand Prix at the Madring. Norris led until the virtual safety car.",
+  "teaser": "Antonelli 1:34:23.754. Verstappen +4.351. Norris +5.089. Hamilton DNF, brakes, lap 6.",
+  "story": "Why this one matters: a new circuit is supposed to scramble a championship. Madrid scrambled Lando Norris, not Kimi Antonelli.\n\nFormula1.com: Antonelli 1:34:23.754, Verstappen +4.351, Norris +5.089, Leclerc +29.116, Russell +29.829. Norris started on pole in 1:31.824. The Athletic: Norris led by 6.2 seconds on lap 14 when Lance Stroll stopped and the virtual safety car came out. Norris was too far around to pit. Antonelli was not. Hamilton reported no brakes, fell from fourth, retired on lap 6 with a brake failure. Wikipedia matches the classified order and the DNF list.\n\nDrivers after the race: Antonelli 292, Russell 211, Hamilton 191, Norris 186, Leclerc 167. Constructors: Mercedes 503, Ferrari 358, McLaren 306. Eighth win. Next is Baku, 24-26 September.",
+  "stakes": "An 81-point lead, a new track in the books, nine races left.",
+  "rivalryAngle": "Norris from pole versus a championship leader who inherited the strategy.",
+  "home": "Kimi Antonelli",
+  "away": "Lando Norris",
+  "group": "F1",
+  "date": "2026-09-13",
+  "time": "15:00",
+  "venue": "Madring",
+  "city": "Madrid",
+  "status": "FINISHED",
+  "sport": "f1",
+  "competition": "f1-2026"
+}

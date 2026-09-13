@@ -1,0 +1,89 @@
+{
+  "funFacts": [
+    "Zverev's second Slam of 2026 after Roland Garros.",
+    "Fourth man in the Open Era to win first two majors in one season.",
+    "Shelton took the third set 7-5."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Alexander Zverev",
+      "team": "Germany",
+      "hook": "First US Open. Second Slam of 2026."
+    },
+    {
+      "name": "Ben Shelton",
+      "team": "USA",
+      "hook": "First Slam final. Beat Alcaraz and Tiafoe to get here."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "us-open",
+    "zverev",
+    "shelton"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "",
+  "roundLabel": "Men's final",
+  "resultSummary": "Zverev 6-3, 7-6 (2), 5-7, 6-2 Shelton",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "6",
+      "p2": "3"
+    },
+    {
+      "p1": "7",
+      "p2": "6"
+    },
+    {
+      "p1": "5",
+      "p2": "7"
+    },
+    {
+      "p1": "6",
+      "p2": "2"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP: Zverev wins US Open",
+      "url": "https://www.atptour.com/en/news/zverev-shelton-us-open-2026-final-report"
+    },
+    {
+      "name": "US Open live scores",
+      "url": "https://www.usopen.org/en_US/scores/index.html"
+    }
+  ],
+  "format": "singles",
+  "homeScore": 3,
+  "awayScore": 1,
+  "slug": "zverev-vs-shelton-uso-final",
+  "headline": "Zverev beats Shelton in four: second Slam of 2026, first US Open",
+  "whyCareScore": 9.9,
+  "whyCareReason": "A first two majors in the same season. Shelton took the third set. Zverev took the title 6-2 in the fourth.",
+  "teaser": "Zverev 6-3, 7-6 (2), 5-7, 6-2 Shelton. 3 hours 33 minutes. Roland Garros, then New York.",
+  "story": "Why this one matters: Alexander Zverev already had Roland Garros. On 13 September he added the US Open, 6-3, 7-6 (2), 5-7, 6-2 over Ben Shelton, and became the fourth man in the Open Era to win his first two Grand Slam titles in the same calendar year.\n\nATP: Shelton double-faulted on break points in the first set. Zverev ran the second-set tie-break 7-2 after a 5-0 start in it. Shelton broke in the 12th game of the third for 7-5. Zverev took the fourth 6-2. Official US Open scores list the same four sets. Duration 3:33.\n\nShelton had beaten Alcaraz and Tiafoe to get here. The American men's Slam drought since Andy Roddick in 2003 is still the drought. Zverev is 25-2 at majors this year, per ATP.",
+  "stakes": "A second major of 2026 versus a first American men's finalist in a generation.",
+  "rivalryAngle": "World No. 1 versus home thunder that had already removed the defending champion.",
+  "home": "Alexander Zverev",
+  "away": "Ben Shelton",
+  "group": "GS",
+  "date": "2026-09-13",
+  "time": "14:00",
+  "venue": "Arthur Ashe Stadium",
+  "city": "New York",
+  "status": "FINISHED",
+  "sport": "tennis",
+  "competition": "us-open-2026"
+}

@@ -1,0 +1,72 @@
+{
+  "funFacts": [
+    "Belloumi scored twice in six minutes.",
+    "Hull's first league goals conceded this season.",
+    "Chelsea 2-1-1, 7 points."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Bachir Belloumi",
+      "team": "Hull City",
+      "hook": "28' and 34' at Stamford Bridge."
+    },
+    {
+      "name": "Morgan Rogers",
+      "team": "Chelsea",
+      "hook": "Opened after 7 minutes."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "premier-league",
+    "chelsea",
+    "hull"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026/27",
+  "roundLabel": "Matchweek 4",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Football Web Pages: Chelsea 2-2 Hull",
+      "url": "https://www.footballwebpages.co.uk/premier-league/fixtures-results"
+    },
+    {
+      "name": "Squawka table",
+      "url": "https://www.squawka.com/us/epl-standings/"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 2,
+  "awayScore": 2,
+  "slug": "chelsea-vs-hull-mw4",
+  "headline": "Chelsea 2-2 Hull: Belloumi twice, and the clean sheet is gone",
+  "whyCareScore": 8.6,
+  "whyCareReason": "Hull had not conceded in three league games. They scored twice at Stamford Bridge and still left with a point.",
+  "teaser": "Rogers 7', Pedro 66'; Bachir Belloumi 28', 34'. Hull unbeaten. Chelsea on 7.",
+  "story": "Why this one matters: Hull City arrived at Stamford Bridge with seven points and no goals conceded. They left with eight points and two goals conceded, and they scored twice themselves.\n\nFootball Web Pages: Morgan Rogers 7', Joao Pedro 66' for Chelsea. Bachir Belloumi 28' and 34' for Hull. Attendance 39,352. Match XI and Squawka both put Hull third on 8 points after the draw.\n\nThe Tigers are still unbeaten. The clean sheet that survived United, Villa and matchweek 3 did not survive London. That is still a sentence the table has to live with.",
+  "stakes": "A promoted side's unbeaten start against a side that had already lost in north London.",
+  "rivalryAngle": "New money versus a club that was supposed to be the measuring stick.",
+  "home": "Chelsea",
+  "away": "Hull City",
+  "group": "PL",
+  "date": "2026-09-12",
+  "time": "15:00",
+  "venue": "Stamford Bridge",
+  "city": "London",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "premier-league-2026-27"
+}

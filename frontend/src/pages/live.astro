@@ -10,7 +10,7 @@ const upcomingAll = matches
   .sort((a, b) => a.date.localeCompare(b.date) || b.whyCareScore - a.whyCareScore);
 const liveMatch =
   matches.find((m) => m.status === 'LIVE') ||
-  matches.find((m) => m.slug === 'alcaraz-vs-shelton-uso-qf') ||
+  matches.find((m) => m.slug === 'broncos-at-chiefs-mnf-2026') ||
   upcomingAll[0] ||
   matches.filter((m) => m.status === 'FINISHED').sort((a, b) => b.date.localeCompare(a.date))[0] ||
   matches[0];
@@ -32,11 +32,11 @@ const schema = {
   isPartOf: { '@id': `${SITE.url}/#website` },
 };
 ---
-<BaseLayout title="Live Second Screen | MatchTales" description="Your companion for whatever is actually on: US Open quarter-finals today, NFL kickoff tomorrow." keywords="live second screen, US Open, NFL kickoff, hype meter" schema={schema} imageAlt="MatchTales live second screen">
+<BaseLayout title="Live Second Screen | MatchTales" description="Your companion for whatever is actually on: Broncos at Chiefs tonight, Leeds vs Newcastle tonight." keywords="live second screen, NFL, Premier League, hype meter" schema={schema} imageAlt="MatchTales live second screen">
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8 pb-10">
     <header class="mt-8">
       <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">Second Screen</h1>
-      <p class="mt-2 text-muted font-sans max-w-2xl">Watching something that actually matters tonight? Keep this open. Hype, notes and a poll. On 8 September that means Tiafoe-Michelsen in a fifth set, then Alcaraz-Shelton. Tomorrow it means Seattle.</p>
+      <p class="mt-2 text-muted font-sans max-w-2xl">Watching something that actually matters tonight? Keep this open. Hype, notes and a poll. On 14 September that means Broncos at Chiefs, 8:15 p.m. ET, and Leeds vs Newcastle, 8 p.m. UK. Neither has a score yet.</p>
     </header>
 
     <div class="mt-6 grid lg:grid-cols-3 gap-6" data-testid="live-screen" data-slug={liveMatch.slug}>

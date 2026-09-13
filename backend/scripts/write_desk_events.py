@@ -1,4 +1,7 @@
-"""Write sourced multi-sport event JSON files. Scores only from the locked plan."""
+"""Write sourced multi-sport event JSON files. Scores only from the locked plan.
+
+Run update_stats_sept14.py after this file so 14 September results are not clobbered.
+"""
 from __future__ import annotations
 
 import json

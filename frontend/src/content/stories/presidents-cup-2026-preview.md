@@ -1,6 +1,6 @@
 ---
 title: "The next thing on the golf calendar is the Presidents Cup"
-subtitle: "25-28 September. No result. The FedEx Cup is in Scheffler's bag. This is the team event that comes next."
+subtitle: "Medinah, 24-27 September. No result. The FedEx Cup is in Scheffler's bag. This is the team event that comes next."
 category: "Preview"
 excerpt: "Preview only. The 2026 Presidents Cup has not been played. Do not invent a winner."
 image: "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=1600&h=900&q=80"
@@ -15,7 +15,7 @@ sources:
 
 ## Why this preview matters
 
-Golf seasons do not end when the FedEx Cup trophy is in the photo. They tilt toward team events. The Presidents Cup is scheduled 25-28 September 2026. As of 8 September it has not been played. That is the whole honest paragraph.
+Golf seasons do not end when the FedEx Cup trophy is in the photo. They tilt toward team events. The Presidents Cup is scheduled 24-27 September 2026 at Medinah Country Club. As of 14 September it has not been played. That is the whole honest paragraph.
 
 ## What we can print
 

@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "Alcaraz missed about four months with a right wrist injury.",
-    "Shelton beat Tsitsipas 6-2, 6-3, 6-4.",
-    "No 2026 US Open singles champion as of 8 September."
+    "Finished 3:33 a.m. ET, latest US Open finish on record.",
+    "Alcaraz led 5-3 in the match tie-break.",
+    "Shelton's first Top-3 win."
   ],
   "keyPlayers": [
     {
-      "name": "Carlos Alcaraz",
-      "team": "Spain",
-      "hook": "Defending champion, injury return, through Paul in straights."
-    },
-    {
       "name": "Ben Shelton",
       "team": "USA",
-      "hook": "Eighth seed, home Ashe, Tsitsipas in straights."
+      "hook": "Eighth seed. 146 mph ace to close it."
+    },
+    {
+      "name": "Carlos Alcaraz",
+      "team": "Spain",
+      "hook": "Defending champion, wrist return, 53 unforced errors."
     }
   ],
   "headToHead": "",
@@ -35,30 +35,51 @@
   "awayPen": null,
   "season": "",
   "roundLabel": "Men's quarter-final",
-  "resultSummary": "",
+  "resultSummary": "Shelton 6-7 (5), 6-1, 6-3, 1-6, 7-6 (10-7) Alcaraz",
   "leaderboard": [],
-  "tennisSets": [],
-  "sources": [
+  "tennisSets": [
     {
-      "name": "Reuters: Alcaraz-Shelton QF",
-      "url": "https://www.reuters.com/sports/tennis/shelton-next-up-alcaraz-tackles-all-american-gauntlet-path-us-open-final-2026-09-07/"
+      "p1": "7",
+      "p2": "6"
     },
     {
-      "name": "usopen.org: Sunday winners",
-      "url": "https://www.usopen.org/en_US/news/articles/2026-09-06/who_won_on_sunday_at_the_2026_us_open_results_and_highlights.html"
+      "p1": "1",
+      "p2": "6"
+    },
+    {
+      "p1": "3",
+      "p2": "6"
+    },
+    {
+      "p1": "6",
+      "p2": "1"
+    },
+    {
+      "p1": "6",
+      "p2": "7"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP: Shelton upsets Alcaraz",
+      "url": "https://www.atptour.com/en/news/alcaraz-shelton-us-open-2026-qf"
+    },
+    {
+      "name": "BBC: Shelton beats Alcaraz",
+      "url": "https://www.bbc.com/sport/tennis/articles/c20v6pgz7nmo"
     }
   ],
   "format": "singles",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 2,
+  "awayScore": 3,
   "slug": "alcaraz-vs-shelton-uso-qf",
-  "headline": "Alcaraz vs Shelton: the US Open quarter that New York wanted",
-  "whyCareScore": 9.5,
-  "whyCareReason": "A defending champion back from a four-month wrist layoff against a home lefty on Ashe. No 2026 champion yet.",
-  "teaser": "Quarter-final, 8-9 September. Alcaraz beat Tommy Paul 6-4, 6-3, 6-4. Shelton beat Tsitsipas 6-2, 6-3, 6-4. They meet next.",
-  "story": "Why this one matters: the US Open is still live. Do not write a champion. Write the match that sits in front of you.\n\nCarlos Alcaraz is the defending champion, back from a right-wrist injury that kept him out about four months. He opened against Roman Safiullin 6-4, 6-4, 6-4 and then beat Tommy Paul 6-4, 6-3, 6-4. Ben Shelton, the eighth seed, beat Stefanos Tsitsipas 6-2, 6-3, 6-4 and called Alcaraz's return superhuman. Fireworks on Tuesday night, he said.\n\nIf Alcaraz wins he likely sees Tiafoe or Michelsen in a semi. The American men have not had a Slam champion since Andy Roddick here in 2003. That is the air in the building. The match is the thing.",
-  "stakes": "A quarter-final that can send a favourite into an American semi, or send New York into orbit.",
-  "rivalryAngle": "Defending champion versus home thunder.",
+  "headline": "Shelton beats Alcaraz at 3:33 a.m., the latest finish in US Open history",
+  "whyCareScore": 9.8,
+  "whyCareReason": "Defending champion, four months out with a wrist, out in five. A 146 mph ace closed a 10-7 match tie-break.",
+  "teaser": "Shelton 6-7 (5), 6-1, 6-3, 1-6, 7-6 (10-7) Alcaraz. Four hours 28 minutes. Record late finish.",
+  "story": "Why this one matters: Carlos Alcaraz came back from a right-wrist layoff to defend a US Open. Ben Shelton ended it after 3:33 a.m. in New York, the latest finish in tournament history.\n\nATP logged 6-7 (5), 6-1, 6-3, 1-6, 7-6 (10-7). BBC printed the same sets and the 10-7 match tie-break. Alcaraz took the first breaker 7-5. Shelton ran nine games in a row through the second and third. Alcaraz took the fourth 6-1. In the fifth-set tie-break Alcaraz led 5-3. Shelton won seven of the next nine points and closed with a 146 mph ace.\n\nIt was Shelton's first win over a top-three player. Alcaraz made 53 unforced errors to Shelton's 35, per Bleacher Report. The next match was Tiafoe. The American drought since Roddick in 2003 still had a finalist.",
+  "stakes": "A defending champion gone. An American in the final four. A record clock.",
+  "rivalryAngle": "Home lefty versus the favourite who had not lost to an American at a Slam.",
   "home": "Carlos Alcaraz",
   "away": "Ben Shelton",
   "group": "GS",
@@ -66,7 +87,7 @@
   "time": "19:00",
   "venue": "Arthur Ashe Stadium",
   "city": "New York",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "tennis",
   "competition": "us-open-2026"
 }

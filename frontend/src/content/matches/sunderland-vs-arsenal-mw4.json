@@ -1,0 +1,72 @@
+{
+  "funFacts": [
+    "Arsenal 4-0-0, 12 points.",
+    "Saka penalty 90+7'.",
+    "Arsenal 8 scored, 1 conceded."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Bruno Guimaraes",
+      "team": "Arsenal",
+      "hook": "Opened the scoring in the 58th minute."
+    },
+    {
+      "name": "Bukayo Saka",
+      "team": "Arsenal",
+      "hook": "Penalty, 90+7', 2-0."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "premier-league",
+    "arsenal",
+    "sunderland"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026/27",
+  "roundLabel": "Matchweek 4",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Football Web Pages: Sunderland 0-2 Arsenal",
+      "url": "https://www.footballwebpages.co.uk/premier-league/fixtures-results"
+    },
+    {
+      "name": "AFP table 13 September",
+      "url": "https://www.nampa.org/text/23014907"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 0,
+  "awayScore": 2,
+  "slug": "sunderland-vs-arsenal-mw4",
+  "headline": "Arsenal 2-0 at Sunderland: four from four, Guimaraes then Saka",
+  "whyCareScore": 8.9,
+  "whyCareReason": "The champions go to a promoted ground and leave with 12 points. Nobody else has a perfect record except City.",
+  "teaser": "Guimaraes 58', Saka 90+7' penalty. Sunderland 0-2 Arsenal. Arsenal 8-1 on goal difference.",
+  "story": "Why this one matters: matchweek 4 was the first chance the table had to apologise. Arsenal did not let it. Sunderland 0-2 Arsenal, Bruno Guimaraes 58', Bukayo Saka 90+7' penalty, per Football Web Pages.\n\nAFP after Sunday: Arsenal 4 4 0 0, 8 1, 12 points. Same line on Squawka and NBC Sports. City also have 12 after Old Trafford. Goal difference is the split: Arsenal +7, City +6.\n\nA promoted club hosted the champions. The champions left with the same 100 per cent they brought.",
+  "stakes": "Twelve points from four. A title start that now has a road win in it.",
+  "rivalryAngle": "Promoted host, champion guest, one result.",
+  "home": "Sunderland",
+  "away": "Arsenal",
+  "group": "PL",
+  "date": "2026-09-12",
+  "time": "17:30",
+  "venue": "Stadium of Light",
+  "city": "Sunderland",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "premier-league-2026-27"
+}
