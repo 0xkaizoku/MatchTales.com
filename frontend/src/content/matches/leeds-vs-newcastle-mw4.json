@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "Both on 3 played, 5 points.",
-    "Kickoff 8 p.m. UK.",
-    "Arsenal and City already have 12."
+    "Miley own goal 32'.",
+    "Calvert-Lewin header 34', Justin assist.",
+    "Gonzalez off 19', concussion substitute Steur."
   ],
   "keyPlayers": [
     {
-      "name": "Leeds United",
+      "name": "Dominic Calvert-Lewin",
       "team": "Leeds United",
-      "hook": "Home, 1-2-0, +1, 5 points."
+      "hook": "Header, 34th minute, 2-0."
     },
     {
-      "name": "Newcastle United",
+      "name": "Lewis Miley",
       "team": "Newcastle United",
-      "hook": "Away, 1-2-0, +2, 5 points."
+      "hook": "Own goal, 32nd minute, 1-0."
     }
   ],
   "headToHead": "",
@@ -28,37 +28,37 @@
   "awayFlag": "",
   "matchday": 0,
   "marquee": true,
-  "liveMinute": null,
+  "liveMinute": 36,
   "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&q=80",
   "decidedBy": null,
   "homePen": null,
   "awayPen": null,
   "season": "2026/27",
   "roundLabel": "Matchweek 4",
-  "resultSummary": "",
+  "resultSummary": "LIVE 36': Leeds 2-0 Newcastle",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "Football Web Pages fixtures",
-      "url": "https://www.footballwebpages.co.uk/premier-league/fixtures-results"
+      "name": "ESPN: Leeds vs Newcastle live",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401879280"
     },
     {
-      "name": "Match XI 2026-27",
-      "url": "https://matchxi.com/seasons/2026-27"
+      "name": "The Athletic live blog",
+      "url": "https://www.nytimes.com/athletic/live-blogs/leeds-vs-newcastle-live-updates-premier-league-score-result/26fITQs9mbRr/"
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 2,
+  "awayScore": 0,
   "slug": "leeds-vs-newcastle-mw4",
-  "headline": "Leeds vs Newcastle: the last matchweek 4 fixture has not been played",
-  "whyCareScore": 7.8,
-  "whyCareReason": "Both clubs have 5 points from 3 games. Elland Road, Monday 8 p.m. UK. No score yet.",
-  "teaser": "14 September, 8 p.m. Leeds United vs Newcastle United. The rest of matchweek 4 is in the book. This is not.",
-  "story": "Why this one matters: the table after Sunday is rude and incomplete. Leeds and Newcastle are the two clubs still on three games. Both have 5 points. Both can jump the mid-table pile with a win at Elland Road.\n\nFootball Web Pages lists Monday 14 September, 8 p.m. Match XI has the same kickoff as unplayed. Squawka's table, last updated after Saturday in one crawl and after Sunday in another, still has both on 3 played.\n\nPrint the fixture. Do not print a 14 September score on the morning of 14 September.",
-  "stakes": "Five points each, a chance to make matchweek 4 look finished.",
-  "rivalryAngle": "Two sides with European noise in recent memory, one Monday night.",
+  "headline": "Leeds 2-0 Newcastle: Miley own goal, then Calvert-Lewin, still live",
+  "whyCareScore": 9.2,
+  "whyCareReason": "Two goals in two minutes at Elland Road. The table after Sunday is not the table yet. The match is not finished.",
+  "teaser": "LIVE 36': Leeds 2-0 Newcastle. Lewis Miley own goal 32'. Dominic Calvert-Lewin header 34', James Justin the assist.",
+  "story": "Why this one matters: both clubs arrived on five points from three games. The rest of matchweek 4 was already in the book. Elland Road was the last fixture, and it has a live score.\n\nESPN at 36 minutes: Leeds 2-0. Lewis Miley's own goal at 32', a deflection after Ao Tanaka struck from the left. Dominic Calvert-Lewin headed in at 34' from James Justin's cross. Nico Gonzalez went off in the 19th minute as a concussion substitute for Sean Steur. That is the score. That is not a result.\n\nPrint 2-0 and 36 minutes. Do not print full time. The table after Sunday still has both clubs on three games until this one ends.",
+  "stakes": "Five points each when it started. A live chance to jump the mid-table pile. Not decided.",
+  "rivalryAngle": "Two unbeaten league starts, one Monday night, two goals that have not closed the night.",
   "home": "Leeds United",
   "away": "Newcastle United",
   "group": "PL",
@@ -66,7 +66,7 @@
   "time": "20:00",
   "venue": "Elland Road",
   "city": "Leeds",
-  "status": "UPCOMING",
+  "status": "LIVE",
   "sport": "soccer",
   "competition": "premier-league-2026-27"
 }
