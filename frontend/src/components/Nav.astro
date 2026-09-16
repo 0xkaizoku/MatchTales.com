@@ -92,7 +92,7 @@ const isActive = (href: string) => {
     }
     // Search
     const overlay = document.getElementById('search-overlay');
-    const input = document.getElementById('site-search-input');
+    const input = document.getElementById('site-search-input') as HTMLInputElement | null;
     const results = document.getElementById('search-results');
     const open = () => { overlay?.classList.remove('hidden'); setTimeout(() => input?.focus(), 30); };
     const close = () => { overlay?.classList.add('hidden'); if(input) input.value=''; if(results) results.innerHTML=''; };

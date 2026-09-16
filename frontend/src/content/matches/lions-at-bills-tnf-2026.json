@@ -1,0 +1,73 @@
+{
+  "funFacts": [
+    "Kickoff 8:15 p.m. ET, Prime Video.",
+    "Both teams 1-0 until this game.",
+    "First regular-season game at the new Highmark Stadium."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Josh Allen",
+      "team": "Bills",
+      "hook": "Home, new stadium, 1-0 after Houston."
+    },
+    {
+      "name": "Jared Goff",
+      "team": "Lions",
+      "hook": "Road, 1-0 after overtime in Week 1. No Thursday score yet."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "nfl",
+    "bills",
+    "lions",
+    "tnf"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1566577739112-5184e6ac4a4e?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Week 2 \u00b7 TNF",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NFL.com: Lions at Bills Week 2",
+      "url": "https://www.nfl.com/news/lions-bills-week-2-prime-video-2026-nfl-schedule-release"
+    },
+    {
+      "name": "ESPN NFL schedule Week 2",
+      "url": "https://www.espn.com/nfl/schedule/_/week/2"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "lions-at-bills-tnf-2026",
+  "headline": "Lions at Bills: Thursday night, a new Highmark Stadium, no snap yet",
+  "whyCareScore": 9.0,
+  "whyCareReason": "Two 1-0 clubs. Prime Video, 8:15 p.m. ET. First regular-season game in Buffalo's new stadium. Do not invent a score.",
+  "teaser": "Thursday 17 September. Detroit at Buffalo. Week 1 is in the book. This one is not.",
+  "story": "Why this one matters: Week 1 closed 31-10 in Kansas City. Week 2 opens in a building that has not hosted a regular-season snap.\n\nNFL.com and ESPN: Lions at Bills, Highmark Stadium, Orchard Park, 8:15 p.m. ET, Prime Video. Both clubs are 1-0. Buffalo beat Houston 36-31. Detroit beat New Orleans 31-30 in overtime. That is the honest line on 16 September.\n\nPrint the time. Print the stadium. Do not print a winner.",
+  "stakes": "The first Thursday of 2026, in a new stadium, between two clubs that already scored in Week 1.",
+  "rivalryAngle": "AFC East host, NFC North visitor, a stadium opener instead of a rivalry.",
+  "home": "Buffalo Bills",
+  "away": "Detroit Lions",
+  "group": "NFL",
+  "date": "2026-09-17",
+  "time": "20:15",
+  "venue": "Highmark Stadium",
+  "city": "Orchard Park",
+  "status": "UPCOMING",
+  "sport": "football",
+  "competition": "nfl-2026"
+}

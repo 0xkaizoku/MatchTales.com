@@ -1,0 +1,77 @@
+{
+  "funFacts": [
+    "Dowman 7' and 47', first start of the season.",
+    "Madueke 16', Merino 58', first league-cup goals of the campaign.",
+    "Mehmeti 62', Akpom 90+1'."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Max Dowman",
+      "team": "Arsenal",
+      "hook": "Two goals, 16 years 258 days, first start of 2026/27."
+    },
+    {
+      "name": "Mikel Merino",
+      "team": "Arsenal",
+      "hook": "Stand-in captain. Fourth goal, 58th minute, in off the post."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "carabao-cup",
+    "arsenal",
+    "ipswich",
+    "dowman"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026/27",
+  "roundLabel": "Carabao Cup third round",
+  "resultSummary": "Ipswich 2-4 Arsenal",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ESPN: Ipswich 2-4 Arsenal",
+      "url": "https://www.espn.co.uk/football/report/_/gameId/401914268"
+    },
+    {
+      "name": "Sky Sports: Dowman double",
+      "url": "https://www.skysports.com/football/news/11095/13582699/ipswich-2-4-arsenal-max-dowman-shines-with-two-goals-as-gunners-ease-into-carabao-cup-fourth-round"
+    },
+    {
+      "name": "The Guardian: Dowman doubles up",
+      "url": "https://www.theguardian.com/football/2026/sep/15/ipswich-arsenal-carabao-cup-third-round-match-report"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 2,
+  "awayScore": 4,
+  "slug": "ipswich-vs-arsenal-carabao-2026",
+  "headline": "Dowman twice, Arsenal 4-2 at Ipswich, seven from seven",
+  "whyCareScore": 8.7,
+  "whyCareReason": "A 16-year-old scores twice on his first start of the season. Arsenal rotate and still go through. Ipswich get two back when it is already 4-0.",
+  "teaser": "FINAL: Ipswich 2-4 Arsenal. Dowman 7', 47'. Madueke 16'. Merino 58'. Mehmeti 62', Akpom 90+1'.",
+  "story": "Why this one matters: the champions had already won four league games. Tuesday was the Carabao Cup third round, a rotated side, and a 16-year-old who had not started this season.\n\nESPN and Sky: Max Dowman 7' and 47', Noni Madueke 16', Mikel Merino 58'. Anis Mehmeti 62' after Jack Clarke came on. Chuba Akpom 90+1' against his old club. Opta via Sky: Dowman is 16 years 258 days, the third-youngest League Cup scorer for a Premier League side after Cesc Fabregas and Jack Wilshere.\n\nThe Guardian: Arsenal are seven wins from seven in all competitions. Marli Salmon started next to Gabriel. That is a cup result, not a league table line. The league table is still Arsenal 12 from four.",
+  "stakes": "Fourth round of the League Cup. A teenager with two senior goals on the night. League points unchanged.",
+  "rivalryAngle": "A rotated champion against a promoted side that already has six league points.",
+  "home": "Ipswich Town",
+  "away": "Arsenal",
+  "group": "EFL",
+  "date": "2026-09-15",
+  "time": "20:00",
+  "venue": "Portman Road",
+  "city": "Ipswich",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "carabao-cup-2026-27"
+}

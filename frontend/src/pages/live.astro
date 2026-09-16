@@ -10,7 +10,7 @@ const upcomingAll = matches
   .sort((a, b) => a.date.localeCompare(b.date) || b.whyCareScore - a.whyCareScore);
 const liveMatch =
   matches.find((m) => m.status === 'LIVE') ||
-  matches.find((m) => m.slug === 'broncos-at-chiefs-mnf-2026') ||
+  matches.find((m) => m.slug === 'lions-at-bills-tnf-2026') ||
   upcomingAll[0] ||
   matches.filter((m) => m.status === 'FINISHED').sort((a, b) => b.date.localeCompare(a.date))[0] ||
   matches[0];
@@ -32,11 +32,11 @@ const schema = {
   isPartOf: { '@id': `${SITE.url}/#website` },
 };
 ---
-<BaseLayout title="Live Second Screen | MatchTales" description="Your companion for whatever is actually on: Leeds 2-0 Newcastle live at Elland Road, Broncos at Chiefs later." keywords="live second screen, NFL, Premier League, hype meter" schema={schema} imageAlt="MatchTales live second screen">
+<BaseLayout title="Live Second Screen | MatchTales" description="Your companion for whatever is actually on: Chiefs 31-10 closed Week 1, Lions at Bills on Thursday night." keywords="live second screen, NFL, Premier League, hype meter" schema={schema} imageAlt="MatchTales live second screen">
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8 pb-10">
     <header class="mt-8">
       <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">Second Screen</h1>
-      <p class="mt-2 text-muted font-sans max-w-2xl">Watching something that actually matters tonight? Keep this open. Hype, notes and a poll. On 14 September that means Leeds 2-0 Newcastle, 36 minutes at Elland Road, and Broncos at Chiefs at 8:15 p.m. ET still to kick.</p>
+      <p class="mt-2 text-muted font-sans max-w-2xl">Watching something that actually matters? Keep this open. Hype, notes and a poll. On 16 September that means Leeds 4-1 and Chiefs 31-10 are in the book, and Lions at Bills is Thursday at 8:15 p.m. ET in a new Highmark Stadium.</p>
     </header>
 
     <div class="mt-6 grid lg:grid-cols-3 gap-6" data-testid="live-screen" data-slug={liveMatch.slug}>
@@ -128,14 +128,62 @@ const schema = {
     .poll-label{position:relative}
   </style>
   <script>
-    function bindLiveScreen(){
-      const root=document.querySelector('[data-testid="live-screen"]'); if(!root||root.dataset.bound)return; root.dataset.bound='1';
-      const BACKEND=(import.meta.env.PUBLIC_BACKEND_URL)||''; const slug=root.dataset.slug;
+    function bindLiveScreen() {
+      const root = document.querySelector<HTMLElement>('[data-testid="live-screen"]');
+      if (!root || root.dataset.bound) return;
+      root.dataset.bound = '1';
+      const BACKEND = (import.meta.env.PUBLIC_BACKEND_URL as string) || '';
+      const slug = root.dataset.slug || '';
       // Poll
-      const opts=root.querySelectorAll('.poll-opt'); const msg=document.getElementById('poll-msg');
-      function render(votes){ const total=(votes.home||0)+(votes.draw||0)+(votes.away||0); opts.forEach((o)=>{ const k=o.dataset.opt; const n=votes[k]||0; const pct=total?Math.round(n/total*100):0; let fill=o.querySelector('.poll-fill'); if(!fill){fill=document.createElement('span'); fill.className='poll-fill'; o.prepend(fill);} fill.style.width=pct+'%'; let pc=o.querySelector('.poll-pct'); if(!pc){pc=document.createElement('span'); pc.className='poll-pct'; o.appendChild(pc);} pc.textContent=pct+'%'; }); msg.textContent=`${total} vote${total===1?'':'s'} so far`; }
-      async function loadPoll(){ try{ const r=await fetch(`${BACKEND}/api/poll/${slug}`); const d=await r.json(); render(d.votes||{}); }catch(e){} }
-      opts.forEach((o)=>o.addEventListener('click', async ()=>{ try{ const r=await fetch(`${BACKEND}/api/poll/vote`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({matchSlug:slug,option:o.dataset.opt})}); const d=await r.json(); render(d.votes||{}); opts.forEach((x)=>x.style.opacity='0.7'); o.style.opacity='1'; }catch(e){msg.textContent='Could not register vote.';} }));
+      const opts = root.querySelectorAll<HTMLElement>('.poll-opt');
+      const msg = document.getElementById('poll-msg');
+      function render(votes: Record<string, number>) {
+        const total = (votes.home || 0) + (votes.draw || 0) + (votes.away || 0);
+        opts.forEach((o) => {
+          const k = o.dataset.opt || '';
+          const n = votes[k] || 0;
+          const pct = total ? Math.round((n / total) * 100) : 0;
+          let fill = o.querySelector<HTMLElement>('.poll-fill');
+          if (!fill) {
+            fill = document.createElement('span');
+            fill.className = 'poll-fill';
+            o.prepend(fill);
+          }
+          fill.style.width = pct + '%';
+          let pc = o.querySelector<HTMLElement>('.poll-pct');
+          if (!pc) {
+            pc = document.createElement('span');
+            pc.className = 'poll-pct';
+            o.appendChild(pc);
+          }
+          pc.textContent = pct + '%';
+        });
+        if (msg) msg.textContent = `${total} vote${total === 1 ? '' : 's'} so far`;
+      }
+      async function loadPoll() {
+        try {
+          const r = await fetch(`${BACKEND}/api/poll/${slug}`);
+          const d = await r.json();
+          render(d.votes || {});
+        } catch (e) {}
+      }
+      opts.forEach((o) =>
+        o.addEventListener('click', async () => {
+          try {
+            const r = await fetch(`${BACKEND}/api/poll/vote`, {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ matchSlug: slug, option: o.dataset.opt }),
+            });
+            const d = await r.json();
+            render(d.votes || {});
+            opts.forEach((x) => (x.style.opacity = '0.7'));
+            o.style.opacity = '1';
+          } catch (e) {
+            if (msg) msg.textContent = 'Could not register vote.';
+          }
+        })
+      );
       loadPoll();
     }
     bindLiveScreen();

@@ -4,8 +4,27 @@ import MatchStoryCard from '../../components/MatchStoryCard.astro';
 import { getCollection } from 'astro:content';
 import { data, teamBySlug, getFlagUrl } from '../../lib/site';
 
+export interface Props {
+  team: {
+    slug: string;
+    name: string;
+    nick: string;
+    group: string;
+    story: string;
+    color: string;
+    code: string;
+    rank: number | string;
+    conf: string;
+    titles: number;
+    best: string;
+    keyPlayers: [string, string][];
+    funFact: string;
+    [key: string]: any;
+  };
+}
+
 export async function getStaticPaths() {
-  return data.teams.map((t: any) => ({ params: { slug: t.slug }, props: { team: t } }));
+  return (data.teams as Props['team'][]).map((t) => ({ params: { slug: t.slug }, props: { team: t } }));
 }
 const { team } = Astro.props;
 const dossiers = await getCollection('teams');

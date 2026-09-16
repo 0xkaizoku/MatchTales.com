@@ -22,7 +22,7 @@ const tomorrowStr = addDays(todayStr, 1);
 
 const featured =
   matches.find((m) => m.status === 'LIVE') ||
-  matches.find((m) => m.slug === 'broncos-at-chiefs-mnf-2026') ||
+  matches.find((m) => m.slug === 'lions-at-bills-tnf-2026') ||
   matches.find((m) => m.status === 'UPCOMING' && m.date >= todayStr) ||
   matches.find((m) => m.slug === 'zverev-vs-shelton-uso-final') ||
   matches.find((m) => m.slug === 'spain-vs-argentina-md9') ||
@@ -66,9 +66,9 @@ const homeSchema = {
         <span class="text-muted">· {fmtDate(todayStr)}</span>
       </div>
       <div class="flex flex-wrap items-center gap-2 text-[12px] font-sans text-muted">
-        <span class="inline-flex items-center gap-1.5 text-coral font-medium"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>Leeds 2-0 Newcastle, 36'</span>
-        <span>· Broncos at Chiefs, 8:15 p.m. ET, not kicked</span>
-        <span>· Giants 28-20 on Sunday night</span>
+        <span>Leeds 4-1 Newcastle. Third on 8.</span>
+        <span>· Chiefs 31-10. Week 1 closed.</span>
+        <span>· Lions at Bills, Thursday 8:15 p.m. ET</span>
       </div>
     </div>
 
@@ -100,7 +100,7 @@ const homeSchema = {
         <div class="flex items-end justify-between gap-4 mb-4">
           <div>
             <h2 id="ton-h" class="font-head text-2xl font-semibold tracking-tight">Tonight · {fmtDate(todayStr)}</h2>
-            <p class="text-sm text-muted font-sans mt-0.5">Leeds are 2-0 at Elland Road, 36 minutes, ESPN. Broncos at Chiefs is the last snap of NFL Week 1 and has not been played.</p>
+            <p class="text-sm text-muted font-sans mt-0.5">Monday is in the book. Thursday is Lions at Bills, 8:15 p.m. ET, Prime Video, first regular-season snap in the new Highmark Stadium.</p>
           </div>
           <a href="/sport/football" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4 whitespace-nowrap">Football desk</a>
         </div>
@@ -144,7 +144,7 @@ const homeSchema = {
             </li>
           ))}
         </ol>
-        <p class="mt-3 text-[12px] text-muted">Arsenal and City are both 4-0-0. Hull are unbeaten on 8. Leeds 2-0 Newcastle is live: the table after Sunday still holds until full time. <a href="/sport/soccer" class="text-sky hover:underline">Soccer desk</a></p>
+        <p class="mt-3 text-[12px] text-muted">Arsenal and City are both 4-0-0. Leeds are third on 8. Hull unbeaten on 8. Matchweek 4 is finished. <a href="/sport/soccer" class="text-sky hover:underline">Soccer desk</a></p>
       </div>
       <div>
         <h2 class="font-head text-xl font-semibold tracking-tight mb-3">F1 after Madrid</h2>

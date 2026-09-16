@@ -1,6 +1,6 @@
 """Write sourced multi-sport event JSON files. Scores only from the locked plan.
 
-Run update_stats_sept14.py then update_stats_sept15.py after this file so later desk results are not clobbered.
+Run update_stats_sept14.py then update_stats_sept15.py then update_stats_sept16.py after this file so later desk results are not clobbered.
 """
 from __future__ import annotations
 

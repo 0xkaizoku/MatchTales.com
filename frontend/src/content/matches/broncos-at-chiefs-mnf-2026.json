@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "Kickoff 8:15 p.m. ET, ESPN/ABC.",
-    "Both teams 0-0 until this game.",
-    "Sunday night already finished: Giants 28, Cowboys 20."
+    "Walker 173 rushing yards, career high, two total TDs.",
+    "Chiefs 220 rush yards, 392 total. Broncos 176 total, 61 rush.",
+    "Attendance 73,543. Game time 2:59."
   ],
   "keyPlayers": [
     {
-      "name": "Patrick Mahomes",
+      "name": "Kenneth Walker III",
       "team": "Chiefs",
-      "hook": "Cleared to start. First regular-season snap since the knee."
+      "hook": "23-173, 60-yard rush, 2-yard receiving TD. Chiefs debut."
     },
     {
-      "name": "Bo Nix",
-      "team": "Broncos",
-      "hook": "First meaningful game since the playoff ankle."
+      "name": "Patrick Mahomes",
+      "team": "Chiefs",
+      "hook": "First regular-season snap since the knee. 15-yard rushing TD, two passing TDs."
     }
   ],
   "headToHead": "",
@@ -36,30 +36,34 @@
   "awayPen": null,
   "season": "2026",
   "roundLabel": "Week 1 \u00b7 MNF",
-  "resultSummary": "",
+  "resultSummary": "Chiefs 31, Broncos 10",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "ESPN NFL scoreboard",
-      "url": "https://www.espn.com/nfl/scoreboard"
+      "name": "Pro-Football-Reference: Broncos at Chiefs",
+      "url": "https://www.pro-football-reference.com/boxscores/202609140kan.htm"
     },
     {
-      "name": "FOX Week 1 schedule",
-      "url": "https://www.foxsports.com/stories/nfl/when-does-2026-nfl-season-start-complete-week-1-schedule"
+      "name": "ESPN: Chiefs 31-10 Broncos",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872931/broncos-chiefs"
+    },
+    {
+      "name": "BBC: Walker stars for Chiefs",
+      "url": "https://www.bbc.co.uk/sport/articles/cqx2z5edy37po"
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 31,
+  "awayScore": 10,
   "slug": "broncos-at-chiefs-mnf-2026",
-  "headline": "Broncos at Chiefs: Monday night, Week 1 still has one snap left",
-  "whyCareScore": 9.1,
-  "whyCareReason": "Arrowhead, 8:15 p.m. ET, ESPN/ABC. Sunday is locked. This one has not been played. Do not invent a score.",
-  "teaser": "Monday 14 September. Denver at Kansas City. Giants 28-20 on Sunday night. This kickoff is still to come.",
-  "story": "Why this one matters: Week 1 already has a Super Bowl rematch, an Australia game, a 59-37 in Charlotte, a 31-30 overtime in Detroit, and Giants 28-20 on Sunday night. It does not yet have a Monday night result.\n\nBroncos at Chiefs, Arrowhead Stadium, 8:15 p.m. ET, ESPN and ABC. ESPN's scoreboard still lists both clubs 0-0 with kickoff to come. That is the honest line while Elland Road is live.\n\nPrint the time. Print the channel. Do not print a winner.",
-  "stakes": "The last result of Week 1, in a building that has lived on them.",
-  "rivalryAngle": "AFC West, a Sunday leftover on Monday night.",
+  "headline": "Chiefs 31-10 Broncos: Walker 173, Mahomes back, Week 1 closed",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Kenneth Walker III ran for 173 yards and scored twice on his Chiefs debut. Patrick Mahomes returned from the knee with three total touchdowns. Denver left with 176 yards.",
+  "teaser": "FINAL: Chiefs 31, Broncos 10. Walker 23-173, two TDs. Mahomes 15-27, 184, two passing TDs, one rushing. Attendance 73,543.",
+  "story": "Why this one matters: Week 1 already had a Super Bowl rematch, an Australia game, a 59-37 in Charlotte, a 31-30 overtime in Detroit, and Giants 28-20 on Sunday night. Monday night at Arrowhead closed the book 31-10.\n\nPro-Football-Reference: Broncos 7-0-3-0, Chiefs 7-7-10-7. Mahomes 15-yard rush at 8:11 of the first. Bo Nix to Evan Engram, 19 yards, 7-7. Rashee Rice 13-yard catch late in the second, 14-7. Walker 60-yard rush in the third. Wil Lutz 31-yard field goal. Harrison Butker 28 after Travis Kelce's 59-yard catch. Walker 2-yard receiving score early in the fourth.\n\nESPN, FOX and the Denver Post agree on 31-10. Walker 23 carries, 173 yards, one rushing touchdown, three catches, 18 yards, one receiving touchdown. Mahomes 15 of 27, 184 yards, two passing touchdowns, one interception, one rushing touchdown. Nix 17 of 28, 131 yards, one touchdown, one interception, four sacks, three fumbles, one lost. Chiefs 220 rushing yards. Attendance 73,543. Kansas City 1-0. Denver 0-1.",
+  "stakes": "Week 1 is finished. Every game was won by a different margin. Thursday is Lions at Bills in a new stadium.",
+  "rivalryAngle": "AFC West, Mahomes' first snap since the knee, Walker's first night in red.",
   "home": "Kansas City Chiefs",
   "away": "Denver Broncos",
   "group": "NFL",
@@ -67,7 +71,7 @@
   "time": "20:15",
   "venue": "Arrowhead Stadium",
   "city": "Kansas City",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "football",
   "competition": "nfl-2026"
 }

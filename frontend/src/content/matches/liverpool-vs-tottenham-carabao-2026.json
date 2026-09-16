@@ -1,0 +1,72 @@
+{
+  "funFacts": [
+    "Mac Allister 21', Gakpo 54', Szoboszlai 90+1'.",
+    "Gallagher 69': Spurs' first goal against a top-flight side this season.",
+    "Iraola made ten changes."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Dominik Szoboszlai",
+      "team": "Liverpool",
+      "hook": "Stoppage-time strike from distance, 3-1."
+    },
+    {
+      "name": "Conor Gallagher",
+      "team": "Tottenham Hotspur",
+      "hook": "Header, 69th minute. First Spurs goal against a top-flight side this season."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "carabao-cup",
+    "liverpool",
+    "tottenham"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026/27",
+  "roundLabel": "Carabao Cup third round",
+  "resultSummary": "Liverpool 3-1 Tottenham",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Sky Sports: Liverpool 3-1 Tottenham",
+      "url": "https://www.skysports.com/football/news/11095/13582687/liverpool-3-1-tottenham-dominik-szoboszlai-strike-seals-carabao-cup-win-as-spurs-at-least-end-goal-drought"
+    },
+    {
+      "name": "The Independent: Liverpool v Tottenham",
+      "url": "https://www.independent.co.uk/sport/football/liverpool-tottenham-result-player-ratings-carabao-cup-b3050755.html"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 3,
+  "awayScore": 1,
+  "slug": "liverpool-vs-tottenham-carabao-2026",
+  "headline": "Liverpool 3-1 Tottenham: Szoboszlai from distance, Spurs still without a win",
+  "whyCareScore": 8.8,
+  "whyCareReason": "Mac Allister, Gakpo, then a stoppage-time rocket. Gallagher scored Spurs' first against a top-flight side this season. It was not enough.",
+  "teaser": "FINAL: Liverpool 3-1 Tottenham. Mac Allister 21', Gakpo 54', Gallagher 69', Szoboszlai 90+1'.",
+  "story": "Why this one matters: Tottenham had two league points and no league goals. Tuesday at Anfield was supposed to be a cup reset. It became 3-1 and another exit.\n\nSky: Alexis Mac Allister 21', first-time into the roof of the net. Cody Gakpo 54'. Conor Gallagher 69' from a corner, Tottenham's first goal against top-flight opposition this season. Dominik Szoboszlai 90+1' from distance. Giorgi Mamardashvili denied Lucas Bergvall early and Omar Marmoush late.\n\nThe Independent: Andoni Iraola made ten changes and still went through. Roberto De Zerbi called the result unfair. Spurs named a strong side and still have no win in 2026/27.",
+  "stakes": "Liverpool in the last 16. Tottenham out of one of three remaining competitions, still winless.",
+  "rivalryAngle": "A cup tie between two league underachievers. Only one of them can still use the League Cup as a season.",
+  "home": "Liverpool",
+  "away": "Tottenham Hotspur",
+  "group": "EFL",
+  "date": "2026-09-15",
+  "time": "20:00",
+  "venue": "Anfield",
+  "city": "Liverpool",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "carabao-cup-2026-27"
+}

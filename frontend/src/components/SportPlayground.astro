@@ -17,6 +17,7 @@ const nflLinks: Record<string, string> = {
   '2026-09-09': '/match/patriots-at-seahawks-kickoff-2026',
   '2026-09-10': '/match/49ers-vs-rams-melbourne-2026',
   '2026-09-14': '/match/broncos-at-chiefs-mnf-2026',
+  '2026-09-17': '/match/lions-at-bills-tnf-2026',
 };
 const hoopsPairs = [
   { a: desk.wnbaSeeds[0], b: desk.wnbaSeeds[7] },
@@ -69,8 +70,8 @@ const hoopsPairs = [
     <section class="pg-frame field-frame">
       <div class="pg-head">
         <div>
-          <h2 class="font-head text-xl font-semibold tracking-tight">Week 1, one snap left</h2>
-          <p class="text-sm text-muted font-sans mt-1">Sunday is locked, including Giants 28-20. Monday night is Broncos at Chiefs, 8:15 p.m. ET. That one has not been played.</p>
+          <h2 class="font-head text-xl font-semibold tracking-tight">Week 1 closed. Thursday is next</h2>
+          <p class="text-sm text-muted font-sans mt-1">Chiefs 31-10 closed the opener. Lions at Bills, Thursday 8:15 p.m. ET, first regular-season snap at the new Highmark Stadium.</p>
         </div>
       </div>
       <div class="field-board">
@@ -82,7 +83,7 @@ const hoopsPairs = [
           ))}
         </svg>
         <div class="kick-clock">
-          <p class="text-[11px] font-sans uppercase tracking-wide text-muted">Countdown to Monday night</p>
+          <p class="text-[11px] font-sans uppercase tracking-wide text-muted">Countdown to Thursday night</p>
           <p id="nfl-clock" class="font-head text-4xl sm:text-5xl tabular-nums tracking-tight">Loading</p>
         </div>
       </div>
@@ -149,8 +150,8 @@ const hoopsPairs = [
     <section class="pg-frame pitch-frame">
       <div class="pg-head">
         <div>
-          <h2 class="font-head text-xl font-semibold tracking-tight">The table after Sunday</h2>
-          <p class="text-sm text-muted font-sans mt-1">Pin a club. Leeds are 2-0 live at Elland Road. The table does not move until full time.</p>
+          <h2 class="font-head text-xl font-semibold tracking-tight">The table after Monday</h2>
+          <p class="text-sm text-muted font-sans mt-1">Pin a club. Leeds 4-1 Newcastle. Matchweek 4 is finished.</p>
         </div>
       </div>
       <div class="pl-table">
@@ -169,7 +170,7 @@ const hoopsPairs = [
           </button>
         ))}
       </div>
-      <p id="pl-note" class="pg-foot">Source: table after Sunday 13 September 2026. Leeds 2-0 Newcastle is live at 36 minutes. Both clubs still on three games until full time.</p>
+      <p id="pl-note" class="pg-foot">Source: table after 14 September 2026. Leeds 4-1 Newcastle. Arsenal 12, City 12, Leeds 8, Hull 8.</p>
       <p class="pg-archive">World Cup 2026 is finished. Spain are champions. <a href="/world-cup">Archive</a></p>
     </section>
   )}
@@ -275,7 +276,7 @@ const hoopsPairs = [
       if (sport === 'football') {
         const el = document.getElementById('nfl-clock');
         if (el) {
-          const target = Date.UTC(2026, 8, 15, 0, 15, 0);
+          const target = Date.UTC(2026, 8, 18, 0, 15, 0);
           const tick = () => {
             const diff = target - Date.now();
             if (diff <= 0) { el.textContent = 'Kickoff window'; return; }

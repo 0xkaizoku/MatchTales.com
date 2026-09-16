@@ -1,4 +1,4 @@
-export const SITE_TODAY = '2026-09-14';
+export const SITE_TODAY = '2026-09-16';
 
 export const SPORT_SLUGS = ['soccer', 'tennis', 'golf', 'football', 'basketball', 'f1'] as const;
 export type SportSlug = (typeof SPORT_SLUGS)[number];
@@ -26,11 +26,11 @@ export const SPORTS: SportMeta[] = [
     label: 'Soccer',
     short: 'Soccer',
     href: '/sport/soccer',
-    tagline: 'Arsenal and City are both 4-0-0. Hull are unbeaten. Leeds are 2-0 live at Elland Road.',
-    liveNow: "LIVE 36': Leeds 2-0 Newcastle. Miley own goal 32', Calvert-Lewin 34'. Not finished.",
+    tagline: 'Arsenal and City are both 4-0-0. Leeds are third. Hull unbeaten in fourth.',
+    liveNow: 'Leeds 4-1 Newcastle. Third on 8 points. Matchweek 4 is finished.',
     accent: 'pitch',
     hue: '158 42% 22%',
-    pulse: 'LIVE 2-0',
+    pulse: 'LEEDS 4-1',
     board: 'Open the pitch',
     span: 'hero',
   },
@@ -39,11 +39,11 @@ export const SPORTS: SportMeta[] = [
     label: 'Football',
     short: 'NFL',
     href: '/sport/football',
-    tagline: 'Sunday is locked. Giants 28-20. Monday night is still open.',
-    liveNow: 'Broncos at Chiefs, Monday 14 September, 8:15 p.m. ET, ESPN/ABC. Not kicked.',
+    tagline: 'Week 1 is closed. Chiefs 31-10. Thursday opens a new Buffalo stadium.',
+    liveNow: 'Lions at Bills, Thursday 17 September, 8:15 p.m. ET, Prime Video. Not kicked.',
     accent: 'coral',
     hue: '14 86% 60%',
-    pulse: 'KICKOFF TONIGHT',
+    pulse: 'TNF THURSDAY',
     board: 'Open the field',
     span: 'side',
   },
@@ -79,10 +79,10 @@ export const SPORTS: SportMeta[] = [
     short: 'Golf',
     href: '/sport/golf',
     tagline: 'Fox has the Claret Jug. Scheffler has the FedEx Cup. Presidents Cup is next.',
-    liveNow: 'Presidents Cup, Medinah, 24-27 September. No result yet.',
+    liveNow: 'BMW PGA Championship, Wentworth, 17-20 September. Presidents Cup is 24-27 September.',
     accent: 'lime',
     hue: '84 55% 38%',
-    pulse: 'PRESIDENTS CUP SOON',
+    pulse: 'BMW PGA NEXT',
     board: 'Open the course',
     span: 'half',
   },
