@@ -1,72 +1,10 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import MatchStoryCard from '../../components/MatchStoryCard.astro';
-import { getCollection } from 'astro:content';
-import { data, getFlagUrl, teamSlugByName, SITE } from '../../lib/site';
+import GroupPage from '../../views/GroupPage.astro';
+import { data } from '../../lib/site';
 
 export async function getStaticPaths() {
   return Object.keys(data.groups).map((g) => ({ params: { group: g.toLowerCase() }, props: { group: g } }));
 }
 const { group } = Astro.props;
-const standing = data.groups[group];
-const teams = data.teams.filter((t: any) => t.group === group);
-const matchEntries = await getCollection('matches');
-const groupMatches = matchEntries.map((e) => e.data).filter((m) => m.group === group).sort((a, b) => a.date.localeCompare(b.date) || a.time.localeCompare(b.time));
-const played = Math.max(...standing.map((r: any) => r.P), 0);
-const teamNames = teams.map((t: any) => t.name).join(', ');
-const desc = `Group ${group} World Cup 2026 standings and match stories: ${teamNames}. Final table and results.`;
-const schema = [
-  {
-    '@type': 'CollectionPage',
-    name: `Group ${group} Standings - World Cup 2026`,
-    description: desc,
-    url: `${SITE.url}/group/${group.toLowerCase()}`,
-    isPartOf: { '@id': `${SITE.url}/#website` },
-  },
-  {
-    '@type': 'BreadcrumbList',
-    itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Home', item: SITE.url },
-      { '@type': 'ListItem', position: 2, name: 'Groups', item: `${SITE.url}/groups` },
-      { '@type': 'ListItem', position: 3, name: `Group ${group}`, item: `${SITE.url}/group/${group.toLowerCase()}` },
-    ],
-  },
-];
 ---
-<BaseLayout title={`Group ${group} Standings & Stories | World Cup 2026`} description={desc} schema={schema} keywords={`Group ${group}, World Cup 2026, standings, ${teamNames}`}>
-  <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
-    <nav class="mt-6 text-[13px] font-sans text-muted flex items-center gap-1.5" aria-label="Breadcrumb"><a href="/groups" class="hover:text-fg">Groups</a><span>/</span><span class="text-fg">Group {group}</span></nav>
-    <h1 class="mt-3 font-head text-3xl sm:text-4xl font-semibold tracking-tight">Group {group}</h1>
-    <div class="mt-2 flex flex-wrap gap-2">{teams.map((t: any) => <a href={`/team/${t.slug}`} class="inline-flex items-center gap-1.5 rounded-full border border-border bg-surface px-3 py-1 text-sm font-sans hover:text-pitch"><img src={getFlagUrl(t.code)} alt={`${t.name} flag`} class="w-6 h-4" loading="lazy" width="24" height="16" />{t.name}</a>)}</div>
-
-    <div class="mt-8 grid lg:grid-cols-3 gap-8">
-      <div class="lg:col-span-2">
-        <h2 class="font-head text-xl font-semibold tracking-tight mb-3">Standings</h2>
-        <div class="rounded-card border border-border/80 bg-surface shadow-card overflow-hidden">
-          <table class="w-full text-sm font-sans">
-            <thead><tr class="text-[11px] uppercase tracking-wide text-muted bg-surface2"><th class="text-left font-medium py-2 pl-4">Team</th><th class="px-1.5 w-8">P</th><th class="px-1.5 w-8">W</th><th class="px-1.5 w-8">D</th><th class="px-1.5 w-8">L</th><th class="px-1.5 w-10">GF</th><th class="px-1.5 w-10">GA</th><th class="px-1.5 w-10">GD</th><th class="px-1.5 pr-4 w-10">Pts</th></tr></thead>
-            <tbody>{standing.map((r: any, i: number) => (
-              <tr class="border-b border-border/60 last:border-0"><td class="py-2.5 pl-4"><a href={`/team/${teamSlugByName(r.name)}`} class="flex items-center gap-2 hover:text-pitch"><span class={`inline-block w-1 h-4 rounded-full ${i<2?'bg-pitch':i===2?'bg-warning':'bg-transparent'}`}></span><img src={getFlagUrl(r.code)} alt={`${r.name} flag`} class="w-6 h-4 inline-block" loading="lazy" width="24" height="16" /><span class="font-medium">{r.name}</span></a></td><td class="text-center px-1.5 tabular-nums">{r.P}</td><td class="text-center px-1.5 tabular-nums">{r.W}</td><td class="text-center px-1.5 tabular-nums">{r.D}</td><td class="text-center px-1.5 tabular-nums">{r.L}</td><td class="text-center px-1.5 tabular-nums">{r.GF}</td><td class="text-center px-1.5 tabular-nums">{r.GA}</td><td class="text-center px-1.5 tabular-nums">{r.GD>0?'+'+r.GD:r.GD}</td><td class="text-center px-1.5 pr-4 font-semibold tabular-nums">{r.Pts}</td></tr>
-            ))}</tbody>
-          </table>
-          <p class="text-[11px] text-muted px-4 py-2.5 border-t border-border/60 font-sans"><span class="inline-block w-1 h-3 rounded-full bg-pitch align-middle"></span> Top 2 qualify <span class="inline-block w-1 h-3 rounded-full bg-warning align-middle ml-2"></span> 3rd: best-third race</p>
-        </div>
-      </div>
-      <div class="rounded-card border border-border/80 bg-surface2/50 p-5">
-        <h2 class="font-head text-lg font-semibold mb-2">The state of play</h2>
-        <p class="text-sm font-sans text-muted leading-7">
-          {played >= 3 ? (
-            <>Group stage complete. <strong class="text-fg"><img src={getFlagUrl(standing[0].code)} alt={`${standing[0].name} flag`} class="w-5 h-3.5 inline-block align-middle mr-1" loading="lazy" width="20" height="14" />{standing[0].name}</strong> finished top{standing[0].Pts > 0 ? ` on ${standing[0].Pts} points` : ''}, with <strong class="text-fg">{standing[1].name}</strong> second. Third place ({standing[2].name}) fought in the best-third ranking for a Round of 32 spot.</>
-          ) : (
-            <>After Matchday {played || 1}, <strong class="text-fg"><img src={getFlagUrl(standing[0].code)} alt={`${standing[0].name} flag`} class="w-5 h-3.5 inline-block align-middle mr-1" loading="lazy" width="20" height="14" />{standing[0].name}</strong> lead the way{standing[0].Pts > 0 ? ` on ${standing[0].Pts} point${standing[0].Pts > 1 ? 's' : ''}` : ''}. The top two go through automatically, with the third-placed side chasing one of the eight best-third spots.</>
-          )}
-        </p>
-      </div>
-    </div>
-
-    <section class="mt-10 mb-8">
-      <h2 class="font-head text-xl font-semibold tracking-tight mb-4">Group {group} matches</h2>
-      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">{groupMatches.map((m) => <MatchStoryCard m={m} />)}</div>
-    </section>
-  </main>
-</BaseLayout>
+<GroupPage group={group} />

@@ -1,0 +1,231 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Hero from '../components/Hero.astro';
+import MatchStoryCard from '../components/MatchStoryCard.astro';
+import NewsletterForm from '../components/NewsletterForm.astro';
+import HypeNotes from '../components/HypeNotes.astro';
+import FaqSection from '../components/FaqSection.astro';
+import { getCollection } from 'astro:content';
+import SportDirectory from '../components/SportDirectory.astro';
+import { SITE, optimizeImage, contentImage, imgOnError, isWorldCup, SITE_TODAY } from '../lib/site';
+import desk from '../data/desk.json';
+import { dict, localeFromPath, localePath, categoryLabel } from '../i18n';
+import { fmtDateI18n, localizeStory } from '../i18n/content';
+import type { Locale } from '../i18n';
+
+const locale = (Astro.locals?.locale || localeFromPath(Astro.url.pathname)) as Locale;
+const d = dict(locale);
+const lp = (p: string) => localePath(locale, p);
+
+const matchEntries = await getCollection('matches');
+const matches = matchEntries.map((e) => e.data);
+const todayStr = SITE_TODAY;
+const matchBySlug = Object.fromEntries(matches.map((m) => [m.slug, m]));
+
+function addDays(dateStr: string, days: number) {
+  const [y, m, day] = dateStr.split('-').map(Number);
+  const dt = new Date(Date.UTC(y, m - 1, day + days));
+  return dt.toISOString().slice(0, 10);
+}
+const tomorrowStr = addDays(todayStr, 1);
+
+const featured =
+  matches.find((m) => m.status === 'LIVE') ||
+  matches.find((m) => m.slug === 'lions-at-bills-tnf-2026') ||
+  matches.find((m) => m.status === 'UPCOMING' && m.date >= todayStr) ||
+  matches.find((m) => m.slug === 'zverev-vs-shelton-uso-final') ||
+  matches.find((m) => m.slug === 'spain-vs-argentina-md9') ||
+  matches[0];
+
+const tonight = matches
+  .filter((m) => m.date === todayStr && (m.status === 'UPCOMING' || m.status === 'LIVE'))
+  .sort((a, b) => b.whyCareScore - a.whyCareScore);
+
+const tomorrow = matches
+  .filter((m) => m.date === tomorrowStr)
+  .sort((a, b) => b.whyCareScore - a.whyCareScore);
+
+const recent = matches
+  .filter((m) => m.status === 'FINISHED' && !isWorldCup(m))
+  .sort((a, b) => b.date.localeCompare(a.date) || b.whyCareScore - a.whyCareScore)
+  .slice(0, 6);
+
+const wcFinal = matches.find((m) => (m.group || '').toUpperCase() === 'FINAL');
+
+const storyEntries = await getCollection('stories');
+const stories = storyEntries
+  .map((e) => {
+    const loc = localizeStory({ ...e.data, relatedSlug: e.data.relatedSlug }, locale, e.data.relatedSlug ? matchBySlug[e.data.relatedSlug] : undefined);
+    return { slug: e.id, ...e.data, ...loc, image: contentImage(e.data.image, e.id, 480, 70) };
+  })
+  .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())
+  .slice(0, 6);
+
+const preloadHero = featured?.image ? optimizeImage(featured.image, 1200, 78) : undefined;
+const homeSchema = [
+  {
+    '@type': 'WebPage',
+    name: d.meta.title,
+    description: d.meta.description,
+    url: SITE.url + lp('/'),
+    isPartOf: { '@id': `${SITE.url}/#website` },
+    inLanguage: locale === 'zh' ? 'zh-Hans' : locale,
+  },
+  {
+    '@type': 'FAQPage',
+    mainEntity: d.faqs.home.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  },
+];
+---
+<BaseLayout title={d.meta.title} description={d.meta.description} keywords={d.meta.keywords} preloadImage={preloadHero} image={preloadHero || SITE.ogImage} schema={homeSchema} imageAlt={d.home.imageAlt}>
+  <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="mt-6 flex flex-wrap items-center justify-between gap-3 rounded-card border border-border/70 bg-surface2 px-4 py-3">
+      <div class="flex items-center gap-2 text-sm font-sans">
+        <span class="font-head font-semibold text-pitch">{d.common.desk}</span>
+        <span class="text-muted">· {fmtDateI18n(locale, todayStr)}</span>
+      </div>
+      <div class="flex flex-wrap items-center gap-2 text-[12px] font-sans text-muted">
+        <span>{d.common.todayDesk}</span>
+        <span>· {d.common.todayNfl}</span>
+        <span>· {d.common.todayTnf}</span>
+      </div>
+    </div>
+
+    {featured && (
+      <section class="mt-6 fade-up"><Hero m={featured} /></section>
+    )}
+
+    <section class="mt-10">
+      <SportDirectory />
+    </section>
+
+    <section class="mt-12" aria-labelledby="ny-h">
+      <h2 id="ny-h" class="font-head text-2xl font-semibold tracking-tight">{d.home.usOpenTitle}</h2>
+      <p class="mt-2 text-muted font-sans max-w-2xl">{d.home.usOpenBody}</p>
+      <ul class="mt-4 grid sm:grid-cols-2 gap-3">
+        {desk.usOpenQF.map((q) => (
+          <li class="rounded-card border border-border/80 bg-surface p-4">
+            <span class="text-[11px] font-sans text-muted uppercase tracking-wide">{q.draw === 'Men' ? d.common.men : q.draw === 'Women' ? d.common.women : q.draw}</span>
+            <p class="mt-1 font-head font-semibold">{q.p1} <span class="text-muted font-sans font-normal">{d.common.vs}</span> {q.p2}</p>
+            <p class="mt-1 text-[12px] font-sans text-muted">{q.status}</p>
+          </li>
+        ))}
+      </ul>
+      <p class="mt-3"><a href={lp('/sport/tennis')} class="text-sm font-sans font-medium text-sky hover:underline underline-offset-2">{d.home.tennisDesk}</a></p>
+    </section>
+
+    {tonight.length > 0 && (
+      <section class="mt-12" aria-labelledby="ton-h">
+        <div class="flex items-end justify-between gap-4 mb-4">
+          <div>
+            <h2 id="ton-h" class="font-head text-2xl font-semibold tracking-tight">{d.home.tonight} · {fmtDateI18n(locale, todayStr)}</h2>
+            <p class="text-sm text-muted font-sans mt-0.5">{d.home.tonightBlurb}</p>
+          </div>
+          <a href={lp('/sport/football')} class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4 whitespace-nowrap">{d.home.footballDesk}</a>
+        </div>
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          {tonight.map((m) => <MatchStoryCard m={m} />)}
+        </div>
+      </section>
+    )}
+
+    {tomorrow.length > 0 && (
+      <section class="mt-12" aria-labelledby="tom-h">
+        <div class="flex items-end justify-between gap-4 mb-4">
+          <div>
+            <h2 id="tom-h" class="font-head text-2xl font-semibold tracking-tight">{d.home.tomorrow} · {fmtDateI18n(locale, tomorrowStr)}</h2>
+            <p class="text-sm text-muted font-sans mt-0.5">{d.home.tomorrowBlurb}</p>
+          </div>
+        </div>
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          {tomorrow.map((m) => <MatchStoryCard m={m} />)}
+        </div>
+      </section>
+    )}
+
+    {recent.length > 0 && (
+      <section class="mt-12" aria-labelledby="rec-h">
+        <h2 id="rec-h" class="font-head text-2xl font-semibold tracking-tight mb-4">{d.common.justHappened}</h2>
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          {recent.map((m) => <MatchStoryCard m={m} />)}
+        </div>
+      </section>
+    )}
+
+    <section class="mt-12 grid lg:grid-cols-2 gap-8">
+      <div>
+        <h2 class="font-head text-xl font-semibold tracking-tight mb-3">{d.home.plTitle}</h2>
+        <ol class="space-y-2 font-sans text-sm">
+          {desk.premierLeagueTable.slice(0, 4).map((r) => (
+            <li class="flex items-center justify-between gap-3 border-b border-border/60 pb-2">
+              <span><span class="text-muted tabular-nums me-2">{r.pos}</span>{r.team}</span>
+              <span class="font-head tabular-nums">{r.pts}</span>
+            </li>
+          ))}
+        </ol>
+        <p class="mt-3 text-[12px] text-muted">{d.home.plBlurb} <a href={lp('/sport/soccer')} class="text-sky hover:underline">{d.home.soccerDesk}</a></p>
+      </div>
+      <div>
+        <h2 class="font-head text-xl font-semibold tracking-tight mb-3">{d.home.f1Title}</h2>
+        <ol class="space-y-2 font-sans text-sm">
+          {desk.f1Drivers.map((r) => (
+            <li class="flex items-center justify-between gap-3 border-b border-border/60 pb-2">
+              <span><span class="text-muted tabular-nums me-2">{r.pos}</span>{r.name} <span class="text-muted">{r.team}</span></span>
+              <span class="font-head tabular-nums">{r.pts}</span>
+            </li>
+          ))}
+        </ol>
+        <p class="mt-3 text-[12px] text-muted">{d.home.f1Blurb} <a href={lp('/sport/f1')} class="text-sky hover:underline">{d.home.f1Desk}</a></p>
+      </div>
+    </section>
+
+    {wcFinal && (
+      <section class="mt-12 rounded-card border border-pitch/25 bg-pitch/5 px-5 py-4">
+        <p class="font-head font-semibold text-pitch">{d.home.wcTitle}</p>
+        <p class="mt-1 text-sm font-sans text-muted">{d.home.wcBody} <a href={lp('/world-cup')} class="text-sky hover:underline underline-offset-2">{d.home.wcCta}</a></p>
+      </section>
+    )}
+
+    <section class="mt-12" aria-labelledby="st-h">
+      <div class="flex items-end justify-between gap-4 mb-4">
+        <h2 id="st-h" class="font-head text-2xl font-semibold tracking-tight">{d.home.latestStories}</h2>
+        <a href={lp('/stories')} class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4">{d.common.allStories}</a>
+      </div>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        {stories.map((s) => (
+          <a href={lp(`/stories/${s.slug}`)} class="group rounded-card overflow-hidden border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow">
+            <div class="aspect-[16/10] overflow-hidden bg-surface2"><img src={s.image} alt={s.title} loading="lazy" decoding="async" width="400" height="250" class="w-full h-full object-cover" onerror={imgOnError(s.slug)} /></div>
+            <div class="p-4">
+              <span class="text-[11px] font-sans font-medium text-pitch uppercase tracking-wide">{categoryLabel(locale, s.category)}</span>
+              <h3 class="mt-1 font-head font-semibold leading-snug group-hover:underline decoration-pitch decoration-2 underline-offset-4">{s.title}</h3>
+              <p class="mt-1.5 text-sm text-muted font-sans line-clamp-2">{s.excerpt}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="mt-14" aria-labelledby="hype-h">
+      <h2 id="hype-h" class="font-head text-2xl font-semibold tracking-tight">{d.hype.wallTitle}</h2>
+      <p class="text-sm text-muted font-sans mt-0.5 mb-5">{d.hype.wallBlurb}</p>
+      <HypeNotes />
+    </section>
+
+    <section id="newsletter" class="mt-14 mb-8 scroll-mt-20">
+      <div class="relative overflow-hidden rounded-card border border-border/70 bg-surface shadow-card grain">
+        <div class="absolute inset-0 pointer-events-none" style="background: var(--hero-bg)"></div>
+        <div class="relative p-6 sm:p-10">
+          <h2 class="font-head text-2xl sm:text-3xl font-semibold tracking-tight">{d.newsletter.title}</h2>
+          <p class="mt-2 text-muted font-sans max-w-lg">{d.newsletter.blurb}</p>
+          <div class="mt-5"><NewsletterForm /></div>
+        </div>
+      </div>
+    </section>
+
+    <FaqSection items={[...d.faqs.home]} />
+  </main>
+</BaseLayout>

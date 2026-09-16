@@ -1,0 +1,13 @@
+---
+import TeamPage from '../../../views/TeamPage.astro';
+import { data } from '../../../lib/site';
+import { OTHER_LOCALES } from '../../../i18n';
+
+export async function getStaticPaths() {
+  return OTHER_LOCALES.flatMap((locale) =>
+    data.teams.map((t: any) => ({ params: { locale, slug: t.slug }, props: { team: t } }))
+  );
+}
+const { team } = Astro.props;
+---
+<TeamPage team={team} />

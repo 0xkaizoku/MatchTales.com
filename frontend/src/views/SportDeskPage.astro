@@ -1,0 +1,123 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import MatchStoryCard from '../components/MatchStoryCard.astro';
+import SportMotif from '../components/SportMotif.astro';
+import SportPlayground from '../components/SportPlayground.astro';
+import { getCollection } from 'astro:content';
+import { SITE, contentImage, imgOnError, SPORTS, sportBySlug, sportOf, isWorldCup, SITE_TODAY } from '../lib/site';
+import { dict, localeFromPath, localePath, sportCopy, fill, categoryLabel } from '../i18n';
+import { fmtDateI18n, localizeStory } from '../i18n/content';
+import type { Locale } from '../i18n';
+
+const locale = (Astro.locals?.locale || localeFromPath(Astro.url.pathname)) as Locale;
+const d = dict(locale);
+const lp = (p: string) => localePath(locale, p);
+const { sport } = Astro.props;
+const meta = sportBySlug(sport || '');
+if (!meta) throw new Error('Unknown sport');
+const copy = sportCopy(locale, meta.slug);
+
+const matchEntries = await getCollection('matches');
+const storyEntries = await getCollection('stories');
+
+const events = matchEntries
+  .map((e) => e.data)
+  .filter((m) => sportOf(m) === meta.slug)
+  .filter((m) => !(meta.slug === 'soccer' && isWorldCup(m)))
+  .sort((a, b) => b.date.localeCompare(a.date) || a.time.localeCompare(b.time));
+
+const live = events.filter((m) => m.status === 'LIVE' || (m.status === 'UPCOMING' && m.date >= SITE_TODAY));
+const recent = events.filter((m) => m.status === 'FINISHED').slice(0, 8);
+
+const stories = storyEntries
+  .map((e) => ({ slug: e.id, ...e.data, image: contentImage(e.data.image, e.id, 640, 72) }))
+  .filter((s) => {
+    const sp = s.sport || 'soccer';
+    if (sp !== meta.slug) return false;
+    if (meta.slug !== 'soccer') return true;
+    if (s.category === 'Match Report' || s.category === 'Final Week') return false;
+    if ((s.competition || '') === 'world-cup-2026') return false;
+    const pl = (s.competition || '').startsWith('premier-league');
+    const desk = ['Desk', 'Mini blog', 'Preview'].includes(s.category);
+    return pl || desk;
+  })
+  .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
+
+const schema = {
+  '@type': 'CollectionPage',
+  name: fill(d.sportPage.title, { label: copy.label }),
+  description: copy.tagline,
+  url: `${SITE.url}${lp(meta.href)}`,
+  isPartOf: { '@id': `${SITE.url}/#website` },
+};
+---
+<BaseLayout
+  title={fill(d.sportPage.title, { label: copy.label })}
+  description={copy.tagline}
+  keywords={copy.keywords}
+  schema={schema}
+  imageAlt={copy.label}
+>
+  <main class="sport-shell max-w-container mx-auto px-4 sm:px-6 lg:px-8" data-sport={meta.slug} style={`--sport-hue:${meta.hue};`}>
+    <nav class="mt-6 flex flex-wrap gap-2" aria-label={d.sportsPage.aria}>
+      <a href={lp('/sports')} class="px-3 py-1.5 rounded-full text-[12px] font-sans font-medium border border-border text-muted hover:text-fg hover:bg-surface2">{d.common.allDesks}</a>
+      {SPORTS.map((s) => (
+        <a
+          href={lp(s.href)}
+          class={`px-3 py-1.5 rounded-full text-[12px] font-sans font-medium border transition-colors duration-150 ${s.slug === meta.slug ? 'text-white border-transparent' : 'border-border text-muted hover:text-fg hover:bg-surface2'}`}
+          style={s.slug === meta.slug ? `background:hsl(${s.hue});border-color:hsl(${s.hue})` : ''}
+        >
+          {sportCopy(locale, s.slug).label}
+        </a>
+      ))}
+    </nav>
+
+    <header class="sport-hero grain mt-5 p-6 sm:p-10 min-h-[240px]">
+      <SportMotif sport={meta.slug} />
+      <p class="text-[11px] font-sans font-semibold tracking-[0.16em] uppercase" style={`color:hsl(${meta.hue})`}>{copy.pulse} · {fmtDateI18n(locale, SITE_TODAY)}</p>
+      <h1 class="mt-2 font-head text-3xl sm:text-5xl font-semibold tracking-tight leading-[1.05] text-balance">{copy.label}</h1>
+      <p class="mt-3 text-muted font-sans text-lg leading-7 max-w-xl">{copy.tagline}</p>
+      <p class="mt-2 text-sm font-sans" style={`color:hsl(${meta.hue})`}>{copy.liveNow}</p>
+    </header>
+
+    <SportPlayground sport={meta.slug} />
+
+    {live.length > 0 && (
+      <section class="mt-12" aria-labelledby="now-h">
+        <h2 id="now-h" class="font-head text-xl font-semibold tracking-tight mb-4">{d.sportPage.liveNext}</h2>
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          {live.slice(0, 6).map((m) => <MatchStoryCard m={m} />)}
+        </div>
+      </section>
+    )}
+
+    {recent.length > 0 && (
+      <section class="mt-12" aria-labelledby="rec-h">
+        <h2 id="rec-h" class="font-head text-xl font-semibold tracking-tight mb-4">{d.sportPage.just}</h2>
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          {recent.map((m) => <MatchStoryCard m={m} />)}
+        </div>
+      </section>
+    )}
+
+    {stories.length > 0 && (
+      <section class="mt-12 mb-10" aria-labelledby="st-h">
+        <h2 id="st-h" class="font-head text-xl font-semibold tracking-tight mb-4">{d.sportPage.fromDesk}</h2>
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+          {stories.map((s) => (
+            <a href={lp(`/stories/${s.slug}`)} class="group rounded-card overflow-hidden border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow">
+              <div class="aspect-[16/10] overflow-hidden bg-surface2">
+                <img src={s.image} alt={s.title} loading="lazy" decoding="async" width="420" height="262" class="w-full h-full object-cover" onerror={imgOnError(s.slug)} />
+              </div>
+              <div class="p-4">
+                <span class="text-[11px] font-sans font-medium uppercase tracking-wide" style={`color:hsl(${meta.hue})`}>{categoryLabel(locale, s.category)}</span>
+                <h3 class="mt-1 font-head font-semibold leading-snug group-hover:underline decoration-2 underline-offset-4">{localizeStory(s, locale).title}</h3>
+                <p class="mt-1.5 text-sm text-muted font-sans line-clamp-2">{localizeStory(s, locale).excerpt}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+  </main>
+</BaseLayout>

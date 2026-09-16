@@ -1,0 +1,73 @@
+---
+import { dict, localeFromPath, localePath, stripLocalePrefix, LOCALES, LOCALE_META } from '../i18n';
+import type { Locale } from '../i18n';
+
+const locale = (Astro.locals?.locale || localeFromPath(Astro.url.pathname)) as Locale;
+const d = dict(locale);
+const rest = stripLocalePrefix(Astro.url.pathname);
+const meta = LOCALE_META[locale];
+---
+<div class="relative" data-locale-switch>
+  <button
+    type="button"
+    id="locale-switch-btn"
+    data-testid="locale-switch"
+    class="inline-flex items-center justify-center min-w-9 h-9 px-2 rounded-btn border border-border text-[11px] font-sans font-semibold tracking-wide text-muted hover:text-fg hover:bg-surface2 transition-colors"
+    aria-haspopup="listbox"
+    aria-expanded="false"
+    aria-label={d.nav.languageAria}
+  >
+    {meta.nativeName}
+  </button>
+  <ul
+    id="locale-switch-menu"
+    hidden
+    role="listbox"
+    aria-label={d.nav.language}
+    class="absolute end-0 mt-1 min-w-[11rem] max-h-[70vh] overflow-y-auto rounded-card border border-border bg-surface shadow-card py-1 z-[70]"
+  >
+    {LOCALES.map((l) => (
+      <li role="option" aria-selected={l === locale}>
+        <a
+          href={localePath(l, rest)}
+          hreflang={LOCALE_META[l].hreflang}
+          lang={LOCALE_META[l].htmlLang}
+          class={`block px-3 py-2.5 text-sm font-sans hover:bg-surface2 ${l === locale ? 'text-pitch font-semibold' : 'text-fg'}`}
+        >
+          {LOCALE_META[l].nativeName}
+        </a>
+      </li>
+    ))}
+  </ul>
+</div>
+<script>
+  function bindLocaleSwitch() {
+    const wrap = document.querySelector('[data-locale-switch]');
+    if (!(wrap instanceof HTMLElement) || wrap.dataset.bound) return;
+    wrap.dataset.bound = '1';
+    const btn = wrap.querySelector('#locale-switch-btn');
+    const menu = wrap.querySelector('#locale-switch-menu');
+    if (!(btn instanceof HTMLElement) || !(menu instanceof HTMLElement)) return;
+    const close = () => {
+      menu.hidden = true;
+      btn.setAttribute('aria-expanded', 'false');
+    };
+    const open = () => {
+      menu.hidden = false;
+      btn.setAttribute('aria-expanded', 'true');
+    };
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      if (menu.hidden) open();
+      else close();
+    });
+    document.addEventListener('click', (e) => {
+      if (!wrap.contains(e.target as Node)) close();
+    });
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') close();
+    });
+  }
+  bindLocaleSwitch();
+  document.addEventListener('astro:after-swap', bindLocaleSwitch);
+</script>

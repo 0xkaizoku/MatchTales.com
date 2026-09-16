@@ -5,6 +5,20 @@ import Footer from '../components/Footer.astro';
 import BottomNav from '../components/BottomNav.astro';
 import { SITE, seoDescription, absoluteUrl, optimizeImage } from '../lib/site';
 import { ClientRouter } from 'astro:transitions';
+import {
+  dict,
+  localeFromPath,
+  stripLocalePrefix,
+  hreflangAlternates,
+  htmlLang as htmlLangOf,
+  dirOf,
+  ogLocaleOf,
+  localePath,
+  withTrailingSlash,
+  LOCALES,
+  LOCALE_META,
+} from '../i18n';
+import type { Locale } from '../i18n';
 
 export interface Props {
   title?: string;
@@ -25,8 +39,8 @@ export interface Props {
 }
 
 const {
-  title = SITE.title,
-  description = SITE.description,
+  title = dict((Astro.locals?.locale || localeFromPath(Astro.url.pathname)) as Locale).meta.title,
+  description = dict((Astro.locals?.locale || localeFromPath(Astro.url.pathname)) as Locale).meta.description,
   image = SITE.ogImage,
   imageAlt,
   type = 'website',
@@ -34,16 +48,24 @@ const {
   schema,
   noLayout = false,
   noindex = false,
-  keywords = SITE.keywords,
+  keywords = dict((Astro.locals?.locale || localeFromPath(Astro.url.pathname)) as Locale).meta.keywords,
   publishedTime,
   modifiedTime,
   preloadImage,
 } = Astro.props;
 
-const canonicalURL = canonical || absoluteUrl(Astro.url.pathname);
+const locale = (Astro.locals?.locale || localeFromPath(Astro.url.pathname)) as Locale;
+const d = dict(locale);
+const htmlLang = htmlLangOf(locale);
+const dir = dirOf(locale);
+const ogLoc = ogLocaleOf(locale);
+const englishPath = stripLocalePrefix(Astro.url.pathname);
+const canonicalURL = canonical || absoluteUrl(withTrailingSlash(Astro.url.pathname));
 const desc = seoDescription(description);
 const fullTitle = title.includes('MatchTales') ? title : `${title} | MatchTales`;
 const ogAlt = imageAlt || fullTitle;
+const alts = hreflangAlternates(englishPath);
+const fontHref = LOCALE_META[locale].fontHref;
 
 // Prefer optimized raster OG images
 let ogImageURL = image.startsWith('http') ? image : absoluteUrl(image);
@@ -65,7 +87,7 @@ const orgSchema = {
     '@type': 'ImageObject',
     url: absoluteUrl('/favicon.svg'),
   },
-  description: SITE.description,
+  description: d.meta.description,
   sameAs: ['https://x.com/matchtales'],
 };
 
@@ -74,14 +96,14 @@ const websiteSchema = {
   '@id': `${SITE.url}/#website`,
   name: SITE.name,
   url: SITE.url,
-  description: SITE.description,
+  description: d.meta.description,
   publisher: { '@id': `${SITE.url}/#organization` },
-  inLanguage: 'en-US',
+  inLanguage: htmlLang,
   potentialAction: {
     '@type': 'SearchAction',
     target: {
       '@type': 'EntryPoint',
-      urlTemplate: `${SITE.url}/fixtures?q={search_term_string}`,
+      urlTemplate: `${SITE.url}${localePath(locale, '/fixtures')}?q={search_term_string}`,
     },
     'query-input': 'required name=search_term_string',
   },
@@ -96,7 +118,7 @@ const webPageSchema = {
   description: desc,
   isPartOf: { '@id': `${SITE.url}/#website` },
   about: { '@id': `${SITE.url}/#organization` },
-  inLanguage: 'en-US',
+  inLanguage: htmlLang,
   ...(noindex ? { noindex: true } : {}),
   primaryImageOfPage: {
     '@type': 'ImageObject',
@@ -122,7 +144,7 @@ const jsonLd = {
 };
 ---
 <!doctype html>
-<html lang="en" data-theme="light">
+<html lang={htmlLang} dir={dir} data-theme="light" data-locale={locale}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
@@ -130,8 +152,12 @@ const jsonLd = {
     <meta name="referrer" content="strict-origin-when-cross-origin" />
     <meta name="format-detection" content="telephone=no" />
     <link rel="canonical" href={canonicalURL} />
-    <link rel="alternate" hreflang="en" href={canonicalURL} />
-    <link rel="alternate" hreflang="x-default" href={canonicalURL} />
+    {alts.map((a) => (
+      <link rel="alternate" hreflang={a.lang} href={absoluteUrl(withTrailingSlash(a.path))} />
+    ))}
+    <meta name="mt-lang" content={htmlLang} />
+    <meta name="mt-dir" content={dir} />
+    <meta name="mt-locale" content={locale} />
     <title>{fullTitle}</title>
     <meta name="description" content={desc} />
     <meta name="keywords" content={keywords} />
@@ -145,12 +171,15 @@ const jsonLd = {
     <link rel="apple-touch-icon" href="/favicon.svg" />
     <link rel="manifest" href="/manifest.webmanifest" />
     <link rel="sitemap" type="application/xml" href="/sitemap-index.xml" />
-    <link rel="alternate" type="application/rss+xml" title="MatchTales Stories" href="/rss.xml" />
+    <link rel="alternate" type="application/rss+xml" title={d.storiesPage.schemaName} href={localePath(locale, '/rss.xml')} />
 
     <!-- Open Graph -->
     <meta property="og:type" content={type} />
     <meta property="og:site_name" content={SITE.name} />
-    <meta property="og:locale" content={SITE.locale} />
+    <meta property="og:locale" content={ogLoc} />
+    {LOCALES.filter((l) => l !== locale).map((l) => (
+      <meta property="og:locale:alternate" content={LOCALE_META[l].ogLocale} />
+    ))}
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={desc} />
     <meta property="og:url" content={canonicalURL} />
@@ -199,6 +228,15 @@ const jsonLd = {
         href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap"
       />
     </noscript>
+    {fontHref && (
+      <>
+        <link rel="preload" as="style" href={fontHref} />
+        <link rel="stylesheet" href={fontHref} media="print" onload="this.media='all'" />
+        <noscript>
+          <link rel="stylesheet" href={fontHref} />
+        </noscript>
+      </>
+    )}
 
     {preloadHref && <link rel="preload" as="image" href={preloadHref} fetchpriority="high" />}
 
@@ -214,8 +252,14 @@ const jsonLd = {
         document.addEventListener('astro:after-swap', function () {
           try {
             var s = localStorage.getItem('mt-theme');
-            var d = window.matchMedia('(prefers-color-scheme: dark)').matches;
-            document.documentElement.setAttribute('data-theme', s || (d ? 'dark' : 'light'));
+            var dark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            document.documentElement.setAttribute('data-theme', s || (dark ? 'dark' : 'light'));
+            var lang = document.querySelector('meta[name="mt-lang"]');
+            var dir = document.querySelector('meta[name="mt-dir"]');
+            var loc = document.querySelector('meta[name="mt-locale"]');
+            if (lang) document.documentElement.lang = lang.getAttribute('content') || 'en';
+            if (dir) document.documentElement.setAttribute('dir', dir.getAttribute('content') || 'ltr');
+            if (loc) document.documentElement.setAttribute('data-locale', loc.getAttribute('content') || 'en');
           } catch (e) {}
         });
       })();
@@ -261,7 +305,7 @@ const jsonLd = {
     <ClientRouter />
   </head>
   <body class="min-h-screen flex flex-col">
-    <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-[100] focus:bg-pitch focus:text-white focus:px-3 focus:py-2 focus:rounded-btn">Skip to content</a>
+    <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:start-2 focus:z-[100] focus:bg-pitch focus:text-white focus:px-3 focus:py-2 focus:rounded-btn">{d.nav.skip}</a>
     {!noLayout && <Nav />}
     <div class="flex-1" id="main-content">
       <slot />

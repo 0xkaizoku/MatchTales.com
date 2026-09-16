@@ -1,30 +1,39 @@
 ---
-const path = Astro.url.pathname;
+import LocaleSwitch from './LocaleSwitch.astro';
+import { dict, localeFromPath, localePath, stripLocalePrefix } from '../i18n';
+import type { Locale } from '../i18n';
+
+const locale = (Astro.locals?.locale || localeFromPath(Astro.url.pathname)) as Locale;
+const d = dict(locale);
+const path = stripLocalePrefix(Astro.url.pathname);
+const homeHref = localePath(locale, '/');
 const links = [
-  { href: '/sports', label: 'Sports', id: 'sports' },
-  { href: '/stories', label: 'Stories', id: 'stories' },
-  { href: '/live', label: 'Live', id: 'live' },
+  { href: localePath(locale, '/sports'), rest: '/sports', label: d.nav.sports, id: 'sports' },
+  { href: localePath(locale, '/stories'), rest: '/stories', label: d.nav.stories, id: 'stories' },
+  { href: localePath(locale, '/live'), rest: '/live', label: d.nav.live, id: 'live' },
 ];
-const isActive = (href: string) => {
-  if (href === '/sports') return path === '/sports' || path.startsWith('/sport/');
-  return path === href || path.startsWith(href + '/');
+const isActive = (rest: string) => {
+  if (rest === '/sports') return path === '/sports' || path.startsWith('/sport/');
+  return path === rest || path.startsWith(rest + '/');
 };
+const searchIndex = localePath(locale, '/search-index.json');
+const noResultsTpl = d.nav.noResults;
 ---
 <header class="sticky top-0 z-50 border-b border-border/70 backdrop-blur supports-[backdrop-filter]:bg-bg/75 bg-bg/95">
   <div class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex h-16 items-center justify-between gap-4">
-      <a href="/" class="flex items-center gap-2 shrink-0" data-testid="nav-home-link" aria-label="MatchTales home">
+      <a href={homeHref} class="flex items-center gap-2 shrink-0" data-testid="nav-home-link" aria-label={d.nav.homeAria}>
         <span class="grid place-items-center w-8 h-8 rounded-btn bg-pitch text-white font-head font-bold">M</span>
         <span class="font-head text-lg font-semibold tracking-tight">MatchTales</span>
       </a>
 
-      <nav class="hidden md:flex items-center gap-1" aria-label="Primary">
+      <nav class="hidden md:flex items-center gap-1" aria-label={d.nav.primaryAria}>
         {links.map((l) => (
           <a
             href={l.href}
             data-astro-prefetch
             data-testid={`nav-${l.id}-link`}
-            class={`px-3 py-2 rounded-btn text-sm font-sans font-medium transition-colors duration-150 ${isActive(l.href) ? 'text-pitch bg-surface2' : 'text-muted hover:text-fg hover:bg-surface2'}`}
+            class={`px-3 py-2 rounded-btn text-sm font-sans font-medium transition-colors duration-150 ${isActive(l.rest) ? 'text-pitch bg-surface2' : 'text-muted hover:text-fg hover:bg-surface2'}`}
           >
             {l.label}
           </a>
@@ -35,36 +44,36 @@ const isActive = (href: string) => {
         <button
           id="search-open"
           data-testid="site-search-open"
-          aria-label="Open search"
+          aria-label={d.nav.openSearch}
           class="grid place-items-center w-9 h-9 rounded-btn border border-border text-muted hover:text-fg hover:bg-surface2 transition-colors"
         >
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"></circle><path d="m21 21-4.3-4.3"></path></svg>
         </button>
+        <LocaleSwitch />
         <button
           id="theme-toggle"
           data-testid="theme-toggle"
-          aria-label="Toggle dark mode"
+          aria-label={d.nav.toggleTheme}
           class="grid place-items-center w-9 h-9 rounded-btn border border-border text-muted hover:text-fg hover:bg-surface2 transition-colors"
         >
           <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M6.3 17.7l-1.4 1.4M19.1 4.9l-1.4 1.4"></path></svg>
           <svg class="icon-moon hidden" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"></path></svg>
         </button>
-        <a href="/#newsletter" class="hidden sm:inline-flex h-9 items-center rounded-btn bg-pitch px-3.5 text-sm font-sans font-medium text-white hover:bg-pitch2 transition-colors" data-testid="nav-newsletter-cta">Subscribe</a>
+        <a href={localePath(locale, '/') + '#newsletter'} class="hidden sm:inline-flex h-9 items-center rounded-btn bg-pitch px-3.5 text-sm font-sans font-medium text-white hover:bg-pitch2 transition-colors" data-testid="nav-newsletter-cta">{d.nav.subscribe}</a>
       </div>
     </div>
   </div>
 
-  <!-- Search overlay -->
-  <div id="search-overlay" class="fixed inset-0 z-[60] hidden" role="dialog" aria-modal="true" aria-label="Search">
+  <div id="search-overlay" class="fixed inset-0 z-[60] hidden" role="dialog" aria-modal="true" aria-label={d.nav.searchAria}>
     <div id="search-backdrop" class="absolute inset-0 bg-black/50 backdrop-blur-sm"></div>
     <div class="relative max-w-xl mx-auto mt-24 px-4">
       <div class="rounded-card border border-border bg-surface shadow-card overflow-hidden">
         <div class="flex items-center gap-2 px-4 border-b border-border">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-muted"><circle cx="11" cy="11" r="7"></circle><path d="m21 21-4.3-4.3"></path></svg>
-          <input id="site-search-input" data-testid="site-search-input" type="text" autocomplete="off" placeholder="Search teams, matches, stories…" class="flex-1 h-12 bg-transparent outline-none font-sans text-base" />
+          <input id="site-search-input" data-testid="site-search-input" type="text" autocomplete="off" placeholder={d.nav.searchPlaceholder} class="flex-1 h-12 bg-transparent outline-none font-sans text-base" />
           <kbd class="text-xs text-muted font-mono">esc</kbd>
         </div>
-        <ul id="search-results" class="max-h-80 overflow-y-auto py-2 font-sans text-sm"></ul>
+        <ul id="search-results" class="max-h-80 overflow-y-auto py-2 font-sans text-sm" data-index-url={searchIndex} data-no-results={noResultsTpl}></ul>
       </div>
     </div>
   </div>
@@ -90,7 +99,6 @@ const isActive = (href: string) => {
         syncIcons();
       });
     }
-    // Search
     const overlay = document.getElementById('search-overlay');
     const input = document.getElementById('site-search-input') as HTMLInputElement | null;
     const results = document.getElementById('search-results');
@@ -106,7 +114,8 @@ const isActive = (href: string) => {
     let index: any[] | null = null;
     async function ensureIndex() {
       if (index) return index;
-      try { const r = await fetch('/search-index.json'); index = await r.json(); } catch(e){ index=[]; }
+      const url = results?.dataset.indexUrl || '/search-index.json';
+      try { const r = await fetch(url); index = await r.json(); } catch(e){ index=[]; }
       return index;
     }
     input?.addEventListener('input', async () => {
@@ -115,7 +124,8 @@ const isActive = (href: string) => {
       const idx = await ensureIndex();
       if (!q) { results.innerHTML=''; return; }
       const hits = (idx || []).filter((i: any) => i.t.toLowerCase().includes(q) || (i.s||'').toLowerCase().includes(q)).slice(0, 8);
-      results.innerHTML = hits.length ? hits.map((h: any) => `<li><a href="${h.u}" class="flex items-center gap-3 px-4 py-2.5 hover:bg-surface2"><span class="text-base">${h.e||''}</span><span class="flex-1"><span class="block font-medium">${h.t}</span><span class="block text-xs text-muted">${h.k}</span></span></a></li>`).join('') : `<li class="px-4 py-3 text-muted">No results for “${q}”</li>`;
+      const empty = (results.dataset.noResults || 'No results for “{q}”').replace('{q}', q);
+      results.innerHTML = hits.length ? hits.map((h: any) => `<li><a href="${h.u}" class="flex items-center gap-3 px-4 py-2.5 hover:bg-surface2"><span class="text-base">${h.e||''}</span><span class="flex-1"><span class="block font-medium">${h.t}</span><span class="block text-xs text-muted">${h.k}</span></span></a></li>`).join('') : `<li class="px-4 py-3 text-muted">${empty}</li>`;
     });
   }
   bind();

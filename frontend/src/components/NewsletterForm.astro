@@ -1,40 +1,51 @@
 ---
-// Newsletter signup form. Posts to FastAPI backend.
+import { dict, localeFromPath } from '../i18n';
+import type { Locale } from '../i18n';
+const locale = (Astro.locals?.locale || localeFromPath(Astro.url.pathname)) as Locale;
+const d = dict(locale);
 ---
-<form id="newsletter-form" data-testid="newsletter-form" class="flex flex-col sm:flex-row gap-3 max-w-md">
+<form id="newsletter-form" data-testid="newsletter-form" class="flex flex-col sm:flex-row gap-3 max-w-md" data-cta={d.newsletter.cta} data-submitting={d.newsletter.submitting} data-network={d.newsletter.network} data-fail={d.newsletter.fail}>
   <input
     type="email"
     name="email"
     required
     data-testid="newsletter-email-input"
-    placeholder="you@email.com"
+    placeholder={d.newsletter.placeholder}
     class="h-11 flex-1 rounded-btn border border-border bg-surface px-3.5 font-sans text-sm outline-none focus-visible:ring-2 focus-visible:ring-sky"
   />
-  <button type="submit" data-testid="newsletter-submit-button" class="h-11 rounded-btn bg-pitch px-5 font-sans font-medium text-white hover:bg-pitch2 transition-colors whitespace-nowrap">Get match stories</button>
+  <button type="submit" data-testid="newsletter-submit-button" class="h-11 rounded-btn bg-pitch px-5 font-sans font-medium text-white hover:bg-pitch2 transition-colors whitespace-nowrap">{d.newsletter.cta}</button>
   <p id="newsletter-msg" data-testid="newsletter-msg" class="hidden text-sm font-sans w-full"></p>
 </form>
 <script>
   function bindNl() {
-    const f = document.getElementById('newsletter-form');
+    const f = document.getElementById('newsletter-form') as HTMLFormElement | null;
     if (!f || f.dataset.bound) return; f.dataset.bound = '1';
     const BACKEND = (import.meta.env.PUBLIC_BACKEND_URL) || '';
+    const cta = f.dataset.cta || '';
+    const submitting = f.dataset.submitting || '';
+    const network = f.dataset.network || '';
+    const fail = f.dataset.fail || '';
     f.addEventListener('submit', async (e) => {
       e.preventDefault();
       const msg = document.getElementById('newsletter-msg');
-      const email = f.email.value.trim();
-      const btn = f.querySelector('button');
-      btn.disabled = true; btn.textContent = 'Subscribing…';
+      const email = (f as any).email.value.trim();
+      const btn = f.querySelector('button') as HTMLButtonElement;
+      btn.disabled = true; btn.textContent = submitting;
       try {
         const r = await fetch(`${BACKEND}/api/newsletter`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ email }) });
-        const d = await r.json();
-        msg.textContent = r.ok ? d.message : (d.detail || 'Something went wrong.');
-        msg.className = `text-sm font-sans w-full ${r.ok ? 'text-pitch' : 'text-danger'}`;
+        const data = await r.json();
+        if (msg) {
+          msg.textContent = r.ok ? data.message : (data.detail || fail);
+          msg.className = `text-sm font-sans w-full ${r.ok ? 'text-pitch' : 'text-danger'}`;
+        }
         if (r.ok) f.reset();
       } catch (err) {
-        msg.textContent = 'Network error. Please try again.';
-        msg.className = 'text-sm font-sans w-full text-danger';
+        if (msg) {
+          msg.textContent = network;
+          msg.className = 'text-sm font-sans w-full text-danger';
+        }
       } finally {
-        msg.classList.remove('hidden'); btn.disabled = false; btn.textContent = 'Get match stories';
+        msg?.classList.remove('hidden'); btn.disabled = false; btn.textContent = cta;
       }
     });
   }

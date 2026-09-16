@@ -1,0 +1,306 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { data, getFlagUrl, teamSlugByName, groupStageLeaders, SITE, stageLabel } from '../lib/site';
+import { getCollection } from 'astro:content';
+
+const leaders = groupStageLeaders(24);
+const groups = Object.keys(data.groups).sort();
+
+const matches = (await getCollection('matches')).map((e) => e.data);
+function matchWinner(m: any): string | null {
+  if (m.status !== 'FINISHED' || m.homeScore == null) return null;
+  const hs = Number(m.homeScore);
+  const as = Number(m.awayScore);
+  if (hs > as) return m.home;
+  if (as > hs) return m.away;
+  if (m.decidedBy === 'pens' && m.homePen != null) {
+    return Number(m.homePen) > Number(m.awayPen) ? m.home : m.away;
+  }
+  return null;
+}
+
+const knockout = matches
+  .filter((m) => ['R32', 'R16', 'QF', 'SF', '3RD', 'FINAL'].includes((m.group || '').toUpperCase()))
+  .sort((a, b) => a.date.localeCompare(b.date) || a.time.localeCompare(b.time));
+
+const sfResults = knockout
+  .filter((m) => m.group === 'SF' && m.status === 'FINISHED')
+  .map((m) => ({ match: m, winner: matchWinner(m), loser: matchWinner(m) === m.home ? m.away : m.home }));
+
+const finalists = sfResults.map((r) => r.winner).filter(Boolean) as string[];
+const bronzeTeams = sfResults.map((r) => r.loser).filter(Boolean) as string[];
+const finalMatch = knockout.find((m) => (m.group || '').toUpperCase() === 'FINAL');
+const thirdMatch = knockout.find((m) => (m.group || '').toUpperCase() === '3RD');
+const finalFinished = finalMatch?.status === 'FINISHED' && finalMatch.homeScore != null;
+const thirdFinished = thirdMatch?.status === 'FINISHED' && thirdMatch.homeScore != null;
+const champion = finalFinished ? matchWinner(finalMatch) : null;
+const runnerUp =
+  finalFinished && finalMatch && champion
+    ? champion === finalMatch.home
+      ? finalMatch.away
+      : finalMatch.home
+    : null;
+const bronzeWinner = thirdFinished ? matchWinner(thirdMatch) : null;
+const todayLabel = data.meta?.today || '2026-07-21';
+
+// Simple goals table from finished fixtures (group + knockout)
+const goalMap: Record<string, { name: string; code: string; gf: number; ga: number; played: number }> = {};
+for (const t of data.teams) {
+  goalMap[t.name] = { name: t.name, code: t.code, gf: 0, ga: 0, played: 0 };
+}
+for (const f of data.fixtures) {
+  if (f.status !== 'FINISHED' || f.homeScore == null || f.awayScore == null) continue;
+  const hs = Number(f.homeScore);
+  const as = Number(f.awayScore);
+  if (!goalMap[f.home] || !goalMap[f.away]) continue;
+  goalMap[f.home].gf += hs;
+  goalMap[f.home].ga += as;
+  goalMap[f.home].played += 1;
+  goalMap[f.away].gf += as;
+  goalMap[f.away].ga += hs;
+  goalMap[f.away].played += 1;
+}
+const scorers = Object.values(goalMap)
+  .filter((r) => r.played > 0)
+  .sort((a, b) => b.gf - a.gf || a.ga - b.ga)
+  .slice(0, 15);
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'World Cup 2026 Leaderboards',
+  description: champion
+    ? `World Cup 2026 final standings: ${champion} are champions. Podium, group tables, goals scored and full knockout progress.`
+    : 'Group stage tables, goal charts and knockout progress for the 2026 FIFA World Cup.',
+  url: `${SITE.url}/leaderboard`,
+  isPartOf: { '@type': 'WebSite', name: SITE.name, url: SITE.url },
+};
+---
+<BaseLayout
+  title="Leaderboards & Standings | World Cup 2026"
+  description={champion
+    ? `World Cup 2026 leaderboards: ${champion} champions, podium results, group tables and goal charts.`
+    : 'World Cup 2026 leaderboards: finalists, group tables, goals scored and full knockout progress.'}
+  schema={schema}
+  keywords="World Cup 2026 standings, champions, podium, finalists, group tables, leaderboard, goals scored, knockout bracket, FIFA 2026"
+>
+  <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8 pb-12">
+    <header class="mt-8">
+      <nav class="text-[13px] font-sans text-muted flex items-center gap-1.5 mb-3" aria-label="Breadcrumb">
+        <a href="/" class="hover:text-fg">Home</a><span>/</span><span class="text-fg">Leaderboards</span>
+      </nav>
+      <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">Leaderboards</h1>
+      <p class="mt-2 text-muted font-sans max-w-2xl">
+        {champion
+          ? `As of ${todayLabel}: tournament complete. ${champion} are world champions${runnerUp ? `, ${runnerUp} finish runners-up` : ''}${bronzeWinner ? `, ${bronzeWinner} take bronze` : ''}. Group tables and goal charts below.`
+          : 'Finalists, group tables, goals scored and full knockout progress for World Cup 2026.'}
+      </p>
+    </header>
+
+    <!-- Podium / Finalists -->
+    {finalFinished && champion ? (
+      <section class="mt-10" aria-labelledby="podium-h">
+        <h2 id="podium-h" class="font-head text-2xl font-semibold tracking-tight mb-4">Podium</h2>
+        <div class="grid sm:grid-cols-3 gap-4">
+          <a href={`/team/${teamSlugByName(champion)}`} class="rounded-card border border-pitch/40 bg-surface p-5 shadow-card hover:shadow-cardhover transition-shadow sm:order-2">
+            <div class="text-[11px] uppercase tracking-wide text-pitch font-sans font-medium">Champions · Gold</div>
+            <div class="mt-2 font-head text-2xl font-semibold flex items-center gap-2">
+              <img src={getFlagUrl(data.teams.find((t: any) => t.name === champion)?.code)} alt={`${champion} flag`} class="w-8 h-6" width="32" height="24" loading="lazy" />
+              {champion}
+            </div>
+            {finalMatch && (
+              <p class="mt-1 text-sm text-muted font-sans">
+                {finalMatch.homeScore}–{finalMatch.awayScore}{finalMatch.decidedBy === 'aet' ? ' aet' : ''} vs {runnerUp}
+              </p>
+            )}
+          </a>
+          {runnerUp && (
+            <a href={`/team/${teamSlugByName(runnerUp)}`} class="rounded-card border border-border/80 bg-surface p-5 shadow-card hover:shadow-cardhover transition-shadow sm:order-1">
+              <div class="text-[11px] uppercase tracking-wide text-muted font-sans font-medium">Runners-up · Silver</div>
+              <div class="mt-2 font-head text-xl font-semibold flex items-center gap-2">
+                <img src={getFlagUrl(data.teams.find((t: any) => t.name === runnerUp)?.code)} alt={`${runnerUp} flag`} class="w-8 h-6" width="32" height="24" loading="lazy" />
+                {runnerUp}
+              </div>
+            </a>
+          )}
+          {bronzeWinner && (
+            <a href={`/team/${teamSlugByName(bronzeWinner)}`} class="rounded-card border border-border/80 bg-surface p-5 shadow-card hover:shadow-cardhover transition-shadow sm:order-3">
+              <div class="text-[11px] uppercase tracking-wide text-muted font-sans font-medium">Third place · Bronze</div>
+              <div class="mt-2 font-head text-xl font-semibold flex items-center gap-2">
+                <img src={getFlagUrl(data.teams.find((t: any) => t.name === bronzeWinner)?.code)} alt={`${bronzeWinner} flag`} class="w-8 h-6" width="32" height="24" loading="lazy" />
+                {bronzeWinner}
+              </div>
+              {thirdMatch && (
+                <p class="mt-1 text-sm text-muted font-sans">
+                  {thirdMatch.homeScore}–{thirdMatch.awayScore} vs {bronzeWinner === thirdMatch.home ? thirdMatch.away : thirdMatch.home}
+                </p>
+              )}
+            </a>
+          )}
+        </div>
+        <div class="mt-3 flex flex-wrap gap-x-4 gap-y-1 text-sm font-sans font-medium">
+          {finalMatch && (
+            <a href={`/match/${finalMatch.slug}`} class="text-sky hover:underline underline-offset-4">Final match report →</a>
+          )}
+          {thirdMatch && (
+            <a href={`/match/${thirdMatch.slug}`} class="text-sky hover:underline underline-offset-4">Bronze match report →</a>
+          )}
+          <a href="/stories/spain-world-champions-2026-wrap" class="text-sky hover:underline underline-offset-4">Champions wrap story →</a>
+        </div>
+      </section>
+    ) : finalists.length > 0 && (
+      <section class="mt-10" aria-labelledby="finalists-h">
+        <h2 id="finalists-h" class="font-head text-2xl font-semibold tracking-tight mb-4">Finalists</h2>
+        <div class="grid sm:grid-cols-2 gap-4">
+          {finalists.map((name) => (
+            <a href={`/team/${teamSlugByName(name)}`} class="rounded-card border border-pitch/40 bg-surface p-5 shadow-card hover:shadow-cardhover transition-shadow">
+              <div class="text-[11px] uppercase tracking-wide text-pitch font-sans font-medium">World Cup Final · 19 Jul</div>
+              <div class="mt-2 font-head text-2xl font-semibold flex items-center gap-2">
+                <img src={getFlagUrl(data.teams.find((t: any) => t.name === name)?.code)} alt={`${name} flag`} class="w-8 h-6" width="32" height="24" loading="lazy" />
+                {name}
+              </div>
+              {finalMatch && <p class="mt-1 text-sm text-muted font-sans">{finalMatch.venue}, {finalMatch.city}</p>}
+            </a>
+          ))}
+        </div>
+        {finalMatch && (
+          <a href={`/match/${finalMatch.slug}`} class="mt-3 inline-flex text-sm font-sans font-medium text-sky hover:underline underline-offset-4">
+            {finalMatch.status === 'FINISHED' ? 'Read the final match report →' : 'Read the final preview →'}
+          </a>
+        )}
+      </section>
+    )}
+
+    <!-- Semi-final results -->
+    {sfResults.length > 0 && (
+      <section class="mt-10" aria-labelledby="sf-h">
+        <h2 id="sf-h" class="font-head text-2xl font-semibold tracking-tight mb-4">Semi-final results</h2>
+        <div class="grid sm:grid-cols-2 gap-4">
+          {sfResults.map(({ match: m, winner }) => (
+            <a href={`/match/${m.slug}`} class="rounded-card border border-border/80 bg-surface p-5 shadow-card hover:shadow-cardhover transition-shadow">
+              <div class="text-[11px] uppercase tracking-wide text-muted font-sans">{stageLabel(m.group)} · {m.date}</div>
+              <div class="mt-2 font-head text-lg font-semibold">{m.home} {m.homeScore}–{m.awayScore} {m.away}</div>
+              <p class="mt-1 text-sm text-muted font-sans">{winner} {finalFinished ? 'reached the final' : 'advance'}</p>
+            </a>
+          ))}
+        </div>
+        {thirdFinished && thirdMatch && bronzeWinner ? (
+          <p class="mt-3 text-sm text-muted font-sans">
+            Third place: <a href={`/match/${thirdMatch.slug}`} class="text-sky hover:underline underline-offset-2">{thirdMatch.home} {thirdMatch.homeScore}–{thirdMatch.awayScore} {thirdMatch.away}</a>
+            {' '}· {bronzeWinner} take bronze
+          </p>
+        ) : bronzeTeams.length > 0 && thirdMatch && (
+          <p class="mt-3 text-sm text-muted font-sans">
+            Third place: <a href={`/match/${thirdMatch.slug}`} class="text-sky hover:underline underline-offset-2">{bronzeTeams.join(' vs ')}</a> · 18 Jul
+          </p>
+        )}
+      </section>
+    )}
+
+    <div class="mt-12 grid lg:grid-cols-3 gap-8">
+      <!-- Group stage leaders -->
+      <section class="lg:col-span-2" aria-labelledby="gsl-h">
+        <div class="flex items-end justify-between gap-3 mb-4">
+          <h2 id="gsl-h" class="font-head text-2xl font-semibold tracking-tight">Group stage leaders</h2>
+          <a href="/groups" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4">All groups →</a>
+        </div>
+        <div class="rounded-card border border-border/80 bg-surface shadow-card overflow-hidden">
+          <table class="w-full text-sm font-sans">
+            <thead>
+              <tr class="text-[11px] uppercase tracking-wide text-muted bg-surface2">
+                <th class="text-left font-medium py-2.5 pl-4 w-10">#</th>
+                <th class="text-left font-medium py-2.5">Team</th>
+                <th class="font-medium px-2 w-10">Grp</th>
+                <th class="font-medium px-2 w-10">P</th>
+                <th class="font-medium px-2 w-10">GD</th>
+                <th class="font-medium px-2 pr-4 w-12">Pts</th>
+              </tr>
+            </thead>
+            <tbody>
+              {leaders.map((r: any, i: number) => (
+                <tr class="border-b border-border/60 last:border-0">
+                  <td class="py-2.5 pl-4 tabular-nums text-muted">{i + 1}</td>
+                  <td class="py-2.5">
+                    <a href={`/team/${teamSlugByName(r.name)}`} class="flex items-center gap-2 hover:text-pitch">
+                      <img src={getFlagUrl(r.code)} alt={`${r.name} flag`} class="w-6 h-4" width="24" height="16" loading="lazy" />
+                      <span class="font-medium">{r.name}</span>
+                    </a>
+                  </td>
+                  <td class="text-center px-2 tabular-nums text-muted">{r.group}</td>
+                  <td class="text-center px-2 tabular-nums">{r.P}</td>
+                  <td class="text-center px-2 tabular-nums">{r.GD > 0 ? '+' + r.GD : r.GD}</td>
+                  <td class="text-center px-2 pr-4 font-semibold tabular-nums">{r.Pts}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- Goals chart -->
+      <section aria-labelledby="goals-h">
+        <h2 id="goals-h" class="font-head text-2xl font-semibold tracking-tight mb-4">Most goals scored</h2>
+        <div class="rounded-card border border-border/80 bg-surface shadow-card overflow-hidden">
+          <ol class="divide-y divide-border/60">
+            {scorers.map((r, i) => (
+              <li class="flex items-center gap-3 px-4 py-2.5">
+                <span class="w-6 text-center text-[12px] tabular-nums text-muted font-sans">{i + 1}</span>
+                <img src={getFlagUrl(r.code)} alt={`${r.name} flag`} class="w-6 h-4" width="24" height="16" loading="lazy" />
+                <a href={`/team/${teamSlugByName(r.name)}`} class="flex-1 font-sans text-sm font-medium hover:text-pitch truncate">{r.name}</a>
+                <span class="font-head font-semibold tabular-nums">{r.gf}</span>
+              </li>
+            ))}
+          </ol>
+        </div>
+      </section>
+    </div>
+
+    <!-- All group mini tables -->
+    <section class="mt-12" aria-labelledby="allg-h">
+      <h2 id="allg-h" class="font-head text-2xl font-semibold tracking-tight mb-4">All 12 groups</h2>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        {groups.map((g) => (
+          <a href={`/group/${g.toLowerCase()}`} class="group rounded-card border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow overflow-hidden">
+            <div class="flex items-center justify-between px-4 py-3 border-b border-border/70">
+              <h3 class="font-head font-semibold group-hover:text-pitch">Group {g}</h3>
+              <span class="text-[11px] text-muted font-sans">Open →</span>
+            </div>
+            <table class="w-full text-sm font-sans">
+              <tbody>
+                {data.groups[g].map((r: any, i: number) => (
+                  <tr class="border-b border-border/50 last:border-0">
+                    <td class="py-2 pl-4 flex items-center gap-2 min-w-0">
+                      <span class={`inline-block w-1 h-4 rounded-full shrink-0 ${i < 2 ? 'bg-pitch' : i === 2 ? 'bg-warning' : 'bg-transparent'}`}></span>
+                      <img src={getFlagUrl(r.code)} alt={`${r.name} flag`} class="w-5 h-3.5 shrink-0" width="20" height="14" loading="lazy" />
+                      <span class="font-medium truncate">{r.name}</span>
+                    </td>
+                    <td class="text-center pr-4 font-semibold tabular-nums w-10">{r.Pts}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Knockout results strip -->
+    <section class="mt-12" aria-labelledby="ko-h">
+      <div class="flex items-end justify-between gap-3 mb-4">
+        <h2 id="ko-h" class="font-head text-2xl font-semibold tracking-tight">Knockout results</h2>
+        <a href="/fixtures" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4">All fixtures →</a>
+      </div>
+      <div class="rounded-card border border-border/80 bg-surface shadow-card divide-y divide-border/60">
+        {knockout.filter((m) => m.status === 'FINISHED').slice(-12).reverse().map((m) => (
+          <a href={`/match/${m.slug}`} class="flex flex-wrap items-center justify-between gap-3 px-4 py-3 hover:bg-surface2/60 transition-colors">
+            <div class="flex items-center gap-2 min-w-0">
+              <span class="text-[11px] rounded-full bg-surface2 px-2 py-0.5 text-muted font-sans shrink-0">{stageLabel(m.group)}</span>
+              <span class="font-sans text-sm font-medium truncate">{m.home} vs {m.away}</span>
+            </div>
+            <span class="font-head font-bold tabular-nums">{m.homeScore}–{m.awayScore}{m.decidedBy === 'pens' ? ' (p)' : m.decidedBy === 'aet' ? ' aet' : ''}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  </main>
+</BaseLayout>

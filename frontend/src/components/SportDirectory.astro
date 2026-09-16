@@ -1,25 +1,32 @@
 ---
 import { SPORTS } from '../lib/site';
 import SportMotif from './SportMotif.astro';
+import { dict, localeFromPath, localePath, sportCopy } from '../i18n';
+import type { Locale } from '../i18n';
+
 export interface Props {
   compact?: boolean;
 }
+const locale = (Astro.locals?.locale || localeFromPath(Astro.url.pathname)) as Locale;
+const d = dict(locale);
 const { compact = false } = Astro.props;
 ---
-<section aria-label="Sports directory">
+<section aria-label={d.sportsPage.aria}>
   {!compact && (
     <div class="mb-5 flex items-end justify-between gap-4">
       <div>
-        <h2 class="font-head text-2xl sm:text-3xl font-semibold tracking-tight">Six desks. Same question.</h2>
-        <p class="mt-1 text-sm text-muted font-sans max-w-xl">Each sport has its own board. Monday is in the book. Soccer is one room, not the building.</p>
+        <h2 class="font-head text-2xl sm:text-3xl font-semibold tracking-tight">{d.common.sixDesks}</h2>
+        <p class="mt-1 text-sm text-muted font-sans max-w-xl">{d.common.sixDesksBlurb}</p>
       </div>
-      <a href="/sports" class="hidden sm:inline text-sm font-sans font-medium text-sky hover:underline underline-offset-4">Full directory</a>
+      <a href={localePath(locale, '/sports')} class="hidden sm:inline text-sm font-sans font-medium text-sky hover:underline underline-offset-4">{d.common.fullDirectory}</a>
     </div>
   )}
   <div class="dir-grid">
-    {SPORTS.map((s, i) => (
+    {SPORTS.map((s, i) => {
+      const copy = sportCopy(locale, s.slug);
+      return (
       <a
-        href={s.href}
+        href={localePath(locale, s.href)}
         class="dir-tile"
         data-span={s.span}
         data-sport={s.slug}
@@ -28,18 +35,19 @@ const { compact = false } = Astro.props;
       >
         <SportMotif sport={s.slug} />
         <div class="flex items-center justify-between gap-2">
-          <span class="dir-pulse text-[10px] font-sans font-semibold tracking-[0.14em] uppercase" style={`color:hsl(${s.hue})`}>{s.pulse}</span>
-          <span class="text-[11px] font-sans text-muted">{s.short}</span>
+          <span class="dir-pulse text-[10px] font-sans font-semibold tracking-[0.14em] uppercase" style={`color:hsl(${s.hue})`}>{copy.pulse}</span>
+          <span class="text-[11px] font-sans text-muted">{copy.short}</span>
         </div>
         <div class="mt-auto pt-6">
-          <h3 class="font-head text-2xl sm:text-3xl font-semibold tracking-tight">{s.label}</h3>
-          <p class="mt-1.5 text-[13px] font-sans text-muted leading-5 line-clamp-2">{s.liveNow}</p>
+          <h3 class="font-head text-2xl sm:text-3xl font-semibold tracking-tight">{copy.label}</h3>
+          <p class="mt-1.5 text-[13px] font-sans text-muted leading-5 line-clamp-2">{copy.liveNow}</p>
           <span class="mt-3 inline-flex items-center gap-1 text-[12px] font-sans font-medium" style={`color:hsl(${s.hue})`}>
-            {s.board}
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+            {copy.board}
+            <svg class="rtl:-scale-x-100" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
           </span>
         </div>
       </a>
-    ))}
+      );
+    })}
   </div>
 </section>

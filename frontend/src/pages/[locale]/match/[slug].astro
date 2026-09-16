@@ -1,0 +1,18 @@
+---
+import MatchPage from '../../../views/MatchPage.astro';
+import { getCollection } from 'astro:content';
+import { OTHER_LOCALES } from '../../../i18n';
+
+export async function getStaticPaths() {
+  const matches = await getCollection('matches');
+  const all = matches.map((x) => x.data);
+  return OTHER_LOCALES.flatMap((locale) =>
+    matches.map((entry) => ({
+      params: { locale, slug: entry.data.slug },
+      props: { m: entry.data, all },
+    }))
+  );
+}
+const { m, all } = Astro.props;
+---
+<MatchPage m={m} all={all} />

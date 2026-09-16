@@ -1,40 +1,48 @@
 ---
 import WhyCareMeter from './WhyCareMeter.astro';
 import CompetitorMark from './CompetitorMark.astro';
-import { fmtDate, stageLabel, scoreDisplay, contentImage, imgOnError, sportOf, sportBySlug } from '../lib/site';
+import { contentImage, imgOnError, sportOf, sportBySlug } from '../lib/site';
+import { dict, localeFromPath, localePath, sportCopy } from '../i18n';
+import { localizeMatch, fmtDateI18n, scoreDisplayI18n } from '../i18n/content';
+import type { Locale } from '../i18n';
+
 export interface Props { m: any; }
+const locale = (Astro.locals?.locale || localeFromPath(Astro.url.pathname)) as Locale;
+const d = dict(locale);
 const { m } = Astro.props;
-const isLive = m.status === 'LIVE';
-const played = m.status === 'FINISHED' || isLive;
-const score = scoreDisplay(m);
+const locm = localizeMatch(m, locale);
+const isLive = locm.status === 'LIVE';
+const played = locm.status === 'FINISHED' || isLive;
+const score = scoreDisplayI18n(locale, locm);
 const sport = sportOf(m);
 const sportMeta = sportBySlug(sport);
-const stage = stageLabel(m.group, m.roundLabel);
-const stageBadge = m.roundLabel || (m.matchday && m.matchday <= 3 ? `${stage} · MD${m.matchday}` : stage);
-const bgImg = contentImage(m.image, m.slug, 960, 60);
+const sportL = sportCopy(locale, sport);
+const stage = locm._stage;
+const stageBadge = locm.matchday && locm.matchday <= 3 ? `${stage} · ${d.stage.matchday.replace('{n}', String(locm.matchday))}` : stage;
+const bgImg = contentImage(locm.image, locm.slug, 960, 60);
 ---
 <section class="relative overflow-hidden rounded-card border border-border/70 bg-surface shadow-card grain">
   <div class="absolute inset-0 pointer-events-none" style="background: var(--hero-bg)"></div>
   {bgImg && (
     <div class="absolute inset-0 opacity-[0.12] pointer-events-none">
-      <img src={bgImg} alt={`${m.home} vs ${m.away}`} class="w-full h-full object-cover" width="960" height="540" loading="eager" decoding="async" fetchpriority="high" onerror={imgOnError(m.slug)} />
+      <img src={bgImg} alt={`${locm.home} ${d.common.vs} ${locm.away}`} class="w-full h-full object-cover" width="960" height="540" loading="eager" decoding="async" fetchpriority="high" onerror={imgOnError(locm.slug)} />
     </div>
   )}
   <div class="relative p-6 sm:p-10">
     <div class="flex items-center gap-2 text-[11px] font-sans font-medium text-muted flex-wrap">
-      <span class="rounded-full bg-surface2 px-2.5 py-1">On the desk</span>
-      {sportMeta && <span class="rounded-full bg-surface2 px-2.5 py-1">{sportMeta.label}</span>}
+      <span class="rounded-full bg-surface2 px-2.5 py-1">{d.common.onTheDesk}</span>
+      {sportMeta && <span class="rounded-full bg-surface2 px-2.5 py-1">{sportL.label}</span>}
       <span class="rounded-full bg-surface2 px-2.5 py-1">{stageBadge}</span>
-      {isLive && <span class="inline-flex items-center gap-1.5 rounded-full bg-coral px-2.5 py-1 text-white font-semibold"><span class="w-1.5 h-1.5 rounded-full bg-white pulse-glow"></span>LIVE</span>}
+      {isLive && <span class="inline-flex items-center gap-1.5 rounded-full bg-coral px-2.5 py-1 text-white font-semibold"><span class="w-1.5 h-1.5 rounded-full bg-white pulse-glow"></span>{d.status.LIVE}</span>}
     </div>
 
     <div class="mt-5 grid lg:grid-cols-5 gap-6 items-center">
       <div class="lg:col-span-3">
-        <h1 class="font-head text-3xl sm:text-4xl lg:text-5xl font-semibold tracking-tight leading-[1.05]">{m.headline}</h1>
-        <p class="mt-4 text-base sm:text-lg text-muted font-sans max-w-xl">{m.teaser}</p>
+        <h1 class="font-head text-3xl sm:text-4xl lg:text-5xl font-semibold tracking-tight leading-[1.05]">{locm.headline}</h1>
+        <p class="mt-4 text-base sm:text-lg text-muted font-sans max-w-xl">{locm.teaser}</p>
         <div class="mt-6 flex flex-wrap items-center gap-3">
-          <a href={`/match/${m.slug}`} class="inline-flex items-center gap-2 h-11 rounded-btn bg-pitch px-5 font-sans font-medium text-white hover:bg-pitch2 transition-colors" data-testid="hero-read-cta">Read the story <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
-          {sportMeta && <a href={sportMeta.href} class="inline-flex items-center h-11 rounded-btn border border-border px-5 font-sans font-medium hover:bg-surface2 transition-colors">{sportMeta.label} desk</a>}
+          <a href={localePath(locale, `/match/${locm.slug}`)} class="inline-flex items-center gap-2 h-11 rounded-btn bg-pitch px-5 font-sans font-medium text-white hover:bg-pitch2 transition-colors" data-testid="hero-read-cta">{d.common.readStory} <svg class="rtl:-scale-x-100" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+          {sportMeta && <a href={localePath(locale, sportMeta.href)} class="inline-flex items-center h-11 rounded-btn border border-border px-5 font-sans font-medium hover:bg-surface2 transition-colors">{sportL.label}</a>}
         </div>
       </div>
       <div class="lg:col-span-2">
@@ -42,7 +50,7 @@ const bgImg = contentImage(m.image, m.slug, 960, 60);
           <div class="flex items-center justify-between gap-4">
             <div class="text-center flex-1">
               <div class="flex justify-center"><CompetitorMark name={m.home} code={m.homeCode} sport={sport} size="md" /></div>
-              <div class="mt-1 font-head font-semibold text-sm">{m.home}</div>
+              <div class="mt-1 font-head font-semibold text-sm">{locm.home}</div>
             </div>
             {played && score ? (
               <div class="text-center">
@@ -50,16 +58,16 @@ const bgImg = contentImage(m.image, m.slug, 960, 60);
                 {score.note && <div class="text-[11px] font-sans text-muted mt-0.5">{score.note}</div>}
               </div>
             ) : (
-              <div class="text-center"><div class="font-head font-semibold text-muted">{m.time}</div><div class="text-[11px] text-muted font-sans">{fmtDate(m.date)}</div></div>
+              <div class="text-center"><div class="font-head font-semibold text-muted">{locm.time}</div><div class="text-[11px] text-muted font-sans">{fmtDateI18n(locale, locm.date)}</div></div>
             )}
             <div class="text-center flex-1">
               <div class="flex justify-center"><CompetitorMark name={m.away} code={m.awayCode} sport={sport} size="md" /></div>
-              <div class="mt-1 font-head font-semibold text-sm">{m.away}</div>
+              <div class="mt-1 font-head font-semibold text-sm">{locm.away}</div>
             </div>
           </div>
           <div class="mt-4 flex items-center justify-between gap-3 text-[12px] text-muted font-sans">
-            <span class="inline-flex items-center gap-1.5"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-5.7-7-11a7 7 0 0 1 14 0c0 5.3-7 11-7 11Z"/><circle cx="12" cy="10" r="2.5"/></svg>{m.venue}, {m.city}</span>
-            <WhyCareMeter score={m.whyCareScore} size="sm" />
+            <span class="inline-flex items-center gap-1.5"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-5.7-7-11a7 7 0 0 1 14 0c0 5.3-7 11-7 11Z"/><circle cx="12" cy="10" r="2.5"/></svg>{locm.venue}, {locm.city}</span>
+            <WhyCareMeter score={locm.whyCareScore} size="sm" />
           </div>
         </div>
       </div>

@@ -1,21 +1,26 @@
 ---
-const path = Astro.url.pathname;
+import { dict, localeFromPath, localePath, stripLocalePrefix } from '../i18n';
+import type { Locale } from '../i18n';
+
+const locale = (Astro.locals?.locale || localeFromPath(Astro.url.pathname)) as Locale;
+const d = dict(locale);
+const path = stripLocalePrefix(Astro.url.pathname);
 const items = [
-  { href: '/', label: 'Home', id: 'home', icon: 'M3 11.5 12 4l9 7.5M5 10v10h14V10' },
-  { href: '/sports', label: 'Sports', id: 'sports', icon: 'M8 2v4M16 2v4M3 9h18M5 5h14a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Z' },
-  { href: '/stories', label: 'Stories', id: 'stories', icon: 'M4 19.5A2.5 2.5 0 0 1 6.5 17H20M4 19.5A2.5 2.5 0 0 0 6.5 22H20V2H6.5A2.5 2.5 0 0 0 4 4.5v15Z' },
-  { href: '/live', label: 'Live', id: 'live', icon: 'M12 3a9 9 0 1 0 9 9M12 7v5l3 2' },
+  { href: localePath(locale, '/'), rest: '/', label: d.bottom.home, id: 'home', icon: 'M3 11.5 12 4l9 7.5M5 10v10h14V10' },
+  { href: localePath(locale, '/sports'), rest: '/sports', label: d.bottom.sports, id: 'sports', icon: 'M8 2v4M16 2v4M3 9h18M5 5h14a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Z' },
+  { href: localePath(locale, '/stories'), rest: '/stories', label: d.bottom.stories, id: 'stories', icon: 'M4 19.5A2.5 2.5 0 0 1 6.5 17H20M4 19.5A2.5 2.5 0 0 0 6.5 22H20V2H6.5A2.5 2.5 0 0 0 4 4.5v15Z' },
+  { href: localePath(locale, '/live'), rest: '/live', label: d.bottom.live, id: 'live', icon: 'M12 3a9 9 0 1 0 9 9M12 7v5l3 2' },
 ];
-const active = (href: string) => {
-  if (href === '/') return path === '/';
-  if (href === '/sports') return path === '/sports' || path.startsWith('/sport/');
-  return path.startsWith(href);
+const active = (rest: string) => {
+  if (rest === '/') return path === '/';
+  if (rest === '/sports') return path === '/sports' || path.startsWith('/sport/');
+  return path.startsWith(rest);
 };
 ---
-<nav class="fixed bottom-0 left-0 right-0 z-50 md:hidden border-t border-border/70 bg-surface/90 backdrop-blur supports-[backdrop-filter]:bg-surface/85" aria-label="Mobile">
+<nav class="fixed bottom-0 left-0 right-0 z-50 md:hidden border-t border-border/70 bg-surface/90 backdrop-blur supports-[backdrop-filter]:bg-surface/85" aria-label={d.bottom.aria}>
   <div class="grid grid-cols-4">
     {items.map((it) => (
-      <a href={it.href} data-testid={`bottomnav-${it.id}`} class={`flex flex-col items-center gap-0.5 py-2.5 text-[11px] font-sans transition-colors ${active(it.href) ? 'text-pitch' : 'text-muted'}`} aria-current={active(it.href) ? 'page' : undefined}>
+      <a href={it.href} data-testid={`bottomnav-${it.id}`} class={`flex flex-col items-center gap-0.5 py-2.5 text-[11px] font-sans transition-colors ${active(it.rest) ? 'text-pitch' : 'text-muted'}`} aria-current={active(it.rest) ? 'page' : undefined}>
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d={it.icon}/></svg>
         <span>{it.label}</span>
       </a>

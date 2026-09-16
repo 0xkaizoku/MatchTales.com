@@ -11,6 +11,25 @@ const DEV_PORT = 3000;
 export default defineConfig({
   site: 'https://www.matchtales.com',
   compressHTML: true,
+  i18n: {
+    defaultLocale: 'en',
+    locales: [
+      'en',
+      'fr',
+      'es',
+      'de',
+      'it',
+      'pl',
+      { path: 'zh', codes: ['zh-CN', 'zh-Hans'] },
+      'ja',
+      'ko',
+      'ar',
+    ],
+    routing: {
+      prefixDefaultLocale: false,
+      redirectToDefaultLocale: false,
+    },
+  },
   prefetch: {
     prefetchAll: false,
     defaultStrategy: 'hover',
@@ -22,6 +41,21 @@ export default defineConfig({
   integrations: [
     tailwind({ applyBaseStyles: false }),
     sitemap({
+      i18n: {
+        defaultLocale: 'en',
+        locales: {
+          en: 'en',
+          fr: 'fr',
+          es: 'es',
+          de: 'de',
+          it: 'it',
+          pl: 'pl',
+          zh: 'zh-Hans',
+          ja: 'ja',
+          ko: 'ko',
+          ar: 'ar',
+        },
+      },
       filter: (page) =>
         !page.includes('/404') &&
         !page.includes('/api/') &&

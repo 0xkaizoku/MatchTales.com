@@ -1,18 +1,22 @@
 ---
+import { dict, localeFromPath } from '../i18n';
+import type { Locale } from '../i18n';
 export interface Props {
   rows: { pos: string; name: string; score: string; note?: string }[];
   nameLabel?: string;
   scoreLabel?: string;
 }
-const { rows, nameLabel = 'Name', scoreLabel = 'Score' } = Astro.props;
+const locale = (Astro.locals?.locale || localeFromPath(Astro.url.pathname)) as Locale;
+const d = dict(locale);
+const { rows, nameLabel = d.common.name, scoreLabel = d.common.score } = Astro.props;
 ---
 <div class="overflow-x-auto rounded-card border border-border/80">
   <table class="w-full text-sm font-sans">
     <thead class="bg-surface2 text-[11px] uppercase tracking-wide text-muted">
       <tr>
-        <th class="text-left font-medium px-3 py-2 w-12">Pos</th>
-        <th class="text-left font-medium px-3 py-2">{nameLabel}</th>
-        <th class="text-right font-medium px-3 py-2">{scoreLabel}</th>
+        <th class="text-start font-medium px-3 py-2 w-12">{d.common.pos}</th>
+        <th class="text-start font-medium px-3 py-2">{nameLabel}</th>
+        <th class="text-end font-medium px-3 py-2">{scoreLabel}</th>
       </tr>
     </thead>
     <tbody>
@@ -23,7 +27,7 @@ const { rows, nameLabel = 'Name', scoreLabel = 'Score' } = Astro.props;
             {r.name}
             {r.note && <span class="block text-[11px] font-normal text-muted">{r.note}</span>}
           </td>
-          <td class="px-3 py-2 text-right tabular-nums font-head">{r.score}</td>
+          <td class="px-3 py-2 text-end tabular-nums font-head">{r.score}</td>
         </tr>
       ))}
     </tbody>

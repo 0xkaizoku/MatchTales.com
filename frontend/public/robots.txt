@@ -5,6 +5,7 @@ Allow: /
 # App / internal endpoints
 Disallow: /api/
 Disallow: /search-index.json
+Disallow: /*/search-index.json
 
 # Prefer canonical host
 Host: https://www.matchtales.com

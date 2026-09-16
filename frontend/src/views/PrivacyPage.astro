@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../lib/site';
+import { dict, localeFromPath, localePath } from '../i18n';
+import type { Locale } from '../i18n';
+
+const locale = (Astro.locals?.locale || localeFromPath(Astro.url.pathname)) as Locale;
+const d = dict(locale);
+const schema = {
+  '@type': 'WebPage',
+  name: d.privacy.title,
+  description: d.privacy.description,
+  url: `${SITE.url}${localePath(locale, '/privacy')}`,
+  isPartOf: { '@id': `${SITE.url}/#website` },
+};
+---
+<BaseLayout title={d.privacy.title} description={d.privacy.description} schema={schema} imageAlt={d.privacy.title}>
+  <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="max-w-2xl mx-auto py-10">
+      <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">{d.privacy.title}</h1>
+      <p class="mt-2 text-muted font-sans">{d.privacy.updated}</p>
+      <div class="mt-8 space-y-6 font-sans text-[15px] leading-7 text-fg">
+        <section><h2 class="font-head text-lg font-semibold mb-1">{d.privacy.s1t}</h2><p class="text-muted">{d.privacy.s1}</p></section>
+        <section><h2 class="font-head text-lg font-semibold mb-1">{d.privacy.s2t}</h2><p class="text-muted">{d.privacy.s2}</p></section>
+        <section><h2 class="font-head text-lg font-semibold mb-1">{d.privacy.s3t}</h2><p class="text-muted">{d.privacy.s3}</p></section>
+        <section><h2 class="font-head text-lg font-semibold mb-1">{d.privacy.s4t}</h2><p class="text-muted">{d.privacy.s4}</p></section>
+        <section><h2 class="font-head text-lg font-semibold mb-1">{d.privacy.s5t}</h2><p class="text-muted">{d.privacy.s5}</p></section>
+        <section><h2 class="font-head text-lg font-semibold mb-1">{d.privacy.s6t}</h2><p class="text-muted">{d.privacy.s6}</p></section>
+      </div>
+    </div>
+  </main>
+</BaseLayout>

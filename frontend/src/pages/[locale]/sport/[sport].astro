@@ -1,0 +1,13 @@
+---
+import SportDeskPage from '../../../views/SportDeskPage.astro';
+import { SPORTS } from '../../../lib/site';
+import { OTHER_LOCALES } from '../../../i18n';
+
+export function getStaticPaths() {
+  return OTHER_LOCALES.flatMap((locale) =>
+    SPORTS.map((s) => ({ params: { locale, sport: s.slug }, props: { sport: s.slug } }))
+  );
+}
+const { sport } = Astro.props;
+---
+<SportDeskPage sport={sport} />

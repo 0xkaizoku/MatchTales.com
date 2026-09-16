@@ -1,0 +1,18 @@
+---
+import FixturesPagedPage from '../../../views/FixturesPagedPage.astro';
+import { getCollection } from 'astro:content';
+import { isWorldCup } from '../../../lib/site';
+import { OTHER_LOCALES } from '../../../i18n';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('matches');
+  const total = entries.filter((e) => isWorldCup(e.data)).length;
+  const totalPages = Math.max(1, Math.ceil(total / 72));
+  const pages = Array.from({ length: Math.max(0, totalPages - 1) }, (_, i) => String(i + 2));
+  return OTHER_LOCALES.flatMap((locale) =>
+    pages.map((page) => ({ params: { locale, page }, props: { page } }))
+  );
+}
+const { page } = Astro.props;
+---
+<FixturesPagedPage page={page} />

@@ -1,0 +1,273 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import WhyCareMeter from '../components/WhyCareMeter.astro';
+import TeamBadge from '../components/TeamBadge.astro';
+import HypeNotes from '../components/HypeNotes.astro';
+import MatchStoryCard from '../components/MatchStoryCard.astro';
+import CompetitorMark from '../components/CompetitorMark.astro';
+import SourcesList from '../components/SourcesList.astro';
+import TennisScore from '../components/TennisScore.astro';
+import LeaderboardTable from '../components/LeaderboardTable.astro';
+import SportChip from '../components/SportChip.astro';
+import { getCollection } from 'astro:content';
+import { SITE, contentImage, imgOnError, seoDescription, sportOf, sportBySlug, isWorldCup } from '../lib/site';
+import { dict, localeFromPath, localePath, fill, sportCopy } from '../i18n';
+import { localizeMatch, fmtDateI18n, statusLabelI18n, scoreDisplayI18n, matchFaqs } from '../i18n/content';
+import FaqSection from '../components/FaqSection.astro';
+import type { Locale } from '../i18n';
+
+const { m: raw, all } = Astro.props;
+const locale = (Astro.locals?.locale || localeFromPath(Astro.url.pathname)) as Locale;
+const d = dict(locale);
+const lp = (p: string) => localePath(locale, p);
+const m = localizeMatch(raw, locale);
+const paras = (m.story || '').split(/\n\n+/).filter(Boolean);
+const isLive = m.status === 'LIVE';
+const played = m.status === 'FINISHED' || isLive;
+const sport = sportOf(raw);
+const sportMeta = sportBySlug(sport);
+const sportL = sportCopy(locale, sport);
+const related = all.filter((x: any) => x.slug !== raw.slug && sportOf(x) === sport && (x.group === raw.group || (x.tags || []).some((t: string) => (raw.tags || []).includes(t)))).slice(0, 3);
+const label = `${m.home} ${d.common.vs} ${m.away}`;
+const stage = m._stage;
+const stageBadge = m.matchday && m.matchday <= 3 ? `${stage} · ${fill(d.stage.matchdayLong, { n: m.matchday })}` : stage;
+const score = scoreDisplayI18n(locale, m);
+const ogImage = contentImage(m.image, m.slug, 1200, 80) || SITE.ogImage;
+const heroImage = contentImage(m.image, m.slug, 1200, 78);
+const pageTitle = `${m.headline} | ${label}`;
+const pageDesc = seoDescription(m.teaser || m.stakes || `${label}: story, stakes and the result.`);
+const format = m.format || 'team-match';
+const wc = isWorldCup(m);
+
+const breadcrumb = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: d.common.home, item: `${SITE.url}${lp('/')}` },
+    { '@type': 'ListItem', position: 2, name: sportL.label, item: `${SITE.url}${lp(sportMeta?.href || '/')}` },
+    { '@type': 'ListItem', position: 3, name: stage, item: wc && m.group.length === 1 ? `${SITE.url}${lp(`/group/${m.group.toLowerCase()}`)}` : `${SITE.url}${lp(sportMeta?.href || '/fixtures')}` },
+    { '@type': 'ListItem', position: 4, name: label, item: `${SITE.url}${lp(`/match/${m.slug}`)}` },
+  ],
+};
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'SportsEvent',
+    name: `${m.home} vs ${m.away}`,
+    sport: sportL.label,
+    startDate: `${m.date}T${m.time}:00`,
+    eventStatus: played ? 'https://schema.org/EventCompleted' : 'https://schema.org/EventScheduled',
+    eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+    image: heroImage ? [heroImage] : undefined,
+    location: { '@type': 'Place', name: m.venue, address: { '@type': 'PostalAddress', addressLocality: m.city } },
+    homeTeam: { '@type': 'SportsTeam', name: m.home },
+    awayTeam: { '@type': 'SportsTeam', name: m.away },
+    competitor: [
+      { '@type': 'SportsTeam', name: m.home },
+      { '@type': 'SportsTeam', name: m.away },
+    ],
+    description: pageDesc,
+    organizer: { '@type': 'Organization', name: wc ? 'FIFA' : SITE.name },
+    ...(played && m.homeScore != null
+      ? {
+          homeTeamScore: Number(m.homeScore),
+          awayTeamScore: Number(m.awayScore),
+        }
+      : {}),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: m.headline,
+    description: pageDesc,
+    image: heroImage || undefined,
+    datePublished: `${m.date}T12:00:00Z`,
+    dateModified: `${m.date}T12:00:00Z`,
+    author: { '@type': 'Organization', name: SITE.name },
+    publisher: { '@type': 'Organization', name: SITE.name, logo: { '@type': 'ImageObject', url: `${SITE.url}/favicon.svg` } },
+    mainEntityOfPage: `${SITE.url}${lp(`/match/${m.slug}`)}`,
+    inLanguage: locale === 'zh' ? 'zh-Hans' : locale,
+  },
+  breadcrumb,
+];
+---
+<BaseLayout
+  title={pageTitle}
+  description={pageDesc}
+  image={ogImage}
+  type="article"
+  schema={schema}
+  publishedTime={`${m.date}T12:00:00Z`}
+  modifiedTime={`${m.date}T12:00:00Z`}
+  preloadImage={heroImage || undefined}
+  keywords={`${m.home}, ${m.away}, ${sportMeta?.label || ''}, ${stage}, match report, ${m.tags?.join(', ') || ''}`}
+  imageAlt={`${label} - ${m.headline}`}
+>
+  <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
+    <nav class="mt-6 text-[13px] font-sans text-muted flex items-center gap-1.5 flex-wrap" aria-label={d.common.breadcrumb}>
+      <a href={lp('/')} class="hover:text-fg">{d.common.home}</a><span>/</span>
+      <a href={lp(sportMeta?.href || '/stories')} class="hover:text-fg">{sportL.label}</a><span>/</span>
+      {wc && m.group.length === 1 ? (
+        <><a href={lp(`/group/${m.group.toLowerCase()}`)} class="hover:text-fg">{fill(d.stage.group, { g: m.group })}</a><span>/</span></>
+      ) : (
+        <><span>{stage}</span><span>/</span></>
+      )}
+      <span class="text-fg">{label}</span>
+    </nav>
+
+    {heroImage && (
+      <div class="mt-5 overflow-hidden rounded-card border border-border/80 shadow-card aspect-[21/9] sm:aspect-[2.4/1] bg-surface2">
+        <img
+          src={heroImage}
+          alt={`${label} - ${m.headline}`}
+          width="1200"
+          height="500"
+          class="w-full h-full object-cover"
+          fetchpriority="high"
+          decoding="async"
+          sizes="(max-width: 1120px) 100vw, 1120px"
+          onerror={imgOnError(m.slug)}
+        />
+      </div>
+    )}
+
+    <div class="mt-5 grid lg:grid-cols-3 gap-8">
+      <article data-testid="story-article" class="lg:col-span-2 min-w-0">
+        <div class="flex items-center gap-2 text-[11px] font-sans font-medium flex-wrap">
+          <SportChip sport={sport} />
+          <span class="rounded-full bg-surface2 px-2.5 py-1 text-muted">{stageBadge}</span>
+          {isLive ? <span class="inline-flex items-center gap-1.5 rounded-full bg-coral px-2.5 py-1 text-white"><span class="w-1.5 h-1.5 rounded-full bg-white pulse-glow"></span>{d.status.LIVE}{m.liveMinute ? ` ${m.liveMinute}` : ''}</span> : <span class="rounded-full bg-surface2 px-2.5 py-1 text-muted">{statusLabelI18n(locale, m.status)}</span>}
+        </div>
+        <h1 class="mt-3 font-head text-3xl sm:text-4xl font-semibold tracking-tight leading-[1.08]">{m.headline}</h1>
+        <div class="mt-3 flex flex-wrap items-center gap-2 text-sm font-sans text-muted">
+          {wc ? (<><TeamBadge name={raw.home} /> <span class="text-muted">{d.common.vs}</span> <TeamBadge name={raw.away} /></>) : (<><span class="font-medium">{m.home}</span> <span class="text-muted">{d.common.vs}</span> <span class="font-medium">{m.away}</span></>)}
+          <span>·</span><span>{fmtDateI18n(locale, m.date)} · {m.time}</span><span>·</span><span>{m.venue}, {m.city}</span>
+        </div>
+
+        <p class="mt-6 text-lg sm:text-xl font-sans text-muted leading-relaxed border-l-2 border-pitch pl-4">{m.teaser}</p>
+
+        {format === 'singles' && m.tennisSets?.length > 0 && (
+          <div class="mt-6"><TennisScore p1={m.home} p2={m.away} sets={m.tennisSets} /></div>
+        )}
+        {(format === 'leaderboard' || format === 'race') && m.leaderboard?.length > 0 && (
+          <div class="mt-6">
+            <LeaderboardTable rows={m.leaderboard} nameLabel={format === 'race' ? d.common.driver : d.common.player} scoreLabel={format === 'race' ? d.common.gapTime : d.common.score} />
+          </div>
+        )}
+        {m.resultSummary && <p class="mt-4 font-head font-semibold">{m.resultSummary}</p>}
+
+        <div class="mt-6 space-y-5 text-[17px] leading-8 dropcap">
+          {paras.map((p: string) => <p>{p}</p>)}
+        </div>
+
+        <div class="mt-8 grid sm:grid-cols-2 gap-4">
+          <div class="rounded-card border border-border/80 bg-surface p-5">
+            <h2 class="font-head text-sm font-semibold uppercase tracking-wide text-pitch">{d.common.stakes}</h2>
+            <p class="mt-2 text-[15px] font-sans leading-7">{m.stakes}</p>
+          </div>
+          <div class="rounded-card border border-border/80 bg-surface p-5">
+            <h2 class="font-head text-sm font-semibold uppercase tracking-wide text-coral">{d.common.rivalry}</h2>
+            <p class="mt-2 text-[15px] font-sans leading-7">{m.rivalryAngle}</p>
+          </div>
+        </div>
+
+        <section class="mt-8">
+          <h2 class="font-head text-xl font-semibold tracking-tight mb-3">{d.common.playersDecide}</h2>
+          <div class="grid sm:grid-cols-2 gap-3">
+            {m.keyPlayers.map((p: any) => (
+              <div class="rounded-card border border-border/80 bg-surface p-4" data-testid="player-legacy-card">
+                <div class="flex items-center justify-between gap-2">
+                  <span class="font-head font-semibold">{p.name}</span>
+                  <span class="text-[11px] rounded-full bg-surface2 px-2 py-0.5 font-sans text-muted">{p.team}</span>
+                </div>
+                <p class="mt-1.5 text-sm text-muted font-sans leading-6">{p.hook}</p>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        <section class="mt-8">
+          <h2 class="font-head text-xl font-semibold tracking-tight mb-3">{d.common.didYouKnow}</h2>
+          <ul class="space-y-2.5">
+            {m.funFacts.map((f: string) => (
+              <li class="flex items-start gap-3 rounded-card border border-border/70 bg-surface2/60 p-3.5"><span class="shrink-0 grid place-items-center w-6 h-6 rounded-full bg-pitch text-white text-[12px] font-head">!</span><span class="text-[15px] font-sans leading-6">{f}</span></li>
+            ))}
+          </ul>
+        </section>
+
+        {m.headToHead && (
+          <section class="mt-8 rounded-card border border-border/80 bg-surface p-5">
+            <h2 class="font-head text-sm font-semibold uppercase tracking-wide text-sky">{d.common.headToHead}</h2>
+            <p class="mt-2 text-[15px] font-sans leading-7">{m.headToHead}</p>
+          </section>
+        )}
+        <SourcesList sources={m.sources} />
+        <FaqSection items={matchFaqs(locale, raw)} />
+      </article>
+
+      <aside class="lg:col-span-1">
+        <div class="lg:sticky lg:top-20 space-y-5">
+          <div class="rounded-card border border-border/80 bg-surface p-5 shadow-card">
+            <div class="flex items-center justify-between gap-4">
+              <div class="text-center flex-1"><div class="flex justify-center"><CompetitorMark name={m.home} code={m.homeCode} sport={sport} /></div><div class="mt-1 font-head font-semibold text-sm">{m.home}</div></div>
+              {played && score ? (
+                <div class="text-center">
+                  <div class="font-head font-bold text-3xl tabular-nums">{score.main}</div>
+                  {score.note && <div class="text-[11px] font-sans text-muted mt-0.5">{score.note}</div>}
+                </div>
+              ) : (
+                <div class="text-center"><div class="font-head font-semibold">{m.time}</div><div class="text-[11px] text-muted font-sans">{fmtDateI18n(locale, m.date)}</div></div>
+              )}
+              <div class="text-center flex-1"><div class="flex justify-center"><CompetitorMark name={m.away} code={m.awayCode} sport={sport} /></div><div class="mt-1 font-head font-semibold text-sm">{m.away}</div></div>
+            </div>
+            <div class="mt-5 pt-4 border-t border-border/70 flex items-center justify-between gap-3">
+              <span class="text-[11px] uppercase tracking-wide text-muted font-sans">{d.common.rating}</span>
+              <WhyCareMeter score={m.whyCareScore} size="lg" />
+            </div>
+            <button id="share-btn" data-testid="match-story-share-button" data-label={`${m.headline} - ${label}`} data-copied={d.common.copied} class="mt-4 w-full h-10 rounded-btn border border-border font-sans text-sm font-medium hover:bg-surface2 transition-colors inline-flex items-center justify-center gap-2"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.6 13.5 6.8 4M15.4 6.5l-6.8 4"/></svg> {d.common.share}</button>
+          </div>
+
+          {m.tags?.length > 0 && (
+            <div class="rounded-card border border-border/80 bg-surface p-5">
+              <h3 class="font-head text-sm font-semibold mb-2">{d.common.tags}</h3>
+              <div class="flex flex-wrap gap-2">{m.tags.map((t: string) => <span class="rounded-full bg-surface2 px-2.5 py-1 text-[12px] font-sans text-muted">#{t.replace(/\s+/g,'')}</span>)}</div>
+            </div>
+          )}
+
+          <div class="rounded-card border border-border/80 bg-surface2/50 p-4 text-[12px] font-sans text-muted">
+            <p><strong class="text-fg">{d.common.venue}:</strong> {m.venue}, {m.city}</p>
+            <p class="mt-1"><strong class="text-fg">{d.common.stage}:</strong> {stage}</p>
+            <p class="mt-1"><strong class="text-fg">{d.common.kickoff}:</strong> {fmtDateI18n(locale, m.date)} · {m.time} {d.common.localTime}</p>
+          </div>
+        </div>
+      </aside>
+    </div>
+
+    <section class="mt-12">
+      <h2 class="font-head text-2xl font-semibold tracking-tight mb-1">{d.common.hypeMatch}</h2>
+      <p class="text-sm text-muted font-sans mb-5">{fill(d.common.hypeTake, { label })}</p>
+      <HypeNotes matchSlug={m.slug} matchLabel={label} compact={true} />
+    </section>
+
+    {related.length > 0 && (
+      <section class="mt-12 mb-8">
+        <h2 class="font-head text-2xl font-semibold tracking-tight mb-4">{d.common.related}</h2>
+        <div class="grid sm:grid-cols-3 gap-4">{related.map((r: any) => <MatchStoryCard m={r} />)}</div>
+      </section>
+    )}
+  </main>
+  <script>
+    function bindShare(){
+      const b=document.getElementById('share-btn');
+      if(!b||b.dataset.bound)return; b.dataset.bound='1';
+      b.addEventListener('click', async ()=>{
+        const url=location.href; const title=b.dataset.label||document.title;
+        if(navigator.share){ try{ await navigator.share({title, url}); }catch(e){} }
+        else { try{ await navigator.clipboard.writeText(url); const t=b.textContent; b.textContent=b.dataset.copied||t; setTimeout(()=>b.textContent=t,1500);}catch(e){} }
+      });
+    }
+    bindShare();
+    document.addEventListener('astro:after-swap', bindShare);
+  </script>
+</BaseLayout>

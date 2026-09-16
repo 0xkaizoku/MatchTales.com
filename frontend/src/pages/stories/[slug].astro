@@ -1,72 +1,11 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import { getCollection, render } from 'astro:content';
-import { SITE, contentImage, imgOnError, seoDescription } from '../../lib/site';
-import SourcesList from '../../components/SourcesList.astro';
-import SportChip from '../../components/SportChip.astro';
+import StoryPage from '../../views/StoryPage.astro';
+import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
   const stories = await getCollection('stories');
   return stories.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
 }
 const { entry } = Astro.props;
-const { Content } = await render(entry);
-const s = entry.data;
-const pub = s.pubDate.toISOString();
-const hero = contentImage(s.image, entry.id, 1200, 78);
-const og = contentImage(s.image, entry.id, 1200, 80);
-const schema = [
-  {
-    '@type': 'Article',
-    headline: s.title,
-    description: seoDescription(s.excerpt),
-    image: [hero],
-    datePublished: pub,
-    dateModified: pub,
-    author: { '@type': 'Organization', name: SITE.name },
-    publisher: { '@id': `${SITE.url}/#organization` },
-    mainEntityOfPage: `${SITE.url}/stories/${entry.id}`,
-    articleSection: s.category,
-    inLanguage: 'en-US',
-  },
-  {
-    '@type': 'BreadcrumbList',
-    itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Home', item: SITE.url },
-      { '@type': 'ListItem', position: 2, name: 'Stories', item: `${SITE.url}/stories` },
-      { '@type': 'ListItem', position: 3, name: s.title, item: `${SITE.url}/stories/${entry.id}` },
-    ],
-  },
-];
 ---
-<BaseLayout title={s.title} description={seoDescription(s.excerpt)} image={og} imageAlt={s.title} type="article" schema={schema} publishedTime={pub} modifiedTime={pub} preloadImage={hero} keywords={`${s.category}, ${s.sport || 'soccer'}, ${s.title}`}>
-  <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
-    <article class="max-w-2xl mx-auto" data-testid="story-article">
-      <nav class="mt-6 text-[13px] font-sans text-muted flex items-center gap-1.5" aria-label="Breadcrumb"><a href="/stories" class="hover:text-fg">Stories</a><span>/</span><span class="text-fg">{s.category}</span></nav>
-      <div class="mt-6 flex items-center gap-2 flex-wrap">
-        <SportChip sport={s.sport || 'soccer'} />
-        <span class="text-[11px] font-sans font-medium text-pitch uppercase tracking-wide">{s.category} · {s.readingTime} min read</span>
-      </div>
-      <h1 class="mt-2 font-head text-3xl sm:text-4xl font-semibold tracking-tight leading-[1.1]">{s.title}</h1>
-      {s.subtitle && <p class="mt-3 text-xl text-muted font-sans">{s.subtitle}</p>}
-      <img src={hero} alt={s.title} width="672" height="378" class="mt-6 w-full aspect-[16/9] object-cover rounded-card border border-border/70 bg-surface2" fetchpriority="high" decoding="async" sizes="(max-width: 672px) 100vw, 672px" onerror={imgOnError(entry.id)} />
-      <div class="prose-mt mt-8 text-[18px] leading-8 dropcap"><Content /></div>
-      <SourcesList sources={s.sources} />
-      {s.relatedSlug && <p class="mt-6 text-sm font-sans"><a href={`/match/${s.relatedSlug}`} class="text-sky hover:underline underline-offset-2">Open the event page</a></p>}
-      <div class="mt-10 pt-6 border-t border-border/70 flex items-center justify-between">
-        <a href="/stories" class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4">← More stories</a>
-        <a href="/#newsletter" class="text-sm font-sans font-medium text-pitch hover:underline underline-offset-4">Get these in your inbox</a>
-      </div>
-    </article>
-  </main>
-</BaseLayout>
-<style is:global>
-  .prose-mt h2 { font-family: 'Space Grotesk', sans-serif; font-size: 1.5rem; font-weight: 600; margin-top: 2rem; margin-bottom: 0.75rem; letter-spacing: -0.01em; }
-  .prose-mt h3 { font-family: 'Space Grotesk', sans-serif; font-size: 1.2rem; font-weight: 600; margin-top: 1.5rem; margin-bottom: 0.5rem; }
-  .prose-mt p { margin-bottom: 1.1rem; }
-  .prose-mt ul { list-style: disc; padding-left: 1.4rem; margin-bottom: 1.1rem; }
-  .prose-mt li { margin-bottom: 0.4rem; }
-  .prose-mt blockquote { border-left: 3px solid hsl(var(--pitch)); padding-left: 1rem; font-style: italic; color: hsl(var(--muted)); margin: 1.2rem 0; }
-  .prose-mt strong { color: hsl(var(--fg)); font-weight: 600; }
-  .prose-mt a { color: hsl(var(--accent-sky)); text-decoration: underline; text-underline-offset: 3px; }
-</style>
+<StoryPage entry={entry} />

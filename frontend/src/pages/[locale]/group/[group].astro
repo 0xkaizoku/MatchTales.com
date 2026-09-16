@@ -1,0 +1,13 @@
+---
+import GroupPage from '../../../views/GroupPage.astro';
+import { data } from '../../../lib/site';
+import { OTHER_LOCALES } from '../../../i18n';
+
+export async function getStaticPaths() {
+  return OTHER_LOCALES.flatMap((locale) =>
+    Object.keys(data.groups).map((g) => ({ params: { locale, group: g.toLowerCase() }, props: { group: g } }))
+  );
+}
+const { group } = Astro.props;
+---
+<GroupPage group={group} />

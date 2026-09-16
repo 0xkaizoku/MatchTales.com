@@ -1,0 +1,8 @@
+---
+import LivePage from '../../views/LivePage.astro';
+import { OTHER_LOCALES } from '../../i18n';
+export function getStaticPaths() {
+  return OTHER_LOCALES.map((locale) => ({ params: { locale } }));
+}
+---
+<LivePage />

@@ -2,27 +2,33 @@
 import WhyCareMeter from './WhyCareMeter.astro';
 import CompetitorMark from './CompetitorMark.astro';
 import SportChip from './SportChip.astro';
-import { fmtDate, statusLabel, stageLabel, scoreDisplay, contentImage, imgOnError, sportOf } from '../lib/site';
+import { contentImage, imgOnError, sportOf } from '../lib/site';
+import { dict, localeFromPath, localePath } from '../i18n';
+import { localizeMatch, fmtDateI18n, statusLabelI18n, scoreDisplayI18n } from '../i18n/content';
+import type { Locale } from '../i18n';
+
 export interface Props {
   m: any;
   featured?: boolean;
-  /** Compact list row: no hero image (much smaller HTML / faster). */
   compact?: boolean;
-  /** Eager-load first visible cards. */
   eager?: boolean;
 }
-const { m, featured = false, compact = false, eager = false } = Astro.props;
-const d = m.data || m;
-const isLive = d.status === 'LIVE';
-const isFinished = d.status === 'FINISHED';
-const score = scoreDisplay(d);
-const sport = sportOf(d);
-const stage = stageLabel(d.group, d.roundLabel);
-const img = !compact ? contentImage(d.image, d.slug, 640, 72) : '';
+const locale = (Astro.locals?.locale || localeFromPath(Astro.url.pathname)) as Locale;
+const d = dict(locale);
+const { m, compact = false, eager = false } = Astro.props;
+const raw = m.data || m;
+const locm = localizeMatch(raw, locale);
+const isLive = locm.status === 'LIVE';
+const isFinished = locm.status === 'FINISHED';
+const score = scoreDisplayI18n(locale, locm);
+const sport = sportOf(locm);
+const stage = locm._stage || locm.roundLabel;
+const img = !compact ? contentImage(locm.image, locm.slug, 640, 72) : '';
 const showImage = Boolean(img) && !compact;
+const href = localePath(locale, `/match/${locm.slug}`);
 ---
 <a
-  href={`/match/${d.slug}`}
+  href={href}
   data-testid="match-story-card"
   class:list={[
     'group block rounded-card border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow duration-200 h-full overflow-hidden',
@@ -33,7 +39,7 @@ const showImage = Boolean(img) && !compact;
     <div class="aspect-[16/9] overflow-hidden bg-surface2">
       <img
         src={img}
-        alt={`${d.home} vs ${d.away}`}
+        alt={`${locm.home} ${d.common.vs} ${locm.away}`}
         width="640"
         height="360"
         loading={eager ? 'eager' : 'lazy'}
@@ -41,7 +47,7 @@ const showImage = Boolean(img) && !compact;
         fetchpriority={eager ? 'high' : 'auto'}
         sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
         class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.03]"
-        onerror={imgOnError(d.slug)}
+        onerror={imgOnError(locm.slug)}
       />
     </div>
   )}
@@ -50,30 +56,30 @@ const showImage = Boolean(img) && !compact;
       <span class="inline-flex items-center gap-1.5 text-[11px] font-sans font-medium text-muted">
         <SportChip sport={sport} compact link={false} />
         <span class="rounded-full bg-surface2 px-2 py-0.5">{stage}</span>
-        {d.matchday > 0 && d.matchday <= 3 ? <span>MD{d.matchday}</span> : null}
+        {locm.matchday > 0 && locm.matchday <= 3 ? <span>{d.stage.matchday.replace('{n}', String(locm.matchday))}</span> : null}
       </span>
       {isLive ? (
-        <span class="inline-flex items-center gap-1.5 text-[11px] font-sans font-semibold text-coral"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>LIVE</span>
+        <span class="inline-flex items-center gap-1.5 text-[11px] font-sans font-semibold text-coral"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>{d.status.LIVE}</span>
       ) : (
-        <span class="text-[11px] font-sans text-muted">{statusLabel(d.status)}</span>
+        <span class="text-[11px] font-sans text-muted">{statusLabelI18n(locale, locm.status)}</span>
       )}
     </div>
 
     <div class="flex items-center justify-between gap-3">
       <div class="flex-1 min-w-0">
         <div class="flex items-center gap-2">
-          <CompetitorMark name={d.home} code={d.homeCode} sport={sport} size="sm" />
-          <span class="font-head font-semibold truncate text-[15px] sm:text-base">{d.home}</span>
+          <CompetitorMark name={raw.home} code={locm.homeCode} sport={sport} size="sm" />
+          <span class="font-head font-semibold truncate text-[15px] sm:text-base">{locm.home}</span>
         </div>
         <div class="flex items-center gap-2 mt-1">
-          <CompetitorMark name={d.away} code={d.awayCode} sport={sport} size="sm" />
-          <span class="font-head font-semibold truncate text-[15px] sm:text-base">{d.away}</span>
+          <CompetitorMark name={raw.away} code={locm.awayCode} sport={sport} size="sm" />
+          <span class="font-head font-semibold truncate text-[15px] sm:text-base">{locm.away}</span>
         </div>
       </div>
       {(isFinished || isLive) && score && (
         <div class="text-right font-head font-bold text-xl sm:text-2xl tabular-nums leading-tight score-block">
-          <div>{d.homeScore}</div>
-          <div>{d.awayScore}</div>
+          <div>{locm.homeScore}</div>
+          <div>{locm.awayScore}</div>
           {score.note && <div class="text-[10px] font-sans font-medium text-muted mt-0.5 normal-case tracking-normal">{score.note}</div>}
         </div>
       )}
@@ -81,17 +87,17 @@ const showImage = Boolean(img) && !compact;
 
     {!compact && (
       <>
-        <h3 class="mt-3 font-head text-lg leading-snug tracking-tight group-hover:underline decoration-pitch decoration-2 underline-offset-4">{d.headline}</h3>
-        <p class="mt-1.5 text-sm text-muted line-clamp-2 font-sans">{d.teaser}</p>
+        <h3 class="mt-3 font-head text-lg leading-snug tracking-tight group-hover:underline decoration-pitch decoration-2 underline-offset-4">{locm.headline}</h3>
+        <p class="mt-1.5 text-sm text-muted line-clamp-2 font-sans">{locm.teaser}</p>
       </>
     )}
     {compact && (
-      <p class="mt-1.5 text-sm text-muted line-clamp-1 font-sans">{d.headline}</p>
+      <p class="mt-1.5 text-sm text-muted line-clamp-1 font-sans">{locm.headline}</p>
     )}
 
     <div class="mt-3 flex items-center justify-between gap-3 border-t border-border/60 pt-2.5">
-      <WhyCareMeter score={d.whyCareScore} size="sm" />
-      <span class="text-[11px] text-muted font-sans whitespace-nowrap">{fmtDate(d.date)} · {d.time}</span>
+      <WhyCareMeter score={locm.whyCareScore} size="sm" />
+      <span class="text-[11px] text-muted font-sans whitespace-nowrap">{fmtDateI18n(locale, locm.date)} · {locm.time}</span>
     </div>
   </div>
 </a>

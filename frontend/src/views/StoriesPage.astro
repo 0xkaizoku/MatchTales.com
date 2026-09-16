@@ -1,0 +1,124 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { contentImage, imgOnError, SITE } from '../lib/site';
+import { dict, localeFromPath, localePath, categoryLabel, sportCopy, fill } from '../i18n';
+import { fmtDateI18n } from '../i18n/content';
+import type { Locale } from '../i18n';
+
+const locale = (Astro.locals?.locale || localeFromPath(Astro.url.pathname)) as Locale;
+const d = dict(locale);
+const lp = (p: string) => localePath(locale, p);
+const entries = await getCollection('stories');
+const stories = entries
+  .map((e) => ({ slug: e.id, ...e.data, image: contentImage(e.data.image, e.id, 720, 72) }))
+  .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
+
+const longForm = stories.filter((s) => s.category !== 'Match Report');
+const matchReports = stories.filter((s) => s.category === 'Match Report');
+const featured = longForm[0] || stories[0];
+const longRest = longForm.filter((s) => s.slug !== featured?.slug);
+// Cap rendered match-report cards for HTML size; all remain in sitemap + search
+const reportPreview = matchReports.slice(0, 18);
+
+const schema = [
+  {
+    '@type': 'CollectionPage',
+    name: d.storiesPage.schemaName,
+    description: d.storiesPage.description,
+    url: `${SITE.url}${lp('/stories')}`,
+    isPartOf: { '@id': `${SITE.url}/#website` },
+  },
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: d.common.home, item: `${SITE.url}${lp('/')}` },
+      { '@type': 'ListItem', position: 2, name: d.nav.stories, item: `${SITE.url}${lp('/stories')}` },
+    ],
+  },
+];
+---
+<BaseLayout
+  title={d.storiesPage.title}
+  description={d.storiesPage.description}
+  keywords={d.storiesPage.keywords}
+  schema={schema}
+  image={featured?.image}
+  imageAlt={featured?.title || 'World Cup 2026 stories on MatchTales'}
+  preloadImage={featured?.image}
+>
+  <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
+    <header class="mt-8">
+      <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">{d.storiesPage.h1}</h1>
+      <p class="mt-2 text-muted font-sans max-w-2xl">{d.storiesPage.blurb} <a href={lp('/rss.xml')} class="text-sky hover:underline underline-offset-2">{d.common.rssLabel}</a>.</p>
+      <div class="mt-4 flex flex-wrap gap-2">
+        <a href={lp('/stories')} class="px-3 py-1 rounded-full border border-border text-[12px] font-sans hover:bg-surface2">{d.common.all}</a>
+        <a href={lp('/sport/tennis')} class="px-3 py-1 rounded-full border border-border text-[12px] font-sans hover:bg-surface2">{sportCopy(locale, 'tennis').label}</a>
+        <a href={lp('/sport/football')} class="px-3 py-1 rounded-full border border-border text-[12px] font-sans hover:bg-surface2">{sportCopy(locale, 'football').label}</a>
+        <a href={lp('/sport/f1')} class="px-3 py-1 rounded-full border border-border text-[12px] font-sans hover:bg-surface2">{sportCopy(locale, 'f1').short}</a>
+        <a href={lp('/sport/soccer')} class="px-3 py-1 rounded-full border border-border text-[12px] font-sans hover:bg-surface2">{sportCopy(locale, 'soccer').label}</a>
+        <a href={lp('/sport/golf')} class="px-3 py-1 rounded-full border border-border text-[12px] font-sans hover:bg-surface2">{sportCopy(locale, 'golf').label}</a>
+        <a href={lp('/sport/basketball')} class="px-3 py-1 rounded-full border border-border text-[12px] font-sans hover:bg-surface2">{sportCopy(locale, 'basketball').label}</a>
+      </div>
+    </header>
+
+    {featured && (
+      <a href={lp(`/stories/${featured.slug}`)} class="group mt-6 grid md:grid-cols-2 gap-0 rounded-card overflow-hidden border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow">
+        <div class="aspect-[16/10] md:aspect-auto overflow-hidden min-h-[220px] bg-surface2">
+          <img src={featured.image} alt={featured.title} width="640" height="400" class="w-full h-full object-cover" fetchpriority="high" decoding="async" sizes="(max-width: 768px) 100vw, 50vw" onerror={imgOnError(featured.slug)} />
+        </div>
+        <div class="p-6 sm:p-8 flex flex-col justify-center">
+          <span class="text-[11px] font-sans font-medium text-pitch uppercase tracking-wide">{categoryLabel(locale, featured.category)} · {fill(d.common.minRead, { n: featured.readingTime })}</span>
+          <h2 class="mt-2 font-head text-2xl sm:text-3xl font-semibold tracking-tight leading-tight group-hover:underline decoration-pitch decoration-2 underline-offset-4">{featured.title}</h2>
+          <p class="mt-3 text-muted font-sans">{featured.excerpt}</p>
+          <span class="mt-4 inline-flex items-center gap-1.5 text-sm font-sans font-medium text-sky">{d.common.readStory} <svg class="rtl:-scale-x-100" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+        </div>
+      </a>
+    )}
+
+    {longRest.length > 0 && (
+      <section class="mt-10" aria-labelledby="long-h">
+        <h2 id="long-h" class="font-head text-xl font-semibold tracking-tight mb-4">Long reads</h2>
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+          {longRest.map((s) => (
+            <a href={lp(`/stories/${s.slug}`)} class="group rounded-card overflow-hidden border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow">
+              <div class="aspect-[16/10] overflow-hidden bg-surface2">
+                <img src={s.image} alt={s.title} loading="lazy" decoding="async" width="420" height="262" sizes="(max-width: 640px) 100vw, 33vw" class="w-full h-full object-cover" onerror={imgOnError(s.slug)} />
+              </div>
+              <div class="p-4">
+                <span class="text-[11px] font-sans font-medium text-pitch uppercase tracking-wide">{s.category}</span>
+                <h3 class="mt-1 font-head font-semibold leading-snug group-hover:underline decoration-pitch decoration-2 underline-offset-4">{s.title}</h3>
+                <p class="mt-1.5 text-sm text-muted font-sans line-clamp-2">{s.excerpt}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <section class="mt-12 mb-10" aria-labelledby="reports-h">
+      <div class="flex items-end justify-between gap-3 mb-4">
+        <div>
+          <h2 id="reports-h" class="font-head text-xl font-semibold tracking-tight">{d.category['Match Report']}</h2>
+          <p class="text-sm text-muted font-sans mt-0.5">{matchReports.length}</p>
+        </div>
+        <a href={lp('/fixtures')} class="text-sm font-sans font-medium text-sky hover:underline underline-offset-4 whitespace-nowrap">{d.worldCup.allFixtures}</a>
+      </div>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        {reportPreview.map((s) => (
+          <a href={lp(`/stories/${s.slug}`)} class="group rounded-card overflow-hidden border border-border/80 bg-surface shadow-card hover:shadow-cardhover transition-shadow">
+            <div class="aspect-[16/10] overflow-hidden bg-surface2">
+              <img src={s.image} alt={s.title} loading="lazy" decoding="async" width="420" height="262" sizes="(max-width: 640px) 100vw, 33vw" class="w-full h-full object-cover" onerror={imgOnError(s.slug)} />
+            </div>
+            <div class="p-4">
+              <span class="text-[11px] font-sans font-medium text-pitch uppercase tracking-wide">{s.category}</span>
+              <h3 class="mt-1 font-head font-semibold leading-snug group-hover:underline decoration-pitch decoration-2 underline-offset-4">{s.title}</h3>
+              <p class="mt-1.5 text-sm text-muted font-sans line-clamp-2">{s.excerpt}</p>
+              <time class="mt-2 block text-[11px] text-muted font-sans" datetime={new Date(s.pubDate).toISOString()}>{fmtDateI18n(locale, new Date(s.pubDate).toISOString().slice(0, 10))}</time>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+  </main>
+</BaseLayout>

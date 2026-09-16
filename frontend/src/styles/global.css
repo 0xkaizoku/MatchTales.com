@@ -80,6 +80,58 @@ h1, h2, h3, h4, .font-head {
   font-family: 'Space Grotesk', ui-sans-serif, system-ui, sans-serif;
 }
 
+html[lang='zh-Hans'] body {
+  font-family: 'Noto Serif SC', 'Noto Sans SC', 'Songti SC', serif;
+}
+html[lang='zh-Hans'] h1,
+html[lang='zh-Hans'] h2,
+html[lang='zh-Hans'] h3,
+html[lang='zh-Hans'] h4,
+html[lang='zh-Hans'] .font-head {
+  font-family: 'Noto Sans SC', 'PingFang SC', sans-serif;
+}
+html[lang='ja'] body {
+  font-family: 'Noto Serif JP', 'Noto Sans JP', 'Hiragino Mincho ProN', serif;
+}
+html[lang='ja'] h1,
+html[lang='ja'] h2,
+html[lang='ja'] h3,
+html[lang='ja'] h4,
+html[lang='ja'] .font-head {
+  font-family: 'Noto Sans JP', 'Hiragino Sans', sans-serif;
+}
+html[lang='ko'] body {
+  font-family: 'Noto Serif KR', 'Noto Sans KR', 'Apple SD Gothic Neo', serif;
+}
+html[lang='ko'] h1,
+html[lang='ko'] h2,
+html[lang='ko'] h3,
+html[lang='ko'] h4,
+html[lang='ko'] .font-head {
+  font-family: 'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif;
+}
+html[dir='rtl'] body {
+  font-family: 'Noto Naskh Arabic', 'Noto Sans Arabic', 'Segoe UI', serif;
+  line-height: 1.75;
+}
+html[dir='rtl'] h1,
+html[dir='rtl'] h2,
+html[dir='rtl'] h3,
+html[dir='rtl'] h4,
+html[dir='rtl'] .font-head {
+  font-family: 'Noto Sans Arabic', 'Segoe UI', sans-serif;
+}
+html[dir='rtl'] .prose-mt ul {
+  padding-left: 0;
+  padding-inline-start: 1.4rem;
+}
+html[dir='rtl'] .prose-mt blockquote {
+  border-left: 0;
+  border-inline-start: 3px solid hsl(var(--pitch));
+  padding-left: 0;
+  padding-inline-start: 1rem;
+}
+
 /* Grain overlay for hero */
 .grain::after {
   content: '';

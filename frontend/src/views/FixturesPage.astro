@@ -1,0 +1,137 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import MatchStoryCard from '../components/MatchStoryCard.astro';
+import { getCollection } from 'astro:content';
+import { data, SITE, stageLabel, isWorldCup } from '../lib/site';
+
+/** Cap per page so chrome + match links stay ≤100 for crawlers. */
+const PER_PAGE = 72;
+
+const entries = await getCollection('matches');
+const matches = entries.map((e) => e.data).filter((m) => isWorldCup(m)).sort((a, b) => {
+  const order: any = { LIVE: 0, UPCOMING: 1, FINISHED: 2 };
+  if (order[a.status] !== order[b.status]) return order[a.status] - order[b.status];
+  return a.date.localeCompare(b.date) || a.time.localeCompare(b.time);
+});
+const groups = Object.keys(data.groups).sort();
+const teams = data.teams.map((t: any) => t.name).sort();
+
+const totalPages = Math.max(1, Math.ceil(matches.length / PER_PAGE));
+const page = 1;
+const pageMatches = matches.slice(0, PER_PAGE);
+const hasMore = matches.length > PER_PAGE;
+
+const schema = [
+  {
+    '@type': 'CollectionPage',
+    name: 'World Cup 2026 Fixtures & Schedule',
+    description: 'Every 2026 World Cup fixture with results and match stories.',
+    url: `${SITE.url}/fixtures`,
+    isPartOf: { '@id': `${SITE.url}/#website` },
+    numberOfItems: matches.length,
+  },
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: SITE.url },
+      { '@type': 'ListItem', position: 2, name: 'Fixtures', item: `${SITE.url}/fixtures` },
+    ],
+  },
+];
+---
+<BaseLayout
+  title="Fixtures & Schedule | World Cup 2026"
+  description="Every 2026 World Cup fixture with an accurate result and the story behind it. Filter by group, knockout stage, date or team."
+  keywords="World Cup 2026 fixtures, match schedule, results, knockout bracket, group stage"
+  schema={schema}
+  imageAlt="World Cup 2026 fixtures and match schedule on MatchTales"
+>
+  <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
+    <header class="mt-8">
+      <nav class="text-[13px] font-sans text-muted flex items-center gap-1.5 mb-3" aria-label="Breadcrumb">
+        <a href="/" class="hover:text-fg">Home</a><span>/</span><span class="text-fg">Fixtures</span>
+      </nav>
+      <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">World Cup fixtures</h1>
+      <p class="mt-2 text-muted font-sans max-w-2xl">The 2026 archive. Spain are champions. Filter by stage or team. For club soccer, tennis, golf, football, basketball and F1, use the sport desks.</p>
+    </header>
+
+    <div class="mt-6 rounded-card border border-border/80 bg-surface p-4 shadow-card sticky top-16 z-30" data-testid="fixture-filters">
+      <div class="grid sm:grid-cols-4 gap-3">
+        <label class="block"><span class="text-[11px] uppercase tracking-wide text-muted font-sans">Stage</span>
+          <select id="f-group" data-testid="filter-group" class="mt-1 h-10 w-full rounded-btn border border-border bg-bg px-2 font-sans text-sm outline-none focus-visible:ring-2 focus-visible:ring-sky">
+            <option value="">All stages</option>
+            {groups.map((g) => <option value={g}>Group {g}</option>)}
+            <option value="R32">Round of 32</option>
+            <option value="R16">Round of 16</option>
+            <option value="QF">Quarter-finals</option>
+            <option value="SF">Semi-finals</option>
+            <option value="3RD">Third place</option>
+            <option value="FINAL">Final</option>
+          </select>
+        </label>
+        <label class="block"><span class="text-[11px] uppercase tracking-wide text-muted font-sans">Team</span>
+          <select id="f-team" data-testid="filter-team" class="mt-1 h-10 w-full rounded-btn border border-border bg-bg px-2 font-sans text-sm outline-none focus-visible:ring-2 focus-visible:ring-sky"><option value="">All teams</option>{teams.map((t: string) => <option value={t}>{t}</option>)}</select>
+        </label>
+        <label class="block"><span class="text-[11px] uppercase tracking-wide text-muted font-sans">Status</span>
+          <select id="f-status" data-testid="filter-status" class="mt-1 h-10 w-full rounded-btn border border-border bg-bg px-2 font-sans text-sm outline-none focus-visible:ring-2 focus-visible:ring-sky"><option value="">All</option><option value="LIVE">Live</option><option value="UPCOMING">Upcoming</option><option value="FINISHED">Finished</option></select>
+        </label>
+        <label class="flex items-end gap-2 pb-1"><input id="f-spoiler" data-testid="filter-spoiler" type="checkbox" class="w-4 h-4 accent-pitch" /><span class="text-sm font-sans">Spoiler-free (hide scores)</span></label>
+      </div>
+      <p id="f-count" class="mt-2 text-[12px] text-muted font-sans"></p>
+    </div>
+
+    <div id="fixtures-grid" class="mt-6 grid sm:grid-cols-2 lg:grid-cols-3 gap-3 pb-4">
+      {pageMatches.map((m) => (
+        <div class="fx-item" data-group={m.group} data-status={m.status} data-home={m.home} data-away={m.away} data-stage={stageLabel(m.group)}>
+          <MatchStoryCard m={m} compact={true} />
+        </div>
+      ))}
+    </div>
+    <p id="fx-empty" class="hidden text-center text-muted font-sans py-12">No matches fit those filters. Try widening your search.</p>
+
+    {hasMore && (
+      <nav class="pb-10 flex flex-col sm:flex-row items-center justify-between gap-3" aria-label="Fixtures pagination">
+        <p class="text-sm text-muted font-sans">
+          Showing {pageMatches.length} of {matches.length} matches (page {page} of {totalPages})
+        </p>
+        <a
+          href="/fixtures/2"
+          class="inline-flex items-center gap-2 h-10 rounded-btn bg-pitch px-4 text-sm font-sans font-medium text-white hover:bg-pitch2 transition-colors"
+          rel="next"
+        >
+          Next page
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+        </a>
+      </nav>
+    )}
+    {!hasMore && (
+      <p class="pb-10 text-center text-[12px] text-muted font-sans">{matches.length} matches</p>
+    )}
+  </main>
+  <script>
+    function bindFilters(){
+      const grid=document.getElementById('fixtures-grid'); if(!grid||grid.dataset.bound)return; grid.dataset.bound='1';
+      const items=[...document.querySelectorAll('.fx-item')];
+      const fg=document.getElementById('f-group') as HTMLSelectElement;
+      const ft=document.getElementById('f-team') as HTMLSelectElement;
+      const fs=document.getElementById('f-status') as HTMLSelectElement;
+      const fsp=document.getElementById('f-spoiler') as HTMLInputElement;
+      const count=document.getElementById('f-count');
+      const empty=document.getElementById('fx-empty');
+      function apply(){
+        const g=fg?.value, t=ft?.value, s=fs?.value, sp=fsp?.checked; let n=0;
+        items.forEach((it)=>{
+          const el=it as HTMLElement;
+          const ok=(!g||el.dataset.group===g)&&(!s||el.dataset.status===s)&&(!t||el.dataset.home===t||el.dataset.away===t);
+          el.classList.toggle('hidden',!ok); if(ok)n++;
+        });
+        document.querySelectorAll('.fx-item .score-block').forEach((sc)=>{ (sc as HTMLElement).style.visibility = sp ? 'hidden' : ''; });
+        if(count) count.textContent = `${n} match${n===1?'':'es'} shown on this page`;
+        empty?.classList.toggle('hidden', n>0);
+      }
+      [fg,ft,fs,fsp].forEach((el)=>el?.addEventListener('change',apply)); apply();
+    }
+    bindFilters();
+    document.addEventListener('astro:after-swap', bindFilters);
+  </script>
+</BaseLayout>

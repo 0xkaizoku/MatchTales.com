@@ -1,0 +1,8 @@
+---
+import GroupsPage from '../../views/GroupsPage.astro';
+import { OTHER_LOCALES } from '../../i18n';
+export function getStaticPaths() {
+  return OTHER_LOCALES.map((locale) => ({ params: { locale } }));
+}
+---
+<GroupsPage />

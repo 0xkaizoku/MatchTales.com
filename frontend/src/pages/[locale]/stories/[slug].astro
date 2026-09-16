@@ -1,0 +1,14 @@
+---
+import StoryPage from '../../../views/StoryPage.astro';
+import { getCollection } from 'astro:content';
+import { OTHER_LOCALES } from '../../../i18n';
+
+export async function getStaticPaths() {
+  const stories = await getCollection('stories');
+  return OTHER_LOCALES.flatMap((locale) =>
+    stories.map((entry) => ({ params: { locale, slug: entry.id }, props: { entry } }))
+  );
+}
+const { entry } = Astro.props;
+---
+<StoryPage entry={entry} />
