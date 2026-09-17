@@ -249,7 +249,7 @@ export const en = {
     plBlurb: 'Arsenal and City are both 4-0-0. Leeds are third on 8. Hull unbeaten on 8. Matchweek 4 is finished.',
     soccerDesk: 'Soccer desk',
     f1Title: 'F1 after Madrid',
-    f1Blurb: 'Antonelli won the first Madring race. Baku is 24-26 September.',
+    f1Blurb: 'Antonelli won the first Madrid race. Baku is 24-26 September.',
     f1Desk: 'F1 desk',
     wcTitle: 'World Cup 2026 is a finished novel.',
     wcBody:
@@ -786,7 +786,7 @@ export const fr: Messages = {
     plBlurb: 'Arsenal et City sont à 4-0-0. Leeds troisième, 8 pts. Hull invaincu, 8 pts. La 4e journée est close.',
     soccerDesk: 'Bureau football',
     f1Title: 'F1 après Madrid',
-    f1Blurb: 'Antonelli a gagné la première course du Madring. Bakou, 24-26 septembre.',
+    f1Blurb: 'Antonelli a gagné la première course de Madrid. Bakou, 24-26 septembre.',
     f1Desk: 'Bureau F1',
     wcTitle: 'La Coupe du monde 2026 est un roman terminé.',
     wcBody:

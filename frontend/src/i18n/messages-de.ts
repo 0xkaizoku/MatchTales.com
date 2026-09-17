@@ -239,7 +239,7 @@ export const de: Messages = {
     plBlurb: 'Arsenal und City stehen 4-0-0. Leeds Dritter mit 8. Hull ungeschlagen mit 8. Spieltag 4 ist vorbei.',
     soccerDesk: 'Fußball-Desk',
     f1Title: 'F1 nach Madrid',
-    f1Blurb: 'Antonelli gewann das erste Rennen auf dem Madring. Baku, 24-26. September.',
+    f1Blurb: 'Antonelli gewann das erste Rennen in Madrid. Baku, 24-26. September.',
     f1Desk: 'F1-Desk',
     wcTitle: 'Die WM 2026 ist ein fertiger Roman.',
     wcBody:

@@ -239,7 +239,7 @@ export const pl: Messages = {
     plBlurb: 'Arsenal i City mają 4-0-0. Leeds trzeci, 8 pkt. Hull bez porażki, 8 pkt. 4. kolejka zamknięta.',
     soccerDesk: 'Dział piłki',
     f1Title: 'F1 po Madrycie',
-    f1Blurb: 'Antonelli wygrał pierwszy wyścig na Madring. Baku, 24-26 września.',
+    f1Blurb: 'Antonelli wygrał pierwszy wyścig w Madrycie. Baku, 24-26 września.',
     f1Desk: 'Dział F1',
     wcTitle: 'Mundial 2026 to skończona powieść.',
     wcBody:

@@ -9,7 +9,7 @@ import { getCollection } from 'astro:content';
 import SportDirectory from '../components/SportDirectory.astro';
 import { SITE, optimizeImage, contentImage, imgOnError, isWorldCup, SITE_TODAY } from '../lib/site';
 import desk from '../data/desk.json';
-import { dict, localeFromPath, localePath, categoryLabel } from '../i18n';
+import { dict, localeFromPath, localePath, categoryLabel, entityName } from '../i18n';
 import { fmtDateI18n, localizeStory } from '../i18n/content';
 import type { Locale } from '../i18n';
 
@@ -162,7 +162,7 @@ const homeSchema = [
         <ol class="space-y-2 font-sans text-sm">
           {desk.premierLeagueTable.slice(0, 4).map((r) => (
             <li class="flex items-center justify-between gap-3 border-b border-border/60 pb-2">
-              <span><span class="text-muted tabular-nums me-2">{r.pos}</span>{r.team}</span>
+              <span><span class="text-muted tabular-nums me-2">{r.pos}</span>{entityName(r.team, locale)}</span>
               <span class="font-head tabular-nums">{r.pts}</span>
             </li>
           ))}
@@ -174,7 +174,7 @@ const homeSchema = [
         <ol class="space-y-2 font-sans text-sm">
           {desk.f1Drivers.map((r) => (
             <li class="flex items-center justify-between gap-3 border-b border-border/60 pb-2">
-              <span><span class="text-muted tabular-nums me-2">{r.pos}</span>{r.name} <span class="text-muted">{r.team}</span></span>
+              <span><span class="text-muted tabular-nums me-2">{r.pos}</span>{r.name} <span class="text-muted">{entityName(r.team, locale)}</span></span>
               <span class="font-head tabular-nums">{r.pts}</span>
             </li>
           ))}

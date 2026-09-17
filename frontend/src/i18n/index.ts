@@ -13,6 +13,8 @@ import { ar } from './messages-ar';
 
 export type { Locale, LocaleMeta } from './locales';
 export type { Messages, FaqItem, SportCopy } from './messages';
+export type { PlaygroundCopy } from './playground';
+export { playgroundCopy, PLAYGROUND } from './playground';
 export {
   LOCALES,
   DEFAULT_LOCALE,

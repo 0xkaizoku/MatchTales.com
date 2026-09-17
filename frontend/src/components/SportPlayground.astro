@@ -1,23 +1,34 @@
 ---
 import desk from '../data/desk.json';
 import type { SportSlug } from '../data/sports';
-export interface Props { sport: SportSlug; }
-const { sport } = Astro.props;
+import { entityName, localeFromPath, localePath, playgroundCopy } from '../i18n';
+import type { Locale } from '../i18n';
+
+export interface Props {
+  sport: SportSlug;
+  locale?: Locale;
+}
+
+const { sport, locale: propLocale } = Astro.props;
+const locale = (propLocale || Astro.locals?.locale || localeFromPath(Astro.url.pathname) || 'en') as Locale;
+const copy = playgroundCopy(locale);
+const lp = (p: string) => localePath(locale, p);
+
 const maxPts = desk.f1Drivers[0]?.pts || 292;
 const maxCtor = desk.f1Constructors[0]?.pts || 503;
 const tennisDraw = [
-  { draw: 'Men', p1: 'Alexander Zverev', p2: 'Ben Shelton', href: '/match/zverev-vs-shelton-uso-final', note: 'Zverev 6-3, 7-6 (2), 5-7, 6-2. Second Slam of 2026. First US Open.' },
-  { draw: 'Men', p1: 'Carlos Alcaraz', p2: 'Ben Shelton', href: '/match/alcaraz-vs-shelton-uso-qf', note: 'Shelton 6-7 (5), 6-1, 6-3, 1-6, 7-6 (10-7). Finished 3:33 a.m., latest in US Open history.' },
-  { draw: 'Women', p1: 'Elena Rybakina', p2: 'Aryna Sabalenka', href: '/match/rybakina-vs-sabalenka-uso-final', note: 'Rybakina 6-4, 5-7, 6-2. New world No. 1. Three-peat stopped.' },
-  { draw: 'Women', p1: 'Aryna Sabalenka', p2: 'Linda Noskova', href: '/match/sabalenka-vs-noskova-uso-qf', note: 'Sabalenka 7-6 (7-1), 3-6, 7-6 (10-7). Then lost the final to Rybakina.' },
+  { draw: copy.men, p1: 'Alexander Zverev', p2: 'Ben Shelton', href: lp('/match/zverev-vs-shelton-uso-final'), note: 'Zverev 6-3, 7-6 (2), 5-7, 6-2. Second Slam of 2026. First US Open.' },
+  { draw: copy.men, p1: 'Carlos Alcaraz', p2: 'Ben Shelton', href: lp('/match/alcaraz-vs-shelton-uso-qf'), note: 'Shelton 6-7 (5), 6-1, 6-3, 1-6, 7-6 (10-7). Finished 3:33 a.m., latest in US Open history.' },
+  { draw: copy.women, p1: 'Elena Rybakina', p2: 'Aryna Sabalenka', href: lp('/match/rybakina-vs-sabalenka-uso-final'), note: 'Rybakina 6-4, 5-7, 6-2. New world No. 1. Three-peat stopped.' },
+  { draw: copy.women, p1: 'Aryna Sabalenka', p2: 'Linda Noskova', href: lp('/match/sabalenka-vs-noskova-uso-qf'), note: 'Sabalenka 7-6 (7-1), 3-6, 7-6 (10-7). Then lost the final to Rybakina.' },
 ];
-const men = tennisDraw.filter((q) => q.draw === 'Men');
-const women = tennisDraw.filter((q) => q.draw === 'Women');
+const men = tennisDraw.filter((q) => q.draw === copy.men);
+const women = tennisDraw.filter((q) => q.draw === copy.women);
 const nflLinks: Record<string, string> = {
-  '2026-09-09': '/match/patriots-at-seahawks-kickoff-2026',
-  '2026-09-10': '/match/49ers-vs-rams-melbourne-2026',
-  '2026-09-14': '/match/broncos-at-chiefs-mnf-2026',
-  '2026-09-17': '/match/lions-at-bills-tnf-2026',
+  '2026-09-09': lp('/match/patriots-at-seahawks-kickoff-2026'),
+  '2026-09-10': lp('/match/49ers-vs-rams-melbourne-2026'),
+  '2026-09-14': lp('/match/broncos-at-chiefs-mnf-2026'),
+  '2026-09-17': lp('/match/lions-at-bills-tnf-2026'),
 };
 const hoopsPairs = [
   { a: desk.wnbaSeeds[0], b: desk.wnbaSeeds[7] },
@@ -31,14 +42,14 @@ const hoopsPairs = [
     <section class="pg-frame">
       <div class="pg-head">
         <div>
-          <h2 class="font-head text-xl font-semibold tracking-tight">The champions</h2>
-          <p class="text-sm text-muted font-sans mt-1">Pin a final. Flushing Meadows named Zverev and Rybakina.</p>
+          <h2 class="font-head text-xl font-semibold tracking-tight">{copy.champions}</h2>
+          <p class="text-sm text-muted font-sans mt-1">{copy.pinFinal}</p>
         </div>
-        <span class="pg-live">Open closed</span>
+        <span class="pg-live">{copy.openClosed}</span>
       </div>
       <div class="court-board">
         <div class="draw-col">
-          <p class="draw-label">Men</p>
+          <p class="draw-label">{copy.men}</p>
           {men.map((q) => (
             <button type="button" class="draw-slot" data-note={q.note} data-href={q.href}>
               <span class="draw-names">{q.p1}</span>
@@ -49,7 +60,7 @@ const hoopsPairs = [
         </div>
         <div class="court-net" aria-hidden="true"><span></span></div>
         <div class="draw-col">
-          <p class="draw-label">Women</p>
+          <p class="draw-label">{copy.women}</p>
           {women.map((q) => (
             <button type="button" class="draw-slot" data-note={q.note} data-href={q.href}>
               <span class="draw-names">{q.p1}</span>
@@ -61,7 +72,7 @@ const hoopsPairs = [
       </div>
       <div class="pg-panel" data-panel hidden>
         <p class="pg-panel-note"></p>
-        <a class="pg-panel-link" href="#">Read why it matters</a>
+        <a class="pg-panel-link" href="#">{copy.readWhy}</a>
       </div>
     </section>
   )}
@@ -70,8 +81,8 @@ const hoopsPairs = [
     <section class="pg-frame field-frame">
       <div class="pg-head">
         <div>
-          <h2 class="font-head text-xl font-semibold tracking-tight">Week 1 closed. Thursday is next</h2>
-          <p class="text-sm text-muted font-sans mt-1">Chiefs 31-10 closed the opener. Lions at Bills, Thursday 8:15 p.m. ET, first regular-season snap at the new Highmark Stadium.</p>
+          <h2 class="font-head text-xl font-semibold tracking-tight">{copy.week1Closed}</h2>
+          <p class="text-sm text-muted font-sans mt-1">{copy.week1Sub}</p>
         </div>
       </div>
       <div class="field-board">
@@ -83,8 +94,8 @@ const hoopsPairs = [
           ))}
         </svg>
         <div class="kick-clock">
-          <p class="text-[11px] font-sans uppercase tracking-wide text-muted">Countdown to Thursday night</p>
-          <p id="nfl-clock" class="font-head text-4xl sm:text-5xl tabular-nums tracking-tight">Loading</p>
+          <p class="text-[11px] font-sans uppercase tracking-wide text-muted">{copy.countdownTnf}</p>
+          <p id="nfl-clock" class="font-head text-4xl sm:text-5xl tabular-nums tracking-tight">{copy.loading}</p>
         </div>
       </div>
       <ol class="slate">
@@ -95,7 +106,7 @@ const hoopsPairs = [
             <li>
               <Tag href={href} class="slate-row">
                 <span class="slate-when">{g.date} · {g.time}</span>
-                <span class="slate-who font-head font-semibold">{g.away} at {g.home}</span>
+                <span class="slate-who font-head font-semibold">{entityName(g.away, locale)} {locale === 'en' ? 'at' : 'vs'} {entityName(g.home, locale)}</span>
                 <span class="slate-note">{g.note}</span>
               </Tag>
             </li>
@@ -109,25 +120,25 @@ const hoopsPairs = [
     <section class="pg-frame grid-frame">
       <div class="pg-head">
         <div>
-          <h2 class="font-head text-xl font-semibold tracking-tight">The grid after Madrid</h2>
-          <p class="text-sm text-muted font-sans mt-1">Bars are points against the leader. Baku, 24-26 September, has not been raced.</p>
+          <h2 class="font-head text-xl font-semibold tracking-tight">{copy.gridAfterMadrid}</h2>
+          <p class="text-sm text-muted font-sans mt-1">{copy.barsPoints}</p>
         </div>
         <div class="seg" role="tablist" aria-label="Championship">
-          <button type="button" class="seg-btn is-on" data-tab="drivers">Drivers</button>
-          <button type="button" class="seg-btn" data-tab="constructors">Constructors</button>
+          <button type="button" class="seg-btn is-on" data-tab="drivers">{copy.drivers}</button>
+          <button type="button" class="seg-btn" data-tab="constructors">{copy.constructors}</button>
         </div>
       </div>
       <div class="f1-arm">
         <div class="f1-lights" aria-hidden="true">
           <span></span><span></span><span></span><span></span><span></span>
         </div>
-        <button type="button" class="arm-btn" data-arm>Arm the Baku lights</button>
+        <button type="button" class="arm-btn" data-arm>{copy.armBaku}</button>
       </div>
       <div data-pane="drivers" class="grid-pane">
         {desk.f1Drivers.map((r) => (
           <div class="grid-row">
             <span class="grid-pos tabular-nums">{r.pos}</span>
-            <span class="min-w-0"><span class="font-head font-semibold">{r.name}</span> <span class="text-muted text-sm">{r.team}</span></span>
+            <span class="min-w-0"><span class="font-head font-semibold">{r.name}</span> <span class="text-muted text-sm">{entityName(r.team, locale)}</span></span>
             <span class="tabular-nums font-head">{r.pts}</span>
             <div class="grid-track"><div class="bar-fill" style={`--p:${r.pts / maxPts}`}></div></div>
           </div>
@@ -137,7 +148,7 @@ const hoopsPairs = [
         {desk.f1Constructors.map((r) => (
           <div class="grid-row">
             <span class="grid-pos tabular-nums">{r.pos}</span>
-            <span class="font-head font-semibold">{r.name}</span>
+            <span class="font-head font-semibold">{entityName(r.name, locale)}</span>
             <span class="tabular-nums font-head">{r.pts}</span>
             <div class="grid-track"><div class="bar-fill" style={`--p:${r.pts / maxCtor}`}></div></div>
           </div>
@@ -150,8 +161,8 @@ const hoopsPairs = [
     <section class="pg-frame pitch-frame">
       <div class="pg-head">
         <div>
-          <h2 class="font-head text-xl font-semibold tracking-tight">The table after Monday</h2>
-          <p class="text-sm text-muted font-sans mt-1">Pin a club. Leeds 4-1 Newcastle. Matchweek 4 is finished.</p>
+          <h2 class="font-head text-xl font-semibold tracking-tight">{copy.tableAfterMonday}</h2>
+          <p class="text-sm text-muted font-sans mt-1">{copy.pinClub}</p>
         </div>
       </div>
       <div class="pl-table">
@@ -159,10 +170,10 @@ const hoopsPairs = [
           <button
             type="button"
             class="pl-row"
-            data-note={`${r.team}: ${r.p} played, ${r.pts} points, GD ${r.gd > 0 ? '+' : ''}${r.gd}.`}
+            data-note={`${entityName(r.team, locale)}: ${r.p} played, ${r.pts} points, GD ${r.gd > 0 ? '+' : ''}${r.gd}.`}
           >
             <span class="tabular-nums text-muted w-6">{r.pos}</span>
-            <span class="flex-1 text-left font-head font-semibold">{r.team}</span>
+            <span class="flex-1 text-left font-head font-semibold">{entityName(r.team, locale)}</span>
             <span class="tabular-nums w-8 text-right">{r.pts}</span>
             <span class="pl-gd">
               <span class="bar-fill" style={`--p:${Math.min(1, Math.abs(r.gd) / 5)};${r.gd < 0 ? 'transform-origin:right center' : ''}`}></span>
@@ -170,8 +181,8 @@ const hoopsPairs = [
           </button>
         ))}
       </div>
-      <p id="pl-note" class="pg-foot">Source: table after 14 September 2026. Leeds 4-1 Newcastle. Arsenal 12, City 12, Leeds 8, Hull 8.</p>
-      <p class="pg-archive">World Cup 2026 is finished. Spain are champions. <a href="/world-cup">Archive</a></p>
+      <p id="pl-note" class="pg-foot">{copy.plFootnote}</p>
+      <p class="pg-archive">{copy.wcFinished} <a href={lp('/world-cup')}>{copy.archive}</a></p>
     </section>
   )}
 
@@ -179,31 +190,31 @@ const hoopsPairs = [
     <section class="pg-frame card-frame">
       <div class="pg-head">
         <div>
-          <h2 class="font-head text-xl font-semibold tracking-tight">The board</h2>
-          <p class="text-sm text-muted font-sans mt-1">Majors and the FedEx Cup are done. Presidents Cup is not. Tap a card.</p>
+          <h2 class="font-head text-xl font-semibold tracking-tight">{copy.theBoard}</h2>
+          <p class="text-sm text-muted font-sans mt-1">{copy.majorsDone}</p>
         </div>
       </div>
       <div class="scorecards">
-        <a href="/match/the-open-2026-royal-birkdale" class="scorecard" data-note="Ryan Fox 270, ten under. Young 271. Burns 272. Birdie on 18 at Royal Birkdale.">
+        <a href={lp('/match/the-open-2026-royal-birkdale')} class="scorecard" data-note="Ryan Fox 270, ten under. Young 271. Burns 272. Birdie on 18 at Royal Birkdale.">
           <span class="score-event">The Open · Royal Birkdale</span>
           <span class="score-name">Ryan Fox</span>
           <span class="score-num">-10</span>
           <span class="score-line">270. Young 271 · Burns 272.</span>
         </a>
-        <a href="/match/tour-championship-2026-east-lake" class="scorecard" data-note="Scottie Scheffler 264, sixteen under. Hovland thirteen under. Second FedEx Cup.">
+        <a href={lp('/match/tour-championship-2026-east-lake')} class="scorecard" data-note="Scottie Scheffler 264, sixteen under. Hovland thirteen under. Second FedEx Cup.">
           <span class="score-event">Tour Championship · East Lake</span>
           <span class="score-name">Scottie Scheffler</span>
           <span class="score-num">-16</span>
           <span class="score-line">264. Hovland -13. Second FedEx Cup.</span>
         </a>
-        <a href="/stories/presidents-cup-2026-preview" class="scorecard is-next" data-note="Presidents Cup, Medinah, 24-27 September. Preview only. No result.">
-          <span class="score-event">Next</span>
+        <a href={lp('/stories/presidents-cup-2026-preview')} class="scorecard is-next" data-note="Presidents Cup, Medinah, 24-27 September. Preview only. No result.">
+          <span class="score-event">{copy.next}</span>
           <span class="score-name">Presidents Cup</span>
-          <span class="score-num score-empty">TBD</span>
+          <span class="score-num score-empty">{copy.tbd}</span>
           <span class="score-line">Medinah, 24-27 September. No result yet.</span>
         </a>
       </div>
-      <p id="golf-note" class="pg-foot">Tap a name. Scores are locked to the event pages.</p>
+      <p id="golf-note" class="pg-foot">{copy.golfFootnote}</p>
     </section>
   )}
 
@@ -211,8 +222,8 @@ const hoopsPairs = [
     <section class="pg-frame floor-frame">
       <div class="pg-head">
         <div>
-          <h2 class="font-head text-xl font-semibold tracking-tight">The bracket</h2>
-          <p class="text-sm text-muted font-sans mt-1">WNBA first round, 1 vs 8. Playoffs begin 27 September. Pin a series.</p>
+          <h2 class="font-head text-xl font-semibold tracking-tight">{copy.theBracket}</h2>
+          <p class="text-sm text-muted font-sans mt-1">{copy.wnbaFirstRound}</p>
         </div>
       </div>
       <div class="bracket">
@@ -220,24 +231,24 @@ const hoopsPairs = [
           <button
             type="button"
             class="series"
-            data-note={`${pair.a.team} (${pair.a.record}) vs ${pair.b.team} (${pair.b.record}). First round. No series result yet.`}
+            data-note={`${entityName(pair.a.team, locale)} (${pair.a.record}) vs ${entityName(pair.b.team, locale)} (${pair.b.record}). First round. No series result yet.`}
           >
             <span class="seed-pill">
               <b>{pair.a.seed}</b>
-              <span>{pair.a.team}</span>
+              <span>{entityName(pair.a.team, locale)}</span>
               <em>{pair.a.record}</em>
             </span>
             <span class="series-vs">vs</span>
             <span class="seed-pill">
               <b>{pair.b.seed}</b>
-              <span>{pair.b.team}</span>
+              <span>{entityName(pair.b.team, locale)}</span>
               <em>{pair.b.record}</em>
             </span>
           </button>
         ))}
       </div>
-      <p id="hoops-note" class="pg-foot">Source: WNBA.com standings. Playoffs have not started.</p>
-      <p class="pg-archive">June archive: <a href="/match/nba-finals-2026-knicks-spurs">Knicks 4-1 Spurs</a></p>
+      <p id="hoops-note" class="pg-foot">{copy.bracketFootnote}</p>
+      <p class="pg-archive"><a href={lp('/match/nba-finals-2026-knicks-spurs')}>{copy.juneArchive}</a></p>
     </section>
   )}
 </div>

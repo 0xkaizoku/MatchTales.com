@@ -1,220 +1,91 @@
 ---
 name: seo-competitor-pages
 description: >
-  Generate SEO-optimized competitor comparison and alternatives pages. Covers
-  "X vs Y" layouts, "alternatives to X" pages, feature matrices, schema markup,
-  and conversion optimization. Use when user says "comparison page", "vs page",
-  "alternatives page", "competitor comparison", or "X vs Y".
-user-invokable: true
-argument-hint: "[url or generate] [competitor]"
-allowed-tools:
-  - Read
-  - Grep
-  - Glob
-  - Bash
-  - WebFetch
+  Generate and audit SEO- and AEO-optimized competitor comparison and alternatives pages.
+  Covers "X vs Y" head-to-head layouts, "Best [Category] Tools" roundups, "Alternatives to X" pages,
+  feature matrices, schema markup, conversion optimization, and Answer Engine extractability.
+  Use when user says "comparison page", "vs page", "alternatives page", "competitor comparison",
+  "X vs Y", "versus", "best tools", "top software", or "compare tools".
+user-invocable: true
+argument-hint: "[url or generate] [competitor or category]"
+license: MIT
+metadata:
+  author: AgriciDaniel
+  version: "2.3.1"
+  category: seo
 ---
 
-# Competitor Comparison & Alternatives Pages
+# Competitor Comparison, Alternatives & Best-Tools Pages
 
-Create high-converting comparison and alternatives pages that target
-competitive intent keywords with accurate, structured content.
+Create high-converting, authoritative comparison and roundup pages that rank in search engines
+and get cited by Answer Engines (ChatGPT Search, Perplexity, Claude, Google AI Overviews).
 
-## Page Types
+## Reference Guides
+- Read `references/tool-comparison-architecture.md` for 1v1 head-to-head blueprints.
+- Read `references/best-tools-roundup-guide.md` for "Best Tools in 2026" roundup structures.
+- Read `references/aeo-geo-comparison-optimization.md` for Answer Engine citation mechanics.
+- Read `references/comparison-schema-templates.md` for JSON-LD schema templates.
 
-### 1. "X vs Y" Comparison Pages
-- Direct head-to-head comparison between two products/services
-- Balanced feature-by-feature analysis
-- Clear verdict or recommendation with justification
-- Target keyword: `[Product A] vs [Product B]`
+---
 
-### 2. "Alternatives to X" Pages
-- List of alternatives to a specific product/service
-- Each alternative with brief summary, pros/cons, best-for use case
-- Target keyword: `[Product] alternatives`, `best alternatives to [Product]`
+## Core Page Formats
 
-### 3. "Best [Category] Tools" Roundup Pages
-- Curated list of top tools/services in a category
-- Ranking criteria clearly stated
+### 1. "X vs Y" Head-to-Head Comparisons
+- Target keyword: `[Tool A] vs [Tool B]`
+- **Above-Fold Verdict Capsule (50-70 words):** Unambiguous summary stating which tool to choose under what condition.
+- **Quick Decision Box:** "Choose Tool A if [X]; Choose Tool B if [Y]."
+- **Feature Matrix:** Side-by-side comparison table with quantitative limits (not just checkmarks).
+- **Category Deep Dives:** Dedicated sections for Usability, Features, Integrations, Pricing, and Support.
+- **Winner Badges:** Explicit category winner declarations.
+
+### 2. "Best [Category] Tools" Roundups
 - Target keyword: `best [category] tools [year]`, `top [category] software`
+- **Methodology Disclosure:** Testing hours, criteria, account tiers, and team credentials.
+- **Top Picks Summary Table:** Placed immediately below methodology for zero-click and AEO extraction.
+- **Standardized Review Cards:** Consistent layout for each tool:
+  - Heading: `## [Rank]. [Tool] -- Best For [Persona/Use Case]`
+  - Quick Verdict (Answer Capsule)
+  - Key Specs, Pros (with evidence), Cons (dealbreakers), and Hands-on Experience.
+- **Buyer's Decision Guide:** Framework for assessing team requirements and budget.
 
-### 4. Comparison Table Pages
-- Feature matrix with multiple products in columns
-- Sortable/filterable if interactive
-- Target keyword: `[category] comparison`, `[category] comparison chart`
+### 3. "Alternatives to [Tool]" Pages
+- Target keyword: `[Tool] alternatives`, `best alternatives to [Tool]`
+- Categorized alternatives: Budget/Free, Enterprise, Simple/Modern, and Specialized.
+- Direct migration guidance (export/import ease, switching downtime).
 
-## Comparison Table Generation
+---
 
-### Feature Matrix Layout
-```
-| Feature          | Your Product | Competitor A | Competitor B |
-|------------------|:------------:|:------------:|:------------:|
-| Feature 1        | ✅           | ✅           | ❌           |
-| Feature 2        | ✅           | ⚠️ Partial   | ✅           |
-| Feature 3        | ✅           | ❌           | ❌           |
-| Pricing (from)   | $X/mo        | $Y/mo        | $Z/mo        |
-| Free Tier        | ✅           | ❌           | ✅           |
-```
+## AEO & Answer Engine Citability Rules
 
-### Data Accuracy Requirements
-- All feature claims must be verifiable from public sources
-- Pricing must be current (include "as of [date]" note)
-- Update frequency: review quarterly or when competitors ship major changes
-- Link to source for each competitor data point where possible
+When users ask conversational AI engines *"What is the best [tool] for [use case]?"*:
+1. **The "Best For" Hook:** Always append an explicit `Best For [Persona]` hook to each tool heading.
+   AI models match user query constraints directly to these labels.
+2. **Semantic HTML Tables:** Use `<table` or clean Markdown tables with `<th scope="col">` and `<th scope="row">`.
+   Never embed tables inside images.
+3. **Quantitative Metrics:** State exact limits (e.g. "500 MB storage", "Up to 5 seats", "$49/mo") rather than vague adjectives ("generous", "affordable").
+4. **Freshness Date Anchors:** State "Pricing verified: [Month Year]" to retain recency citation score.
 
-## Schema Markup Recommendations
+---
 
-### Product Schema with AggregateRating
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "[Product Name]",
-  "description": "[Product Description]",
-  "brand": {
-    "@type": "Brand",
-    "name": "[Brand Name]"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "[Rating]",
-    "reviewCount": "[Count]",
-    "bestRating": "5",
-    "worstRating": "1"
-  }
-}
+## Automated Audit Tool
+
+Run the comparison auditor on any live URL or local draft:
+```bash
+"${CLAUDE_PLUGIN_ROOT}/scripts/claude-seo" run tool_comparison_check.py <url-or-file> --json
 ```
 
-### SoftwareApplication (for software comparisons)
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "[Software Name]",
-  "applicationCategory": "[Category]",
-  "operatingSystem": "[OS]",
-  "offers": {
-    "@type": "Offer",
-    "price": "[Price]",
-    "priceCurrency": "USD"
-  }
-}
-```
+The script evaluates:
+- Page intent detection (1v1, roundup, alternatives)
+- Feature matrix quality and quantitative metric density
+- AEO extractability and verdict capsule presence
+- Balance and neutrality (pros/cons distribution)
+- Pricing transparency and freshness date anchors
+- Schema.org markup (`SoftwareApplication`, `ItemList`, `FAQPage`)
 
-### ItemList (for roundup pages)
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "ItemList",
-  "name": "Best [Category] Tools [Year]",
-  "itemListOrder": "https://schema.org/ItemListOrderDescending",
-  "numberOfItems": "[Count]",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "[Product Name]",
-      "url": "[Product URL]"
-    }
-  ]
-}
-```
+---
 
-## Keyword Targeting
+## Schema Markup Architecture
 
-### Comparison Intent Patterns
-| Pattern | Example | Search Volume Signal |
-|---------|---------|---------------------|
-| `[A] vs [B]` | "Slack vs Teams" | High |
-| `[A] alternative` | "Figma alternatives" | High |
-| `[A] alternatives [year]` | "Notion alternatives 2026" | High |
-| `best [category] tools` | "best project management tools" | High |
-| `[A] vs [B] for [use case]` | "AWS vs Azure for startups" | Medium |
-| `[A] review [year]` | "Monday.com review 2026" | Medium |
-| `[A] vs [B] pricing` | "HubSpot vs Salesforce pricing" | Medium |
-| `is [A] better than [B]` | "is Notion better than Confluence" | Medium |
-
-### Title Tag Formulas
-- X vs Y: `[A] vs [B]: [Key Differentiator] ([Year])`
-- Alternatives: `[N] Best [A] Alternatives in [Year] (Free & Paid)`
-- Roundup: `[N] Best [Category] Tools in [Year], Compared & Ranked`
-
-### H1 Patterns
-- Match title tag intent
-- Include primary keyword naturally
-- Keep under 70 characters
-
-## Conversion-Optimized Layouts
-
-### CTA Placement
-- **Above fold**: Brief comparison summary with primary CTA
-- **After comparison table**: "Try [Your Product] free" CTA
-- **Bottom of page**: Final recommendation with CTA
-- Avoid aggressive CTAs in competitor description sections (reduces trust)
-
-### Social Proof Sections
-- Customer testimonials relevant to comparison criteria
-- G2/Capterra/TrustPilot ratings (with source links)
-- Case studies showing migration from competitor
-- "Switched from [Competitor]" stories
-
-### Pricing Highlights
-- Clear pricing comparison table
-- Highlight value advantages (not just lowest price)
-- Include hidden costs (setup fees, per-user pricing, overage charges)
-- Link to full pricing page
-
-### Trust Signals
-- "Last updated [date]" timestamp
-- Author with relevant expertise
-- Methodology disclosure (how comparisons were conducted)
-- Disclosure of own product affiliation
-
-## Fairness Guidelines
-
-- **Accuracy**: All competitor information must be verifiable from public sources
-- **No defamation**: Never make false or misleading claims about competitors
-- **Cite sources**: Link to competitor websites, review sites, or documentation
-- **Timely updates**: Review and update when competitors release major changes
-- **Disclose affiliation**: Clearly state which product is yours
-- **Balanced presentation**: Acknowledge competitor strengths honestly
-- **Pricing accuracy**: Include "as of [date]" disclaimers on all pricing data
-- **Feature verification**: Test competitor features where possible, cite documentation otherwise
-
-## Internal Linking
-
-- Link to your own product/service pages from comparison sections
-- Cross-link between related comparison pages (e.g., "A vs B" links to "A vs C")
-- Link to feature-specific pages when discussing individual features
-- Breadcrumb: Home > Comparisons > [This Page]
-- Related comparisons section at bottom of page
-- Link to case studies and testimonials mentioned in the comparison
-
-## Output
-
-### Comparison Page Template
-- `COMPARISON-PAGE.md`: Ready-to-implement page structure with sections
-- Feature matrix table
-- Content outline with word count targets (minimum 1,500 words)
-
-### Schema Markup
-- `comparison-schema.json`: Product/SoftwareApplication/ItemList JSON-LD
-
-### Keyword Strategy
-- Primary and secondary keywords
-- Related long-tail opportunities
-- Content gaps vs existing competitor pages
-
-### Recommendations
-- Content improvements for existing comparison pages
-- New comparison page opportunities
-- Schema markup additions
-- Conversion optimization suggestions
-
-## Error Handling
-
-| Scenario | Action |
-|----------|--------|
-| Competitor URL unreachable | Report which competitor URLs failed. Proceed with available data and note gaps in the comparison. |
-| Insufficient competitor data (pricing, features unavailable) | Flag missing data points clearly. Use "Not publicly available" in comparison tables rather than guessing. |
-| No product/service overlap found | Report that the products serve different markets. Suggest alternative competitors that share feature overlap, or pivot to a category roundup format. |
+- **Roundups:** Use `ItemList` schema with nested `SoftwareApplication` or `Product` elements including `offers` and `aggregateRating`.
+- **Head-to-Head Comparisons:** Use `FAQPage` answering direct comparison queries ("Is Tool A cheaper than Tool B?").
+- Full templates: see `references/comparison-schema-templates.md`.
