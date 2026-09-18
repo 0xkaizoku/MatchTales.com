@@ -1,6 +1,5 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import NewsletterForm from '../components/NewsletterForm.astro';
 import FaqSection from '../components/FaqSection.astro';
 import { SITE } from '../lib/site';
 import { dict, localeFromPath, localePath } from '../i18n';
@@ -36,11 +35,6 @@ const schema = {
         <p class="mt-2 text-[15px] font-sans text-muted leading-7">{d.about.noteBody}</p>
       </div>
       <FaqSection items={[...d.faqs.about]} />
-      <div class="mt-10 mb-10">
-        <h2 class="font-head text-xl font-semibold tracking-tight">{d.about.join}</h2>
-        <p class="mt-1 text-muted font-sans mb-4">{d.about.joinBlurb}</p>
-        <NewsletterForm />
-      </div>
     </div>
   </main>
 </BaseLayout>

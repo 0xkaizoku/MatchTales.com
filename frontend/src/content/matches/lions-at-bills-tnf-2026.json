@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "Kickoff 8:15 p.m. ET, Prime Video.",
-    "Both teams 1-0 until this game.",
-    "First regular-season game at the new Highmark Stadium."
+    "Bills scored on their first four possessions.",
+    "Tyler Bass missed the PAT after Dalton Kincaid's touchdown, which is why Buffalo had 13 points in the second quarter.",
+    "ESPN: Bills 299 yards in the first half, 446 overall."
   ],
   "keyPlayers": [
     {
       "name": "Josh Allen",
       "team": "Bills",
-      "hook": "Home, new stadium, 1-0 after Houston."
+      "hook": "ESPN: 20 of 31, 248 yards, three passing TDs, two rushing TDs, 69 rush yards."
     },
     {
       "name": "Jared Goff",
       "team": "Lions",
-      "hook": "Road, 1-0 after overtime in Week 1. No Thursday score yet."
+      "hook": "ESPN: 26 of 38, 327 yards, four touchdown passes. Lions 1-1."
     }
   ],
   "headToHead": "",
@@ -30,35 +30,43 @@
   "matchday": 0,
   "marquee": true,
   "liveMinute": null,
-  "image": "https://images.unsplash.com/photo-1566577739112-5184e6ac4a4e?auto=format&fit=crop&w=1200&q=80",
+  "image": "https://images.pexels.com/photos/1618269/pexels-photo-1618269.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
   "decidedBy": null,
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Week 2 \u00b7 TNF",
-  "resultSummary": "",
+  "roundLabel": "Week 2 · TNF",
+  "resultSummary": "Bills 41, Lions 31",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "NFL.com: Lions at Bills Week 2",
-      "url": "https://www.nfl.com/news/lions-bills-week-2-prime-video-2026-nfl-schedule-release"
+      "name": "ESPN recap: Bills 41-31 Lions",
+      "url": "https://www.espn.com/nfl/recap?gameId=401872932"
     },
     {
-      "name": "ESPN NFL schedule Week 2",
-      "url": "https://www.espn.com/nfl/schedule/_/week/2"
+      "name": "ESPN box: Lions at Bills",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872932/lions-bills"
+    },
+    {
+      "name": "NFL.com: what we learned, Bills 41-31",
+      "url": "https://www.nfl.com/news/lions-bills-on-thursday-night-football-what-we-learned-from-buffalo-s-41-31-win"
+    },
+    {
+      "name": "The Athletic: Allen five TDs",
+      "url": "https://www.nytimes.com/athletic/7606534/2026/09/17/lions-bills-josh-allen-stats-score-results-tnf/"
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 41,
+  "awayScore": 31,
   "slug": "lions-at-bills-tnf-2026",
-  "headline": "Lions at Bills: Thursday night, a new Highmark Stadium, no snap yet",
-  "whyCareScore": 9.0,
-  "whyCareReason": "Two 1-0 clubs. Prime Video, 8:15 p.m. ET. First regular-season game in Buffalo's new stadium. Do not invent a score.",
-  "teaser": "Thursday 17 September. Detroit at Buffalo. Week 1 is in the book. This one is not.",
-  "story": "Why this one matters: Week 1 closed 31-10 in Kansas City. Week 2 opens in a building that has not hosted a regular-season snap.\n\nNFL.com and ESPN: Lions at Bills, Highmark Stadium, Orchard Park, 8:15 p.m. ET, Prime Video. Both clubs are 1-0. Buffalo beat Houston 36-31. Detroit beat New Orleans 31-30 in overtime. That is the honest line on 16 September.\n\nPrint the time. Print the stadium. Do not print a winner.",
-  "stakes": "The first Thursday of 2026, in a new stadium, between two clubs that already scored in Week 1.",
+  "headline": "Bills 41-31 Lions: Allen five TDs, first night in the new Highmark Stadium",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Josh Allen threw three touchdown passes and ran for two more in the first regular-season game at Buffalo's new Highmark Stadium. The Bills are 2-0. The Lions are 1-1. The rest of Week 2 has not been played.",
+  "teaser": "FINAL: Bills 41, Lions 31. ESPN: Allen 20 of 31, 248 yards, three passing TDs, two rushing TDs. Goff 26 of 38, 327, four TDs. Cook 134 rush yards.",
+  "story": "Why this one matters: Week 2 opened in a building that had not hosted a regular-season snap. It has now. Buffalo 41, Detroit 31.\n\nESPN box: Lions 0-10-7-14, Bills 14-13-7-7. Josh Allen 1-yard rush for the first score in the stadium. Joshua Palmer 43-yard catch. Dawson Knox touchdown catch (ESPN recap called it 2 yards; the ESPN play-by-play lists 1 yard). Jahmyr Gibbs 11-yard catch, 21-7. Dalton Kincaid 16-yard catch, PAT missed, 27-7. Jake Bates 31-yard field goal, 27-10 at half. Amon-Ra St. Brown 2-yard catch in the third. Allen a 2-yard rush. Sam LaPorta 1-yard catch. James Cook 1-yard run with 2:50 left. Goff's fourth touchdown pass, St. Brown's second of the night, made the fourth quarter 14-7 Detroit.\n\nESPN recap, AP: Allen 20 of 31, 248 yards, three passing touchdowns, 69 rushing yards, two rushing touchdowns. Cook 134 rushing yards. Goff 26 of 38, 327 yards, four touchdowns. St. Brown nine catches, 142 yards, two scores. Gibbs 52 rushing yards. Bills 446 yards. Lions 1-1. Bills 2-0. Next printed dates: Lions host the Jets on 27 September. Bills host New England on 27 September. Do not print a Sunday Week 2 score. Those games have not been played.",
+  "stakes": "The first Thursday of 2026, in a new stadium, between two clubs that had already scored in Week 1. Buffalo printed 41. Detroit printed 31.",
   "rivalryAngle": "AFC East host, NFC North visitor, a stadium opener instead of a rivalry.",
   "home": "Buffalo Bills",
   "away": "Detroit Lions",
@@ -67,7 +75,7 @@
   "time": "20:15",
   "venue": "Highmark Stadium",
   "city": "Orchard Park",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "football",
   "competition": "nfl-2026"
 }

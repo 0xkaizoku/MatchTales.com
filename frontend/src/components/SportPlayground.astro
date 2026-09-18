@@ -95,7 +95,7 @@ const hoopsPairs = [
         </svg>
         <div class="kick-clock">
           <p class="text-[11px] font-sans uppercase tracking-wide text-muted">{copy.countdownTnf}</p>
-          <p id="nfl-clock" class="font-head text-4xl sm:text-5xl tabular-nums tracking-tight">{copy.loading}</p>
+          <p id="nfl-clock" class="font-head text-4xl sm:text-5xl tabular-nums tracking-tight">41-31</p>
         </div>
       </div>
       <ol class="slate">
@@ -195,11 +195,11 @@ const hoopsPairs = [
         </div>
       </div>
       <div class="scorecards">
-        <a href={lp('/match/the-open-2026-royal-birkdale')} class="scorecard" data-note="Ryan Fox 270, ten under. Young 271. Burns 272. Birdie on 18 at Royal Birkdale.">
-          <span class="score-event">The Open · Royal Birkdale</span>
-          <span class="score-name">Ryan Fox</span>
-          <span class="score-num">-10</span>
-          <span class="score-line">270. Young 271 · Burns 272.</span>
+        <a href={lp('/match/bmw-pga-wentworth-2026')} class="scorecard" data-note="Ryan Gerard 132, twelve under after 36 holes. Scott 134. Celli 134. No winner. Saturday not played.">
+          <span class="score-event">BMW PGA · Wentworth</span>
+          <span class="score-name">Ryan Gerard</span>
+          <span class="score-num">-12</span>
+          <span class="score-line">36 holes. Scott -10 · Celli -10. No winner yet.</span>
         </a>
         <a href={lp('/match/tour-championship-2026-east-lake')} class="scorecard" data-note="Scottie Scheffler 264, sixteen under. Hovland thirteen under. Second FedEx Cup.">
           <span class="score-event">Tour Championship · East Lake</span>
@@ -286,19 +286,7 @@ const hoopsPairs = [
 
       if (sport === 'football') {
         const el = document.getElementById('nfl-clock');
-        if (el) {
-          const target = Date.UTC(2026, 8, 18, 0, 15, 0);
-          const tick = () => {
-            const diff = target - Date.now();
-            if (diff <= 0) { el.textContent = 'Kickoff window'; return; }
-            const h = Math.floor(diff / 3600000);
-            const m = Math.floor((diff % 3600000) / 60000);
-            const s = Math.floor((diff % 60000) / 1000);
-            el.textContent = `${h}h ${String(m).padStart(2, '0')}m ${String(s).padStart(2, '0')}s`;
-          };
-          tick();
-          window.setInterval(tick, 1000);
-        }
+        if (el) el.textContent = '41-31';
         root.querySelectorAll('.slate-row').forEach((row) => {
           row.addEventListener('pointerenter', () => setOn(root.querySelectorAll('.slate-row'), row));
           row.addEventListener('focus', () => setOn(root.querySelectorAll('.slate-row'), row));

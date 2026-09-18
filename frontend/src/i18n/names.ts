@@ -135,6 +135,8 @@ const PLACES: Record<string, Partial<Record<Locale, string>>> = {
   'Kansas City': { zh: '堪萨斯城', ja: 'カンザスシティ', ko: '캔자스시티', ar: 'كانساس سيتي' },
   Buffalo: { zh: '布法罗', ja: 'バッファロー', ko: '버펄로', ar: 'بوفالو' },
   Wentworth: { zh: '温特沃斯', ja: 'ウェントワース', ko: '웬트워스', ar: 'وينتوورث' },
+  'Virginia Water': { zh: '弗吉尼亚沃特', ja: 'バージニア・ウォーター', ko: '버지니아 워터', ar: 'فرجينيا ووتر' },
+  'Orchard Park': { zh: '奥查德帕克', ja: 'オーチャードパーク', ko: '오차드 파크', ar: 'أورشارد بارك' },
   Medinah: { zh: '麦迪纳', ja: 'メディナ', ko: '메디나', ar: 'مدينا' },
   'East Lake': { zh: '东湖', ja: 'イーストレイク', ko: '이스트레이크', ar: 'إيست ليك' },
   'Royal Birkdale': { zh: '皇家伯克戴尔', ja: 'ロイヤル・バークデール', ko: '로열 버크데일', ar: 'رويال بيركديل' },
@@ -170,6 +172,28 @@ const COMPETITIONS: Record<string, Partial<Record<Locale, string>>> = {
     ko: '프리미어리그',
     ar: 'الدوري الإنجليزي',
   },
+  'nfl-2026': {
+    fr: 'NFL 2026',
+    es: 'NFL 2026',
+    de: 'NFL 2026',
+    it: 'NFL 2026',
+    pl: 'NFL 2026',
+    zh: '2026年NFL',
+    ja: 'NFL 2026',
+    ko: 'NFL 2026',
+    ar: 'NFL 2026',
+  },
+  'bmw-pga-2026': {
+    fr: 'BMW PGA Championship',
+    es: 'BMW PGA Championship',
+    de: 'BMW PGA Championship',
+    it: 'BMW PGA Championship',
+    pl: 'BMW PGA Championship',
+    zh: '宝马PGA锦标赛',
+    ja: 'BMW PGA選手権',
+    ko: 'BMW PGA 챔피언십',
+    ar: 'بطولة BMW PGA',
+  },
 };
 
 export function entityName(name: string | null | undefined, locale: Locale): string {
@@ -184,6 +208,8 @@ export function competitionName(competition: string | null | undefined, locale: 
   if (locale === 'en') {
     if (competition === 'world-cup-2026') return 'World Cup 2026';
     if (competition.startsWith('premier-league')) return 'Premier League';
+    if (competition === 'nfl-2026') return 'NFL';
+    if (competition === 'bmw-pga-2026') return 'BMW PGA Championship';
     return competition;
   }
   const key = competition.startsWith('premier-league') ? 'premier-league' : competition;

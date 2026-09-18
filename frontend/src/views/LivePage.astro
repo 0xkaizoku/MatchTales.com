@@ -1,8 +1,15 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
-import { SITE, sportOf, sportBySlug, scoreDisplay, fmtDate, statusLabel } from '../lib/site';
+import { SITE, sportOf, fmtDate } from '../lib/site';
 import CompetitorMark from '../components/CompetitorMark.astro';
+import { dict, localeFromPath, localePath, sportCopy } from '../i18n';
+import { scoreDisplayI18n, statusLabelI18n } from '../i18n/content';
+import type { Locale } from '../i18n';
+
+const locale = (Astro.locals?.locale || localeFromPath(Astro.url.pathname)) as Locale;
+const d = dict(locale);
+const lp = (p: string) => localePath(locale, p);
 const entries = await getCollection('matches');
 const matches = entries.map((e) => e.data);
 const upcomingAll = matches
@@ -16,27 +23,27 @@ const liveMatch =
   matches[0];
 const upcoming = upcomingAll.filter((m) => m.slug !== liveMatch.slug).slice(0, 5);
 const sport = sportOf(liveMatch);
-const sportMeta = sportBySlug(sport);
-const score = scoreDisplay(liveMatch);
+const sportMeta = sportCopy(locale, sport);
+const score = scoreDisplayI18n(locale, liveMatch);
 const isLive = liveMatch.status === 'LIVE';
 const notes = [
-  { k: 'Why', t: liveMatch.whyCareReason },
-  { k: 'Now', t: liveMatch.teaser },
-  { k: 'Stake', t: liveMatch.stakes },
+  { k: d.livePage.why, t: liveMatch.whyCareReason },
+  { k: d.livePage.now, t: liveMatch.teaser },
+  { k: d.livePage.stake, t: liveMatch.stakes },
 ].filter((n) => n.t);
 const schema = {
   '@type': 'WebPage',
-  name: 'Live Second Screen',
-  description: 'Live hype meter and companion notes for whatever is actually on tonight.',
-  url: `${SITE.url}/live`,
+  name: d.livePage.h1,
+  description: d.livePage.description,
+  url: `${SITE.url}${lp('/live')}`,
   isPartOf: { '@id': `${SITE.url}/#website` },
 };
 ---
-<BaseLayout title="Live Second Screen | MatchTales" description="Your companion for whatever is actually on: Chiefs 31-10 closed Week 1, Lions at Bills on Thursday night." keywords="live second screen, NFL, Premier League, hype meter" schema={schema} imageAlt="MatchTales live second screen">
+<BaseLayout title={d.livePage.title} description={d.livePage.description} keywords={d.livePage.keywords} schema={schema} imageAlt={d.livePage.h1}>
   <main class="max-w-container mx-auto px-4 sm:px-6 lg:px-8 pb-10">
     <header class="mt-8">
-      <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">Second Screen</h1>
-      <p class="mt-2 text-muted font-sans max-w-2xl">Watching something that actually matters? Keep this open. Hype, notes and a poll. On 16 September that means Leeds 4-1 and Chiefs 31-10 are in the book, and Lions at Bills is Thursday at 8:15 p.m. ET in a new Highmark Stadium.</p>
+      <h1 class="font-head text-3xl sm:text-4xl font-semibold tracking-tight">{d.livePage.h1}</h1>
+      <p class="mt-2 text-muted font-sans max-w-2xl">{d.livePage.blurb}</p>
     </header>
 
     <div class="mt-6 grid lg:grid-cols-3 gap-6" data-testid="live-screen" data-slug={liveMatch.slug}>
@@ -44,7 +51,7 @@ const schema = {
       <div class="lg:col-span-2 space-y-5">
         <div class="rounded-card border border-border/80 bg-surface shadow-card overflow-hidden">
           <div class="flex items-center justify-between px-5 py-3 border-b border-border/70 bg-surface2">
-            <span class="inline-flex items-center gap-2 text-sm font-sans font-semibold">{isLive ? <span class="inline-flex items-center gap-1.5 text-coral"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>LIVE</span> : <span class="text-muted">{statusLabel(liveMatch.status)}</span>}</span>
+            <span class="inline-flex items-center gap-2 text-sm font-sans font-semibold">{isLive ? <span class="inline-flex items-center gap-1.5 text-coral"><span class="w-2 h-2 rounded-full bg-coral pulse-glow"></span>{d.status.LIVE}</span> : <span class="text-muted">{statusLabelI18n(locale, liveMatch.status)}</span>}</span>
             <span class="text-[12px] font-sans text-muted">{sportMeta?.label} · {liveMatch.roundLabel || liveMatch.group} · {liveMatch.venue}</span>
           </div>
           <div class="p-6">
@@ -68,14 +75,14 @@ const schema = {
 
         <!-- hype meter -->
         <div class="rounded-card border border-border/80 bg-surface shadow-card p-5">
-          <div class="flex items-center justify-between"><h2 class="font-head font-semibold">Hype meter</h2><span id="hype-num" data-testid="live-hype-meter" class="font-head font-bold text-2xl text-pitch tabular-nums">{liveMatch.whyCareScore.toFixed(1)}</span></div>
+          <div class="flex items-center justify-between"><h2 class="font-head font-semibold">{d.livePage.hypeMeter}</h2><span id="hype-num" data-testid="live-hype-meter" class="font-head font-bold text-2xl text-pitch tabular-nums">{liveMatch.whyCareScore.toFixed(1)}</span></div>
           <div class="mt-2 h-3 w-full rounded-full bg-border/60 overflow-hidden"><div id="hype-bar" class="h-full rounded-full bg-pitch transition-[width] duration-700" style={`width:${(liveMatch.whyCareScore/10)*100}%`}></div></div>
           <p class="mt-2 text-sm text-muted font-sans">{liveMatch.whyCareReason}</p>
         </div>
 
         <!-- commentary -->
         <div class="rounded-card border border-border/80 bg-surface shadow-card p-5">
-          <h2 class="font-head font-semibold mb-3">Why it is on</h2>
+          <h2 class="font-head font-semibold mb-3">{d.livePage.whyOn}</h2>
           <ul id="commentary" data-testid="live-commentary-feed" class="space-y-3 font-sans text-sm">
             {notes.map((n) => (
               <li class="flex gap-3">
@@ -105,7 +112,7 @@ const schema = {
           <ul class="space-y-3">
             {upcoming.map((m) => (
               <li>
-                <a href={`/match/${m.slug}`} class="flex items-center justify-between gap-2 group">
+                <a href={lp(`/match/${m.slug}`)} class="flex items-center justify-between gap-2 group">
                   <span class="font-sans text-sm group-hover:text-pitch">
                     <span class="inline-flex items-center gap-1"><CompetitorMark name={m.home} code={m.homeCode} sport={sportOf(m)} size="sm" /></span>
                     <span class="mx-0.5">{m.home}</span> v <span class="mx-0.5">{m.away}</span>

@@ -1,4 +1,4 @@
-export const SITE_TODAY = '2026-09-16';
+export const SITE_TODAY = '2026-09-18';
 
 export const SPORT_SLUGS = ['soccer', 'tennis', 'golf', 'football', 'basketball', 'f1'] as const;
 export type SportSlug = (typeof SPORT_SLUGS)[number];
@@ -27,7 +27,7 @@ export const SPORTS: SportMeta[] = [
     short: 'Soccer',
     href: '/sport/soccer',
     tagline: 'Arsenal and City are both 4-0-0. Leeds are third. Hull unbeaten in fourth.',
-    liveNow: 'Leeds 4-1 Newcastle. Third on 8 points. Matchweek 4 is finished.',
+    liveNow: 'Leeds 4-1 Newcastle. Third on 8 points. Matchweek 4 is finished. Matchweek 5 has not kicked.',
     accent: 'pitch',
     hue: '158 42% 22%',
     pulse: 'LEEDS 4-1',
@@ -39,11 +39,11 @@ export const SPORTS: SportMeta[] = [
     label: 'Football',
     short: 'NFL',
     href: '/sport/football',
-    tagline: 'Week 1 is closed. Chiefs 31-10. Thursday opens a new Buffalo stadium.',
-    liveNow: 'Lions at Bills, Thursday 17 September, 8:15 p.m. ET, Prime Video. Not kicked.',
+    tagline: 'Bills 41-31. Allen five TDs. Week 2 opened in a new stadium.',
+    liveNow: 'FINAL: Bills 41, Lions 31. Rest of Week 2 has not been played.',
     accent: 'coral',
     hue: '14 86% 60%',
-    pulse: 'TNF THURSDAY',
+    pulse: 'BILLS 41-31',
     board: 'Open the field',
     span: 'side',
   },
@@ -78,11 +78,11 @@ export const SPORTS: SportMeta[] = [
     label: 'Golf',
     short: 'Golf',
     href: '/sport/golf',
-    tagline: 'Fox has the Claret Jug. Scheffler has the FedEx Cup. Presidents Cup is next.',
-    liveNow: 'BMW PGA Championship, Wentworth, 17-20 September. Presidents Cup is 24-27 September.',
+    tagline: 'Gerard is 12 under after 36 holes at Wentworth. Presidents Cup is still next.',
+    liveNow: 'BMW PGA, Wentworth. Gerard 132 (-12). Round 3 is Saturday. No winner yet.',
     accent: 'lime',
     hue: '84 55% 38%',
-    pulse: 'BMW PGA NEXT',
+    pulse: 'GERARD -12',
     board: 'Open the course',
     span: 'half',
   },

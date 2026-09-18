@@ -1,0 +1,124 @@
+{
+  "funFacts": [
+    "Official DP World Tour board after 36 holes: Gerard 67-65 = 132.",
+    "Rory McIlroy 69-67 = 136, four shots back.",
+    "AP: Jon Rahm 78-77, last among players who completed 36 holes, missed the cut."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Ryan Gerard",
+      "team": "USA",
+      "hook": "Solo lead at 12 under. Second round 65. Eagle on 17, birdie on 18."
+    },
+    {
+      "name": "Rory McIlroy",
+      "team": "Northern Ireland",
+      "hook": "PA: five-under second round, 136, four behind Gerard. No winner yet."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "golf",
+    "bmw-pga",
+    "wentworth",
+    "gerard"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": "36 holes",
+  "image": "https://images.pexels.com/photos/914682/pexels-photo-914682.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "BMW PGA Championship · 36 holes",
+  "resultSummary": "Gerard 132 (-12) after 36 holes. No winner. Rounds 3 and 4 not played.",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Ryan Gerard",
+      "score": "-12",
+      "note": "67-65, 132"
+    },
+    {
+      "pos": "T2",
+      "name": "Adam Scott",
+      "score": "-10",
+      "note": "67-67, 134"
+    },
+    {
+      "pos": "T2",
+      "name": "Filippo Celli",
+      "score": "-10",
+      "note": "68-66, 134"
+    },
+    {
+      "pos": "T4",
+      "name": "Manuel Elvira",
+      "score": "-9",
+      "note": "69-66, 135"
+    },
+    {
+      "pos": "T4",
+      "name": "Aaron Rai",
+      "score": "-9",
+      "note": "66-69, 135"
+    },
+    {
+      "pos": "T6",
+      "name": "Rory McIlroy",
+      "score": "-8",
+      "note": "69-67, 136"
+    },
+    {
+      "pos": "T6",
+      "name": "Ryan Fox",
+      "score": "-8",
+      "note": "68-68, 136"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "DP World Tour: BMW PGA leaderboard",
+      "url": "https://www.europeantour.com/dpworld-tour/bmw-pga-championship-2026/leaderboard"
+    },
+    {
+      "name": "PA via Irish Examiner: McIlroy four back",
+      "url": "https://www.irishexaminer.com/sport/golf/arid-41913016.html"
+    },
+    {
+      "name": "FOX Sports: 36-hole board",
+      "url": "https://www.foxsports.com/golf/bmw-pga-championship-dp-world-tour-sep-17-2026-leaderboard-4789"
+    },
+    {
+      "name": "AP: Rahm 78-77, missed cut",
+      "url": "https://www.winnipegfreepress.com/sports/golf/2026/09/18/jon-rahm-shoots-78-77-and-in-last-place-at-bmw-pga-championship"
+    }
+  ],
+  "format": "leaderboard",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "bmw-pga-wentworth-2026",
+  "headline": "Gerard 12 under after 36 holes at Wentworth. No winner. Saturday is still to come.",
+  "whyCareScore": 8.4,
+  "whyCareReason": "The DP World Tour flagship is at halfway. Ryan Gerard leads at 12 under. McIlroy is four back. Rounds 3 and 4 have not been played. Do not invent a champion.",
+  "teaser": "36 holes only. Gerard 132 (-12). Scott and Celli 134. Rai and Manuel Elvira 135. McIlroy and Fox 136. Presidents Cup is still 24-27 September.",
+  "story": "Why this one matters: majors and the FedEx Cup are finished. The European flagship is not. After two rounds at Wentworth, the official DP World Tour board has Ryan Gerard alone at 12 under.\n\nDP World Tour: Gerard 67-65, 132. Adam Scott 67-67 and Filippo Celli 68-66, both 134. Manuel Elvira 69-66 and Aaron Rai 66-69, both 135. T6 at 136 includes JJ Spaun 70-66, Nacho Elvira 67-69, Ross Fisher 69-67, Rory McIlroy 69-67 and Ryan Fox 68-68.\n\nPA: McIlroy a five-under 67, four shots off the lead. Gerard eagled the 17th from about 20 feet and birdied the 18th in a bogey-free 65. AP: Jon Rahm 78-77, last among the 140 players who completed 36 holes, missed the cut. PA: Tommy Fleetwood missed the cut at three over. EFE: Patrick Reed did not play the weekend after a left-hand injury.\n\nRounds 3 and 4 are 19-20 September. Presidents Cup is 24-27 September at Medinah. Print the 36-hole board. Do not print a winner.",
+  "stakes": "Halfway at the DP World Tour flagship. A 36-hole lead is not a trophy.",
+  "rivalryAngle": "Gerard versus a weekend group that still includes McIlroy, Fox, Rai and Scott.",
+  "home": "Ryan Gerard",
+  "away": "Adam Scott",
+  "group": "PGA",
+  "date": "2026-09-19",
+  "time": "07:00",
+  "venue": "Wentworth Club",
+  "city": "Virginia Water",
+  "status": "UPCOMING",
+  "sport": "golf",
+  "competition": "bmw-pga-2026"
+}

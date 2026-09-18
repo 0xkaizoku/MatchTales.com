@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-16",
+  "asOf": "2026-09-18",
   "premierLeagueTable": [
     { "pos": 1, "team": "Arsenal", "p": 4, "w": 4, "d": 0, "l": 0, "gf": 8, "ga": 1, "gd": 7, "pts": 12 },
     { "pos": 2, "team": "Manchester City", "p": 4, "w": 4, "d": 0, "l": 0, "gf": 8, "ga": 2, "gd": 6, "pts": 12 },
@@ -51,7 +51,7 @@
     { "date": "2026-09-13", "time": "4:00 p.m. ET", "home": "Late window", "away": "Four finals", "note": "Raiders 27-13 Dolphins, Vikings 39-22 Packers, Eagles 24-22 Commanders, Cardinals 26-14 Chargers." },
     { "date": "2026-09-13", "time": "8:20 p.m. ET", "home": "New York Giants", "away": "Dallas Cowboys", "note": "FINAL: Giants 28, Cowboys 20. Dart 3 TDs. Harbaugh debut." },
     { "date": "2026-09-14", "time": "8:15 p.m. ET", "home": "Kansas City Chiefs", "away": "Denver Broncos", "note": "FINAL: Chiefs 31, Broncos 10. Walker 173 yards, two TDs. Mahomes three total TDs." },
-    { "date": "2026-09-17", "time": "8:15 p.m. ET", "home": "Buffalo Bills", "away": "Detroit Lions", "note": "Thursday Night Football. Prime Video. First regular-season game at new Highmark Stadium. Not kicked." }
+    { "date": "2026-09-17", "time": "8:15 p.m. ET", "home": "Buffalo Bills", "away": "Detroit Lions", "note": "FINAL: Bills 41, Lions 31. Allen five total TDs. First regular-season game at new Highmark Stadium." }
   ],
   "usOpenQF": [
     { "draw": "Men", "p1": "Alexander Zverev", "p2": "Ben Shelton", "status": "Zverev 6-3, 7-6 (2), 5-7, 6-2" },

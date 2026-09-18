@@ -2,7 +2,6 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Hero from '../components/Hero.astro';
 import MatchStoryCard from '../components/MatchStoryCard.astro';
-import NewsletterForm from '../components/NewsletterForm.astro';
 import HypeNotes from '../components/HypeNotes.astro';
 import FaqSection from '../components/FaqSection.astro';
 import { getCollection } from 'astro:content';
@@ -213,17 +212,6 @@ const homeSchema = [
       <h2 id="hype-h" class="font-head text-2xl font-semibold tracking-tight">{d.hype.wallTitle}</h2>
       <p class="text-sm text-muted font-sans mt-0.5 mb-5">{d.hype.wallBlurb}</p>
       <HypeNotes />
-    </section>
-
-    <section id="newsletter" class="mt-14 mb-8 scroll-mt-20">
-      <div class="relative overflow-hidden rounded-card border border-border/70 bg-surface shadow-card grain">
-        <div class="absolute inset-0 pointer-events-none" style="background: var(--hero-bg)"></div>
-        <div class="relative p-6 sm:p-10">
-          <h2 class="font-head text-2xl sm:text-3xl font-semibold tracking-tight">{d.newsletter.title}</h2>
-          <p class="mt-2 text-muted font-sans max-w-lg">{d.newsletter.blurb}</p>
-          <div class="mt-5"><NewsletterForm /></div>
-        </div>
-      </div>
     </section>
 
     <FaqSection items={[...d.faqs.home]} />
