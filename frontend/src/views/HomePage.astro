@@ -30,6 +30,8 @@ const tomorrowStr = addDays(todayStr, 1);
 
 const featured =
   matches.find((m) => m.status === 'LIVE') ||
+  matches.find((m) => m.slug === 'brighton-vs-arsenal-mw5') ||
+  matches.find((m) => m.slug === 'bmw-pga-wentworth-2026') ||
   matches.find((m) => m.slug === 'lions-at-bills-tnf-2026') ||
   matches.find((m) => m.status === 'UPCOMING' && m.date >= todayStr) ||
   matches.find((m) => m.slug === 'zverev-vs-shelton-uso-final') ||
@@ -54,7 +56,7 @@ const wcFinal = matches.find((m) => (m.group || '').toUpperCase() === 'FINAL');
 const storyEntries = await getCollection('stories');
 const stories = storyEntries
   .map((e) => {
-    const loc = localizeStory({ ...e.data, relatedSlug: e.data.relatedSlug }, locale, e.data.relatedSlug ? matchBySlug[e.data.relatedSlug] : undefined);
+    const loc = localizeStory({ ...e.data, relatedSlug: e.data.relatedSlug }, locale, e.data.relatedSlug ? matchBySlug[e.data.relatedSlug] : undefined, e.id);
     return { slug: e.id, ...e.data, ...loc, image: contentImage(e.data.image, e.id, 480, 70) };
   })
   .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())

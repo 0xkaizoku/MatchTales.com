@@ -1,0 +1,68 @@
+{
+  "funFacts": [
+    "Leeds are third on 8 from four after beating Newcastle 4-1.",
+    "Palace have 3 points from four. Sunday has not kicked.",
+    "ESPN scoreboard 20 September lists this as not started."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Leeds United",
+      "team": "Leeds United",
+      "hook": "Third, 2-2-0, eight points. Elland Road, Sunday, not kicked."
+    },
+    {
+      "name": "Crystal Palace",
+      "team": "Crystal Palace",
+      "hook": "Xinhua: 4 1 0 3, 6 11, 3 points. No Sunday score."
+    }
+  ],
+  "headToHead": "",
+  "tags": ["premier-league", "leeds", "crystal-palace"],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026/27",
+  "roundLabel": "Matchweek 5",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Xinhua: Premier League standings after Saturday",
+      "url": "https://english.news.cn/20260920/bb2e4f0c330b4bca8b7a263822790030/c.html"
+    },
+    {
+      "name": "ESPN: football scores 20 September 2026",
+      "url": "https://www.espn.co.uk/football/scoreboard/_/date/20260920"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "leeds-vs-crystal-palace-mw5",
+  "headline": "Leeds vs Palace: third on 8, Sunday not kicked",
+  "whyCareScore": 8.2,
+  "whyCareReason": "Leeds are third on eight points from four games. Palace have three. ESPN lists Sunday as not started. Do not invent a score.",
+  "teaser": "Sunday, Elland Road. Leeds 8 from four. Palace 3 from four. Result not printed.",
+  "story": "Why this one matters: Leeds went third on Monday. Saturday did not move them. Palace visit Elland Road on Sunday.\n\nXinhua: Leeds 4 2 2 0, 7 3, 8. Crystal Palace 4 1 0 3, 6 11, 3. ESPN's 20 September board still lists vs.\n\nDo not print a Sunday score.",
+  "stakes": "A win would take Leeds into the Saturday pack on 11. They have not played yet.",
+  "rivalryAngle": "A promoted side sitting third against a Palace team on three points.",
+  "home": "Leeds United",
+  "away": "Crystal Palace",
+  "group": "PL",
+  "date": "2026-09-20",
+  "time": "14:00",
+  "venue": "Elland Road",
+  "city": "Leeds",
+  "status": "UPCOMING",
+  "sport": "soccer",
+  "competition": "premier-league-2026-27"
+}

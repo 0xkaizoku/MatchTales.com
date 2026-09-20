@@ -1,0 +1,91 @@
+{
+  "funFacts": [
+    "Formula1.com: FP1 Thursday 24 September, qualifying Friday, race Saturday 26 September, 51 laps.",
+    "Sky Sports: 2026 Azerbaijan GP is a Saturday race. Qualifying Friday 1 p.m. UK, race Saturday 12 p.m. UK.",
+    "Drivers after Madrid: Antonelli 292, Russell 211, Hamilton 191. Baku has not been raced."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kimi Antonelli",
+      "team": "Mercedes",
+      "hook": "Won the first Madrid Grand Prix. 292 points. Baku is next and has not started."
+    },
+    {
+      "name": "George Russell",
+      "team": "Mercedes",
+      "hook": "211 points, second. The constructors lead is Mercedes 503. No Baku result."
+    }
+  ],
+  "headToHead": "",
+  "tags": ["f1", "baku", "azerbaijan"],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/3608542/pexels-photo-3608542.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Azerbaijan Grand Prix",
+  "resultSummary": "",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Kimi Antonelli",
+      "score": "292",
+      "note": "Mercedes. Madrid winner. Baku not raced."
+    },
+    {
+      "pos": "2",
+      "name": "George Russell",
+      "score": "211",
+      "note": "Mercedes"
+    },
+    {
+      "pos": "3",
+      "name": "Lewis Hamilton",
+      "score": "191",
+      "note": "Ferrari"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Formula1.com: Azerbaijan GP 2026 timetable",
+      "url": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-azerbaijan-grand-prix-2026.EsMvgTyba8dZZ6RynZXv7"
+    },
+    {
+      "name": "Sky Sports: Azerbaijan GP 2026 Saturday race",
+      "url": "https://www.skysports.com/f1/news/12433/13588823/azerbaijan-gp-2026-saturday-race-dates-schedule-baku-weather-uk-start-time-and-how-to-watch-or-stream-f1-live-on-sky-sports"
+    },
+    {
+      "name": "Formula1.com: Azerbaijan GP 2026",
+      "url": "https://www.formula1.com/en/racing/2026/azerbaijan"
+    }
+  ],
+  "format": "race",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "azerbaijan-gp-2026",
+  "headline": "Baku, 24-26 September. Saturday race. Antonelli 292. No result.",
+  "whyCareScore": 8.5,
+  "whyCareReason": "Formula 1 next lands in Baku on a Thursday-Saturday window. Antonelli leads on 292 after Madrid. Sky and Formula1.com list the timetable. Do not invent a winner.",
+  "teaser": "FP1 Thursday 24 September. Qualifying Friday. Grand Prix Saturday 26 September, 51 laps of 6.003 km. Championship: Antonelli 292.",
+  "story": "Why this one matters: Madrid is in the book. Baku is not. Formula1.com lists a Thursday-Saturday weekend at the Baku City Circuit, 6.003 km, 51 laps, 306.049 km.\n\nSky Sports: qualifying Friday 1 p.m. UK, the Grand Prix Saturday 12 p.m. UK. Baku is four hours ahead of UTC on the official timetable. Drivers after Madrid remain Antonelli 292, Russell 211, Hamilton 191, Norris 186, Leclerc 167. Constructors: Mercedes 503, Ferrari 358, McLaren 306.\n\nDo not print a Baku pole, a safety car or a winner. Practice has not started.",
+  "stakes": "A Saturday race on a street circuit, with an 81-point lead that has not been tested in Azerbaijan.",
+  "rivalryAngle": "Mercedes versus the rest, on a track that rewards the long straight and punishes the castle section.",
+  "home": "Kimi Antonelli",
+  "away": "Azerbaijan GP field",
+  "group": "F1",
+  "date": "2026-09-26",
+  "time": "15:00",
+  "venue": "Baku City Circuit",
+  "city": "Baku",
+  "status": "UPCOMING",
+  "sport": "f1",
+  "competition": "f1-2026"
+}

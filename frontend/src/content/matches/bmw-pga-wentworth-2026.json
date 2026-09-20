@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "Official DP World Tour board after 36 holes: Gerard 67-65 = 132.",
-    "Rory McIlroy 69-67 = 136, four shots back.",
-    "AP: Jon Rahm 78-77, last among players who completed 36 holes, missed the cut."
+    "AP 54-hole board: Celli 68-66-69 and Elvira 69-66-68, both 203, 13 under.",
+    "Gerard, the 36-hole leader, shot 75 on Saturday and sits 207, 9 under.",
+    "CBS: McIlroy eagled 18 from 231 yards, 69, 205, two back of the lead."
   ],
   "keyPlayers": [
     {
-      "name": "Ryan Gerard",
-      "team": "USA",
-      "hook": "Solo lead at 12 under. Second round 65. Eagle on 17, birdie on 18."
+      "name": "Filippo Celli",
+      "team": "Italy",
+      "hook": "AP: 68-66-69, 203, 13 under, tied for the 54-hole lead. First DP World Tour win still unclaimed."
     },
     {
-      "name": "Rory McIlroy",
-      "team": "Northern Ireland",
-      "hook": "PA: five-under second round, 136, four behind Gerard. No winner yet."
+      "name": "Manuel Elvira",
+      "team": "Spain",
+      "hook": "AP: 69-66-68, 203, 13 under. FOX and Today's Golfer also print a shared 54-hole lead."
     }
   ],
   "headToHead": "",
@@ -21,7 +21,7 @@
     "golf",
     "bmw-pga",
     "wentworth",
-    "gerard"
+    "celli"
   ],
   "homeCode": null,
   "awayCode": null,
@@ -29,92 +29,98 @@
   "awayFlag": "",
   "matchday": 0,
   "marquee": true,
-  "liveMinute": "36 holes",
+  "liveMinute": "54 holes",
   "image": "https://images.pexels.com/photos/914682/pexels-photo-914682.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
   "decidedBy": null,
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "BMW PGA Championship · 36 holes",
-  "resultSummary": "Gerard 132 (-12) after 36 holes. No winner. Rounds 3 and 4 not played.",
+  "roundLabel": "BMW PGA Championship · 54 holes",
+  "resultSummary": "Celli and Elvira 203 (-13) after 54 holes. No winner. Round 4 is Sunday.",
   "leaderboard": [
     {
-      "pos": "1",
-      "name": "Ryan Gerard",
-      "score": "-12",
-      "note": "67-65, 132"
-    },
-    {
-      "pos": "T2",
-      "name": "Adam Scott",
-      "score": "-10",
-      "note": "67-67, 134"
-    },
-    {
-      "pos": "T2",
+      "pos": "T1",
       "name": "Filippo Celli",
-      "score": "-10",
-      "note": "68-66, 134"
+      "score": "-13",
+      "note": "68-66-69, 203"
     },
     {
-      "pos": "T4",
+      "pos": "T1",
       "name": "Manuel Elvira",
-      "score": "-9",
-      "note": "69-66, 135"
+      "score": "-13",
+      "note": "69-66-68, 203"
     },
     {
-      "pos": "T4",
-      "name": "Aaron Rai",
-      "score": "-9",
-      "note": "66-69, 135"
+      "pos": "T3",
+      "name": "Alejandro Del Rey",
+      "score": "-12",
+      "note": "69-71-64, 204"
+    },
+    {
+      "pos": "T3",
+      "name": "JJ Spaun",
+      "score": "-12",
+      "note": "70-66-68, 204"
+    },
+    {
+      "pos": "T3",
+      "name": "Johannes Veerman",
+      "score": "-12",
+      "note": "68-72-64, 204"
     },
     {
       "pos": "T6",
       "name": "Rory McIlroy",
-      "score": "-8",
-      "note": "69-67, 136"
+      "score": "-11",
+      "note": "69-67-69, 205"
     },
     {
       "pos": "T6",
-      "name": "Ryan Fox",
-      "score": "-8",
-      "note": "68-68, 136"
+      "name": "Adam Scott",
+      "score": "-11",
+      "note": "67-67-71, 205"
+    },
+    {
+      "pos": "T16",
+      "name": "Ryan Gerard",
+      "score": "-9",
+      "note": "67-65-75, 207"
     }
   ],
   "tennisSets": [],
   "sources": [
     {
+      "name": "AP via WTOP: 54-hole BMW PGA scores",
+      "url": "https://wtop.com/sports/2026/09/bmw-pga-championship-scores-3/"
+    },
+    {
+      "name": "CBS: McIlroy eagle, 54-hole picture",
+      "url": "https://www.cbssports.com/golf/news/2026-bmw-pga-championship-leaderboard-rory-mcilroy-round-3/"
+    },
+    {
       "name": "DP World Tour: BMW PGA leaderboard",
       "url": "https://www.europeantour.com/dpworld-tour/bmw-pga-championship-2026/leaderboard"
     },
     {
-      "name": "PA via Irish Examiner: McIlroy four back",
-      "url": "https://www.irishexaminer.com/sport/golf/arid-41913016.html"
-    },
-    {
-      "name": "FOX Sports: 36-hole board",
-      "url": "https://www.foxsports.com/golf/bmw-pga-championship-dp-world-tour-sep-17-2026-leaderboard-4789"
-    },
-    {
-      "name": "AP: Rahm 78-77, missed cut",
-      "url": "https://www.winnipegfreepress.com/sports/golf/2026/09/18/jon-rahm-shoots-78-77-and-in-last-place-at-bmw-pga-championship"
+      "name": "Today's Golfer: round 4 tee times",
+      "url": "https://www.todays-golfer.com/news-and-events/tour-news/2026-bmw-pga-championship-tee-times-wentworth/"
     }
   ],
   "format": "leaderboard",
   "homeScore": null,
   "awayScore": null,
   "slug": "bmw-pga-wentworth-2026",
-  "headline": "Gerard 12 under after 36 holes at Wentworth. No winner. Saturday is still to come.",
-  "whyCareScore": 8.4,
-  "whyCareReason": "The DP World Tour flagship is at halfway. Ryan Gerard leads at 12 under. McIlroy is four back. Rounds 3 and 4 have not been played. Do not invent a champion.",
-  "teaser": "36 holes only. Gerard 132 (-12). Scott and Celli 134. Rai and Manuel Elvira 135. McIlroy and Fox 136. Presidents Cup is still 24-27 September.",
-  "story": "Why this one matters: majors and the FedEx Cup are finished. The European flagship is not. After two rounds at Wentworth, the official DP World Tour board has Ryan Gerard alone at 12 under.\n\nDP World Tour: Gerard 67-65, 132. Adam Scott 67-67 and Filippo Celli 68-66, both 134. Manuel Elvira 69-66 and Aaron Rai 66-69, both 135. T6 at 136 includes JJ Spaun 70-66, Nacho Elvira 67-69, Ross Fisher 69-67, Rory McIlroy 69-67 and Ryan Fox 68-68.\n\nPA: McIlroy a five-under 67, four shots off the lead. Gerard eagled the 17th from about 20 feet and birdied the 18th in a bogey-free 65. AP: Jon Rahm 78-77, last among the 140 players who completed 36 holes, missed the cut. PA: Tommy Fleetwood missed the cut at three over. EFE: Patrick Reed did not play the weekend after a left-hand injury.\n\nRounds 3 and 4 are 19-20 September. Presidents Cup is 24-27 September at Medinah. Print the 36-hole board. Do not print a winner.",
-  "stakes": "Halfway at the DP World Tour flagship. A 36-hole lead is not a trophy.",
-  "rivalryAngle": "Gerard versus a weekend group that still includes McIlroy, Fox, Rai and Scott.",
-  "home": "Ryan Gerard",
-  "away": "Adam Scott",
+  "headline": "Celli and Elvira 13 under after 54 holes. Sunday has no champion yet.",
+  "whyCareScore": 8.8,
+  "whyCareReason": "The DP World Tour flagship is one round from a winner and does not have one. AP: Celli and Elvira share 203, 13 under. Gerard shot 75. Round 4 is Sunday.",
+  "teaser": "54 holes only. Celli 203, Elvira 203. Del Rey, Spaun, Veerman 204. McIlroy 205. Gerard 207. No winner.",
+  "story": "Why this one matters: majors and the FedEx Cup are finished. The European flagship is not. After three rounds at Wentworth, the AP board has two names at 13 under and no trophy.\n\nAP: Filippo Celli 68-66-69 and Manuel Elvira 69-66-68, both 203. Alejandro Del Rey 69-71-64, JJ Spaun 70-66-68 and Johannes Veerman 68-72-64, all 204. Rory McIlroy 69-67-69, Adam Scott 67-67-71, Joaquin Niemann 71-67-67, Kristoffer Reitan 71-70-64 and Davis Bryant 68-70-67, all 205. Ryan Gerard, the 36-hole leader, 67-65-75, 207.\n\nCBS: Gerard five bogeys in his first 14 Saturday holes, two late birdies, 9 under. McIlroy a kick-in eagle on 18 after a dart from 231 yards. FOX and Today's Golfer print Celli and Elvira as 54-hole co-leaders. Round 4 is 20 September. Presidents Cup is still 24-27 September at Medinah. Print the 54-hole board. Do not print a winner.",
+  "stakes": "One round left at the DP World Tour flagship. A 54-hole lead is not a trophy.",
+  "rivalryAngle": "Celli and Elvira versus a Sunday group that still includes McIlroy, Spaun, Scott and a fading Gerard.",
+  "home": "Filippo Celli",
+  "away": "Manuel Elvira",
   "group": "PGA",
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "time": "07:00",
   "venue": "Wentworth Club",
   "city": "Virginia Water",

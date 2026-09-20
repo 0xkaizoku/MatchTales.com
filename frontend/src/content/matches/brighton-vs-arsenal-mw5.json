@@ -1,0 +1,80 @@
+{
+  "funFacts": [
+    "Brighton.com: Groß 31', Kostoulas 45', Chema Andrés 57'.",
+    "Sky: first league points Arsenal have dropped this season.",
+    "Xinhua table after Saturday: Brighton 10 points, third. Arsenal 12 from five games."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Pascal Groß",
+      "team": "Brighton",
+      "hook": "Brighton.com: opened from the edge of the box, 31'. Opta: six Premier League goal involvements this season."
+    },
+    {
+      "name": "Chema Andrés",
+      "team": "Brighton",
+      "hook": "Sky and The Athletic: headed Gross's corner for a first Brighton goal on a first Premier League start."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "premier-league",
+    "brighton",
+    "arsenal"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026/27",
+  "roundLabel": "Matchweek 5",
+  "resultSummary": "Brighton 3-0 Arsenal",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Brighton: Albion 3 Arsenal 0",
+      "url": "https://www.brightonandhovealbion.com/match-centre?gameId=2645237"
+    },
+    {
+      "name": "Sky Sports: Brighton 3-0 Arsenal",
+      "url": "https://www.skysports.com/football/news/11661/13586062/brighton-3-0-arsenal-mikel-artetas-side-lose-for-first-time-this-season-as-impressive-hosts-thrash-defending-champions"
+    },
+    {
+      "name": "The Athletic: Brighton 3 Arsenal 0",
+      "url": "https://www.nytimes.com/athletic/7597252/2026/09/19/arsenal-brighton-premier-league-result/"
+    },
+    {
+      "name": "Xinhua: Premier League standings after Saturday",
+      "url": "https://english.news.cn/20260920/bb2e4f0c330b4bca8b7a263822790030/c.html"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 3,
+  "awayScore": 0,
+  "slug": "brighton-vs-arsenal-mw5",
+  "headline": "Brighton 3-0 Arsenal: champions lose their first league game",
+  "whyCareScore": 9.6,
+  "whyCareReason": "The Premier League champions were beaten 3-0 at the Amex. Brighton are third on 10. City still have 12 from four games. Sunday has not kicked.",
+  "teaser": "FINAL: Brighton 3-0 Arsenal. Brighton.com: Groß 31', Kostoulas 45', Chema Andrés 57'. Arsenal 4-0-1, 12 points from five.",
+  "story": "Why this one matters: Arsenal arrived 4-0-0. Brighton are the league's top scorers. The Amex finished 3-0, and the champions have a first league defeat.\n\nBrighton.com: Pascal Groß 31', Charalampos Kostoulas 45', Chema Andrés 57'. Sky, The Athletic, The Guardian and ESPN print the same 3-0. Groß and Kostoulas from range. Andrés headed Gross's corner. Sky: the scoreline flattered Arsenal. Opta: Brighton's 16 league goals lead the division.\n\nXinhua after Saturday: Manchester City 12 from four, Arsenal 12 from five, Brighton 10. Sunday is still open: Leeds vs Palace, City vs Sunderland, Bournemouth vs Liverpool, Fulham vs United. Do not invent a Sunday score.",
+  "stakes": "Matchweek 5 is half-closed. The champions have dropped points. City still have a game in hand.",
+  "rivalryAngle": "A south-coast side that already beat Arsenal 3-0 in May 2023 did it again, this time at the Amex.",
+  "home": "Brighton",
+  "away": "Arsenal",
+  "group": "PL",
+  "date": "2026-09-19",
+  "time": "17:30",
+  "venue": "American Express Stadium",
+  "city": "Falmer",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "premier-league-2026-27"
+}

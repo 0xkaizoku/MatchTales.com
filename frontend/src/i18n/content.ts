@@ -2,6 +2,7 @@ import type { Locale } from './locales';
 import { fill, LOCALE_META } from './locales';
 import { competitionName, entityName } from './names';
 import { dict } from './index';
+import { STORY_I18N } from './stories';
 
 function scoreLine(m: {
   homeScore?: number | string | null;
@@ -216,7 +217,8 @@ export function localizeMatch(m: any, locale: Locale): any {
 export function localizeStory(
   s: { title: string; subtitle?: string; excerpt: string; category: string; relatedSlug?: string; sport?: string },
   locale: Locale,
-  related?: any
+  related?: any,
+  slug?: string
 ): { title: string; subtitle: string; excerpt: string; category: string; body: string[] } {
   const d = dict(locale);
   const cat = (d.category as Record<string, string>)[s.category] || s.category;
@@ -227,6 +229,16 @@ export function localizeStory(
       excerpt: s.excerpt,
       category: cat,
       body: [],
+    };
+  }
+  const hit = slug && locale !== 'en' ? STORY_I18N[slug]?.[locale] : undefined;
+  if (hit) {
+    return {
+      title: hit.title,
+      subtitle: hit.subtitle,
+      excerpt: hit.excerpt,
+      category: cat,
+      body: hit.body,
     };
   }
   const n = d.narrative;

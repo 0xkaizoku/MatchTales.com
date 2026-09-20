@@ -3,7 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { contentImage, imgOnError, SITE } from '../lib/site';
 import { dict, localeFromPath, localePath, categoryLabel, sportCopy, fill } from '../i18n';
-import { fmtDateI18n } from '../i18n/content';
+import { fmtDateI18n, localizeStory } from '../i18n/content';
 import type { Locale } from '../i18n';
 
 const locale = (Astro.locals?.locale || localeFromPath(Astro.url.pathname)) as Locale;
@@ -11,7 +11,10 @@ const d = dict(locale);
 const lp = (p: string) => localePath(locale, p);
 const entries = await getCollection('stories');
 const stories = entries
-  .map((e) => ({ slug: e.id, ...e.data, image: contentImage(e.data.image, e.id, 720, 72) }))
+  .map((e) => {
+    const loc = localizeStory(e.data, locale, undefined, e.id);
+    return { slug: e.id, ...e.data, ...loc, image: contentImage(e.data.image, e.id, 720, 72) };
+  })
   .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
 
 const longForm = stories.filter((s) => s.category !== 'Match Report');

@@ -111,8 +111,8 @@ const schema = {
               </div>
               <div class="p-4">
                 <span class="text-[11px] font-sans font-medium uppercase tracking-wide" style={`color:hsl(${meta.hue})`}>{categoryLabel(locale, s.category)}</span>
-                <h3 class="mt-1 font-head font-semibold leading-snug group-hover:underline decoration-2 underline-offset-4">{localizeStory(s, locale).title}</h3>
-                <p class="mt-1.5 text-sm text-muted font-sans line-clamp-2">{localizeStory(s, locale).excerpt}</p>
+                <h3 class="mt-1 font-head font-semibold leading-snug group-hover:underline decoration-2 underline-offset-4">{localizeStory(s, locale, undefined, s.slug).title}</h3>
+                <p class="mt-1.5 text-sm text-muted font-sans line-clamp-2">{localizeStory(s, locale, undefined, s.slug).excerpt}</p>
               </div>
             </a>
           ))}

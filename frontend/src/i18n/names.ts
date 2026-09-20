@@ -116,6 +116,11 @@ const TEAMS: Record<string, Partial<Record<Locale, string>>> = {
   Giants: { fr: 'Giants', es: 'Giants', de: 'Giants', it: 'Giants', pl: 'Giants', zh: '巨人', ja: 'ジャイアンツ', ko: '자이언츠', ar: 'جاينتس' },
   'Dallas Cowboys': { fr: 'Dallas Cowboys', es: 'Dallas Cowboys', de: 'Dallas Cowboys', it: 'Dallas Cowboys', pl: 'Dallas Cowboys', zh: '达拉斯牛仔', ja: 'ダラス・カウボーイズ', ko: '댈러스 카우보이스', ar: 'دالاس كاوبويز' },
   Cowboys: { fr: 'Cowboys', es: 'Cowboys', de: 'Cowboys', it: 'Cowboys', pl: 'Cowboys', zh: '牛仔', ja: 'カウボーイズ', ko: '카우보이스', ar: 'كاوبويز' },
+  'Indianapolis Colts': { fr: 'Indianapolis Colts', es: 'Indianapolis Colts', de: 'Indianapolis Colts', it: 'Indianapolis Colts', pl: 'Indianapolis Colts', zh: '印第安纳波利斯小马', ja: 'インディアナポリス・コルツ', ko: '인디애나폴리스 콜츠', ar: 'إنديانابوليس كولتس' },
+  Colts: { fr: 'Colts', es: 'Colts', de: 'Colts', it: 'Colts', pl: 'Colts', zh: '小马', ja: 'コルツ', ko: '콜츠', ar: 'كولتس' },
+  'Team Europe': { fr: 'Équipe Europe', es: 'Equipo Europa', de: 'Team Europa', it: 'Team Europa', pl: 'Drużyna Europy', zh: '欧洲队', ja: 'チーム・ヨーロッパ', ko: '팀 유럽', ar: 'فريق أوروبا' },
+  'Team World': { fr: 'Équipe Monde', es: 'Equipo Mundo', de: 'Team Welt', it: 'Team Resto del Mondo', pl: 'Drużyna Świata', zh: '世界队', ja: 'チーム・ワールド', ko: '팀 월드', ar: 'فريق العالم' },
+  'Azerbaijan GP field': { fr: 'plateau du GP d’Azerbaïdjan', es: 'parrilla del GP de Azerbaiyán', de: 'Aserbaidschan-GP-Feld', it: 'schieramento GP Azerbaijan', pl: 'stawka GP Azerbejdżanu', zh: '阿塞拜疆大奖赛车手', ja: 'アゼルバイジャンGPグリッド', ko: '아제르바이잔 GP 그리드', ar: 'شبكة جائزة أذربيجان' },
 };
 
 const PLACES: Record<string, Partial<Record<Locale, string>>> = {
@@ -137,6 +142,21 @@ const PLACES: Record<string, Partial<Record<Locale, string>>> = {
   Wentworth: { zh: '温特沃斯', ja: 'ウェントワース', ko: '웬트워스', ar: 'وينتوورث' },
   'Virginia Water': { zh: '弗吉尼亚沃特', ja: 'バージニア・ウォーター', ko: '버지니아 워터', ar: 'فرجينيا ووتر' },
   'Orchard Park': { zh: '奥查德帕克', ja: 'オーチャードパーク', ko: '오차드 파크', ar: 'أورشارد بارك' },
+  Falmer: { zh: '法尔默', ja: 'ファルマー', ko: '팔머', ar: 'فالمر' },
+  Minneapolis: { fr: 'Minneapolis', es: 'Minneapolis', de: 'Minneapolis', it: 'Minneapolis', pl: 'Minneapolis', zh: '明尼阿波利斯', ja: 'ミネアポリス', ko: '미니애폴리스', ar: 'مينيابوليس' },
+  Indianapolis: { zh: '印第安纳波利斯', ja: 'インディアナポリス', ko: '인디애나폴리스', ar: 'إنديانابوليس' },
+  Azerbaijan: { fr: 'Azerbaïdjan', es: 'Azerbaiyán', de: 'Aserbaidschan', it: 'Azerbaigian', pl: 'Azerbejdżan', zh: '阿塞拜疆', ja: 'アゼルバイジャン', ko: '아제르바이잔', ar: 'أذربيجان' },
+  'The O2 Arena': { fr: 'The O2 Arena', es: 'The O2 Arena', de: 'The O2 Arena', it: 'The O2 Arena', pl: 'The O2 Arena', zh: 'O2体育馆', ja: 'O2アリーナ', ko: 'O2 아레나', ar: 'أرينا O2' },
+  'Baku City Circuit': { fr: 'Circuit urbain de Bakou', es: 'Circuito urbano de Bakú', de: 'Baku City Circuit', it: 'Baku City Circuit', pl: 'Baku City Circuit', zh: '巴库街道赛道', ja: 'バクー・シティ・サーキット', ko: '바쿠 시티 서킷', ar: 'حلبة مدينة باكو' },
+  'American Express Stadium': { zh: '美国运通球场', ja: 'アメリカン・エキスプレス・スタジアム', ko: '아메리칸 익스프레스 스타디움', ar: 'ملعب أمريكان إكسبريس' },
+  'Target Center': { zh: '标靶中心', ja: 'ターゲット・センター', ko: '타깃 센터', ar: 'تارغت سنتر' },
+  'GEHA Field at Arrowhead Stadium': { zh: '箭头体育场', ja: 'アローヘッド・スタジアム', ko: '애로헤드 스타디움', ar: 'ملعب أروهيد' },
+  'Vitality Stadium': { zh: '活力球场', ja: 'バイタリティ・スタジアム', ko: '바이탈리티 스타디움', ar: 'ملعب فايتالتي' },
+  'Craven Cottage': { zh: '克拉文农场球场', ja: 'クレイブン・コテージ', ko: '크레이븐 코티지', ar: 'كرافن كوتيج' },
+  'Etihad Stadium': { zh: '伊蒂哈德球场', ja: 'エティハド・スタジアム', ko: '에티하드 스타디움', ar: 'ملعب الاتحاد' },
+  Manchester: { fr: 'Manchester', es: 'Mánchester', de: 'Manchester', it: 'Manchester', pl: 'Manchester', zh: '曼彻斯特', ja: 'マンチェスター', ko: '맨체스터', ar: 'مانشستر' },
+  Bournemouth: { zh: '伯恩茅斯', ja: 'ボーンマス', ko: '본머스', ar: 'بورنموث' },
+  Leeds: { fr: 'Leeds', es: 'Leeds', de: 'Leeds', it: 'Leeds', pl: 'Leeds', zh: '利兹', ja: 'リーズ', ko: '리즈', ar: 'ليدز' },
   Medinah: { zh: '麦迪纳', ja: 'メディナ', ko: '메디나', ar: 'مدينا' },
   'East Lake': { zh: '东湖', ja: 'イーストレイク', ko: '이스트레이크', ar: 'إيست ليك' },
   'Royal Birkdale': { zh: '皇家伯克戴尔', ja: 'ロイヤル・バークデール', ko: '로열 버크데일', ar: 'رويال بيركديل' },
@@ -194,6 +214,39 @@ const COMPETITIONS: Record<string, Partial<Record<Locale, string>>> = {
     ko: 'BMW PGA 챔피언십',
     ar: 'بطولة BMW PGA',
   },
+  'laver-cup-2026': {
+    fr: 'Laver Cup 2026',
+    es: 'Laver Cup 2026',
+    de: 'Laver Cup 2026',
+    it: 'Laver Cup 2026',
+    pl: 'Laver Cup 2026',
+    zh: '2026拉沃尔杯',
+    ja: 'レーバーカップ2026',
+    ko: '2026 레이버컵',
+    ar: 'كأس لافر 2026',
+  },
+  'f1-2026': {
+    fr: 'Formule 1 2026',
+    es: 'Fórmula 1 2026',
+    de: 'Formel 1 2026',
+    it: 'Formula 1 2026',
+    pl: 'Formuła 1 2026',
+    zh: '2026年F1',
+    ja: 'F1 2026',
+    ko: 'F1 2026',
+    ar: 'فورمولا 1 2026',
+  },
+  'wnba-2026': {
+    fr: 'WNBA 2026',
+    es: 'WNBA 2026',
+    de: 'WNBA 2026',
+    it: 'WNBA 2026',
+    pl: 'WNBA 2026',
+    zh: '2026年WNBA',
+    ja: 'WNBA 2026',
+    ko: 'WNBA 2026',
+    ar: 'WNBA 2026',
+  },
 };
 
 export function entityName(name: string | null | undefined, locale: Locale): string {
@@ -210,6 +263,9 @@ export function competitionName(competition: string | null | undefined, locale: 
     if (competition.startsWith('premier-league')) return 'Premier League';
     if (competition === 'nfl-2026') return 'NFL';
     if (competition === 'bmw-pga-2026') return 'BMW PGA Championship';
+    if (competition === 'laver-cup-2026') return 'Laver Cup';
+    if (competition === 'f1-2026') return 'Formula 1';
+    if (competition === 'wnba-2026') return 'WNBA';
     return competition;
   }
   const key = competition.startsWith('premier-league') ? 'premier-league' : competition;

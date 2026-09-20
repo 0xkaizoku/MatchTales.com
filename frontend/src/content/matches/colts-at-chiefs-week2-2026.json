@@ -1,0 +1,72 @@
+{
+  "funFacts": [
+    "CBS: Colts at Chiefs, 8:20 p.m. ET, NBC, Arrowhead.",
+    "The only completed Week 2 game is Bills 41-31 Lions on Thursday.",
+    "Monday Night is Giants at Rams, 21 September, not kicked."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kansas City Chiefs",
+      "team": "Chiefs",
+      "hook": "Week 1: Chiefs 31, Broncos 10. Sunday Night host. No Week 2 score."
+    },
+    {
+      "name": "Indianapolis Colts",
+      "team": "Colts",
+      "hook": "CBS and NFL schedules list them at Kansas City on 20 September. Not kicked."
+    }
+  ],
+  "headToHead": "",
+  "tags": ["nfl", "chiefs", "colts", "snf"],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/257013/pexels-photo-257013.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Week 2 · SNF",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "CBS Sports: NFL Week 2 schedule",
+      "url": "https://www.cbssports.com/nfl/schedule/"
+    },
+    {
+      "name": "FOX Sports: NFL Week 2 slate",
+      "url": "https://www.foxsports.com/nfl/schedule"
+    },
+    {
+      "name": "ESPN recap: Bills 41-31 Lions",
+      "url": "https://www.espn.com/nfl/recap?gameId=401872932"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "colts-at-chiefs-week2-2026",
+  "headline": "Colts at Chiefs: Sunday Night is listed. It has not been played.",
+  "whyCareScore": 8.4,
+  "whyCareReason": "Week 2 has one final: Bills 41-31. CBS lists Indianapolis at Kansas City for 8:20 p.m. ET on NBC. Do not invent a Sunday score.",
+  "teaser": "Sunday Night, Arrowhead. CBS and FOX print the kickoff, not a result. Bills 41-31 is still the only Week 2 final.",
+  "story": "Why this one matters: Thursday opened Week 2 in Buffalo. Sunday Night is supposed to close the window in Kansas City. The window is still open.\n\nCBS, FOX and the Tennessean all list Colts at Chiefs, 8:20 p.m. ET, NBC, GEHA Field at Arrowhead Stadium. The same boards still list every other Sunday game as a time, not a final. The only printed Week 2 score remains Bills 41, Lions 31.\n\nDo not print a Colts-Chiefs score. The game has not been played. Monday Night, Giants at Rams on 21 September, is the same: listed, not kicked.",
+  "stakes": "A Sunday Night date in Kansas City is not a result. Week 2 is still open.",
+  "rivalryAngle": "AFC hosts, AFC visitors, a listed kickoff instead of a box score.",
+  "home": "Kansas City Chiefs",
+  "away": "Indianapolis Colts",
+  "group": "NFL",
+  "date": "2026-09-20",
+  "time": "20:20",
+  "venue": "GEHA Field at Arrowhead Stadium",
+  "city": "Kansas City",
+  "status": "UPCOMING",
+  "sport": "football",
+  "competition": "nfl-2026"
+}

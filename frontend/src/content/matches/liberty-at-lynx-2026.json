@@ -1,0 +1,76 @@
+{
+  "funFacts": [
+    "AP: Stewart 24 points, 10 rebounds. Jones 18 and 10. Ionescu 17.",
+    "Lynx 31-10, still the one-seed. Liberty 25-16, moved to sixth in the AP wrap, seventh on the 20 September Wikipedia qualifying table.",
+    "Playoffs begin 27 September. Sunday regular-season games have not tipped."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Breanna Stewart",
+      "team": "New York Liberty",
+      "hook": "AP: 24 points, 10 rebounds, four assists, three steals. Passed Sue Bird for ninth on the WNBA career scoring list at 6,806."
+    },
+    {
+      "name": "Olivia Miles",
+      "team": "Minnesota Lynx",
+      "hook": "AP: 20 points, led Minnesota. Lynx have dropped three straight for the first time this season."
+    }
+  ],
+  "headToHead": "",
+  "tags": ["wnba", "liberty", "lynx"],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/358042/pexels-photo-358042.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Regular season",
+  "resultSummary": "Liberty 93-81 Lynx",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "AP via NBC Sports: Liberty 93-81 Lynx",
+      "url": "https://www.nbcsports.com/wnba/news/the-liberty-beat-the-lynx-93-81-as-breanna-stewart-posts-24-points-and-10-rebounds"
+    },
+    {
+      "name": "AP via Winnipeg Free Press: Liberty 93-81 Lynx",
+      "url": "https://www.winnipegfreepress.com/sports/basketball/2026/09/18/the-liberty-beat-the-lynx-93-81-as-breanna-stewart-posts-24-points-and-10-rebounds"
+    },
+    {
+      "name": "Wikipedia: 2026 WNBA playoffs",
+      "url": "https://en.wikipedia.org/wiki/2026_WNBA_playoffs"
+    },
+    {
+      "name": "WNBA.com schedule",
+      "url": "https://www.wnba.com/schedule"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 81,
+  "awayScore": 93,
+  "slug": "liberty-at-lynx-2026",
+  "headline": "Liberty 93-81 Lynx: Stewart 24 and 10, Minnesota still the one-seed",
+  "whyCareScore": 8.7,
+  "whyCareReason": "AP: New York beat Minnesota 93-81 on 18 September. The Lynx are 31-10 and still the one-seed. Playoffs begin 27 September. Sunday games have not tipped.",
+  "teaser": "FINAL: Liberty 93, Lynx 81. AP: Stewart 24 and 10. Miles 20. Lynx three-game slide. Playoffs 27 September.",
+  "story": "Why this one matters: September basketball is the WNBA. Minnesota had the one-seed. New York walked into Target Center and printed 93-81.\n\nAP: Breanna Stewart 24 points, 10 rebounds. Jonquel Jones 18 and 10. Sabrina Ionescu 17. Pauline Astier 14. Marine Johannes 13. Olivia Miles 20 for Minnesota. Kayla McBride 16, Napheesa Collier 14, Courtney Williams 12, Natasha Williams 11. Miles a three-point play for 69-67 with 8:18 left. Stewart a 3 on the next possession. New York 23-12 the rest of the way.\n\nAP: Lynx 31-10, still the one-seed, three straight losses for the first time this season. Liberty 25-16. Wikipedia qualifying table on 20 September: Lynx 31-10, Valkyries 31-11, Aces 28-13, Dream 28-14, Fever 27-14, Wings 26-16, Liberty 25-16, Mystics 25-16. WNBA.com: playoffs 27 September. Sunday regular-season games have not tipped. Do not invent a 2026 champion.",
+  "stakes": "A possible first-round preview, with the one-seed still Minnesota and the trophy still unclaimed.",
+  "rivalryAngle": "Liberty versus Lynx, a Finals hangover from 2024, printed again in September 2026.",
+  "home": "Minnesota Lynx",
+  "away": "New York Liberty",
+  "group": "WNBA",
+  "date": "2026-09-18",
+  "time": "20:00",
+  "venue": "Target Center",
+  "city": "Minneapolis",
+  "status": "FINISHED",
+  "sport": "basketball",
+  "competition": "wnba-2026"
+}

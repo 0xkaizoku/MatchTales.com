@@ -1,0 +1,72 @@
+{
+  "funFacts": [
+    "Sky Sports: Laver Cup 25-27 September at The O2, London.",
+    "Wikipedia: Shelton withdrew 17 September, replaced by Brandon Nakashima. Paul replaced by Francisco Cerúndolo.",
+    "First team to 13 points wins. Friday matches are worth one point, Saturday two, Sunday three."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Alexander Zverev",
+      "team": "Team Europe",
+      "hook": "US Open champion. Sky: Team Europe with Alcaraz, Cobolli, Jodar, Mensik, Ruud."
+    },
+    {
+      "name": "Brandon Nakashima",
+      "team": "Team World",
+      "hook": "Wikipedia: replaced Ben Shelton on 17 September. Team World also lists de Minaur, Fritz, Tien, Bublik, Cerúndolo."
+    }
+  ],
+  "headToHead": "",
+  "tags": ["tennis", "laver-cup", "london"],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Laver Cup · London",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Sky Sports: Laver Cup 2026 guide",
+      "url": "https://www.skysports.com/tennis/news/12110/13588657/laver-cup-2026-schedule-dates-format-players-and-how-to-watch-or-stream-team-europe-vs-team-world-at-londons-o2-on-sky-sports"
+    },
+    {
+      "name": "Wikipedia: 2026 Laver Cup",
+      "url": "https://en.wikipedia.org/wiki/2026_Laver_Cup"
+    },
+    {
+      "name": "Laver Cup: schedule",
+      "url": "https://lavercup.com/schedule"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "laver-cup-2026",
+  "headline": "Laver Cup, London, 25-27 September. No result. The US Open already has names.",
+  "whyCareScore": 8.1,
+  "whyCareReason": "The US Open is closed. Zverev and Rybakina are the names. The next printed tennis date is Laver Cup at The O2. Sky and Wikipedia list the teams. Do not invent a winner.",
+  "teaser": "Team Europe vs Team World, The O2, 25-27 September. First to 13 points. Matches have not been played.",
+  "story": "Why this one matters: Flushing Meadows is finished. London is next. Sky Sports will show Laver Cup from Friday 25 September to Sunday 27 September at The O2.\n\nWikipedia, rankings as of 14 September: Team Europe is Alexander Zverev, Carlos Alcaraz, Flavio Cobolli, Rafael Jódar, Jakub Menšík, Casper Ruud. Team World is Brandon Nakashima, Alex de Minaur, Taylor Fritz, Learner Tien, Alexander Bublik, Francisco Cerúndolo. Shelton withdrew 17 September. Tommy Paul withdrew 12 September.\n\nFormat: Friday wins one point, Saturday two, Sunday three. First to 13. Captains Yannick Noah and Andre Agassi. Do not print a 2026 Laver Cup champion. The matches have not been played.",
+  "stakes": "The first team tennis date after the US Open. A listed roster is not a trophy.",
+  "rivalryAngle": "Europe against the rest of the world, in a building that already hosted this event in 2022.",
+  "home": "Team Europe",
+  "away": "Team World",
+  "group": "GS",
+  "date": "2026-09-25",
+  "time": "13:00",
+  "venue": "The O2 Arena",
+  "city": "London",
+  "status": "UPCOMING",
+  "sport": "tennis",
+  "competition": "laver-cup-2026"
+}

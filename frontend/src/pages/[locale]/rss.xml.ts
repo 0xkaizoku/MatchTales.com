@@ -26,7 +26,7 @@ export const GET: APIRoute = async ({ params }) => {
   const stories = await getCollection('stories');
   const items = stories
     .map((s) => {
-      const loc = localizeStory(s.data, locale);
+      const loc = localizeStory(s.data, locale, undefined, s.id);
       return { id: s.id, ...s.data, title: loc.title, excerpt: loc.excerpt };
     })
     .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())

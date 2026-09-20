@@ -1,0 +1,68 @@
+{
+  "funFacts": [
+    "United 4 points from four. Fulham 1 from four.",
+    "Xinhua lists both as still on four games after Saturday.",
+    "AS.com timed this 17:30 CET. ESPN lists it as not started."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Manchester United",
+      "team": "Manchester United",
+      "hook": "1-1-2, four points. Sunday at Craven Cottage has not kicked."
+    },
+    {
+      "name": "Fulham",
+      "team": "Fulham",
+      "hook": "0-1-3, one point, 20th in the Xinhua table. No Sunday score."
+    }
+  ],
+  "headToHead": "",
+  "tags": ["premier-league", "fulham", "manchester-united"],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1884576/pexels-photo-1884576.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026/27",
+  "roundLabel": "Matchweek 5",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Xinhua: Premier League standings after Saturday",
+      "url": "https://english.news.cn/20260920/bb2e4f0c330b4bca8b7a263822790030/c.html"
+    },
+    {
+      "name": "ESPN: football scores 20 September 2026",
+      "url": "https://www.espn.co.uk/football/scoreboard/_/date/20260920"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "fulham-vs-manchester-united-mw5",
+  "headline": "Fulham vs United: one point against four. Sunday not kicked",
+  "whyCareScore": 8.0,
+  "whyCareReason": "Fulham have one point. United have four. ESPN lists Sunday as not started. Do not invent a score.",
+  "teaser": "Sunday, Craven Cottage. Fulham 1 from four. United 4 from four. Result not printed.",
+  "story": "Why this one matters: both clubs are in the bottom half after four. Saturday did not involve them. Craven Cottage is Sunday's late kick-off.\n\nXinhua: Man Utd 4 1 1 2, 7 7, 4. Fulham 4 0 1 3, 4 7, 1. ESPN's 20 September board still lists vs.\n\nDo not print a Sunday score.",
+  "stakes": "Three points would lift United off four. They have not played yet.",
+  "rivalryAngle": "A London side with one point against a United side still looking for a second league win.",
+  "home": "Fulham",
+  "away": "Manchester United",
+  "group": "PL",
+  "date": "2026-09-20",
+  "time": "16:30",
+  "venue": "Craven Cottage",
+  "city": "London",
+  "status": "UPCOMING",
+  "sport": "soccer",
+  "competition": "premier-league-2026-27"
+}

@@ -14,7 +14,7 @@ const lp = (p: string) => localePath(locale, p);
 const { entry } = Astro.props;
 const matches = await getCollection('matches');
 const relatedMatch = entry.data.relatedSlug ? matches.find((m) => m.data.slug === entry.data.relatedSlug)?.data : undefined;
-const loc = localizeStory(entry.data, locale, relatedMatch);
+const loc = localizeStory(entry.data, locale, relatedMatch, entry.id);
 const { Content } = locale === 'en' ? await render(entry) : { Content: null };
 const s = entry.data;
 const pub = s.pubDate.toISOString();
