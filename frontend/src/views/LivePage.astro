@@ -17,8 +17,8 @@ const upcomingAll = matches
   .sort((a, b) => a.date.localeCompare(b.date) || b.whyCareScore - a.whyCareScore);
 const liveMatch =
   matches.find((m) => m.status === 'LIVE') ||
+  matches.find((m) => m.slug === 'manchester-city-vs-sunderland-mw5') ||
   matches.find((m) => m.slug === 'bmw-pga-wentworth-2026') ||
-  matches.find((m) => m.slug === 'brighton-vs-arsenal-mw5') ||
   matches.find((m) => m.slug === 'lions-at-bills-tnf-2026') ||
   upcomingAll[0] ||
   matches.filter((m) => m.status === 'FINISHED').sort((a, b) => b.date.localeCompare(a.date))[0] ||

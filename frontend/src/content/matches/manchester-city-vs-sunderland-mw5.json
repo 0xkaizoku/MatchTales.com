@@ -1,23 +1,27 @@
 {
   "funFacts": [
-    "Xinhua: City 4 4 0 0, 8 2, 12 points after four games.",
-    "Sunderland have four points from four. Sunday has not kicked.",
-    "ESPN scoreboard 20 September lists this as not started."
+    "ESPN UK: Fernandez 9', Cherki 29', Semenyo 43' and 57', Haaland 81'.",
+    "ESPN UK: Brobbey 12', 33', 59'. Hat-trick in a 5-3 loss.",
+    "ESPN UK table: City 5 5 0 0, 13 5, 15 points. Five from five."
   ],
   "keyPlayers": [
     {
-      "name": "Manchester City",
+      "name": "Antoine Semenyo",
       "team": "Manchester City",
-      "hook": "Only remaining 4-0-0 side after Arsenal lost at Brighton."
+      "hook": "ESPN UK: two goals, 43' and 57'. City's fourth and the 4-3 cushion."
     },
     {
-      "name": "Sunderland",
+      "name": "Brian Brobbey",
       "team": "Sunderland",
-      "hook": "Four points, 14th in the Xinhua table. No Sunday score to print."
+      "hook": "ESPN UK and AFP: hat-trick, 12', 33', 59'. Sunderland still lost 5-3."
     }
   ],
   "headToHead": "",
-  "tags": ["premier-league", "manchester-city", "sunderland"],
+  "tags": [
+    "premier-league",
+    "manchester-city",
+    "sunderland"
+  ],
   "homeCode": null,
   "awayCode": null,
   "homeFlag": "",
@@ -31,30 +35,38 @@
   "awayPen": null,
   "season": "2026/27",
   "roundLabel": "Matchweek 5",
-  "resultSummary": "",
+  "resultSummary": "Manchester City 5-3 Sunderland",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "Xinhua: Premier League standings after Saturday",
-      "url": "https://english.news.cn/20260920/bb2e4f0c330b4bca8b7a263822790030/c.html"
+      "name": "ESPN UK: scores 20 September 2026",
+      "url": "https://www.espn.co.uk/football/scoreboard/_/league/eng.1/date/20260920"
     },
     {
-      "name": "ESPN: football scores 20 September 2026",
-      "url": "https://www.espn.co.uk/football/scoreboard/_/date/20260920"
+      "name": "ESPN UK: Premier League table",
+      "url": "https://www.espn.co.uk/football/table/_/league/eng.1"
+    },
+    {
+      "name": "AFP via IOL: City 5-3, Brobbey hat-trick",
+      "url": "https://iol.co.za/sport/soccer/premier-league/2026-09-20-manchester-city-outgun-sunderland-despite-brobbey-hat-trick-liverpool-win-at-bournemouth/"
+    },
+    {
+      "name": "AFP via NAMPA: Sunday results",
+      "url": "https://www.nampa.org/text/23020353"
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 5,
+  "awayScore": 3,
   "slug": "manchester-city-vs-sunderland-mw5",
-  "headline": "City vs Sunderland: still 4-0-0, still a game in hand. Not kicked.",
-  "whyCareScore": 8.8,
-  "whyCareReason": "Arsenal lost at Brighton. City are the last unbeaten 4-0-0 side and host Sunderland on Sunday. ESPN lists the match as not started. Do not invent a score.",
-  "teaser": "Sunday, Etihad. City 12 points from four. Sunderland 4 from four. Kick-off listed, result not printed.",
-  "story": "Why this one matters: Saturday took Arsenal off the perfect start. City still have 12 points from four games and a home date with Sunderland.\n\nXinhua, 19 September: Man City 4 4 0 0, 8 2, 12. Sunderland 4 1 1 2, 3 5, 4. ESPN's 20 September scoreboard still lists the fixture as vs. Mundo Deportivo timed it 15:00 CEST.\n\nDo not print a Sunday score. The game has not been played.",
-  "stakes": "A chance for City to go three points clear if they win, and only if they win. The points are not in the book.",
-  "rivalryAngle": "A 4-0-0 champion-elect against a promoted side. The table is the story until the whistle.",
+  "headline": "City 5-3 Sunderland: five from five, Brobbey hat-trick in a loss",
+  "whyCareScore": 9.7,
+  "whyCareReason": "Matchweek 5 is closed. City beat Sunderland 5-3 and lead the Premier League on 15 points from five games. Arsenal have 12. Brighton have 10.",
+  "teaser": "FINAL: Manchester City 5-3 Sunderland. ESPN UK: Fernandez 9', Cherki 29', Semenyo 43' and 57', Haaland 81'. Brobbey hat-trick.",
+  "story": "Why this one matters: Arsenal lost 3-0 at Brighton on Saturday. City still had a game in hand. Sunday at the Etihad finished 5-3. City are five from five. The table is closed for Matchweek 5.\n\nESPN UK and AFP: Enzo Fernandez 9', Rayan Cherki 29', Antoine Semenyo 43' and 57', Erling Haaland 81'. Brian Brobbey 12', 33', 59', a hat-trick in a loss. IOL: Haaland's finish was flagged offside then given by VAR.\n\nESPN UK table after Sunday: City 15 from five, Arsenal 12, Brighton 10, Brentford 9, Leeds 9, Liverpool 9. Do not invent a sixth City goal. The printed score is 5-3.",
+  "stakes": "A three-point lead after five games. Arsenal have a first league defeat. Matchweek 5 is in the book.",
+  "rivalryAngle": "A 5-0-0 champion-elect against a promoted side that still scored three times through Brobbey.",
   "home": "Manchester City",
   "away": "Sunderland",
   "group": "PL",
@@ -62,7 +74,7 @@
   "time": "14:00",
   "venue": "Etihad Stadium",
   "city": "Manchester",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "soccer",
   "competition": "premier-league-2026-27"
 }

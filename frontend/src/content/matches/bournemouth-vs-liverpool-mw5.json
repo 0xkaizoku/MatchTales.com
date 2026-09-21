@@ -1,23 +1,27 @@
 {
   "funFacts": [
-    "Liverpool 6 points from four, unbeaten. Bournemouth 3 from four.",
-    "Xinhua lists both as still on four games after Saturday.",
-    "ESPN scoreboard 20 September lists this as not started."
+    "ESPN UK: Alexander Isak 57'. Bournemouth 0-1 Liverpool.",
+    "AFP: Isak's fourth of the season. Liverpool 2-3-0, nine points.",
+    "ESPN UK table: Liverpool sixth on 9. Bournemouth 17th on 3."
   ],
   "keyPlayers": [
     {
-      "name": "Liverpool",
+      "name": "Alexander Isak",
       "team": "Liverpool",
-      "hook": "1-3-0, six points. Sunday at Bournemouth has not kicked."
+      "hook": "ESPN UK and AFP: 57', the only goal. Fourth of the season."
     },
     {
-      "name": "Bournemouth",
-      "team": "Bournemouth",
-      "hook": "0-3-1, three points. Vitality Stadium, Sunday, no score."
+      "name": "Andoni Iraola",
+      "team": "Liverpool",
+      "hook": "ESPN UK and AFP: winning return to Bournemouth. Named as Liverpool manager by ESPN, AFP and IOL."
     }
   ],
   "headToHead": "",
-  "tags": ["premier-league", "bournemouth", "liverpool"],
+  "tags": [
+    "premier-league",
+    "bournemouth",
+    "liverpool"
+  ],
   "homeCode": null,
   "awayCode": null,
   "homeFlag": "",
@@ -31,30 +35,34 @@
   "awayPen": null,
   "season": "2026/27",
   "roundLabel": "Matchweek 5",
-  "resultSummary": "",
+  "resultSummary": "Bournemouth 0-1 Liverpool",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "Xinhua: Premier League standings after Saturday",
-      "url": "https://english.news.cn/20260920/bb2e4f0c330b4bca8b7a263822790030/c.html"
+      "name": "ESPN UK: scores 20 September 2026",
+      "url": "https://www.espn.co.uk/football/scoreboard/_/league/eng.1/date/20260920"
     },
     {
-      "name": "ESPN: football scores 20 September 2026",
-      "url": "https://www.espn.co.uk/football/scoreboard/_/date/20260920"
+      "name": "ESPN UK: Premier League table",
+      "url": "https://www.espn.co.uk/football/table/_/league/eng.1"
+    },
+    {
+      "name": "AFP via IOL: Liverpool 1-0",
+      "url": "https://iol.co.za/sport/soccer/premier-league/2026-09-20-manchester-city-outgun-sunderland-despite-brobbey-hat-trick-liverpool-win-at-bournemouth/"
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 0,
+  "awayScore": 1,
   "slug": "bournemouth-vs-liverpool-mw5",
-  "headline": "Bournemouth vs Liverpool: unbeaten visitors, Sunday not kicked",
-  "whyCareScore": 8.3,
-  "whyCareReason": "Liverpool are unbeaten on six points from four. Bournemouth have three. ESPN lists Sunday as not started. Do not invent a score.",
-  "teaser": "Sunday, Vitality Stadium. Liverpool 6 from four. Bournemouth 3 from four. Result not printed.",
-  "story": "Why this one matters: Liverpool have not lost a league game. Saturday did not involve them. Bournemouth host them on Sunday.\n\nXinhua: Liverpool 4 1 3 0, 6 4, 6. Bournemouth 4 0 3 1, 6 7, 3. ESPN's 20 September board still lists vs.\n\nDo not print a Sunday score.",
-  "stakes": "A first league win for Liverpool would move them into the Saturday pack. They have not played yet.",
-  "rivalryAngle": "An unbeaten Liverpool side away to a Bournemouth team still looking for a first league win.",
+  "headline": "Bournemouth 0-1 Liverpool: Isak 57', nine points, sixth",
+  "whyCareScore": 8.8,
+  "whyCareReason": "Isak scored the only goal on 57 minutes. ESPN UK: Liverpool 9 points from five, sixth. Bournemouth stay on 3.",
+  "teaser": "FINAL: Bournemouth 0-1 Liverpool. ESPN UK: Alexander Isak 57'. Liverpool 2-3-0, nine points.",
+  "story": "Why this one matters: Liverpool arrived unbeaten on six points from four. Sunday at Vitality Stadium finished 0-1.\n\nESPN UK and AFP: Alexander Isak 57' after a Cody Gakpo cross was not cleared. AFP: fourth of the season. ESPN, AFP and IOL name Andoni Iraola as Liverpool manager on a winning return to Bournemouth.\n\nESPN UK table: Liverpool 5 2 3 0, 7 4, 9 points, sixth. Bournemouth 5 0 3 2, 6 8, 3 points, 17th.",
+  "stakes": "Nine points keeps Liverpool in the 9-point pack, one behind Brighton.",
+  "rivalryAngle": "A return to the south coast for a manager ESPN and AFP both name, settled by one shot.",
   "home": "Bournemouth",
   "away": "Liverpool",
   "group": "PL",
@@ -62,7 +70,7 @@
   "time": "14:00",
   "venue": "Vitality Stadium",
   "city": "Bournemouth",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "soccer",
   "competition": "premier-league-2026-27"
 }

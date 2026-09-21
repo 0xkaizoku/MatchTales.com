@@ -1,23 +1,27 @@
 {
   "funFacts": [
-    "United 4 points from four. Fulham 1 from four.",
-    "Xinhua lists both as still on four games after Saturday.",
-    "AS.com timed this 17:30 CET. ESPN lists it as not started."
+    "ESPN UK: Lisandro Martinez own goal 63', Matheus Cunha 89'. Fulham 1-1 United.",
+    "ESPN UK table: United 5 1 2 2, 8 8, 5 points, 12th.",
+    "ESPN UK table: Fulham 5 0 2 3, 5 8, 2 points, 19th."
   ],
   "keyPlayers": [
     {
-      "name": "Manchester United",
+      "name": "Matheus Cunha",
       "team": "Manchester United",
-      "hook": "1-1-2, four points. Sunday at Craven Cottage has not kicked."
+      "hook": "ESPN UK: 89', the equaliser at Craven Cottage."
     },
     {
-      "name": "Fulham",
-      "team": "Fulham",
-      "hook": "0-1-3, one point, 20th in the Xinhua table. No Sunday score."
+      "name": "Lisandro Martinez",
+      "team": "Manchester United",
+      "hook": "ESPN UK: own goal 63', Fulham's lead until 89'."
     }
   ],
   "headToHead": "",
-  "tags": ["premier-league", "fulham", "manchester-united"],
+  "tags": [
+    "premier-league",
+    "fulham",
+    "manchester-united"
+  ],
   "homeCode": null,
   "awayCode": null,
   "homeFlag": "",
@@ -31,30 +35,30 @@
   "awayPen": null,
   "season": "2026/27",
   "roundLabel": "Matchweek 5",
-  "resultSummary": "",
+  "resultSummary": "Fulham 1-1 Manchester United",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "Xinhua: Premier League standings after Saturday",
-      "url": "https://english.news.cn/20260920/bb2e4f0c330b4bca8b7a263822790030/c.html"
+      "name": "ESPN UK: scores 20 September 2026",
+      "url": "https://www.espn.co.uk/football/scoreboard/_/league/eng.1/date/20260920"
     },
     {
-      "name": "ESPN: football scores 20 September 2026",
-      "url": "https://www.espn.co.uk/football/scoreboard/_/date/20260920"
+      "name": "ESPN UK: Premier League table",
+      "url": "https://www.espn.co.uk/football/table/_/league/eng.1"
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 1,
+  "awayScore": 1,
   "slug": "fulham-vs-manchester-united-mw5",
-  "headline": "Fulham vs United: one point against four. Sunday not kicked",
-  "whyCareScore": 8.0,
-  "whyCareReason": "Fulham have one point. United have four. ESPN lists Sunday as not started. Do not invent a score.",
-  "teaser": "Sunday, Craven Cottage. Fulham 1 from four. United 4 from four. Result not printed.",
-  "story": "Why this one matters: both clubs are in the bottom half after four. Saturday did not involve them. Craven Cottage is Sunday's late kick-off.\n\nXinhua: Man Utd 4 1 1 2, 7 7, 4. Fulham 4 0 1 3, 4 7, 1. ESPN's 20 September board still lists vs.\n\nDo not print a Sunday score.",
-  "stakes": "Three points would lift United off four. They have not played yet.",
-  "rivalryAngle": "A London side with one point against a United side still looking for a second league win.",
+  "headline": "Fulham 1-1 United: Martinez own goal, Cunha 89'",
+  "whyCareScore": 8.4,
+  "whyCareReason": "ESPN UK: Martinez own goal 63', Cunha 89'. United 5 points from five. Fulham 2 points, 19th. Matchweek 5 is closed.",
+  "teaser": "FINAL: Fulham 1-1 Manchester United. ESPN UK: Martinez OG 63', Cunha 89'.",
+  "story": "Why this one matters: Fulham had one point from four. United had four. Sunday's late kick-off at Craven Cottage finished 1-1.\n\nESPN UK scoreboard: Lisandro Martinez own goal 63', Matheus Cunha 89'. The table after full time: United 1-2-2, 8 8, 5 points. Fulham 0-2-3, 5 8, 2 points, 19th. Tottenham stay 20th on 2, worse goal difference.\n\nDo not print a 1-0. ESPN UK prints the 89th-minute equaliser.",
+  "stakes": "A point lifts Fulham off the bottom. United stay on five points from five.",
+  "rivalryAngle": "A London side still without a league win against a United side still looking for a second.",
   "home": "Fulham",
   "away": "Manchester United",
   "group": "PL",
@@ -62,7 +66,7 @@
   "time": "16:30",
   "venue": "Craven Cottage",
   "city": "London",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "soccer",
   "competition": "premier-league-2026-27"
 }

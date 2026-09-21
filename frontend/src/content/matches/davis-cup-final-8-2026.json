@@ -1,0 +1,90 @@
+{
+  "funFacts": [
+    "AP: Zverev 6-2, 6-4 Prizmic in 77 minutes. Germany 3-1 Croatia.",
+    "AP: Krawietz and Puetz 7-5, 6-2 Mektic and Pavic before Zverev closed it.",
+    "TNT Sports and Wikipedia: Britain 4-0 Ecuador. Spain 3-0 Chile."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Alexander Zverev",
+      "team": "Germany",
+      "hook": "AP: 6-2, 6-4 in 77 minutes over Dino Prizmic. No break points faced. Germany through."
+    },
+    {
+      "name": "Henry Patten / Neal Skupski",
+      "team": "Great Britain",
+      "hook": "AP: 6-3, 6-4 over Escobar and Hidalgo. TNT Sports: Britain 4-0 Ecuador."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "tennis",
+    "davis-cup",
+    "germany",
+    "britain"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/226587/pexels-photo-226587.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Davis Cup Qualifiers · Final 8 locked",
+  "resultSummary": "Germany 3-1 Croatia. Britain 4-0 Ecuador. Spain 3-0 Chile. Final 8 set for Bologna.",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "6",
+      "p2": "2"
+    },
+    {
+      "p1": "6",
+      "p2": "4"
+    }
+  ],
+  "sources": [
+    {
+      "name": "AP via U.S. News: Germany 3-1, Britain through",
+      "url": "https://www.usnews.com/news/sports/articles/2026-09-20/zverev-powers-germany-into-davis-cup-final-8-with-a-swift-win-over-prizmic-britain-also-advances"
+    },
+    {
+      "name": "ESPN: Germany and Britain advance",
+      "url": "https://www.espn.com/tennis/story/_/id/49989020/germany-britain-advance-davis-cup-final-8"
+    },
+    {
+      "name": "TNT Sports: qualifier scores",
+      "url": "https://www.tntsports.co.uk/tennis/davis-cup/calendar-results.shtml"
+    },
+    {
+      "name": "Wikipedia: 2026 Davis Cup Finals field",
+      "url": "https://en.wikipedia.org/wiki/2026_Davis_Cup"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 3,
+  "awayScore": 1,
+  "slug": "davis-cup-final-8-2026",
+  "headline": "Germany 3-1 Croatia. Britain 4-0 Ecuador. Davis Cup Final 8 is set.",
+  "whyCareScore": 9.1,
+  "whyCareReason": "AP: Zverev closed Germany 3-1 in 77 minutes. TNT Sports: Britain 4-0 Ecuador. Wikipedia: Final 8 is Italy, Canada, Czechia, Austria, South Korea, Germany, Britain, Spain.",
+  "teaser": "FINAL: Germany 3-1 Croatia. AP: Zverev 6-2, 6-4. TNT Sports: Britain 4-0 Ecuador. Bologna, 24-29 November.",
+  "story": "Why this one matters: the US Open is closed. Laver Cup is still 25-27 September. Sunday named the last Davis Cup Final 8 tickets.\n\nAP: Alexander Zverev beat Dino Prizmic 6-2, 6-4 in 77 minutes in Halle. Kevin Krawietz and Tim Puetz had beaten Nikola Mektic and Mate Pavic 7-5, 6-2. Germany 3-1 Croatia. AP: Britain through when Henry Patten and Neal Skupski beat Gonzalo Escobar and Diego Hidalgo 6-3, 6-4. TNT Sports and Wikipedia print Britain 4-0 Ecuador. Wikipedia and SuperTennis: Spain 3-0 Chile.\n\nWikipedia Final 8, Bologna, 24-29 November: Italy (hosts, three-time champions), Canada, Czechia, Austria, South Korea, Germany, Great Britain, Spain. Laver Cup at The O2 has not been played.",
+  "stakes": "Eight nations, one indoor week in Bologna. A qualifier win is not the trophy.",
+  "rivalryAngle": "A US Open champion wrapping a tie on home hard court, and a British doubles pair sending the hosts through at the Copper Box.",
+  "home": "Germany",
+  "away": "Croatia",
+  "group": "GS",
+  "date": "2026-09-20",
+  "time": "12:00",
+  "venue": "Heristo Arena",
+  "city": "Halle",
+  "status": "FINISHED",
+  "sport": "tennis",
+  "competition": "davis-cup-2026"
+}

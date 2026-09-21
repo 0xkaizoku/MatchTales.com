@@ -12,7 +12,7 @@ Welcome, AI Coding Agent! This file outlines the architecture, tech stack, rules
 *   **World Cup Archive:** 48 teams, 12 groups, completed 19 July 2026. Spain are champions.
 *   **Sport desks:** mosaic at `/sports`. Unique boards at `/sport/tennis`, `/sport/football`, `/sport/f1`, `/sport/soccer`, `/sport/golf`, `/sport/basketball`. Soccer is one desk, not the default.
 *   **Interactive Features:** Community hype walls, live second-screen companionship, newsletter subscriptions.
-*   **Site clock:** editorial today is `2026-09-20` in `frontend/src/data/sports.ts` (`SITE_TODAY`). Brighton 3-0 Arsenal (MW5 Saturday in the book, Sunday still to play); Bills 41-31 Lions (only Week 2 final); BMW PGA, Celli and Elvira -13 after 54 holes, no winner; Liberty 93-81 Lynx.
+*   **Site clock:** editorial today is `2026-09-20` in `frontend/src/data/sports.ts` (`SITE_TODAY`). City 5-3 Sunderland (MW5 closed, City 15 from five); Bills 41-31 Lions (only Week 2 final; Sunday early window LIVE, no Sunday final); JJ Spaun wins BMW PGA 271 (-17); Germany 3-1 Croatia and Britain 4-0 Ecuador into Davis Cup Final 8; Liberty 93-81 Lynx.
 
 ---
 

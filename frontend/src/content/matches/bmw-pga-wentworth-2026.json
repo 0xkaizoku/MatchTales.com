@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "AP 54-hole board: Celli 68-66-69 and Elvira 69-66-68, both 203, 13 under.",
-    "Gerard, the 36-hole leader, shot 75 on Saturday and sits 207, 9 under.",
-    "CBS: McIlroy eagled 18 from 231 yards, 69, 205, two back of the lead."
+    "AP via WTOP: JJ Spaun 70-66-68-67, 271, 17 under. Winner.",
+    "AP: Elvira, McIlroy, Rai and Scott all 273, 15 under, T2.",
+    "Heart: Elvira double bogey on 18 after a bunker, then a chip into a bunker."
   ],
   "keyPlayers": [
     {
-      "name": "Filippo Celli",
-      "team": "Italy",
-      "hook": "AP: 68-66-69, 203, 13 under, tied for the 54-hole lead. First DP World Tour win still unclaimed."
+      "name": "JJ Spaun",
+      "team": "United States",
+      "hook": "AP and DP World Tour: 70-66-68-67, 271, 17 under. Final-round 67. First DP World Tour win outside a major."
     },
     {
       "name": "Manuel Elvira",
       "team": "Spain",
-      "hook": "AP: 69-66-68, 203, 13 under. FOX and Today's Golfer also print a shared 54-hole lead."
+      "hook": "Heart: needed a birdie on 18 to win, made a double bogey. AP: 69-66-68-70, 273, T2."
     }
   ],
   "headToHead": "",
@@ -21,7 +21,7 @@
     "golf",
     "bmw-pga",
     "wentworth",
-    "celli"
+    "spaun"
   ],
   "homeCode": null,
   "awayCode": null,
@@ -29,102 +29,108 @@
   "awayFlag": "",
   "matchday": 0,
   "marquee": true,
-  "liveMinute": "54 holes",
+  "liveMinute": "final",
   "image": "https://images.pexels.com/photos/914682/pexels-photo-914682.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
   "decidedBy": null,
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "BMW PGA Championship · 54 holes",
-  "resultSummary": "Celli and Elvira 203 (-13) after 54 holes. No winner. Round 4 is Sunday.",
+  "roundLabel": "BMW PGA Championship · final",
+  "resultSummary": "JJ Spaun 271 (-17). Elvira, McIlroy, Rai, Scott 273 (-15). Final.",
   "leaderboard": [
     {
-      "pos": "T1",
-      "name": "Filippo Celli",
-      "score": "-13",
-      "note": "68-66-69, 203"
-    },
-    {
-      "pos": "T1",
-      "name": "Manuel Elvira",
-      "score": "-13",
-      "note": "69-66-68, 203"
-    },
-    {
-      "pos": "T3",
-      "name": "Alejandro Del Rey",
-      "score": "-12",
-      "note": "69-71-64, 204"
-    },
-    {
-      "pos": "T3",
+      "pos": "1",
       "name": "JJ Spaun",
-      "score": "-12",
-      "note": "70-66-68, 204"
+      "score": "-17",
+      "note": "70-66-68-67, 271"
     },
     {
-      "pos": "T3",
-      "name": "Johannes Veerman",
-      "score": "-12",
-      "note": "68-72-64, 204"
+      "pos": "T2",
+      "name": "Manuel Elvira",
+      "score": "-15",
+      "note": "69-66-68-70, 273"
     },
     {
-      "pos": "T6",
+      "pos": "T2",
       "name": "Rory McIlroy",
-      "score": "-11",
-      "note": "69-67-69, 205"
+      "score": "-15",
+      "note": "69-67-69-68, 273"
+    },
+    {
+      "pos": "T2",
+      "name": "Aaron Rai",
+      "score": "-15",
+      "note": "66-69-72-66, 273"
+    },
+    {
+      "pos": "T2",
+      "name": "Adam Scott",
+      "score": "-15",
+      "note": "67-67-71-68, 273"
     },
     {
       "pos": "T6",
-      "name": "Adam Scott",
-      "score": "-11",
-      "note": "67-67-71, 205"
+      "name": "Filippo Celli",
+      "score": "-14",
+      "note": "68-66-69-71, 274"
     },
     {
-      "pos": "T16",
+      "pos": "T6",
+      "name": "Matt Fitzpatrick",
+      "score": "-14",
+      "note": "72-68-67-67, 274"
+    },
+    {
+      "pos": "T6",
+      "name": "Ryan Fox",
+      "score": "-14",
+      "note": "68-68-70-68, 274"
+    },
+    {
+      "pos": "T27",
       "name": "Ryan Gerard",
-      "score": "-9",
-      "note": "67-65-75, 207"
+      "score": "-10",
+      "note": "67-65-75-71, 278"
     }
   ],
   "tennisSets": [],
   "sources": [
     {
-      "name": "AP via WTOP: 54-hole BMW PGA scores",
-      "url": "https://wtop.com/sports/2026/09/bmw-pga-championship-scores-3/"
-    },
-    {
-      "name": "CBS: McIlroy eagle, 54-hole picture",
-      "url": "https://www.cbssports.com/golf/news/2026-bmw-pga-championship-leaderboard-rory-mcilroy-round-3/"
+      "name": "AP via WTOP: final BMW PGA scores",
+      "url": "https://wtop.com/sports/2026/09/bmw-pga-championship-scores-4/"
     },
     {
       "name": "DP World Tour: BMW PGA leaderboard",
       "url": "https://www.europeantour.com/dpworld-tour/bmw-pga-championship-2026/leaderboard"
     },
     {
-      "name": "Today's Golfer: round 4 tee times",
-      "url": "https://www.todays-golfer.com/news-and-events/tour-news/2026-bmw-pga-championship-tee-times-wentworth/"
+      "name": "ESPN: BMW PGA final board",
+      "url": "https://www.espn.co.uk/golf/leaderboard"
+    },
+    {
+      "name": "Heart: Spaun wins, Elvira double bogey 18",
+      "url": "https://www.heart.co.uk/news/sport/bmw-pga-championship-2026-jj-spaun-snatches-v/"
     }
   ],
   "format": "leaderboard",
   "homeScore": null,
   "awayScore": null,
   "slug": "bmw-pga-wentworth-2026",
-  "headline": "Celli and Elvira 13 under after 54 holes. Sunday has no champion yet.",
-  "whyCareScore": 8.8,
-  "whyCareReason": "The DP World Tour flagship is one round from a winner and does not have one. AP: Celli and Elvira share 203, 13 under. Gerard shot 75. Round 4 is Sunday.",
-  "teaser": "54 holes only. Celli 203, Elvira 203. Del Rey, Spaun, Veerman 204. McIlroy 205. Gerard 207. No winner.",
-  "story": "Why this one matters: majors and the FedEx Cup are finished. The European flagship is not. After three rounds at Wentworth, the AP board has two names at 13 under and no trophy.\n\nAP: Filippo Celli 68-66-69 and Manuel Elvira 69-66-68, both 203. Alejandro Del Rey 69-71-64, JJ Spaun 70-66-68 and Johannes Veerman 68-72-64, all 204. Rory McIlroy 69-67-69, Adam Scott 67-67-71, Joaquin Niemann 71-67-67, Kristoffer Reitan 71-70-64 and Davis Bryant 68-70-67, all 205. Ryan Gerard, the 36-hole leader, 67-65-75, 207.\n\nCBS: Gerard five bogeys in his first 14 Saturday holes, two late birdies, 9 under. McIlroy a kick-in eagle on 18 after a dart from 231 yards. FOX and Today's Golfer print Celli and Elvira as 54-hole co-leaders. Round 4 is 20 September. Presidents Cup is still 24-27 September at Medinah. Print the 54-hole board. Do not print a winner.",
-  "stakes": "One round left at the DP World Tour flagship. A 54-hole lead is not a trophy.",
-  "rivalryAngle": "Celli and Elvira versus a Sunday group that still includes McIlroy, Spaun, Scott and a fading Gerard.",
-  "home": "Filippo Celli",
+  "headline": "JJ Spaun wins the BMW PGA. 271, 17 under. Elvira double-bogeys 18.",
+  "whyCareScore": 9.4,
+  "whyCareReason": "The DP World Tour flagship has a winner. AP: Spaun 271, 17 under. Elvira, McIlroy, Rai and Scott share 273. Heart: Elvira double bogey on 18.",
+  "teaser": "FINAL: JJ Spaun 271 (-17). AP: Elvira, McIlroy, Rai, Scott 273. Celli 274. Gerard 278.",
+  "story": "Why this one matters: majors and the FedEx Cup are finished. The European flagship now has a name. AP and the DP World Tour print JJ Spaun at 17 under.\n\nAP via WTOP: Spaun 70-66-68-67, 271. Manuel Elvira 69-66-68-70, Rory McIlroy 69-67-69-68, Aaron Rai 66-69-72-66 and Adam Scott 67-67-71-68, all 273. Filippo Celli 68-66-69-71, 274. Ryan Gerard, the 36-hole leader, 67-65-75-71, 278.\n\nHeart: Spaun a final-round 67 with six birdies after an early bogey. Elvira needed a birdie on 18 to win, found a fairway bunker, then chipped into a bunker and made a double bogey. FOX: Spaun -17, four players T2 at -15. Presidents Cup is still 24-27 September at Medinah.",
+  "stakes": "A flagship trophy is in the book. The next DP World Tour date is the FedEx Open de France.",
+  "rivalryAngle": "A US Open champion who was left off the Presidents Cup team against a Sunday board that still included McIlroy, Elvira, Rai and Scott.",
+  "home": "JJ Spaun",
   "away": "Manuel Elvira",
   "group": "PGA",
   "date": "2026-09-20",
   "time": "07:00",
   "venue": "Wentworth Club",
   "city": "Virginia Water",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "golf",
   "competition": "bmw-pga-2026"
 }

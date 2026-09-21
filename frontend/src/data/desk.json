@@ -1,66 +1,441 @@
 {
   "asOf": "2026-09-20",
   "premierLeagueTable": [
-    { "pos": 1, "team": "Manchester City", "p": 4, "w": 4, "d": 0, "l": 0, "gf": 8, "ga": 2, "gd": 6, "pts": 12 },
-    { "pos": 2, "team": "Arsenal", "p": 5, "w": 4, "d": 0, "l": 1, "gf": 8, "ga": 4, "gd": 4, "pts": 12 },
-    { "pos": 3, "team": "Brighton", "p": 5, "w": 3, "d": 1, "l": 1, "gf": 16, "ga": 5, "gd": 11, "pts": 10 },
-    { "pos": 4, "team": "Brentford", "p": 5, "w": 2, "d": 3, "l": 0, "gf": 10, "ga": 4, "gd": 6, "pts": 9 },
-    { "pos": 5, "team": "Everton", "p": 5, "w": 2, "d": 3, "l": 0, "gf": 6, "ga": 3, "gd": 3, "pts": 9 },
-    { "pos": 6, "team": "Leeds United", "p": 4, "w": 2, "d": 2, "l": 0, "gf": 7, "ga": 3, "gd": 4, "pts": 8 },
-    { "pos": 7, "team": "Hull City", "p": 5, "w": 2, "d": 2, "l": 1, "gf": 6, "ga": 4, "gd": 2, "pts": 8 },
-    { "pos": 8, "team": "Newcastle United", "p": 5, "w": 2, "d": 2, "l": 1, "gf": 9, "ga": 9, "gd": 0, "pts": 8 },
-    { "pos": 9, "team": "Chelsea", "p": 5, "w": 2, "d": 1, "l": 2, "gf": 10, "ga": 12, "gd": -2, "pts": 7 },
-    { "pos": 10, "team": "Liverpool", "p": 4, "w": 1, "d": 3, "l": 0, "gf": 6, "ga": 4, "gd": 2, "pts": 6 },
-    { "pos": 11, "team": "Ipswich", "p": 5, "w": 2, "d": 0, "l": 3, "gf": 7, "ga": 11, "gd": -4, "pts": 6 },
-    { "pos": 12, "team": "Nottingham Forest", "p": 5, "w": 1, "d": 2, "l": 2, "gf": 4, "ga": 5, "gd": -1, "pts": 5 },
-    { "pos": 13, "team": "Manchester United", "p": 4, "w": 1, "d": 1, "l": 2, "gf": 7, "ga": 7, "gd": 0, "pts": 4 },
-    { "pos": 14, "team": "Sunderland", "p": 4, "w": 1, "d": 1, "l": 2, "gf": 3, "ga": 5, "gd": -2, "pts": 4 },
-    { "pos": 15, "team": "Aston Villa", "p": 5, "w": 1, "d": 1, "l": 3, "gf": 4, "ga": 9, "gd": -5, "pts": 4 },
-    { "pos": 16, "team": "Bournemouth", "p": 4, "w": 0, "d": 3, "l": 1, "gf": 6, "ga": 7, "gd": -1, "pts": 3 },
-    { "pos": 17, "team": "Crystal Palace", "p": 4, "w": 1, "d": 0, "l": 3, "gf": 6, "ga": 11, "gd": -5, "pts": 3 },
-    { "pos": 18, "team": "Coventry City", "p": 5, "w": 1, "d": 0, "l": 4, "gf": 1, "ga": 10, "gd": -9, "pts": 3 },
-    { "pos": 19, "team": "Tottenham Hotspur", "p": 5, "w": 0, "d": 2, "l": 3, "gf": 2, "ga": 8, "gd": -6, "pts": 2 },
-    { "pos": 20, "team": "Fulham", "p": 4, "w": 0, "d": 1, "l": 3, "gf": 4, "ga": 7, "gd": -3, "pts": 1 }
+    {
+      "pos": 1,
+      "team": "Manchester City",
+      "p": 5,
+      "w": 5,
+      "d": 0,
+      "l": 0,
+      "gf": 13,
+      "ga": 5,
+      "gd": 8,
+      "pts": 15
+    },
+    {
+      "pos": 2,
+      "team": "Arsenal",
+      "p": 5,
+      "w": 4,
+      "d": 0,
+      "l": 1,
+      "gf": 8,
+      "ga": 4,
+      "gd": 4,
+      "pts": 12
+    },
+    {
+      "pos": 3,
+      "team": "Brighton",
+      "p": 5,
+      "w": 3,
+      "d": 1,
+      "l": 1,
+      "gf": 16,
+      "ga": 5,
+      "gd": 11,
+      "pts": 10
+    },
+    {
+      "pos": 4,
+      "team": "Brentford",
+      "p": 5,
+      "w": 2,
+      "d": 3,
+      "l": 0,
+      "gf": 10,
+      "ga": 4,
+      "gd": 6,
+      "pts": 9
+    },
+    {
+      "pos": 5,
+      "team": "Leeds United",
+      "p": 5,
+      "w": 2,
+      "d": 3,
+      "l": 0,
+      "gf": 7,
+      "ga": 3,
+      "gd": 4,
+      "pts": 9
+    },
+    {
+      "pos": 6,
+      "team": "Liverpool",
+      "p": 5,
+      "w": 2,
+      "d": 3,
+      "l": 0,
+      "gf": 7,
+      "ga": 4,
+      "gd": 3,
+      "pts": 9
+    },
+    {
+      "pos": 7,
+      "team": "Everton",
+      "p": 5,
+      "w": 2,
+      "d": 3,
+      "l": 0,
+      "gf": 6,
+      "ga": 3,
+      "gd": 3,
+      "pts": 9
+    },
+    {
+      "pos": 8,
+      "team": "Hull City",
+      "p": 5,
+      "w": 2,
+      "d": 2,
+      "l": 1,
+      "gf": 6,
+      "ga": 4,
+      "gd": 2,
+      "pts": 8
+    },
+    {
+      "pos": 9,
+      "team": "Newcastle United",
+      "p": 5,
+      "w": 2,
+      "d": 2,
+      "l": 1,
+      "gf": 9,
+      "ga": 9,
+      "gd": 0,
+      "pts": 8
+    },
+    {
+      "pos": 10,
+      "team": "Chelsea",
+      "p": 5,
+      "w": 2,
+      "d": 1,
+      "l": 2,
+      "gf": 10,
+      "ga": 12,
+      "gd": -2,
+      "pts": 7
+    },
+    {
+      "pos": 11,
+      "team": "Ipswich",
+      "p": 5,
+      "w": 2,
+      "d": 0,
+      "l": 3,
+      "gf": 7,
+      "ga": 11,
+      "gd": -4,
+      "pts": 6
+    },
+    {
+      "pos": 12,
+      "team": "Manchester United",
+      "p": 5,
+      "w": 1,
+      "d": 2,
+      "l": 2,
+      "gf": 8,
+      "ga": 8,
+      "gd": 0,
+      "pts": 5
+    },
+    {
+      "pos": 13,
+      "team": "Nottingham Forest",
+      "p": 5,
+      "w": 1,
+      "d": 2,
+      "l": 2,
+      "gf": 4,
+      "ga": 5,
+      "gd": -1,
+      "pts": 5
+    },
+    {
+      "pos": 14,
+      "team": "Sunderland",
+      "p": 5,
+      "w": 1,
+      "d": 1,
+      "l": 3,
+      "gf": 6,
+      "ga": 10,
+      "gd": -4,
+      "pts": 4
+    },
+    {
+      "pos": 15,
+      "team": "Crystal Palace",
+      "p": 5,
+      "w": 1,
+      "d": 1,
+      "l": 3,
+      "gf": 6,
+      "ga": 11,
+      "gd": -5,
+      "pts": 4
+    },
+    {
+      "pos": 16,
+      "team": "Aston Villa",
+      "p": 5,
+      "w": 1,
+      "d": 1,
+      "l": 3,
+      "gf": 4,
+      "ga": 9,
+      "gd": -5,
+      "pts": 4
+    },
+    {
+      "pos": 17,
+      "team": "Bournemouth",
+      "p": 5,
+      "w": 0,
+      "d": 3,
+      "l": 2,
+      "gf": 6,
+      "ga": 8,
+      "gd": -2,
+      "pts": 3
+    },
+    {
+      "pos": 18,
+      "team": "Coventry City",
+      "p": 5,
+      "w": 1,
+      "d": 0,
+      "l": 4,
+      "gf": 1,
+      "ga": 10,
+      "gd": -9,
+      "pts": 3
+    },
+    {
+      "pos": 19,
+      "team": "Fulham",
+      "p": 5,
+      "w": 0,
+      "d": 2,
+      "l": 3,
+      "gf": 5,
+      "ga": 8,
+      "gd": -3,
+      "pts": 2
+    },
+    {
+      "pos": 20,
+      "team": "Tottenham Hotspur",
+      "p": 5,
+      "w": 0,
+      "d": 2,
+      "l": 3,
+      "gf": 2,
+      "ga": 8,
+      "gd": -6,
+      "pts": 2
+    }
   ],
   "f1Drivers": [
-    { "pos": 1, "name": "Kimi Antonelli", "team": "Mercedes", "pts": 292 },
-    { "pos": 2, "name": "George Russell", "team": "Mercedes", "pts": 211 },
-    { "pos": 3, "name": "Lewis Hamilton", "team": "Ferrari", "pts": 191 },
-    { "pos": 4, "name": "Lando Norris", "team": "McLaren", "pts": 186 },
-    { "pos": 5, "name": "Charles Leclerc", "team": "Ferrari", "pts": 167 }
+    {
+      "pos": 1,
+      "name": "Kimi Antonelli",
+      "team": "Mercedes",
+      "pts": 292
+    },
+    {
+      "pos": 2,
+      "name": "George Russell",
+      "team": "Mercedes",
+      "pts": 211
+    },
+    {
+      "pos": 3,
+      "name": "Lewis Hamilton",
+      "team": "Ferrari",
+      "pts": 191
+    },
+    {
+      "pos": 4,
+      "name": "Lando Norris",
+      "team": "McLaren",
+      "pts": 186
+    },
+    {
+      "pos": 5,
+      "name": "Charles Leclerc",
+      "team": "Ferrari",
+      "pts": 167
+    }
   ],
   "f1Constructors": [
-    { "pos": 1, "name": "Mercedes", "pts": 503 },
-    { "pos": 2, "name": "Ferrari", "pts": 358 },
-    { "pos": 3, "name": "McLaren", "pts": 306 }
+    {
+      "pos": 1,
+      "name": "Mercedes",
+      "pts": 503
+    },
+    {
+      "pos": 2,
+      "name": "Ferrari",
+      "pts": 358
+    },
+    {
+      "pos": 3,
+      "name": "McLaren",
+      "pts": 306
+    }
   ],
   "wnbaSeeds": [
-    { "seed": 1, "team": "Minnesota Lynx", "record": "31-10" },
-    { "seed": 2, "team": "Golden State Valkyries", "record": "31-11" },
-    { "seed": 3, "team": "Las Vegas Aces", "record": "28-13" },
-    { "seed": 4, "team": "Atlanta Dream", "record": "28-14" },
-    { "seed": 5, "team": "Indiana Fever", "record": "27-14" },
-    { "seed": 6, "team": "Dallas Wings", "record": "26-16" },
-    { "seed": 7, "team": "New York Liberty", "record": "25-16" },
-    { "seed": 8, "team": "Washington Mystics", "record": "25-16" }
+    {
+      "seed": 1,
+      "team": "Minnesota Lynx",
+      "record": "31-10"
+    },
+    {
+      "seed": 2,
+      "team": "Golden State Valkyries",
+      "record": "31-11"
+    },
+    {
+      "seed": 3,
+      "team": "Las Vegas Aces",
+      "record": "28-13"
+    },
+    {
+      "seed": 4,
+      "team": "Atlanta Dream",
+      "record": "28-14"
+    },
+    {
+      "seed": 5,
+      "team": "Indiana Fever",
+      "record": "27-14"
+    },
+    {
+      "seed": 6,
+      "team": "Dallas Wings",
+      "record": "26-16"
+    },
+    {
+      "seed": 7,
+      "team": "New York Liberty",
+      "record": "25-16"
+    },
+    {
+      "seed": 8,
+      "team": "Washington Mystics",
+      "record": "25-16"
+    }
   ],
   "nflWeek1": [
-    { "date": "2026-09-09", "time": "8:20 p.m. ET", "home": "Seattle Seahawks", "away": "New England Patriots", "note": "FINAL: Seahawks 13, Patriots 10. Maye 3 INTs. Darnold left injured." },
-    { "date": "2026-09-10", "time": "8:35 p.m. ET", "home": "Los Angeles Rams", "away": "San Francisco 49ers", "note": "FINAL: 49ers 27, Rams 7. Purdy 3 TDs. Crowd 100,021." },
-    { "date": "2026-09-13", "time": "1:00 p.m. ET", "home": "Early window", "away": "Eight finals", "note": "Bears 59-37, Ravens 41-23, Bills 36-31, Bengals 33-27, Jaguars 34-10, Jets 23-10, Steelers 20-13, Lions 31-30 OT." },
-    { "date": "2026-09-13", "time": "4:00 p.m. ET", "home": "Late window", "away": "Four finals", "note": "Raiders 27-13 Dolphins, Vikings 39-22 Packers, Eagles 24-22 Commanders, Cardinals 26-14 Chargers." },
-    { "date": "2026-09-13", "time": "8:20 p.m. ET", "home": "New York Giants", "away": "Dallas Cowboys", "note": "FINAL: Giants 28, Cowboys 20. Dart 3 TDs. Harbaugh debut." },
-    { "date": "2026-09-14", "time": "8:15 p.m. ET", "home": "Kansas City Chiefs", "away": "Denver Broncos", "note": "FINAL: Chiefs 31, Broncos 10. Walker 173 yards, two TDs. Mahomes three total TDs." },
-    { "date": "2026-09-17", "time": "8:15 p.m. ET", "home": "Buffalo Bills", "away": "Detroit Lions", "note": "FINAL: Bills 41, Lions 31. Allen five total TDs. First regular-season game at new Highmark Stadium." },
-    { "date": "2026-09-20", "time": "1:00 p.m. ET", "home": "Sunday early window", "away": "Eight games", "note": "Not kicked. CBS and FOX: 1:00 p.m. ET. Do not invent a score." },
-    { "date": "2026-09-20", "time": "4:05 p.m. ET", "home": "Sunday late window", "away": "Five games", "note": "Not kicked. Jaguars at Broncos, Raiders at Chargers, Seahawks at Cardinals, Dolphins at 49ers, Commanders at Cowboys." },
-    { "date": "2026-09-20", "time": "8:20 p.m. ET", "home": "Kansas City Chiefs", "away": "Indianapolis Colts", "note": "Not kicked. NBC Sunday Night Football." },
-    { "date": "2026-09-21", "time": "8:15 p.m. ET", "home": "Los Angeles Rams", "away": "New York Giants", "note": "Not kicked. ABC Monday Night Football." }
+    {
+      "date": "2026-09-09",
+      "time": "8:20 p.m. ET",
+      "home": "Seattle Seahawks",
+      "away": "New England Patriots",
+      "note": "FINAL: Seahawks 13, Patriots 10. Maye 3 INTs. Darnold left injured."
+    },
+    {
+      "date": "2026-09-10",
+      "time": "8:35 p.m. ET",
+      "home": "Los Angeles Rams",
+      "away": "San Francisco 49ers",
+      "note": "FINAL: 49ers 27, Rams 7. Purdy 3 TDs. Crowd 100,021."
+    },
+    {
+      "date": "2026-09-13",
+      "time": "1:00 p.m. ET",
+      "home": "Early window",
+      "away": "Eight finals",
+      "note": "Bears 59-37, Ravens 41-23, Bills 36-31, Bengals 33-27, Jaguars 34-10, Jets 23-10, Steelers 20-13, Lions 31-30 OT."
+    },
+    {
+      "date": "2026-09-13",
+      "time": "4:00 p.m. ET",
+      "home": "Late window",
+      "away": "Four finals",
+      "note": "Raiders 27-13 Dolphins, Vikings 39-22 Packers, Eagles 24-22 Commanders, Cardinals 26-14 Chargers."
+    },
+    {
+      "date": "2026-09-13",
+      "time": "8:20 p.m. ET",
+      "home": "New York Giants",
+      "away": "Dallas Cowboys",
+      "note": "FINAL: Giants 28, Cowboys 20. Dart 3 TDs. Harbaugh debut."
+    },
+    {
+      "date": "2026-09-14",
+      "time": "8:15 p.m. ET",
+      "home": "Kansas City Chiefs",
+      "away": "Denver Broncos",
+      "note": "FINAL: Chiefs 31, Broncos 10. Walker 173 yards, two TDs. Mahomes three total TDs."
+    },
+    {
+      "date": "2026-09-17",
+      "time": "8:15 p.m. ET",
+      "home": "Buffalo Bills",
+      "away": "Detroit Lions",
+      "note": "FINAL: Bills 41, Lions 31. Allen five total TDs. First regular-season game at new Highmark Stadium."
+    },
+    {
+      "date": "2026-09-20",
+      "time": "1:00 p.m. ET",
+      "home": "Sunday early window",
+      "away": "Eight games",
+      "note": "LIVE first quarter on ESPN and NFL.com. Bills 41-31 remains the only Week 2 final. Do not print a Sunday final."
+    },
+    {
+      "date": "2026-09-20",
+      "time": "4:05 p.m. ET",
+      "home": "Sunday late window",
+      "away": "Five games",
+      "note": "Not kicked. Jaguars at Broncos, Raiders at Chargers, Seahawks at Cardinals, Dolphins at 49ers, Commanders at Cowboys."
+    },
+    {
+      "date": "2026-09-20",
+      "time": "8:20 p.m. ET",
+      "home": "Kansas City Chiefs",
+      "away": "Indianapolis Colts",
+      "note": "Not kicked. NBC Sunday Night Football."
+    },
+    {
+      "date": "2026-09-21",
+      "time": "8:15 p.m. ET",
+      "home": "Los Angeles Rams",
+      "away": "New York Giants",
+      "note": "Not kicked. ABC Monday Night Football."
+    }
   ],
   "usOpenQF": [
-    { "draw": "Men", "p1": "Alexander Zverev", "p2": "Ben Shelton", "status": "Zverev 6-3, 7-6 (2), 5-7, 6-2" },
-    { "draw": "Men", "p1": "Frances Tiafoe", "p2": "Alex Michelsen", "status": "Tiafoe 5-7, 3-6, 7-5, 6-3, 7-6 (10-6)" },
-    { "draw": "Women", "p1": "Elena Rybakina", "p2": "Aryna Sabalenka", "status": "Rybakina 6-4, 5-7, 6-2" },
-    { "draw": "Men QF", "p1": "Carlos Alcaraz", "p2": "Ben Shelton", "status": "Shelton 6-7 (5), 6-1, 6-3, 1-6, 7-6 (10-7)" }
+    {
+      "draw": "Men",
+      "p1": "Alexander Zverev",
+      "p2": "Ben Shelton",
+      "status": "Zverev 6-3, 7-6 (2), 5-7, 6-2"
+    },
+    {
+      "draw": "Men",
+      "p1": "Frances Tiafoe",
+      "p2": "Alex Michelsen",
+      "status": "Tiafoe 5-7, 3-6, 7-5, 6-3, 7-6 (10-6)"
+    },
+    {
+      "draw": "Women",
+      "p1": "Elena Rybakina",
+      "p2": "Aryna Sabalenka",
+      "status": "Rybakina 6-4, 5-7, 6-2"
+    },
+    {
+      "draw": "Men QF",
+      "p1": "Carlos Alcaraz",
+      "p2": "Ben Shelton",
+      "status": "Shelton 6-7 (5), 6-1, 6-3, 1-6, 7-6 (10-7)"
+    }
   ]
 }

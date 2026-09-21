@@ -214,6 +214,17 @@ const COMPETITIONS: Record<string, Partial<Record<Locale, string>>> = {
     ko: 'BMW PGA 챔피언십',
     ar: 'بطولة BMW PGA',
   },
+  'davis-cup-2026': {
+    fr: 'Coupe Davis 2026',
+    es: 'Copa Davis 2026',
+    de: 'Davis Cup 2026',
+    it: 'Coppa Davis 2026',
+    pl: 'Puchar Davisa 2026',
+    zh: '2026戴维斯杯',
+    ja: 'デビスカップ2026',
+    ko: '2026 데이비스컵',
+    ar: 'كأس ديفيس 2026',
+  },
   'laver-cup-2026': {
     fr: 'Laver Cup 2026',
     es: 'Laver Cup 2026',
@@ -264,6 +275,7 @@ export function competitionName(competition: string | null | undefined, locale: 
     if (competition === 'nfl-2026') return 'NFL';
     if (competition === 'bmw-pga-2026') return 'BMW PGA Championship';
     if (competition === 'laver-cup-2026') return 'Laver Cup';
+    if (competition === 'davis-cup-2026') return 'Davis Cup';
     if (competition === 'f1-2026') return 'Formula 1';
     if (competition === 'wnba-2026') return 'WNBA';
     return competition;
