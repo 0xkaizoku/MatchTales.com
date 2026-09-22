@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-20",
+  "asOf": "2026-09-22",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -387,29 +387,36 @@
       "date": "2026-09-20",
       "time": "1:00 p.m. ET",
       "home": "Sunday early window",
-      "away": "Eight games",
-      "note": "LIVE first quarter on ESPN and NFL.com. Bills 41-31 remains the only Week 2 final. Do not print a Sunday final."
+      "away": "Eight finals",
+      "note": "Panthers 34-3 Falcons, Saints 24-17 Ravens, Vikings 9-3 Bears, Bengals 20-6 Texans, Patriots 20-3 Steelers, Packers 20-17 Jets (OT), Browns 23-19 Buccaneers, Eagles 24-20 Titans."
     },
     {
       "date": "2026-09-20",
       "time": "4:05 p.m. ET",
       "home": "Sunday late window",
-      "away": "Five games",
-      "note": "Not kicked. Jaguars at Broncos, Raiders at Chargers, Seahawks at Cardinals, Dolphins at 49ers, Commanders at Cowboys."
+      "away": "Five finals",
+      "note": "Broncos 20-13 Jaguars, Raiders 26-14 Chargers, Seahawks 31-7 Cardinals, Cowboys 37-20 Commanders, 49ers 35-13 Dolphins."
     },
     {
       "date": "2026-09-20",
       "time": "8:20 p.m. ET",
       "home": "Kansas City Chiefs",
       "away": "Indianapolis Colts",
-      "note": "Not kicked. NBC Sunday Night Football."
+      "note": "FINAL (OT): Chiefs 33, Colts 30. Butker 40-yd FG in overtime after 30-30 tie."
     },
     {
       "date": "2026-09-21",
       "time": "8:15 p.m. ET",
       "home": "Los Angeles Rams",
       "away": "New York Giants",
-      "note": "Not kicked. ABC Monday Night Football."
+      "note": "FINAL: Rams 28, Giants 6. First win for LA. Dart left injured in first half."
+    },
+    {
+      "date": "2026-09-24",
+      "time": "8:15 p.m. ET",
+      "home": "Green Bay Packers",
+      "away": "Atlanta Falcons",
+      "note": "Week 3 opener: Falcons at Packers, Lambeau Field, Prime Video. Not kicked."
     }
   ],
   "usOpenQF": [

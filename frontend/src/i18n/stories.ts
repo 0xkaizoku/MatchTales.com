@@ -838,5 +838,281 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+  'chiefs-colts-snf-33-30': {
+    fr: {
+      title: 'Chiefs 33-30 Colts : Butker scelle la victoire à 40 yards en prolongation',
+      subtitle: 'CBS et Sky : 30-30 dans le temps réglementaire, Harrison Butker à 40 yards en prolongation. Kansas City à 2-0.',
+      excerpt: 'Kansas City a battu Indianapolis 33-30 en prolongation lors du Sunday Night Football. Harrison Butker a réussi le coup de pied gagnant après un nul 30-30. Sky Sports et CBS confirment le score final.',
+      body: [
+        'Jeudi a offert un duel de 41-31 à Buffalo. Le Sunday Night Football à Arrowhead a répondu par un drame en prolongation : 30-30 après quatre quart-temps, puis la mort subite sous les projecteurs.',
+        'Sky Sports, CBS et Chiefs.com détaillent un match intense entre deux attaques explosives. Patrick Mahomes a mené l’égalisation en fin de quatrième quart-temps, tandis qu’Indianapolis a forcé un 30-30 au terme du temps réglementaire.',
+        'En prolongation, la défense de Kansas City a stoppé Indianapolis. Mahomes a placé l’attaque à portée, et Harrison Butker a envoyé son coup de pied de 40 yards entre les poteaux. Kansas City passe à 2-0.',
+      ],
+    },
+    es: {
+      title: 'Chiefs 33-30 Colts: Butker anota de 40 yardas en la prórroga',
+      subtitle: 'CBS y Sky: 30-30 en tiempo regular, Harrison Butker de 40 yardas en tiempo extra. Kansas City 2-0.',
+      excerpt: 'Kansas City venció 33-30 a Indianapolis en la prórroga de Sunday Night Football. Harrison Butker anotó el gol de campo ganador tras el 30-30 regular. Sky Sports y CBS confirman el resultado.',
+      body: [
+        'El jueves dejó un 41-31 en Buffalo. Sunday Night Football en Arrowhead respondió con drama de prórroga: 30-30 tras cuatro cuartos, seguido de muerte súbita bajo las luces.',
+        'Sky Sports, CBS y Chiefs.com detallan un choque vibrante. Patrick Mahomes armó ofensivas tardías en el cuarto periodo para empatar, mientras Indianapolis forzó el 30-30 al cierre del tiempo regular.',
+        'En tiempo extra, la defensa de Kansas City frenó a los Colts. Mahomes llevó la ofensiva a zona de gol de campo y Harrison Butker acertó desde 40 yardas. Kansas City se coloca 2-0.',
+      ],
+    },
+    de: {
+      title: 'Chiefs 33:30 Colts: Butker trifft aus 40 Yards in der Verlängerung',
+      subtitle: 'CBS und Sky: 30:30 nach vier Vierteln, Harrison Butker aus 40 Yards in der Overtime. Kansas City 2-0.',
+      excerpt: 'Kansas City schlägt Indianapolis 33:30 nach Verlängerung im Sunday Night Football. Harrison Butker traf das siegbringende Field Goal aus 40 Yards nach 30:30 in der regulären Spielzeit.',
+      body: [
+        'Donnerstag brachte ein 41:31 in Buffalo. Sunday Night Football im Arrowhead antwortete mit Verlängerungs-Drama: 30:30 nach vier Vierteln und Entscheidung in der Overtime.',
+        'Sky Sports, CBS und Chiefs.com berichten von einem packenden Duell. Patrick Mahomes führte späte Angriffsserien an, während Indianapolis den 30:30-Ausgleich zur Verlängerung erzwang.',
+        'In der Overtime stoppte Kansas Citys Defensive die Colts. Mahomes brachte den Ball in Position, und Harrison Butker verwandelte sicher aus 40 Yards zum 33:30. Kansas City steht 2-0.',
+      ],
+    },
+    it: {
+      title: 'Chiefs 33-30 Colts: Butker firma il trionfo da 40 yard ai supplementari',
+      subtitle: 'CBS e Sky: 30-30 nei regolamentari, Harrison Butker da 40 yard all’overtime. Kansas City a 2-0.',
+      excerpt: 'Kansas City supera Indianapolis 33-30 all’overtime nel Sunday Night Football. Harrison Butker calcia il field goal decisivo dopo il 30-30 dei regolamentari. Sky Sports e CBS confermano il finale.',
+      body: [
+        'Giovedì aveva regalato un 41-31 a Buffalo. Il Sunday Night Football ad Arrowhead ha risposto con una sfida spettacolare: 30-30 al termine dei quattro quarti e supplementari decisivi.',
+        'Sky Sports, CBS e Chiefs.com descrivono una gara ad altissima intensità. Patrick Mahomes ha guidato la rimonta nel quarto quarto prima che Indianapolis pareggiasse sul 30-30 finale.',
+        'Ai supplementari la difesa di Kansas City ha fermato l’attacco avversario. Mahomes ha condotto il drive decisivo e Harrison Butker ha centrato i pali da 40 yard. Kansas City sale a 2-0.',
+      ],
+    },
+    pl: {
+      title: 'Chiefs 33-30 Colts: Butker trafia z 40 jardów w dogrywce',
+      subtitle: 'CBS i Sky: 30-30 w regulaminowym czasie, Harrison Butker z 40 jardów w dogrywce. Kansas City 2-0.',
+      excerpt: 'Kansas City pokonało Indianapolis 33-30 po dogrywce w Sunday Night Football. Harrison Butker zdobył zwycięskie punkty po remisie 30-30. Sky Sports i CBS potwierdzają wynik.',
+      body: [
+        'Czwartek przyniósł 41-31 w Buffalo. Sunday Night Football na Arrowhead odpowiedział dramatem w dogrywce: 30-30 po czterech kwartach i decydujący cios w doliczonym czasie.',
+        'Sky Sports, CBS i Chiefs.com opisują zacięte starcie. Patrick Mahomes poprowadził kluczowe akcje w czwartej kwarcie, a Indianapolis doprowadziło do dogrywki przy stanie 30-30.',
+        'W dogrywce defensywa Kansas City zatrzymała rywali. Mahomes ustawił pozycję do kopnięcia, a Harrison Butker pewnie trafił z 40 jardów. Kansas City ma bilans 2-0.',
+      ],
+    },
+    zh: {
+      title: '酋长 33-30 小马：巴特克加时赛 40 码射门绝杀',
+      subtitle: 'CBS 与天空体育：常规时间 30-30 战平，哈里森·巴特克加时 40 码绝杀。堪萨斯城开季 2 胜 0 负。',
+      excerpt: '堪萨斯城酋长在周日夜赛加时以 33-30 险胜印第安纳波利斯小马。在常规时间战成 30-30 后，巴特克命中 40 码任意球制胜。天空体育与 CBS 确认终场比分。',
+      body: [
+        '周四夜赛在布法罗打出 41-31 的对攻大战。箭头体育场的周日夜赛则上演加时苦战：四节战罢 30-30，随后进入骤死加时。',
+        '天空体育、CBS 与酋长官网报道了这场惊心动魄的较量。帕特里克·马霍姆斯在第四节后段主导进攻，而小马队展现顽强韧性将比赛拖入加时。',
+        '加时赛中，酋长防守组率先完成关键防守。马霍姆斯推进至射门距离，哈里森·巴特克稳稳命中 40 码任意球，助酋长 33-30 取胜取得开季两连胜。',
+      ],
+    },
+    ja: {
+      title: 'チーフス 33-30 コルツ：バトカーが延長40ヤード決勝FG',
+      subtitle: 'CBSとSky：レギュラータイム30-30、ハリソン・バトカーがOTで40ヤードV弾。カンザスシティ開幕2勝。',
+      excerpt: 'カンザスシティ・チーフスがサンデーナイトの延長戦でインディアナポリス・コルツを33-30で破った。4クォーター30-30の後、バトカーが40ヤードFGを沈めた。',
+      body: [
+        '木曜はバッファローで41-31の激闘。アローヘッドのサンデーナイトは延長戦のドラマで応えた。4クォーター終えて30-30、ナイターの死闘へ。',
+        'Sky Sports、CBS、チーフス公式が激しい攻防を詳報。パトリック・マホームズが第4Q終盤にドライブを決めるも、コルツも粘り30-30で延長に突入した。',
+        '延長ではチーフス守備陣が相手をストップ。マホームズが射程圏へ運び、ハリソン・バトカーが40ヤードFGを決めて33-30。チーフスが開幕2連勝を飾った。',
+      ],
+    },
+    ko: {
+      title: '치프스 33-30 콜츠: 벗커, 연장 40야드 끝내기 필드골',
+      subtitle: 'CBS와 스카이: 정규시간 30-30, 해리슨 벗커 연장 40야드 결승골. 캔자스시티 2승 무패.',
+      excerpt: '캔자스시티가 선데이 나이트 풋볼 연장전에서 인디애나폴리스를 33-30으로 꺾었다. 정규시간 30-30 동점 후 벗커가 40야드 끝내기 골을 성공했다.',
+      body: [
+        '목요일 버펄로에서 41-31 난타전이 펼쳐졌고, 애로헤드의 선데이 나이트는 연장 승부로 응답했다. 4쿼터 30-30 동점 후 연장 서든데스로 향했다.',
+        '스카이 스포츠와 CBS는 팽팽한 공격전을 전했다. 패트릭 마홈스가 4쿼터 막판 득점을 이끌었으나 인디애나폴리스도 물러서지 않고 동점을 만들었다.',
+        '연장전에서 캔자스시티 수비가 첫 공격을 막아냈고, 마홈스가 사정거리로 진입시킨 뒤 해리슨 벗커가 40야드 킥을 성공시켜 33-30 승리를 확정지었다.',
+      ],
+    },
+    ar: {
+      title: 'تشيفز 33-30 كولتس: باتكر يسجل هدف الفوز من 40 ياردة في الوقت الإضافي',
+      subtitle: 'CBS وسكاي: التعادل 30-30 في الوقت الأصلي، وهاريسون باتكر يحسمها في الشوط الإضافي. كانساس سيتي 2-0.',
+      excerpt: 'حقق كانساس سيتي فوزا مثيرا 33-30 على إنديانابوليس في الوقت الإضافي لمباراة ليلة الأحد. هاريسون باتكر سدد ركلة الحسم بعد تعادل 30-30. سكاي وCBS تؤكدان النتيجة.',
+      body: [
+        'شهد يوم الخميس مواجهة هجومية انتهت 41-31 في بوفالو. ورد ملعب أروهيد في ليلة الأحد بمباراة مثيرة انتهت بالتعادل 30-30 قبل التمديد للشوط الإضافي.',
+        'نقلت سكاي وCBS وتفاصيل موقع تشيفز تبادلا مستمرا للهجمات. قاد باتريك ماهومز محاولات هجومية حاسمة بينما فرض إنديانابوليس التعادل 30-30 مع نهاية الوقت الأصلي.',
+        'في الشوط الإضافي تصدى دفاع كانساس سيتي للمحاولة الأولى، ثم تقدم ماهومز بالكرة ليسدد هاريسون باتكر كرة الفوز من 40 ياردة محققا فوز تشيفز 33-30 ليرفع رصيده إلى 2-0.',
+      ],
+    },
+  },
+  'rams-giants-mnf-28-6': {
+    fr: {
+      title: 'Rams 28-6 Giants : Los Angeles maîtrise la nuit de lundi, Dart se blesse',
+      subtitle: 'Deux touchdowns pour Stafford, la défense des Rams intraitable. Blessure de Jaxson Dart. La 2e journée est close.',
+      excerpt: 'Los Angeles a dominé les New York Giants 28-6 lors du Monday Night Football au SoFi Stadium. Matthew Stafford a lancé deux passes de touchdown et Jaxson Dart est sorti sur blessure au genou.',
+      body: [
+        'La 2e journée s’est achevée en Californie. Après l’ouverture à Buffalo et la prolongation à Kansas City, le Monday Night Football au SoFi Stadium a vu les Rams signer leur première victoire 28-6.',
+        'Sky Sports et NFL.com soulignent la maîtrise de Matthew Stafford en première mi-temps avec deux touchdowns. New York a perdu son quarterback Jaxson Dart sur blessure au genou avant la pause.',
+        'La défense de Los Angeles n’a accordé que deux field goals en soixante minutes. Les deux clubs affichent un bilan de 1-1, fermant définitivement le chapitre de la 2e journée.',
+      ],
+    },
+    es: {
+      title: 'Rams 28-6 Giants: Los Angeles manda el lunes por la noche y Dart sale lesionado',
+      subtitle: 'Dos touchdowns de Stafford y defensa dominante de Rams. Lesión de Jaxson Dart. Semana 2 cerrada.',
+      excerpt: 'Los Angeles venció 28-6 a New York Giants en Monday Night Football en SoFi Stadium. Matthew Stafford sumó dos pases de anotación y Jaxson Dart se marchó con una lesión de rodilla.',
+      body: [
+        'La semana 2 culminó en California. Tras la apertura en Buffalo y el tiempo extra en Kansas City, Monday Night Football en SoFi Stadium entregó el primer triunfo de Rams por 28-6.',
+        'Sky Sports y NFL.com destacan el dominio de Matthew Stafford en la primera mitad con dos pases de touchdown. Los Giants sufrieron la salida de su mariscal Jaxson Dart por lesión de rodilla.',
+        'La defensa angelina solo permitió dos goles de campo en todo el partido. Con este 28-6 ambos equipos quedan 1-1 y la semana 2 de la NFL concluye por completo.',
+      ],
+    },
+    de: {
+      title: 'Rams 28:6 Giants: Los Angeles dominiert Monday Night, Dart verletzt raus',
+      subtitle: 'Stafford wirft zwei Touchdowns, Rams-Defensive bärenstark. Knieverletzung bei Jaxson Dart. Woche 2 beendet.',
+      excerpt: 'Los Angeles schlägt die New York Giants 28:6 im Monday Night Football im SoFi Stadium. Matthew Stafford warf zwei Touchdowns, während Jaxson Dart mit Knieproblemen ausschied.',
+      body: [
+        'Woche 2 endete am Montagabend in Kalifornien. Nach dem Auftakt in Buffalo und dem Krimi in Kansas City feierten die Rams im SoFi Stadium ihren ersten Saisonsieg mit 28:6.',
+        'Sky Sports und NFL.com berichten von Staffords starker erster Hälfte mit zwei Touchdown-Pässen. Die Giants wurden durch den frühen Ausfall von Quarterback Jaxson Dart schwer getroffen.',
+        'Die Defensive der Rams ließ in 60 Minuten lediglich zwei Field Goals zu. Beide Teams stehen nun bei 1-1, und Woche 2 der NFL ist offiziell komplett abgeschlossen.',
+      ],
+    },
+    it: {
+      title: 'Rams 28-6 Giants: Los Angeles vince il Monday Night, Dart esce per infortunio',
+      subtitle: 'Due touchdown di Stafford, difesa dei Rams insuperabile. Stop per Jaxson Dart. Week 2 conclusa.',
+      excerpt: 'Los Angeles travolge i New York Giants 28-6 nel Monday Night Football al SoFi Stadium. Due touchdown lanciati da Matthew Stafford e infortunio al ginocchio per Jaxson Dart.',
+      body: [
+        'La Week 2 si è chiusa in California. Dopo le emozioni di Buffalo e l’overtime di Kansas City, il Monday Night Football al SoFi Stadium ha consegnato il primo successo ai Rams per 28-6.',
+        'Sky Sports e NFL.com evidenziano la prestazione di Matthew Stafford, autore di due lanci da touchdown. New York ha perso il quarterback titolare Jaxson Dart per un infortunio al ginocchio.',
+        'La difesa dei padroni di casa ha concesso appena due field goal in tutta la serata. Entrambe le formazioni salgono a quota 1-1 e la seconda giornata va definitivamente in archivio.',
+      ],
+    },
+    pl: {
+      title: 'Rams 28-6 Giants: Los Angeles pewnie wygrywa w poniedziałek, Dart z kontuzją',
+      subtitle: 'Dwa przyłożenia Stafforda, świetna defensywa Rams. Kontuzja kolana Jaxsona Darta. 2. tydzień zamknięty.',
+      excerpt: 'Los Angeles pokonało New York Giants 28-6 w Monday Night Football na SoFi Stadium. Matthew Stafford rzucił dwa przyłożenia, a Jaxson Dart przedwcześnie opuścił boisko z urazem kolana.',
+      body: [
+        'Tydzień 2 zakończył się w Kalifornii. Po meczu w Buffalo i dogrywce w Kansas City poniedziałkowe starcie na SoFi Stadium dało Rams pierwsze zwycięstwo w sezonie, 28-6.',
+        'Sky Sports i NFL.com podkreślają znakomitą pierwszą połowę Matthew Stafforda z dwoma podaniami na przyłożenie. Giants ponieśli dotkliwą stratę po kontuzji kolana Jaxsona Darta.',
+        'Obrona Rams pozwoliła rywalom zaledwie na dwa kopnięcia z gry w całym meczu. Wynik 28-6 oznacza bilans 1-1 dla obu ekip i ostateczne zamknięcie 2. tygodnia NFL.',
+      ],
+    },
+    zh: {
+      title: '公羊 28-6 巨人：洛杉矶周一夜赛轻取对手，达特伤退',
+      subtitle: '斯塔福德传出两次达阵，公羊防守组坚不可摧。贾克森·达特膝伤退场。NFL 第 2 周完结。',
+      excerpt: '洛杉矶公羊在 SoFi 体育场的周一夜赛中以 28-6 战胜纽约巨人。马修·斯塔福德送出两次达阵，巨人四分卫达特因膝伤提前离场。天空体育与 NFL 确认比分。',
+      body: [
+        'NFL 第 2 周在加州落下帷幕。继布法罗的高比分大战和堪萨斯城的加时绝杀后，SoFi 体育场的周一夜赛见证了公羊以 28-6 斩获赛季首胜。',
+        '天空体育与 NFL 官网报道，斯塔福德上半场发挥稳健，先后连线队友完成两次达阵。巨人队则遭遇重大打击，首发四分卫达特因膝伤提前退赛。',
+        '公羊防守组全场仅让巨人命中两记任意球，彻底掌控了比赛走势。这场 28-6 让双方战绩均变为 1 胜 1 负，第 2 周 16 场比赛至此全部结束。',
+      ],
+    },
+    ja: {
+      title: 'ラムズ 28-6 ジャイアンツ：LAがマンデーナイト完勝、ダートは負傷交代',
+      subtitle: 'スタッフォードが2TDパス、ラムズ守備がFGのみに封じる。ダート膝負傷。第2週全試合終了。',
+      excerpt: 'ロサンゼルス・ラムズがSoFiスタジアムのマンデーナイトでニューヨーク・ジャイアンツを28-6で撃破。スタッフォードが2TDを挙げ、ダートが負傷退場した。',
+      body: [
+        '第2週の最後はカリフォルニアで締めくくられた。バッファローの乱打戦、カンザスシティの延長劇に続き、SoFiスタジアムでラムズが28-6の今季初白星を掴んだ。',
+        'Sky SportsとNFL公式によれば、マシュー・スタッフォードが前半に2つのTDパスを通し主導権を握った。ジャイアンツはQBジャクソン・ダートが膝の負傷で途中退場。',
+        'ラムズ守備陣は相手を2本のFGに抑え込み、試合を通じて隙を見せなかった。28-6の決着で両軍ともに1勝1敗となり、NFL第2週が全日程を終えた。',
+      ],
+    },
+    ko: {
+      title: '램스 28-6 자이언츠: LA, 먼데이 나이트 완승 속 다트 부상 강판',
+      subtitle: '스태퍼드 2개 터치다운, 램스 수비 필드골만 허용. 잭슨 다트 무릎 부상. 2주차 완료.',
+      excerpt: 'LA 램스가 SoFi 스타디움에서 열린 먼데이 나이트 풋볼에서 뉴욕 자이언츠를 28-6으로 완파했다. 매슈 스태퍼드가 2개의 터치다운을 기록했고 다트는 부상으로 퇴장했다.',
+      body: [
+        'NFL 2주차가 캘리포니아에서 마무리되었다. 버펄로의 화력전과 캔자스시티의 연장전에 이어 SoFi 스타디움에서 램스가 28-6으로 시즌 첫 승을 거뒀다.',
+        '스카이 스포츠와 NFL닷컴은 스태퍼드가 전반에만 2개의 터치다운 패스를 성공시키며 경기를 주도했다고 전했다. 자이언츠는 쿼터백 잭슨 다트가 무릎 부상으로 조기 이탈했다.',
+        '램스 수비진은 60분 동안 단 2개의 필드골만 허용하며 완승을 이끌었다. 28-6으로 두 팀 모두 1승 1패가 되었으며, 2주차 일정이 모두 종료되었다.',
+      ],
+    },
+    ar: {
+      title: 'رامز 28-6 جاينتس: لوس أنجلوس يتفوق في ليلة الاثنين ودارت يخرج مصابا',
+      subtitle: 'تمريرتا هبوط من ستافورد ودفاع رامز يمنع المحاولات. إصابة ركبة لجاكسون دارت. اكتمال الأسبوع 2.',
+      excerpt: 'تغلب لوس أنجلوس رامز على نيويورك جاينتس 28-6 في مباراة ليلة الاثنين على ملعب سوفاي. أرسل ماثيو ستافورد تمريرتي هبوط بينما خرج جاكسون دارت مصابا في الركبة.',
+      body: [
+        'اختتمت منافسات الأسبوع الثاني في كاليفورنيا. بعد الإثارة في بوفالو وكانساس سيتي، حقق رامز فوزه الأول هذا الموسم بنتيجة 28-6 على ملعب سوفاي في ليلة الاثنين.',
+        'ذكرت سكاي وموقع NFL أن ماثيو ستافورد أحكم السيطرة مبكرا بتمريرتي هبوط. وتلقى جاينتس ضربة قوية بخروج لاعب الوسط جاكسون دارت مصابا في ركبته.',
+        'وفرض دفاع رامز سيطرته الكاملة مكتفيا بالسماح بركلتي جزاء طوال اللقاء. رفعت النتيجة رصيد الفريقين إلى فوز وهزيمة لكل منهما، معلنة ختام الأسبوع الثاني رسميا.',
+      ],
+    },
+  },
+  'presidents-cup-medinah-2026': {
+    fr: {
+      title: 'Presidents Cup à Medinah : USA, Internationaux et le parcours n°3',
+      subtitle: 'Brandt Snedeker mène les USA, Geoff Ogilvy les Internationaux. 12e participation pour Adam Scott. Entraînements lancés.',
+      excerpt: 'La 16e Presidents Cup se déroule au Medinah Country Club dans l’Illinois du 22 au 27 septembre. Les entraînements officiels ont débuté avant le coup d’envoi de la compétition jeudi.',
+      body: [
+        'Après la victoire de JJ Spaun au BMW PGA Championship à Wentworth à 17 sous le par, le golf mondial bascule vers le jeu par équipes. Le Medinah Country Club accueille la 16e Presidents Cup sur son parcours n°3 entièrement rénové.',
+        'Le PGA Tour et PresidentsCup.com détaillent les équipes réunies en Illinois dès le 22 septembre. Brandt Snedeker dirige l’équipe américaine avec Scottie Scheffler, Cameron Young, Wyndham Clark, Sam Burns, Collin Morikawa et Patrick Cantlay.',
+        'Geoff Ogilvy mène l’équipe internationale avec Adam Scott qui dispute sa 12e coupe, Hideki Matsuyama, Min Woo Lee et Ryan Fox. La compétition officielle commence jeudi 24 septembre.',
+      ],
+    },
+    es: {
+      title: 'Presidents Cup en Medinah: Estados Unidos, Internacionales y el campo n°3',
+      subtitle: 'Brandt Snedeker capitanea a USA, Geoff Ogilvy al equipo Internacional. Adam Scott en su 12ª copa. Prácticas en marcha.',
+      excerpt: 'La 16ª Presidents Cup llega al Medinah Country Club en Illinois del 22 al 27 de septiembre. Las rondas de práctica están en marcha antes del inicio del torneo el jueves.',
+      body: [
+        'Tras el triunfo de JJ Spaun en el BMW PGA Championship en Wentworth con 17 bajo par, el golf centra su atención en el duelo por equipos. Medinah Country Club recibe la 16ª Presidents Cup en su Course No. 3.',
+        'PGA Tour y PresidentsCup.com destacan la llegada de los equipos el 22 de septiembre. Brandt Snedeker lidera a los estadounidenses con Scottie Scheffler, Cameron Young, Wyndham Clark, Sam Burns, Collin Morikawa y Patrick Cantlay.',
+        'Geoff Ogilvy comanda a los Internacionales con el veterano Adam Scott en su 12ª edición, Hideki Matsuyama, Min Woo Lee y Ryan Fox. La competición oficial arranca el jueves 24 de septiembre.',
+      ],
+    },
+    de: {
+      title: 'Presidents Cup in Medinah: USA, Internationales Team und Course No. 3',
+      subtitle: 'Brandt Snedeker führt USA an, Geoff Ogilvy das internationale Team. Adam Scotts 12. Auftritt. Training läuft.',
+      excerpt: 'Der 16. Presidents Cup gastiert vom 22. bis 27. September im Medinah Country Club in Illinois. Die offiziellen Trainingsrunden laufen, bevor am Donnerstag die Matches beginnen.',
+      body: [
+        'Nach JJ Spauns Sieg bei der BMW PGA Championship in Wentworth mit 17 unter Par schaut die Golfwelt auf den Teamwettbewerb. Der Medinah Country Club richtet den 16. Presidents Cup auf Course No. 3 aus.',
+        'PGA Tour und PresidentsCup.com melden die Ankunft der Teams am 22. September. Brandt Snedeker leitet die USA mit Scottie Scheffler, Cameron Young, Wyndham Clark, Sam Burns, Collin Morikawa und Patrick Cantlay.',
+        'Geoff Ogilvy führt das internationale Team mit Rekordspieler Adam Scott in dessen 12. Auflage, Hideki Matsuyama, Min Woo Lee und Ryan Fox an. Der offizielle Wettkampf startet am Donnerstag, 24. September.',
+      ],
+    },
+    it: {
+      title: 'Presidents Cup a Medinah: USA, Internazionali e il Course No. 3',
+      subtitle: 'Brandt Snedeker guida gli USA, Geoff Ogilvy gli Internazionali. 12ª presenza per Adam Scott. Prove in corso.',
+      excerpt: 'La 16ª Presidents Cup va in scena al Medinah Country Club in Illinois dal 22 al 27 settembre. Prove ufficiali sul Course No. 3 prima delle gare di giovedì.',
+      body: [
+        'Dopo il successo di JJ Spaun al BMW PGA Championship a Wentworth a 17 sotto il par, il golf vira sulle sfide a squadre. Il Medinah Country Club ospita la 16ª Presidents Cup sul Course No. 3.',
+        'PGA Tour e PresidentsCup.com confermano l’arrivo dei team in Illinois il 22 settembre. Brandt Snedeker è il capitano USA con Scottie Scheffler, Cameron Young, Wyndham Clark, Sam Burns, Collin Morikawa e Patrick Cantlay.',
+        'Geoff Ogilvy guida gli Internazionali con Adam Scott alla sua 12ª presenza record, Hideki Matsuyama, Min Woo Lee e Ryan Fox. La competizione ufficiale si accenderà giovedì 24 settembre.',
+      ],
+    },
+    pl: {
+      title: 'Presidents Cup w Medinah: USA, Międzynarodowi i Course No. 3',
+      subtitle: 'Brandt Snedeker prowadzi USA, Geoff Ogilvy drużynę międzynarodową. 12. występ Adama Scotta. Treningi trwają.',
+      excerpt: '16. Presidents Cup zawita do Medinah Country Club w Illinois w dniach 22-27 września. Oficjalne rundy treningowe już trwają przed czwartkową rywalizacją.',
+      body: [
+        'Po wygranej JJ Spauna w BMW PGA Championship w Wentworth z wynikiem 17 poniżej par uwaga golfowego świata skupia się na rywalizacji drużynowej. Medinah Country Club gości 16. Presidents Cup na polu Course No. 3.',
+        'PGA Tour i PresidentsCup.com opisują przygotowania zespołów w Illinois od 22 września. Brandt Snedeker kapitanuje drużynie USA z Scottiem Schefflerem, Cameronem Youngiem, Wyndhamem Clarkiem, Samem Burnsem i Collinem Morikawą.',
+        'Geoff Ogilvy stoi na czele drużyny międzynarodowej z Adamem Scottem rozgrywającym 12. turniej, Hidekim Matsuyamą, Min Woo Lee i Ryanem Foxem. Oficjalne zmagania rozpoczną się w czwartek 24 września.',
+      ],
+    },
+    zh: {
+      title: '麦迪纳总统杯：美国队、国际队与3号球场',
+      subtitle: '斯内德克尔领衔美国队，奥格维统帅国际队。亚当·斯科特第12次参赛。官方试场已开启。',
+      excerpt: '第16届总统杯于9月22-27日在伊利诺伊州麦迪纳乡村俱乐部举行。正赛于周四打响前，各队正在3号球场进行官方试场备战。',
+      body: [
+        '在斯庞以低于标准杆17杆加冕温特沃斯宝马PGA锦标赛后，高尔夫焦点迅速转向团队对抗。麦迪纳乡村俱乐部在焕然一新的3号球场承办第16届总统杯。',
+        '美巡赛与总统杯官网报道，两队于9月22日集结备战。布兰特·斯内德克尔执掌美国队，阵容包含世界第一舍夫勒、扬、克拉克、伯恩斯、森川与坎特利。',
+        '杰夫·奥格维率领国际队，老将亚当·斯科特追平纪录迎来第12次参赛，携手松山英树、李旻宇与福克斯出征。正赛将于9月24日周四正式开杆。',
+      ],
+    },
+    ja: {
+      title: 'メディナのプレジデンツカップ：米国選抜、世界選抜、第3コース',
+      subtitle: 'スネデカーが米国を率い、オギルビーが世界選抜を指揮。アダム・スコット12度目出場。公式練習開始。',
+      excerpt: '第16回プレジデンツカップが9月22-27日にイリノイ州メディナCCで開催。木曜の競技開始を前に、第3コースでの公式練習ラウンドが進行している。',
+      body: [
+        'JJスパーンがウェントワースのBMW PGA選手権を通算17アンダーで制した後、ゴルフ界は団体対抗戦へと移った。メディナCCの改修された第3コースで第16回プレジデンツカップが開幕する。',
+        'PGAツアーと大会公式によれば、選手団は9月22日に現地入りした。ブラント・スネデカー率いる米国選抜は世界1位シェフラー、ヤング、クラーク、バーンズ、モリカワらが並ぶ。',
+        'ジェフ・オギルビー率いる世界選抜は最多タイ12回出場のスコットをはじめ、松山英樹、ミンウー・リー、フォックスらで挑む。公式競技は9月24日木曜日に火ぶたを切る。',
+      ],
+    },
+    ko: {
+      title: '메디나 프레지던츠컵: 미국팀, 인터내셔널팀, 3번 코스',
+      subtitle: '스네데커 미국 단장, 오길비 인터내셔널 단장. 애덤 스콧 12번째 출전. 공식 연습 돌입.',
+      excerpt: '제16회 프레지던츠컵이 9월 22-27일 일리노이주 메디나 컨트리클럽에서 열린다. 목요일 개막에 앞서 3번 코스에서 공식 연습라운드가 진행 중이다.',
+      body: [
+        'JJ 스폰이 웬트워스 BMW PGA 챔피언십에서 17언더파로 정상에 오른 직후 골프계는 대항전으로 향했다. 메디나 CC가 재설계된 3번 코스에서 제16회 프레지던츠컵을 개최한다.',
+        'PGA 투어와 대회 공식에 따르면 각 팀은 9월 22일 현지에 모여 연습에 돌입했다. 브랜트 스네데커 단장의 미국팀에는 세계 1위 셰플러, 영, 클라크, 번스, 모리카와 등이 포진했다.',
+        '제프 오길비 단장의 인터내셔널팀은 최다 출전 타이인 12번째 대회에 나서는 애덤 스콧과 마쓰야마 히데키, 이민우, 라이언 폭스 등으로 맞선다. 정규 경기는 9월 24일 목요일 시작된다.',
+      ],
+    },
+    ar: {
+      title: 'كأس الرؤساء في مدينا: الولايات المتحدة والفريق الدولي والملعب رقم 3',
+      subtitle: 'براندت سنيديكر يقود أمريكا وجيف أوجيلفي يقود الفريق الدولي. المشاركة 12 لآدم سكوت. انطلاق التدريبات.',
+      excerpt: 'تقام النسخة 16 من كأس الرؤساء في نادي مدينا بولاية إلينوي من 22 إلى 27 أيلول/سبتمبر. تجري الجولات التدريبية الرسمية على الملعب رقم 3 قبل انطلاق المنافسات يوم الخميس.',
+      body: [
+        'بعد تتويج جيه جيه سباون ببطولة BMW PGA في وينتوورث بنتيجة 17 تحت المعدل، يتحول اهتمام الغولف إلى مواجهة الفرق. يستضيف نادي مدينا الريفي كأس الرؤساء 16 على ملعبه رقم 3 المجدد.',
+        'أفادت رابطة لاعبي الغولف المحترفين بوصول الفرق إلى إلينوي في 22 أيلول/سبتمبر. يقود براندت سنيديكر الفريق الأمريكي الذي يضم المصنف الأول شيفلر ويونغ وكلارك وبيرنز وموريكاوا.',
+        'يقود جيف أوجيلفي الفريق الدولي بمشاركة تاريخية هي 12 لآدم سكوت إلى جانب هيديكي ماتسوياما ومين وو لي ورايان فوكس. تبدأ المنافسات الرسمية يوم الخميس 24 أيلول/سبتمبر.',
+      ],
+    },
+  },
 };
 

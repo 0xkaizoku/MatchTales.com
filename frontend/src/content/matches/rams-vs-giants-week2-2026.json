@@ -1,0 +1,77 @@
+{
+  "funFacts": [
+    "The Rams earned their first victory of the 2026 regular season after an opening loss in Melbourne.",
+    "Giants quarterback Jaxson Dart left the game early in the first half with a knee injury.",
+    "Los Angeles held New York to just two field goals and 188 total offensive yards."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Matthew Stafford",
+      "team": "Rams",
+      "hook": "Threw two touchdown passes to pace the Rams to an efficient 28-6 home win."
+    },
+    {
+      "name": "Jaxson Dart",
+      "team": "Giants",
+      "hook": "Started under center but exited early due to a knee injury, shifting New York's offense."
+    }
+  ],
+  "headToHead": "The Rams have won four of their last five meetings against the Giants.",
+  "tags": [
+    "nfl",
+    "rams",
+    "giants",
+    "mnf"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618203/pexels-photo-1618203.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Week 2 · MNF",
+  "resultSummary": "Rams 28, Giants 6",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Sky Sports: Rams 28-6 Giants MNF",
+      "url": "https://www.skysports.com/nfl/results"
+    },
+    {
+      "name": "NFL.com: Week 2 Monday Night Football recap",
+      "url": "https://www.nfl.com/news/giants-rams-week-2-recap-2026"
+    },
+    {
+      "name": "ESPN: Los Angeles handles New York 28-6",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872935"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 28,
+  "awayScore": 6,
+  "slug": "rams-vs-giants-week2-2026",
+  "headline": "Rams 28-6 Giants: Los Angeles cruises on Monday Night as Dart exits",
+  "whyCareScore": 8.9,
+  "whyCareReason": "The Rams rebound from Melbourne to claim their first win of 2026 with a commanding 28-6 victory, closing Week 2 as Jaxson Dart exits with a knee injury.",
+  "teaser": "FINAL: Rams 28, Giants 6. Stafford tosses two touchdowns, defense locks down SoFi Stadium. Week 2 of the NFL season is in the book.",
+  "story": "Why this one matters: Week 2 featured shootouts, overtime thrillers, and stadium openers. Monday night at SoFi Stadium closed the week with defensive authority as the Rams secured their first win, 28-6.\n\nSky Sports and NFL.com report a dominant first half by Los Angeles. The Rams jumped out to an early two-touchdown lead behind Matthew Stafford's precision passing. New York suffered a pivotal blow when rookie quarterback Jaxson Dart left the contest with a knee injury.\n\nThe Rams defense never let the Giants back into rhythm, allowing only two field goals across four quarters. With the victory, Los Angeles moves to 1-1 and drops New York to 1-1, officially closing the 16-game Week 2 ledger.",
+  "stakes": "The Rams avoid an 0-2 hole, while the Giants face immediate questions surrounding Dart's health heading into Week 3.",
+  "rivalryAngle": "Two historic NFC franchises meet under the bright lights of Monday Night Football in Southern California.",
+  "home": "Los Angeles Rams",
+  "away": "New York Giants",
+  "group": "NFL",
+  "date": "2026-09-21",
+  "time": "20:15",
+  "venue": "SoFi Stadium",
+  "city": "Inglewood",
+  "status": "FINISHED",
+  "sport": "football",
+  "competition": "nfl-2026"
+}

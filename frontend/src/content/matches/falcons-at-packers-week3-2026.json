@@ -1,0 +1,77 @@
+{
+  "funFacts": [
+    "Kickoff Thursday 24 September at 8:15 p.m. ET on Prime Video.",
+    "First meeting between Atlanta and Green Bay under the lights at Lambeau Field in 2026.",
+    "Green Bay enters 2-0 after an overtime win against the Jets, while Atlanta sits at 0-2."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Jordan Love",
+      "team": "Packers",
+      "hook": "Leads the unbeaten Packers back to Lambeau after a hard-fought overtime win in Week 2."
+    },
+    {
+      "name": "Atlanta Falcons",
+      "team": "Falcons",
+      "hook": "Searching for answers on a short turnaround after back-to-back losses to start the season."
+    }
+  ],
+  "headToHead": "Packers hold the historical series edge over the Falcons.",
+  "tags": [
+    "nfl",
+    "packers",
+    "falcons",
+    "tnf"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618203/pexels-photo-1618203.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Week 3 · TNF",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NFL.com: Falcons at Packers Week 3 schedule",
+      "url": "https://www.nfl.com/schedules/2026/reg3"
+    },
+    {
+      "name": "Prime Video: Thursday Night Football Week 3",
+      "url": "https://www.amazon.com/prime-video/tnf"
+    },
+    {
+      "name": "Sky Sports: NFL Week 3 preview",
+      "url": "https://www.skysports.com/nfl/news"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "falcons-at-packers-week3-2026",
+  "headline": "Falcons at Packers: Week 3 opens under the Lambeau lights on Thursday",
+  "whyCareScore": 8.7,
+  "whyCareReason": "Green Bay aims to move to 3-0 on a short week, while Atlanta heads to iconic Lambeau Field desperate to avoid an 0-3 start.",
+  "teaser": "Thursday 24 September, 8:15 p.m. ET on Prime Video. Unbeaten Green Bay hosts Atlanta. Week 2 is in the books; Week 3 kicks off in Wisconsin.",
+  "story": "Why this one matters: Week 2 closed Monday night in Inglewood. The league pauses for just two days before Thursday Night Football fires up again at Lambeau Field.\n\nNFL.com and Prime Video list the matchup: Atlanta Falcons at Green Bay Packers, 8:15 p.m. ET. Green Bay arrives 2-0 after a dramatic 20-17 overtime victory over the Jets in Week 2. Atlanta travels north seeking a reboot after dropping games to the Buccaneers and Panthers.\n\nShort rest always tests roster depth. Under the lights in Green Bay, the Packers look to cement their grip on the NFC North, while the Falcons play to keep their early autumn alive.",
+  "stakes": "A chance for Green Bay to seize early NFC control at 3-0, or for Atlanta to turn their season around on national television.",
+  "rivalryAngle": "An NFC clash between cold-weather tradition and southern speed on prime-time television.",
+  "home": "Green Bay Packers",
+  "away": "Atlanta Falcons",
+  "group": "NFL",
+  "date": "2026-09-24",
+  "time": "20:15",
+  "venue": "Lambeau Field",
+  "city": "Green Bay",
+  "status": "UPCOMING",
+  "sport": "football",
+  "competition": "nfl-2026"
+}

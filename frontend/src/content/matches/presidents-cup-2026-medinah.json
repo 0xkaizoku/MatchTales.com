@@ -1,0 +1,94 @@
+{
+  "funFacts": [
+    "Medinah Country Club Course No. 3 hosts its first Presidents Cup following a complete redesign by OCM Golf.",
+    "Adam Scott equals the all-time record by making his 12th consecutive appearance for the International Team.",
+    "Brandt Snedeker captains the U.S. squad, while Geoff Ogilvy leads the International side."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Scottie Scheffler",
+      "team": "United States",
+      "hook": "World No. 1 and FedEx Cup champion leads the American charge at Medinah."
+    },
+    {
+      "name": "Adam Scott",
+      "team": "International",
+      "hook": "Veteran talisman playing in his record-equalling 12th Presidents Cup."
+    }
+  ],
+  "headToHead": "The United States holds an overall record of 13-1-1 in Presidents Cup history.",
+  "tags": [
+    "presidents-cup",
+    "golf",
+    "medinah",
+    "pga-tour"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/2828723/pexels-photo-2828723.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "16th Presidents Cup",
+  "resultSummary": "",
+  "leaderboard": [
+    {
+      "pos": "-",
+      "name": "United States (Capt. Brandt Snedeker)",
+      "score": "0 pts",
+      "note": "Scheffler, Young, Clark, Burns, Henley, Morikawa"
+    },
+    {
+      "pos": "-",
+      "name": "International (Capt. Geoff Ogilvy)",
+      "score": "0 pts",
+      "note": "Scott, Matsuyama, S.W. Kim, M.W. Lee, T. Kim, Fox"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Presidents Cup Official Site",
+      "url": "https://www.presidentscup.com"
+    },
+    {
+      "name": "PGA Tour: Medinah 2026 preview",
+      "url": "https://www.pgatour.com/tournaments/2026/presidents-cup"
+    },
+    {
+      "name": "GolfPass: Medinah Course No. 3 guide",
+      "url": "https://www.golfpass.com/travel-advisor/courses/medinah-course-3"
+    },
+    {
+      "name": "Wikipedia: 2026 Presidents Cup",
+      "url": "https://en.wikipedia.org/wiki/2026_Presidents_Cup"
+    }
+  ],
+  "format": "leaderboard",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "presidents-cup-2026-medinah",
+  "headline": "Presidents Cup at Medinah: USA and Internationals ready for Course No. 3",
+  "whyCareScore": 9.2,
+  "whyCareReason": "The biennial team showdown arrives at a transformed Medinah No. 3 with Scottie Scheffler anchoring the Americans and Adam Scott chasing history for the Internationals.",
+  "teaser": "Medinah Country Club, 22-27 September. Practice rounds underway, competition begins Thursday. Snedeker leads USA, Ogilvy leads Internationals.",
+  "story": "Why this one matters: JJ Spaun closed Wentworth at 17 under on Sunday. The golfing calendar wastes no time pivoting to one of the sport's greatest team spectacles: the 16th Presidents Cup at Medinah Country Club in Illinois.\n\nPGA Tour and PresidentsCup.com outline the battlefield: Medinah's storied Course No. 3, recently reconstructed into a strategic masterpiece. The American roster features world No. 1 Scottie Scheffler, Cameron Young, Wyndham Clark, Sam Burns, Collin Morikawa, Patrick Cantlay and Xander Schauffele under captain Brandt Snedeker.\n\nGeoff Ogilvy's International squad counters with depth and hunger, spearheaded by Adam Scott in his 12th cup appearance alongside Hideki Matsuyama, Min Woo Lee, Tom Kim and Open champion Ryan Fox. The International team has not won since 1998 in Melbourne. Practice rounds are in motion, and Thursday's foursomes will ignite the competition.",
+  "stakes": "The United States defends their long-standing supremacy, while the International side seeks their first triumph in 28 years.",
+  "rivalryAngle": "Team USA dominance versus International determination on Chicago's most famous championship stage.",
+  "home": "United States",
+  "away": "International Team",
+  "group": "PGA",
+  "date": "2026-09-24",
+  "time": "08:00",
+  "venue": "Medinah Country Club (Course No. 3)",
+  "city": "Medinah",
+  "status": "UPCOMING",
+  "sport": "golf",
+  "competition": "presidents-cup-2026"
+}

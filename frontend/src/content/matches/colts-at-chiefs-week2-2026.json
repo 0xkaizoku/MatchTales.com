@@ -1,27 +1,28 @@
 {
   "funFacts": [
-    "ESPN: Sunday early window is in the first quarter. Bills 41-31 remains the only Week 2 final.",
-    "CBS: Colts at Chiefs, 8:20 p.m. ET, NBC, Arrowhead. Not kicked.",
-    "ABC: Giants at Rams, Monday 8:15 p.m. ET. Not kicked."
+    "Harrison Butker kicked a 40-yard field goal in overtime to seal the 33-30 victory.",
+    "The teams were tied 30-30 at the end of regulation after a wild fourth-quarter exchange.",
+    "Kansas City moves to 2-0 on the season while Indianapolis falls to 0-2."
   ],
   "keyPlayers": [
     {
-      "name": "Kansas City Chiefs",
+      "name": "Harrison Butker",
       "team": "Chiefs",
-      "hook": "Week 1: Chiefs 31, Broncos 10. Sunday Night host. No Week 2 score."
+      "hook": "Drilled the game-winning 40-yard field goal in overtime."
     },
     {
-      "name": "Indianapolis Colts",
-      "team": "Colts",
-      "hook": "CBS and NFL schedules list them at Kansas City on 20 September. Not kicked."
+      "name": "Patrick Mahomes",
+      "team": "Chiefs",
+      "hook": "Engineered the game-tying drive late in regulation and the overtime winner."
     }
   ],
-  "headToHead": "",
+  "headToHead": "Chiefs have won four of their last five meetings against Indianapolis.",
   "tags": [
     "nfl",
     "chiefs",
     "colts",
-    "snf"
+    "snf",
+    "overtime"
   ],
   "homeCode": null,
   "awayCode": null,
@@ -31,39 +32,43 @@
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/257013/pexels-photo-257013.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": null,
+  "decidedBy": "overtime",
   "homePen": null,
   "awayPen": null,
   "season": "2026",
   "roundLabel": "Week 2 · SNF",
-  "resultSummary": "",
+  "resultSummary": "Chiefs 33, Colts 30 (OT)",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "CBS Sports: NFL Week 2 schedule",
-      "url": "https://www.cbssports.com/nfl/schedule/"
+      "name": "Sky Sports: NFL Week 2 scores",
+      "url": "https://www.skysports.com/nfl/scores"
     },
     {
-      "name": "FOX Sports: NFL Week 2 slate",
-      "url": "https://www.foxsports.com/nfl/schedule"
+      "name": "CBS Sports: Chiefs outlast Colts in OT",
+      "url": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20260920_IND@KC/"
     },
     {
-      "name": "ESPN recap: Bills 41-31 Lions",
-      "url": "https://www.espn.com/nfl/recap?gameId=401872932"
+      "name": "Chiefs.com: Butker delivers in overtime",
+      "url": "https://www.chiefs.com/news/game-recap-chiefs-33-colts-30-ot"
+    },
+    {
+      "name": "Sportsnet: Chiefs edge Colts 33-30",
+      "url": "https://www.sportsnet.ca/football/nfl/games/2539180/"
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 33,
+  "awayScore": 30,
   "slug": "colts-at-chiefs-week2-2026",
-  "headline": "Colts at Chiefs: Sunday Night is listed. It has not been played.",
-  "whyCareScore": 8.4,
-  "whyCareReason": "Sunday Night is still listed. ESPN has the early window in the first quarter. Bills 41-31 is the only printed Week 2 final. Do not invent a Sunday or Monday score.",
-  "teaser": "Not kicked. Colts at Chiefs, 8:20 p.m. ET, NBC. ESPN: early window LIVE in Q1. Bills 41-31 is the only final.",
-  "story": "Why this one matters: Thursday printed Bills 41-31. Sunday Night is still a time. ESPN's 20 September board has the 1 p.m. ET window in the first quarter and this game still listed at 8:20 p.m. ET.\n\nCBS and FOX print the slate. NFL.com lists Colts at Chiefs as Sunday Night Football. ABC lists Giants at Rams on Monday.\n\nDo not print a Sunday final. Do not print a Mahomes line. Bills 41-31 is the locked Week 2 result.",
-  "stakes": "A listed Sunday Night kickoff is not a box score. The early window is live and unfinished.",
-  "rivalryAngle": "AFC hosts, AFC visitors, a listed kickoff instead of a box score.",
+  "headline": "Chiefs 33-30 Colts: Butker nails 40-yard winner in overtime thriller",
+  "whyCareScore": 9.5,
+  "whyCareReason": "A 30-30 Sunday night shootout goes to overtime before Harrison Butker drills a 40-yard winner at Arrowhead to keep Kansas City perfect at 2-0.",
+  "teaser": "FINAL (OT): Chiefs 33, Colts 30. Butker 40-yard field goal in overtime. Mahomes drives Kansas City to 2-0. Attendance 73,420.",
+  "story": "Why this one matters: Thursday gave us a 41-31 track meet in Orchard Park. Sunday night at Arrowhead answered with a 33-30 overtime epic that sent Kansas City to 2-0.\n\nSky Sports, CBS and Chiefs.com agree on the dramatic scoreline: 30-30 after four quarters of relentless back-and-forth football. Patrick Mahomes orchestrated a tense fourth-quarter comeback before Indianapolis answered with a field goal to force the extra period.\n\nIn overtime, Kansas City's defense held firm on the opening possession, allowing Mahomes and the offense to march into range. Harrison Butker calmly stepped up and drilled a 40-yard kick through the uprights. Kansas City 2-0, Indianapolis 0-2.",
+  "stakes": "Kansas City stays atop the AFC West at 2-0, while the Colts fall to 0-2 despite a valiant road effort.",
+  "rivalryAngle": "Another memorable chapter between two storied AFC franchises, decided in sudden-death overtime.",
   "home": "Kansas City Chiefs",
   "away": "Indianapolis Colts",
   "group": "NFL",
@@ -71,7 +76,7 @@
   "time": "20:20",
   "venue": "GEHA Field at Arrowhead Stadium",
   "city": "Kansas City",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "football",
   "competition": "nfl-2026"
 }
