@@ -1,0 +1,72 @@
+{
+  "funFacts": [
+    "Carlotta Wamser struck the equalizer in the 86th minute for Manchester City.",
+    "Giulia Gwinn and an own goal gave Bayern Munich an early 2-0 advantage.",
+    "Ena Mahmutovic stopped a Khadija Shaw penalty kick in the first half."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Beth Mead",
+      "team": "Manchester City",
+      "hook": "Scored on the stroke of halftime to initiate City's stirring comeback."
+    },
+    {
+      "name": "Giulia Gwinn",
+      "team": "Bayern Munich",
+      "hook": "Opened the scoring in the 11th minute with a composed finish."
+    }
+  ],
+  "headToHead": "A thrilling stalemate in their opening clash of the UWCL group stage.",
+  "tags": ["uwcl", "bayern", "mancity", "championsleague"],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 1,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026-27",
+  "roundLabel": "Matchday 1",
+  "resultSummary": "Bayern Munich 2-2 Manchester City",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "UEFA.com: Bayern Munich 2-2 Man City recap",
+      "url": "https://www.uefa.com/womenschampionsleague/match/20260922-bayern-vs-mancity/"
+    },
+    {
+      "name": "The Guardian: Wamser rescues late point for Manchester City",
+      "url": "https://www.theguardian.com/football/2026/sep/22/bayern-munich-manchester-city-uwcl-match-report"
+    },
+    {
+      "name": "ManCity.com: City fight back in Munich",
+      "url": "https://www.mancity.com/news/womens/bayern-munich-man-city-uwcl-report-22-sep"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 2,
+  "awayScore": 2,
+  "slug": "bayern-vs-man-city-uwcl-2026",
+  "headline": "Bayern 2-2 Man City: Wamser 86th-minute strike seals epic UWCL fightback",
+  "whyCareScore": 8.8,
+  "whyCareReason": "UEFA Women's Champions League Matchday 1 delivered an instant classic in Munich: Bayern led 2-0 early before Beth Mead and Carlotta Wamser completed an 86th-minute comeback.",
+  "teaser": "FINAL: Bayern Munich 2, Manchester City 2. Gwinn 11', Casparij OG 28'; Mead 45', Wamser 86'. Mahmutovic saves Shaw penalty.",
+  "story": "Why this one matters: European nights under the lights returned with elite continental competition in Munich on 22 September as two heavyweights shared points on Matchday 1.\n\nUEFA.com and The Guardian report that Bayern Munich surged into an early 2-0 lead through Giulia Gwinn in the 11th minute and an unfortunate Kerstin Casparij own goal in the 28th. City suffered further frustration when Khadija Shaw's penalty was saved by Bayern goalkeeper Ena Mahmutovic.\n\nYet City refused to yield. Beth Mead struck right before the halftime whistle to cut the deficit in half, and in the 86th minute, substitute Carlotta Wamser fired past Mahmutovic to secure a hard-earned 2-2 draw on German soil.",
+  "stakes": "Both clubs emerge with a vital opening point in a demanding Champions League group stage.",
+  "rivalryAngle": "An intense clash between the Bundesliga champions and English powerhouses.",
+  "home": "Bayern Munich",
+  "away": "Manchester City",
+  "group": "UWCL",
+  "date": "2026-09-22",
+  "time": "21:00",
+  "venue": "FC Bayern Campus",
+  "city": "Munich",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "uwcl-2026"
+}

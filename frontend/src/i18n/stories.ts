@@ -1114,5 +1114,281 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+
+  'falcons-packers-tnf-week3-2026': {
+    fr: {
+      title: 'Falcons chez les Packers : Penix de retour sous les projecteurs de Lambeau pour la 3e journée',
+      subtitle: 'Michael Penix Jr. revient d’une rupture du ligament croisé. Jordan Love et Green Bay célèbrent le week-end des anciens. Prime Video jeudi.',
+      excerpt: 'La 3e journée s’ouvre jeudi soir à Lambeau Field avec Green Bay face à Atlanta. Michael Penix Jr. reprend sa place de titulaire après sa convalescence.',
+      body: [
+        'La 2e journée s’est achevée lundi soir à Los Angeles sans laisser de répit. Le calendrier de la NFL enchaîne directement avec la 3e journée jeudi soir dans le stade mythique de Lambeau Field.',
+        'NFL.com et Sports Illustrated confirment qu’Atlanta confiera à nouveau les commandes à Michael Penix Jr. jeudi soir. Le jeune quarterback revient plus tôt que prévu après sa rééducation, remplaçant Cooper Rush alors que les Falcons cherchent une première victoire après un départ à 0-2.',
+        'En face, Jordan Love mène les Packers avec un bilan de 1-1 après un succès 20-17 en prolongation face aux Jets. La franchise célèbre son week-end des anciens en présence de plus de cinquante légendes pour les anniversaires du Super Bowl I et du Super Bowl XXXI.',
+      ],
+    },
+    es: {
+      title: 'Falcons en casa de Packers: Penix regresa bajo los focos de Lambeau para abrir la semana 3',
+      subtitle: 'Michael Penix Jr. vuelve tras romperse el ligamento cruzado. Jordan Love y Green Bay celebran el fin de semana de exalumnos. Prime Video jueves.',
+      excerpt: 'La semana 3 arranca el jueves por la noche en Lambeau Field con Green Bay recibiendo a Atlanta. Michael Penix Jr. vuelve a la titularidad tras su recuperación.',
+      body: [
+        'La semana 2 concluyó el lunes por la noche en Los Ángeles sin dar tregua. El calendario de la NFL avanza de inmediato hacia la semana 3 el jueves por la noche en el legendario Lambeau Field.',
+        'NFL.com y Sports Illustrated informan de que Atlanta devolverá la titularidad a Michael Penix Jr. el jueves. El pasador regresa antes de lo previsto tras rehabilitarse de su lesión de rodilla, relevando a Cooper Rush mientras los Falcons buscan su primer triunfo tras empezar 0-2.',
+        'En el otro bando, Jordan Love guía a los Packers con marca de 1-1 tras ganar 20-17 en tiempo extra a los Jets. Green Bay celebra su fin de semana de leyendas con más de cincuenta exjugadores conmemorando los aniversarios del Super Bowl I y Super Bowl XXXI.',
+      ],
+    },
+    de: {
+      title: 'Falcons bei den Packers: Penix kehrt unter Flutlicht im Lambeau Field zur Woche 3 zurück',
+      subtitle: 'Michael Penix Jr. nach Kreuzbandriss zurück. Jordan Love und Green Bay feiern Alumni-Wochenende. Prime Video Donnerstag.',
+      excerpt: 'Woche 3 beginnt am Donnerstagabend im Lambeau Field, wenn Green Bay die Atlanta Falcons empfängt. Michael Penix Jr. kehrt nach seiner Genesung in die Startelf zurück.',
+      body: [
+        'Woche 2 endete erst am Montagabend in Los Angeles. Der NFL-Spielplan rollt am Donnerstagabend im legendären Lambeau Field nahtlos in Woche 3.',
+        'NFL.com und Sports Illustrated melden, dass Atlanta am Donnerstag wieder auf Michael Penix Jr. setzt. Der Spielmacher kehrt nach erfolgreicher Reha früher als erwartet zurück und ersetzt Cooper Rush, während die Falcons nach zwei Niederlagen ihren ersten Saisonsieg anpeilen.',
+        'Auf der Gegenseite führt Jordan Love die Packers mit einer 1-1-Bilanz nach dem 20:17-Overtime-Erfolg gegen die Jets an. Green Bay ehrt beim Alumni-Wochenende mit über fünfzig Legenden die Meilensteine von Super Bowl I und Super Bowl XXXI.',
+      ],
+    },
+    it: {
+      title: 'Falcons a Green Bay: Penix torna sotto i riflettori di Lambeau per aprire la Week 3',
+      subtitle: 'Michael Penix Jr. rientra dopo la rottura del crociato. Jordan Love e i Packers celebrano l’Alumni Weekend. Giovedì su Prime Video.',
+      excerpt: 'La Week 3 si apre giovedì notte a Lambeau Field con i Green Bay Packers che ospitano gli Atlanta Falcons. Michael Penix Jr. torna titolare dopo l’infortunio.',
+      body: [
+        'La Week 2 si è chiusa lunedì notte a Los Angeles senza sosta. Il calendario NFL prosegue giovedì notte con la Week 3 nel tempio di Lambeau Field.',
+        'NFL.com e Sports Illustrated riportano che Atlanta affiderà la regia a Michael Penix Jr. giovedì notte. Il giovane quarterback torna in anticipo dopo la riabilitazione al crociato, rilevando Cooper Rush mentre i Falcons cercano il primo riscatto dopo lo 0-2 iniziale.',
+        'Dall’altra parte Jordan Love guida i Packers sull’1-1 dopo la vittoria per 20-17 all’overtime contro i Jets. Green Bay celebra l’Alumni Weekend con oltre cinquanta leggende per gli anniversari di Super Bowl I e Super Bowl XXXI.',
+      ],
+    },
+    pl: {
+      title: 'Falcons u Packers: Penix wraca pod światła Lambeau na inaugurację 3. tygodnia',
+      subtitle: 'Michael Penix Jr. wraca po zerwaniu więzadła. Jordan Love i Packers świętują Weekend Absolwentów. Prime Video w czwartek.',
+      excerpt: '3. tydzień NFL rusza w czwartek w Lambeau Field, gdzie Green Bay Packers podejmują Atlanta Falcons. Michael Penix Jr. wraca do składu po rehabilitacji.',
+      body: [
+        '2. tydzień zakończył się w poniedziałek wieczorem w Los Angeles. Kalendarz NFL przechodzi prosto w 3. tydzień w czwartek na legendarnym Lambeau Field.',
+        'NFL.com i Sports Illustrated podają, że Atlanta postawi w czwartek na powracającego Michaela Penixa Jr. Rozgrywający wraca wcześniej po zerwaniu więzadła, zastępując Coopera Rusha, podczas gdy Falcons walczą o pierwsze zwycięstwo po starcie 0-2.',
+        'Naprzeciwko Jordan Love prowadzi Packers z bilansem 1-1 po zwycięstwie 20-17 po dogrywce z Jets. Klub celebruje Weekend Legend z udziałem ponad pięćdziesięciu dawnych gwiazd na rocznice Super Bowl I i Super Bowl XXXI.',
+      ],
+    },
+    zh: {
+      title: '猎鹰客战包装工：小佩尼克斯兰博球场复出点燃第3周揭幕战',
+      subtitle: '小迈克尔·佩尼克斯十字韧带伤愈归队。乔丹·洛夫率队迎战校友周末。周四Prime Video独播。',
+      excerpt: 'NFL第3周于周四晚在兰博球场打响，绿湾包装工主场迎战亚特兰大猎鹰。小迈克尔·佩尼克斯伤愈复出重返首发。',
+      body: [
+        '第2周周一夜赛在洛杉矶刚落下帷幕，NFL赛程紧接着在周四晚转战传奇球场兰博球场，开启第3周对决。',
+        'NFL官网与《体育画报》报道，亚特兰大猎鹰周四晚迎回小迈克尔·佩尼克斯首发。这位年轻四分卫从膝盖十字韧带撕裂伤势中提前康复替换库珀·拉什，力争带领0胜2负的猎鹰斩获赛季首胜。',
+        '主队方面，乔丹·洛夫在第2周加时20-17险胜喷气机后率包装工取得1胜1负。绿湾此役还将举办年度校友周末活动，邀请五十多位传奇名宿共同纪念第一届与第三十一届超级碗夺冠周年。',
+      ],
+    },
+    ja: {
+      title: 'ファルコンズ対パッカーズ：ペニックスがランボーのナイターで復帰、第3週開幕',
+      subtitle: 'マイケル・ペニックスJr.が膝前十字靭帯断裂から復帰。ジョーダン・ラヴ率いるグリーンベイはOBウィークエンド。木曜Prime Video中継。',
+      excerpt: 'NFL第3週が木曜夜にランボー・フィールドで開幕し、グリーンベイ・パッカーズがアトランタ・ファルコンズを迎え撃つ。ペニックスJr.が先発復帰。',
+      body: [
+        '第2週のマンデーナイトがロサンゼルスで終了した直後、NFLの舞台は木曜夜の名門ランボー・フィールドでの第3週開幕戦へと移る。',
+        'NFL公式とスポーツ・イラストレイテッドによれば、ファルコンズは前十字靭帯断裂から復帰したペニックスJr.をクーパー・ラッシュに代えて先発起用する。開幕2連敗のアトランタは初勝利を期す。',
+        '迎え撃つパッカーズは第2週にジェッツを延長20-17で下し1勝1敗。今節はスーパーボウル第1回および第31回の記念として50名以上のOBが集結する特別試合となる。',
+      ],
+    },
+    ko: {
+      title: '팰컨스 대 패커스: 페닉스, 램보 필드 조명 아래 3주차 개막전 복귀',
+      subtitle: '마이클 페닉스 주니어 십자인대 부상 털고 복귀. 조던 러브와 패커스 동문 주간 개최. 목요일 프라임 비디오 생중계.',
+      excerpt: 'NFL 3주차가 목요일 밤 램보 필드에서 개막하며 그린베이 패커스가 애틀랜타 팰컨스를 상대한다. 마이클 페닉스 주니어가 선발로 돌아온다.',
+      body: [
+        '로스앤젤레스에서 2주차 먼데이 나이트가 끝난 지 얼마 지나지 않아, NFL 일정은 목요일 밤 전설적인 램보 필드로 직행한다.',
+        'NFL 공식과 스포츠 일러스트레이티드에 따르면 애틀랜타는 십자인대 부상에서 조기 복귀한 마이클 페닉스 주니어를 선발 쿼터백으로 내세운다. 2연패에 빠진 팰컨스는 첫 승 사냥에 나선다.',
+        '그린베이는 2주차에 제츠를 연장전 20-17로 꺾고 1승 1패를 기록 중이다. 조던 러브가 이끄는 패커스는 슈퍼볼 1회 및 31회 우승 기념 동문 주간을 맞아 홈 팬들 앞에서 연승을 노린다.',
+      ],
+    },
+    ar: {
+      title: 'فالكونز في ضيافة باكرز: عودة بينيكس تحت أضواء لامبو لافتتاح الأسبوع الثالث',
+      subtitle: 'مايكل بينيكس جونيور يعود بعد تعافيه من الرباط الصليبي. جوردان لوف وباكرز يحتفلون بأسبوع الأساطير. بث حصري على برايم فيديو الخميس.',
+      excerpt: 'ينطلق الأسبوع الثالث مساء الخميس في لامبو فيلد حيث يستضيف غرين باي باكرز فريق أتلانتا فالكونز مع عودة بينيكس جونيور للتشكيلة الأساسية.',
+      body: [
+        'اختتم الأسبوع الثاني مساء الاثنين في لوس أنجلوس، ليتجه جدول دوري كرة القدم الأمريكية مباشرة نحو الأسبوع الثالث مساء الخميس على ملعب لامبو فيلد التاريخي.',
+        'أكد موقع الدوري وسبورتس إليستريتد أن أتلانتا سيعيد قيادة الهجوم لمايكل بينيكس جونيور بعد تعافيه السريع من إصابة الرباط الصليبي ليحل محل كوبر راش سعيا وراء الفوز الأول بعد هزيمتين.',
+        'في المقابل يقود جوردان لوف فريق باكرز بسجل فوز وهزيمة عقب الانتصار المثير 20-17 بالشوط الإضافي على جيتس، مع احتفال النادي بذكرى بطولتي السوبر بول بحضور أكثر من 50 أسطورة.',
+      ],
+    },
+  },
+  'fever-lynx-clark-96-77': {
+    fr: {
+      title: 'Fever 96-77 Lynx : Caitlin Clark guide Indiana vers un exploit face au leader',
+      subtitle: 'Clark 27 points, 9 passes, 7 rebonds. Kelsey Mitchell 20. Indiana frappe un grand coup avant les playoffs.',
+      excerpt: 'Indiana s’impose avec autorité 96-77 sur le parquet de Minnesota le 22 septembre. Caitlin Clark compile 27 points, neuf passes et sept rebonds dans une prestation de haut vol.',
+      body: [
+        'À quarante-huit heures de la fin de la saison régulière en WNBA, Indiana s’est mesuré à la référence de la ligue au Target Center. Le score final de 96-77 a fait retentir un sérieux avertissement pour les playoffs.',
+        'WNBA.com et l’Associated Press soulignent la maestria de Caitlin Clark. La meneuse a compilé 27 points, neuf passes et sept rebonds, dictant le rythme face à la redoutable défense des Lynx. Kelsey Mitchell a ajouté 20 points à longue distance pour creuser l’écart après la pause.',
+        'Minnesota avait déjà validé la première place du tableau avec 32 victoires et 10 défaites, mais ce revers à domicile montre des failles exploitables. Indiana passe à 27-15 et aborde les séries éliminatoires du 27 septembre en pleine confiance.',
+      ],
+    },
+    es: {
+      title: 'Fever 96-77 Lynx: Caitlin Clark comanda una exhibición de Indiana ante el líder',
+      subtitle: 'Clark 27 puntos, 9 asistencias, 7 rebotes. Kelsey Mitchell 20. Indiana manda un aviso antes de los playoffs.',
+      excerpt: 'Indiana superó 96-77 a las líderes Minnesota Lynx el 22 de septiembre. Caitlin Clark firmó 27 puntos, nueve asistencias y siete rebotes en una notable victoria a domicilio.',
+      body: [
+        'Con la temporada regular de la WNBA en sus últimas 48 horas, Indiana visitó el Target Center para medirse al mejor equipo de la liga. El 96-77 definitivo resonó con fuerza en toda la competición.',
+        'WNBA.com y Associated Press destacan el recital de Caitlin Clark, autora de 27 puntos, nueve asistencias y siete rebotes controlando los tiempos del juego. Su compañera Kelsey Mitchell aportó 20 puntos desde el perímetro para romper el choque en el tercer cuarto.',
+        'Minnesota ya tenía asegurado el puesto número uno con récord de 32-10, pero la derrota exhibió grietas ante su público. Indiana sube a 27-15 y se postula como un rival temible para los playoffs que arrancan el 27 de septiembre.',
+      ],
+    },
+    de: {
+      title: 'Fever 96:77 Lynx: Caitlin Clark führt Indiana zum Überraschungscoup beim Spitzenreiter',
+      subtitle: 'Clark 27 Punkte, 9 Assists, 7 Rebounds. Kelsey Mitchell 20. Indiana setzt Ausrufezeichen vor den Playoffs.',
+      excerpt: 'Indiana feiert am 22. September einen klaren 96:77-Auswärtssieg bei den topgesetzten Minnesota Lynx. Caitlin Clark glänzt mit 27 Punkten, neun Vorlagen und sieben Rebounds.',
+      body: [
+        'Wenige Tage vor Ende der WNBA-Hauptrunde trat Indiana im Target Center an, um sich mit dem Ligaprimus zu messen. Das deutliche 96:77 lieferte eine eindrucksvolle Machtdemonstration.',
+        'WNBA.com und Associated Press berichten von einer herausragenden Leistung von Caitlin Clark mit 27 Punkten, neun Assists und sieben Rebounds gegen Minnesotas Elite-Defensive. Kelsey Mitchell steuerte 20 Zähler von außen bei, um den Vorsprung im dritten Viertel auszubauen.',
+        'Minnesota stand mit einer 32-10-Bilanz bereits als Nummer eins der Setzliste fest, zeigte jedoch Schwächen vor heimischem Publikum. Indiana verbessert sich auf 27-15 vor dem Playoff-Start am 27. September.',
+      ],
+    },
+    it: {
+      title: 'Fever 96-77 Lynx: Caitlin Clark guida il trionfo di Indiana contro la capolista',
+      subtitle: 'Clark 27 punti, 9 assist, 7 rimbalzi. Kelsey Mitchell 20. Indiana manda un segnale chiaro in vista dei playoff.',
+      excerpt: 'Indiana espugna il campo delle Minnesota Lynx per 96-77 il 22 settembre. Caitlin Clark firma 27 punti, nove assist e sette rimbalzi in una prova superlativa.',
+      body: [
+        'A quarantotto ore dalla chiusura della stagione regolare WNBA, Indiana ha fatto visita al Target Center per testare le proprie ambizioni contro la prima della classe, firmando un netto 96-77.',
+        'WNBA.com e Associated Press esaltano la regia di Caitlin Clark, capace di mettere a referto 27 punti, nove assist e sette rimbalzi. Kelsey Mitchell ha aggiunto 20 punti dal perimetro permettendo alle Fever di scappare via nel terzo quarto.',
+        'Minnesota aveva già blindato il primo posto assoluto sul 32-10, ma il pesante ko casalingo lancia un monito prima dei playoff a otto squadre in partenza il 27 settembre, con Indiana salita sul 27-15.',
+      ],
+    },
+    pl: {
+      title: 'Fever 96-77 Lynx: Caitlin Clark prowadzi Indianę do zwycięstwa nad liderem',
+      subtitle: 'Clark 27 punktów, 9 asyst, 7 zbiórek. Kelsey Mitchell 20. Indiana wysyła ostrzeżenie przed play-offami.',
+      excerpt: 'Indiana pokonała 96-77 liderujące Minnesota Lynx 22 września. Caitlin Clark zanotowała 27 punktów, dziewięć asyst i siedem zbiórek w znakomitym występie wyjazdowym.',
+      body: [
+        'Na dwa dni przed końcem sezonu zasadniczego WNBA Indiana przyjechała do Target Center, by sprawdzić formę na tle najlepszej drużyny ligi, wygrywając bezdyskusyjnie 96-77.',
+        'WNBA.com i Associated Press relacjonują koncert gry Caitlin Clark, która zdobyła 27 punktów, rozdała dziewięć asyst i zebrała siedem piłek. Kelsey Mitchell dołożyła 20 punktów z obwodu, budując bezpieczną przewagę w trzeciej kwarcie.',
+        'Minnesota miała już zapewnione pierwsze miejsce z bilansem 32-10, lecz porażka na własnym parkiecie ujawniła luki. Indiana poprawiła bilans na 27-15 przed startem play-offów 27 września.',
+      ],
+    },
+    zh: {
+      title: '狂热96-77山猫：凯特琳·克拉克砍下27分率队大胜头号种子',
+      subtitle: '克拉克27分9助攻7篮板。米切尔20分。印第安纳在季后赛前释放强劲信号。',
+      excerpt: '印第安纳狂热于9月22日在客场以96-77大胜排名第一的明尼苏达山猫。凯特琳·克拉克贡献27分9次助攻与7个篮板。',
+      body: [
+        '在WNBA常规赛收官前夕，印第安纳狂热做客标靶中心检验自身实力，以96-77的悬殊比分展现了强大的统治力。',
+        'WNBA官网与美联社报道，凯特琳·克拉克掌控全场节奏，独得27分9助攻7篮板，撕破山猫的顶级防线。后场搭档凯尔西·米切尔命中多记远投贡献20分，助狂热在第三节彻底拉开比分。',
+        '尽管明尼苏达此前已凭借32胜10负锁定全联盟头号种子，但主场惨败敲响了警钟。狂热战绩提升至27胜15负，带着极佳势头迈向9月27日打响的季后赛。',
+      ],
+    },
+    ja: {
+      title: 'フィーバー96-77山猫：クラークが27得点、インディアナが首位を撃破',
+      subtitle: 'クラーク27得点9アシスト7リバウンド。ミッチェル20得点。インディアナがプレーオフへ向け警告弾。',
+      excerpt: 'インディアナ・フィーバーが9月22日に敵地で首位ミネソタ・リンクスを96-77で圧倒。ケイトリン・クラークが27得点9アシスト7リバウンドを記録。',
+      body: [
+        'WNBAレギュラーシーズン最終盤、インディアナは敵地ターゲット・センターに乗り込みリーグ最高勝率の相手に96-77の圧勝を飾った。',
+        'WNBA公式とAP通信によれば、ケイトリン・クラークが27得点9アシスト7リバウンドと躍動し強固な相手守備を攻略。ケルシー・ミッチェルも外角から20得点を挙げ、第3クォーターで点差を決定づけた。リンクスは32勝10敗ですでに第1シードを確定させていたものの、ホームでの大敗は課題を残した。27勝15敗となったフィーバーは9月27日開幕のプレーオフへ弾みをつけた。',
+      ],
+    },
+    ko: {
+      title: '피버 96-77 링스: 케이틀린 클라크 27득점 지휘, 인디애나 1위 완파',
+      subtitle: '클라크 27득점 9어시스트 7리바운드. 켈시 미첼 20득점. 플레이오프 앞두고 강력한 메시지 전달.',
+      excerpt: '인디애나 피버가 9월 22일 미네소타 링스를 96-77로 완파했다. 케이틀린 클라크가 27득점 9어시스트 7리바운드로 맹활약했다.',
+      body: [
+        'WNBA 정규시즌 폐막을 앞두고 인디애나는 타깃 센터 원정에서 리그 최강팀을 96-77로 대파하며 플레이오프를 향한 기세를 올렸다.',
+        'WNBA 공식과 AP 통신에 따르면 케이틀린 클라크는 27득점 9어시스트 7리바운드를 기록하며 상대 수비를 완벽하게 무너뜨렸다. 켈시 미첼 또한 외곽포 20득점으로 3쿼터 승기를 잡는 데 기여했다.',
+        '미네소타는 32승 10패로 이미 전체 1번 시드를 확정했으나 홈에서 일격을 당했다. 27승 15패를 기록한 인디애나는 9월 27일 시작되는 8강 플레이오프를 앞두고 다크호스로 떠올랐다.',
+      ],
+    },
+    ar: {
+      title: 'فيفر 96-77 لينكس: كيتلين كلارك تقود إنديانا لفوز كاسح على المتصدر',
+      subtitle: 'كلارك 27 نقطة و9 تمريرات و7 متابعات. كيلسي ميتشل 20 نقطة. إنذار قوي قبل انطلاق الأدوار الإقصائية.',
+      excerpt: 'حققت إنديانا فوزا مستحقا 96-77 على أرض مينيسوتا لينكس متصدرة الترتيب في 22 أيلول/سبتمبر بتألق كيتلين كلارك التي سجلت 27 نقطة.',
+      body: [
+        'مع اقتراب نهاية الموسم المنتظم في دوري كرة السلة الأمريكي للسيدات، دخلت إنديانا صالة تارغت سنتر لاختبار جاهزيتها محققة فوزا لافتا 96-77.',
+        'ذكر موقع الدوري وأسوشيتد برس أن كيتلين كلارك أحكمت قبضتها على المباراة مسجلة 27 نقطة مع 9 تمريرات حاسمة و7 متابعات، بينما أضافت كيلسي ميتشل 20 نقطة لفرض تفوق مريح.',
+        'ورغم ضمان مينيسوتا المركز الأول في الترتيب بسجل 32 فوزا مقابل 10 هزائم، فإن خسارتها على أرضها تعطي دافعا كبيرا لإنديانا الصاعدة إلى 27 انتصارا قبل بدء البلاي أوف في 27 أيلول/سبتمبر.',
+      ],
+    },
+  },
+  'bayern-man-city-uwcl-2-2': {
+    fr: {
+      title: 'Bayern 2-2 Man City : l’égalisation de Wamser à la 86e illumine la C1 féminine',
+      subtitle: 'Gwinn et un contre son camp de Casparij lancent le Bayern. Mead et Wamser arrachent le nul. Partage des points pour la 1re journée.',
+      excerpt: 'Manchester City remonte deux buts pour arracher un nul 2-2 à Munich lors de la première journée de la Ligue des champions féminine. Carlotta Wamser égalise à la 86e minute.',
+      body: [
+        'La phase de ligue de la Ligue des champions féminine s’est ouverte en Bavière par un choc au sommet entre deux prétendants au sacre continental le 22 septembre.',
+        'UEFA.com et The Guardian décrivent un match spectaculaire. Le Bayern a pris deux longueurs d’avance grâce à Giulia Gwinn à la 11e minute et un but contre son camp de Kerstin Casparij à la 28e, avant qu’Ena Mahmutovic ne stoppe un penalty de Khadija Shaw.',
+        'City n’a pas baissé les bras : Beth Mead a réduit l’écart juste avant la mi-temps, puis Carlotta Wamser a converti l’égalisation à la 86e minute pour offrir un point précieux aux Mancuniennes.',
+      ],
+    },
+    es: {
+      title: 'Bayern 2-2 Man City: el gol de Wamser en el 86 culmina la remontada en Champions',
+      subtitle: 'Gwinn y un autogol de Casparij adelantan al Bayern. Mead y Wamser sellan el empate. Reparto de puntos en la jornada 1.',
+      excerpt: 'Manchester City remontó dos goles de desventaja para firmar un 2-2 en el feudo del Bayern Múnich en la jornada inaugural de la Champions League Femenina.',
+      body: [
+        'La fase de grupos de la Champions Femenina 2026-27 arrancó en Baviera con un duelo estelar entre dos de los clubes más potentes de Europa el 22 de septiembre.',
+        'UEFA.com y The Guardian relatan un choque electrizante donde el Bayern se puso 2-0 arriba con tanto de Giulia Gwinn en el minuto 11 y autogol de Casparij en el 28. Además, Ena Mahmutovic detuvo un penalti a Khadija Shaw.',
+        'Sin embargo, el City reaccionó con gol de Beth Mead antes del descanso y encontró la recompensa definitiva en el minuto 86 gracias a Carlotta Wamser para salvar un empate de enorme valor.',
+      ],
+    },
+    de: {
+      title: 'Bayern 2:2 Man City: Wamsers Treffer in der 86. Minute krönt UWCL-Spektakel',
+      subtitle: 'Gwinn und ein Eigentor von Casparij bringen Bayern 2:0 in Führung. Mead und Wamser gleichen aus. Punkteteilung an Spieltag 1.',
+      excerpt: 'Manchester City gleicht in München einen 0:2-Rückstand aus und holt zum Auftakt der UEFA Women’s Champions League ein 2:2 beim FC Bayern. Wamser trifft in der 86. Minute.',
+      body: [
+        'Die Ligaphase der UEFA Women’s Champions League begann am 22. September auf dem FC Bayern Campus mit einem hochklassigen Duell zweier Titelanwärter.',
+        'UEFA.com und The Guardian schildern eine packende Partie: Giulia Gwinn traf in der 11. Minute zur Führung, ehe ein Eigentor von Kerstin Casparij das 2:0 brachte. Bayern-Torhüterin Ena Mahmutovic parierte zudem einen Strafstoß von Khadija Shaw.',
+        'City gab sich nicht auf. Beth Mead verkürzte kurz vor der Pause, ehe die eingewechselte Carlotta Wamser in der 86. Minute den verdienten 2:2-Ausgleichstreffer erzielte.',
+      ],
+    },
+    it: {
+      title: 'Bayern 2-2 Man City: il pareggio all’86’ di Wamser sigilla la rimonta in Champions',
+      subtitle: 'Gwinn e un autogol di Casparij lanciano il Bayern sul 2-0. Mead e Wamser firmano il pari. Punti divisi alla prima giornata.',
+      excerpt: 'Il Manchester City recupera due reti e strappa un pareggio per 2-2 sul campo del Bayern Monaco nella prima giornata di Women’s Champions League.',
+      body: [
+        'La fase a gironi della UEFA Women’s Champions League è ripartita in Baviera il 22 settembre con una sfida stellare tra due corazzate continentali.',
+        'UEFA.com e The Guardian descrivono una gara ricca di ribaltamenti. Il Bayern è volato sul 2-0 con Giulia Gwinn all’11’ e l’autorete sfortunata di Kerstin Casparij al 28’, mentre Ena Mahmutovic ha neutralizzato un rigore di Khadija Shaw.',
+        'La reazione inglese si è concretizzata prima dell’intervallo con Beth Mead e si è completata all’86’ grazie al gol di Carlotta Wamser per un 2-2 dal sapore di vittoria.',
+      ],
+    },
+    pl: {
+      title: 'Bayern 2-2 Man City: gol Wamser w 86. minucie wieńczy remis w Lidze Mistrzyń',
+      subtitle: 'Gwinn i samobój Casparij dają Bayernowi prowadzenie 2-0. Mead i Wamser wyrównują stan meczu. Podział punktów w 1. kolejce.',
+      excerpt: 'Manchester City odrobił dwubramkową stratę i zremisował 2-2 z Bayernem Monachium w 1. kolejce Ligi Mistrzyń UEFA. Carlotta Wamser trafiła w 86. minucie.',
+      body: [
+        'Faza ligowa Ligi Mistrzyń UEFA rozpoczęła się w Bawarii 22 września od starcia wagi ciężkiej pomiędzy czołowymi klubami Europy.',
+        'UEFA.com i The Guardian opisują emocjonujący pojedynek, w którym Bayern prowadził 2-0 po bramce Giulii Gwinn w 11. minucie i samobóju Casparij w 28. Bramkarka Ena Mahmutovic obroniła rzut karny egzekwowany przez Khadiję Shaw.',
+        'City odpowiedziało tuż przed przerwą golem Beth Mead, a w 86. minucie rezerwowa Carlotta Wamser ustaliła wynik na 2-2, zapewniając cenne wyjazdowe punkty.',
+      ],
+    },
+    zh: {
+      title: '拜仁2-2曼城：瓦姆泽第86分钟绝平点燃女足欧冠揭幕战',
+      subtitle: '格温与卡斯帕里乌龙球助拜仁两球领先。米德与瓦姆泽完成顽强逆转。首轮强强对话握手言和。',
+      excerpt: '曼城在女足欧冠第一轮客场克服两球落后劣势，以2-2战平拜仁慕尼黑。替补登场的卡洛塔·瓦姆泽在第86分钟攻入绝平球。',
+      body: [
+        '2026-27赛季女足欧冠联赛阶段于9月22日在巴伐利亚拉开战幕，两支具备争冠实力的欧洲劲旅狭路相逢。',
+        '欧足联官网与《卫报》报道，拜仁开局强势，朱莉娅·格温第11分钟首开纪录，卡斯帕里第28分钟自摆乌龙让主队两球领先。拜仁门将马赫穆托维奇还扑出了肖的点球。',
+        '曼城展现出极强韧性，贝丝·米德半场前扳回一城，替补登场的瓦姆泽在第86分钟推射破门，将比分定格在2-2，在客场抢下宝贵的1分。',
+      ],
+    },
+    ja: {
+      title: 'バイエルン2-2マンC：86分のヴァムザー同点弾で女子欧州CL初戦ドロー',
+      subtitle: 'グウィンとオウンゴールでバイエルンが2点先行。ミードとヴァムザーが反撃し勝ち点分け合う。',
+      excerpt: 'マンチェスター・シティが女子チャンピオンズリーグ第1節で敵地バイエルン相手に2点差を追いつき2-2で引き分けた。ヴァムザーが86分に値千金の同点弾。',
+      body: [
+        'UEFA女子チャンピオンズリーグのリーグフェーズが9月22日にミュンヘンで幕を開け、欧州屈指の強豪同士による激闘が繰り広げられた。',
+        'UEFA公式とガーディアン紙によれば、ジュリア・グウィンの11分弾と28分の相手オウンゴールでバイエルンが2点リード。さらにマフムトヴィッチがショーのPKを阻むなどホーム優勢で進んだ。',
+        'しかしシティは前半終了直前にベス・ミードが1点を返すと、86分に途中出場のヴァムザーが同点ゴールを押し込み、敵地で価値ある2-2の引き分けに持ち込んだ。',
+      ],
+    },
+    ko: {
+      title: '바이에른 2-2 맨시티: 팜저의 86분 극적 동점골로 여자 챔스 1차전 무승부',
+      subtitle: '그빈 선제골과 카스파리 자책골로 바이에른 2-0 리드. 미드와 팜저 연속골로 맨시티 원정 무승부.',
+      excerpt: '맨체스터 시티가 9월 22일 여자 챔피언스리그 1차전 바이에른 뮌헨 원정에서 0-2 열세를 딛고 2-2 무승부를 거뒀다. 팜저가 86분 동점골을 터뜨렸다.',
+      body: [
+        '2026-27 UEFA 여자 챔피언스리그 리그 페이즈가 9월 22일 뮌헨에서 유럽 최정상 클럽 간의 격돌로 시작됐다.',
+        'UEFA 공식과 가디언에 따르면 바이에른은 11분 율리아 그빈의 선제골과 28분 카스파리의 자책골로 2-0으로 앞서갔고 골키퍼 마흐무토비치가 쇼의 페널티킥까지 막아냈다.',
+        '맨시티는 전반 종료 직전 베스 미드의 만회골로 추격한 뒤 86분 카를로타 팜저가 골망을 흔들며 적지에서 귀중한 승점 1점을 챙겼다.',
+      ],
+    },
+    ar: {
+      title: 'بايرن 2-2 مان سيتي: هدف فامزر بالدقيقة 86 يتوج إثارة دوري أبطال أوروبا للسيدات',
+      subtitle: 'غفين وهدف عكسي لكاسباري يمنحان بايرن التقدم بهدفين. ميد وفامزر تقودان عودة السيتي وتقاسم النقاط بالجولة الأولى.',
+      excerpt: 'عاد مانشستر سيتي من التأخر بهدفين ليحقق تعادلا مثيرا 2-2 مع بايرن ميونخ في الجولة الافتتاحية لدوري أبطال أوروبا للسيدات بفضل هدف فامزر بالدقيقة 86.',
+      body: [
+        'انطلقت مرحلة الدوري في دوري أبطال أوروبا للسيدات في بافاريا في 22 أيلول/سبتمبر بقمة كروية كبرى بين مرشحين للقب الأوروبي.',
+        'أوضح موقع يويفا وصحيفة الغارديان تقدم بايرن بهدفين عن طريق جوليا غفين في الدقيقة 11 وهدف بالخطأ من كاسباري في الدقيقة 28، وتصدت الحارسة محمودوفيتش لركلة جزاء من خديجة شو.',
+        'واصل سيتي الضغط وقلصت بيث ميد الفارق قبل نهاية الشوط الأول، قبل أن تسجل البديلة كارلوتا فامزر هدف التعادل في الدقيقة 86 ليحصد الفريق نقطة ثمينة من قلب ألمانيا.',
+      ],
+    },
+  },
 };
 

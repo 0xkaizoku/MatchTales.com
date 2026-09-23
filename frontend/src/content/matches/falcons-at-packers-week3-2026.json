@@ -1,22 +1,22 @@
 {
   "funFacts": [
-    "Kickoff Thursday 24 September at 8:15 p.m. ET on Prime Video.",
-    "First meeting between Atlanta and Green Bay under the lights at Lambeau Field in 2026.",
-    "Green Bay enters 2-0 after an overtime win against the Jets, while Atlanta sits at 0-2."
+    "Kickoff Thursday 24 September at 8:15 p.m. ET exclusively on Prime Video.",
+    "Michael Penix Jr. returns to start for Atlanta following his recovery from a torn ACL.",
+    "Packers celebrate Alumni Weekend honoring Super Bowl I and Super Bowl XXXI anniversaries."
   ],
   "keyPlayers": [
     {
       "name": "Jordan Love",
       "team": "Packers",
-      "hook": "Leads the unbeaten Packers back to Lambeau after a hard-fought overtime win in Week 2."
+      "hook": "Leads Green Bay back to Lambeau Field after a dramatic 20-17 overtime win against the Jets."
     },
     {
-      "name": "Atlanta Falcons",
+      "name": "Michael Penix Jr.",
       "team": "Falcons",
-      "hook": "Searching for answers on a short turnaround after back-to-back losses to start the season."
+      "hook": "Returns to the starting lineup after recovering from an ACL injury, replacing Cooper Rush."
     }
   ],
-  "headToHead": "Packers hold the historical series edge over the Falcons.",
+  "headToHead": "Packers host the Falcons in an NFC showdown under the prime-time Thursday lights.",
   "tags": [
     "nfl",
     "packers",
@@ -49,21 +49,21 @@
       "url": "https://www.amazon.com/prime-video/tnf"
     },
     {
-      "name": "Sky Sports: NFL Week 3 preview",
-      "url": "https://www.skysports.com/nfl/news"
+      "name": "Packers.com: Alumni Weekend at Lambeau Field",
+      "url": "https://www.packers.com/news/packers-alumni-weekend-week-3-2026"
     }
   ],
   "format": "team-match",
   "homeScore": null,
   "awayScore": null,
   "slug": "falcons-at-packers-week3-2026",
-  "headline": "Falcons at Packers: Week 3 opens under the Lambeau lights on Thursday",
-  "whyCareScore": 8.7,
-  "whyCareReason": "Green Bay aims to move to 3-0 on a short week, while Atlanta heads to iconic Lambeau Field desperate to avoid an 0-3 start.",
-  "teaser": "Thursday 24 September, 8:15 p.m. ET on Prime Video. Unbeaten Green Bay hosts Atlanta. Week 2 is in the books; Week 3 kicks off in Wisconsin.",
-  "story": "Why this one matters: Week 2 closed Monday night in Inglewood. The league pauses for just two days before Thursday Night Football fires up again at Lambeau Field.\n\nNFL.com and Prime Video list the matchup: Atlanta Falcons at Green Bay Packers, 8:15 p.m. ET. Green Bay arrives 2-0 after a dramatic 20-17 overtime victory over the Jets in Week 2. Atlanta travels north seeking a reboot after dropping games to the Buccaneers and Panthers.\n\nShort rest always tests roster depth. Under the lights in Green Bay, the Packers look to cement their grip on the NFC North, while the Falcons play to keep their early autumn alive.",
-  "stakes": "A chance for Green Bay to seize early NFC control at 3-0, or for Atlanta to turn their season around on national television.",
-  "rivalryAngle": "An NFC clash between cold-weather tradition and southern speed on prime-time television.",
+  "headline": "Falcons at Packers: Penix returns for Week 3 kickoff under Lambeau lights",
+  "whyCareScore": 8.8,
+  "whyCareReason": "Michael Penix Jr. returns from a torn ACL to start for Atlanta, while Jordan Love leads the 1-1 Packers on Alumni Weekend under the Lambeau lights.",
+  "teaser": "Thursday 24 September, 8:15 p.m. ET on Prime Video. Penix starts for Atlanta; Love leads Green Bay. Week 3 opens at historic Lambeau Field.",
+  "story": "Why this one matters: Thursday Night Football opens Week 3 with major storylines on both sidelines at iconic Lambeau Field.\n\nNFL.com and Sports Illustrated confirm that Michael Penix Jr. will make his eagerly anticipated return to the starting lineup for Atlanta after recovering from a torn ACL, stepping in for Cooper Rush. The Falcons arrive 0-2 and hungry to jumpstart their season on national television.\n\nGreen Bay enters 1-1 following a gritty 20-17 overtime triumph over the Jets in Week 2. With more than 50 alumni in attendance honoring the anniversaries of Super Bowl I and Super Bowl XXXI, Jordan Love and the Packers look to defend their home turf on a short week.",
+  "stakes": "Atlanta battles to avoid an 0-3 start while Green Bay looks to claim early supremacy in the NFC North.",
+  "rivalryAngle": "An NFC clash between cold-weather tradition and dynamic southern speed under prime-time lights.",
   "home": "Green Bay Packers",
   "away": "Atlanta Falcons",
   "group": "NFL",

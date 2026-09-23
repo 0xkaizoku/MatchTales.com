@@ -1,0 +1,72 @@
+{
+  "funFacts": [
+    "Caitlin Clark finished with 27 points, 9 assists, and 7 rebounds.",
+    "Kelsey Mitchell added 20 points for Indiana in a decisive road victory.",
+    "Minnesota holds the No. 1 overall playoff seed despite the loss."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Caitlin Clark",
+      "team": "Indiana Fever",
+      "hook": "Orchestrated Indiana's offense with 27 points, nine assists, and seven rebounds."
+    },
+    {
+      "name": "Kelsey Mitchell",
+      "team": "Indiana Fever",
+      "hook": "Delivered 20 points from the perimeter to break the game open."
+    }
+  ],
+  "headToHead": "Fever split the regular-season series against the Lynx.",
+  "tags": ["wnba", "fever", "lynx", "playoffs"],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/358042/pexels-photo-358042.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Regular season",
+  "resultSummary": "Fever 96-77 Lynx",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "WNBA.com: Fever roll past Lynx 96-77",
+      "url": "https://www.wnba.com/game/20260922/INDMIN/"
+    },
+    {
+      "name": "Sunday Guardian: WNBA scores and playoff positioning",
+      "url": "https://www.sundayguardianlive.com/sports/wnba-recap-september-22-2026"
+    },
+    {
+      "name": "AP News: Clark leads Fever past top-seeded Minnesota",
+      "url": "https://apnews.com/article/fever-lynx-clark-mitchell-recap-2026"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 77,
+  "awayScore": 96,
+  "slug": "fever-at-lynx-sep-2026",
+  "headline": "Fever 96-77 Lynx: Clark 27 and 9 as Indiana stuns top seed",
+  "whyCareScore": 8.9,
+  "whyCareReason": "Caitlin Clark delivered 27 points and 9 assists as Indiana routed the top-seeded Minnesota Lynx 96-77 on 22 September. A statement victory ahead of the playoffs.",
+  "teaser": "FINAL: Fever 96, Lynx 77. Clark 27 points, 9 assists, 7 rebounds. Mitchell 20 points. Lynx locked into No. 1 seed. Playoffs begin 27 September.",
+  "story": "Why this one matters: with the regular season in its closing days, the Indiana Fever delivered their most complete performance of the campaign, dominating the league-leading Minnesota Lynx 96-77 on Tuesday night.\n\nWNBA.com and the Associated Press report that Caitlin Clark commanded the floor from the opening tip, finishing with 27 points, nine assists, and seven rebounds. Kelsey Mitchell provided the perimeter firepower with 20 points, allowing Indiana to pull away in the second half.\n\nMinnesota had already secured the No. 1 overall seed for the postseason, but the Fever's emphatic win cements Indiana as one of the most dangerous opponents entering the eight-team playoff bracket on Sunday 27 September.",
+  "stakes": "Indiana solidifies momentum and playoff seeding while testing the league's top team on their home floor.",
+  "rivalryAngle": "A burgeoning rivalry between Minnesota's defensive depth and Indiana's high-octane perimeter backcourt.",
+  "home": "Minnesota Lynx",
+  "away": "Indiana Fever",
+  "group": "WNBA",
+  "date": "2026-09-22",
+  "time": "20:00",
+  "venue": "Target Center",
+  "city": "Minneapolis",
+  "status": "FINISHED",
+  "sport": "basketball",
+  "competition": "wnba-2026"
+}
