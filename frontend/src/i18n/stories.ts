@@ -1390,5 +1390,281 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+  'presidents-cup-day1-foursomes-2026': {
+    fr: {
+      title: 'Presidents Cup Jour 1 : les foursomes débutent sur le parcours n° 3 de Medinah',
+      subtitle: 'Brandt Snedeker et Geoff Ogilvy fixent les duels du jour 1. Scottie Scheffler mène la défense américaine. Adam Scott pour sa 12e coupe.',
+      excerpt: 'La 16e Presidents Cup s’ouvre jeudi au Medinah Country Club dans l’Illinois. Brandt Snedeker et Geoff Ogilvy mènent leurs équipes dans les foursomes matinaux sur le parcours n° 3 rénové.',
+      body: [
+        'Après le triomphe de JJ Spaun au BMW PGA Championship à Wentworth, le golf mondial se tourne vers Chicago pour l’un des plus grands rendez-vous par équipes. La 16e Presidents Cup a débuté jeudi matin à Medinah, testant 24 champions sur un parcours n° 3 entièrement repensé.',
+        'Le PGA Tour et PresidentsCup.com rapportent que Brandt Snedeker et Geoff Ogilvy ont dévoilé leurs associations pour les foursomes. Le n° 1 mondial Scottie Scheffler fait équipe avec Russell Henley dans le match 1, tandis que Xander Schauffele et Patrick Cantlay affrontent Jason Day et Christiaan Bezuidenhout. Côté international, Adam Scott dispute sa 12e coupe aux côtés d’Hideki Matsuyama.',
+        'Les foursomes du jeudi attribuent quatre points cruciaux. Les Internationaux parviendront-ils à briser l’hégémonie américaine invaincue depuis 1998, ou l’équipe américaine prendra-t-elle l’avantage d’entrée à Chicago ?',
+      ],
+    },
+    es: {
+      title: 'Presidents Cup Día 1: arrancan los foursomes en el campo n.º 3 de Medinah',
+      subtitle: 'Brandt Snedeker y Geoff Ogilvy definen los duelos del día 1. Scottie Scheffler lidera la defensa de EE. UU. Adam Scott en su 12.ª copa.',
+      excerpt: 'La 16.ª Presidents Cup arranca este jueves en el Medinah Country Club de Illinois. Brandt Snedeker y Geoff Ogilvy dirigen a sus escuadras en los foursomes matutinos sobre el renovado recorrido n.º 3.',
+      body: [
+        'Tras el título de JJ Spaun en Wentworth, el calendario internacional mira a Chicago para uno de los mayores espectáculos por equipos. La 16.ª Presidents Cup comenzó este jueves en Medinah Country Club, midiendo a 24 de los mejores golfistas del planeta en un rediseñado campo n.º 3.',
+        'PGA Tour y PresidentsCup.com informan que Brandt Snedeker y Geoff Ogilvy anunciaron sus emparejamientos de foursomes. El número uno mundial Scottie Scheffler forma dupla con Russell Henley en el partido 1, mientras Xander Schauffele y Patrick Cantlay se miden a Jason Day y Christiaan Bezuidenhout. Adam Scott hace historia jugando su 12.ª Presidents Cup consecutiva junto a Hideki Matsuyama.',
+        'Los foursomes del jueves entregan cuatro puntos vitales en la carrera hacia los 15,5. El equipo Internacional busca quebrar una racha estadounidense que se extiende desde 1998 en Melbourne.',
+      ],
+    },
+    de: {
+      title: 'Presidents Cup Tag 1: Medinah Kurs Nr. 3 eröffnet mit hochkarätigen Foursomes',
+      subtitle: 'Brandt Snedeker und Geoff Ogilvy stellen Spielpaarungen für Tag 1 auf. Scottie Scheffler führt US-Titelverteidigung an. Adam Scott beim 12. Cup.',
+      excerpt: 'Der 16. Presidents Cup beginnt am Donnerstag im Medinah Country Club in Illinois. Brandt Snedeker und Geoff Ogilvy führen ihre Teams in die morgendlichen Foursomes auf dem neugestalteten Kurs Nr. 3.',
+      body: [
+        'Nach dem Triumph von JJ Spaun bei der BMW PGA Championship in Wentworth schaut die Golfwelt nach Chicago. Der 16. Presidents Cup begann am Donnerstagmorgen im Medinah Country Club und fordert 24 Weltklasse-Golfer auf einem komplett renovierten Kurs Nr. 3.',
+        'PGA Tour und PresidentsCup.com berichten, dass Brandt Snedeker und Geoff Ogilvy ihre Foursomes-Paarungen bekanntgaben. Die Nummer 1 der Welt, Scottie Scheffler, tritt im Match 1 mit Russell Henley an, während Xander Schauffele und Patrick Cantlay auf Jason Day und Christiaan Bezuidenhout treffen. Adam Scott bestreitet seinen 12. Presidents Cup an der Seite von Hideki Matsuyama.',
+        'Am Donnerstag stehen vier wichtige Punkte auf dem Spiel. Schafft das internationale Team den ersten Sieg seit 1998, oder dominieren die US-Amerikaner von Beginn an?',
+      ],
+    },
+    it: {
+      title: 'Presidents Cup Giorno 1: partono i foursomes sul percorso n. 3 di Medinah',
+      subtitle: 'Brandt Snedeker e Geoff Ogilvy schierano i match del giorno 1. Scottie Scheffler guida gli USA. Adam Scott alla 12ª presenza.',
+      excerpt: 'La 16ª Presidents Cup comincia giovedì al Medinah Country Club in Illinois. Brandt Snedeker e Geoff Ogilvy guidano le rispettive squadre nei foursomes mattutini sul ridisegnato Course No. 3.',
+      body: [
+        'Dopo la vittoria di JJ Spaun al BMW PGA Championship a Wentworth, il golf mondiale si sposta a Chicago per la 16ª Presidents Cup al Medinah Country Club sul nuovo Course No. 3.',
+        'PGA Tour e PresidentsCup.com riportano le scelte dei capitani per la prima sessione. Il numero 1 al mondo Scottie Scheffler fa coppia con Russell Henley nel Match 1, mentre Schauffele e Cantlay affrontano Day e Bezuidenhout. Adam Scott gioca la sua dodicesima Presidents Cup insieme a Hideki Matsuyama.',
+        'I foursomes del giovedì mettono in palio quattro punti chiave nella corsa a 15,5 punti. Gli internazionali cercano la prima vittoria dal 1998 contro una solida squadra statunitense.',
+      ],
+    },
+    pl: {
+      title: 'Puchar Prezydentów Dzień 1: Medinah Course No. 3 otwiera zmagania czwórkami',
+      subtitle: 'Brandt Snedeker i Geoff Ogilvy ogłosili składy na dzień 1. Scottie Scheffler liderem obrońców tytułu. Adam Scott w 12. występie.',
+      excerpt: '16. Puchar Prezydentów rozpoczyna się w czwartek w Medinah Country Club w stanie Illinois. Kapitanowie Snedeker i Ogilvy wystawiają swoje pary na przebudowane pole Course No. 3.',
+      body: [
+        'Po zwycięstwie JJ Spauna w Wentworth uwaga golfowego świata przenosi się do Chicago. 16. edycja Pucharu Prezydentów rozpoczęła się w czwartek rano w Medinah Country Club.',
+        'PGA Tour i PresidentsCup.com podały pary na poranne mecze foursomes. Lider rankingu światowego Scottie Scheffler gra z Russellem Henleyem, natomiast Xander Schauffele i Patrick Cantlay mierzą się z Jasonem Dayem i Christiaanem Bezuidenhoutem. Legendarny Adam Scott występuje u boku Hidekiego Matsuyamy.',
+        'Czwartkowa runda foursomes to cztery punkty do zdobycia na drodze do wymaganych 15,5 punktu. Drużyna Międzynarodowa poluje na pierwszy triumf od 1998 roku.',
+      ],
+    },
+    zh: {
+      title: '2026总统杯首日：梅迪纳3号球场打响高水准四人两球赛',
+      subtitle: '斯内德克与奥格维公布首日对阵。世界第一舍夫勒领衔卫冕，斯科特第12次出战创纪录。',
+      excerpt: '第16届总统杯于周四在伊利诺伊州梅迪纳乡村俱乐部开打。队长布兰特·斯内德克与杰夫·奥格维带领队员在全新设计的3号球场展开首日上午的四人两球赛角逐。',
+      body: [
+        '继JJ·斯鲍恩在温特沃斯捧起宝马PGA锦标赛奖杯后，国际高尔夫赛程迅速聚焦芝加哥。第16届总统杯于周四上午在梅迪纳乡村俱乐部开幕，24位世界顶尖选手在全面改造的3号球场展开对决。',
+        '美巡赛与总统杯官方消息显示，队长斯内德克与奥格维在周三晚宴后公布了首日四人两球赛对阵。世界第一斯科蒂·舍夫勒搭档罗素·亨利在第1场出击，赞德·谢奥菲勒与帕特里克·坎特利对阵简森·戴伊和贝苏伊登霍特。国际队传奇亚当·斯科特第12次出战，与松山英树联手。',
+        '周四四人两球赛将产生关键的4分。国际队全力争取自1998年以来的首场胜利，而美国队力图在芝加哥早早确立领先优势。',
+      ],
+    },
+    ja: {
+      title: 'プレジデンツカップ初日：メディナ3番コースでフォーサム戦が開幕',
+      subtitle: 'スネデカーとオギルビーが初日のペアを発表。世界ランク1位シェフラーが連覇を牽引、スコットは12回目の出場。',
+      excerpt: '第16回プレジデンツカップが24日木曜日、米イリノイ州のメディナCCで開幕。スネデカー主将とオギルビー主将が率いる両軍が改修後の3番コースで午前フォーサム戦に臨む。',
+      body: [
+        'ウェントワースでのJJ・スポーン優勝に続き、ゴルフ界の視線はシカゴへ。第16回プレジデンツカップが24日木曜午前にメディナCCで幕を開け、全面改修された難関3番コースに24名の精鋭が集結した。',
+        'PGAツアーおよび大会公式によると、スネデカー主将とオギルビー主将が初日フォーサムのペアを発表。世界1位のスコッティ・シェフラーはラッセル・ヘンリーと組み第1マッチに登場、ショーフリーとカントレーはデイ＆ベザイデンホウトと激突する。世界選抜のアダム・スコットは松山英樹とタッグを組む。',
+        '木曜のフォーサム4マッチで序盤の主導権争いが展開される。世界選抜が1998年以来となる勝利を掴むか、米国選抜が序盤から圧倒するか注目が集まる。',
+      ],
+    },
+    ko: {
+      title: '프레지던츠컵 1일차: 메디나 3번 코스서 박진감 넘치는 포섬 매치 개막',
+      subtitle: '스네데커와 오길비 1일차 대진 확정. 세계 1위 셰플러 미국 수성 선봉, 애덤 스콧 12회 출전 금자탑.',
+      excerpt: '제16회 프레지던츠컵이 9월 24일 목요일 미국 일리노이주 메디나 컨트리클럽에서 개막했다. 브랜트 스네데커와 제프 오길비 단장이 새롭게 단장된 3번 코스 포섬 경기에 나선다.',
+      body: [
+        'JJ 스폰이 웬트워스에서 BMW PGA 챔피언십 정상에 오른 뒤 골프 팬들의 시선은 시카고로 향했다. 제16회 프레지던츠컵이 24일 오전 메디나 컨트리클럽에서 개막해 24명의 세계적 스타들이 재설계된 3번 코스에서 격돌한다.',
+        'PGA 투어와 대회 공식 발표에 따르면 브랜트 스네데커와 제프 오길비 단장은 1일차 포섬 대진을 확정했다. 세계 1위 스코티 셰플러는 러셀 헨리와 1경기에 나서고, 쇼플리와 캔틀리는 제이슨 데이 및 베자위덴하우트와 맞붙는다. 애덤 스콧은 마쓰야마 히데키와 호흡을 맞춘다.',
+        '목요일 포섬에 걸린 승점은 4점이다. 인터내셔널 팀이 1998년 이후 28년 만의 승리를 노리는 가운데 미국 팀이 홈그라운드 우위를 굳힐지 주목된다.',
+      ],
+    },
+    ar: {
+      title: 'كأس الرؤساء اليوم الأول: انطلاق مواجهات الفورسوم على ملعب مادينا رقم 3',
+      subtitle: 'سنديكر وأوجيلفي يحددان مواجهات اليوم الأول. سكوتي شيفلر يقود دفاع أمريكا وآدم سكوت يخوض مشاركته الـ12.',
+      excerpt: 'انطلقت النسخة الـ16 من كأس الرؤساء يوم الخميس في نادي مادينا الريفي في إلينوي، حيث يقود براندت سنديكر وجيف أوجيلفي فرقهما في مواجهات الفورسوم الصباحية.',
+      body: [
+        'بعد تتويج جيه جيه سباون ببطولة بي إم دبليو في وينتورث، تتجه أنظار الجولف العالمي إلى شيكاغو. بدأت النسخة الـ16 من كأس الرؤساء صباح الخميس في مادينا بمشاركة 24 من نخبة لاعبي العالم.',
+        'أفادت جولة بي جي إيه والموقع الرسمي للبطولة بإعلان تشكيلات الفورسوم لليوم الأول. يلعب المصنف الأول سكوتي شيفلر مع راسل هينلي في المباراة الأولى، بينما يواجه زاندر شوفيلي وباتريك كانتلي الثنائي جيسون داي وبيزويدنهوت. ويلعب آدم سكوت بجانب هيديكي ماتسوياما.',
+        'تمنح مواجهات الفورسوم يوم الخميس 4 نقاط حاسمة في السباق نحو 15.5 نقطة، حيث يسعى الفريق الدولي لكسر هيمنة أمريكا المستمرة منذ عام 1998.',
+      ],
+    },
+  },
+  'baku-gp-thursday-practice-2026': {
+    fr: {
+      title: 'Essais du jeudi à Bakou : Antonelli et Russell emmènent Mercedes sur le circuit urbain',
+      subtitle: 'Début exceptionnel le jeudi au circuit urbain de Bakou. Mercedes défend ses 503 points au championnat constructeurs. Qualifications vendredi, course samedi.',
+      excerpt: 'La Formule 1 prend la piste à Bakou pour les séances d’essais du jeudi. Kimi Antonelli et George Russell mènent le peloton Mercedes avant les qualifications de vendredi et le Grand Prix de samedi.',
+      body: [
+        'La Formule 1 avance son calendrier d’une journée pour le Grand Prix d’Azerbaïdjan 2026, courant du jeudi au samedi afin de respecter la journée du souvenir du dimanche 27 septembre. Le tracé de 6,003 km allie une ligne droite de 2,2 km et le passage du château le plus étroit du calendrier.',
+        'Formula1.com et Sky Sports confirment que les EL1 et EL2 ont débuté jeudi sous la chaleur des rives de la Caspienne. Mercedes arrive forte de sa domination après la victoire de Kimi Antonelli à Madrid. Le jeune prodige mène le classement pilotes avec 292 points, devant Russell (211 points).',
+        'L’action s’accélère dès vendredi avec les EL3 et les qualifications, qui fixeront la grille du Grand Prix de 51 tours programmé samedi à midi heure de Londres.',
+      ],
+    },
+    es: {
+      title: 'Entrenamientos del jueves en Bakú: Antonelli y Russell ponen a prueba a Mercedes en el trazado urbano',
+      subtitle: 'Raro inicio en jueves en el circuito de Bakú. Mercedes defiende su ventaja de 503 puntos en constructores. Clasificación el viernes, carrera el sábado.',
+      excerpt: 'La Fórmula 1 rueda en Bakú en las prácticas libres del jueves. Kimi Antonelli y George Russell comandan a Mercedes antes de la clasificación del viernes y el Gran Premio del sábado.',
+      body: [
+        'La Fórmula 1 adelanta su fin de semana un día en el Gran Premio de Azerbaiyán 2026, disputándose de jueves a sábado con motivo del Día del Recuerdo del domingo 27 de septiembre. El circuito de 6,003 km combina una recta de 2,2 km con el paso del castillo más estrecho del automovilismo.',
+        'Formula1.com y Sky Sports informan del inicio de los entrenamientos libres 1 y 2 a orillas del mar Caspio. Mercedes lidera el certamen de constructores con 503 puntos, mientras Kimi Antonelli encabeza el mundial de pilotos con 292 puntos frente a los 211 de George Russell.',
+        'El viernes albergará los Libres 3 y la sesión de clasificación, estableciendo la parrilla para el Gran Premio del sábado a 51 vueltas.',
+      ],
+    },
+    de: {
+      title: 'Donnerstagstraining in Baku: Antonelli und Russell testen Mercedes auf dem Straßenkurs',
+      subtitle: 'Ungewöhnlicher Donnerstag-Start am Baku City Circuit. Mercedes verteidigt 503 Punkte in der Konstrukteurs-WM. Qualifying am Freitag, Rennen am Samstag.',
+      excerpt: 'Die Formel 1 startet am Donnerstag in Baku in die freien Trainings. Antonelli und Russell führen das Mercedes-Feld vor dem Freitag-Qualifying und dem Grand Prix am Samstag an.',
+      body: [
+        'Die Formel 1 rückt ihren Ablauf um einen Tag vor: Der Große Preis von Aserbaidschan findet wegen des nationalen Gedenktags am Sonntag von Donnerstag bis Samstag statt. Der 6,003 Kilometer lange Kurs verbindet eine 2,2 km lange Vollgasgerade mit der extrem engen Burgpassage.',
+        'Formula1.com und Sky Sports bestätigen den Beginn von FP1 und FP2 am Kaspischen Meer. Mercedes tritt als WM-Führender mit 503 Konstrukteurspunkten an. Rookie Kimi Antonelli führt die Fahrerwertung mit 292 Punkten vor George Russell mit 211 Punkten an.',
+        'Am Freitag folgen FP3 und das Qualifying, bevor am Samstag der 51 Runden lange Grand Prix um 12:00 Uhr britischer Zeit gestartet wird.',
+      ],
+    },
+    it: {
+      title: 'Prove del giovedì a Baku: Antonelli e Russell portano la Mercedes sul tracciato cittadino',
+      subtitle: 'Inedita partenza di giovedì al Baku City Circuit. Mercedes difende 503 punti costruttori. Qualifiche venerdì, gara sabato.',
+      excerpt: 'La Formula 1 scende in pista a Baku per le prove libere del giovedì. I compagni di squadra Antonelli e Russell aprono i lavori in vista di qualifiche e gara.',
+      body: [
+        'La Formula 1 anticipa il weekend di un giorno per il Gran Premio d’Azerbaigian 2026, in programma da giovedì a sabato per rispettare la Giornata del Ricordo del 27 settembre. Il tracciato cittadino di 6,003 km presenta un rettilineo di 2,2 km e la sezione del castello più stretta del mondiale.',
+        'Formula1.com e Sky Sports confermano l’avvio di FP1 e FP2. La Mercedes si presenta al comando dei costruttori con 503 punti. Kimi Antonelli guida il mondiale piloti a quota 292 punti, seguito da Russell a 211.',
+        'Venerdì sarà tempo di FP3 e qualifiche, per definire lo schieramento del Gran Premio di sabato articolato su 51 giri.',
+      ],
+    },
+    pl: {
+      title: 'Czwartkowe treningi w Baku: Antonelli i Russell testują Mercedesa na torze ulicznym',
+      subtitle: 'Nietypowy czwartkowy start w Baku City Circuit. Mercedes broni 503 punktów wśród konstruktorów. Kwalifikacje w piątek, wyścig w sobotę.',
+      excerpt: 'Formuła 1 rozpoczęła czwartkowe sesje treningowe w Baku. Duet Mercedesa Antonelli i Russell sprawdza tempo przed piątkowymi kwalifikacjami i sobotnim wyścigiem.',
+      body: [
+        'Formuła 1 przesunęła weekend wyścigowy o jeden dzień z racji Dnia Pamięci w Azerbejdżanie przypadającego w niedzielę. Tor Baku City Circuit o długości 6,003 km łączy 2,2-kilometrową prostą z ciasną sekcją wokół zamku.',
+        'Formula1.com i Sky Sports donoszą o rozpoczęciu FP1 i FP2. Mercedes dominuje w klasyfikacji konstruktorów z dorobkiem 503 punktów. Debiutant Kimi Antonelli prowadzi wśród kierowców z 292 punktami przed George’em Russellem (211 punktów).',
+        'W piątek odbędą się FP3 i kwalifikacje, które ustalą pola startowe do sobotniego Grand Prix na dystansie 51 okrążeń.',
+      ],
+    },
+    zh: {
+      title: '巴库周四练习赛：安东内利与拉塞尔携奔驰出战街道赛道',
+      subtitle: '巴库城市赛道罕见周四开跑。梅赛德斯捍卫503分车队榜首。周五排位赛，周六正赛。',
+      excerpt: 'F1在巴库城市赛道打响周四自由练习赛。梅赛德斯车手安东内利与拉塞尔在周五排位赛与周六正赛前领跑备战。',
+      body: [
+        '为避开9月27日周日的阿塞拜疆全国纪念日，2026年阿塞拜疆大奖赛提前至周四至周六举行。全长6.003公里的巴库城市赛道包含长达2.2公里的超长全油门直道以及极为狭窄的城堡赛段。',
+        'F1官网与天空体育报道，周四一练与二练在里海之滨的温暖天气中展开。梅赛德斯携503分领跑车队积分榜。超级新星基米·安东内利以292分在车手榜领跑，队友拉塞尔积211分位居第二。',
+        '赛程节奏紧凑，周五将进行三练与排位赛，为周六全长51圈的正赛确定发车顺位。',
+      ],
+    },
+    ja: {
+      title: 'バクー木曜フリー走行：アントネッリとラッセルが市街地コースでメルセデスを駆る',
+      subtitle: 'バクー市街地コースで異例の木曜開幕。メルセデスは503点の製造者首位を守る。金曜予選、土曜決勝。',
+      excerpt: 'F1アゼルバイジャンGPの木曜フリー走行がバクー市街地コースで始まった。アントネッリとラッセルが金曜の予選、土曜の決勝に向けてマシンの感触を確かめる。',
+      body: [
+        '9月27日日曜の追悼記念日を考慮し、2026年アゼルバイジャンGPは木曜から土曜の日程で開催。全長6.003キロのコースは2.2キロの超高速ストレートと城壁沿いの極狭区間が交錯する。',
+        'F1公式とSky Sportsによると、FP1とFP2が木曜にスタート。マドリードで歴史的勝利を挙げたメルセデスは製造者部門で503点を獲得。新星キミ・アントネッリが292点でドライバーズ首位、ラッセルが211点で追う。',
+        '金曜にはFP3と予選が行われ、土曜の51周の決勝に向けたスターティンググリッドが決まる。',
+      ],
+    },
+    ko: {
+      title: '바쿠 목요 연습 세션: 안토넬리와 러셀, 시가지 서킷서 메르세데스 테스트',
+      subtitle: '바쿠 시티 서킷의 이례적인 목요일 출발. 메르세데스 503점 제조사 선두 방어. 금요일 예선, 토요일 결선.',
+      excerpt: 'F1 아제르바이잔 그랑프리가 목요일 바쿠 시티 서킷에서 공식 연습 세션을 시작했다. 메르세데스의 안토넬리와 러셀이 금요일 예선과 토요일 결선을 앞두고 속도를 끌어올린다.',
+      body: [
+        '일요일 전몰자 추모의 날을 배려해 2026 아제르바이잔 GP는 목요일부터 토요일까지 치러진다. 6.003km의 바쿠 서킷은 2.2km의 고속 직선 구간과 올드타운의 좁은 성벽 코너로 악명 높다.',
+        'F1 공식과 스카이 스포츠에 따르면 목요일 FP1과 FP2가 카스피해 연안에서 진행됐다. 메르세데스는 컨스트럭터 503점으로 선두를 질주 중이며, 키미 안토넬리는 292점으로 조지 러셀(211점)을 앞서고 있다.',
+        '금요일에는 FP3과 예선이 열려 토요일 51랩 결선 레이스의 그리드가 최종 확정된다.',
+      ],
+    },
+    ar: {
+      title: 'تجارب باكو يوم الخميس: أنتونيللي وروسيل يقودان مرسيدس في حلبة الشوارع',
+      subtitle: 'انطلاق استثنائي يوم الخميس في حلبة باكو. مرسيدس تدافع عن 503 نقاط في بطولة الصانعين. التصفيات الجمعة والسباق السبت.',
+      excerpt: 'انطلقت تجارب سباق جائزة أذربيجان الكبرى لسباقات فورمولا 1 يوم الخميس في حلبة باكو، حيث يختبر ثنائي مرسيدس أنتونيللي وروسيل مسار الحلبة.',
+      body: [
+        'تم تقديم جدول سباق أذربيجان 2026 يوما واحدا ليقام من الخميس إلى السبت احتراما ليوم الذكرى الوطني الأحد. يبلغ طول حلبة باكو 6.003 كم مع خط مستقيم بطول 2.2 كم ومقطع قلعة شديد الضيق.',
+        'أكد موقع فورمولا 1 وسكاي سبورتس انطلاق حصتي التجارب الأولى والثانية يوم الخميس. تتصدر مرسيدس بطولة الصانعين برصيد 503 نقاط، بينما يتصدر كيمي أنتونيللي بطولة السائقين برصيد 292 نقطة متقدما على جورج روسيل برصيد 211 نقطة.',
+        'تتواصل الإثارة يوم الجمعة مع حصة التجارب الثالثة والتصفيات الرسمية لتحديد شبكة انطلاق السباق المكون من 51 لفة يوم السبت.',
+      ],
+    },
+  },
+  'laver-cup-london-eve-2026': {
+    fr: {
+      title: 'Veille de Laver Cup à Londres : Noah et Agassi dévoilent les duels du vendredi à l’O2',
+      subtitle: 'L’équipe Europe et l’équipe Monde finalisent l’ordre des matches du jour 1. Alcaraz et Zverev mènent l’Europe. Fritz et De Minaur mènent le Monde.',
+      excerpt: 'À la veille de la Laver Cup 2026 à l’O2 Arena de Londres, les capitaines Yannick Noah et Andre Agassi ont dévoilé les affiches de la journée d’ouverture du vendredi.',
+      body: [
+        'Après les sacres d’Alexander Zverev et d’Elena Rybakina à New York, le tennis mondial prend ses quartiers sur le court noir de l’O2 à Londres. La 9e édition de la Laver Cup marque la passation de relais entre les capitaines légendaires : Yannick Noah et Andre Agassi prennent les rênes.',
+        'Les organisateurs et Sky Sports ont confirmé les conférences de presse et les sélections d’équipes jeudi. L’Europe compte sur Zverev, Carlos Alcaraz, Casper Ruud, Flavio Cobolli, Jakub Mensik et Rafael Jodar. L’équipe Monde d’Agassi s’appuie sur Taylor Fritz, Alex de Minaur, Brandon Nakashima, Learner Tien, Alexander Bublik et Francisco Cerundolo.',
+        'Les matches du vendredi rapportent un point chacun, le samedi deux points et le dimanche trois points. La première formation à 13 points soulève le trophée.',
+      ],
+    },
+    es: {
+      title: 'Víspera de la Laver Cup en Londres: Noah y Agassi revelan los duelos del viernes en el O2',
+      subtitle: 'El Equipo Europa y el Equipo Resto del Mundo definen el orden de juego del día 1. Alcaraz y Zverev lideran Europa. Fritz y De Minaur comandan el Mundo.',
+      excerpt: 'En la víspera de la Laver Cup 2026 en el O2 de Londres, los capitanes Yannick Noah y Andre Agassi anunciaron los cruces de la jornada inaugural del viernes.',
+      body: [
+        'Tras los títulos de Zverev y Rybakina en Flushing Meadows, el tenis aterriza en la emblemática pista negra del O2 de Londres. La 9.ª Laver Cup presenta una nueva era con Yannick Noah y Andre Agassi tomando el mando como capitanes.',
+        'Sky Sports y la web del torneo confirmaron los anuncios oficiales de este jueves. Europa cuenta con Zverev, Carlos Alcaraz, Casper Ruud, Flavio Cobolli, Jakub Mensik y Rafael Jodar. El Equipo Mundo de Agassi alinea a Taylor Fritz, Alex de Minaur, Brandon Nakashima, Learner Tien, Alexander Bublik y Francisco Cerundolo.',
+        'El sistema de puntuación otorga un punto por victoria el viernes, dos el sábado y tres el domingo. El primer equipo en llegar a 13 puntos se corona campeón.',
+      ],
+    },
+    de: {
+      title: 'Laver-Cup-Auftakt in London: Noah und Agassi geben Eröffnungsmatches für Freitag bekannt',
+      subtitle: 'Team Europa und Team Welt finalisieren Spielplan für Tag 1. Alcaraz und Zverev führen Europa an. Fritz und De Minaur führen Team Welt.',
+      excerpt: 'Am Vorabend des Laver Cup 2026 in der Londoner O2 Arena enthüllten die Kapitäne Yannick Noah und Andre Agassi die Duelle für den Eröffnungstag am Freitag.',
+      body: [
+        'Nach den US-Open-Triumphen von Zverev und Rybakina wechselt die Tenniselite auf den schwarzen Hartplatz der O2 Arena in London. Die neunte Auflage des Laver Cup markiert einen historischen Wechsel auf der Trainerbank: Yannick Noah und Andre Agassi übernehmen das Kommando.',
+        'Sky Sports und die Laver-Cup-Leitung bestätigten die Aufgebote am Donnerstag. Team Europa setzt auf Zverev, Carlos Alcaraz, Casper Ruud, Flavio Cobolli, Jakub Mensik und Rafael Jodar. Agassis Weltauswahl tritt mit Taylor Fritz, Alex de Minaur, Brandon Nakashima, Learner Tien, Alexander Bublik und Francisco Cerundolo an.',
+        'Jeder Sieg am Freitag bringt einen Punkt, am Samstag zwei und am Sonntag drei. Das erste Team mit 13 Punkten gewinnt die Trophäe.',
+      ],
+    },
+    it: {
+      title: 'Vigilia di Laver Cup a Londra: Noah e Agassi svelano i match di venerdì all’O2',
+      subtitle: 'Team Europe e Team World stabiliscono l’ordine di gioco del day 1. Alcaraz e Zverev guidano l’Europa. Fritz e De Minaur guidano il Resto del Mondo.',
+      excerpt: 'Alla vigilia della Laver Cup 2026 all’O2 di Londra, i capitani Yannick Noah e Andre Agassi hanno presentato le partite della giornata inaugurale di venerdì.',
+      body: [
+        'Dopo i trionfi newyorkesi di Alexander Zverev ed Elena Rybakina, il circuito approda sul campo nero dell’O2 Arena di Londra. La nona edizione della Laver Cup segna il debutto in panchina di Yannick Noah e Andre Agassi.',
+        'Sky Sports e l’organizzazione hanno reso note le formazioni nella giornata di giovedì. L’Europa schiera Zverev, Carlos Alcaraz, Casper Ruud, Flavio Cobolli, Jakub Mensik e Rafael Jodar. Il Team World replica con Taylor Fritz, Alex de Minaur, Brandon Nakashima, Learner Tien, Alexander Bublik e Francisco Cerundolo.',
+        'Venerdì ogni vittoria vale un punto, sabato due punti e domenica tre punti. La prima squadra a raggiungere quota 13 conquista il trofeo.',
+      ],
+    },
+    pl: {
+      title: 'Przedednie Laver Cup w Londynie: Noah i Agassi ogłaszają piątkowe pojedynki w The O2',
+      subtitle: 'Drużyna Europy i Drużyna Świata zamykają plan gier na 1. dzień. Alcaraz i Zverev liderami Europy. Fritz i De Minaur na czele Świata.',
+      excerpt: 'W przeddzień Laver Cup 2026 w The O2 w Londynie kapitanowie Yannick Noah i Andre Agassi ogłosili zestaw par na piątkowe otwarcie turnieju.',
+      body: [
+        'Po sukcesach Zvereva i Rybakiny na US Open uwaga przenosi się na charakterystyczny czarny kort w londyńskiej The O2. 9. edycja Pucharu Lavera to nowa era kapitanów: stery objęli Yannick Noah i Andre Agassi.',
+        'Sky Sports i organizatorzy potwierdzili składy w czwartek. Drużynę Europy reprezentują Zverev, Carlos Alcaraz, Casper Ruud, Flavio Cobolli, Jakub Mensik oraz Rafael Jodar. W Drużynie Świata grają Taylor Fritz, Alex de Minaur, Brandon Nakashima, Learner Tien, Alexander Bublik i Francisco Cerundolo.',
+        'W piątek za każde zwycięstwo przyznawany jest jeden punkt, w sobotę dwa, a w niedzielę trzy. Do zdobycia pucharu potrzeba 13 punktów.',
+      ],
+    },
+    zh: {
+      title: '拉沃尔杯伦敦前瞻：诺阿与阿加西揭晓周五O2揭幕对决',
+      subtitle: '欧洲队与世界队敲定首日出场名单。阿尔卡拉斯与兹维列夫领衔欧洲，弗里茨与德米纳尔率世界队应战。',
+      excerpt: '在2026年拉沃尔杯于伦敦O2体育馆揭幕前夕，两位新任队长雅尼克·诺阿与安德烈·阿加西公布了周五开幕日的比赛对阵。',
+      body: [
+        '随着兹维列夫与莱巴金娜在美网捧杯，世界网坛迅速移师伦敦O2体育馆的黑色球场。第9届拉沃尔杯迎来了历史性交接：传奇队长博格与麦肯罗功成身退，诺阿与阿加西正式执掌帅印。',
+        '天空体育与拉沃尔杯官方周四举行了媒体日发布会。欧洲队阵容包括美网冠军兹维列夫、阿尔卡拉斯、鲁德、科博利、门希克以及新星霍达尔。阿加西的世界队则由弗里茨、德米纳尔、中岛布兰登、田恩、布勃利克和塞伦多洛组成。',
+        '比赛积分采取递增制：周五每胜1分，周六每胜2分，周日每胜3分。率先获得13分的队伍将捧起拉沃尔杯。周五揭幕战于英国时间下午1点打响。',
+      ],
+    },
+    ja: {
+      title: 'レーバーカップ前夜・ロンドン：ノアとアガシがO2での金曜開幕カードを発表',
+      subtitle: 'チーム・ヨーロッパとチーム・ワールドが初日の対戦順を決定。アルカラスとズベレフが欧州牽引、フリッツとデミノーが世界選抜を率いる。',
+      excerpt: 'ロンドンのO2アリーナで開催される2026年レーバーカップの開幕を翌日に控え、ノアとアガシ両主将が金曜初日の対戦カードを明らかにした。',
+      body: [
+        '全米オープンでのズベレフとルバキナの優勝を受け、テニス界はロンドンO2アリーナの黒い特設コートに集結。第9回レーバーカップはボルグとマッケンローからノアとアガシへと主将が引き継がれる新時代を迎えた。',
+        'Sky Sportsと大会公式は木曜日に記者会見を開きメンバーを発表。欧州選抜はズベレフ、アルカラス、ルード、コボッリ、メンシク、ホダル。アガシ率いる世界選抜はフリッツ、デミノー、ナカシマ、ティエン、ブブリク、セルンドロが並ぶ。',
+        '勝利ポイントは金曜1点、土曜2点、日曜3点と増え、先に13点を獲得したチームが栄冠を手にする。金曜の第1試合は英国時間午後1時に始まる。',
+      ],
+    },
+    ko: {
+      title: '런던 레이버컵 전야: 노아와 애거시, O2 아레나 금요 개막 대진 발표',
+      subtitle: '팀 유럽과 팀 월드 1일차 경기 순서 확정. 알카라스와 츠베레프 유럽 선봉, 프리츠와 드미노 팀 월드 지휘.',
+      excerpt: '런던 O2 아레나에서 열리는 2026 레이버컵 개막을 하루 앞두고 야닉 노아와 안드레 애거시 주장이 금요일 개막전 대진을 발표했다.',
+      body: [
+        'US 오픈에서 알렉산더 츠베레프와 엘레나 리바키나가 우승을 차지한 뒤 테니스 팬들의 시선은 런던 O2 아레나의 블랙 코트로 향했다. 제9회 레이버컵은 노아와 애거시가 지휘봉을 넘겨받으며 새 시대를 열었다.',
+        '스카이 스포츠와 대회 조직위원회는 목요일 기자회견을 열고 공식 스쿼드를 확정했다. 팀 유럽은 츠베레프, 카를로스 알카라스, 카스페르 루드, 플라비오 코볼리, 야쿠프 멘시크, 라파엘 호다르로 구성됐다. 팀 월드는 테일러 프리츠, 알렉스 드미노, 브랜던 나카시마, 러너 티엔, 알렉산더 부블릭, 프란시스코 세룬돌로가 출전한다.',
+        '승점은 금요일 1점, 토요일 2점, 일요일 3점으로 늘어나며 13점을 먼저 선점하는 팀이 우승 트로피를 차지한다. 1일차 경기는 영국 시간 금요일 오후 1시에 시작된다.',
+      ],
+    },
+    ar: {
+      title: 'عشية كأس لافر في لندن: نواه وأغاسي يعلنان مواجهات الجمعة الافتتاحية في O2',
+      subtitle: 'فريق أوروبا وفريق العالم يحددان جدول مباريات اليوم الأول. ألكاراز وزفيريف يقودان أوروبا، وفريتز ودي مينور يقودان العالم.',
+      excerpt: 'عشية انطلاق كأس لافر 2026 في قاعة O2 في لندن، كشف القائدان يانيك نواه وأندريه أغاسي عن مواجهات اليوم الافتتاحي الجمعة.',
+      body: [
+        'بعد تتويج زفيريف وريباكينا في أمريكا المفتوحة، ينتقل التنس العالمي إلى الملعب الأسود الشهير في O2 لندن. تشهد النسخة التاسعة بداية حقبة جديدة بتولي يانيك نواه وأندريه أغاسي قيادة الفريقين.',
+        'أكدت شبكة سكاي سبورتس والموقع الرسمي تشكيلات الفرق يوم الخميس. يضم فريق أوروبا زفيريف وألكاراز ورود وكوبولي ومنسيك وجودار. ويضم فريق العالم بقيادة أغاسي فريتز ودي مينور وناكاشيما وتيين وبوبليك وسيروندولو.',
+        'تمنح انتصارات الجمعة نقطة واحدة والسبت نقطتين والأحد ثلاث نقاط، ويتوج باللقب أول فريق يصل إلى 13 نقطة. تنطلق مباريات الجمعة في الواحدة ظهرا بتوقيت بريطانيا.',
+      ],
+    },
+  },
 };
 

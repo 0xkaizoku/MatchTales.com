@@ -1,25 +1,26 @@
 {
   "funFacts": [
-    "Playoffs begin 27 September 2026.",
-    "Lynx 31-10, still the one-seed after a 93-81 loss to the Liberty.",
-    "Wikipedia 20 September: Wings 26-16 sixth, Liberty and Mystics 25-16."
+    "Playoffs begin Sunday 27 September 2026.",
+    "Minnesota Lynx clinch No. 1 overall seed at 32-10.",
+    "Caitlin Clark and Indiana Fever (27-15, No. 5 seed) face Atlanta Dream (28-14, No. 4 seed) in Round 1."
   ],
   "keyPlayers": [
     {
       "name": "Minnesota Lynx",
       "team": "Lynx",
-      "hook": "31-10, one-seed, still top after three straight losses."
+      "hook": "32-10, No. 1 seed, eyeing redemption after regular season finale."
     },
     {
-      "name": "Golden State Valkyries",
-      "team": "Valkyries",
-      "hook": "31-11, two-seed in year two."
+      "name": "Indiana Fever",
+      "team": "Fever",
+      "hook": "27-15, No. 5 seed, powered by Caitlin Clark into Round 1 clash with Atlanta."
     }
   ],
   "headToHead": "",
   "tags": [
     "wnba",
     "lynx",
+    "fever",
     "playoffs"
   ],
   "homeCode": null,
@@ -52,13 +53,13 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "wnba-2026-playoff-field",
-  "headline": "The WNBA field: Lynx 31-10, playoffs 27 September",
-  "whyCareScore": 8.6,
-  "whyCareReason": "September basketball in 2026 is the women's game. Eight teams, a 27 September start, Minnesota still on top at 31-10.",
-  "teaser": "Seeds as of 20 September: Lynx 31-10, Valkyries 31-11, Aces 28-13, Dream 28-14, Fever 27-14, Wings 26-16, Liberty 25-16, Mystics 25-16.",
-  "story": "Why this one matters: the NBA is in its offseason. The WNBA has an eight-team field and the playoffs begin 27 September. Regular-season games remain on the WNBA.com board through 24 September.\n\nWikipedia qualifying table, 20 September: Minnesota Lynx 31-10, Golden State Valkyries 31-11, Las Vegas Aces 28-13, Atlanta Dream 28-14, Indiana Fever 27-14, Dallas Wings 26-16, New York Liberty 25-16, Washington Mystics 25-16. First round is best of three. Semifinals best of five. Finals best of seven for the second time.\n\nThe Aces are the defending champions from 2025. The Lynx have the one-seed. The Valkyries, in year two, have the two-seed. Do not invent a 2026 champion. The playoff games have not started.",
-  "stakes": "Home court, a one-seed, a 27 September start.",
-  "rivalryAngle": "Lynx versus a field that includes last year's champions and a second-year Valkyries side.",
+  "headline": "WNBA Playoff Bracket Locked: Lynx claim top seed, Fever face Dream in Round 1",
+  "whyCareScore": 8.8,
+  "whyCareReason": "The eight-team WNBA postseason bracket is set for Sunday 27 September with the Lynx claiming the No. 1 seed and Caitlin Clark's Fever facing the Atlanta Dream in Round 1.",
+  "teaser": "Playoff bracket locked for Sunday 27 September: (1) Lynx vs (8) Mystics, (2) Valkyries vs (7) Liberty, (3) Aces vs (6) Wings, (4) Dream vs (5) Fever.",
+  "story": "Why this one matters: The WNBA regular season has officially wrapped following Indiana's 96-77 statement over Minnesota. The eight-team postseason bracket is locked for tip-off on Sunday 27 September.\n\nWNBA.com official seeds: Minnesota Lynx (32-10) enter as the No. 1 overall seed. The Golden State Valkyries (31-11) capture the No. 2 seed in their second year, with the defending champion Las Vegas Aces (29-13) at No. 3 and Atlanta Dream (28-14) at No. 4.\n\nRound 1 best-of-three matchups: (1) Lynx vs (8) Mystics, (2) Valkyries vs (7) Liberty, (3) Aces vs (6) Wings, and the blockbuster (4) Dream vs (5) Fever featuring Caitlin Clark. Semifinals will be best of five, with the Finals best of seven. The race for the 2026 crown begins Sunday.",
+  "stakes": "Home court, a one-seed, and opening-round best-of-three series starting Sunday 27 September.",
+  "rivalryAngle": "Top-seeded Lynx and defending champion Aces face surging challengers in a loaded eight-team field.",
   "home": "Minnesota Lynx",
   "away": "Playoff field",
   "group": "WNBA",

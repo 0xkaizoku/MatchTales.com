@@ -39,16 +39,28 @@
   "resultSummary": "",
   "leaderboard": [
     {
-      "pos": "-",
-      "name": "United States (Capt. Brandt Snedeker)",
-      "score": "0 pts",
-      "note": "Scheffler, Young, Clark, Burns, Henley, Morikawa"
+      "pos": "M1",
+      "name": "Scheffler & Henley (USA) vs Scott & Matsuyama (INT)",
+      "score": "Foursomes",
+      "note": "Medinah Course No. 3 Match 1"
     },
     {
-      "pos": "-",
-      "name": "International (Capt. Geoff Ogilvy)",
-      "score": "0 pts",
-      "note": "Scott, Matsuyama, S.W. Kim, M.W. Lee, T. Kim, Fox"
+      "pos": "M2",
+      "name": "Schauffele & Cantlay (USA) vs Im & Day (INT)",
+      "score": "Foursomes",
+      "note": "Match 2"
+    },
+    {
+      "pos": "M3",
+      "name": "Morikawa & Theegala (USA) vs Kim & Lee (INT)",
+      "score": "Foursomes",
+      "note": "Match 3"
+    },
+    {
+      "pos": "M4",
+      "name": "Burns & Clark (USA) vs Fox & Pendrith (INT)",
+      "score": "Foursomes",
+      "note": "Match 4"
     }
   ],
   "tennisSets": [],
@@ -74,11 +86,11 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "presidents-cup-2026-medinah",
-  "headline": "Presidents Cup at Medinah: USA and Internationals ready for Course No. 3",
+  "headline": "Presidents Cup Day 1 at Medinah: USA and Internationals battle in Course No. 3 foursomes",
   "whyCareScore": 9.2,
-  "whyCareReason": "The biennial team showdown arrives at a transformed Medinah No. 3 with Scottie Scheffler anchoring the Americans and Adam Scott chasing history for the Internationals.",
-  "teaser": "Medinah Country Club, 22-27 September. Practice rounds underway, competition begins Thursday. Snedeker leads USA, Ogilvy leads Internationals.",
-  "story": "Why this one matters: JJ Spaun closed Wentworth at 17 under on Sunday. The golfing calendar wastes no time pivoting to one of the sport's greatest team spectacles: the 16th Presidents Cup at Medinah Country Club in Illinois.\n\nPGA Tour and PresidentsCup.com outline the battlefield: Medinah's storied Course No. 3, recently reconstructed into a strategic masterpiece. The American roster features world No. 1 Scottie Scheffler, Cameron Young, Wyndham Clark, Sam Burns, Collin Morikawa, Patrick Cantlay and Xander Schauffele under captain Brandt Snedeker.\n\nGeoff Ogilvy's International squad counters with depth and hunger, spearheaded by Adam Scott in his 12th cup appearance alongside Hideki Matsuyama, Min Woo Lee, Tom Kim and Open champion Ryan Fox. The International team has not won since 1998 in Melbourne. Practice rounds are in motion, and Thursday's foursomes will ignite the competition.",
+  "whyCareReason": "The 16th Presidents Cup begins Thursday on a transformed Medinah No. 3 with Scottie Scheffler anchoring the American defense and Adam Scott chasing history in his 12th cup.",
+  "teaser": "Medinah Country Club, 24-27 September. Day 1 foursomes underway on Course No. 3. Snedeker leads USA, Ogilvy leads Internationals.",
+  "story": "Why this one matters: JJ Spaun closed Wentworth at 17 under on Sunday. The golfing calendar wastes no time pivoting to one of the sport's greatest team spectacles: the 16th Presidents Cup at Medinah Country Club in Illinois.\n\nPGA Tour and PresidentsCup.com outline the battlefield: Medinah's storied Course No. 3, recently reconstructed into a strategic masterpiece. The American roster features world No. 1 Scottie Scheffler, Cameron Young, Wyndham Clark, Sam Burns, Collin Morikawa, Patrick Cantlay and Xander Schauffele under captain Brandt Snedeker.\n\nGeoff Ogilvy's International squad counters with depth and hunger, spearheaded by Adam Scott in his 12th cup appearance alongside Hideki Matsuyama, Min Woo Lee, Tom Kim and Open champion Ryan Fox. The International team has not won since 1998 in Melbourne. Thursday's opening foursomes ignite the competition on Medinah's revamped layout.",
   "stakes": "The United States defends their long-standing supremacy, while the International side seeks their first triumph in 28 years.",
   "rivalryAngle": "Team USA dominance versus International determination on Chicago's most famous championship stage.",
   "home": "United States",

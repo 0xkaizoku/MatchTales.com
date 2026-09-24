@@ -311,6 +311,7 @@ export function competitionName(competition: string | null | undefined, locale: 
     if (competition.startsWith('premier-league')) return 'Premier League';
     if (competition === 'nfl-2026') return 'NFL';
     if (competition === 'bmw-pga-2026') return 'BMW PGA Championship';
+    if (competition === 'presidents-cup-2026') return 'Presidents Cup';
     if (competition === 'laver-cup-2026') return 'Laver Cup';
     if (competition === 'davis-cup-2026') return 'Davis Cup';
     if (competition === 'f1-2026') return 'Formula 1';
