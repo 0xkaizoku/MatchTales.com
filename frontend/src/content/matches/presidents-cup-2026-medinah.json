@@ -35,31 +35,31 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "16th Presidents Cup",
+  "roundLabel": "16th Presidents Cup · Day 2",
   "resultSummary": "",
   "leaderboard": [
     {
       "pos": "M1",
       "name": "Scheffler & Henley (USA) vs Scott & Matsuyama (INT)",
-      "score": "Foursomes",
+      "score": "In Progress",
       "note": "Medinah Course No. 3 Match 1"
     },
     {
       "pos": "M2",
       "name": "Schauffele & Cantlay (USA) vs Im & Day (INT)",
-      "score": "Foursomes",
+      "score": "In Progress",
       "note": "Match 2"
     },
     {
       "pos": "M3",
       "name": "Morikawa & Theegala (USA) vs Kim & Lee (INT)",
-      "score": "Foursomes",
+      "score": "In Progress",
       "note": "Match 3"
     },
     {
       "pos": "M4",
       "name": "Burns & Clark (USA) vs Fox & Pendrith (INT)",
-      "score": "Foursomes",
+      "score": "In Progress",
       "note": "Match 4"
     }
   ],
@@ -86,21 +86,21 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "presidents-cup-2026-medinah",
-  "headline": "Presidents Cup Day 1 at Medinah: USA and Internationals battle in Course No. 3 foursomes",
-  "whyCareScore": 9.2,
-  "whyCareReason": "The 16th Presidents Cup begins Thursday on a transformed Medinah No. 3 with Scottie Scheffler anchoring the American defense and Adam Scott chasing history in his 12th cup.",
-  "teaser": "Medinah Country Club, 24-27 September. Day 1 foursomes underway on Course No. 3. Snedeker leads USA, Ogilvy leads Internationals.",
-  "story": "Why this one matters: JJ Spaun closed Wentworth at 17 under on Sunday. The golfing calendar wastes no time pivoting to one of the sport's greatest team spectacles: the 16th Presidents Cup at Medinah Country Club in Illinois.\n\nPGA Tour and PresidentsCup.com outline the battlefield: Medinah's storied Course No. 3, recently reconstructed into a strategic masterpiece. The American roster features world No. 1 Scottie Scheffler, Cameron Young, Wyndham Clark, Sam Burns, Collin Morikawa, Patrick Cantlay and Xander Schauffele under captain Brandt Snedeker.\n\nGeoff Ogilvy's International squad counters with depth and hunger, spearheaded by Adam Scott in his 12th cup appearance alongside Hideki Matsuyama, Min Woo Lee, Tom Kim and Open champion Ryan Fox. The International team has not won since 1998 in Melbourne. Thursday's opening foursomes ignite the competition on Medinah's revamped layout.",
+  "headline": "Presidents Cup Day 2 at Medinah: USA and Internationals battle on Course No. 3",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Day 2 at Medinah brings intense team match play as Brandt Snedeker's Americans defend their lead against Geoff Ogilvy's International squad.",
+  "teaser": "Medinah Country Club, 25 September. Day 2 matches underway on Course No. 3. Snedeker leads USA, Ogilvy leads Internationals.",
+  "story": "Why this one matters: Following Thursday's opening encounters, the 16th Presidents Cup hits high gear Friday at Medinah Country Club in Illinois on the newly contoured Course No. 3.\n\nPGA Tour and PresidentsCup.com report that captains Brandt Snedeker and Geoff Ogilvy have sent out their top pairings for Friday's session. World No. 1 Scottie Scheffler and Russell Henley take on Adam Scott and Hideki Matsuyama, while Patrick Cantlay and Xander Schauffele duel Jason Day and Sungjae Im.\n\nWith Medinah's strategic OCM-redesigned greens placing a premium on precision and poise, Friday points carry massive weight before the weekend singles and four-balls.",
   "stakes": "The United States defends their long-standing supremacy, while the International side seeks their first triumph in 28 years.",
   "rivalryAngle": "Team USA dominance versus International determination on Chicago's most famous championship stage.",
   "home": "United States",
   "away": "International Team",
   "group": "PGA",
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "time": "08:00",
   "venue": "Medinah Country Club (Course No. 3)",
   "city": "Medinah",
-  "status": "UPCOMING",
+  "status": "LIVE",
   "sport": "golf",
   "competition": "presidents-cup-2026"
 }

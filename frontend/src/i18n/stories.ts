@@ -1666,5 +1666,281 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+  'laver-cup-day1-o2-london-2026': {
+    fr: {
+      title: 'Laver Cup Jour 1 : Ruud contre Cerúndolo et Menšík contre Nakashima enflamment l’O2',
+      subtitle: 'Yannick Noah et Andre Agassi fixent les premiers duels à Londres. Un point par victoire le premier jour. Première équipe à 13 points.',
+      excerpt: 'La 9e Laver Cup s’ouvre vendredi à l’O2 Arena de Londres. Casper Ruud affronte Francisco Cerúndolo et Jakub Menšík défie Brandon Nakashima en simple.',
+      body: [
+        'Après Flushing Meadows, le tennis mondial s’installe sous le dôme de l’O2 à Londres pour la 9e Laver Cup. Ce tournoi marque une grande première avec de nouveaux capitaines : Yannick Noah dirige l’équipe Europe et Andre Agassi mène l’équipe Monde.',
+        'Les organisateurs et Sky Sports ont confirmé la feuille de match du vendredi. La session de jour débute à 13h00 sur le court noir. Casper Ruud ouvre le bal pour l’Europe contre l’Argentin Francisco Cerúndolo, suivi du match entre le jeune tchèque Jakub Menšík et l’Américain Brandon Nakashima.',
+        'Chaque succès le vendredi rapporte un point. Les matches de samedi vaudront deux points et ceux de dimanche trois points. La première formation à atteindre 13 points soulève le trophée.',
+      ],
+    },
+    es: {
+      title: 'Laver Cup Día 1: Ruud ante Cerúndolo y Menšík ante Nakashima encienden el O2',
+      subtitle: 'Yannick Noah y Andre Agassi definen los duelos del viernes en Londres. Un punto por victoria en la jornada 1. Primer equipo en llegar a 13 puntos.',
+      excerpt: 'La 9.ª Laver Cup se pone en marcha este viernes en el O2 Arena de Londres. Casper Ruud choca con Francisco Cerúndolo y Jakub Menšík se mide a Brandon Nakashima en individuales.',
+      body: [
+        'Tras el cierre del US Open, el tenis internacional aterriza bajo el techo del O2 de Londres para la 9.ª Laver Cup. El certamen estrena la era de Yannick Noah al frente de Europa y Andre Agassi como capitán del Equipo Mundo.',
+        'Sky Sports y la organización confirmaron el orden de juego del viernes. La jornada diurna arranca a las 13:00 hora local en la pista negra con el duelo entre Casper Ruud y Francisco Cerúndolo, seguido por el choque entre Jakub Menšík y Brandon Nakashima.',
+        'Cada victoria del viernes otorga un punto. Las del sábado sumarán dos y las del domingo tres. El primer equipo que consiga 13 puntos alzará la copa.',
+      ],
+    },
+    de: {
+      title: 'Laver Cup Tag 1: Ruud gegen Cerúndolo und Menšík gegen Nakashima eröffnen The O2',
+      subtitle: 'Yannick Noah und Andre Agassi stellen Aufstellung für Freitag auf. Ein Punkt pro Sieg am ersten Tag. Erstes Team bei 13 Punkten gewinnt.',
+      excerpt: 'Der 9. Laver Cup beginnt am Freitag in der Londoner O2 Arena. Casper Ruud trifft auf Francisco Cerúndolo und Jakub Menšík spielt gegen Brandon Nakashima.',
+      body: [
+        'Nach Flushing Meadows versammelt sich die Tenniselite in der Londoner O2 Arena zum 9. Laver Cup. Die Kapitäne Yannick Noah (Team Europa) und Andre Agassi (Team Welt) leiten erstmals ihre Teams an.',
+        'Sky Sports und die Laver-Cup-Leitung bestätigten das Programm für Freitag. Ab 13:00 Uhr Ortszeit eröffnet Casper Ruud gegen Francisco Cerúndolo auf dem schwarzen Hartplatz, gefolgt vom Duell Jakub Menšík gegen Brandon Nakashima.',
+        'Jeder Sieg am Freitag bringt einen Punkt, am Samstag zwei und am Sonntag drei. Das Team, das zuerst 13 Punkte erzielt, gewinnt den Pokal.',
+      ],
+    },
+    it: {
+      title: 'Laver Cup Giorno 1: Ruud contro Cerúndolo e Menšík contro Nakashima accendono l’O2',
+      subtitle: 'Yannick Noah e Andre Agassi ufficializzano le sfide del venerdì a Londra. Un punto a vittoria nella prima giornata. Vince chi arriva a 13 punti.',
+      excerpt: 'La nona edizione della Laver Cup prende il via venerdì all’O2 Arena di Londra. Casper Ruud sfida Francisco Cerúndolo e Jakub Menšík affronta Brandon Nakashima in singolare.',
+      body: [
+        'Dopo gli US Open, il grande tennis si ritrova all’O2 di Londra per la 9ª Laver Cup. Debutto assoluto per i nuovi capitani: Yannick Noah guida Team Europe e Andre Agassi guida Team World.',
+        'Sky Sports e gli organizzatori hanno confermato il programma del venerdì. La sessione diurna inizia alle 13:00 locali con Ruud contro Cerúndolo, seguito dal match tra Menšík e Nakashima sul campo nero indoor.',
+        'Ogni successo del venerdì vale un punto, due al sabato e tre alla domenica. La prima squadra a toccare quota 13 punti conquista il titolo.',
+      ],
+    },
+    pl: {
+      title: 'Laver Cup Dzień 1: Ruud kontra Cerúndolo i Menšík kontra Nakashima otwierają The O2',
+      subtitle: 'Yannick Noah i Andre Agassi ustalili piątkowe składy w Londynie. Jeden punkt za zwycięstwo w pierwszym dniu. Do triumfu potrzeba 13 punktów.',
+      excerpt: '9. edycja Laver Cup rozpoczyna się w piątek w londyńskiej hali The O2. Casper Ruud gra z Francisco Cerúndolo, a Jakub Menšík mierzy się z Brandonem Nakashimą.',
+      body: [
+        'Po zakończeniu zmagań w Nowym Jorku tenis przenosi się do hali The O2 w Londynie na 9. Puchar Lavera. Po raz pierwszy w roli kapitanów debiutują Yannick Noah dla Europy i Andre Agassi dla Świata.',
+        'Organizatorzy i Sky Sports podali plan gier na piątek. Sesja dzienna startuje o 13:00 na czarnym korcie od pojedynku Caspera Ruuda z Francisco Cerúndolo, po którym na kort wyjdą Jakub Menšík i Brandon Nakashima.',
+        'Za każdy piątkowy triumf przyznawany jest jeden punkt, w sobotę dwa, a w niedzielę trzy. Zwycięża drużyna, która jako pierwsza zgromadzi 13 punktów.',
+      ],
+    },
+    zh: {
+      title: '拉沃尔杯首日：鲁德迎战塞伦多洛，门希克对决中岛布兰登点燃O2',
+      subtitle: '诺阿与阿加西排定伦敦周五开幕战对阵。首日获胜积1分，先得13分捧杯。',
+      excerpt: '第9届拉沃尔杯周五在伦敦O2体育馆打响。卡斯珀·鲁德对阵弗朗西斯科·塞伦多洛，捷克新星雅库布·门希克迎战中岛布兰登。',
+      body: [
+        '美网落幕后，国际网坛焦点转战伦敦O2体育馆的黑色特制球场。第9届拉沃尔杯迎来了新队长时代：诺阿率领欧洲队，阿加西执掌世界队。',
+        '天空体育与拉沃尔杯官方公布了周五对阵。日场于当地时间下午1点开打，鲁德率先出战对阵阿根廷名将塞伦多洛，随后门希克对阵美网表现抢眼的中岛布兰登。晚场还将进行单打与双打较量。',
+        '比赛采取积分递增制：周五每胜得1分，周六得2分，周日得3分。率先获得13分的队伍将夺得拉沃尔杯冠军。',
+      ],
+    },
+    ja: {
+      title: 'レーバーカップ初日：ルード対セルンドロ、メンシク対ナカシマでO2熱戦開幕',
+      subtitle: 'ノアとアガシ両主将が金曜日の初戦ラインナップを決定。初日は各勝点1、先に13点到達で勝利。',
+      excerpt: '第9回レーバーカップが金曜日にロンドンのO2アリーナで開幕。シングルスでキャスパー・ルードがセルンドロと、メンシクがナカシマと激突する。',
+      body: [
+        '全米オープンが閉幕し、テニス界はロンドンO2アリーナの特設黒コートへ。第9回大会はヤニック・ノア欧州選抜主将とアンドレ・アガシ世界選抜主将の初陣となる。',
+        '大会公式とSky Sportsによると、昼セッションは現地13時開始。第1試合でルードがセルンドロと、第2試合でメンシクがナカシマと対戦。夜セッションにはシングルスとダブルスが控える。',
+        '勝利ポイントは金曜1点、土曜2点、日曜3点。先に13点を獲得したチームが優勝トロフィーを手にする。',
+      ],
+    },
+    ko: {
+      title: '레이버컵 1일차: 루드 vs 세룬돌로, 멘시크 vs 나카시마로 O2 아레나 개막',
+      subtitle: '야닉 노아와 안드레 애거시 금요 개막전 라인업 확정. 1일차 승점 1점, 13점 선점 시 우승.',
+      excerpt: '제9회 레이버컵이 금요일 런던 O2 아레나에서 개막했다. 카스페르 루드가 프란시스코 세룬돌로와 맞붙고 야쿠프 멘시크가 브랜던 나카시마와 격돌한다.',
+      body: [
+        'US 오픈을 마친 세계 테니스가 런던 O2 아레나의 블랙 코트로 모였다. 이번 제9회 대회는 야닉 노아(유럽)와 안드레 애거시(월드) 단장 체제의 첫 맞대결이다.',
+        '스카이 스포츠와 대회 본부에 따르면 주간 세션은 현지 오후 1시에 시작된다. 1경기에서 루드가 세룬돌로를 상대하고 2경기에서 멘시크가 나카시마와 맞선다. 야간 세션에는 단식과 복식이 이어진다.',
+        '승점은 금요일 경기당 1점, 토요일 2점, 일요일 3점으로 늘어나며 13점을 먼저 획득하는 팀이 챔피언에 오른다.',
+      ],
+    },
+    ar: {
+      title: 'كأس لافر اليوم الأول: رود ضد سيروندولو ومنسيك ضد ناكاشيما يشعلان أجواء O2',
+      subtitle: 'يانيك نواه وأندريه أغاسي يحددان مواجهات الجمعة في لندن. نقطة واحدة لكل فوز في اليوم الأول. أول فريق يبلغ 13 نقطة يفوز باللقب.',
+      excerpt: 'انطلقت النسخة التاسعة من كأس لافر يوم الجمعة في قاعة O2 في لندن بمواجهتي كاسبر رود ضد فرانشيسكو سيروندولو وياكوب منسيك ضد براندون ناكاشيما.',
+      body: [
+        'بعد ختام بطولة أمريكا المفتوحة، ينتقل التنس إلى الملعب الأسود في قاعة O2 في لندن للنسخة التاسعة من كأس لافر، بقيادة القائدين الجديدين يانيك نواه لفريق أوروبا وأندريه أغاسي لفريق العالم.',
+        'أكدت شبكة سكاي سبورتس جدول مباريات الجمعة. تبدأ الجلسة النهارية في الواحدة ظهرا بمباراة رود أمام سيروندولو، تليها مباراة الصاعد منسيك أمام ناكاشيما، قبل مواجهتي المساء في الفردي والزوجي.',
+        'يمنح كل فوز يوم الجمعة نقطة واحدة، وترتفع إلى نقطتين السبت وثلاث نقاط الأحد، ويتوج باللقب أول فريق يحصد 13 نقطة.',
+      ],
+    },
+  },
+  'baku-gp-qualifying-day-2026': {
+    fr: {
+      title: 'Qualifications à Bakou : Antonelli et Russell en quête de la pole sur le circuit urbain',
+      subtitle: 'Séance de qualifications le vendredi pour verrouiller la grille des 51 tours du samedi. Mercedes domine les constructeurs avec 503 points.',
+      excerpt: 'La Formule 1 dispute ses qualifications vendredi sur le circuit urbain de Bakou. Kimi Antonelli et George Russell mènent l’assaut Mercedes face à Ferrari et McLaren.',
+      body: [
+        'La Formule 1 aborde la phase décisive de son calendrier inhabituel du jeudi au samedi à Bakou, la journée de dimanche étant consacrée au souvenir national en Azerbaïdjan. La grille de départ du Grand Prix de 51 tours sera établie ce vendredi après-midi.',
+        'Après les essais du jeudi le long de la Caspienne, Formula1.com et Sky Sports précisent le déroulement des EL3 puis de la séance qualificative à 13h00 heure de Londres (16h00 locales). Mercedes arrive en favorite avec Antonelli (292 pts) et Russell (211 pts).',
+        'La position sur la grille à Bakou est primordiale. Les pilotes n’auront que 24 heures pour peaufiner leurs réglages avant la course de 51 tours programmée samedi.',
+      ],
+    },
+    es: {
+      title: 'Día de clasificación en Bakú: Antonelli y Russell van por la pole en el circuito urbano',
+      subtitle: 'Rara sesión de clasificación en viernes para armar la parrilla de las 51 vueltas del sábado. Mercedes lidera constructores con 503 puntos.',
+      excerpt: 'La Fórmula 1 disputa este viernes la clasificación en Bakú. Kimi Antonelli y George Russell comandan a Mercedes en la batalla por la pole position.',
+      body: [
+        'La Fórmula 1 encara la jornada crucial de su cronograma especial en el Gran Premio de Azerbaiyán 2026. Con el domingo dedicado al Día del Recuerdo, la parrilla completa de 51 vueltas se definirá este viernes por la tarde en el trazado de 6,003 km.',
+        'Tras los entrenamientos del jueves, Formula1.com y Sky Sports marcan la pauta con los Libres 3 y la sesión clasificatoria a las 13:00 hora del Reino Unido (16:00 locales). Mercedes lidera el certamen con Antonelli (292 pts) y Russell (211 pts).',
+        'La posición de salida en Bakú resulta determinante. Los equipos solo dispondrán de 24 horas para afinar estrategias antes de la carrera del sábado.',
+      ],
+    },
+    de: {
+      title: 'Qualifying-Tag in Baku: Antonelli und Russell kämpfen um die Pole Position',
+      subtitle: 'Freitags-Qualifying entscheidet über Startaufstellung für 51-Runden-Grand-Prix am Samstag. Mercedes führt Konstrukteure mit 503 Punkten an.',
+      excerpt: 'Die Formel 1 trägt am Freitag das Qualifying auf dem Baku City Circuit aus. WM-Leader Kimi Antonelli und George Russell kämpfen um die Pole gegen Ferrari und McLaren.',
+      body: [
+        'Die Formel 1 erreicht den Höhepunkt ihres ungewöhnlichen Zeitplans in Aserbaidschan. Da der Sonntag dem nationalen Gedenktag vorbehalten ist, wird die komplette Startaufstellung für den 51-Runden-Grand-Prix bereits am Freitagnachmittag ermittelt.',
+        'Formula1.com und Sky Sports berichten über den Übergang von FP3 zum Qualifying um 13:00 Uhr britischer Zeit (16:00 Uhr Ortszeit). Mercedes reist als Favorit an: Rookie Kimi Antonelli führt mit 292 Punkten, Russell folgt mit 211.',
+        'Die Startposition ist auf dem Hochgeschwindigkeits-Stadtkurs entscheidend. Den Fahrern bleiben nach dem Qualifying nur 24 Stunden bis zum Rennstart am Samstag.',
+      ],
+    },
+    it: {
+      title: 'Qualifiche a Baku: Antonelli e Russell cacciano la pole al Baku City Circuit',
+      subtitle: 'Inedita qualifica al venerdì per comporre lo schieramento dei 51 giri del sabato. Mercedes al comando costruttori con 503 punti.',
+      excerpt: 'La Formula 1 entra nel vivo venerdì a Baku con le qualifiche ufficiali. Il leader Kimi Antonelli e George Russell puntano alla prima fila contro Ferrari e McLaren.',
+      body: [
+        'La Formula 1 entra nel momento clou del suo weekend anticipato in Azerbaigian. Con la domenica riservata alla Giornata del Ricordo, la griglia per il Gran Premio di 51 giri si forma questo venerdì pomeriggio sul tracciato cittadino di 6,003 km.',
+        'Formula1.com e Sky Sports evidenziano il programma con le FP3 seguite dalla qualifica alle 13:00 ora britannica (16:00 locali). La Mercedes comanda la classifica con Antonelli a 292 punti e Russell a 211.',
+        'A Baku la qualifica è fondamentale per evitare i pericoli dei muretti. I piloti avranno solo 24 ore prima dello spegnimento dei semafori sabato.',
+      ],
+    },
+    pl: {
+      title: 'Dzień kwalifikacji w Baku: Antonelli i Russell walczą o pole position',
+      subtitle: 'Piątkowe kwalifikacje ustalają pola startowe do 51-okrążeniowego wyścigu w sobotę. Mercedes liderem konstruktorów z 503 punktami.',
+      excerpt: 'Formuła 1 przeprowadza w piątek kwalifikacje na Baku City Circuit. Lider klasyfikacji Kimi Antonelli i George Russell rywalizują o pole position z Ferrari i McLarenem.',
+      body: [
+        'Formuła 1 wkracza w decydującą fazę skróconego weekendu w Baku. Ze względu na niedzielny Dzień Pamięci w Azerbejdżanie, ustawienie na starcie do 51-okrążeniowego wyścigu zostanie ustalone w piątek po południu.',
+        'Formula1.com i Sky Sports zapowiadają sesję kwalifikacyjną o 13:00 czasu brytyjskiego (16:00 czasu lokalnego). Mercedes pozostaje zespołem numer jeden dzięki Antonellemu (292 pkt) i Russellowi (211 pkt).',
+        'Pozycja startowa w Baku jest kluczowa. Kierowcy będą mieli zaledwie 24 godziny na przygotowanie strategii do sobotniego wyścigu.',
+      ],
+    },
+    zh: {
+      title: '巴库排位日：安东内利与拉塞尔冲击街道赛杆位',
+      subtitle: '罕见周五排位赛敲定周六51圈正赛发车位。梅赛德斯积503分领跑车队榜。',
+      excerpt: 'F1周五在巴库城市赛道打响排位赛。积分榜领头羊安东内利与队友拉塞尔代表梅赛德斯迎战法拉利与迈凯伦的挑战。',
+      body: [
+        '2026年阿塞拜疆大奖赛的周四至周六赛程在周五进入关键阶段。为尊重周日的全国纪念日，全长51圈的正赛发车位将于周五下午在6.003公里的巴库城市赛道决出。',
+        'F1官网与天空体育报道，车手在三练后直接进入英国时间下午1点（当地时间下午4点）展开的排位赛较量。梅赛德斯以503分强势领跑车队榜，新星安东内利以292分在车手榜居首。',
+        '在兼具2.2公里大直道和极窄城堡弯的巴库赛道，杆位至关重要。排位赛结束后车手仅有24小时为周六的正赛做最后调整。',
+      ],
+    },
+    ja: {
+      title: 'バクー予選日：アントネッリとラッセルが市街地コースでポールポジションを争う',
+      subtitle: '異例の金曜予選で土曜51周の決勝グリッドが確定。メルセデスが503点で製造者首位を独走。',
+      excerpt: 'F1アゼルバイジャンGPの公式予選が金曜日にバクー市街地コースで実施される。ポイント首位のアントネッリとラッセルが最前列を狙う。',
+      body: [
+        '日曜の戦没者追悼記念日に伴い、2026年アゼルバイジャンGPは金曜日に予選を迎えた。全長6.003kmのバクー市街地コースで土曜決勝51周のグリッドが決定する。',
+        'F1公式とSky Sportsによると、FP3に続き英国時間午後1時（現地時間16時）からノックアウト予選がスタート。メルセデスはアントネッリ（292点）とラッセル（211点）が好調を維持している。',
+        '最高速340km/hのストレートと狭隘な城塞区間を持つバクーではグリッド位置が勝敗を左右する。各車は土曜決勝へ向け24時間の準備期間に入る。',
+      ],
+    },
+    ko: {
+      title: '바쿠 예선일: 안토넬리와 러셀, 바쿠 시티 서킷서 폴포지션 격돌',
+      subtitle: '금요 예선으로 토요일 51랩 결선 그리드 확정. 메르세데스 503점으로 컨스트럭터 선두 질주.',
+      excerpt: 'F1 아제르바이잔 그랑프리 예선이 금요일 바쿠 시티 서킷에서 펼쳐진다. 챔피언십 1위 키미 안토넬리와 조지 러셀이 폴포지션 사냥에 나선다.',
+      body: [
+        '일요일 전몰자 추모의 날을 맞아 특별 일정으로 치러지는 2026 아제르바이잔 GP가 금요일 예선에 돌입한다. 6.003km 서킷에서 토요일 51랩 결선 출발 순서가 정해진다.',
+        'F1 공식과 스카이 스포츠에 따르면 영국 시간 오후 1시(현지시간 오후 4시)부터 공식 예선이 열린다. 메르세데스는 안토넬리(292점)와 러셀(211점)을 앞세워 1열 독점을 겨냥한다.',
+        '2.2km의 초고속 직선로와 올드타운 병목 코너가 공존하는 바쿠에서는 예선 순위가 결정적이다. 결선 레이스는 토요일 정오(영국 시간)에 시작된다.',
+      ],
+    },
+    ar: {
+      title: 'يوم تصفيات باكو: أنتونيللي وروسيل يطاردان مركز الانطلاق الأول في حلبة الشوارع',
+      subtitle: 'تصفيات الجمعة تحدد شبكة انطلاق سباق السبت المكون من 51 لفة. مرسيدس تقود بطولة الصانعين برصيد 503 نقاط.',
+      excerpt: 'تخوض فرق فورمولا 1 حصة التصفيات الرسمية يوم الجمعة في حلبة باكو. يسعى متصدر البطولة كيمي أنتونيللي وزميله جورج روسيل لحسم الصدارة.',
+      body: [
+        'تصل جائزة أذربيجان الكبرى لعام 2026 إلى ذروتها يوم الجمعة مع إجراء التصفيات الرسمية على مسار باكو البالغ طوله 6.003 كم لتحديد شبكة انطلاق سباق السبت المكون من 51 لفة.',
+        'أفادت تقارير فورمولا 1 وسكاي سبورتس بانطلاق التصفيات في الواحدة ظهرا بتوقيت بريطانيا (الرابعة عصرا بتوقيت باكو). تتصدر مرسيدس الترتيب بفضل أنتونيللي (292 نقطة) وروسيل (211 نقطة).',
+        'يعد مركز الانطلاق حاسما في حلبة باكو نظرا لصعوبة التجاوز عند مقطع القلعة الضيق، ويفصل السائقين 24 ساعة فقط عن انطلاق السباق الرئيسي يوم السبت.',
+      ],
+    },
+  },
+  'presidents-cup-day2-medinah-2026': {
+    fr: {
+      title: 'Presidents Cup Jour 2 : Medinah n° 3 intensifie les débats du vendredi',
+      subtitle: 'Brandt Snedeker et Geoff Ogilvy abordent le jour 2 sur des greens rénovés. Scottie Scheffler et Adam Scott mènent leurs camps.',
+      excerpt: 'La 16e Presidents Cup poursuit son rythme au Medinah Country Club dans l’Illinois. L’équipe américaine et les Internationaux se disputent des points capitaux vendredi.',
+      body: [
+        'Après une première journée disputée à Medinah, la 16e Presidents Cup s’accélère vendredi. Avec 30 points au total sur quatre journées, les matches du vendredi constituent un tournant avant le samedi et les simples du dimanche.',
+        'Le PGA Tour et PresidentsCup.com indiquent que Brandt Snedeker et Geoff Ogilvy ont ajusté leurs duos sur le parcours n° 3 redessiné par OCM Golf. Les zones de dégagement et les greens fermes obligent les joueurs à un jeu d’approche millimétré.',
+        'Le n° 1 mondial Scottie Scheffler continue de porter l’équipe américaine, tandis qu’Adam Scott, dans sa 12e participation, apporte son calme aux côtés d’Hideki Matsuyama et Tom Kim pour tenter de renverser les champions en titre.',
+      ],
+    },
+    es: {
+      title: 'Presidents Cup Día 2: Medinah n.º 3 eleva la exigencia en los duelos del viernes',
+      subtitle: 'Brandt Snedeker y Geoff Ogilvy afrontan la segunda jornada en greens renovados. Scottie Scheffler y Adam Scott lideran los equipos.',
+      excerpt: 'La 16.ª Presidents Cup continúa este viernes en Medinah Country Club de Illinois. EE. UU. y el equipo Internacional disputan puntos clave en el campo n.º 3.',
+      body: [
+        'Tras un inicio vibrante en Medinah Country Club, la 16.ª Presidents Cup sube de nivel este viernes. Con 30 puntos en juego durante cuatro días, la jornada de hoy marca un punto de inflexión crucial.',
+        'PGA Tour y PresidentsCup.com señalan que Brandt Snedeker y Geoff Ogilvy movieron sus fichas en el recorrido n.º 3 rediseñado por OCM Golf. El diseño castiga los errores con amplias trampas de arena y caídas pronunciadas alrededor de los greens.',
+        'El número uno Scottie Scheffler sostiene la ofensiva estadounidense, mientras que el veterano Adam Scott y Hideki Matsuyama buscan liderar la remontada del equipo Internacional.',
+      ],
+    },
+    de: {
+      title: 'Presidents Cup Tag 2: Medinah Kurs Nr. 3 fordert die Teams am Freitag',
+      subtitle: 'Brandt Snedeker und Geoff Ogilvy stellen Teams auf renovierten Grüns ein. Scottie Scheffler und Adam Scott als Ankerpunkte.',
+      excerpt: 'Der 16. Presidents Cup geht am Freitag im Medinah Country Club in Illinois in die zweite Runde. Die USA und das internationale Team kämpfen um entscheidende Matchplay-Punkte.',
+      body: [
+        'Nach einem packenden Auftakt im Medinah Country Club nimmt der 16. Presidents Cup am Freitag Fahrt auf. Bei insgesamt 30 zu vergebenden Punkten sind die heutigen Duelle von zentraler Bedeutung für den weiteren Turnierverlauf.',
+        'PGA Tour und PresidentsCup.com berichten über die taktischen Aufstellungen von Snedeker und Ogilvy auf dem neu gestalteten Kurs Nr. 3. Schnelle Grüns und offene Bunkerlandschaften verlangen äußerste Präzision.',
+        'Die Nummer 1 Scottie Scheffler führt die US-Amerikaner an, während Adam Scott bei seinem 12. Auftritt gemeinsam mit Hideki Matsuyama und Tom Kim das internationale Team inspiriert.',
+      ],
+    },
+    it: {
+      title: 'Presidents Cup Giorno 2: il percorso n. 3 di Medinah alza la posta per le sfide del venerdì',
+      subtitle: 'Brandt Snedeker e Geoff Ogilvy gestiscono il day 2 sui rinnovati green. Scottie Scheffler e Adam Scott pilastri dei due schieramenti.',
+      excerpt: 'La 16ª Presidents Cup entra nella seconda giornata al Medinah Country Club in Illinois. USA e Team Internazionale si contendono punti pesanti.',
+      body: [
+        'Dopo l’intenso avvio a Medinah, la 16ª Presidents Cup entra nel vivo questo venerdì. Con 30 punti totali in palio nel weekend, le sfide odierne rappresentano uno snodo cruciale.',
+        'PGA Tour e PresidentsCup.com segnalano le nuove formazioni scelte dai capitani sul ridisegnato Course No. 3. I green fermi e le ampie aree sabbiose mettono a dura prova i migliori interpreti mondiali.',
+        'Scottie Scheffler fa da traino per gli statunitensi, mentre Adam Scott e Hideki Matsuyama guidano la riscossa della selezione internazionale contro lo strapotere a stelle e strisce.',
+      ],
+    },
+    pl: {
+      title: 'Puchar Prezydentów Dzień 2: Medinah Course No. 3 podgrzewa atmosferę w piątek',
+      subtitle: 'Brandt Snedeker i Geoff Ogilvy prowadzą zespoły na przebudowanym polu. Scottie Scheffler i Adam Scott liderami formacji.',
+      excerpt: '16. Puchar Prezydentów wkracza w drugi dzień zmagań w Medinah Country Club w Illinois. Zespoły USA i Świata walczą o kluczowe punkty meczowe.',
+      body: [
+        'Po zaciętym początku w Medinah Country Club rywalizacja w 16. Pucharze Prezydentów nabiera tempa w piątek. Spośród 30 punktów do zdobycia w całym turnieju, dzisiejsze mecze mają kluczowe znaczenie strategiczne.',
+        'PGA Tour i PresidentsCup.com donoszą o nowych parach wystawionych przez kapitanów Snedekera i Ogilvy’ego na polu Course No. 3. Trudne kontury greenów i rozległe przeszkody piaskowe wymagają bezbłędnej gry żelazami.',
+        'Lider rankingu Scottie Scheffler przewodzi Amerykanom, podczas gdy Adam Scott i Hideki Matsuyama starają się zapewnić cenne punkty Drużynie Międzynarodowej.',
+      ],
+    },
+    zh: {
+      title: '2026总统杯次日：梅迪纳3号球场战况升级',
+      subtitle: '斯内德克与奥格维在翻新果岭排兵布阵。舍夫勒与斯科特各自领衔核心对决。',
+      excerpt: '第16届总统杯在伊利诺伊州梅迪纳乡村俱乐部迎来第二日角逐。美国队与国际队在改建后的3号球场全力争夺关键积分。',
+      body: [
+        '在首日胶着的对抗后，第16届总统杯在周五全面提速。在全部30分的分值中，周五的对决将直接决定周末决战前的走势。',
+        '美巡赛与总统杯官网报道，斯内德克与奥格维派出了针对性极强的出场阵容。梅迪纳3号球场坚硬起伏的果岭给推杆带来了极大考验。',
+        '世界第一斯科蒂·舍夫勒继续担当美国队定海神针，而第12次参赛的亚当·斯科特联手松山英树与金柱亨，力争在周五缩小与美国队的差距。',
+      ],
+    },
+    ja: {
+      title: 'プレジデンツカップ2日目：メディナ3番コースで白熱の金曜決戦',
+      subtitle: 'スネデカーとオギルビーが改修グリーンで激突。シェフラーとスコットがチームの要。',
+      excerpt: '第16回プレジデンツカップは米イリノイ州メディナCCで2日目を迎えた。米国選抜と世界選抜が改修された3番コースで貴重な勝ち点を争う。',
+      body: [
+        '初日の激闘を経て、第16回プレジデンツカップは金曜日に一段と熱を帯びる。通算30ポイントのうち、週末を前にした2日目のマッチは勝敗を占う重要な局面となる。',
+        'PGAツアーおよび大会公式によると、スネデカー主将とオギルビー主将が新たなペアリングを投入。OCMゴルフが改修した硬く起伏のあるグリーンが選手たちの技量を試す。',
+        '世界1位シェフラーが米国を牽引する一方、12度目の出場となるアダム・スコットと松山英樹が世界選抜の逆襲を狙う。'
+      ],
+    },
+    ko: {
+      title: '프레지던츠컵 2일차: 메디나 3번 코스서 달아오르는 금요 격돌',
+      subtitle: '스네데커와 오길비, 새 단장된 그린서 승부수. 셰플러와 애덤 스콧 각 팀 기둥 역할.',
+      excerpt: '제16회 프레지던츠컵이 미국 일리노이주 메디나 컨트리클럽에서 2일차 일정에 돌입했다. 미국과 인터내셔널 팀이 중요한 매치플레이 승점을 다툰다.',
+      body: [
+        '1일차 접전을 치른 제16회 프레지던츠컵이 금요일 더 뜨거운 열기로 이어진다. 총 30점의 승점 중 2일차 경기는 주말 결전을 앞둔 핵심 승부처다.',
+        'PGA 투어와 대회 공식 사이트에 따르면 스네데커와 오길비 단장은 새로운 조합으로 필드에 나섰다. OCM 골프가 재설계한 단단하고 경사진 그린이 쇼트게임의 정교함을 요구한다.',
+        '세계 1위 스코티 셰플러가 미국 팀을 이끌고, 12회 출전의 애덤 스콧과 마쓰야마 히데키가 인터내셔널 팀의 반격을 주도한다.',
+      ],
+    },
+    ar: {
+      title: 'كأس الرؤساء اليوم الثاني: اشتعال المنافسة على ملعب مادينا رقم 3',
+      subtitle: 'سنديكر وأوجيلفي يقودان مواجهات الجمعة فوق مساحات خضراء متجددة. شيفلر وسكوت يقودان الفريقين.',
+      excerpt: 'تتواصل النسخة الـ16 من كأس الرؤساء في نادي مادينا في إلينوي في يومها الثاني، مع تنافس أمريكا والفريق الدولي على نقاط حاسمة.',
+      body: [
+        'بعد انطلاقة قوية في نادي مادينا، تتسارع وتيرة النسخة الـ16 من كأس الرؤساء يوم الجمعة. تمثل مباريات اليوم نقطة تحول كبرى ضمن 30 نقطة مطروحة في البطولة.',
+        'أفادت تقارير جولة بي جي إيه والموقع الرسمي للبطولة باعتماد القائدين تشكيلات تكتيكية جديدة على الملعب رقم 3. وتفرض الحفر والرمال المتسعة تحديا كبيرا على دقة الضربات.',
+        'يواصل المصنف الأول سكوتي شيفلر قيادة الفريق الأمريكي، بينما يعتمد الفريق الدولي على خبرة آدم سكوت وهيديكي ماتسوياما لإشعال المنافسة قبل عطلة نهاية الأسبوع.',
+      ],
+    },
+  },
 };
 
