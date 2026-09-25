@@ -30,8 +30,10 @@ const tomorrowStr = addDays(todayStr, 1);
 
 const featured =
   matches.find((m) => m.status === 'LIVE') ||
+  matches.find((m) => m.slug === 'azerbaijan-gp-2026') ||
   matches.find((m) => m.slug === 'laver-cup-2026') ||
   matches.find((m) => m.slug === 'presidents-cup-2026-medinah') ||
+  matches.find((m) => m.slug === 'manchester-city-vs-newcastle-mw6') ||
   matches.find((m) => m.slug === 'falcons-at-packers-week3-2026') ||
   matches.find((m) => m.slug === 'fever-at-lynx-sep-2026') ||
   matches.find((m) => m.slug === 'bayern-vs-man-city-uwcl-2026') ||

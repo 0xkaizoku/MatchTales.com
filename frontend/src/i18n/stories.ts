@@ -1942,5 +1942,374 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+  'baku-gp-race-day-2026': {
+    fr: {
+      title: 'Jour de course à Bakou : Antonelli mène le doublé Mercedes en première ligne',
+      subtitle: 'Le prodige décroche la pole aux côtés de Russell. 51 tours à haute vitesse le long de la forteresse et de la ligne droite de la Caspienne.',
+      excerpt: 'La Formule 1 s’élance ce samedi sur le circuit urbain de Bakou. Le leader du championnat Kimi Antonelli part en pole position devant son coéquipier George Russell.',
+      body: [
+        'La Formule 1 aborde sa journée de course ce samedi 26 septembre sur le tracé de 6,003 kilomètres du circuit urbain de Bakou. En raison de la journée du souvenir observée le dimanche en Azerbaïdjan, l’épreuve reine a été avancée de 24 heures.',
+        'Formula1.com et Sky Sports confirment que Kimi Antonelli a signé la pole position vendredi avec un chrono de 1:40.445, devançant son coéquipier George Russell pour verrouiller la première ligne Mercedes. Antonelli compte 81 points d’avance au championnat avec 292 points.',
+        'Charles Leclerc s’élance troisième sur Ferrari aux côtés de Lando Norris sur McLaren en deuxième ligne, tandis que Lewis Hamilton part cinquième. Avec des pointes à 350 km/h sur l’avenue Neftchilar et le passage étroit du virage 8, la course promet de grands rebondissements.',
+      ],
+    },
+    es: {
+      title: 'Día de carrera en Bakú: Antonelli encabeza el doblete de Mercedes en primera línea',
+      subtitle: 'El joven talento logra la pole junto a Russell. 51 vueltas a fondo junto a la fortaleza y la recta del Caspio.',
+      excerpt: 'La Fórmula 1 compite este sábado en el circuito urbano de Bakú. El líder del Mundial Kimi Antonelli arranca desde la pole con su compañero George Russell en segundo lugar.',
+      body: [
+        'La Fórmula 1 disputa el Gran Premio de Azerbaiyán este sábado 26 de septiembre en el circuito de 6,003 kilómetros de Bakú. Con el domingo reservado al día de conmemoración nacional, la carrera principal se adelanta 24 horas.',
+        'Formula1.com y Sky Sports confirman que Kimi Antonelli se adjudicó la pole el viernes con un tiempo de 1:40.445, superando a su compañero George Russell para asegurar una primera fila exclusiva de Mercedes. Antonelli lidera el campeonato con 292 puntos.',
+        'Charles Leclerc sale tercero para Ferrari con Lando Norris en McLaren en la segunda fila, mientras Lewis Hamilton parte quinto. Las velocidades de 350 km/h en la recta de Neftchilar y la estrechez del castillo exigirán la máxima concentración a los pilotos.',
+      ],
+    },
+    de: {
+      title: 'Renntag in Baku: Antonelli führt Mercedes-Doppelführung in erste Startreihe',
+      subtitle: 'Rookie-Sensation sichert sich Pole neben Russell. 51 rasante Runden vorbei an Festungsmauern und Kaspischem Meer.',
+      excerpt: 'Die Formel 1 startet am Samstag auf dem Baku City Circuit ins Rennen. WM-Spitzenreiter Kimi Antonelli steht auf der Pole Position, George Russell auf Platz zwei.',
+      body: [
+        'Die Formel 1 startet am Samstag, dem 26. September, auf dem 6,003 Kilometer langen Baku City Circuit in den Renntag. Da der Sonntag in Aserbaidschan als nationaler Gedenktag begangen wird, findet der Grand Prix 24 Stunden früher statt.',
+        'Formula1.com und Sky Sports bestätigen, dass Kimi Antonelli im Freitags-Qualifying mit einer Runde von 1:40.445 die Pole Position vor Teamkollege George Russell holte. Antonelli führt die Fahrerwertung mit 292 Punkten an.',
+        'Charles Leclerc im Ferrari startet als Dritter neben Lando Norris im McLaren aus Reihe zwei, während Lewis Hamilton Fünfter ist. Geschwindigkeiten von 350 km/h auf der Neftchilar-Geraden und die enge Kurve 8 an der Altstadt fordern höchste fahrerische Präzision.',
+      ],
+    },
+    it: {
+      title: 'Giorno di gara a Baku: Antonelli guida la prima fila tutta Mercedes per 51 giri mozzafiato',
+      subtitle: 'Il giovane talento conquista la pole accanto a Russell. 51 giri ad alta velocità tra le mura della fortezza e il rettilineo sul Caspio.',
+      excerpt: 'La Formula 1 scende in pista sabato sul Baku City Circuit. Il leader della classifica Kimi Antonelli scatta dalla pole position affiancato dal compagno George Russell.',
+      body: [
+        'La Formula 1 entra nel giorno del Gran Premio sabato 26 settembre sul tracciato cittadino di 6,003 chilometri a Baku. Con la domenica dedicata alla giornata del ricordo in Azerbaijan, la gara principale è stata anticipata di 24 ore.',
+        'Formula1.com e Sky Sports confermano che il debuttante Kimi Antonelli ha conquistato la pole position venerdì fermando il cronometro a 1:40.445, precedendo George Russell per una prima fila interamente Mercedes. Antonelli guida il mondiale a quota 292 punti.',
+        'Charles Leclerc scatterà terzo con la Ferrari al fianco di Lando Norris su McLaren in seconda fila, con Lewis Hamilton in quinta casella. Con velocità di 350 km/h sul viale Neftchilar e il passaggio stretto della curva 8, la sfida per la vittoria sarà totale.',
+      ],
+    },
+    pl: {
+      title: 'Dzień wyścigu w Baku: Antonelli prowadzi pierwszy rząd Mercedesa w 51-okrążeniowej walce',
+      subtitle: 'Rewelacyjny debiutant zdobywa pole position obok Russella. 51 szybkich okrążeń wokół murów twierdzy i prostej nad Morzem Kaspijskim.',
+      excerpt: 'Formuła 1 ściga się w sobotę na torze Baku City Circuit. Lider mistrzostw Kimi Antonelli rusza z pole position, a tuż obok stanie George Russell.',
+      body: [
+        'Formuła 1 wkracza w dzień wyścigu w sobotę 26 września na ulicznym torze w Baku o długości 6,003 kilometra. Ponieważ niedziela jest w Azerbejdżanie dniem pamięci narodowej, rywalizację przeniesiono na sobotę.',
+        'Formula1.com i Sky Sports potwierdzają, że Kimi Antonelli wywalczył pole position z czasem 1:40.445, wyprzedzając George’a Russella i blokując cały pierwszy rząd dla Mercedesa. Włoch prowadzi w klasyfikacji generalnej z 292 punktami.',
+        'Charles Leclerc w Ferrari ruszy z trzeciego pola obok Lando Norrisa z McLarena, a Lewis Hamilton zajmie piątą pozycję. Prędkości rzędu 350 km/h na prostej Neftchilar oraz wąski fragment przy baszcie o szerokości zaledwie 7,6 metra będą kluczem do sukcesu.',
+      ],
+    },
+    zh: {
+      title: '巴库正赛日：安东内利携手拉塞尔包揽梅赛德斯头排发车位',
+      subtitle: '超级新秀力夺杆位，与队友并肩作战。51圈街道激战穿越老城古堡与里海超长直道。',
+      excerpt: 'F1阿塞拜疆大奖赛正赛于周六在巴库城市赛道打响。车手积分榜领跑者基米·安东内利从杆位起步，梅赛德斯队友拉塞尔位列次席。',
+      body: [
+        '9月26日周六，F1阿塞拜疆大奖赛在全长6.003公里的巴库城市赛道迎来正赛决战。为尊重阿塞拜疆周日的国家烈士纪念日，本站大奖赛提前24小时于周六举行。',
+        '据Formula1.com与天空体育报道，梅赛德斯新秀安东内利在周五排位赛跑出1分40秒445斩获杆位，与队友拉塞尔携手锁定头排发车区。安东内利以292分在车手积分榜领先81分。',
+        '法拉利车手勒克莱尔与迈凯伦车手诺里斯分列第三、第四位占据第二排，汉密尔顿第五。赛车将在2.2公里的涅夫捷扬尼科夫大道直道飙至350公里时速，并在古堡狭窄的第8弯接受极致考验。',
+      ],
+    },
+    ja: {
+      title: 'バクー決勝日：アントネッリがラッセルとメルセデス最前列独占で51周の激闘へ',
+      subtitle: '新星ルーキーがポールポジション獲得。旧市街の古城とカスピ海ストレートを駆け抜ける51周。',
+      excerpt: 'F1アゼルバイジャンGP決勝が土曜日にバクー市街地コースで開催される。ポイントリーダーのアントネッリがPPから発進、ラッセルが2番手に並ぶ。',
+      body: [
+        '9月26日土曜日、F1第17戦アゼルバイジャンGPが6.003キロのバクー市街地コースで決勝日を迎えた。日曜日に追悼記念日を迎えるため、決勝レースは土曜日に前倒しされて争われる。',
+        'Formula1.comとSky Sportsによると、メルセデスのキミ・アントネッリが予選で1分40秒445を記録しポールポジションを獲得、ラッセルとともにフロントローを独占した。アントネッリは292ポイントでランキング首位に立つ。',
+        'フェラーリのルクレールが3番手、マクラーレンのノリスが4番手で2列目に並び、ハミルトンが5番手から追う。最高時速350キロに達する長いストレートと幅7.6メートルの城壁セクションが勝負を左右する。',
+      ],
+    },
+    ko: {
+      title: '바쿠 레이스 데이: 안토넬리, 러셀과 함께 메르세데스 1열 독점 후 51랩 결전',
+      subtitle: '슈퍼 루키 안토넬리 폴포지션 획득. 고대 성벽과 카스피해 직선 주로를 질주하는 51랩 결승전.',
+      excerpt: '포뮬러 1 아제르바이잔 그랑프리 결승 레이스가 토요일 바쿠 시티 서킷에서 펼쳐진다. 챔피언십 선두 안토넬리가 폴에서 출발하며 팀 동료 러셀이 2위를 차지했다.',
+      body: [
+        '포뮬러 1은 9월 26일 토요일 바쿠 시티 서킷의 6.003km 코스에서 대망의 결승전을 치른다. 아제르바이잔의 일요일 국가 추모일을 고려해 결승 레이스가 24시간 앞당겨 열린다.',
+        'Formula1.com과 스카이 스포츠에 따르면 메르세데스의 키미 안토넬리가 예선에서 1분 40초 445로 폴포지션을 획득했으며 조지 러셀이 2위로 첫 줄을 완성했다. 안토넬리는 292점으로 챔피언십 선두를 굳건히 지키고 있다.',
+        '페라리의 샤를 르클레르와 맥라렌의 랜도 노里斯가 두 번째 줄에서 출발하며 루이스 해밀턴이 5위에 자리했다. 시속 350km에 달하는 2.2km 직선 주로와 7.6m에 불과한 8번 성벽 코너에서 치열한 승부가 기대된다.',
+      ],
+    },
+    ar: {
+      title: 'يوم سباق باكو: أنتونيللي يقود ثنائية مرسيدس في الصف الأول لمعركة من 51 لفة',
+      subtitle: 'الموهبة الصاعدة يحصد قطب الانطلاق إلى جانب راسل. 51 لفة عالية السرعة حول القلعة القديمة ومستقيم قزوين.',
+      excerpt: 'تنطلق فورمولا 1 في شوارع باكو اليوم السبت على حلبة باكو سيتي. ينطلق متصدر البطولة كيمي أنتونيللي من المركز الأول وزميله جورج راسل ثانيًا.',
+      body: [
+        'تبلغ فورمولا 1 ذروة الإثارة في يوم السباق يوم السبت 26 أيلول/سبتمبر على حلبة باكو سيتي البالغ طولها 6.003 كيلومترات. ونظرًا لإحياء يوم الذكرى الوطني في أذربيجان يوم الأحد، تم تقديم موعد السباق 24 ساعة.',
+        'أفادت تقارير Formula1.com وسكاي سبورتس بأن كيمي أنتونيللي انتزع قطب الانطلاق الأول يوم الجمعة بزمن قدره 1:40.445 متقدمًا على زميله جورج راسل ليضمنا الصف الأول لمرسيدس. يتصدر أنتونيللي البطولة برصيد 292 نقطة.',
+        'ينطلق شارل لوكلير سائق فيراري ثالثًا إلى جانب لاندو نوريس سائق مكلارين من الصف الثاني، بينما يبدأ لويس هاميلتون خامسًا. وستحدد السرعات القصوى على مستقيم نفتشيلار والمنعطفات الضيقة حول القلعة هوية الفائز.',
+      ],
+    },
+  },
+  'laver-cup-day2-london-2026': {
+    fr: {
+      title: 'Laver Cup Jour 2 : Alcaraz, Zverev et Fritz en vedette pour le samedi à deux points à l’O2',
+      subtitle: 'Les victoires valent double à Londres. Noah et Agassi peaufinent leurs duels avec l’objectif des 13 points.',
+      excerpt: 'La 9e Laver Cup prend une nouvelle dimension ce samedi à l’O2 Arena de Londres. Avec deux points par victoire, Alcaraz, Zverev et Fritz s’affrontent sur le court noir.',
+      body: [
+        'La 9e Laver Cup entre dans sa phase décisive ce samedi 26 septembre sous les projecteurs de l’O2 à Londres. Le barème double aujourd’hui, chaque match remporté rapportant deux points au compteur.',
+        'LaverCup.com et Sky Sports ont publié l’ordre des rencontres établi par Yannick Noah et Andre Agassi. Après un premier jour équilibré, la tension monte d’un cran dans la capitale britannique.',
+        'Carlos Alcaraz ouvre la session de jour pour l’Europe face au finaliste de l’US Open Taylor Fritz. Alexander Zverev défie ensuite l’Australien Alex de Minaur dans un duel d’une grande intensité en fond de court.',
+      ],
+    },
+    es: {
+      title: 'Laver Cup Día 2: Alcaraz, Zverev y Fritz protagonizan el sábado de doble puntuación en el O2',
+      subtitle: 'Los puntos valen doble en Londres. Noah y Agassi perfilan los duelos sabatinos rumbo a los 13 puntos.',
+      excerpt: 'La 9ª Laver Cup acelera en su segunda jornada en el O2 Arena de Londres. Con dos puntos por victoria, Carlos Alcaraz, Alexander Zverev y Taylor Fritz asumen el protagonismo.',
+      body: [
+        'La 9ª Laver Cup llega a su punto culminante este sábado 26 de septiembre en la pista negra del O2 de Londres. Las reglas estipulan que los triunfos de hoy otorgan dos puntos, frente al punto concedido el viernes.',
+        'LaverCup.com y Sky Sports publicaron el orden de juego confeccionado por los capitanes Yannick Noah y Andre Agassi. El equilibrio de la jornada inaugural da paso a choques de máxima exigencia.',
+        'Carlos Alcaraz abre la sesión diurna por Europa frente a Taylor Fritz, referente del Equipo Mundo. En el segundo turno, el campeón del US Open Alexander Zverev medirá fuerzas con el australiano Alex de Minaur.',
+      ],
+    },
+    de: {
+      title: 'Laver Cup Tag 2: Alcaraz, Zverev und Fritz im Fokus am Samstag mit doppelten Punkten',
+      subtitle: 'Siege bringen zwei Zähler in London. Noah und Agassi stellen Top-Duelle vor dem Erreichen der 13 Punkte auf.',
+      excerpt: 'Der 9. Laver Cup geht am Samstag in The O2 in London in Tag 2. Mit zwei Punkten pro Sieg stehen Alcaraz, Zverev und Fritz auf dem schwarzen Hallenboden im Mittelpunkt.',
+      body: [
+        'Der 9. Laver Cup erreicht am Samstag, dem 26. September, in London seinen heißesten Abschnitt. Die Spielregeln verdoppeln heute den Wert jedes Sieges von einem auf zwei Zähler pro Match.',
+        'LaverCup.com und Sky Sports veröffentlichten die Aufstellungen der Kapitäne Yannick Noah und Andre Agassi. Nach einem packenden Auftakt am Freitag geht es heute um insgesamt acht Zähler.',
+        'Carlos Alcaraz bestreitet das Eröffnungseinzel für Europa gegen Taylor Fritz. Anschließend trifft US-Open-Sieger Alexander Zverev auf Alex de Minaur in einem mitreißenden Grundlinienduell.',
+      ],
+    },
+    it: {
+      title: 'Laver Cup Giorno 2: Alcaraz, Zverev e Fritz protagonisti del sabato da due punti all’O2',
+      subtitle: 'Punti doppi a Londra. Noah e Agassi schierano i big verso il traguardo dei 13 punti.',
+      excerpt: 'La 9ª Laver Cup entra nel vivo questo sabato all’O2 Arena di Londra. Con due punti per vittoria, Carlos Alcaraz, Alexander Zverev e Taylor Fritz illuminano il campo nero.',
+      body: [
+        'La 9ª Laver Cup affronta il suo snodo cruciale sabato 26 settembre sul campo nero dell’O2 di Londra. Il regolamento assegna oggi due punti per ciascuna vittoria rispetto al punto singolo del venerdì.',
+        'LaverCup.com e Sky Sports hanno annunciato il programma stabilito dai capitani Yannick Noah e Andre Agassi. La parità della giornata inaugurale cede il passo a sfide di altissimo livello agonistico.',
+        'Carlos Alcaraz apre la sessione diurna per il Team Europe contro Taylor Fritz. A seguire, il trionfatore degli US Open Alexander Zverev sfida l’australiano Alex de Minaur in una maratona da fondo campo.',
+      ],
+    },
+    pl: {
+      title: 'Puchar Lavera Dzień 2: Alcaraz, Zverev i Fritz na czele podwójnie punktowanej soboty w O2',
+      subtitle: 'Punkty liczą się podwójnie w Londynie. Noah i Agassi ustalają sobotnie hity w drodze do 13 punktów.',
+      excerpt: '9. Puchar Lavera nabiera tempa w drugim dniu w londyńskiej O2 Arena. Za zwycięstwo przyznawane są dwa punkty, a na korcie pojawią się Alcaraz, Zverev i Fritz.',
+      body: [
+        '9. edycja Pucharu Lavera wkracza w decydującą fazę w sobotę 26 września pod dachem hali The O2 w Londynie. Zgodnie z formatem turnieju punkty za wygrane mecze ulegają podwojeniu.',
+        'LaverCup.com i Sky Sports opublikowały plan gier na sobotę ustalony przez kapitanów Yannicka Noah i Andre Agassiego. Dzisiejsze cztery starcia wyłonią faworyta przed niedzielnym finałem.',
+        'Carlos Alcaraz otwiera sesję dzienną dla Europy meczem z finalistą US Open Taylorem Fritzem. Następnie mistrz US Open Alexander Zverev zmierzy się z nieustępliwym Alexem de Minaurem.',
+      ],
+    },
+    zh: {
+      title: '拉沃尔杯次日：阿尔卡拉斯、兹维列夫与弗里茨领衔周六双倍积分大战',
+      subtitle: '伦敦现场积分翻倍。诺阿与阿加西布阵周六焦点对决，向13分夺冠目标冲刺。',
+      excerpt: '第9届拉沃尔杯周六在伦敦O2体育馆进入第二日角逐。随着每场胜利提升至2分，阿尔卡拉斯、兹维列夫和弗里茨在黑色球场全力出击。',
+      body: [
+        '9月26日周六，第9届拉沃尔杯在伦敦O2体育馆迎来积分倍增的关键次日比赛。根据赛事规则，周六每场比赛胜利将计入2分，今日四场比赛总计产生8分。',
+        '拉沃尔杯官网与天空体育公布了由诺阿和阿加西敲定的周六出场名单。首日的胶着让周六的交锋更具火药味。',
+        '世界第二阿尔卡拉斯率先代表欧洲队登场，迎战世界队头号球星弗里茨。随后，美网新科冠军兹维列夫与澳大利亚名将德米纳尔展开底线攻防决战。',
+      ],
+    },
+    ja: {
+      title: 'レーバーカップ2日目：アルカラス、ズベレフ、フリッツがO2で2点マッチの土曜決戦へ',
+      subtitle: '土曜日は勝利ごとに2ポイント。ノアとアガシが13点到達を見据えて主力を投入。',
+      excerpt: '第9回レーバーカップは土曜日、ロンドンのThe O2で第2日を迎えた。勝利ごとに2点が付与される重要な日程でアルカラスとズベレフが登場する。',
+      body: [
+        '第9回レーバーカップは9月26日土曜日、ロンドンのThe O2で重要な第2日目に突入した。大会規定により土曜日の勝利は1勝につき2ポイントが与えられる。',
+        '大会公式とSky Sportsによると、主将のヤニック・ノアとアンドレ・アガシが土曜のオーダーを発表。初日の競り合いを経て、一気に点差を広げたい両陣営の思惑が激突する。',
+        'デイセッション第1試合では欧州代表のアルカラスが全米準優勝のフリッツと対戦。続く第2試合では全米王者ズベレフが俊足のデミノーと熱戦を繰り広げる。',
+      ],
+    },
+    ko: {
+      title: '레이버컵 2일차: 알카라스, 츠베레프, 프리츠가 나서는 O2의 더블 포인트 토요일',
+      subtitle: '런던 결전서 승점 2점씩 걸린다. 노아와 애거시, 13점 고지를 향해 주전 총출동.',
+      excerpt: '제9회 레이버컵이 토요일 영국 런던 O2 아레나에서 2일차 일정에 돌입했다. 경기당 승점 2점이 걸린 가운데 알카라스와 츠베레프가 블랙 코트에 오른다.',
+      body: [
+        '제9회 레이버컵은 9월 26일 토요일 런던 The O2에서 승부의 분수령을 맞는다. 대회 규정에 따라 토요일 승리는 금요일의 1점에서 2점으로 두 배 가치를 지닌다.',
+        'LaverCup.com과 스카이 스포츠에 따르면 야닉 노아와 안드레 애거시 주장은 핵심 카드를 꺼내 들었다. 1일차 팽팽한 흐름을 깨기 위해 양 팀 모두 총력을 기울인다.',
+        '낮 세션 첫 경기에서 유럽의 카를로스 알카라스가 팀 월드의 테일러 프리츠와 맞붙는다. 이어 US 오픈 챔피언 알렉산더 츠베레프가 알렉스 드 미노와 혈투를 벌인다.',
+      ],
+    },
+    ar: {
+      title: 'كأس ليفر اليوم الثاني: ألكاراز وزفيريف وفريتز يتصدرون سبت النقاط المضاعفة في The O2',
+      subtitle: 'الفوز يمنح نقطتين في لندن. نوح وأغاسي يعلنان مواجهات السبت سعيًا لبلوغ 13 نقطة.',
+      excerpt: 'تتسارع أحداث النسخة التاسعة من كأس ليفر يوم السبت في صالة The O2 في لندن. مع احتساب نقطتين لكل انتصار، يشعل ألكاراز وزفيريف وفريتز الحماس على الملعب الأسود.',
+      body: [
+        'تبلغ بطولة كأس ليفر التاسعة ذروة الإثارة يوم السبت 26 أيلول/سبتمبر تحت أضواء The O2 في لندن. وبموجب لوائح البطولة تتضاعف قيمة الفوز اليوم إلى نقطتين.',
+        'أعلن الموقع الرسمي للبطولة وشبكة سكاي سبورتس جدول مباريات السبت الذي وضعه القائدان يانيك نوح وأندريه أغاسي. وتمنح مباريات اليوم دفعة هائلة نحو الـ13 نقطة الحاسمة.',
+        'يفتتح كارلوس ألكاراز منافسات النهار ممثلًا لأوروبا أمام تايلور فريتز نجم فريق العالم، يليه بطل أمريكا المفتوحة ألكسندر زفيريف في مواجهة صعبة ضد الأسترالي أليكس دي مينور.',
+      ],
+    },
+  },
+  'presidents-cup-day3-moving-day-2026': {
+    fr: {
+      title: 'Presidents Cup Jour 3 : Medinah n° 3 teste l’endurance pour un moving day à 8 points',
+      subtitle: 'Double session ce samedi : four-balls le matin et foursomes l’après-midi. Scheffler et Scott en fers de lance.',
+      excerpt: 'La 16e Presidents Cup aborde le moving day au Medinah Country Club en Illinois. Une double session éreintante met en jeu huit points cruciaux avant les simples de dimanche.',
+      body: [
+        'Le samedi de la Presidents Cup est reconnu comme la journée la plus exigeante du calendrier golfique. Sur 36 trous au Medinah Country Club, huit matches sont disputés pour attribuer plus d’un quart des 30 points du tournoi.',
+        'PGA Tour et PresidentsCup.com indiquent que Brandt Snedeker et Geoff Ogilvy ont dévoilé leurs duos matinaux. Les États-Unis s’appuient sur Scottie Scheffler et Collin Morikawa pour défier Adam Scott et Min Woo Lee.',
+        'Patrick Cantlay et Xander Schauffele affrontent ensuite Hideki Matsuyama et Sungjae Im. Sur les greens fermes de Medinah, la précision et la gestion de la fatigue feront la différence.',
+      ],
+    },
+    es: {
+      title: 'Presidents Cup Día 3: Medinah nº 3 pone a prueba la resistencia en un moving day de 8 puntos',
+      subtitle: 'Doble sesión el sábado: four-balls por la mañana y foursomes por la tarde. Scheffler y Scott lideran a sus equipos.',
+      excerpt: 'La 16ª Presidents Cup afronta la jornada clave en Medinah Country Club en Illinois. Una intensa doble sesión pone en juego ocho puntos vitales antes de los individuales del domingo.',
+      body: [
+        'El sábado en la Presidents Cup es la jornada más exigente del golf por equipos. A lo largo de 36 hoyos en el recorrido nº 3 de Medinah, se disputan ocho partidos entre four-balls y foursomes.',
+        'PGA Tour y PresidentsCup.com informan de las alineaciones matinales elegidas por Brandt Snedeker y Geoff Ogilvy. El número 1 mundial Scottie Scheffler y Collin Morikawa abren ante Adam Scott y Min Woo Lee.',
+        'Patrick Cantlay y Xander Schauffele se miden a Hideki Matsuyama y Sungjae Im en el segundo turno. El diseño exigente de Medinah castigará cualquier error con los hierros.',
+      ],
+    },
+    de: {
+      title: 'Presidents Cup Tag 3: Medinah Kurs Nr. 3 fordert Ausdauer am 8-Punkte-Moving-Day',
+      subtitle: 'Doppelsession am Samstag: Four-Balls am Vormittag und Foursomes am Nachmittag. Scheffler und Scott als Säulen.',
+      excerpt: 'Der 16. Presidents Cup erreicht den entscheidenden Moving Day im Medinah Country Club in Illinois. Acht wichtige Punkte stehen vor den Sonntags-Einzeln auf dem Spiel.',
+      body: [
+        'Der Samstag beim Presidents Cup gilt als die anstrengendste Phase im Teamgolf. Über 36 Löcher auf Medinahs Kurs Nr. 3 stehen acht Duelle an, die mehr als ein Viertel aller 30 Punkte vergeben.',
+        'PGA Tour und PresidentsCup.com berichten über die Aufstellungen der Kapitäne Brandt Snedeker und Geoff Ogilvy. Die Nummer 1 Scottie Scheffler spielt mit Collin Morikawa gegen Adam Scott und Min Woo Lee.',
+        'Patrick Cantlay und Xander Schauffele duellieren sich mit Hideki Matsuyama und Sungjae Im. Auf den schnellen Grüns von Medinah entscheiden Präzision und Nervenstärke.',
+      ],
+    },
+    it: {
+      title: 'Presidents Cup Giorno 3: il percorso n. 3 di Medinah testa la tenuta in un moving day da 8 punti',
+      subtitle: 'Doppia sessione di sabato: four-ball al mattino e foursome al pomeriggio. Scheffler e Scott pilastri delle squadre.',
+      excerpt: 'La 16ª Presidents Cup affronta il cruciale moving day al Medinah Country Club in Illinois. Una doppia sessione mette in palio otto punti prima dei singoli di domenica.',
+      body: [
+        'Il sabato della Presidents Cup è universalmente considerato la giornata più dura del golf internazionale. Su 36 buche a Medinah vengono disputati otto incontri che assegnano oltre un quarto dei punti complessivi.',
+        'PGA Tour e PresidentsCup.com segnalano le coppie mattutine scelte da Brandt Snedeker e Geoff Ogilvy. Il numero 1 Scottie Scheffler e Collin Morikawa aprono contro Adam Scott e Min Woo Lee.',
+        'Patrick Cantlay e Xander Schauffele sfidano Hideki Matsuyama e Sungjae Im nel secondo incontro. I green ridisegnati da OCM Golf premieranno solo i colpi più precisi.',
+      ],
+    },
+    pl: {
+      title: 'Puchar Prezydentów Dzień 3: Medinah Course No. 3 sprawdza siły w 8-punktowym moving day',
+      subtitle: 'Podwójna sesja w sobotę: four-ball rano i foursome po południu. Scheffler i Scott liderami ekip.',
+      excerpt: '16. Puchar Prezydentów wkracza w decydującą fazę w Medinah Country Club w Illinois. Wyczerpująca sobota przynosi osiem kluczowych punktów przed niedzielnymi singlami.',
+      body: [
+        'Sobota w Pucharze Prezydentów to tradycyjnie najbardziej wymagający dzień w kalendarzu golfowym. Na dystansie 36 dołków pola Course No. 3 w Medinah zostanie rozegranych osiem meczów.',
+        'PGA Tour i PresidentsCup.com donoszą o zestawieniach wybranych przez kapitanów Snedekera i Ogilvy’ego. Scottie Scheffler w parze z Collinem Morikawą grają przeciwko Adamowi Scottowi i Min Woo Lee.',
+        'W drugim meczu Patrick Cantlay i Xander Schauffele rywalizują z Hidekim Matsuyamą i Sungjae Imem. Trudne ukształtowanie greenów wymaga bezbłędnej strategii.',
+      ],
+    },
+    zh: {
+      title: '2026总统杯第3日：梅迪纳3号球场迎来8分大决战移动日',
+      subtitle: '周六双重赛程：上午四球赛加下午四人两球赛。舍夫勒与斯科特分别坐镇。',
+      excerpt: '第16届总统杯在伊利诺伊州梅迪纳乡村俱乐部迎来决定走势的移动日。全天36洞马拉松双重赛程将在周日单人对决前决出8个关键积分。',
+      body: [
+        '总统杯周六向来被公认为高尔夫赛场上最具考验的一天。在梅迪纳3号球场进行的36洞较量中，全天八场四球与四人两球赛将瓜分赛事30个总积分中超过四分之一的分值。',
+        '据美巡赛与总统杯官方消息，斯内德克与奥格维派出了顶尖组合。世界第一舍夫勒与森川搭档在上午四球赛迎战国际队老将斯科特与李旻宇。',
+        '坎特利与肖夫勒将对阵松山英树与任成宰。在梅迪纳起伏剧烈的坚硬果岭上，推杆稳定度与体能分配将直接决定谁能在周日前占据主动。',
+      ],
+    },
+    ja: {
+      title: 'プレジデンツカップ3日目：メディナ3番コースで8ポイントを懸けた移動日決戦',
+      subtitle: '土曜は午前フォアボールと午後フォアサムのダブルセッション。シェフラーとスコットが牽引。',
+      excerpt: '第16回プレジデンツカップは米メディナCCで重要なムービングデーを迎えた。日曜のシングルスを前に、36ホールの激闘で8つの勝ち点を争う。',
+      body: [
+        'プレジデンツカップの土曜日は、ゴルフ界で最もタフな移動日として知られる。メディナ3番コースを舞台に計36ホール・8マッチが行われ、総得点30のうち8点が動く。',
+        'PGAツアーおよび大会公式によると、スネデカー主将とオギルビー主将が朝のペアを発表。世界ランク1位のシェフラーがモリカワと組み、アダム・スコットとミンウー・リーのペアと対戦する。',
+        'カントレーとシャウフレの米ペアは松山英樹とイム・ソンジェのアジア最強タッグと激突。改修された難関グリーンを攻略したチームが勝利を引き寄せる。',
+      ],
+    },
+    ko: {
+      title: '프레지던츠컵 3일차: 메디나 3번 코스서 8점이 걸린 무빙 데이 마라톤',
+      subtitle: '토요일 더블 세션: 오전 포볼 및 오후 포섬 경기. 셰플러와 애덤 스콧 각 팀 견인.',
+      excerpt: '제16회 프레지던츠컵이 미국 메디나 컨트리클럽에서 승부의 분수령인 무빙 데이에 돌입했다. 일요일 싱글 매치를 앞두고 8점의 승점이 걸린 36홀 승부가 펼쳐진다.',
+      body: [
+        '프레지던츠컵 토요일은 팀 골프에서 가장 체력 소모가 큰 일정이다. 메디나 3번 코스에서 포볼과 포섬에 걸쳐 36홀 동안 8개 매치가 치러지며 전체 30점 중 8점이 걸려 있다.',
+        'PGA 투어와 대회 공식 사이트에 따르면 스네데커와 오길비 단장은 오전 조합을 확정했다. 세계 1위 스코티 셰플러와 콜린 모리카와가 애덤 스콧, 이민우 조와 격돌한다.',
+        '패트릭 캔틀리와 잰더 쇼플리는 마쓰야마 히데키와 임성재 조를 상대한다. 메디나의 빠르고 굴곡진 그린에서 정교한 샷 메이킹이 승패를 가를 전망이다.',
+      ],
+    },
+    ar: {
+      title: 'كأس الرؤساء اليوم الثالث: ملعب مادينا رقم 3 يختبر اللياقة في يوم حاسم بـ8 نقاط',
+      subtitle: 'جلسة مزدوجة السبت: أربع كرات صباحًا وضربات متناوبة بعد الظهر. شيفلر وسكوت يقودان الدفاع.',
+      excerpt: 'تدخل النسخة الـ16 من كأس الرؤساء يومها الفاصل في نادي مادينا في إلينوي. 8 نقاط كاملة على المحك قبل مواجهات الفردي المقررة الأحد.',
+      body: [
+        'يعد يوم السبت في كأس الرؤساء الأكثر صعوبة وإرهاقًا للاعبي الجولف. تقام 8 مواجهات على مدار 36 حفرة في ملعب مادينا رقم 3 تمثل أكثر من ربع نقاط البطولة الثلاثين.',
+        'أفادت تقارير جولة بي جي إيه والموقع الرسمي للبطولة باختيار القائدين سنديكر وأوجيلفي تشكيلات قوية. يشارك المصنف الأول سكوتي شيفلر مع كولين موريكاوا ضد آدم سكوت ومين وو لي.',
+        'يواجه باتريك كانتلاي وزاندر شوفيلي الثنائي الآسيوي هيديكي ماتسوياما وسونغجاي إم. وتتطلب المساحات الرملية والمنحدرات دقة متناهية للحفاظ على التقدم.',
+      ],
+    },
+  },
+  'premier-league-matchweek-6-saturday': {
+    fr: {
+      title: 'Premier League 6e journée : City reçoit Newcastle alors que la course au titre se resserre',
+      subtitle: 'Les leaders invaincus de Guardiola défient les Magpies à l’Etihad. Arsenal et Brighton à l’affût.',
+      excerpt: 'La 6e journée de Premier League débute ce samedi avec Manchester City qui défend son bilan parfait face à Newcastle. Arsenal et Liverpool cherchent à mettre la pression.',
+      body: [
+        'La Premier League dispute sa 6e journée ce samedi 26 septembre avec Manchester City seul au sommet grâce à cinq victoires en cinq matches. Avec Arsenal et Brighton en embuscade, la journée s’annonce capitale.',
+        'PremierLeague.com et Sky Sports détaillent le programme en Angleterre. À l’Etihad Stadium, City reçoit Newcastle en fin d’après-midi. Les hommes de Guardiola comptent 15 points après leur victoire 5-3 contre Sunderland, portés par Erling Haaland.',
+        'Dans les autres rencontres, Arsenal accueille Everton à l’Emirates pour réagir après son revers à Brighton. Chelsea affronte Brighton à Stamford Bridge, tandis que Liverpool vise la victoire à Anfield face à Sunderland.',
+      ],
+    },
+    es: {
+      title: 'Premier League jornada 6: City recibe a Newcastle con la pugna por el título al rojo vivo',
+      subtitle: 'El líder impecable de Guardiola se mide a las Urracas en el Etihad. Arsenal y Brighton buscan presionar.',
+      excerpt: 'La 6ª jornada de la Premier League arranca este sábado con el Manchester City defendiendo su pleno de victorias frente al Newcastle United.',
+      body: [
+        'La Premier League alcanza su 6ª jornada este sábado 26 de septiembre con el Manchester City como único equipo con cinco triunfos en cinco partidos. Arsenal y Brighton siguen de cerca sus pasos.',
+        'PremierLeague.com y Sky Sports destacan el duelo de la tarde en el Etihad Stadium entre el City y el Newcastle. El conjunto de Guardiola suma 15 puntos tras vencer 5-3 al Sunderland con tantos de Haaland y Semenyo.',
+        'En el resto de la jornada sabatina, el Arsenal recibe al Everton en el Emirates tras caer en Brighton, mientras que el Chelsea se mide a un sorprendente Brighton en Stamford Bridge y Liverpool recibe a Sunderland.',
+      ],
+    },
+    de: {
+      title: 'Premier League Spieltag 6: City empfängt Newcastle im heißen Titelrennen',
+      subtitle: 'Guardiolas makelloser Tabellenführer trifft im Etihad auf die Magpies. Arsenal und Brighton lauern.',
+      excerpt: 'Der 6. Spieltag der Premier League beginnt am Samstag: Manchester City verteidigt seine weiße Weste gegen Newcastle United.',
+      body: [
+        'Die Premier League startet am Samstag, dem 26. September, in ihren 6. Spieltag. Manchester City steht mit fünf Siegen aus fünf Partien unangefochten an der Spitze, verfolgt von Arsenal und Brighton.',
+        'PremierLeague.com und Sky Sports blicken auf das Spitzenspiel im Etihad Stadium zwischen City und Newcastle. City hält bei 15 Punkten nach dem spektakulären 5:3 gegen Sunderland, angeführt von Erling Haaland.',
+        'Arsenal empfängt Everton im Emirates Stadium nach der 0:3-Niederlage in Brighton, während Chelsea an der Stamford Bridge auf Brighton trifft und Liverpool gegen Sunderland um drei Punkte kämpft.',
+      ],
+    },
+    it: {
+      title: 'Premier League 6ª giornata: il City ospita il Newcastle mentre la corsa al vertice si infiamma',
+      subtitle: 'I capolisti a punteggio pieno di Guardiola affrontano i Magpies all’Etihad. Arsenal e Brighton all’inseguimento.',
+      excerpt: 'La 6ª giornata di Premier League scatta sabato con il Manchester City che difende il percorso netto contro il Newcastle United.',
+      body: [
+        'La Premier League celebra la 6ª giornata sabato 26 settembre con il Manchester City unica formazione a punteggio pieno dopo cinque turni. Arsenal e Brighton restano a stretto contatto.',
+        'PremierLeague.com e Sky Sports presentano la sfida dell’Etihad tra City e Newcastle. La squadra di Guardiola viaggia a quota 15 punti dopo il pirotecnico 5-3 sul Sunderland trascinata da Erling Haaland.',
+        'Nelle altre partite di sabato, l’Arsenal attende l’Everton all’Emirates per riscattare il ko di Brighton, il Chelsea ospita il Brighton a Stamford Bridge e il Liverpool cerca conferme contro il Sunderland ad Anfield.',
+      ],
+    },
+    pl: {
+      title: 'Premier League 6. kolejka: City podejmuje Newcastle w zaciętej walce o fotel lidera',
+      subtitle: 'Niepokonani liderzy Guardioli mierzą się ze Srokami na Etihad. Arsenal i Brighton polują na potknięcie.',
+      excerpt: '6. kolejka Premier League rusza w sobotę: Manchester City broni kompletu punktów w starciu z Newcastle United.',
+      body: [
+        'Premier League wkracza w 6. kolejkę w sobotę 26 września, a Manchester City pozostaje jedynym klubem z kompletem pięciu zwycięstw. Za jego plecami czają się Arsenal i rewelacyjne Brighton.',
+        'PremierLeague.com i Sky Sports zapowiadają popołudniowe starcie na Etihad Stadium. City ma 15 punktów po wygranej 5-3 z Sunderlandem, w czym kluczową rolę odegrał niezawodny Erling Haaland.',
+        'W innych meczach soboty Arsenal podejmuje Everton na Emirates po porażce w Brighton, Chelsea mierzy się z Brighton na Stamford Bridge, a Liverpool gra u siebie z Sunderlandem.',
+      ],
+    },
+    zh: {
+      title: '英超第6轮：曼城坐镇伊蒂哈德迎战纽卡斯尔，争冠悬念升级',
+      subtitle: '瓜迪奥拉的全胜领头羊迎战喜鹊。阿森纳与布莱顿周六全速追赶。',
+      excerpt: '英超第6轮于周六打响，豪取五连胜的曼城主场迎战纽卡斯尔联。阿森纳与利物浦在各条战线展开追击。',
+      body: [
+        '9月26日周六，英超联赛迎来第6轮较量。曼城以五战全胜积15分独自领跑积分榜，阿森纳、布莱顿及追赶梯队紧随其后。',
+        '英超官网与天空体育报道，瓜迪奥拉的球队将在伊蒂哈德球场迎战纽卡斯尔联。上一轮曼城5-3力克桑德兰，哈兰德持续进球状态，给亚伊斯勒的后防线带来严峻考验。',
+        '在周六的其他对决中，阿森纳坐镇酋长球场迎战埃弗顿力求重返胜利轨道；切尔西在斯坦福桥硬碰状态火热的布莱顿，利物浦则在安菲尔德迎战桑德兰。',
+      ],
+    },
+    ja: {
+      title: 'プレミアリーグ第6節：シティがエティハドでニューカッスルを迎撃、首位争い激化',
+      subtitle: '開幕5連勝のグアルディオラ率いる首位チームがマグパイズと対戦。アーセナルとブライトンが追撃。',
+      excerpt: 'プレミアリーグ第6節が土曜日に開幕。全勝を守るマンチェスター・シティがホームでニューカッスル・ユナイテッドを迎え撃つ。',
+      body: [
+        'プレミアリーグは9月26日土曜日に第6節を迎えた。開幕から5戦全勝のマンチェスター・シティが単独首位を快走し、アーセナルとブライトンが追う展開となっている。',
+        'プレミアリーグ公式とSky Sportsによると、首位シティはエティハドでニューカッスルと激突。前節サンダーランドを5-3で下したシティは、毎試合得点を記録しているハーランドを中心に攻撃陣が絶好調。',
+        '土曜の他会場では、ブライトン戦の敗戦から立ち直りを図るアーセナルがエバートンと対戦。チェルシーは好調ブライトンをスタンフォード・ブリッジに迎え、リバプールはサンダーランドと対戦する。',
+      ],
+    },
+    ko: {
+      title: '프리미어리그 6라운드: 맨시티, 뉴캐슬 상대 안방 수성 나서며 선두 경쟁 가열',
+      subtitle: '과르디올라의 5전 전승 선두 팀, 에티하드서 매그파이스와 격돌. 아스널과 브라이턴 맹추격.',
+      excerpt: '프리미어리그 6라운드가 토요일 개막한다. 100% 승률을 달리는 맨체스터 시티가 홈에서 뉴캐슬 유나이티드를 맞이한다.',
+      body: [
+        '프리미어리그는 9월 26일 토요일 6라운드 일정에 돌입했다. 맨체스터 시티가 5전 전승 승점 15점으로 단독 선두를 질주하는 가운데 아스널과 브라이턴이 바짝 뒤를 쫓고 있다.',
+        '프리미어리그 공식과 스카이 스포츠에 따르면 시티는 에티하드 스타디움에서 뉴캐슬과 맞대결을 펼친다. 선덜랜드를 5-3으로 제압한 시티는 매 경기 골을 터뜨리는 홀란을 앞세워 6연승을 노린다.',
+        '토요일 다른 경기에서는 브라이턴전 패배를 만회하려는 아스널이 에버턴을 홈으로 불러들이고, 첼시는 스탬퍼드 브리지에서 돌풍의 브라이턴을 상대하며 리버풀은 선덜랜드와 맞붙는다.',
+      ],
+    },
+    ar: {
+      title: 'الدوري الإنجليزي الجولة 6: مانشستر سيتي يستضيف نيوكاسل مع اشتعال سباق الصدارة',
+      subtitle: 'كتيبة غوارديولا بالعلامة الكاملة تواجه نيوكاسل في الاتحاد. أرسنال وبرايتون يتربصان.',
+      excerpt: 'تنطلق الجولة السادسة من الدوري الإنجليزي الممتاز يوم السبت حيث يدافع مانشستر سيتي عن سجله الخالي من الهزائم أمام نيوكاسل يونايتد.',
+      body: [
+        'تصل منافسات الدوري الإنجليزي الممتاز إلى الجولة السادسة يوم السبت 26 أيلول/سبتمبر، حيث ينفرد مانشستر سيتي بالصدارة بخمسة انتصارات من خمس مباريات.',
+        'أفادت تقارير الموقع الرسمي للبطولة وسكاي سبورتس بمواجهة مرتقبة على ملعب الاتحاد بين السيتي ونيوكاسل. يملك السيتي 15 نقطة بعد فوزه المثير 5-3 على سندرلاند بفضل تألق إيرلينغ هالاند المستمر.',
+        'وفي مواجهات السبت الأخرى، يستضيف أرسنال فريق إيفرتون في ملعب الإمارات للتعافي من خسارة برايتون، بينما يلتقي تشيلسي مع برايتون في ستامفورد بريدج، ويستقبل ليفربول فريق سندرلاند في أنفيلد.',
+      ],
+    },
+  },
 };
+
 

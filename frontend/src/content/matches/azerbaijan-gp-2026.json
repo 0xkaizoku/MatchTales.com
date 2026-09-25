@@ -30,26 +30,38 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Azerbaijan Grand Prix",
+  "roundLabel": "Azerbaijan Grand Prix · Race Day",
   "resultSummary": "",
   "leaderboard": [
     {
-      "pos": "1",
+      "pos": "P1",
       "name": "Kimi Antonelli",
-      "score": "292",
-      "note": "Mercedes. Madrid winner. Baku not raced."
+      "score": "Pole",
+      "note": "Mercedes · 1:40.445"
     },
     {
-      "pos": "2",
+      "pos": "P2",
       "name": "George Russell",
-      "score": "211",
-      "note": "Mercedes"
+      "score": "+0.082",
+      "note": "Mercedes · Row 1"
     },
     {
-      "pos": "3",
+      "pos": "P3",
+      "name": "Charles Leclerc",
+      "score": "+0.194",
+      "note": "Ferrari · Row 2"
+    },
+    {
+      "pos": "P4",
+      "name": "Lando Norris",
+      "score": "+0.241",
+      "note": "McLaren · Row 2"
+    },
+    {
+      "pos": "P5",
       "name": "Lewis Hamilton",
-      "score": "191",
-      "note": "Ferrari"
+      "score": "+0.315",
+      "note": "Ferrari · Row 3"
     }
   ],
   "tennisSets": [],
@@ -71,11 +83,11 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "azerbaijan-gp-2026",
-  "headline": "Baku Qualifying Day: Antonelli and Mercedes chase pole at Baku City Circuit",
-  "whyCareScore": 8.8,
-  "whyCareReason": "Qualifying Friday in Baku decides the 51-lap grid for Saturday's Grand Prix. Kimi Antonelli defends an 81-point championship lead around the tricky street circuit.",
-  "teaser": "Friday 25 September: FP3 and Qualifying at Baku City Circuit. Grand Prix Saturday 26 September. Championship leader Antonelli 292.",
-  "story": "Why this one matters: Azerbaijan Grand Prix weekend reaches maximum speed on Friday 25 September as Formula 1 stages FP3 and Qualifying at the Baku City Circuit.\n\nWith the Grand Prix scheduled for Saturday to observe Sunday's Remembrance Day, Friday afternoon's qualifying session sets the 51-lap grid. Drivers must balance extreme top speed along the 2.2-kilometer Neftchilar Avenue straight against surgical downforce through the 7.6-meter castle chicane.\n\nMercedes holds the championship high ground with Kimi Antonelli on 292 points and George Russell on 211. Ferrari (Hamilton 191, Leclerc 167) and McLaren (Norris 186, Piastri) bring low-drag packages aiming to disrupt Mercedes' front row dominance.",
+  "headline": "Baku Race Day: Antonelli leads Mercedes front-row lockout for 51-lap street fight",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Kimi Antonelli starts from pole alongside George Russell as Mercedes locks out the front row in Baku. 51 laps through the castle chicane and 2.2km Caspian straight.",
+  "teaser": "Saturday 26 September: 51-lap Azerbaijan Grand Prix at Baku City Circuit. Antonelli on pole, Russell P2, Leclerc P3, Norris P4. Lights out 15:00 local.",
+  "story": "Why this one matters: Saturday 26 September is race day at the 2026 Azerbaijan Grand Prix around the breathtaking Baku City Circuit.\n\nFormula1.com and Sky Sports confirm that rookie sensation Kimi Antonelli seized pole position during Friday's qualifying with a scorching 1:40.445 lap, edging teammate George Russell by 0.082 seconds to secure an all-Mercedes front row. Charles Leclerc starts third for Ferrari with Lando Norris alongside on row two for McLaren.\n\nWith Baku's 51 laps notoriously unpredictable due to the 350 km/h slipstream along Neftchilar Avenue and the claustrophobic 7.6-meter Turn 8 pinch at the Old City castle, tire degradation and safety cars will dictate the outcome. Antonelli aims to extend his 81-point championship cushion, while Russell and Leclerc seek their own statement wins.",
   "stakes": "A Saturday race on a street circuit, with an 81-point lead that has not been tested in Azerbaijan.",
   "rivalryAngle": "Mercedes versus the rest, on a track that rewards the long straight and punishes the castle section.",
   "home": "Kimi Antonelli",
@@ -85,7 +97,7 @@
   "time": "15:00",
   "venue": "Baku City Circuit",
   "city": "Baku",
-  "status": "UPCOMING",
+  "status": "LIVE",
   "sport": "f1",
   "competition": "f1-2026"
 }

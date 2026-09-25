@@ -36,33 +36,33 @@
   "awayPen": null,
   "season": "2026",
   "roundLabel": "Week 3 · TNF",
-  "resultSummary": "",
+  "resultSummary": "Packers 24-20 Falcons",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "NFL.com: Falcons at Packers Week 3 schedule",
-      "url": "https://www.nfl.com/schedules/2026/reg3"
+      "name": "NFL.com: Falcons at Packers Week 3 recap",
+      "url": "https://www.nfl.com/games/falcons-at-packers-2026-reg-3"
     },
     {
       "name": "Prime Video: Thursday Night Football Week 3",
       "url": "https://www.amazon.com/prime-video/tnf"
     },
     {
-      "name": "Packers.com: Alumni Weekend at Lambeau Field",
-      "url": "https://www.packers.com/news/packers-alumni-weekend-week-3-2026"
+      "name": "Packers.com: Alumni Weekend victory",
+      "url": "https://www.packers.com/news/packers-defeat-falcons-week-3-2026"
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 24,
+  "awayScore": 20,
   "slug": "falcons-at-packers-week3-2026",
-  "headline": "Falcons at Packers: Penix returns for Week 3 kickoff under Lambeau lights",
-  "whyCareScore": 8.8,
-  "whyCareReason": "Michael Penix Jr. returns from a torn ACL to start for Atlanta, while Jordan Love leads the 1-1 Packers on Alumni Weekend under the Lambeau lights.",
-  "teaser": "Thursday 24 September, 8:15 p.m. ET on Prime Video. Penix starts for Atlanta; Love leads Green Bay. Week 3 opens at historic Lambeau Field.",
-  "story": "Why this one matters: Thursday Night Football opens Week 3 with major storylines on both sidelines at iconic Lambeau Field.\n\nNFL.com and Sports Illustrated confirm that Michael Penix Jr. will make his eagerly anticipated return to the starting lineup for Atlanta after recovering from a torn ACL, stepping in for Cooper Rush. The Falcons arrive 0-2 and hungry to jumpstart their season on national television.\n\nGreen Bay enters 1-1 following a gritty 20-17 overtime triumph over the Jets in Week 2. With more than 50 alumni in attendance honoring the anniversaries of Super Bowl I and Super Bowl XXXI, Jordan Love and the Packers look to defend their home turf on a short week.",
-  "stakes": "Atlanta battles to avoid an 0-3 start while Green Bay looks to claim early supremacy in the NFC North.",
+  "headline": "Packers 24-20 Falcons: Love delivers on Alumni Weekend, Penix valiant in return",
+  "whyCareScore": 8.9,
+  "whyCareReason": "Week 3 TNF in the books. Packers improve to 2-1 as Jordan Love tallies three touchdowns at Lambeau. Michael Penix Jr. throws for 268 yards in his season debut.",
+  "teaser": "FINAL: Green Bay Packers 24, Atlanta Falcons 20. Love two touchdown passes and a rushing score. Penix 268 yards in return.",
+  "story": "Why this one matters: Thursday Night Football launched Week 3 at iconic Lambeau Field on Alumni Weekend.\n\nNFL.com and Sports Illustrated report that Jordan Love led Green Bay to a 24-20 victory over the Atlanta Falcons, throwing two touchdown passes and rushing for a 4-yard score. Green Bay moves to 2-1 on the season.\n\nMichael Penix Jr. impressed in his first start since ACL surgery, completing 22 of 34 passes for 268 yards and a 28-yard touchdown strike to Drake London. But a fourth-quarter interception by Green Bay safety Xavier McKinney sealed the win for the Packers. Atlanta falls to 0-3 ahead of their Week 4 contest.",
+  "stakes": "Green Bay takes early control in the NFC North at 2-1, while Atlanta faces an uphill climb at 0-3.",
   "rivalryAngle": "An NFC clash between cold-weather tradition and dynamic southern speed under prime-time lights.",
   "home": "Green Bay Packers",
   "away": "Atlanta Falcons",
@@ -71,7 +71,7 @@
   "time": "20:15",
   "venue": "Lambeau Field",
   "city": "Green Bay",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "football",
   "competition": "nfl-2026"
 }

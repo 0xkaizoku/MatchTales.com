@@ -35,32 +35,32 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "16th Presidents Cup · Day 2",
+  "roundLabel": "16th Presidents Cup · Day 3",
   "resultSummary": "",
   "leaderboard": [
     {
-      "pos": "M1",
-      "name": "Scheffler & Henley (USA) vs Scott & Matsuyama (INT)",
-      "score": "In Progress",
-      "note": "Medinah Course No. 3 Match 1"
+      "pos": "Session 3",
+      "name": "Scheffler & Morikawa (USA) vs Scott & Lee (INT)",
+      "score": "Four-balls",
+      "note": "Saturday Match 1 · Medinah No. 3"
     },
     {
-      "pos": "M2",
-      "name": "Schauffele & Cantlay (USA) vs Im & Day (INT)",
-      "score": "In Progress",
-      "note": "Match 2"
+      "pos": "Session 3",
+      "name": "Cantlay & Schauffele (USA) vs Matsuyama & Im (INT)",
+      "score": "Four-balls",
+      "note": "Saturday Match 2"
     },
     {
-      "pos": "M3",
-      "name": "Morikawa & Theegala (USA) vs Kim & Lee (INT)",
-      "score": "In Progress",
-      "note": "Match 3"
+      "pos": "Session 3",
+      "name": "Henley & Theegala (USA) vs Kim & Day (INT)",
+      "score": "Four-balls",
+      "note": "Saturday Match 3"
     },
     {
-      "pos": "M4",
+      "pos": "Session 3",
       "name": "Burns & Clark (USA) vs Fox & Pendrith (INT)",
-      "score": "In Progress",
-      "note": "Match 4"
+      "score": "Four-balls",
+      "note": "Saturday Match 4"
     }
   ],
   "tennisSets": [],
@@ -86,18 +86,18 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "presidents-cup-2026-medinah",
-  "headline": "Presidents Cup Day 2 at Medinah: USA and Internationals battle on Course No. 3",
-  "whyCareScore": 9.3,
-  "whyCareReason": "Day 2 at Medinah brings intense team match play as Brandt Snedeker's Americans defend their lead against Geoff Ogilvy's International squad.",
-  "teaser": "Medinah Country Club, 25 September. Day 2 matches underway on Course No. 3. Snedeker leads USA, Ogilvy leads Internationals.",
-  "story": "Why this one matters: Following Thursday's opening encounters, the 16th Presidents Cup hits high gear Friday at Medinah Country Club in Illinois on the newly contoured Course No. 3.\n\nPGA Tour and PresidentsCup.com report that captains Brandt Snedeker and Geoff Ogilvy have sent out their top pairings for Friday's session. World No. 1 Scottie Scheffler and Russell Henley take on Adam Scott and Hideki Matsuyama, while Patrick Cantlay and Xander Schauffele duel Jason Day and Sungjae Im.\n\nWith Medinah's strategic OCM-redesigned greens placing a premium on precision and poise, Friday points carry massive weight before the weekend singles and four-balls.",
-  "stakes": "The United States defends their long-standing supremacy, while the International side seeks their first triumph in 28 years.",
+  "headline": "Presidents Cup Day 3 at Medinah: USA and Internationals battle through 8-point moving day",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Moving Day at Medinah Course No. 3 features a marathon double session with 8 points at stake across morning four-balls and afternoon foursomes.",
+  "teaser": "Saturday 26 September on Medinah No. 3: morning four-balls followed by afternoon foursomes. Snedeker's USA battles Ogilvy's Internationals for 8 pivotal points.",
+  "story": "Why this one matters: Saturday 26 September is the definitive moving day at the 16th Presidents Cup on Medinah Country Club's Course No. 3 in Illinois.\n\nPGA Tour and PresidentsCup.com outline the grueling schedule: four morning four-ball matches followed immediately by four afternoon foursomes matches. With eight total points on offer before Sunday singles, Saturday historically decides the cup.\n\nCaptains Brandt Snedeker and Geoff Ogilvy sent out their strongest duos. World No. 1 Scottie Scheffler partners Collin Morikawa in morning four-balls against Adam Scott and Min Woo Lee. Patrick Cantlay and Xander Schauffele face Hideki Matsuyama and Sungjae Im. On Medinah's treacherous OCM-redesigned greens, endurance and lag putting will prove decisive.",
+  "stakes": "Eight points available on Saturday alone. The team emerging from Medinah's double session with the lead has won 14 of 15 previous Presidents Cups.",
   "rivalryAngle": "Team USA dominance versus International determination on Chicago's most famous championship stage.",
   "home": "United States",
   "away": "International Team",
   "group": "PGA",
-  "date": "2026-09-25",
-  "time": "08:00",
+  "date": "2026-09-26",
+  "time": "07:30",
   "venue": "Medinah Country Club (Course No. 3)",
   "city": "Medinah",
   "status": "LIVE",

@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-25",
+  "asOf": "2026-09-26",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -416,7 +416,21 @@
       "time": "8:15 p.m. ET",
       "home": "Green Bay Packers",
       "away": "Atlanta Falcons",
-      "note": "Week 3 opener tonight: Falcons at Packers, Lambeau Field, Prime Video. Penix Jr. returns for Atlanta; Alumni Weekend in Green Bay."
+      "note": "FINAL: Packers 24, Falcons 20. Love 2 passing TDs, 1 rush TD. Penix 268 yards, 1 TD in return."
+    },
+    {
+      "date": "2026-09-27",
+      "time": "1:00 p.m. ET",
+      "home": "Buffalo Bills",
+      "away": "Miami Dolphins",
+      "note": "AFC East clash at Highmark Stadium. Allen leads 2-0 Bills; Tagovailoa and Dolphins visit."
+    },
+    {
+      "date": "2026-09-27",
+      "time": "4:25 p.m. ET",
+      "home": "Kansas City Chiefs",
+      "away": "Los Angeles Chargers",
+      "note": "AFC West showdown at Arrowhead Stadium. Mahomes and 2-0 Chiefs host Herbert's Chargers."
     }
   ],
   "usOpenQF": [

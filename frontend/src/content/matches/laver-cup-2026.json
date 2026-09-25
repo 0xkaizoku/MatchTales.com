@@ -30,9 +30,34 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Laver Cup · Day 1",
+  "roundLabel": "Laver Cup · Day 2",
   "resultSummary": "",
-  "leaderboard": [],
+  "leaderboard": [
+    {
+      "pos": "M5",
+      "name": "Carlos Alcaraz (EUR) vs Taylor Fritz (WLD)",
+      "score": "2 Points",
+      "note": "Day 2 Singles 1 · The O2"
+    },
+    {
+      "pos": "M6",
+      "name": "Alexander Zverev (EUR) vs Alex de Minaur (WLD)",
+      "score": "2 Points",
+      "note": "Day 2 Singles 2"
+    },
+    {
+      "pos": "M7",
+      "name": "Jakub Mensik (EUR) vs Learner Tien (WLD)",
+      "score": "2 Points",
+      "note": "Day 2 Singles 3"
+    },
+    {
+      "pos": "M8",
+      "name": "Alcaraz & Ruud (EUR) vs Fritz & De Minaur (WLD)",
+      "score": "2 Points",
+      "note": "Day 2 Doubles"
+    }
+  ],
   "tennisSets": [],
   "sources": [
     {
@@ -52,17 +77,17 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "laver-cup-2026",
-  "headline": "Laver Cup Day 1 at The O2: Ruud vs Cerúndolo and Mensik vs Nakashima open London ties",
-  "whyCareScore": 8.9,
-  "whyCareReason": "The 9th Laver Cup is live Friday at The O2 in London with Casper Ruud facing Francisco Cerúndolo and Jakub Mensik playing Brandon Nakashima in opening singles.",
-  "teaser": "Friday 25 September at The O2. Day session from 13:00 local: Ruud vs Cerúndolo, Mensik vs Nakashima. Night session: singles and doubles.",
-  "story": "Why this one matters: The iconic black court at The O2 in London lights up on Friday 25 September as Team Europe and Team World battle for the 9th Laver Cup.\n\nCaptains Yannick Noah and Andre Agassi announced the Day 1 order of play: Casper Ruud opens against Francisco Cerúndolo at 13:00 UK time, followed by Jakub Menšík against Brandon Nakashima. The night session features a marquee singles tie followed by opening doubles.\n\nFormat: Friday wins earn one point each, Saturday two points, Sunday three points. The first team to 13 points lifts the trophy.",
-  "stakes": "The first team tennis date after the US Open. Every Friday win secures one point toward the 13 required.",
+  "headline": "Laver Cup Day 2 at The O2: Alcaraz, Zverev, and Fritz headline double-point Saturday",
+  "whyCareScore": 9.2,
+  "whyCareReason": "Point values double on Saturday at The O2 as Carlos Alcaraz takes on Taylor Fritz and Alexander Zverev faces Alex de Minaur with two points awarded per win.",
+  "teaser": "Saturday 26 September at The O2. Day 2 brings 2 points per win: Alcaraz vs Fritz, Zverev vs De Minaur, and evening doubles. First team to 13 points.",
+  "story": "Why this one matters: The stakes double on Saturday 26 September at The O2 Arena in London as the 9th Laver Cup enters Day 2.\n\nFollowing Friday's fierce opening encounters, Captains Yannick Noah and Andre Agassi submitted Saturday's high-stakes lineup. Under Laver Cup rules, each match victory on Saturday is worth two points, raising the bar for both benches.\n\nWorld No. 2 Carlos Alcaraz steps onto the black court for Team Europe against US Open finalist Taylor Fritz. US Open champion Alexander Zverev battles Australia's Alex de Minaur, followed by a blockbuster evening doubles clash. With 13 points needed to hoist the trophy, Saturday's four matches offer eight critical points.",
+  "stakes": "Saturday points count double (2 points per win). A dominant day puts either team on the brink of the 13 required points.",
   "rivalryAngle": "Europe against the rest of the world, in a building that already hosted this event in 2022.",
   "home": "Team Europe",
   "away": "Team World",
   "group": "GS",
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "time": "13:00",
   "venue": "The O2 Arena",
   "city": "London",

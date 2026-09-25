@@ -1,0 +1,72 @@
+{
+  "funFacts": [
+    "Erling Haaland has scored in all five Premier League matches to begin the 2026 campaign.",
+    "Manchester City are the only remaining team with a 100% winning record after five matchweeks.",
+    "Newcastle manager Matthias Jaissle faces City for the first time in league competition."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Erling Haaland",
+      "team": "Manchester City",
+      "hook": "Clinical striker leading the Golden Boot race after scoring City's fifth against Sunderland."
+    },
+    {
+      "name": "Alexander Isak",
+      "team": "Newcastle United",
+      "hook": "Talismanic forward looking to break down City's backline on the break."
+    }
+  ],
+  "headToHead": "Manchester City have won their last six home encounters against Newcastle in all competitions.",
+  "tags": [
+    "premier-league",
+    "manchester-city",
+    "newcastle"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 6,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026/27",
+  "roundLabel": "Matchweek 6",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "PremierLeague.com: Matchweek 6 fixtures",
+      "url": "https://www.premierleague.com/fixtures"
+    },
+    {
+      "name": "Sky Sports: City vs Newcastle preview",
+      "url": "https://www.skysports.com/football/man-city-vs-newcastle"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "manchester-city-vs-newcastle-mw6",
+  "headline": "City vs Newcastle: Haaland leads 5-0-0 leaders into Matchweek 6 clash at Etihad",
+  "whyCareScore": 9.1,
+  "whyCareReason": "Manchester City seek to maintain their 100% record as Erling Haaland faces Newcastle United in Saturday's headline Premier League Matchweek 6 encounter.",
+  "teaser": "Saturday 26 September, 17:30 BST at Etihad Stadium. Pep Guardiola's 15-point leaders host Matthias Jaissle's Magpies. Live on Sky Sports.",
+  "story": "Why this one matters: Premier League Matchweek 6 headlines Saturday 26 September with table-topping Manchester City hosting Newcastle United at the Etihad Stadium.\n\nCity enter with a spotless record of five wins from five, having outgunned Sunderland 5-3 in Matchweek 5 behind Antoine Semenyo's double and Erling Haaland's league-leading finish. Pep Guardiola's side holds a three-point cushion over second-placed Arsenal.\n\nNewcastle arrive eager to rebound under manager Matthias Jaissle following an inconsistent start to the campaign. With Arsenal and Brighton applying relentless pressure from behind, City cannot afford complacency against the Magpies' counter-attacking threat.",
+  "stakes": "City aim for six consecutive victories to cement their place at the summit of the Premier League.",
+  "rivalryAngle": "Guardiola's machine against Newcastle's resilient defense in a classic northern England clash.",
+  "home": "Manchester City",
+  "away": "Newcastle United",
+  "group": "PL",
+  "date": "2026-09-26",
+  "time": "17:30",
+  "venue": "Etihad Stadium",
+  "city": "Manchester",
+  "status": "UPCOMING",
+  "sport": "soccer",
+  "competition": "premier-league-2026-27"
+}

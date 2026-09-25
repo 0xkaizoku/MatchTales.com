@@ -124,8 +124,6 @@ const TEAMS: Record<string, Partial<Record<Locale, string>>> = {
   Falcons: { fr: 'Falcons', es: 'Falcons', de: 'Falcons', it: 'Falcons', pl: 'Falcons', zh: '猎鹰', ja: 'ファルコンズ', ko: '팰컨스', ar: 'فالكونز' },
   'Bayern Munich': { fr: 'Bayern Munich', es: 'Bayern Múnich', de: 'FC Bayern München', it: 'Bayern Monaco', pl: 'Bayern Monachium', zh: '拜仁慕尼黑', ja: 'バイエルン・ミュンヘン', ko: '바이에른 뮌헨', ar: 'بايرن ميونخ' },
   Bayern: { fr: 'Bayern', es: 'Bayern', de: 'FC Bayern', it: 'Bayern', pl: 'Bayern', zh: '拜仁', ja: 'バイエルン', ko: '바이에른', ar: 'البايرن' },
-  'Indiana Fever': { fr: 'Indiana Fever', es: 'Indiana Fever', de: 'Indiana Fever', it: 'Indiana Fever', pl: 'Indiana Fever', zh: '印第安纳狂热', ja: 'インディアナ・フィーバー', ko: '인디애나 피버', ar: 'إنديانا فيفر' },
-  Fever: { fr: 'Fever', es: 'Fever', de: 'Fever', it: 'Fever', pl: 'Fever', zh: '狂热', ja: 'フィーバー', ko: '피버', ar: 'فيفر' },
   'International Team': { fr: 'International', es: 'Internacional', de: 'International', it: 'Internazionale', pl: 'Międzynarodowa', zh: '国际队', ja: 'インターナショナル', ko: '인터내셔널', ar: 'الدولي' },
   'Team Europe': { fr: 'Équipe Europe', es: 'Equipo Europa', de: 'Team Europa', it: 'Team Europa', pl: 'Drużyna Europy', zh: '欧洲队', ja: 'チーム・ヨーロッパ', ko: '팀 유럽', ar: 'فريق أوروبا' },
   'Team World': { fr: 'Équipe Monde', es: 'Equipo Mundo', de: 'Team Welt', it: 'Team Resto del Mondo', pl: 'Drużyna Świata', zh: '世界队', ja: 'チーム・ワールド', ko: '팀 월드', ar: 'فريق العالم' },
