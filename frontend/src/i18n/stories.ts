@@ -2310,6 +2310,191 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+  'packers-falcons-week3-final-2026': {
+    fr: {
+      title: 'Les Packers résistent aux Falcons 24-20 : Love brille pour l’Alumni Weekend avant le dimanche de NFL',
+      subtitle: 'Jordan Love inscrit trois touchdowns à Lambeau. Penix lance pour 268 yards pour son retour. Bills-Dolphins et Chiefs-Chargers en approche.',
+      excerpt: 'Le Thursday Night Football de la 3e semaine voit Green Bay battre Atlanta 24-20 à Lambeau Field. Jordan Love signe trois touchdowns tandis que la NFL se tourne vers dimanche.',
+      body: [
+        'La 3e semaine de NFL a débuté sous les projecteurs de Lambeau Field avec la victoire 24-20 des Packers de Green Bay face aux Falcons d’Atlanta. Green Bay passe à 2-1 en tête de la NFC Nord avant une grande journée dominicale.',
+        'NFL.com et Packers.com rapportent que Jordan Love a brillé devant cinquante légendes du club pour l’Alumni Weekend. Love a lancé deux passes de touchdown pour Christian Watson et Romeo Doubs, avant d’ajouter un touchdown au sol de 4 yards au troisième quart-temps.',
+        'Michael Penix Jr. a réalisé une prestation remarquable pour son retour de blessure avec 268 yards à la passe et un touchdown vers Drake London. Une interception tardive de Xavier McKinney a scellé le sort d’Atlanta. Dimanche, Allen et les Bills défient les Dolphins à Highmark, tandis que Mahomes et les Chiefs accueillent les Chargers.',
+      ],
+    },
+    es: {
+      title: 'Los Packers frenan a los Falcons 24-20: Love brilla en el Alumni Weekend rumbo al domingo de NFL',
+      subtitle: 'Jordan Love anota tres touchdowns en Lambeau. Penix suma 268 yardas en su regreso. Bills-Dolphins y Chiefs-Chargers en el horizonte.',
+      excerpt: 'El Thursday Night Football de la semana 3 finaliza con victoria de Green Bay 24-20 sobre Atlanta en Lambeau Field. Jordan Love suma tres touchdowns mientras la NFL mira al domingo.',
+      body: [
+        'La semana 3 de la NFL arrancó en horario de máxima audiencia en Lambeau Field con el triunfo de los Green Bay Packers por 24-20 ante los Atlanta Falcons. Green Bay se sitúa 2-1 al frente de la NFC Norte.',
+        'NFL.com y Packers.com informan de la gran actuación de Jordan Love ante medio centenar de leyendas históricas en el Alumni Weekend. Love lanzó dos pases de anotación para Watson y Doubs y anotó otra marca terrestre de 4 yardas en el tercer cuarto.',
+        'Michael Penix Jr. completó 268 yardas y un touchdown hacia Drake London en su regreso, pero una intercepción decisiva de Xavier McKinney aseguró el festejo local. Todas las miradas apuntan ahora a los duelos dominicales Bills-Dolphins y Chiefs-Chargers.',
+      ],
+    },
+    de: {
+      title: 'Packers bezwingen Falcons 24-20: Love glänzt am Alumni-Wochenende vor heißem NFL-Sonntag',
+      subtitle: 'Jordan Love erzielt drei Touchdowns im Lambeau Field. Penix wirft für 268 Yards bei Rückkehr. Bills-Dolphins und Chiefs-Chargers im Fokus.',
+      excerpt: 'Das Thursday Night Football der 3. Woche endet mit einem 24-20-Erfolg der Green Bay Packers über die Atlanta Falcons. Jordan Love verbucht drei Touchdowns.',
+      body: [
+        'Die 3. NFL-Woche begann am Donnerstagabend im Lambeau Field mit einem hart erkämpften 24-20-Sieg der Green Bay Packers gegen die Atlanta Falcons. Green Bay rückt mit 2-1 an die Spitze der NFC North vor.',
+        'NFL.com und Packers.com berichten von einer starken Vorstellung von Jordan Love vor 50 Vereinslegenden am Alumni-Wochenende. Love warf zwei Touchdowns auf Watson und Doubs und lief im dritten Viertel selbst über vier Yards in die Endzone.',
+        'Falcons-Quarterback Michael Penix Jr. überzeugte bei seinem Comeback mit 268 Passing Yards und einem Touchdown auf Drake London, ehe eine späte Interception von Xavier McKinney die Niederlage besiegelte. Am Sonntag folgen die Topspiele Bills gegen Dolphins und Chiefs gegen Chargers.',
+      ],
+    },
+    it: {
+      title: 'I Packers superano i Falcons 24-20: Love protagonista all’Alumni Weekend verso la domenica NFL',
+      subtitle: 'Jordan Love firma tre touchdown a Lambeau. Penix lancia per 268 yard al rientro. All’orizzonte Bills-Dolphins e Chiefs-Chargers.',
+      excerpt: 'Il Thursday Night Football della Week 3 si chiude con il successo di Green Bay per 24-20 su Atlanta al Lambeau Field. Jordan Love trascina i suoi con tre touchdown.',
+      body: [
+        'La Week 3 della NFL si è aperta nel prime time del Lambeau Field con la vittoria dei Green Bay Packers per 24-20 sugli Atlanta Falcons. Green Bay sale a 2-1 in vetta alla NFC North.',
+        'NFL.com e Packers.com celebrano la prova maiuscola di Jordan Love davanti a 50 leggende del club per l’Alumni Weekend. Love ha lanciato due mete per Watson e Doubs e segnato un touchdown su corsa da 4 yard nel terzo quarto.',
+        'Michael Penix Jr. ha risposto al rientro con 268 yard e un touchdown per Drake London, ma un intercetto nel finale di Xavier McKinney ha blindato il successo dei padroni di casa. La NFL si prepara ora alle sfide domenicali tra Bills e Dolphins e tra Chiefs e Chargers.',
+      ],
+    },
+    pl: {
+      title: 'Packers pokonują Falcons 24-20: Love bohaterem Alumni Weekend przed niedzielnymi meczami NFL',
+      subtitle: 'Jordan Love notuje trzy przyłożenia na Lambeau Field. Penix rzuca 268 jardów po powrocie. W niedzielę hity Bills-Dolphins i Chiefs-Chargers.',
+      excerpt: 'Mecz Thursday Night Football 3. tygodnia kończy się wygraną Green Bay Packers 24-20 nad Atlanta Falcons. Jordan Love zapisuje trzy przyłożenia na swoje konto.',
+      body: [
+        'Tydzień 3 ligi NFL rozpoczął się na Lambeau Field, gdzie Green Bay Packers odnieśli cenne zwycięstwo 24-20 nad Atlanta Falcons. Wygrana daje Packers bilans 2-1 i prowadzenie w dywizji NFC North.',
+        'Według relacji NFL.com i Packers.com Jordan Love rozegrał znakomity mecz w obecności kilkudziesięciu legend klubu. Rozgrywający rzucił dwa przyłożenia do Watsona i Doubsa oraz dołożył 4-jardowy bieg na pole punktowe w trzeciej kwarcie.',
+        'Michael Penix Jr. zaliczył udany powrót po kontuzji, zdobywając 268 jardów podaniowych i przyłożenie z Drake’em Londonem. Przechwyt Xaviera McKinneya w końcówce przypieczętował jednak sukces gospodarzy przed niedzielnymi hitami Bills z Dolphins oraz Chiefs z Chargers.',
+      ],
+    },
+    zh: {
+      title: '包装工24-20险胜猎鹰：勒夫校友周末轰出三达阵，NFL周日大战触手可及',
+      subtitle: '乔丹·勒夫兰博球场贡献三达阵。佩尼克斯伤愈复出传出268码。比尔对海豚与酋长战闪电引人瞩目。',
+      excerpt: 'NFL第3周周四夜赛在兰博球场收官，绿湾包装工24-20击退亚特兰大猎鹰。乔丹·勒夫独造三达阵，联盟目光全面转向周日决战。',
+      body: [
+        'NFL第3周在兰博球场的聚光灯下打响，绿湾包装工以24-20力克亚特兰大猎鹰。凭借这场硬仗的胜利，包装工以2胜1负升至国联北区头名，拉开了精彩周末的序幕。',
+        '据NFL官网与包装工官方报道，勒夫在五十余位队史名宿见证的校友周末打出统治级表现。他先后传球助攻沃森和道布斯达阵，并在第三节完成4码冲球达阵得分。',
+        '猎鹰四分卫佩尼克斯伤愈复出表现抢眼，34传22中砍下268码并连线伦敦达阵。但麦金尼在关键时刻的抄截终结了逆转悬念。周日联盟将迎来比尔对阵海豚以及酋长迎战闪电的重头戏。',
+      ],
+    },
+    ja: {
+      title: 'パッカーズがファルコンズを24-20で撃破：ラブが3TDの活躍、注目の日曜決戦へ',
+      subtitle: 'ジョーダン・ラブがランボー・フィールドで3TDを記録。復帰のペニックスも268ヤードを投球。ビルズ対ドルフィンズなど好カード控える。',
+      excerpt: 'NFL第3週のサーズデーナイトフットボールはグリーンベイ・パッカーズが24-20でアトランタ・ファルコンズに競り勝った。ラブが3つのタッチダウンをマーク。',
+      body: [
+        'NFL第3週は伝統のランボー・フィールドで幕を開け、グリーンベイ・パッカーズが24-20でアトランタ・ファルコンズを退けた。パッカーズは今季成績を2勝1敗としてNFC北地区首位に立った。',
+        'NFL.comによると、同校OBら多くのレジェンドが集うアルムナイ・ウィークエンドでQBジョーダン・ラブが大活躍。パスで2つのTDを演出し、第3クォーターには自らの4ヤードランでTDを決めた。',
+        '膝の手術から復帰したファルコンズのペニックスも268ヤード1TDと奮闘したが、マッキニーのインターセプトが勝敗を決した。視線は早くも日曜日のビルズ対ドルフィンズやチーフス対チャージャーズへと向かう。',
+      ],
+    },
+    ko: {
+      title: '패커스, 팰컨스에 24-20 진땀승: 러브의 3TD 맹활약 속 NFL 일요일 격전 카운트다운',
+      subtitle: '조던 러브 램보 필드서 터치다운 3개 작렬. 복귀전 페닉스 268패싱야드 기록. 빌스-돌핀스 및 치프스-차저스 격돌 임박.',
+      excerpt: 'NFL 3주차 서스데이 나이트 풋볼에서 그린베이 패커스가 애틀랜타 팰컨스를 24-20으로 꺾었다. 조던 러브가 터치다운 3개를 책임지며 일요일 경기 기대감을 높였다.',
+      body: [
+        'NFL 3주차 경기는 램보 필드의 화려한 조명 아래 펼쳐졌으며, 그린베이 패커스가 애틀랜타 팰컨스를 24-20으로 제압했다. 패커스는 2승 1패로 NFC 북부지구 선두로 올라섰다.',
+        'NFL 공식 홈페이지에 따르면 조던 러브는 50여 명의 구단 레전드들이 모인 동문 주간 경기에서 맹활약했다. 러브는 패스 터치다운 2개를 성공시킨 데 이어 3쿼터 4야드 러싱 터치다운까지 성공시켰다.',
+        '부상에서 돌아온 팰컨스의 마이클 페닉스 주니어도 268패싱야드로 분전했으나 매키니의 결정적인 가로채기로 패배를 안았다. 이제 관심은 일요일 열리는 빌스 대 돌핀스, 치프스 대 차저스의 대결로 쏠린다.',
+      ],
+    },
+    ar: {
+      title: 'باكرز يتفوق على فالكونز 24-20: لوف يتألق في عطلة الأساطير قبل جولة الأحد المرتقبة',
+      subtitle: 'جوردان لوف يسجل ثلاثة تاتش داون في لامبو فيلد. بينيكس يحقق 268 ياردة عند عودته. مواجهات نارية تنتظر بيلز وتشييفس.',
+      excerpt: 'انتهت مواجهة الخميس في الأسبوع الثالث من دوري كرة القدم الأمريكية بفوز غرين باي باكرز على أتلانتا فالكونز 24-20. سجل لوف ثلاثة تاتش داون مع التطلع لمباريات الأحد.',
+      body: [
+        'انطلق الأسبوع الثالث من دوري كرة القدم الأمريكية ليلة الخميس على ملعب لامبو فيلد العريق، حيث حقق غرين باي باكرز انتصارًا قويًا على أتلانتا فالكونز بنتيجة 24-20 ليعزز صدارته لمجموعته برصيد 2-1.',
+        'أفادت تقارير NFL.com بأن جوردان لوف قدم عرضًا استثنائيًا أمام أكثر من خمسين أسطورة من قدامى لاعبي النادي، حيث مرر كرتين حاسمتين وسجل بنفسه من ركضة لمسافة 4 ياردات في الربع الثالث.',
+        'من جانبه، تألق مايكل بينيكس العائد من الإصابة محققًا 268 ياردة وتمريرة تاتش داون لدريك لندن، قبل أن يحسم اعتراض زافير ماكيني الفوز لباكرز. وتتجه الأنظار الآن نحو قمم الأحد بين بيلز ودولفينز وتشييفس ضد تشارجرز.',
+      ],
+    },
+  },
+  'wnba-playoffs-2026-countdown-round1': {
+    fr: {
+      title: 'Playoffs WNBA 2026 : compte à rebours de 24 heures avant le coup d’envoi de dimanche',
+      subtitle: 'Le premier tour débute dimanche 27 septembre. Minnesota tête de série à 32-10, les Valkyries impressionnent, le Fever défie le Dream.',
+      excerpt: 'Il ne reste que 24 heures avant le lancement des playoffs WNBA 2026 ce dimanche 27 septembre. Le tableau à huit équipes réunit les plus grandes stars du basket féminin.',
+      body: [
+        'La saison régulière WNBA 2026 est terminée et le tableau des playoffs est en place. Ce dimanche 27 septembre, huit équipes débutent leur quête du titre suprême dans un premier tour au meilleur des trois manches.',
+        'WNBA.com et ESPN ont officialisé les têtes de série après une fin de saison palpitante. Les Minnesota Lynx s’avancent avec le statut de numéro un grâce à leur bilan de 32-10 et la meilleure défense de la ligue. Les Golden State Valkyries décrochent la deuxième place à 31-11 pour leur deuxième année d’existence.',
+        'Les Las Vegas Aces d’A’ja Wilson occupent la 3e place à 29-13. Le choc du premier tour opposera l’Atlanta Dream, 4e à 28-14, à l’Indiana Fever de Caitlin Clark, 5e à 27-15. Les séries débutent ce dimanche sur les parquets américains.',
+      ],
+    },
+    es: {
+      title: 'Playoffs WNBA 2026: cuenta atrás de 24 horas para el inicio del domingo con Lynx y Valkyries al frente',
+      subtitle: 'La primera ronda arranca el domingo 27 de septiembre. Minnesota lidera con 32-10, las Valkyries brillan y Fever visita a Dream.',
+      excerpt: 'Apenas restan 24 horas para que arranquen las eliminatorias por el título de la WNBA este domingo 27 de septiembre con los ocho mejores equipos en liza.',
+      body: [
+        'La temporada regular de la WNBA ha concluido y el cuadro de postemporada está listo. El domingo 27 de septiembre, ocho franquicias inician la primera ronda al mejor de tres partidos en busca del trofeo de campeonas.',
+        'WNBA.com y ESPN confirmaron el cuadro final. Las Minnesota Lynx parten como primeras cabezas de serie con un balance de 32-10 y una defensa imponente. Las Golden State Valkyries firman la segunda plaza con 31-11 en apenas su segundo año en la competición.',
+        'Las vigentes campeonas Las Vegas Aces ocupan la tercera plaza con 29-13, mientras que el Dream de Atlanta (28-14) recibirá en una serie apasionante al Indiana Fever de Caitlin Clark (27-15). La carrera por el anillo de 2026 arranca este domingo.',
+      ],
+    },
+    de: {
+      title: 'WNBA-Playoffs 2026: 24-Stunden-Countdown vor dem Sonntags-Auftakt mit Lynx und Valkyries',
+      subtitle: 'Erste Runde startet am Sonntag, 27. September. Minnesota topgesetzt mit 32-10, Valkyries überzeugen, Fever gastiert bei Dream.',
+      excerpt: 'Nur noch 24 Stunden bis zum Start der WNBA-Playoffs 2026 am Sonntag, dem 27. September. Acht Teams kämpfen im K.o.-Modus um die Meisterschaft.',
+      body: [
+        'Die reguläre Saison der WNBA 2026 ist abgeschlossen und die Playoff-Bühne bereitet. Am Sonntag, dem 27. September, eröffnen acht Teams die erste Runde im Best-of-Three-Modus im Rennen um die Krone.',
+        'WNBA.com und ESPN bestätigten die Setzliste nach einem packenden Saisonfinale. Die Minnesota Lynx gehen mit einer Bilanz von 32-10 als Nummer eins ins Rennen. Die Golden State Valkyries sicherten sich in ihrem zweiten Jahr sensationell Rang zwei mit 31-11.',
+        'Titelverteidiger Las Vegas Aces folgt auf Platz drei mit 29-13. Ein echtes Highlight verspricht das Duell zwischen Atlanta Dream (28-14) und den Indiana Fever um Caitlin Clark (27-15). Vier mitreißende Serien beginnen am Sonntag.',
+      ],
+    },
+    it: {
+      title: 'Playoff WNBA 2026: conto alla rovescia di 24 ore verso la palla a due di domenica',
+      subtitle: 'Il primo turno scatta domenica 27 settembre. Minnesota prima testa di serie a 32-10, le Valkyries stupiscono, Fever contro Dream.',
+      excerpt: 'Mancano solo 24 ore all’inizio dei playoff WNBA 2026 di domenica 27 settembre. Il tabellone a otto squadre mette in palio il titolo supremo.',
+      body: [
+        'La regular season della WNBA 2026 è agli archivi e la post-season è pronta a decollare. Domenica 27 settembre otto formazioni scendono sul parquet per il primo turno al meglio delle tre gare.',
+        'WNBA.com ed ESPN hanno ufficializzato le posizioni della griglia playoff. Le Minnesota Lynx si presentano come prima testa di serie assoluta con un record di 32-10. Al secondo posto brillano le Golden State Valkyries a 31-11 al loro secondo anno di vita.',
+        'Le campionesse in carica delle Las Vegas Aces sono terze a 29-13, mentre l’Atlanta Dream (28-14) sfiderà l’Indiana Fever di Caitlin Clark (27-15) nella serie più attesa. La corsa al titolo parte domenica.',
+      ],
+    },
+    pl: {
+      title: 'Play-off WNBA 2026: 24 godziny do niedzielnego startu, Lynx i Valkyries na czele stawki',
+      subtitle: 'Pierwsza runda rusza w niedzielę 27 września. Minnesota numerem jeden z bilansem 32-10, Valkyries zachwycają, Fever gra z Dream.',
+      excerpt: 'Już tylko 24 godziny dzielą nas od startu fazy play-off ligi WNBA w niedzielę 27 września. Osiem najlepszych zespołów rozpoczyna walkę o mistrzostwo.',
+      body: [
+        'Sezon zasadniczy WNBA 2026 dobiegł końca i znamy pełną drabinkę play-off. W niedzielę 27 września osiem klubów zainauguruje rywalizację w pierwszej rundzie rozgrywanej w formule do dwóch zwycięstw.',
+        'WNBA.com i ESPN potwierdziły rozstawienie po emocjonującej końcówce sezonu. Minnesota Lynx przystępują do gry z pierwszego miejsca z imponującym bilansem 32-10. Rewelacyjne Golden State Valkyries zajęły drugie miejsce z wynikiem 31-11.',
+        'Obrończynie tytułu Las Vegas Aces są rozstawione z numerem trzecim (29-13), a w hicie pierwszej rundy Atlanta Dream (28-14) podejmie Indiana Fever z Caitlin Clark (27-15). Wielka gra o mistrzostwo startuje w niedzielę.',
+      ],
+    },
+    zh: {
+      title: '2026年WNBA季后赛：周日揭幕战进入24小时倒计时，山猫与女武神领衔争冠阵营',
+      subtitle: '首轮将于9月27日周日打响。明尼苏达32胜10负锁定头号种子，金州女武神队史第二年跃居次席，狂热挑战梦想。',
+      excerpt: '距离2026年WNBA季后赛9月27日周日打响仅剩24小时。八强对阵落定，山猫、女武神、王牌与狂热等队伍展开首轮三局两胜角逐。',
+      body: [
+        '2026年WNBA常规赛正式圆满收官，季后赛大幕即将拉开。9月26日进入最后24小时倒计时，八支季后赛劲旅将在9月27日周日开启三局两胜制的首轮争夺。',
+        '据WNBA官网与ESPN报道，明尼苏达山猫以32胜10负傲视群雄夺得全联盟头号种子席位。建队仅第二年的金州女武神表现抢眼，以31胜11负高居第二号种子。',
+        '卫冕冠军拉斯维加斯王牌以29胜13负排在第三位。首轮最受瞩目的对决当属四号种子亚特兰大梦想（28胜14负）迎战凯特琳·克拉克领衔的五号种子印第安纳狂热（27胜15负）。周日四场大戏连台，总冠军追逐战全面打响。',
+      ],
+    },
+    ja: {
+      title: 'WNBAプレーオフ2026：開幕まで24時間カウントダウン、リンクスとヴァルキリーズが牽引',
+      subtitle: '1回戦は9月27日日曜日に開幕。ミネソタが32勝10敗で第1シード、ヴァルキリーズ躍進、フィーバーがドリームに挑む。',
+      excerpt: '9月27日日曜日に開幕する2026年WNBAプレーオフまであと24時間。8チームによる3戦2勝制の第1ラウンドが始まります。',
+      body: [
+        '2026年WNBAレギュラーシーズンが終了し、プレーオフの組み合わせが決定した。9月27日日曜日、選ばれし8チームが3戦2勝制のファーストラウンドで王座を目指す戦いを始める。',
+        'WNBA公式とESPNの発表によると、強固な守備を誇るミネソタ・リンクスが32勝10敗で全体第1シードを獲得。参入2年目のゴールデンステート・ヴァルキリーズが31勝11敗で第2シードに躍進した。',
+        '連覇を狙うラスベガス・エーシズが29勝13敗で第3シード。最大の注目カードは第4シードのアトランタ・ドリームとケイトリン・クラーク擁するインディアナ・フィーバーの一戦。日曜日のティップオフが迫る。',
+      ],
+    },
+    ko: {
+      title: '2026 WNBA 플레이오프: 일요일 개막 앞두고 24시간 카운트다운, 링스와 발키리스 선두 질주',
+      subtitle: '1라운드 9월 27일 일요일 개막. 미네소타 32승 10패로 1번 시드, 발키리스 2년차 돌풍, 피버 대 드림 격돌.',
+      excerpt: '9월 27일 일요일 시작되는 2026 WNBA 플레이오프까지 24시간 남았다. 미네소타, 골든스테이트, 라스베이거스, 인디애나 등 8개 팀이 우승컵을 향해 격돌한다.',
+      body: [
+        '2026 WNBA 정규리그가 모두 마무리되고 플레이오프 대진표가 완성되었다. 9월 27일 일요일, 8개 구단이 3전 2선승제의 1라운드에 돌입해 치열한 승부를 펼친다.',
+        'WNBA 공식 발표에 따르면 미네소타 링스가 32승 10패로 전체 1번 시드를 거머쥐었다. 창단 2년차를 맞은 골든스테이트 발키리스는 31승 11패로 2번 시드에 오르는 기염을 토했다.',
+        '디펜딩 챔피언 라스베이거스 에이시스가 29승 13패로 3번 시드를 차지한 가운데, 4번 시드 애틀랜타 드림과 케이틀린 클라크가 이끄는 5번 시드 인디애나 피버의 맞대결이 가장 큰 관심을 모은다. 우승을 향한 여정이 일요일 시작된다.',
+      ],
+    },
+    ar: {
+      title: 'أدوار WNBA الإقصائية 2026: العد التنازلي لـ24 ساعة قبل ضربة بداية الأحد بقيادة لينكس وفالكيريز',
+      subtitle: 'تنطلق الجولة الأولى الأحد 27 أيلول/سبتمبر. مينيسوتا تتصدر بـ32-10، وفالكيريز تبهر الجميع، وفيفر يحل ضيفًا على دريم.',
+      excerpt: 'لم يتبق سوى 24 ساعة على انطلاق الأدوار الإقصائية لدوري السلة الأمريكي للسيدات WNBA يوم الأحد 27 أيلول/سبتمبر بمشاركة ثمانية فرق تتنافس على اللقب.',
+      body: [
+        'اختتم الموسم المنتظم لدوري السلة الأمريكي للسيدات 2026 واكتملت خريطة الأدوار الإقصائية. تنطلق المنافسات يوم الأحد 27 أيلول/سبتمبر بمواجهات الجولة الأولى الأفضل من بين ثلاث مباريات.',
+        'أكدت تقارير WNBA.com وإي إس بي إن تصدر مينيسوتا لينكس الترتيب برصيد 32-10 بالمركز الأول بفضل أقوى دفاع في البطولة. واحتل فريق غولدن ستيت فالكيريز المركز الثاني برصيد 31-11 في موسمه الثاني فقط.',
+        'وجاء حامل اللقب لاس فيغاس إيسيز ثالثًا بـ29-13، بينما تترقب الجماهير قمة أتلانتا دريم صاحب المركز الرابع ضد إنديانا فيفر بقيادة كيتلين كلارك. ساعات قليلة تفصلنا عن صافرة البداية يوم الأحد.',
+      ],
+    },
+  },
 };
+
 
 
