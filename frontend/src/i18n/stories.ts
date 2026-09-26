@@ -2494,6 +2494,558 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+  'antonelli-wins-baku-gp-2026': {
+    fr: {
+      title: 'Antonelli triomphe à Bakou depuis la pole : doublé magistral de Mercedes',
+      subtitle: 'Le prodige italien signe sa 9e victoire de 2026. Russell 2e, Leclerc 3e. 88 points d’avance au championnat.',
+      excerpt: 'Kimi Antonelli s’impose au Grand Prix d’Azerbaïdjan devant son coéquipier George Russell, scellant un éclatant doublé Mercedes dans les rues de Bakou.',
+      body: [
+        'Le Grand Prix d’Azerbaïdjan s’est achevé samedi 26 septembre avec une démonstration éclatante de Kimi Antonelli sur le tracé de Bakou.',
+        'Parti de la pole position, le rookie de 19 ans a maîtrisé la dégradation de ses gommes et résisté à la pression de George Russell sur l’avenue Neftchilar. Une relance parfaite après la voiture de sécurité au 44e tour lui a permis de l’emporter en 1:31:28.412.',
+        'Russell prend la deuxième place à 2,184 secondes pour valider le doublé Mercedes, tandis que Charles Leclerc monte sur le podium pour Ferrari. Antonelli totalise désormais 317 points au championnat du monde.',
+      ],
+    },
+    es: {
+      title: 'Antonelli gana en Bakú desde la pole: doblete dominante de Mercedes',
+      subtitle: 'Novena victoria de 2026 para la joven promesa. Russell 2º, Leclerc 3º. Ventaja de 88 puntos en el Mundial.',
+      excerpt: 'Kimi Antonelli triunfa en el Gran Premio de Azerbaiyán por delante de George Russell, logrando un contundente doblete de Mercedes en el trazado urbano de Bakú.',
+      body: [
+        'El Gran Premio de Azerbaiyán culminó con una actuación magistral de Kimi Antonelli en las desafiantes calles del circuito de Bakú.',
+        'Saliendo desde la pole, el piloto italiano de 19 años resistió los envites de George Russell y gestionó con maestría la zona estrecha del castillo. Tras el auto de seguridad tardío, cruzó la meta en 1:31:28.412.',
+        'Russell completó el 1-2 de las flechas plateadas a 2,184 segundos, con Charles Leclerc completando el podio para Ferrari. Antonelli amplía su liderato en el campeonato de pilotos a 317 puntos.',
+      ],
+    },
+    de: {
+      title: 'Antonelli siegt in Baku von der Pole: Dominanter Mercedes-Doppelsieg',
+      subtitle: 'Neunter Saisonsieg für das Ausnahmetalent. Russell P2, Leclerc P3. WM-Vorsprung wächst auf 88 Punkte.',
+      excerpt: 'Formel-1-Spitzenreiter Kimi Antonelli gewinnt den Großen Preis von Aserbaidschan vor Teamkollege George Russell auf dem schnellen Stadtkurs in Baku.',
+      body: [
+        'Der Große Preis von Aserbaidschan bot am Samstag einen triumphalen Renntag für Kimi Antonelli und das Mercedes-Team auf dem Baku City Circuit.',
+        'Von der Pole Position gestartet, behauptete der 19-jährige Italiener die Führung auf der 2,2 km langen Neftchilar-Geraden und meisterte die enge Altstadt-Passage fehlerfrei. Er siegte nach 51 Runden in 1:31:28.412.',
+        'George Russell folgte 2,184 Sekunden dahinter und sicherte den Doppelsieg ab. Charles Leclerc belegte im Ferrari den dritten Platz. Antonelli baut seine WM-Führung auf 317 Punkte aus.',
+      ],
+    },
+    it: {
+      title: 'Antonelli trionfa a Baku dalla pole: doppietta capolavoro per la Mercedes',
+      subtitle: 'Nono trionfo stagionale per il giovane fenomeno. Russell 2°, Leclerc 3°. Il vantaggio sale a 88 punti.',
+      excerpt: 'Kimi Antonelli domina il Gran Premio d’Azerbaigian precedendo George Russell sul circuito cittadino di Baku per una spettacolare doppietta Mercedes.',
+      body: [
+        'Il Gran Premio d’Azerbaigian si è chiuso con il trionfo assoluto di Kimi Antonelli sul velocissimo tracciato cittadino di Baku.',
+        'Scattato dalla pole position, il talento bolognese ha controllato la gara con grande freddezza, gestendo le insidie della curva 8 e l’usura gomme sul rettilineo del Caspio, chiudendo in 1:31:28.412.',
+        'Russell taglia il traguardo secondo a 2,184 secondi completando l’uno-due Mercedes, con Charles Leclerc terzo per la Ferrari. Antonelli vola nel Mondiale a quota 317 punti.',
+      ],
+    },
+    pl: {
+      title: 'Antonelli wygrywa w Baku z pole position: dublet Mercedesa na ulicach miasta',
+      subtitle: 'Dziewiąte zwycięstwo młodego talentu w 2026 roku. Russell 2., Leclerc 3. Przewaga w klasyfikacji wzrasta do 88 punktów.',
+      excerpt: 'Lider mistrzostw świata Kimi Antonelli triumfuje w Grand Prix Azerbejdżanu przed George’em Russellem, dając Mercedesowi pewny dublet w Baku.',
+      body: [
+        'Sobotnie Grand Prix Azerbejdżanu przyniosło kolejny bezbłędny występ debiutującego Kimiego Antonellego na torze ulicznym w Baku.',
+        'Startując z pole position, 19-letni Włoch utrzymał prowadzenie na długiej prostej Neftchilar i precyzyjnie pokonał ciasny odcinek przy zamku, wygrywając z czasem 1:31:28.412.',
+        'George Russell finiszował ze stratą 2,184 sekundy, a podium uzupełnił Charles Leclerc z Ferrari. Antonelli pewnie przewodzi klasyfikacji kierowców z dorobkiem 317 punktów.',
+      ],
+    },
+    zh: {
+      title: '安东内利杆位起步问鼎巴库大奖赛：梅赛德斯街道赛包揽冠亚军',
+      subtitle: '超级新秀斩获赛季第九冠。拉塞尔位居次席，勒克莱尔第三。车手榜领跑优势扩大至88分。',
+      excerpt: 'F1车手积分榜榜首安东内利在巴库城市赛道杆位发车夺得阿塞拜疆大奖赛冠军，携手队友拉塞尔助梅赛德斯包揽冠亚军。',
+      body: [
+        '周六在巴库城市赛道打响的F1阿塞拜疆大奖赛正赛中，安东内利再次展现出无可挑剔的赛道掌控力。',
+        '这位19岁超新星从杆位启航，在2.2公里长的里海超长直道上顶住了队友拉塞尔与勒克莱尔的追击，并在狭窄古堡区保持零失误，最终以1小时31分28秒412率先撞线。',
+        '拉塞尔落后2.184秒获得亚军，法拉利车手勒克莱尔登上领奖台第三位。本场胜利使安东内利的个人积分升至317分，梅赛德斯车队以546分遥遥领先。',
+      ],
+    },
+    ja: {
+      title: 'アントネッリがバクーでPPトゥウィン：メルセデスが市街地戦でワンツー達成',
+      subtitle: '新星ルーキーが今季9勝目をマーク。ラッセル2位、ルクレール3位。ポイント差を88点に拡大。',
+      excerpt: 'F1ポイントリーダーのアントネッリがアゼルバイジャンGPでポール・トゥ・ウィンを達成、ラッセルとともにメルセデスのワンツーフィニッシュを飾った。',
+      body: [
+        'バクー市街地コースで開催されたアゼルバイジャンGP決勝は、メルセデスのキミ・アントネッリによる圧巻の走りで幕を閉じた。',
+        'ポールから好発進を決めた19歳のアントネッリは、時速350キロに達するカスピ海ストレートと難所ターン8の古城セクションを完璧に攻略し、1時間31分28秒412で優勝。',
+        '2.184秒差でラッセルが2位に入りメルセデスが1-2フィニッシュを達成、ルクレールが3位に入った。アントネッリはドライバーズ選手権で317点までリードを広げた。',
+      ],
+    },
+    ko: {
+      title: '안토넬리, 바쿠 GP 폴투윈 달성: 메르세데스 도심 서킷 원투 피니시 완성',
+      subtitle: '슈퍼 루키 안토넬리 시즌 9승째 수확. 러셀 2위, 르클레르 3위. 챔피언십 88점 차 선두 질주.',
+      excerpt: 'F1 챔피언십 선두 안토넬리가 아제르바이잔 그랑프리에서 폴투윈을 기록하며 팀 동료 조지 러셀과 함께 메르세데스 원투 피니시를 이끌었다.',
+      body: [
+        '바쿠 시티 서킷에서 펼쳐진 아제르바이잔 그랑프리는 키미 안토넬리의 완벽한 독주 속에 메르세데스의 축제로 끝났다.',
+        '폴포지션에서 출발한 19세의 안토넬리는 2.2km 직선 주로의 거센 압박과 성벽 코너의 난코스를 무결점으로 방어하며 1시간 31분 28초 412의 기록으로 체커기를 받았다.',
+        '러셀이 2.184초 차 2위로 결승선을 통과하며 메르세데스 원투를 완성했고 페라리의 르클레르가 3위에 올랐다. 안토넬리는 이번 승리로 시즌 317점을 쌓았다.',
+      ],
+    },
+    ar: {
+      title: 'أنتونيللي يحرز سباق باكو من قطب الانطلاق: مرسيدس تحكم سيطرتها بثنائية في شوارع العاصمة',
+      subtitle: 'الفوز التاسع هذا الموسم للموهبة الصاعدة. راسل ثانيًا ولوكلير ثالثًا. الفارق في الصدارة يرتفع إلى 88 نقطة.',
+      excerpt: 'كيمي أنتونيللي يتوج بلقب جائزة أذربيجان الكبرى متفوقًا على زميله جورج راسل ليمنحا مرسيدس ثنائية استثنائية على حلبة باكو.',
+      body: [
+        'اختتمت منافسات جائزة أذربيجان الكبرى لسباقات فورمولا 1 بعرض مذهل من كيمي أنتونيللي الذي ترجم انطلاقه من المركز الأول إلى انتصار ثمين.',
+        'نجح السائق الإيطالي الشاب في إدارة تآكل الإطارات ببراعة على مستقيم نفتشيلار والمنعطفات التاريخية حول القلعة القديمة، ليعبر خط النهاية بزمن قدره 1:31:28.412.',
+        'حل زميله جورج راسل ثانيًا بفارق 2.184 ثانية ليحققا ثنائية تاريخية لمرسيدس، وجاء شارل لوكلير ثالثًا مع فيراري. ورفع أنتونيللي رصيده في صدارة البطولة إلى 317 نقطة.',
+      ],
+    },
+  },
+  'laver-cup-day3-championship-sunday-2026': {
+    fr: {
+      title: 'Laver Cup Jour 3 Finale : dimanche à trois points à l’O2 avec le trophée en jeu',
+      subtitle: 'Chaque victoire rapporte trois points à Londres. Alcaraz et Zverev mènent l’Europe face à Fritz et De Minaur.',
+      excerpt: 'La 9e Laver Cup se conclut ce dimanche à l’O2 Arena de Londres. Avec trois points par victoire, l’Europe et le Monde s’affrontent pour le sacre.',
+      body: [
+        'La 9e Laver Cup atteint son apogée ce dimanche 27 septembre sous la coupole de l’O2 à Londres, où chaque match rapporte désormais trois points précieux.',
+        'Les capitaines Yannick Noah et Andre Agassi ont désigné leurs champions pour cette dernière ligne droite. Carlos Alcaraz et Alexander Zverev ouvrent le bal en double face à Taylor Fritz et Alex de Minaur.',
+        'Les simples décisifs opposeront ensuite Alcaraz à De Minaur, puis Zverev à Fritz. La première équipe atteignant 13 points soulèvera le prestigieux trophée.',
+      ],
+    },
+    es: {
+      title: 'Laver Cup Día 3 Final: domingo de triple puntuación en el O2 con el título en juego',
+      subtitle: 'Cada partido vale tres puntos en Londres. Alcaraz y Zverev lideran a Europa frente a Fritz y De Minaur.',
+      excerpt: 'La 9ª Laver Cup culmina este domingo en el O2 de Londres. Con tres puntos por triunfo, Europa y el Resto del Mundo disputan la corona.',
+      body: [
+        'El desenlace de la 9ª Laver Cup se vive este domingo 27 de septiembre en el O2 Arena de Londres, donde las victorias pasan a premiarse con tres puntos.',
+        'Los capitanes Yannick Noah y Andre Agassi definieron un programa estelar. Carlos Alcaraz y Alexander Zverev unen fuerzas en el dobles inaugural ante Taylor Fritz y Alex de Minaur.',
+        'A continuación se disputarán los duelos individuales entre Alcaraz y De Minaur, y entre Zverev y Fritz. El primer equipo que alcance los 13 puntos se proclamará campeón.',
+      ],
+    },
+    de: {
+      title: 'Laver Cup Tag 3 Finale: Dreifache Punkte am Sonntag in London um die Trophäe',
+      subtitle: 'Jeder Sieg bringt drei Punkte in der O2 Arena. Alcaraz und Zverev fordern Fritz und De Minaur.',
+      excerpt: 'Der 9. Laver Cup gipfelt am Sonntag in der O2 Arena in London. Bei drei Punkten pro Match kämpfen Team Europe und Team World um den Titel.',
+      body: [
+        'Der 9. Laver Cup steuert am Sonntag, dem 27. September, in der Londoner O2 Arena auf seinen dramatischen Höhepunkt zu, da Siege heute dreifach gewertet werden.',
+        'Die Kapitäne Yannick Noah und Andre Agassi schicken ihre stärksten Kräfte ins Rennen. Alcaraz und Zverev eröffnen im Doppel gegen Fritz und De Minaur.',
+        'In den anschließenden Einzeln trifft Alcaraz auf De Minaur und Zverev auf Fritz. Wer zuerst 13 Punkte verbucht, gewinnt den Laver Cup 2026.',
+      ],
+    },
+    it: {
+      title: 'Laver Cup Giorno 3 Finale: domenica da tre punti all’O2 con il trofeo in palio',
+      subtitle: 'Ogni vittoria vale tre punti a Londra. Alcaraz e Zverev guidano l’Europa contro Fritz e De Minaur.',
+      excerpt: 'La 9ª Laver Cup si decide domenica all’O2 di Londra. Con tre punti a match, Team Europe e Team World lottano per il titolo.',
+      body: [
+        'La 9ª Laver Cup vive il suo atto conclusivo domenica 27 settembre all’O2 Arena di Londra, dove ogni successo assegna ben tre punti in classifica.',
+        'I capitani Yannick Noah e Andre Agassi hanno annunciato le formazioni. Carlos Alcaraz e Alexander Zverev giocano insieme nel doppio inaugurale contro Fritz e De Minaur.',
+        'Seguiranno le sfide singolari tra Alcaraz e De Minaur e tra Zverev e Fritz. La prima squadra a quota 13 punti alzerà il trofeo.',
+      ],
+    },
+    pl: {
+      title: 'Laver Cup Dzień 3 Finał: potrójne punkty w O2 i walka o mistrzostwo',
+      subtitle: 'Każdy mecz wart trzy punkty w Londynie. Alcaraz i Zverev kontra Fritz i De Minaur.',
+      excerpt: '9. edycja Laver Cup kończy się w niedzielę w londyńskiej O2 Arena. Punkty mnożone razy trzy wyłonią tegorocznego triumfatora.',
+      body: [
+        'Finałowy dzień Pucharu Lavera w niedzielę 27 września w O2 Arena w Londynie dostarczy najwyższych emocji dzięki potrójnej punktacji.',
+        'Kapitanowie Yannick Noah i Andre Agassi wystawili swoje największe gwiazdy. W deblu Alcaraz i Zverev zmierzą się z Fritzem i De Minaurem.',
+        'W grach pojedynczych Alcaraz zagra z De Minaurem, a Zverev z Fritzem. Zwycięża drużyna, która jako pierwsza zdobędzie 13 punktów.',
+      ],
+    },
+    zh: {
+      title: '拉沃尔杯第3日决赛日：O2球场三倍积分激战，冠军悬念拉满',
+      subtitle: '周日每胜独揽三分。阿尔卡拉斯与兹维列夫领衔欧洲队死磕弗里茨与德米纳尔。',
+      excerpt: '第九届拉沃尔杯于周日在伦敦O2球场迎来决战日。单场胜者斩获三分，欧洲队与世界队展开13分夺冠大决战。',
+      body: [
+        '9月27日周日，第九届拉沃尔杯在伦敦O2球场迎来冠军决战日。按照赛事特殊赛制，周日所有比赛单场分值跃升为三分。',
+        '诺阿与阿加西两位传奇队长公布了压轴对阵。阿尔卡拉斯与兹维列夫搭档双打迎战弗里茨与德米纳尔，为全天赛事拉开战幕。',
+        '随后阿尔卡拉斯将在单打对阵德米纳尔，兹维列夫则迎战弗里茨。率先拿到13个积分的队伍将登顶捧起冠军奖杯。',
+      ],
+    },
+    ja: {
+      title: 'レーバーカップ第3日決勝日：O2で勝利点3倍、トロフィーを懸けた激闘',
+      subtitle: '最終日は1勝につき3ポイント。アルカラスとズベレフが欧州選抜を牽引、世界選抜に挑む。',
+      excerpt: '第9回レーバーカップがロンドンのO2アリーナで決着の時を迎える。3ポイントマッチが続く最終日、栄冠を懸けた熱戦が展開。',
+      body: [
+        '9月27日日曜日、ロンドンのO2アリーナでレーバーカップ最終日の熱狂が幕を開けた。日曜日は1勝の価値が3点に跳ね上がる。',
+        'ノアとアガシの両主将はベストメンバーを指名。アルカラスとズベレフがダブルスでフリッツ、デミノー組と激突する。',
+        '続くシングルスではアルカラス対デミノー、ズベレフ対フリッツの好カードが予定され、13点先取を目指す激闘が続く。',
+      ],
+    },
+    ko: {
+      title: '레이버컵 3일차 결승전: O2 아레나서 3점짜리 승부 펼치며 트로피 쟁탈전',
+      subtitle: '런던 최종일 경기당 3점 부여. 알카라스와 츠베레프, 프리츠와 드미노 상대 출격.',
+      excerpt: '제9회 레이버컵이 영국 런던 O2 아레나에서 최종일을 맞았다. 승점 3점이 걸린 일요일 매치에서 유럽과 월드 팀이 격돌한다.',
+      body: [
+        '레이버컵은 9월 27일 일요일 런던 O2 아레나의 검은 코트 위에서 대망의 챔피언십 선데이를 시작했다. 최종일 승리는 3점으로 계산된다.',
+        '야닉 노아와 앙드레 아가시 단장은 최고의 라인업을 공개했다. 알카라스와 츠베레프가 복식에서 프리츠와 드미노 조를 상대한다.',
+        '단식에서는 알카라스 대 드미노, 츠베레프 대 프리츠의 빅매치가 이어진다. 어느 팀이 먼저 13점에 도달할지 전 세계 테니스 팬들의 이목이 쏠린다.',
+      ],
+    },
+    ar: {
+      title: 'كأس لافر اليوم الثالث الختامي: مباريات بـ3 نقاط في O2 وحسم لقب البطولة',
+      subtitle: 'كل فوز يساوي ثلاث نقاط في لندن. ألكاراز وزفيريف يقودان أوروبا أمام فريتز ودي مينور.',
+      excerpt: 'تختتم النسخة التاسعة من كأس لافر يوم الأحد في صالة O2 في لندن، حيث تمنح كل مواجهة ثلاث نقاط في سباق الوصول إلى 13 نقطة.',
+      body: [
+        'تبلغ بطولة كأس لافر قمة الإثارة يوم الأحد 27 أيلول/سبتمبر في لندن، حيث يرتفع رصيد الفوز في كل مباراة إلى ثلاث نقاط حاسمة.',
+        'أعلن القائدان يانيك نوا وأندريه أغاسي ترتيب المواجهات، حيث يستهل ألكاراز وزفيريف اليوم بمباراة زوجي مثيرة ضد فريتز ودي مينور.',
+        'وتتواصل المباريات بمواجهات الفردي بين ألكاراز ودي مينور، ثم زفيريف وفريتز، لتحديد الفريق الذي سيسبق إلى حصد 13 نقطة ورفع الكأس.',
+      ],
+    },
+  },
+  'presidents-cup-sunday-singles-medinah-2026': {
+    fr: {
+      title: 'Presidents Cup Simples du Dimanche : 12 duels au parcours n°3 de Medinah',
+      subtitle: 'Jour final à Medinah. Scheffler contre Matsuyama et Cantlay contre Scott mènent le face-à-face de 12 points.',
+      excerpt: 'La 16e Presidents Cup se décide ce dimanche au Medinah Country Club en Illinois. Douze duels en individuel couronneront l’équipe victorieuse.',
+      body: [
+        'La 16e Presidents Cup livre son dénouement ce dimanche 27 septembre sur le parcours n°3 de Medinah avec douze matches de simples décisifs.',
+        'Les capitaines Brandt Snedeker et Geoff Ogilvy ont dévoilé l’ordre des départs. Le numéro un mondial Scottie Scheffler ouvre face à Hideki Matsuyama.',
+        'Patrick Cantlay défie ensuite le vétéran Adam Scott pour son 12e tournoi, suivi de Schauffele contre Im. La première équipe à 15,5 points triomphera.',
+      ],
+    },
+    es: {
+      title: 'Presidents Cup Individuales del Domingo: 12 duelos deciden la copa en Medinah',
+      subtitle: 'Día decisivo en Medinah. Scheffler ante Matsuyama y Cantlay frente a Scott encabezan la batalla de 12 puntos.',
+      excerpt: 'La 16ª Presidents Cup concluye este domingo en el Medinah Country Club de Illinois con doce partidos individuales que definirán al campeón.',
+      body: [
+        'El desenlace de la 16ª Presidents Cup llega este domingo 27 de septiembre al Course No. 3 de Medinah con 12 puntos en disputa en partidos individuales.',
+        'Los capitanes Brandt Snedeker y Geoff Ogilvy programaron salidas de alto voltaje. Scottie Scheffler se mide a Hideki Matsuyama en el partido estelar de apertura.',
+        'Patrick Cantlay jugará contra el veterano Adam Scott en su 12ª participación, seguido por Schauffele ante Im. Quien alcance 15,5 puntos se llevará la copa.',
+      ],
+    },
+    de: {
+      title: 'Presidents Cup Einzel am Sonntag: 12 Matches entscheiden den Cup in Medinah',
+      subtitle: 'Finaltag auf Kurs Nr. 3. Scheffler gegen Matsuyama und Cantlay gegen Scott im Fokus.',
+      excerpt: 'Der 16. Presidents Cup findet am Sonntag im Medinah Country Club seinen Sieger. Zwölf Einzelmatches bringen die Entscheidung.',
+      body: [
+        'Am Sonntag, dem 27. September, fällt die Entscheidung beim 16. Presidents Cup auf dem anspruchsvollen Medinah Course No. 3 in Illinois.',
+        'Brandt Snedeker und Geoff Ogilvy haben ihre Startlisten festgelegt. Die Nummer eins der Welt, Scottie Scheffler, trifft im Eröffnungsmatch auf Hideki Matsuyama.',
+        'Patrick Cantlay spielt gegen Adam Scott bei dessen 12. Auftritt, gefolgt von Schauffele gegen Im. Das erste Team mit 15,5 Punkten gewinnt.',
+      ],
+    },
+    it: {
+      title: 'Presidents Cup Singolari della Domenica: 12 sfide assegnano il trofeo a Medinah',
+      subtitle: 'Ultimo atto a Medinah. Scheffler contro Matsuyama e Cantlay contro Scott guidano la resa dei conti da 12 punti.',
+      excerpt: 'La 16ª Presidents Cup si conclude domenica al Medinah Country Club. Dodici match individuali incoroneranno la squadra campione.',
+      body: [
+        'La 16ª Presidents Cup raggiunge il verdetto finale domenica 27 settembre sul Course No. 3 di Medinah con dodici singolari ad altissima tensione.',
+        'I capitani Snedeker e Ogilvy hanno schierato i rispettivi alfieri. Il leader mondiale Scottie Scheffler apre le danze contro Hideki Matsuyama.',
+        'Patrick Cantlay affronta il veterano Adam Scott, mentre Xander Schauffele sfida Sungjae Im. La prima formazione a 15,5 punti solleverà la coppa.',
+      ],
+    },
+    pl: {
+      title: 'Presidents Cup Niedzielne Single: 12 pojedynków decyduje o pucharze w Medinah',
+      subtitle: 'Finałowy dzień na polu nr 3. Scheffler kontra Matsuyama i Cantlay z Scottem na czele walki o 12 punktów.',
+      excerpt: '16. Presidents Cup kończy się w niedzielę w Medinah Country Club w Illinois. Dwanaście meczów indywidualnych wyłoni zwycięzców.',
+      body: [
+        'Ostateczne rozstrzygnięcia 16. Pucharu Prezydentów zapadną w niedzielę 27 września na polu Medinah Course No. 3 w 12 pojedynkach singlowych.',
+        'Kapitanowie Brandt Snedeker i Geoff Ogilvy ustalili kolejność startów. Lider rankingu Scottie Scheffler zmierzy się z Hidekim Matsuyamą.',
+        'Patrick Cantlay zagra z weteranem Adamem Scottem, a Xander Schauffele powalczy z Sungjae Imem. Tytuł przypada ekipie, która uzyska 15,5 punktu.',
+      ],
+    },
+    zh: {
+      title: '总统杯周日个人对抗赛：12场对决决战梅迪纳3号球场',
+      subtitle: '梅迪纳收官之日。舍夫勒对阵松山英树，坎特利交锋斯科特领衔12分决战。',
+      excerpt: '第16届总统杯周日在伊利诺伊州梅迪纳乡村俱乐部决出总冠军。12场个人单挑将决定金色奖杯花落谁家。',
+      body: [
+        '9月27日周日，第16届总统杯在梅迪纳乡村俱乐部3号球场迎来最激烈的个人单挑决胜日，全天共设12个积分。',
+        '斯内德克与奥格维两位队长提交了出场名单。世界第一舍夫勒在首场比赛对决前大师赛冠军松山英树。',
+        '坎特利随后迎战第12次参赛的澳大利亚名将亚当·斯科特，谢奥菲勒则与韩国名将任成宰较量。率先取得15.5分的一方将夺冠。',
+      ],
+    },
+    ja: {
+      title: 'プレジデンツカップ日曜シングルス：メディナ3番コースで12戦の決着へ',
+      subtitle: 'メディナ決戦の日。シェフラー対松山英樹、カントレー対スコットなど12ポイント争奪戦。',
+      excerpt: '第16回プレジデンツカップは日曜日、メディナ・カントリークラブで決着を迎える。12試合のシングルス戦で勝者が決定。',
+      body: [
+        'プレジデンツカップは9月27日日曜日、イリノイ州メディナ3番コースで運命の最終日シングルス戦を迎えた。',
+        'スネデカーとオギルビーの両主将が発表した組み合わせでは、世界ランク1位のシェフラーと日本の松山英樹が第1組で激突。',
+        '第2組ではカントレーが12回目出場のスコットと対戦、シャウフェレはイム・ソンジェと対戦する。15.5点到達チームが勝利する。',
+      ],
+    },
+    ko: {
+      title: '프레지던츠컵 일요일 싱글 매치: 메디나 3번 코스서 12개 매치로 최종 승부',
+      subtitle: '메디나 마지막 날 결전. 셰플러 대 마쓰야마, 캔틀리 대 스콧 등 12점 쟁탈전.',
+      excerpt: '제16회 프레지던츠컵이 미국 메디나 컨트리클럽에서 최종일 일정을 시작했다. 12개 싱글 매치를 통해 최종 우승팀을 가린다.',
+      body: [
+        '프레지던츠컵은 9월 27일 일요일 메디나 3번 코스에서 12점이 걸린 12개 싱글 매치로 대회의 마지막 장을 펼친다.',
+        '스네데커와 오길비 단장의 대진표에 따라 세계 1위 스코티 셰플러와 일본의 마쓰야마 히데키가 1번 매치에서 격돌한다.',
+        '패트릭 캔틀리는 12번째 출전하는 애덤 스콧과 맞붙고, 잰더 쇼플리는 임성재와 승부를 겨룬다. 먼저 15.5점을 채우는 팀이 컵을 차지한다.',
+      ],
+    },
+    ar: {
+      title: 'كأس الرؤساء مباريات الفردي الأحد: 12 مواجهة تحسم اللقب في ملعب مادينا',
+      subtitle: 'اليوم الختامي في مادينا. شيفلر ضد ماتسوياما وكانتلاي أمام سكوت في معركة الـ12 نقطة.',
+      excerpt: 'تصل النسخة الـ16 من كأس الرؤساء إلى محطتها الأخيرة الأحد في نادي مادينا في إلينوي مع 12 مواجهة فردية لتحديد بطل البطولة.',
+      body: [
+        'يسدل الستار على منافسات النسخة 16 من كأس الرؤساء يوم الأحد 27 أيلول/سبتمبر على الملعب رقم 3 في مادينا بـ12 مواجهة فردية حاسمة.',
+        'اعتمد القائدان سنديكر وأوجيلفي تشكيلات نارية، حيث يقود المصنف الأول سكوتي شيفلر الفريق الأمريكي في مواجهة الياباني هيديكي ماتسوياما.',
+        'ويلتقي باتريك كانتلاي مع الأسترالي المخضرم آدم سكوت، فيما يواجه زاندر شوفيلي الكوري سونغجاي إم. يحتاج الفائز إلى بلوغ 15.5 نقطة للتتويج.',
+      ],
+    },
+  },
+  'city-beats-newcastle-2-1-mw6': {
+    fr: {
+      title: 'City 2-1 Newcastle : Haaland frappe encore et préserve le bilan parfait',
+      subtitle: 'Haaland marque pour le 6e match consécutif. Bernardo Silva offre les trois points au sommet de la Premier League.',
+      excerpt: 'Manchester City domine Newcastle United 2-1 à l’Etihad Stadium lors de la 6e journée. Les champions de Guardiola poursuivent avec six victoires en six matches.',
+      body: [
+        'La 6e journée de Premier League a vu Manchester City conforter sa domination samedi en s’imposant 2-1 face à Newcastle United.',
+        'Erling Haaland a ouvert le score à la 31e minute sur un service de Kevin De Bruyne, portant son total personnel à neuf réalisations cette saison. Isak a égalisé pour les Magpies au retour des vestiaires.',
+        'À la 68e minute, Bernardo Silva a déclenché une frappe lumineuse dans la lucarne pour sceller le succès des Cityzens. Avec 18 points, City compte trois longueurs d’avance sur Arsenal.',
+      ],
+    },
+    es: {
+      title: 'City 2-1 Newcastle: Haaland vuelve a marcar y mantiene el pleno de triunfos',
+      subtitle: 'Haaland marca por sexto partido consecutivo. El golazo de Bernardo Silva asegura 18 puntos en el liderato.',
+      excerpt: 'El Manchester City vence 2-1 al Newcastle en el Etihad en la jornada 6. Los pupilos de Guardiola suman seis victorias en seis partidos.',
+      body: [
+        'La 6ª jornada de la Premier League reafirmó el liderato indiscutible del Manchester City tras imponerse 2-1 al Newcastle United el sábado.',
+        'Erling Haaland adelantó a los locales en el minuto 31 tras asistencia de Kevin De Bruyne, anotando por sexto duelo consecutivo. Alexander Isak igualó provisionalmente en el 52.',
+        'En el minuto 68, Bernardo Silva clavó el balón en la escuadra para asegurar el triunfo. El City suma 18 puntos de 18 posibles y aventaja en tres al Arsenal.',
+      ],
+    },
+    de: {
+      title: 'City 2-1 Newcastle: Haaland trifft erneut und verteidigt weiße Weste',
+      subtitle: 'Haaland im sechsten Ligaspiel in Serie erfolgreich. Bernardo Silva schießt City zu 18 Punkten an der Tabellenspitze.',
+      excerpt: 'Manchester City bezwingt Newcastle United am 6. Spieltag im Etihad Stadium mit 2-1 und feiert den sechsten Sieg im sechsten Saisonspiel.',
+      body: [
+        'Der 6. Spieltag der Premier League bestätigte Guardiolas Mannschaft an der Tabellenspitze. Manchester City siegte am Samstagabend mit 2-1 gegen Newcastle United.',
+        'Erling Haaland erzielte in der 31. Minute nach Zuspiel von Kevin De Bruyne sein neuntes Saisontor. Alexander Isak glich kurz nach der Pause für die Gäste aus.',
+        'In der 68. Minute traf Bernardo Silva mit einem sehenswerten Schlenzer zum 2-1-Endstand. City thront mit 18 Punkten unangefochten auf Rang eins.',
+      ],
+    },
+    it: {
+      title: 'City 2-1 Newcastle: Haaland a segno ancora e percorso netto preservato',
+      subtitle: 'Gol di Haaland nella sesta partita di fila. La magia di Bernardo Silva porta i campioni a quota 18 punti.',
+      excerpt: 'Il Manchester City supera 2-1 il Newcastle all’Etihad Stadium nella 6ª giornata. Gli uomini di Guardiola mantengono il 100% di vittorie.',
+      body: [
+        'La 6ª giornata di Premier League ha confermato la superiorità del Manchester City, vittorioso per 2-1 contro il Newcastle United.',
+        'Erling Haaland ha sbloccato il match al 31’ su invito di De Bruyne, segnando per la sesta gara consecutiva. Isak ha firmato il pareggio per i Magpies al 52’.',
+        'Al 68’ Bernardo Silva ha pennellato un sinistro all’incrocio che è valso il successo. I campioni d’Inghilterra salgono a 18 punti in classifica.',
+      ],
+    },
+    pl: {
+      title: 'City 2-1 Newcastle: Haaland znowu trafia, mistrzowie z kompletem punktów',
+      subtitle: 'Haaland strzela w szóstym kolejnym meczu. Piękny gol Bernardo Silvy daje 18 punktów na czele tabeli.',
+      excerpt: 'Manchester City pokonał Newcastle United 2-1 na Etihad Stadium w 6. kolejce. Zespół Pepa Guardioli ma sześć zwycięstw w sześciu meczach.',
+      body: [
+        '6. kolejka Premier League potwierdziła dominację Manchesteru City, który w sobotni wieczór pokonał u siebie Newcastle United 2-1.',
+        'Erling Haaland otworzył wynik w 31. minucie po podaniu Kevina De Bruyne, notując trafienie w każdym meczu sezonu. Isak wyrównał krótko po przerwie.',
+        'W 68. minucie Bernardo Silva kapitalnym strzałem w okienko ustalił wynik spotkania. City z 18 punktami wyprzedza Arsenal o trzy oczka.',
+      ],
+    },
+    zh: {
+      title: '曼城2-1击败纽卡斯尔：哈兰德连场破门，蓝月亮全胜领跑英超',
+      subtitle: '哈兰德连续六场联赛建功。贝尔纳多·席尔瓦世界波制胜，曼城豪取18分领跑积分榜。',
+      excerpt: '英超第6轮曼城在伊蒂哈德球场2-1力克纽卡斯尔联。哈兰德首开纪录，B席绝杀，瓜迪奥拉球队斩获开局六连胜。',
+      body: [
+        '英超第6轮于周六晚间在伊蒂哈德球场上演焦点战，曼城主场2-1力退强敌纽卡斯尔联，成为全联盟唯一六战全胜的队伍。',
+        '第31分钟，德布劳内送出手术刀直塞，哈兰德前插低射破门打进个人本赛季联赛第9球。下半场伊萨克一度为喜鹊军团扳平比分。',
+        '第68分钟，贝尔纳多·席尔瓦禁区前沿轰出世界波直挂死角。曼城以18分继续以3分优势压倒阿森纳领跑积分榜。',
+      ],
+    },
+    ja: {
+      title: 'シティがニューカッスルに2-1勝利：ハーランド開幕6戦連発で首位快走',
+      subtitle: 'ハーランドが毎試合ゴールの快挙。ベルナルド・シウバの決勝弾で開幕6連勝の勝ち点18へ。',
+      excerpt: 'プレミアリーグ第6節でマンチェスター・シティがニューカッスルに2-1で勝利。開幕6連勝で首位の座を堅守した。',
+      body: [
+        'プレミアリーグ第6節がエティハド・スタジアムで行われ、マンチェスター・シティがニューカッスルを2-1で退けた。',
+        '前半31分、デ・ブライネの絶妙なスルーパスに抜け出したハーランドが先制ゴールを奪い、開幕からの全試合得点記録を更新。後半イサクが同点弾を決める。',
+        '迎えた68分、ベルナルド・シウバが鮮やかなミドルシュートを隅に突き刺し勝ち越し。シティは勝ち点18で2位アーセナルに3差をつけている。',
+      ],
+    },
+    ko: {
+      title: '맨시티, 뉴캐슬에 2-1 승리: 홀란 6경기 연속골 앞세워 100% 전승 질주',
+      subtitle: '홀란 개막 6경기 연속 득점 행진. 베르나르두 실바의 결승골로 승점 18점 단독 선두.',
+      excerpt: '맨체스터 시티가 프리미어리그 6라운드에서 뉴캐슬 유나이티드를 2-1로 꺾고 개막 6연승을 질주하며 선두 자리를 굳혔다.',
+      body: [
+        '프리미어리그 6라운드 에티하드 스타디움 경기에서 맨체스터 시티가 뉴캐슬을 2-1로 물리치며 전승 행진을 이어갔다.',
+        '전반 31분 데브라위너의 패스를 받은 엘링 홀란이 리그 9호 골을 성공시켰다. 뉴캐슬은 이삭의 동점골로 맞섰으나 시티의 벽을 넘지 못했다.',
+        '후반 68분 베르나르두 실바가 환상적인 감아차기로 결승골을 터뜨렸다. 시티는 승점 18점으로 2위 아스널에 승점 3점 차로 앞서 있다.',
+      ],
+    },
+    ar: {
+      title: 'مانشستر سيتي 2-1 نيوكاسل: هالاند يواصل التسجيل والسيتي يحافظ على العلامة الكاملة',
+      subtitle: 'هالاند يسجل في سادس مباراة على التوالي. قذيفة برناردو سيلفا تؤمن النقطة 18 في صدارة الدوري.',
+      excerpt: 'حقق مانشستر سيتي فوزًا ثمينًا على نيوكاسل يونايتد 2-1 على ملعب الاتحاد ليواصل انطلاقته المثالية بستة انتصارات من ست مباريات.',
+      body: [
+        'عزز مانشستر سيتي صدارته للدوري الإنجليزي الممتاز بفوزه المثير 2-1 على نيوكاسل يونايتد مساء السبت على ملعب الاتحاد.',
+        'افتتح إيرلينغ هالاند التسجيل في الدقيقة 31 بعد تمريرة ساحرة من كيفين دي بروين مسجلًا هدفه التاسع هذا الموسم، قبل أن يتعادل إيزاك للضيوف.',
+        'وفي الدقيقة 68، أحرز برناردو سيلفا هدف الفوز بتسديدة مقوسة رائعة في الزاوية العليا، ليرفع السيتي رصيده إلى 18 نقطة كاملة.',
+      ],
+    },
+  },
+  'nfl-week3-sunday-slate-bills-chiefs-2026': {
+    fr: {
+      title: 'NFL 3e semaine dimanche : les Bills accueillent les Dolphins, les Chiefs défient les Chargers',
+      subtitle: 'Buffalo et Kansas City défendent leur invincibilité. Allen et Mahomes sous les projecteurs.',
+      excerpt: 'Le grand dimanche de NFL arrive avec des chocs de division. Josh Allen mène Buffalo face à Miami, tandis que Mahomes et les Chiefs affrontent Los Angeles.',
+      body: [
+        'La 3e semaine de NFL bat son plein ce dimanche après la victoire des Packers 24-20 contre les Falcons jeudi à Lambeau.',
+        'À Highmark Stadium, Josh Allen et les Bills (2-0) reçoivent les Dolphins de Miami dans un classique de l’AFC Est. Allen compte déjà neuf touchdowns en deux matches.',
+        'À Arrowhead Stadium, Patrick Mahomes et les Chiefs (2-0) accueillent Justin Herbert et les Chargers dans un sommet explosif de l’AFC Ouest.',
+      ],
+    },
+    es: {
+      title: 'NFL Semana 3 Domingo: Bills reciben a Dolphins y Chiefs chocan con Chargers',
+      subtitle: 'Buffalo y Kansas City exponen su invicto. Josh Allen y Patrick Mahomes toman el protagonismo.',
+      excerpt: 'Llega la gran jornada dominical de la NFL con duelos divisionales imperdibles. Buffalo recibe a Miami y Kansas City se mide a los Chargers.',
+      body: [
+        'El domingo de la semana 3 de la NFL se presenta apasionante tras el triunfo de Green Bay 24-20 ante Atlanta el jueves.',
+        'En Highmark Stadium, Josh Allen y los invictos Bills (2-0) reciben a los Miami Dolphins en un clásico de máxima rivalidad en la AFC Este.',
+        'Más tarde, Patrick Mahomes y los Kansas City Chiefs (2-0) recibirán a Justin Herbert y Los Angeles Chargers por el liderato de la AFC Oeste.',
+      ],
+    },
+    de: {
+      title: 'NFL Woche 3 Sonntag: Bills empfangen Dolphins, Chiefs fordern Chargers heraus',
+      subtitle: 'Ungeschlagene Bills und Chiefs verteidigen ihre weiße Weste. Allen und Mahomes im Rampenlicht.',
+      excerpt: 'Der NFL-Sonntag bringt hochklassige Divisionsduelle. Josh Allen führt Buffalo gegen Miami an, während Mahomes auf die Chargers trifft.',
+      body: [
+        'Der 3. Spieltag der NFL erreicht am Sonntag seinen Höhepunkt nach dem 24-20-Sieg der Packers über die Falcons am Donnerstag.',
+        'Im Highmark Stadium empfangen die mit 2-0 gestarteten Buffalo Bills die Miami Dolphins zum traditionsreichen AFC-East-Duell.',
+        'Im Arrowhead Stadium stehen sich Patrick Mahomes und Justin Herbert beim Gipfeltreffen zwischen den Chiefs und den Chargers gegenüber.',
+      ],
+    },
+    it: {
+      title: 'NFL Week 3 Domenica: Bills contro Dolphins e Chiefs contro Chargers nei big match',
+      subtitle: 'Buffalo e Kansas City difendono l’imbattibilità. Allen e Mahomes protagonisti assoluti.',
+      excerpt: 'La domenica di NFL entra nel vivo con grandi sfide divisionali. Josh Allen guida i Bills contro Miami, mentre i Chiefs sfidano i Chargers.',
+      body: [
+        'La Week 3 della NFL vive la sua domenica più attesa dopo il successo dei Packers sui Falcons per 24-20 giovedì sera.',
+        'All’Highmark Stadium i Buffalo Bills imbattuti (2-0) ospitano i Miami Dolphins in un classico scontro ad alta quota dell’AFC East.',
+        'All’Arrowhead Stadium Patrick Mahomes e i Kansas City Chiefs affrontano Justin Herbert e i Los Angeles Chargers per il primato nell’AFC West.',
+      ],
+    },
+    pl: {
+      title: 'NFL Tydzień 3 Niedziela: Bills podejmują Dolphins, Chiefs walczą z Chargers',
+      subtitle: 'Niepokonane Buffalo i Kansas City bronią bilansu. Allen i Mahomes w centrum uwagi.',
+      excerpt: 'Niedzielne mecze NFL przynoszą hity dywizyjne. Josh Allen prowadzi Bills przeciwko Dolphins, a Chiefs mierzą się z Chargers.',
+      body: [
+        'Trzeci tydzień ligi NFL wchodzi w decydującą fazę po czwartkowym zwycięstwie Packers 24-20 nad Falcons.',
+        'Na Highmark Stadium niepokonani Buffalo Bills (2-0) podejmują Miami Dolphins w emocjonującym starciu dywizji AFC East.',
+        'Na Arrowhead Stadium Patrick Mahomes i Kansas City Chiefs stoczą pasjonujący pojedynek z Justinem Herbertem i Chargers.',
+      ],
+    },
+    zh: {
+      title: 'NFL第3周超级周日：比尔主场硬碰海豚，酋长闪电上演美西天王山之战',
+      subtitle: '保持不败的水牛城与堪萨斯城迎来大考。阿伦与马霍姆斯万众瞩目。',
+      excerpt: 'NFL第3周周日主赛程全面开打。乔什·阿伦率领2胜0负的比尔迎战海豚，马霍姆斯坐镇主场大战闪电。',
+      body: [
+        '继周四夜赛包装工24-20力克猎鹰后，NFL第3周在周日迎来精彩纷呈的同分区宿敌对决。',
+        '在海马克体育场，开季手感火热的阿伦带领两连胜的比尔队迎战迈阿密海豚，双方将展开激烈空中较量。',
+        '下午场比赛中，卫冕强权堪萨斯城酋长坐镇箭头球场迎战赫伯特领衔的洛杉矶闪电，争夺美联西区领跑地位。',
+      ],
+    },
+    ja: {
+      title: 'NFL第3週サンデー：ビルズ対ドルフィンズ、チーフス対チャージャーズの激突',
+      subtitle: '無敗のビルズとチーフスが全勝維持へ。アレンとマホームズが主役を務める。',
+      excerpt: 'NFL第3週の日曜決戦が開幕。2勝0敗のビルズがドルフィンズを迎え、マホームズ率いるチーフスがチャージャーズと激突。',
+      body: [
+        '木曜日にパッカーズがファルコンズを24-20で下したのに続き、NFL第3週は日曜日のメインカードへと突入した。',
+        'ハイマーク・スタジアムでは、絶好調のジョシュ・アレン擁するビルズが同地区ライバルのドルフィンズと対戦。',
+        'アローヘッド・スタジアムではパトリック・マホームズのチーフスがハーバートのチャージャーズを迎え撃つ。',
+      ],
+    },
+    ko: {
+      title: 'NFL 3주차 일요일 격전: 빌스 대 돌핀스, 치프스 대 차저스 메가 매치',
+      subtitle: '개막 2연승 빌스와 치프스 안방 수성 도전. 앨런과 마홈스 정면 승부.',
+      excerpt: 'NFL 3주차 일요일 일정이 화려하게 개막한다. 조시 앨런의 버펄로가 마이애미를 맞이하고, 마홈스의 치프스가 차저스와 격돌한다.',
+      body: [
+        '목요일 패커스의 24-20 승리에 이어 NFL 3주차 일요일 경기가 미국 전역에서 킥오프를 알렸다.',
+        '하이마크 스타디움에서는 2승 무패를 달리는 버펄로 빌스가 지구 라이벌 마이애미 돌핀스를 홈으로 불러들인다.',
+        '애로우헤드 스타디움에서는 패트릭 마홈스의 캔자스시티 치프스가 저스틴 허버트의 로스앤젤레스 차저스와 맞붙는다.',
+      ],
+    },
+    ar: {
+      title: 'دوري كرة القدم الأمريكية الأسبوع 3 الأحد: بيلز يستضيف دولفينز وتشييفس يواجه تشارجرز',
+      subtitle: 'بافالو وكانساس سيتي يدافعان عن سجلهما النظيف. جوش ألين وباتريك ماهومز في بؤرة الضوء.',
+      excerpt: 'تنطلق مباريات الأحد الكبرى في الأسبوع الثالث من دوري كرة القدم الأمريكية بمواجهات نارية تتصدرها قمة بيلز ضد دولفينز.',
+      body: [
+        'تتواصل إثارة الأسبوع الثالث من دوري كرة القدم الأمريكية بعد فوز باكرز الخميس 24-20 على فالكونز.',
+        'في ملعب هاي مارك، يستضيف جوش ألين وفريقه بافالو بيلز (2-0) غريمهم التاريخي ميامي دولفينز في مواجهة ساخنة.',
+        'وفي ملعب أروهيد، يلتقي باتريك ماهومز مع فريقه كانساس سيتي تشييفس ضد جاستن هيربرت وفريق لوس أنجلوس تشارجرز.',
+      ],
+    },
+  },
+  'wnba-playoffs-round1-game1-tipoff-2026': {
+    fr: {
+      title: 'Playoffs WNBA Coup d’envoi : quadruplé du 1er tour match 1 pour lancer la quête du titre',
+      subtitle: 'Début des séries au meilleur des trois manches : le Lynx reçoit les Mystics, Clark et le Fever à Atlanta, les Valkyries débutent.',
+      excerpt: 'Les playoffs WNBA 2026 débutent ce dimanche 27 septembre avec quatre matches inauguraux à fort enjeu dans tous les États-Unis.',
+      body: [
+        'Les playoffs WNBA 2026 s’ouvrent ce dimanche 27 septembre avec quatre premiers matches disputés sous haute tension.',
+        'À Minneapolis, le Minnesota Lynx, tête de série numéro un (32-10), accueille les Washington Mystics en s’appuyant sur sa défense d’élite.',
+        'À Atlanta, Caitlin Clark et l’Indiana Fever défient le Dream, avant les rencontres Golden State-New York et Las Vegas-Dallas.',
+      ],
+    },
+    es: {
+      title: 'Inicio de los Playoffs WNBA: cuatro partidos del Juego 1 abren la lucha por el título',
+      subtitle: 'Series al mejor de tres: Lynx recibe a Mystics, Clark lidera a Fever en Atlanta y debutan las Valkyries.',
+      excerpt: 'La postemporada de la WNBA 2026 arranca este domingo 27 de septiembre con cuatro encuentros del Juego 1 en busca del anillo.',
+      body: [
+        'Las eliminatorias por el título de la WNBA arrancan este domingo 27 de septiembre con una cartelera cuádruple de altos vuelos.',
+        'En el Target Center, las Minnesota Lynx (32-10), primeras cabezas de serie, reciben a las Washington Mystics con su férrea defensa como bandera.',
+        'En Atlanta, Caitlin Clark y las Indiana Fever visitan al Dream, mientras las Valkyries reciben a Liberty y las Aces se miden a Dallas.',
+      ],
+    },
+    de: {
+      title: 'WNBA-Playoffs Auftakt: Vier Spiele zu Spiel 1 eröffnen die Jagd nach dem Titel',
+      subtitle: 'Best-of-Three-Serien starten am Sonntag: Lynx empfangen Mystics, Clark führt Fever nach Atlanta, Valkyries debütieren.',
+      excerpt: 'Die WNBA-Playoffs 2026 starten am Sonntag, dem 27. September, mit vier Eröffnungsspielen im Kampf um die Meisterschaft.',
+      body: [
+        'Die WNBA-Playoffs 2026 beginnen am Sonntag, dem 27. September, mit vier richtungsweisenden Auftaktpartien.',
+        'Im Target Center empfangen die topgesetzten Minnesota Lynx (32-10) die Washington Mystics mit ihrer ligaweit besten Defensive.',
+        'In Atlanta tritt Caitlin Clark mit den Indiana Fever beim Dream an, gefolgt von den Duellen Valkyries gegen Liberty und Aces gegen Wings.',
+      ],
+    },
+    it: {
+      title: 'Al via i Playoff WNBA: quattro sfide di Gara 1 accendono la corsa al titolo',
+      subtitle: 'Iniziano le serie al meglio delle tre gare: Lynx contro Mystics, Clark a caccia dell’impresa ad Atlanta, debutto Valkyries.',
+      excerpt: 'La post-season WNBA 2026 decolla domenica 27 settembre con quattro partite inaugurali di altissimo livello.',
+      body: [
+        'I playoff WNBA 2026 scattano domenica 27 settembre con quattro sfide decisive di Gara 1 nei palazzetti americani.',
+        'Al Target Center le Minnesota Lynx (32-10), prima testa di serie, ospitano le Washington Mystics forti della loro solida difesa.',
+        'Ad Atlanta Caitlin Clark e le Indiana Fever sfidano il Dream, mentre le Valkyries affrontano le Liberty e le Aces incrociano Dallas.',
+      ],
+    },
+    pl: {
+      title: 'Start Play-off WNBA: cztery mecze meczu 1 otwierają walkę o pierścienie',
+      subtitle: 'Serie do dwóch zwycięstw ruszają w niedzielę: Lynx podejmują Mystics, Clark prowadzi Fever w Atlancie, debiut Valkyries.',
+      excerpt: 'Faza play-off WNBA 2026 oficjalnie rusza w niedzielę 27 września czterema starciami meczu pierwszego.',
+      body: [
+        'Play-offy ligi WNBA 2026 rozpoczynają się w niedzielę 27 września czterema spotkaniami pierwszej rundy.',
+        'W Target Center najlepsze w sezonie zasadniczym Minnesota Lynx (32-10) mierzą się z Washington Mystics.',
+        'W Atlancie Caitlin Clark i Indiana Fever grają z Dream, a na zachodzie Valkyries podejmują Liberty, zaś Aces grają ze skrzydłami z Dallas.',
+      ],
+    },
+    zh: {
+      title: 'WNBA季后赛揭幕：首轮第一战四场连台，总冠军追逐战全面打响',
+      subtitle: '三局两胜首战周日打响：山猫迎战神秘人，克拉克率狂热客战梦想，女武神季后赛首秀。',
+      excerpt: '2026年WNBA季后赛于9月27日周日正式拉开大幕，全美四地球场上演首轮第一场火星撞地球般的大决战。',
+      body: [
+        '2026赛季WNBA季后赛于9月27日周日全面打响，四场首轮第一战在全美多座球场连番上演。',
+        '在标靶中心，全联盟头号种子明尼苏达山猫（32胜10负）坐镇主场迎接华盛顿神秘人的挑战。',
+        '在亚特兰大，凯特琳·克拉克率领五号种子印第安纳狂热客场挑战梦想队。随后金州女武神与卫冕冠军拉斯维加斯王牌也将分别登场。',
+      ],
+    },
+    ja: {
+      title: 'WNBAプレーオフ開幕：第1戦4カードが激突、女王への道がスタート',
+      subtitle: '3戦2勝制の開幕戦：リンクスがミスティクスを迎撃、クラーク率いるフィーバーがアトランタへ、ヴァルキリーズ初登場。',
+      excerpt: '2026年WNBAプレーオフが9月27日日曜日に開幕。4会場で第1戦が行われ、チャンピオンリングへの戦いが始まった。',
+      body: [
+        'WNBAプレーオフ2026が9月27日日曜日に開幕し、4つのファーストラウンド第1戦が一斉にティップオフを迎えた。',
+        'ターゲット・センターでは全体1位のミネソタ・リンクス（32勝10敗）がワシントン・ミスティクスを迎撃。',
+        'アトランタではケイトリン・クラークのインディアナ・フィーバーがドリームと対戦、さらにヴァルキリーズ対リバティ、エーシズ対ウィングスと続く。',
+      ],
+    },
+    ko: {
+      title: 'WNBA 플레이오프 개막: 1라운드 1차전 4경기 시작되며 우승 경쟁 돌입',
+      subtitle: '3전 2선승제 개막: 링스 대 미스틱스, 클라크의 피버 애틀랜타 원정, 발키리스 데뷔전.',
+      excerpt: '2026 WNBA 플레이오프가 9월 27일 일요일 공식 개막했다. 1차전 4경기가 일제히 펼쳐지며 우승을 향한 여정이 시작된다.',
+      body: [
+        '2026 WNBA 플레이오프가 9월 27일 일요일 4개 경기장에서 1라운드 1차전 일정으로 화려한 막을 올렸다.',
+        '타깃 센터에서는 전체 1번 시드 미네소타 링스(32승 10패)가 워싱턴 미스틱스를 상대로 기선 제압에 나섰다.',
+        '애틀랜타에서는 케이틀린 클라크의 인디애나 피버가 드림과 격돌하며, 골든스테이트 발키리스와 라스베이거스 에이시스도 각각 홈경기를 치른다.',
+      ],
+    },
+    ar: {
+      title: 'انطلاق أدوار WNBA الإقصائية: أربع مباريات في الجولة الأولى تشعل صراع اللقب',
+      subtitle: 'سلسلة الأفضل من ثلاث مباريات تبدأ الأحد: لينكس يستضيف ميستيكس، وكلارك تقود فيفر في أتلانتا.',
+      excerpt: 'تنطلق الأدوار الإقصائية لدوري السلة الأمريكي للسيدات WNBA 2026 يوم الأحد 27 أيلول/سبتمبر بأربع مواجهات نارية في الجولة الأولى.',
+      body: [
+        'انطلقت الأدوار الإقصائية لدوري كرة السلة الأمريكي للسيدات 2026 يوم الأحد 27 أيلول/سبتمبر بإقامة أربع مباريات في الجولة الأولى.',
+        'في قاعة تارغت سنتر، يستقبل فريق مينيسوتا لينكس متصدر الترتيب (32-10) نظيره واشنطن ميستيكس.',
+        'وفي أتلانتا، تقود كيتلين كلارك فريق إنديانا فيفر في قمة كبرى ضد دريم، تليها مباراتا فالكيريز ضد ليبرتي وإيسيز ضد وينغز.',
+      ],
+    },
+  },
 };
 
 

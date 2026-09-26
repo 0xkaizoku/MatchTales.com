@@ -1,0 +1,77 @@
+{
+  "funFacts": [
+    "Josh Allen has accounted for nine total touchdowns in Buffalo's first two games of 2026.",
+    "Bills and Dolphins meet for the 122nd time in franchise history.",
+    "Kickoff Sunday 27 September at 1:00 p.m. ET on CBS."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Josh Allen",
+      "team": "Bills",
+      "hook": "Leads 2-0 Buffalo into their second home game at new Highmark Stadium after totaling 5 TDs against Detroit."
+    },
+    {
+      "name": "Tua Tagovailoa",
+      "team": "Dolphins",
+      "hook": "Directs Miami's high-speed aerial attack alongside Tyreek Hill and Jaylen Waddle."
+    }
+  ],
+  "headToHead": "Buffalo has won seven of the last eight meetings against Miami in Orchard Park.",
+  "tags": [
+    "nfl",
+    "bills",
+    "dolphins",
+    "afc-east"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618203/pexels-photo-1618203.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Week 3 · Sunday",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NFL.com: Bills vs Dolphins Week 3",
+      "url": "https://www.nfl.com/games/dolphins-at-bills-2026-reg-3"
+    },
+    {
+      "name": "ESPN: NFL Week 3 Sunday preview",
+      "url": "https://www.espn.com/nfl/scoreboard"
+    },
+    {
+      "name": "BuffaloBills.com: Highmark Stadium game day",
+      "url": "https://www.buffalobills.com/news/game-preview-week-3-2026"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "bills-vs-dolphins-week3-2026",
+  "headline": "Bills vs Dolphins: Allen and 2-0 Buffalo host Miami in AFC East showdown",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Josh Allen and the unbeaten Bills host Tua Tagovailoa and the Dolphins at Highmark Stadium in a critical early-season AFC East battle.",
+  "teaser": "Sunday 27 September, 1:00 p.m. ET at Highmark Stadium. Unbeaten Buffalo puts 2-0 record on the line against divisional rival Miami on CBS.",
+  "story": "Why this one matters: NFL Week 3 Sunday action kicks off at Highmark Stadium with an AFC East collision between the Buffalo Bills and Miami Dolphins.\n\nJosh Allen has opened the 2026 campaign in MVP form, accounting for nine total touchdowns across Buffalo's opening two victories over the Ravens and Lions. Sean McDermott's defense has generated five takeaways while controlling tempo.\n\nMiami arrives in Orchard Park seeking a statement victory after bouncing back in Week 2. Tua Tagovailoa targets Tyreek Hill and Jaylen Waddle to exploit Buffalo's secondary. With division dominance at stake in late September, every possession matters.",
+  "stakes": "Buffalo aims for a 3-0 start to cement command of the AFC East, while Miami seeks to pull level at 2-1.",
+  "rivalryAngle": "One of the NFL's oldest divisional feuds renews under the crisp autumn skies in Orchard Park.",
+  "home": "Buffalo Bills",
+  "away": "Miami Dolphins",
+  "group": "NFL",
+  "date": "2026-09-27",
+  "time": "13:00",
+  "venue": "Highmark Stadium",
+  "city": "Orchard Park",
+  "status": "LIVE",
+  "sport": "football",
+  "competition": "nfl-2026"
+}

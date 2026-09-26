@@ -35,32 +35,32 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "16th Presidents Cup · Day 3",
+  "roundLabel": "16th Presidents Cup · Day 4 Singles",
   "resultSummary": "",
   "leaderboard": [
     {
-      "pos": "Session 3",
-      "name": "Scheffler & Morikawa (USA) vs Scott & Lee (INT)",
-      "score": "Four-balls",
-      "note": "Saturday Match 1 · Medinah No. 3"
+      "pos": "Match 1",
+      "name": "Scottie Scheffler (USA) vs Hideki Matsuyama (INT)",
+      "score": "Singles",
+      "note": "Sunday Match 1 · Medinah No. 3"
     },
     {
-      "pos": "Session 3",
-      "name": "Cantlay & Schauffele (USA) vs Matsuyama & Im (INT)",
-      "score": "Four-balls",
-      "note": "Saturday Match 2"
+      "pos": "Match 2",
+      "name": "Patrick Cantlay (USA) vs Adam Scott (INT)",
+      "score": "Singles",
+      "note": "Sunday Match 2"
     },
     {
-      "pos": "Session 3",
-      "name": "Henley & Theegala (USA) vs Kim & Day (INT)",
-      "score": "Four-balls",
-      "note": "Saturday Match 3"
+      "pos": "Match 3",
+      "name": "Xander Schauffele (USA) vs Sungjae Im (INT)",
+      "score": "Singles",
+      "note": "Sunday Match 3"
     },
     {
-      "pos": "Session 3",
-      "name": "Burns & Clark (USA) vs Fox & Pendrith (INT)",
-      "score": "Four-balls",
-      "note": "Saturday Match 4"
+      "pos": "Match 4",
+      "name": "Collin Morikawa (USA) vs Min Woo Lee (INT)",
+      "score": "Singles",
+      "note": "Sunday Match 4"
     }
   ],
   "tennisSets": [],
@@ -70,7 +70,7 @@
       "url": "https://www.presidentscup.com"
     },
     {
-      "name": "PGA Tour: Medinah 2026 preview",
+      "name": "PGA Tour: Medinah 2026 Sunday Singles",
       "url": "https://www.pgatour.com/tournaments/2026/presidents-cup"
     },
     {
@@ -86,18 +86,18 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "presidents-cup-2026-medinah",
-  "headline": "Presidents Cup Day 3 at Medinah: USA and Internationals battle through 8-point moving day",
-  "whyCareScore": 9.4,
-  "whyCareReason": "Moving Day at Medinah Course No. 3 features a marathon double session with 8 points at stake across morning four-balls and afternoon foursomes.",
-  "teaser": "Saturday 26 September on Medinah No. 3: morning four-balls followed by afternoon foursomes. Snedeker's USA battles Ogilvy's Internationals for 8 pivotal points.",
-  "story": "Why this one matters: Saturday 26 September is the definitive moving day at the 16th Presidents Cup on Medinah Country Club's Course No. 3 in Illinois.\n\nPGA Tour and PresidentsCup.com outline the grueling schedule: four morning four-ball matches followed immediately by four afternoon foursomes matches. With eight total points on offer before Sunday singles, Saturday historically decides the cup.\n\nCaptains Brandt Snedeker and Geoff Ogilvy sent out their strongest duos. World No. 1 Scottie Scheffler partners Collin Morikawa in morning four-balls against Adam Scott and Min Woo Lee. Patrick Cantlay and Xander Schauffele face Hideki Matsuyama and Sungjae Im. On Medinah's treacherous OCM-redesigned greens, endurance and lag putting will prove decisive.",
-  "stakes": "Eight points available on Saturday alone. The team emerging from Medinah's double session with the lead has won 14 of 15 previous Presidents Cups.",
+  "headline": "Presidents Cup Sunday Singles: 12 matches decide the cup at Medinah Course No. 3",
+  "whyCareScore": 9.7,
+  "whyCareReason": "The Presidents Cup comes down to Sunday Singles at Medinah No. 3. 12 points on the line as Scheffler, Matsuyama, Scott, and Cantlay clash.",
+  "teaser": "Sunday 27 September at Medinah: 12 singles matches to decide the 16th Presidents Cup. Team USA aims to reach 15.5 points; Internationals seek historic rally.",
+  "story": "Why this one matters: The 16th Presidents Cup reaches its final verdict on Sunday 27 September with 12 decisive singles matches across Medinah Country Club's Course No. 3.\n\nAfter a grueling 36-hole Moving Day marathon, Captains Brandt Snedeker and Geoff Ogilvy set their final day order of play. Twelve individual matches will determine whether Team USA retains the golden trophy or if the International Team produces a historic comeback.\n\nWorld No. 1 Scottie Scheffler leads off for the Americans in a premier matchup against 2021 Masters champion Hideki Matsuyama. Veteran Adam Scott, playing his 12th cup, takes on Patrick Cantlay in match two. Xander Schauffele squares off against Sungjae Im, followed by Collin Morikawa versus Min Woo Lee. With 15.5 points needed for victory, Sunday singles at Medinah will be relentless.",
+  "stakes": "12 points at stake in Sunday singles. First team to 15.5 points wins the Presidents Cup.",
   "rivalryAngle": "Team USA dominance versus International determination on Chicago's most famous championship stage.",
   "home": "United States",
   "away": "International Team",
   "group": "PGA",
-  "date": "2026-09-26",
-  "time": "07:30",
+  "date": "2026-09-27",
+  "time": "11:30",
   "venue": "Medinah Country Club (Course No. 3)",
   "city": "Medinah",
   "status": "LIVE",

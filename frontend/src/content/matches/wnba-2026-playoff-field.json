@@ -35,14 +35,18 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Playoffs preview",
+  "roundLabel": "Round 1 Game 1 Tip-Off",
   "resultSummary": "",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "WNBA.com standings",
+      "name": "WNBA.com: 2026 playoff bracket and scores",
       "url": "https://www.wnba.com/standings"
+    },
+    {
+      "name": "ESPN: WNBA Round 1 live coverage",
+      "url": "https://www.espn.com/wnba/scoreboard"
     },
     {
       "name": "Wikipedia: 2026 WNBA playoffs",
@@ -53,21 +57,21 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "wnba-2026-playoff-field",
-  "headline": "WNBA Playoffs Eve: 24-Hour Countdown to Sunday Round 1 Tip-Off",
-  "whyCareScore": 8.9,
-  "whyCareReason": "Only 24 hours remain until the 2026 WNBA postseason tips off on Sunday 27 September with the Lynx, Valkyries, Aces, and Fever headlining the best-of-three opening round.",
-  "teaser": "Sunday 27 September tip-off 24 hours away: (1) Lynx vs (8) Mystics, (2) Valkyries vs (7) Liberty, (3) Aces vs (6) Wings, (4) Dream vs (5) Fever.",
-  "story": "Why this one matters: The WNBA regular season has officially wrapped following Indiana's 96-77 statement over Minnesota. The eight-team postseason bracket is locked for tip-off on Sunday 27 September.\n\nWNBA.com official seeds: Minnesota Lynx (32-10) enter as the No. 1 overall seed. The Golden State Valkyries (31-11) capture the No. 2 seed in their second year, with the defending champion Las Vegas Aces (29-13) at No. 3 and Atlanta Dream (28-14) at No. 4.\n\nRound 1 best-of-three matchups: (1) Lynx vs (8) Mystics, (2) Valkyries vs (7) Liberty, (3) Aces vs (6) Wings, and the blockbuster (4) Dream vs (5) Fever featuring Caitlin Clark. Semifinals will be best of five, with the Finals best of seven. The race for the 2026 crown begins Sunday.",
-  "stakes": "Home court, a one-seed, and opening-round best-of-three series starting Sunday 27 September.",
+  "headline": "WNBA Playoffs Tip-Off: Round 1 Game 1 quadruple-header underway",
+  "whyCareScore": 9.2,
+  "whyCareReason": "The 2026 WNBA postseason tips off today with four Game 1 clashes as Caitlin Clark and the Fever visit Atlanta while Minnesota hosts Washington.",
+  "teaser": "Sunday 27 September: WNBA Playoffs Round 1 begins with Game 1 quadruple-header. Lynx, Valkyries, Aces, and Fever open best-of-three series.",
+  "story": "Why this one matters: Sunday 27 September marks the official launch of the 2026 WNBA postseason with four blockbuster Game 1 encounters.\n\nAt Target Center, the top-seeded Minnesota Lynx (32-10) host the Washington Mystics, leaning on their elite defense to set the tone. At Gateway Center Arena, Caitlin Clark leads the fifth-seeded Indiana Fever into a hostile environment against the fourth-seeded Atlanta Dream in the day's marquee matchup.\n\nLater, the second-year Golden State Valkyries host the New York Liberty at Chase Center, while the two-time defending champion Las Vegas Aces take on the Dallas Wings in Vegas. Every series is best-of-three, making Game 1 a near-must-win.",
+  "stakes": "Opening-round best-of-three series begin today. Winning Game 1 provides a 78% historical advantage in the series.",
   "rivalryAngle": "Top-seeded Lynx and defending champion Aces face surging challengers in a loaded eight-team field.",
   "home": "Minnesota Lynx",
   "away": "Playoff field",
   "group": "WNBA",
   "date": "2026-09-27",
-  "time": "19:00",
+  "time": "13:00",
   "venue": "Target Center",
   "city": "Minneapolis",
-  "status": "UPCOMING",
+  "status": "LIVE",
   "sport": "basketball",
   "competition": "wnba-2026"
 }

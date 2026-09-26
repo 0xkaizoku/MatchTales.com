@@ -30,32 +30,32 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Laver Cup · Day 2",
+  "roundLabel": "Laver Cup · Day 3 Finale",
   "resultSummary": "",
   "leaderboard": [
     {
-      "pos": "M5",
-      "name": "Carlos Alcaraz (EUR) vs Taylor Fritz (WLD)",
-      "score": "2 Points",
-      "note": "Day 2 Singles 1 · The O2"
+      "pos": "M9",
+      "name": "Alcaraz & Zverev (EUR) vs Fritz & De Minaur (WLD)",
+      "score": "3 Points",
+      "note": "Sunday Doubles · The O2"
     },
     {
-      "pos": "M6",
-      "name": "Alexander Zverev (EUR) vs Alex de Minaur (WLD)",
-      "score": "2 Points",
-      "note": "Day 2 Singles 2"
+      "pos": "M10",
+      "name": "Carlos Alcaraz (EUR) vs Alex de Minaur (WLD)",
+      "score": "3 Points",
+      "note": "Championship Singles 1"
     },
     {
-      "pos": "M7",
-      "name": "Jakub Mensik (EUR) vs Learner Tien (WLD)",
-      "score": "2 Points",
-      "note": "Day 2 Singles 3"
+      "pos": "M11",
+      "name": "Alexander Zverev (EUR) vs Taylor Fritz (WLD)",
+      "score": "3 Points",
+      "note": "Championship Singles 2"
     },
     {
-      "pos": "M8",
-      "name": "Alcaraz & Ruud (EUR) vs Fritz & De Minaur (WLD)",
-      "score": "2 Points",
-      "note": "Day 2 Doubles"
+      "pos": "M12",
+      "name": "Casper Ruud (EUR) vs Brandon Nakashima (WLD)",
+      "score": "3 Points",
+      "note": "Championship Singles 3"
     }
   ],
   "tennisSets": [],
@@ -77,18 +77,18 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "laver-cup-2026",
-  "headline": "Laver Cup Day 2 at The O2: Alcaraz, Zverev, and Fritz headline double-point Saturday",
-  "whyCareScore": 9.2,
-  "whyCareReason": "Point values double on Saturday at The O2 as Carlos Alcaraz takes on Taylor Fritz and Alexander Zverev faces Alex de Minaur with two points awarded per win.",
-  "teaser": "Saturday 26 September at The O2. Day 2 brings 2 points per win: Alcaraz vs Fritz, Zverev vs De Minaur, and evening doubles. First team to 13 points.",
-  "story": "Why this one matters: The stakes double on Saturday 26 September at The O2 Arena in London as the 9th Laver Cup enters Day 2.\n\nFollowing Friday's fierce opening encounters, Captains Yannick Noah and Andre Agassi submitted Saturday's high-stakes lineup. Under Laver Cup rules, each match victory on Saturday is worth two points, raising the bar for both benches.\n\nWorld No. 2 Carlos Alcaraz steps onto the black court for Team Europe against US Open finalist Taylor Fritz. US Open champion Alexander Zverev battles Australia's Alex de Minaur, followed by a blockbuster evening doubles clash. With 13 points needed to hoist the trophy, Saturday's four matches offer eight critical points.",
-  "stakes": "Saturday points count double (2 points per win). A dominant day puts either team on the brink of the 13 required points.",
+  "headline": "Laver Cup Day 3 Finale: Triple-point Sunday at The O2 with trophy on the line",
+  "whyCareScore": 9.6,
+  "whyCareReason": "Every match on Championship Sunday counts for three points. Alcaraz and Zverev battle Fritz and De Minaur in the race to 13 points.",
+  "teaser": "Sunday 27 September at The O2. Day 3 brings 3 points per win: Alcaraz & Zverev doubles, followed by blockbuster singles. First to 13 points lifts the cup.",
+  "story": "Why this one matters: Championship Sunday arrives at The O2 Arena in London as the 9th Laver Cup reaches its dramatic crescendo on 27 September.\n\nUnder Laver Cup rules, point values escalate to three points per match on Sunday. With 12 total points available across four matches, any deficit can vanish in a heartbeat. Yannick Noah's Team Europe and Andre Agassi's Team World enter the final day locked in a fierce pursuit of the 13 points required for the title.\n\nThe action opens with a marquee doubles clash pitting Carlos Alcaraz and Alexander Zverev against Taylor Fritz and Alex de Minaur. Singles matches follow, featuring Alcaraz against De Minaur and Zverev taking on Fritz. The black court at The O2 is set for championship drama.",
+  "stakes": "Sunday points count triple (3 points per win). First team to reach 13 points claims the 2026 Laver Cup trophy.",
   "rivalryAngle": "Europe against the rest of the world, in a building that already hosted this event in 2022.",
   "home": "Team Europe",
   "away": "Team World",
   "group": "GS",
-  "date": "2026-09-26",
-  "time": "13:00",
+  "date": "2026-09-27",
+  "time": "12:00",
   "venue": "The O2 Arena",
   "city": "London",
   "status": "LIVE",

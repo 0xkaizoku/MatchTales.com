@@ -1,44 +1,68 @@
 {
-  "asOf": "2026-09-26",
+  "asOf": "2026-09-27",
   "premierLeagueTable": [
     {
       "pos": 1,
       "team": "Manchester City",
-      "p": 5,
-      "w": 5,
+      "p": 6,
+      "w": 6,
       "d": 0,
       "l": 0,
-      "gf": 13,
-      "ga": 5,
-      "gd": 8,
-      "pts": 15
+      "gf": 15,
+      "ga": 6,
+      "gd": 9,
+      "pts": 18
     },
     {
       "pos": 2,
       "team": "Arsenal",
-      "p": 5,
-      "w": 4,
+      "p": 6,
+      "w": 5,
       "d": 0,
       "l": 1,
-      "gf": 8,
+      "gf": 10,
       "ga": 4,
+      "gd": 6,
+      "pts": 15
+    },
+    {
+      "pos": 3,
+      "team": "Liverpool",
+      "p": 6,
+      "w": 4,
+      "d": 0,
+      "l": 2,
+      "gf": 11,
+      "ga": 7,
       "gd": 4,
       "pts": 12
     },
     {
-      "pos": 3,
+      "pos": 4,
       "team": "Brighton",
-      "p": 5,
+      "p": 6,
+      "w": 3,
+      "d": 2,
+      "l": 1,
+      "gf": 17,
+      "ga": 6,
+      "gd": 11,
+      "pts": 11
+    },
+    {
+      "pos": 5,
+      "team": "Chelsea",
+      "p": 6,
       "w": 3,
       "d": 1,
-      "l": 1,
-      "gf": 16,
-      "ga": 5,
-      "gd": 11,
+      "l": 2,
+      "gf": 11,
+      "ga": 7,
+      "gd": 4,
       "pts": 10
     },
     {
-      "pos": 4,
+      "pos": 6,
       "team": "Brentford",
       "p": 5,
       "w": 2,
@@ -50,7 +74,7 @@
       "pts": 9
     },
     {
-      "pos": 5,
+      "pos": 7,
       "team": "Leeds United",
       "p": 5,
       "w": 2,
@@ -62,31 +86,19 @@
       "pts": 9
     },
     {
-      "pos": 6,
-      "team": "Liverpool",
-      "p": 5,
-      "w": 2,
-      "d": 3,
-      "l": 0,
-      "gf": 7,
-      "ga": 4,
-      "gd": 3,
-      "pts": 9
-    },
-    {
-      "pos": 7,
-      "team": "Everton",
-      "p": 5,
-      "w": 2,
-      "d": 3,
-      "l": 0,
-      "gf": 6,
-      "ga": 3,
-      "gd": 3,
-      "pts": 9
-    },
-    {
       "pos": 8,
+      "team": "Everton",
+      "p": 6,
+      "w": 2,
+      "d": 3,
+      "l": 1,
+      "gf": 6,
+      "ga": 5,
+      "gd": 1,
+      "pts": 9
+    },
+    {
+      "pos": 9,
       "team": "Hull City",
       "p": 5,
       "w": 2,
@@ -98,28 +110,16 @@
       "pts": 8
     },
     {
-      "pos": 9,
+      "pos": 10,
       "team": "Newcastle United",
-      "p": 5,
+      "p": 6,
       "w": 2,
       "d": 2,
-      "l": 1,
-      "gf": 9,
-      "ga": 9,
-      "gd": 0,
-      "pts": 8
-    },
-    {
-      "pos": 10,
-      "team": "Chelsea",
-      "p": 5,
-      "w": 2,
-      "d": 1,
       "l": 2,
       "gf": 10,
-      "ga": 12,
-      "gd": -2,
-      "pts": 7
+      "ga": 11,
+      "gd": -1,
+      "pts": 8
     },
     {
       "pos": 11,
@@ -247,48 +247,48 @@
       "pos": 1,
       "name": "Kimi Antonelli",
       "team": "Mercedes",
-      "pts": 292
+      "pts": 317
     },
     {
       "pos": 2,
       "name": "George Russell",
       "team": "Mercedes",
-      "pts": 211
+      "pts": 229
     },
     {
       "pos": 3,
       "name": "Lewis Hamilton",
       "team": "Ferrari",
-      "pts": 191
+      "pts": 201
     },
     {
       "pos": 4,
       "name": "Lando Norris",
       "team": "McLaren",
-      "pts": 186
+      "pts": 198
     },
     {
       "pos": 5,
       "name": "Charles Leclerc",
       "team": "Ferrari",
-      "pts": 167
+      "pts": 182
     }
   ],
   "f1Constructors": [
     {
       "pos": 1,
       "name": "Mercedes",
-      "pts": 503
+      "pts": 546
     },
     {
       "pos": 2,
       "name": "Ferrari",
-      "pts": 358
+      "pts": 383
     },
     {
       "pos": 3,
       "name": "McLaren",
-      "pts": 306
+      "pts": 318
     }
   ],
   "wnbaSeeds": [
@@ -423,14 +423,14 @@
       "time": "1:00 p.m. ET",
       "home": "Buffalo Bills",
       "away": "Miami Dolphins",
-      "note": "AFC East clash at Highmark Stadium. Allen leads 2-0 Bills; Tagovailoa and Dolphins visit."
+      "note": "Game day live at Highmark Stadium. Allen leads 2-0 Bills; Tagovailoa and Dolphins visit."
     },
     {
       "date": "2026-09-27",
       "time": "4:25 p.m. ET",
       "home": "Kansas City Chiefs",
       "away": "Los Angeles Chargers",
-      "note": "AFC West showdown at Arrowhead Stadium. Mahomes and 2-0 Chiefs host Herbert's Chargers."
+      "note": "Game day live at Arrowhead Stadium. Mahomes and 2-0 Chiefs host Herbert's Chargers."
     }
   ],
   "usOpenQF": [

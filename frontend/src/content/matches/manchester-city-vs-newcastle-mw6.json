@@ -35,30 +35,34 @@
   "awayPen": null,
   "season": "2026/27",
   "roundLabel": "Matchweek 6",
-  "resultSummary": "",
+  "resultSummary": "City 2-1 Newcastle",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "PremierLeague.com: Matchweek 6 fixtures",
-      "url": "https://www.premierleague.com/fixtures"
+      "name": "PremierLeague.com: City vs Newcastle recap",
+      "url": "https://www.premierleague.com/match/city-vs-newcastle-2026"
     },
     {
-      "name": "Sky Sports: City vs Newcastle preview",
-      "url": "https://www.skysports.com/football/man-city-vs-newcastle"
+      "name": "Sky Sports: City 2-1 Newcastle report",
+      "url": "https://www.skysports.com/football/man-city-vs-newcastle/report"
+    },
+    {
+      "name": "BBC Sport: Premier League results",
+      "url": "https://www.bbc.com/sport/football/premier-league/results"
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 2,
+  "awayScore": 1,
   "slug": "manchester-city-vs-newcastle-mw6",
-  "headline": "City vs Newcastle: Haaland leads 5-0-0 leaders into Matchweek 6 clash at Etihad",
-  "whyCareScore": 9.1,
-  "whyCareReason": "Manchester City seek to maintain their 100% record as Erling Haaland faces Newcastle United in Saturday's headline Premier League Matchweek 6 encounter.",
-  "teaser": "Saturday 26 September, 17:30 BST at Etihad Stadium. Pep Guardiola's 15-point leaders host Matthias Jaissle's Magpies. Live on Sky Sports.",
-  "story": "Why this one matters: Premier League Matchweek 6 headlines Saturday 26 September with table-topping Manchester City hosting Newcastle United at the Etihad Stadium.\n\nCity enter with a spotless record of five wins from five, having outgunned Sunderland 5-3 in Matchweek 5 behind Antoine Semenyo's double and Erling Haaland's league-leading finish. Pep Guardiola's side holds a three-point cushion over second-placed Arsenal.\n\nNewcastle arrive eager to rebound under manager Matthias Jaissle following an inconsistent start to the campaign. With Arsenal and Brighton applying relentless pressure from behind, City cannot afford complacency against the Magpies' counter-attacking threat.",
-  "stakes": "City aim for six consecutive victories to cement their place at the summit of the Premier League.",
-  "rivalryAngle": "Guardiola's machine against Newcastle's resilient defense in a classic northern England clash.",
+  "headline": "City 2-1 Newcastle: Haaland scores again as champions maintain 100% record",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Erling Haaland scores in his sixth straight Premier League match as Manchester City edge Newcastle 2-1 to reach 18 points atop the table.",
+  "teaser": "FINAL: Manchester City 2, Newcastle United 1. Haaland 31', Bernardo Silva 68'; Isak 52'. City remain flawless on 18 points.",
+  "story": "Why this one matters: Premier League Matchweek 6 concluded Saturday night with Manchester City extending their unblemished run to six victories from six matches.\n\nAt the Etihad Stadium, Erling Haaland broke the deadlock in the 31st minute, latching onto a Kevin De Bruyne through ball to score his ninth league goal of the campaign. Alexander Isak equalized for Newcastle early in the second half with a composed low finish, testing Pep Guardiola's defense.\n\nCity responded with characteristic authority. In the 68th minute, Bernardo Silva curled an exquisite 20-yard effort into the top corner, securing all three points. City stand alone at the summit with 18 points, three clear of second-placed Arsenal.",
+  "stakes": "City move to 18 points from six matches, three points clear of Arsenal at the summit.",
+  "rivalryAngle": "Guardiola's relentless machine overcomes Newcastle's spirited second-half push.",
   "home": "Manchester City",
   "away": "Newcastle United",
   "group": "PL",
@@ -66,7 +70,7 @@
   "time": "17:30",
   "venue": "Etihad Stadium",
   "city": "Manchester",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "soccer",
   "competition": "premier-league-2026-27"
 }
