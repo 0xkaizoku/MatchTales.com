@@ -30,32 +30,32 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Laver Cup · Day 3 Finale",
-  "resultSummary": "",
+  "roundLabel": "Laver Cup · Final",
+  "resultSummary": "Team Europe wins 13-11",
   "leaderboard": [
     {
       "pos": "M9",
-      "name": "Alcaraz & Zverev (EUR) vs Fritz & De Minaur (WLD)",
-      "score": "3 Points",
-      "note": "Sunday Doubles · The O2"
+      "name": "Alcaraz & Zverev (EUR) def Fritz & De Minaur (WLD)",
+      "score": "6-3, 6-4",
+      "note": "Europe earns 3 points"
     },
     {
       "pos": "M10",
-      "name": "Carlos Alcaraz (EUR) vs Alex de Minaur (WLD)",
-      "score": "3 Points",
-      "note": "Championship Singles 1"
+      "name": "Alex de Minaur (WLD) def Casper Ruud (EUR)",
+      "score": "7-6, 6-3",
+      "note": "World earns 3 points"
     },
     {
       "pos": "M11",
-      "name": "Alexander Zverev (EUR) vs Taylor Fritz (WLD)",
-      "score": "3 Points",
-      "note": "Championship Singles 2"
+      "name": "Alexander Zverev (EUR) def Brandon Nakashima (WLD)",
+      "score": "6-4, 7-6",
+      "note": "Europe earns 3 points"
     },
     {
       "pos": "M12",
-      "name": "Casper Ruud (EUR) vs Brandon Nakashima (WLD)",
-      "score": "3 Points",
-      "note": "Championship Singles 3"
+      "name": "Carlos Alcaraz (EUR) def Taylor Fritz (WLD)",
+      "score": "6-2, 7-5",
+      "note": "Europe clinches title (3 points)"
     }
   ],
   "tennisSets": [],
@@ -69,21 +69,21 @@
       "url": "https://en.wikipedia.org/wiki/2026_Laver_Cup"
     },
     {
-      "name": "Laver Cup: schedule",
+      "name": "Laver Cup: schedule and results",
       "url": "https://lavercup.com/schedule"
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 13,
+  "awayScore": 11,
   "slug": "laver-cup-2026",
-  "headline": "Laver Cup Day 3 Finale: Triple-point Sunday at The O2 with trophy on the line",
-  "whyCareScore": 9.6,
-  "whyCareReason": "Every match on Championship Sunday counts for three points. Alcaraz and Zverev battle Fritz and De Minaur in the race to 13 points.",
-  "teaser": "Sunday 27 September at The O2. Day 3 brings 3 points per win: Alcaraz & Zverev doubles, followed by blockbuster singles. First to 13 points lifts the cup.",
-  "story": "Why this one matters: Championship Sunday arrives at The O2 Arena in London as the 9th Laver Cup reaches its dramatic crescendo on 27 September.\n\nUnder Laver Cup rules, point values escalate to three points per match on Sunday. With 12 total points available across four matches, any deficit can vanish in a heartbeat. Yannick Noah's Team Europe and Andre Agassi's Team World enter the final day locked in a fierce pursuit of the 13 points required for the title.\n\nThe action opens with a marquee doubles clash pitting Carlos Alcaraz and Alexander Zverev against Taylor Fritz and Alex de Minaur. Singles matches follow, featuring Alcaraz against De Minaur and Zverev taking on Fritz. The black court at The O2 is set for championship drama.",
-  "stakes": "Sunday points count triple (3 points per win). First team to reach 13 points claims the 2026 Laver Cup trophy.",
-  "rivalryAngle": "Europe against the rest of the world, in a building that already hosted this event in 2022.",
+  "headline": "Team Europe wins 2026 Laver Cup: Alcaraz seals 13-11 victory on Championship Sunday",
+  "whyCareScore": 9.7,
+  "whyCareReason": "Carlos Alcaraz clinches the 2026 Laver Cup for Team Europe at The O2, defeating Taylor Fritz in the decisive match for a dramatic 13-11 triumph.",
+  "teaser": "FINAL: Team Europe 13, Team World 11. Alcaraz overcomes Fritz 6-2, 7-5 in the decider as Team Europe hoists the trophy at The O2.",
+  "story": "Why this one matters: The 9th edition of the Laver Cup concluded in heart-stopping fashion at London's O2 Arena on Sunday night as Team Europe defeated Team World 13-11 to reclaim the trophy.\n\nEntering Championship Sunday with matches worth three points apiece, Europe launched their comeback in doubles as Carlos Alcaraz and Alexander Zverev defeated Taylor Fritz and Alex de Minaur 6-3, 6-4. Team World answered immediately when De Minaur outdueled Casper Ruud in straight sets.\n\nAlexander Zverev steadied the ship for Europe with a clutch 6-4, 7-6 victory over Brandon Nakashima, setting up a winner-take-all 12th match between Carlos Alcaraz and Taylor Fritz. Before a raucous crowd of 18,000, Alcaraz delivered masterclass tennis, breaking Fritz four times to take a 6-2, 7-5 victory and hand Captain Yannick Noah the championship.",
+  "stakes": "Team Europe claims the 2026 Laver Cup trophy, ending Team World's recent streak in front of 18,000 fans in London.",
+  "rivalryAngle": "Europe re-establishes dominance over Team World with Alcaraz providing the decisive championship dagger.",
   "home": "Team Europe",
   "away": "Team World",
   "group": "GS",
@@ -91,7 +91,7 @@
   "time": "12:00",
   "venue": "The O2 Arena",
   "city": "London",
-  "status": "LIVE",
+  "status": "FINISHED",
   "sport": "tennis",
   "competition": "laver-cup-2026"
 }

@@ -35,8 +35,8 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Week 3 · Sunday",
-  "resultSummary": "",
+  "roundLabel": "Week 3 · Final",
+  "resultSummary": "Bills 31, Dolphins 21",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
@@ -45,7 +45,7 @@
       "url": "https://www.nfl.com/games/dolphins-at-bills-2026-reg-3"
     },
     {
-      "name": "ESPN: NFL Week 3 Sunday preview",
+      "name": "ESPN: Bills 31, Dolphins 21",
       "url": "https://www.espn.com/nfl/scoreboard"
     },
     {
@@ -54,16 +54,16 @@
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 31,
+  "awayScore": 21,
   "slug": "bills-vs-dolphins-week3-2026",
-  "headline": "Bills vs Dolphins: Allen and 2-0 Buffalo host Miami in AFC East showdown",
-  "whyCareScore": 9.4,
-  "whyCareReason": "Josh Allen and the unbeaten Bills host Tua Tagovailoa and the Dolphins at Highmark Stadium in a critical early-season AFC East battle.",
-  "teaser": "Sunday 27 September, 1:00 p.m. ET at Highmark Stadium. Unbeaten Buffalo puts 2-0 record on the line against divisional rival Miami on CBS.",
-  "story": "Why this one matters: NFL Week 3 Sunday action kicks off at Highmark Stadium with an AFC East collision between the Buffalo Bills and Miami Dolphins.\n\nJosh Allen has opened the 2026 campaign in MVP form, accounting for nine total touchdowns across Buffalo's opening two victories over the Ravens and Lions. Sean McDermott's defense has generated five takeaways while controlling tempo.\n\nMiami arrives in Orchard Park seeking a statement victory after bouncing back in Week 2. Tua Tagovailoa targets Tyreek Hill and Jaylen Waddle to exploit Buffalo's secondary. With division dominance at stake in late September, every possession matters.",
-  "stakes": "Buffalo aims for a 3-0 start to cement command of the AFC East, while Miami seeks to pull level at 2-1.",
-  "rivalryAngle": "One of the NFL's oldest divisional feuds renews under the crisp autumn skies in Orchard Park.",
+  "headline": "Bills 31-21 Dolphins: Allen accounts for 3 TDs as Buffalo moves to 3-0",
+  "whyCareScore": 9.5,
+  "whyCareReason": "Josh Allen leads Buffalo to a 3-0 start, throwing two touchdowns and rushing for another in a 31-21 win over AFC East rival Miami.",
+  "teaser": "FINAL: Bills 31, Dolphins 21. Allen 22-31, 275 yards, 2 passing TDs, 1 rushing TD. Cook 89 rushing yards. Tagovailoa 242 passing yards.",
+  "story": "Why this one matters: Buffalo moved to 3-0 atop the AFC East on Sunday afternoon with a 31-21 victory over the Miami Dolphins at Highmark Stadium.\n\nJosh Allen put on another commanding performance for Sean McDermott's squad, completing 22 of 31 passes for 275 yards and two touchdowns while adding a five-yard touchdown run in the second quarter. James Cook added 89 yards on 18 carries to control the clock.\n\nMiami kept pressure through Tua Tagovailoa, who threw for 242 yards and two touchdowns to Jaylen Waddle. But Buffalo's defense made the critical plays down the stretch, securing an interception in the fourth quarter to preserve the victory and leave Miami at 1-2.",
+  "stakes": "Buffalo improves to 3-0 to take sole possession of first place in the AFC East, while Miami falls to 1-2.",
+  "rivalryAngle": "Buffalo's dominance at Highmark Stadium continues as Allen earns his eighth home win over Miami.",
   "home": "Buffalo Bills",
   "away": "Miami Dolphins",
   "group": "NFL",
@@ -71,7 +71,7 @@
   "time": "13:00",
   "venue": "Highmark Stadium",
   "city": "Orchard Park",
-  "status": "LIVE",
+  "status": "FINISHED",
   "sport": "football",
   "competition": "nfl-2026"
 }

@@ -1,0 +1,102 @@
+{
+  "funFacts": [
+    "Singapore Grand Prix is the original Formula 1 night race, running under 1,600 floodlights.",
+    "Marina Bay has featured at least one safety car in every single edition since its 2008 debut.",
+    "Drivers can lose up to three kilograms of body weight during the two-hour race."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kimi Antonelli",
+      "team": "Mercedes",
+      "hook": "Leads the World Championship on 317 points following his commanding victory from pole in Baku."
+    },
+    {
+      "name": "Lando Norris",
+      "team": "McLaren",
+      "hook": "Previous Singapore winner seeking to close ground on the Mercedes juggernaut in high-downforce conditions."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "f1",
+    "singapore-gp",
+    "marina-bay",
+    "formula-1"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/12795/pexels-photo-12795.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Round 18 · Singapore GP Preview",
+  "resultSummary": "",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Kimi Antonelli (Mercedes)",
+      "score": "317 pts",
+      "note": "Championship Leader"
+    },
+    {
+      "pos": "2",
+      "name": "George Russell (Mercedes)",
+      "score": "229 pts",
+      "note": "-88 pts"
+    },
+    {
+      "pos": "3",
+      "name": "Lewis Hamilton (Ferrari)",
+      "score": "201 pts",
+      "note": "-116 pts"
+    },
+    {
+      "pos": "4",
+      "name": "Lando Norris (McLaren)",
+      "score": "198 pts",
+      "note": "-119 pts"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Formula 1 Official: Singapore Grand Prix",
+      "url": "https://www.formula1.com/en/racing/2026/singapore.html"
+    },
+    {
+      "name": "BBC Sport: F1 Singapore GP preview",
+      "url": "https://www.bbc.co.uk/sport/formula1"
+    },
+    {
+      "name": "Sky Sports F1: Marina Bay night race guide",
+      "url": "https://www.skysports.com/f1"
+    }
+  ],
+  "format": "leaderboard",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "singapore-gp-preview-2026",
+  "headline": "Singapore GP Preview: Antonelli takes 45-point lead to Marina Bay night race",
+  "whyCareScore": 9.5,
+  "whyCareReason": "Kimi Antonelli leads the Formula 1 World Championship into the grueling heat of Marina Bay as the Singapore Grand Prix night race looms.",
+  "teaser": "Marina Bay Street Circuit, 2-4 October 2026. 62 laps under the lights with high humidity, safety cars, and a 45-point championship fight.",
+  "story": "Why this one matters: Formula 1 transitions from the high speeds of Baku directly into the grueling physical furnace of the Marina Bay Street Circuit for the 2026 Singapore Grand Prix.\n\nFresh off his sensational victory in Azerbaijan, rookie phenom Kimi Antonelli arrives in Singapore commanding the World Championship with 317 points. Mercedes teammate George Russell trails at 229 points, with Lewis Hamilton and Lando Norris fighting to stay within striking distance.\n\nMarina Bay is historically one of the calendar's most unforgiving tests. Over 62 laps under blazing floodlights in 85% humidity, drivers face 19 corners with zero margin for error and a 100% historical safety car record. For Antonelli, managing tire degradation and street circuit walls will determine if his march toward the 2026 title continues unabated.",
+  "stakes": "Antonelli seeks to extend his 45-point championship advantage while Ferrari and McLaren bring downforce upgrades to challenge Mercedes.",
+  "rivalryAngle": "High-downforce street battle tests Mercedes straight-line superiority against McLaren and Ferrari agility.",
+  "home": "Mercedes-AMG",
+  "away": "F1 Grid",
+  "group": "F1",
+  "date": "2026-10-04",
+  "time": "20:00",
+  "venue": "Marina Bay Street Circuit",
+  "city": "Singapore",
+  "status": "SCHEDULED",
+  "sport": "f1",
+  "competition": "f1-2026"
+}

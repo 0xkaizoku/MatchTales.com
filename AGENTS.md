@@ -12,7 +12,7 @@ Welcome, AI Coding Agent! This file outlines the architecture, tech stack, rules
 *   **World Cup Archive:** 48 teams, 12 groups, completed 19 July 2026. Spain are champions.
 *   **Sport desks:** mosaic at `/sports`. Unique boards at `/sport/tennis`, `/sport/football`, `/sport/f1`, `/sport/soccer`, `/sport/golf`, `/sport/basketball`. Soccer is one desk, not the default.
 *   **Interactive Features:** Community hype walls, live second-screen companionship, newsletter subscriptions.
-*   **Site clock:** editorial today is `2026-09-27` in `frontend/src/data/sports.ts` (`SITE_TODAY`). Laver Cup Day 3 triple-point finale live at The O2; Presidents Cup Day 4 Sunday Singles at Medinah No. 3; WNBA 2026 Playoffs Round 1 tips off; NFL Week 3 Sunday slate headlined by Bills-Dolphins and Chiefs-Chargers; City moves to 6-0-0 in Premier League with 2-1 win over Newcastle; Antonelli converts pole in Mercedes 1-2 at Baku GP.
+*   **Site clock:** editorial today is `2026-09-28` in `frontend/src/data/sports.ts` (`SITE_TODAY`). Team Europe lifts 2026 Laver Cup trophy at The O2 (13-11); United States wins 16th Presidents Cup at Medinah (18.5-11.5); Eagles host Cowboys on Monday Night Football; Fever, Lynx, Liberty, and Aces take 1-0 WNBA playoff series leads; Manchester City command Premier League table at 6-0-0; Antonelli leads F1 title chase into Singapore night race.
 
 ---
 

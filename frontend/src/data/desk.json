@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-27",
+  "asOf": "2026-09-28",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -423,14 +423,21 @@
       "time": "1:00 p.m. ET",
       "home": "Buffalo Bills",
       "away": "Miami Dolphins",
-      "note": "Game day live at Highmark Stadium. Allen leads 2-0 Bills; Tagovailoa and Dolphins visit."
+      "note": "FINAL: Bills 31, Dolphins 21. Allen 3 TDs leads Buffalo to 3-0 start; Tagovailoa passes for 242 yds."
     },
     {
       "date": "2026-09-27",
       "time": "4:25 p.m. ET",
       "home": "Kansas City Chiefs",
       "away": "Los Angeles Chargers",
-      "note": "Game day live at Arrowhead Stadium. Mahomes and 2-0 Chiefs host Herbert's Chargers."
+      "note": "FINAL: Chiefs 27, Chargers 24. Mahomes orchestrates late game-winning drive; Chiefs move to 3-0."
+    },
+    {
+      "date": "2026-09-28",
+      "time": "8:15 p.m. ET",
+      "home": "Philadelphia Eagles",
+      "away": "Dallas Cowboys",
+      "note": "Monday Night Football at Lincoln Financial Field. Hurts and Eagles host Prescott and Cowboys in NFC East battle."
     }
   ],
   "usOpenQF": [

@@ -35,32 +35,32 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "16th Presidents Cup · Day 4 Singles",
-  "resultSummary": "",
+  "roundLabel": "16th Presidents Cup · Final",
+  "resultSummary": "United States wins 18.5 - 11.5",
   "leaderboard": [
     {
       "pos": "Match 1",
-      "name": "Scottie Scheffler (USA) vs Hideki Matsuyama (INT)",
-      "score": "Singles",
-      "note": "Sunday Match 1 · Medinah No. 3"
+      "name": "Scottie Scheffler (USA) def Hideki Matsuyama (INT) 3&2",
+      "score": "USA +1 pt",
+      "note": "Medinah No. 3"
     },
     {
       "pos": "Match 2",
-      "name": "Patrick Cantlay (USA) vs Adam Scott (INT)",
-      "score": "Singles",
-      "note": "Sunday Match 2"
+      "name": "Patrick Cantlay (USA) def Adam Scott (INT) 2&1",
+      "score": "USA +1 pt",
+      "note": "Singles Match 2"
     },
     {
       "pos": "Match 3",
-      "name": "Xander Schauffele (USA) vs Sungjae Im (INT)",
-      "score": "Singles",
-      "note": "Sunday Match 3"
+      "name": "Xander Schauffele (USA) def Sungjae Im (INT) 4&3",
+      "score": "USA +1 pt",
+      "note": "Singles Match 3"
     },
     {
       "pos": "Match 4",
-      "name": "Collin Morikawa (USA) vs Min Woo Lee (INT)",
-      "score": "Singles",
-      "note": "Sunday Match 4"
+      "name": "Collin Morikawa (USA) halved with Min Woo Lee (INT)",
+      "score": "0.5 - 0.5",
+      "note": "Singles Match 4"
     }
   ],
   "tennisSets": [],
@@ -83,16 +83,16 @@
     }
   ],
   "format": "leaderboard",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 18.5,
+  "awayScore": 11.5,
   "slug": "presidents-cup-2026-medinah",
-  "headline": "Presidents Cup Sunday Singles: 12 matches decide the cup at Medinah Course No. 3",
-  "whyCareScore": 9.7,
-  "whyCareReason": "The Presidents Cup comes down to Sunday Singles at Medinah No. 3. 12 points on the line as Scheffler, Matsuyama, Scott, and Cantlay clash.",
-  "teaser": "Sunday 27 September at Medinah: 12 singles matches to decide the 16th Presidents Cup. Team USA aims to reach 15.5 points; Internationals seek historic rally.",
-  "story": "Why this one matters: The 16th Presidents Cup reaches its final verdict on Sunday 27 September with 12 decisive singles matches across Medinah Country Club's Course No. 3.\n\nAfter a grueling 36-hole Moving Day marathon, Captains Brandt Snedeker and Geoff Ogilvy set their final day order of play. Twelve individual matches will determine whether Team USA retains the golden trophy or if the International Team produces a historic comeback.\n\nWorld No. 1 Scottie Scheffler leads off for the Americans in a premier matchup against 2021 Masters champion Hideki Matsuyama. Veteran Adam Scott, playing his 12th cup, takes on Patrick Cantlay in match two. Xander Schauffele squares off against Sungjae Im, followed by Collin Morikawa versus Min Woo Lee. With 15.5 points needed for victory, Sunday singles at Medinah will be relentless.",
-  "stakes": "12 points at stake in Sunday singles. First team to 15.5 points wins the Presidents Cup.",
-  "rivalryAngle": "Team USA dominance versus International determination on Chicago's most famous championship stage.",
+  "headline": "United States wins 16th Presidents Cup: Scheffler and Cantlay lead 18.5-11.5 triumph at Medinah",
+  "whyCareScore": 9.8,
+  "whyCareReason": "Team USA captures its 10th consecutive Presidents Cup at Medinah Course No. 3 as Scottie Scheffler and Patrick Cantlay lead a dominant Sunday singles performance.",
+  "teaser": "FINAL: United States 18.5, International Team 11.5. Scheffler tops Matsuyama 3&2 and Cantlay closes out Scott 2&1 at Medinah No. 3.",
+  "story": "Why this one matters: The United States claimed its 10th consecutive Presidents Cup on Sunday afternoon, defeating the International Team 18.5 - 11.5 in front of packed galleries at Medinah Country Club.\n\nLeading into Sunday singles, Captain Brandt Snedeker put his strongest anchors out early. World No. 1 Scottie Scheffler set the tone by defeating 2021 Masters champion Hideki Matsuyama 3&2. Patrick Cantlay followed with a clinical 2&1 triumph over veteran Adam Scott, who was playing in his record-tying 12th cup.\n\nXander Schauffele added another American point with a 4&3 victory over Sungjae Im, and Collin Morikawa secured a half-point against Min Woo Lee to push the United States comfortably past the 15.5-point victory threshold. Geoff Ogilvy's International Team fought valiantly on Medinah's redesigned Course No. 3, but the American depth proved insurmountable once again.",
+  "stakes": "The United States retains the Presidents Cup trophy for the 10th consecutive time and improves its all-time series record to 14-1-1.",
+  "rivalryAngle": "American dominance rolls on at Medinah as Chicago fans celebrate another cup triumph.",
   "home": "United States",
   "away": "International Team",
   "group": "PGA",
@@ -100,7 +100,7 @@
   "time": "11:30",
   "venue": "Medinah Country Club (Course No. 3)",
   "city": "Medinah",
-  "status": "LIVE",
+  "status": "FINISHED",
   "sport": "golf",
   "competition": "presidents-cup-2026"
 }

@@ -3046,6 +3046,558 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+  'laver-cup-europe-champions-2026': {
+    fr: {
+      title: "Team Europe remporte la Laver Cup 2026 : Alcaraz scelle un triomphe 13-11 à l'O2",
+      subtitle: 'Carlos Alcaraz bat Taylor Fritz 6-2, 7-5 lors du match décisif à Londres pour reconquérir le trophée.',
+      excerpt: "Carlos Alcaraz offre la Laver Cup 2026 à Team Europe en dominant Taylor Fritz dans l'ultime simple à l'O2 Arena de Londres pour une victoire 13-11.",
+      body: [
+        "La 9e édition de la Laver Cup s'est achevée dimanche soir à Londres par un dénouement palpitant : un douzième match décisif sur le court noir de l'O2 Arena.",
+        'Menée 4-8 au matin du dimanche des champions, Team Europe a remporté trois des quatre matches à trois points pour devancer Team World 13-11.',
+        "Après la victoire en double d'Alcaraz et Zverev puis le succès de Zverev sur Nakashima, Carlos Alcaraz a dominé Taylor Fritz 6-2, 7-5 devant 18 000 spectateurs conquis.",
+      ],
+    },
+    es: {
+      title: 'El Team Europe conquista la Laver Cup 2026: Alcaraz sella un épico 13-11 en el O2',
+      subtitle: 'Carlos Alcaraz supera a Taylor Fritz 6-2, 7-5 en el duelo definitivo en Londres para recuperar el trofeo.',
+      excerpt: 'Carlos Alcaraz corona al Team Europe en la Laver Cup 2026 al vencer a Taylor Fritz en el último partido en el O2 Arena para sellar el triunfo 13-11.',
+      body: [
+        'La 9ª edición de la Laver Cup concluyó el domingo por la noche en Londres con máxima emoción: un duodécimo partido a todo o nada en la pista negra del O2 Arena.',
+        'Con desventaja de 4-8 al comenzar el domingo, el Team Europe sumó tres de los cuatro partidos de triple puntuación para superar al Team World 13-11.',
+        'Tras el doblete de Alcaraz y Zverev y la victoria de Zverev ante Nakashima, Carlos Alcaraz venció a Taylor Fritz 6-2, 7-5 ante 18.000 aficionados.',
+      ],
+    },
+    de: {
+      title: 'Team Europe gewinnt Laver Cup 2026: Alcaraz besiegelt 13:11-Triumph in London',
+      subtitle: 'Carlos Alcaraz schlägt Taylor Fritz 6:2, 7:5 im entscheidenden Sonntagsspiel und holt den Pokal zurück.',
+      excerpt: 'Carlos Alcaraz sichert Team Europe den Laver Cup 2026 mit einem Zweisatzsieg gegen Taylor Fritz in der ausverkauften O2 Arena.',
+      body: [
+        'Die 9. Ausgabe des Laver Cup endete am Sonntagabend in London mit einem packenden Finale auf dem schwarzen Court der O2 Arena.',
+        'Team Europe lag vor dem Finaltag 4:8 zurück, gewann aber drei der vier Dreipunkte-Matches am Championship Sunday und siegte 13:11 gegen Team World.',
+        'Nach dem Doppelsieg von Alcaraz und Zverev sowie Zverevs Einzelsieg gegen Nakashima machte Carlos Alcaraz mit 6:2, 7:5 gegen Taylor Fritz alles klar.',
+      ],
+    },
+    it: {
+      title: 'Il Team Europe vince la Laver Cup 2026: Alcaraz sigilla il 13-11 alla O2 Arena',
+      subtitle: 'Carlos Alcaraz supera Taylor Fritz 6-2, 7-5 nella sfida decisiva di Londra e riporta la coppa in Europa.',
+      excerpt: "Carlos Alcaraz trascina il Team Europe alla conquista della Laver Cup 2026 battendo Taylor Fritz nell'ultimo match per il trionfo 13-11.",
+      body: [
+        'La nona edizione della Laver Cup si è conclusa domenica sera a Londra con un finale ad altissima tensione sul campo nero della O2 Arena.',
+        "Sotto 4-8 all'inizio della domenica decisiva, il Team Europe ha conquistato tre match su quattro con punteggio triplo, superando il Team World 13-11.",
+        'Dopo il successo in doppio di Alcaraz e Zverev e la vittoria di Zverev su Nakashima, Alcaraz ha battuto Fritz 6-2, 7-5 davanti a 18.000 spettatori.',
+      ],
+    },
+    pl: {
+      title: 'Team Europe wygrywa Laver Cup 2026: Alcaraz pieczętuje triumf 13-11 w Londynie',
+      subtitle: 'Carlos Alcaraz pokonuje Taylora Fritza 6-2, 7-5 w decydującym pojedynku i odzyskuje puchar dla Europy.',
+      excerpt: 'Carlos Alcaraz zapewnia drużynie Europy triumf w Laver Cup 2026, pokonując Taylora Fritza w dramatycznym meczu w londyńskiej O2 Arena.',
+      body: [
+        'Dziewiąta edycja Laver Cup zakończyła się w niedzielę wieczorem w Londynie emocjonującym dwunastym pojedynkiem na czarnym korcie O2 Arena.',
+        'Przegrywając 4-8 przed niedzielną serią, Team Europe wygrał trzy z czterech potrójnie punktowanych meczów, pokonując Team World 13-11.',
+        'Po zwycięstwie deblowym Alcaraza i Zvereva oraz wygranej Zvereva z Nakashimą, Carlos Alcaraz pokonał Fritza 6-2, 7-5.',
+      ],
+    },
+    zh: {
+      title: '欧洲队夺得2026拉沃尔杯：阿尔卡拉斯决胜战建功，13比11逆转夺冠',
+      subtitle: '阿尔卡拉斯在O2体育馆6比2、7比5击败弗里茨，助欧洲队重夺冠军奖杯。',
+      excerpt: '2026年拉沃尔杯在伦敦O2体育馆收官，阿尔卡拉斯在决胜战直落两盘击败弗里茨，助欧洲队13比11险胜世界队。',
+      body: [
+        '第9届拉沃尔杯周日晚在伦敦O2体育馆黑色硬地球场迎来终极决战，双方战至第12场一决胜负。',
+        '进入周日决赛日时欧洲队以4比8落后，但在单场价值3分的高压下，欧洲队赢下4场中的3场，最终以13比11实现大逆转。',
+        '在阿尔卡拉斯与兹维列夫拿下双打、兹维列夫单打获胜后，阿尔卡拉斯以6比2、7比5力克弗里茨锁定冠军。',
+      ],
+    },
+    ja: {
+      title: 'チーム・ヨーロッパがレーバーカップ2026制覇：アルカラスが13-11劇的勝利決める',
+      subtitle: 'アルカラスが最終戦でフリッツを6-2、7-5で撃破。ロンドンO2アリーナでタイトル奪還。',
+      excerpt: '2026年レーバーカップ決勝日、アルカラスが第12試合でフリッツを下し、チーム・ヨーロッパが13-11で世界選抜に逆転勝利。',
+      body: [
+        'ロンドンのO2アリーナで行われた第9回レーバーカップは、日曜夜の第12試合にもつれ込む大熱戦となった。',
+        '4-8のビハインドで最終日を迎えた欧州選抜は、1勝3点のチャンピオンシップ・サンデーで4戦中3勝を奪い13-11で逆転勝利。',
+        'ダブルス勝利とズベレフの白星に続き、カルロス・アルカラスがテイラー・フリッツを6-2、7-5で下して栄冠を掴んだ。',
+      ],
+    },
+    ko: {
+      title: '팀 유럽, 2026 레이버컵 우승: 알카라스 최종전 승리로 13-11 역전 드라마',
+      subtitle: '알카라스가 결승전에서 프리츠를 6-2, 7-5로 꺾고 런던 O2 아레나에서 우승 트로피 탈환.',
+      excerpt: '2026 레이버컵 최종일, 카를로스 알카라스가 테일러 프리츠를 제압하며 팀 유럽이 팀 월드를 13-11로 꺾고 우승을 차지했다.',
+      body: [
+        '제9회 레이버컵이 일요일 밤 런던 O2 아레나에서 마지막 12번째 매치까지 이어지는 명승부 끝에 막을 내렸다.',
+        '4-8로 뒤진 채 최종일을 맞이한 팀 유럽은 1승당 3점이 걸린 일요일 4경기 중 3경기를 쓸어담으며 13-11 대역전극을 완성했다.',
+        '복식 승리와 츠베레프의 단식 승리에 이어, 카를로스 알카라스가 테일러 프리츠를 6-2, 7-5로 꺾고 마침표를 찍었다.',
+      ],
+    },
+    ar: {
+      title: 'فريق أوروبا يتوج بكأس لافر 2026: ألكاراز يحسم لقاء القمة بنتيجة 13-11 في لندن',
+      subtitle: 'كارلوس ألكاراز يهزم تايلور فريتز 6-2 و7-5 في المباراة الحاسمة ويعيد الكأس إلى القارة الأوروبية.',
+      excerpt: 'توج فريق أوروبا بلقب كأس لافر للتنس 2026 بعد فوز كارلوس ألكاراز في المباراة الختامية على تايلور فريتز في صالة O2 بلندن بنتيجة 13-11.',
+      body: [
+        'اختتمت النسخة التاسعة من بطولة كأس لافر في صالة O2 بلندن بقمة نارية حسمتها المباراة الثانية عشرة والأخيرة.',
+        'دخل فريق أوروبا اليوم الحاسم متأخرا 4-8، لكنه حصد تسع نقاط من أصل 12 ممكنة في مباريات الأحد ليقلب الطاولة بنتيجة 13-11.',
+        'بعد فوز ألكاراز وزفيريف بالزوجي وتفوق زفيريف على ناكاشيما، قدم كارلوس ألكاراز أداء رائعا ليتغلب على تايلور فريتز 6-2 و7-5.',
+      ],
+    },
+  },
+  'united-states-wins-presidents-cup-2026': {
+    fr: {
+      title: 'Les États-Unis remportent la 16e Presidents Cup : Scheffler et Cantlay brillent à Medinah',
+      subtitle: "L'équipe américaine décroche son 10e sacre consécutif grâce à une démonstration en simples (18,5 - 11,5).",
+      excerpt: "Les États-Unis dominent l'équipe internationale 18,5-11,5 au Medinah Country Club, remportant leur 10e Presidents Cup consécutive.",
+      body: [
+        "La 16e Presidents Cup s'est jouée dimanche sur le parcours n°3 rénové de Medinah, et les États-Unis ont répondu avec autorité.",
+        "Avec une avance de 11-7 au départ, le capitaine Brandt Snedeker a vu son équipe récolter 7,5 points en simples pour s'imposer 18,5 - 11,5.",
+        'Le numéro un mondial Scottie Scheffler a battu Hideki Matsuyama 3&2, Patrick Cantlay a dominé Adam Scott 2&1, et Xander Schauffele a sécurisé le sacre.',
+      ],
+    },
+    es: {
+      title: 'Estados Unidos conquista la 16ª Presidents Cup: Scheffler y Cantlay sellan el 18.5-11.5 en Medinah',
+      subtitle: 'El equipo estadounidense logra su décima copa consecutiva tras imponerse en los individuales del domingo.',
+      excerpt: 'Estados Unidos vence al equipo Internacional por 18.5-11.5 en Medinah Country Club y retiene la Presidents Cup por décima edición consecutiva.',
+      body: [
+        'La 16ª Presidents Cup se decidió el domingo en los partidos individuales del Campo N° 3 de Medinah con triunfo categórico estadounidense.',
+        'Con una renta de 11-7 al comenzar la jornada, el equipo de Brandt Snedeker sumó 7.5 puntos dominicales para cerrar el marcador en 18.5 - 11.5.',
+        'Scottie Scheffler abrió el camino venciendo a Hideki Matsuyama 3&2, Patrick Cantlay superó a Adam Scott 2&1 y Schauffele selló la victoria.',
+      ],
+    },
+    de: {
+      title: 'USA gewinnen 16. Presidents Cup: Scheffler und Cantlay führen 18,5:11,5-Sieg in Medinah an',
+      subtitle: 'US-Team feiert zehnten Triumph in Folge dank starker Einzelvorstellung auf dem Medinah Course No. 3.',
+      excerpt: 'Die USA besiegen das internationale Team mit 18,5:11,5 im Medinah Country Club und verteidigen den Presidents Cup souverän.',
+      body: [
+        'Der 16. Presidents Cup endete am Sonntag auf dem neu gestalteten Course No. 3 in Medinah mit einem klaren US-Erfolg.',
+        'Mit einer 11:7-Führung gestartet, holte das Team von Kapitän Brandt Snedeker 7,5 Punkte in den Einzeln zum 18,5:11,5-Gesamtsieg.',
+        'Weltranglistenerster Scottie Scheffler schlug Hideki Matsuyama 3&2, Patrick Cantlay bezwang Adam Scott 2&1 und Schauffele holte den entscheidenden Punkt.',
+      ],
+    },
+    it: {
+      title: 'Gli Stati Uniti vincono la 16ª Presidents Cup: Scheffler e Cantlay firmano il 18.5-11.5 a Medinah',
+      subtitle: 'Decimo successo consecutivo per la squadra americana grazie ai singoli domenicali sul percorso No. 3.',
+      excerpt: 'Gli Stati Uniti battono la selezione Internazionale 18.5-11.5 al Medinah Country Club, confermando la propria egemonia nella Presidents Cup.',
+      body: [
+        'La 16ª Presidents Cup si è decisa domenica nei singoli sul rinnovato Course No. 3 di Medinah con un successo limpido degli Stati Uniti.',
+        'Avanti 11-7 alla vigilia dei singoli, la formazione guidata da Brandt Snedeker ha raccolto 7.5 punti per chiudere sul 18.5 - 11.5.',
+        'Il numero uno al mondo Scottie Scheffler ha superato Hideki Matsuyama 3&2, mentre Cantlay e Schauffele hanno blindato il trofeo.',
+      ],
+    },
+    pl: {
+      title: 'USA wygrywają 16. Presidents Cup: Scheffler i Cantlay prowadzą do triumfu 18.5-11.5 w Medinah',
+      subtitle: 'Amerykanie zdobywają puchar po raz dziesiąty z rzędu dzięki dominacji w niedzielnych meczach singlowych.',
+      excerpt: 'Stany Zjednoczone pokonały drużynę Międzynarodową 18.5-11.5 w Medinah Country Club, sięgając po dziesiąty kolejny Presidents Cup.',
+      body: [
+        'Szesnasta edycja Presidents Cup zakończyła się w niedzielę w Medinah pewnym zwycięstwem reprezentacji Stanów Zjednoczonych.',
+        'Prowadząc 11-7 przed grami singlowymi, podopieczni Brandta Snedekera zdobyli w niedzielę 7.5 punktu, ustalając wynik na 18.5 - 11.5.',
+        'Lider rankingu Scottie Scheffler pokonał Hidekiego Matsuyamę 3&2, Patrick Cantlay wygrał z Adamem Scottem 2&1, a Schauffele przypieczętował sukces.',
+      ],
+    },
+    zh: {
+      title: '美国队夺得第16届总统杯：舍夫勒与坎特利带队，18.5比11.5大胜国际队',
+      subtitle: '美国队在梅迪纳3号球场单人对决中火力全开，实现总统杯十连冠伟业。',
+      excerpt: '美国队在梅迪纳乡村俱乐部以18.5比11.5战胜国际队，连续第10次捧起总统杯，总战绩扩大为14胜1平1负。',
+      body: [
+        '第16届总统杯周日在梅迪纳乡村俱乐部3号球场落下帷幕，美国队在个人对抗赛中展现强大阵容深度。',
+        '带着11比7优势进入周日单人赛的美国队再揽7.5分，队长斯内德克尔带队以18.5比11.5轻松卫冕。',
+        '世界第一舍夫勒以赢3洞剩2洞击败松山英树，坎特利战胜亚当-斯科特，谢奥菲勒随后锁定胜局。',
+      ],
+    },
+    ja: {
+      title: '米国選抜が第16回プレジデンツカップ優勝：シェフラーとカントレー牽引で18.5-11.5勝利',
+      subtitle: 'メディナ第3コースのシングルス戦で圧倒し、米国チームが大会10連覇を達成。',
+      excerpt: '米国選抜が国際選抜を18.5-11.5で退け、プレジデンツカップ10連覇を飾った。シェフラーとカントレーが日曜シングルスで躍動。',
+      body: [
+        '第16回プレジデンツカップは日曜日、改修されたメディナ・カントリークラブ第3コースでシングルス12戦が行われた。',
+        '11-7のリードで出たブラント・スネデカー主将の米国選抜は、日曜日も7.5点を上積みして18.5-11.5で快勝した。',
+        '世界1位のスコッティ・シェフラーが松山英樹に3&2で勝利、パトリック・カントレーがアダム・スコットを下して連覇を確定させた。',
+      ],
+    },
+    ko: {
+      title: '미국팀, 제16회 프레지던츠컵 우승: 셰플러와 캔틀레이 활약으로 18.5-11.5 완승',
+      subtitle: '메디나 3번 코스 일요일 싱글 매치에서 맹활약하며 대회 10연패 달성.',
+      excerpt: '미국 대표팀이 인터내셔널팀을 18.5-11.5로 꺾고 프레지던츠컵 10연속 우승을 차지했다. 셰플러와 캔틀레이가 싱글 매치를 지배했다.',
+      body: [
+        '제16회 프레지던츠컵이 일요일 메디나 컨트리클럽 3번 코스에서 미국팀의 압도적 승리로 막을 내렸다.',
+        '11-7 리드를 안고 최종일에 나선 미국팀은 싱글 매치에서 7.5점을 추가하며 18.5-11.5로 승부에 쐐기를 박았다.',
+        '세계 1위 스코티 셰플러가 마쓰야마 히데키를 3&2로 제압했고, 패트릭 캔틀레이와 잰더 쇼플리가 승리를 굳혔다.',
+      ],
+    },
+    ar: {
+      title: 'الولايات المتحدة تتوج بكأس الرؤساء للمرة السادسة عشرة: شي Handles وميداينا يشهدان فوزا 18.5-11.5',
+      subtitle: 'الفريق الأمريكي يحصد لقبه العاشر تواليا بفضل تألق شي Handles وكانتلاي في الفردي.',
+      excerpt: 'فازت الولايات المتحدة على الفريق الدولي 18.5-11.5 في نادي ميدينا لتحافظ على كأس الرؤساء للغولف للمرة العاشرة على التوالي.',
+      body: [
+        'اختتمت منافسات كأس الرؤساء السادسة عشرة يوم الأحد في نادي ميدينا بانتصار أمريكي مستحق بنتيجة 18.5 - 11.5.',
+        'بدأ الفريق الأمريكي بقيادة براندت سنيديكر اليوم متقدما 11-7، ثم حصد 7.5 نقطة في مواجهات الفردي لحسم اللقاء.',
+        'تغلب المصنف الأول سكوتي شيفلر على هيديكي ماتسوياما، بينما فاز باتريك كانتلاي على آدم سكوت ليحتفظ الأمريكيون باللقب.',
+      ],
+    },
+  },
+  'cowboys-eagles-mnf-week3-2026': {
+    fr: {
+      title: 'Cowboys contre Eagles au Monday Night Football : choc au sommet de la NFC Est',
+      subtitle: "Hurts et Prescott s'affrontent au Lincoln Financial Field avec un bilan de 2-1 en ligne de mire.",
+      excerpt: 'Le Monday Night Football clôture la 3e semaine NFL avec un grand classique de la NFC Est opposant Philadelphie à Dallas.',
+      body: [
+        "La 3e semaine de la saison NFL 2026 s'achève par l'un des duels les plus intenses du football américain : Eagles contre Cowboys.",
+        'Les deux franchises affichent un bilan de 1-1 et visent la deuxième place de leur division derrière Washington.',
+        'Jalen Hurts comptera sur Saquon Barkley et A.J. Brown face à la défense menée par Micah Parsons et Dak Prescott.',
+      ],
+    },
+    es: {
+      title: 'Cowboys visitan a Eagles en Monday Night Football: duelo por la cima de la NFC Este',
+      subtitle: 'Hurts y Prescott reanudan su histórica rivalidad en el Lincoln Financial Field en busca del 2-1.',
+      excerpt: 'El Monday Night Football cierra la Semana 3 de la NFL con el choque divisional entre Philadelphia Eagles y Dallas Cowboys.',
+      body: [
+        'La Semana 3 de la NFL concluye este lunes con una de las rivalidades más apasionantes del deporte: Dallas en Filadelfia.',
+        'Ambos equipos llegan con marca de 1-1, buscando dar un golpe sobre la mesa en una división altamente disputada.',
+        'Jalen Hurts y Saquon Barkley buscarán imponer su juego terrestre frente a Micah Parsons y la ofensiva de Dak Prescott.',
+      ],
+    },
+    de: {
+      title: 'Cowboys bei den Eagles im Monday Night Football: NFC-East-Klassiker zum Wochenabschluss',
+      subtitle: 'Hurts und Prescott treffen im Lincoln Financial Field aufeinander. Beide Teams kämpfen um eine 2-1-Bilanz.',
+      excerpt: 'Monday Night Football beschließt Woche 3 der NFL mit dem traditionsreichen NFC-East-Duell zwischen Philadelphia und Dallas.',
+      body: [
+        'Woche 3 der NFL-Saison 2026 endet am Montagabend mit einem der traditionsreichsten Rivalitätsspiele der Liga in Philadelphia.',
+        'Beide Teams stehen bei 1-1 und wollen sich mit einem Sieg im Rennen um die NFC-East-Spitze positionieren.',
+        'Jalen Hurts führt den Eagles-Angriff mit Saquon Barkley gegen die von Micah Parsons angeführte Cowboys-Defensive an.',
+      ],
+    },
+    it: {
+      title: 'Cowboys contro Eagles al Monday Night Football: sfida per il primato nella NFC East',
+      subtitle: 'Hurts e Prescott rinnovano la storica rivalità al Lincoln Financial Field per portarsi sul 2-1.',
+      excerpt: 'Il Monday Night Football chiude la Week 3 della NFL con la classica sfida divisionale tra Philadelphia Eagles e Dallas Cowboys.',
+      body: [
+        'La terza giornata della NFL si chiude lunedì sera con il classico scontro divisionale tra Philadelphia e Dallas.',
+        "Entrambe le franchigie arrivano all'appuntamento sull'1-1, a caccia di un successo fondamentale per la corsa ai playoff.",
+        "Jalen Hurts e Saquon Barkley sfidano la difesa dei Cowboys guidata da Micah Parsons e l'attacco di Dak Prescott.",
+      ],
+    },
+    pl: {
+      title: 'Cowboys u Eagles w Monday Night Football: bitwa o prymat w NFC East',
+      subtitle: 'Hurts i Prescott wznawiają prestiżową rywalizację na Lincoln Financial Field przy bilansach 1-1.',
+      excerpt: 'Monday Night Football zamyka 3. tydzień NFL wielkim klasykiem dywizji NFC East pomiędzy Philadelphia Eagles a Dallas Cowboys.',
+      body: [
+        'Trzeci tydzień sezonu NFL 2026 kończy się prestiżowym pojedynkiem Monday Night Football w Filadelfii.',
+        'Obie ekipy mają bilans 1-1 i walczą o cenne zwycięstwo wewnątrz dywizji NFC East.',
+        'Jalen Hurts i Saquon Barkley postarają się sforsować defensywę Dallas dowodzoną przez Micaha Parsonsa.',
+      ],
+    },
+    zh: {
+      title: '周一橄榄球之夜国东内战：牛仔做客费城老鹰，争夺2胜1负先机',
+      subtitle: '赫茨与普雷斯科特林肯金融球场再次交手，国联东部宿敌决战黄金时段。',
+      excerpt: 'NFL第3周周一之夜迎来经典国东德比，费城老鹰主场迎战达拉斯牛仔，胜者将占据分区有利排名。',
+      body: [
+        '2026年NFL常规赛第3周在林肯金融球场画上句号，老鹰与牛仔打响国联东部黄金档大战。',
+        '两队目前战绩均为1胜1负，本场胜者将升至2胜1负并获得分区胜负交手优势。',
+        '赫茨携手巴克利和布朗坐镇主场，迎接普雷斯科特、兰姆以及帕森斯领衔的牛仔军团。',
+      ],
+    },
+    ja: {
+      title: 'マンデーナイト・フットボール：カウボーイズがイーグルス本拠地へ乗り込むNFC東地区決戦',
+      subtitle: 'ハーツとプレスコットが激突。リンカーン・ファイナンシャル・フィールドで2勝1敗を争う大一番。',
+      excerpt: 'NFL第3週のマンデーナイトは、伝統のNFC東地区ライバル対決。フィラデルフィア・イーグルスがダラス・カウボーイズをホームで迎え撃つ。',
+      body: [
+        'NFL2026年シーズン第3週のフィナーレは、全米が注目するマンデーナイトのイーグルス対カウボーイズ戦。',
+        'ともに1勝1敗で迎えた両雄が、地区首位争いの重要な足がかりをかけて激突する。',
+        'ジェイレン・ハーツとサクオン・バークリーの地上戦に対し、ダック・プレスコットとマイカ・パーソンズがどう対抗するか注目だ。',
+      ],
+    },
+    ko: {
+      title: '먼데이 나이트 풋볼 카우보이스 대 이글스: NFC 동부지구 라이벌전 격돌',
+      subtitle: '허츠와 프레스콧이 링컨 파이낸셜 필드에서 격돌. 2승 1패 고지를 향한 프라임타임 대결.',
+      excerpt: 'NFL 3주차 마지막 경기로 전통의 NFC 동부지구 맞라이벌 필라델피아 이글스와 댈러스 카우보이스가 격돌한다.',
+      body: [
+        '2026 NFL 정규시즌 3주차가 필라델피아에서 열리는 먼데이 나이트 풋볼 카우보이스 대 이글스 전으로 막을 내린다.',
+        '나란히 1승 1패를 기록 중인 양 팀은 지구 2위 및 콘퍼런스 경쟁에서 우위를 점하기 위해 물러설 수 없는 대결을 펼친다.',
+        '제일런 허츠와 세이콴 바클리가 이끄는 필라델피아와 마이카 파슨스 및 닥 프레스콧의 댈러스가 한판 승부를 벌인다.',
+      ],
+    },
+    ar: {
+      title: 'كاوبويز يواجه إيغلز في كرة القدم ليلة الإثنين: قمة كبرى في دوري NFL',
+      subtitle: 'هيرتس وبريسكوت يجددان المنافسة التاريخية في فيلادلفيا من أجل تحقيق الفوز الثاني هذا الموسم.',
+      excerpt: 'تختتم الجولة الثالثة من دوري كرة القدم الأمريكية بمواجهة كلاسيكية نارية بين فيلادلفيا إيغلز ودالاس كاوبويز.',
+      body: [
+        'يسدل الستار على الأسبوع الثالث من دوري NFL بمباراة ليلة الإثنين المرتقبة بين فيلادلفيا ودالاس.',
+        'يدخل الفريقان اللقاء بسجل انتصار وهزيمة، والفائز سينفرد بالمركز الثاني خلف واشنطن في مجموعتهما.',
+        'يقود جالين هيرتس هجوم إيغلز رفقة باركلي وبراون في مواجهة دفاع دالاس الشرس بقيادة ميكا بارسونز.',
+      ],
+    },
+  },
+  'wnba-playoffs-game1-recap-clark-fever-2026': {
+    fr: {
+      title: 'Playoffs WNBA Match 1 : Caitlin Clark mène Fever à la victoire, Lynx et Aces au rendez-vous',
+      subtitle: "Indiana s'impose 86-80 à Atlanta ; Minnesota, New York et Las Vegas tiennent leur rang à domicile.",
+      excerpt: 'Caitlin Clark compile 24 points et 11 passes décisives pour offrir le Match 1 à Indiana contre Atlanta, tandis que le Lynx et les Aces assurent.',
+      body: [
+        "Le premier tour des playoffs WNBA 2026 a débuté dimanche avec une intensité maximale et quatre matches d'ouverture.",
+        "À Atlanta, Caitlin Clark a brillé avec 24 points et 11 passes, guidant Indiana vers une victoire 86-80 à l'extérieur.",
+        'Dans les autres matches, Minnesota a battu Washington 84-69, New York a dominé Golden State 79-71 et Las Vegas a disposé de Dallas 92-81.',
+      ],
+    },
+    es: {
+      title: 'Playoffs WNBA Partido 1: Caitlin Clark guía a Fever ante Dream; Lynx y Aces se imponen',
+      subtitle: 'Indiana roba la ventaja de local con triunfo 86-80 en Atlanta; Minnesota, Nueva York y Las Vegas no fallan.',
+      excerpt: 'Caitlin Clark firma 24 puntos y 11 asistencias para dar el primer triunfo a Indiana ante Atlanta Dream en el arranque de playoffs.',
+      body: [
+        'La postemporada de la WNBA 2026 abrió el domingo con cuatro partidos de primera ronda en series al mejor de tres.',
+        'En Atlanta, Caitlin Clark lideró al Indiana Fever con 24 puntos y 11 asistencias para ganar 86-80 a domicilio.',
+        'Minnesota Lynx superó a Washington 84-69, New York Liberty venció 79-71 a Valkyries y Las Vegas Aces batió 92-81 a Wings.',
+      ],
+    },
+    de: {
+      title: 'WNBA-Playoffs Spiel 1: Caitlin Clark führt Fever zum Auswärtssieg; Lynx und Aces souverän',
+      subtitle: 'Indiana siegt 86:80 in Atlanta; Minnesota, New York und Las Vegas verteidigen den Heimvorteil.',
+      excerpt: 'Caitlin Clark erzielt 24 Punkte und 11 Assists beim 86:80-Sieg von Indiana Fever bei den Atlanta Dream in Spiel 1 der WNBA-Playoffs.',
+      body: [
+        'Die WNBA-Playoffs 2026 starteten am Sonntag mit vier Auftaktpartien der Best-of-Three-Erstrundenserien.',
+        'In Atlanta führte Caitlin Clark die Indiana Fever mit 24 Punkten und 11 Assists zu einem 86:80-Erfolg auf fremdem Parkett.',
+        'Minnesota Lynx schlug Washington 84:69, New York Liberty bezwang Golden State 79:71 und Las Vegas Aces besiegte Dallas 92:81.',
+      ],
+    },
+    it: {
+      title: 'Playoff WNBA Gara 1: Caitlin Clark trascina Fever alla vittoria; Lynx e Aces dominano',
+      subtitle: 'Indiana espugna Atlanta 86-80; Minnesota, New York e Las Vegas difendono il fattore campo.',
+      excerpt: 'Caitlin Clark firma 24 punti e 11 assist guidando Indiana al successo 86-80 contro Atlanta Dream in Gara 1 dei playoff WNBA.',
+      body: [
+        "Il primo turno dei playoff WNBA 2026 è scattato domenica con quattro gare d'apertura al meglio delle tre sfide.",
+        "Ad Atlanta, Caitlin Clark ha offerto una prova sontuosa da 24 punti e 11 assist per l'86-80 di Indiana in trasferta.",
+        'Nelle altre gare, le Lynx hanno superato Washington 84-69, Liberty hanno battuto Valkyries 79-71 e le Aces hanno vinto 92-81 su Dallas.',
+      ],
+    },
+    pl: {
+      title: 'Playoffy WNBA Mecz 1: Caitlin Clark prowadzi Fever do wygranej; Lynx i Aces nie zawodzą',
+      subtitle: 'Indiana wygrywa 86-80 w Atlancie; Minnesota, New York i Las Vegas utrzymują przewagę parkietu.',
+      excerpt: 'Caitlin Clark zdobywa 24 punkty i 11 asyst, prowadząc Indiana Fever do zwycięstwa 86-80 w pierwszym meczu fazy pucharowej w Atlancie.',
+      body: [
+        'Faza play-off WNBA 2026 rozpoczęła się w niedzielę czterema meczami pierwszej rundy rozgrywanej w formule do dwóch wygranych.',
+        'W Atlancie Caitlin Clark poprowadziła Fever do wyjazdowego sukcesu 86-80, notując 24 punkty i 11 asyst.',
+        'Minnesota pokonała Washington 84-69, New York ograł Valkyries 79-71, a obrończynie tytułu Aces pokonały Dallas 92-81.',
+      ],
+    },
+    zh: {
+      title: 'WNBA季后赛首战：克拉克率狂热客胜梦想，山猫王牌携手开门红',
+      subtitle: '印第安纳狂热客场86比80力克亚特兰大梦想；明尼苏达、纽约与拉斯维加斯主场告捷。',
+      excerpt: '凯特琳-克拉克砍下24分11助攻，率领印第安纳狂热在季后赛首轮第1场客场86比80战胜亚特兰大梦想。',
+      body: [
+        '2026赛季WNBA季后赛周日打响，首轮三局两胜制的四场首战全面点燃战火。',
+        '印第安纳狂热在客场顶住反扑，克拉克独得24分11次助攻，以86比80掀翻亚特兰大梦想夺得赛点。',
+        '头号种子山猫84比69大胜神秘人，自由人79比71击败女武神，卫冕冠军王牌92比81战胜飞翼。',
+      ],
+    },
+    ja: {
+      title: 'WNBAプレーオフ第1戦：クラークがフィーバーを敵地白星に導く、リンクスとエーシズも先勝',
+      subtitle: 'インディアナがアトランタで86-80勝利。ミネソタ、ニューヨーク、ラスベガスが初戦を制す。',
+      excerpt: 'ケイトリン・クラークが24得点11アシストの活躍で、インディアナ・フィーバーがアトランタ・ドリームとの第1戦を86-80で制した。',
+      body: [
+        '2026年WNBAプレーオフが開幕し、3戦2勝制のファーストラウンド第1戦4試合が行われた。',
+        'フィーバーは敵地でケイトリン・クラークが24得点11アシストを記録し、ドリームに86-80で逆転勝利を収めた。',
+        '第1シードのリンクスはミスティクスに84-69で快勝し、リバティとエーシズもそれぞれ白星発進を決めた。',
+      ],
+    },
+    ko: {
+      title: 'WNBA 플레이오프 1차전: 케이틀린 클라크 피버 원정 승리 견인, 링스와 에이시스도 완승',
+      subtitle: '인디애나, 애틀랜타 원정서 86-80 제압; 미네소타, 뉴욕, 라스베이거스도 1차전 승리.',
+      excerpt: '케이틀린 클라크가 24득점 11어시스트를 기록하며 인디애나 피버를 애틀랜타 드림전 86-80 원정 승리로 이끌었다.',
+      body: [
+        '2026 WNBA 플레이오프 1라운드 3전 2선승제 시리즈가 일요일 4경기 개막전으로 막을 올렸다.',
+        '인디애나 피버는 케이틀린 클라크의 24득점 11어시스트 맹활약에 힘입어 애틀랜타를 86-80으로 제압했다.',
+        '1번 시드 미네소타 링스는 워싱턴을 84-69로 완파했고, 뉴욕 리버티와 라스베이거스 에이시스도 첫 승을 챙겼다.',
+      ],
+    },
+    ar: {
+      title: 'أدوار WNBA الإقصائية الجولة 1: كلارك تقود فيفر للفوز خارج الديار ولينكس وإيسيز يتألقان',
+      subtitle: 'إنديانا تخطف فوزا ثمينا 86-80 في أتلانتا؛ ومينيسوتا ونيويورك ولاس فيغاس تحسم مبارياتها.',
+      excerpt: 'سجلت كيتلين كلارك 24 نقطة و11 تمريرة حاسمة لتقود إنديانا فيفر للفوز 86-80 على أتلانتا في افتتاح الأدوار الإقصائية.',
+      body: [
+        'انطلقت منافسات الأدوار الإقصائية لدوري السلة الأمريكي للسيدات يوم الأحد بأربع مباريات قوية في الجولة الأولى.',
+        'في أتلانتا، تألقت كيتلين كلارك بتسجيل 24 نقطة و11 تمريرة حاسمة لتمنح إنديانا الفوز بنتيجة 86-80 خارج الديار.',
+        'وفي باقي المباريات، تفوقت مينيسوتا على واشنطن 84-69، وتغلب نيويورك على فالكيريز 79-71 وإيسيز على دالاس 92-81.',
+      ],
+    },
+  },
+  'premier-league-mw6-standings-city-18pts-2026': {
+    fr: {
+      title: 'Bilan 6e journée Premier League : Manchester City seul au sommet avec 18 points',
+      subtitle: 'Les hommes de Guardiola devancent Arsenal de trois longueurs avant la semaine de Ligue des Champions.',
+      excerpt: 'Manchester City boucle la 6e journée de Premier League avec un sans-faute (6-0-0) et 18 points en tête du classement.',
+      body: [
+        'Après six journées de Premier League, Manchester City continue son cavalier seul en tête du championnat anglais.',
+        'Vainqueurs 2-1 de Newcastle samedi grâce à Haaland et Bernardo Silva, les Cityzens comptent 18 points sur 18 possibles.',
+        'Arsenal reste dauphin avec 15 points après sa victoire 2-0 sur Everton, tandis que Liverpool grimpe à la 3e place avec 12 points.',
+      ],
+    },
+    es: {
+      title: 'Resumen Jornada 6 Premier League: Manchester City líder solitario con 18 puntos perfectos',
+      subtitle: 'El equipo de Guardiola aventaja a Arsenal en tres puntos antes del regreso de la Champions League.',
+      excerpt: 'Manchester City comanda la Premier League con pleno de victorias (6-0-0) y 18 puntos tras cerrarse la sexta fecha.',
+      body: [
+        'Cumplidas seis jornadas de la Premier League 2026-27, el Manchester City de Pep Guardiola marcha con paso perfecto.',
+        'El triunfo 2-1 ante Newcastle en el Etihad elevó a los celestes a 18 puntos, con Erling Haaland sumando 10 goles en el torneo.',
+        'El Arsenal es segundo con 15 puntos tras superar 2-0 al Everton, mientras que Liverpool es tercero con 12 unidades.',
+      ],
+    },
+    de: {
+      title: 'Premier League Spieltag 6: Manchester City thront mit perfekten 18 Punkten an der Spitze',
+      subtitle: 'Guardiolas Team liegt drei Punkte vor Arsenal; Haaland steht bei 10 Toren vor der Champions-League-Woche.',
+      excerpt: 'Manchester City beendet den 6. Spieltag der Premier League mit einer makellosen 6-0-0-Bilanz und führt die Tabelle mit 18 Punkten an.',
+      body: [
+        'Nach sechs Runden der Premier League 2026-27 zieht Manchester City an der Tabellenspitze einsam seine Kreise.',
+        'Mit dem 2:1-Heimsieg gegen Newcastle bauten die Skyblues ihr Punktekonto auf die Maximalausbeute von 18 Zählern aus.',
+        'Arsenal folgt mit 15 Punkten nach einem 2:0 gegen Everton auf Rang zwei, gefolgt von Liverpool mit 12 Punkten.',
+      ],
+    },
+    it: {
+      title: 'Premier League 6ª giornata: Manchester City solo in vetta a punteggio pieno con 18 punti',
+      subtitle: "La squadra di Guardiola vanta tre punti di vantaggio sull'Arsenal prima del turno di Champions League.",
+      excerpt: 'Il Manchester City chiude la sesta giornata di Premier League a punteggio pieno (6-0-0) e 18 punti, davanti ad Arsenal e Liverpool.',
+      body: [
+        'Dopo sei giornate di campionato, il Manchester City continua la sua marcia perfetta in vetta alla Premier League.',
+        'Il successo per 2-1 contro il Newcastle ha permesso ai Citizens di salire a quota 18 punti, con Haaland a quota 10 reti.',
+        "L'Arsenal insegue a quota 15 dopo il 2-0 sull'Everton, mentre il Liverpool occupa il terzo gradino del podio con 12 punti.",
+      ],
+    },
+    pl: {
+      title: 'Podsumowanie 6. kolejki Premier League: Manchester City na szczycie z kompletem 18 punktów',
+      subtitle: 'Ekipa Guardioli ma trzy punkty przewagi nad Arsenalem przed tygodniem z Ligą Mistrzów.',
+      excerpt: 'Manchester City zamyka 6. kolejkę Premier League z bilansem 6-0-0 i prowadzi w tabeli z dorobkiem 18 punktów.',
+      body: [
+        'Po sześciu kolejkach Premier League 2026-27 Manchester City może pochwalić się kompletem zwycięstw.',
+        'Wygrana 2-1 z Newcastle na Etihad Stadium dała ekipie Pepa Guardioli 18 punktów, a Haaland ma już 10 bramek na koncie.',
+        'Drugie miejsce zajmuje Arsenal z 15 punktami po zwycięstwie 2-0 nad Evertonem, a trzeci jest Liverpool z 12 oczkami.',
+      ],
+    },
+    zh: {
+      title: '英超第6轮综述：曼城6战全胜积18分领跑，哈兰德6场轰10球',
+      subtitle: '瓜迪奥拉球队领先阿森纳3分稳居榜首，欧冠第2比赛日周中打响。',
+      excerpt: '英超第6轮战罢，曼城以6战全胜积18分的完美战绩独占榜首，阿森纳积15分紧随其后，利物浦积12分位列第三。',
+      body: [
+        '2026-27赛季英格兰超级联赛战罢6轮，曼城展现出无可阻挡的统治力，豪取开局六连胜。',
+        '在伊蒂哈德球场2比1力克纽卡斯尔联后，曼城积分达到18分，哈兰德前6轮已打入惊人的10粒联赛进球。',
+        '阿森纳主场2比0轻取埃弗顿积15分位列次席，利物浦客场3比1战胜桑德兰以12分升至第三位。',
+      ],
+    },
+    ja: {
+      title: 'プレミアリーグ第6節総括：マンチェスター・シティが開幕6連勝で勝点18首位独走',
+      subtitle: 'ハーランドが6戦10発と大暴れ。2位アーセナルに勝点3差をつけ欧州CLウィークへ。',
+      excerpt: 'プレミアリーグ第6節が終了し、マンチェスター・シティが6戦全勝の勝点18で首位を堅持。2位アーセナルが追走する。',
+      body: [
+        '2026-27プレミアリーグは第6節を終え、グアルディオラ率いるマンチェスター・シティが唯一の全勝をキープしている。',
+        'ニューカッスルを2-1で下したシティは勝点18に到達し、ハーランドは早くもリーグ通算10ゴール目をマークした。',
+        'エヴァートンに2-0で勝利したアーセナルが勝点15で2位、サンダーランドに勝ったリヴァプールが勝点12で3位につける。',
+      ],
+    },
+    ko: {
+      title: '프리미어리그 6라운드 결산: 맨체스터 시티, 6연승 승점 18점으로 단독 선두 질주',
+      subtitle: '홀란 6경기 10골 폭발. 아스널에 승점 3점 앞선 채 챔피언스리그 주간 돌입.',
+      excerpt: '프리미어리그 6라운드가 마무리된 가운데 맨체스터 시티가 6전 전승 승점 18점으로 선두를 질주하고 있다.',
+      body: [
+        '2026-27 프리미어리그 6라운드가 끝난 현재, 펩 과르디올라 감독의 맨체스터 시티가 무결점 6연승을 달리고 있다.',
+        '뉴캐슬을 2-1로 꺾은 맨시티는 승점 18점을 확보했으며, 엘링 홀란은 6경기 만에 10호 골을 기록했다.',
+        '에버턴을 2-0으로 제압한 아스널이 승점 15점으로 2위, 선덜랜드를 3-1로 꺾은 리버풀이 승점 12점으로 3위를 달린다.',
+      ],
+    },
+    ar: {
+      title: 'حصاد الجولة 6 من الدوري الإنجليزي: مانشستر سيتي بالعلامة الكاملة برصيد 18 نقطة',
+      subtitle: 'كتيبة غوارديولا تبتعد بثلاث نقاط عن آرسنال وهالاند يسجل 10 أهداف قبل أسبوع الأبطال.',
+      excerpt: 'يتصدر مانشستر سيتي جدول ترتيب الدوري الإنجليزي الممتاز برصيد 18 نقطة من 6 انتصارات متتالية.',
+      body: [
+        'مع نهاية الجولة السادسة من الدوري الإنجليزي الممتاز 2026-27، يواصل مانشستر سيتي انطلاقته المثالية في الصدارة.',
+        'وصل السيتي إلى النقطة 18 بعد فوزه على نيوكاسل 2-1، ورفع إرلينغ هالاند رصيده التهديفي إلى 10 أهداف في 6 مباريات.',
+        'ويحتل آرسنال المركز الثاني برصيد 15 نقطة بعد تجاوزه إيفرتون بهدفين دون رد، يليه ليفربول ثالثا برصيد 12 نقطة.',
+      ],
+    },
+  },
+  'singapore-gp-preview-antonelli-title-march-2026': {
+    fr: {
+      title: "Présentation GP de Singapour : Antonelli arrive avec 45 points d'avance sous les projecteurs de Marina Bay",
+      subtitle: "Le rookie de Mercedes aborde l'épreuve la plus éprouvante du calendrier après sa victoire à Bakou.",
+      excerpt: 'Kimi Antonelli se prépare au défi nocturne de Marina Bay en leader solide du championnat de Formule 1 avant le GP de Singapour.',
+      body: [
+        'La Formule 1 quitte Bakou pour rejoindre la chaleur tropicale et les 1 600 projecteurs du circuit urbain de Marina Bay à Singapour.',
+        'Fort de sa victoire autoritaire en Azerbaïdjan, Kimi Antonelli mène le championnat du monde des pilotes avec 317 points.',
+        'George Russell (229 pts), Lewis Hamilton (201 pts) et Lando Norris (198 pts) tenteront de contester la suprématie de Mercedes.',
+      ],
+    },
+    es: {
+      title: 'Previa GP de Singapur: Antonelli defiende 45 puntos de renta bajo los focos de Marina Bay',
+      subtitle: 'El joven prodigio de Mercedes afronta el desafío físico más extremo de la F1 tras vencer en Bakú.',
+      excerpt: 'Kimi Antonelli llega al Gran Premio de Singapur como líder del Mundial de Fórmula 1 para encarar la exigente carrera nocturna de Marina Bay.',
+      body: [
+        'La Fórmula 1 aterriza en el caluroso trazado urbano de Marina Bay para disputar la 18ª ronda del Mundial bajo los reflectores.',
+        'Tras su triunfo incontestable desde la pole en Bakú, Kimi Antonelli comanda la clasificación de pilotos con 317 puntos.',
+        'George Russell (229 pts), Lewis Hamilton (201 pts) y Lando Norris (198 pts) buscarán desafiar el dominio de las flechas plateadas.',
+      ],
+    },
+    de: {
+      title: 'Vorschau GP von Singapur: Antonelli reist mit 45 Punkten Vorsprung ins Flutlicht von Marina Bay',
+      subtitle: 'Mercedes-Rookie stellt sich nach dem Baku-Sieg der härtesten Hitzeschlacht des Formel-1-Jahres.',
+      excerpt: 'Kimi Antonelli führt die Formel-1-Weltmeisterschaft vor dem prestigeträchtigen Nachtrennen auf dem Marina Bay Street Circuit an.',
+      body: [
+        'Die Formel 1 zieht direkt von Baku nach Singapur, wo das Nachtrennen auf dem Marina Bay Street Circuit ansteht.',
+        'Nach seinem Start-Ziel-Sieg in Aserbaidschan führt Shootingstar Kimi Antonelli die Fahrer-WM mit 317 Punkten souverän an.',
+        'Teamkollege George Russell (229 Pkt.), Lewis Hamilton (201 Pkt.) und Lando Norris (198 Pkt.) wollen in der Tropenhitze kontern.',
+      ],
+    },
+    it: {
+      title: 'Anteprima GP Singapore: Antonelli vola a Marina Bay forte di 45 punti di vantaggio',
+      subtitle: "Il fenomeno della Mercedes affronta la sfida più dura dell'anno sotto i riflettori dopo il trionfo di Baku.",
+      excerpt: "Kimi Antonelli guida il mondiale di Formula 1 verso l'appuntamento notturno di Singapore sul tracciato di Marina Bay.",
+      body: [
+        "La Formula 1 si sposta da Baku all'umidità tropicale di Marina Bay per la 18ª tappa del Campionato Mondiale 2026.",
+        'Dopo il dominante successo in terra azera, Kimi Antonelli comanda la classifica piloti con 317 punti iridati.',
+        'George Russell a quota 229, Lewis Hamilton a 201 e Lando Norris a 198 inseguono la Mercedes sulle strade asiatiche.',
+      ],
+    },
+    pl: {
+      title: 'Zapowiedź GP Singapuru: Antonelli z przewagą 45 punktów rusza na ulice Marina Bay',
+      subtitle: 'Rookie Mercedesa zmierzy się z najtrudniejszym fizycznie wyścigiem F1 w blasku jupiterów po triumfie w Baku.',
+      excerpt: 'Kimi Antonelli prowadzi w klasyfikacji generalnej F1 i szykuje się do wymagającego nocnego wyścigu o Grand Prix Singapuru.',
+      body: [
+        'Formuła 1 przenosi się z Baku do Singapuru, gdzie na Marina Bay Street Circuit odbędzie się słynny nocny wyścig.',
+        'Po znakomitym zwycięstwie w Azerbejdżanie Kimi Antonelli pewnie przewodzi stawce kierowców z dorobkiem 317 punktów.',
+        'George Russell (229 pkt), Lewis Hamilton (201 pkt) oraz Lando Norris (198 pkt) spróbują zatrzymać marsz młodego Włocha.',
+      ],
+    },
+    zh: {
+      title: '新加坡大奖赛前瞻：安东内利携45分优势征战滨海湾夜战',
+      subtitle: '梅赛德斯新星巴库夺冠后直面F1最严酷体能考验，领跑车手积分榜。',
+      excerpt: 'F1锦标赛转战新加坡滨海湾街道赛道，领头羊基米-安东内利在1600盏泛光灯下开启第18站卫冕之旅。',
+      body: [
+        'F1赛季马不停蹄转战东南亚，在新加坡滨海湾街道赛道展开年度最具挑战性的夜间街道赛对决。',
+        '在巴库杆位发车强势夺冠后，梅赛德斯超级新人安东内利已手握317个车手积分遥遥领先。',
+        '队友拉塞尔（229分）、汉密尔顿（201分）与诺里斯（198分）将全力在高温高湿考验中发起反扑。',
+      ],
+    },
+    ja: {
+      title: 'シンガポールGP展望：アントネッリが45点リードでマリーナベイの夜戦へ挑む',
+      subtitle: 'バクー完全勝利のメルセデス新鋭が、F1屈指の過酷な熱帯夜市街地コースで王座進撃を期す。',
+      excerpt: 'キミ・アントネッリがドライバーズ選手権首位としてシンガポールGPへ。マリーナベイのナイターレースで激突。',
+      body: [
+        'F1サーカスはバクーからシンガポールのマリーナベイ市街地サーキットへ直行し、第18戦を迎える。',
+        'アゼルバイジャンGPでポール・トゥ・ウィンを飾ったキミ・アントネッリは317ポイントで選手権を牽引。',
+        'ラッセル（229点）、ハミルトン（201点）、ノリス（198点）が過酷な熱帯夜でメルセデス追撃を図る。',
+      ],
+    },
+    ko: {
+      title: '싱가포르 GP 프리뷰: 안토넬리, 45점 차 리드로 마리나 베이 야간 레이스 출격',
+      subtitle: '바쿠 완승 거둔 메르세데스 루키, 1,600개 조명 아래 F1 최고 난도 시가지 서킷 격돌.',
+      excerpt: '바쿠 우승을 차지한 키미 안토넬리가 317점으로 챔피언십 선두를 굳건히 지키며 싱가포르 GP 야간 레이스에 나선다.',
+      body: [
+        '포뮬러 1 서커스가 바쿠에서 싱가포르 마리나 베이 시가지 서킷으로 무대를 옮겨 18라운드를 치른다.',
+        '바쿠에서 폴투윈을 완성한 메르세데스의 루키 키미 안토넬리는 317점으로 드라이버 챔피언십 선두를 질주하고 있다.',
+        '조지 러셀(229점), 루이스 해밀턴(201점), 랜도 노리스(198점)가 고온다습한 싱가포르 밤하늘 아래 반격에 나선다.',
+      ],
+    },
+    ar: {
+      title: 'تقديم جائزة سنغافورة الكبرى: أنتونيللي يتصدر البطولة بفارق 45 نقطة تحت أضواء مارينا باي',
+      subtitle: 'نجم مرسيدس الصاعد يتأهب للاختبار البدني الأقسى في فورمولا 1 عقب فوزه المستحق في باكو.',
+      excerpt: 'يقود كيمي أنتونيللي بطولة العالم لسباقات فورمولا 1 نحو حلبة مارينا باي في سنغافورة لخوض السباق الليلي المرتقب.',
+      body: [
+        'تنتقل بطولة العالم لسباقات فورمولا 1 مباشرة من باكو إلى حرارة ورطوبة حلبة مارينا باي في سنغافورة لخوض الجولة 18.',
+        'بعد فوزه الرائع في باكو من قطب الانطلاق الأول، يتصدر كيمي أنتونيللي ترتيب السائقين برصيد 317 نقطة.',
+        'ويسعى زميله جورج راسل (229 نقطة) ولويس هاميلتون ولاندو نوريس لتحدي هيمنة مرسيدس تحت الأضواء الكاشفة.',
+      ],
+    },
+  },
 };
 
 
