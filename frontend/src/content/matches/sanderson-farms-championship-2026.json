@@ -1,0 +1,77 @@
+{
+  "funFacts": [
+    "The Sanderson Farms Championship is hosted at Country Club of Jackson, Mississippi.",
+    "The tournament offers 500 FedExCup points and a two-year PGA Tour winner exemption.",
+    "Kevin Yu captured the 2024 title in a dramatic playoff, launching his breakthrough campaign."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Country Club of Jackson",
+      "team": "PGA Tour",
+      "hook": "Demanding par-72 championship layout testing iron precision and bermudagrass putting."
+    },
+    {
+      "name": "FedExCup Fall field",
+      "team": "PGA Tour",
+      "hook": "Competitors battling for top-125 card security and exemptions into 2027 signature events."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "golf",
+    "pga-tour",
+    "sanderson-farms",
+    "fedexcup-fall"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Tournament Preview",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "PGA Tour: Sanderson Farms Championship tournament home",
+      "url": "https://www.pgatour.com/tournaments/2026/sanderson-farms-championship/R2026054"
+    },
+    {
+      "name": "Sanderson Farms Championship official portal",
+      "url": "https://sandersonfarmschampionship.com/"
+    },
+    {
+      "name": "Golfweek: FedExCup Fall preview",
+      "url": "https://golfweek.usatoday.com/category/pga-tour/"
+    }
+  ],
+  "format": "leaderboard",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "sanderson-farms-championship-2026",
+  "headline": "Sanderson Farms Championship: FedExCup Fall drama opens in Jackson",
+  "whyCareScore": 8.9,
+  "whyCareReason": "Following Team USA's Presidents Cup victory, the PGA Tour Fall swing moves to Jackson where livelihood and PGA Tour cards are on the line.",
+  "teaser": "Thursday 1 October to Sunday 4 October at Country Club of Jackson. The FedExCup Fall swing intensifies as pros battle for top-125 card security.",
+  "story": "Why this one matters: With the euphoria of Team USA's 18.5-11.5 Presidents Cup victory at Medinah in the rearview mirror, professional golf returns to its most visceral battlefield: the FedExCup Fall.\n\nThe Sanderson Farms Championship in Jackson, Mississippi represents real careers on the line. For players ranked between 51 and 125, every birdie at Country Club of Jackson carries immense value, offering guaranteed starts for 2027 and access to multimillion-dollar Signature Events.\n\nThe tournament has established a proud reputation as a launching pad for future stars, from Sam Burns and Cameron Champ to Kevin Yu. With 500 FedExCup points to the winner, Sunday in Jackson will produce life-changing moments.",
+  "stakes": "The winner earns a two-year PGA Tour exemption, entry into the Sentry and PGA Championship, and crucial FedExCup points.",
+  "rivalryAngle": "High-stakes individual survival: fringe tour members versus seasoned veterans protecting their playing privileges.",
+  "home": "Country Club of Jackson",
+  "away": "FedExCup Fall field",
+  "group": "PGA",
+  "date": "2026-10-01",
+  "time": "08:00",
+  "venue": "Country Club of Jackson",
+  "city": "Jackson",
+  "status": "UPCOMING",
+  "sport": "golf",
+  "competition": "pga-tour-2026"
+}

@@ -1,0 +1,77 @@
+{
+  "funFacts": [
+    "Manchester City are the only team in the Premier League with a perfect 6-0-0 record.",
+    "Erling Haaland has scored 10 goals in six Premier League matches this season.",
+    "Brentford have remained unbeaten at home across their opening three fixtures."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Erling Haaland",
+      "team": "Manchester City",
+      "hook": "Lethal Norwegian striker aiming to extend his scoring streak to seven consecutive matches."
+    },
+    {
+      "name": "Bryan Mbeumo",
+      "team": "Brentford",
+      "hook": "Bees talisman carrying Brentford's counter-attacking threat at Gtech Community Stadium."
+    }
+  ],
+  "headToHead": "Manchester City did the double over Brentford in 2023-24, though Brentford won both fixtures the season prior.",
+  "tags": [
+    "premier-league",
+    "manchester-city",
+    "brentford",
+    "haaland"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026/27",
+  "roundLabel": "Matchweek 7",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "PremierLeague.com: Matchweek 7 fixture list",
+      "url": "https://www.premierleague.com/fixtures"
+    },
+    {
+      "name": "BBC Sport: Premier League preview",
+      "url": "https://www.bbc.co.uk/sport/football/premier-league"
+    },
+    {
+      "name": "Manchester City FC: Brentford preview",
+      "url": "https://www.mancity.com/fixtures/mens"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "manchester-city-vs-brentford-mw7-2026",
+  "headline": "Brentford vs Manchester City: Haaland aims for seventh straight win in Matchweek 7",
+  "whyCareScore": 9.1,
+  "whyCareReason": "Manchester City seek to maintain their 100% record and protect their three-point lead over Arsenal as Erling Haaland pursues more scoring milestones.",
+  "teaser": "Saturday 3 October, 15:00 at Gtech Community Stadium. Pep Guardiola takes his perfect 6-0-0 leaders to West London for Matchweek 7.",
+  "story": "Why this one matters: Matchweek 7 of the Premier League season sees runaway leaders Manchester City visit Gtech Community Stadium aiming to make it seven wins from seven.\n\nPep Guardiola's side sits alone at the top of the table on 18 points, three clear of second-placed Arsenal. Erling Haaland has been in irrepressible form, scoring 10 goals in six games, including the decisive brace against Newcastle in Matchweek 6.\n\nThomas Frank's Brentford present an awkward challenge on their home turf. With Bryan Mbeumo and Yoane Wissa leading a fast-transition attack, the Bees have repeatedly troubled elite sides in West London. With Arsenal and Liverpool lurking close behind, City cannot afford complacency.",
+  "stakes": "A win maintains City's three-point cushion at the summit; any slip opens the door for Arsenal to draw level.",
+  "rivalryAngle": "Guardiola's relentless machine visits one of the most stubborn tactical setups in the Premier League.",
+  "home": "Brentford",
+  "away": "Manchester City",
+  "group": "PL",
+  "date": "2026-10-03",
+  "time": "15:00",
+  "venue": "Gtech Community Stadium",
+  "city": "London",
+  "status": "UPCOMING",
+  "sport": "soccer",
+  "competition": "premier-league-2026-27"
+}

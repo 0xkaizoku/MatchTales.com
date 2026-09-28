@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-28",
+  "asOf": "2026-09-29",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -437,7 +437,14 @@
       "time": "8:15 p.m. ET",
       "home": "Philadelphia Eagles",
       "away": "Dallas Cowboys",
-      "note": "Monday Night Football at Lincoln Financial Field. Hurts and Eagles host Prescott and Cowboys in NFC East battle."
+      "note": "FINAL: Eagles 24, Cowboys 20. Hurts 2 total TDs, Barkley 116 rush yds. Graham late 4th-down stop."
+    },
+    {
+      "date": "2026-10-01",
+      "time": "8:15 p.m. ET",
+      "home": "San Francisco 49ers",
+      "away": "Los Angeles Rams",
+      "note": "Thursday Night Football: NFC West rivals clash at Levi's Stadium to open Week 4."
     }
   ],
   "usOpenQF": [

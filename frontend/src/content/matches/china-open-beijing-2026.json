@@ -1,0 +1,78 @@
+{
+  "funFacts": [
+    "The China Open features simultaneous ATP 500 and WTA 1000 tournaments in Beijing.",
+    "Jannik Sinner arrives as defending champion and current world No. 1.",
+    "Elena Rybakina makes her first tournament appearance since lifting the US Open trophy."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Jannik Sinner",
+      "team": "ATP",
+      "hook": "World No. 1 headlines the men's field in Beijing seeking back-to-back China Open titles."
+    },
+    {
+      "name": "Carlos Alcaraz",
+      "team": "ATP",
+      "hook": "Fresh off his Laver Cup championship-clinching heroics in London, Alcaraz targets the Asian swing crown."
+    }
+  ],
+  "headToHead": "Sinner and Alcaraz have developed one of the sport's greatest rivalries, splitting their previous meetings.",
+  "tags": [
+    "tennis",
+    "atp",
+    "wta",
+    "china-open",
+    "beijing"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Main Draw Opening Round",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ATP Tour: 2026 China Open tournament preview",
+      "url": "https://www.atptour.com/en/tournaments/beijing/747/overview"
+    },
+    {
+      "name": "WTA Tennis: China Open draw and schedule",
+      "url": "https://www.wtatennis.com/tournament/1020/beijing"
+    },
+    {
+      "name": "China Open official portal",
+      "url": "http://www.chinaopen.com/en/"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "china-open-beijing-2026",
+  "headline": "China Open 2026: Sinner and Alcaraz headline Beijing main draw",
+  "whyCareScore": 9.3,
+  "whyCareReason": "The Asian hardcourt swing begins at the National Tennis Center with world No. 1 Jannik Sinner and Carlos Alcaraz leading a star-studded draw.",
+  "teaser": "Tuesday 29 September: Qualifying wraps up and the main draw begins at the National Tennis Center in Beijing. Sinner, Alcaraz, Rybakina, and Sabalenka lead the field.",
+  "story": "Why this one matters: Just 48 hours after Team Europe hoisted the Laver Cup trophy at The O2 in London, the elite of world tennis touches down in the Chinese capital for the prestigious 2026 China Open at the National Tennis Center.\n\nJannik Sinner returns to Beijing as the defending champion and world No. 1, looking to solidify his year-end ranking. Close on his heels is Carlos Alcaraz, whose dramatic victory over Taylor Fritz in London secured the Laver Cup for Bjorn Borg's team. Together with Daniil Medvedev and Alexander Zverev, the ATP 500 draw presents major-tournament caliber competition.\n\nOn the women's side, the WTA 1000 draw is equally loaded. Newly crowned US Open champion Elena Rybakina and two-time major winner Aryna Sabalenka headline the action on Diamond Court, with Olympic hero Zheng Qinwen enjoying deafening home support.",
+  "stakes": "Crucial 500 and 1000 ranking points determine qualification for the season-ending ATP and WTA Finals in Turin and Riyadh.",
+  "rivalryAngle": "Sinner and Alcaraz renew their global chess match as the tour shifts to the outdoor hardcourts of Asia.",
+  "home": "Jannik Sinner",
+  "away": "Carlos Alcaraz",
+  "group": "ATP",
+  "date": "2026-09-29",
+  "time": "11:00",
+  "venue": "National Tennis Center",
+  "city": "Beijing",
+  "status": "UPCOMING",
+  "sport": "tennis",
+  "competition": "atp-wta-beijing-2026"
+}

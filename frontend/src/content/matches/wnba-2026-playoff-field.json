@@ -1,27 +1,28 @@
 {
   "funFacts": [
-    "Playoffs begin Sunday 27 September 2026.",
-    "Minnesota Lynx clinch No. 1 overall seed at 32-10.",
-    "Caitlin Clark and Indiana Fever (27-15, No. 5 seed) face Atlanta Dream (28-14, No. 4 seed) in Round 1."
+    "WNBA Round 1 is contested in a high-pressure best-of-three format.",
+    "Caitlin Clark posted 24 points and 11 assists in Indiana's 86-80 Game 1 victory.",
+    "Minnesota Lynx can clinch a semifinal berth with a Game 2 win at Target Center."
   ],
   "keyPlayers": [
     {
-      "name": "Minnesota Lynx",
-      "team": "Lynx",
-      "hook": "32-10, No. 1 seed, eyeing redemption after regular season finale."
+      "name": "Caitlin Clark",
+      "team": "Fever",
+      "hook": "Leads Indiana into Game 2 aiming to complete a two-game sweep over Atlanta."
     },
     {
-      "name": "Indiana Fever",
-      "team": "Fever",
-      "hook": "27-15, No. 5 seed, powered by Caitlin Clark into Round 1 clash with Atlanta."
+      "name": "Napheesa Collier",
+      "team": "Lynx",
+      "hook": "Top-seeded Lynx superstar looking to close out Washington following a 26-point Game 1."
     }
   ],
-  "headToHead": "",
+  "headToHead": "Indiana has won four of five meetings against Atlanta across the 2026 season.",
   "tags": [
     "wnba",
-    "lynx",
     "fever",
-    "playoffs"
+    "lynx",
+    "playoffs",
+    "clark"
   ],
   "homeCode": null,
   "awayCode": null,
@@ -35,43 +36,43 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Round 1 Game 1 Results",
-  "resultSummary": "Fever 86-80 Dream, Lynx 84-69 Mystics, Liberty 79-71 Valkyries, Aces 92-81 Wings",
+  "roundLabel": "Round 1 Game 2 Elimination",
+  "resultSummary": "Fever lead 1-0, Lynx lead 1-0, Liberty lead 1-0, Aces lead 1-0",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "WNBA.com: 2026 playoff bracket and scores",
+      "name": "WNBA.com: 2026 playoff bracket and schedule",
       "url": "https://www.wnba.com/standings"
     },
     {
-      "name": "ESPN: WNBA Round 1 live coverage",
+      "name": "ESPN: WNBA Round 1 Game 2 schedule",
       "url": "https://www.espn.com/wnba/scoreboard"
     },
     {
-      "name": "Wikipedia: 2026 WNBA playoffs",
-      "url": "https://en.wikipedia.org/wiki/2026_WNBA_playoffs"
+      "name": "Indianapolis Star: Fever seek sweep in Atlanta",
+      "url": "https://www.indystar.com/sports/fever/game2-preview-2026"
     }
   ],
   "format": "team-match",
   "homeScore": null,
   "awayScore": null,
   "slug": "wnba-2026-playoff-field",
-  "headline": "WNBA Playoffs Game 1: Fever, Lynx, Liberty, and Aces seize opening victories",
-  "whyCareScore": 9.4,
-  "whyCareReason": "Caitlin Clark leads Indiana to an 86-80 road victory in Atlanta while Minnesota, New York, and Las Vegas secure Game 1 home wins.",
-  "teaser": "FINAL: Fever 86-80 Dream, Lynx 84-69 Mystics, Liberty 79-71 Valkyries, Aces 92-81 Wings. Game 2 elimination pressure begins.",
-  "story": "Why this one matters: Round 1 of the 2026 WNBA Playoffs delivered immediate drama on Sunday as Caitlin Clark and the Indiana Fever stole home-court advantage with an 86-80 victory over the Atlanta Dream at Gateway Center Arena.\n\nClark tallied 24 points and 11 assists, hitting two crucial step-back three-pointers in the final two minutes to hold off an Atlanta comeback. In Minneapolis, the top-seeded Minnesota Lynx suffocated the Washington Mystics in an 84-69 rout led by Napheesa Collier's 26 points.\n\nAt Chase Center, Breanna Stewart and the New York Liberty fended off the Golden State Valkyries 79-71, while the defending champion Las Vegas Aces defeated the Dallas Wings 92-81 behind A'ja Wilson's 28 points. With the opening round contested as best-of-three, all four trailing teams now face must-win Game 2 scenarios.",
-  "stakes": "Indiana, Minnesota, New York, and Las Vegas take 1-0 series leads in the best-of-three opening round.",
-  "rivalryAngle": "Playoff intensity peaks as road underdogs and top seeds battle for second-round berths.",
-  "home": "Minnesota Lynx",
-  "away": "Playoff field",
+  "headline": "WNBA Playoffs Game 2: Fever and Lynx seek sweeps as Dream face elimination",
+  "whyCareScore": 9.5,
+  "whyCareReason": "Caitlin Clark and Indiana can clinch a semifinal berth in Atlanta, while Napheesa Collier leads top-seeded Minnesota seeking to eliminate Washington.",
+  "teaser": "Game 2 Tuesday 29 September: Fever at Dream (7:30 p.m. ET) and Mystics at Lynx (8:00 p.m. ET). Win-or-go-home pressure arrives in the WNBA playoffs.",
+  "story": "Why this one matters: Game 2 of the 2026 WNBA Playoffs opening round arrives Tuesday night with elimination hanging over two contenders.\n\nIn Atlanta, Caitlin Clark and the Indiana Fever take a 1-0 series lead into Gateway Center Arena following Sunday's 86-80 road triumph. The Dream, powered by Allisha Gray and Rhyne Howard, must defend home court to force a decisive Game 3 back in Indianapolis. Clark's poise against Atlanta's trapping defense will decide whether Indiana sweeps into the semifinals.\n\nMeanwhile at Target Center, the top-seeded Minnesota Lynx host the Washington Mystics with a sweep in sight. Napheesa Collier dominated Game 1 with 26 points, and Cheryl Reeve's squad looks to close out the series without needing a third game.",
+  "stakes": "Fever and Lynx can become the first teams to punch tickets to the 2026 WNBA semifinals with victories tonight.",
+  "rivalryAngle": "Sudden-death playoff basketball: the Dream and Mystics fight for their seasons against high-flying contenders.",
+  "home": "Atlanta Dream",
+  "away": "Indiana Fever",
   "group": "WNBA",
-  "date": "2026-09-27",
-  "time": "13:00",
-  "venue": "Target Center",
-  "city": "Minneapolis",
-  "status": "FINISHED",
+  "date": "2026-09-29",
+  "time": "19:30",
+  "venue": "Gateway Center Arena",
+  "city": "Atlanta",
+  "status": "UPCOMING",
   "sport": "basketball",
   "competition": "wnba-2026"
 }

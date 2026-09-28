@@ -3598,7 +3598,560 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+  'eagles-cowboys-mnf-week3-final-2026': {
+    fr: {
+      title: 'Eagles 24-20 Cowboys : Hurts et Barkley scellent le thriller du Monday Night pour clore la 3e semaine',
+      subtitle: 'La défense de Philadelphie stoppe Dallas en quatrième tentative pour valider un bilan de 2-1 et la 2e place en NFC Est.',
+      excerpt: 'Le Monday Night Football clôt la 3e semaine avec la victoire des Eagles 24-20 contre Dallas grâce à Jalen Hurts, Saquon Barkley et un arrêt défensif décisif.',
+      body: [
+        'La 3e semaine de la saison NFL 2026 s’est terminée sur un duel acharné, et Philadelphie a tenu bon pour s’imposer 24-20 face aux Dallas Cowboys dans un Lincoln Financial Field en fusion.',
+        'Jalen Hurts a cumulé 240 yards à la passe et un touchdown, tout en signant son 45e touchdown au sol en carrière. Saquon Barkley a porté l’attaque avec 116 yards en 22 courses et un touchdown décisif de 18 yards au quatrième quart-temps.',
+        'Dak Prescott (262 yards, 2 TD pour CeeDee Lamb) a ramené Dallas à quatre longueurs, mais Brandon Graham et Jalen Carter ont stoppé les Cowboys sur quatrième tentative à 1:12 de la fin. Philadelphie monte à 2-1 tandis que Dallas glisse à 1-2.',
+      ],
+    },
+    es: {
+      title: 'Eagles 24-20 Cowboys: Hurts y Barkley sellan el triunfo en Monday Night para cerrar la semana 3',
+      subtitle: 'La defensa de Filadelfia frena a Dallas en cuarta oportunidad para asegurar récord de 2-1 y segundo lugar en la NFC Este.',
+      excerpt: 'Monday Night Football concluye la semana 3 con la victoria de Eagles 24-20 sobre Dallas de la mano de Jalen Hurts, Saquon Barkley y una parada defensiva crucial.',
+      body: [
+        'La semana 3 de la NFL cerró con una de las mayores rivalidades del deporte, y Filadelfia resistió con firmeza para vencer 24-20 a los Dallas Cowboys ante un Lincoln Financial Field encendido.',
+        'Jalen Hurts sumó 240 yardas por aire y una anotación, además de su 45º touchdown terrestre de por vida. Saquon Barkley lideró el ataque con 116 yardas en 22 acarreos y un touchdown determinante de 18 yardas en el último periodo.',
+        'Dak Prescott (262 yardas, 2 TD con CeeDee Lamb) acercó a Dallas, pero Brandon Graham y Jalen Carter detuvieron a los Cowboys en cuarta oportunidad con 1:12 en el reloj. Filadelfia queda 2-1 y Dallas cae a 1-2.',
+      ],
+    },
+    de: {
+      title: 'Eagles 24:20 Cowboys: Hurts und Barkley entscheiden Monday-Night-Krimi zum Abschluss von Woche 3',
+      subtitle: 'Philadelphias Defense stoppt Dallas im vierten Versuch und sichert 2:1-Bilanz sowie Rang zwei in der NFC East.',
+      excerpt: 'Monday Night Football schließt Woche 3 mit einem 24:20-Sieg der Eagles über Dallas ab, angeführt von Hurts, Barkley und einem späten Stopp.',
+      body: [
+        'Woche 3 der NFL-Saison 2026 endete mit einem packenden Divisionsduell: Die Philadelphia Eagles besiegten die Dallas Cowboys mit 24:20 im Lincoln Financial Field.',
+        'Jalen Hurts warf für 240 Yards und einen Touchdown und erzielte seinen 45. Regular-Season-Lauf-Touchdown. Saquon Barkley dominierte mit 116 Rushing Yards bei 22 Versuchen und einem 18-Yard-Score im Schlussviertel.',
+        'Dak Prescott (262 Yards, 2 TD auf CeeDee Lamb) brachte Dallas heran, doch Brandon Graham und Jalen Carter erzwangen 1:12 Minuten vor Ende einen Turnover on Downs. Philadelphia klettert auf 2-1, Dallas fällt auf 1-2.',
+      ],
+    },
+    it: {
+      title: 'Eagles 24-20 Cowboys: Hurts e Barkley firmano il Monday Night e chiudono la week 3',
+      subtitle: 'La difesa di Philadelphia ferma Dallas al quarto down e conquista il record di 2-1 al secondo posto nella NFC East.',
+      excerpt: 'Il Monday Night Football manda in archivio la week 3 con il successo degli Eagles per 24-20 su Dallas firmato da Hurts, Barkley e dalla difesa.',
+      body: [
+        'La terza settimana NFL si è chiusa con un classico della NFC East: gli Eagles hanno superato i Dallas Cowboys per 24-20 davanti al pubblico del Lincoln Financial Field.',
+        'Jalen Hurts ha accumulato 240 yard su passaggio con un touchdown e ha segnato la sua 45ª meta su corsa in carriera. Saquon Barkley ha trascinato l’attacco con 116 yard su 22 portate e la corsa decisiva da 18 yard nell’ultimo quarto.',
+        'Dak Prescott (262 yard e 2 TD per CeeDee Lamb) ha tentato la rimonta, ma Brandon Graham e Jalen Carter hanno sigillato la gara fermando i texani su quarto down a 1:12 dalla fine. Philadelphia sale a 2-1, Dallas scende a 1-2.',
+      ],
+    },
+    pl: {
+      title: 'Eagles 24-20 Cowboys: Hurts i Barkley pieczętują triumf w Monday Night na koniec 3. tygodnia',
+      subtitle: 'Obrona Filadelfii zatrzymuje Dallas w czwartej próbie i zapewnia bilans 2-1 oraz drugie miejsce w NFC East.',
+      excerpt: 'Monday Night Football kończy 3. tydzień wygraną Eagles 24-20 nad Dallas dzięki znakomitej postawie Hurtsa, Barkleya i kluczowemu zatrzymaniu w obronie.',
+      body: [
+        'Trzeci tydzień sezonu NFL 2026 zamknął się wielkim starciem dywizyjnym, w którym Philadelphia Eagles pokonała Dallas Cowboys 24-20 na Lincoln Financial Field.',
+        'Jalen Hurts zanotował 240 jardów podaniowych, przyłożenie górą oraz swoje 45. przyłożenie dołem w karierze. Saquon Barkley wywalczył 116 jardów w 22 biegach i decydujące 18-jardowe przyłożenie w czwartej kwarcie.',
+        'Dak Prescott (262 jardy, 2 TD do CeeDee Lamba) poderwał Cowboys do ataku, lecz Brandon Graham i Jalen Carter zatrzymali akcję na 1:12 przed końcem. Eagles osiągają bilans 2-1, a Dallas spada na 1-2.',
+      ],
+    },
+    zh: {
+      title: '老鹰 24-20 牛仔：赫茨与巴克利决胜周一之夜，第3周战幕落下',
+      subtitle: '费城防线终场前四档防守成功锁定胜局，以2胜1负位列国联东区次席。',
+      excerpt: '周一橄榄球夜落下第3周帷幕，费城老鹰在主场以24-20击退达拉斯牛仔，赫茨与巴克利合力统治进攻端。',
+      body: [
+        '2026年NFL常规赛第3周在林肯金融球场的火爆氛围中收官，费城老鹰以24-20力克劲敌达拉斯牛仔。',
+        '四分卫赫茨贡献240码传球与1次达阵，并完成个人常规赛生涯第45次冲球达阵。巴克利全场狂奔116码，并在第四节完成18码致胜冲球得分。',
+        '普雷斯科特虽送出262码及2次达阵追近比分，但在比赛仅剩1分12秒时，老鹰防线成功阻截牛仔的四档强攻，将战绩提升至2胜1负，牛仔战绩降为1胜2负。',
+      ],
+    },
+    ja: {
+      title: 'イーグルス 24-20 カウボーイズ：ハーツとバークリーがMNF激闘を制し第3週終幕',
+      subtitle: 'フィラデルフィア守備陣が終盤の4thダウンを阻止し2勝1敗でNFC東地区2位を確保。',
+      excerpt: 'マンデーナイトフットボールでイーグルスがカウボーイズを24-20で撃破。ハーツとバークリーの活躍でNFL第3週が完結。',
+      body: [
+        '2026年NFL第3週は激闘のNFC東地区ライバル対決で幕を閉じ、イーグルスが本拠地リンカーン・フィナンシャル・フィールドで24-20の勝利を収めた。',
+        'QBハーツはパス240ヤードと1TD、さらに通算45個目となるランTDを記録。RBバークリーは22回116ヤードの力走と第4Qの18ヤード決定打TDで試合を支配した。',
+        'カウボーイズのプレスコットはラムへ2本のTDパスを通すも、残り1分12秒での4thダウンギャンブルをグラハムらの堅守が阻止。フィラデルフィアが2勝1敗とした。',
+      ],
+    },
+    ko: {
+      title: '이글스 24-20 카우보이스: 허츠와 바클리, 먼데이 나이트 혈투 끝내며 3주 차 마무리',
+      subtitle: '필라델피아 수비진의 경기 막판 4th 다운 저지로 2승 1패 및 NFC 동부 2위 확보.',
+      excerpt: '필라델피아 이글스가 먼데이 나이트 풋볼에서 댈러스 카우보이스를 24-20으로 꺾고 NFL 3주 차를 마감했다.',
+      body: [
+        '2026 NFL 3주 차 마지막 경기에서 필라델피아 이글스가 링컨 파이낸셜 필드에서 댈러스 카우보이스를 24-20으로 제압했다.',
+        '제일런 허츠는 패스 240야드 1TD와 통산 45번째 러싱 TD를 기록했고, 사콴 바클리는 22번의 러싱으로 116야드와 4쿼터 결승 18야드 TD를 폭발시켰다.',
+        '프레스콧이 램과 2개의 터치다운을 합작하며 추격했으나 경기 종료 1분 12초 전 이글스 수비진이 4th 다운 공격을 막아내며 승리를 확정지었다.',
+      ],
+    },
+    ar: {
+      title: 'إيغلز 24-20 كاوبويز: هيرتس وباركلي يحسمان إثارة ليلة الإثنين في ختام الأسبوع الثالث',
+      subtitle: 'دفاع فيلادلفيا يوقف محاولة دالاس في المحاولة الرابعة ليضمن سجل 2-1 والمركز الثاني في الشرق.',
+      excerpt: 'اختتمت منافسات الأسبوع الثالث من دوري كرة القدم الأمريكية بفوز إيغلز 24-20 على كاوبويز بفضل تألق هيرتس وباركلي وتصدي دفاعي حاسم.',
+      body: [
+        'اختتم الأسبوع الثالث من موسم NFL 2026 بقمة نارية تفوق فيها فيلادلفيا إيغلز على دالاس كاوبويز بنتيجة 24-20 على ملعب لينكون فاينانشال فيلد.',
+        'حقق جايلن هيرتس 240 ياردة تمريرية وسجل هدف الركض رقم 45 في مسيرته، في حين أبدع ساكوان باركلي بحصده 116 ياردة وهبوطا حاسما في الربع الأخير.',
+        'ورغم جهود داك بريسكوت وتمريرتيه الحاسمين لسيدي لامب، أوقف دفاع إيغلز هجوم دالاس عند المحاولة الرابعة قبل 1:12 دقيقة من النهاية ليرفع رصيده إلى انتصارين وهزيمة.',
+      ],
+    },
+  },
+  'wnba-playoffs-game2-elimination-fever-dream-2026': {
+    fr: {
+      title: 'Play-offs WNBA Match 2 : Caitlin Clark et le Fever visent le sweep face au Dream dos au mur',
+      subtitle: 'Atlanta joue sa survie à domicile tandis qu’Indiana espère boucler la série du premier tour.',
+      excerpt: 'Mardi soir s’annoncent les matches 2 couperets en WNBA : Caitlin Clark et le Fever peuvent rallier les demi-finales dès ce soir.',
+      body: [
+        'Le premier tour des play-offs WNBA 2026 ne laisse aucun répit : ce mardi soir à Atlanta, le Dream dispute déjà un match à élimination directe contre l’Indiana Fever.',
+        'Vainqueur 86-80 dimanche grâce à 24 points et 11 passes de Caitlin Clark, Indiana mène 1-0 dans cette série au meilleur des trois manches et peut décrocher son ticket pour les demi-finales.',
+        'À Minneapolis, les Minnesota Lynx mènent également 1-0 face aux Washington Mystics après la démonstration de Napheesa Collier, avec la qualification en ligne de mire.',
+      ],
+    },
+    es: {
+      title: 'Playoffs WNBA Partido 2: Caitlin Clark y Fever buscan barrer al Dream contra las cuerdas',
+      subtitle: 'Atlanta encara la eliminación en casa mientras Indiana pretende liquidar la primera ronda.',
+      excerpt: 'El martes llega la tensión del Juego 2 en los playoffs de la WNBA con Indiana y Minnesota buscando asegurar su pase a semifinales.',
+      body: [
+        'La primera ronda de los playoffs WNBA 2026 avanza sin descanso: este martes en Atlanta, el Dream afronta un duelo de vida o muerte frente a Indiana Fever.',
+        'Tras ganar 86-80 el domingo con 24 puntos y 11 asistencias de Caitlin Clark, Indiana lidera 1-0 la serie al mejor de tres y puede sellar su boleto a semifinales.',
+        'En Minneapolis, Minnesota Lynx también comanda 1-0 su cruce ante Washington Mystics tras la brillante actuación de Napheesa Collier y busca barrer la serie.',
+      ],
+    },
+    de: {
+      title: 'WNBA-Playoffs Spiel 2: Caitlin Clark und die Fever wollen den Sweep gegen die Dream',
+      subtitle: 'Atlanta steht zu Hause vor dem Saisonaus, während Indiana den Halbfinaleinzug perfekt machen kann.',
+      excerpt: 'Am Dienstagabend droht das Aus im WNBA-Playoff-Auftakt: Caitlin Clark und Indiana können mit einem Sieg in Atlanta die Serie entscheiden.',
+      body: [
+        'Die WNBA-Playoffs 2026 kennen kein langes Abtasten: Am Dienstagabend steht für die Atlanta Dream im Duell mit den Indiana Fever die Saison auf dem Spiel.',
+        'Nach dem 86:80-Auftaktsieg am Sonntag, angeführt von Caitlin Clarks 24 Punkten und 11 Assists, führt Indiana in der Best-of-Three-Serie mit 1:0 und kann den Halbfinaleinzug klarmachen.',
+        'In Minneapolis empfangen die topgesetzten Minnesota Lynx die Washington Mystics mit einer 1:0-Führung im Rücken und wollen nach Colliers Gala ebenfalls den Sweep.',
+      ],
+    },
+    it: {
+      title: 'Playoff WNBA Gara 2: Caitlin Clark e le Fever puntano allo sweep contro le Dream a rischio eliminazione',
+      subtitle: 'Atlanta si gioca la stagione in casa mentre Indiana cerca il pass per le semifinali.',
+      excerpt: 'Martedì sera di gara 2 nei playoff WNBA: Caitlin Clark e Indiana possono chiudere la serie e volare al turno successivo.',
+      body: [
+        'Il primo turno dei playoff WNBA 2026 è subito da dentro o fuori: martedì sera ad Atlanta le Dream affrontano l’eliminazione contro le Indiana Fever.',
+        'Dopo l’86-80 di domenica firmato dai 24 punti e 11 assist di Caitlin Clark, Indiana conduce 1-0 nella serie al meglio delle tre gare e ha il match point.',
+        'A Minneapolis le Minnesota Lynx ospitano le Washington Mystics forti dell’1-0 firmato Napheesa Collier e puntano a chiudere i conti senza arrivare a gara 3.',
+      ],
+    },
+    pl: {
+      title: 'Play-offy WNBA Mecz 2: Caitlin Clark i Fever chcą zamknąć serię z Dream',
+      subtitle: 'Atlanta gra o przetrwanie u siebie, a Indiana celuje w błyskawiczny awans do półfinału.',
+      excerpt: 'Wtorkowe mecze nr 2 w play-offach WNBA przynoszą walkę o przetrwanie: Fever i Lynx mogą już dziś zapewnić sobie awans.',
+      body: [
+        'Pierwsza runda play-offów WNBA 2026 nie wybacza błędów: we wtorek w Atlancie miejscowe Dream stają przed widmem odpadnięcia w starciu z Indiana Fever.',
+        'Po zwycięstwie 86-80 w niedzielę, w którym Caitlin Clark zdobyła 24 punkty i 11 asyst, Indiana prowadzi 1-0 w serii do dwóch zwycięstw i stoi przed szansą na awans.',
+        'W Minneapolis najwyżej rozstawione Minnesota Lynx prowadzą 1-0 z Washington Mystics i po znakomitej grze Napheesy Collier także chcą przypieczętować awans.',
+      ],
+    },
+    zh: {
+      title: 'WNBA季后赛第2战：克拉克率狂热冲击横扫，梦想背水一战',
+      subtitle: '亚特兰大主场迎来生死决战，印第安纳期盼连胜提前锁定半决赛席位。',
+      excerpt: 'WNBA首轮第2场较量于周二打响，克拉克与狂热力争横扫梦想，山猫同样手握赛点迎战神秘人。',
+      body: [
+        '2026年WNBA季后赛首轮争夺白热化：周二晚间，亚特兰大梦想在主场迎来关乎赛季命运的生死决战。',
+        '凭借克拉克首战24分11次助攻的神勇表现，印第安纳狂热在客场以86-80先拔头筹，在三战两胜制系列赛中占据赛点。',
+        '在明尼阿波利斯，头号种子明尼苏达山猫同样以1-0领先华盛顿神秘人，科利尔状态正佳，全力争取横扫晋级。',
+      ],
+    },
+    ja: {
+      title: 'WNBAプレーオフ第2戦：クラーク擁するフィーバーがスイープ狙う、ドリームは崖っぷち',
+      subtitle: 'アトランタがホームで背水の陣、インディアナは開幕節でのセミファイナル進出に王手。' ,
+      excerpt: '火曜日にWNBAプレーオフ第2戦が開催。ケイトリン・クラークとフィーバーがドリーム撃破で4強入りを目指す。',
+      body: [
+        '2026年WNBAプレーオフ第1ラウンドは火曜夜、早くもサドンデスを迎える。アトランタ・ドリームが本拠地で敗退の危機に直面。',
+        '初戦で24得点11アシストを叩き出したケイトリン・クラークの活躍により、フィーバーは86-80で先勝し1勝0敗で準決勝進出へあと1勝。',
+        'ミネアポリスでも第1シードのリンクスがミスティクスを1勝0敗と追い詰めており、コリアーを中心に連勝突破を期す。',
+      ],
+    },
+    ko: {
+      title: 'WNBA 플레이오프 2차전: 케이틀린 클라크의 피버, 드림 상대 스윕 및 4강 조기 확정 정조준',
+      subtitle: '애틀랜타 홈에서 벼랑 끝 탈락 위기, 인디애나는 1라운드 조기 통과 노린다.',
+      excerpt: '화요일 WNBA 플레이오프 2차전에서 인디애나 피버와 미네소타 링스가 2연승으로 준결승 진출 확정을 노린다.',
+      body: [
+        '2026 WNBA 플레이오프 1라운드가 화요일 밤 단판 탈락의 긴장감 속에 2차전에 돌입한다. 애틀랜타 드림이 홈에서 배수의 진을 친다.',
+        '1차전에서 24점 11어시스트를 폭발시킨 케이틀린 클라크의 활약으로 86-80 승리를 거둔 피버는 3전 2선승제에서 1승만 더하면 4강에 오른다.',
+        '미니애폴리스의 1번 시드 미네소타 링스 역시 나피사 콜리어를 앞세워 워싱턴 미스틱스를 상대로 스윕을 노린다.',
+      ],
+    },
+    ar: {
+      title: 'تصفيات WNBA المباراة الثانية: كايتلين كلارك وفيفر يتطلعان لحسم التأهل أمام دريم',
+      subtitle: 'أتلانتا يواجه خطر الإقصاء على أرضه بينما يسعى إنديانا لبلوغ نصف النهائي مبكرا.',
+      excerpt: 'تنطلق مواجهات المباراة الثانية في تصفيات دوري السلة النسائي الأمريكي حيث يقترب فيفر ولينكس من حسم بطاقتي نصف النهائي.',
+      body: [
+        'تشهد تصفيات WNBA 2026 ليلة حاسمة يوم الثلاثاء في أتلانتا حيث يخوض فريق دريم مواجهة البقاء أمام إنديانا فيفر.',
+        'بعد الفوز 86-80 يوم الأحد بفضل 24 نقطة و11 تمريرة حاسمة من كايتلين كلارك، يتقدم فيفر 1-0 ويحتاج إلى انتصار واحد للتأهل.',
+        'وفي مينيابوليس، يسعى مينيسوتا لينكس المتصدر إلى تكرار فوزه على واشنطن ميستيكس بعد تألق نافيسا كوليير في المباراة الأولى.',
+      ],
+    },
+  },
+  'premier-league-mw7-preview-haaland-city-march-2026': {
+    fr: {
+      title: 'Présentation Premier League J7 : Haaland et City visent un septième succès de rang',
+      subtitle: 'L’équipe de Guardiola défend son sans-faute à Brentford pendant qu’Arsenal et Liverpool restent en embuscade.',
+      excerpt: 'Manchester City caracole en tête de Premier League avec 18 points alors qu’Erling Haaland affole les compteurs avant la 7e journée.',
+      body: [
+        'Après six journées en Premier League 2026-27, Manchester City réalise un sans-faute absolu avec six victoires et 18 points au compteur.',
+        'Erling Haaland affiche une forme stratosphérique avec 10 buts en 6 rencontres, guidant l’armada de Pep Guardiola avant le déplacement à Brentford samedi.',
+        'Arsenal (15 pts) et Liverpool (12 pts) attendent le moindre faux pas des Skyblues pour combler l’écart au sommet du classement.',
+      ],
+    },
+    es: {
+      title: 'Previa Premier League Jornada 7: Haaland y City buscan el pleno de siete victorias',
+      subtitle: 'El conjunto de Guardiola defiende su liderato perfecto en Brentford mientras Arsenal y Liverpool acechan.',
+      excerpt: 'Manchester City lidera en solitario con 18 puntos gracias a un Erling Haaland imparable de cara a la séptima jornada liguera.',
+      body: [
+        'Cumplidas seis fechas de la Premier League 2026-27, el Manchester City domina con autoridad gracias a seis triunfos en seis partidos y 18 puntos.',
+        'Erling Haaland encabeza la tabla con 10 goles en 6 jornadas y será la gran amenaza de los citizens en su visita al Brentford este sábado.',
+        'Arsenal, segundo con 15 puntos, y Liverpool, tercero con 12, no pueden permitirse tropezar si quieren mantener viva la pugna por el título.',
+      ],
+    },
+    de: {
+      title: 'Premier-League-Vorschau Spieltag 7: Haaland und City wollen den siebten Streich in Folge',
+      subtitle: 'Guardiolas Elf verteidigt die weiße Weste bei Brentford, während Arsenal und Liverpool auf Ausrutscher lauern.',
+      excerpt: 'Manchester City steht nach sechs Runden mit 18 Punkten makellos an der Premier-League-Spitze vor dem siebten Spieltag.',
+      body: [
+        'Nach sechs Spieltagen der Saison 2026-27 marschiert Manchester City mit der perfekten Ausbeute von 18 Punkten einsam vorneweg.',
+        'Erling Haaland dominiert die Torjägerliste mit unglaublichen 10 Treffern in 6 Spielen und führt Pep Guardiolas Team am Samstag nach Brentford.',
+        'Arsenal (15 Punkte) und Liverpool (12 Punkte) stehen unter Zugzwang und dürfen sich im Verfolgerfeld keine Schwächen leisten.',
+      ],
+    },
+    it: {
+      title: 'Anteprima Premier League 7ª giornata: Haaland e City a caccia del settimo sigillo consecutivo',
+      subtitle: 'La squadra di Guardiola difende il primato a punteggio pieno a Brentford con Arsenal e Liverpool all’inseguimento.',
+      excerpt: 'Il Manchester City comanda la Premier League a quota 18 punti grazie a uno scatenato Erling Haaland prima della 7ª giornata.',
+      body: [
+        'Dopo sei giornate di Premier League 2026-27, il Manchester City guida la classifica a punteggio pieno con 6 vittorie su 6 e 18 punti.',
+        'Erling Haaland viaggia a medie record con 10 gol in 6 partite e punta a trascinare i campioni anche nella trasferta sul campo del Brentford.',
+        'L’Arsenal a quota 15 e il Liverpool a 12 punti cercano continuità per non far scappare la corazzata di Pep Guardiola.',
+      ],
+    },
+    pl: {
+      title: 'Zapowiedź 7. kolejki Premier League: Haaland i City idą po siódme z rzędu zwycięstwo',
+      subtitle: 'Ekipa Guardioli broni kompletu punktów na wyjeździe z Brentford, a Arsenal i Liverpool gonią lidera.',
+      excerpt: 'Manchester City przewodzi tabeli Premier League z kompletem 18 punktów przed 7. kolejką, napędzany bramkami Erlinga Haalanda.',
+      body: [
+        'Po sześciu seriach gier Premier League 2026-27 Manchester City może pochwalić się perfekcyjnym bilansem sześciu zwycięstw i 18 punktów.',
+        'Erling Haaland z 10 golami w 6 występach bije kolejne rekordy strzeleckie przed sobotnim wyjazdem The Citizens na mecz z Brentford.',
+        'Arsenal (15 punktów) oraz Liverpool (12 punktów) muszą punktować bezbłędnie, by nie stracić kontaktu z bezwzględnymi mistrzami.',
+      ],
+    },
+    zh: {
+      title: '英超第7轮前瞻：哈兰德状态火热，曼城力争开季七连胜',
+      subtitle: '瓜迪奥拉率队做客布伦特福德捍卫全胜战绩，阿森纳与利物浦紧追不舍。',
+      excerpt: '曼城以6战全胜积18分领跑英超积分榜，哈兰德前6轮斩获10球剑指第七轮连胜。',
+      body: [
+        '2026-27赛季英超六轮战罢，曼城以无可挑剔的六连胜积18分傲视群雄。',
+        '当家射手哈兰德状态如日中天，6场轰入10球，本周六他将率领蓝月亮做客布伦特福德球场争夺开季七连胜。',
+        '阿森纳以15分紧随其后，利物浦积12分位列第三，两大追赶者严阵以待期盼缩小分差。',
+      ],
+    },
+    ja: {
+      title: 'プレミアリーグ第7節展望：ハーランド爆走のマンチェスター・シティが開幕7連勝へ挑む',
+      subtitle: 'ブレントフォード戦で全勝防衛へ、追うアーセナルとリヴァプールも追撃態勢。',
+      excerpt: 'マンチェスター・シティが6戦全勝18ポイントで首位独走。ハーランドが10得点で第7節へ。',
+      body: [
+        '2026-27プレミアリーグは6節を消化し、ペップ・グアルディオラ率いるマンチェスター・シティが勝ち点18で首位を堅持している。',
+        'ハーランドは6試合10ゴールと驚異的な決定力を誇り、土曜日のブレントフォード遠征でも主役を務める。',
+        '2位アーセナル（15点）と3位リヴァプール（12点）も取りこぼしが許されない緊迫の週末を迎える。',
+      ],
+    },
+    ko: {
+      title: '프리미어리그 7라운드 프리뷰: 홀란 앞세운 맨시티, 브렌트퍼드 원정서 개막 7연승 도전',
+      subtitle: '과르디올라호 무결점 선두 질주 속 아스널과 리버풀의 거센 추격전 전개.',
+      excerpt: '맨체스터 시티가 6전 전승 승점 18점으로 단독 선두를 질주하는 가운데 홀란이 7라운드 득점포 가동을 노린다.',
+      body: [
+        '2026-27 잉글랜드 프리미어리그에서 맨체스터 시티가 6연승 승점 18점으로 완벽한 선두를 유지하고 있다.',
+        '6경기에서 10골을 폭격한 엘링 홀란은 이번 주 토요일 브렌트퍼드 원정에서도 골 폭풍을 예고하고 있다.',
+        '아스널(승점 15)과 리버풀(승점 12)은 선두와의 격차를 좁히기 위해 승점 3점 사냥에 나선다.',
+      ],
+    },
+    ar: {
+      title: 'تقديم الجولة 7 من الدوري الإنجليزي: هالاند وسيتي يستهدفان الفوز السابع تواليا',
+      subtitle: 'كتيبة غوارديولا تدافع عن علامتها الكاملة في برينتفورد بينما يواصل آرسنال وليفربول المطاردة.',
+      excerpt: 'يتصدر مانشستر سيتي الترتيب برصيد 18 نقطة من 6 انتصارات متتالية وهالاند يطمح لتعزيز أرقامه القياسية في الجولة السابعة.',
+      body: [
+        'بعد مرور ست جولات من الدوري الإنجليزي الممتاز 2026-27، ينفرد مانشستر سيتي بالصدارة برصيد 18 نقطة كاملة.',
+        'يواصل إرلينغ هالاند تحطيم الأرقام القياسية بتسجيله 10 أهداف في 6 مباريات، ويقود رحلة فريقه إلى برينتفورد يوم السبت.',
+        'ويحتل آرسنال المركز الثاني برصيد 15 نقطة متقدما على ليفربول (12 نقطة)، منتظرين أي تعثر لحامل اللقب.',
+      ],
+    },
+  },
+  'china-open-beijing-atp-wta-preview-2026': {
+    fr: {
+      title: 'China Open Pékin 2026 : Sinner et Alcaraz débarquent en Asie au lancement du tableau principal',
+      subtitle: 'Le n°1 mondial Sinner remet son titre en jeu tandis que Rybakina et Sabalenka mènent un tableau WTA 1000 royal au Diamond Court.',
+      excerpt: 'Le circuit mondial pose ses valises à Pékin pour le China Open 2026 au National Tennis Center.',
+      body: [
+        'Après le sacre de l’Europe en Laver Cup à Londres, l’élite mondiale du tennis se retrouve à Pékin pour le China Open 2026.',
+        'Jannik Sinner, n°1 mondial et tenant du titre, mène le tableau ATP 500 aux côtés de Carlos Alcaraz, Daniil Medvedev et Alexander Zverev.',
+        'Sur le Diamond Court, le tableau WTA 1000 promet des étincelles avec Elena Rybakina, sacrée à l’US Open, et Aryna Sabalenka.',
+      ],
+    },
+    es: {
+      title: 'Abierto de China Pekín 2026: Sinner y Alcaraz aterrizan en Asia al arrancar el cuadro principal',
+      subtitle: 'El número 1 Sinner defiende corona mientras Rybakina y Sabalenka encabezan un cartel estelar de WTA 1000 en Diamond Court.',
+      excerpt: 'El tenis mundial se traslada a Pekín con el inicio del Abierto de China 2026 en el Centro Nacional de Tenis.',
+      body: [
+        'Apenas concluida la Laver Cup en Londres, las grandes figuras del tenis mundial ya compiten en Pekín en el Abierto de China 2026.',
+        'Jannik Sinner defiende su cetro ATP 500 frente a Carlos Alcaraz, Daniil Medvedev y Alexander Zverev en la capital china.',
+        'En el cuadro femenino WTA 1000, Elena Rybakina, campeona del US Open, y Aryna Sabalenka lideran un torneo de máxima categoría.',
+      ],
+    },
+    de: {
+      title: 'China Open Peking 2026: Sinner und Alcaraz schlagen in Asien zum Hauptfeldstart auf',
+      subtitle: 'Weltranglistenerster Sinner verteidigt seinen Titel, während Rybakina und Sabalenka das WTA-1000-Feld am Diamond Court anführen.',
+      excerpt: 'Die Tennis-Weltspitze zieht nach Peking: Im National Tennis Center beginnt das Hauptfeld der China Open 2026.',
+      body: [
+        'Unmittelbar nach dem Laver-Cup-Sieg von Team Europe in London reist die Tennis-Elite zu den China Open nach Peking.',
+        'Jannik Sinner führt das ATP-500-Feld als Titelverteidiger und Weltranglistenerster zusammen mit Carlos Alcaraz und Alexander Zverev an.',
+        'Auf dem Diamond Court glänzt das WTA-1000-Turnier mit US-Open-Siegerin Elena Rybakina, Aryna Sabalenka und Lokalmatadorin Zheng Qinwen.',
+      ],
+    },
+    it: {
+      title: 'China Open Pechino 2026: Sinner e Alcaraz in Asia per il via al tabellone principale',
+      subtitle: 'Il numero 1 Sinner difende il titolo mentre Rybakina e Sabalenka guidano il WTA 1000 sul Diamond Court.',
+      excerpt: 'Il grande tennis sbarca a Pechino per il China Open 2026 sui campi del National Tennis Center.',
+      body: [
+        'A poche ore dalla vittoria europea in Laver Cup, i big della racchetta sono atterrati a Pechino per il China Open 2026.',
+        'Jannik Sinner, numero 1 del mondo e campione uscente, guida il seeding ATP 500 tallonato da Carlos Alcaraz e Daniil Medvedev.',
+        'Nel torneo WTA 1000 occhi puntati sulla neo campionessa degli US Open Elena Rybakina, su Aryna Sabalenka e sull’eroina di casa Zheng Qinwen.',
+      ],
+    },
+    pl: {
+      title: 'China Open Pekin 2026: Sinner i Alcaraz meldują się w Azji na starcie turnieju głównego',
+      subtitle: 'Lider rankingu Sinner broni tytułu, a Rybakina i Sabalenka przewodzą stawce WTA 1000 na korcie Diamond Court.',
+      excerpt: 'Tenisowa elita przenosi się do stolicy Chin na turniej China Open 2026 w National Tennis Center.',
+      body: [
+        'Tuż po emocjach Laver Cup w Londynie najlepsi tenisiści świata rozpoczynają rywalizację w turnieju China Open w Pekinie.',
+        'Jannik Sinner przystępuje do obrony tytułu ATP 500 w towarzystwie Carlosa Alcaraza, Daniiła Miedwiediewa i Alexandra Zvereva.',
+        'W kobiecym turnieju WTA 1000 zagrają m.in. mistrzyni US Open Elena Rybakina, Aryna Sabalenka oraz reprezentantka gospodarzy Zheng Qinwen.',
+      ],
+    },
+    zh: {
+      title: '2026中国网球公开赛：辛纳阿尔卡拉斯齐聚北京，正赛全面打响',
+      subtitle: '世界第一辛纳开启卫冕征程，莱巴金娜与萨巴伦卡领衔钻石球场WTA 1000阵容。',
+      excerpt: '网坛巨星转战国家网球中心，2026中国网球公开赛正赛正式开打，男女单打看点十足。',
+      body: [
+        '拉沃尔杯伦敦决战刚刚落幕，世界网坛群雄便已飞抵北京国家网球中心，出战2026中网公开赛。',
+        '男单世界第一兼卫冕冠军辛纳与阿尔卡拉斯、梅德韦杰夫领衔ATP 500豪华阵容，全力角逐年终积分。',
+        '女单WTA 1000赛场同样众星云集，美网新科冠军莱巴金娜、萨巴伦卡以及东道主名将郑钦文将引爆钻石球场。',
+      ],
+    },
+    ja: {
+      title: 'チャイナ・オープン北京2026：シナーとアルカラスがアジアへ到着、本戦開幕',
+      subtitle: '世界1位シナーが連覇に挑み、リバキナとサバレンカがダイヤモンド・コートのWTA1000を牽引。',
+      excerpt: 'テニス界のスターが北京の国家テニスセンターに集結。2026チャイナ・オープンの本戦がスタート。',
+      body: [
+        'ロンドンでのレーバーカップ熱戦直後、トッププロたちは北京へ移動しチャイナ・オープン2026に臨む。',
+        '世界ランキング1位のシナーがタイトル防衛を目指し、アルカラスやメドベージェフとともにATP500を争う。',
+        '女子WTA1000では全米女王リバキナ、サバレンカ、そして地元中国の鄭欽文がセンターコートを熱狂させる。',
+      ],
+    },
+    ko: {
+      title: '2026 차이나 오픈 베이징: 신네르와 알카라스 아시아 입성, 본선 개막',
+      subtitle: '세계 1위 신네르의 타이틀 방어전, 리바키나와 사발렌카가 다이아몬드 코트 WTA 1000 수놓는다.',
+      excerpt: '베이징 국가 테니스 센터에서 2026 차이나 오픈 본선이 시작되며 세계 톱스타들이 격돌한다.',
+      body: [
+        '런던 레이버컵 종료 직후 세계 테니스 거성들이 베이징 국가 테니스 센터로 집결해 차이나 오픈 본선에 나선다.',
+        '세계 1위 얀니크 신네르가 디펜딩 챔피언으로 출격하며, 카를로스 알카라스와 메드베데프가 ATP 500 우승을 다툰다.',
+        'WTA 1000 무대에서는 US오픈 챔피언 리바키나와 사발렌카, 정친원이 다이아몬드 코트에서 화려한 대결을 펼친다.',
+      ],
+    },
+    ar: {
+      title: 'بطولة الصين المفتوحة ببكين 2026: سينر وألكاراز يصلان إلى آسيا مع انطلاق الجدول الرئيسي',
+      subtitle: 'المصنف الأول سينر يدافع عن لقبه وريباكينا وسابالينكا تقودان منافسات السيدات على ملعب دايموند كورت.',
+      excerpt: 'تتجه أنظار عشاق التنس إلى العاصمة الصينية بكين مع انطلاق مباريات بطولة الصين المفتوحة 2026 في المركز الوطني للتنس.',
+      body: [
+        'عقب تتويج أوروبا بكأس لافر في لندن، انتقل نجوم التنس العالمي مباشرة إلى بكين للمشاركة في بطولة الصين المفتوحة 2026.',
+        'يدخل الإيطالي يانيك سينر، المصنف الأول عالميا وحامل اللقب، المنافسات جنبا إلى جنب مع كارلوس ألكاراز ودانييل ميدفيديف.',
+        'وفي منافسات السيدات لفئة 1000 نقطة، تقود بطلة أمريكا المفتوحة إيلينا ريباكينا وأرينا سابالينكا والبطلة الصينية تشنغ تشينوين قائمة النجمات.',
+      ],
+    },
+  },
+  'singapore-gp-night-race-physical-crucible-2026': {
+    fr: {
+      title: 'Présentation GP de Singapour : la fournaise nocturne de Marina Bay attend Antonelli et Russell',
+      subtitle: 'Humidité tropicale, 19 virages et 1 600 projecteurs mettent les leaders du championnat Mercedes au défi le plus rude.',
+      excerpt: 'La Formule 1 se prépare pour le défi nocturne de Singapour où Kimi Antonelli défend ses 88 points d’avance au championnat.',
+      body: [
+        'La Formule 1 pose ses quartiers à Marina Bay pour le Grand Prix de Singapour, l’épreuve physique la plus impitoyable de l’année sous les projecteurs.',
+        'Fort de son succès autoritaire à Bakou, le rookie de Mercedes Kimi Antonelli mène le championnat du monde avec 317 points, 88 de plus que George Russell (229 pts).',
+        'Ferrari avec Hamilton et Leclerc ainsi que McLaren avec Norris préparent des évolutions aéro pour bousculer les Flèches d’Argent dans les rues sinueuses de la cité-État.',
+      ],
+    },
+    es: {
+      title: 'Previa GP de Singapur: el infierno nocturno de Marina Bay espera a Antonelli y Russell',
+      subtitle: 'Humedad tropical, 19 curvas y 1.600 focos ponen a prueba a Mercedes en la carrera más exigente de la F1.',
+      excerpt: 'La Fórmula 1 aterriza en Marina Bay para el GP de Singapur con Kimi Antonelli defendiendo 88 puntos de renta en el Mundial.',
+      body: [
+        'El Mundial de F1 encara su examen físico más severo en el circuito urbano de Marina Bay para el Gran Premio de Singapur bajo los reflectores.',
+        'Tras su exhibición desde la pole en Bakú, el joven prodigio de Mercedes Kimi Antonelli lidera el certamen con 317 puntos, superando por 88 a George Russell (229 pts).',
+        'Ferrari, con Hamilton y Leclerc, y McLaren, con Norris, esperan aprovechar el trazado lento y bacheado para recortar distancias con las flechas de plata.',
+      ],
+    },
+    de: {
+      title: 'Vorschau GP von Singapur: Der Flutlicht-Hexenkessel von Marina Bay wartet auf Antonelli und Russell',
+      subtitle: 'Tropische Hitze, 19 Kurven und 1.600 Flutlichtstrahler fordern Mercedes im härtesten Ausdauerrennen der Formel 1.',
+      excerpt: 'Die Formel 1 rüstet sich für das Nachtrennen in Singapur: Kimi Antonelli verteidigt 88 Punkte Vorsprung in der WM.',
+      body: [
+        'Die Formel 1 zieht weiter zum spektakulären Marina Bay Street Circuit, wo das Nachtrennen von Singapur den Fahrern alles abverlangt.',
+        'Nach seinem dominanten Sieg in Baku führt Mercedes-Shootingstar Kimi Antonelli die Weltmeisterschaft mit 317 Punkten und 88 Zählern Vorsprung vor George Russell an.',
+        'Ferrari mit Hamilton und Leclerc sowie McLaren mit Norris bringen Downforce-Upgrades mit, um Mercedes auf dem winkeligen Stadtkurs zu attackieren.',
+      ],
+    },
+    it: {
+      title: 'Anteprima GP Singapore: la fornace notturna di Marina Bay attende Antonelli e Russell',
+      subtitle: 'Umidità tropicale, 19 curve e 1.600 riflettori mettono alla prova i leader Mercedes nella gara più dura del mondiale.',
+      excerpt: 'La Formula 1 si prepara alla notte di Marina Bay per il Gran Premio di Singapore, con Antonelli leader a quota 317 punti.',
+      body: [
+        'La Formula 1 affronta la sfida più probante dell’anno tra le strade di Marina Bay per il Gran Premio di Singapore in notturna.',
+        'Kimi Antonelli si presenta al via forte della vittoria di Baku e comanda la classifica iridata con 317 punti, a +88 sul compagno George Russell (229).',
+        'Ferrari e McLaren affilano le armi: Hamilton, Leclerc e Norris cercano il riscatto sulle stradine asiatiche dove la safety car è sempre protagonista.',
+      ],
+    },
+    pl: {
+      title: 'Zapowiedź GP Singapuru: nocny kocioł Marina Bay czeka na Antonellego i Russella',
+      subtitle: 'Tropikalna wilgoć, 19 zakrętów i 1600 jupiterów przetestują liderów Mercedesa w najtrudniejszym wyścigu sezonu.',
+      excerpt: 'Formuła 1 zjeżdża do Singapuru na nocny wyścig uliczny, w którym Kimi Antonelli broni 88 punktów przewagi w mistrzostwach.',
+      body: [
+        'Formuła 1 przenosi się na tor Marina Bay Street Circuit, by rozegrać najbardziej wymagające fizycznie Grand Prix Singapuru pod jupiterami.',
+        'Po triumfie w Baku Kimi Antonelli przewodzi klasyfikacji kierowców z dorobkiem 317 punktów, wyprzedzając George’a Russella o 88 oczek.',
+        'Ferrari z Hamiltonem i Leclercem oraz McLaren z Norrisem liczą na krętą specyfikę toru, by rzucić wyzwanie dominującym Srebrnym Strzałom.',
+      ],
+    },
+    zh: {
+      title: '新加坡大奖赛前瞻：滨海湾夜战熔炉静候安东内利与拉塞尔',
+      subtitle: '热带高温潮湿、19个弯角与1600盏泛光灯考验梅赛德斯双雄，迎来F1最严酷体能决战。',
+      excerpt: 'F1转战滨海湾街道赛道展开新加坡大奖赛夜战，领跑积分榜的安东内利手握88分巨大优势出征。',
+      body: [
+        'F1赛程迎来全年体能考验最严酷的一站：在新加坡滨海湾街道赛道的人工照明下展开夜间街道赛决战。',
+        '巴库站杆位夺冠的梅赛德斯超级新星安东内利目前以317分领跑车手榜，领先队友拉塞尔多达88分。',
+        '法拉利车队的汉密尔顿与勒克莱尔以及迈凯伦的诺里斯均携升级套件登场，力求在低速多弯赛道中阻击银箭王朝。',
+      ],
+    },
+    ja: {
+      title: 'シンガポールGP展望：マリーナベイ熱帯夜の試練がアントネッリとラッセルを待ち受ける',
+      subtitle: '過酷な湿気、19のコーナー、1,600基の照明がF1最難関の市街地コースでメルセデス首位を試す。',
+      excerpt: 'マリーナベイ市街地サーキットでシンガポールGPが迫る。アントネッリが88点リードでナイターレースへ。',
+      body: [
+        'F1サーカスは年間屈指の過酷なサバイバル戦となるシンガポールGPのマリーナベイ市街地コースへ舞台を移す。',
+        'バクーで完勝を飾ったメルセデスの新星キミ・アントネッリは317ポイントを稼ぎ出し、同僚ラッセルに88点差をつけて首位を独走中。',
+        'フェラーリのハミルトン、ルクレール、マクラーレンのノリスも高ダウンフォース仕様でメルセデス包囲網を敷く。',
+      ],
+    },
+    ko: {
+      title: '싱가포르 GP 프리뷰: 마리나 베이의 열대 야간 서킷, 안토넬리와 러셀 기다린다',
+      subtitle: '열대성 습도, 19개 코너, 1,600개 조명 아래 메르세데스 챔피언십 듀오의 한계 시험대.',
+      excerpt: '포뮬러 1이 마리나 베이 시가지 서킷으로 이동해 싱가포르 GP 야간 레이스를 펼친다. 안토넬리가 88점 차 선두를 달린다.',
+      body: [
+        'F1 서커스가 드라이버들에게 가장 가혹한 체력적 시련을 안겨주는 싱가포르 GP 마리나 베이 서킷에 도착했다.',
+        '바쿠 폴투윈 승리로 기세를 올린 메르세데스의 루키 키미 안토넬리는 317점으로 조지 러셀(229점)에 88점 앞서 있다.',
+        '페라리의 해밀턴, 르클레르와 맥라렌의 노리스는 저속 코너가 즐비한 시가지 트랙에서 역전을 노린다.',
+      ],
+    },
+    ar: {
+      title: 'تقديم جائزة سنغافورة الكبرى: أتون مارينا باي الليلي ينتظر أنتونيللي وراسل',
+      subtitle: 'حرارة ورطوبة خانقة و19 منعطفا و1600 كشاف إضاءة تختبر متصدري مرسيدس في السباق الأصعب.',
+      excerpt: 'تستعد حلبة مارينا باي لاستضافة سباق جائزة سنغافورة الكبرى الليلي حيث يدافع كيمي أنتونيللي عن صدارته بفارق 88 نقطة.',
+      body: [
+        'تتأهب بطولة فورمولا 1 للاختبار البدني الأقسى على حلبة مارينا باي لشوارع سنغافورة في سباق ليلي بالغ الإثارة.',
+        'يدخل الإيطالي الصاعد كيمي أنتونيللي السباق متصدرا للترتيب برصيد 317 نقطة متقدما بفارق 88 نقطة على زميله جورج راسل.',
+        'في المقابل يتسلح ثنائي فيراري هاميلتون ولوكلير ونوريس سائق ماكلارين بحزم انسيابية جديدة لتحدي مرسيدس في المنعطفات الضيقة.',
+      ],
+    },
+  },
+  'pga-tour-fall-sanderson-farms-preview-2026': {
+    fr: {
+      title: 'Début du swing d’automne PGA Tour : le Sanderson Farms Championship s’ouvre à Jackson',
+      subtitle: 'Après le sacre américain en Presidents Cup, les joueurs luttent pour leur carte 2027 et de précieux points FedExCup dans le Mississippi.',
+      excerpt: 'Le PGA Tour pose ses sacs à Jackson pour le Sanderson Farms Championship, première étape décisive du FedExCup Fall.',
+      body: [
+        'La fête américaine de la Presidents Cup tout juste achevée à Medinah, le golf professionnel retrouve la dure réalité du FedExCup Fall à Jackson.',
+        'Le Sanderson Farms Championship au Country Club of Jackson offre 500 points et deux ans d’exemption sur le PGA Tour pour le vainqueur.',
+        'Pour les joueurs classés au-delà de la 50e place, chaque coup compte afin d’intégrer le top 125 qualificatif pour la saison 2027.',
+      ],
+    },
+    es: {
+      title: 'Comienza el tramo de otoño del PGA Tour: el Sanderson Farms Championship lleva máxima tensión a Jackson',
+      subtitle: 'Tras la conquista estadounidense en la Presidents Cup, los golfistas pelean en Misisipi por la tarjeta de 2027 y puntos de la FedExCup.',
+      excerpt: 'El PGA Tour llega a Jackson para el Sanderson Farms Championship con la permanencia en el circuito y exenciones en juego.',
+      body: [
+        'Apenas apagados los festejos de Estados Unidos en Medinah por la Presidents Cup, el golf profesional se traslada a Jackson para el inicio del FedExCup Fall.',
+        'El Country Club de Jackson acoge una cita clave dotada con 500 puntos de la FedExCup y dos años de exención en el PGA Tour para el ganador.',
+        'Para los profesionales situados en la frontera del puesto 125, cada birdie en Misisipi puede definir su futuro deportivo para 2027.',
+      ],
+    },
+    de: {
+      title: 'PGA Tour Fall Swing startet: Sanderson Farms Championship verspricht Hochspannung in Jackson',
+      subtitle: 'Nach dem US-Triumph beim Presidents Cup kämpfen die Profis in Mississippi um Tourkarten für 2027 und FedExCup-Punkte.',
+      excerpt: 'Die PGA Tour schlägt in Jackson auf: Bei der Sanderson Farms Championship geht es um die Tourkarte für 2027.',
+      body: [
+        'Kaum sind die Jubelgesänge nach dem 18,5:11,5-Sieg der USA beim Presidents Cup verklungen, beginnt der knallharte FedExCup Fall in Mississippi.',
+        'Die Sanderson Farms Championship im Country Club of Jackson bietet 500 Punkte und eine zweijährige Tour-Exemption für den Sieger.',
+        'Für Profis um Rang 125 steht die sportliche Existenz auf dem Spiel, um sich das Spielrecht für die PGA-Tour-Saison 2027 zu sichern.',
+      ],
+    },
+    it: {
+      title: 'Al via il PGA Tour Fall: il Sanderson Farms Championship porta alta tensione a Jackson',
+      subtitle: 'Dopo il trionfo USA in Presidents Cup, i pro lottano in Mississippi per la carta 2027 e i punti della FedExCup.',
+      excerpt: 'Il PGA Tour fa tappa a Jackson per il Sanderson Farms Championship, snodo cruciale per la sopravvivenza sul circuito.',
+      body: [
+        'Chiusa la trionfale Presidents Cup di Medinah vinta dagli Stati Uniti, il golf professionistico si concentra sulla serrata lotta del FedExCup Fall.',
+        'Il Sanderson Farms Championship al Country Club di Jackson mette in palio 500 punti e un’esenzione biennale sul PGA Tour per il vincitore.',
+        'Per i giocatori attorno alla 125ª posizione della classifica ogni colpo in Mississippi può valere il futuro nella stagione 2027.',
+      ],
+    },
+    pl: {
+      title: 'Jesienny cykl PGA Tour wystartował: Sanderson Farms Championship przynosi wielkie emocje w Jackson',
+      subtitle: 'Po triumfie USA w Presidents Cup golfiści walczą w Mississippi o punkty FedExCup i karty na sezon 2027.',
+      excerpt: 'PGA Tour przenosi się do Jackson na Sanderson Farms Championship, gdzie toczy się bezwzględna walka o utrzymanie w elicie.',
+      body: [
+        'Po emocjach Presidents Cup w Medinah i zwycięstwie USA zawodowy golf przechodzi do jesiennej fazy FedExCup Fall w Mississippi.',
+        'Turniej Sanderson Farms Championship w Country Club of Jackson oferuje zwycięzcy 500 punktów i dwuletnie zwolnienie w cyklu PGA Tour.',
+        'Dla graczy z okolic 125. miejsca rankingu każdy dołek w Jackson ma kolosalne znaczenie dla zachowania pełnych praw gry w 2027 roku.',
+      ],
+    },
+    zh: {
+      title: '美巡赛秋季赛启幕：桑德森农场锦标赛在杰克逊上演保卡生死战',
+      subtitle: '美国队捧得总统杯后巡回赛转战密西西比，众球手为2027赛季全卡与联邦快递杯积分搏杀。',
+      excerpt: '美巡赛转战密西西比州杰克逊乡村俱乐部，桑德森农场锦标赛拉开秋季保卡争夺战序幕。',
+      body: [
+        '总统杯美国队在麦迪纳夺冠的硝烟散去，美巡赛随即进入残酷的秋季积分赛阶段。',
+        '在杰克逊乡村俱乐部举行的桑德森农场锦标赛不仅提供500个联邦快递杯积分，冠军还将直接获得两年美巡赛豁免资格。',
+        '对于徘徊在第125位前后的边缘选手而言，密西西比的每一杆都直接决定着2027赛季能否保住全卡席位。',
+      ],
+    },
+    ja: {
+      title: 'PGAツアー秋季シリーズ開幕：サンダーソン・ファームズ選手権がジャクソンで緊迫の決戦へ',
+      subtitle: 'プレジデンツカップ米国優勝の余韻冷めやらぬ中、ミシシッピで2027年シード権とポイントを懸けた戦いが始まる。',
+      excerpt: 'カントリー・クラブ・オブ・ジャクソンでサンダーソン・ファームズ選手権が開幕。シード権争奪戦が激化。',
+      body: [
+        'メディナでのプレジデンツカップ米国勝利の熱気冷めやらぬ中、PGAツアーはフェデックスカップ・フォールへと舞台を移す。',
+        'カントリー・クラブ・オブ・ジャクソンで開催されるサンダーソン・ファームズ選手権は、優勝者に500ポイントと2年シードが授与される。',
+        '125位前後のボーダーラインに立つ選手たちにとって、ミシシッピでの4日間は2027年の出場権を懸けた死活問題となる。',
+      ],
+    },
+    ko: {
+      title: 'PGA 투어 가을 시리즈 개막: 샌더슨 팜스 챔피언십, 잭슨에서 시드권 혈투 예고',
+      subtitle: '미국팀 프레지던츠컵 승리 후 미시시피에서 2027 시즌 투어 카드와 페덱스컵 포인트를 향한 생존경쟁 돌입.',
+      excerpt: 'PGA 투어가 잭슨 컨트리 클럽으로 이동해 샌더슨 팜스 챔피언십을 개최하며 가을 시드권 경쟁의 막을 올린다.',
+      body: [
+        '메디나에서 끝난 프레지던츠컵 미국팀 우승의 여운이 가시기도 전에 PGA 투어는 미시시피 잭슨에서 페덱스컵 가을 시리즈에 돌입한다.',
+        '잭슨 컨트리 클럽에서 열리는 샌더슨 팜스 챔피언십 우승자에게는 페덱스컵 500점과 2년간의 PGA 투어 풀시드가 주어진다.',
+        '125위권 안팎의 위태로운 선수들에게 이번 대회는 2027 시즌 생존을 결정짓는 절대적인 무대가 될 전망이다.',
+      ],
+    },
+    ar: {
+      title: 'انطلاق الجولة الخريفية لجولة بي جيه إيه: بطولة ساندرسون فارمز تفتتح الإثارة في جاكسون',
+      subtitle: 'عقب تتويج أمريكا بكأس الرؤساء يتنافس نجوم الغولف في مسيسيبي لضمان بطاقة 2027 ونقاط فيديكس كاب.',
+      excerpt: 'تنتقل جولة بي جيه إيه إلى ولاية مسيسيبي لخوض منافسات بطولة ساندرسون فارمز لحسم بطاقات التأهل لعام 2027.',
+      body: [
+        'بعد أيام قليلة من فوز الفريق الأمريكي بكأس الرؤساء في ميدينا، يتجه التركيز إلى منافسات خريف فيديكس كاب الحاسمة في جاكسون.',
+        'تمنح بطولة ساندرسون فارمز في كانتري كلوب أوف جاكسون 500 نقطة وبطاقة مشاركة لمدة عامين للبطل المتوج.',
+        'وتعد البطولة فرصة مصيرية للاعبين القابعين حول المركز 125 لضمان بطاقات المشاركة الكاملة لموسم 2027.',
+      ],
+    },
+  },
 };
+
 
 
 

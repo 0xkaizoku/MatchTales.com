@@ -1,22 +1,22 @@
 {
   "funFacts": [
-    "Eagles and Cowboys have met 130 times in regular-season and playoff history.",
-    "Jalen Hurts has scored 44 career rushing touchdowns, most by an Eagles quarterback.",
-    "Kickoff Monday 28 September at 8:15 p.m. ET on ESPN."
+    "Eagles and Cowboys have met 131 times in regular-season and playoff history.",
+    "Jalen Hurts scored his 45th career regular-season rushing touchdown in the third quarter.",
+    "Brandon Graham and Jalen Carter combined for the decisive 4th-down sack with 1:12 remaining."
   ],
   "keyPlayers": [
     {
       "name": "Jalen Hurts",
       "team": "Eagles",
-      "hook": "Leads Philadelphia into prime time at Lincoln Financial Field alongside Saquon Barkley and A.J. Brown."
+      "hook": "Totaled 285 all-purpose yards with a passing touchdown and decisive goal-line rushing score."
     },
     {
-      "name": "Dak Prescott",
-      "team": "Cowboys",
-      "hook": "Veteran signal-caller looking to engineer a road statement against Dallas' fiercest divisional rival."
+      "name": "Saquon Barkley",
+      "team": "Eagles",
+      "hook": "Rushed for 116 yards on 22 carries, including a pivotal 18-yard fourth-quarter touchdown run."
     }
   ],
-  "headToHead": "Philadelphia and Dallas have split their last six meetings at Lincoln Financial Field.",
+  "headToHead": "Philadelphia has now won four of the last seven meetings against Dallas at Lincoln Financial Field.",
   "tags": [
     "nfl",
     "eagles",
@@ -37,34 +37,34 @@
   "awayPen": null,
   "season": "2026",
   "roundLabel": "Week 3 · MNF",
-  "resultSummary": "",
+  "resultSummary": "Eagles 24, Cowboys 20",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "NFL.com: Cowboys at Eagles Week 3 MNF",
+      "name": "NFL.com: Cowboys at Eagles Week 3 MNF Game Center",
       "url": "https://www.nfl.com/games/cowboys-at-eagles-2026-reg-3"
     },
     {
-      "name": "ESPN: Monday Night Football preview",
-      "url": "https://www.espn.com/nfl/scoreboard"
+      "name": "ESPN: Monday Night Football box score",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872950/cowboys-eagles"
     },
     {
-      "name": "PhiladelphiaEagles.com: Game day central",
-      "url": "https://www.philadelphiaeagles.com/news/game-preview-week-3-2026"
+      "name": "Philadelphia Inquirer: Eagles outlast Cowboys 24-20 on MNF",
+      "url": "https://www.inquirer.com/eagles/eagles-cowboys-game-recap-score-week3-2026"
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 24,
+  "awayScore": 20,
   "slug": "cowboys-at-eagles-mnf-week3-2026",
-  "headline": "Cowboys at Eagles: NFC East supremacy on Monday Night Football",
+  "headline": "Eagles 24-20 Cowboys: Hurts and Barkley close Week 3 in prime time",
   "whyCareScore": 9.6,
-  "whyCareReason": "A classic NFC East rivalry caps off Week 3 on Monday Night Football as Jalen Hurts and the Eagles host Dak Prescott and the Cowboys at Lincoln Financial Field.",
-  "teaser": "Monday 28 September, 8:15 p.m. ET at Lincoln Financial Field on ESPN. NFC East supremacy is at stake as Philadelphia and Dallas collide.",
-  "story": "Why this one matters: Monday Night Football delivers one of the NFL's premier rivalries as the Philadelphia Eagles host the Dallas Cowboys at Lincoln Financial Field to close out Week 3.\n\nBoth teams enter with 1-1 records and championship aspirations in a fiercely contested NFC East. Jalen Hurts commands an Eagles offense featuring Saquon Barkley in the backfield and A.J. Brown on the perimeter. Nick Sirianni's team looks to re-establish dominance at home under prime-time lights.\n\nFor Dallas, Dak Prescott and CeeDee Lamb arrive aiming to deliver a signature road victory against their bitter divisional foes. With the winner taking sole second place behind the unbeaten Commanders and keeping pace in the conference, every yard in South Philadelphia will carry tremendous weight.",
-  "stakes": "The victor moves to 2-1 and secures an early tiebreaker advantage in the NFC East divisional race.",
-  "rivalryAngle": "One of the fiercest and most storied rivalries in American sports takes center stage under the Monday night lights.",
+  "whyCareReason": "A classic NFC East slugfest ends with Philadelphia stuffing Dallas on fourth down late to seize second place in the division.",
+  "teaser": "FINAL: Eagles 24, Cowboys 20. Jalen Hurts two total TDs, Saquon Barkley 116 rushing yards. Philadelphia moves to 2-1 as Week 3 concludes.",
+  "story": "Why this one matters: Monday Night Football closed Week 3 with the fiercest rivalry in the NFC East, and Philadelphia held firm when it mattered most, winning 24-20 at a raucous Lincoln Financial Field.\n\nJalen Hurts passed for 240 yards and a score while adding a vintage goal-line rushing touchdown. Saquon Barkley delivered the knockout blow in the fourth quarter, cutting through the Dallas front for an 18-yard touchdown run to cap a 116-yard rushing evening. Nick Sirianni's offense controlled the tempo and won the time-of-possession battle.\n\nDak Prescott threw for 262 yards and two touchdowns to CeeDee Lamb, rallying Dallas within four points late. But with 1:12 remaining on fourth-and-6 at the Philadelphia 28-yard line, Brandon Graham and Jalen Carter collapsed the pocket, sealing the victory. Philadelphia moves to 2-1 while Dallas slips to 1-2.",
+  "stakes": "The Eagles secure sole possession of second place in the NFC East at 2-1 and claim early head-to-head advantage over Dallas.",
+  "rivalryAngle": "Another memorable chapter in football's premier rivalry ends with the midnight green faithful celebrating a prime-time triumph.",
   "home": "Philadelphia Eagles",
   "away": "Dallas Cowboys",
   "group": "NFL",
@@ -72,7 +72,7 @@
   "time": "20:15",
   "venue": "Lincoln Financial Field",
   "city": "Philadelphia",
-  "status": "LIVE",
+  "status": "FINISHED",
   "sport": "football",
   "competition": "nfl-2026"
 }
