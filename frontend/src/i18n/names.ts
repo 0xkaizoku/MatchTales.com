@@ -134,6 +134,8 @@ const TEAMS: Record<string, Partial<Record<Locale, string>>> = {
   'Los Angeles Chargers': { fr: 'Los Angeles Chargers', es: 'Los Angeles Chargers', de: 'Los Angeles Chargers', it: 'Los Angeles Chargers', pl: 'Los Angeles Chargers', zh: '洛杉矶闪电', ja: 'ロサンゼルス・チャージャーズ', ko: '로스앤젤레스 차저스', ar: 'لوس أنجلوس تشارجرز' },
   Chargers: { fr: 'Chargers', es: 'Chargers', de: 'Chargers', it: 'Chargers', pl: 'Chargers', zh: '闪电', ja: 'チャージャーズ', ko: '차저스', ar: 'تشارجرز' },
   'Azerbaijan GP field': { fr: 'plateau du GP d’Azerbaïdjan', es: 'parrilla del GP de Azerbaiyán', de: 'Aserbaidschan-GP-Feld', it: 'schieramento GP Azerbaijan', pl: 'stawka GP Azerbejdżanu', zh: '阿塞拜疆大奖赛车手', ja: 'アゼルバイジャンGPグリッド', ko: '아제르바이잔 GP 그리드', ar: 'شبكة جائزة أذربيجان' },
+  'Paris Saint-Germain': { fr: 'Paris Saint-Germain', es: 'París Saint-Germain', de: 'Paris Saint-Germain', it: 'Paris Saint-Germain', pl: 'Paris Saint-Germain', zh: '巴黎圣日耳曼', ja: 'パリ・サンジェルマン', ko: '파리 생제르맹', ar: 'باريس سان جيرمان' },
+  PSG: { fr: 'PSG', es: 'PSG', de: 'PSG', it: 'PSG', pl: 'PSG', zh: '巴黎', ja: 'PSG', ko: 'PSG', ar: 'باريس' },
 };
 
 const PLACES: Record<string, Partial<Record<Locale, string>>> = {
@@ -194,6 +196,8 @@ const PLACES: Record<string, Partial<Record<Locale, string>>> = {
   'National Tennis Center': { zh: '国家网球中心', ja: '国家テニスセンター', ko: '국가 테니스 센터', ar: 'المركز الوطني للتنس' },
   'Marina Bay Street Circuit': { zh: '滨海湾街道赛道', ja: 'マリーナベイ市街地サーキット', ko: '마리나 베이 시가지 서킷', ar: 'حلبة مارينا باي' },
   Singapore: { fr: 'Singapour', es: 'Singapur', de: 'Singapur', it: 'Singapore', pl: 'Singapur', zh: '新加坡', ja: 'シンガポール', ko: '싱가포르', ar: 'سنغافورة' },
+  'Santa Clara': { zh: '圣克拉拉', ja: 'サンタクララ', ko: '산타클라라', ar: 'سانتا كلارا' },
+  "Levi's Stadium": { zh: '李维斯体育场', ja: 'リーバイス・スタジアム', ko: '리바이스 스타디움', ar: 'ملعب ليفايز' },
 };
 
 const COMPETITIONS: Record<string, Partial<Record<Locale, string>>> = {
@@ -340,6 +344,17 @@ const COMPETITIONS: Record<string, Partial<Record<Locale, string>>> = {
     ko: '2026-27 UEFA 여자 챔피언스리그',
     ar: 'دوري أبطال أوروبا للسيدات 2026-27',
   },
+  'champions-league-2026-27': {
+    fr: 'Ligue des champions 2026-27',
+    es: 'Champions League 2026-27',
+    de: 'Champions League 2026/27',
+    it: 'Champions League 2026-27',
+    pl: 'Liga Mistrzów 2026/27',
+    zh: '2026-27赛季欧冠联赛',
+    ja: 'UEFAチャンピオンズリーグ 2026-27',
+    ko: '2026-27 UEFA 챔피언스리그',
+    ar: 'دوري أبطال أوروبا 2026-27',
+  },
 };
 
 export function entityName(name: string | null | undefined, locale: Locale): string {
@@ -354,6 +369,7 @@ export function competitionName(competition: string | null | undefined, locale: 
   if (locale === 'en') {
     if (competition === 'world-cup-2026') return 'World Cup 2026';
     if (competition.startsWith('premier-league')) return 'Premier League';
+    if (competition === 'champions-league-2026-27') return 'Champions League';
     if (competition === 'nfl-2026') return 'NFL';
     if (competition === 'bmw-pga-2026') return 'BMW PGA Championship';
     if (competition === 'presidents-cup-2026') return 'Presidents Cup';

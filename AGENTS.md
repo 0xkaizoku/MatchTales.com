@@ -12,7 +12,7 @@ Welcome, AI Coding Agent! This file outlines the architecture, tech stack, rules
 *   **World Cup Archive:** 48 teams, 12 groups, completed 19 July 2026. Spain are champions.
 *   **Sport desks:** mosaic at `/sports`. Unique boards at `/sport/tennis`, `/sport/football`, `/sport/f1`, `/sport/soccer`, `/sport/golf`, `/sport/basketball`. Soccer is one desk, not the default.
 *   **Interactive Features:** Community hype walls, live second-screen companionship, newsletter subscriptions.
-*   **Site clock:** editorial today is `2026-09-29` in `frontend/src/data/sports.ts` (`SITE_TODAY`). Eagles defeat Cowboys 24-20 on Monday Night Football to close Week 3; WNBA Playoffs Round 1 Game 2 elimination night features Fever at Dream and Mystics at Lynx; Manchester City lead Premier League at 6-0-0 (18 pts) ahead of MW7; Sinner and Alcaraz arrive for ATP 500 China Open in Beijing; PGA Tour Fall swing opens at Sanderson Farms Championship; Antonelli leads F1 title chase into Singapore night race.
+*   **Site clock:** editorial today is `2026-09-30` in `frontend/src/data/sports.ts` (`SITE_TODAY`). WNBA Playoffs: Fever sweep Dream 2-0 and Lynx sweep Mystics 2-0 into semifinals; NFL Week 3 complete as 49ers and Rams prepare for Thursday Night Football; UEFA Champions League Matchday 2 features Arsenal hosting PSG at Emirates while City command PL summit; Sinner and Sabalenka open China Open campaigns with straight-sets wins in Beijing; Sanderson Farms Championship Pro-Am sets stage for Round 1 at Country Club of Jackson; Antonelli leads Mercedes into Marina Bay paddock for Singapore GP.
 
 ---
 

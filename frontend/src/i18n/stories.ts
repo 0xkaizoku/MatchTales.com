@@ -4150,8 +4150,557 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+  'wnba-playoffs-fever-lynx-sweep-semifinals-2026': {
+    fr: {
+      title: 'Playoffs WNBA : Caitlin Clark qualifie le Fever face au Dream, les Lynx éliminent les Mystics',
+      subtitle: 'Indiana et Minnesota sont les premières équipes qualifiées pour les demi-finales 2026 grâce à des victoires décisives au match 2.',
+      excerpt: 'Caitlin Clark compile 24 points et 11 passes pour le sweep d’Indiana 2-0 à Atlanta, tandis que Napheesa Collier guide Minnesota vers les demi-finales.',
+      body: [
+        'Le premier tour des playoffs WNBA 2026 a livré son verdict mardi soir, les deux favoris refusant de disputer un troisième match décisif. À Atlanta comme à Minneapolis, le sang-froid des leaders a fait la différence.',
+        'Au Gateway Center Arena, Caitlin Clark a signé un nouveau récital avec 24 points, 11 passes décisives et 7 rebonds pour permettre au Fever d’écarter le Dream 87-81. Kelsey Mitchell a ajouté 22 points, dont deux tirs primés cruciaux en fin de rencontre, propulsant Indiana dans le dernier carré pour la première fois depuis 2015.',
+        'Dans le même temps, les Minnesota Lynx n’ont laissé aucun espoir aux Washington Mystics. Napheesa Collier a régné dans la raquette avec 26 points et 9 rebonds pour une victoire nette 85-73. Indiana et Minnesota s’imposent 2-0 et s’offrent un précieux repos avant les demi-finales.',
+      ],
+    },
+    es: {
+      title: 'Playoffs WNBA: Caitlin Clark lidera la barrida del Fever ante Dream; Lynx eliminan a Mystics',
+      subtitle: 'Indiana y Minnesota se convierten en los primeros semifinalistas de 2026 tras ganar el Juego 2 como visitantes.',
+      excerpt: 'Caitlin Clark suma 24 puntos y 11 asistencias en el 2-0 de Indiana sobre Atlanta, mientras Napheesa Collier guía a Minnesota a semifinales.',
+      body: [
+        'La noche del martes definió la primera ronda de los playoffs de la WNBA 2026, con los dos favoritos cerrando sus series sin necesidad de un tercer partido de desempate.',
+        'En Atlanta, Caitlin Clark deslumbró con 24 puntos, 11 asistencias y 7 rebotes para liderar al Indiana Fever a un triunfo 87-81 sobre el Dream. Kelsey Mitchell aportó 22 puntos con triples decisivos en el tramo final, clasificando a Indiana a semifinales por primera vez desde 2015.',
+        'En Minneapolis, Minnesota Lynx superó con claridad a Washington Mystics por 85-73 gracias a los 26 puntos y 9 rebotes de Napheesa Collier. Tanto Fever como Lynx sentencian sus eliminatorias por 2-0 y esperan rivales para el campeonato.',
+      ],
+    },
+    de: {
+      title: 'WNBA-Playoffs: Caitlin Clark führt Fever zum Sweep gegen Dream; Lynx werfen Mystics raus',
+      subtitle: 'Indiana und Minnesota ziehen mit überzeugenden Auswärtssiegen in Spiel 2 als erste Teams ins Halbfinale 2026 ein.',
+      excerpt: 'Caitlin Clark glänzt mit 24 Punkten und 11 Assists beim 2:0-Sweep über Atlanta, während Collier Minnesota ins Halbfinale führt.',
+      body: [
+        'Der Dienstagabend brachte die ersten Vorentscheidungen in den WNBA-Playoffs 2026. Beide Favoriten machten kurzen Prozess und vermieden ein entscheidendes drittes Spiel.',
+        'In Atlanta dominierte Caitlin Clark mit 24 Punkten, 11 Assists und 7 Rebounds beim 87:81-Erfolg der Indiana Fever über die Dream. Kelsey Mitchell steuerte 22 Zähler bei und sicherte Indiana die erste Halbfinal-Teilnahme seit 2015.',
+        'Im Target Center ließen die Minnesota Lynx den Washington Mystics beim 85:73 keine Chance. Napheesa Collier führte ihr Team mit 26 Punkten und 9 Rebounds an. Sowohl Fever als auch Lynx stehen mit 2:0-Sweeps souverän in der Vorschlussrunde.',
+      ],
+    },
+    it: {
+      title: 'Playoff WNBA: Caitlin Clark trascina le Fever al passaggio del turno; Lynx battono le Mystics',
+      subtitle: 'Indiana e Minnesota conquistano la qualificazione alle semifinali 2026 chiudendo la serie sul 2-0 in Gara 2.',
+      excerpt: 'Caitlin Clark firma 24 punti e 11 assist nel successo delle Fever ad Atlanta, mentre Napheesa Collier spedisce Minnesota in semifinale.',
+      body: [
+        'La notte di martedì ha regalato i primi verdetti dei playoff WNBA 2026, con le due teste di serie che hanno chiuso i conti senza ricorrere alla bella.',
+        'Alla Gateway Center Arena Caitlin Clark ha dato spettacolo con 24 punti, 11 assist e 7 rimbalzi guidando le Indiana Fever alla vittoria per 87-81 sulle Dream. I 22 punti di Kelsey Mitchell hanno sigillato il ritorno di Indiana in semifinale dopo undici anni.',
+        'A Minneapolis le Minnesota Lynx hanno dominato le Washington Mystics per 85-73 trascinate dai 26 punti di Napheesa Collier. Entrambe le formazioni archiviano la pratica sul 2-0 e attendono le prossime sfide.',
+      ],
+    },
+    pl: {
+      title: 'Play-off WNBA: Caitlin Clark prowadzi Fever do awansu; Lynx eliminują Mystics',
+      subtitle: 'Indiana i Minnesota jako pierwsze meldują się w półfinałach 2026 po pewnych triumfach w meczach numer dwa.',
+      excerpt: 'Caitlin Clark notuje 24 punkty i 11 asyst w wygranej Indiany z Atlantą 2-0, a Napheesa Collier pieczętuje awans Minnesoty.',
+      body: [
+        'Wtorkowa noc przyniosła decydujące rozstrzygnięcia w pierwszej rundzie play-off WNBA 2026, a faworyci nie pozwolili rywalkom na doprowadzenie do decydującego meczu.',
+        'W Atlancie Caitlin Clark popisała się 24 punktami, 11 asystami i 7 zbiórkami, prowadząc Indiana Fever do zwycięstwa 87-81 nad Dream. 22 punkty Kelsey Mitchell dały Indianie pierwszy awans do półfinału od 2015 roku.',
+        'W Minneapolis Minnesota Lynx pewnie pokonała Washington Mystics 85-73. Napheesa Collier rzuciła 26 punktów i zebrała 9 piłek, zapewniając swojej drużynie czyste zwycięstwo w serii 2-0.',
+      ],
+    },
+    zh: {
+      title: 'WNBA季后赛：克拉克狂轰24分11助攻横扫梦想，山猫力克神秘人挺进半决赛',
+      subtitle: '狂热与山猫在第2场客场决战中展现统治力，成为首批晋级2026年WNBA半决赛的球队。',
+      excerpt: '凯特琳·克拉克砍下24分11次助攻率狂热2-0横扫亚特兰大，科利尔砍下26分率山猫淘汰神秘人。',
+      body: [
+        '周二晚间的WNBA季后赛首轮迎来定局时刻，两支强队均拒绝将系列赛拖入生死第3场，以两连胜强势闯关。',
+        '在亚特兰大网关中心球馆，超级新星凯特琳·克拉克再度奉献大师级表演，全场贡献24分、11次助攻和7个篮板，率领印第安纳狂热以87-81力克梦想。米切尔飙中22分并在最后两分钟连中两记关键三分，帮助狂热自2015年以来首度重返半决赛。',
+        '在明尼阿波利斯标靶中心，常规赛头名山猫以85-73完胜华盛顿神秘人。内皮莎·科利尔砍下26分9个篮板统治内线。狂热与山猫均以2-0横扫晋级，赢得宝贵的半决赛休整期。',
+      ],
+    },
+    ja: {
+      title: 'WNBAプレーオフ：クラークが24得点11アシストでドリームをスイープ、リンクスも準決勝進出',
+      subtitle: 'インディアナとミネソタが敵地での第2戦を制し、2026年WNBAベスト4一番乗りを決める。',
+      excerpt: 'ケイトリン・クラークが24得点11アシストでフィーバーを2-0スイープへ導き、コリアー率いるリンクスもミスティクスを撃破。',
+      body: [
+        '火曜日のWNBAプレーオフ1回戦第2戦は、アウェーの強豪2チームが勝負強さを発揮し、第3戦を待たずにシリーズ突破を決めました。',
+        'アトランタではケイトリン・クラークが24得点、11アシスト、7リバウンドを記録し、インディアナ・フィーバーが87-81でドリームを撃破。ケルシー・ミッチェルも勝負所で22得点を挙げ、フィーバーは2015年以来となるセミファイナル進出を果たしました。',
+        'ミネアポリスでは第1シードのリンクスがナフィーサ・コリアーの26得点9リバウンドの活躍でミスティクスを85-73で退けました。インディアナとミネソタの両チームが2連勝で4強入りを決定づけました。',
+      ],
+    },
+    ko: {
+      title: 'WNBA 플레이오프: 케이틀린 클라크 24득점 11어시스트 스윕, 링스도 미스틱스 꺾고 4강 진출',
+      subtitle: '인디애나 피버와 미네소타 링스가 2차전 원정 승리로 2026 시즌 4강 티켓을 가장 먼저 확보했다.',
+      excerpt: '클라크가 24득점 11어시스트로 드림을 2-0 완파하며 인디애나를 2015년 이후 첫 준결승으로 이끌었다.',
+      body: [
+        '화요일 밤 열린 WNBA 플레이오프 1라운드 2차전에서 강호들이 흔들림 없는 집중력으로 3차전 없이 시리즈를 조기 매듭지었다.',
+        '애틀랜타에서 케이틀린 클라크는 24득점 11어시스트 7리바운드를 기록하며 인디애나 피버의 87-81 승리를 이끌었다. 켈시 미첼이 4쿼터 결정적인 3점포 포함 22점을 보태며 피버는 11년 만에 4강 무대를 밟았다.',
+        '미네소타 링스 역시 나피사 콜리어가 26득점 9리바운드로 골밑을 장악하며 워싱턴 미스틱스를 85-73으로 제압했다. 두 팀 모두 2-0 깔끔한 스윕으로 다음 라운드에 안착했다.',
+      ],
+    },
+    ar: {
+      title: 'أدوار الحسم في دوري السلة النسائي: كلارك تقود فيفر لسحق دريم ولينكس تطيح بميستيكس',
+      subtitle: 'إنديانا ومينيسوتا أول المتأهلين إلى نصف نهائي 2026 بعد حسم المواجهة الثانية خارج الديار.',
+      excerpt: 'سجلت كيتلين كلارك 24 نقطة و11 تمريرة حاسمة لتقود إنديانا لفوز ساحق 2-0 على أتلانتا والعبور لنصف النهائي.',
+      body: [
+        'شهدت مباريات الثلاثاء حسم الجولة الأولى من أدوار خروج المغلوب في دوري السلة الأمريكي للسيدات دون الحاجة لمباراة فاصلة.',
+        'في أتلانتا، واصلت النجمة كيتلين كلارك تألقها اللافت مسجلة 24 نقطة و11 تمريرة حاسمة لتقود إنديانا فيفر للفوز 87-81 على أتلانتا دريم وبلوغ نصف النهائي للمرة الأولى منذ 2015.',
+        'وفي مينيابوليس، قادت نافيسا كوليير مينيسوتا لينكس للفوز 85-73 على واشنطن بتسجيلها 26 نقطة، ليحسم الفريقان بطاقتي التأهل بنتيجة 2-0.',
+      ],
+    },
+  },
+  'nfl-week4-tnf-preview-49ers-rams-2026': {
+    fr: {
+      title: 'Aperçu NFL Semaine 4 : les 49ers et les Rams relancent leur rivalité lors du Thursday Night Football',
+      subtitle: 'Ce choc de la division NFC Ouest au Levi’s Stadium met à l’épreuve la récupération après la fin de la Semaine 3.',
+      excerpt: 'Brock Purdy et les 49ers accueillent Matthew Stafford et les Rams pour ouvrir la Semaine 4 de la NFL en prime time.',
+      body: [
+        'Après la victoire 24-20 de Philadelphie contre Dallas lundi soir, la NFL enchaîne sans attendre avec l’ouverture de la Semaine 4 au Levi’s Stadium.',
+        'Il s’agit du second duel entre San Francisco et Los Angeles cette saison après le match historique de Melbourne remporté 27-7 par les 49ers grâce à trois passes de touchdown de Brock Purdy.',
+        'Sur une semaine courte de préparation, Kyle Shanahan et Sean McVay savent qu’une victoire divisionnaire en octobre pèse lourd dans la course aux playoffs de la conférence NFC.',
+      ],
+    },
+    es: {
+      title: 'Previa Semana 4 de la NFL: 49ers y Rams reeditan su rivalidad en el Thursday Night Football',
+      subtitle: 'Duelo clave de la NFC Oeste en el Levi’s Stadium tras cerrarse la Semana 3 con el triunfo de Filadelfia.',
+      excerpt: 'Brock Purdy y los 49ers reciben a Matthew Stafford y los Rams para dar inicio a la Semana 4 en horario estelar.',
+      body: [
+        'Con el triunfo de Filadelfia 24-20 sobre Dallas en el retrovisor, la NFL abre de inmediato la Semana 4 con uno de los choques más intensos del fútbol americano.',
+        'Los 49ers y los Rams se ven las caras por segunda vez esta temporada tras el duelo inaugural en Melbourne donde San Francisco se impuso 27-7 con tres pases de anotación de Brock Purdy.',
+        'En una semana corta con solo tres días de descanso, Kyle Shanahan y Sean McVay buscarán un golpe de autoridad divisional en Santa Clara.',
+      ],
+    },
+    de: {
+      title: 'NFL Woche 4 Vorschau: 49ers und Rams eröffnen die Runde im Thursday Night Football',
+      subtitle: 'NFC-West-Schlager im Levi’s Stadium fordert beide Teams nach kurzer Erholungszeit heraus.',
+      excerpt: 'Brock Purdy empfängt Matthew Stafford zum Auftakt von Spielwoche 4 im kalifornischen Divisions-Klassiker.',
+      body: [
+        'Kaum hat Philadelphia die dritte Woche mit einem 24:20-Sieg über Dallas beendet, startet die NFL bereits in die vierte Runde.',
+        'Im Levi’s Stadium treffen die San Francisco 49ers und die Los Angeles Rams nach ihrem Auftaktspiel in Melbourne erneut aufeinander.',
+        'Brock Purdy und Matthew Stafford stehen im Mittelpunkt eines Duells, das für die frühe Hierarchie in der engen NFC West richtungsweisend sein wird.',
+      ],
+    },
+    it: {
+      title: 'Preview NFL Week 4: 49ers e Rams riaccendono la rivalità nel Thursday Night Football',
+      subtitle: 'Scontro divisionale di NFC West al Levi’s Stadium con poco riposo dopo la chiusura della terza settimana.',
+      excerpt: 'Brock Purdy e i 49ers ospitano Matthew Stafford e i Rams per aprire la Week 4 della NFL in prima serata.',
+      body: [
+        'Conclusa la Week 3 con il successo di Philadelphia per 24-20 su Dallas, la NFL riparte subito con la sfida tra 49ers e Rams.',
+        'Le due franchigie tornano ad affrontarsi dopo il debutto a Melbourne vinto 27-7 da San Francisco con tre passaggi da touchdown di Brock Purdy.',
+        'La preparazione ridotta metterà alla prova gli schemi tattici di Kyle Shanahan e Sean McVay in un match fondamentale per la NFC West.',
+      ],
+    },
+    pl: {
+      title: 'Zapowiedź 4. tygodnia NFL: 49ers i Rams wznawiają rywalizację w Thursday Night Football',
+      subtitle: 'Starcie w dywizji NFC West na Levi’s Stadium po poniedziałkowym finiszu 3. kolejki.',
+      excerpt: 'Brock Purdy i San Francisco 49ers podejmują Matthew Stafforda i Rams w meczu otwierającym 4. tydzień NFL.',
+      body: [
+        'Po poniedziałkowym zwycięstwie Philadelphii nad Dallas 24-20 liga NFL natychmiast przechodzi do inauguracji 4. tygodnia rywalizacji.',
+        'San Francisco 49ers i Los Angeles Rams spotykają się po raz drugi w tym sezonie po meczu w Melbourne wygranym przez 49ers 27-7.',
+        'Mecz na Levi’s Stadium po zaledwie trzech dniach odpoczynku będzie wielkim testem formy dla obu czołowych ekip NFC West.',
+      ],
+    },
+    zh: {
+      title: 'NFL第4周前瞻：49人与公羊周四夜赛再度碰撞，国联西区宿敌之战争霸',
+      subtitle: '老鹰周一胜出收官第3周后，李维斯体育场迎来短休息备战的国联西区强强对决。',
+      excerpt: '布罗克·珀迪率领旧金山49人主场迎战马修·斯塔福德与洛杉矶公羊，拉开NFL第4周大战序幕。',
+      body: [
+        '随着费城老鹰周一夜赛24-20击败牛仔，NFL赛程紧接着开启第4周争夺，国联西区最火爆的宿敌交锋在周四夜赛打响。',
+        '这是旧金山49人与洛杉矶公羊本赛季的第二次交手。此前在墨尔本进行的海外揭幕战中，珀迪送出3记达阵传球率队27-7大胜公羊。',
+        '两队仅有三天休整时间便转战圣克拉拉。沙纳汉与麦克维的战术博弈将直接左右国联西区初期的领跑态势。',
+      ],
+    },
+    ja: {
+      title: 'NFL第4週プレビュー：49ersとラムズがサーズデーナイトで伝統の激突',
+      subtitle: 'フィラデルフィアの勝利で第3週が幕を閉じた直後、リーバイス・スタジアムでNFC西地区頂上決戦。',
+      excerpt: 'ブロック・パーディ率いる49ersがマシュー・スタッフォードとラムズを迎え撃つ全米注目の第4週開幕戦。',
+      body: [
+        'マンデーナイトでイーグルスがカウボーイズを24-20で下した熱気冷めやらぬ中、NFLは早くも第4週の口火を切ります。',
+        'サンフランシスコ49ersとロサンゼルス・ラムズの対戦は、豪州メルボルンでの開幕戦（49ersが27-7で勝利）以来今季2度目となります。',
+        '中3日の過密日程の中、リーバイス・スタジアムで行われる伝統の地区対決は序盤戦の順位争いを左右する大一番となります。',
+      ],
+    },
+    ko: {
+      title: 'NFL 4주차 프리뷰: 49ers와 램스, 서스데이 나이트 풋볼서 서부 지구 격돌',
+      subtitle: '이글스의 3주차 승리 후 곧바로 리바이스 스타디움에서 펼쳐지는 NFC 서부 라이벌전.',
+      excerpt: '브록 퍼디의 샌프란시스코와 매튜 스태포드의 LA 램스가 프라임타임 4주차 개막전에서 격돌한다.',
+      body: [
+        '필라델피아가 카우보이스를 24-20으로 꺾으며 3주차를 마감한 지 얼마 되지 않아 NFL 4주차가 리바이스 스타디움에서 열린다.',
+        '멜버른 해외 경기(49ers 27-7 승리)에 이어 이번 시즌 두 번째로 맞붙는 49ers와 램스는 짧은 휴식 후 다시 만난다.',
+        '퍼디와 스태포드의 쿼터백 대결은 지구 선두권 경쟁의 향방을 가르는 치열한 승부가 될 전망이다.',
+      ],
+    },
+    ar: {
+      title: 'معاينة الأسبوع الرابع من دوري كرة القدم الأمريكية: مواجهة ساخنة بين 49ers ورامز',
+      subtitle: 'صراع غرب المؤتمر الوطني في ملعب ليفايز يضع الجاهزية البدنية على المحك بعد ختام الأسبوع الثالث.',
+      excerpt: 'يستضيف بروك بيردي وفريق 49ers ماثيو ستافورد وفريق رامز في افتتاح مواجهات الأسبوع الرابع تحت الأضواء الكاشفة.',
+      body: [
+        'بعد فوز فيلادلفيا المثير على دالاس بنتيجة 24-20، ينطلق الأسبوع الرابع مباشرة بمواجهة عريقة بين سان فرانسيسكو ورامز.',
+        'يلتقي الفريقان للمرة الثانية هذا الموسم بعد مواجهتهما في ملبورن التي حسمها سان فرانسيسكو 27-7 بفضل ثلاث تمريرات حاسمة لبيردي.',
+        'ويعد اللقاء في سانتا كلارا اختبارا تكتيكيا هاما لكايل شاناهان وشون ماكفاي في صراع صدارة المجموعة.',
+      ],
+    },
+  },
+  'arsenal-vs-psg-ucl-matchday2-emirates-2026': {
+    fr: {
+      title: 'Ligue des champions 2e journée : Arsenal reçoit le PSG dans un choc royal à l’Emirates',
+      subtitle: 'Mikel Arteta et Luis Enrique s’affrontent à Londres pour des points capitaux dans la nouvelle phase de ligue.',
+      excerpt: 'Arsenal affronte le Paris Saint-Germain à l’Emirates Stadium mercredi soir dans l’affiche phare de la 2e journée européenne.',
+      body: [
+        'Le football européen vit sa plus belle soirée de la semaine mercredi avec le duel au sommet entre Arsenal et le Paris Saint-Germain à l’Emirates Stadium.',
+        'Deuxièmes de Premier League avec 15 points, les Gunners de Mikel Arteta s’appuient sur un Bukayo Saka étincelant et une charnière Saliba-Gabriel quasi infranchissable pour frapper un grand coup face au champion de France.',
+        'Le PSG de Luis Enrique se présente avec une formation rajeunie et incisive emmenée par Bradley Barcola et Ousmane Dembélé, désireuse de consolider sa place dans le top 8 qualificatif pour les huitièmes de finale.',
+      ],
+    },
+    es: {
+      title: 'Champions League Jornada 2: Arsenal y PSG chocan en un duelo de gigantes en el Emirates',
+      subtitle: 'Mikel Arteta y Luis Enrique se miden en Londres con puntos vitales y prestigio continental en juego.',
+      excerpt: 'El Arsenal recibe al París Saint-Germain en el Emirates Stadium este miércoles en el partido más esperado de la jornada.',
+      body: [
+        'La Liga de Campeones ofrece su gran espectáculo de la semana este miércoles cuando el Arsenal y el París Saint-Germain salten al césped del Emirates Stadium.',
+        'El equipo de Mikel Arteta llega en gran momento tras sumar 15 puntos en la Premier League, respaldado por la creatividad de Bukayo Saka y una defensa impenetrable liderada por William Saliba.',
+        'El PSG de Luis Enrique apuesta por la velocidad de Bradley Barcola y Ousmane Dembélé para sumar tres puntos cruciales en la fase de liga y aspirar a los puestos de clasificación directa.',
+      ],
+    },
+    de: {
+      title: 'Champions League Spieltag 2: Arsenal empfängt PSG zum europäischen Topspiel im Emirates',
+      subtitle: 'Mikel Arteta und Luis Enrique kämpfen in London um wichtige Punkte in der Ligaphase.',
+      excerpt: 'Arsenal trifft am Mittwochabend im Emirates Stadium auf Paris Saint-Germain im Kracher des 2. Spieltags.',
+      body: [
+        'Europäischer Spitzenfußball garantiert am Mittwochabend Hochspannung, wenn der FC Arsenal im Emirates Stadium auf Paris Saint-Germain trifft.',
+        'Mit 15 Punkten auf Rang zwei der Premier League präsentiert sich die Mannschaft von Mikel Arteta in bestechender Form, angetrieben von Bukayo Saka und einer stabilen Abwehr.',
+        'PSG reist mit einem jungen, hochpressenden Team um Shootingstar Bradley Barcola an, um sich eine Spitzenposition unter den besten acht Mannschaften der Ligaphase zu sichern.',
+      ],
+    },
+    it: {
+      title: 'Champions League 2ª giornata: Arsenal contro PSG, scontro tra titani all’Emirates',
+      subtitle: 'Mikel Arteta e Luis Enrique si affrontano a Londra con in palio punti pesanti per la classifica della fase a girone unico.',
+      excerpt: 'L’Arsenal ospita il Paris Saint-Germain all’Emirates Stadium nel match clou del mercoledì di Champions League.',
+      body: [
+        'Serata di grande fascino a Londra dove l’Emirates Stadium ospita la sfida di cartello della seconda giornata di Champions League tra Arsenal e Paris Saint-Germain.',
+        'I Gunners di Arteta arrivano all’appuntamento con 15 punti in Premier League e puntano sulla fantasia di Bukayo Saka e sulla solidità difensiva di Saliba per superare i campioni di Francia.',
+        'Il PSG di Luis Enrique si affida al talento offensivo di Bradley Barcola e Ousmane Dembélé per strappare punti preziosi nella corsa alla qualificazione diretta agli ottavi.',
+      ],
+    },
+    pl: {
+      title: 'Liga Mistrzów 2. kolejka: Arsenal kontra PSG w hicie na Emirates Stadium',
+      subtitle: 'Mikel Arteta i Luis Enrique walczą w Londynie o cenne punkty w fazie ligowej europejskich pucharów.',
+      excerpt: 'Arsenal podejmuje Paris Saint-Germain w najciekawszym starciu środowej serii spotkań Ligi Mistrzów.',
+      body: [
+        'Europejski futbol osiąga najwyższy poziom emocji w środę na Emirates Stadium podczas wielkiego starcia Arsenalu z Paris Saint-Germain.',
+        'Arsenal zajmuje drugie miejsce w Premier League z 15 punktami, imponując dyscypliną taktyczną i formą Bukayo Saki oraz Williama Saliby.',
+        'Paryżanie prowadzeni przez Luisa Enrique stawiają na dynamikę Bradleya Barcoli i chcą wywieźć z Londynu punkty przybliżające ich do czołowej ósemki tabeli ligowej.',
+      ],
+    },
+    zh: {
+      title: '欧冠第2轮焦点战：阿森纳主场决战巴黎圣日耳曼，酋长球场迎来豪门对决',
+      subtitle: '阿尔特塔与恩里克伦敦斗法，联赛阶段关键积分与欧洲豪门威望在聚光灯下揭晓。' ,
+      excerpt: '周三晚间阿森纳在酋长球场迎战法甲霸主巴黎圣日耳曼，上演欧冠第2轮最受瞩目的巅峰战役。',
+      body: [
+        '周三晚间的酋长球场成为欧洲足坛的绝对中心，阿森纳与巴黎圣日耳曼的巅峰较量为欧冠第2轮定下最强基调。',
+        '在阿尔特塔率领下，阿森纳以15分紧随曼城位列英超积分榜次席。萨卡的前场组织与萨利巴统领的稳固防线，让枪手具备了向欧冠奖杯发起冲击的底气。',
+        '恩里克率领的年轻化大巴黎同样来势汹汹，巴尔科拉与登贝莱在边路的穿透力极强。在全新36队大联赛制下，每1分都直接决定着能否直通欧冠16强。',
+      ],
+    },
+    ja: {
+      title: 'UEFAチャンピオンズリーグ第2節：アーセナル対PSG、エミレーツで欧州最高峰の激突',
+      subtitle: 'アルテタとルイス・エンリケがロンドンで激突。決勝トーナメント直行へ重要な勝ち点争い。',
+      excerpt: 'アーセナルが本拠地エミレーツ・スタジアムにパリ・サンジェルマンを迎える欧州CL第2節の注目カード。',
+      body: [
+        '欧州サッカー最高峰の舞台で水曜夜屈指のビッグマッチが実現。エミレーツ・スタジアムでアーセナルとパリ・サンジェルマンが激突します。',
+        'プレミアリーグで15ポイントを獲得し好調を維持するアルテタ監督率いるアーセナルは、サカのチャンスメイクと強固な守備陣を武器に勝利を狙います。',
+        '対するPSGも新星バルコラやデンベレを擁するスピード感溢れる攻撃陣でロンドン遠征に臨み、上位8チーム入りを目指します。',
+      ],
+    },
+    ko: {
+      title: 'UEFA 챔피언스리그 2차전: 아스널 vs PSG, 에미레이츠 스타디움서 펼쳐지는 빅매치',
+      subtitle: '아르테타와 루이스 엔리케의 전술 대결. 리그 페이즈 상위권 선점을 향한 격돌.',
+      excerpt: '아스널이 수요일 밤 홈에서 파리 생제르맹을 상대로 챔피언스리그 2차전 최대 빅매치를 치른다.',
+      body: [
+        '유럽 최고의 축구 제전이 수요일 밤 런던 에미레이츠 스타디움에서 아스널과 파리 생제르맹의 맞대결로 최고조에 달한다.',
+        '프리미어리그 15점으로 2위를 달리는 아스널은 부카요 사카의 창의성과 윌리엄 살리바의 수비벽을 앞세워 프랑스 챔피언을 맞이한다.',
+        '엔리케 감독의 PSG는 바르콜라와 뎀벨레의 기동력을 바탕으로 16강 직행 티켓이 걸린 8위권 진입을 노린다.',
+      ],
+    },
+    ar: {
+      title: 'دوري أبطال أوروبا الجولة الثانية: أرسنال يواجه باريس سان جيرمان في قمة ملعب الإمارات',
+      subtitle: 'صراع ناري بين ميكيل أرتيتا ولويس إنريكي على نقاط ثمينة في مرحلة الدوري الأوروبية.',
+      excerpt: 'يستضيف أرسنال بطل فرنسا باريس سان جيرمان مساء الأربعاء في أبرز مواجهات الجولة الثانية من دوري الأبطال.',
+      body: [
+        'تتجه أنظار عشاق الكرة الأوروبية مساء الأربعاء إلى ملعب الإمارات بلندن لمتابعة القمة المرتقبة بين أرسنال وباريس سان جيرمان.',
+        'يدخل أرسنال اللقاء وهو في وصافة الدوري الإنجليزي برصيد 15 نقطة معتمدا على إبداع بوكايو ساكا وصلابة دفاعه بقيادة ساليبا.',
+        'في المقابل، يسعى باريس سان جيرمان بقيادة لويس إنريكي وتألق باركولا وديمبيلي لخطف فوز ثمين يعزز موقعه بين الثمانية الكبار.',
+      ],
+    },
+  },
+  'china-open-2026-round1-sinner-sabalenka-beijing': {
+    fr: {
+      title: 'China Open 1er tour : Sinner lance la défense de son titre, Sabalenka et Zheng régalent à Pékin',
+      subtitle: 'Le numéro 1 mondial écarte Safiullin en deux manches pendant que le public chinois acclame sa championne olympique.',
+      excerpt: 'Jannik Sinner s’impose 6-3, 6-4 à Pékin, tandis qu’Aryna Sabalenka et Zheng Qinwen filent au deuxième tour.',
+      body: [
+        'La tournée asiatique a débuté sur les chapeaux de roue mercredi au Centre National de Tennis de Pékin avec une démonstration du tenant du titre Jannik Sinner.',
+        'Le numéro 1 mondial italien a disposé de Roman Safiullin 6-3, 6-4 en 82 minutes, ne concédant pas la moindre balle de break et s’appuyant sur 84 % de réussite derrière sa première balle.',
+        'Sur le Diamond Court, Aryna Sabalenka a dominé Kalinina 6-2, 6-3, tandis que l’héroïne locale Zheng Qinwen a fait chavirer les 15 000 spectateurs en écrasant Rakhimova 6-1, 6-1.',
+      ],
+    },
+    es: {
+      title: 'Abierto de China Ronda 1: Sinner inicia su defensa con autoridad; Sabalenka y Zheng brillan en Pekín',
+      subtitle: 'El número 1 del mundo supera a Safiullin en sets corridos mientras el público local vitorea a la campeona olímpica.',
+      excerpt: 'Jannik Sinner vence 6-3 y 6-4 en su debut en Pekín, mientras Sabalenka y Zheng Qinwen avanzan con paso firme.',
+      body: [
+        'La gira asiática de pista dura arrancó este miércoles en el Centro Nacional de Tenis de Pekín con una actuación impecable del vigente campeón Jannik Sinner.',
+        'El número 1 mundial italiano doblegó a Roman Safiullin por 6-3 y 6-4 en 82 minutos, sin conceder puntos de rotura y ganando el 84% de los puntos con su primer servicio.',
+        'En la pista central Diamond Court, Aryna Sabalenka se impuso 6-2 y 6-3 a Kalinina, mientras la campeona olímpica local Zheng Qinwen arrolló a Rakhimova 6-1 y 6-1 ante el delirio de la afición.',
+      ],
+    },
+    de: {
+      title: 'China Open Runde 1: Sinner startet Titelverteidigung souverän; Sabalenka und Zheng glänzen in Peking',
+      subtitle: 'Die Nummer 1 der Welt schlägt Safiullin glatt in zwei Sätzen, während Olympiasiegerin Zheng das Heimpublikum begeistert.',
+      excerpt: 'Jannik Sinner gewinnt 6:3, 6:4 in Peking; Aryna Sabalenka und Zheng Qinwen ziehen mühelos in Runde 2 ein.',
+      body: [
+        'Der asiatische Hartplatz-Herbst begann am Mittwoch im Nationalen Tenniszentrum in Peking standesgemäß mit einem dominanten Auftritt von Jannik Sinner.',
+        'Der italienische Weltranglistenerste bezwang Roman Safiullin mit 6:3 und 6:4 in 82 Minuten, ohne eine einzige Breakchance zuzulassen.',
+        'Auf dem Diamond Court siegte Aryna Sabalenka souverän mit 6:2 und 6:3 über Kalinina, während Chinas Olympiasiegerin Zheng Qinwen beim 6:1, 6:1 über Rakhimova für Begeisterungsstürme sorgte.',
+      ],
+    },
+    it: {
+      title: 'China Open 1° turno: Sinner inizia la difesa del titolo vincendo; Sabalenka e Zheng show a Pechino',
+      subtitle: 'Il numero 1 del mondo batte Safiullin in due set al National Tennis Center, mentre il pubblico di casa acclama Zheng.',
+      excerpt: 'Jannik Sinner supera Safiullin 6-3, 6-4 all’esordio a Pechino, mentre Sabalenka e Zheng volano al secondo turno.',
+      body: [
+        'La trasferta asiatica sul cemento è partita nel migliore dei modi mercoledì a Pechino grazie alla prova di forza del campione in carica Jannik Sinner.',
+        'L’altoatesino numero 1 del mondo ha sconfitto Roman Safiullin per 6-3, 6-4 in 82 minuti, servendo con l’84% di resa sulla prima e senza concedere break.',
+        'Sul Diamond Court Aryna Sabalenka ha regolato la Kalinina 6-2, 6-3, mentre l’idolo di casa Zheng Qinwen ha travolto la Rakhimova 6-1, 6-1 tra gli applausi del pubblico cinese.',
+      ],
+    },
+    pl: {
+      title: 'China Open 1. runda: Sinner rozpoczyna obronę tytułu od zwycięstwa; Sabalenka i Zheng błyszczą w Pekinie',
+      subtitle: 'Lider rankingu pokonuje Safiullina w dwóch setach, a Zheng porywa chińską publiczność.',
+      excerpt: 'Jannik Sinner wygrywa 6-3, 6-4 na inaugurację w Pekinie; Aryna Sabalenka i Zheng Qinwen meldują się w 2. rundzie.',
+      body: [
+        'Azjatycka część sezonu na kortach twardych wystartowała w środę w Pekinie od mocnego uderzenia obrońcy tytułu Jannika Sinnera.',
+        'Włoski numer 1 na świecie pokonał Romana Safiullina 6-3, 6-4 w 82 minuty, nie broniąc ani jednego break pointa w całym spotkaniu.',
+        'Na korcie Diamond Aryna Sabalenka ograła Kalininę 6-2, 6-3, natomiast mistrzyni olimpijska Zheng Qinwen rozbiła Rakhimovą 6-1, 6-1 ku radości miejscowych kibiców.',
+      ],
+    },
+    zh: {
+      title: '中网首轮战报：辛纳完胜萨菲乌林开启卫冕，萨巴伦卡郑钦文携手晋级',
+      subtitle: '世界第一在国家网球中心两盘直落过关，本土奥运冠军郑钦文引爆钻石球场狂欢。',
+      excerpt: '辛纳以6-3、6-4轻取萨菲乌林开启中网之旅，萨巴伦卡与郑钦文强势晋级女单次轮。',
+      body: [
+        '周三的北京国家网球中心正式打响亚洲硬地赛季巅峰战役，卫冕冠军、世界第一辛纳展现王者霸气。',
+        '辛纳在整场82分钟的对决中未送出任何破发点，一发得分率高达84%，以6-3、6-4干脆利落地击败萨菲乌林，顺利闯过首轮关。',
+        '在钻石球场，美网亚军萨巴伦卡以6-2、6-3力克加里宁娜；巴黎奥运会金牌得主郑钦文更是手感火热，仅用时58分钟便以6-1、6-1横扫拉希莫娃，引发全场上万名观众的热烈欢呼。',
+      ],
+    },
+    ja: {
+      title: 'チャイナ・オープン1回戦：シナーがストレート勝ちで連覇へ好発進、サバレンカと鄭欽文も圧勝',
+      subtitle: '世界ランク1位が北京でサフィウリンを一蹴。地元の大声援を受けた五輪覇者・鄭も2回戦へ。',
+      excerpt: 'ヤニック・シナーが6-3、6-4で北京初戦を快勝。サバレンカと鄭欽文も盤石の強さで勝ち上がり。',
+      body: [
+        '水曜日の北京・国家テニスセンターでアジアのハードコートシーズンが開幕し、ディフェンディング王者のシナーが圧巻のプレーを見せました。',
+        'イタリアの世界王者シナーはファーストサーブ時のポイント獲得率84％を記録し、1つのブレークポイントも与えず6-3、6-4でサフィウリンを退けました。',
+        'ダイヤモンド・コートではサバレンカが6-2、6-3で快勝し、パリ五輪金メダリストの鄭欽文も6-1、6-1で相手を圧倒して大観衆を沸かせました。',
+      ],
+    },
+    ko: {
+      title: '차이나 오픈 1라운드: 시너 무실점 세트 완승으로 타이틀 방어 시동, 사발렌카 정친원 순항',
+      subtitle: '세계 1위 시너가 베이징 개막전서 사피울린을 제압했고 정친원이 홈 팬들의 환호를 이끌었다.',
+      excerpt: '야닉 시너가 6-3, 6-4 완승으로 2라운드에 올랐고, 아리나 사발렌카와 정친원도 완벽한 승리를 거뒀다.',
+      body: [
+        '아시아 하드코트 스윙이 수요일 베이징 국가테니스센터에서 본격 개막하며 디펜딩 챔피언 야닉 시너가 압도적인 기량을 선보였다.',
+        '세계 1위 시너는 단 하나의 브레이크 포인트도 내주지 않는 완벽한 서브 게임을 앞세워 로만 사피울린을 6-3, 6-4로 완파했다.',
+        '다이아몬드 코트에서는 사발렌카가 6-2, 6-3으로 승리했고, 올림픽 금메달리스트 정친원은 라키모바를 6-1, 6-1로 꺾고 홈 관중을 열광시켰다.',
+      ],
+    },
+    ar: {
+      title: 'بطولة الصين المفتوحة الدور الأول: سينر يفتتح رحلة الدفاع عن لقبه وسابالينكا وتشنغ تتألقان في بكين',
+      subtitle: 'المصنف الأول عالميا يتخطى سافيولين بمجموعتين دون رد وسط هتافات الجماهير الصينية لنجمتهم تشنغ.',
+      excerpt: 'حقق يانيك سينر فوزا مقنعا 6-3 و6-4 في بكين، بينما عبرت أرينا سابالينكا وتشنغ تشينوين بسهولة للدور الثاني.',
+      body: [
+        'انطلقت منافسات الملاعب الصلبة الآسيوية يوم الأربعاء في المركز الوطني للتنس ببكين وسط تألق حامل اللقب يانيك سينر.',
+        'وفرض النجم الإيطالي المصنف الأول عالميا أسلوبه ليفوز 6-3 و6-4 على رومان سافيولين دون أن يمنح منافسه أي فرصة لكسر الإرسال.',
+        'وفي منافسات السيدات على ملعب دايموند، فازت سابالينكا 6-2 و6-3، بينما سحقت البطلة الأولمبية الصينية تشنغ منافستها راخيموفا 6-1 و6-1.',
+      ],
+    },
+  },
+  'pga-tour-sanderson-farms-pro-am-tee-times-2026': {
+    fr: {
+      title: 'Sanderson Farms Championship : fin du Pro-Am et départs fixés pour le 1er tour à Jackson',
+      subtitle: 'Kevin Yu et Mackenzie Hughes mènent la vague matinale au Country Club of Jackson avec 500 points en jeu.',
+      excerpt: 'Le Pro-Am officiel s’achève à Jackson, lançant le sprint du FedExCup Fall sur le PGA Tour dès jeudi.',
+      body: [
+        'Après la ferveur de la Presidents Cup à Medinah, le golf professionnel se tourne vers la bataille pour le maintien sur le circuit.',
+        'Le Pro-Am officiel du Sanderson Farms Championship s’est achevé mercredi sous le soleil de Jackson, scellant les horaires du premier tour.',
+        'Le tenant du titre Kevin Yu partira jeudi à 7h45 aux côtés de Mackenzie Hughes et Emiliano Grillo, tandis que Rickie Fowler et Sam Burns s’élanceront l’après-midi.',
+      ],
+    },
+    es: {
+      title: 'Sanderson Farms Championship: concluye el Pro-Am y quedan listos los horarios en Jackson',
+      subtitle: 'Kevin Yu y Mackenzie Hughes encabezan el grupo matinal con 500 puntos de la FedExCup en juego.',
+      excerpt: 'El Country Club de Jackson finaliza la jornada de preparación antes de la Ronda 1 del FedExCup Fall.',
+      body: [
+        'Tras la emoción de la Presidents Cup en Medinah, el golf profesional afronta la dura lucha por asegurar los derechos de juego en el PGA Tour.',
+        'El Pro-Am oficial del Sanderson Farms Championship concluyó este miércoles en el Country Club de Jackson con el sorteo de salidas para el jueves.',
+        'El campeón defensor Kevin Yu saldrá a las 7:45 hora local junto a Mackenzie Hughes y Emiliano Grillo, con Rickie Fowler compitiendo en el turno vespertino.',
+      ],
+    },
+    de: {
+      title: 'Sanderson Farms Championship: Pro-Am beendet und Startzeiten für Runde 1 in Jackson stehen fest',
+      subtitle: 'Kevin Yu und Mackenzie Hughes starten am Donnerstagmorgen im Country Club of Jackson ins Turnier.',
+      excerpt: 'Die Vorbereitung in Mississippi ist abgeschlossen; der FedExCup Fall beginnt am Donnerstag mit Runde 1.',
+      body: [
+        'Nach dem Jubel über den Presidents Cup in Medinah kehrt der PGA-Tour-Alltag mit dem Kampf um Tourkarten für 2027 zurück.',
+        'Am Mittwoch ging das offizielle Pro-Am im Country Club of Jackson zu Ende und die Startzeiten für den Auftakt wurden bestätigt.',
+        'Titelverteidiger Kevin Yu startet um 7:45 Uhr Ortszeit gemeinsam mit Mackenzie Hughes und Emiliano Grillo in Runde 1.',
+      ],
+    },
+    it: {
+      title: 'Sanderson Farms Championship: concluso il Pro-Am, definiti gli orari del 1° giro a Jackson',
+      subtitle: 'Kevin Yu e Mackenzie Hughes aprono il programma mattutino al Country Club of Jackson.',
+      excerpt: 'Terminata la giornata di vigilia in Mississippi per l’avvio del FedExCup Fall del PGA Tour.',
+      body: [
+        'Chiusa la parentesi della Presidents Cup a Medinah, il PGA Tour riparte con il serrato confronto per la permanenza nel circuito.',
+        'Al Country Club di Jackson si è svolto il Pro-Am ufficiale che ha stabilito i tee time della prima giornata di giovedì.',
+        'Il campione uscente Kevin Yu scenderà in campo alle 7:45 con Mackenzie Hughes ed Emiliano Grillo alla caccia di punti pesanti.',
+      ],
+    },
+    pl: {
+      title: 'Sanderson Farms Championship: Pro-Am zakończony, godziny startu 1. rundy w Jackson ustalone',
+      subtitle: 'Kevin Yu i Mackenzie Hughes na czele porannej grupy w walce o 500 punktów FedExCup.',
+      excerpt: 'Zakończył się oficjalny Pro-Am w Mississippi przed czwartkowym otwarciem cyklu FedExCup Fall.',
+      body: [
+        'Po emocjach Presidents Cup w Medinah uwaga zawodowego golfa skupia się na rywalizacji o pełne prawa gry w 2027 roku.',
+        'W środę na polu Country Club of Jackson dobiegł końca oficjalny Pro-Am, który ustalił pary na czwartkową 1. rundę turnieju.',
+        'Obrońca tytułu Kevin Yu wystartuje o 7:45 rano czasu lokalnego w grupie z Mackenziem Hughesem oraz Emiliano Grillo.',
+      ],
+    },
+    zh: {
+      title: '桑德森农场锦标赛：职业业余配对赛落幕，杰克逊首轮出发时间出炉',
+      subtitle: '卫冕冠军俞俊安携手休斯领衔周四早场，500个联邦快递杯积分与全卡豁免展开争夺。',
+      excerpt: '杰克逊乡村俱乐部结束官方配对赛，美巡赛秋季积分赛首站即将在密西西比正式开杆。',
+      body: [
+        '麦迪纳总统杯的喧嚣落幕后，职业高尔夫球坛迅速转向残酷的保卡争夺战。',
+        '周三桑德森农场锦标赛职业业余配对赛在杰克逊乡村俱乐部顺利结束，周四首轮焦点组出发时间正式公布。',
+        '卫冕冠军俞俊安将于早晨7点45分从1号洞开球，同组名将包括休斯与格里略；福勒与伯恩斯则将在下午场亮相。',
+      ],
+    },
+    ja: {
+      title: 'サンダーソン・ファームズ選手権：プロアマ戦終了、ジャクソンで初日組み合わせ決定',
+      subtitle: 'ディフェンディング王者のケビン・ユーらが木曜朝の第1組でティオフへ。',
+      excerpt: 'カントリー・クラブ・オブ・ジャクソンで大会前日のプロアマが終了し、フェデックスカップ秋季初戦の準備が完了。',
+      body: [
+        'プレジデンツカップの余韻を残しつつ、PGAツアーは2027年のシード権を巡るフォールシリーズ初戦を迎えます。',
+        'ミシシッピ州のカントリー・クラブ・オブ・ジャクソンでは水曜日にプロアマ戦が終了し、初日のティオフ時間が決定しました。',
+        '連覇を狙うケビン・ユーは午前7時45分にヒューズ、グリ略と同組でスタートし、午後はリッキー・ファウラーらが登場します。',
+      ],
+    },
+    ko: {
+      title: '샌더슨 팜스 챔피언십: 프로암 종료, 잭슨 1라운드 티타임 확정',
+      subtitle: '디펜딩 챔피언 케빈 유와 매켄지 휴즈가 목요일 오전 티오프를 준비한다.',
+      excerpt: '잭슨 컨트리 클럽에서 공식 프로암이 마무리되며 페덱스컵 가을 시리즈 첫 대회의 막이 오른다.',
+      body: [
+        '프레지던츠컵의 열기 뒤로 PGA 투어 선수들은 2027 시즌 시드권을 지키기 위한 가을 혈투에 돌입한다.',
+        '수요일 미시시피 잭슨 컨트리 클럽에서 공식 프로암 행사가 끝나고 1라운드 조 편성이 완료되었다.',
+        '디펜딩 챔피언 케빈 유는 현지 시각 오전 7시 45분 1번 홀에서 매켄지 휴즈, 에밀리아노 그리요와 함께 출격한다.',
+      ],
+    },
+    ar: {
+      title: 'بطولة ساندرسون فارمز: اختتام جولة المحترفين وتحديد مواعيد انطلاق الدور الأول في جاكسون',
+      subtitle: 'كيفن يو وماكنزي هيوز يقودان الانطلاقة الصباحية في كانتري كلوب أوف جاكسون لحصد نقاط فيديكس كاب.',
+      excerpt: 'اختتمت الجولة الاستعدادية في مسيسيبي قبل انطلاق الجولة الأولى الحاشدة في بطولة ساندرسون فارمز.',
+      body: [
+        'عقب إسدال الستار على كأس الرؤساء في ميدينا، يتجدد الصراع على البقاء في جولة بي جيه إيه لضمان بطاقات المشاركة.',
+        'اختتمت الأربعاء الفعاليات التمهيدية لبطولة ساندرسون فارمز وتحددت مواعيد انطلاق منافسات الدور الأول يوم الخميس.',
+        'وينطلق حامل اللقب كيفن يو عند الساعة 7:45 صباحا برفقة ماكنزي هيوز وإيميليانو غريلو بحثا عن التتويج مجددا.',
+      ],
+    },
+  },
+  'f1-singapore-gp-paddock-day-antonelli-title-focus-2026': {
+    fr: {
+      title: 'Grand Prix de Singapour : le paddock de Marina Bay s’anime, Antonelli serein sous les projecteurs',
+      subtitle: 'Le leader du championnat aborde la chaleur tropicale avec 88 points d’avance face aux évolutions de Ferrari et McLaren.',
+      excerpt: 'La F1 s’installe à Singapour pour la course nocturne, Kimi Antonelli menant la danse avec 88 points d’avance.',
+      body: [
+        'Le paddock de Formule 1 a ouvert ses portes mercredi après-midi au bord de l’eau à Marina Bay sous une chaleur humide étouffante de 31 degrés.',
+        'Fort de sa victoire autoritaire à Bakou, le prodige de Mercedes Kimi Antonelli aborde la manche nocturne en tête du mondial avec 317 points, soit 88 longueurs d’avance sur George Russell.',
+        'Dans les garages voisins, Ferrari et McLaren ont déballé des ailerons à fort appui pour contrer les Flèches d’Argent sur ce tracé sinueux de 19 virages.',
+      ],
+    },
+    es: {
+      title: 'Gran Premio de Singapur: el paddock de Marina Bay cobra vida y Antonelli asume el foco del título',
+      subtitle: 'El líder del campeonato afronta el calor tropical con 88 puntos de ventaja mientras Ferrari y McLaren traen mejoras.',
+      excerpt: 'La Fórmula 1 aterriza en Marina Bay para la carrera nocturna con Kimi Antonelli al frente con 88 puntos de renta.',
+      body: [
+        'El paddock de la Fórmula 1 comenzó su actividad este miércoles junto a la bahía de Singapur bajo un calor sofocante de 31 grados y alta humedad.',
+        'Tras su contundente triunfo de semáforo a bandera en Bakú, el joven piloto de Mercedes Kimi Antonelli lidera el Mundial con 317 puntos, 88 más que George Russell.',
+        'Ferrari y McLaren confían en sus paquetes de alta carga aerodinámica para plantar batalla a las Flechas de Plata en las 19 curvas de Marina Bay.',
+      ],
+    },
+    de: {
+      title: 'Großer Preis von Singapur: Marina-Bay-Paddock erwacht zum Leben, Antonelli im Titel-Fokus',
+      subtitle: 'Der WM-Führende trotzt der Tropenhitze mit 88 Punkten Vorsprung, während Ferrari und McLaren Upgrades bringen.',
+      excerpt: 'Die Formel 1 rüstet sich in Singapur für das Nachtrennen, Kimi Antonelli reist mit 88 Zählern Vorsprung an.',
+      body: [
+        'Im Fahrerlager von Marina Bay herrschte am Mittwochnachmittag bei schweißtreibenden 31 Grad tropischer Hitze reges Treiben.',
+        'Nach seinem dominanten Sieg in Baku führt Mercedes-Shootingstar Kimi Antonelli die Weltmeisterschaft mit 317 Punkten und 88 Zählern Vorsprung souverän an.',
+        'Ferrari und McLaren haben spezielle High-Downforce-Pakete für die 19 Kurven im Gepäck, um Mercedes beim anspruchsvollen Nachtrennen herauszufordern.',
+      ],
+    },
+    it: {
+      title: 'Gran Premio di Singapore: il paddock di Marina Bay si accende, Antonelli concentrato sul titolo',
+      subtitle: 'Il leader iridato gestisce 88 punti di vantaggio nel caldo tropicale mentre Ferrari e McLaren preparano novità aerodinamiche.',
+      excerpt: 'La Formula 1 si prepara alla notte di Marina Bay con Kimi Antonelli saldamente al comando con 88 punti su Russell.',
+      body: [
+        'Il paddock di Marina Bay si è animato mercoledì pomeriggio sul lungomare di Singapore con 31 gradi di temperatura e un’afa asfissiante.',
+        'Forte del successo dominatore a Baku, il rookie della Mercedes Kimi Antonelli guida il mondiale con 317 punti, a +88 sul compagno Russell.',
+        'Ferrari e McLaren sono pronte a dare battaglia con ali ad alto carico per sfruttare la proverbiale agilità sui 19 tornanti del tracciato cittadino.',
+      ],
+    },
+    pl: {
+      title: 'Grand Prix Singapuru: padok na Marina Bay tętni życiem, Antonelli w centrum uwagi',
+      subtitle: 'Lider mistrzostw przybywa do tropikalnego Singapuru z przewagą 88 punktów, a Ferrari i McLaren szykują poprawki.',
+      excerpt: 'Formuła 1 instaluje się w Singapurze przed nocnym wyścigiem, z Kimim Antonellim na czele klasyfikacji.',
+      body: [
+        'Padok Formuły 1 w środowe popołudnie ożył w tropikalnym upale Singapuru, przygotowując się do 18. rundy sezonu.',
+        'Po pewnym triumfie w Baku Kimi Antonelli z Mercedesa ma na koncie 317 punktów i 88 oczek przewagi nad George’em Russellem.',
+        'Inżynierowie Ferrari i McLarena liczą, że pakiety aerodynamiczne o wysokim docisku pozwolą im powalczyć o zwycięstwo pod jupiterami.',
+      ],
+    },
+    zh: {
+      title: '新加坡大奖赛：滨海湾围场全面启动，安东内利领跑争冠焦点',
+      subtitle: '积分领跑者在热带高温下手握88分巨大优势，法拉利与迈凯伦携高下压力套件出击。',
+      excerpt: 'F1夜赛大军进驻滨海湾赛道，19岁梅赛德斯超新星安东内利以317分强势领跑车手积分榜。',
+      body: [
+        '周三下午的新加坡滨海湾围场全面进入备战状态，全员在31摄氏度的高温高湿环境下完成了车房与赛车的最后调试。',
+        '刚在巴库杆位领跑夺冠的梅赛德斯超级新星安东内利以317分高居榜首，领先队友拉塞尔达88分之多，面对媒体采访展现出成熟的争冠定力。',
+        '法拉利的汉密尔顿、勒克莱尔以及迈凯伦的诺里斯均带来了针对慢速弯角的高下压力套件，力争在19个弯角的夜赛街道战中逆袭银箭。',
+      ],
+    },
+    ja: {
+      title: 'シンガポールGP：マリーナベイのパドックが始動、アントネッリが王座へ視界良好',
+      subtitle: '選手権首位が88点リードで熱帯夜の決戦へ。フェラーリとマクラーレンは空力改善で対抗。',
+      excerpt: 'F1サーカスがマリーナベイに到着。キミ・アントネッリが317ポイントでシンガポール夜戦に挑む。',
+      body: [
+        '水曜午後のマリーナベイ市街地サーキットは気温31度、湿度85％の熱帯気候の中、週末のナイトレースに向けてパドックが始動しました。',
+        'バクーでポール・トゥ・ウィンを飾ったメルセデスのキミ・アントネッリは317点を獲得し、同僚ラッセルに88点差をつけて首位を独走しています。',
+        '一方のフェラーリとマクラーレンは高ダウンフォース仕様のウイングを投入し、19のコーナーが待ち受ける市街地コースでメルセデス追撃を誓います。',
+      ],
+    },
+    ko: {
+      title: '싱가포르 GP: 마리나 베이 패덕 개장, 안토넬리 88점 차 챔피언십 독주 체제',
+      subtitle: '열대야의 시가지 서킷에서 메르세데스 루키가 317점으로 선두를 달리는 가운데 페라리와 맥라렌이 업그레이드로 맞선다.',
+      excerpt: 'F1 서커스가 마리나 베이에 입성해 야간 레이스 준비를 마쳤다. 안토넬리가 여유 있는 리드를 지키고 있다.',
+      body: [
+        '수요일 오후 싱가포르 마리나 베이 패덕은 31도의 무더위와 높은 습도 속에서 주말 야간 레이스를 위한 장비 점검을 마쳤다.',
+        '바쿠에서 폴투윈을 거둔 메르세데스의 19세 루키 키미 안토넬리는 317점으로 조지 러셀에 88점 앞서며 차분하게 미디어를 맞이했다.',
+        '페라리와 맥라렌은 마리나 베이의 19개 코너에 맞춘 고다운포스 에어로 패키지를 장착하고 메르세데스 독주 저지에 나선다.',
+      ],
+    },
+    ar: {
+      title: 'جائزة سنغافورة الكبرى: حلبة مارينا باي تستقبل أبطال فورمولا 1 وأنتونيللي يتصدر المشهد',
+      subtitle: 'متصدر بطولة العالم يدخل السباق الليلي بأفضلية 88 نقطة وسط ترقب لتحديثات فيراري وماكلارين.',
+      excerpt: 'تستعد حلبة مارينا باي لسباق سنغافورة الليلي المثير تحت الأضواء الكاشفة وكيمي أنتونيللي في الصدارة.',
+      body: [
+        'دبت الحياة في مرآب حلبة مارينا باي بعد ظهر الأربعاء تحت أجواء سنغافورة الحارة والرطبة استعدادا للجولة الثامنة عشرة.',
+        'يدخل الإيطالي كيمي أنتونيللي السباق الليلي برصيد 317 نقطة وبفارق 88 نقطة عن زميله جورج راسل إثر فوزه المستحق في باكو.',
+        'وفي المقابل، تسعى فيراري وماكلارين للاستفادة من المنعطفات التسعة عشر الضيقة لحلبة الشوارع لتقليص الفارق مع مرسيدس.',
+      ],
+    },
+  },
 };
-
-
-
 

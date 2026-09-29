@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "The Sanderson Farms Championship is hosted at Country Club of Jackson, Mississippi.",
+    "Country Club of Jackson features 7,461 yards of championship bermudagrass golf.",
     "The tournament offers 500 FedExCup points and a two-year PGA Tour winner exemption.",
-    "Kevin Yu captured the 2024 title in a dramatic playoff, launching his breakthrough campaign."
+    "Kevin Yu groups with Mackenzie Hughes and Emiliano Grillo for Thursday's opening round."
   ],
   "keyPlayers": [
     {
-      "name": "Country Club of Jackson",
-      "team": "PGA Tour",
-      "hook": "Demanding par-72 championship layout testing iron precision and bermudagrass putting."
+      "name": "Kevin Yu",
+      "team": "Defending Champion",
+      "hook": "Returns to Jackson seeking to repeat his dramatic breakthrough playoff victory."
     },
     {
-      "name": "FedExCup Fall field",
+      "name": "Mackenzie Hughes",
       "team": "PGA Tour",
-      "hook": "Competitors battling for top-125 card security and exemptions into 2027 signature events."
+      "hook": "2016 Sanderson Farms champion looking to recapture Mississippi magic."
     }
   ],
   "headToHead": "",
@@ -35,13 +35,26 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Tournament Preview",
+  "roundLabel": "Round 1 Eve · Pro-Am & Tee Times",
   "resultSummary": "",
-  "leaderboard": [],
+  "leaderboard": [
+    {
+      "pos": "Featured",
+      "name": "Kevin Yu / Mackenzie Hughes / Emiliano Grillo",
+      "score": "7:45 a.m. CT",
+      "note": "Tee 1"
+    },
+    {
+      "name": "Rickie Fowler / Sam Burns / Davis Riley",
+      "pos": "Featured",
+      "score": "12:55 p.m. CT",
+      "note": "Tee 10"
+    }
+  ],
   "tennisSets": [],
   "sources": [
     {
-      "name": "PGA Tour: Sanderson Farms Championship tournament home",
+      "name": "PGA Tour: Sanderson Farms Championship tee times",
       "url": "https://www.pgatour.com/tournaments/2026/sanderson-farms-championship/R2026054"
     },
     {
@@ -49,7 +62,7 @@
       "url": "https://sandersonfarmschampionship.com/"
     },
     {
-      "name": "Golfweek: FedExCup Fall preview",
+      "name": "Golfweek: FedExCup Fall preview and tee times",
       "url": "https://golfweek.usatoday.com/category/pga-tour/"
     }
   ],
@@ -57,18 +70,18 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "sanderson-farms-championship-2026",
-  "headline": "Sanderson Farms Championship: FedExCup Fall drama opens in Jackson",
-  "whyCareScore": 8.9,
-  "whyCareReason": "Following Team USA's Presidents Cup victory, the PGA Tour Fall swing moves to Jackson where livelihood and PGA Tour cards are on the line.",
-  "teaser": "Thursday 1 October to Sunday 4 October at Country Club of Jackson. The FedExCup Fall swing intensifies as pros battle for top-125 card security.",
-  "story": "Why this one matters: With the euphoria of Team USA's 18.5-11.5 Presidents Cup victory at Medinah in the rearview mirror, professional golf returns to its most visceral battlefield: the FedExCup Fall.\n\nThe Sanderson Farms Championship in Jackson, Mississippi represents real careers on the line. For players ranked between 51 and 125, every birdie at Country Club of Jackson carries immense value, offering guaranteed starts for 2027 and access to multimillion-dollar Signature Events.\n\nThe tournament has established a proud reputation as a launching pad for future stars, from Sam Burns and Cameron Champ to Kevin Yu. With 500 FedExCup points to the winner, Sunday in Jackson will produce life-changing moments.",
+  "headline": "Sanderson Farms Championship: Pro-Am wraps as Round 1 tee times locked",
+  "whyCareScore": 9.0,
+  "whyCareReason": "Official Pro-Am wraps at Country Club of Jackson with defending champion Kevin Yu and Mackenzie Hughes featured as the FedExCup Fall officially tees off.",
+  "teaser": "Wednesday 30 September: Pro-Am day concludes in Jackson, Mississippi. Featured morning groupings announced for Thursday's Round 1 as tour pros fight for 2027 survival.",
+  "story": "Why this one matters: Wednesday brought the official Pro-Am and final preparation to the Country Club of Jackson, putting the finishing touches on the stage for Thursday's Round 1 of the Sanderson Farms Championship.\n\nThe tournament marks the opening salvo of the PGA Tour's FedExCup Fall, where the stakes are existential. Defending champion Kevin Yu, whose playoff heroics here in 2024 launched his career into the top tier, returns to Jackson grouped alongside two-time tour winner Mackenzie Hughes and Emiliano Grillo for a 7:45 a.m. CT tee time.\n\nWith fast bermudagrass greens and clear Mississippi skies forecast for Thursday morning, early scoring will be vital. For competitors on the threshold of the top 125, the pressure starts with the opening drive on hole number one.",
   "stakes": "The winner earns a two-year PGA Tour exemption, entry into the Sentry and PGA Championship, and crucial FedExCup points.",
   "rivalryAngle": "High-stakes individual survival: fringe tour members versus seasoned veterans protecting their playing privileges.",
   "home": "Country Club of Jackson",
   "away": "FedExCup Fall field",
   "group": "PGA",
   "date": "2026-10-01",
-  "time": "08:00",
+  "time": "07:30",
   "venue": "Country Club of Jackson",
   "city": "Jackson",
   "status": "UPCOMING",

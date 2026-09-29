@@ -1,0 +1,78 @@
+{
+  "funFacts": [
+    "Thursday Night Football opens NFL Week 4 with an iconic NFC West divisional showdown.",
+    "Brock Purdy threw three touchdowns in San Francisco's Week 1 win over the Rams in Melbourne.",
+    "Matthew Stafford has passed for 68,000 career yards and seeks his first win at Levi's Stadium since 2021."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Brock Purdy",
+      "team": "49ers",
+      "hook": "Orchestrates Kyle Shanahan's offense looking to ignite home form in prime time."
+    },
+    {
+      "name": "Matthew Stafford",
+      "team": "Rams",
+      "hook": "Veteran quarterback seeking quick rhythm against San Francisco's defensive front."
+    }
+  ],
+  "headToHead": "San Francisco won the season opener in Australia 27-7, but the Rams won the previous regular-season finale.",
+  "tags": [
+    "nfl",
+    "49ers",
+    "rams",
+    "tnf",
+    "week4"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1566577739112-5184e6ac4a4e?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Week 4 · Thursday Night Football",
+  "resultSummary": "",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NFL.com: Week 4 Rams at 49ers preview",
+      "url": "https://www.nfl.com/games/rams-at-49ers-2026-reg-4"
+    },
+    {
+      "name": "ESPN: Thursday Night Football game guide",
+      "url": "https://www.espn.com/nfl/scoreboard"
+    },
+    {
+      "name": "San Francisco Chronicle: 49ers prepare for Rams showdown",
+      "url": "https://www.sfchronicle.com/sports/49ers/article/rams-49ers-tnf-week4-2026"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "49ers-vs-rams-tnf-week4-2026",
+  "headline": "49ers vs Rams Thursday Night Football: NFC West duel opens NFL Week 4",
+  "whyCareScore": 9.1,
+  "whyCareReason": "San Francisco host Matthew Stafford and the Rams in prime time at Levi's Stadium with NFC West positioning at stake.",
+  "teaser": "Thursday 1 October at Levi's Stadium (8:15 p.m. ET). Brock Purdy and Christian McCaffrey host Matthew Stafford and Kyren Williams as Week 4 kicks off.",
+  "story": "Why this one matters: After a thrilling Week 3 that ended with Philadelphia's 24-20 triumph over Dallas on Monday Night Football, the NFL turns immediately to an NFC West grudge match under the Thursday night lights.\n\nSan Francisco welcomes the Los Angeles Rams to Levi's Stadium for the first domestic meeting between the division rivals this season, following their historic kickoff clash in Melbourne. Brock Purdy and Christian McCaffrey lead a 49ers offense eager to establish early divisional control, while Kyle Shanahan's defense faces a stern test from Sean McVay's aerial scheme.\n\nFor the Rams, Matthew Stafford and Kyren Williams aim to shock the Bay Area crowd and level the season series. With both teams navigating short-week preparation, Thursday Night Football promises pure tactical tension.",
+  "stakes": "Divisional supremacy in the NFC West and early tiebreaker leverage ahead of the October grind.",
+  "rivalryAngle": "One of the NFL's oldest and fiercest rivalries, renewed on short rest in front of a national audience.",
+  "home": "San Francisco 49ers",
+  "away": "Los Angeles Rams",
+  "group": "NFL",
+  "date": "2026-10-01",
+  "time": "20:15",
+  "venue": "Levi's Stadium",
+  "city": "Santa Clara",
+  "status": "UPCOMING",
+  "sport": "football",
+  "competition": "nfl-2026"
+}

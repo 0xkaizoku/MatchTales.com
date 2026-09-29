@@ -1,22 +1,22 @@
 {
   "funFacts": [
-    "The China Open features simultaneous ATP 500 and WTA 1000 tournaments in Beijing.",
-    "Jannik Sinner arrives as defending champion and current world No. 1.",
-    "Elena Rybakina makes her first tournament appearance since lifting the US Open trophy."
+    "Jannik Sinner won 84 percent of first-serve points in his Round 1 victory.",
+    "Aryna Sabalenka fired 28 winners to advance in straight sets on Diamond Court.",
+    "Olympic champion Zheng Qinwen dropped just two games in her opening-round masterclass."
   ],
   "keyPlayers": [
     {
       "name": "Jannik Sinner",
       "team": "ATP",
-      "hook": "World No. 1 headlines the men's field in Beijing seeking back-to-back China Open titles."
+      "hook": "World No. 1 opened his China Open title defense with a clinical 6-3, 6-4 triumph."
     },
     {
-      "name": "Carlos Alcaraz",
-      "team": "ATP",
-      "hook": "Fresh off his Laver Cup championship-clinching heroics in London, Alcaraz targets the Asian swing crown."
+      "name": "Aryna Sabalenka",
+      "team": "WTA",
+      "hook": "Top contender on the women's side who overpowered Kalinina 6-2, 6-3 in Beijing."
     }
   ],
-  "headToHead": "Sinner and Alcaraz have developed one of the sport's greatest rivalries, splitting their previous meetings.",
+  "headToHead": "Sinner improves to 3-0 in career meetings against Safiullin.",
   "tags": [
     "tennis",
     "atp",
@@ -36,17 +36,17 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Main Draw Opening Round",
-  "resultSummary": "",
+  "roundLabel": "Round 1 · Main Draw Live",
+  "resultSummary": "Sinner def. Safiullin 6-3, 6-4; Sabalenka def. Kalinina 6-2, 6-3; Zheng def. Rakhimova 6-1, 6-1",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "ATP Tour: 2026 China Open tournament preview",
+      "name": "ATP Tour: Sinner opens Beijing defense in style",
       "url": "https://www.atptour.com/en/tournaments/beijing/747/overview"
     },
     {
-      "name": "WTA Tennis: China Open draw and schedule",
+      "name": "WTA Tennis: Sabalenka and Zheng cruise into second round",
       "url": "https://www.wtatennis.com/tournament/1020/beijing"
     },
     {
@@ -58,21 +58,21 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "china-open-beijing-2026",
-  "headline": "China Open 2026: Sinner and Alcaraz headline Beijing main draw",
-  "whyCareScore": 9.3,
-  "whyCareReason": "The Asian hardcourt swing begins at the National Tennis Center with world No. 1 Jannik Sinner and Carlos Alcaraz leading a star-studded draw.",
-  "teaser": "Tuesday 29 September: Qualifying wraps up and the main draw begins at the National Tennis Center in Beijing. Sinner, Alcaraz, Rybakina, and Sabalenka lead the field.",
-  "story": "Why this one matters: Just 48 hours after Team Europe hoisted the Laver Cup trophy at The O2 in London, the elite of world tennis touches down in the Chinese capital for the prestigious 2026 China Open at the National Tennis Center.\n\nJannik Sinner returns to Beijing as the defending champion and world No. 1, looking to solidify his year-end ranking. Close on his heels is Carlos Alcaraz, whose dramatic victory over Taylor Fritz in London secured the Laver Cup for Bjorn Borg's team. Together with Daniil Medvedev and Alexander Zverev, the ATP 500 draw presents major-tournament caliber competition.\n\nOn the women's side, the WTA 1000 draw is equally loaded. Newly crowned US Open champion Elena Rybakina and two-time major winner Aryna Sabalenka headline the action on Diamond Court, with Olympic hero Zheng Qinwen enjoying deafening home support.",
+  "headline": "China Open Round 1: Sinner and Sabalenka cruise as Beijing crowd roars",
+  "whyCareScore": 9.4,
+  "whyCareReason": "World No. 1 Jannik Sinner launched his title defense with a crisp straight-sets win, while Aryna Sabalenka and Zheng Qinwen ignited the Beijing crowd.",
+  "teaser": "Wednesday 30 September at National Tennis Center. Sinner downs Safiullin 6-3, 6-4; Sabalenka and Zheng advance in dominant fashion on Diamond Court.",
+  "story": "Why this one matters: The main draw of the 2026 China Open kicked into high gear on Wednesday in Beijing, and the marquee names delivered clinical performances under bright autumn sunshine at the National Tennis Center.\n\nReigning champion and world No. 1 Jannik Sinner opened his campaign with an authoritative 6-3, 6-4 victory over Roman Safiullin. Sinner won 84 percent of his first-serve points and never faced a break point, displaying the icy efficiency that carried him through a dominant summer. Up next for the Italian is a second-round duel as Carlos Alcaraz prepares for his opening test on Thursday.\n\nOn Diamond Court, the WTA 1000 field produced fireworks. Aryna Sabalenka dismantled Anhelina Kalinina 6-2, 6-3 behind 28 winners, while Olympic gold medalist Zheng Qinwen brought 15,000 roaring fans to their feet with a 6-1, 6-1 masterclass over Kamilla Rakhimova.",
   "stakes": "Crucial 500 and 1000 ranking points determine qualification for the season-ending ATP and WTA Finals in Turin and Riyadh.",
   "rivalryAngle": "Sinner and Alcaraz renew their global chess match as the tour shifts to the outdoor hardcourts of Asia.",
   "home": "Jannik Sinner",
-  "away": "Carlos Alcaraz",
+  "away": "Roman Safiullin",
   "group": "ATP",
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "time": "11:00",
   "venue": "National Tennis Center",
   "city": "Beijing",
-  "status": "UPCOMING",
+  "status": "LIVE",
   "sport": "tennis",
   "competition": "atp-wta-beijing-2026"
 }
