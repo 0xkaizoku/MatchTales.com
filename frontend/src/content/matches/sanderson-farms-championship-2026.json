@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "Country Club of Jackson features 7,461 yards of championship bermudagrass golf.",
-    "The tournament offers 500 FedExCup points and a two-year PGA Tour winner exemption.",
-    "Kevin Yu groups with Mackenzie Hughes and Emiliano Grillo for Thursday's opening round."
+    "Chesson Hadley and Beau Hossler fired matching 6-under 66s to share the early clubhouse lead.",
+    "Defending champion Kevin Yu birdied the 18th hole to card a solid 4-under 68 in his opener.",
+    "Country Club of Jackson yields 500 FedExCup points and a two-year tour exemption to the champion."
   ],
   "keyPlayers": [
     {
       "name": "Kevin Yu",
-      "team": "Defending Champion",
-      "hook": "Returns to Jackson seeking to repeat his dramatic breakthrough playoff victory."
+      "team": "PGA Tour",
+      "hook": "Defending champion opened with a crisp 4-under 68 including four birdies."
     },
     {
-      "name": "Mackenzie Hughes",
+      "name": "Chesson Hadley",
       "team": "PGA Tour",
-      "hook": "2016 Sanderson Farms champion looking to recapture Mississippi magic."
+      "hook": "Carded seven birdies against a single bogey for a shared clubhouse-lead 66."
     }
   ],
   "headToHead": "",
@@ -21,7 +21,8 @@
     "golf",
     "pga-tour",
     "sanderson-farms",
-    "fedexcup-fall"
+    "fedexcup-fall",
+    "jackson"
   ],
   "homeCode": null,
   "awayCode": null,
@@ -35,26 +36,50 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Round 1 Eve · Pro-Am & Tee Times",
-  "resultSummary": "",
+  "roundLabel": "Round 1 · Live Scores",
+  "resultSummary": "Round 1 in progress: Hadley -6 (66), Hossler -6 (66), Yu -4 (68), Hughes -3 (69)",
   "leaderboard": [
     {
-      "pos": "Featured",
-      "name": "Kevin Yu / Mackenzie Hughes / Emiliano Grillo",
-      "score": "7:45 a.m. CT",
-      "note": "Tee 1"
+      "pos": "T1",
+      "name": "Chesson Hadley",
+      "score": "-6 (66)",
+      "note": "Clubhouse Leader"
     },
     {
-      "name": "Rickie Fowler / Sam Burns / Davis Riley",
-      "pos": "Featured",
-      "score": "12:55 p.m. CT",
-      "note": "Tee 10"
+      "pos": "T1",
+      "name": "Beau Hossler",
+      "score": "-6 (66)",
+      "note": "Clubhouse Leader"
+    },
+    {
+      "pos": "T3",
+      "name": "Kevin Yu",
+      "score": "-4 (68)",
+      "note": "Defending Champion"
+    },
+    {
+      "pos": "T4",
+      "name": "Mackenzie Hughes",
+      "score": "-3 (69)",
+      "note": "In Clubhouse"
+    },
+    {
+      "pos": "T4",
+      "name": "Emiliano Grillo",
+      "score": "-3 (69)",
+      "note": "In Clubhouse"
+    },
+    {
+      "pos": "T6",
+      "name": "Rickie Fowler",
+      "score": "-2 (thru 14)",
+      "note": "On Course"
     }
   ],
   "tennisSets": [],
   "sources": [
     {
-      "name": "PGA Tour: Sanderson Farms Championship tee times",
+      "name": "PGA Tour: Sanderson Farms Championship leaderboard",
       "url": "https://www.pgatour.com/tournaments/2026/sanderson-farms-championship/R2026054"
     },
     {
@@ -62,7 +87,7 @@
       "url": "https://sandersonfarmschampionship.com/"
     },
     {
-      "name": "Golfweek: FedExCup Fall preview and tee times",
+      "name": "Golfweek: FedExCup Fall Round 1 recap",
       "url": "https://golfweek.usatoday.com/category/pga-tour/"
     }
   ],
@@ -70,11 +95,11 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "sanderson-farms-championship-2026",
-  "headline": "Sanderson Farms Championship: Pro-Am wraps as Round 1 tee times locked",
-  "whyCareScore": 9.0,
-  "whyCareReason": "Official Pro-Am wraps at Country Club of Jackson with defending champion Kevin Yu and Mackenzie Hughes featured as the FedExCup Fall officially tees off.",
-  "teaser": "Wednesday 30 September: Pro-Am day concludes in Jackson, Mississippi. Featured morning groupings announced for Thursday's Round 1 as tour pros fight for 2027 survival.",
-  "story": "Why this one matters: Wednesday brought the official Pro-Am and final preparation to the Country Club of Jackson, putting the finishing touches on the stage for Thursday's Round 1 of the Sanderson Farms Championship.\n\nThe tournament marks the opening salvo of the PGA Tour's FedExCup Fall, where the stakes are existential. Defending champion Kevin Yu, whose playoff heroics here in 2024 launched his career into the top tier, returns to Jackson grouped alongside two-time tour winner Mackenzie Hughes and Emiliano Grillo for a 7:45 a.m. CT tee time.\n\nWith fast bermudagrass greens and clear Mississippi skies forecast for Thursday morning, early scoring will be vital. For competitors on the threshold of the top 125, the pressure starts with the opening drive on hole number one.",
+  "headline": "Sanderson Farms Championship: Round 1 underway as Hadley and Hossler set early pace",
+  "whyCareScore": 9.1,
+  "whyCareReason": "Defending champion Kevin Yu opens with a 68 as Chesson Hadley and Beau Hossler set the early target on a pristine day in Jackson.",
+  "teaser": "Thursday 1 October: Round 1 is live in Mississippi. Hadley and Hossler post 6-under 66s; Kevin Yu starts title defense at 4-under 68.",
+  "story": "Why this one matters: The PGA Tour's FedExCup Fall burst into action on Thursday morning at the Country Club of Jackson, where pristine Mississippi conditions invited aggressive scoring.\n\nChesson Hadley and Beau Hossler set the early target in the morning wave, each firing a 6-under 66. Both players capitalized on soft bermudagrass greens, carding seven birdies apiece to share the early clubhouse lead. Defending champion Kevin Yu started his title defense with confidence, holing a 15-foot birdie putt on the 18th to sign for a 4-under 68 alongside playing partner Mackenzie Hughes (69).\n\nWith afternoon winds remaining mild, the battle for crucial 2027 tour cards is fully engaged. Players outside the top 125 know that a hot start in Jackson can transform an entire career.",
   "stakes": "The winner earns a two-year PGA Tour exemption, entry into the Sentry and PGA Championship, and crucial FedExCup points.",
   "rivalryAngle": "High-stakes individual survival: fringe tour members versus seasoned veterans protecting their playing privileges.",
   "home": "Country Club of Jackson",
@@ -84,7 +109,7 @@
   "time": "07:30",
   "venue": "Country Club of Jackson",
   "city": "Jackson",
-  "status": "UPCOMING",
+  "status": "LIVE",
   "sport": "golf",
   "competition": "pga-tour-2026"
 }

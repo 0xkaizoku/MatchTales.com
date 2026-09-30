@@ -1,22 +1,22 @@
 {
   "funFacts": [
-    "Arsenal host Paris Saint-Germain in the marquee clash of Champions League Matchday 2.",
-    "The Gunners have conceded just four goals in all competitions through September.",
-    "Bradley Barcola leads Ligue 1 scoring and faces William Saliba in a crucial duel."
+    "Kai Havertz scored his sixth goal of the season with a clinical 20th-minute header.",
+    "Arsenal have kept five clean sheets in their last seven fixtures across all competitions.",
+    "Bukayo Saka's direct free-kick marked his first European set-piece goal of the campaign."
   ],
   "keyPlayers": [
     {
-      "name": "Bukayo Saka",
+      "name": "Kai Havertz",
       "team": "Arsenal",
-      "hook": "Chief creative threat on the right wing who has created 22 chances this season."
+      "hook": "Opened the scoring with a brilliant 20th-minute header to set the tempo."
     },
     {
-      "name": "Bradley Barcola",
-      "team": "Paris Saint-Germain",
-      "hook": "Dynamic French winger driving PSG's transition attack under Luis Enrique."
+      "name": "Bukayo Saka",
+      "team": "Arsenal",
+      "hook": "Doubled the advantage from a deceptive set-piece and created four scoring opportunities."
     }
   ],
-  "headToHead": "Arsenal and PSG have met four times in European competition, sharing three draws and one Arsenal victory.",
+  "headToHead": "Arsenal and PSG have met five times in European competition, with Arsenal securing two victories and three draws.",
   "tags": [
     "champions-league",
     "arsenal",
@@ -37,34 +37,34 @@
   "awayPen": null,
   "season": "2026/27",
   "roundLabel": "Champions League · Matchday 2",
-  "resultSummary": "",
+  "resultSummary": "FINAL: Arsenal 2-0 Paris Saint-Germain",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "UEFA.com: Arsenal vs Paris Saint-Germain Matchday 2",
+      "name": "UEFA.com: Arsenal 2-0 Paris Saint-Germain match report",
       "url": "https://www.uefa.com/uefachampionsleague/match/arsenal-vs-psg-2026"
     },
     {
-      "name": "The Guardian: Arsenal host PSG in European test",
-      "url": "https://www.theguardian.com/football/2026/sep/30/arsenal-psg-champions-league"
+      "name": "The Guardian: Havertz and Saka secure Arsenal win over PSG",
+      "url": "https://www.theguardian.com/football/2026/oct/01/arsenal-psg-champions-league-report"
     },
     {
-      "name": "BBC Sport: Champions League preview Arsenal v PSG",
-      "url": "https://www.bbc.com/sport/football/champions-league"
+      "name": "BBC Sport: Arsenal 2-0 Paris Saint-Germain recap",
+      "url": "https://www.bbc.com/sport/football/champions-league/arsenal-psg-recap"
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 2,
+  "awayScore": 0,
   "slug": "arsenal-vs-psg-ucl-2026",
-  "headline": "Arsenal vs PSG: European heavyweight clash lights up Emirates Stadium",
-  "whyCareScore": 9.4,
-  "whyCareReason": "Mikel Arteta's Gunners host French champions Paris Saint-Germain in a blockbuster Champions League Matchday 2 fixture.",
-  "teaser": "Wednesday 30 September at Emirates Stadium (8:00 p.m. BST / 3:00 p.m. ET). Bukayo Saka and Kai Havertz battle Bradley Barcola and Ousmane Dembele under the European floodlights.",
-  "story": "Why this one matters: European football reaches fever pitch on Wednesday night as North London welcomes the champions of France for Champions League Matchday 2.\n\nArsenal sit second in the Premier League table on 15 points and enter this clash following dominant domestic form under Mikel Arteta. Bukayo Saka and Kai Havertz provide the attacking spark, while William Saliba and Gabriel anchor a defense that has conceded just four league goals all autumn. A home statement over Paris Saint-Germain would stamp the Gunners as genuine contenders for the European crown.\n\nLuis Enrique brings a young, high-pressing PSG side led by Bradley Barcola, Warren Zaire-Emery, and Ousmane Dembele. With European points precious under the league phase format, this is a fixture where tactical discipline meets world-class attacking ambition.",
-  "stakes": "Vital league phase points to secure top-eight automatic qualification for the Champions League knockout stage.",
-  "rivalryAngle": "Anglo-French football royalty: two modern football philosophies colliding on the European grand stage.",
+  "headline": "Arsenal 2-0 PSG: Havertz and Saka secure European statement",
+  "whyCareScore": 9.6,
+  "whyCareReason": "Mikel Arteta's side deliver a tactical and defensive masterclass to outclass the French champions at Emirates Stadium.",
+  "teaser": "FINAL: Arsenal 2, PSG 0. Kai Havertz (20') and Bukayo Saka (35') deliver first-half goals as the Gunners claim vital Champions League points.",
+  "story": "Why this one matters: European nights under the Emirates floodlights demand authority, and Arsenal delivered precisely that against Paris Saint-Germain on Wednesday night.\n\nKai Havertz struck first in the 20th minute, timing his run to perfection to head home Leandro Trossard's exquisite cross. Fifteen minutes later, Bukayo Saka doubled the lead when his whipping free-kick eluded everyone in the crowded penalty box and bounced past Gianluigi Donnarumma. Arsenal held firm with a commanding defensive display from William Saliba and Gabriel, while David Raya pulled off three crucial stops to deny Joao Neves and Lee Kang-in.\n\nThe 2-0 triumph lifts Arsenal into the top echelon of the Champions League league phase with four points and consecutive clean sheets. For Luis Enrique's Parisian side, the evening served as a stern tactical lesson against Europe's stingiest defense.",
+  "stakes": "Arsenal claim vital league phase points to advance towards automatic top-eight qualification for the round of 16.",
+  "rivalryAngle": "Anglo-French heavyweight showdown: Arteta outduels Luis Enrique in a tactical chess match in London.",
   "home": "Arsenal",
   "away": "Paris Saint-Germain",
   "group": "UCL",
@@ -72,7 +72,7 @@
   "time": "20:00",
   "venue": "Emirates Stadium",
   "city": "London",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "soccer",
   "competition": "champions-league-2026-27"
 }

@@ -1,22 +1,22 @@
 {
   "funFacts": [
-    "Jannik Sinner won 84 percent of first-serve points in his Round 1 victory.",
-    "Aryna Sabalenka fired 28 winners to advance in straight sets on Diamond Court.",
-    "Olympic champion Zheng Qinwen dropped just two games in her opening-round masterclass."
+    "Carlos Alcaraz won 88 percent of first-serve points and never faced a break point.",
+    "Coco Gauff struck 24 winners and committed only 11 unforced errors in her 64-minute victory.",
+    "Daniil Medvedev converted three of four break chances against Gael Monfils on Diamond Court."
   ],
   "keyPlayers": [
     {
-      "name": "Jannik Sinner",
+      "name": "Carlos Alcaraz",
       "team": "ATP",
-      "hook": "World No. 1 opened his China Open title defense with a clinical 6-3, 6-4 triumph."
+      "hook": "Neutralized huge 230 km/h serves with razor-sharp returns to advance 6-4, 6-4 in Beijing."
     },
     {
-      "name": "Aryna Sabalenka",
+      "name": "Coco Gauff",
       "team": "WTA",
-      "hook": "Top contender on the women's side who overpowered Kalinina 6-2, 6-3 in Beijing."
+      "hook": "Cruised past Clara Burel 6-1, 6-2 on Diamond Court to reach the third round."
     }
   ],
-  "headToHead": "Sinner improves to 3-0 in career meetings against Safiullin.",
+  "headToHead": "Alcaraz wins his first head-to-head meeting against Mpetshi Perricard.",
   "tags": [
     "tennis",
     "atp",
@@ -36,17 +36,17 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Round 1 · Main Draw Live",
-  "resultSummary": "Sinner def. Safiullin 6-3, 6-4; Sabalenka def. Kalinina 6-2, 6-3; Zheng def. Rakhimova 6-1, 6-1",
+  "roundLabel": "Round of 32 · Main Draw Live",
+  "resultSummary": "Alcaraz def. Mpetshi Perricard 6-4, 6-4; Medvedev def. Monfils 6-3, 6-4; Gauff def. Burel 6-1, 6-2; Osaka def. Putintseva 3-6, 6-4, 6-2",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "ATP Tour: Sinner opens Beijing defense in style",
+      "name": "ATP Tour: Alcaraz and Medvedev advance in Beijing",
       "url": "https://www.atptour.com/en/tournaments/beijing/747/overview"
     },
     {
-      "name": "WTA Tennis: Sabalenka and Zheng cruise into second round",
+      "name": "WTA Tennis: Gauff and Osaka storm into next round",
       "url": "https://www.wtatennis.com/tournament/1020/beijing"
     },
     {
@@ -58,18 +58,18 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "china-open-beijing-2026",
-  "headline": "China Open Round 1: Sinner and Sabalenka cruise as Beijing crowd roars",
+  "headline": "China Open: Alcaraz and Medvedev advance in straight sets as Beijing action heats up",
   "whyCareScore": 9.4,
-  "whyCareReason": "World No. 1 Jannik Sinner launched his title defense with a crisp straight-sets win, while Aryna Sabalenka and Zheng Qinwen ignited the Beijing crowd.",
-  "teaser": "Wednesday 30 September at National Tennis Center. Sinner downs Safiullin 6-3, 6-4; Sabalenka and Zheng advance in dominant fashion on Diamond Court.",
-  "story": "Why this one matters: The main draw of the 2026 China Open kicked into high gear on Wednesday in Beijing, and the marquee names delivered clinical performances under bright autumn sunshine at the National Tennis Center.\n\nReigning champion and world No. 1 Jannik Sinner opened his campaign with an authoritative 6-3, 6-4 victory over Roman Safiullin. Sinner won 84 percent of his first-serve points and never faced a break point, displaying the icy efficiency that carried him through a dominant summer. Up next for the Italian is a second-round duel as Carlos Alcaraz prepares for his opening test on Thursday.\n\nOn Diamond Court, the WTA 1000 field produced fireworks. Aryna Sabalenka dismantled Anhelina Kalinina 6-2, 6-3 behind 28 winners, while Olympic gold medalist Zheng Qinwen brought 15,000 roaring fans to their feet with a 6-1, 6-1 masterclass over Kamilla Rakhimova.",
+  "whyCareReason": "Carlos Alcaraz defuses Giovanni Mpetshi Perricard's 230 km/h serves in straight sets while Daniil Medvedev and Coco Gauff power through in Beijing.",
+  "teaser": "Thursday 1 October at National Tennis Center. Alcaraz wins 6-4, 6-4; Medvedev beats Monfils 6-3, 6-4; Gauff rolls 6-1, 6-2 into the third round.",
+  "story": "Why this one matters: Thursday in Beijing saw the men's and women's draws deliver high-voltage drama as top contenders asserted authority at the National Tennis Center.\n\nWorld No. 2 Carlos Alcaraz passed a treacherous opening test against French sensation Giovanni Mpetshi Perricard, securing a 6-4, 6-4 victory. Alcaraz broke early in both sets and neutralized his opponent's 230 km/h rockets with brilliant return positioning. Meanwhile, Daniil Medvedev produced a masterclass in counter-punching to defeat Gael Monfils 6-3, 6-4 on Diamond Court.\n\nIn the WTA 1000 draw, Coco Gauff breezed past Clara Burel 6-1, 6-2 in just 64 minutes, while former champion Naomi Osaka mounted an electrifying comeback to edge Yulia Putintseva 3-6, 6-4, 6-2. With Sinner, Alcaraz, Sabalenka, and Gauff all through, Beijing is delivering one of the deepest autumn fields in recent memory.",
   "stakes": "Crucial 500 and 1000 ranking points determine qualification for the season-ending ATP and WTA Finals in Turin and Riyadh.",
-  "rivalryAngle": "Sinner and Alcaraz renew their global chess match as the tour shifts to the outdoor hardcourts of Asia.",
-  "home": "Jannik Sinner",
-  "away": "Roman Safiullin",
+  "rivalryAngle": "Sinner and Alcaraz renew their global chess match as both advance cleanly into the business end of the tournament.",
+  "home": "Carlos Alcaraz",
+  "away": "Giovanni Mpetshi Perricard",
   "group": "ATP",
-  "date": "2026-09-30",
-  "time": "11:00",
+  "date": "2026-10-01",
+  "time": "14:00",
   "venue": "National Tennis Center",
   "city": "Beijing",
   "status": "LIVE",

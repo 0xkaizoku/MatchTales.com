@@ -1,28 +1,29 @@
 {
   "funFacts": [
-    "Caitlin Clark finished with 24 points, 11 assists, and 7 rebounds in Game 2.",
-    "Indiana Fever advance to the WNBA semifinals for the first time since 2015.",
-    "Napheesa Collier led Minnesota with 26 points and 9 rebounds to complete the 2-0 sweep."
+    "All four 2026 WNBA opening-round series finished in 2-0 sweeps, an unprecedented postseason feat.",
+    "A'ja Wilson recorded 28 points, 13 rebounds, and 4 blocks to seal the Aces' sweep in Arlington.",
+    "Sabrina Ionescu scored 18 points, including the game-icing three-pointer with 28 seconds left against Golden State."
   ],
   "keyPlayers": [
     {
-      "name": "Caitlin Clark",
-      "team": "Fever",
-      "hook": "Engineered Indiana's fourth-quarter surge with 24 points and 11 assists to clinch the sweep."
+      "name": "A'ja Wilson",
+      "team": "Aces",
+      "hook": "Dominant 28-point, 13-rebound performance to eliminate Dallas on Wednesday night."
     },
     {
-      "name": "Napheesa Collier",
-      "team": "Lynx",
-      "hook": "Top-seeded Lynx superstar scored 26 points to eliminate Washington in Minneapolis."
+      "name": "Breanna Stewart",
+      "team": "Liberty",
+      "hook": "Paced New York with 21 points and 9 boards to sweep the Valkyries at Chase Center."
     }
   ],
-  "headToHead": "Indiana swept the two-game playoff series after winning three of four regular-season meetings.",
+  "headToHead": "All four first-round series concluded in two-game sweeps: Lynx over Mystics, Fever over Dream, Aces over Wings, Liberty over Valkyries.",
   "tags": [
     "wnba",
-    "fever",
-    "lynx",
     "playoffs",
-    "clark"
+    "aces",
+    "liberty",
+    "lynx",
+    "fever"
   ],
   "homeCode": null,
   "awayCode": null,
@@ -31,13 +32,13 @@
   "matchday": 0,
   "marquee": true,
   "liveMinute": null,
-  "image": "https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=1600&h=900&q=80",
+  "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80",
   "decidedBy": null,
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Round 1 Game 2 Elimination",
-  "resultSummary": "FINAL: Fever 87-81 Dream (Indiana wins 2-0); Lynx 85-73 Mystics (Minnesota wins 2-0)",
+  "roundLabel": "Round 1 Sweeps Complete",
+  "resultSummary": "Round 1 Sweeps Complete: Lynx 2-0, Fever 2-0, Aces 2-0, Liberty 2-0. Semifinals: Lynx vs Fever, Aces vs Liberty",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
@@ -46,32 +47,32 @@
       "url": "https://www.wnba.com/scores"
     },
     {
-      "name": "ESPN: Fever and Lynx advance with Game 2 sweeps",
+      "name": "ESPN: WNBA Round 1 sweeps complete as final four set",
       "url": "https://www.espn.com/wnba/scoreboard"
     },
     {
-      "name": "Indianapolis Star: Fever punch ticket to WNBA semifinals",
-      "url": "https://www.indystar.com/sports/fever/game2-recap-2026"
+      "name": "The Athletic: WNBA semifinal matchups locked",
+      "url": "https://theathletic.com/wnba/playoffs-round-1-sweeps-analysis"
     }
   ],
   "format": "team-match",
-  "homeScore": 81,
-  "awayScore": 87,
+  "homeScore": 74,
+  "awayScore": 88,
   "slug": "wnba-2026-playoff-field",
-  "headline": "Fever and Lynx sweep into WNBA semifinals as Game 2 drama unfolds",
-  "whyCareScore": 9.6,
-  "whyCareReason": "Caitlin Clark posted 24 points and 11 assists as Indiana swept Atlanta, while Napheesa Collier powered top-seeded Minnesota into the final four.",
-  "teaser": "FINAL: Fever 87, Dream 81; Lynx 85, Mystics 73. Indiana and Minnesota punch semifinal tickets with 2-0 sweeps. Elimination night continues Wednesday for Aces and Liberty.",
-  "story": "Why this one matters: Tuesday night delivered the defining moments of the 2026 WNBA postseason opening round, and both road favorites refused to let their series reach a deciding third game.\n\nIn Atlanta, Caitlin Clark orchestrated another postseason masterclass, recording 24 points, 11 assists, and seven rebounds as the Indiana Fever held off a furious fourth-quarter charge from the Dream to secure an 87-81 victory at Gateway Center Arena. Kelsey Mitchell poured in 22 points, including back-to-back corner triples in the final two minutes, sending Indiana into the WNBA semifinals for the first time since 2015.\n\nIn Minneapolis, the top-seeded Minnesota Lynx left nothing to chance. Napheesa Collier dominated with 26 points and nine rebounds as Cheryl Reeve's squad dismantled the Washington Mystics 85-73. Both Indiana and Minnesota close out their series 2-0 and await their semifinal opponents.",
-  "stakes": "Fever and Lynx become the first two teams to punch tickets to the 2026 WNBA semifinals.",
-  "rivalryAngle": "Sudden-death playoff basketball: the Dream and Mystics fall as Indiana and Minnesota march forward.",
-  "home": "Atlanta Dream",
-  "away": "Indiana Fever",
+  "headline": "WNBA Semifinals locked: Aces and Liberty complete sweeps as final four emerges",
+  "whyCareScore": 9.7,
+  "whyCareReason": "Historic clean sweeps across all four series set up a dream final four: Caitlin Clark's Fever meet top-seeded Minnesota, while the Aces and Liberty clash in a finals rematch.",
+  "teaser": "Wednesday night finals: Aces 88-74 Wings, Liberty 80-76 Valkyries. All four Round 1 series end in 2-0 sweeps. Minnesota faces Indiana and Las Vegas battles New York.",
+  "story": "Why this one matters: Wednesday night brought a historic conclusion to Round 1 of the 2026 WNBA playoffs, as both remaining road favorites slammed the door on elimination Game 3s.\n\nIn Arlington, A'ja Wilson delivered an unstoppable 28-point, 13-rebound, four-block performance as the Las Vegas Aces pulled away from the Dallas Wings 88-74 to seal a 2-0 sweep. Kelsey Plum contributed 19 points, ensuring the defending champions reached the semifinals with minimal drama.\n\nAt Chase Center in San Francisco, the New York Liberty survived a fierce test against the expansion Golden State Valkyries, prevailing 80-76. Breanna Stewart led with 21 points and nine rebounds, while Sabrina Ionescu buried a decisive corner triple with 28 seconds remaining. For the first time in league history, all four opening-round series concluded in 2-0 sweeps, locking in a titanic final four: Minnesota vs Indiana, and Las Vegas vs New York.",
+  "stakes": "The final four is locked: Minnesota Lynx vs Indiana Fever, and Las Vegas Aces vs New York Liberty.",
+  "rivalryAngle": "Championship pedigree vs breakout power: Clark faces the No. 1 Lynx while Stewart and Wilson renew their historic rivalry.",
+  "home": "Dallas Wings",
+  "away": "Las Vegas Aces",
   "group": "WNBA",
-  "date": "2026-09-29",
-  "time": "19:30",
-  "venue": "Gateway Center Arena",
-  "city": "Atlanta",
+  "date": "2026-09-30",
+  "time": "21:00",
+  "venue": "College Park Center",
+  "city": "Arlington",
   "status": "FINISHED",
   "sport": "basketball",
   "competition": "wnba-2026"

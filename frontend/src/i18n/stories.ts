@@ -4702,5 +4702,558 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+  'arsenal-2-0-psg-ucl-statement-victory-2026': {
+    fr: {
+      title: 'Ligue des Champions : Arsenal surclasse le PSG 2-0 dans un choc magistral à l’Emirates',
+      subtitle: 'Mikel Arteta et les Gunners signent une démonstration tactique et défensive face aux champions de France.',
+      excerpt: 'Kai Havertz et Bukayo Saka marquent en première période pour offrir à Arsenal une victoire 2-0 nette face au Paris Saint-Germain.',
+      body: [
+        'Les grandes soirées européennes à l’Emirates exigent du caractère, et Arsenal a répondu présent mercredi soir face au Paris Saint-Germain.',
+        'Kai Havertz a ouvert le score dès la 20e minute d’une tête rageuse sur un centre millimétré de Leandro Trossard. Bukayo Saka a ensuite doublé la mise à la 35e minute sur un coup franc brossé qui a surpris toute la défense parisienne.',
+        'Avec une charnière Saliba-Gabriel intraitable et trois parades décisives de David Raya, Arsenal s’empare de quatre points précieux en phase de ligue sans encaisser le moindre but.',
+      ],
+    },
+    es: {
+      title: 'Champions League: Arsenal derrota 2-0 al PSG con autoridad en el Emirates Stadium',
+      subtitle: 'El equipo de Mikel Arteta exhibe solidez táctica y defensiva para superar a los campeones de Francia.',
+      excerpt: 'Goles de Kai Havertz y Bukayo Saka en la primera mitad sellan el 2-0 del Arsenal sobre el Paris Saint-Germain.',
+      body: [
+        'Las noches europeas en el Emirates exigen jerarquía, y el Arsenal dio un golpe sobre la mesa este miércoles ante el Paris Saint-Germain.',
+        'Kai Havertz abrió el marcador en el minuto 20 al anticiparse de cabeza tras un preciso centro de Leandro Trossard. Quince minutos después, Bukayo Saka amplió la cuenta con un tiro libre envenenado que despistó a toda la zaga parisina.',
+        'Sostenido por una defensa infranqueable liderada por Saliba y Gabriel, el Arsenal suma cuatro puntos en la fase de liga manteniendo su arco en cero.',
+      ],
+    },
+    de: {
+      title: 'Champions League: Arsenal bezwingt PSG mit 2:0 nach taktischer Meisterleistung',
+      subtitle: 'Mikel Artetas Gunners setzen mit Toren von Havertz und Saka ein dickes Ausrufezeichen gegen Paris Saint-Germain.',
+      excerpt: 'Kai Havertz und Bukayo Saka treffen vor der Pause zum verdienten 2:0-Heimsieg von Arsenal gegen PSG.',
+      body: [
+        'Europäische Nächte im Emirates Stadium verlangen höchste Konzentration, und Arsenal lieferte am Mittwochabend gegen Paris Saint-Germain voll ab.',
+        'Kai Havertz köpfte die Gunners in der 20. Minute nach herrlicher Trossard-Flanke in Führung. In der 35. Minute legte Bukayo Saka per direktem Freistoß nach, der an Freund und Feind vorbei ins Netz segelte.',
+        'Mit einer kompromisslosen Defensivleistung um Saliba und Gabriel sowie einem glänzenden David Raya feierte Arsenal den zweiten Zu-Null-Auftritt in der Ligaphase.',
+      ],
+    },
+    it: {
+      title: 'Champions League: l’Arsenal piega il PSG 2-0 con Havertz e Saka all’Emirates',
+      subtitle: 'I Gunners di Mikel Arteta dominano tatticamente i campioni di Francia e salgono a quattro punti.',
+      excerpt: 'Le reti di Kai Havertz e Bukayo Saka nel primo tempo decidono la sfida dell’Emirates Stadium per l’Arsenal contro il PSG.',
+      body: [
+        'Le grandi serate europee all’Emirates richiedono autorevolezza, e l’Arsenal non ha tradito le attese superando 2-0 il Paris Saint-Germain.',
+        'Kai Havertz ha sbloccato la gara al 20’ con un perfetto stacco di testa su cross di Leandro Trossard. Al 35’ Bukayo Saka ha raddoppiato su punizione velenosa battendo Gianluigi Donnarumma.',
+        'Guidata da una coppia centrale Saliba-Gabriel insuperabile e dalle parate di David Raya, la retroguardia londinese ha blindato un successo continentale di prestigio.',
+      ],
+    },
+    pl: {
+      title: 'Liga Mistrzów: Arsenal pokonuje PSG 2:0 po taktycznym popisie na Emirates',
+      subtitle: 'Zespół Mikela Artety zagrał po mistrzowsku w defensywie i nie dał szans mistrzom Francji.',
+      excerpt: 'Kai Havertz i Bukayo Saka strzelają gole w pierwszej połowie, dając Arsenalowi triumf 2:0 nad Paris Saint-Germain.',
+      body: [
+        'Europejskie wieczory na Emirates Stadium wymagają żelaznej dyscypliny, a Arsenal zaprezentował ją w pełnej krasie przeciwko PSG.',
+        'Kai Havertz otworzył wynik w 20. minucie precyzyjnym strzałem głową po dośrodkowaniu Leandro Trossarda. W 35. minucie Bukayo Saka podwyższył bezpośrednio z rzutu wolnego.',
+        'Znakomita postawa duetu Saliba-Gabriel i kluczowe interwencje Davida Rayi zapewniły Kanonierom kolejne czyste konto i cenne punkty w fazie ligowej.',
+      ],
+    },
+    zh: {
+      title: '欧冠联赛：阿森纳2-0完胜巴黎圣日耳曼，哈弗茨与萨卡闪耀酋长球场',
+      subtitle: '阿尔特塔的球队在主场展现出色的战术纪律与防守硬度，击败法甲冠军巴黎。',
+      excerpt: '哈弗茨头球破门，萨卡任意球建功，阿森纳在欧冠第二轮主场2-0力克巴黎圣日耳曼。',
+      body: [
+        '酋长球场的欧冠之夜见证了一场高水平对决，阿森纳凭借严密的防守与高效的进攻2-0战胜巴黎圣日耳曼。',
+        '比赛第20分钟，特罗萨德左路送出精准传中，哈弗茨抢前点头槌破网首开纪录；第35分钟，萨卡开出极具威胁的右侧任意球直接窜入远角。',
+        '萨利巴与加布里埃尔领衔的后防线固若金汤，拉亚多次做出关键扑救，枪手在欧冠联赛阶段前两轮收获4分且未失一球。',
+      ],
+    },
+    ja: {
+      title: 'UEFAチャンピオンズリーグ：アーセナルがPSGを2-0で撃破、ハヴァーツとサカが導く快勝',
+      subtitle: 'アルテタ率いるガナーズが本拠地エミレーツで堅守と決定力を発揮しフランス王者を完封。',
+      excerpt: 'ハヴァーツのヘディングとサカの直接FKでアーセナルがPSGに2-0で勝利し、欧冠で勝点4に到達。',
+      body: [
+        'エミレーツ・スタジアムの欧冠ナイトマッチで、アーセナルが組織力と戦術的完成度を示しPSGを2-0で退けました。',
+        '前半20分にトロサールのクロスからハヴァーツが頭で合わせて先制すると、35分にはサカの鋭いフリーキックがそのままゴールに吸い込まれました。',
+        'サリバとガブリエウを中心とする守備陣は隙を見せず、GKラヤの好セーブも光り、プレミアリーグ第7節に向けて弾みをつけました。',
+      ],
+    },
+    ko: {
+      title: 'UEFA 챔피언스리그: 아스널, 하베르츠와 사카 연속골로 PSG 2-0 완파',
+      subtitle: '미켈 아르테타 감독의 맞춤 전술과 무실점 수비가 빛난 에미레이츠 스타디움의 밤.',
+      excerpt: '카이 하베르츠의 헤더 선제골과 부카요 사카의 프리킥 추가골로 아스널이 파리 생제르맹을 2-0으로 제압했다.',
+      body: [
+        '수요일 밤 런던 에미레이츠 스타디움에서 열린 챔피언스리그 2차전에서 아스널이 파리 생제르맹을 상대로 2-0 완승을 거뒀습니다.',
+        '전반 20분 트로사르의 날카로운 크로스를 하베르츠가 헤더로 연결해 골망을 흔들었고, 35분 사카의 프리킥이 그대로 득점으로 이어졌습니다.',
+        '살리바와 마갈량이스의 탄탄한 수비벽과 라야 골키퍼의 선방 속에 아스널은 리그 페이즈 2경기 연속 무실점을 기록했습니다.',
+      ],
+    },
+    ar: {
+      title: 'دوري أبطال أوروبا: أرسنال يتفوق على باريس سان جيرمان 2-0 بثنائية هافيرتز وساكا',
+      subtitle: 'كتيبة ميكل أرتيتا تقدم درسا تكتيكيا ودفاعيا في ملعب الإمارات وتهزم بطل فرنسا بجدارة.',
+      excerpt: 'أرسنال يحسم قمة الجولة الثانية من دوري الأبطال بالفوز 2-0 على باريس سان جيرمان بهدفي هافيرتز وساكا.',
+      body: [
+        'أثبت أرسنال جاهزيته للمنافسة القارية بعدما حقق فوزا مستحقا على باريس سان جيرمان بهدفين نظيفين في ملعب الإمارات.',
+        'افتتح كاي هافيرتز التسجيل في الدقيقة 20 بضربة رأسية متقنة إثر عرضية تروسار، قبل أن يضيف بوكايو ساكا الهدف الثاني من ركلة حرة مباشرة خادعت الدفاع.',
+        'وتألق الثنائي ويليام ساليبا وغابرييل في إغلاق المنافذ أمام هجوم باريس، بينما تصدى ديفيد رايا ببراعة لمحاولات الفريق الفرنسي ليحافظ الغانرز على نظافة شباكهم.',
+      ],
+    },
+  },
+  'nfl-week4-tnf-49ers-rams-kickoff-tonight-2026': {
+    fr: {
+      title: 'NFL Semaine 4 : les 49ers accueillent les Rams au Levi’s Stadium pour le choc du jeudi soir',
+      subtitle: 'Rivalité intense en NFC West sur semaine courte : Brock Purdy et Matthew Stafford se disputent la suprématie.',
+      excerpt: 'San Francisco et Los Angeles ouvrent la semaine 4 ce soir au Levi’s Stadium lors du Thursday Night Football.',
+      body: [
+        'Après un match du lundi soir disputé, la NFL enchaîne sans répit avec le coup d’envoi de la quatrième semaine.',
+        'Ce soir à Santa Clara, les San Francisco 49ers retrouvent les Los Angeles Rams pour un duel de division primordial. Vainqueurs 27-7 lors du match d’ouverture en Australie, les 49ers veulent confirmer leur ascendant.',
+        'Matthew Stafford et Kyren Williams entendent bien riposter pour ramener les Rams à 2-2 dans une rencontre où la gestion de la fatigue sera décisive.',
+      ],
+    },
+    es: {
+      title: 'NFL Semana 4: 49ers y Rams abren el telón esta noche en el Thursday Night Football',
+      subtitle: 'Duelo divisional del Oeste de la NFC con descanso corto: Brock Purdy y Matthew Stafford frente a frente en Santa Clara.',
+      excerpt: 'Los 49ers reciben a los Rams en el Levi’s Stadium para inaugurar la Semana 4 de la temporada regular de la NFL.',
+      body: [
+        'Sin tregua tras la emocionante jornada anterior, la NFL da inicio a su cuarta semana con un choque divisional de alto voltaje.',
+        'En el Levi’s Stadium de Santa Clara, los 49ers buscan afianzar su liderazgo en el Oeste de la NFC ante unos Rams necesitados de victoria.',
+        'Brock Purdy comandará el ataque local apoyado en Christian McCaffrey, mientras Matthew Stafford intentará dar la sorpresa en terreno rival.',
+      ],
+    },
+    de: {
+      title: 'NFL Woche 4: 49ers empfangen die Rams zum Auftakt im Thursday Night Football',
+      subtitle: 'NFC-West-Rivalität auf kurzer Rast: Brock Purdy und Matthew Stafford kämpfen um die Divisionsspitze.',
+      excerpt: 'San Francisco und Los Angeles eröffnen heute Nacht im Levi’s Stadium die vierte Woche der NFL-Saison.',
+      body: [
+        'Ohne Pause geht es in der NFL weiter: Woche 4 startet heute Nacht mit dem traditionsreichen Duell in der NFC West.',
+        'Die 49ers wollen vor heimischer Kulisse im Levi’s Stadium nach dem 27:7-Auftaktsieg in Melbourne erneut gegen die Rams triumphieren.',
+        'Für Quarterback Matthew Stafford und Head Coach Sean McVay steht viel auf dem Spiel, um den Anschluss in der Division nicht zu verlieren.',
+      ],
+    },
+    it: {
+      title: 'NFL Week 4: i 49ers ospitano i Rams al Levi’s Stadium nel Thursday Night Football',
+      subtitle: 'Rivalità storica nella NFC West con pochi giorni di riposo: Brock Purdy sfida Matthew Stafford a Santa Clara.',
+      excerpt: 'San Francisco e i Los Angeles Rams aprono la quarta settimana NFL questa sera in prima serata al Levi’s Stadium.',
+      body: [
+        'Il calendario NFL non conosce soste: la Week 4 prende il via questa notte con una classica della NFC West.',
+        'I San Francisco 49ers cercano la conferma dopo il successo della prima giornata contro i Rams, puntando sulla precisione di Brock Purdy.',
+        'Stafford e Williams guidano l’attacco di Los Angeles alla ricerca del riscatto in una trasferta storicamente insidiosa.',
+      ],
+    },
+    pl: {
+      title: 'NFL Tydzień 4: 49ers podejmują Rams na Levi’s Stadium w meczu czwartkowym',
+      subtitle: 'Zacięta walka w dywizji NFC West po krótkim odpoczynku: Brock Purdy kontra Matthew Stafford.',
+      excerpt: 'San Francisco 49ers i Los Angeles Rams otwierają 4. kolejkę NFL podczas Thursday Night Football.',
+      body: [
+        'Czwarty tydzień rozgrywek NFL startuje od prestiżowego starcia w Santa Clara pomiędzy odwiecznymi rywalami z NFC West.',
+        'Gospodarze z San Francisco chcą wykorzystać atut własnego boiska, opierając grę na Purdym oraz McCaffreyu.',
+        'Rams pod wodzą Matthew Stafforda zamierzają wyrównać bilans bezpośrednich spotkań po porażce na otwarcie sezonu w Melbourne.',
+      ],
+    },
+    zh: {
+      title: 'NFL第4周揭幕战：49人主场迎战公羊，周四夜赛引爆国联西区内战',
+      subtitle: '短周休整迎来关键对决，普尔迪携手麦卡弗里与老将斯塔福德争夺分区榜首。',
+      excerpt: '旧金山49人今晚在李维斯体育场迎战洛杉矶公羊，正式拉开NFL常规赛第4周序幕。',
+      body: [
+        '在经历了激烈的前三周比赛后，NFL第4周今晚将在加州圣克拉拉的李维斯体育场火热开打。',
+        '旧金山49人此前在墨尔本揭幕战曾以27-7轻取公羊，今晚主场作战渴望实现对同区死敌的双杀。',
+        '斯塔福德与威廉姆斯领衔的公羊进攻组势必全力反扑，体能与战术调整将成为本场周四夜赛的决胜关键。',
+      ],
+    },
+    ja: {
+      title: 'NFL第4週：49ersが本拠地にラムズを迎えるサーズデーナイトフットボール',
+      subtitle: '中3日の過密日程で激突するNFC西地区の宿敵対決。パーディとスタッフォードが激突。',
+      excerpt: 'リーバイス・スタジアムでサンフランシスコ・49ersとロサンゼルス・ラムズが第4週開幕戦を戦う。',
+      body: [
+        'NFLは休む間もなく第4週へと突入し、今夜リーバイス・スタジアムで伝統のNFC西地区対決が行われます。',
+        '開幕戦メルボルンで27-7と快勝した49ersは、クォーターバックのブロック・パーディを中心に地区首位固めを狙います。',
+        '対するラムズのベテラン司令塔マシュー・スタッフォードは、ショートウィークの難局を乗り越え敵地でのリベンジを誓います。',
+      ],
+    },
+    ko: {
+      title: 'NFL 4주차 킥오프: 49ers, 리바이스 스타디움서 램스와 목요 풋볼 격돌',
+      subtitle: '짧은 휴식 뒤 맞붙는 NFC 서부지구 라이벌전. 브록 퍼디와 매슈 스태퍼드의 정면승부.',
+      excerpt: '샌프란시스코 49ers와 LA 램스가 오늘 밤 캘리포니아 산타클라라에서 NFL 4주차 개막전을 치른다.',
+      body: [
+        '치열했던 3주차가 끝나자마자 NFL 4주차가 목요일 밤 리바이스 스타디움에서 화려하게 개막합니다.',
+        '호주 멜버른 1주차에서 27-7 완승을 거뒀던 49ers는 브록 퍼디의 지휘 아래 지구 라이벌전 2연승을 노립니다.',
+        '스태퍼드가 이끄는 램스는 2승 2패 균형을 맞추기 위해 빠른 템포의 공격으로 샌프란시스코 수비진을 흔들 계획입니다.',
+      ],
+    },
+    ar: {
+      title: 'الدوري الأمريكي لكرة القدم الأسبوع الرابع: 49ers يستضيف رامز في قمة ليلة الخميس',
+      subtitle: 'صراع مثير في القسم الغربي لفرق NFC بين بروك بيردي وماثيو ستافورد في سانتا كلارا.',
+      excerpt: 'يفتتح سان فرانسيسكو ولوس أنجلوس رامز منافسات الأسبوع الرابع من NFL على ملعب ليفايز الليلة.',
+      body: [
+        'تتواصل الإثارة في دوري كرة القدم الأمريكية بانطلاق مباريات الأسبوع الرابع في مواجهة نارية تجمع الغريمين التقليديين.',
+        'يسعى سان فرانسيسكو لتكرار فوزه على رامز بعد تفوقه في الجولة الأولى، متسلحا بجاهزية بروك بيردي وكريستيان ماكافري.',
+        'في المقابل، يدخل رامز بقيادة الخبير ماثيو ستافورد اللقاء بطموح تعديل المسار والعودة بانتصار ثمين خارج الديار.',
+      ],
+    },
+  },
+  'wnba-playoffs-semifinals-locked-aces-liberty-2026': {
+    fr: {
+      title: 'Play-offs WNBA : les Aces et le Liberty qualifiés, le dernier carré est scellé',
+      subtitle: 'Quatre balayages 2-0 historiques dans le premier tour ouvrent la voie à des demi-finales explosives.',
+      excerpt: 'A’ja Wilson et Breanna Stewart guident Las Vegas et New York vers des sweeps 2-0 pour rejoindre le Minnesota et l’Indiana.',
+      body: [
+        'Le premier tour des play-offs WNBA 2026 s’est achevé mercredi soir avec une domination absolue des favorites en déplacement.',
+        'À Arlington, A’ja Wilson a signé 28 points et 13 rebonds pour permettre aux Aces de dominer Dallas 88-74 et d’assurer leur billet.',
+        'Dans le même temps à San Francisco, le New York Liberty a contenu les Valkyries 80-76 grâce à un panier primé décisif de Sabrina Ionescu. Les demi-finales opposeront le Lynx au Fever et les Aces au Liberty.',
+      ],
+    },
+    es: {
+      title: 'Playoffs WNBA: Aces y Liberty firman barridas y sellan unas semifinales estelares',
+      subtitle: 'Por primera vez en la historia, las cuatro series de primera ronda se deciden por 2-0.',
+      excerpt: 'A’ja Wilson brilla con 28 puntos y Breanna Stewart lidera a New York para unirse a Lynx y Fever en la ronda semifinal.',
+      body: [
+        'La primera ronda de la postemporada WNBA concluyó este miércoles con autoridad total de los equipos visitantes.',
+        'En Texas, A’ja Wilson impartió una lección con 28 puntos y 13 rebotes para guiar a Las Vegas Aces al triunfo 88-74 sobre Dallas.',
+        'En el Chase Center, New York Liberty superó 80-76 a Golden State con un triple providencial de Sabrina Ionescu, cerrando unas semifinales soñadas entre Lynx-Fever y Aces-Liberty.',
+      ],
+    },
+    de: {
+      title: 'WNBA-Playoffs: Aces und Liberty machen Halbfinal-Feld mit Sweeps komplett',
+      subtitle: 'Vier historische 2:0-Seriensiege in Runde 1 ebnen den Weg für echte Halbfinal-Kracher.',
+      excerpt: 'A’ja Wilson dominiert für Las Vegas und Breanna Stewart führt New York zum 2:0-Sweep ins Halbfinale.',
+      body: [
+        'Die erste Runde der WNBA-Playoffs 2026 endete am Mittwochabend mit einem historischen Meilenstein.',
+        'A’ja Wilson führte die Las Vegas Aces mit 28 Punkten und 13 Rebounds zu einem souveränen 88:74-Erfolg über die Dallas Wings.',
+        'Gleichzeitig behauptete sich der New York Liberty mit 80:76 bei den Golden State Valkyries, sodass alle vier Serien mit 2:0 endeten. Im Halbfinale treffen Lynx auf Fever sowie Aces auf Liberty.',
+      ],
+    },
+    it: {
+      title: 'Playoff WNBA: Aces e Liberty completano il quadro delle semifinali con un secco 2-0',
+      subtitle: 'Quattro sweep su quattro al primo turno: il tabellone propone Lynx-Fever e Aces-Liberty.',
+      excerpt: 'A’ja Wilson e Breanna Stewart trascinano Las Vegas e New York al secondo turno dei playoff WNBA.',
+      body: [
+        'Il primo turno della post-season WNBA 2026 è andato in archivio mercoledì sera con un verdetto unanime: tutte le serie chiuse sul 2-0.',
+        'A Dallas, una monumentale A’ja Wilson da 28 punti e 13 rimbalzi ha spinto le Aces all’88-74 finale.',
+        'Al Chase Center di San Francisco, il New York Liberty ha piegato 80-76 le Valkyries con una tripla chiave di Sabrina Ionescu, regalando al pubblico due semifinali imperdibili.',
+      ],
+    },
+    pl: {
+      title: 'Play-off WNBA: Aces i Liberty przypieczętowują awans, skład półfinałów skompletowany',
+      subtitle: 'Wszystkie cztery serie pierwszej rundy zakończyły się wynikami 2:0 na korzyść faworytek.',
+      excerpt: 'A’ja Wilson i Breanna Stewart poprowadziły Las Vegas oraz New York do pewnych zwycięstw i awansu do najlepszej czwórki.',
+      body: [
+        'Środowe mecze wyłoniły komplet półfinalistek tegorocznych play-offów ligi WNBA w bezprecedensowym stylu.',
+        'A’ja Wilson rzuciła 28 punktów i zebrała 13 piłek, prowadząc Las Vegas Aces do wygranej 88:74 nad Dallas Wings.',
+        'Z kolei New York Liberty wygrały 80:76 z Golden State Valkyries, pieczętując awans do starcia z Aces, podczas gdy Lynx zagrają z Fever.',
+      ],
+    },
+    zh: {
+      title: 'WNBA季后赛半决赛对阵出炉：王牌与自由人横扫晋级，四强席位全部锁定',
+      subtitle: '首轮四组对决全部以2-0横扫收尾创历史纪录，半决赛山猫对阵狂热、王牌再战自由人。',
+      excerpt: '阿贾·威尔逊砍下28分13篮板助王牌晋级，斯图尔特率自由人险胜女武神锁定四强。',
+      body: [
+        '周三晚WNBA季后赛首轮全部战罢，两支客场作战的豪强展现冠军底蕴，双双以2-0横扫对手。',
+        '在得克萨斯，常规赛MVP阿贾·威尔逊轰下28分13个篮板和4次封盖，率领拉斯维加斯王牌88-74大胜达拉斯飞翼。',
+        '在旧金山大通中心，纽约自由人凭借约内斯库最后时刻的关键三分以80-76力克金州女武神，半决赛将上演山猫对狂热、王牌对自由人的超级对决。',
+      ],
+    },
+    ja: {
+      title: 'WNBAプレーオフ準決勝進出チーム決定：エイシズとリバティがスイープで4強進出',
+      subtitle: '1回戦4カード全てが2勝0敗のストレート決着。リンクス対フィーバー、エイシズ対リバティの豪華カードが実現。',
+      excerpt: 'エイジャ・ウィルソンが28得点13リバウンド、スチュワートが21得点でそれぞれチームをスイープ勝利へ牽引。',
+      body: [
+        '水曜日に行われた第2戦で、アウェーの有力チームが地力を発揮しWNBAプレーオフ1回戦は歴史的な幕切れを迎えました。',
+        'ラスベガス・エイシズのエース、エイジャ・ウィルソンは28得点13リバウンドの圧倒的スタッツでダラス・ウィングスを88-74で撃破。',
+        'ニューヨーク・リバティもチェイス・センターでゴールデンステート・ヴァルキリーズを80-76で振り切り、4強出揃いとなりました。',
+      ],
+    },
+    ko: {
+      title: 'WNBA 플레이오프 4강 확정: 에이시스와 리버티 2-0 스윕으로 준결승 합류',
+      subtitle: '1라운드 4개 매치업 모두 2연승 스윕 기록. 링스-피버, 에이시스-리버티 4강 빅매치 성사.',
+      excerpt: '에이자 윌슨이 28득점 13리바운드로 댈러스를 격파했고 브리아나 스튜어트의 리버티도 골든스테이트를 꺾고 준결승에 올랐다.',
+      body: [
+        '수요일 밤 WNBA 플레이오프 1라운드가 모두 종료되며 리그 역사상 처음으로 4개 시리즈가 전부 2-0 스윕으로 마무리되었습니다.',
+        '라스베이거스 에이시스는 에이자 윌슨의 28득점 맹활약에 힘입어 댈러스 윙스를 88-74로 완파했습니다.',
+        '뉴욕 리버티 역시 샌프란시스코 원정에서 골든스테이트를 80-76으로 제압해, 준결승에서는 링스 대 피버, 에이시스 대 리버티의 명승부가 펼쳐집니다.',
+      ],
+    },
+    ar: {
+      title: 'نهائيات دوري السلة الأمريكي للسيدات: إيسيس وليبرتي يكملان المربع الذهبي بعد اكتساح تاريخي',
+      subtitle: 'انتهاء جميع مواجهات الدور الأول بنتيجة 2-0 يمهد لنصف نهائي ناري بين لينكس وفيفر وإيسيس ضد ليبرتي.',
+      excerpt: 'تألقت إيجا ويلسون وبريانا ستيوارت لتقودا لاس فيغاس ونيويورك إلى الدور نصف النهائي بعد فوزين متتاليين.',
+      body: [
+        'اختتمت منافسات الدور الأول من بلاي أوف WNBA مساء الأربعاء بتحقيق الفرق المرشحة للانتصار في جميع المواجهات.',
+        'وسجلت العملاقة إيجا ويلسون 28 نقطة و13 متابعة لتقود لاس فيغاس إيسيس لتخطي دالاس وينغز بنتيجة 88-74.',
+        'وفي سان فرانسيسكو، نجح نيويورك ليبرتي في تجاوز غولدن ستيت بنتيجة 80-76، ليكتمل المربع الذهبي للبطولة.',
+      ],
+    },
+  },
+  'china-open-2026-alcaraz-medvedev-gauff-beijing': {
+    fr: {
+      title: 'Open de Chine : Carlos Alcaraz dompte le service de Mpetshi Perricard, Medvedev et Gauff s’imposent',
+      subtitle: 'Le n°2 mondial passe l’obstacle français en deux sets aux côtés de Daniil Medvedev et Coco Gauff à Pékin.',
+      excerpt: 'Alcaraz l’emporte 6-4, 6-4 à Pékin pendant que Medvedev et Gauff rejoignent également les huitièmes de finale.',
+      body: [
+        'L’Open de Chine est monté d’un cran jeudi au Centre national de tennis de Pékin avec l’entrée en lice des têtes de série.',
+        'Face aux services flashés à plus de 230 km/h de Giovanni Mpetshi Perricard, Carlos Alcaraz a livré une partition impeccable en retour pour s’imposer 6-4, 6-4 sans concéder la moindre balle de break.',
+        'Dans le tableau féminin, Coco Gauff n’a fait qu’une bouchée de Clara Burel (6-1, 6-2 en 64 minutes), tandis que Daniil Medvedev a écarté Gaël Monfils 6-3, 6-4.',
+      ],
+    },
+    es: {
+      title: 'Abierto de China: Carlos Alcaraz desactiva el servicio de Mpetshi Perricard; Medvedev y Gauff avanzan',
+      subtitle: 'El número dos del mundo solventa su estreno en Pekín por 6-4 y 6-4 con gran solidez al resto.',
+      excerpt: 'Carlos Alcaraz supera a Giovanni Mpetshi Perricard mientras Daniil Medvedev y Coco Gauff sellan victorias en el Diamond Court.',
+      body: [
+        'La jornada del jueves en Pekín brindó tenis de alto nivel en el Centro Nacional con victorias rotundas de las principales figuras.',
+        'Carlos Alcaraz neutralizó los cañonazos a más de 230 km/h del francés Giovanni Mpetshi Perricard para sellar un doble 6-4 en una hora y 21 minutos.',
+        'Por su parte, Daniil Medvedev venció a Gaël Monfils por 6-3 y 6-4, y en el cuadro WTA Coco Gauff arrolló a Clara Burel 6-1, 6-2.',
+      ],
+    },
+    de: {
+      title: 'China Open: Carlos Alcaraz entschärft Mpetshi Perricard, auch Medvedev und Gauff im Achtelfinale',
+      subtitle: 'Die Nummer 2 der Welt meistert den Auftakt in Peking souverän mit 6:4, 6:4.',
+      excerpt: 'Alcaraz bezwingt Mpetshi Perricard in zwei Sätzen, während Medvedev und Gauff ebenfalls glatt gewinnen.',
+      body: [
+        'Am Donnerstag zog das Tempo bei den China Open in Peking spürbar an, als Carlos Alcaraz sein Auftaktmatch bestritt.',
+        'Gegen die Aufschlaggranaten von Giovanni Mpetshi Perricard fand Alcaraz stets die richtige Antwort und siegte souverän mit 6:4, 6:4.',
+        'Daniil Medvedev setzte sich zeitgleich mit 6:3, 6:4 gegen Gaël Monfils durch, während Coco Gauff Clara Burel in 64 Minuten mit 6:1, 6:2 deklassierte.',
+      ],
+    },
+    it: {
+      title: 'China Open: Carlos Alcaraz doma il servizio di Mpetshi Perricard; avanti Medvedev e Gauff a Pechino',
+      subtitle: 'Il numero due al mondo vince 6-4, 6-4 e raggiunge gli ottavi con prestazioni solide dei top player.',
+      excerpt: 'Alcaraz supera l’ostacolo francese mentre Daniil Medvedev batte Monfils e Coco Gauff concede solo tre game a Burel.',
+      body: [
+        'Giovedì di grande spettacolo al National Tennis Center di Pechino con i big del circuito protagonisti in campo.',
+        'Carlos Alcaraz ha disinnescato le bordate oltre i 230 km/h di Giovanni Mpetshi Perricard imponendosi con un doppio 6-4 senza concedere palle break.',
+        'Vittoria convincente anche per Daniil Medvedev su Gaël Monfils (6-3, 6-4) e passeggiata per Coco Gauff, a segno 6-1, 6-2 su Clara Burel.',
+      ],
+    },
+    pl: {
+      title: 'China Open: Carlos Alcaraz neutralizuje serwis Mpetshi Perricarda, awans Miedwiediewa i Gauff',
+      subtitle: 'Wicelider rankingu ATP pewnie wygrywa 6:4, 6:4 i melduje się w kolejnej rundzie w Pekinie.',
+      excerpt: 'Alcaraz pokonuje Mpetshi Perricarda, a Daniił Miedwiediew i Coco Gauff bez problemu przechodzą dalej.',
+      body: [
+        'Czwartkowe mecze China Open w Pekinie przyniosły triumfy faworytów przed entuzjastycznie nastawioną publicznością.',
+        'Carlos Alcaraz poradził sobie z potężnymi serwisami Giovanniego Mpetshi Perricarda, zwyciężając 6:4, 6:4 w 81 minut.',
+        'Dalej grają również Daniił Miedwiediew po pokonaniu Gaëla Monfilsa 6:3, 6:4 oraz Coco Gauff, która rozbiła Clarę Burel 6:1, 6:2.',
+      ],
+    },
+    zh: {
+      title: '中国网球公开赛：阿尔卡拉斯化解发球大炮过关，梅德韦杰夫与高芙齐进次轮',
+      subtitle: '世界第二以两个6-4击败佩里卡尔，钻石球场巨星悉数过关闪耀北京金秋。',
+      excerpt: '阿尔卡拉斯直落两盘击败佩里卡尔，梅德韦杰夫击败孟菲尔斯，高芙横扫布雷尔挺进16强。',
+      body: [
+        '周四的北京国家网球中心热闹非凡，男单2号种子阿尔卡拉斯迎来了极具杀伤力的法国重炮手佩里卡尔。',
+        '面对对手时速超230公里的强力发球，阿尔卡拉斯展现顶尖接发水平，两盘各破发一次，以两个6-4顺利取胜。',
+        '随后登场的梅德韦杰夫以6-3、6-4战胜老将孟菲尔斯；女子方面，高芙仅用时64分钟便以6-1、6-2横扫布雷尔轻松晋级。',
+      ],
+    },
+    ja: {
+      title: 'チャイナ・オープン：アルカラスがペリカーの豪速球サーブを攻略、メドベージェフとガウフも快勝',
+      subtitle: '世界2位のアルカラスが6-4、6-4のストレート勝ちで北京のファンを魅了。',
+      excerpt: 'カルロス・アルカラスが初戦を完勝で突破。ダニール・メドベージェフとココ・ガウフも順当に勝ち進んだ。',
+      body: [
+        '北京のナショナル・テニス・センターで行われた木曜日の試合で、トップシード勢が貫禄のテニスを披露しました。',
+        '時速230キロを超えるサーブを連発するペリカーに対し、アルカラスは的確なリターンで各セット1ブレークを奪い6-4、6-4で勝利。',
+        'メドベージェフもモンフィスを6-3、6-4で退け、女子ではガウフがビュレルを6-1、6-2で圧倒して3回戦進出を決めました。',
+      ],
+    },
+    ko: {
+      title: '차이나 오픈: 알카라스 시속 230km 강서브 잠재우고 16강행, 메드베데프 고프 순항',
+      subtitle: '세계 2위 알카라스가 6-4, 6-4 완승으로 베이징 개막전을 장식했다.',
+      excerpt: '카를로스 알카라스가 엠페치 페리카르를 제압했고 다닐 메드베데프와 코코 고프도 깔끔한 승리를 거뒀다.',
+      body: [
+        '목요일 베이징 국가테니스센터에서 펼쳐진 차이나 오픈 32강전에서 알카라스가 특유의 수비력과 리턴 능력을 입증했습니다.',
+        '프랑스의 신성 엠페치 페리카르의 시속 230km 대포알 서브를 침착하게 받아낸 알카라스는 브레이크 기회를 놓치지 않고 6-4, 6-4로 승리했습니다.',
+        '메드베데프도 몽피스를 6-3, 6-4로 꺾었으며, 여자부에서는 코코 고프가 뷔렐을 6-1, 6-2로 완파하며 가볍게 다음 라운드에 올랐습니다.',
+      ],
+    },
+    ar: {
+      title: 'بطولة الصين المفتوحة: ألكاراز يروض إرسالات بيريكار الصاروخية وميدفيديف وغوف يعبران في بكين',
+      subtitle: 'المصنف الثاني عالميا يفوز 6-4 و6-4 ليحجز مقعده في الدور الثاني إلى جانب نخبة النجوم.',
+      excerpt: 'حقق كارلوس ألكاراز فوزا مستحقا على بيريكار، بينما تألق دانييل ميدفيديف وكوكو غوف في بكين.',
+      body: [
+        'شهد المركز الوطني للتنس في بكين يوم الخميس مستويات رفيعة مع دخول كبار المصنفين في منافسات البطولة.',
+        'ونجح الإسباني كارلوس ألكاراز في كسر إرسال الفرنسي بيريكار الذي تجاوزت سرعته 230 كم/ساعة، لينهي اللقاء 6-4 و6-4 دون خسارة أي شوط إرسال.',
+        'وفاز دانييل ميدفيديف على غايل مونفيس 6-3 و6-4، في حين اكتسحت الأمريكية كوكو غوف منافستها كلارا بوريل 6-1 و6-2 في 64 دقيقة.',
+      ],
+    },
+  },
+  'pga-tour-sanderson-farms-round1-jackson-live-2026': {
+    fr: {
+      title: 'Sanderson Farms Championship : Chesson Hadley et Beau Hossler prennent les commandes du 1er tour',
+      subtitle: 'Le tenant du titre Kevin Yu signe un solide 68 (-4) pour lancer la course aux points du FedExCup Fall à Jackson.',
+      excerpt: 'Hadley et Hossler signent des cartes de 66 (-6) pour s’emparer de la tête du Sanderson Farms Championship dans le Mississippi.',
+      body: [
+        'Le suspense du FedExCup Fall a débuté jeudi matin au Country Club of Jackson dans des conditions de jeu idéales.',
+        'Chesson Hadley et Beau Hossler ont profité des greens réceptifs pour rendre de magnifiques cartes de 66 (-6), comptant chacun sept birdies.',
+        'Le vainqueur sortant Kevin Yu a entamé la défense de son titre avec un 68 sans accroc (-4), tandis que Mackenzie Hughes et Emiliano Grillo restent en embuscade à 69.',
+      ],
+    },
+    es: {
+      title: 'Sanderson Farms Championship: Chesson Hadley y Beau Hossler marcan el ritmo en la Ronda 1',
+      subtitle: 'El campeón defensor Kevin Yu debuta con 68 golpes (-4) al inicio de la lucha por la tarjeta del PGA Tour.',
+      excerpt: 'Hadley y Hossler colideran en Jackson con sendas rondas de 66 golpes (-6) en el arranque del FedExCup Fall.',
+      body: [
+        'La batalla por la permanencia en el PGA Tour arrancó este jueves en el Country Club de Jackson con juego agresivo y grandes registros.',
+        'Chesson Hadley y Beau Hossler fijaron la referencia en la casa club con 6 bajo par (66 golpes) gracias a una gran efectividad con el putt.',
+        'El vigente campeón Kevin Yu firmó una sólida vuelta de 68 impactos (-4), metiéndose de lleno en el grupo de cabeza junto a Mackenzie Hughes.',
+      ],
+    },
+    de: {
+      title: 'Sanderson Farms Championship: Chesson Hadley und Beau Hossler führen nach Runde 1',
+      subtitle: 'Titelverteidiger Kevin Yu startet mit einer 68 (-4) ins Turnier im Country Club of Jackson.',
+      excerpt: 'Hadley und Hossler teilen sich nach Auftaktrunden von 66 Schlägen (-6) die Führung in Mississippi.',
+      body: [
+        'Der FedExCup Fall der PGA Tour hat am Donnerstag im Country Club of Jackson mit starkem Golf begonnen.',
+        'Chesson Hadley und Beau Hossler nutzten die perfekten Morgenbedingungen für fehlerfreie 66er-Runden (-6) und setzten sich an die Spitze.',
+        'Titelverteidiger Kevin Yu blieb mit einer 68 (-4) schlagdistanznah, während Mackenzie Hughes mit 69 Schlägen (-3) ebenfalls gut im Rennen liegt.',
+      ],
+    },
+    it: {
+      title: 'Sanderson Farms Championship: Chesson Hadley e Beau Hossler in vetta al termine del 1° giro',
+      subtitle: 'Il campione in carica Kevin Yu apre con un solido 68 (-4) nella prima tappa del FedExCup Fall a Jackson.',
+      excerpt: 'Hadley e Hossler firmano un 66 (-6) e guidano la classifica del Sanderson Farms Championship in Mississippi.',
+      body: [
+        'Le emozioni del FedExCup Fall sono scattate giovedì mattina al Country Club of Jackson con punteggi molto bassi.',
+        'Chesson Hadley e Beau Hossler hanno dettato il passo con due ottimi giri in 66 colpi (-6), realizzando sette birdie ciascuno.',
+        'Partenza positiva per il campione uscente Kevin Yu, autore di un 68 (-4) senza sbavature per rimanere a contatto con i primi.',
+      ],
+    },
+    pl: {
+      title: 'Sanderson Farms Championship: Chesson Hadley i Beau Hossler liderami po 1. rundzie',
+      subtitle: 'Obrońca tytułu Kevin Yu zaczyna od 68 uderzeń (-4) w walce o punkty FedExCup w Jackson.',
+      excerpt: 'Hadley i Hossler uzyskali po 66 uderzeń (-6), obejmując prowadzenie na otwarcie turnieju w Mississippi.',
+      body: [
+        'Jesienna seria PGA Tour wystartowała w czwartek na polu Country Club of Jackson przy znakomitych warunkach pogodowych.',
+        'Chesson Hadley i Beau Hossler wykorzystali miękkie greeny, notując po 66 uderzeń (-6) i dzieląc pozycję lidera w domku klubowym.',
+        'Obrońca trofeum Kevin Yu rozpoczął występ od pewnego wyniku 68 (-4), co daje mu doskonałą pozycję wyjściową przed piątkiem.',
+      ],
+    },
+    zh: {
+      title: '桑德森农场锦标赛：哈德利与霍斯勒首轮并列领跑，俞俊安68杆稳步出发',
+      subtitle: '杰克逊乡村俱乐部迎来低杆风暴，卫冕冠军抓下四鸟打出低于标准杆4杆开门红。',
+      excerpt: '哈德利与霍斯勒打出66杆（-6）领跑首轮，俞俊安68杆开启美巡秋季赛卫冕征程。',
+      body: [
+        '美巡赛联邦快递杯秋季系列赛周四在密西西比杰克逊乡村俱乐部正式打响，首轮赛况异常胶着。',
+        '切森·哈德利与博·霍斯勒在早场比赛中双双斩获66杆（低于标准杆6杆），凭借精准的铁杆发挥并列会所领先榜首位。',
+        '卫冕冠军俞俊安发挥稳健，全天抓下4只小鸟且未吞柏忌，以68杆（-4）位列前茅，同组的休斯与格里略均交出69杆。',
+      ],
+    },
+    ja: {
+      title: 'サンダーソン・ファームズ選手権：ハドリーとホスラーが首位発進、ケビン・ユーは68で好発進',
+      subtitle: 'ミシシッピでフェデックスカップ秋季シリーズが開幕。ディフェンディング王者が4アンダーで追走。',
+      excerpt: 'チェッソン・ハドリーとボー・ホスラーが6アンダー66で初日首位タイに立った。',
+      body: [
+        'PGAツアーのシード権争いが本格化する中、ジャクソンでサンダーソン・ファームズ選手権の第1ラウンドがスタートしました。',
+        'ハドリーとホスラーの2名がバーディラッシュを見せ、6アンダーの66をマークしてクラブハウスリーダーとなりました。',
+        '連覇を目指す台湾のケビン・ユーはノーボギーの68（4アンダー）でホールアウトし、首位と2打差の好位置につけています。',
+      ],
+    },
+    ko: {
+      title: '샌더슨 팜스 챔피언십: 해들리와 호슬러 1라운드 공동 선두, 케빈 유 68타 순항',
+      subtitle: '미시시피 잭슨 컨트리 클럽서 페덱스컵 가을 시리즈 개막. 디펜딩 챔피언 4언더파 출발.',
+      excerpt: '체슨 해들리와 보 호슬러가 6언더파 66타로 공동 선두에 올랐고, 케빈 유가 4언더파로 추격 중이다.',
+      body: [
+        '목요일 아침 미시시피주 잭슨 컨트리 클럽에서 PGA 투어 가을 시리즈 첫 대회의 1라운드가 순조롭게 시작되었습니다.',
+        '해들리와 호슬러는 버디 7개씩을 낚으며 나란히 6언더파 66타를 적어내 공동 선두로 클럽하우스에 복귀했습니다.',
+        '지난 대회 우승자 케빈 유는 보기 없이 버디만 4개를 잡는 깔끔한 플레이로 68타(-4)를 기록하며 타이틀 방어를 향한 첫 단추를 잘 꿰었습니다.',
+      ],
+    },
+    ar: {
+      title: 'بطولة ساندرسون فارمز: هادلي وهوسلر يتشاركان صدارة الجولة الأولى وكيفن يو يبدأ بقوة',
+      subtitle: 'انطلاق موسم الخريف لجولة بي جيه إيه في مسيسيبي وحامل اللقب يسجل 68 ضربة (-4).',
+      excerpt: 'شيسون هادلي وبو هوسلر يسجلان 66 ضربة (-6) ليتصدرا بطولة ساندرسون فارمز في جاكسون.',
+      body: [
+        'بدأت منافسات بطولة ساندرسون فارمز صباح الخميس في كانتري كلوب أوف جاكسون وسط أجواء خريفية مشجعة لتسجيل نتائج مميزة.',
+        'وسجل الثنائي شيسون هادلي وبو هوسلر 66 ضربة بواقع 6 ضربات تحت المعدل ليتقاسما صدارة اليوم الأول.',
+        'وقدم حامل اللقب كيفن يو أداء ثابتا بتسجيله 68 ضربة (-4) دون ارتكاب أي خطأ، ليبقى على مقربة من المتصدرين.',
+      ],
+    },
+  },
+  'f1-singapore-gp-thursday-track-walk-2026': {
+    fr: {
+      title: 'Grand Prix de Singapour : les projecteurs s’allument à Marina Bay pour la visite de piste du jeudi',
+      subtitle: 'Les pilotes inspectent les 19 virages du tracé urbain avant les essais libres de vendredi sous une forte chaleur.',
+      excerpt: 'Kimi Antonelli mène Mercedes lors des reconnaissances de piste à Singapour alors que Ferrari et McLaren affûtent leurs armes.',
+      body: [
+        'La nuit singapourienne s’est illuminée jeudi soir alors que 1 600 projecteurs baignaient le circuit de Marina Bay d’une lumière éclatante.',
+        'Solide leader du championnat avec 88 points d’avance sur George Russell, le jeune Kimi Antonelli a arpenté le tracé de 4,94 km pour analyser les zones de freinage rénovées.',
+        'Ferrari et McLaren ont dévoilé des évolutions aérodynamiques à fort appui pour tenter de bousculer les Flèches d’Argent dès les premiers essais libres de vendredi.',
+      ],
+    },
+    es: {
+      title: 'Gran Premio de Singapur: Marina Bay enciende sus focos para la inspección de pista del jueves',
+      subtitle: 'Los pilotos reconocen los 19 giros del circuito urbano antes de los entrenamientos libres del viernes.',
+      excerpt: 'Kimi Antonelli lidera a Mercedes en Marina Bay mientras Ferrari y McLaren presentan mejoras aerodinámicas.',
+      body: [
+        'La icónica carrera nocturna de Singapur comenzó a tomar color este jueves con el encendido de los 1.600 proyectores en Marina Bay.',
+        'Kimi Antonelli, líder del Mundial con 317 puntos y 88 de ventaja sobre Russell, completó la caminata técnica examinando el nuevo asfalto.',
+        'Ferrari y McLaren confían en sus paquetes de alta carga aerodinámica para desafiar el dominio de Mercedes a partir de las prácticas libres del viernes.',
+      ],
+    },
+    de: {
+      title: 'Großer Preis von Singapur: Flutlicht erhellt Marina Bay beim Track Walk am Donnerstag',
+      subtitle: 'Fahrer und Ingenieure nehmen die 19 Kurven des Stadtkurses vor den Freien Trainings am Freitag unter die Lupe.',
+      excerpt: 'Kimi Antonelli führt Mercedes beim Track Walk in Singapur an, während Ferrari und McLaren Upgrades präsentieren.',
+      body: [
+        'Am Donnerstagabend erstrahlte der Marina Bay Street Circuit in Singapur im Glanz von 1.600 Flutlichtmasten für das bevorstehende Nachtrennen.',
+        'WM-Spitzenreiter Kimi Antonelli ging den 4,94 Kilometer langen Kurs aufmerksam ab, um die Bodenwellen und neuen Asphaltabschnitte zu studieren.',
+        'Mit speziellen High-Downforce-Konfigurationen wollen Ferrari und McLaren den Silberpfeilen ab Freitag die Stirn bieten.',
+      ],
+    },
+    it: {
+      title: 'Gran Premio di Singapore: i riflettori si accendono a Marina Bay per il track walk del giovedì',
+      subtitle: 'I piloti analizzano le 19 curve del circuito cittadino prima delle prove libere del venerdì.',
+      excerpt: 'Kimi Antonelli guida la Mercedes nell’ispezione della pista a Singapore mentre Ferrari e McLaren preparano novità.',
+      body: [
+        'I 1.600 fari di Marina Bay hanno illuminato giovedì sera il lungomare di Singapore in vista della spettacolare gara notturna.',
+        'Il leader del mondiale Kimi Antonelli ha completato il tradizionale giro a piedi della pista insieme agli ingegneri per verificare il nuovo asfalto.',
+        'Ferrari e McLaren puntano sui pacchetti ad alto carico per insidiare la Mercedes nelle curve lente del tracciato asiatico.',
+      ],
+    },
+    pl: {
+      title: 'Grand Prix Singapuru: Reflektory oświetlają Marina Bay przed piątkowymi treningami',
+      subtitle: 'Kierowcy sprawdzają 19 zakrętów ulicznego toru podczas czwartkowego obchodu trasy.',
+      excerpt: 'Kimi Antonelli z Mercedesa bada nawierzchnię w Singapurze, a rywale szykują pakiety aerodynamiczne.',
+      body: [
+        'W czwartkowy wieczór Marina Bay rozbłysła światłem 1600 projektorów, inaugurując przygotowania do słynnego nocnego wyścigu F1.',
+        'Lider klasyfikacji Kimi Antonelli z przewagą 88 punktów nad Russellem dokładnie przeanalizował z inżynierami strefy dohamowań.',
+        'Ferrari i McLaren zaprezentowały zmodyfikowane pakiety o wysokim docisku, licząc na zniwelowanie przewagi Mercedesa na wąskich ulicach Singapuru.',
+      ],
+    },
+    zh: {
+      title: 'F1新加坡大奖赛：滨海湾灯火通明，安东内利领衔周四赛道漫步',
+      subtitle: '车手实地勘测19个弯角与全新路面，法拉利与迈凯伦高下压力套件周五见真章。',
+      excerpt: '1600盏泛光灯点亮新加坡滨海湾，领跑积分榜的安东内利与车队完成周四赛道视察。',
+      body: [
+        '周四傍晚，1600盏泛光投光灯将4.94公里的滨海湾街区赛道照亮如白昼，拉开新加坡大奖赛的序幕。',
+        '手握88分领跑优势的梅赛德斯年轻领军人安东内利与工程师一同走过赛道，重点考察了7号与14号弯的重新铺设路段。',
+        '法拉利与迈凯伦本站均带来了升级版的高下压力底板与翼片，力求在周五自由练习赛中向银箭发起强力冲击。',
+      ],
+    },
+    ja: {
+      title: 'F1シンガポールGP：マリーナ・ベイの照明が点灯、アントネッリらが木曜トラックウォークを実施',
+      subtitle: '過酷な19のコーナーを入念にチェック。金曜フリー走行に向けてフェラーリとマクラーレンが改良型を投入。',
+      excerpt: '1600基の投光器に照らされたマリーナ・ベイで、ポイント首位のアントネッリがトラックウォークを完了。',
+      body: [
+        '木曜夜、シンガポールのウォーターフロントに設置された1600基の照明が一斉に点灯し、マリーナ・ベイ市街地コースが夜空に浮かび上がりました。',
+        '選手権首位に立つ19歳のアントネッリはエンジニア陣とともにコースを歩き、再舗装された路面グリップの状態を入念に確認しました。',
+        '低中速コーナーが連続するこのサーキットで、フェラーリとマクラーレンは高ダウンフォース仕様を投入しメルセデス撃破を目指します。',
+      ],
+    },
+    ko: {
+      title: 'F1 싱가포르 GP: 마리나 베이 조명 점등, 안토넬리 목요일 트랙 워크 완료',
+      subtitle: '19개 코너 시가지 서킷 점검 완료. 금요일 연습 주행 앞두고 페라리와 맥라렌 다운포스 강화.',
+      excerpt: '1,600개의 조명이 켜진 싱가포르에서 키미 안토넬리가 트랙을 점검하며 주말 야간 레이스 준비에 돌입했다.',
+      body: [
+        '목요일 저녁 싱가포르 마리나 베이 서킷에 1,600개의 투광 조명이 켜지며 아시아 최고 야간 레이스의 서막이 올랐습니다.',
+        '챔피언십 88점 차 선두를 달리는 메르세데스의 키미 안토넬리는 레이스 엔지니어와 함께 4.94km 코스를 걸으며 노면 상태를 점검했습니다.',
+        '페라리와 맥라렌은 19개 코너에 최적화된 고다운포스 에어로 패키지를 준비하고 금요일 자유 연습 세션부터 메르세데스 공략에 나섭니다.',
+      ],
+    },
+    ar: {
+      title: 'جائزة سنغافورة الكبرى: أضواء مارينا باي تسطع مع جولة المشي التمهيدية ليوم الخميس',
+      subtitle: 'السائقون يفحصون المنعطفات التسعة عشر وسط حرارة استوائية قبل التجارب الحرة يوم الجمعة.',
+      excerpt: 'كيمي أنتونيللي يقود مرسيدس في جولة تفقد الحلبة تحت 1600 كشاف إضاءة في سنغافورة.',
+      body: [
+        'أضاءت حلبة مارينا باي في سنغافورة مساء الخميس مع تشغيل 1600 كشاف إضاءة استعدادا للسباق الليلي المرتقب.',
+        'تفقد متصدر البطولة كيمي أنتونيللي المسار البالغ طوله 4.94 كم برفقة مهندسيه للوقوف على التعديلات في الإسفلت ونقاط الكبح.',
+        'وكشفت فرق فيراري وماكلارين عن حزم ديناميكية هوائية ذات ارتكازية عالية لمنافسة مرسيدس بدءا من تجارب الجمعة الحرة.',
+      ],
+    },
+  },
 };
+
 
