@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "Singapore Grand Prix is the original Formula 1 night race, running under 1,600 floodlights.",
-    "Marina Bay has featured at least one safety car in every single edition since its 2008 debut.",
-    "Drivers can lose up to three kilograms of body weight during the grueling two-hour race."
+    "Lando Norris edged Charles Leclerc by just 0.058 seconds in FP2 under the Marina Bay floodlights.",
+    "Ferrari and McLaren occupied the top three spots in both Friday sessions, signaling a fierce street-circuit duel.",
+    "Championship leader Kimi Antonelli logged 28 laps in FP2, focusing primarily on high-fuel race simulations."
   ],
   "keyPlayers": [
     {
-      "name": "Kimi Antonelli",
-      "team": "Mercedes",
-      "hook": "Leads the World Championship on 317 points following his commanding victory from pole in Baku."
+      "name": "Lando Norris",
+      "team": "McLaren",
+      "hook": "Set the Friday benchmark with an electrifying 1:30.727 under the night lights in FP2."
     },
     {
-      "name": "George Russell",
-      "team": "Mercedes",
-      "hook": "Sits second on 229 points looking to slash Antonelli's 88-point cushion under the floodlights."
+      "name": "Charles Leclerc",
+      "team": "Ferrari",
+      "hook": "Topped FP1 and fell just 0.058 seconds short of Norris in FP2, demonstrating Ferrari's slow-speed agility."
     }
   ],
   "headToHead": "",
@@ -35,46 +35,52 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Round 18 · Thursday Track Walk",
-  "resultSummary": "",
+  "roundLabel": "Friday Practice · Norris & Leclerc Top Times",
+  "resultSummary": "FP2: 1. Norris (McLaren) 1:30.727; 2. Leclerc (Ferrari) 1:30.785 (+0.058); 3. Sainz (Ferrari) 1:31.356; 4. Antonelli (Mercedes) 1:31.402; 5. Russell (Mercedes) 1:31.488",
   "leaderboard": [
     {
       "pos": "1",
-      "name": "Kimi Antonelli (Mercedes)",
-      "score": "317 pts",
-      "note": "Championship Leader"
+      "name": "Lando Norris (McLaren)",
+      "score": "1:30.727",
+      "note": "FP2 Leader"
     },
     {
       "pos": "2",
-      "name": "George Russell (Mercedes)",
-      "score": "229 pts",
-      "note": "-88 pts"
+      "name": "Charles Leclerc (Ferrari)",
+      "score": "1:30.785",
+      "note": "+0.058s (FP1 Leader 1:31.763)"
     },
     {
       "pos": "3",
-      "name": "Lewis Hamilton (Ferrari)",
-      "score": "201 pts",
-      "note": "-116 pts"
+      "name": "Carlos Sainz (Ferrari)",
+      "score": "1:31.356",
+      "note": "+0.629s"
     },
     {
       "pos": "4",
-      "name": "Lando Norris (McLaren)",
-      "score": "198 pts",
-      "note": "-119 pts"
+      "name": "Kimi Antonelli (Mercedes)",
+      "score": "1:31.402",
+      "note": "+0.675s"
+    },
+    {
+      "pos": "5",
+      "name": "George Russell (Mercedes)",
+      "score": "1:31.488",
+      "note": "+0.761s"
     }
   ],
   "tennisSets": [],
   "sources": [
     {
-      "name": "Formula 1 Official: Singapore Grand Prix",
+      "name": "Formula 1 Official: Norris edges Leclerc in Friday practice",
       "url": "https://www.formula1.com/en/racing/2026/singapore.html"
     },
     {
-      "name": "BBC Sport: F1 Singapore GP preview",
+      "name": "BBC Sport: F1 Singapore GP FP2 report",
       "url": "https://www.bbc.co.uk/sport/formula1"
     },
     {
-      "name": "Sky Sports F1: Marina Bay night race guide",
+      "name": "Sky Sports F1: Marina Bay Friday times and analysis",
       "url": "https://www.skysports.com/f1"
     }
   ],
@@ -82,13 +88,13 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "singapore-gp-preview-2026",
-  "headline": "Singapore GP: Marina Bay lights ignite as Antonelli leads grid into Thursday track walk",
+  "headline": "Singapore GP: Lando Norris edges Charles Leclerc by 0.058s in Friday night practice",
   "whyCareScore": 9.5,
-  "whyCareReason": "1,600 floodlights illuminate Marina Bay as championship leader Kimi Antonelli and title challengers complete Thursday inspections ahead of Friday practice.",
-  "teaser": "Thursday 1 October: The Marina Bay street circuit lights up in Singapore. Drivers complete track walks and technical press briefings ahead of Friday free practice.",
-  "story": "Why this one matters: Thursday evening transformed the Singapore waterfront into a radiant spectacle as 1,600 floodlight projectors illuminated the 4.94-kilometer Marina Bay Street Circuit for Formula 1's premier night race.\n\nChampionship leader Kimi Antonelli led the Mercedes engineering crew on their formal track walk, examining the newly resurfaced braking zones into turns 7 and 14. Holding an 88-point lead over teammate George Russell, the 19-year-old Italian expressed quiet confidence while acknowledging the oppressive 30-degree Celsius heat and punishing humidity that make Singapore the physical pinnacle of the calendar.\n\nAcross the paddock, Ferrari and McLaren revealed substantial high-downforce floor and beam-wing upgrades aimed at challenging Mercedes on the 19-corner layout. With Friday Free Practice 1 and 2 just hours away, every team is dialing in setup data for one of the season's most unpredictable races.",
-  "stakes": "Antonelli seeks to defend his 88-point cushion while Ferrari and McLaren deploy high-downforce upgrades to close the gap.",
-  "rivalryAngle": "High-downforce street battle tests Mercedes straight-line superiority against McLaren and Ferrari agility.",
+  "whyCareReason": "Lando Norris and Charles Leclerc trade blistering lap times under 1,600 floodlights as qualifying simulations set up an ultra-tight Marina Bay battle.",
+  "teaser": "Friday 2 October in Singapore: Norris posts 1:30.727 in FP2, edging Leclerc by 0.058 seconds. Mercedes championship leader Antonelli stays within striking distance.",
+  "story": "Why this one matters: Friday night at Marina Bay confirmed that the 2026 Singapore Grand Prix is poised to become a razor-thin tactical war between McLaren and Ferrari.\n\nUnder the glare of 1,600 floodlights and through sweltering 30-degree night air, Lando Norris unleashed an electric 1:30.727 during the qualifying simulations in Free Practice 2. Ferrari's Charles Leclerc, who had topped the earlier twilight session in FP1 with a 1:31.763, answered with a sensational flying lap of his own, falling short by a mere 0.058 seconds.\n\nCarlos Sainz backed up Ferrari's pace in third, while championship leader Kimi Antonelli and George Russell slotted into fourth and fifth for Mercedes. With overtaking notoriously difficult across Marina Bay's 19 tight corners, Saturday's qualifying shootout will carry immense weight for the title fight.",
+  "stakes": "Crucial pole position advantage on a street circuit where qualifying almost always dictates Sunday victory.",
+  "rivalryAngle": "McLaren and Ferrari agility challenge Mercedes power on the tightest, most punishing street circuit in motorsport.",
   "home": "Mercedes-AMG",
   "away": "F1 Grid",
   "group": "F1",

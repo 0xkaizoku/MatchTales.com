@@ -1,0 +1,78 @@
+{
+  "funFacts": [
+    "Aston Villa's 1-0 victory over Bayern Munich exacted an exact repeat of the 1982 European Cup final scoreline in Rotterdam.",
+    "Jhon Duran has scored five goals as a substitute this season, averaging a goal every 48 minutes.",
+    "The defeat ended Bayern Munich's 41-game unbeaten run in the Champions League group and league phase."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Jhon Duran",
+      "team": "Aston Villa",
+      "hook": "Super-sub striker who caught Manuel Neuer off his line with an audacious 30-yard first-time lob in the 79th minute."
+    },
+    {
+      "name": "Emiliano Martinez",
+      "team": "Aston Villa",
+      "hook": "World Cup winning goalkeeper who produced seven crucial saves, including a stoppage-time stop from Harry Kane."
+    }
+  ],
+  "headToHead": "Aston Villa have defeated Bayern Munich in both of their competitive meetings: 1-0 in the 1982 European Cup final and 1-0 in the 2026 Champions League.",
+  "tags": [
+    "ucl",
+    "aston-villa",
+    "bayern-munich",
+    "champions-league",
+    "duran"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 2,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026/27",
+  "roundLabel": "Champions League · Matchday 2",
+  "resultSummary": "FINAL: Aston Villa 1, Bayern Munich 0. Jhon Duran 79' scores 30-yard wonder lob over Manuel Neuer to seal historic Villa Park victory.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "UEFA.com: Aston Villa 1-0 Bayern Munich match report",
+      "url": "https://www.uefa.com/uefachampionsleague/match/2026-aston-villa-vs-bayern"
+    },
+    {
+      "name": "BBC Sport: Duran wonder strike sinks Bayern at Villa Park",
+      "url": "https://www.bbc.co.uk/sport/football/champions-league/aston-villa-bayern"
+    },
+    {
+      "name": "The Guardian: Villa recreate 1982 glory against Bayern",
+      "url": "https://www.theguardian.com/football/aston-villa-bayern-munich-champions-league"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 1,
+  "awayScore": 0,
+  "slug": "aston-villa-vs-bayern-ucl-2026",
+  "headline": "Aston Villa 1-0 Bayern Munich: Duran's audacious lob seals historic Champions League triumph",
+  "whyCareScore": 9.8,
+  "whyCareReason": "Unai Emery's side summoned the spirit of 1982 to end Bayern Munich's decade-long group phase dominance on a thunderous European night in Birmingham.",
+  "teaser": "FINAL at Villa Park: Aston Villa 1, Bayern Munich 0. Jhon Duran came off the bench to loft a 79th-minute winner over Manuel Neuer as Villa stunned the German giants.",
+  "story": "Why this one matters: Forty-two years after Peter Withe struck in Rotterdam to crown Aston Villa champions of Europe, Villa Park bore witness to an electric repetition of footballing folklore.\n\nUnai Emery set a disciplined tactical trap for Vincent Kompany's free-scoring Bayern Munich. While the Bavarian giants dominated possession through Jamal Musiala and Harry Kane, Emiliano Martinez was impenetrable in goal, turning aside seven shots with acrobatic brilliance.\n\nThe decisive moment arrived in the 79th minute. Pau Torres released Jhon Duran with a flighted through-ball, and the Colombian substitute spotted Manuel Neuer straying off his line. Without hesitation, Duran steered a stunning first-time lob from 30 yards over the German keeper, sending the Holte End into delirium.",
+  "stakes": "Aston Villa secure six points from their opening two Champions League fixtures; Bayern suffer their first defeat of the season.",
+  "rivalryAngle": "An iconic modern homage to the 1982 European Cup final, proving Villa's return to the continental elite is real.",
+  "home": "Aston Villa",
+  "away": "Bayern Munich",
+  "group": "UCL",
+  "date": "2026-10-01",
+  "time": "20:00",
+  "venue": "Villa Park",
+  "city": "Birmingham",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "champions-league-2026-27"
+}

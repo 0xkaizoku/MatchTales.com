@@ -1,22 +1,22 @@
 {
   "funFacts": [
-    "Thursday Night Football opens NFL Week 4 with an iconic NFC West divisional showdown.",
-    "Brock Purdy threw three touchdowns in San Francisco's Week 1 win over the Rams in Melbourne.",
-    "Matthew Stafford has passed for 68,000 career yards and seeks his first win at Levi's Stadium since 2021."
+    "The 49ers sealed Thursday Night Football with a dramatic 4th-and-goal stop inside their 10-yard line with 42 seconds remaining.",
+    "Brock Purdy connected on two touchdown passes, hitting Deebo Samuel and George Kittle in prime time.",
+    "Christian McCaffrey scored the game-winning 4-yard touchdown in the fourth quarter to move San Francisco to 3-1."
   ],
   "keyPlayers": [
     {
       "name": "Brock Purdy",
       "team": "49ers",
-      "hook": "Orchestrates Kyle Shanahan's offense looking to ignite home form in prime time tonight."
+      "hook": "Threw for 254 yards and 2 scores with a 112.4 passer rating to anchor the division victory."
     },
     {
       "name": "Matthew Stafford",
       "team": "Rams",
-      "hook": "Veteran quarterback seeking quick rhythm against San Francisco's defensive front."
+      "hook": "Passed for 281 yards and two touchdowns, engineering a late fourth-quarter rally that fell inches short."
     }
   ],
-  "headToHead": "San Francisco won the season opener in Australia 27-7, but the Rams won the previous regular-season finale.",
+  "headToHead": "San Francisco sweeps the early 2026 meetings with the Rams following their Week 1 victory in Melbourne.",
   "tags": [
     "nfl",
     "49ers",
@@ -36,35 +36,35 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Week 4 · Thursday Night Football",
-  "resultSummary": "",
+  "roundLabel": "Week 4 · Thursday Night Football Final",
+  "resultSummary": "FINAL: 49ers 24, Rams 20. Brock Purdy 2 TDs; Christian McCaffrey 4th-quarter score clinches NFC West thriller after 4th-down goal-line stop.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "NFL.com: Week 4 Rams at 49ers preview",
+      "name": "NFL.com: 49ers hold off Rams 24-20 on TNF",
       "url": "https://www.nfl.com/games/rams-at-49ers-2026-reg-4"
     },
     {
-      "name": "ESPN: Thursday Night Football game guide",
+      "name": "ESPN: Thursday Night Football final box score and recap",
       "url": "https://www.espn.com/nfl/scoreboard"
     },
     {
-      "name": "San Francisco Chronicle: 49ers prepare for Rams showdown",
+      "name": "San Francisco Chronicle: 49ers goal-line stand denies Rams",
       "url": "https://www.sfchronicle.com/sports/49ers/article/rams-49ers-tnf-week4-2026"
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 24,
+  "awayScore": 20,
   "slug": "49ers-vs-rams-tnf-week4-2026",
-  "headline": "49ers vs Rams Thursday Night Football: NFC West duel opens NFL Week 4 tonight",
-  "whyCareScore": 9.3,
-  "whyCareReason": "Division rivals collide on short rest in Santa Clara as Brock Purdy and Matthew Stafford open NFL Week 4 in prime time.",
-  "teaser": "Thursday night at Levi's Stadium (8:15 p.m. ET / 5:15 p.m. PT). Brock Purdy and Christian McCaffrey host Matthew Stafford and Kyren Williams as Week 4 kicks off.",
-  "story": "Why this one matters: Following Philadelphia's tight 24-20 Monday Night Football win over Dallas, the NFL turns directly to an NFC West grudge match under the Thursday night lights in Santa Clara.\n\nSan Francisco welcomes the Los Angeles Rams to Levi's Stadium for the first domestic meeting of the campaign, eager to defend home territory on short rest. Brock Purdy and Christian McCaffrey anchor a 49ers offense seeking to establish early division leverage, while Kyle Shanahan's defensive front prepares for Sean McVay's dynamic passing scheme.\n\nFor Matthew Stafford and the Rams, Thursday night provides an immediate chance to level the season series following their Week 1 clash in Melbourne. With both teams dealing with the physical strain of short-week preparation, every third-down execution will define the night.",
-  "stakes": "Divisional supremacy in the NFC West and early tiebreaker leverage ahead of the October grind.",
-  "rivalryAngle": "One of the NFL's oldest and fiercest rivalries, renewed on short rest in front of a national audience.",
+  "headline": "49ers 24-20 Rams: Goal-line stand seals Thursday Night Football thriller",
+  "whyCareScore": 9.4,
+  "whyCareReason": "San Francisco claims sole possession of first place in the NFC West after withstanding Matthew Stafford's frantic late comeback drive in Santa Clara.",
+  "teaser": "FINAL at Levi's Stadium: 49ers 24, Rams 20. Brock Purdy threw two touchdowns and Christian McCaffrey added the winning score before San Francisco's defense stood tall.",
+  "story": "Why this one matters: Thursday Night Football in Santa Clara delivered an instant classic as the San Francisco 49ers held off the Los Angeles Rams 24-20 to take control of the NFC West.\n\nBrock Purdy was sharp from the outset, distributing 254 yards and two touchdown strikes to Deebo Samuel and George Kittle. When Christian McCaffrey plunged into the end zone from four yards out early in the fourth quarter, San Francisco seemed poised for a comfortable finish.\n\nYet Matthew Stafford and Kyren Williams engineered a fierce response, cutting the deficit to four points. With less than a minute remaining, the Rams drove to the 49ers' 7-yard line, but San Francisco's defensive front held firm on fourth-and-goal, knocking down Stafford's pass to seal the victory.",
+  "stakes": "The 49ers improve to 3-1 and secure key head-to-head division tiebreakers; the Rams drop to 2-2.",
+  "rivalryAngle": "Another bruising chapter in the California rivalry, settled by inches on fourth down in prime time.",
   "home": "San Francisco 49ers",
   "away": "Los Angeles Rams",
   "group": "NFL",
@@ -72,7 +72,7 @@
   "time": "20:15",
   "venue": "Levi's Stadium",
   "city": "Santa Clara",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "football",
   "competition": "nfl-2026"
 }

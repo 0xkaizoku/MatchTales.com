@@ -1,22 +1,22 @@
 {
   "funFacts": [
-    "Carlos Alcaraz won 88 percent of first-serve points and never faced a break point.",
-    "Coco Gauff struck 24 winners and committed only 11 unforced errors in her 64-minute victory.",
-    "Daniil Medvedev converted three of four break chances against Gael Monfils on Diamond Court."
+    "Carlos Alcaraz struck 26 winners to dismiss Karen Khachanov in straight sets and reach his fifth semifinal of the season.",
+    "Jannik Sinner saved a set point in the second-set tiebreak to win his 15th consecutive match across all surfaces.",
+    "Aryna Sabalenka extended her winning streak to 15 matches by defeating Madison Keys 6-4, 6-3 on Diamond Court."
   ],
   "keyPlayers": [
     {
       "name": "Carlos Alcaraz",
       "team": "ATP",
-      "hook": "Neutralized huge 230 km/h serves with razor-sharp returns to advance 6-4, 6-4 in Beijing."
+      "hook": "Commanding 7-5, 6-2 quarterfinal triumph over Karen Khachanov to stay on collision course with Sinner."
     },
     {
-      "name": "Coco Gauff",
-      "team": "WTA",
-      "hook": "Cruised past Clara Burel 6-1, 6-2 on Diamond Court to reach the third round."
+      "name": "Jannik Sinner",
+      "team": "ATP",
+      "hook": "World No. 1 overcame a stubborn test from Jiri Lehecka 6-2, 7-6(6) to secure his place in the final four."
     }
   ],
-  "headToHead": "Alcaraz wins his first head-to-head meeting against Mpetshi Perricard.",
+  "headToHead": "Alcaraz extends his unbeaten record against Khachanov to 4-0, while Sinner moves to 3-0 over Lehecka.",
   "tags": [
     "tennis",
     "atp",
@@ -36,21 +36,30 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Round of 32 · Main Draw Live",
-  "resultSummary": "Alcaraz def. Mpetshi Perricard 6-4, 6-4; Medvedev def. Monfils 6-3, 6-4; Gauff def. Burel 6-1, 6-2; Osaka def. Putintseva 3-6, 6-4, 6-2",
+  "roundLabel": "Quarter-finals · Sinner & Alcaraz Advance",
+  "resultSummary": "Alcaraz def. Khachanov 7-5, 6-2; Sinner def. Lehecka 6-2, 7-6(6); Sabalenka def. Keys 6-4, 6-3; Gauff advances to semifinals",
   "leaderboard": [],
-  "tennisSets": [],
+  "tennisSets": [
+    {
+      "p1": "7",
+      "p2": "5"
+    },
+    {
+      "p1": "6",
+      "p2": "2"
+    }
+  ],
   "sources": [
     {
-      "name": "ATP Tour: Alcaraz and Medvedev advance in Beijing",
+      "name": "ATP Tour: Alcaraz and Sinner surge into Beijing semifinals",
       "url": "https://www.atptour.com/en/tournaments/beijing/747/overview"
     },
     {
-      "name": "WTA Tennis: Gauff and Osaka storm into next round",
+      "name": "WTA Tennis: Sabalenka and Gauff march on in China Open",
       "url": "https://www.wtatennis.com/tournament/1020/beijing"
     },
     {
-      "name": "China Open official portal",
+      "name": "China Open official portal: Quarterfinals results",
       "url": "http://www.chinaopen.com/en/"
     }
   ],
@@ -58,21 +67,21 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "china-open-beijing-2026",
-  "headline": "China Open: Alcaraz and Medvedev advance in straight sets as Beijing action heats up",
-  "whyCareScore": 9.4,
-  "whyCareReason": "Carlos Alcaraz defuses Giovanni Mpetshi Perricard's 230 km/h serves in straight sets while Daniil Medvedev and Coco Gauff power through in Beijing.",
-  "teaser": "Thursday 1 October at National Tennis Center. Alcaraz wins 6-4, 6-4; Medvedev beats Monfils 6-3, 6-4; Gauff rolls 6-1, 6-2 into the third round.",
-  "story": "Why this one matters: Thursday in Beijing saw the men's and women's draws deliver high-voltage drama as top contenders asserted authority at the National Tennis Center.\n\nWorld No. 2 Carlos Alcaraz passed a treacherous opening test against French sensation Giovanni Mpetshi Perricard, securing a 6-4, 6-4 victory. Alcaraz broke early in both sets and neutralized his opponent's 230 km/h rockets with brilliant return positioning. Meanwhile, Daniil Medvedev produced a masterclass in counter-punching to defeat Gael Monfils 6-3, 6-4 on Diamond Court.\n\nIn the WTA 1000 draw, Coco Gauff breezed past Clara Burel 6-1, 6-2 in just 64 minutes, while former champion Naomi Osaka mounted an electrifying comeback to edge Yulia Putintseva 3-6, 6-4, 6-2. With Sinner, Alcaraz, Sabalenka, and Gauff all through, Beijing is delivering one of the deepest autumn fields in recent memory.",
-  "stakes": "Crucial 500 and 1000 ranking points determine qualification for the season-ending ATP and WTA Finals in Turin and Riyadh.",
-  "rivalryAngle": "Sinner and Alcaraz renew their global chess match as both advance cleanly into the business end of the tournament.",
+  "headline": "China Open: Alcaraz and Sinner advance to Beijing semifinals as dream clash nears",
+  "whyCareScore": 9.5,
+  "whyCareReason": "Carlos Alcaraz powers past Karen Khachanov and Jannik Sinner battles through Jiri Lehecka to set up a blockbuster semifinal weekend in Beijing.",
+  "teaser": "Friday at National Tennis Center: Alcaraz sweeps Khachanov 7-5, 6-2; Sinner edges Lehecka 6-2, 7-6(6); Sabalenka rolls past Keys 6-4, 6-3 into the WTA final four.",
+  "story": "Why this one matters: Friday's quarterfinal session at the China Open delivered championship-level intensity as the world's top two men pushed toward an irresistible collision.\n\nCarlos Alcaraz produced a masterclass of controlled aggression, dismantling Karen Khachanov 7-5, 6-2 on Diamond Court. The 21-year-old Spaniard struck 26 winners and broke Khachanov four times, sealing his 47th match win of the season in one hour and 36 minutes.\n\nEarlier on center court, defending champion Jannik Sinner displayed trademark poise under pressure. Facing Jiri Lehecka, Sinner cruised through the opening set before saving a set point at 4-6 in the second-set tiebreak to prevail 6-2, 7-6(6). With Aryna Sabalenka and Coco Gauff also advancing into the WTA semifinals, the tournament heads into a blockbuster weekend.",
+  "stakes": "Crucial 500 ranking points in the ATP Race to Turin and a potential World No. 1 vs World No. 2 showdown in the final.",
+  "rivalryAngle": "Sinner and Alcaraz remain on a direct collision course for the Beijing crown, headlining tennis's premier modern rivalry.",
   "home": "Carlos Alcaraz",
-  "away": "Giovanni Mpetshi Perricard",
+  "away": "Karen Khachanov",
   "group": "ATP",
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "time": "14:00",
   "venue": "National Tennis Center",
   "city": "Beijing",
-  "status": "LIVE",
+  "status": "FINISHED",
   "sport": "tennis",
   "competition": "atp-wta-beijing-2026"
 }

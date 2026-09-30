@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "Chesson Hadley and Beau Hossler fired matching 6-under 66s to share the early clubhouse lead.",
-    "Defending champion Kevin Yu birdied the 18th hole to card a solid 4-under 68 in his opener.",
-    "Country Club of Jackson yields 500 FedExCup points and a two-year tour exemption to the champion."
+    "Beau Hossler carded eight birdies in an 8-under 64 to claim the solo 36-hole lead at 15-under 129.",
+    "Daniel Berger posted back-to-back rounds of 65 (-14) as he continues his comeback toward the top 50.",
+    "Defending champion Kevin Yu fired a second-round 66 to sit well in contention at 10-under par."
   ],
   "keyPlayers": [
     {
-      "name": "Kevin Yu",
+      "name": "Beau Hossler",
       "team": "PGA Tour",
-      "hook": "Defending champion opened with a crisp 4-under 68 including four birdies."
+      "hook": "Fired a bogey-free 64 on Friday to take a one-stroke 36-hole lead heading into the weekend."
     },
     {
-      "name": "Chesson Hadley",
+      "name": "Daniel Berger",
       "team": "PGA Tour",
-      "hook": "Carded seven birdies against a single bogey for a shared clubhouse-lead 66."
+      "hook": "Posted his second straight 65 to trail Hossler by a single shot at 14-under par."
     }
   ],
   "headToHead": "",
@@ -36,50 +36,50 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Round 1 · Live Scores",
-  "resultSummary": "Round 1 in progress: Hadley -6 (66), Hossler -6 (66), Yu -4 (68), Hughes -3 (69)",
+  "roundLabel": "Round 2 · Hossler Leads at -15",
+  "resultSummary": "Round 2: Beau Hossler leads at -15 (129) after firing 64; Daniel Berger sits second at -14 (130); Kevin Yu at -10 (134)",
   "leaderboard": [
     {
-      "pos": "T1",
-      "name": "Chesson Hadley",
-      "score": "-6 (66)",
-      "note": "Clubhouse Leader"
-    },
-    {
-      "pos": "T1",
+      "pos": "1",
       "name": "Beau Hossler",
-      "score": "-6 (66)",
-      "note": "Clubhouse Leader"
+      "score": "-15 (65-64=129)",
+      "note": "Leader"
     },
     {
-      "pos": "T3",
+      "pos": "2",
+      "name": "Daniel Berger",
+      "score": "-14 (65-65=130)",
+      "note": "1 back"
+    },
+    {
+      "pos": "3",
+      "name": "Chesson Hadley",
+      "score": "-11 (66-67=133)",
+      "note": "In Clubhouse"
+    },
+    {
+      "pos": "T4",
       "name": "Kevin Yu",
-      "score": "-4 (68)",
+      "score": "-10 (68-66=134)",
       "note": "Defending Champion"
     },
     {
-      "pos": "T4",
+      "pos": "T5",
       "name": "Mackenzie Hughes",
-      "score": "-3 (69)",
+      "score": "-9 (69-66=135)",
       "note": "In Clubhouse"
     },
     {
-      "pos": "T4",
-      "name": "Emiliano Grillo",
-      "score": "-3 (69)",
+      "pos": "T5",
+      "name": "Keith Mitchell",
+      "score": "-9 (68-67=135)",
       "note": "In Clubhouse"
-    },
-    {
-      "pos": "T6",
-      "name": "Rickie Fowler",
-      "score": "-2 (thru 14)",
-      "note": "On Course"
     }
   ],
   "tennisSets": [],
   "sources": [
     {
-      "name": "PGA Tour: Sanderson Farms Championship leaderboard",
+      "name": "PGA Tour: Sanderson Farms Championship Round 2 leaderboard",
       "url": "https://www.pgatour.com/tournaments/2026/sanderson-farms-championship/R2026054"
     },
     {
@@ -87,7 +87,7 @@
       "url": "https://sandersonfarmschampionship.com/"
     },
     {
-      "name": "Golfweek: FedExCup Fall Round 1 recap",
+      "name": "Golfweek: Hossler takes 36-hole lead in Jackson",
       "url": "https://golfweek.usatoday.com/category/pga-tour/"
     }
   ],
@@ -95,17 +95,17 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "sanderson-farms-championship-2026",
-  "headline": "Sanderson Farms Championship: Round 1 underway as Hadley and Hossler set early pace",
-  "whyCareScore": 9.1,
-  "whyCareReason": "Defending champion Kevin Yu opens with a 68 as Chesson Hadley and Beau Hossler set the early target on a pristine day in Jackson.",
-  "teaser": "Thursday 1 October: Round 1 is live in Mississippi. Hadley and Hossler post 6-under 66s; Kevin Yu starts title defense at 4-under 68.",
-  "story": "Why this one matters: The PGA Tour's FedExCup Fall burst into action on Thursday morning at the Country Club of Jackson, where pristine Mississippi conditions invited aggressive scoring.\n\nChesson Hadley and Beau Hossler set the early target in the morning wave, each firing a 6-under 66. Both players capitalized on soft bermudagrass greens, carding seven birdies apiece to share the early clubhouse lead. Defending champion Kevin Yu started his title defense with confidence, holing a 15-foot birdie putt on the 18th to sign for a 4-under 68 alongside playing partner Mackenzie Hughes (69).\n\nWith afternoon winds remaining mild, the battle for crucial 2027 tour cards is fully engaged. Players outside the top 125 know that a hot start in Jackson can transform an entire career.",
-  "stakes": "The winner earns a two-year PGA Tour exemption, entry into the Sentry and PGA Championship, and crucial FedExCup points.",
-  "rivalryAngle": "High-stakes individual survival: fringe tour members versus seasoned veterans protecting their playing privileges.",
+  "headline": "Sanderson Farms: Beau Hossler shoots 64 to take 36-hole lead at 15-under",
+  "whyCareScore": 9.2,
+  "whyCareReason": "Beau Hossler surges to 15-under par in Jackson with Daniel Berger breathing down his neck in a high-stakes FedExCup Fall shootout.",
+  "teaser": "Friday at Country Club of Jackson: Beau Hossler cards an 8-under 64 to seize the 36-hole lead at 15-under 129, one shot ahead of Daniel Berger.",
+  "story": "Why this one matters: The Country Club of Jackson continued to yield sensational scoring on Friday as Beau Hossler surged to the top of the leaderboard with a flawless 8-under 64.\n\nHossler caught fire on his second nine, rattling off five birdies in a seven-hole stretch to reach 15-under 129 for 36 holes. The 29-year-old American is seeking his breakthrough PGA Tour victory, but he faces relentless pressure from a resurgent Daniel Berger, who posted his second consecutive 65 to sit just one back at 14-under 130.\n\nDefending champion Kevin Yu remains firmly in contention after backing up his opening 68 with a crisp 6-under 66. With the 36-hole cut falling at 4-under par, the weekend promises a furious race for the 500 FedExCup points and two-year winner exemption.",
+  "stakes": "Breakthrough PGA Tour victory, 500 FedExCup points, and guaranteed tour status through 2028.",
+  "rivalryAngle": "Hossler chasing a maiden title against seasoned winners Berger and defending champ Yu in an intense Mississippi shootout.",
   "home": "Country Club of Jackson",
   "away": "FedExCup Fall field",
   "group": "PGA",
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "time": "07:30",
   "venue": "Country Club of Jackson",
   "city": "Jackson",

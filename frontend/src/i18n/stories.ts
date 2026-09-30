@@ -5254,6 +5254,558 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+  'aston-villa-1-0-bayern-duran-historic-ucl-2026': {
+    fr: {
+      title: "Aston Villa 1-0 Bayern Munich : le lob sensationnel de Duran fait revivre la gloire de 1982",
+      subtitle: "Le joker colombien trompe Manuel Neuer d'un lob de 30 mètres à la 79e minute et enflamme Villa Park.",
+      excerpt: "Quarante-deux ans après Rotterdam, Aston Villa a terrassé le Bayern Munich 1-0 en Ligue des champions grâce à un coup de génie de Jhon Duran.",
+      body: [
+        "Quarante-deux ans après le sacre historique de Rotterdam, Villa Park a vibré au rythme d'une soirée européenne légendaire. Aston Villa a fait tomber le Bayern Munich 1-0, mettant un terme à une série de 41 matches sans défaite des Bavarois en phase de groupes.",
+        "Unai Emery a dressé un piège tactique remarquable face à la formation de Vincent Kompany. Malgré la pression offensive de Kane et Musiala, Emiliano Martinez s'est montré infranchissable dans ses cages avec sept parades décisives.",
+        "Le coup de foudre est survenu à la 79e minute : lancé par Pau Torres, Jhon Duran a vu Manuel Neuer trop avancé et a déclenché un lob splendide de 30 mètres sans contrôle pour faire chavirer Birmingham.",
+      ],
+    },
+    es: {
+      title: "Aston Villa 1-0 Bayern Múnich: la vaselina de Durán revive la gloria de 1982 en una noche mágica",
+      subtitle: "El delantero colombiano sorprende a Manuel Neuer desde 30 metros en el minuto 79 para desatar la euforia en Villa Park.",
+      excerpt: "Cuarenta y dos años después de Róterdam, el Aston Villa sorprendió al Bayern Múnich 1-0 con una genialidad inolvidable de Jhon Durán.",
+      body: [
+        "Cuarenta y dos años después del histórico gol de Peter Withe en Róterdam, Villa Park presenció otra gesta inolvidable. El Aston Villa derrotó 1-0 al Bayern Múnich en la segunda jornada de la Champions League, cortando una racha bávara de 41 partidos invictos en fase de grupos.",
+        "El planteamiento de Unai Emery contuvo el poderío ofensivo de Kane y Musiala. El guardameta Emiliano Martínez brilló con siete intervenciones salvadoras bajo los tres palos.",
+        "En el minuto 79 llegó el instante definitivo: tras un pase largo de Pau Torres, Jhon Durán vio a Neuer adelantado y sacó una vaselina perfecta con la zurda desde 30 metros para firmar una noche dorada.",
+      ],
+    },
+    de: {
+      title: "Aston Villa 1:0 Bayern München: Durán-Traumtor wiederholt den Triumph von 1982",
+      subtitle: "Kolumbianischer Joker überlupft Manuel Neuer aus 27 Metern in der 79. Minute und bringt den Villa Park zum Kochen.",
+      excerpt: "42 Jahre nach dem Europapokal-Triumph von Rotterdam schlägt Aston Villa den FC Bayern mit 1:0 durch einen Geniestreich von Jhon Durán.",
+      body: [
+        "42 Jahre nach dem historischen Finalsieg von Rotterdam feierte der Villa Park einen magischen Europapokal-Abend. Aston Villa bezwang den FC Bayern München mit 1:0 und beendete die Serie der Bayern von 41 ungeschlagenen Gruppenspielen.",
+        "Unai Emery stellte seine Mannschaft taktisch perfekt ein. Emiliano Martínez hielt mit sieben herausragenden Paraden die Null gegen die Offensivkraft um Harry Kane und Jamal Musiala.",
+        "In der 79. Minute folgte der Paukenschlag: Jhon Durán sah Manuel Neuer weit vor seinem Kasten und hob den Ball aus knapp 30 Metern über den Nationaltorwart ins Netz zum umjubelten Sieg.",
+      ],
+    },
+    it: {
+      title: "Aston Villa 1-0 Bayern Monaco: il pallonetto di Durán fa rivivere il trionfo del 1982 a Villa Park",
+      subtitle: "Il subentrato colombiano beffa Neuer da 30 metri al minuto 79 e regala ai Villans una notte memorabile.",
+      excerpt: "Quarantadue anni dopo Rotterdam, l'Aston Villa batte il Bayern Monaco 1-0 grazie a una prodezza di Jhon Durán in Champions League.",
+      body: [
+        "Quarantadue anni dopo la finale di Rotterdam del 1982, Villa Park ha vissuto un'altra notte di pura leggenda europea. L'Aston Villa ha superato 1-0 il Bayern Monaco, interrompendo una striscia bavarese di 41 partite senza sconfitte nei gironi.",
+        "Unai Emery ha allestito un piano tattico impeccabile. Emiliano Martínez è stato determinante con sette parate prodigiose a difesa del risultato contro Kane e compagni.",
+        "Al 79' l'apoteosi: imbeccato da Pau Torres, Jhon Durán ha visto Neuer fuori dai pali e ha calciato un pallonetto morbido di prima intenzione che ha fatto esplodere di gioia il popolo di Birmingham.",
+      ],
+    },
+    pl: {
+      title: "Aston Villa 1-0 Bayern Monachium: cudowny lob Durana powtarza chwałę z 1982 roku",
+      subtitle: "Kolumbijski rezerwowy przelobował Manuela Neuera z 30 metrów w 79. minucie na wypełnionym Villa Park.",
+      excerpt: "Czterdzieści dwa lata po finale w Rotterdamie Aston Villa sensacyjnie pokonała Bayern Monachium 1-0 po kapitalnym uderzeniu Jhona Durana.",
+      body: [
+        "Czterdzieści dwa lata po triumfie w Rotterdamie kibice na Villa Park przeżyli kolejną historyczną noc. Aston Villa pokonała Bayern Monachium 1-0, przerywając passę 41 meczów Bawarczyków bez porażki w fazie grupowej Ligi Mistrzów.",
+        "Zespół Unaia Emery'ego zagrał z niezwykłą dojrzałością taktyczną. Emiliano Martinez był niezrównany w bramce, broniąc siedem groźnych strzałów rywali.",
+        "W 79. minucie Jhon Duran zauważył wysuniętego Neuera i uderzeniem z pierwszej piłki z 30 metrów posłał piłkę ponad niemieckim bramkarzem prosto do siatki.",
+      ],
+    },
+    zh: {
+      title: "阿斯顿维拉 1-0 拜仁慕尼黑：杜兰天外飞仙吊射重现1982欧冠决战荣耀",
+      subtitle: "哥伦比亚超级替补第79分钟30米外吊射击溃诺伊尔，维拉公园球场陷入狂欢",
+      excerpt: "时隔42年重演鹿特丹决赛经典，阿斯顿维拉凭借杜兰的世界波1-0力克拜仁慕尼黑，打破德甲巨人欧冠小组赛41场不败纪录。",
+      body: [
+        "时隔42年，维拉公园球场再现了1982年欧洲冠军杯决赛的荣耀时刻。阿斯顿维拉在欧冠第2轮主场1-0力克拜仁慕尼黑，终结了对手在欧冠小组赛阶段保持的41场不败神话。",
+        "埃梅里布置了极具针对性的防守反击战术。门将达米安·马丁内斯高接抵挡完成7次扑救，力保球门不失。",
+        "比赛第79分钟，替补登场的哥伦比亚前锋杜兰接保·托雷斯后场长传，果断在30米开外起左脚凌空吊射，皮球划出绝美弧线越过诺伊尔头顶坠入球网，引爆全场欢腾。",
+      ],
+    },
+    ja: {
+      title: "アストン・ヴィラ 1-0 バイエルン：デュランの芸術的ループ弾が1982年の栄光を再現",
+      subtitle: "途中出場のコロンビア代表FWが79分にノイアーの頭上を抜く30mロングシュートを沈めてヴィラ・パーク熱狂",
+      excerpt: "42年前のロッテルダム決勝のスコアがヴィラ・パークで再現。アストン・ヴィラがデュランの劇的弾でバイエルンを1-0で破る。",
+      body: [
+        "1982年のチャンピオンズカップ決勝から42年、ヴィラ・パークが欧州の熱狂に包まれました。アストン・ヴィラはバイエルン・ミュンヘンを1-0で下し、相手のグループステージ41戦無敗記録をストップさせました。",
+        "エメリ監督の統率された守備陣とGKエミリアーノ・マルティネスが奮闘し、ケインやムシアラを擁するバイエルンの猛攻を7本の好セーブで完封しました。",
+        "勝負を決めたのは79分でした。交代出場のジョン・デュランが前に出ていたノイアーの位置を見逃さず、約30mの距離からダイレクトでループシュートを放ち、見事にゴール右隅へ流し込みました。",
+      ],
+    },
+    ko: {
+      title: "아스톤 빌라 1-0 바이에른 뮌헨: 두란의 환상적인 로빙 결승골, 1982년 신화 재현",
+      subtitle: "콜롬비아 특급 조커 후반 79분 노이어 키 넘기는 30m 원더골 작렬, 빌라 파크 열광",
+      excerpt: "42년 전 로테르담의 기적을 완벽 재현했다. 아스톤 빌라가 존 두란의 환상골로 바이에른 뮌헨의 41경기 챔피언스리그 무패 행진을 저지했다.",
+      body: [
+        "1982년 유러피언컵 결승전의 감동이 42년 만에 빌라 파크에서 그대로 재현되었습니다. 아스톤 빌라는 바이에른 뮌헨을 1-0으로 꺾고 뮌헨의 챔피언스리그 조별리그 41경기 무패 기록을 멈춰 세웠습니다.",
+        "에메리 감독의 완벽한 수비 전술과 골키퍼 에밀리아노 마르티네스의 7차례 신들린 선방 쇼가 해리 케인과 무시알라의 파상 공세를 완벽히 막아냈습니다.",
+        "후반 79분 교체 투입된 존 두란이 토레스의 롱패스를 받아 앞으로 나온 마누엘 노이어의 위치를 포착하고 30m 거리에서 지체 없이 왼발 감아차기 로빙슛을 성공시키며 승부를 결정지었습니다.",
+      ],
+    },
+    ar: {
+      title: "أستون فيلا 1-0 بايرن ميونخ: تسديدة دوران الساحرة تكرر أمجاد 1982 في ليلة تاريخية",
+      subtitle: "المهاجم الكولومبي البديل يباغت مانويل نوير بكرة ساقطة من 30 مترا في الدقيقة 79 ويشعل مدرجات فيلا بارك.",
+      excerpt: "بعد مرور 42 عاما على نهائي روتردام، أستون فيلا يصعق بايرن ميونخ 1-0 في دوري أبطال أوروبا بفضل هدف عبقري من جون دوران.",
+      body: [
+        "بعد 42 عاما من معجزة روتردام التاريخية، شهد ملعب فيلا بارك ملحمة كروية لا تنسى. حقق أستون فيلا فوزا ثمينا على بايرن ميونخ بنتيجة 1-0، لينهي سلسلة من 41 مباراة دون هزيمة للعملاق البافاري في دور المجموعات.",
+        "أدار أوناي إيمري المباراة بحنكة تكتيكية عالية، وتألق الحارس إيميليانو مارتينيز بصورة استثنائية ليتصدى لسبع كرات خطيرة حرمت كين ورفاقه من التسجيل.",
+        "وفي الدقيقة 79 جاءت اللحظة الساحرة: استغل البديل جون دوران تمريرة طولية ورأى الحارس مانويل نوير متقدما عن مرماه، ليرسل كرة ساقطة مذهلة من 30 مترا استقرت في الشباك وسط احتفالات هيستيرية في برمنغهام.",
+      ],
+    },
+  },
+  'nfl-week4-tnf-49ers-edge-rams-24-20-2026': {
+    fr: {
+      title: "49ers 24-20 Rams : un arrêt héroïque sur la ligne scelle le choc du jeudi soir",
+      subtitle: "Brock Purdy lance deux passes de touchdown et la défense repousse Matthew Stafford à quelques secondes du terme.",
+      excerpt: "San Francisco s'installe seul en tête de la NFC Ouest après avoir résisté à la dernière offensive des Rams pour l'emporter 24-20.",
+      body: [
+        "Le Thursday Night Football a tenu toutes ses promesses au Levi's Stadium où les 49ers de San Francisco ont battu les Rams de Los Angeles 24-20 au terme d'une fin de match étouffante.",
+        "Brock Purdy a maîtrisé les débats avec 254 yards et deux touchdowns pour Deebo Samuel et George Kittle. Au début du quatrième quart-temps, Christian McCaffrey a franchi la ligne d'en-but pour donner un avantage précieux aux Niners.",
+        "Menés de quatre points, les Rams de Matthew Stafford ont atteint la ligne des 7 yards adverses à 42 secondes du terme. Mais la défense californienne a tenu bon sur quatrième tentative, repoussant l'ultime passe pour sceller la victoire.",
+      ],
+    },
+    es: {
+      title: "49ers 24-20 Rams: una frenada en la yarda de gol sella un vibrante Thursday Night Football",
+      subtitle: "Brock Purdy lanza dos pases de anotación y la defensa detiene a Matthew Stafford en los instantes finales.",
+      excerpt: "San Francisco se apodera del liderato en solitario del Oeste de la NFC tras imponerse 24-20 a los Rams en Santa Clara.",
+      body: [
+        "El Thursday Night Football de la Semana 4 regaló una batalla memorable en el Levi's Stadium. Los San Francisco 49ers vencieron 24-20 a Los Angeles Rams para quedarse en la cima divisional.",
+        "Brock Purdy completó 19 de 26 pases para 254 yardas y dos touchdowns hacia Deebo Samuel y George Kittle. En el último cuarto, Christian McCaffrey anotó con una carrera de cuatro yardas.",
+        "Matthew Stafford orquestó una serie ofensiva final que llegó hasta la yarda 7 de San Francisco con 42 segundos en el reloj, pero la secundaria de los 49ers desvió el pase en cuarto intento para sellar el triunfo.",
+      ],
+    },
+    de: {
+      title: "49ers 24:20 Rams: Goal-Line-Stop sichert dramatischen Thursday-Night-Krimi in Santa Clara",
+      subtitle: "Brock Purdy wirft zwei Touchdowns und die Defense stoppt Matthew Stafford kurz vor Schluss an der 7-Yard-Linie.",
+      excerpt: "San Francisco übernimmt die alleinige Führung in der NFC West nach einem 24:20-Erfolg über die Los Angeles Rams.",
+      body: [
+        "Thursday Night Football bot im Levi's Stadium ein mitreißendes Divisionsduell, in dem die San Francisco 49ers die Los Angeles Rams mit 24:20 niederringen konnten.",
+        "Quarterback Brock Purdy glänzte mit 254 Yards und zwei Touchdowns auf Deebo Samuel und George Kittle. Im Schlussviertel erzielte Christian McCaffrey den entscheidenden Touchdown-Lauf zur Führung.",
+        "Stafford führte die Rams in den Schlusssekunden bis an die 7-Yard-Linie, doch die 49ers-Verteidigung wehrte den vierten Versuch ab und sicherte den 3-1-Saisonstart.",
+      ],
+    },
+    it: {
+      title: "49ers 24-20 Rams: la difesa salva sulla linea di meta nel finale al cardiopalma del giovedì",
+      subtitle: "Brock Purdy lancia due touchdown e la retroguardia respinge Stafford a 42 secondi dal termine a Santa Clara.",
+      excerpt: "San Francisco vola in vetta solitaria alla NFC West superando 24-20 i Los Angeles Rams al Levi's Stadium.",
+      body: [
+        "Il Thursday Night Football ha regalato un grande spettacolo a Santa Clara con il successo dei San Francisco 49ers per 24-20 sui Los Angeles Rams.",
+        "Brock Purdy ha orchestrato l'attacco con precisione, totalizzando 254 yard e due passaggi da touchdown per Deebo Samuel e George Kittle, prima del sigillo di McCaffrey su corsa.",
+        "Nel finale i Rams sono arrivati a un passo dal colpaccio sulla linea delle 7 yard, ma il quarto down difensivo dei 49ers ha sbarrato la porta alla rimonta di Stafford.",
+      ],
+    },
+    pl: {
+      title: "49ers 24-20 Rams: obrona na linii punktowej pieczętuje triumf w Thursday Night Football",
+      subtitle: "Brock Purdy rzuca dwa przyłożenia, a defensywa zatrzymuje Matthew Stafforda na 42 sekundy przed końcem.",
+      excerpt: "San Francisco 49ers obejmują samodzielne prowadzenie w dywizji NFC West po wygranej 24-20 nad Los Angeles Rams.",
+      body: [
+        "Czwartkowy mecz otwarcia 4. kolejki NFL na Levi's Stadium przyniósł wielkie emocje. San Francisco 49ers pokonali Los Angeles Rams 24-20 w zaciętym starciu dywizyjnym.",
+        "Brock Purdy rozegrał znakomite zawody, notując 254 jardy i dwa podania na przyłożenia do Samuela i Kittle'a, a Christian McCaffrey zdobył decydujące punkty po ziemi w czwartej kwarcie.",
+        "W dramatycznej końcówce Rams dotarli pod samą linię punktową 49ers, jednak obrona gospodarzy zablokowała podanie Stafforda przy czwartej próbie i przypieczętowała zwycięstwo.",
+      ],
+    },
+    zh: {
+      title: "49人 24-20 公羊：门线终极防守锁定周四夜赛胜利，旧金山领跑国联西区",
+      subtitle: "普尔迪送出两次达阵传球，49人防守组在最后42秒挡住斯塔福德第4档传球",
+      excerpt: "在旧金山主场进行的周四夜赛中，49人以24-20力克洛杉矶公羊，战绩升至3胜1负独占国联西区头名。",
+      body: [
+        "第4周NFL周四夜赛在李维斯体育场上演惊心动魄的同区德比，旧金山49人以24-20击败洛杉矶公羊，占据国联西区领跑地位。",
+        "四分卫布洛克·普尔迪表现稳健，26传19中贡献254码，先后助攻萨缪尔和基特尔完成达阵。第四节初，麦卡弗里4码冲球达阵奠定胜局。",
+        "公羊队在斯塔福德带领下展开绝地反击，在比赛仅剩42秒时推进至49人7码线。关键的第4档传球被49人角卫防守破坏，成功捍卫了主场胜利。",
+      ],
+    },
+    ja: {
+      title: "49ers 24-20 ラムズ：ゴール前劇的ストップでサースデーナイト白星、地区単独首位へ",
+      subtitle: "パーディーが2TDパスを決め、マカフリーの決勝TDの後に守備陣がスタッフォードの猛追を阻止",
+      excerpt: "サンフランシスコ・49ersが残り42秒のゴール前第4ダウンを守り抜き、ロサンゼルス・ラムズを24-20で下してNFC西地区首位に浮上。",
+      body: [
+        "リーバイス・スタジアムで行われたNFL第4週のサースデーナイト・フットボールで、49ersが宿敵ラムズを24-20で退けました。",
+        "ブロック・パーディーが254ヤードと2本のタッチダウンパスを記録し、第4クォーターにはマカフリーが4ヤードの勝ち越しランTDを奪いました。",
+        "終盤にラムズのスタッフォードが敵陣7ヤードまで迫りましたが、49ers守備陣が第4ダウンパスを叩き落として逃げ切り、今季3勝1敗としました。",
+      ],
+    },
+    ko: {
+      title: "49ers 24-20 램스: 종료 직전 골라인 스톱으로 서스데이 나이트 짜릿한 승리",
+      subtitle: "브록 퍼디 터치다운 패스 2개, 매카프리 결승 러싱 TD로 NFC 서부 단독 선두 등극",
+      excerpt: "샌프란시스코 49ers가 종료 42초를 남기고 4th 다운 수비에 성공하며 LA 램스를 24-20으로 제압했다.",
+      body: [
+        "리바이스 스타디움에서 열린 NFL 4주차 목요일 밤 경기에서 샌프란시스코 49ers가 LA 램스를 24-20으로 꺾고 NFC 서부지구 단독 1위에 올랐습니다.",
+        "쿼터백 브록 퍼디는 254패싱야드와 터치다운 2개를 기록하며 공격을 이끌었고, 4쿼터에는 크리스천 매카프리가 4야드 러싱 터치다운을 터뜨렸습니다.",
+        "경기 종료 42초 전 램스가 7야드까지 전진하며 역전을 노렸으나, 49ers 수비진이 스태퍼드의 4th 다운 패스를 완벽히 쳐내며 3승 1패를 확정지었습니다.",
+      ],
+    },
+    ar: {
+      title: "فورتي ناينرز 24-20 رامز: صمود دفاعي أخير على خط الهدف يحسم قمة الخميس الكروية",
+      subtitle: "بروك بيردي يمرر كرتي هبوط وكريستيان ماكافري يسجل الحسم قبل إيقاف هجمة ستافورد الأخيرة.",
+      excerpt: "سان فرانسيسكو ينفرد بصدارة مجموعة الغرب في NFL بعد تغلبه المثير على لوس أنجلوس رامز 24-20 في سانتا كلارا.",
+      body: [
+        "شهد ملعب ليفايس إثارة بالغة في افتتاح الجولة الرابعة من دوري كرة القدم الأمريكية NFL، حيث تغلب سان فرانسيسكو 49ers على لوس أنجلوس رامز 24-20.",
+        "قاد بروك بيردي الهجوم ببراعة محققا 254 ياردة وتمريرتي هبوط إلى صامويل وكيتل، قبل أن يسجل كريستيان ماكافري هدف التقدم الحاسم في الربع الأخير.",
+        "وفي اللحظات الأخيرة، كاد ماثيو ستافورد أن يقلب النتيجة بوصوله إلى خط 7 ياردات، لكن الدفاع تصدى للكرة في المحاولة الرابعة قبل 42 ثانية من النهاية.",
+      ],
+    },
+  },
+  'wnba-semifinals-preview-fever-lynx-aces-liberty-2026': {
+    fr: {
+      title: "Demi-finales WNBA : Lynx-Fever et Aces-Liberty pour un dernier carré d'anthologie",
+      subtitle: "Des balayages historiques au premier tour ouvrent la voie à Caitlin Clark et A'ja Wilson dès dimanche.",
+      excerpt: "Après quatre séries bouclées en deux matches, les demi-finales WNBA opposent Minnesota à Indiana et New York à Las Vegas.",
+      body: [
+        "Pour la première fois de l'histoire de la WNBA, le premier tour s'est achevé par quatre balayages 2-0. Le dernier carré réunit les plus grandes vedettes de la ligue dès dimanche.",
+        "Au Target Center, les Minnesota Lynx accueilleront les Indiana Fever de Caitlin Clark. Cheryl Reeve tentera de museler la meneuse vedette tout en s'appuyant sur Napheesa Collier.",
+        "À Brooklyn, le Barclays Center vibrera pour la revanche des Finales 2023 entre le New York Liberty et les Las Vegas Aces d'A'ja Wilson dans une série au meilleur des cinq manches.",
+      ],
+    },
+    es: {
+      title: "Semifinales de la WNBA: Lynx-Fever y Aces-Liberty prometen un espectáculo colosal",
+      subtitle: "Barridas históricas en la primera ronda dan paso a los duelos de Caitlin Clark y A'ja Wilson desde el domingo.",
+      excerpt: "Las semifinales de la WNBA al mejor de cinco partidos enfrentarán a Minnesota contra Indiana y a Nueva York contra Las Vegas.",
+      body: [
+        "Por primera vez en la historia de la WNBA, las cuatro series de primera ronda se definieron por barridas de 2-0, configurando un cuadro de semifinales de ensueño.",
+        "En Mineápolis, las Minnesota Lynx de Napheesa Collier se medirán al fenómeno de Caitlin Clark y las Indiana Fever, que llegan con un ritmo ofensivo arrollador.",
+        "En Nueva York, el Liberty y las Aces de Las Vegas reeditarán su histórica rivalidad con Breanna Stewart y A'ja Wilson frente a frente en una eliminatoria apasionante.",
+      ],
+    },
+    de: {
+      title: "WNBA-Halbfinale steht: Lynx-Fever und Aces-Liberty versprechen Playoff-Feuerwerk am Sonntag",
+      subtitle: "Historische Sweeps in Runde 1 ebnen den Weg für Caitlin Clark und A'ja Wilson im Final Four.",
+      excerpt: "Nach vier klaren 2:0-Seriensiegen starten die WNBA-Halbfinalserien am Sonntag mit Minnesota gegen Indiana und New York gegen Las Vegas.",
+      body: [
+        "Erstmals in der WNBA-Geschichte endeten alle Erstrundenserien mit 2:0-Sweeps. Damit steht ein spektakuläres Halbfeld fest, das am Sonntag in die Best-of-Five-Serien startet.",
+        "Die topgesetzten Minnesota Lynx um Defensiv-Star Napheesa Collier empfangen Caitlin Clark und die aufstrebenden Indiana Fever im Target Center.",
+        "Im Barclays Center kommt es zur Neuauflage der Finals von 2023 zwischen den New York Liberty und den Las Vegas Aces um Dreifach-MVP A'ja Wilson.",
+      ],
+    },
+    it: {
+      title: "Semifinali WNBA: Lynx-Fever e Aces-Liberty accendono una domenica di grandi sfide",
+      subtitle: "Quattro cappotti al primo turno spianano la strada allo scontro tra Caitlin Clark e A'ja Wilson.",
+      excerpt: "Al via domenica le semifinali WNBA al meglio delle cinque gare: Minnesota affronta Indiana e New York ritrova Las Vegas.",
+      body: [
+        "Per la prima volta nella storia della WNBA, tutte le serie del primo turno si sono concluse con un secco 2-0, proiettando le quattro migliori squadre in semifinale.",
+        "Al Target Center, le Minnesota Lynx sfideranno le Indiana Fever guidate dal talento travolgente di Caitlin Clark e Aliyah Boston.",
+        "A Brooklyn, le campionesse in carica di Las Vegas guidate da A'ja Wilson affronteranno il New York Liberty di Breanna Stewart e Sabrina Ionescu.",
+      ],
+    },
+    pl: {
+      title: "Półfinały WNBA: Lynx kontra Fever oraz Aces z Liberty w starciu gigantów od niedzieli",
+      subtitle: "Historyczne czyste serie otwierają drogę do wielkich pojedynków Caitlin Clark i A'ja Wilson.",
+      excerpt: "W półfinałach WNBA do trzech zwycięstw Minnesota zagra z Indianą, a Nowy Jork spotka się z Las Vegas.",
+      body: [
+        "Pierwsza runda play-off WNBA przeszła do historii dzięki czterem zwycięstwom 2-0. Od niedzieli ruszają serie półfinałowe w formacie do trzech wygranych.",
+        "W Minneapolis Minnesota Lynx zmierzy się z rewelacją sezonu Indiana Fever prowadzoną przez Caitlin Clark.",
+        "W Nowym Jorku dojdzie do rewanżu za finał z 2023 roku pomiędzy New York Liberty a Las Vegas Aces z potężną A'ja Wilson.",
+      ],
+    },
+    zh: {
+      title: "WNBA半决赛对阵揭晓：山猫对阵狂热、王牌再战自由人，周日打响天王山",
+      subtitle: "首轮四场全横扫创历史，克拉克挑战榜首明尼苏达，阿贾·威尔逊迎战斯图尔特",
+      excerpt: "2026年WNBA半决赛五场三胜制系列赛将于周日开打，山猫迎战狂热，自由人再战王牌。",
+      body: [
+        "WNBA历史上首次出现首轮四轮系列赛全部以2-0横扫告终的盛况，联赛四强以最强姿态会师半决赛。",
+        "在标靶中心，常规赛头名明尼苏达山猫队将迎战凯特琳·克拉克领衔的印第安纳狂热队，克拉克将遭遇联盟最强防守考验。",
+        "纽约巴克莱中心则将上演2023年总决赛的经典重演，阿贾·威尔逊的卫冕冠军拉斯维加斯王牌客场挑战布里安娜·斯图尔特的纽约自由人。",
+      ],
+    },
+    ja: {
+      title: "WNBA準決勝カード確定：リンクス対フィーバー、エranges対リバティが日曜開幕",
+      subtitle: "史上初の1回戦全カードスイープ終了、クラークとエイジャ・ウィルソンが頂点目指す",
+      excerpt: "5回戦制のWNBA準決勝が日曜日に開幕。首位リンクスとフィーバー、リバティとエrangesが激突。",
+      body: [
+        "WNBA史上初めて1回戦の全4カードが2-0のスイープで決着し、役者が揃ったベスト4が日曜日から激突します。",
+        "ミネソタ・リンクスはターゲット・センターでケイトリン・クラーク率いるインディアナ・フィーバーを迎え撃ちます。",
+        "バークレイズ・センターでは2023年ファイナルの再戦となるニューヨーク・リバティ対ラスベガス・エrangesの宿敵対決が火花を散らします。",
+      ],
+    },
+    ko: {
+      title: "WNBA 준결승 대진 확정: 링스-피버, 에이스-리버티 일요일 1차전 격돌",
+      subtitle: "1라운드 전 시리즈 2-0 스윕 완료, 케이틀린 클라크와 에이자 윌슨의 파이널 도전",
+      excerpt: "WNBA 5전 3선승제 준결승이 일요일 개막한다. 미네소타와 인디애나, 뉴욕과 라스베이거스가 격돌한다.",
+      body: [
+        "WNBA 역사상 최초로 1라운드 4개 시리즈가 모두 2-0 스윕으로 종료되며 최고의 4강 대진이 완성되었습니다.",
+        "정규리그 1위 미네소타 링스는 타깃 센터에서 케이틀린 클라크가 이끄는 인디애나 피버와 1차전을 펼칩니다.",
+        "뉴욕 바클레이스 센터에서는 2023년 파이널 리매치인 뉴욕 리버티와 에이자 윌슨의 라스베이거스 에이스가 맞붙습니다.",
+      ],
+    },
+    ar: {
+      title: "نصف نهائي WNBA: لينكس ضد فيفر وأيسز ضد ليبرتي في معارك نارية تبدأ الأحد",
+      subtitle: "اكتساح تاريخي في الدور الأول يمهد الطريق لمواجهات كيتلين كلارك وإيجا ويلسون في المربع الذهبي.",
+      excerpt: "تنطلق سلسلة نصف نهائي دوري السلة الأمريكي للسيدات الأحد بمواجهتي مينيسوتا وإنديانا، ونيويورك ولاس فيغاس.",
+      body: [
+        "للمرة الأولى في تاريخ دوري السلة الأمريكي للسيدات، انتهت جميع سلاسل الدور الأول بانتصارات نظيفة 2-0، لتلتقي أفضل أربعة فرق في نصف النهائي.",
+        "يستضيف مينيسوتا لينكس على أرضه فريق إنديانا فيفر بقيادة النجمة الشابة كيتلين كلارك في مواجهة من العيار الثقيل.",
+        "وفي بروكلين، يتجدد الصراع التاريخي بين نيويورك ليبرتي ولاس فيغاس أيسز بقيادة إيجا ويلسون في سلسلة من خمس مباريات.",
+      ],
+    },
+  },
+  'china-open-2026-alcaraz-sinner-quarterfinal-triumph': {
+    fr: {
+      title: "China Open 2026 : Alcaraz domine Khachanov et Sinner s'impose face à Lehecka à Pékin",
+      subtitle: "Les deux premiers mondiaux s'imposent en deux sets et se rapprochent d'un duel au sommet en finale.",
+      excerpt: "Carlos Alcaraz écarte Karen Khachanov 7-5, 6-2 et Jannik Sinner domine Jiri Lehecka 6-2, 7-6 pour rallier le dernier carré à Pékin.",
+      body: [
+        "La journée de quarts de finale à Pékin a tenu toutes ses promesses avec les victoires autoritaires des deux patrons du circuit mondial.",
+        "Carlos Alcaraz a fait étalage de sa puissance face à Karen Khachanov, s'imposant 7-5, 6-2 avec 26 coups gagnants sur le Diamond Court.",
+        "De son côté, le numéro un mondial Jannik Sinner a sauvé une balle de set au tie-break pour écarter Jiri Lehecka 6-2, 7-6(6) et enchaîner une 15e victoire consécutive.",
+      ],
+    },
+    es: {
+      title: "China Open 2026: Alcaraz arrolla a Khachanov y Sinner resiste ante Lehecka en Pekín",
+      subtitle: "Los dos mejores tenistas del mundo avanzan en sets corridos y se acercan a una final soñada.",
+      excerpt: "Carlos Alcaraz superó 7-5, 6-2 a Karen Khachanov y Jannik Sinner venció 6-2, 7-6 a Jiri Lehecka para alcanzar las semifinales en Pekín.",
+      body: [
+        "Los cuartos de final del China Open confirmaron el momento intratable de los dos principales favoritos al título en la capital china.",
+        "Carlos Alcaraz desarmó a Karen Khachanov con un tenis agresivo y brillante, sellando un 7-5, 6-2 con 26 tiros ganadores en la pista central.",
+        "Jannik Sinner superó momentos de máxima tensión en el segundo set para batir a Jiri Lehecka por 6-2, 7-6(6), firmando su decimoquinta victoria consecutiva en el circuito.",
+      ],
+    },
+    de: {
+      title: "China Open 2026: Alcaraz bezwingt Khachanov und Sinner behauptet sich gegen Lehecka in Peking",
+      subtitle: "Die beiden Topstars marschieren ohne Satzverlust ins Halbfinale des ATP-500-Turniers.",
+      excerpt: "Carlos Alcaraz schlägt Karen Khachanov 7:5, 6:2 und Jannik Sinner ringt Jiri Lehecka 6:2, 7:6 nieder.",
+      body: [
+        "Am Viertelfinaltag der China Open demonstrierten die beiden weltbesten Spieler einmal mehr ihre Ausnahmestellung auf Hartplatz.",
+        "Carlos Alcaraz überzeugte beim 7:5, 6:2 gegen Karen Khachanov mit 26 Gewinnschlägen und dominierte die langen Ballwechsel nach Belieben.",
+        "Jannik Sinner wehrte im Tiebreak des zweiten Satzes einen Satzball ab und siegte 6:2, 7:6(6) gegen Jiri Lehecka für seinen 15. Sieg in Serie.",
+      ],
+    },
+    it: {
+      title: "China Open 2026: Alcaraz supera Khachanov e Sinner piega Lehecka a Pechino",
+      subtitle: "I primi due del ranking mondiale avanzano in due set verso l'attesissima finale al National Tennis Center.",
+      excerpt: "Carlos Alcaraz batte 7-5, 6-2 Karen Khachanov e Jannik Sinner supera Jiri Lehecka 6-2, 7-6(6) approdando in semifinale a Pechino.",
+      body: [
+        "I quarti di finale dell'ATP 500 di Pechino hanno confermato lo straordinario stato di forma dei due dominatori del tennis contemporaneo.",
+        "Carlos Alcaraz ha liquidato Karen Khachanov 7-5, 6-2 con una prestazione impeccabile scandita da 26 colpi vincenti.",
+        "Jannik Sinner ha dovuto faticare nel secondo set ma ha chiuso 6-2, 7-6(6) contro Jiri Lehecka annullando un set point nel tie-break.",
+      ],
+    },
+    pl: {
+      title: "China Open 2026: Alcaraz pokonuje Chaczanowa, a Sinner wygrywa z Lehecką w Pekinie",
+      subtitle: "Dwaj najlepsi tenisiści świata awansują w dwóch setach do półfinałów turnieju w stolicy Chin.",
+      excerpt: "Carlos Alcaraz wygrał 7-5, 6-2 z Karenem Chaczanowem, a Jannik Sinner pokonał Jiriego Leheckę 6-2, 7-6(6) w Pekinie.",
+      body: [
+        "Piątkowe ćwierćfinały China Open przyniosły pokaz mistrzowskiej formy liderów światowego rankingu ATP.",
+        "Carlos Alcaraz pewnie pokonał Karena Chaczanowa 7-5, 6-2, popisując się 26 uderzeniami kończącymi na korcie Diamond.",
+        "Lider rankingu Jannik Sinner obronił piłkę setową w tie-breaku i pokonał Jiriego Leheckę 6-2, 7-6(6), notując 15. wygraną z rzędu.",
+      ],
+    },
+    zh: {
+      title: "2026年中网公开赛：阿尔卡拉斯轻取卡恰诺夫，辛纳力克莱赫茨卡跻身四强",
+      subtitle: "世界排名前两位巨星直落两盘过关，国家网球中心周末将迎天王山巅峰决战",
+      excerpt: "阿尔卡拉斯7-5、6-2横扫卡恰诺夫，辛纳6-2、7-6(6)力克莱赫茨卡，双双强势杀入中国网球公开赛半决赛。",
+      body: [
+        "中网男单四分之一决赛周五在钻石球场打响，当今男子网坛最顶尖的两大巨星展现出无可匹敌的统治力。",
+        "阿尔卡拉斯全场轰出26记制胜分，以7-5、6-2完胜卡恰诺夫，将两人交手战绩改写为4胜0负。",
+        "卫冕冠军辛纳同样发挥稳健，在第二盘抢七挽救盘点后以6-2、7-6(6)力克捷克名将莱赫茨卡，豪取个人单打15连胜。",
+      ],
+    },
+    ja: {
+      title: "チャイナ・オープン2026：アルカラスがハチャノフ撃破、シナーも4強進出",
+      subtitle: "世界トップ2がストレート勝ちで週末の準決勝へ、北京で頂上決戦の期待高まる",
+      excerpt: "アルカラスが7-5、6-2でハチャノフを下し、シナーが6-2、7-6でレヘチカに競り勝って準決勝進出を決めた。",
+      body: [
+        "北京のナショナル・テニスセンターで行われた準々決勝で、男子テニス界の頂点に立つ2人が力強いテニスを披露しました。",
+        "カルロス・アルカラスはダイヤモンド・コートで26本のウィナーを放ち、カレン・ハチャノフを7-5、6-2で圧倒しました。",
+        "世界1位のヤニック・シナーは第2セットのタイブレークでセットポイントをしのぎ、6-2、7-6(6)でレヘチカを退け15連勝としました。",
+      ],
+    },
+    ko: {
+      title: "2026 차이나 오픈: 알카라스, 카차노프 제압 및 신네르 4강 안착",
+      subtitle: "세계 1·2위 나란히 무실세트 승리 거두며 베이징 주말 결승 맞대결 기대 고조",
+      excerpt: "알카라스가 7-5, 6-2로 카차노프를 꺾고 신네르가 6-2, 7-6으로 레헤츠카를 물리치며 베이징 준결승에 올랐다.",
+      body: [
+        "차이나 오픈 8강전에서 세계 테니스를 양분하는 두 스타가 나란히 압도적인 기량을 과시했습니다.",
+        "카를로스 알카라스는 다이아몬드 코트에서 26개의 위너를 꽂아 넣으며 카렌 카차노프를 7-5, 6-2로 가볍게 완파했습니다.",
+        "디펜딩 챔피언 야닉 신네르는 2세트 타이브레이크 위기를 침착하게 넘기며 이르지 레헤츠카를 6-2, 7-6(6)으로 꺾고 15연승을 질주했습니다.",
+      ],
+    },
+    ar: {
+      title: "بطولة الصين المفتوحة 2026: ألكاراز يتفوق على خاشانوف وسينر يعبر عقبة ليتشيكا في بكين",
+      subtitle: "المصنفان الأول والثاني عالميا يبلغان نصف النهائي بمجموعات نظيفة تمهيدا لنهائي الحلم.",
+      excerpt: "كارلوس ألكاراز يفوز 7-5 و6-2 على خاشانوف ويانيك سينر يتغلب على ليتشيكا 6-2 و7-6(6) في بكين.",
+      body: [
+        "شهدت مباريات ربع نهائي بطولة الصين المفتوحة في بكين عروضا مذهلة من قطبي التنس العالمي الحاليين.",
+        "تألق الإسباني كارلوس ألكاراز وضرب 26 كرة قاضية ليتغلب بسهولة على كارين خاشانوف بنتيجة 7-5 و6-2 على الملعب الرئيسي.",
+        "بدوره حافظ المصنف الأول يانيك سينر على هدوئه وأنقذ نقطة مجموعة في الشوط الفاصل ليتفوق على ييري ليتشيكا بنتيجة 6-2 و7-6(6).",
+      ],
+    },
+  },
+  'pga-tour-sanderson-farms-round2-hossler-leads-2026': {
+    fr: {
+      title: "Sanderson Farms : Beau Hossler signe un 64 et prend les commandes à -15 à Jackson",
+      subtitle: "Huit birdies vendredi permettent à l'Américain de devancer Daniel Berger d'un coup avant le week-end.",
+      excerpt: "Beau Hossler vire en tête à 15 sous le par au Country Club of Jackson, un coup devant Daniel Berger dans la course à la FedExCup Fall.",
+      body: [
+        "Le Country Club of Jackson a une nouvelle fois été le théâtre de scores spectaculaires vendredi, avec la prise de pouvoir de Beau Hossler grâce à un superbe 64 (-8).",
+        "L'Américain de 29 ans a totalisé 129 coups sur 36 trous (-15), s'appuyant sur un putting chirurgical pour devancer Daniel Berger d'un coup.",
+        "Le champion sortant Kevin Yu reste en embuscade à -10 après un 66 solide, alors que le cut est tombé à 4 sous le par.",
+      ],
+    },
+    es: {
+      title: "Sanderson Farms: Beau Hossler firma un 64 y toma el liderato con -15 en Jackson",
+      subtitle: "El estadounidense anota ocho birdies el viernes para aventajar por un golpe a Daniel Berger en la FedExCup Fall.",
+      excerpt: "Beau Hossler se sitúa en cabeza con 15 bajo par en Jackson tras 36 hoyos, un golpe por delante de Daniel Berger.",
+      body: [
+        "El Country Club of Jackson brindó otra jornada de ensueño para los golfistas en la segunda ronda del Sanderson Farms Championship.",
+        "Beau Hossler firmó una brillante tarjeta de 64 golpes (-8) sin bogeys para acumular 15 bajo par y liderar en solitario hacia el fin de semana.",
+        "Daniel Berger lo sigue de cerca con -14 tras su segundo 65 consecutivo, mientras que el campeón defensor Kevin Yu acecha con -10.",
+      ],
+    },
+    de: {
+      title: "Sanderson Farms: Beau Hossler spielt eine 64 und führt mit 15 unter Par in Jackson",
+      subtitle: "US-Profi locht am Freitag acht Birdies und liegt einen Schlag vor Daniel Berger.",
+      excerpt: "Beau Hossler übernimmt die alleinige Führung bei 15 unter Par im Country Club of Jackson vor Daniel Berger.",
+      body: [
+        "Der Country Club of Jackson bot auch am Freitag perfekte Bedingungen für herausragende Scores auf der PGA Tour.",
+        "Beau Hossler setzte sich mit einer fehlerfreien 64 (-8) und einem Gesamtergebnis von 15 unter Par an die Spitze des Klassements.",
+        "Daniel Berger lauert mit 14 unter Par auf Rang zwei, während Titelverteidiger Kevin Yu bei 10 unter Par ebenfalls Kontakt zur Spitze hält.",
+      ],
+    },
+    it: {
+      title: "Sanderson Farms: Beau Hossler gira in 64 e vola in testa a -15 a Jackson",
+      subtitle: "Otto birdie per l'americano che precede di un colpo Daniel Berger nel venerdì della FedExCup Fall.",
+      excerpt: "Beau Hossler guida a 15 sotto il par al Country Club of Jackson, tallonato a un colpo da Daniel Berger.",
+      body: [
+        "Condizioni ideali e punteggi bassissimi hanno caratterizzato il secondo giro del Sanderson Farms Championship in Mississippi.",
+        "Beau Hossler ha piazzato un giro spettacolare in 64 colpi (-8) senza bogey, salendo a 15 sotto il par dopo 36 buche.",
+        "Daniel Berger insegue a un solo colpo di distanza (-14), mentre il campione in carica Kevin Yu resta competitivo a -10.",
+      ],
+    },
+    pl: {
+      title: "Sanderson Farms: Beau Hossler z wynikiem 64 obejmuje prowadzenie z -15 w Jackson",
+      subtitle: "Osiem birdie Amerykanina w piątek daje mu jedno uderzenie przewagi nad Danielem Bergerem.",
+      excerpt: "Beau Hossler prowadzi po 36 dołkach z wynikiem 15 poniżej par w Country Club of Jackson.",
+      body: [
+        "Druga runda turnieju Sanderson Farms Championship w Mississippi przyniosła znakomite wyniki na czele stawki.",
+        "Beau Hossler zagrał rewelacyjne 64 uderzenia (-8), obejmując samodzielne prowadzenie z łącznym wynikiem 15 poniżej par.",
+        "Tuż za nim plasuje się Daniel Berger z wynikiem -14, a obrońca tytułu Kevin Yu traci pięć uderzeń z wynikiem -10.",
+      ],
+    },
+    zh: {
+      title: "桑德森农场锦标赛：霍斯勒次轮狂抓8鸟轰出64杆，总成绩-15杆单独领跑",
+      subtitle: "霍斯勒一杆优势领先伯格，卫冕冠军俞俊安-10杆紧随其后进入周末决赛圈",
+      excerpt: "博·霍斯勒在密西西比杰克逊乡村俱乐部两轮交出-15杆（129杆），以1杆优势力压丹尼尔·伯格领跑美巡秋季赛。",
+      body: [
+        "美巡赛秋季积分赛桑德森农场锦标赛第二轮在杰克逊乡村俱乐部战罢，球场再次见证了低杆风暴。",
+        "29岁的美国选手博·霍斯勒周五发挥神勇，抓下8只小鸟打出零柏忌的64杆（-8），以两轮129杆（-15）的总成绩占据单独榜首。",
+        "伤愈复出的丹尼尔·伯格连续两天交出65杆，以一杆之差紧随其后；卫冕冠军中国台北球员俞俊安次轮交出66杆，总成绩-10杆保留争冠希望。",
+      ],
+    },
+    ja: {
+      title: "サンダーソン・ファームズ：ホスラーが64を叩き出し通算15アンダーで単独首位浮上",
+      subtitle: "ボギーなしの8バーディでバーガーに1打差リード、連覇狙うケビン・ユーも10アンダー追走",
+      excerpt: "ボー・ホスラーが36ホール通算15アンダー（129）をマークし、サンダーソン・ファームズ選手権で単独トップに立った。",
+      body: [
+        "ミシシッピ州ジャクソン・カントリークラブで開催中のPGAツアー秋季シリーズで、バーディ合戦が過熱しています。",
+        "ボー・ホスラーが金曜日に8バーディ・ノーボギーの64をマークし、通算15アンダー129で単独首位に立ちました。",
+        "1打差の2位には連続65をマークしたダニエル・バーガーがつけ、前年覇者のケビン・ユーも10アンダーで決勝ラウンドへ駒を進めました。",
+      ],
+    },
+    ko: {
+      title: "샌더슨 팜스: 보 호슬러 2라운드 64타 폭발, 15언더파 단독 선두 질주",
+      subtitle: "보기 없이 버디 8개 몰아치며 버거에 1타 차 선두, 디펜딩 챔피언 케빈 유 10언더파 추격",
+      excerpt: "보 호슬러가 36홀 합계 15언더파 129타를 기록하며 미시시피 잭슨에서 1타 차 단독 선두로 나섰다.",
+      body: [
+        "미시시피주 컨트리클럽 오브 잭슨에서 열린 PGA 투어 샌더슨 팜스 챔피언십 2라운드에서 보 호슬러가 맹타를 휘둘렀습니다.",
+        "호슬러는 보기 없이 버디만 8개를 잡아내며 8언더파 64타를 기록, 중간합계 15언더파 129타로 단독 1위에 올랐습니다.",
+        "대니얼 버거가 1타 차 2위(14언더파)로 추격 중이며, 타이틀 방어에 나선 케빈 유도 10언더파를 기록하며 주말 우승 경쟁을 예고했습니다.",
+      ],
+    },
+    ar: {
+      title: "بطولة ساندرسون فارمز: بو هوسلر يسجل 64 ضربة وينفرد بصدارة الـ 15 تحت المعدل",
+      subtitle: "ثماني ضربات بيردي تمنح الأمريكي الصدارة بفارق ضربة واحدة أمام دانييل بيرغر في جولة الجمعة.",
+      excerpt: "بو هوسلر ينهي أول 36 حفرة بـ15 ضربة تحت المعدل في نادي جاكسون ليتصدر الترتيب العام.",
+      body: [
+        "تواصلت العروض التهديفية القوية في بطولة ساندرسون فارمز للجولف في ولاية ميسيسيبي يوم الجمعة.",
+        "تألق الأمريكي بو هوسلر مسجلا 64 ضربة (8 تحت المعدل) دون أي خطأ ليرفع رصيده إلى 15 تحت المعدل وينفرد بالصدارة.",
+        "ويلاحقه دانييل بيرغر بفارق ضربة واحدة (14 تحت المعدل)، بينما حافظ حامل اللقب كيفن يو على آماله برصيد 10 تحت المعدل.",
+      ],
+    },
+  },
+  'f1-singapore-gp-friday-practice-norris-leclerc-2026': {
+    fr: {
+      title: "GP de Singapour : Lando Norris devance Charles Leclerc de 0,058s sous les projecteurs de Marina Bay",
+      subtitle: "McLaren et Ferrari se livrent un duel millimétré lors des essais libres du vendredi soir.",
+      excerpt: "Sous l'éclairage de 1 600 projecteurs, Lando Norris a signé le meilleur temps des EL2 en 1:30.727, devançant Charles Leclerc de 58 millièmes.",
+      body: [
+        "La nuit de Marina Bay a confirmé que le Grand Prix de Singapour 2026 se jouera à d'infimes détails entre McLaren et Ferrari.",
+        "Lando Norris a dominé la deuxième séance d'essais libres au volant de sa McLaren avec un chrono référence de 1:30.727 dans des conditions étouffantes.",
+        "Charles Leclerc, leader des EL1, a échoué à seulement 0,058 seconde, devançant Carlos Sainz et le leader du championnat Andrea Kimi Antonelli.",
+      ],
+    },
+    es: {
+      title: "GP de Singapur: Lando Norris supera a Charles Leclerc por 0.058s bajo los focos de Marina Bay",
+      subtitle: "McLaren y Ferrari libran un duelo electrizante en los entrenamientos libres del viernes.",
+      excerpt: "Bajo 1.600 focos nocturnos, Lando Norris marcó 1:30.727 en la FP2 para aventajar a Leclerc por apenas 58 milésimas en Singapur.",
+      body: [
+        "Los entrenamientos nocturnos en el circuito urbano de Marina Bay anticipan una batalla táctica al límite entre McLaren y Ferrari.",
+        "Lando Norris completó una vuelta sensacional de 1:30.727 en la FP2 para liderar la tabla de tiempos del viernes en Singapur.",
+        "Charles Leclerc quedó a solo 0.058 segundos con su Ferrari, mientras que el líder del certamen Kimi Antonelli finalizó cuarto con Mercedes.",
+      ],
+    },
+    de: {
+      title: "Singapur GP: Lando Norris schlägt Charles Leclerc um 0,058s unter den Flutlichtern",
+      subtitle: "McLaren und Ferrari liefern sich im Freitagstraining von Marina Bay ein packendes Kopf-an-Kopf-Rennen.",
+      excerpt: "Unter 1.600 Scheinwerfern markierte Lando Norris mit 1:30,727 die FP2-Bestzeit, hauchdünn vor Charles Leclerc.",
+      body: [
+        "Das Flutlicht-Spektakel in Singapur verspricht ein extrem enges Wochenende zwischen McLaren und Ferrari.",
+        "Lando Norris stellte seinen McLaren im zweiten freien Training mit 1:30,727 Minuten an die Spitze des Klassements.",
+        "Charles Leclerc verpasste die Bestzeit um lediglich 0,058 Sekunden, während WM-Leader Andrea Kimi Antonelli Vierter wurde.",
+      ],
+    },
+    it: {
+      title: "GP Singapore: Lando Norris beffa Charles Leclerc per 0,058s sotto i riflettori di Marina Bay",
+      subtitle: "McLaren e Ferrari si contendono il primato nelle prove libere del venerdì notte a Singapore.",
+      excerpt: "Nelle FP2 a Marina Bay, Lando Norris ha fermato il cronometro a 1:30.727 precedendo Charles Leclerc di soli 58 millesimi.",
+      body: [
+        "Il venerdì sera a Marina Bay ha offerto un antipasto del duello ravvicinatissimo tra McLaren e Ferrari per la vittoria a Singapore.",
+        "Lando Norris ha strappato il miglior tempo delle FP2 in 1:30.727, sfidando l'asfalto sconnesso e l'altissima umidità tropicale.",
+        "Charles Leclerc, dopo aver primeggiato nelle FP1, si è piazzato secondo a 58 millesimi, davanti a Carlos Sainz e al leader del mondiale Antonelli.",
+      ],
+    },
+    pl: {
+      title: "GP Singapuru: Lando Norris wyprzedza Charlesa Leclerca o 0,058s pod światłami Marina Bay",
+      subtitle: "McLaren i Ferrari toczą zaciętą walkę o ułamki sekund w piątkowych treningach nocnych.",
+      excerpt: "Lando Norris uzyskał czas 1:30.727 w FP2, wyprzedzając Leclerca o zaledwie 0,058 sekundy w Singapurze.",
+      body: [
+        "Piątkowe sesje treningowe na Marina Bay pokazały, że walka o pole position w Singapurze rozegra się między McLarenem a Ferrari.",
+        "Lando Norris ustanowił najlepszy wynik dnia na poziomie 1:30.727 podczas symulacji kwalifikacyjnych w drugim treningu.",
+        "Charles Leclerc stracił do Brytyjczyka zaledwie 0,058 sekundy, a lider mistrzostw Andrea Kimi Antonelli zajął czwartą lokatę.",
+      ],
+    },
+    zh: {
+      title: "F1新加坡大奖赛：诺里斯仅领先勒克莱尔0.058秒，闪耀滨海湾周五夜间练习赛",
+      subtitle: "迈凯伦与法拉利在1600盏泛光灯下展开微秒级争夺，排位赛前瞻火花四射",
+      excerpt: "诺里斯在二练中跑出1分30秒727的最快圈速，以0.058秒的微弱优势力压勒克莱尔领跑周五成绩榜。",
+      body: [
+        "在1600盏泛光灯的照耀与30度的高温高湿环境下，2026年F1新加坡大奖赛周五练习赛拉开序幕。",
+        "迈凯伦车手兰多·诺里斯在二练排位赛模拟中发挥出色，以1分30秒727刷新全场最快圈速。",
+        "一练领跑的法拉利车手勒克莱尔仅以0.058秒之差屈居次席，积分榜领头羊安东内利位列第四，周六排位争夺战悬念拉满。",
+      ],
+    },
+    ja: {
+      title: "F1シンガポールGP：ノリスが0.058秒差でルクレールを抑えFP2トップに浮上",
+      subtitle: "マリーナ・ベイの夜間照明下でマクラーレンとフェラーリがミリ秒単位の攻防を展開",
+      excerpt: "1600基の照明の下で行われたFP2で、ノリスが1分30秒727を記録しルクレールを僅差で抑えた。",
+      body: [
+        "マリーナ・ベイ市街地コースのナイトセッションで、マクラーレンとフェラーリが驚異的なタイム合戦を繰り広げました。",
+        "ランド・ノリスがFP2の予選シミュレーションで1分30秒727をマークし、金曜日の最速ドライバーとなりました。",
+        "FP1首位だったシャルル・ルクレールがわずか0.058秒差の2位に続き、選手権リーダーのアントネッリが4位につけました。",
+      ],
+    },
+    ko: {
+      title: "F1 싱가포르 GP: 랜도 노리스, 0.058초 차로 르클레르 제치고 금요일 야간 주행 1위",
+      subtitle: "마리나 베이 1,600개 조명 아래 맥라렌과 페라리의 치열한 초박빙 연습 세션",
+      excerpt: "랜도 노리스가 FP2에서 1분 30초 727을 기록하며 르클레르를 0.058초 차로 제치고 금요일 세션을 지배했다.",
+      body: [
+        "마리나 베이 시가지 서킷에서 펼쳐진 금요일 야간 주행에서 맥라렌과 페라리가 치열한 속도전을 펼쳤습니다.",
+        "랜도 노리스는 FP2 예선 시뮬레이션에서 1분 30초 727의 랩타임을 작성하며 금요일 종합 1위에 올랐습니다.",
+        "FP1 1위였던 샤를 르클레르는 불과 0.058초 뒤진 2위를 기록했고, 드라이버 챔피언십 선두 안토넬리가 4위를 마크했습니다.",
+      ],
+    },
+    ar: {
+      title: "جائزة سنغافورة الكبرى: لاندو نوريس يتقدم على شارل لوكلير بفارق 0.058 ثانية في تجارب الجمعة",
+      subtitle: "مكلارين وفيراري يتبادلان الصدارة تحت أضواء مارينا باي الكاشفة في ليلة استوائية حارقة.",
+      excerpt: "لاندو نوريس يسجل أسرع لفة في التجارب الحرة الثانية بزمن 1:30.727 متقدما بفارق ضئيل على لوكلير في سنغافورة.",
+      body: [
+        "أكدت التجارب الحرة لسباق جائزة سنغافورة الكبرى 2026 أن المعركة ستكون شرسة للغاية بين مكلارين وفيراري.",
+        "سجل البريطاني لاندو نوريس الزمن الأسرع في حصة التجارب الثانية بزمن قدره 1:30.727 في أجواء شديدة الرطوبة.",
+        "وحل شارل لوكلير ثانيا بفارق 0.058 ثانية فقط، بينما احتل متصدر البطولة كيمي أنتونيللي المركز الرابع مع مرسيدس.",
+      ],
+    },
+  },
 };
 
 

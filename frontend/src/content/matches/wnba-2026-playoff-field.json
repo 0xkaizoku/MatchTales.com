@@ -37,8 +37,8 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Round 1 Sweeps Complete",
-  "resultSummary": "Round 1 Sweeps Complete: Lynx 2-0, Fever 2-0, Aces 2-0, Liberty 2-0. Semifinals: Lynx vs Fever, Aces vs Liberty",
+  "roundLabel": "Semifinals · Sunday Game 1 Tip-Off",
+  "resultSummary": "Semifinals: No. 1 Lynx vs No. 4 Fever, No. 2 Liberty vs No. 3 Aces. Best-of-five series open Sunday October 4.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
@@ -47,11 +47,11 @@
       "url": "https://www.wnba.com/scores"
     },
     {
-      "name": "ESPN: WNBA Round 1 sweeps complete as final four set",
+      "name": "ESPN: WNBA semifinal matchups locked and schedule",
       "url": "https://www.espn.com/wnba/scoreboard"
     },
     {
-      "name": "The Athletic: WNBA semifinal matchups locked",
+      "name": "The Athletic: WNBA final four tactical breakdown",
       "url": "https://theathletic.com/wnba/playoffs-round-1-sweeps-analysis"
     }
   ],
@@ -59,13 +59,13 @@
   "homeScore": 74,
   "awayScore": 88,
   "slug": "wnba-2026-playoff-field",
-  "headline": "WNBA Semifinals locked: Aces and Liberty complete sweeps as final four emerges",
+  "headline": "WNBA Semifinals: Lynx-Fever and Aces-Liberty set for Sunday Game 1 tip-off",
   "whyCareScore": 9.7,
-  "whyCareReason": "Historic clean sweeps across all four series set up a dream final four: Caitlin Clark's Fever meet top-seeded Minnesota, while the Aces and Liberty clash in a finals rematch.",
-  "teaser": "Wednesday night finals: Aces 88-74 Wings, Liberty 80-76 Valkyries. All four Round 1 series end in 2-0 sweeps. Minnesota faces Indiana and Las Vegas battles New York.",
-  "story": "Why this one matters: Wednesday night brought a historic conclusion to Round 1 of the 2026 WNBA playoffs, as both remaining road favorites slammed the door on elimination Game 3s.\n\nIn Arlington, A'ja Wilson delivered an unstoppable 28-point, 13-rebound, four-block performance as the Las Vegas Aces pulled away from the Dallas Wings 88-74 to seal a 2-0 sweep. Kelsey Plum contributed 19 points, ensuring the defending champions reached the semifinals with minimal drama.\n\nAt Chase Center in San Francisco, the New York Liberty survived a fierce test against the expansion Golden State Valkyries, prevailing 80-76. Breanna Stewart led with 21 points and nine rebounds, while Sabrina Ionescu buried a decisive corner triple with 28 seconds remaining. For the first time in league history, all four opening-round series concluded in 2-0 sweeps, locking in a titanic final four: Minnesota vs Indiana, and Las Vegas vs New York.",
-  "stakes": "The final four is locked: Minnesota Lynx vs Indiana Fever, and Las Vegas Aces vs New York Liberty.",
-  "rivalryAngle": "Championship pedigree vs breakout power: Clark faces the No. 1 Lynx while Stewart and Wilson renew their historic rivalry.",
+  "whyCareReason": "Historic sweeps across all four first-round series set up a blockbuster final four: Caitlin Clark meets Napheesa Collier, and A'ja Wilson battles Breanna Stewart in a finals rematch.",
+  "teaser": "Sunday Game 1s: No. 1 Lynx host No. 4 Fever (Target Center), No. 2 Liberty host No. 3 Aces (Barclays Center). Four heavyweights collide in best-of-five semifinals.",
+  "story": "Why this one matters: With four clean sweeps wrapping up Round 1, the 2026 WNBA postseason narrows to a heavyweight final four as teams open Friday media day and game preparation.\n\nAt Target Center, the top-seeded Minnesota Lynx prepare for Caitlin Clark and the surging Indiana Fever. Cheryl Reeve's defense will try to contain Clark's tempo, while Napheesa Collier continues her dominant playoff scoring run.\n\nIn New York, Barclays Center hosts the marquee rematch between the Las Vegas Aces and the New York Liberty. Three-time MVP A'ja Wilson squares off against Breanna Stewart and Sabrina Ionescu in a battle of recent champions with title legacies on the line.",
+  "stakes": "A spot in the 2026 WNBA Finals in two best-of-five series opening Sunday.",
+  "rivalryAngle": "Generational clash: Clark vs the league's top defense, alongside Wilson vs Stewart in a modern rivalry classic.",
   "home": "Dallas Wings",
   "away": "Las Vegas Aces",
   "group": "WNBA",
