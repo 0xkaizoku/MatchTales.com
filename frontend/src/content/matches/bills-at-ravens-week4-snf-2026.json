@@ -1,28 +1,30 @@
 {
   "funFacts": [
-    "Josh Allen and Lamar Jackson meet for the seventh time in their NFL careers, with each quarterback having won three matchups.",
-    "The Buffalo Bills are 3-0 for the third time in five seasons, leading the NFL with 34.3 points per game.",
-    "Derrick Henry ranks second in the NFL in rushing yards through three weeks in his debut season with Baltimore."
+    "Derrick Henry scored an 87-yard touchdown on Baltimore's first offensive play from scrimmage, the longest run in Ravens franchise history.",
+    "The Ravens rushed for 271 yards as a team, handing Buffalo their most lopsided regular season loss since 2021.",
+    "Josh Allen was held to zero total touchdowns and sacked three times after entering the contest leading the NFL in points scored."
   ],
   "keyPlayers": [
     {
-      "name": "Josh Allen",
-      "team": "Buffalo Bills",
-      "hook": "Leads the NFL with 11 total touchdowns and zero interceptions through Buffalo's flawless 3-0 start."
+      "name": "Derrick Henry",
+      "team": "Baltimore Ravens",
+      "hook": "Rushed 24 times for 199 yards and two touchdowns, including an electrifying 87-yard score on Baltimore's opening offensive play."
     },
     {
       "name": "Lamar Jackson",
       "team": "Baltimore Ravens",
-      "hook": "Two-time league MVP orchestrating the AFC's top-ranked rushing attack alongside Derrick Henry."
+      "hook": "Completed 13 of 18 passes for two touchdowns while adding 54 rushing yards and a rushing touchdown."
     }
   ],
-  "headToHead": "Josh Allen and Lamar Jackson are tied 3-3 head-to-head including postseason encounters.",
+  "headToHead": "Baltimore takes a 4-3 lead in the all-time head-to-head series between Lamar Jackson and Josh Allen.",
   "tags": [
     "nfl",
     "bills",
     "ravens",
     "snf",
-    "week4"
+    "week4",
+    "derrick-henry",
+    "lamar-jackson"
   ],
   "homeCode": null,
   "awayCode": null,
@@ -36,35 +38,35 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Week 4 · Sunday Night Football Preview",
-  "resultSummary": "",
+  "roundLabel": "Week 4 · Sunday Night Football Final",
+  "resultSummary": "Ravens 35, Bills 10: Henry 199 rush yds, 2 TDs (87-yd TD run); Jackson 3 total TDs; Ravens defense shuts down Allen",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "NFL.com: Bills at Ravens Week 4 game center",
+      "name": "NFL.com: Bills at Ravens Week 4 game center and box score",
       "url": "https://www.nfl.com/games/bills-at-ravens-2026-reg-4"
     },
     {
-      "name": "ESPN: Sunday Night Football marquee preview",
-      "url": "https://www.espn.com/nfl/story/_/id/41551200/bills-ravens-week-4-preview"
+      "name": "ESPN: Derrick Henry powers Ravens over Bills 35-10 on Sunday Night Football",
+      "url": "https://www.espn.com/nfl/story/_/id/41551200/bills-ravens-week-4-recap"
     },
     {
-      "name": "The Athletic: Allen vs Jackson tactical breakdown",
-      "url": "https://www.nytimes.com/athletic/nfl/bills-ravens-week4-preview"
+      "name": "The Athletic: Ravens dominate Bills behind Henry and Jackson",
+      "url": "https://www.nytimes.com/athletic/nfl/bills-ravens-week4-recap"
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 35,
+  "awayScore": 10,
   "slug": "bills-at-ravens-week4-snf-2026",
-  "headline": "Bills at Ravens: Undefeated Buffalo faces Lamar Jackson on Sunday Night Football",
+  "headline": "NFL SNF: Derrick Henry runs wild as Ravens dismantle previously unbeaten Bills 35-10",
   "whyCareScore": 9.8,
-  "whyCareReason": "Josh Allen's red-hot 3-0 Bills travel to M&T Bank Stadium to face two-time MVP Lamar Jackson and Derrick Henry in a premier AFC heavyweight showdown.",
-  "teaser": "Sunday 4 October, 20:20 ET at M&T Bank Stadium. Josh Allen and Lamar Jackson renew their rivalry in the biggest regular-season clash of Week 4.",
-  "story": "Why this one matters: Week 4's Sunday Night Football brings together the two most dynamic dual-threat quarterbacks of this generation as the undefeated Buffalo Bills collide with the Baltimore Ravens.\n\nBuffalo enters M&T Bank Stadium in blistering form at 3-0, averaging a league-best 34.3 points per contest. Josh Allen has been virtually unstoppable, accounting for 11 total touchdowns without turning the ball over. With James Cook providing balance in the backfield, Joe Brady's offense has overwhelmed opponents.\n\nFor Baltimore, Sunday night represents a critical proving ground. Lamar Jackson and Derrick Henry present the most punishing ground game in the AFC, capable of controlling the clock and exhausting opposing defenses. Following San Francisco's 24-20 thriller over the Rams on Thursday night, Baltimore vs Buffalo stands as the centerpiece of Week 4.",
-  "stakes": "Buffalo can cement their status as AFC favorites by moving to 4-0, while Baltimore aims to climb back to .500 with a statement victory.",
-  "rivalryAngle": "Allen vs Jackson is tied 3-3 all-time, representing the defining quarterback rivalry of the modern AFC alongside Mahomes.",
+  "whyCareReason": "Derrick Henry delivers a historic 199-yard rushing display to hand the high-flying Buffalo Bills their first defeat of the season in an emphatic statement win for Baltimore.",
+  "teaser": "FINAL: Baltimore Ravens 35, Buffalo Bills 10. Derrick Henry erupts for an 87-yard opening touchdown and 199 total rushing yards as Lamar Jackson outduels Josh Allen.",
+  "story": "Why this one matters: M&T Bank Stadium witnessed a complete tactical demolition on Sunday night as the Baltimore Ravens dismantled the previously undefeated Buffalo Bills 35-10 in a statement AFC victory.\n\nOn Baltimore's very first offensive snap, Derrick Henry took a handoff, burst through a crease on the right side, and outran Buffalo's secondary for an explosive 87-yard touchdown. Henry was relentless all evening, bruising through tackles for 199 rushing yards and two touchdowns on 24 carries. Lamar Jackson complemented the ground barrage with surgical efficiency, completing 13 of 18 passes for two touchdowns while adding a rushing score of his own.\n\nBuffalo's top-ranked offense had no answers against Baltimore's physical defense. Josh Allen was pressured on 44 percent of dropbacks, sacked three times, and stripped of the football by Kyle Van Noy. The win improves Baltimore to 2-2 while dropping Buffalo to 3-1.",
+  "stakes": "Baltimore climbs back to .500 and proves their championship credentials, while Buffalo suffers their first setback of 2026.",
+  "rivalryAngle": "Jackson moves ahead 4-3 in head-to-head meetings against Allen, reminding the league of Baltimore's unmatched rushing prowess.",
   "home": "Baltimore Ravens",
   "away": "Buffalo Bills",
   "group": "NFL",
@@ -72,7 +74,7 @@
   "time": "20:20",
   "venue": "M&T Bank Stadium",
   "city": "Baltimore",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "football",
   "competition": "nfl-2026"
 }

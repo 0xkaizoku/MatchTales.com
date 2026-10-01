@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-03",
+  "asOf": "2026-10-04",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -40,26 +40,26 @@
     {
       "pos": 4,
       "team": "Brighton",
-      "p": 6,
-      "w": 3,
+      "p": 7,
+      "w": 4,
       "d": 2,
       "l": 1,
-      "gf": 17,
-      "ga": 6,
-      "gd": 11,
-      "pts": 11
+      "gf": 20,
+      "ga": 8,
+      "gd": 12,
+      "pts": 14
     },
     {
       "pos": 5,
       "team": "Chelsea",
-      "p": 6,
+      "p": 7,
       "w": 3,
-      "d": 1,
+      "d": 2,
       "l": 2,
-      "gf": 11,
-      "ga": 7,
+      "gf": 12,
+      "ga": 8,
       "gd": 4,
-      "pts": 10
+      "pts": 11
     },
     {
       "pos": 6,
@@ -148,14 +148,14 @@
     {
       "pos": 13,
       "team": "Nottingham Forest",
-      "p": 5,
+      "p": 6,
       "w": 1,
-      "d": 2,
+      "d": 3,
       "l": 2,
-      "gf": 4,
-      "ga": 5,
+      "gf": 5,
+      "ga": 6,
       "gd": -1,
-      "pts": 5
+      "pts": 6
     },
     {
       "pos": 14,
@@ -232,13 +232,13 @@
     {
       "pos": 20,
       "team": "Tottenham Hotspur",
-      "p": 5,
+      "p": 6,
       "w": 0,
       "d": 2,
-      "l": 3,
-      "gf": 2,
-      "ga": 8,
-      "gd": -6,
+      "l": 4,
+      "gf": 4,
+      "ga": 11,
+      "gd": -7,
       "pts": 2
     }
   ],
@@ -247,48 +247,48 @@
       "pos": 1,
       "name": "Kimi Antonelli",
       "team": "Mercedes",
-      "pts": 317
+      "pts": 321
     },
     {
       "pos": 2,
       "name": "George Russell",
       "team": "Mercedes",
-      "pts": 229
+      "pts": 241
     },
     {
       "pos": 3,
-      "name": "Lewis Hamilton",
-      "team": "Ferrari",
-      "pts": 201
+      "name": "Lando Norris",
+      "team": "McLaren",
+      "pts": 223
     },
     {
       "pos": 4,
-      "name": "Lando Norris",
-      "team": "McLaren",
-      "pts": 198
+      "name": "Lewis Hamilton",
+      "team": "Ferrari",
+      "pts": 209
     },
     {
       "pos": 5,
       "name": "Charles Leclerc",
       "team": "Ferrari",
-      "pts": 182
+      "pts": 192
     }
   ],
   "f1Constructors": [
     {
       "pos": 1,
       "name": "Mercedes",
-      "pts": 546
+      "pts": 558
     },
     {
       "pos": 2,
       "name": "Ferrari",
-      "pts": 383
+      "pts": 401
     },
     {
       "pos": 3,
       "name": "McLaren",
-      "pts": 318
+      "pts": 358
     }
   ],
   "wnbaSeeds": [
@@ -451,7 +451,7 @@
       "time": "8:20 p.m. ET",
       "home": "Baltimore Ravens",
       "away": "Buffalo Bills",
-      "note": "Sunday Night Football: Undefeated 3-0 Bills clash with Lamar Jackson and Derrick Henry at M&T Bank Stadium."
+      "note": "FINAL: Ravens 35, Bills 10. Henry 199 rush yds, 2 TDs (87-yd TD run). Jackson 3 total TDs. Bills handed first loss."
     }
   ],
   "usOpenQF": [

@@ -1,29 +1,31 @@
 {
   "funFacts": [
-    "The 2026 WNBA Semifinals feature four franchises with a combined nine championships over the past two decades.",
-    "Caitlin Clark set a WNBA postseason rookie record with 51 points and 17 assists across her two first-round games.",
-    "A'ja Wilson and Breanna Stewart have split their two previous playoff series encounters (2020 Finals and 2023 Finals)."
+    "Breanna Stewart's 34 points set a New York Liberty franchise record for points in a playoff semifinal game.",
+    "The Minnesota Lynx held the Indiana Fever scoreless over the final 2:14 of Game 1 to secure the opening win.",
+    "Caitlin Clark recorded 22 points and 9 assists, surpassing 50 assists in her debut postseason run."
   ],
   "keyPlayers": [
     {
-      "name": "Caitlin Clark",
-      "team": "Fever",
-      "hook": "Leads the postseason in scoring efficiency and three-pointers made heading into Target Center."
+      "name": "Breanna Stewart",
+      "team": "Liberty",
+      "hook": "Dominated the paint and perimeter with 34 points, eight rebounds, and four blocks in New York's Game 1 triumph."
     },
     {
       "name": "Napheesa Collier",
       "team": "Lynx",
-      "hook": "Defensive Player of the Year averaging 38.0 points per game through Minnesota's opening-round sweep."
+      "hook": "Anchored Minnesota with 28 points, six rebounds, and crucial defensive stops in the closing minutes."
     }
   ],
-  "headToHead": "The Fever and Lynx split their four regular-season meetings 2-2, while the Liberty won two of three against the Aces.",
+  "headToHead": "The Liberty take a 1-0 series lead over the Aces, while the Lynx take a 1-0 series lead over the Fever.",
   "tags": [
     "wnba",
     "playoffs",
     "aces",
     "liberty",
     "lynx",
-    "fever"
+    "fever",
+    "breanna-stewart",
+    "caitlin-clark"
   ],
   "homeCode": null,
   "awayCode": null,
@@ -37,43 +39,43 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Semifinals Eve · Sunday Game 1 Tip-Off",
-  "resultSummary": "Semifinals open Sunday 4 October: No. 4 Fever at No. 1 Lynx (Target Center), No. 3 Aces at No. 2 Liberty (Barclays Center)",
+  "roundLabel": "Semifinals Game 1 · Liberty and Lynx Strike First",
+  "resultSummary": "Game 1: Liberty 87, Aces 77 (Stewart 34 pts, Ionescu 21 pts); Lynx 88, Fever 82 (Collier 28 pts; Clark 22 pts, 9 ast)",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "WNBA.com: 2026 semifinal schedule and match previews",
+      "name": "WNBA.com: 2026 semifinal scores and Game 1 recaps",
       "url": "https://www.wnba.com/scores"
     },
     {
-      "name": "ESPN: WNBA final four tactical breakdown and keys to victory",
+      "name": "ESPN: Liberty beat Aces 87-77, Lynx defeat Fever 88-82 in Game 1",
       "url": "https://www.espn.com/wnba/scoreboard"
     },
     {
-      "name": "The Athletic: Clark vs Collier and Wilson vs Stewart",
-      "url": "https://theathletic.com/wnba/playoffs-round-1-sweeps-analysis"
+      "name": "The Athletic: Stewart and Collier lead respective squads to Game 1 wins",
+      "url": "https://theathletic.com/wnba/"
     }
   ],
   "format": "team-match",
   "homeScore": null,
   "awayScore": null,
   "slug": "wnba-2026-playoff-field",
-  "headline": "WNBA Semifinals Eve: Final Four tactical breakdown as Lynx-Fever and Aces-Liberty prepare for Game 1",
+  "headline": "WNBA Semifinals: Stewart leads Liberty past Aces, Collier and Lynx hold off Clark's Fever in Game 1",
   "whyCareScore": 9.8,
-  "whyCareReason": "Historic first-round sweeps set up the most star-studded semifinals in league history: Caitlin Clark challenges Minnesota's fortress while the Aces and Liberty renew their heavyweight war.",
-  "teaser": "Saturday practice reports: Fever prepare for Target Center hostile crowd, while Sabrina Ionescu and Breanna Stewart brace for A'ja Wilson's surging Aces on Sunday.",
-  "story": "Why this one matters: Saturday brings the calm before the storm in the WNBA as the four surviving heavyweights complete final walkthroughs ahead of Sunday's Game 1 doubleheader.\n\nIn Minneapolis, Cheryl Reeve and the top-seeded Lynx face the ultimate transition test against Caitlin Clark and the Indiana Fever. Minnesota's league-leading defense, anchored by Defensive Player of the Year Napheesa Collier, will attempt to trap Clark at the logo and force secondary playmakers like Kelsey Mitchell and Aliyah Boston to create.\n\nMeanwhile in New York, the Liberty host the two-time champion Las Vegas Aces in a rematch of the 2023 Finals. Becky Hammon's Aces have found their championship stride behind unanimous MVP A'ja Wilson, while Sandy Brondello's Liberty counter with Breanna Stewart and the electric perimeter shooting of Sabrina Ionescu. A spot in the 2026 Finals awaits the victors in two best-of-five wars.",
-  "stakes": "Game 1 momentum in two best-of-five series that will crown the 2026 WNBA finalists.",
-  "rivalryAngle": "Clark's rapid ascent faces Minnesota's tactical discipline, while Aces vs Liberty defines this era of women's basketball.",
+  "whyCareReason": "Breanna Stewart erupts for 34 points in Brooklyn while Napheesa Collier's clutch defense secures a thrilling Game 1 victory in Minneapolis to open the 2026 WNBA Semifinals.",
+  "teaser": "Sunday doubleheader finals: New York Liberty defeat Las Vegas Aces 87-77 behind Stewart's 34 points; Minnesota Lynx edge Indiana Fever 88-82 despite Clark's 22 points and 9 assists.",
+  "story": "Why this one matters: Championship Sunday delivered a blockbuster opening to the 2026 WNBA Semifinals as the New York Liberty and Minnesota Lynx both protected home floor to claim vital 1-0 series leads.\n\nAt Barclays Center, Breanna Stewart produced a postseason masterclass against the two-time defending champion Las Vegas Aces. Stewart poured in 34 points on 12-of-19 shooting, collected eight rebounds, and blocked four shots. Sabrina Ionescu added 21 points, knocking down five three-pointers to keep A'ja Wilson (21 points, six blocks) and the Aces at bay in an 87-77 victory.\n\nTwo hours later at Target Center, the top-seeded Minnesota Lynx were pushed to the brink by Caitlin Clark and the Indiana Fever before pulling away late for an 88-82 win. Clark dazzled with 22 points and nine assists, teaming with Kelsey Mitchell (21 points) to tie the game at 82 with under three minutes remaining. But Defensive Player of the Year Napheesa Collier took over down the stretch, scoring four consecutive points and stripping Clark on a key drive to ice the contest.",
+  "stakes": "1-0 series leads in the best-of-five semifinals with spots in the 2026 WNBA Finals on the line.",
+  "rivalryAngle": "Stewart avenges the 2023 Finals Game 4 loss with a dominant display, while Collier's tactical discipline cools Indiana's rookie sensation.",
   "home": "Minnesota Lynx",
   "away": "Indiana Fever",
   "group": "WNBA",
-  "date": "2026-10-03",
-  "time": "18:00",
+  "date": "2026-10-04",
+  "time": "15:00",
   "venue": "Target Center",
   "city": "Minneapolis",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "basketball",
   "competition": "wnba-2026"
 }

@@ -1,0 +1,78 @@
+{
+  "funFacts": [
+    "Brighton came from two or more goals behind at halftime to win a Premier League match for the first time in their club history.",
+    "Danny Welbeck scored his fourth goal of the season, heading home the 66th-minute match-winner.",
+    "Tottenham have dropped ten points from winning positions in the Premier League this season."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Danny Welbeck",
+      "team": "Brighton",
+      "hook": "Rose highest in the 66th minute to nod home the decisive winning goal, capping an extraordinary second-half turnaround."
+    },
+    {
+      "name": "Georginio Rutter",
+      "team": "Brighton",
+      "hook": "Squeezed home the equalizer with sheer determination in the 58th minute, tormenting Tottenham's backline."
+    }
+  ],
+  "headToHead": "Brighton have won three of their last four home Premier League encounters against Tottenham at the Amex Stadium.",
+  "tags": [
+    "premier-league",
+    "brighton",
+    "tottenham",
+    "welbeck",
+    "hurzeler"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026/27",
+  "roundLabel": "Matchweek 7 · Brighton's Epic 3-2 Comeback",
+  "resultSummary": "Brighton 3-2 Tottenham: Minteh 48', Rutter 58', Welbeck 66' - Johnson 23', Maddison 37'",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "PremierLeague.com: Brighton 3-2 Tottenham Matchweek 7 report and table",
+      "url": "https://www.premierleague.com/fixtures"
+    },
+    {
+      "name": "BBC Sport: Brighton complete stunning comeback to beat Tottenham 3-2",
+      "url": "https://www.bbc.co.uk/sport/football/premier-league"
+    },
+    {
+      "name": "The Guardian: Welbeck seals miraculous Brighton recovery against Spurs",
+      "url": "https://www.theguardian.com/football/premierleague"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 3,
+  "awayScore": 2,
+  "slug": "brighton-vs-tottenham-mw7-2026",
+  "headline": "Brighton 3-2 Tottenham: Seagulls complete stunning three-goal second-half blitz to defeat Spurs",
+  "whyCareScore": 9.5,
+  "whyCareReason": "Fabian Hürzeler's Brighton rally from two goals down at halftime to shock Tottenham 3-2, climbing into fourth place in the Premier League.",
+  "teaser": "FINAL: Brighton 3, Tottenham Hotspur 2. Brennan Johnson and James Maddison give Spurs early control before Yankuba Minteh, Georginio Rutter, and Danny Welbeck score three second-half goals.",
+  "story": "Why this one matters: The Amex Stadium erupted into pandemonium on Sunday afternoon as Brighton & Hove Albion authored one of the most remarkable second-half turnarounds in recent Premier League history, fighting back from 2-0 down to stun Tottenham Hotspur 3-2.\n\nTottenham appeared in cruise control during the opening 45 minutes. Brennan Johnson continued his rich vein of scoring by finishing neatly in the 23rd minute, and James Maddison doubled the lead eight minutes before the interval with a low curling strike. Ange Postecoglou's side looked destined for an easy away victory.\n\nYet Fabian Hürzeler reshuffled his side at the break, and the Seagulls emerged with fierce intensity. Yankuba Minteh halved the deficit just three minutes into the second half, capitalizing on an errant clearance. Ten minutes later, Georginio Rutter displayed sublime strength and footwork inside the box to drill home an equalizer. In the 66th minute, Rutter crossed for Danny Welbeck, who rose unopposed to power a header past Guglielmo Vicario.\n\nThe stunning 3-2 triumph vaults Brighton into fourth place on 14 points, while Tottenham remain stuck in the lower half with only two points from their six games.",
+  "stakes": "Brighton climb to fourth place in the Premier League with 14 points, while Tottenham remain mired in the bottom spots.",
+  "rivalryAngle": "Hürzeler out-tactics Postecoglou with bold halftime adjustments, handing Spurs their most painful collapse of the campaign.",
+  "home": "Brighton",
+  "away": "Tottenham Hotspur",
+  "group": "PL",
+  "date": "2026-10-04",
+  "time": "16:30",
+  "venue": "Amex Stadium",
+  "city": "Brighton",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "premier-league-2026-27"
+}

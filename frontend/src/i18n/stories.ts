@@ -6358,6 +6358,559 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+  'china-open-2026-final-alcaraz-epic-win-over-sinner': {
+    fr: {
+      title: "Open de Chine 2026 : Carlos Alcaraz dompte Jannik Sinner dans une finale épique de 3h21",
+      subtitle: "L'Espagnol remonte un handicap de 0-3 dans le tie-break décisif pour remporter son 16e titre en carrière.",
+      excerpt: "Carlos Alcaraz bat Jannik Sinner 6-7(6), 6-4, 7-6(3) sur le court Diamond à Pékin au terme d'un combat d'anthologie mettant fin à la série de 15 victoires consécutives de l'Italien.",
+      body: [
+        "La finale de l'Open de Chine a offert un chef-d'œuvre absolu entre Carlos Alcaraz et Jannik Sinner sur le court Diamond.",
+        "Alcaraz a signé l'exploit en remontant de 0-3 à 7-3 dans le jeu décisif du troisième set, remportant sept points consécutifs face au numéro un mondial après 3h21 de jeu.",
+        "L'Espagnol devient le premier joueur de l'histoire de l'ATP à remporter des tournois ATP 500 sur dur, terre battue et gazon la même année.",
+      ],
+    },
+    es: {
+      title: "Abierto de China 2026: Carlos Alcaraz se impone a Jannik Sinner en una épica final de 3h21",
+      subtitle: "El español remonta un 0-3 en el tie-break decisivo para alzar su decimosexto título profesional.",
+      excerpt: "Carlos Alcaraz superó a Jannik Sinner por 6-7(6), 6-4, 7-6(3) en la pista Diamond de Pekín, cortando la racha de 15 victorias del italiano.",
+      body: [
+        "La pista Diamond de Pekín presenció uno de los mayores clásicos del tenis moderno entre Carlos Alcaraz y Jannik Sinner.",
+        "Alcaraz protagonizó una reacción legendaria en el tie-break final al levantar un 0-3 con siete puntos consecutivos para sellar el triunfo en 3 horas y 21 minutos.",
+        "Con este trofeo, el murciano es el primer tenista en ganar torneos ATP 500 en pista dura, tierra batida y hierba en la misma temporada.",
+      ],
+    },
+    de: {
+      title: "China Open 2026: Carlos Alcaraz bezwingt Jannik Sinner in dramatischem 3:21-Stunden-Finale",
+      subtitle: "Spanier dreht 0:3-Rückstand im entscheidenden Tiebreak und holt seinen 16. Karrieretitel.",
+      excerpt: "Carlos Alcaraz schlägt Jannik Sinner mit 6:7(6), 6:4, 7:6(3) auf dem Diamond Court in Peking und beendet Sinners Serie von 15 Siegen.",
+      body: [
+        "Das Finale der China Open bot das beste Match des Jahres zwischen den beiden Spitzenreitern der Weltrangliste.",
+        "Alcaraz triumphierte nach 3 Stunden und 21 Minuten, indem er im Tiebreak des dritten Satzes nach 0:3-Rückstand sieben Punkte in Serie gewann.",
+        "Der 21-jährige Spanier ist der erste Spieler der ATP-Geschichte, der in einem Kalenderjahr ATP-500-Titel auf Hartplatz, Sand und Rasen feierte.",
+      ],
+    },
+    it: {
+      title: "China Open 2026: Carlos Alcaraz supera Jannik Sinner in un'epica finale di 3 ore e 21 minuti",
+      subtitle: "Lo spagnolo rimonta da 0-3 nel tie-break del terzo set e conquista il suo 16° titolo ATP.",
+      excerpt: "Carlos Alcaraz sconfigge Jannik Sinner 6-7(6), 6-4, 7-6(3) sul Diamond Court di Pechino, interrompendo la striscia di 15 vittorie dell'azzurro.",
+      body: [
+        "Sul Diamond Court di Pechino, Carlos Alcaraz e Jannik Sinner hanno disputato una delle finali più spettacolari dell'era recente.",
+        "Sinner ha vinto il primo set, ma Alcaraz ha ribaltato il match vincendo sette punti consecutivi nel tie-break finale dopo essere stato sotto 0-3.",
+        "Con questo successo Alcaraz si porta sul 6-4 negli scontri diretti con il numero 1 al mondo, chiudendo il 2026 con tre vittorie su tre.",
+      ],
+    },
+    pl: {
+      title: "China Open 2026: Carlos Alcaraz pokonał Jannika Sinnera w 3,5-godzinnym dreszczowcu",
+      subtitle: "Hiszpan odrobił stratę 0-3 w decydującym tie-breaku i zdobył szesnasty tytuł w karierze.",
+      excerpt: "Carlos Alcaraz pokonał Jannika Sinnera 6-7(6), 6-4, 7-6(3) w Pekinie, przerywając serię 15 zwycięstw Włocha po 3 godzinach i 21 minutach walki.",
+      body: [
+        "Finał China Open na korcie Diamond przyniósł kapitalne widowisko i najwyższy poziom tenisa między dwoma najlepszymi graczami świata.",
+        "Alcaraz dokonał niezwykłego wyczynu w tie-breaku trzeciego seta: przegrywając 0-3, wygrał siedem kolejnych punktów i przypieczętował triumf.",
+        "Hiszpan został pierwszym tenisistą w historii ATP, który w jednym roku wygrał turnieje rangi ATP 500 na twardej, ziemnej i trawiastej nawierzchni.",
+      ],
+    },
+    zh: {
+      title: "2026年中网男单决赛：阿尔卡拉斯历经3小时21分史诗大战逆转辛纳夺冠",
+      subtitle: "西班牙天王在决胜盘抢七0-3落后下连赢七分，斩获职业生涯第16座巡回赛冠军",
+      excerpt: "阿尔卡拉斯在国家网球中心以6-7(6)、6-4、7-6(3)险胜世界第一辛纳，终结对手15连胜并勇夺中国网球公开赛桂冠。",
+      body: [
+        "北京中网钻石球场上演了近年来最具统治力的男单决赛对决，阿尔卡拉斯与辛纳激战3小时21分钟。",
+        "决胜盘抢七中辛纳一度3-0领先，但阿尔卡拉斯展现大心脏，凭借连续正手攻势连下7分上演不可思议的大逆转。",
+        "阿尔卡拉斯由此成为ATP历史上首位在同一赛季于硬地、红土和草地均斩获ATP 500级别冠军的球员。",
+      ],
+    },
+    ja: {
+      title: "チャイナ・オープン2026決勝：アルカラスが3時間21分の死闘の末にシナーを破り北京初制覇",
+      subtitle: "ファイナルセットのタイブレーク0-3から怒涛の7連続ポイントで通算16個目のタイトル獲得",
+      excerpt: "カルロス・アルカラスがヤニック・シナーを6-7(6), 6-4, 7-6(3)で破り、ダイヤモンド・コートでシナーの15連勝を止めて優勝を飾った。",
+      body: [
+        "北京のダイヤモンド・コートで行われた決勝は、世界ナンバーワンのシナーとアルカラスによる歴史的な名勝負となりました。",
+        "最終第3セットのタイブレークで0-3とリードされたアルカラスは、驚異的な反撃で7連続得点を奪い劇的な勝利を収めました。",
+        "アルカラスは同一年にハード、クレー、芝の全3サーフェスでATP500を制覇した史上初の選手となりました。",
+      ],
+    },
+    ko: {
+      title: "2026 차이나 오픈 결승: 카를로스 알카라스, 3시간 21분 혈투 끝에 야닉 시너 꺾고 베이징 우승",
+      subtitle: "마지막 세트 타이브레이크 0-3 열세를 뒤집고 7연속 득점으로 통산 16번째 투어 우승 달성",
+      excerpt: "알카라스가 다이아몬드 코트에서 시너를 6-7(6), 6-4, 7-6(3)으로 제압하고 시너의 15연승을 저지하며 베이징 트로피를 들어올렸다.",
+      body: [
+        "베이징 국가테니스센터 다이아몬드 코트에서 펼쳐진 결승전은 올 시즌 최고의 명승부로 기록되었습니다.",
+        "3세트 타이브레이크에서 0-3으로 뒤지던 알카라스는 기적 같은 7연속 득점으로 승부를 결정지었습니다.",
+        "이로써 알카라스는 단일 시즌 하드, 클레이, 잔디 모든 코트에서 ATP 500 트로피를 들어올린 최초의 선수가 되었습니다.",
+      ],
+    },
+    ar: {
+      title: "بطولة الصين المفتوحة 2026: كارلوس ألكاراز يهزم يانيك سينر في ملحمة استمرت 3 ساعات و21 دقيقة",
+      subtitle: "النجم الإسباني يقلب تأخره 0-3 في شوط كسر التعادل الفاصل ليتوج بلقبه السادس عشر في مسيرته.",
+      excerpt: "كارلوس ألكاراز يتفوق على يانيك سينر بنتيجة 6-7(6) و6-4 و7-6(3) على الملعب الماسي في بكين منهيا سلسلة انتصارات الإيطالي.",
+      body: [
+        "شهد الملعب الماسي في بكين قمة كروية وتنسية لا تنسى امتدت لأكثر من ثلاث ساعات بين ألكاراز وسينر.",
+        "وفجر ألكاراز مفاجأة كبرى في الشوط الفاصل الحاسم حين حصد سبع نقاط متتالية بعد تأخره 0-3 ليحسم اللقب العالمي.",
+        "وأصبح الإسباني الشاب أول لاعب في تاريخ بطولات رابطة المحترفين يتوج بألقاب فئة 500 نقطة على الأراضي الصلبة والترابية والعشبية في عام واحد.",
+      ],
+    },
+  },
+  'f1-singapore-gp-race-norris-crushing-victory-2026': {
+    fr: {
+      title: "GP de Singapour : Lando Norris écrase la course et s'impose avec 20 secondes d'avance sur Verstappen",
+      subtitle: "Le Britannique mène les 62 tours sous les projecteurs de Marina Bay et signe son troisième succès en 2026.",
+      excerpt: "Lando Norris a transformé sa pole en triomphe magistral à Singapour, devançant Max Verstappen de 20.945 secondes pour consolider l'avance de McLaren.",
+      body: [
+        "Dans l'étuve de Marina Bay, Lando Norris a livré une démonstration totale en dominant le Grand Prix de Singapour de bout en bout.",
+        "Au volant d'une McLaren intouchable, le pilote anglais a repoussé Max Verstappen à plus de vingt secondes sur la ligne d'arrivée.",
+        "Avec la 3e place d'Oscar Piastri, McLaren empoche 40 points au championnat des constructeurs et conforte son leadership.",
+      ],
+    },
+    es: {
+      title: "GP de Singapur: Lando Norris arrasa en Marina Bay y vence con 20 segundos de ventaja sobre Verstappen",
+      subtitle: "El piloto de McLaren lidera las 62 vueltas nocturnas para sumar su tercer triunfo de la temporada.",
+      excerpt: "Lando Norris dominó el Gran Premio de Singapur de principio a fin, superando a Max Verstappen por 20.945 segundos en una exhibición de McLaren.",
+      body: [
+        "Bajo los focos de Marina Bay, Lando Norris firmó la carrera más dominante de su trayectoria en la Fórmula 1.",
+        "Norris controló la salida y rodó a un ritmo inalcanzable, cruzando la meta con casi 21 segundos de renta sobre Verstappen.",
+        "El podio completado por Oscar Piastri en tercera posición otorgó 40 valiosos puntos a McLaren en el Mundial de Constructores.",
+      ],
+    },
+    de: {
+      title: "GP von Singapur: Lando Norris deklassiert Konkurrenz mit 20 Sekunden Vorsprung auf Verstappen",
+      subtitle: "McLaren-Star führt alle 62 Runden unter Flutlicht in Marina Bay und feiert dritten Saisonsieg.",
+      excerpt: "Lando Norris dominierte den Großen Preis von Singapur souverän von der Pole Position und schlug Max Verstappen um 20,945 Sekunden.",
+      body: [
+        "Auf dem herausfordernden Stadtkurs von Marina Bay zeigte Lando Norris eine fahrerische Glanzleistung.",
+        "Norris kontrollierte das Rennen von der ersten bis zur letzten Runde und verwies Max Verstappen um fast 21 Sekunden auf Platz zwei.",
+        "Oscar Piastri komplettierte als Dritter das hervorragende McLaren-Ergebnis mit insgesamt 40 Punkten an einem Wochenende.",
+      ],
+    },
+    it: {
+      title: "GP Singapore: Lando Norris trionfa a Marina Bay con oltre 20 secondi di vantaggio su Verstappen",
+      subtitle: "L'inglese della McLaren comanda tutti i 62 giri nella notte asiatica e centra il terzo successo stagionale.",
+      excerpt: "Lando Norris ha dominato il Gran Premio di Singapore dalla pole position, battendo Max Verstappen di 20.945 secondi.",
+      body: [
+        "Sul circuito cittadino di Singapore, Lando Norris ha disputato una corsa perfetta, infliggendo distacchi pesanti a tutti i rivali.",
+        "Il pilota britannico ha tenuto un passo irresistibile per 62 tornate, precedendo Verstappen di oltre venti secondi e Piastri di quaranta.",
+        "La McLaren consolida così la vetta nel Campionato Costruttori con un bottino pieno di 40 punti nel weekend.",
+      ],
+    },
+    pl: {
+      title: "GP Singapuru: Lando Norris nokautuje rywali i wygrywa z przewagą 20 sekund nad Verstappenem",
+      subtitle: "Kierowca McLarena prowadził przez wszystkie 62 okrążenia pod światłami Marina Bay, zdobywając trzecie zwycięstwo w sezonie.",
+      excerpt: "Lando Norris zamienił pole position w bezdyskusyjne zwycięstwo w Singapurze, finiszując 20,945 sekundy przed Maxem Verstappenem.",
+      body: [
+        "Nocny wyścig na ulicach Singapuru przyniósł całkowitą dominację Lando Norrisa i bolidu McLarena.",
+        "Brytyjczyk nie oddał prowadzenia ani na moment, narzucając tempo nieosiągalne dla urzędującego mistrza świata Maxa Verstappena.",
+        "Trzecie miejsce Oscara Piastriego przypieczętowało dublet na podium dla ekipy z Woking i powiększyło ich przewagę w klasyfikacji zespołowej.",
+      ],
+    },
+    zh: {
+      title: "F1新加坡大奖赛正赛：诺里斯狂揽20秒优势拔得头筹，力压维斯塔潘夺赛季第三冠",
+      subtitle: "迈凯伦车手在滨海湾夜战中领跑全程62圈，皮亚斯特里夺得季军迈凯伦双双登台",
+      excerpt: "诺里斯以绝对优势将杆位转化为新加坡大奖赛正赛胜利，领先维斯塔潘20.945秒冲线，迈凯伦车队积分榜领先优势进一步扩大。",
+      body: [
+        "在滨海湾潮湿闷热的街道赛道上，诺里斯用极具统治力的速度统治了整场62圈的比赛。",
+        "诺里斯发车守住领跑位置后一路绝尘，最终以近21秒的巨大优势力压红牛车手维斯塔潘夺魁。",
+        "队友皮亚斯特里从第五位追至第三，迈凯伦单站揽下40分，在车队总冠军争夺中占据绝对主动。",
+      ],
+    },
+    ja: {
+      title: "F1シンガポールGP決勝：ノリスが圧巻の独走劇でフェルスタッペンに20秒差をつけ今季3勝目",
+      subtitle: "マリーナ・ベイのナイトレース全62周を支配、ピアストリも3位に入りマクラーレン大勝",
+      excerpt: "ランド・ノリスがポール・トゥ・ウィンを飾り、マックス・フェルスタッペンに20.945秒の大差をつけてシンガポールGPを制覇した。",
+      body: [
+        "酷暑と夜間照明が交錯するマリーナ・ベイで、ランド・ノリスが異次元のスピードを見せつけ完勝しました。",
+        "ノリスは全62周をリードし、フェルスタッペンに対して20秒以上のセーフティマージンを築いてチェッカーを受けました。",
+        "オスカー・ピアストリが3位表彰台に登り、マクラーレンは1レースで40ポイントを荒稼ぎして選手権首位を固めました。",
+      ],
+    },
+    ko: {
+      title: "F1 싱가포르 GP 결승: 랜도 노리스, 베르스타펜에 20초 차 압승 거두며 시즌 3승 수확",
+      subtitle: "마리나 베이 62랩 전 구간을 완벽 지배, 피아스트리 3위로 맥라렌 더블 포디엄 완성",
+      excerpt: "랜도 노리스가 폴투윈을 달성하며 막스 베르스타펜을 20.945초 차로 따돌리고 싱가포르 그랑프리 우승 트로피를 차지했다.",
+      body: [
+        "야간 도심 서킷인 마리나 베이에서 랜도 노리스는 그야말로 무결점 독주 레이스를 선보였습니다.",
+        "출발부터 선두를 유지한 노리스는 타이어 관리와 압도적인 페이스로 베르스타펜을 20초 이상 밀어냈습니다.",
+        "팀 동료 오스카 피아스트리가 3위를 기록하며 맥라렌은 이번 주말에만 40점을 추가해 컨스트럭터 선두를 굳혔습니다.",
+      ],
+    },
+    ar: {
+      title: "سباق جائزة سنغافورة الكبرى: لاندو نوريس يسحق المنافسين ويفوز بفارق 20 ثانية عن فيرستابن",
+      subtitle: "نجم مكلارين يتصدر جميع لفات السباق الـ62 تحت أضواء مارينا باي ويحصد فوزه الثالث هذا الموسم.",
+      excerpt: "لاندو نوريس يترجم انطلاقه من المركز الأول إلى انتصار ساحق في سنغافورة متفوقا بـ20.945 ثانية على ماكس فيرستابن.",
+      body: [
+        "قدم لاندو نوريس أداء استثنائيا على حلبة مارينا باي الصعبة مسيطرا على مجريات السباق الليلي من البداية حتى النهاية.",
+        "تفوق السائق البريطاني على بطل العالم ماكس فيرستابن بفارق تجاوز عشرين ثانية بفضل وتيرة مكلارين الفائقة.",
+        "واحتل زميله أوسكار بياستري المركز الثالث ليعزز فريق مكلارين صدارته في بطولة الصانعين بعد حصد 40 نقطة ثمينة.",
+      ],
+    },
+  },
+  'pga-tour-sanderson-farms-final-kevin-yu-playoff-victory-2026': {
+    fr: {
+      title: "Sanderson Farms : Kevin Yu s'offre son premier titre PGA Tour en playoff face à Beau Hossler",
+      subtitle: "Deux birdies consécutifs au 18 permettent au joueur de 26 ans de s'imposer en mort subite à Jackson.",
+      excerpt: "Kevin Yu a rendu une carte de 67 pour égaler Beau Hossler à -23 avant de rentrer un putt décisif au premier trou de playoff.",
+      body: [
+        "Le Country Club de Jackson a sacré un nouveau vainqueur sur le PGA Tour avec le triomphe au bout du suspense de Kevin Yu.",
+        "Auteur d'un birdie au 72e trou pour arracher le playoff contre Beau Hossler, Yu a récidivé au premier trou supplémentaire avec un putt de cinq pieds.",
+        "Cette première victoire en carrière lui ouvre les portes du Masters et lui assure deux années d'exemption sur le circuit américain.",
+      ],
+    },
+    es: {
+      title: "Sanderson Farms: Kevin Yu logra su primer título del PGA Tour en el playoff ante Beau Hossler",
+      subtitle: "Dos birdies consecutivos en el hoyo 18 coronan al taiwanés de 26 años en el Country Club de Jackson.",
+      excerpt: "Kevin Yu firmó 67 golpes para empatar con Beau Hossler en 23 bajo par y embocó un putt de metro y medio en el desempate para ganar.",
+      body: [
+        "El desenlace del Sanderson Farms Championship deparó un duelo electrizante entre Kevin Yu y Beau Hossler en Misisipi.",
+        "Yu embocó sendos birdies en el hoyo 18, primero para forzar el desempate en -23 y minutos después para sentenciar su primer título en el circuito.",
+        "El triunfo le otorga dos años de exención en el PGA Tour e invitaciones para el Masters de Augusta y el PGA Championship.",
+      ],
+    },
+    de: {
+      title: "Sanderson Farms: Kevin Yu holt ersten PGA-Tour-Titel im Playoff gegen Beau Hossler",
+      subtitle: "Zwei Birdies an Loch 18 in Folge bringen dem 26-Jährigen den Durchbruch in Jackson.",
+      excerpt: "Kevin Yu spielte eine 67, glich bei 23 unter Par zu Beau Hossler auf und siegte am ersten Extraloch mit einem Birdie-Putt.",
+      body: [
+        "Das Finale im Country Club of Jackson endete mit einem dramatischen Stechen zwischen Kevin Yu und Beau Hossler.",
+        "Yu lochte am 72. Loch zum Birdie ein, um mit 23 unter Par gleichzuziehen, und wiederholte das Kunststück am ersten Playoff-Loch.",
+        "Damit sicherte sich der Taiwaner seine volle Tourkarte bis 2028 und die Startberechtigung für das Masters 2027.",
+      ],
+    },
+    it: {
+      title: "Sanderson Farms: Kevin Yu vince il primo titolo sul PGA Tour al playoff contro Beau Hossler",
+      subtitle: "Due birdie consecutivi alla buca 18 regalano il trionfo al 26enne taiwanese a Jackson.",
+      excerpt: "Kevin Yu ha chiuso a -23 dopo un giro in 67, superando Beau Hossler alla prima buca di spareggio con un birdie da un metro e mezzo.",
+      body: [
+        "Il Country Club di Jackson ha incoronato Kevin Yu, autore di un finale magistrale nel torneo autunnale del PGA Tour.",
+        "Dopo aver pareggiato il punteggio di Hossler a -23 grazie a un birdie alla 18, Yu ha ripetuto il colpo decisivo nel playoff per conquistare il trofeo.",
+        "La vittoria garantisce a Yu l'esenzione fino al 2028 e la partecipazione al prossimo Masters di Augusta.",
+      ],
+    },
+    pl: {
+      title: "Sanderson Farms: Kevin Yu wygrywa pierwszy tytuł PGA Tour w dogrywce z Beau Hosslerem",
+      subtitle: "Dwa kolejne birdie na 18. dołku dały 26-latkowi upragnione zwycięstwo w Jackson.",
+      excerpt: "Kevin Yu uzyskał wynik -23 po rundzie 67 uderzeń i pokonał Beau Hosslera na pierwszym dołku dogrywki na Country Club of Jackson.",
+      body: [
+        "Turniej Sanderson Farms przyniósł niezwykłe emocje na finiszu, gdy Kevin Yu i Beau Hossler zakończyli 72 dołki z wynikiem 23 poniżej par.",
+        "Yu popisał się fantastycznym finiszem, trafiając birdie na 18. dołku regulaminowej gry, a następnie powtarzając ten wyczyn w dogrywce z odległości 1,5 metra.",
+        "Zwycięstwo zapewnia reprezentantowi Tajwanu dwuletnie zwolnienie z kwalifikacji do PGA Tour oraz zaproszenie na turniej Masters.",
+      ],
+    },
+    zh: {
+      title: "美巡桑德森农场锦标赛：俞俊安加洞赛力克霍斯勒，摘得个人美巡赛首冠",
+      subtitle: "26岁中国台北名将在杰克逊第18号洞两度抓鸟，问鼎总成绩低于标准杆23杆",
+      excerpt: "俞俊安在决赛轮打出67杆与霍斯勒进入加洞赛，随后在加洞首洞推进5英尺抓鸟绝杀，捧起职业生涯首座美巡赛奖杯。",
+      body: [
+        "杰克逊乡村俱乐部周日上演精彩对决，中国台北选手俞俊安凭借关键时刻的大心脏发挥夺得美巡赛首冠。",
+        "俞俊安在第72洞精准攻果岭抓鸟追至-23平，随后在18号洞的第一个加洞赛中再次推进5英尺小鸟推完成绝杀。",
+        "这场胜利为他锁定了直到2028赛季的美巡赛参赛资格以及2027年美国大师赛的参赛邀请。",
+      ],
+    },
+    ja: {
+      title: "サンダーソン・ファームズ選手権：ケビン・ユーがプレーオフでホスラーを下しPGAツアー初優勝",
+      subtitle: "18番ホールで連続バーディを奪い、通算23アンダーで劇的なツアー初勝利を掴む",
+      excerpt: "ケビン・ユーが最終日67をマークしてボー・ホスラーと並び、プレーオフ1ホール目でバーディパットを沈めて優勝を果たした。",
+      body: [
+        "ジャクソン・カントリークラブで行われたサンダーソン・ファームズ選手権は、ケビン・ユーの劇的な初優勝で幕を閉じました。",
+        "正規の72ホール目で起死回生のバーディを奪ったユーは、プレーオフ1ホール目でも約1.5メートルのバーディを沈めました。",
+        "台湾出身選手としてツアー史上3人目の勝者となり、マスターズ出場権と2年間のシード権を獲得しました。",
+      ],
+    },
+    ko: {
+      title: "샌더슨 팜스 챔피언십: 케빈 유, 보 호슬러 꺾고 연장전 끝에 PGA 투어 생애 첫 우승",
+      subtitle: "18번 홀에서 잇단 버디를 낚아채며 통산 23언더파로 잭슨에서 감격의 첫 트로피 번쩍",
+      excerpt: "케빈 유가 최종 라운드 67타를 기록해 보 호슬러와 동타를 이룬 뒤, 연장 첫 번째 홀에서 버디 퍼트를 성공시키며 우승했다.",
+      body: [
+        "미시시피주 잭슨 컨트리클럽에서 열린 결승전에서 26세의 케빈 유가 생애 첫 PGA 투어 정상에 올랐습니다.",
+        "유는 18번 홀에서 연속 버디를 낚으며 연장전에 돌입했고, 연장 첫 홀에서 침착하게 5피트 버디를 떨구며 승리를 확정했습니다.",
+        "이 승리로 유는 2028년까지 투어 출전권을 확보함과 동시에 2027년 마스터스 출전 티켓을 거머쥐었습니다.",
+      ],
+    },
+    ar: {
+      title: "بطولة ساندرسون فارمز: كيفن يو يتوج بأول ألقابه في جولة بي جي إيه بعد حسم التمايز أمام هوفلر",
+      subtitle: "اللاعب البالغ 26 عاما يسجل ضربتي بيردي حاسمتين في الحفرة 18 ليتوج بطلا في جاكسون بمجموع 23 ضربة تحت المعدل.",
+      excerpt: "كيفن يو يسجل 67 ضربة في الجولة الأخيرة ليتعادل مع بو هوسلر قبل أن يحسم الجولة الإضافية بضربة بيردي متقنة.",
+      body: [
+        "شهد نادي جاكسون في ميسيسيبي نهاية درامية بتتويج التايواني كيفن يو بأول ألقابه في جولة رابطة لاعبي الجولف المحترفين.",
+        "وسجل يو ضربة بيردي عند الحفرة 72 ليعادل رصيد منافسه هوسلر، قبل أن يحسم اللقاء في الحفرة الفاصلة الأولى بضربة حاسمة.",
+        "ويمنح هذا اللقب يو إعفاء لمدة عامين في الجولة العالمية مع بطاقة دعوة مباشرة لبطولة الماسترز لعام 2027.",
+      ],
+    },
+  },
+  'nfl-week4-snf-ravens-blowout-bills-35-10-henry-2026': {
+    fr: {
+      title: "NFL 4e semaine SNF : Derrick Henry marche sur les Bills et offre un festival 35-10 aux Ravens",
+      subtitle: "Le running back vedette cumule 199 yards au sol et deux touchdowns, dont une course record de 87 yards.",
+      excerpt: "Derrick Henry a fait exploser la défense de Buffalo avec 199 yards au sol tandis que Lamar Jackson totalisait trois touchdowns pour infliger aux Bills leur première défaite de l'année.",
+      body: [
+        "Le choc de dimanche soir a tourné à la démonstration pour les Baltimore Ravens, vainqueurs 35-10 des Buffalo Bills jusqu'alors invaincus.",
+        "Derrick Henry a donné le ton dès le premier jeu offensif avec un touchdown éclair de 87 yards avant de terminer la soirée avec 199 yards au sol.",
+        "La défense de Baltimore a complètement neutralisé Josh Allen, sacké trois fois et limité à zéro touchdown marqué.",
+      ],
+    },
+    es: {
+      title: "NFL Semana 4 SNF: Derrick Henry desata su poder y los Ravens arrollan 35-10 a los invictos Bills",
+      subtitle: "El corredor estelar firma 199 yardas terrestres y dos touchdowns, incluida una escapada de 87 yardas en la primera jugada.",
+      excerpt: "Baltimore Ravens arrolló 35-10 a Buffalo Bills con una noche descomunal de Derrick Henry y tres anotaciones de Lamar Jackson.",
+      body: [
+        "El M&T Bank Stadium presenció una exhibición de poderío físico de los Ravens, que aplastaron a unos Bills que llegaban con 3-0.",
+        "Derrick Henry protagonizó una carrera histórica de 87 yardas en la primera acción ofensiva de Baltimore y terminó sumando 199 yardas terrestres.",
+        "Josh Allen fue maniatado por la defensa de Baltimore, sufriendo tres capturas y quedándose sin pases de anotación.",
+      ],
+    },
+    de: {
+      title: "NFL Woche 4 SNF: Derrick Henry überrollt die Bills beim 35:10-Kantersieg der Ravens",
+      subtitle: "Star-Runningback erläuft 199 Yards und zwei Touchdowns, darunter ein 87-Yard-Lauf im ersten Play.",
+      excerpt: "Derrick Henry führte die Baltimore Ravens mit 199 Rushing-Yards zu einem überzeugenden 35:10-Sieg über die bis dahin ungeschlagenen Buffalo Bills.",
+      body: [
+        "Das Sunday Night Football-Spiel entwickelte sich zu einer Demonstration der Ravens-Laufstärke gegen Buffalo.",
+        "Gleich im ersten Offensivzug durchbrach Derrick Henry die Abwehrreihe für einen 87-Yard-Touchdown und beendete die Partie mit 199 Rushing-Yards.",
+        "Lamar Jackson steuerte drei Touchdowns bei, während die Ravens-Defense Josh Allen keinen einzigen Touchdown erlaubte.",
+      ],
+    },
+    it: {
+      title: "NFL Week 4 SNF: Derrick Henry domina e i Ravens travolgono i Bills imbattuti per 35-10",
+      subtitle: "Il running back mette a segno 199 yard su corsa e due mete, compresa una fuga da 87 yard.",
+      excerpt: "I Baltimore Ravens hanno inflitto la prima sconfitta stagionale ai Buffalo Bills con un netto 35-10 guidato da Derrick Henry e Lamar Jackson.",
+      body: [
+        "All'M&T Bank Stadium è andata in scena una lezione di football dei Baltimore Ravens, capaci di imporsi 35-10 sui quotati Bills.",
+        "Derrick Henry ha firmato una corsa da 87 yard al primo possesso offensivo, terminando la gara con 199 yard e due mete complessive.",
+        "Lamar Jackson ha registrato tre mete totali, mentre Josh Allen è stato limitato senza alcuna meta personale.",
+      ],
+    },
+    pl: {
+      title: "NFL Tydzień 4 SNF: Derrick Henry niszczy Bills, Ravens wygrywają 35-10 z niepokonanym rywalem",
+      subtitle: "Doświadczony running back zdobył 199 jardów biegowych i dwa przyłożenia, w tym 87-jardowy bieg w pierwszej akcji.",
+      excerpt: "Baltimore Ravens rozbili dotąd niepokonanych Buffalo Bills 35-10 dzięki popisowi Derricka Henry'ego i trzem przyłożeniom Lamara Jacksona.",
+      body: [
+        "Mecz Sunday Night Football okazał się popisem siłowego futbolu w wykonaniu gospodarzy z Baltimore.",
+        "Derrick Henry otworzył spotkanie najdłuższym biegiem na przyłożenie w historii Ravens na 87 jardów i zakończył mecz ze 199 jardami na koncie.",
+        "Lamar Jackson kontrolował przebieg meczu podaniami, podczas gdy defensywa Ravens kompletnie zneutralizowała Josha Allena.",
+      ],
+    },
+    zh: {
+      title: "NFL第四周周日夜赛：亨利狂砍199码两达阵，乌鸦35-10大胜送比尔赛季首败",
+      subtitle: "亨利开场首档进攻即狂奔87码达阵创队史纪录，杰克逊独造三达阵打崩比尔防线",
+      excerpt: "巴尔的摩乌鸦在周日夜赛展现统治力，亨利爆砍199码领衔地面风暴，以35-10送此前三连胜的水牛城比尔首场惨败。",
+      body: [
+        "在M&T银行体育场，巴尔的摩乌鸦打出了一场教科书级别的路面进攻碾压局，35-10痛击水牛城比尔。",
+        "德里克·亨利在开场第一档进攻中便完成87码惊天长途奔袭达阵，全场狂揽199码冲球及两记达阵。",
+        "四分卫拉马尔·杰克逊传冲结合贡献三达阵，而乌鸦防守组完成三次擒杀并让阿伦全场零达阵入账。",
+      ],
+    },
+    ja: {
+      title: "NFL第4週SNF：デリック・ヘンリーが199ヤード激走、レイブンズが開幕3連勝のビルズを35-10で粉砕",
+      subtitle: "開始早々に87ヤードの独走TDランを披露、ラマー・ジャクソンも3TDで攻守に圧倒",
+      excerpt: "デリック・ヘンリーが199ラン獲得ヤードと2TDを記録し、ボルティモア・レイブンズが無敗のバッファロー・ビルズを35-10で撃破した。",
+      body: [
+        "全米注目のサンデーナイトフットボールは、ボルティモア・レイブンズの圧倒的なランオフェンス劇となりました。",
+        "ヘンリーは試合最初のプレーで球団記録となる87ヤードTDランを決め、計199ヤードを荒稼ぎしました。",
+        "ラマー・ジャクソンが3つのタッチダウンに関与する一方、レイブンズ守備陣はジョシュ・アレンを完全に封じ込めました。",
+      ],
+    },
+    ko: {
+      title: "NFL 4주차 SNF: 데릭 헨리 199야드 폭주, 레이븐스가 무패 빌스를 35-10으로 완파",
+      subtitle: "첫 공격에서 87야드 터치다운 질주 성공, 라마 잭슨 3TD 합작하며 완승 견인",
+      excerpt: "볼티모어 레이븐스가 데릭 헨리의 199 러싱 야드 2TD 맹활약에 힘입어 무패 행진을 달리던 버팔로 빌스를 35-10으로 제압했다.",
+      body: [
+        "M&T 뱅크 스타디움에서 열린 일요 야간 경기에서 볼티모어 레이븐스가 버팔로를 완벽하게 제압했습니다.",
+        "데릭 헨리는 팀의 첫 공격 플레이에서 구단 역사상 최장인 87야드 터치다운 러시를 터뜨리는 등 199 러싱 야드를 쓸어담았습니다.",
+        "잭슨의 효율적인 패스와 강력한 수비진의 압박에 조시 앨런은 단 하나의 터치다운도 기록하지 못하고 완패했습니다.",
+      ],
+    },
+    ar: {
+      title: "دوري كرة القدم الأمريكية الأسبوع 4: ديريك هنري يتألق وري Raven يسحق بيلز 35-10",
+      subtitle: "النجم المخضرم يسجل 199 ياردة اندفاعية وهبوطين أحدهما من ركضة تاريخية لمسافة 87 ياردة.",
+      excerpt: "فاز بالتيمور ريفنز بنتيجة عريضة 35-10 على بافلو بيلز الذي تلقى خسارته الأولى بفضل أداء خارق من ديريك هنري ولمار جاكسون.",
+      body: [
+        "لقن فريق بالتيمور ريفنز منافسه بافلو بيلز درسا كرويا قاسيا بالفوز عليه 35-10 في ختام الأسبوع الرابع.",
+        "وانطلق ديريك هنري في أول لعبة هجومية ليركض 87 ياردة نحو منطقة الهبوط محققا رقما قياسيا في تاريخ النادي ومسجلا 199 ياردة في اللقاء.",
+        "وأحكم دفاع ريفنز الخناق على جوش ألين وحرمه من تسجيل أي هبوط طوال فترات المواجهة.",
+      ],
+    },
+  },
+  'wnba-semifinals-game1-liberty-lynx-take-leads-2026': {
+    fr: {
+      title: "Demi-finales WNBA Match 1 : Breanna Stewart porte le Liberty, Napheesa Collier et les Lynx résistent au Fever",
+      subtitle: "New York domine Las Vegas 87-77 avec 34 points de Stewart tandis que Minnesota bat Indiana 88-82.",
+      excerpt: "Breanna Stewart a marqué 34 points pour guider New York vers la victoire contre les Aces, tandis que Napheesa Collier a scellé le succès des Lynx face à Caitlin Clark.",
+      body: [
+        "L'ouverture des demi-finales WNBA a tenu toutes ses promesses dimanche à Brooklyn et Minneapolis.",
+        "Au Barclays Center, Breanna Stewart a été impériale avec 34 points pour infliger une défaite 87-77 aux doubles championnes en titre de Las Vegas.",
+        "Au Target Center, Minnesota s'est imposé 88-82 face à Indiana malgré les 22 points et 9 passes de Caitlin Clark, grâce à un grand match de Collier (28 points).",
+      ],
+    },
+    es: {
+      title: "Semifinales WNBA Partido 1: Breanna Stewart lidera al Liberty, Collier y las Lynx frenan al Fever",
+      subtitle: "New York supera 87-77 a Las Vegas con 34 puntos de Stewart, mientras Minnesota vence 88-82 a Indiana.",
+      excerpt: "Breanna Stewart brilló con 34 puntos en el triunfo de New York sobre las Aces, mientras Napheesa Collier guio a Minnesota ante Caitlin Clark.",
+      body: [
+        "El inicio de las semifinales de la WNBA brindó una jornada apasionante en Nueva York y Mineápolis.",
+        "Stewart comandó a las Liberty con 34 puntos y 8 rebotes para superar a A'ja Wilson y a las Aces por 87-77.",
+        "En el Target Center, las Lynx aguantaron el empuje final de Caitlin Clark y sellaron el 88-82 con 28 puntos de Collier.",
+      ],
+    },
+    de: {
+      title: "WNBA-Halbfinale Spiel 1: Breanna Stewart führt Liberty an, Collier und Lynx stoppen das Fever",
+      subtitle: "New York schlägt Las Vegas mit 87:77 dank 34 Stewart-Punkten, Minnesota siegt 88:82 gegen Indiana.",
+      excerpt: "Breanna Stewart überragte mit 34 Punkten beim Liberty-Sieg über die Aces, während Napheesa Collier die Lynx zum 88:82-Auftaktsieg führte.",
+      body: [
+        "Der Auftakt der WNBA-Halbfinals bot hochklassigen Basketball in Brooklyn und Minneapolis.",
+        "Stewart war beim 87:77-Erfolg der Liberty über die Aces mit 34 Punkten die dominierende Spielerin auf dem Parkett.",
+        "Minnesota wehrte einen späten Sturmlauf von Caitlin Clark (22 Punkte, 9 Assists) ab und gewann dank Napheesa Colliers 28 Punkten mit 88:82.",
+      ],
+    },
+    it: {
+      title: "Semifinali WNBA Gara 1: Breanna Stewart trascina le Liberty, Collier e le Lynx domano le Fever",
+      subtitle: "New York supera Las Vegas 87-77 con 34 punti di Stewart, Minnesota batte Indiana 88-82.",
+      excerpt: "Breanna Stewart ha incantato con 34 punti nella vittoria delle Liberty sulle Aces, mentre Napheesa Collier ha guidato le Lynx contro Caitlin Clark.",
+      body: [
+        "Gara 1 delle semifinali WNBA ha regalato emozioni fortissime sia a New York che a Minneapolis.",
+        "Le New York Liberty hanno battuto le bi-campionesse Las Vegas Aces per 87-77 grazie a una straordinaria Stewart da 34 punti.",
+        "Le Lynx hanno resistito al ritorno di Caitlin Clark nel finale vincendo 88-82 con 28 punti di Napheesa Collier.",
+      ],
+    },
+    pl: {
+      title: "Półfinały WNBA Mecz 1: Breanna Stewart prowadzi Liberty, Collier i Lynx powstrzymują Fever",
+      subtitle: "New York pokonuje Las Vegas 87-77 dzięki 34 punktom Stewart, Minnesota wygrywa z Indianą 88-82.",
+      excerpt: "Breanna Stewart rzuciła 34 punkty w wygranym meczu z Aces, a Napheesa Collier poprowadziła Lynx do triumfu nad Caitlin Clark i Fever.",
+      body: [
+        "Początek półfinałów WNBA przyniósł kapitalne mecze na parkietach w Nowym Jorku i Minneapolis.",
+        "W Barclays Center Breanna Stewart rozegrała znakomity mecz z 34 punktami, prowadząc Liberty do triumfu 87-77 nad Las Vegas Aces.",
+        "W Target Center Minnesota Lynx utrzymała przewagę i wygrała 88-82 mimo 22 punktów i 9 asyst debiutującej w fazie play-off Caitlin Clark.",
+      ],
+    },
+    zh: {
+      title: "WNBA半决赛G1：斯图尔特狂轰34分自由人拔头筹，科利尔28分山猫力克狂热",
+      subtitle: "纽约自由人87-77击退王牌，明尼苏达山猫88-82险胜克拉克领衔的狂热占得先机",
+      excerpt: "斯图尔特砍下34分带领自由人主场击败卫冕冠军王牌，科利尔拿下28分助山猫末节阻击克拉克的狂轰滥炸。",
+      body: [
+        "2026年WNBA半决赛周日打响，纽约自由人与明尼苏达山猫双双守卫主场取得系列赛1-0领先。",
+        "斯图尔特在巴克莱中心独得34分8篮板，帮助自由人87-77力克两连冠的拉斯维加斯王牌。",
+        "在标靶中心，尽管克拉克贡献22分9助攻并在末节扳平比分，科利尔用关键防守和28分锁定胜局，山猫88-82惊险过关。",
+      ],
+    },
+    ja: {
+      title: "WNBA準決勝第1戦：スチュワートが34得点でリバティを牽引、コリアーとリンクスがフィーバーを撃破",
+      subtitle: "ニューヨークが87-77でエースズに先勝、ミネソタはクラークの猛追を振り切り88-82で勝利",
+      excerpt: "ブレアナ・スチュワートが34得点を奪いリバティがエースズを下し、ナフィーサ・コリアーが28得点でリンクスを白星発進に導いた。",
+      body: [
+        "WNBAセミファイナル第1戦は、ブルックリンとミネアポリスで熱狂的な名勝負となりました。",
+        "リバティのスチュワートは34得点・8リバウンドの大活躍で連覇中のラスベガス・エースズを87-77で圧倒しました。",
+        "リンクスはケイトリン・クラークの22得点9アシストに苦しみながらも、コリアーの攻守にわたる活躍で88-82で逃げ切りました。",
+      ],
+    },
+    ko: {
+      title: "WNBA 4강 1차전: 브리아나 스튜어트 34점 폭발 리버티 선승, 콜리어의 링스 피버 제압",
+      subtitle: "뉴욕이 87-77로 에이시스를 완파하고, 미네소타는 클라크의 맹추격을 따돌리며 88-82 승리",
+      excerpt: "스튜어트가 34점을 퍼부으며 리버티를 승리로 이끌었고, 나피사 콜리어가 28점을 올리며 인디애나 피버를 꺾었다.",
+      body: [
+        "WNBA 플레이오프 준결승 1차전 더블헤더에서 홈팀 뉴욕 리버티와 미네소타 링스가 나란히 1승을 챙겼습니다.",
+        "바클레이스 센터에서 스튜어트는 34점을 기록하며 지난 시즌 챔피언 라스베이거스를 87-77로 잠재웠습니다.",
+        "타깃 센터에서는 케이틀린 클라크가 22점 9어시스트로 분전했으나 콜리어의 클러치 활약에 힘입은 링스가 88-82로 승리했습니다.",
+      ],
+    },
+    ar: {
+      title: "نصف نهائي دوري السيدات لكرة السلة المباراة 1: ستيوارت تقود ليبرتي للفوز وكولير تمنح لينكس التقدم",
+      subtitle: "نيويورك تهزم لاس فيغاس 87-77 بفضل 34 نقطة لستيوارت ومينيسوتا تتفوق على إنديانا 88-82.",
+      excerpt: "تألقت بريانا ستيوارت بـ34 نقطة لتقود ليبرتي للفوز على إيسيز، بينما حسمت نافيسا كولير مواجهة لينكس ضد كايتلين كلارك وفريق فيفر.",
+      body: [
+        "انطلقت منافسات نصف نهائي دوري السلة الأمريكي للسيدات بإثارة كبرى في نيويورك ومينيابوليس.",
+        "سجلت بريانا ستيوارت 34 نقطة لتمنح نيويورك الفوز 87-77 على بطلات العامين الماضيين لاس فيغاس إيسيز.",
+        "وفي مينيابوليس، صمدت لينكس أمام محاولات كايتلين كلارك لتفوز بنتيجة 88-82 بعد تسجيل كولير 28 نقطة حاسمة.",
+      ],
+    },
+  },
+  'premier-league-mw7-brighton-stun-tottenham-3-2-comeback-2026': {
+    fr: {
+      title: "Premier League 7e j. : Brighton renverse Tottenham 3-2 après avoir été mené de deux buts",
+      subtitle: "Les Seagulls signent une remontée héroïque en seconde période grâce à Minteh, Rutter et un coup de tête de Danny Welbeck.",
+      excerpt: "Mené 2-0 à la pause, Brighton a renversé Tottenham 3-2 à l'Amex Stadium grâce à trois buts en 18 minutes pour s'installer à la quatrième place.",
+      body: [
+        "L'Amex Stadium a vécu une après-midi mémorable lors de la 7e journée de Premier League avec l'incroyable retour de Brighton face à Tottenham.",
+        "Devant 2-0 à la mi-temps grâce à Johnson et Maddison, les Spurs se sont effondrés face au pressing étouffant des hommes de Fabian Hürzeler.",
+        "Minteh, Rutter et Welbeck ont marqué en l'espace de 18 minutes, permettant aux Seagulls de grimper au 4e rang du championnat avec 14 points.",
+      ],
+    },
+    es: {
+      title: "Premier League Jornada 7: Brighton remonta un 0-2 y tumba 3-2 al Tottenham en un segundo tiempo colosal",
+      subtitle: "Los Seagulls voltean el partido con dianas de Minteh, Rutter y un cabezazo letal de Danny Welbeck.",
+      excerpt: "Brighton & Hove Albion firmó una remontada histórica en el Amex Stadium, marcando tres goles en 18 minutos para derrotar 3-2 al Tottenham.",
+      body: [
+        "El conjunto de Fabian Hürzeler protagonizó una reacción para el recuerdo tras marcharse al descanso con dos goles de desventaja.",
+        "Minteh recortó distancias al 48, Rutter empató en una gran acción individual al 58 y Welbeck culminó la gesta de cabeza en el 66.",
+        "El triunfo catapulta al Brighton a la cuarta posición con 14 puntos, mientras los Spurs de Postecoglou caen a la zona baja.",
+      ],
+    },
+    de: {
+      title: "Premier League 7. Spieltag: Brighton schockt Tottenham mit 3:2-Comeback nach 0:2-Rückstand",
+      subtitle: "Seagulls drehen das Spiel binnen 18 Minuten durch Minteh, Rutter und Welbecks Kopfballtreffer.",
+      excerpt: "Nach 0:2-Pausenrückstand drehte Brighton die Partie gegen Tottenham Hotspur im Amex Stadium und siegte spektakulär mit 3:2.",
+      body: [
+        "Das Team von Fabian Hürzeler zeigte im heimischen Amex Stadium eine der bemerkenswertesten Aufholjagden der jüngeren Premier-League-Geschichte.",
+        "Tottenham führte zur Pause verdient 2:0, brach aber nach der Halbzeit unter dem Dauerpressing der Seagulls völlig ein.",
+        "Yankuba Minteh, Georginio Rutter und Danny Welbeck schossen Brighton mit drei Toren in 18 Minuten auf Tabellenplatz vier.",
+      ],
+    },
+    it: {
+      title: "Premier League 7ª giornata: Il Brighton rimonta due gol e batte il Tottenham 3-2 in 18 minuti",
+      subtitle: "I Seagulls ribaltano il doppio svantaggio con le reti di Minteh, Rutter e il colpo di testa di Welbeck.",
+      excerpt: "Sotto 2-0 all'intervallo, il Brighton ha travolto il Tottenham all'Amex Stadium con tre reti nella ripresa volando al quarto posto.",
+      body: [
+        "L'Amex Stadium è esploso di gioia per la clamorosa rimonta del Brighton contro il Tottenham di Postecoglou.",
+        "Sotto di due reti dopo i gol di Johnson e Maddison, i padroni di casa hanno pareggiato con Minteh e Rutter prima del gol vittoria di Danny Welbeck al 66'.",
+        "Con questo 3-2 la formazione guidata da Hürzeler sale al quarto posto a quota 14 punti, lasciando gli Spurs nei bassifondi.",
+      ],
+    },
+    pl: {
+      title: "Premier League 7. kolejka: Brighton odrabia dwa gole i sensacyjnie pokonuje Tottenham 3-2",
+      subtitle: "Mewy odwróciły losy meczu w 18 minut drugiej połowy po trafieniach Minteha, Ruttera i Welbecka.",
+      excerpt: "Przegrywając 0-2 do przerwy, Brighton strzeliło trzy gole w drugiej części gry i wygrało z Tottenhamem 3-2 na Amex Stadium.",
+      body: [
+        "Niedzielne spotkanie na Amex Stadium przyniosło jeden z najbardziej spektakularnych powrotów w tym sezonie Premier League.",
+        "Tottenham kontrolował grę w pierwszej połowie, jednak po przerwie piłkarze Fabiana Hürzelera ruszyli do wściekłego ataku.",
+        "Gole Minteha, Ruttera oraz zwycięska główka Welbecka w 66. minucie zapewniły Brighton awans na czwarte miejsce w tabeli.",
+      ],
+    },
+    zh: {
+      title: "英超第7轮：布莱顿下半场18分钟连入三球3-2史诗逆转热刺，升至积分榜第四",
+      subtitle: "海鸥军团半场两球落后上演绝地反击，明特、鲁特尔破门，维尔贝克头槌打入制胜球",
+      excerpt: "布莱顿在主场Amex球场上演惊天逆转，下半场由明特、鲁特尔和维尔贝克连入三球，3-2逆转战胜托特纳姆热刺。",
+      body: [
+        "布莱顿在主场奉献了一场英超经典逆转战，在半场0-2落后的绝境中连扳三球击溃热刺。",
+        "下半场开场仅18分钟内，明特扳回一城，鲁特尔强行突入禁区扳平，随后维尔贝克力压防守队员头球破门反超比分。",
+        "这场胜利让许尔策勒的球队以14分高居联赛第四位，而波斯特科格鲁的热刺则继续深陷危机。",
+      ],
+    },
+    ja: {
+      title: "プレミアリーグ第7節：ブライトンが後半18分間で3発の大逆転、トッテナムを3-2で撃破し4位浮上",
+      subtitle: "0-2の劣勢からミンテー、ルッター、ウェルベックの電光石火の3ゴールでAmexスタジアム熱狂",
+      excerpt: "前半に2点を先行されたブライトンが後半に怒涛の反撃を見せ、トッテナムに3-2で逆転勝利を収めた。",
+      body: [
+        "Amexスタジアムで行われた一戦で、ブライトンがクラブ史に残る劇的な逆転劇を演じました。",
+        "前半を0-2で終えたブライトンでしたが、後半開始直後にミンテーが1点を返すと、ルッターとウェルベックが立て続けにゴールを奪いました。",
+        "この3-2の勝利により、ヒュルツェラー率いるブライトンは勝ち点を14に伸ばし単独4位に浮上しました。",
+      ],
+    },
+    ko: {
+      title: "프리미어리그 7라운드: 브라이턴, 0-2 열세 딛고 후반 18분 만에 3골 폭풍 몰아치며 토트넘 3-2 격파",
+      subtitle: "민테, 뤼터, 웰벡의 연속골로 아멕스 스타디움에서 역대급 대역전승 완성하며 4위 도약",
+      excerpt: "전반을 0-2로 뒤지던 브라이턴이 후반 대반격에 나서며 토트넘을 3-2로 꺾고 승점 14점으로 4위에 올랐다.",
+      body: [
+        "아멕스 스타디움에서 열린 경기에서 브라이턴이 토트넘을 상대로 짜릿한 후반 대역전 드라마를 완성했습니다.",
+        "토트넘의 존슨과 매디슨에게 연속골을 내줬던 브라이턴은 후반 시작과 함께 민테, 뤼터, 웰벡이 18분 만에 3골을 합작했습니다.",
+        "이 승리로 휠첼러 감독의 브라이턴은 4승 2무 1패(승점 14)를 기록하며 4위로 올라섰습니다.",
+      ],
+    },
+    ar: {
+      title: "الدوري الإنجليزي الجولة 7: برايتون يقلب تأخره بهدفين ويهزم توتنهام 3-2 في شوط ثان إعجازي",
+      subtitle: "طيور النورس تقلب الطاولة بثلاثية في 18 دقيقة عبر مينته وروتر ورأسية حاسمة لداني ويلبيك.",
+      excerpt: "نجح برايتون في تحقيق عودة تاريخية على ملعب أميكس بتحويل تأخره 0-2 أمام توتنهام إلى فوز مثير 3-2 ليصعد للمركز الرابع.",
+      body: [
+        "عاش ملعب أميكس أجواء جنونية بعدما حول برايتون تأخره بهدفين نظيفين في الشوط الأول إلى فوز تاريخي بنتيجة 3-2.",
+        "وسجل أصحاب الأرض ثلاثة أهداف متتالية خلال 18 دقيقة فقط عن طريق مينته وروتر ورأسية رائعة من المهاجم داني ويلبيك.",
+        "ورفع برايتون رصيده إلى 14 نقطة ليصعد إلى المركز الرابع في جدول ترتيب الدوري الإنجليزي الممتاز.",
+      ],
+    },
+  },
 };
+
 
 

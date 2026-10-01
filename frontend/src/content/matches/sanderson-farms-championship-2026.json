@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "Keith Mitchell fired an 8-under 64 on Moving Day, rolling in nine birdies to take the 54-hole lead at 20-under 199.",
-    "Beau Hossler recorded four birdies in a bogey-free 68 to stay within one shot of the lead at 19-under.",
-    "Defending champion Kevin Yu posted a 5-under 67 to remain in title contention at 15-under par."
+    "Kevin Yu became the third player from Chinese Taipei to win on the PGA Tour, joining T.C. Chen and C.T. Pan.",
+    "Yu birdied the par-4 18th hole twice in the span of 30 minutes, first to force a playoff and then to win it.",
+    "Beau Hossler suffered his second career playoff heartbreak on the PGA Tour despite carding four rounds in the 60s."
   ],
   "keyPlayers": [
     {
-      "name": "Keith Mitchell",
+      "name": "Kevin Yu",
       "team": "PGA Tour",
-      "hook": "Charged into the solo lead with a flawless 64, leading the field in strokes gained off-the-tee and putting."
+      "hook": "Carded a 5-under 67 on Sunday and sealed his breakthrough victory with a 5-foot birdie putt on the first extra hole."
     },
     {
       "name": "Beau Hossler",
       "team": "PGA Tour",
-      "hook": "Maintained composure with a solid 68 to sit solo second at 19-under, seeking his maiden PGA Tour title."
+      "hook": "Fought gallantly with a final-round 68 to reach 23-under, falling just short on the playoff hole."
     }
   ],
   "headToHead": "",
@@ -22,7 +22,8 @@
     "pga-tour",
     "sanderson-farms",
     "fedexcup-fall",
-    "jackson"
+    "jackson",
+    "kevin-yu"
   ],
   "homeCode": null,
   "awayCode": null,
@@ -36,50 +37,50 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Round 3 · Mitchell Surges to -20",
-  "resultSummary": "Round 3: Keith Mitchell leads at -20 (199) after firing 64; Beau Hossler sits second at -19 (197); Kevin Yu and Lucas Glover tied third at -15 (201)",
+  "roundLabel": "Final Round · Kevin Yu Wins in Sudden-Death Playoff",
+  "resultSummary": "Playoff: Kevin Yu birdies 1st extra hole (18) to defeat Beau Hossler after both tied at -23 (265); Keith Mitchell and Lucas Glover finish T3 at -22 (266)",
   "leaderboard": [
     {
       "pos": "1",
-      "name": "Keith Mitchell",
-      "score": "-20 (68-67-64=199)",
-      "note": "Leader (-8 on day)"
+      "name": "Kevin Yu",
+      "score": "-23 (66-66-66-67=265)",
+      "note": "Playoff Winner"
     },
     {
       "pos": "2",
       "name": "Beau Hossler",
-      "score": "-19 (65-64-68=197)",
-      "note": "1 back"
+      "score": "-23 (65-64-68-68=265)",
+      "note": "Playoff Runner-up"
     },
     {
       "pos": "T3",
-      "name": "Kevin Yu",
-      "score": "-15 (68-66-67=201)",
-      "note": "Defending Champion"
+      "name": "Keith Mitchell",
+      "score": "-22 (68-67-64-67=266)",
+      "note": "T3"
     },
     {
       "pos": "T3",
       "name": "Lucas Glover",
-      "score": "-15 (67-67-67=201)",
-      "note": "In Clubhouse"
+      "score": "-22 (67-67-67-65=266)",
+      "note": "T3"
     },
     {
       "pos": "5",
       "name": "Daniel Berger",
-      "score": "-14 (65-65-72=202)",
-      "note": "In Clubhouse"
+      "score": "-20 (65-65-72-66=268)",
+      "note": "5th"
     },
     {
       "pos": "6",
       "name": "Chesson Hadley",
-      "score": "-13 (66-67-70=203)",
-      "note": "In Clubhouse"
+      "score": "-19 (66-67-70-66=269)",
+      "note": "6th"
     }
   ],
   "tennisSets": [],
   "sources": [
     {
-      "name": "PGA Tour: Sanderson Farms Championship Round 3 leaderboard",
+      "name": "PGA Tour: Kevin Yu earns maiden PGA Tour victory in Sanderson Farms playoff",
       "url": "https://www.pgatour.com/tournaments/2026/sanderson-farms-championship/R2026054"
     },
     {
@@ -87,7 +88,7 @@
       "url": "https://sandersonfarmschampionship.com/"
     },
     {
-      "name": "Golfweek: Mitchell rockets into 54-hole lead in Jackson",
+      "name": "Golfweek: Kevin Yu claims breakthrough playoff win in Jackson",
       "url": "https://golfweek.usatoday.com/category/pga-tour/"
     }
   ],
@@ -95,19 +96,19 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "sanderson-farms-championship-2026",
-  "headline": "Sanderson Farms: Keith Mitchell fires 64 to seize 54-hole lead at 20-under in Jackson",
-  "whyCareScore": 9.3,
-  "whyCareReason": "Keith Mitchell unleashes an eight-birdie barrage on Moving Day to take a one-stroke lead over Beau Hossler heading into a high-stakes Sunday showdown.",
-  "teaser": "Saturday at Country Club of Jackson: Mitchell cards 64 to surge to 20-under. 36-hole leader Hossler stays in contention at -19, with defending champion Kevin Yu lurking at -15.",
-  "story": "Why this one matters: Moving Day at the Sanderson Farms Championship turned into a putting clinic as Keith Mitchell surged from the chasing pack into the solo 54-hole lead at Country Club of Jackson.\n\nMitchell posted a sensational 8-under-par 64 on Saturday, highlighted by five birdies on the front nine and an immaculate display off the tee. The 32-year-old sits at 20-under 199, aiming for his second career PGA Tour victory.\n\nOvernight leader Beau Hossler refused to buckle, shooting a bogey-free 68 to stay right on Mitchell's heels at 19-under par. Meanwhile, defending champion Kevin Yu fired a 67 to join former US Open winner Lucas Glover at 15-under. With 500 FedExCup Fall points and two-year tour exemptions on the line, Sunday promises an electric shootout in Mississippi.",
-  "stakes": "FedExCup Fall points, PGA Tour winner exemptions through 2028, and coveted invitations to the 2027 Masters and PGA Championship.",
-  "rivalryAngle": "Mitchell's explosive ball-striking collides with Hossler's putting touch in a tense Sunday final pairing.",
-  "home": "Country Club of Jackson",
-  "away": "PGA Tour Field",
-  "group": "PGA",
-  "date": "2026-10-03",
-  "time": "14:00",
-  "venue": "Country Club of Jackson",
+  "headline": "Sanderson Farms: Kevin Yu birdies 18th in playoff to defeat Beau Hossler for maiden PGA Tour title",
+  "whyCareScore": 9.5,
+  "whyCareReason": "Kevin Yu delivers clutch birdies on the 72nd hole and first playoff hole to capture his first career PGA Tour victory in dramatic style at Jackson.",
+  "teaser": "Sunday at Country Club of Jackson: Kevin Yu shoots a final-round 67 to tie Beau Hossler at 23-under, then drains a five-foot birdie putt on the 18th in sudden death.",
+  "story": "Why this one matters: The FedExCup Fall season produced unforgettable drama in Mississippi as 26-year-old Kevin Yu secured his maiden PGA Tour championship with back-to-back clutch birdies on the 18th hole at the Country Club of Jackson.\n\nTrailing Beau Hossler by one shot standing on the 72nd tee, Yu stuck his approach to six feet and calmly poured in the birdie putt for a 5-under 67, matching Hossler (68) at 23-under 265. 54-hole leader Keith Mitchell had a 35-foot birdie attempt on the final green to join the playoff, but watched his effort roll inches by the cup to finish tied for third with Lucas Glover at 22-under.\n\nReturning to the 18th tee for the sudden-death playoff, Yu striped a 310-yard drive down the center fairway and hit a gorgeous 110-yard wedge to within five feet. When Hossler failed to convert his 20-footer, Yu stepped up and rolled in the winning putt, unleashing a celebratory fist pump and earning a two-year PGA Tour exemption along with invitations to the Masters and PGA Championship.",
+  "stakes": "Maiden PGA Tour title, 500 FedExCup Fall points, $1.44 million winner's check, and a two-year exemption through 2028.",
+  "rivalryAngle": "Yu outduels Hossler in sudden death after both players matched each other shot-for-shot over 72 regulation holes.",
+  "home": "Kevin Yu",
+  "away": "Beau Hossler",
+  "group": "PGA Tour",
+  "date": "2026-10-04",
+  "time": "18:00",
+  "venue": "The Country Club of Jackson",
   "city": "Jackson, Mississippi",
   "status": "FINISHED",
   "sport": "golf",

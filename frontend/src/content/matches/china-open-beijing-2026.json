@@ -1,28 +1,30 @@
 {
   "funFacts": [
-    "Carlos Alcaraz won 82% of first-serve points to defeat Daniil Medvedev in straight sets and reach his first China Open final.",
-    "Jannik Sinner extended his winning streak to 15 matches by dispatching home favorite Bu Yunchaokete 6-3, 7-6(3).",
-    "Alcaraz and Sinner will contest their tenth career ATP Tour meeting in Sunday's championship final."
+    "Carlos Alcaraz became the first player in ATP Tour history to win ATP 500 titles across hard, clay, and grass surfaces in the same calendar year.",
+    "Alcaraz trailed 0-3 in the deciding set tiebreak before reeling off seven consecutive points to seal the championship in three hours and 21 minutes.",
+    "Jannik Sinner's 15-match winning streak came to an end in the longest men's singles final ever staged at the China Open."
   ],
   "keyPlayers": [
     {
       "name": "Carlos Alcaraz",
       "team": "ATP",
-      "hook": "Struck 28 winners in a commanding 7-5, 6-3 semifinal victory over Daniil Medvedev on Diamond Court."
+      "hook": "Produced 55 winners and swept seven straight points in the final-set tiebreak to secure the Beijing title."
     },
     {
       "name": "Jannik Sinner",
       "team": "ATP",
-      "hook": "Defending champion weathered Bu Yunchaokete's spirited charge to seal a 6-3, 7-6(3) semifinal win."
+      "hook": "World No. 1 fought fiercely across three sets, saving break points with clutch serving before succumbing in the final tiebreak."
     }
   ],
-  "headToHead": "Alcaraz extends his ATP head-to-head advantage over Medvedev to 6-2 with three straight wins.",
+  "headToHead": "Alcaraz leads Sinner 6-4 in their career head-to-head series, having won all three meetings in 2026.",
   "tags": [
     "tennis",
     "atp",
     "wta",
     "china-open",
-    "beijing"
+    "beijing",
+    "alcaraz",
+    "sinner"
   ],
   "homeCode": null,
   "awayCode": null,
@@ -36,49 +38,53 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Semi-finals · Alcaraz & Sinner Set Dream Final",
-  "resultSummary": "Alcaraz def. Medvedev 7-5, 6-3; Sinner def. Bu 6-3, 7-6(3); Muchova def. Sabalenka 7-6, 2-6, 6-4; Gauff advances",
+  "roundLabel": "Championship Final · Alcaraz Outlasts Sinner in 3h21m Epic",
+  "resultSummary": "Alcaraz def. Sinner 6-7(6), 6-4, 7-6(3); Gauff def. Muchova 6-1, 6-3",
   "leaderboard": [],
   "tennisSets": [
     {
-      "p1": "7",
-      "p2": "5"
+      "p1": "6",
+      "p2": "7"
     },
     {
       "p1": "6",
-      "p2": "3"
+      "p2": "4"
+    },
+    {
+      "p1": "7",
+      "p2": "6"
     }
   ],
   "sources": [
     {
-      "name": "ATP Tour: Alcaraz and Sinner set up blockbuster Beijing final",
+      "name": "ATP Tour: Alcaraz beats Sinner in epic Beijing final",
       "url": "https://www.atptour.com/en/tournaments/beijing/747/overview"
     },
     {
-      "name": "WTA Tennis: China Open semifinals and tournament report",
+      "name": "WTA Tennis: China Open final and tournament wrap",
       "url": "https://www.wtatennis.com/tournament/1020/beijing"
     },
     {
-      "name": "China Open official portal: Semifinals results",
-      "url": "http://www.chinaopen.com/en/"
+      "name": "BBC Sport: Alcaraz edges Sinner in thrilling China Open final",
+      "url": "https://www.bbc.co.uk/sport/tennis"
     }
   ],
   "format": "team-match",
   "homeScore": null,
   "awayScore": null,
   "slug": "china-open-beijing-2026",
-  "headline": "China Open: Alcaraz sweeps Medvedev and Sinner defeats Bu to set up dream Beijing final",
-  "whyCareScore": 9.7,
-  "whyCareReason": "Carlos Alcaraz and Jannik Sinner deliver clinical semifinal performances on Diamond Court to set up tennis's ultimate modern title collision.",
-  "teaser": "Saturday at National Tennis Center: Alcaraz beats Medvedev 7-5, 6-3; Sinner overcomes Bu 6-3, 7-6(3) as the world's top two young titans book a championship date.",
-  "story": "Why this one matters: Saturday's semifinal action at the China Open delivered the exact outcome tennis fans across the globe craved, locking Carlos Alcaraz and Jannik Sinner into a heavyweight final showdown in Beijing.\n\nAlcaraz stepped onto Diamond Court first and dismantled former US Open champion Daniil Medvedev 7-5, 6-3. Displaying breathtaking versatility with heavy forehands and deft drop shots, the 21-year-old Spaniard broke Medvedev three times and never lost control of the tempo, advancing to his fifth tour final of 2026.\n\nIn the evening session, World No. 1 and defending champion Jannik Sinner handled a fired-up home crowd supporting China's Bu Yunchaokete. Sinner stayed ice-cold in the key moments, firing 24 winners and closing out a 6-3, 7-6(3) win. Sunday will witness the tenth chapter of the sport's greatest modern rivalry.",
-  "stakes": "The ATP 500 title, 500 ranking points in the ATP Race to Turin, and head-to-head supremacy between the sport's top two stars.",
-  "rivalryAngle": "Alcaraz leads Sinner 5-4 in their epic head-to-head series, with Sunday marking their first clash since Roland Garros.",
+  "headline": "China Open Final: Carlos Alcaraz outlasts Jannik Sinner in 3h21m epic to claim Beijing crown",
+  "whyCareScore": 9.9,
+  "whyCareReason": "Carlos Alcaraz and Jannik Sinner contest a legendary three-hour, 21-minute battle on Diamond Court, with Alcaraz erasing an 0-3 final-set tiebreak deficit to capture his 16th career title.",
+  "teaser": "Sunday at National Tennis Center: Alcaraz defeats Sinner 6-7(6), 6-4, 7-6(3) in the longest final in tournament history, winning seven consecutive points in the deciding tiebreak.",
+  "story": "Why this one matters: Tennis witnessed the definitive match of 2026 on Diamond Court as Carlos Alcaraz and Jannik Sinner pushed physical and psychological limits across three hours and 21 minutes of unyielding combat.\n\nSinner captured a gripping first set in a 70-minute tiebreak, but Alcaraz raised his aggression, breaking in the ninth game of the second set to level the match. In the deciding set, both champions produced world-class defense and explosive shot-making, holding serve through to a dramatic tiebreak. When Sinner sprinted to a 3-0 lead with a blistering mini-break, the title seemed his. Instead, Alcaraz responded with a transcendent seven-point surge, passing Sinner twice at the net and firing a cross-court forehand winner to seal a 6-7(6), 6-4, 7-6(3) triumph.\n\nThe victory marks Alcaraz's fourth title of the year and his sixth career win in ten meetings against the world No. 1.",
+  "stakes": "The China Open ATP 500 trophy, 500 ranking points in the ATP Race to Turin, and modern tennis supremacy.",
+  "rivalryAngle": "Alcaraz now leads Sinner 6-4 in their generational rivalry, completing a clean 3-0 sweep of their encounters in 2026.",
   "home": "Carlos Alcaraz",
-  "away": "Daniil Medvedev",
+  "away": "Jannik Sinner",
   "group": "ATP",
-  "date": "2026-10-03",
-  "time": "14:00",
+  "date": "2026-10-04",
+  "time": "17:00",
   "venue": "National Tennis Center",
   "city": "Beijing",
   "status": "FINISHED",
