@@ -12,7 +12,7 @@ Welcome, AI Coding Agent! This file outlines the architecture, tech stack, rules
 *   **World Cup Archive:** 48 teams, 12 groups, completed 19 July 2026. Spain are champions.
 *   **Sport desks:** mosaic at `/sports`. Unique boards at `/sport/tennis`, `/sport/football`, `/sport/f1`, `/sport/soccer`, `/sport/golf`, `/sport/basketball`. Soccer is one desk, not the default.
 *   **Interactive Features:** Community hype walls, live second-screen companionship, newsletter subscriptions.
-*   **Site clock:** editorial today is `2026-10-02` in `frontend/src/data/sports.ts` (`SITE_TODAY`). NFL Week 4: 49ers hold off Rams 24-20 on Thursday Night Football; UEFA Champions League: Aston Villa stun Bayern Munich 1-0 with Jhon Duran wonder strike; WNBA Semifinals: Lynx-Fever and Aces-Liberty set for Sunday tip-off; China Open: Alcaraz and Sinner advance to Beijing semifinals; Sanderson Farms: Beau Hossler shoots 64 to lead Round 2 at 15-under; Singapore GP: Norris and Leclerc trade fastest laps in Friday practice under Marina Bay lights.
+*   **Site clock:** editorial today is `2026-10-03` in `frontend/src/data/sports.ts` (`SITE_TODAY`). Premier League MW7: Man City rally past Brentford 2-1 to stay perfect at 21 pts, Liverpool edge Palace 1-0; NFL Week 4 SNF: undefeated Bills collide with Lamar Jackson and the Ravens; WNBA Semifinals: eve of Lynx-Fever and Aces-Liberty tip-off; China Open: Alcaraz and Sinner advance to dream Beijing final; Sanderson Farms: Keith Mitchell shoots 64 to take Round 3 lead at 20-under; Singapore GP: Lando Norris storms to pole position at Marina Bay.
 
 ---
 

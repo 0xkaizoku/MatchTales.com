@@ -1,22 +1,22 @@
 {
   "funFacts": [
-    "Manchester City are the only team in the Premier League with a perfect 6-0-0 record.",
-    "Erling Haaland has scored 10 goals in six Premier League matches this season.",
-    "Brentford have remained unbeaten at home across their opening three fixtures."
+    "Manchester City are the only team in the Premier League with a perfect 7-0-0 record (21 points).",
+    "Erling Haaland has scored 11 goals in seven Premier League matches this season.",
+    "Phil Foden registered his first Premier League goal of the campaign to secure all three points."
   ],
   "keyPlayers": [
     {
       "name": "Erling Haaland",
       "team": "Manchester City",
-      "hook": "Lethal Norwegian striker aiming to extend his scoring streak to seven consecutive matches."
+      "hook": "Scored the vital equalizer with a clinical header in the 34th minute, taking his season tally to 11."
     },
     {
-      "name": "Bryan Mbeumo",
-      "team": "Brentford",
-      "hook": "Bees talisman carrying Brentford's counter-attacking threat at Gtech Community Stadium."
+      "name": "Phil Foden",
+      "team": "Manchester City",
+      "hook": "Produced the match-winning strike from the edge of the penalty area in the 68th minute."
     }
   ],
-  "headToHead": "Manchester City did the double over Brentford in 2023-24, though Brentford won both fixtures the season prior.",
+  "headToHead": "Manchester City have won three of their last four meetings against Brentford across all competitions.",
   "tags": [
     "premier-league",
     "manchester-city",
@@ -35,35 +35,35 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026/27",
-  "roundLabel": "Matchweek 7",
-  "resultSummary": "",
+  "roundLabel": "Matchweek 7 · City Stay Perfect",
+  "resultSummary": "Brentford 1-2 Manchester City: Haaland 34', Foden 68' - Mbeumo 19'",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "PremierLeague.com: Matchweek 7 fixture list",
+      "name": "PremierLeague.com: Matchweek 7 scores and table",
       "url": "https://www.premierleague.com/fixtures"
     },
     {
-      "name": "BBC Sport: Premier League preview",
+      "name": "BBC Sport: Manchester City edge Brentford 2-1",
       "url": "https://www.bbc.co.uk/sport/football/premier-league"
     },
     {
-      "name": "Manchester City FC: Brentford preview",
+      "name": "Manchester City FC: Brentford match report",
       "url": "https://www.mancity.com/fixtures/mens"
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 1,
+  "awayScore": 2,
   "slug": "manchester-city-vs-brentford-mw7-2026",
-  "headline": "Brentford vs Manchester City: Haaland aims for seventh straight win in Matchweek 7",
-  "whyCareScore": 9.1,
-  "whyCareReason": "Manchester City seek to maintain their 100% record and protect their three-point lead over Arsenal as Erling Haaland pursues more scoring milestones.",
-  "teaser": "Saturday 3 October, 15:00 at Gtech Community Stadium. Pep Guardiola takes his perfect 6-0-0 leaders to West London for Matchweek 7.",
-  "story": "Why this one matters: Matchweek 7 of the Premier League season sees runaway leaders Manchester City visit Gtech Community Stadium aiming to make it seven wins from seven.\n\nPep Guardiola's side sits alone at the top of the table on 18 points, three clear of second-placed Arsenal. Erling Haaland has been in irrepressible form, scoring 10 goals in six games, including the decisive brace against Newcastle in Matchweek 6.\n\nThomas Frank's Brentford present an awkward challenge on their home turf. With Bryan Mbeumo and Yoane Wissa leading a fast-transition attack, the Bees have repeatedly troubled elite sides in West London. With Arsenal and Liverpool lurking close behind, City cannot afford complacency.",
-  "stakes": "A win maintains City's three-point cushion at the summit; any slip opens the door for Arsenal to draw level.",
-  "rivalryAngle": "Guardiola's relentless machine visits one of the most stubborn tactical setups in the Premier League.",
+  "headline": "Brentford 1-2 Manchester City: Haaland and Foden rally champions to make it seven straight wins",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Manchester City overcome an early deficit to maintain their 100% record with 21 points, keeping Arsenal and Liverpool at bay in the title race.",
+  "teaser": "FINAL: Brentford 1, Manchester City 2. Erling Haaland equalizes and Phil Foden fires the winner as City preserve their perfect record in Matchweek 7.",
+  "story": "Why this one matters: Manchester City preserved their unblemished start to the 2026-27 Premier League campaign with a gritty 2-1 comeback victory over Brentford at Gtech Community Stadium.\n\nBryan Mbeumo stunned the champions inside 19 minutes with a sharp counter-attack finish. City responded with relentless pressure, and Erling Haaland restored parity in the 34th minute, heading home Kevin De Bruyne's pinpoint cross for his 11th goal of the season. In the 68th minute, Phil Foden unlocked the Bees' defense with a crisp low strike from the edge of the box.\n\nThe victory moves Pep Guardiola's side to 21 points from seven matches, keeping their three-point buffer intact after Arsenal defeated Southampton 3-1 and Liverpool edged Crystal Palace 1-0.",
+  "stakes": "City maintain their three-point cushion at the summit of the table with seven consecutive victories.",
+  "rivalryAngle": "Guardiola's relentless machine overcomes another stubborn tactical hurdle in West London.",
   "home": "Brentford",
   "away": "Manchester City",
   "group": "PL",
@@ -71,7 +71,7 @@
   "time": "15:00",
   "venue": "Gtech Community Stadium",
   "city": "London",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "soccer",
   "competition": "premier-league-2026-27"
 }

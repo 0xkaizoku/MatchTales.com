@@ -1,22 +1,22 @@
 {
   "funFacts": [
-    "All four 2026 WNBA opening-round series finished in 2-0 sweeps, an unprecedented postseason feat.",
-    "A'ja Wilson recorded 28 points, 13 rebounds, and 4 blocks to seal the Aces' sweep in Arlington.",
-    "Sabrina Ionescu scored 18 points, including the game-icing three-pointer with 28 seconds left against Golden State."
+    "The 2026 WNBA Semifinals feature four franchises with a combined nine championships over the past two decades.",
+    "Caitlin Clark set a WNBA postseason rookie record with 51 points and 17 assists across her two first-round games.",
+    "A'ja Wilson and Breanna Stewart have split their two previous playoff series encounters (2020 Finals and 2023 Finals)."
   ],
   "keyPlayers": [
     {
-      "name": "A'ja Wilson",
-      "team": "Aces",
-      "hook": "Dominant 28-point, 13-rebound performance to eliminate Dallas on Wednesday night."
+      "name": "Caitlin Clark",
+      "team": "Fever",
+      "hook": "Leads the postseason in scoring efficiency and three-pointers made heading into Target Center."
     },
     {
-      "name": "Breanna Stewart",
-      "team": "Liberty",
-      "hook": "Paced New York with 21 points and 9 boards to sweep the Valkyries at Chase Center."
+      "name": "Napheesa Collier",
+      "team": "Lynx",
+      "hook": "Defensive Player of the Year averaging 38.0 points per game through Minnesota's opening-round sweep."
     }
   ],
-  "headToHead": "All four first-round series concluded in two-game sweeps: Lynx over Mystics, Fever over Dream, Aces over Wings, Liberty over Valkyries.",
+  "headToHead": "The Fever and Lynx split their four regular-season meetings 2-2, while the Liberty won two of three against the Aces.",
   "tags": [
     "wnba",
     "playoffs",
@@ -37,43 +37,43 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Semifinals · Sunday Game 1 Tip-Off",
-  "resultSummary": "Semifinals: No. 1 Lynx vs No. 4 Fever, No. 2 Liberty vs No. 3 Aces. Best-of-five series open Sunday October 4.",
+  "roundLabel": "Semifinals Eve · Sunday Game 1 Tip-Off",
+  "resultSummary": "Semifinals open Sunday 4 October: No. 4 Fever at No. 1 Lynx (Target Center), No. 3 Aces at No. 2 Liberty (Barclays Center)",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "WNBA.com: 2026 playoff bracket and scores",
+      "name": "WNBA.com: 2026 semifinal schedule and match previews",
       "url": "https://www.wnba.com/scores"
     },
     {
-      "name": "ESPN: WNBA semifinal matchups locked and schedule",
+      "name": "ESPN: WNBA final four tactical breakdown and keys to victory",
       "url": "https://www.espn.com/wnba/scoreboard"
     },
     {
-      "name": "The Athletic: WNBA final four tactical breakdown",
+      "name": "The Athletic: Clark vs Collier and Wilson vs Stewart",
       "url": "https://theathletic.com/wnba/playoffs-round-1-sweeps-analysis"
     }
   ],
   "format": "team-match",
-  "homeScore": 74,
-  "awayScore": 88,
+  "homeScore": null,
+  "awayScore": null,
   "slug": "wnba-2026-playoff-field",
-  "headline": "WNBA Semifinals: Lynx-Fever and Aces-Liberty set for Sunday Game 1 tip-off",
-  "whyCareScore": 9.7,
-  "whyCareReason": "Historic sweeps across all four first-round series set up a blockbuster final four: Caitlin Clark meets Napheesa Collier, and A'ja Wilson battles Breanna Stewart in a finals rematch.",
-  "teaser": "Sunday Game 1s: No. 1 Lynx host No. 4 Fever (Target Center), No. 2 Liberty host No. 3 Aces (Barclays Center). Four heavyweights collide in best-of-five semifinals.",
-  "story": "Why this one matters: With four clean sweeps wrapping up Round 1, the 2026 WNBA postseason narrows to a heavyweight final four as teams open Friday media day and game preparation.\n\nAt Target Center, the top-seeded Minnesota Lynx prepare for Caitlin Clark and the surging Indiana Fever. Cheryl Reeve's defense will try to contain Clark's tempo, while Napheesa Collier continues her dominant playoff scoring run.\n\nIn New York, Barclays Center hosts the marquee rematch between the Las Vegas Aces and the New York Liberty. Three-time MVP A'ja Wilson squares off against Breanna Stewart and Sabrina Ionescu in a battle of recent champions with title legacies on the line.",
-  "stakes": "A spot in the 2026 WNBA Finals in two best-of-five series opening Sunday.",
-  "rivalryAngle": "Generational clash: Clark vs the league's top defense, alongside Wilson vs Stewart in a modern rivalry classic.",
-  "home": "Dallas Wings",
-  "away": "Las Vegas Aces",
+  "headline": "WNBA Semifinals Eve: Final Four tactical breakdown as Lynx-Fever and Aces-Liberty prepare for Game 1",
+  "whyCareScore": 9.8,
+  "whyCareReason": "Historic first-round sweeps set up the most star-studded semifinals in league history: Caitlin Clark challenges Minnesota's fortress while the Aces and Liberty renew their heavyweight war.",
+  "teaser": "Saturday practice reports: Fever prepare for Target Center hostile crowd, while Sabrina Ionescu and Breanna Stewart brace for A'ja Wilson's surging Aces on Sunday.",
+  "story": "Why this one matters: Saturday brings the calm before the storm in the WNBA as the four surviving heavyweights complete final walkthroughs ahead of Sunday's Game 1 doubleheader.\n\nIn Minneapolis, Cheryl Reeve and the top-seeded Lynx face the ultimate transition test against Caitlin Clark and the Indiana Fever. Minnesota's league-leading defense, anchored by Defensive Player of the Year Napheesa Collier, will attempt to trap Clark at the logo and force secondary playmakers like Kelsey Mitchell and Aliyah Boston to create.\n\nMeanwhile in New York, the Liberty host the two-time champion Las Vegas Aces in a rematch of the 2023 Finals. Becky Hammon's Aces have found their championship stride behind unanimous MVP A'ja Wilson, while Sandy Brondello's Liberty counter with Breanna Stewart and the electric perimeter shooting of Sabrina Ionescu. A spot in the 2026 Finals awaits the victors in two best-of-five wars.",
+  "stakes": "Game 1 momentum in two best-of-five series that will crown the 2026 WNBA finalists.",
+  "rivalryAngle": "Clark's rapid ascent faces Minnesota's tactical discipline, while Aces vs Liberty defines this era of women's basketball.",
+  "home": "Minnesota Lynx",
+  "away": "Indiana Fever",
   "group": "WNBA",
-  "date": "2026-09-30",
-  "time": "21:00",
-  "venue": "College Park Center",
-  "city": "Arlington",
-  "status": "FINISHED",
+  "date": "2026-10-03",
+  "time": "18:00",
+  "venue": "Target Center",
+  "city": "Minneapolis",
+  "status": "UPCOMING",
   "sport": "basketball",
   "competition": "wnba-2026"
 }

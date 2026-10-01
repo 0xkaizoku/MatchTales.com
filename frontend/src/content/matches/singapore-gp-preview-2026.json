@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "Lando Norris edged Charles Leclerc by just 0.058 seconds in FP2 under the Marina Bay floodlights.",
-    "Ferrari and McLaren occupied the top three spots in both Friday sessions, signaling a fierce street-circuit duel.",
-    "Championship leader Kimi Antonelli logged 28 laps in FP2, focusing primarily on high-fuel race simulations."
+    "Lando Norris secured his fifth pole position of the season with a track record lap of 1:29.525 around Marina Bay.",
+    "Max Verstappen produced a sublime final sector to claim P2 on the grid, just 0.203 seconds off pole.",
+    "Carlos Sainz crashed heavily at Turn 19 during Q3, bringing out a red flag and resigning Ferrari to a P9 and P10 start."
   ],
   "keyPlayers": [
     {
       "name": "Lando Norris",
       "team": "McLaren",
-      "hook": "Set the Friday benchmark with an electrifying 1:30.727 under the night lights in FP2."
+      "hook": "Delivered an extraordinary 1:29.525 under the Singapore floodlights to take pole position."
     },
     {
-      "name": "Charles Leclerc",
-      "team": "Ferrari",
-      "hook": "Topped FP1 and fell just 0.058 seconds short of Norris in FP2, demonstrating Ferrari's slow-speed agility."
+      "name": "Max Verstappen",
+      "team": "Red Bull Racing",
+      "hook": "Overcame practice setup struggles to grab a front-row start alongside his chief title rival."
     }
   ],
   "headToHead": "",
@@ -35,52 +35,58 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Friday Practice · Norris & Leclerc Top Times",
-  "resultSummary": "FP2: 1. Norris (McLaren) 1:30.727; 2. Leclerc (Ferrari) 1:30.785 (+0.058); 3. Sainz (Ferrari) 1:31.356; 4. Antonelli (Mercedes) 1:31.402; 5. Russell (Mercedes) 1:31.488",
+  "roundLabel": "Saturday Qualifying · Norris On Pole At Marina Bay",
+  "resultSummary": "1. Norris (McLaren) 1:29.525; 2. Verstappen (Red Bull) 1:29.728 (+0.203); 3. Hamilton (Ferrari) 1:29.841; 4. Russell (Mercedes) 1:29.867; 5. Piastri (McLaren) 1:29.953",
   "leaderboard": [
     {
       "pos": "1",
       "name": "Lando Norris (McLaren)",
-      "score": "1:30.727",
-      "note": "FP2 Leader"
+      "score": "1:29.525",
+      "note": "Pole Position"
     },
     {
       "pos": "2",
-      "name": "Charles Leclerc (Ferrari)",
-      "score": "1:30.785",
-      "note": "+0.058s (FP1 Leader 1:31.763)"
+      "name": "Max Verstappen (Red Bull)",
+      "score": "1:29.728",
+      "note": "+0.203s"
     },
     {
       "pos": "3",
-      "name": "Carlos Sainz (Ferrari)",
-      "score": "1:31.356",
-      "note": "+0.629s"
+      "name": "Lewis Hamilton (Ferrari)",
+      "score": "1:29.841",
+      "note": "+0.316s"
     },
     {
       "pos": "4",
-      "name": "Kimi Antonelli (Mercedes)",
-      "score": "1:31.402",
-      "note": "+0.675s"
+      "name": "George Russell (Mercedes)",
+      "score": "1:29.867",
+      "note": "+0.342s"
     },
     {
       "pos": "5",
-      "name": "George Russell (Mercedes)",
-      "score": "1:31.488",
-      "note": "+0.761s"
+      "name": "Oscar Piastri (McLaren)",
+      "score": "1:29.953",
+      "note": "+0.428s"
+    },
+    {
+      "pos": "6",
+      "name": "Nico Hulkenberg (Haas)",
+      "score": "1:30.115",
+      "note": "+0.590s"
     }
   ],
   "tennisSets": [],
   "sources": [
     {
-      "name": "Formula 1 Official: Norris edges Leclerc in Friday practice",
+      "name": "Formula 1 Official: Norris takes pole at Marina Bay",
       "url": "https://www.formula1.com/en/racing/2026/singapore.html"
     },
     {
-      "name": "BBC Sport: F1 Singapore GP FP2 report",
+      "name": "BBC Sport: Singapore Grand Prix qualifying report",
       "url": "https://www.bbc.co.uk/sport/formula1"
     },
     {
-      "name": "Sky Sports F1: Marina Bay Friday times and analysis",
+      "name": "Sky Sports F1: Marina Bay qualifying grid and times",
       "url": "https://www.skysports.com/f1"
     }
   ],
@@ -88,21 +94,21 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "singapore-gp-preview-2026",
-  "headline": "Singapore GP: Lando Norris edges Charles Leclerc by 0.058s in Friday night practice",
-  "whyCareScore": 9.5,
-  "whyCareReason": "Lando Norris and Charles Leclerc trade blistering lap times under 1,600 floodlights as qualifying simulations set up an ultra-tight Marina Bay battle.",
-  "teaser": "Friday 2 October in Singapore: Norris posts 1:30.727 in FP2, edging Leclerc by 0.058 seconds. Mercedes championship leader Antonelli stays within striking distance.",
-  "story": "Why this one matters: Friday night at Marina Bay confirmed that the 2026 Singapore Grand Prix is poised to become a razor-thin tactical war between McLaren and Ferrari.\n\nUnder the glare of 1,600 floodlights and through sweltering 30-degree night air, Lando Norris unleashed an electric 1:30.727 during the qualifying simulations in Free Practice 2. Ferrari's Charles Leclerc, who had topped the earlier twilight session in FP1 with a 1:31.763, answered with a sensational flying lap of his own, falling short by a mere 0.058 seconds.\n\nCarlos Sainz backed up Ferrari's pace in third, while championship leader Kimi Antonelli and George Russell slotted into fourth and fifth for Mercedes. With overtaking notoriously difficult across Marina Bay's 19 tight corners, Saturday's qualifying shootout will carry immense weight for the title fight.",
-  "stakes": "Crucial pole position advantage on a street circuit where qualifying almost always dictates Sunday victory.",
-  "rivalryAngle": "McLaren and Ferrari agility challenge Mercedes power on the tightest, most punishing street circuit in motorsport.",
+  "headline": "Singapore GP: Lando Norris storms to sensational pole position ahead of Verstappen and Hamilton",
+  "whyCareScore": 9.8,
+  "whyCareReason": "Lando Norris delivers a flawless Q3 flying lap to seize pole position in Singapore, setting up a blockbuster front-row duel with Max Verstappen on Sunday.",
+  "teaser": "Saturday 3 October under Marina Bay floodlights: Norris clocks 1:29.525 to capture pole. Verstappen starts second, Hamilton third, as Sainz crash disrupts Q3.",
+  "story": "Why this one matters: Saturday qualifying at the Singapore Grand Prix produced high drama under the Marina Bay night sky, culminating in a masterclass flying lap from McLaren's Lando Norris.\n\nNorris conquered the unforgiving 19-turn street circuit with a surgical lap of 1:29.525, finishing two-tenths clear of championship rival Max Verstappen. The Dutchman wrestled his Red Bull onto the front row with a courageous final sector, while Lewis Hamilton turned in a stellar qualifying effort to place Ferrari in third.\n\nThe final Q3 shootout was interrupted by a violent crash from Carlos Sainz, who spun backwards into the barriers at Turn 19, bringing out a red flag. Charles Leclerc had his lap time deleted for exceeding track limits at Turn 2, leaving Ferrari with a frustrating fifth-row starting position for Sunday's 62-lap night race.",
+  "stakes": "Pole position at Marina Bay is the most coveted advantage on the F1 calendar, where overtaking is notoriously grueling and safety cars are frequent.",
+  "rivalryAngle": "Norris vs Verstappen on the front row renews their fierce championship battle under 1,600 dazzling floodlights.",
   "home": "Mercedes-AMG",
   "away": "F1 Grid",
   "group": "F1",
-  "date": "2026-10-04",
-  "time": "20:00",
+  "date": "2026-10-03",
+  "time": "21:00",
   "venue": "Marina Bay Street Circuit",
   "city": "Singapore",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "f1",
   "competition": "formula-1-2026"
 }

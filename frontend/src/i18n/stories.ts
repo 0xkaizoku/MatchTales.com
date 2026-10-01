@@ -5806,6 +5806,558 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+  'premier-league-mw7-city-seven-straight-wins-2026': {
+    fr: {
+      title: "Premier League 7e j. : Haaland et Foden renversent Brentford pour un septième succès de rang",
+      subtitle: "Manchester City conserve son bilan parfait avec 21 points tandis que Liverpool bat Crystal Palace 1-0.",
+      excerpt: "Mené d'entrée, Manchester City s'impose 2-1 à Brentford grâce aux buts d'Erling Haaland et Phil Foden.",
+      body: [
+        "Sept matches, sept victoires. Manchester City a poursuivi son sans-faute en Premier League samedi sur le terrain de Brentford.",
+        "Surpris par Bryan Mbeumo à la 19e minute, les Citizens ont réagi grâce au 11e but de la saison d'Erling Haaland de la tête, avant que Phil Foden n'inscrive le but de la victoire d'une frappe rasante à la 68e minute.",
+        "City conserve trois longueurs d'avance sur Arsenal, tombeur de Southampton 3-1, et Liverpool, vainqueur 1-0 à Crystal Palace grâce à Diogo Jota.",
+      ],
+    },
+    es: {
+      title: "Premier League Jornada 7: Haaland y Foden remontan ante Brentford para sellar siete triunfos seguidos",
+      subtitle: "El Manchester City de Guardiola sigue perfecto con 21 puntos mientras el Liverpool vence 1-0 al Palace.",
+      excerpt: "Manchester City remontó en el Gtech Community Stadium para vencer 2-1 al Brentford y sostener su paso ideal.",
+      body: [
+        "Siete partidos y siete victorias. El Manchester City mantuvo su implacable marcha liguera este sábado tras remontar un partido exigente en Londres.",
+        "Bryan Mbeumo adelantó a las Abejas a los 19 minutos, pero Erling Haaland igualó de cabeza con su 11.º gol del curso y Phil Foden sentenció en el minuto 68.",
+        "Con este 2-1, el City llega a 21 puntos para mantener su ventaja sobre Arsenal (3-1 a Southampton) y Liverpool (1-0 a Crystal Palace).",
+      ],
+    },
+    de: {
+      title: "Premier League 7. Spieltag: Haaland und Foden drehen Spiel bei Brentford zum siebten Sieg in Serie",
+      subtitle: "Manchester City bleibt mit 21 Punkten makellos an der Spitze, während Liverpool 1:0 bei Palace gewinnt.",
+      excerpt: "Manchester City dreht einen 0:1-Rückstand bei Brentford und siegt dank Haaland und Foden mit 2:1.",
+      body: [
+        "Sieben Spiele, sieben Siege. Manchester City setzt seinen perfekten Saisonstart in der Premier League mit einem 2:1-Erfolg bei Brentford fort.",
+        "Nach dem frühen Rückstand durch Bryan Mbeumo (19.) glich Erling Haaland per Kopf mit seinem 11. Saisontor aus, ehe Phil Foden in der 68. Minute den Siegtreffer erzielte.",
+        "City führt die Tabelle mit 21 Punkten weiter vor Arsenal (3:1 gegen Southampton) und Liverpool (1:0 bei Crystal Palace) an.",
+      ],
+    },
+    it: {
+      title: "Premier League 7ª giornata: Haaland e Foden firmano la rimonta sul Brentford, settima vittoria City",
+      subtitle: "I campioni di Guardiola guidano a punteggio pieno con 21 punti; il Liverpool batte il Palace 1-0.",
+      excerpt: "Il Manchester City rimonta lo svantaggio iniziale al Gtech Stadium vincendo 2-1 contro il Brentford.",
+      body: [
+        "Sette gare e sette vittorie per il Manchester City, che supera un ostico Brentford in trasferta per confermarsi in vetta.",
+        "Al gol di Bryan Mbeumo al 19' risponde Erling Haaland di testa (11° centro stagionale), prima del rasoterra decisivo di Phil Foden al 68'.",
+        "I Citizens toccano quota 21 punti, mantenendo tre punti di margine su Arsenal (3-1 al Southampton) e Liverpool (1-0 al Crystal Palace).",
+      ],
+    },
+    pl: {
+      title: "Premier League 7. kolejka: Haaland i Foden odwracają losy meczu z Brentford, siódme zwycięstwo City",
+      subtitle: "Manchester City z kompletem 21 punktów prowadzi w tabeli, podczas gdy Liverpool wygrywa 1-0 z Palace.",
+      excerpt: "Manchester City pokonał na wyjeździe Brentford 2-1 dzięki bramkom Erlinga Haalanda i Phila Fodena.",
+      body: [
+        "Siedem meczów i siedem zwycięstw. Manchester City utrzymał stuprocentowy bilans po zaciętym spotkaniu w zachodnim Londynie.",
+        "Gospodarze prowadzili po golu Bryana Mbeumo, lecz Haaland wyrównał strzałem głową, a w 68. minucie zwycięstwo gościom zapewnił Phil Foden.",
+        "City ma 21 punktów i wyprzedza Arsenal (3-1 z Southampton) oraz Liverpool (1-0 z Crystal Palace po golu Joty).",
+      ],
+    },
+    zh: {
+      title: "英超第7轮：哈兰德扳平福登绝杀，曼城客场2-1逆转布伦特福德豪取七连胜",
+      subtitle: "瓜迪奥拉球队21分领跑积分榜，利物浦1-0小胜水晶宫紧随其后",
+      excerpt: "曼城在客场先失一球的情况下连入两球，凭借哈兰德第11球与福登的低射2-1力克布伦特福德。",
+      body: [
+        "七战全胜！曼城在周六下午的西伦敦展现了卫冕冠军的顽强底蕴，客场2-1逆转布伦特福德。",
+        "姆贝乌莫第19分钟反击首开纪录，哈兰德第34分钟头球打入个人赛季第11球，福登在第68分钟推射反超比分锁定胜局。",
+        "曼城以21分强势领跑，阿森纳3-1逆转南安普顿，利物浦凭借若塔进球1-0击败水晶宫。",
+      ],
+    },
+    ja: {
+      title: "プレミアリーグ第7節：ハーランド同点弾とフォーデンの決勝点でマンCがブレントフォードに2-1逆転勝利",
+      subtitle: "グアルディオラ率いる首位マンチェスター・シティが開幕7連勝で勝ち点21に到達",
+      excerpt: "マンチェスター・シティは敵地で先制を許すも、ハーランドの今季11点目とフォーデンのゴールで2-1の逆転勝利を収めた。",
+      body: [
+        "開幕7戦全勝。マンチェスター・シティは敵地Gtechコミュニティ・スタジアムでブレントフォードに2-1で逆転勝利を飾りました。",
+        "19分にエムベウモに先制点を許したものの、34分にハーランドがヘディングで同点弾を叩き込み、68分にフォーデンが技ありの決勝ゴールを奪いました。",
+        "シティは勝ち点21で首位を堅持。アーセナルはサウサンプトンに3-1で勝利し、リヴァプールはパレスを1-0で下しました。",
+      ],
+    },
+    ko: {
+      title: "프리미어리그 7라운드: 홀란 동점골과 포든 결승골, 맨시티 브렌트퍼드 2-1 꺾고 개막 7연승 질주",
+      subtitle: "과르디올라 감독의 맨시티 승점 21점 완벽한 질주, 리버풀도 팰리스 1-0 제압",
+      excerpt: "맨체스터 시티가 브렌트퍼드 원정에서 먼저 실점하고도 홀란과 포든의 연속골로 2-1 역전승을 거두었다.",
+      body: [
+        "7전 7승 전승 행진. 맨체스터 시티가 토요일 런던 원정에서 브렌트퍼드를 2-1로 꺾고 리그 선두를 지켰습니다.",
+        "음뵈모에게 전반 19분 선제골을 내줬지만, 전반 34분 홀란이 시즌 11호 헤더골로 균형을 맞췄고 후반 23분 포든이 결승골을 터뜨렸습니다.",
+        "맨시티는 승점 21점으로 아스널(3-1 승)과 리버풀(1-0 승)의 추격을 뿌리치고 3점 차 선두를 유지했습니다.",
+      ],
+    },
+    ar: {
+      title: "الدوري الإنجليزي الجولة 7: هالاند وفودين يقودان مانشستر سيتي لقلب الطاولة على برينتفورد وتحقيق الفوز السابع",
+      subtitle: "كتيبة غوارديولا تحافظ على العلامة الكاملة برصيد 21 نقطة وليفربول يتخطى بالاس بهدف نظيف.",
+      excerpt: "مانشستر سيتي يعوض تأخره بهدف ليفوز 2-1 على برينتفورد بفضل ثنائية إيرلينغ هالاند وفيل فودين.",
+      body: [
+        "سبع مباريات وسبعة انتصارات متتالية. واصل مانشستر سيتي انطلاقته التاريخية في الدوري الإنجليزي الممتاز بعد فوز صعب في لندن.",
+        "تقدم برينتفورد عبر مبيومو في الدقيقة 19، قبل أن يعادل هالاند برأسية رائعة مسجلا هدفه الـ11 هذا الموسم، وسجل فودين هدف الفوز في الدقيقة 68.",
+        "رفع سيتي رصيده إلى 21 نقطة في الصدارة، في حين انتصر أرسنال على ساوثهامبتون 3-1 وتغلب ليفربول على كريستال بالاس 1-0.",
+      ],
+    },
+  },
+  'nfl-week4-snf-preview-bills-ravens-2026': {
+    fr: {
+      title: "NFL 4e semaine SNF : les Bills invaincus défient Lamar Jackson et les Ravens à Baltimore",
+      subtitle: "Josh Allen vise le 4-0 à la tête de la meilleure attaque de la ligue face au défi physique de Derrick Henry.",
+      excerpt: "L'affiche de dimanche soir oppose les Buffalo Bills (3-0) de Josh Allen aux Baltimore Ravens de Lamar Jackson au M&T Bank Stadium.",
+      body: [
+        "Le choc de la quatrième semaine de NFL promet des étincelles dimanche soir avec le déplacement des Bills invaincus à Baltimore.",
+        "Josh Allen brille avec 11 touchdowns et aucune interception en trois matches, menant l'attaque la plus prolifique de la NFL avec 34,3 points de moyenne.",
+        "Lamar Jackson et Derrick Henry comptent sur leur jeu au sol dévastateur pour infliger aux Bills leur première défaite de l'automne.",
+      ],
+    },
+    es: {
+      title: "NFL Semana 4 SNF: Los invictos Bills se miden a Lamar Jackson y los Ravens en Baltimore",
+      subtitle: "Josh Allen busca poner a Buffalo 4-0 ante la poderosa ofensiva terrestre liderada por Derrick Henry.",
+      excerpt: "El gran partido del domingo por la noche enfrenta a los Bills de Josh Allen contra los Ravens de Lamar Jackson en el M&T Bank Stadium.",
+      body: [
+        "El Sunday Night Football de la Semana 4 reúne a dos de los mariscales de campo más determinantes de la Conferencia Americana.",
+        "Josh Allen suma 11 anotaciones sin pérdidas de balón comandando un ataque que promedia más de 34 puntos por encuentro.",
+        "Baltimore busca equilibrar su récord a 2-2 imponiendo el poder de Derrick Henry ante la defensiva frontal de Buffalo.",
+      ],
+    },
+    de: {
+      title: "NFL Woche 4 SNF: Ungeschlagene Bills fordern Lamar Jackson und die Ravens in Baltimore",
+      subtitle: "Josh Allen will Buffalo auf 4-0 führen, während Derrick Henry und Baltimore auf Rebound drängen.",
+      excerpt: "Im Topspiel am Sonntagabend treffen die fehlerfreien Buffalo Bills auf die körperbetonte Offensive der Baltimore Ravens.",
+      body: [
+        "Das Highlight von NFL-Woche 4 steigt am Sonntagabend im M&T Bank Stadium zwischen den Buffalo Bills und den Baltimore Ravens.",
+        "Josh Allen glänzt mit 11 Gesamt-Touchdowns ohne Ballverlust und führt die beste Punkte-Offensive der Liga (34,3 Punkte pro Spiel) an.",
+        "Lamar Jackson und Derrick Henry wollen das Laufspiel dominieren, um Buffalo die erste Saisonniederlage beizubringen.",
+      ],
+    },
+    it: {
+      title: "NFL Week 4 SNF: I Bills imbattuti affrontano Lamar Jackson e i Ravens a Baltimora",
+      subtitle: "Josh Allen punta al 4-0 per Buffalo contro il temibile attacco su corsa guidato da Derrick Henry.",
+      excerpt: "Il Sunday Night Football propone la sfida tra i Buffalo Bills (3-0) e i Baltimore Ravens al M&T Bank Stadium.",
+      body: [
+        "La quarta giornata NFL culmina con una sfida d'alta quota tra due pesi massimi della AFC a Baltimora.",
+        "Josh Allen guida la lega con 11 touchdown totali e zero turnover, orchestrando un attacco da oltre 34 punti di media.",
+        "Lamar Jackson e Derrick Henry proveranno a controllare il cronometro con il loro devastante gioco su corsa.",
+      ],
+    },
+    pl: {
+      title: "NFL 4. tydzień SNF: Niepokonani Bills mierzą się z Lamarem Jacksonem i Ravens w Baltimore",
+      subtitle: "Josh Allen celuje w bilans 4-0, podczas gdy Derrick Henry i gospodarze walczą o powrót do równowagi.",
+      excerpt: "Niedzielny hit NFL stawia naprzeciw siebie bezbłędnych Buffalo Bills oraz groźnych Baltimore Ravens.",
+      body: [
+        "Niedzielne spotkanie na M&T Bank Stadium to pojedynek dwóch czołowych rozgrywających ligi w 4. tygodniu NFL.",
+        "Josh Allen ma na koncie 11 przyłożeń bez straty, prowadząc najskuteczniejszy atak ligi ze średnią 34,3 punktu na mecz.",
+        "Ravens liczą na siłę biegową Derricka Henry'ego i dynamikę Jacksona, by zatrzymać rozpędzone Buffalo.",
+      ],
+    },
+    zh: {
+      title: "NFL第四周周日夜赛前瞻：全胜布法罗比尔客场挑战拉马尔·杰克逊与乌鸦军团",
+      subtitle: "乔什·阿伦剑指四连胜开局，德里克·亨利坐镇巴尔的摩主场严阵以待",
+      excerpt: "美联重头戏周日晚打响，场均34.3分火力全开的布法罗比尔做客M&T银行体育场挑战巴尔的摩乌鸦。",
+      body: [
+        "NFL第四周焦点之战将在巴尔的摩打响，保持全胜的比尔队客场挑战拉马尔·杰克逊率领的乌鸦队。",
+        "阿伦本赛季已贡献11次达阵且零失误，乔·布拉迪调教的进攻组场均轰下联盟最高的34.3分。",
+        "乌鸦队拥有杰克逊与亨利的强力冲球组合，他们将全力掌控控球时间，阻击比尔队的连胜步伐。",
+      ],
+    },
+    ja: {
+      title: "NFL第4週SNFプレビュー：無敗のビルズがラマー・ジャクソン率いるレイブンズとボルティモアで激突",
+      subtitle: "アレンが4連勝を狙い、デリック・ヘンリー擁するレイブンズが本拠地で迎え撃つ",
+      excerpt: "日曜夜の全米中継で、開幕3連勝のバッファロー・ビルズと強力ラン攻撃を誇るボルティモア・レイブンズが対戦する。",
+      body: [
+        "NFL第4週のサンデーナイト・フットボールは、M&Tバンク・スタジアムでのAFC屈指の強豪対決となります。",
+        "ジョシュ・アレンはターンオーバーなしで11タッチダウンを量産し、チームはリーグ最高の平均34.3得点を記録しています。",
+        "レイブンズはラマー・ジャクソンとデリック・ヘンリーの破壊的な地上戦でビルズのディフェンスを崩しにかかります。",
+      ],
+    },
+    ko: {
+      title: "NFL 4주차 SNF 프리뷰: 무패의 버펄로 빌스, 볼티모어에서 라마 잭슨과 레이븐스 격돌",
+      subtitle: "조시 앨런의 4승 도전, 데릭 헨리와 레이븐스의 강력한 러싱 공격에 맞서다",
+      excerpt: "선데이 나이트 풋볼에서 3승 무패의 빌스와 전통의 강호 레이븐스가 M&T 뱅크 스타디움에서 맞붙는다.",
+      body: [
+        "NFL 4주차 최고의 빅매치가 일요일 밤 볼티모어 M&T 뱅크 스타디움에서 화려하게 펼쳐집니다.",
+        "조시 앨런은 턴오버 없이 11개의 터치다운을 만들어내며 리그 1위 득점력(평균 34.3점)을 이끌고 있습니다.",
+        "레이븐스는 2회 MVP 라마 잭슨과 데릭 헨리의 위력적인 러싱 조합으로 빌스의 무패 행진을 저지하려 합니다.",
+      ],
+    },
+    ar: {
+      title: "دوري كرة القدم الأمريكية الأسبوع 4: بافلو بيلز الذي لا يقهر يصطدم بلامار جاكسون والغراب في بالتيمور",
+      subtitle: "جوش ألين يطمح لتحقيق الفوز الرابع تواليا في مواجهة آلة بالتيمور الأرضية بقيادة ديريك هنري.",
+      excerpt: "قمة ليلة الأحد تجمع بافلو بيلز (3-0) ضد بالتيمور ريفنز على ملعب إم آند تي بنك في الأسبوع الرابع.",
+      body: [
+        "تتجه أنظار عشاق كرة القدم الأمريكية إلى بالتيمور لمتابعة قمة نارية تجمع بين جوش ألين ولامار جاكسون.",
+        "يقدم ألين مستويات استثنائية بتسجيله 11 هبوطا دون أي خطأ، ليقود هجوم بيلز لتسجيل 34.3 نقطة كأعلى معدل في الدوري.",
+        "ويعول بالتيمور على القوة الضاربة للعداء ديريك هنري للسيطرة على مجريات اللقاء وتحقيق فوز معنوي حاسم.",
+      ],
+    },
+  },
+  'wnba-semifinals-eve-tactical-breakdown-2026': {
+    fr: {
+      title: "Veille des demi-finales WNBA : décryptage tactique avant le coup d'envoi de Lynx-Fever et Aces-Liberty",
+      subtitle: "Cheryl Reeve prépare un piège pour Caitlin Clark tandis que Becky Hammon retrouve New York.",
+      excerpt: "Les quatre survivants des séries éliminatoires WNBA 2026 peaufinent leurs plans avant le coup d'envoi des matches 1 dimanche.",
+      body: [
+        "Samedi a offert un calme trompeur en WNBA, les quatre prétendants au titre terminant leurs séances vidéo avant les demi-finales de dimanche.",
+        "À Minneapolis, la numéro 1 Minnesota prépare un défi défensif de taille pour la sensation Caitlin Clark et le Fever d'Indiana.",
+        "À New York, les Aces de Las Vegas d'A'ja Wilson retrouvent le Liberty de Breanna Stewart et Sabrina Ionescu dans un remake des finales 2023.",
+      ],
+    },
+    es: {
+      title: "Víspera de semifinales WNBA: Análisis táctico antes del inicio de Lynx-Fever y Aces-Liberty",
+      subtitle: "Cheryl Reeve prepara trampas defensivas para Caitlin Clark y las Aces reeditan su rivalidad con New York.",
+      excerpt: "Los cuatro semifinalistas de la WNBA afinan detalles antes del arranque al mejor de cinco este domingo.",
+      body: [
+        "La calma previa a la tormenta reinó este sábado en la WNBA con los cuatro mejores equipos afinando su libreta táctica.",
+        "En Mineápolis, las Lynx buscan frenar el ritmo vertiginoso de Caitlin Clark con la Jugadora Defensiva del Año Napheesa Collier.",
+        "En Nueva York, el Liberty de Breanna Stewart recibe a las bicampeonas Las Vegas Aces lideradas por la tres veces MVP A'ja Wilson.",
+      ],
+    },
+    de: {
+      title: "WNBA-Halbfinal-Vorschau: Taktische Analyse vor Spiel 1 von Lynx-Fever und Aces-Liberty",
+      subtitle: "Cheryl Reeve plant Fallen gegen Caitlin Clark, während Becky Hammon und New York die Rivalität neu entfachen.",
+      excerpt: "Die vier verbliebenen WNBA-Titelanwärter schließen am Samstag ihre Vorbereitung auf Spiel 1 der Halbfinalserien ab.",
+      body: [
+        "Am Samstag herrschte fokussierte Konzentration vor dem mit Spannung erwarteten Halbfinal-Auftakt am Sonntag.",
+        "Die topgesetzten Minnesota Lynx setzen auf ihre Defensivspezialistin Napheesa Collier, um Caitlin Clark und Indiana zu stoppen.",
+        "In New York kommt es zum Klassiker zwischen den Las Vegas Aces um MVP A'ja Wilson und dem New York Liberty um Breanna Stewart.",
+      ],
+    },
+    it: {
+      title: "Vigilia semifinali WNBA: Analisi tattica prima di Gara 1 tra Lynx-Fever e Aces-Liberty",
+      subtitle: "Cheryl Reeve prepara trappole per Caitlin Clark, mentre le Aces ritrovano le rivali di New York.",
+      excerpt: "Le magnifiche quattro della WNBA completano i preparativi prima del doppio appuntamento domenicale.",
+      body: [
+        "Un sabato di studio e concentrazione chiude la vigilia delle semifinali WNBA che scatteranno domenica.",
+        "A Minneapolis, le Minnesota Lynx affrontano Caitlin Clark e l'Indiana Fever in una classica sfida tra miglior difesa e attacco esplosivo.",
+        "Al Barclays Center va in scena il duello infinito tra A'ja Wilson e le campionesse in carica del New York Liberty guidate da Breanna Stewart.",
+      ],
+    },
+    pl: {
+      title: "Wigilia półfinałów WNBA: Analiza taktyczna przed meczami nr 1 Lynx-Fever i Aces-Liberty",
+      subtitle: "Cheryl Reeve szykuje pułapki na Caitlin Clark, a Aces i Liberty wznawiają mistrzowską rywalizację.",
+      excerpt: "Cztery czołowe zespoły WNBA kończą przygotowania do niedzielnych starć otwierających serie półfinałowe.",
+      body: [
+        "Sobotnie treningi zamknęły okres przygotowań do decydującej fazy play-off WNBA 2026.",
+        "W Minneapolis Minnesota Lynx i Napheesa Collier spróbują powstrzymać rewelacyjną Caitlin Clark i Indiana Fever.",
+        "W Nowym Jorku dojdzie do rewanżu za finały 2023 między Las Vegas Aces z A'ja Wilson a New York Liberty z Breanną Stewart.",
+      ],
+    },
+    zh: {
+      title: "WNBA半决赛前瞻：山猫对阵狂热、王牌再战自由人，四大豪门战术全面解析",
+      subtitle: "里夫为克拉克布设防守陷阱，威尔逊与斯图尔特重演总决赛巅峰对决",
+      excerpt: "周六备战全部就绪，2026年WNBA半决赛五局三胜制较量将于周日正式打响两场G1大战。",
+      body: [
+        "周六的平静难掩大战将至的硝烟，四支晋级四强的豪强完成了周日G1揭幕战前的最后演练。",
+        "明尼苏达山猫坐镇主场，年度最佳防守球员科利尔领衔的铁血防线将全力围剿凯特琳·克拉克与狂热队的外线跑轰。",
+        "纽约自由人主场迎战卫冕霸主拉斯维加斯王牌，威尔逊与斯图尔特、约内斯库的宿敌对抗再度成为全美焦点。",
+      ],
+    },
+    ja: {
+      title: "WNBA準決勝プレビュー：リンクス対フィーバー、エACES対リバティの初戦戦術分析",
+      subtitle: "リーブHCがクラーク対策を構築、ウィルソンとスチュワートが再び火花を散らす",
+      excerpt: "WNBAファイナル進出を懸けた5戦3勝方式の準決勝第1戦が日曜日にティップオフを迎える。",
+      body: [
+        "土曜日の非公開練習を終え、WNBAのトップ4チームが日曜日のダブルヘッダー初戦へ万全の準備を整えました。",
+        "ミネアポリスでは第1シードのリンクスが、ケイトリン・クラーク擁するインディアナ・フィーバーの高速オフェンスを迎え撃ちます。",
+        "ニューヨークではエイジャ・ウィルソン率いるエACESとブレアナ・スチュワートのリバティによる因縁の対決が幕を開けます。",
+      ],
+    },
+    ko: {
+      title: "WNBA 4강 준결승 전야: 링스-피버, 에이시스-리버티 1차전 맞대결 전술 분석",
+      subtitle: "클라크를 막아설 셰릴 리브의 수비 전술과 윌슨-스튜어트의 라이벌 리턴매치",
+      excerpt: "WNBA 플레이오프 4강전 5전 3선승제 1차전이 일요일 드디어 화려하게 막을 올린다.",
+      body: [
+        "토요일 최종 훈련을 마친 WNBA 4강 팀들이 일요일 1차전 결전을 앞두고 전의를 불태우고 있습니다.",
+        "미네소타 링스는 올해의 수비수 나피사 콜리어를 앞세워 케이틀린 클라크의 폭발적인 득점력을 차단하는 데 집중하고 있습니다.",
+        "뉴욕 바클레이스 센터에서는 3회 MVP 에이자 윌슨의 에이시스와 브리아나 스튜어트의 리버티가 2023년 파이널 리매치를 벌입니다.",
+      ],
+    },
+    ar: {
+      title: "عشية نصف نهائي دوري السلة الأمريكي للسيدات: تفكيك تكتيكي قبل انطلاق قمتي لينكس-فيفر وإيسز-ليبرتي",
+      subtitle: "شيريل ريف تجهز فخاخا لإيقاف كايتلين كلارك وآجا ويلسون تجدد صراعها مع بريانا ستيوارت.",
+      excerpt: "أكملت الفرق الأربعة المتأهلة لنصف نهائي WNBA استعداداتها التكتيكية قبل انطلاق سلسلة المباريات يوم الأحد.",
+      body: [
+        "ساد الهدوء الحذر أروقة دوري السلة الأمريكي للسيدات يوم السبت قبل انطلاق قمتي المربع الذهبي.",
+        "في مينيسوتا، يواجه فريق لينكس صاحب أفضل دفاع اختبارا حاسما أمام الهجوم الناري لكايتلين كلارك وفريق إنديانا فيفر.",
+        "وفي نيويورك، يتجدد الصراع الملحمي بين حاملتي اللقب لاس فيغاس إيسز ونيويورك ليبرتي في مواجهة نارية بين ويلسون وستيوارت.",
+      ],
+    },
+  },
+  'china-open-2026-alcaraz-sinner-set-beijing-final': {
+    fr: {
+      title: "China Open 2026 : Alcaraz écarte Medvedev et Sinner domine Bu pour une finale de rêve à Pékin",
+      subtitle: "Le numéro 1 et le numéro 2 mondiaux s'affronteront dimanche sur le court Diamond pour le titre ATP 500.",
+      excerpt: "Carlos Alcaraz a dominé Daniil Medvedev 7-5, 6-3 tandis que Jannik Sinner a écarté Bu Yunchaokete pour sceller leur 10e face-à-face.",
+      body: [
+        "Le scénario rêvé est devenu réalité samedi à Pékin : Carlos Alcaraz et Jannik Sinner se retrouveront en finale du tournoi ATP 500.",
+        "Alcaraz s'est montré intraitable face à Daniil Medvedev, s'imposant 7-5, 6-3 grâce à 82 % de points remportés derrière sa première balle.",
+        "Jannik Sinner a ensuite maîtrisé le chouchou du public Bu Yunchaokete 6-3, 7-6(3) pour rejoindre l'Espagnol dans un choc au sommet.",
+      ],
+    },
+    es: {
+      title: "China Open 2026: Alcaraz supera a Medvedev y Sinner vence a Bu para citarse en la final soñada",
+      subtitle: "El número 1 y el número 2 del mundo chocarán este domingo en la pista Diamond por el título de Pekín.",
+      excerpt: "Carlos Alcaraz derrotó 7-5, 6-3 a Daniil Medvedev y Jannik Sinner venció a Bu para fijar su décimo duelo directo.",
+      body: [
+        "El torneo de Pekín disfrutará este domingo del desenlace más esperado con el choque directo entre Carlos Alcaraz y Jannik Sinner.",
+        "El español de 21 años neutralizó a Daniil Medvedev con un juego brillante y agresivo para imponerse 7-5 y 6-3 en una hora y 28 minutos.",
+        "Por su parte, el vigente campeón Sinner templó los nervios ante el héroe local Bu Yunchaokete para vencer 6-3, 7-6(3) y alcanzar la final.",
+      ],
+    },
+    de: {
+      title: "China Open 2026: Alcaraz schlägt Medwedew und Sinner siegt gegen Bu zum Traumfinale in Peking",
+      subtitle: "Die Nummer 1 und Nummer 2 der Welt duellieren sich am Sonntag auf dem Diamond Court um den Titel.",
+      excerpt: "Carlos Alcaraz setzte sich mit 7:5, 6:3 gegen Daniil Medwedew durch, ehe Titelverteidiger Jannik Sinner nachzog.",
+      body: [
+        "Peking bekommt sein absolutes Traumfinale: Carlos Alcaraz und Jannik Sinner haben am Samstag souverän das Endspiel erreicht.",
+        "Alcaraz dominierte Daniil Medwedew mit 7:5, 6:3 und überzeugte mit variablem Angriffsspiel und hoher Aufschlagquote.",
+        "Jannik Sinner behielt gegen Lokalmatador Bu Yunchaokete mit 6:3, 7:6(3) die Nerven und trifft am Sonntag zum 10. Mal auf Alcaraz.",
+      ],
+    },
+    it: {
+      title: "China Open 2026: Alcaraz liquida Medvedev e Sinner batte Bu, a Pechino sarà finale da sogno",
+      subtitle: "Il numero 1 e il numero 2 del mondo si sfideranno domenica sul Diamond Court per la corona ATP 500.",
+      excerpt: "Carlos Alcaraz ha battuto Daniil Medvedev 7-5, 6-3 e Jannik Sinner ha superato Bu Yunchaokete conquistando la finale.",
+      body: [
+        "Gli appassionati di tennis avranno la finale più attesa: Alcaraz e Sinner si contenderanno il titolo dell'ATP 500 di Pechino.",
+        "Lo spagnolo ha superato Daniil Medvedev per 7-5, 6-3 con una prestazione eccezionale al servizio e nei colpi a rimbalzo.",
+        "Sinner ha risposto in serata superando il cinese Bu Yunchaokete per 6-3, 7-6(3), fissando il decimo capitolo della loro rivalità.",
+      ],
+    },
+    pl: {
+      title: "China Open 2026: Alcaraz pokonuje Miedwiediewa, Sinner ogrywa Bu, wymarzony finał w Pekinie",
+      subtitle: "Lider i wicelider rankingu ATP zmierzą się w niedzielę na Diamond Court o prestiżowy tytuł.",
+      excerpt: "Carlos Alcaraz wygrał 7-5, 6-3 z Daniiłem Miedwiediewem, a Jannik Sinner odprawił Bu Yunchaokete, meldując się w finale.",
+      body: [
+        "Wymarzony finał w Pekinie stał się faktem po znakomitych sobotnich półfinałach z udziałem Alcaraza i Sinnera.",
+        "Hiszpan nie dał szans Daniiłowi Miedwiediewowi, triumfując 7-5, 6-3 dzięki fantastycznej grze przy własnym podaniu.",
+        "Broniący tytułu Jannik Sinner pokonał faworyta gospodarzy Bu Yunchaokete 6-3, 7-6(3), doprowadzając do 10. starcia z Alcarazem.",
+      ],
+    },
+    zh: {
+      title: "2026年中网公开赛：阿尔卡拉斯完胜梅德韦杰夫、辛纳击败布云朝克特，梦幻决赛会师钻石球场",
+      subtitle: "世界第一与世界第二周日争夺ATP 500冠军头衔，第十次双骄对话如期而至",
+      excerpt: "阿尔卡拉斯7-5、6-3击败梅德韦杰夫，卫冕冠军辛纳克服主场观众助威淘汰布云朝克特，携手晋级决赛。",
+      body: [
+        "北京中网迎来了最具票房号召力的梦幻决赛对决：阿尔卡拉斯与辛纳周六双双闯关成功会师周日争冠战。",
+        "阿尔卡拉斯在钻石球场打出攻防转换大师级表现，以7-5、6-3力克前美网冠军梅德韦杰夫，一发得分率高达82%。",
+        "辛纳随后顶住了中国新星布云朝克特的强力冲击，以6-3、7-6(3)胜出，将迎来他与阿尔卡拉斯的第十次巡回赛巅峰对话。",
+      ],
+    },
+    ja: {
+      title: "チャイナ・オープン2026：アルカラスがメドベージェフ下し、シナーも勝利して北京で夢の決勝が実現",
+      subtitle: "世界ランク1位と2位が日曜日、ダイヤモンド・コートでATP500のタイトルを懸けて激突",
+      excerpt: "アルカラスが7-5、6-3でメドベージェフを退け、ディフェンディング王者のシナーも決勝進出を決めた。",
+      body: [
+        "北京のテニスファンが待ち望んだ夢の決勝カードが土曜日の準決勝を経てついに確定しました。",
+        "カルロス・アルカラスはダニール・メドベージェフを7-5、6-3で圧倒し、終始試合のペースを握り続けました。",
+        "ヤニック・シナーも開催国のブ・ユンチャオケテを6-3、7-6(3)で退け、通算10回目の頂上決戦へと駒を進めました。",
+      ],
+    },
+    ko: {
+      title: "2026 차이나 오픈: 알카라스 메드베데프 완파, 시너도 결승 안착하며 베이징 꿈의 결승 성사",
+      subtitle: "세계 1위 야닉 시너와 2위 카를로스 알카라스, 일요일 다이아몬드 코트에서 격돌",
+      excerpt: "알카라스가 7-5, 6-3으로 메드베데프를 꺾고 시너가 부윈차오커터를 제압하며 열 번째 맞대결을 확정했다.",
+      body: [
+        "베이징 차이나 오픈이 전 세계 테니스 팬들이 염원하던 최고의 결승 대진을 완성했습니다.",
+        "카를로스 알카라스는 다닐 메드베데프를 상대로 82%의 첫 서브 득점률을 앞세워 7-5, 6-3 깔끔한 승리를 거뒀습니다.",
+        "디펜딩 챔피언 야닉 시너 역시 홈스타 부윈차오커터를 6-3, 7-6(3)으로 따돌리고 알카라스와의 결승 맞대결에 합류했습니다.",
+      ],
+    },
+    ar: {
+      title: "بطولة الصين المفتوحة 2026: ألكاراز يهزم ميدفيديف وسينر يتخطى بو ليضربا موعدا في النهائي الحلم",
+      subtitle: "المصنف الأول والثاني عالميا يلتقيان الأحد على الملعب الماسي للمنافسة على لقب بكين.",
+      excerpt: "كارلوس ألكاراز يتفوق على دانييل ميدفيديف 7-5 و6-3 ويانيك سينر يفوز على بو ليبلغا النهائي المنتظر.",
+      body: [
+        "حقق منظمو بطولة الصين المفتوحة النهائي المثالي بعد فوز كارلوس ألكاراز ويانيك سينر في نصف نهائي البطولة السبت.",
+        "قدم ألكاراز أداء رائعا تفوق به على ميدفيديف بنتيجة 7-5 و6-3 مستفيدا من دقة إرساله الأول وكراته الساقطة المحكمة.",
+        "وتجاوز الإيطالي يانيك سينر حماس الجماهير الصينية بفوزه على بو 6-3 و7-6(3) ليضرب موعدا مع ألكاراز في الفصل العاشر من تنافسهما.",
+      ],
+    },
+  },
+  'pga-tour-sanderson-farms-round3-mitchell-leads-2026': {
+    fr: {
+      title: "Sanderson Farms Championship : Keith Mitchell signe un 64 et prend la tête à -20 après 54 trous",
+      subtitle: "Beau Hossler reste en embuscade à un coup à Jackson tandis que le tenant du titre Kevin Yu pointe à -15.",
+      excerpt: "Auteur de huit birdies samedi au Country Club of Jackson, Keith Mitchell s'empare des commandes avant le tour final.",
+      body: [
+        "Le Moving Day a tenu toutes ses promesses à Jackson avec un récital de Keith Mitchell au Country Club.",
+        "L'Américain de 32 ans a rendu une carte magistrale de 64 (-8), lui permettant d'afficher un score cumulé de 20 sous le par.",
+        "Beau Hossler a signé un 68 sans faute pour rester à un petit coup (-19), promettant une finale explosive dimanche.",
+      ],
+    },
+    es: {
+      title: "Sanderson Farms Championship: Keith Mitchell firma un 64 para liderar con -20 tras 54 hoyos",
+      subtitle: "Beau Hossler le pisa los talones a un golpe en Jackson y el defensor del título Kevin Yu sigue a tiro.",
+      excerpt: "Keith Mitchell embocó ocho birdies este sábado en Misisipi para asumir el liderato en solitario antes del domingo.",
+      body: [
+        "La jornada de movimiento del Sanderson Farms Championship fue un auténtico espectáculo gracias a Keith Mitchell.",
+        "El golfista de Georgia firmó un impecable 64 (-8) con cinco birdies en los primeros siete hoyos para situarse con 20 bajo par.",
+        "El líder de las dos primeras rondas, Beau Hossler, se mantuvo firme con un 68 para quedar a un golpe (-19) de cara al domingo.",
+      ],
+    },
+    de: {
+      title: "Sanderson Farms Championship: Keith Mitchell spielt 64 und führt nach 54 Löchern mit 20 unter Par",
+      subtitle: "Beau Hossler lauert mit einem Schlag Rückstand in Jackson, während Titelverteidiger Kevin Yu bei -15 liegt.",
+      excerpt: "Keith Mitchell begeisterte am Samstag im Country Club of Jackson mit acht Birdies und eroberte die alleinige Führung.",
+      body: [
+        "Der Moving Day im Country Club of Jackson brachte einen Führungswechsel dank einer fehlerfreien 64 von Keith Mitchell.",
+        "Der 32-jährige US-Profi schob sich mit 20 unter Par an die Spitze und greift nach seinem zweiten PGA-Tour-Sieg.",
+        "Beau Hossler blieb mit einer 68 auf Tuchfühlung bei 19 unter Par, während Titelverteidiger Kevin Yu bei -15 geteilter Dritter ist.",
+      ],
+    },
+    it: {
+      title: "Sanderson Farms Championship: Keith Mitchell gira in 64 e vola in testa a -20 dopo 54 buche",
+      subtitle: "Beau Hossler insegue a un colpo a Jackson, con il campione in carica Kevin Yu a quota -15.",
+      excerpt: "Keith Mitchell ha realizzato otto birdie sabato al Country Club of Jackson portandosi in vetta solitaria.",
+      body: [
+        "Il Moving Day del Sanderson Farms Championship ha incoronato Keith Mitchell grazie a un giro superlativo da 64 colpi.",
+        "Il giocatore della Georgia è salito a -20 totale, mettendo in mostra una straordinaria precisione con i ferri dal tee al green.",
+        "Beau Hossler ha risposto con un solido 68 senza bogey per restare a un solo colpo di distanza (-19) in vista del round finale.",
+      ],
+    },
+    pl: {
+      title: "Sanderson Farms Championship: Keith Mitchell z wynikiem 64 obejmuje prowadzenie z -20 po 54 dołkach",
+      subtitle: "Beau Hossler traci zaledwie jedno uderzenie w Jackson, a broniący tytułu Kevin Yu ma -15.",
+      excerpt: "Keith Mitchell popisał się ośmioma birdie w sobotę w Country Club of Jackson, wysuwając się na prowadzenie.",
+      body: [
+        "Dzień Ruchu na Sanderson Farms Championship przyniósł kapitalny występ Keitha Mitchella w Mississippi.",
+        "32-letni Amerykanin zagrał rundę na 64 uderzenia (-8), co dało mu łączny wynik 20 poniżej par po trzech dniach zmagań.",
+        "Dotychczasowy lider Beau Hossler uzyskał 68 uderzeń i traci tylko jeden punkt (-19) przed niedzielnym finałem.",
+      ],
+    },
+    zh: {
+      title: "桑德森农场锦标赛：米切尔移动日狂飙64杆，总成绩-20杆单挑54洞榜首",
+      subtitle: "霍斯勒一杆之差紧随其后，卫冕冠军俞俊安总成绩-15杆保持冲冠希望",
+      excerpt: "基斯·米切尔周六在杰克逊乡村俱乐部狂抓八只小鸟，以200杆的总成绩强势反超领跑冲冠组。",
+      body: [
+        "美巡秋季赛桑德森农场锦标赛迎来火爆移动日，基斯·米切尔凭借精准攻果岭表现打出单轮64杆（-8）。",
+        "米切尔在前七洞便抓下五只小鸟，总成绩达到低于标准杆20杆（199杆），单独领跑冲冠积分榜。",
+        "前两轮领头羊霍斯勒打出无柏忌的68杆（-19）紧随其后，卫冕冠军中国台北选手俞俊安以-15杆并列第三。",
+      ],
+    },
+    ja: {
+      title: "サンダーソン・ファームズ選手権：ミッチェルが64をマークし通算20アンダーで単独首位浮上",
+      subtitle: "ホスラーが1打差の19アンダーで追走、前年覇者のケビン・ユーは通算15アンダー",
+      excerpt: "キース・ミッチェルが土曜日に8バーディを奪う猛チャージを見せ、通算20アンダーで最終日へ向かう。",
+      body: [
+        "ジャクソン・カントリークラブでのムービングデーは、キース・ミッチェルの見事なバーディラッシュとなりました。",
+        "ミッチェルは8アンダーの64を叩き出し、通算20アンダー（199）でトーナメントリーダーに躍り出ました。",
+        "36ホール首位だったボー・ホスラーも68で回り通算19アンダーで追走。日曜日の最終組は激戦が必至です。",
+      ],
+    },
+    ko: {
+      title: "샌더슨 팜스 챔피언십: 키스 미첼 64타 맹타, 54홀 통산 20언더파 단독 선두 질주",
+      subtitle: "보 호슬러 1타 차 19언더파 추격, 디펜딩 챔피언 케빈 유는 15언더파 3위",
+      excerpt: "키스 미첼이 토요일 버디 8개를 몰아치며 20언더파 199타로 잭슨에서 단독 선두로 올라섰다.",
+      body: [
+        "PGA 투어 가을 시리즈 샌더슨 팜스 챔피언십 무빙데이에서 키스 미첼이 환상적인 샷감을 뽐냈습니다.",
+        "미첼은 보기 없이 8언더파 64타를 기록하며 중간 합계 20언더파 199타로 단독 1위에 이름을 올렸습니다.",
+        "보 호슬러는 68타를 치며 19언더파로 1타 차 2위를 유지했고, 디펜딩 챔피언 케빈 유는 15언더파 공동 3위에 올랐습니다.",
+      ],
+    },
+    ar: {
+      title: "بطولة ساندرسون فارمز: كيث ميتشل يسجل 64 ضربة ويتصدر بـ20 ضربة تحت المعدل بعد 54 حفرة",
+      subtitle: "بو هوسلر يلاحقه بفارق ضربة واحدة في جاكسون وحامل اللقب كيفن يو يتربص عند -15.",
+      excerpt: "أحرز كيث ميتشل ثماني ضربات بيردي يوم السبت في نادي جاكسون الريفي لينفرد بصدارة الترتيب العام.",
+      body: [
+        "شهد يوم الحركة في بطولة ساندرسون فارمز تألقا لافتا للأمريكي كيث ميتشل بعد أداء هجومي استثنائي.",
+        "أنهى ميتشل الجولة الثالثة مسجلا 64 ضربة (8 تحت المعدل) ليرفع رصيده الإجمالي إلى 20 ضربة تحت المعدل (199).",
+        "واكتفى متصدر أول يومين بو هوسلر بتسجيل 68 ضربة ليظل ثانيا بفارق ضربة وحيدة قبل الجولة الختامية الأحد.",
+      ],
+    },
+  },
+  'f1-singapore-gp-qualifying-norris-pole-2026': {
+    fr: {
+      title: "GP de Singapour : Lando Norris décroche une pole magistrale devant Verstappen et Hamilton",
+      subtitle: "Le pilote McLaren signe un tour record en 1:29.525 sous les projecteurs tandis que Carlos Sainz sort de piste.",
+      excerpt: "Lando Norris a dominé les qualifications à Marina Bay, devançant Max Verstappen de deux dixièmes pour s'offrir la pole.",
+      body: [
+        "Les qualifications nocturnes à Singapour ont couronné Lando Norris, auteur d'un tour d'anthologie sur le tracé urbain de Marina Bay.",
+        "Au volant de sa McLaren, le Britannique a claqué un 1:29.525 en Q3, reléguant Max Verstappen à deux dixièmes et Lewis Hamilton au 3e rang.",
+        "La séance a été marquée par le violent crash de Carlos Sainz au virage 19, reléguant Ferrari aux 9e et 10e places sur la grille.",
+      ],
+    },
+    es: {
+      title: "GP de Singapur: Lando Norris logra una pole sensacional por delante de Verstappen y Hamilton",
+      subtitle: "La estrella de McLaren vuela en 1:29.525 bajo las luces de Marina Bay mientras el accidente de Sainz frena la Q3.",
+      excerpt: "Lando Norris superó a Max Verstappen por dos décimas para adjudicarse la pole position en las calles de Singapur.",
+      body: [
+        "La sesión de clasificación en Marina Bay coronó a Lando Norris tras una vuelta perfecta bajo los reflectores de Singapur.",
+        "Norris detuvo el reloj en 1:29.525 con su McLaren para superar por 0.203s a Max Verstappen y dejar a Lewis Hamilton en tercer puesto.",
+        "Un fuerte accidente de Carlos Sainz en la curva 19 provocó bandera roja en la Q3, dejando a Ferrari en la novena y décima posición.",
+      ],
+    },
+    de: {
+      title: "GP von Singapur: Lando Norris stürmt zur Traum-Pole vor Verstappen und Hamilton",
+      subtitle: "McLaren-Star fährt 1:29,525 unter Flutlicht in Marina Bay, während Sainz-Crash Q3 überschattet.",
+      excerpt: "Lando Norris sicherte sich mit zwei Zehnteln Vorsprung auf Max Verstappen die Pole-Position beim Nachtrennen in Singapur.",
+      body: [
+        "Das Qualifying von Singapur unter dem Nachthimmel von Marina Bay endete mit einer Meisterleistung von Lando Norris.",
+        "Mit einer Fabelzeit von 1:29,525 sicherte sich der McLaren-Pilot den ersten Startplatz vor Titelrivale Max Verstappen (+0,203s).",
+        "Lewis Hamilton stellte seinen Ferrari auf Startplatz drei, während ein Unfall von Carlos Sainz in Kurve 19 die Q3 unterbrach.",
+      ],
+    },
+    it: {
+      title: "GP Singapore: Lando Norris conquista una pole stellare davanti a Verstappen e Hamilton",
+      subtitle: "Il pilota McLaren brilla in 1:29.525 tra le luci di Marina Bay, mentre l'incidente di Sainz gela la Q3.",
+      excerpt: "Lando Norris ha battuto Max Verstappen di due decimi conquistando la pole position per la gara notturna di Singapore.",
+      body: [
+        "Le qualifiche bagnate dai riflettori di Marina Bay hanno visto trionfare Lando Norris con una McLaren velocissima.",
+        "Il crono di 1:29.525 ha consentito al pilota inglese di precedere Max Verstappen di due decimi e Lewis Hamilton di tre decimi.",
+        "La sessione è stata interrotta dal pesante impatto a muro di Carlos Sainz in curva 19, che ha costretto le Ferrari al nono e decimo posto.",
+      ],
+    },
+    pl: {
+      title: "GP Singapuru: Lando Norris zdobywa rewelacyjne pole position przed Verstappenem i Hamiltonem",
+      subtitle: "Gwiazda McLarena uzyskała czas 1:29.525 pod światłami Marina Bay, podczas gdy wypadek Sainza przerwał Q3.",
+      excerpt: "Lando Norris okazał się szybszy o dwie dziesiąte od Maxa Verstappena i wystartuje z pole position w Singapurze.",
+      body: [
+        "Kwalifikacje pod światłami Marina Bay przyniosły popis jazdy Lando Norrisa na trudnym torze ulicznym w Singapurze.",
+        "Brytyjczyk wykręcił rewelacyjne 1:29.525, wyprzedzając Maxa Verstappena o 0,203 sekundy i Lewisa Hamiltona o 0,316 sekundy.",
+        "Sesję Q3 na kilka minut przerwał groźny wypadek Carlosa Sainza w 19. zakręcie, co zepchnęło Ferrari na odległe pozycje startowe.",
+      ],
+    },
+    zh: {
+      title: "F1新加坡大奖赛：诺里斯力压维斯塔潘与汉密尔顿夺得杆位，塞恩斯撞墙引发红旗",
+      subtitle: "迈凯伦车手在滨海湾灯光下飙出1分29秒525创纪录飞驰圈锁定首发位置",
+      excerpt: "兰多·诺里斯在新加坡排位赛Q3跑出超凡表现，领先维斯塔潘0.203秒夺得个人本赛季第五个杆位。",
+      body: [
+        "新加坡滨海湾街道赛道周六夜间排位赛高潮迭起，迈凯伦车手诺里斯凭借极致精准的操控夺下杆位。",
+        "诺里斯在Q3跑出1分29秒525的惊人成绩，力压红牛车手维斯塔潘与法拉利车手汉密尔顿，锁定周日正赛头排起跑席位。",
+        "法拉利车手塞恩斯在19号弯尾部失控撞墙引发红旗中断，勒克莱尔飞驰圈因超限被取消，法拉利正赛只能从第九和第十位起跑。",
+      ],
+    },
+    ja: {
+      title: "F1シンガポールGP：ノリスがフェルスタッペンとハミルトンを抑え圧巻のポールポジション獲得",
+      subtitle: "マリーナ・ベイのナイトセッションで1分29秒525を記録、サインツのクラッシュでQ3赤旗中断も",
+      excerpt: "ランド・ノリスがシンガポール市街地で0.2秒差の完璧なアタックを決め、今季5回目のポールポジションを奪取した。",
+      body: [
+        "酷暑とコンクリートウォールに囲まれたマリーナ・ベイで、ランド・ノリスが見事なポールポジションを獲得しました。",
+        "ノリスはQ3ラストアタックで1分29秒525をマークし、マックス・フェルスタッペンを0.203秒抑えて最前列を確保しました。",
+        "ルイス・ハミルトンが3番手に食い込んだ一方、カルロス・サインツのクラッシュで赤旗が出されフェラーリは明暗が分かれました。",
+      ],
+    },
+    ko: {
+      title: "F1 싱가포르 GP: 랜도 노리스, 베르스타펜과 해밀턴 꺾고 환상적인 폴포지션 차지",
+      subtitle: "마리나 베이 조명 아래 1분 29초 525 랩타임 기록, 사인츠 충돌로 Q3 레드플래그 발생",
+      excerpt: "맥라렌의 랜도 노리스가 막스 베르스타펜을 0.2초 차로 제치고 싱가포르 야간 레이스 폴포지션을 획득했다.",
+      body: [
+        "마리나 베이 시가지 서킷의 야간 예선에서 랜도 노里斯가 압도적인 주행으로 폴포지션을 거머쥐었습니다.",
+        "노리스는 Q3 최종 주행에서 1분 29초 525를 기록하며 라이벌 막스 베르스타펜과 루이스 해밀턴을 제치고 맨 앞자리를 차지했습니다.",
+        "카를로스 사인츠가 19번 코너에서 방호벽과 충돌하며 레드플래그가 발령되는 등 치열한 드라마가 펼쳐졌습니다.",
+      ],
+    },
+    ar: {
+      title: "جائزة سنغافورة الكبرى: لاندو نوريس يقتنص قطب الانطلاق الأول متفوقا على فيرستابن وهاميلتون",
+      subtitle: "نجم مكلارين يسجل 1:29.525 تحت أضواء مارينا باي وسط حادث اصطدام قوي لكارلوس ساينز.",
+      excerpt: "لاندو نوريس يحرز قطب الانطلاق الأول في سباق سنغافورة الليلي متقدما بفارق عُشرين من الثانية على ماكس فيرستابن.",
+      body: [
+        "شهدت الحصة التأهيلية لسباق جائزة سنغافورة الكبرى إثارة بالغة تحت أضواء مارينا باي مع تألق لاندو نوريس.",
+        "سجل البريطاني زمنا مبهرا قدره 1:29.525 ليضمن الانطلاق من المركز الأول أمام ماكس فيرستابن ولويس هاميلتون.",
+        "وتوقفت الحصة الثالثة مؤقتا بالعلم الأحمر إثر حادث اصطدام عنيف للإسباني كارلوس ساينز بالمنعطف رقم 19.",
+      ],
+    },
+  },
 };
 
 

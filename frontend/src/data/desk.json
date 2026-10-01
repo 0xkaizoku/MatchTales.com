@@ -1,41 +1,41 @@
 {
-  "asOf": "2026-10-02",
+  "asOf": "2026-10-03",
   "premierLeagueTable": [
     {
       "pos": 1,
       "team": "Manchester City",
-      "p": 6,
-      "w": 6,
+      "p": 7,
+      "w": 7,
       "d": 0,
       "l": 0,
-      "gf": 15,
-      "ga": 6,
-      "gd": 9,
-      "pts": 18
+      "gf": 17,
+      "ga": 7,
+      "gd": 10,
+      "pts": 21
     },
     {
       "pos": 2,
       "team": "Arsenal",
-      "p": 6,
-      "w": 5,
+      "p": 7,
+      "w": 6,
       "d": 0,
       "l": 1,
-      "gf": 10,
-      "ga": 4,
-      "gd": 6,
-      "pts": 15
+      "gf": 13,
+      "ga": 5,
+      "gd": 8,
+      "pts": 18
     },
     {
       "pos": 3,
       "team": "Liverpool",
-      "p": 6,
-      "w": 4,
+      "p": 7,
+      "w": 5,
       "d": 0,
       "l": 2,
-      "gf": 11,
+      "gf": 12,
       "ga": 7,
-      "gd": 4,
-      "pts": 12
+      "gd": 5,
+      "pts": 15
     },
     {
       "pos": 4,
@@ -64,13 +64,13 @@
     {
       "pos": 6,
       "team": "Brentford",
-      "p": 5,
+      "p": 6,
       "w": 2,
       "d": 3,
-      "l": 0,
-      "gf": 10,
-      "ga": 4,
-      "gd": 6,
+      "l": 1,
+      "gf": 11,
+      "ga": 6,
+      "gd": 5,
       "pts": 9
     },
     {
@@ -444,7 +444,14 @@
       "time": "8:15 p.m. ET",
       "home": "San Francisco 49ers",
       "away": "Los Angeles Rams",
-      "note": "Thursday Night Football: NFC West rivals clash at Levi's Stadium to open Week 4."
+      "note": "FINAL: 49ers 24, Rams 20. Purdy two TDs, McCaffrey go-ahead score, 4th-down goal-line stop."
+    },
+    {
+      "date": "2026-10-04",
+      "time": "8:20 p.m. ET",
+      "home": "Baltimore Ravens",
+      "away": "Buffalo Bills",
+      "note": "Sunday Night Football: Undefeated 3-0 Bills clash with Lamar Jackson and Derrick Henry at M&T Bank Stadium."
     }
   ],
   "usOpenQF": [

@@ -1,22 +1,22 @@
 {
   "funFacts": [
-    "Carlos Alcaraz struck 26 winners to dismiss Karen Khachanov in straight sets and reach his fifth semifinal of the season.",
-    "Jannik Sinner saved a set point in the second-set tiebreak to win his 15th consecutive match across all surfaces.",
-    "Aryna Sabalenka extended her winning streak to 15 matches by defeating Madison Keys 6-4, 6-3 on Diamond Court."
+    "Carlos Alcaraz won 82% of first-serve points to defeat Daniil Medvedev in straight sets and reach his first China Open final.",
+    "Jannik Sinner extended his winning streak to 15 matches by dispatching home favorite Bu Yunchaokete 6-3, 7-6(3).",
+    "Alcaraz and Sinner will contest their tenth career ATP Tour meeting in Sunday's championship final."
   ],
   "keyPlayers": [
     {
       "name": "Carlos Alcaraz",
       "team": "ATP",
-      "hook": "Commanding 7-5, 6-2 quarterfinal triumph over Karen Khachanov to stay on collision course with Sinner."
+      "hook": "Struck 28 winners in a commanding 7-5, 6-3 semifinal victory over Daniil Medvedev on Diamond Court."
     },
     {
       "name": "Jannik Sinner",
       "team": "ATP",
-      "hook": "World No. 1 overcame a stubborn test from Jiri Lehecka 6-2, 7-6(6) to secure his place in the final four."
+      "hook": "Defending champion weathered Bu Yunchaokete's spirited charge to seal a 6-3, 7-6(3) semifinal win."
     }
   ],
-  "headToHead": "Alcaraz extends his unbeaten record against Khachanov to 4-0, while Sinner moves to 3-0 over Lehecka.",
+  "headToHead": "Alcaraz extends his ATP head-to-head advantage over Medvedev to 6-2 with three straight wins.",
   "tags": [
     "tennis",
     "atp",
@@ -36,8 +36,8 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Quarter-finals · Sinner & Alcaraz Advance",
-  "resultSummary": "Alcaraz def. Khachanov 7-5, 6-2; Sinner def. Lehecka 6-2, 7-6(6); Sabalenka def. Keys 6-4, 6-3; Gauff advances to semifinals",
+  "roundLabel": "Semi-finals · Alcaraz & Sinner Set Dream Final",
+  "resultSummary": "Alcaraz def. Medvedev 7-5, 6-3; Sinner def. Bu 6-3, 7-6(3); Muchova def. Sabalenka 7-6, 2-6, 6-4; Gauff advances",
   "leaderboard": [],
   "tennisSets": [
     {
@@ -46,20 +46,20 @@
     },
     {
       "p1": "6",
-      "p2": "2"
+      "p2": "3"
     }
   ],
   "sources": [
     {
-      "name": "ATP Tour: Alcaraz and Sinner surge into Beijing semifinals",
+      "name": "ATP Tour: Alcaraz and Sinner set up blockbuster Beijing final",
       "url": "https://www.atptour.com/en/tournaments/beijing/747/overview"
     },
     {
-      "name": "WTA Tennis: Sabalenka and Gauff march on in China Open",
+      "name": "WTA Tennis: China Open semifinals and tournament report",
       "url": "https://www.wtatennis.com/tournament/1020/beijing"
     },
     {
-      "name": "China Open official portal: Quarterfinals results",
+      "name": "China Open official portal: Semifinals results",
       "url": "http://www.chinaopen.com/en/"
     }
   ],
@@ -67,17 +67,17 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "china-open-beijing-2026",
-  "headline": "China Open: Alcaraz and Sinner advance to Beijing semifinals as dream clash nears",
-  "whyCareScore": 9.5,
-  "whyCareReason": "Carlos Alcaraz powers past Karen Khachanov and Jannik Sinner battles through Jiri Lehecka to set up a blockbuster semifinal weekend in Beijing.",
-  "teaser": "Friday at National Tennis Center: Alcaraz sweeps Khachanov 7-5, 6-2; Sinner edges Lehecka 6-2, 7-6(6); Sabalenka rolls past Keys 6-4, 6-3 into the WTA final four.",
-  "story": "Why this one matters: Friday's quarterfinal session at the China Open delivered championship-level intensity as the world's top two men pushed toward an irresistible collision.\n\nCarlos Alcaraz produced a masterclass of controlled aggression, dismantling Karen Khachanov 7-5, 6-2 on Diamond Court. The 21-year-old Spaniard struck 26 winners and broke Khachanov four times, sealing his 47th match win of the season in one hour and 36 minutes.\n\nEarlier on center court, defending champion Jannik Sinner displayed trademark poise under pressure. Facing Jiri Lehecka, Sinner cruised through the opening set before saving a set point at 4-6 in the second-set tiebreak to prevail 6-2, 7-6(6). With Aryna Sabalenka and Coco Gauff also advancing into the WTA semifinals, the tournament heads into a blockbuster weekend.",
-  "stakes": "Crucial 500 ranking points in the ATP Race to Turin and a potential World No. 1 vs World No. 2 showdown in the final.",
-  "rivalryAngle": "Sinner and Alcaraz remain on a direct collision course for the Beijing crown, headlining tennis's premier modern rivalry.",
+  "headline": "China Open: Alcaraz sweeps Medvedev and Sinner defeats Bu to set up dream Beijing final",
+  "whyCareScore": 9.7,
+  "whyCareReason": "Carlos Alcaraz and Jannik Sinner deliver clinical semifinal performances on Diamond Court to set up tennis's ultimate modern title collision.",
+  "teaser": "Saturday at National Tennis Center: Alcaraz beats Medvedev 7-5, 6-3; Sinner overcomes Bu 6-3, 7-6(3) as the world's top two young titans book a championship date.",
+  "story": "Why this one matters: Saturday's semifinal action at the China Open delivered the exact outcome tennis fans across the globe craved, locking Carlos Alcaraz and Jannik Sinner into a heavyweight final showdown in Beijing.\n\nAlcaraz stepped onto Diamond Court first and dismantled former US Open champion Daniil Medvedev 7-5, 6-3. Displaying breathtaking versatility with heavy forehands and deft drop shots, the 21-year-old Spaniard broke Medvedev three times and never lost control of the tempo, advancing to his fifth tour final of 2026.\n\nIn the evening session, World No. 1 and defending champion Jannik Sinner handled a fired-up home crowd supporting China's Bu Yunchaokete. Sinner stayed ice-cold in the key moments, firing 24 winners and closing out a 6-3, 7-6(3) win. Sunday will witness the tenth chapter of the sport's greatest modern rivalry.",
+  "stakes": "The ATP 500 title, 500 ranking points in the ATP Race to Turin, and head-to-head supremacy between the sport's top two stars.",
+  "rivalryAngle": "Alcaraz leads Sinner 5-4 in their epic head-to-head series, with Sunday marking their first clash since Roland Garros.",
   "home": "Carlos Alcaraz",
-  "away": "Karen Khachanov",
+  "away": "Daniil Medvedev",
   "group": "ATP",
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "time": "14:00",
   "venue": "National Tennis Center",
   "city": "Beijing",
