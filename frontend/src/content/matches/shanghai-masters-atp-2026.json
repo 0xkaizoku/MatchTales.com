@@ -1,0 +1,80 @@
+{
+  "funFacts": [
+    "The Rolex Shanghai Masters returns as Asia's sole ATP Masters 1000 event, featuring an expanded 96-player singles draw across 12 days.",
+    "Carlos Alcaraz arrives in Shanghai riding a nine-match winning streak following back-to-back tournament triumphs at the Laver Cup and China Open in Beijing.",
+    "Novak Djokovic returns to Shanghai competing for an unprecedented fifth title, having previously lifted the trophy in 2012, 2013, 2015, and 2018."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Jannik Sinner",
+      "team": "ATP",
+      "hook": "World No. 1 leads the top half of the draw, aiming to rebound immediately after an epic three-set final in Beijing."
+    },
+    {
+      "name": "Carlos Alcaraz",
+      "team": "ATP",
+      "hook": "Fresh off his thrilling 3h21m Beijing triumph, the world No. 2 headlines the bottom half with sights set on the year-end No. 1 ranking."
+    }
+  ],
+  "headToHead": "Alcaraz and Sinner are seeded to meet only in the championship final on Sunday.",
+  "tags": [
+    "tennis",
+    "atp",
+    "shanghai-masters",
+    "atp-1000",
+    "alcaraz",
+    "sinner",
+    "djokovic"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "First Round · Main Draw Kickoff at Qizhong Arena",
+  "resultSummary": "Main draw underway: Wawrinka, Nishikori, and Monfils open play; Top 32 seeds receive opening-round byes",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ATP Tour: Rolex Shanghai Masters tournament preview and draw",
+      "url": "https://www.atptour.com/en/tournaments/shanghai/5014/overview"
+    },
+    {
+      "name": "Rolex Shanghai Masters official site: Draw and schedule",
+      "url": "https://www.rolexshanghaimasters.com"
+    },
+    {
+      "name": "Tennis.com: Alcaraz, Sinner lead elite field in Shanghai",
+      "url": "https://www.tennis.com/tournaments/shanghai-masters"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "shanghai-masters-atp-2026",
+  "headline": "Rolex Shanghai Masters: ATP 1000 main draw kicks off with Alcaraz, Sinner, and Djokovic eyeing Asian hardcourt glory",
+  "whyCareScore": 9.7,
+  "whyCareReason": "The premier ATP Masters 1000 tournament in Asia gets underway at Qizhong Forest Sports City Arena with 1,000 ranking points and the battle for year-end world No. 1 on the line.",
+  "teaser": "Monday in Shanghai: First round matches begin as the tennis world turns to Qizhong Arena, with Jannik Sinner, Carlos Alcaraz, Alexander Zverev, and four-time champion Novak Djokovic headlining the draw.",
+  "story": "Why this one matters: Just twenty-four hours after Carlos Alcaraz and Jannik Sinner staged a 3h21m masterpiece in Beijing, the epicenter of men's tennis shifts 800 miles south to the futuristic Qizhong Forest Sports City Arena for the Rolex Shanghai Masters.\n\nAs the eighth ATP Masters 1000 event of the calendar, Shanghai offers 1,000 crucial ranking points in the ATP Race to Turin. Sinner enters as the top seed, seeking immediate redemption after falling in Sunday's deciding tiebreak. Alcaraz arrives brimming with momentum, riding a nine-match winning streak that includes crowns at the Laver Cup and China Open.\n\nAdding immense intrigue to the field is four-time Shanghai champion Novak Djokovic, who makes his much-anticipated return to Chinese soil aiming for his 41st career Masters 1000 title. With early-round clashes featuring veterans like Stan Wawrinka and Kei Nishikori alongside rising stars, Shanghai promises twelve days of world-class drama.",
+  "stakes": "1,000 ATP ranking points, a 1.1 million dollar winner's check, and critical positioning in the race for year-end World No. 1.",
+  "rivalryAngle": "Sinner and Alcaraz could meet for the fourth time in 2026, while Djokovic lurks on Alcaraz's side of the draw in a potential semifinal blockbuster.",
+  "home": "Jannik Sinner",
+  "away": "Carlos Alcaraz",
+  "group": "ATP",
+  "date": "2026-10-05",
+  "time": "12:00",
+  "venue": "Qizhong Forest Sports City Arena",
+  "city": "Shanghai",
+  "status": "UPCOMING",
+  "sport": "tennis",
+  "competition": "atp-shanghai-masters-2026"
+}

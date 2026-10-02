@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-04",
+  "asOf": "2026-10-05",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -452,6 +452,20 @@
       "home": "Baltimore Ravens",
       "away": "Buffalo Bills",
       "note": "FINAL: Ravens 35, Bills 10. Henry 199 rush yds, 2 TDs (87-yd TD run). Jackson 3 total TDs. Bills handed first loss."
+    },
+    {
+      "date": "2026-10-05",
+      "time": "8:15 p.m. ET",
+      "home": "Detroit Lions",
+      "away": "Seattle Seahawks",
+      "note": "FINAL: Lions 42, Seahawks 29. Goff historic 18-for-18 (100%), 292 yds, 2 passing TDs, 1 TD catch. Walker 3 TDs for Seattle."
+    },
+    {
+      "date": "2026-10-05",
+      "time": "7:30 p.m. ET",
+      "home": "Miami Dolphins",
+      "away": "Tennessee Titans",
+      "note": "FINAL: Titans 31, Dolphins 12. Pollard 88 rush yds, TD; Titans force three turnovers in road rout."
     }
   ],
   "usOpenQF": [

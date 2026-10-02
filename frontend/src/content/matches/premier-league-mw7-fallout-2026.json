@@ -1,0 +1,80 @@
+{
+  "funFacts": [
+    "Tottenham have dropped 10 points from winning positions in the Premier League this season, the most of any club in the top flight.",
+    "Manchester City are the only team across Europe's top five leagues with a 100 percent winning record through seven domestic matches in 2026-27.",
+    "Brighton scored three goals in a span of 18 minutes against Tottenham to climb into the top four of the Premier League table."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Fabian Hurzeler",
+      "team": "Brighton & Hove Albion",
+      "hook": "The 31-year-old manager orchestrated a tactical masterclass at halftime to completely dismantle Tottenham's high defensive line."
+    },
+    {
+      "name": "Ange Postecoglou",
+      "team": "Tottenham Hotspur",
+      "hook": "Facing heavy scrutiny after watching his team squander a 2-0 halftime lead to suffer their fourth league defeat."
+    }
+  ],
+  "headToHead": "Manchester City lead the Premier League with 21 points, three clear of Arsenal (18) and six clear of Liverpool (15).",
+  "tags": [
+    "premier-league",
+    "brighton",
+    "tottenham",
+    "manchester-city",
+    "arsenal",
+    "mw7",
+    "table"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 7,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026-27",
+  "roundLabel": "Matchweek 7 · Post-Round Washup & Table Analysis",
+  "resultSummary": "Man City lead table at 21 pts (7-0-0); Brighton 4th on 14 pts; Spurs in crisis; International break begins",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Premier League official site: Matchweek 7 table and statistics",
+      "url": "https://www.premierleague.com/tables"
+    },
+    {
+      "name": "The Athletic: Why Tottenham collapsed at Brighton and what it means for Postecoglou",
+      "url": "https://www.nytimes.com/athletic/football/premier-league/spurs-collapse-brighton-tactical-analysis"
+    },
+    {
+      "name": "BBC Sport: Premier League review: City flawless, Brighton flying, Spurs reeling",
+      "url": "https://www.bbc.co.uk/sport/football/premier-league"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "premier-league-mw7-fallout-2026",
+  "headline": "Premier League MW7 Washup: Tottenham reel from Brighton collapse as Man City sit clear on 21 points",
+  "whyCareScore": 9.6,
+  "whyCareReason": "Brighton's stunning 18-minute comeback leaves Tottenham in full crisis mode with 10 points dropped from winning positions, while Manchester City cement total perfection entering the international break.",
+  "teaser": "Monday in the Premier League: Tactical fallout from Brighton's 3-2 comeback over Spurs sends shockwaves through North London, as Pep Guardiola's Manchester City reign supreme with 21 points from seven matches.",
+  "story": "Why this one matters: As the Premier League pauses for the October international break, Matchweek 7 concluded with an afternoon of unbridled tactical chaos that fundamentally reshaped both ends of the table.\n\nAt the Amex Stadium on Sunday, Tottenham Hotspur appeared in complete control at 2-0 up thanks to goals from Brennan Johnson and James Maddison. But Fabian Hürzeler's halftime adjustments flipped the contest upside down. Yankuba Minteh struck within three minutes of the restart, Georginio Rutter leveled through individual tenacity, and Danny Welbeck headed home a glorious winner in the 66th minute to seal an unbelievable 3-2 Brighton triumph.\n\nThe collapse leaves Ange Postecoglou's side reeling. Spurs have now surrendered 10 points from winning positions in the league this season, marooned in 20th place with just two points from six matches. Meanwhile, Manchester City sit comfortably alone at the summit, boasting a flawless 21 points (7-0-0) ahead of Arsenal (18 points) and Liverpool (15 points). With players now departing for World Cup qualifiers and Nations League duty, the fortnight ahead will bring intense soul-searching across North London.",
+  "stakes": "Managerial stability at Tottenham, Brighton's push for Champions League qualification, and City's march toward an unprecedented title defense.",
+  "rivalryAngle": "Tottenham must stew over an embarrassing collapse for two weeks during the break, while Brighton celebrate rising into fourth position.",
+  "home": "Brighton & Hove Albion",
+  "away": "Tottenham Hotspur",
+  "group": "Premier League",
+  "date": "2026-10-05",
+  "time": "11:00",
+  "venue": "Amex Stadium & Premier League Desks",
+  "city": "Brighton",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "premier-league-2026"
+}

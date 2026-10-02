@@ -6910,6 +6910,558 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+  'nfl-week4-mnf-lions-seahawks-42-29-goff-perfect-2026': {
+    fr: {
+      title: "NFL MNF : Jared Goff signe un 18/18 parfait historique, les Lions dominent Seattle 42-29",
+      subtitle: "Le quarterback de Detroit bat le record absolu de la NFL de passes réussies sans le moindre échec.",
+      excerpt: "Jared Goff a livré le match le plus précis de l'histoire de la NFL avec 18 sur 18 pour 292 yards et deux touchdowns, plus un touchdown réceptionné.",
+      body: [
+        "Ford Field a été le théâtre d'une performance historique lundi soir avec la démonstration de perfection absolue de Jared Goff.",
+        "Goff a complété l'intégralité de ses 18 tentatives de passe pour 292 yards et deux touchdowns, effaçant le record NFL de Kurt Warner.",
+        "Avec un touchdown réceptionné sur une feinte d'Amon-Ra St. Brown et deux touchdowns de Jahmyr Gibbs, Detroit s'impose 42-29 et brise une disette de 12 ans contre Seattle.",
+      ],
+    },
+    es: {
+      title: "NFL MNF: Jared Goff logra un histórico 18 de 18 perfecto y los Lions vencen 42-29 a los Seahawks",
+      subtitle: "El mariscal de Detroit rompe el récord de todos los tiempos de la NFL de pases sin fallo, sumando dos touchdowns aéreos y uno recibido.",
+      excerpt: "Jared Goff firmó la actuación de pase más precisa en la historia de la NFL con 18 de 18 para 292 yardas en el triunfo de Detroit sobre Seattle.",
+      body: [
+        "El Ford Field vivió una noche legendaria con la actuación sin precedentes de Jared Goff al completar el 100% de sus pases.",
+        "Goff completó sus 18 envíos para 292 yardas y dos touchdowns, superando la plusmarca histórica de la NFL de pases sin interrupción ni fallo.",
+        "Jahmyr Gibbs sumó dos anotaciones terrestres y Kerby Joseph selló el triunfo 42-29 con una intercepción en los minutos finales.",
+      ],
+    },
+    de: {
+      title: "NFL MNF: Jared Goff mit historischem 18 von 18 perfekten Passspiel beim 42:29-Sieg der Lions gegen Seahawks",
+      subtitle: "Detroits Quarterback bricht den ewigen NFL-Rekord für die meisten Pässe ohne Fehlwurf und fängt selbst einen Touchdown.",
+      excerpt: "Jared Goff zeigte die präziseste Passleistung der NFL-Geschichte: 18 von 18 für 292 Yards und zwei Touchdowns beim Sieg über Seattle.",
+      body: [
+        "Jared Goff schrieb am Montagabend NFL-Geschichte, als er jeden einzelnen seiner 18 Pässe für 292 Yards an den Mann brachte.",
+        "Zusätzlich fing Goff einen 7-Yard-Touchdown-Pass von Amon-Ra St. Brown bei einem spektakulären Trickspielzug im dritten Viertel.",
+        "Die Detroit Lions gewannen das Offensivspektakel mit 42:29 gegen Seattle und verbesserten ihre Bilanz auf 3-1.",
+      ],
+    },
+    it: {
+      title: "NFL MNF: Jared Goff firma un perfetto 18 su 18 storico e i Lions superano i Seahawks 42-29",
+      subtitle: "Il quarterback di Detroit stabilisce il record assoluto NFL di completi senza errori, con due touchdown lanciati e uno ricevuto.",
+      excerpt: "Jared Goff ha firmato la partita al lancio più precisa della storia NFL con 18 su 18 per 292 yard nel successo dei Lions a Ford Field.",
+      body: [
+        "Una notte da leggenda al Ford Field dove Jared Goff ha riscritto i record della NFL con una precisione chirurgica del 100%.",
+        "Goff ha completato 18 passaggi su 18 per 292 yard e due mete, ricevendo anche un touchdown su ricezione da St. Brown.",
+        "I Lions salgono a 3-1 nella NFC North infliggendo ai Seahawks la prima sconfitta stagionale al termine di un pirotecnico 42-29.",
+      ],
+    },
+    pl: {
+      title: "NFL MNF: Jared Goff z perfekcyjnym 18 na 18 przechodzi do historii, Lions pokonują Seahawks 42-29",
+      subtitle: "Rozgrywający Detroit pobił rekord wszech czasów NFL pod względem celności bez niecelnego podania.",
+      excerpt: "Jared Goff rozegrał najbardziej precyzyjny mecz w historii ligi NFL, trafiając 18 z 18 podań na 292 jardy i dwa przyłożenia.",
+      body: [
+        "Ford Field stało się świadkiem absolutnego rekordu NFL, gdy Jared Goff nie pomylił się ani razu w 18 próbach podaniowych.",
+        "Goff dorzucił do tego przyłożenie po chwycie po zagrywce trickowej od Amon-Ra St. Browna w trzeciej kwarcie.",
+        "Detroit Lions wygrali 42-29, przerywając passę sześciu kolejnych porażek z Seattle i awansując na bilans 3-1.",
+      ],
+    },
+    zh: {
+      title: "NFL周一夜赛：高夫18投18中创历史纪录，雄狮42-29力克海鹰破12年魔咒",
+      subtitle: "底特律四分卫打破NFL单场全中传球纪录，送出两次传球达阵并上演接球达阵",
+      excerpt: "贾里德-高夫在福特球场打出了NFL历史上最精准的传球表现，18传全中推进292码，率领雄狮42-29击败西雅图海鹰。",
+      body: [
+        "底特律福特球场周一见证了NFL百年历史级的一战，贾里德-高夫全场18次传球全部命中，创下历史单场100%命中率最高出手纪录。",
+        "除了传出292码和两次达阵，高夫还在第三节接圣布朗传球完成一次精彩的7码接球达阵。",
+        "雄狮最终以42-29击溃西雅图海鹰，终结了对对手长达12年的六连败，战绩升至3胜1负。",
+      ],
+    },
+    ja: {
+      title: "NFLマンデーナイト：ゴフが18打数18安打の完璧投球で歴代記録樹立、ライオンズが42-29で快勝",
+      subtitle: "デトロイトのQBがパス成功率100%の歴代新記録を更新、2TDパスに加えTDレシーブも達成",
+      excerpt: "ジャレッド・ゴフが18本すべてのパスを通し292ヤードを記録、デトロイト・ライオンズがシーホークスに42-29で快勝。",
+      body: [
+        "フォード・フィールドでジャレッド・ゴフが1本のミスパスもなく18回すべてのパスを成功させ、NFL記録を塗り替えました。",
+        "第3クォーターにはアモン＝ラ・セントブラウンからのトリックプレーで自身も7ヤードのTDキャッチを記録しました。",
+        "ライオンズは42-29でシーホークスを下し、シーホークス戦の連敗をストップして3勝1敗としました。",
+      ],
+    },
+    ko: {
+      title: "NFL 먼데이 나이트: 재러드 고프 18패스 100% 성공 대기록, 라이언스 42-29 시애틀 제압",
+      subtitle: "디트로이트 쿼터백, 단 한 번의 실패도 없는 최다 패스 성공 NFL 역대 신기록 수립",
+      excerpt: "재러드 고프가 18번의 패스를 모두 적중시키며 292야드와 2개의 터치다운을 기록, 라이언스가 시애틀에 42-29 승리를 거뒀다.",
+      body: [
+        "포드 필드에서 열린 경기에서 재러드 고프가 18번의 패스 시도를 모두 성공시키는 경이로운 플레이로 NFL 역사를 새로 썼습니다.",
+        "고프는 292야드와 2개의 패스 터치다운 외에도 세인트 브라운의 패스를 받아 직접 터치다운을 성공시켰습니다.",
+        "디트로이트 라이언스는 42-29로 시애틀을 꺾고 시애틀전 6연패 사슬을 끊어내며 3승 1패를 기록했습니다.",
+      ],
+    },
+    ar: {
+      title: "دوري كرة القدم الأمريكية MNF: جاريد غوف يسجل رقماً قياسياً بنسبة 100% ويقود لايونز للفوز 42-29",
+      subtitle: "لاعب ديترويت يكسر الرقم القياسي في تاريخ الدوري بإكمال 18 تمريرة من أصل 18 دون أي خطأ.",
+      excerpt: "قدم جاريد غوف الأداء الأكثر دقة في تاريخ NFL بإكماله 18 تمريرة من أصل 18 لمسافة 292 ياردة وتمريرتين حاسمتين ليفوز ديترويت على سياتل.",
+      body: [
+        "شهد ملعب فورد فيلد ليلة استثنائية دخل فيها جاريد غوف تاريخ دوري كرة القدم الأمريكية من أوسع أبوابه.",
+        "أكمل غوف 18 تمريرة من أصل 18 بنسبة نجاح 100% لمسافة 292 ياردة، بالإضافة إلى استقباله تمريرة هبوط مخادعة من سانت براون.",
+        "وحسم ديترويت لايونز المواجهة المثيرة بنتيجة 42-29 ليرفع رصيده إلى 3 انتصارات وهزيمة واحدة في صدارة المنافسة.",
+      ],
+    },
+  },
+  'shanghai-masters-2026-r1-preview-alcaraz-sinner-djokovic': {
+    fr: {
+      title: "Rolex Shanghai Masters : coup d'envoi du tableau principal avec Alcaraz, Sinner et Djokovic",
+      subtitle: "Le joyau de la tournée asiatique s'ouvre à la Qizhong Arena avec 1 000 points et le trône mondial en jeu.",
+      excerpt: "Le Masters 1000 de Shanghai lance son tableau principal avec Jannik Sinner, Carlos Alcaraz et Novak Djokovic en têtes d'affiche.",
+      body: [
+        "Vingt-quatre heures après la finale légendaire de Pékin, les projecteurs du tennis mondial se braquent sur la Qizhong Arena pour le Masters de Shanghai.",
+        "Sinner cherche une revanche immédiate tandis qu'Alcaraz arrive porté par une série de neuf victoires consécutives après ses titres en Laver Cup et à Pékin.",
+        "Novak Djokovic fait son grand retour en Chine pour briguer un cinquième sacre à Shanghai et son 100e titre en simple sur le circuit ATP.",
+      ],
+    },
+    es: {
+      title: "Rolex Shanghai Masters: arranca el cuadro principal con Alcaraz, Sinner y Djokovic en liza",
+      subtitle: "El torneo cumbre de la gira asiática comienza en Qizhong con 1.000 puntos y el número uno de fin de año en juego.",
+      excerpt: "El Masters 1000 de Shanghái da inicio a su cuadro principal en el Qizhong Arena con Sinner, Alcaraz y Novak Djokovic.",
+      body: [
+        "Apenas un día después de la final de 3h21 en Pekín, el circuito ATP aterriza en el imponente Qizhong Forest Arena para el Masters de Shanghái.",
+        "Jannik Sinner encabeza la parte alta del cuadro mientras Carlos Alcaraz busca extender su racha ganadora tras coronarse en Pekín.",
+        "El cuatro veces campeón Novak Djokovic regresa a territorio chino buscando conquistar su título número 100 como profesional.",
+      ],
+    },
+    de: {
+      title: "Rolex Shanghai Masters: Hauptfeld startet mit Alcaraz, Sinner und Djokovic im Fokus",
+      subtitle: "Asiens prestigeträchtigstes ATP-1000-Turnier beginnt in der Qizhong Arena mit 1.000 Punkten und dem Kampf um Platz 1.",
+      excerpt: "Das Rolex Shanghai Masters eröffnet sein 96er-Hauptfeld mit Jannik Sinner, Carlos Alcaraz und Novak Djokovic.",
+      body: [
+        "Nur 24 Stunden nach dem Marathon-Finale von Peking schlägt die Weltelite beim Rolex Shanghai Masters in der Qizhong Arena auf.",
+        "Der Weltranglistenerste Sinner strebt Wiedergutmachung an, während Alcaraz mit neun Siegen in Serie voller Selbstvertrauen antritt.",
+        "Auch Novak Djokovic greift nach fünf Jahren Abwesenheit wieder ins Geschehen ein und jagt seinen 100. Karrieretitel.",
+      ],
+    },
+    it: {
+      title: "Rolex Shanghai Masters: via al tabellone principale con Alcaraz, Sinner e Djokovic",
+      subtitle: "Il fiore all'occhiello dello swing asiatico parte alla Qizhong Arena con 1.000 punti e la vetta mondiale in palio.",
+      excerpt: "Il Masters 1000 di Shanghai apre i battenti con Jannik Sinner, Carlos Alcaraz e il ritorno di Novak Djokovic.",
+      body: [
+        "Dopo l'epica battaglia di Pechino, il circuito maschile si sposta alla spettacolare Qizhong Arena per il Rolex Shanghai Masters.",
+        "Jannik Sinner guida il seeding a caccia del riscatto immediato, mentre Carlos Alcaraz punta a chiudere il gap in classifica.",
+        "Il ritorno di Novak Djokovic, a caccia del suo quinto trionfo a Shanghai e del centesimo titolo ATP in carriera, nobilita il tabellone.",
+      ],
+    },
+    pl: {
+      title: "Rolex Shanghai Masters: rusza drabinka główna z Alcarazem, Sinnerem i Djokoviciem",
+      subtitle: "Największy turniej w Azji rozpoczyna zmagania w Qizhong Arena z 1000 punktami i walką o fotel lidera na szali.",
+      excerpt: "Rolex Shanghai Masters otwiera zmagania w turnieju głównym z Jannikiem Sinnerem, Carlosem Alcarazem i Novakiem Djokoviciem.",
+      body: [
+        "Dzień po niesamowitym finale w Pekinie uwaga fanów tenisa przenosi się do Szanghaju na przedostatni turniej Masters 1000 w tym sezonie.",
+        "Jannik Sinner i Carlos Alcaraz mogą spotkać się dopiero w wielkim finale, a w połówce Hiszpana czyha powracający Novak Djoković.",
+        "Stawka 1000 punktów rankingowych ma kluczowe znaczenie w wyścigu do turyńskiego ATP Finals.",
+      ],
+    },
+    zh: {
+      title: "上海劳力士大师赛正赛打响：阿尔卡拉斯、辛纳与德约科维奇领衔出征旗忠网球中心",
+      subtitle: "亚洲唯一ATP 1000大师赛开打，千分积分与年终世界第一争夺战拉开序幕",
+      excerpt: "2026年上海大师赛正赛周一正式揭幕，刚在中网夺冠的阿尔卡拉斯与世界第一辛纳、四届赛会冠军德约科维奇齐聚旗忠。",
+      body: [
+        "在北京经历3小时21分钟的史诗对决仅24小时后，世界男子网坛的目光迅速聚焦于上海旗忠森林体育城网球中心。",
+        "头号种子辛纳志在迅速反弹，而手握九连胜的阿尔卡拉斯则希望延续中网夺冠的火热手感，缩小与世界第一的积分差距。",
+        "四届赛会冠军德约科维奇时隔五年重返上海参赛，冲击个人职业生涯第100座单打冠军奖杯。",
+      ],
+    },
+    ja: {
+      title: "上海ロレックス・マスターズ：アルカラス、シナー、ジョコビッチが集結し本戦開幕",
+      subtitle: "アジア唯一のATPマスターズ1000が旗忠アリーナで開幕、世界ランク1位争いが激化",
+      excerpt: "上海マスターズの本戦が開幕。北京で優勝したアルカラス、世界1位のシナー、4度優勝のジョコビッチが頂点を狙う。",
+      body: [
+        "北京での歴史的決勝戦から一夜明け、アジア最高峰のトーナメントである上海マスターズが開幕しました。",
+        "リベンジを期す世界1位シナーと9連勝中のアルカラスが両ボトム・トップシードとして牽引します。",
+        "上海で4度の優勝を誇るノバク・ジョコビッチも参戦し、通算100個目のツアータイトル獲得を目指します。",
+      ],
+    },
+    ko: {
+      title: "상하이 롤렉스 마스터스 본선 개막: 알카라스, 시너, 조코비치 아시아 하드코트 정상 격돌",
+      subtitle: "치중 테니스 센터에서 펼쳐지는 아시아 유일의 ATP 1000 대회, 랭킹 1위 쟁탈전 개막",
+      excerpt: "상하이 마스터스 96강 본선 일정이 개막하며 야닉 시너, 카를로스 알카라스, 노박 조코비치가 우승 트로피를 향해 출격했다.",
+      body: [
+        "베이징에서의 혈투 직후 아시아 하드코트 시리즈의 클라이맥스인 상하이 롤렉스 마스터스가 치중 아레나에서 개막했습니다.",
+        "세계 1위 야닉 시너와 베이징 챔피언 카를로스 알카라스가 각각 1, 2번 시드로 우승을 노립니다.",
+        "상하이 통산 4회 우승자 노박 조코비치 역시 통산 100번째 투어 타이틀 획득을 위해 출전표를 던졌습니다.",
+      ],
+    },
+    ar: {
+      title: "بطولة شنغهاي للأساتذة: انطلاق القرعة الرئيسية بمشاركة ألكاراز وسينر وجوكوفيتش",
+      subtitle: "أكبر بطولات آسيا فئة 1000 نقطة تفتح أبوابها في صالة كيتشونغ للمنافسة على صدارة التصنيف العالمي.",
+      excerpt: "انطلقت مباريات الدور الأول لبطولة شنغهاي للأساتذة بمشاركة كبار نجوم التنس العالمي يتقدمهم سينر وألكاراز وجوكوفيتش.",
+      body: [
+        "بعد ساعات قليلة من نهائي بكين التاريخي، تتجه أنظار عشاق التنس نحو شنغهاي لانطلاق بطولة الأساتذة الكبرى.",
+        "يسعى يانيك سينر للتعويض السريع في حين يدخل كارلوس ألكاراز البطولة متسلحاً بتسع انتصارات متتالية.",
+        "ويعود الصربي نوفاك جوكوفيتش للمنافسة على الملاعب الصينية طامحاً لحصد لقبه رقم 100 في مسيرته الاحترافية.",
+      ],
+    },
+  },
+  'f1-singapore-gp-aftermath-norris-title-chase-lawson-2026': {
+    fr: {
+      title: "F1 compte à rebours Amériques : la démonstration de Norris relance le titre, Lawson titularisé chez RB",
+      subtitle: "McLaren prend 41 points d'avance chez les constructeurs tandis que Red Bull confie le volant de Ricciardo à Lawson pour Austin.",
+      excerpt: "La victoire de 20 secondes de Lando Norris à Singapour bouleverse le championnat avant la tournée américaine et l'arrivée de Liam Lawson chez RB.",
+      body: [
+        "La démonstration de Lando Norris à Singapour avec près de 21 secondes d'avance sur Max Verstappen a redistribué toutes les cartes.",
+        "McLaren s'envole en tête du classement des constructeurs avec 41 points d'avance sur Red Bull à six courses de la fin.",
+        "Dans le même temps, Red Bull a officialisé la titularisation du jeune Liam Lawson à la place de Daniel Ricciardo dès le Grand Prix des États-Unis.",
+      ],
+    },
+    es: {
+      title: "F1 cuenta atrás América: la exhibición de Norris reabre el mundial y Lawson debuta con RB",
+      subtitle: "McLaren estira a 41 puntos su ventaja de constructores mientras Red Bull sienta a Lawson en Austin en lugar de Ricciardo.",
+      excerpt: "El aplastante triunfo de Lando Norris en Marina Bay sacude la Fórmula 1 a las puertas del triplete americano y con Liam Lawson en RB.",
+      body: [
+        "Lando Norris dominó de principio a fin el GP de Singapur logrando una ventaja demoledora de casi 21 segundos sobre Verstappen.",
+        "McLaren aventaja ya en 41 puntos a Red Bull en el campeonato de constructores gracias al tercer escalón del podio de Piastri.",
+        "Red Bull confirmó además que el neozelandés Liam Lawson ocupará el asiento de Daniel Ricciardo en RB para las seis carreras restantes.",
+      ],
+    },
+    de: {
+      title: "F1 Amerika-Countdown: Norris-Gala heizt WM-Kampf an, Lawson übernimmt RB-Cockpit",
+      subtitle: "McLaren baut Konstrukteurs-Führung auf 41 Punkte aus, während Red Bull Liam Lawson für die letzten sechs Rennen bestätigt.",
+      excerpt: "Der 20-Sekunden-Vorsprung von Lando Norris in Singapur mischt die Formel-1-Weltmeisterschaft vor den Amerika-Rennen völlig neu auf.",
+      body: [
+        "Mit einem souveränen Start-Ziel-Sieg und 20,9 Sekunden Vorsprung vor Verstappen hat Lando Norris in Singapur ein deutliches Statement gesetzt.",
+        "McLaren führt nun mit 41 Punkten Vorsprung vor Red Bull in der Konstrukteurswertung.",
+        "Zudem verkündete Red Bull am Montag den Wechsel von Daniel Ricciardo zu Nachwuchsfahrer Liam Lawson ab dem Rennen in Austin.",
+      ],
+    },
+    it: {
+      title: "F1 conto alla rovescia Americhe: il dominio di Norris riapre il titolo, Lawson approda in RB",
+      subtitle: "McLaren porta a 41 i punti di vantaggio tra i costruttori mentre Red Bull promuove Lawson al posto di Ricciardo per Austin.",
+      excerpt: "Il trionfo con 20 secondi di margine di Norris a Marina Bay riaccende la lotta mondiale prima del trittico americano.",
+      body: [
+        "Il weekend di Marina Bay ha consacrato la supremazia McLaren con la perentoria vittoria di Lando Norris su Max Verstappen.",
+        "Il team di Woking guida ora il mondiale costruttori con 41 lunghezze di vantaggio sulla Red Bull in piena crisi d'assetto.",
+        "Nel paddock la notizia del giorno è l'ufficialità di Liam Lawson al posto di Daniel Ricciardo sulla Racing Bulls a partire da Austin.",
+      ],
+    },
+    pl: {
+      title: "F1 odliczanie do Ameryk: triumf Norrisa zaostrza walkę o tytuł, Lawson w bolidzie RB",
+      subtitle: "McLaren ma 41 punktów przewagi wśród konstruktorów, a Red Bull potwierdza Liama Lawsona na finałowe sześć wyścigów.",
+      excerpt: "Dominacja Lando Norrisa w Singapurze i 20 sekund przewagi nad Verstappenem otwierają walkę o mistrzostwo F1 przed wyścigami w Ameryce.",
+      body: [
+        "Lando Norris zdeklasował rywali w Singapurze, finiszując niemal 21 sekund przed Maxem Verstappenem.",
+        "McLaren powiększył przewagę w klasyfikacji konstruktorów do 41 punktów nad Red Bullem.",
+        "Red Bull ogłosił jednocześnie, że 22-letni Liam Lawson zastąpi Daniela Ricciardo w zespole RB do końca sezonu 2026.",
+      ],
+    },
+    zh: {
+      title: "F1美洲三连赛前瞻：诺里斯新加坡碾压夺冠缩小分差，劳森入主RB出征奥斯汀",
+      subtitle: "迈凯伦车队积分领先优势扩大至41分，红牛确认新西兰小将劳森顶替里卡多完成赛季",
+      excerpt: "诺里斯在滨海湾以20.9秒的巨大优势力克维斯塔潘，在F1进入美洲三连赛之际让总冠军争夺彻底白热化，同时劳森正式加盟RB。",
+      body: [
+        "诺里斯在新加坡大奖赛上以领跑全场且领先维斯塔潘近21秒的统治级表现夺冠，彻底改写了本赛季争冠格局。",
+        "迈凯伦在车队积分榜上以358分对317分领先红牛41分，皮亚斯特里同登领奖台巩固了车队优势。",
+        "红牛周一正式确认，22岁的新西兰车手利亚姆-劳森将在奥斯汀站起顶替里卡多出战本赛季最后六场大奖赛。",
+      ],
+    },
+    ja: {
+      title: "F1アメリカ連戦プレビュー：ノリスの圧勝でタイトル争い激化、ローソンがRBシートに昇格",
+      subtitle: "マクラーレンがコンストラクターズで41点差リード、レッドブルはリカルドに代わりローソンを起用",
+      excerpt: "シンガポールGPでノリスがフェルスタッペンに20秒差をつけ優勝。タイトル争いが混沌とする中、ローソンがRBから参戦決定。",
+      body: [
+        "マリーナベイのナイトレースでランド・ノリスが20.9秒差をつけて圧勝し、ドライバーズ選手権の差を52ポイントに縮めました。",
+        "マクラーレンはレッドブルに対して41ポイントのリードを築き、オースティンからのアメリカ連戦に臨みます。",
+        "またレッドブルは、ダニエル・リカルドに代わりリアム・ローソンが残り6戦でRBのマシンをドライブすると正式発表しました。",
+      ],
+    },
+    ko: {
+      title: "F1 아메리카 3연전 카운트다운: 노리스 싱가포르 압승으로 52점 차 추격, 로슨 RB 합류",
+      subtitle: "맥라렌 컨스트럭터 41점 차 선두 질주, 레드불은 리카도 대신 리암 로슨 잔여 6경기 기용 확정",
+      excerpt: "란도 노리스의 싱가포르 GP 20초 차 대승으로 F1 챔피언십 경쟁이 요동치는 가운데 리암 로슨이 RB 시트에 전격 합류했다.",
+      body: [
+        "란도 노리스가 싱가포르 마리나 베이에서 페르스타펜을 20.9초 차로 따돌리고 완승을 거두며 타이틀 희망을 살렸습니다.",
+        "맥라렌은 피아스트리의 3위 입상까지 더해 레드불과의 컨스트럭터 격차를 41점 차로 벌렸습니다.",
+        "레드불은 잔여 6개 레이스에서 대니얼 리카도 대신 22세 신예 리암 로슨을 RB 드라이버로 투입한다고 공식 발표했습니다.",
+      ],
+    },
+    ar: {
+      title: "فورمولا 1 العد التنازلي للأمريكتين: سيطرة نوريس تشعل الصراع ولوسون يقود لـ RB",
+      subtitle: "ماكلارين توسع الفارق في بطولة الصانعين إلى 41 نقطة وريد بُل تؤكد ليام لوسون بديلاً لريكاردو.",
+      excerpt: "أشعل فوز لاندو نوريس بفارق 20 ثانية في سنغافورة بطولة العالم للفورمولا 1 مع الإعلان الرسمي عن مشاركة ليام لوسون في الجولات القادمة.",
+      body: [
+        "أحدث فوز لاندو نوريس الساحق في سنغافورة بفارق 20.9 ثانية عن فيرستابن زلزالاً فنياً في بطولة العالم.",
+        "عزز فريق ماكلارين صدارته لبطولة الصانعين بفارق 41 نقطة أمام ريد بُل قبل الانتقال إلى حلبة أوستن.",
+        "وأعلن فريق ريد بُل رسمياً تعيين السائق النيوزيلندي ليام لوسون ليحل محل دانييل ريكاردو في المقاعد الستة المتبقية.",
+      ],
+    },
+  },
+  'pga-tour-black-desert-championship-preview-kevin-yu-2026': {
+    fr: {
+      title: "PGA Tour : Kevin Yu grimpe dans le top 65 après son sacre, cap sur l'Utah pour le Black Desert Championship",
+      subtitle: "Le golfeur taïwanais s'offre son premier trophée en playoff à Sanderson Farms avant les falaises d'Ivins.",
+      excerpt: "Kevin Yu a remporté sa première victoire PGA Tour en playoff au Sanderson Farms, bondissant dans le top 65 mondial avant le tournoi d'Utah.",
+      body: [
+        "Kevin Yu a décroché son premier titre PGA Tour au bout du suspense à Jackson en dominant Beau Hossler en prolongation.",
+        "Cette victoire historique propulse le joueur de 26 ans à la 63e place mondiale et lui assure deux ans d'exemption sur le circuit.",
+        "Le circuit PGA prend la direction de l'Utah pour l'inaugural Black Desert Championship au milieu des coulées de lave noire.",
+      ],
+    },
+    es: {
+      title: "PGA Tour: Kevin Yu sube al top 65 tras su primer título y la gira viaja a Utah para el Black Desert Championship",
+      subtitle: "El taiwanés se corona en un vibrante playoff en Sanderson Farms y el circuito estrena sede en los cañones de roca roja.",
+      excerpt: "Kevin Yu logró su primera victoria en el PGA Tour en el desempate de Sanderson Farms, saltando al puesto 63 mundial antes de viajar a Utah.",
+      body: [
+        "Con dos birdies magistrales en el hoyo 72 y en el desempate, Kevin Yu conquistó su primer trofeo profesional del PGA Tour en Jackson.",
+        "El triunfo mete a Yu entre los mejores 65 del mundo y le garantiza su presencia en los Majors de 2027.",
+        "El PGA Tour aterriza ahora en Ivins, Utah, para el torneo inaugural de Black Desert Championship entre campos de lava y cañones.",
+      ],
+    },
+    de: {
+      title: "PGA Tour: Kevin Yu stürmt nach Playoff-Sieg in die Top 65, Tour zieht weiter nach Utah",
+      subtitle: "Taiwans Star feiert Premierensieg bei der Sanderson Farms Championship vor der Premiere des Black Desert Championship.",
+      excerpt: "Kevin Yu holte sich im dramatischen Stechen in Jackson seinen ersten PGA-Tour-Titel und reist voller Schwung zur Premiere nach Utah.",
+      body: [
+        "Kevin Yu erzwang am 72. Loch mit einem Birdie das Stechen gegen Beau Hossler und verwandelte dort sicher zum ersten Toursieg.",
+        "Durch den Erfolg kletterte der 26-Jährige auf Rang 63 der Weltrangliste und sicherte sich seine Tour-Karte bis Ende 2028.",
+        "Die PGA Tour gastiert nun erstmals seit 1963 wieder in Utah auf dem spektakulären Black Desert Resort.",
+      ],
+    },
+    it: {
+      title: "PGA Tour: Kevin Yu vola nella top 65 dopo il primo trionfo, la stagione sbarca in Utah per il Black Desert",
+      subtitle: "Il golfista taiwanese vince al playoff la Sanderson Farms Championship prima della novità nello Utah tra i canyon rossi.",
+      excerpt: "Kevin Yu conquista la sua prima vittoria sul PGA Tour superando Hossler allo spareggio e salendo al 63° posto del ranking mondiale.",
+      body: [
+        "Un birdie alla 72ª buca e uno allo spareggio hanno regalato a Kevin Yu il suo primo indimenticabile titolo PGA Tour a Jackson.",
+        "La vittoria proietta Yu al 60° posto della FedExCup Fall e garantisce l'accesso al Masters e al PGA Championship 2027.",
+        "Il PGA Tour debutta questa settimana in Utah con l'inaugurale Black Desert Championship tra rocce rosse e campi di lava.",
+      ],
+    },
+    pl: {
+      title: "PGA Tour: Kevin Yu wkracza do czołowej 65 po triumfie w dogrywce, tour przenosi się do Utah",
+      subtitle: "Reprezentant Tajwanu zdobył pierwszy tytuł PGA Tour w Sanderson Farms, a stawka szykuje się do Black Desert Championship.",
+      excerpt: "Kevin Yu wygrał po dogrywce w Sanderson Farms swój pierwszy turniej PGA Tour, awansując na 63. miejsce na świecie przed turniejem w Utah.",
+      body: [
+        "Kevin Yu pokonał Beau Hosslera na pierwszym dołku dogrywki, pieczętując swój życiowy sukces na Country Club of Jackson.",
+        "Wygrana dała mu skok o 31 pozycji w rankingu OWGR oraz dwuletnie pełne zwolnienie w PGA Tour.",
+        "Karawana PGA Tour zawitała do Ivins w stanie Utah na dziewiczy turniej Black Desert Championship pośród czarnych pól lawowych.",
+      ],
+    },
+    zh: {
+      title: "美巡赛：俞俊安加洞夺冠首捧美巡奖杯挺进世界前65，美巡移师犹他黑沙漠锦标赛",
+      subtitle: "中国台北选手桑德森农场锦标赛加洞抓鸟加冕，美巡时隔61年重返犹他州展开黑沙漠首战",
+      excerpt: "俞俊安在密西西比通过加洞赛击败霍斯勒斩获职业美巡首冠，世界排名升至第63位，领衔众将出战犹他黑沙漠锦标赛。",
+      body: [
+        "26岁的俞俊安在杰克逊乡村俱乐部第72洞和加洞赛连续抓下关键小鸟球，以总成绩-23杆夺得个人首座美巡赛冠军奖杯。",
+        "这场突破性胜利让俞俊安的世界排名跃升31位至第63位，联邦快递秋季积分升至第60位，锁定未来两年全卡资格。",
+        "美巡赛本周移师犹他州艾文斯，时隔61年再度在犹他州举办正式赛事，球场坐落于壮丽的黑色熔岩与红色砂岩峡谷之间。",
+      ],
+    },
+    ja: {
+      title: "PGAツアー：俞俊安がPO制し初優勝で世界ランク65位圏内に急浮上、次戦はユタ州ブラックデザートへ",
+      subtitle: "サンダーソンファームズで悲願のツアー初勝利を飾った台湾の新星、ユタ州での新設大会へ",
+      excerpt: "ケビン・ユー（俞俊安）がプレーオフで初優勝を飾り世界63位に急浮上。PGAツアーはユタ州の新設大会へ向かう。",
+      body: [
+        "最終18番で劇的なバーディーを奪いプレーオフに持ち込んだ俞俊安が、1ホール目で決着をつけてPGAツアー初制覇を果たしました。",
+        "この勝利により世界ランキングは63位までジャンプアップし、2027年のマスターズ出場権などを獲得しました。",
+        "PGAツアーは今週、ユタ州で60年以上ぶりとなる公式戦ブラックデザート・チャンピオンシップを開催します。",
+      ],
+    },
+    ko: {
+      title: "PGA 투어: 케빈 위 연장전 끝 생애 첫 우승으로 세계 65위 진입, 유타 블랙 데저트로 이동",
+      subtitle: "샌더슨 팜스 챔피언십 우승으로 투어 카드 2년 확보, 유타 붉은 암벽 코스에서 열리는 신설 대회 출격",
+      excerpt: "대만의 케빈 위(위쥔안)가 연장 첫 홀 버디로 PGA 투어 첫 승을 거두고 세계 63위로 도약한 가운데 투어가 유타로 향한다.",
+      body: [
+        "케빈 위는 72번째 홀과 연장 첫 홀에서 연달아 버디를 낚으며 보 호슬러를 제치고 PGA 투어 첫 승의 감격을 누렸습니다.",
+        "이번 우승으로 페덱스컵 가을 시리즈 60위로 도약하며 2년간 투어 시드와 주요 메이저 대회 출전권을 확보했습니다.",
+        "PGA 투어는 1963년 이후 60여 년 만에 유타주로 이동해 신설 대회인 블랙 데저트 챔피언십을 치릅니다.",
+      ],
+    },
+    ar: {
+      title: "جولة PGA: كيفن يو يقفز إلى قائمة أفضل 65 عالمياً بعد لقبه الأول والأنظار تتجه لبطولة بلاك ديزرت في يوتا",
+      subtitle: "اللاعب التايواني يحسم لقب ساندرسون فارمز في الحفرة الفاصلة قبل انطلاق البطولة الجديدة بين صخور يوتا.",
+      excerpt: "حقق كيفن يو باكورة ألقابه في جولة PGA بعد جولة فاصلة مثيرة في ميسيسيبي، ليصعد للمركز 63 عالمياً قبل بطولة يوتا.",
+      body: [
+        "حقق اللاعب الشاب كيفن يو إنجازاً تاريخياً بإحراز لقبه الأول في الجولة الأمريكية بعد تفوقه على بو هوسلر في الحفرة الإضافية.",
+        "منحه هذا الفوز قفزة كبيرة إلى المركز 63 في التصنيف العالمي وضمان بطاقة المشاركة للعامين المقبلين.",
+        "وتتجه أنظار الجولة هذا الأسبوع نحو ولاية يوتا لإقامة بطولة بلاك ديزرت الافتتاحية وسط التكوينات الصخرية البركانية الخلابة.",
+      ],
+    },
+  },
+  'wnba-semifinals-game2-preview-aces-fever-adjustments-2026': {
+    fr: {
+      title: "Demi-finales WNBA veille du Match 2 : les Aces et le Fever préparent leur riposte tactique après leurs revers",
+      subtitle: "Becky Hammon règle le problème des pertes de balle tandis que Christie Sides cherche la clé face à Collier.",
+      excerpt: "Menées 1-0 par le Liberty et les Lynx, les équipes de Las Vegas et d'Indiana ont passé leur lundi en salle vidéo avant le Match 2.",
+      body: [
+        "Avec un déficit de 0-1 dans une série au meilleur des cinq matches, la pression est maximale pour Las Vegas et Indiana.",
+        "Becky Hammon a axé les entraînements des Aces sur la sécurité du ballon après les 18 pertes de balle concédées face à Stewart à New York.",
+        "À Minneapolis, le Fever de Caitlin Clark peaufine son plan défensif pour contenir Napheesa Collier avant le choc de mardi.",
+      ],
+    },
+    es: {
+      title: "Semifinales WNBA Víspera del Partido 2: Aces y Fever ajustan piezas en busca de la revancha",
+      subtitle: "Becky Hammon corrige las pérdidas de balón y Christie Sides diseña trampas defensivas ante las líderes Lynx.",
+      excerpt: "Tras caer en el primer asalto ante Liberty y Lynx, Las Vegas Aces e Indiana Fever dedican el lunes a corregir errores tácticos.",
+      body: [
+        "Las Vegas Aces e Indiana Fever afrontan un Partido 2 decisivo el martes sabiendo que un 0-2 en contra resultaría casi letal.",
+        "Becky Hammon exigió mayor dinamismo para evitar que la defensa de Breanna Stewart neutralice a A'ja Wilson.",
+        "Por su parte, Caitlin Clark y las Fever confían en mantener el ritmo anotador del último cuarto para asaltar la cancha de Minnesota.",
+      ],
+    },
+    de: {
+      title: "WNBA-Halbfinale vor Spiel 2: Aces und Fever planen taktische Revanche nach Auftaktniederlagen",
+      subtitle: "Becky Hammon adressiert Ballverluste in Las Vegas, während Christie Sides Antworten auf Colliers Dominanz sucht.",
+      excerpt: "Nach den Siegen von Liberty und Lynx stehen die Aces und das Fever vor Spiel 2 unter enormem Druck und feilen an ihren Systemen.",
+      body: [
+        "Am Tag vor Spiel 2 stand in Brooklyn und Minneapolis intensive Videoanalyse auf dem Programm der beiden WNBA-Halbfinalserien.",
+        "Die Las Vegas Aces müssen gegen Breanna Stewart und die Liberty ihre 18 Ballverluste aus Spiel 1 dringend minimieren.",
+        "Indiana sucht derweil nach Wegen, um Napheesa Collier einzudämmen und Caitlin Clark mehr freie Dreierwürfe zu verschaffen.",
+      ],
+    },
+    it: {
+      title: "Semifinali WNBA vigilia di Gara 2: Aces e Fever preparano la riscossa dopo i passi falsi iniziali",
+      subtitle: "Becky Hammon studia i contromisure per le palle perse, Christie Sides cerca una gabbia difensiva per Collier.",
+      excerpt: "Sotto 1-0 nelle serie contro Liberty e Lynx, Las Vegas Aces e Indiana Fever lavorano duramente in palestra prima di Gara 2.",
+      body: [
+        "Gara 2 rappresenta già un bivio cruciale per le bi-campionesse in carica di Las Vegas e per le rampanti Indiana Fever.",
+        "Le Aces hanno subito la clamorosa prova di Breanna Stewart e cercano maggiore fluidità offensiva per innescare A'ja Wilson.",
+        "A Minneapolis, la franchigia di Caitlin Clark vuole confermare la bella rimonta del quarto periodo per impattare la serie.",
+      ],
+    },
+    pl: {
+      title: "Półfinały WNBA przed meczem nr 2: Aces i Fever szukają taktycznych odpowiedzi po porażkach",
+      subtitle: "Becky Hammon poprawia straty Las Vegas, a Christie Sides przygotowuje defensywę na znakomitą Collier.",
+      excerpt: "Przegrywając 0-1 z Liberty i Lynx, koszykarki Aces oraz Fever spędziły poniedziałek na analizie wideo przed meczem nr 2.",
+      body: [
+        "Poniedziałek był dniem intensywnych korekt taktycznych w obozach Las Vegas Aces oraz Indiana Fever.",
+        "Trenerka Becky Hammon zażądała większej dyscypliny po 18 stratach w starciu ze świetnie dysponowaną Breanną Stewart.",
+        "Indiana Fever liczą, że Caitlin Clark zdoła sforsować defensywę Lynx i doprowadzić do remisu w serii.",
+      ],
+    },
+    zh: {
+      title: "WNBA半决赛G2前瞻：王牌与狂热紧急战术纠错，自由人与山猫力争扩大胜势",
+      subtitle: "贝基-哈蒙严抓王牌18次失误漏洞，克里斯蒂-塞兹演练防守包夹阻击山猫核心科利尔",
+      excerpt: "大比分0-1落后的卫冕冠军拉斯维加斯王牌与印第安纳狂热在周一全天进行录像复盘，力争在周二第二战扳平总比分。",
+      body: [
+        "在五场三胜制的半决赛中，总比分0-2落后在WNBA历史上逆转概率仅为4%，周二的第二场比赛成为王牌和狂热的生死战。",
+        "王牌主帅哈蒙在录像课上重点指出了G1送出18次失误的致命伤，要求加强球的轮转以帮助威尔逊摆脱斯图尔特的包夹。",
+        "狂热则寄希望于凯特琳-克拉克在第四节的追分势头，计划通过提速和无球掩护打破山猫严密的阵地防线。",
+      ],
+    },
+    ja: {
+      title: "WNBA準決勝第2戦前夜：初戦黒星のエーシズとフィーバーが巻き返しへ戦術修正に着手",
+      subtitle: "ハモンHCがターンオーバー対策を徹底、フィーバーはミネソタのエース・コリアー封じに注力",
+      excerpt: "リバティとリンクスに先勝を許したラスベガスとインディアナが、火曜の第2戦に向けて徹底したビデオ分析を実施。",
+      body: [
+        "第1戦を落としたラスベガス・エーシズとインディアナ・フィーバーにとって、火曜日の第2戦は絶対に落とせない正念場です。",
+        "スチュワートに34点を許したエーシズは、ウィルソンへのダブルチームを打開すべくパス回しの改善を図ります。",
+        "フィーバーは第4Qに猛追を見せたクラークのトランジションを軸に、リンクス相手の敵地勝利を目指します。",
+      ],
+    },
+    ko: {
+      title: "WNBA 준결승 2차전 전야: 1차전 패한 에이시스와 피버, 사활 건 전술 수정 돌입",
+      subtitle: "베키 해먼 감독 턴오버 방지 집중 훈련, 피버는 미네소타 콜리어 봉쇄책 마련 분주",
+      excerpt: "리버티와 링스에 1차전을 내준 에이시스와 피버가 화요일 2차전을 앞두고 월요일 집중적인 비디오 미팅으로 반격을 다짐했다.",
+      body: [
+        "5전 3선승제 플레이오프에서 0-2로 몰릴 경우 탈락 확률이 96%에 달하는 만큼 2차전은 물러설 수 없는 승부처입니다.",
+        "에이시스의 베키 해먼 감독은 브리애나 스튜어트에게 당한 수모를 갚기 위해 1차전 18개의 실책을 줄이는 데 집중했습니다.",
+        "인디애나 피버는 케이틀린 클라크의 4쿼터 폭발력을 재현해 링스의 짠물 수비를 뚫고 1승 1패 균형을 맞추겠다는 각오입니다.",
+      ],
+    },
+    ar: {
+      title: "نصف نهائي WNBA عشية المباراة 2: إيسز وفيفر يستعدان للرد التكتيكي بعد هزائم الجولة الأولى",
+      subtitle: "بيكي هامون تعالج أخطاء فقدان الكرة وكريستي سايدز تبحث عن حلول لإيقاف تألق كوليير.",
+      excerpt: "أمضى فريقا لاس فيغاس إيسز وإنديانا فيفر يوم الاثنين في مراجعة الأشرطة المسجلة لتصحيح الأخطاء قبل خوض المباراة الثانية الحاسمة.",
+      body: [
+        "تكتسب المباراة الثانية أهمية قصوى لحامل اللقب لاس فيغاس إيسز وإنديانا فيفر لتفادي التأخر بنتيجة 0-2 في السلسلة.",
+        "ركزت المدربة بيكي هامون على معالجة 18 خسارة للكرة ارتكبها فريقها أمام نيويورك ليبرتي في المباراة الأولى.",
+        "في مينيابوليس، يسعى فيفر بقيادة كيتلين كلارك لكسر دفاعات مينيسوتا لينكس وتحقيق انتصار ثمين خارج الديار.",
+      ],
+    },
+  },
+  'premier-league-mw7-fallout-tottenham-collapse-brighton-2026': {
+    fr: {
+      title: "Premier League 7e j. bilan : Tottenham sonné après l'effondrement à Brighton, City seul en tête avec 21 points",
+      subtitle: "Les Spurs concèdent un 10e point depuis une position de tête tandis que les hommes de Guardiola réalisent le carton plein.",
+      excerpt: "L'incroyable retour 3-2 de Brighton contre Tottenham plonge les Spurs dans la tourmente alors que Manchester City survole la Premier League.",
+      body: [
+        "La 7e journée de Premier League s'est achevée sur une déflagration tactique à l'Amex Stadium où Tottenham a sombré en 18 minutes.",
+        "Menant 2-0 à la pause, les Spurs ont concédé trois buts en seconde période face aux Seagulls déchaînés de Fabian Hürzeler.",
+        "Tottenham s'enfonce dans la crise avec 10 points perdus après avoir mené, pendant que Manchester City caracole en tête avec un 7/7 impeccable.",
+      ],
+    },
+    es: {
+      title: "Premier League Jornada 7 balance: Tottenham se tambalea tras el colapso ante Brighton, City líder absoluto con 21 puntos",
+      subtitle: "Los Spurs dejan escapar su décimo punto tras ir ganando, mientras el equipo de Guardiola firma un arranque impecable.",
+      excerpt: "La remontada 3-2 del Brighton ante el Tottenham sacude la Premier antes del parón internacional con el Manchester City intratable en la cima.",
+      body: [
+        "El descanso de selecciones llega con un ambiente de máxima tensión en el Tottenham tras dilapidar una renta de dos goles en el Amex.",
+        "En apenas 18 minutos mágicos, Minteh, Rutter y Welbeck destrozaron el esquema de Ange Postecoglou para colocar al Brighton cuarto.",
+        "El Manchester City domina la liga con 21 puntos de 21 posibles, distanciando a un Arsenal que no puede permitirse ningún traspié.",
+      ],
+    },
+    de: {
+      title: "Premier League Spieltag 7 Fazit: Tottenham taumelt nach Kollaps in Brighton, City souverän mit 21 Punkten vorn",
+      subtitle: "Spurs verspielen bereits ihren 10. Punkt nach Führung, während Guardiolas Meister mit weißer Weste in die Länderspielpause geht.",
+      excerpt: "Brightons furiose 3:2-Aufholjagd stürzt die Spurs in eine handfeste Krise, während Manchester City an der Tabellenspitze einsam seine Kreise zieht.",
+      body: [
+        "Das 3:2 von Brighton nach 0:2-Halbzeitrückstand sorgte am 7. Spieltag für das spektakulärste Comeback der bisherigen Saison.",
+        "Tottenham hat in dieser Spielzeit bereits 10 Punkte nach Führungspositionen verschenkt und rutscht immer tiefer in den Tabellenkeller.",
+        "Manchester City thront mit der perfekten Ausbeute von 21 Punkten aus sieben Spielen souverän über der Konkurrenz.",
+      ],
+    },
+    it: {
+      title: "Premier League 7ª giornata bilancio: Tottenham sotto shock dopo il tracollo di Brighton, City a punteggio pieno a quota 21",
+      subtitle: "Spurs rimontati per la decima volta in stagione da situazione di vantaggio, mentre la corazzata di Guardiola non sbaglia un colpo.",
+      excerpt: "L'incredibile rimonta per 3-2 del Brighton ai danni del Tottenham lascia Postecoglou nei guai prima della sosta per le nazionali.",
+      body: [
+        "La pausa per le nazionali inizia con una crisi nera per il Tottenham, crollato all'Amex Stadium sotto i colpi di Minteh, Rutter e Welbeck.",
+        "Gli Spurs hanno già sperperato 10 punti da situazioni di vantaggio in questo avvio di Premier League.",
+        "In vetta il Manchester City prosegue la sua marcia trionfale a punteggio pieno con 21 punti in sette giornate.",
+      ],
+    },
+    pl: {
+      title: "Premier League 7. kolejka podsumowanie: Tottenham w kryzysie po zapaści w Brighton, City z kompletem 21 punktów",
+      subtitle: "Spurs stracili już 10 punktów z pozycji prowadzenia, podczas gdy mistrzowie Pepa Guardioli idą jak burza przed przerwą.",
+      excerpt: "Sensacyjny powrót Brighton z 0-2 na 3-2 obnażył bezradność Tottenhamu, a Manchester City pewnie przewodzi stawce z kompletem zwycięstw.",
+      body: [
+        "Porażka na Amex Stadium wywołała ogromne poruszenie w Londynie, gdzie Ange Postecoglou musi zmierzyć się z falą krytyki.",
+        "Brighton pod wodzą Fabiana Hürzelera wspięło się na czwarte miejsce po zabójczych 18 minutach drugiej połowy.",
+        "Manchester City prowadzi z 21 punktami na koncie po siedmiu meczach, nie dając rywalom cienia nadziei.",
+      ],
+    },
+    zh: {
+      title: "英超第7轮战报与综述：热刺惨遭布莱顿逆转深陷危机，曼城七连胜狂轰21分领跑积分榜",
+      subtitle: "热刺领先局痛失本季第10个积分后防崩盘，瓜迪奥拉之师全胜完美战绩进入国际比赛日",
+      excerpt: "布莱顿主场3-2惊天逆转托特纳姆热刺成为第7轮最大焦点，热刺危机四伏，而曼城则以全胜21分雄霸英超榜首。",
+      body: [
+        "英超第7轮在一场跌宕起伏的逆转大戏中落下帷幕，波斯特科格鲁的热刺在两球领先的好局下被布莱顿18分钟三球逆转。",
+        "热刺本赛季在领先情况下已累计丢掉10分，深陷降级区泥潭，主帅战术引发外界强烈质疑。",
+        "而卫冕冠军曼城则以7战全胜积21分的无敌姿态领跑，领先身后的阿森纳3分、利物浦6分进入国际比赛日间歇期。",
+      ],
+    },
+    ja: {
+      title: "プレミアリーグ第7節総括：トッテナムが逆転負けで泥沼危機、マンCが開幕7連勝の勝点21で首位独走",
+      subtitle: "スパーズはリードから今季10失点目を喫し危機的状況、グアルディオラ率いる王者マンチェスター・Cは全勝街道",
+      excerpt: "ブライトンがトッテナムを3-2で下した歴史的大逆転劇により、トッテナムの守備崩壊が浮き彫りとなる一方、マンCが首位を堅持。",
+      body: [
+        "インターナショナルブレイク前最後のリーグ戦で、ブライトンが後半わずか18分で3ゴールを奪いトッテナムに逆転勝利しました。",
+        "トッテナムは今季リードした状況から早くも10ポイントを失っており、ポステコグルー監督への批判が高まっています。",
+        "首位マンチェスター・シティは7戦全勝の勝ち点21と圧倒的な強さを見せ、完璧な状態で代表ウィークを迎えます。",
+      ],
+    },
+    ko: {
+      title: "프리미어리그 7라운드 결산: 토트넘, 브라이턴전 역전패로 충격 위기… 맨시티 7연승 승점 21 단독 선두",
+      subtitle: "토트넘 리드 상황에서 이번 시즌에만 승점 10점 헌납, 과르디올라의 맨시티는 전승으로 A매치 휴식기 돌입",
+      excerpt: "브라이턴의 3-2 대역전극으로 토트넘이 최악의 부진에 빠진 가운데, 맨체스터 시티는 7전 전승으로 리그 1위를 굳건히 지켰다.",
+      body: [
+        "아멕스 스타디움에서 열린 7라운드 마지막 경기에서 토트넘이 전반 2-0 리드를 지키지 못하고 18분 만에 3골을 내주며 무너졌습니다.",
+        "토트넘은 올 시즌 리드하던 경기에서만 승점 10점을 날리며 20위로 추락해 포스테코글루 감독의 입지가 위태로워졌습니다.",
+        "반면 맨체스터 시티는 7경기 전승(승점 21)을 기록하며 아스널을 승점 3점 차로 따돌리고 완벽한 1위를 질주하고 있습니다.",
+      ],
+    },
+    ar: {
+      title: "الدوري الإنجليزي الجولة 7 حصاد: توتنهام يترنح بعد ريمونتادا برايتون ومانشستر سيتي بالعلامة الكاملة بـ 21 نقطة",
+      subtitle: "السبيرز يفقدون النقطة العاشرة من وضعية التقدم هذا الموسم بينما تواصل كتيبة غوارديولا التحليق في الصدارة.",
+      excerpt: "أشعلت عودة برايتون التاريخية بنتيجة 3-2 أمام توتنهام نيران الأزمة في شمال لندن بينما يحلق مانشستر سيتي وحيداً برصيد 21 نقطة.",
+      body: [
+        "أسدلت الجولة السابعة من الدوري الإنجليزي الستار على واحدة من أكثر المباريات إثارة بعد ريمونتادا برايتون الخارقة في الشوط الثاني.",
+        "تسببت الهزيمة في بقاء توتنهام في قاع الترتيب برصيد نقطتين فقط بعدما خسر 10 نقاط كاملة من مباريات كان متقدماً فيها.",
+        "في المقابل، يغادر مانشستر سيتي إلى فترة التوقف الدولي برصيد 21 نقطة من سبعة انتصارات متتالية وبفارق مريح عن ملاحقيه.",
+      ],
+    },
+  },
 };
 
 

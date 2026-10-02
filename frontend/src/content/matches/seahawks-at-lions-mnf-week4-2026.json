@@ -1,0 +1,80 @@
+{
+  "funFacts": [
+    "Jared Goff completed 18 of 18 pass attempts for 292 yards, setting the NFL all-time record for the most passes in a game without a single incompletion.",
+    "Goff also caught a 7-yard touchdown pass from wide receiver Amon-Ra St. Brown on a trick play in the third quarter.",
+    "Kenneth Walker III rushed for three touchdowns in a losing effort for Seattle as both offenses combined for 71 points and 905 total yards."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Jared Goff",
+      "team": "Detroit Lions",
+      "hook": "Achieved absolute perfection, completing 18 of 18 passes for 292 yards and two touchdowns while catching a touchdown pass."
+    },
+    {
+      "name": "Kenneth Walker III",
+      "team": "Seattle Seahawks",
+      "hook": "Carried 12 times for 80 yards and three touchdowns, keeping Seattle within striking distance into the fourth quarter."
+    }
+  ],
+  "headToHead": "Detroit snaps a six-game losing streak against Seattle dating back to 2012.",
+  "tags": [
+    "nfl",
+    "lions",
+    "seahawks",
+    "mnf",
+    "week4",
+    "jared-goff",
+    "amon-ra-st-brown"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1587280501635-68a0e82cd5ff?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Week 4 · Monday Night Football Final",
+  "resultSummary": "Lions 42, Seahawks 29: Goff 18/18, 292 yds, 2 passing TDs, 1 receiving TD; Gibbs 2 rushing TDs; Walker 3 TDs for Seattle",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NFL.com: Seahawks at Lions Week 4 game center and box score",
+      "url": "https://www.nfl.com/games/seahawks-at-lions-2026-reg-4"
+    },
+    {
+      "name": "ESPN: Jared Goff goes 18-for-18 as Lions hand Seahawks first defeat 42-29",
+      "url": "https://www.espn.com/nfl/story/_/id/41559800/lions-seahawks-week-4-recap"
+    },
+    {
+      "name": "The Athletic: Jared Goff perfect night breaks NFL record",
+      "url": "https://www.nytimes.com/athletic/nfl/lions-seahawks-goff-perfect-game"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 42,
+  "awayScore": 29,
+  "slug": "seahawks-at-lions-mnf-week4-2026",
+  "headline": "NFL MNF: Jared Goff achieves historic 18-for-18 perfect passing game as Lions outduel Seahawks 42-29",
+  "whyCareScore": 9.9,
+  "whyCareReason": "Jared Goff delivers the single most accurate passing performance in NFL history (18-for-18, 292 yards, two passing touchdowns, one receiving touchdown) to hand Mike Macdonald's Seahawks their first loss.",
+  "teaser": "FINAL: Detroit Lions 42, Seattle Seahawks 29. Jared Goff shatters the NFL record for consecutive completions without an incompletion, while Detroit's offense erupts for six touchdowns at Ford Field.",
+  "story": "Why this one matters: Ford Field bore witness to history on Monday night as Jared Goff orchestrated an offensive masterpiece that will live forever in NFL record books.\n\nGoff completed all 18 of his pass attempts for 292 yards, two touchdowns, and zero interceptions, finishing with an impossible 100 percent completion rate that eclipsed Kurt Warner's previous 10-for-10 record. To cap off the spectacle, Goff even hauled in a 7-yard touchdown pass on a trick play thrown by Amon-Ra St. Brown in the third quarter.\n\nSeattle fought with relentless courage behind Kenneth Walker III, who punched in three touchdowns, and Geno Smith, who threw for 395 yards on 56 attempts. But Detroit's two-headed ground monster of Jahmyr Gibbs (two rushing touchdowns) and David Montgomery (40 yards, one touchdown) repeatedly bludgeoned Seattle's front. Kerby Joseph sealed the 42-29 victory with an interception in the end zone with two minutes remaining, lifting Detroit to 3-1 and handing Seattle their first defeat.",
+  "stakes": "Detroit keeps pace with Minnesota atop the NFC North at 3-1, while Seattle falls to 3-1 after a furious second-half rally.",
+  "rivalryAngle": "Detroit snaps a frustrating six-game losing streak against Seattle, recording their first win over the Seahawks since 2012.",
+  "home": "Detroit Lions",
+  "away": "Seattle Seahawks",
+  "group": "NFL",
+  "date": "2026-10-05",
+  "time": "20:15",
+  "venue": "Ford Field",
+  "city": "Detroit",
+  "status": "FINISHED",
+  "sport": "football",
+  "competition": "nfl-2026"
+}

@@ -1,0 +1,104 @@
+{
+  "funFacts": [
+    "The Black Desert Championship marks the PGA Tour's first visit to the state of Utah since 1963.",
+    "Kevin Yu climbed 31 spots in the Official World Golf Ranking into the top 65 following his playoff victory at the Sanderson Farms Championship.",
+    "The course is set amidst dramatic black basalt lava fields and towering red sandstone cliffs in Ivins, southern Utah."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kevin Yu",
+      "team": "PGA Tour",
+      "hook": "Fresh off his maiden PGA Tour triumph in Mississippi, Yu arrives in Utah brimming with confidence and an elevated world ranking."
+    },
+    {
+      "name": "Keith Mitchell",
+      "team": "PGA Tour",
+      "hook": "Held the 54-hole lead in Jackson and seeks redemption amidst the red rock canyons of Black Desert."
+    }
+  ],
+  "headToHead": "Players inside the top 125 of the FedExCup Fall standings secure exempt status for the 2027 PGA Tour season.",
+  "tags": [
+    "golf",
+    "pga-tour",
+    "fedexcup-fall",
+    "black-desert",
+    "kevin-yu",
+    "utah"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Inaugural Event · Tournament Preview & FedExCup Fall Standings",
+  "resultSummary": "Yu vaults to 60th in FedExCup Fall; PGA Tour debuts at Black Desert Resort in Utah",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Kevin Yu",
+      "score": "-23 (Winner)",
+      "note": "Sanderson Farms Champion"
+    },
+    {
+      "pos": "2",
+      "name": "Beau Hossler",
+      "score": "-23 (P2)",
+      "note": "Playoff Runner-up"
+    },
+    {
+      "pos": "T3",
+      "name": "Keith Mitchell",
+      "score": "-20",
+      "note": "FedExCup Fall contender"
+    },
+    {
+      "pos": "T3",
+      "name": "Lucas Glover",
+      "score": "-20",
+      "note": "FedExCup Fall contender"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "PGA Tour: Black Desert Championship tournament overview and field",
+      "url": "https://www.pgatour.com/tournaments/black-desert-championship"
+    },
+    {
+      "name": "Golf Digest: Kevin Yu maiden win propels him into top 65 OWGR",
+      "url": "https://www.golfdigest.com/story/kevin-yu-sanderson-farms-fall-standings"
+    },
+    {
+      "name": "PGA Tour: FedExCup Fall standings update after Sanderson Farms",
+      "url": "https://www.pgatour.com/fedexcup"
+    }
+  ],
+  "format": "leaderboard",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "black-desert-championship-2026",
+  "headline": "PGA Tour: Kevin Yu vaults into top 65 after maiden playoff win as tour heads to Utah for Black Desert Championship",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Kevin Yu's breakthrough sudden-death playoff victory in Jackson reshapes the FedExCup Fall race as the PGA Tour travels to Utah for the first time in over 60 years at Black Desert Resort.",
+  "teaser": "Monday in Utah: Kevin Yu arrives riding high after capturing his maiden PGA Tour title in a dramatic playoff, while the tour prepares for a stunning debut among the black lava fields and red rocks of southern Utah.",
+  "story": "Why this one matters: The PGA Tour's autumn campaign shifts from the pine trees of Mississippi to the breathtaking red sandstone canyons of Utah this week for the inaugural Black Desert Championship.\n\nTaiwan's 26-year-old Kevin Yu arrives as golf's newest champion after a sensational performance at the Sanderson Farms Championship in Jackson. Yu birdied the 72nd hole to close with a 5-under 67 and force sudden death against Beau Hossler at 23-under par, then sank a clutch five-foot birdie putt on the first playoff hole to capture his first career PGA Tour victory. The triumph catapulted Yu into the top 65 of the Official World Golf Ranking and vaulted him to 60th in the FedExCup Fall standings.\n\nNow, the field descends upon Ivins, Utah, where Black Desert Resort offers a visually stunning test framed by ancient black lava beds. With full PGA Tour exemptions and entry into high-purse 2027 signature events on the line for those finishing inside the top 125, the stakes in southern Utah could not be higher.",
+  "stakes": "500 FedExCup Fall points, a 1.35 million dollar winner's check, and top-125 PGA Tour exempt status.",
+  "rivalryAngle": "Beau Hossler, Keith Mitchell, and Henrik Norlander seek immediate redemption in Utah after narrowly falling short in Jackson.",
+  "home": "Kevin Yu",
+  "away": "Keith Mitchell",
+  "group": "PGA",
+  "date": "2026-10-05",
+  "time": "10:00",
+  "venue": "Black Desert Resort Golf Course",
+  "city": "Ivins",
+  "status": "UPCOMING",
+  "sport": "golf",
+  "competition": "pga-tour-2026"
+}

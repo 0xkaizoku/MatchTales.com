@@ -1,0 +1,82 @@
+{
+  "funFacts": [
+    "Breanna Stewart became only the third player in WNBA postseason history to record at least 30 points and 5 blocks in a playoff game during Game 1.",
+    "Napheesa Collier has scored at least 25 points in three consecutive playoff games, averaging 31.0 points on 61 percent shooting this postseason.",
+    "Teams that win Game 1 in best-of-five WNBA playoff series have advanced to the Finals in 78 percent of all-time matchups."
+  ],
+  "keyPlayers": [
+    {
+      "name": "A'ja Wilson",
+      "team": "Las Vegas Aces",
+      "hook": "The unanimous MVP recorded 21 points in Game 1 but faces intensified defensive double-teams from New York's frontcourt."
+    },
+    {
+      "name": "Caitlin Clark",
+      "team": "Indiana Fever",
+      "hook": "Dished 9 assists and ignited a fourth-quarter rally in Game 1; seeks greater perimeter rhythm against Minnesota's top-ranked defense."
+    }
+  ],
+  "headToHead": "New York leads Las Vegas 1-0; Minnesota leads Indiana 1-0 in best-of-five series.",
+  "tags": [
+    "wnba",
+    "playoffs",
+    "semifinals",
+    "liberty",
+    "aces",
+    "lynx",
+    "fever",
+    "breanna-stewart",
+    "caitlin-clark"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Semifinals · Game 2 Tactical Eve & Film Study",
+  "resultSummary": "Liberty lead Aces 1-0; Lynx lead Fever 1-0; Game 2 double-header set for Tuesday",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "WNBA.com: Semifinals Game 2 preview and injury report",
+      "url": "https://www.wnba.com/playoffs/2026/semifinals-preview"
+    },
+    {
+      "name": "ESPN: How the Aces and Fever can adjust in Game 2",
+      "url": "https://www.espn.com/wnba/story/_/id/41556700/wnba-semifinals-game-2-adjustments"
+    },
+    {
+      "name": "The Athletic: WNBA Semifinals tactical breakdown after Game 1",
+      "url": "https://www.nytimes.com/athletic/wnba/semifinals-tactics-liberty-aces-lynx-fever"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "wnba-semifinals-game2-preview-2026",
+  "headline": "WNBA Semifinals Game 2 Eve: Aces and Fever plot tactical counterpunches after Liberty and Lynx strike first",
+  "whyCareScore": 9.7,
+  "whyCareReason": "With two-time defending champion Las Vegas and Caitlin Clark's Indiana Fever facing 0-1 deficits, Monday's film sessions dictate whether these semifinal blockbusters become deadlocks or landslides.",
+  "teaser": "Monday in the WNBA: Coaches Becky Hammon and Christie Sides review Game 1 tape to formulate urgent tactical adjustments ahead of Tuesday's pivotal Game 2 double-header in New York and Minneapolis.",
+  "story": "Why this one matters: Twenty-four hours after an electric opening day of WNBA Semifinals basketball, the postseason pressure cooker intensifies as four championship contenders spend Monday locked in film rooms across New York and Minneapolis.\n\nAt Barclays Center, the New York Liberty delivered an emphatic statement on Sunday, riding Breanna Stewart's 34 points and eight blocks to an 87-77 win over the two-time defending champion Las Vegas Aces. Aces head coach Becky Hammon spent Monday addressing the 18 turnovers that doomed Las Vegas, demanding faster ball movement to free up unanimous MVP A'ja Wilson from New York's suffocating traps.\n\nMeanwhile at Target Center, the Minnesota Lynx showed why they entered October as the league's top seed, edging Caitlin Clark and the Indiana Fever 88-82 behind Napheesa Collier's 28-point showcase. While Indiana battled back to within two points late in the fourth quarter behind Clark's 22 points and nine assists, Fever head coach Christie Sides emphasized perimeter defensive discipline to prevent Minnesota's backdoor cuts. With Game 2 arriving Tuesday, adjustments made in practice today will define the season.",
+  "stakes": "Series survival: an 0-2 deficit in a best-of-five WNBA playoff series has historically proved insurmountable 96 percent of the time.",
+  "rivalryAngle": "The Liberty are determined to dethrone Las Vegas after the 2023 Finals heartbreak, while Clark and Collier continue their scintillating duel.",
+  "home": "New York Liberty",
+  "away": "Las Vegas Aces",
+  "group": "WNBA",
+  "date": "2026-10-05",
+  "time": "19:30",
+  "venue": "Barclays Center & Target Center",
+  "city": "New York",
+  "status": "UPCOMING",
+  "sport": "basketball",
+  "competition": "wnba-playoffs-2026"
+}

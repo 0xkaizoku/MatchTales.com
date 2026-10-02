@@ -1,0 +1,105 @@
+{
+  "funFacts": [
+    "McLaren leads the Constructors Championship by 41 points over Red Bull Racing (358 vs 317) following Norris's crushing Singapore win.",
+    "Lando Norris has cut Max Verstappen's Drivers Championship lead to 52 points with six Grands Prix and three Sprint races remaining.",
+    "Liam Lawson was officially confirmed to take over Daniel Ricciardo's seat at RB for the remainder of the 2026 season starting in Austin."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Lando Norris",
+      "team": "McLaren",
+      "hook": "Dominated Singapore by 20.9 seconds, establishing McLaren as the benchmark team entering the final six races."
+    },
+    {
+      "name": "Liam Lawson",
+      "team": "RB",
+      "hook": "Steps into the RB cockpit replacing Daniel Ricciardo, facing an immediate six-race audition for a future Red Bull seat."
+    }
+  ],
+  "headToHead": "Norris has outscored Verstappen by 32 points over the last four race weekends.",
+  "tags": [
+    "f1",
+    "formula-1",
+    "mclaren",
+    "red-bull",
+    "norris",
+    "verstappen",
+    "liam-lawson"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Championship Standings · Americas Triple Header Countdown",
+  "resultSummary": "McLaren leads Red Bull by 41 pts; Norris trails Verstappen by 52 pts; Lawson joins RB grid",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Mercedes",
+      "score": "558 pts",
+      "note": "Constructors Leader"
+    },
+    {
+      "pos": "2",
+      "name": "Ferrari",
+      "score": "401 pts",
+      "note": "P2 Constructors"
+    },
+    {
+      "pos": "3",
+      "name": "McLaren",
+      "score": "358 pts",
+      "note": "+41 ahead of Red Bull"
+    },
+    {
+      "pos": "4",
+      "name": "Red Bull Racing",
+      "score": "317 pts",
+      "note": "P4 Constructors"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Formula1.com: How Norris win in Singapore reshapes title fight",
+      "url": "https://www.formula1.com/en/latest/article.norris-singapore-title-analysis"
+    },
+    {
+      "name": "Sky Sports F1: Liam Lawson replaces Ricciardo at RB for rest of 2026",
+      "url": "https://www.skysports.com/f1/news/liam-lawson-rb-announcement"
+    },
+    {
+      "name": "The Race: McLaren dominance and Red Bull crisis meetings",
+      "url": "https://the-race.com/formula-1/singapore-gp-fallout-mclaren-red-bull"
+    }
+  ],
+  "format": "race",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "f1-americas-triple-header-countdown-2026",
+  "headline": "F1 Americas Countdown: Norris Singapore masterclass trims gap to 52 points as Lawson joins RB grid",
+  "whyCareScore": 9.6,
+  "whyCareReason": "Lando Norris's 20-second thrashing of Max Verstappen in Singapore shifts championship momentum decisively toward McLaren as Liam Lawson steps onto the grid for an intense six-race audition.",
+  "teaser": "Monday paddock analysis: With McLaren leading the Constructors battle by 41 points and Norris slashing Verstappen's margin to 52 points, Formula 1 braces for a thrilling Americas triple-header starting at COTA in Austin.",
+  "story": "Why this one matters: As the dust settles over the Marina Bay street circuit, Formula 1 enters a pivotal four-week autumn break with the 2026 championship narrative completely inverted.\n\nLando Norris's 20.945-second margin of victory over Max Verstappen sent shockwaves through Milton Keynes. For the first time in three seasons, Red Bull Racing looks vulnerable across both race pace and tire management. With Oscar Piastri finishing third, McLaren pushed their Constructors Championship advantage to 41 points over Red Bull (358 to 317), while Norris trimmed Verstappen's Drivers Championship lead to 52 points with 180 points still available.\n\nMeanwhile, the driver market delivered another thunderbolt on Monday: Red Bull confirmed that 22-year-old New Zealander Liam Lawson will step into Daniel Ricciardo's seat at RB for the remaining six rounds, beginning at the United States Grand Prix in Austin. Lawson faces an intense trial by fire that could determine Red Bull's 2027 driver lineup.",
+  "stakes": "The 2026 Drivers and Constructors World Championships and Liam Lawson's long-term Formula 1 career.",
+  "rivalryAngle": "McLaren versus Red Bull Racing has evolved into an all-out engineering and psychological warfare ahead of Austin.",
+  "home": "McLaren",
+  "away": "Red Bull Racing",
+  "group": "F1",
+  "date": "2026-10-05",
+  "time": "14:00",
+  "venue": "Marina Bay & Circuit of the Americas",
+  "city": "Austin",
+  "status": "UPCOMING",
+  "sport": "f1",
+  "competition": "f1-2026"
+}
