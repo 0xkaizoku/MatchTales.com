@@ -1,0 +1,80 @@
+{
+  "funFacts": [
+    "Italy sit atop League A Group 2 with six points from two matches after impressive September victories over France and Israel.",
+    "Belgium travel to Rome without Kevin De Bruyne and Romelu Lukaku, forcing Domenico Tedesco to deploy a youthful attacking front.",
+    "England host Greece at Wembley Stadium in League B, with Lee Carsley seeking a third consecutive victory as interim manager."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Luciano Spalletti",
+      "team": "Italy",
+      "hook": "Has revitalized the Azzurri following their Euro 2024 disappointment, establishing a fluid 3-5-1-1 formation."
+    },
+    {
+      "name": "Lois Openda",
+      "team": "Belgium",
+      "hook": "Carries the scoring burden for the Red Devils at Stadio Olimpico with Lukaku and De Bruyne absent."
+    }
+  ],
+  "headToHead": "Italy have won their last three competitive meetings against Belgium dating back to Euro 2016.",
+  "tags": [
+    "soccer",
+    "uefa-nations-league",
+    "italy",
+    "belgium",
+    "england",
+    "international-break",
+    "world-cup-qualifiers"
+  ],
+  "homeCode": "ita",
+  "awayCode": "bel",
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 3,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026-27",
+  "roundLabel": "Matchday 3 · International Break & Nations League Preview",
+  "resultSummary": "International window opens: Italy vs Belgium headliner; England host Greece; City 21 pts at break",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "UEFA.com: Nations League Matchday 3 fixtures and team news",
+      "url": "https://www.uefa.com/uefanationsleague/fixtures-results"
+    },
+    {
+      "name": "Sky Sports: Italy vs Belgium preview: Azzurri target three in a row",
+      "url": "https://www.skysports.com/football/news/italy-belgium-preview"
+    },
+    {
+      "name": "The Athletic: How the October international window impacts European domestic title races",
+      "url": "https://www.nytimes.com/athletic/football/international-break-nations-league-preview"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "uefa-nations-league-md3-preview-2026",
+  "headline": "International Break: UEFA Nations League MD3 brings Italy vs Belgium blockbuster as club football pauses",
+  "whyCareScore": 9.5,
+  "whyCareReason": "The international window brings high-stakes continental clashes including Italy hosting Belgium at Stadio Olimpico, while Premier League clubs conduct critical mid-season reviews.",
+  "teaser": "Tuesday across Europe: National teams assemble for Matchday 3 of the UEFA Nations League, headlined by Luciano Spalletti's resurgent Italy hosting Belgium in Rome, while Manchester City enjoy a two-week breather atop the Premier League table.",
+  "story": "Why this one matters: Following seven frenetic weeks of domestic club drama that saw Manchester City establish an unblemished 21-point lead and Tottenham Hotspur sink into crisis, the football calendar pivots to international competition for the October international window.\n\nHeadlining the slate in League A is a glamour encounter at Rome's Stadio Olimpico between Italy and Belgium. Luciano Spalletti's Azzurri have rebounded emphatically from a lackluster Euro 2024 campaign, taking maximum points in September with a statement 3-1 triumph in Paris over France followed by a gritty 2-1 win over Israel. Italy's midfield trio of Sandro Tonali, Samuele Ricci, and Davide Frattesi has injected verticality and pace into Spalletti's 3-5-1-1 setup.\n\nBelgium arrive in the Italian capital facing a generational transition. With talisman Kevin De Bruyne nursing an injury and veteran striker Romelu Lukaku omitted to focus on fitness in Naples, Domenico Tedesco will entrust attacking responsibilities to RB Leipzig speedster Lois Openda and Manchester City winger Jeremy Doku. Elsewhere, England host Greece at Wembley looking to solidify promotion in League B, while South American squads begin crucial CONMEBOL World Cup qualifiers.",
+  "stakes": "Nations League quarterfinal qualification seeding and FIFA World Ranking points ahead of the 2026 World Cup draw seeding.",
+  "rivalryAngle": "Spalletti's rejuvenated Italy look to extend their psychological dominance over Belgium, having won their last three competitive meetings.",
+  "home": "Italy",
+  "away": "Belgium",
+  "group": "Nations League A",
+  "date": "2026-10-06",
+  "time": "20:45",
+  "venue": "Stadio Olimpico",
+  "city": "Rome",
+  "status": "UPCOMING",
+  "sport": "soccer",
+  "competition": "uefa-nations-league-2026"
+}

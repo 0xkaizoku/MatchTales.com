@@ -1,0 +1,89 @@
+{
+  "funFacts": [
+    "At 39 years and 6 months old, Stan Wawrinka became the third-oldest match winner in ATP Masters 1000 tournament history by defeating Roman Safiullin 7-5, 7-6(3).",
+    "Kei Nishikori recorded his first Shanghai Masters match victory since 2018, coming from a set down to eliminate Mariano Navone 3-6, 6-4, 6-3.",
+    "Carlos Alcaraz is on a nine-match winning streak following back-to-back tournament victories at the Laver Cup and China Open in Beijing."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Stan Wawrinka",
+      "team": "ATP",
+      "hook": "The three-time Grand Slam champion rolled back the years with 38 winners to advance to the second round at Qizhong Arena."
+    },
+    {
+      "name": "Carlos Alcaraz",
+      "team": "ATP",
+      "hook": "Arrives in Shanghai riding immense momentum, preparing for his opening match against Shang Juncheng or Coleman Wong."
+    }
+  ],
+  "headToHead": "Wawrinka advances to face 28th seed Flavio Cobolli in the second round.",
+  "tags": [
+    "tennis",
+    "atp",
+    "shanghai-masters",
+    "wawrinka",
+    "nishikori",
+    "alcaraz",
+    "sinner"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "First Round · Wawrinka and Nishikori Advance; Top Seeds Await",
+  "resultSummary": "Wawrinka def. Safiullin 7-5, 7-6(3); Nishikori def. Navone 3-6, 6-4, 6-3; Monfils def. Dzumhur 6-4, 6-3",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "7",
+      "p2": "5"
+    },
+    {
+      "p1": "7",
+      "p2": "6"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP Tour: Wawrinka makes Masters history with Shanghai victory",
+      "url": "https://www.atptour.com/en/news/wawrinka-shanghai-2026-round-1"
+    },
+    {
+      "name": "Rolex Shanghai Masters official site: Day 2 results and draw",
+      "url": "https://www.rolexshanghaimasters.com/results"
+    },
+    {
+      "name": "Tennis Channel: Nishikori battles through in Shanghai return",
+      "url": "https://www.tennischannel.com/news/shanghai-masters-round-1-wrap"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "shanghai-masters-r1-wawrinka-nishikori-2026",
+  "headline": "Rolex Shanghai Masters: 39-year-old Wawrinka makes history as Nishikori advances and top seeds prepare debuts",
+  "whyCareScore": 9.7,
+  "whyCareReason": "Stan Wawrinka and Kei Nishikori produce vintage Asian hardcourt masterclasses at Qizhong Arena while Carlos Alcaraz, Jannik Sinner, and Novak Djokovic finalize second-round preparations.",
+  "teaser": "Tuesday in Shanghai: Stan Wawrinka fires 38 winners to edge Roman Safiullin and become the third-oldest Masters 1000 winner in history, while Kei Nishikori fights back from a set down to advance on a gripping day of opening-round action.",
+  "story": "Why this one matters: Nostalgia and high-stakes drama collided beneath the retractable magnolia roof of Qizhong Forest Sports City Arena on Tuesday as the Rolex Shanghai Masters completed a thrilling opening round of main draw competition.\n\nAt 39 years and six months of age, Swiss legend Stan Wawrinka electrified the Shanghai crowd with an extraordinary display of trademark one-handed backhands and heavy serving, turning back the clock to dispatch Roman Safiullin 7-5, 7-6(3). In doing so, Wawrinka became the third-oldest match winner in Masters 1000 history, behind only Jimmy Connors and Ivo Karlovic.\n\nMinutes later on Grandstand Court, former world No. 4 Kei Nishikori delivered his own comeback clinic, battling through physical fatigue to overcome Argentina's Mariano Navone 3-6, 6-4, 6-3 for his first Shanghai win in eight years. With French showman Gael Monfils also safely through in straight sets, the stage is now set for the top 32 seeds. World No. 1 Jannik Sinner, newly crowned Beijing champion Carlos Alcaraz, and four-time Shanghai king Novak Djokovic all take to Center Court starting Wednesday in search of 1,000 vital ranking points.",
+  "stakes": "Second-round berths in Asia's premier ATP 1000 event and vital momentum for veterans fighting for main-tour longevity.",
+  "rivalryAngle": "Wawrinka sets up a compelling clash against rising Italian star Flavio Cobolli, while Alcaraz and Sinner prepare for possible collisions later in the tournament.",
+  "home": "Stan Wawrinka",
+  "away": "Roman Safiullin",
+  "group": "ATP",
+  "date": "2026-10-06",
+  "time": "14:00",
+  "venue": "Qizhong Forest Sports City Arena",
+  "city": "Shanghai",
+  "status": "FINISHED",
+  "sport": "tennis",
+  "competition": "atp-shanghai-masters-2026"
+}

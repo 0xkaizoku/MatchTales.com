@@ -1,0 +1,82 @@
+{
+  "funFacts": [
+    "Teams falling behind 0-2 in best-of-five WNBA playoff series have advanced to the Finals in only 4 percent of all-time matchups (1 out of 25).",
+    "Breanna Stewart's 34 points in Game 1 was the highest individual scoring output in a WNBA Semifinal game since Diana Taurasi in 2014.",
+    "Target Center hosts its fourth consecutive sellout crowd as the top-seeded Lynx attempt to take a 2-0 chokehold against Caitlin Clark and the Fever."
+  ],
+  "keyPlayers": [
+    {
+      "name": "A'ja Wilson",
+      "team": "Las Vegas Aces",
+      "hook": "The unanimous MVP recorded 21 points in Game 1 and must navigate New York's suffocating high-low double-teams to level the series."
+    },
+    {
+      "name": "Caitlin Clark",
+      "team": "Indiana Fever",
+      "hook": "Rallied Indiana with 14 fourth-quarter points in Game 1 (22 pts, 9 ast) and aims for a franchise-defining road victory in Minneapolis."
+    }
+  ],
+  "headToHead": "New York leads Las Vegas 1-0; Minnesota leads Indiana 1-0 in best-of-five series.",
+  "tags": [
+    "wnba",
+    "playoffs",
+    "semifinals",
+    "liberty",
+    "aces",
+    "lynx",
+    "fever",
+    "a-ja-wilson",
+    "caitlin-clark"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Semifinals · Game 2 Double-Header Showdown",
+  "resultSummary": "Game 2: Aces at Liberty (Barclays Center); Fever at Lynx (Target Center); 1-0 leads on the line",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "WNBA.com: Semifinals Game 2 match center and starting lineups",
+      "url": "https://www.wnba.com/playoffs/2026/semifinals-game-2"
+    },
+    {
+      "name": "ESPN: Aces, Fever facing crucial Game 2 road tests",
+      "url": "https://www.espn.com/wnba/story/_/id/41567800/wnba-semifinals-game-2-preview"
+    },
+    {
+      "name": "The Athletic: Tactical keys for Aces and Fever to avoid 0-2 holes",
+      "url": "https://www.nytimes.com/athletic/wnba/semifinals-game2-tactical-keys"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "wnba-semifinals-game2-showdown-2026",
+  "headline": "WNBA Semifinals Game 2: Aces and Fever face must-win road tests as Liberty and Lynx eye 2-0 leads",
+  "whyCareScore": 9.9,
+  "whyCareReason": "The entire season hangs in the balance for two-time defending champion Las Vegas and Caitlin Clark's Indiana Fever, with an 0-2 hole virtually guaranteeing elimination in WNBA postseason history.",
+  "teaser": "Tuesday night across the WNBA: Barclays Center and Target Center host a blockbuster Game 2 double-header as Becky Hammon's Aces fight to square their heavyweight clash with New York, while Indiana seeks a statement road split in Minnesota.",
+  "story": "Why this one matters: Tuesday night presents the defining crucible of the 2026 WNBA postseason. In the unforgiving landscape of best-of-five playoff series, Game 2 is where seasons are preserved or pushed to the absolute brink.\n\nAt Barclays Center in Brooklyn, the Las Vegas Aces face unprecedented adversity. The two-time defending champions fell 87-77 in Sunday's opener as Breanna Stewart dominated both ends with 34 points and eight blocks. Aces coach Becky Hammon has emphasized ball protection after 18 costly turnovers in Game 1, demanding crisper ball movement around unanimous MVP A'ja Wilson to prevent Sabrina Ionescu and Jonquel Jones from feasting in transition.\n\nTwo hours later at Target Center, the Indiana Fever look to strike back against the top-seeded Minnesota Lynx. Napheesa Collier's 28-point masterclass secured an 88-82 win for Minnesota in Game 1, but Caitlin Clark's fourth-quarter surge (14 points) provided the Fever with a proven blueprint. If Indiana can knock down perimeter jumpers early and control defensive rebounds, they have a golden opportunity to steal home-court advantage before the series heads to Indianapolis.",
+  "stakes": "Championship series leverage: teams leading 2-0 in best-of-five WNBA history have advanced in 24 of 25 all-time series (96 percent).",
+  "rivalryAngle": "New York is hungry for sweet revenge after falling to Las Vegas in the 2023 Finals, while Clark and Collier continue to produce box-office postseason drama.",
+  "home": "New York Liberty",
+  "away": "Las Vegas Aces",
+  "group": "WNBA",
+  "date": "2026-10-06",
+  "time": "19:30",
+  "venue": "Barclays Center",
+  "city": "New York",
+  "status": "UPCOMING",
+  "sport": "basketball",
+  "competition": "wnba-playoffs-2026"
+}

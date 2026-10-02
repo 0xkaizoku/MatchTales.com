@@ -7462,6 +7462,558 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+  'wnba-semifinals-game2-liberty-aces-lynx-fever-2026': {
+    fr: {
+      title: "Demi-finales WNBA Match 2 : les Aces et le Fever sous pression maximale face au Liberty et aux Lynx",
+      subtitle: "Becky Hammon exige de la discipline après 18 pertes de balle tandis que Caitlin Clark et Indiana préparent la riposte.",
+      excerpt: "Menées 1-0 dans leurs séries, les formations de Las Vegas et d'Indiana affrontent un Match 2 couperet pour préserver leurs rêves de titre.",
+      body: [
+        "Dans l'histoire des playoffs WNBA au meilleur des cinq manches, une seule équipe a réussi à combler un retard de 0-2.",
+        "Le Liberty a étouffé les Aces au Match 1 grâce à 34 points de Breanna Stewart, poussant Becky Hammon à revoir totalement son jeu de passes pour libérer A'ja Wilson.",
+        "À Minneapolis, Caitlin Clark et le Fever veulent s'appuyer sur leur formidable quatrième quart-temps pour égaliser face aux Lynx de Napheesa Collier.",
+      ],
+    },
+    es: {
+      title: "Semifinales WNBA Partido 2: Aces y Fever ante una prueba de fuego frente a Liberty y Lynx",
+      subtitle: "Becky Hammon exige disciplina defensiva tras 18 pérdidas mientras Caitlin Clark e Indiana buscan dar la sorpresa.",
+      excerpt: "Con desventaja de 1-0, Las Vegas Aces e Indiana Fever afrontan un segundo asalto a vida o muerte para no caer en un peligroso 0-2.",
+      body: [
+        "La historia de la WNBA es demoledora: un 0-2 en contra en semifinales sólo se ha remontado en una ocasión en 25 precedentes.",
+        "Las Aces necesitan cuidar el balón y generar mejores espacios para A'ja Wilson ante un Liberty liderado por una incontenible Breanna Stewart.",
+        "En el Target Center, Caitlin Clark intentará mantener el acierto del último cuarto para robar el factor cancha a las Lynx de Napheesa Collier.",
+      ],
+    },
+    de: {
+      title: "WNBA-Halbfinale Spiel 2: Aces und Fever stehen gegen Liberty und Lynx mit dem Rücken zur Wand",
+      subtitle: "Becky Hammon fordert Disziplin nach 18 Ballverlusten, während Caitlin Clark und Indiana den Konter planen.",
+      excerpt: "Nach den Auftaktniederlagen stehen die Las Vegas Aces und das Indiana Fever in Spiel 2 vor entscheidenden Auswärtsprüfungen.",
+      body: [
+        "In der Geschichte der WNBA-Playoffs hat sich ein 0:2-Rückstand in Best-of-Five-Serien zu 96 Prozent als Endstation erwiesen.",
+        "Die New York Liberty dominierten Spiel 1 dank 34 Punkten von Breanna Stewart, weshalb die Aces A'ja Wilson besser in Szene setzen müssen.",
+        "In Minneapolis hofft Indiana auf die Fortsetzung von Caitlin Clarks furioser Schlussoffensive, um gegen die Lynx auszugleichen.",
+      ],
+    },
+    it: {
+      title: "Semifinali WNBA Gara 2: Aces e Fever alla prova del nove contro Liberty e Lynx",
+      subtitle: "Becky Hammon invoca disciplina dopo 18 palle perse mentre Caitlin Clark e Indiana cercano il colpo esterno.",
+      excerpt: "Sotto 1-0 nelle serie, Las Vegas Aces e Indiana Fever scendono in campo martedì sera in due sfide decisive per non scivolare sullo 0-2.",
+      body: [
+        "Nella storia della postseason WNBA, rimontare uno 0-2 in una serie al meglio delle cinque gare è riuscito solo nel 4% dei casi.",
+        "Le bi-campionesse di Las Vegas devono limitare le palle perse per contenere il contropiede di New York orchestrato da Breanna Stewart.",
+        "Al Target Center, le Fever di Caitlin Clark puntano sulla velocità per scardinare l'ermetica difesa delle Minnesota Lynx di Collier.",
+      ],
+    },
+    pl: {
+      title: "Półfinały WNBA Mecz nr 2: Aces i Fever przed arcytrudnym zadaniem przeciwko Liberty i Lynx",
+      subtitle: "Becky Hammon żąda dyscypliny po 18 stratach, a Caitlin Clark i Indiana szykują rewanż w Target Center.",
+      excerpt: "Przegrywając 0-1 w serii, Las Vegas Aces oraz Indiana Fever stają przed meczami o życie, by uniknąć stanu 0-2.",
+      body: [
+        "W historii play-offów WNBA tylko jednej drużynie udało się podnieść ze stanu 0-2 w serii do trzech zwycięstw.",
+        "New York Liberty zdominowały mecz otwarcia za sprawą 34 punktów Breanny Stewart, zmuszając obrończynie tytułu do natychmiastowych korekt.",
+        "W Minneapolis Caitlin Clark i Indiana Fever zrobią wszystko, by przełamać znakomitą defensywę Minnesota Lynx i wyrównać stan rywalizacji.",
+      ],
+    },
+    zh: {
+      title: "WNBA半决赛G2决战：王牌与狂热客场生死战，自由人与山猫剑指2-0赛点",
+      subtitle: "贝基-哈蒙严抓失误命门力争破局，克拉克率印第安纳狂热客战标靶中心渴望复仇",
+      excerpt: "大比分0-1落后的卫冕冠军拉斯维加斯王牌与印第安纳狂热在周二客场迎来生死攸关的第二战，力求避免陷入0-2绝境。",
+      body: [
+        "在WNBA五战三胜制的半决赛历史上，0-2落后的球队最终被淘汰的概率高达96%，G2成为真正的生死天王山。",
+        "自由人首战凭借斯图尔特的34分和防守统治力拿下王牌，哈蒙教练要求全队减少18次失误，为威尔逊创造更好的低位出手机会。",
+        "在明尼阿波利斯，凯特琳-克拉克希望延续G1第四节独得14分的反扑气势，带领狂热冲垮常规赛冠军山猫的阵地防守。",
+      ],
+    },
+    ja: {
+      title: "WNBA準決勝第2戦：初戦を落としたエーシズとフィーバー、王手を防ぐ運命のアウェー戦へ",
+      subtitle: "ハモンHCは18ターンオーバーの修正を厳命、クラーク率いるフィーバーはミネソタ攻略に挑む",
+      excerpt: "リバティとリンクスに先勝を許したエーシズとフィーバーが、0-2の崖っぷちを回避すべく火曜夜の第2戦へ挑む。",
+      body: [
+        "WNBAプレーオフの5戦3勝制において、0勝2敗から逆転勝利を収めた例は歴代でわずか4%しか存在しません。",
+        "スチュワートに34点を許したエーシズは、ウィルソンへのパス供給ラインを再構築しリバティの速攻を阻止する必要があります。",
+        "ターゲット・センターでは、フィーバーのエース・クラークがリンクスの強力な包囲網を破り1勝1敗のタイに持ち込めるかが注目されます。",
+      ],
+    },
+    ko: {
+      title: "WNBA 준결승 2차전: 벼랑 끝 에이시스와 피버, 리버티와 링스 상대로 원정 반격 출격",
+      subtitle: "베키 해먼 감독 18실책 설욕 다짐, 케이틀린 클라크는 타깃 센터에서 원정 1승 정조준",
+      excerpt: "1차전을 내준 라스베이거스 에이시스와 인디애나 피버가 0-2 위기를 피하기 위해 화요일 2차전 총력전에 나선다.",
+      body: [
+        "WNBA 5전 3선승제 역사상 0-2로 뒤진 팀의 챔프전 진출 확률은 4%에 불과해 2차전은 사실상의 결승전입니다.",
+        "뉴욕 리버티는 스튜어트의 34점 원맨쇼로 1차전을 챙겼으며, 에이시스는 에이자 윌슨의 공간 창출을 위한 전술 수정에 나섰습니다.",
+        "미네소타에서는 나피사 콜리어의 링스를 상대로 케이틀린 클라크가 4쿼터 폭발력을 재현해 원정 승리를 노립니다.",
+      ],
+    },
+    ar: {
+      title: "نصف نهائي WNBA المباراة 2: إيسز وفيفر في مواجهة مصيرية أمام ليبرتي ولينكس لتفادي التأخر 0-2",
+      subtitle: "بيكي هامون تطالب بانضباط تكتيكي صارم وكيتلين كلارك تقود إنديانا لمحاولة كسر تفوق مينيسوتا.",
+      excerpt: "يدخل لاس فيغاس إيسز وإنديانا فيفر مواجهتي الثلاثاء بشعار الفوز ولا بديل عنه لتفادي التأخر بنتيجة 0-2 في نصف نهائي WNBA.",
+      body: [
+        "تاريخياً في دوري WNBA، نجح فريق واحد فقط من أصل 25 في العودة من التأخر بنتيجة 0-2 في سلسلة من خمس مباريات.",
+        "يسعى إيسز بقيادة إيجا ويلسون لتقليص الأخطاء الهجومية أمام دفاع نيويورك ليبرتي القوي ونجمته بريانا ستيوارت.",
+        "وفي مينيابوليس، تأمل كيتلين كلارك في استثمار صحوتها الهجومية المتأخرة لقيادة فيفر لتحقيق انتصار ثمين أمام لينكس.",
+      ],
+    },
+  },
+  'shanghai-masters-2026-r1-wawrinka-nishikori-alcaraz-preview': {
+    fr: {
+      title: "Rolex Shanghai Masters : Wawrinka entre dans l'histoire à 39 ans, Nishikori enchaîne avant l'entrée des favoris",
+      subtitle: "Le Suisse devient le 3e vainqueur le plus âgé en Masters 1000 pendant qu'Alcaraz, Sinner et Djokovic préparent leur entrée.",
+      excerpt: "Stan Wawrinka a signé un exploit historique en dominant Safiullin tandis que Kei Nishikori a renversé Navone lors du premier tour à Shanghai.",
+      body: [
+        "À 39 ans et six mois, Stan Wawrinka a ébloui la Qizhong Arena avec 38 coups gagnants pour dominer Roman Safiullin 7-5, 7-6.",
+        "Le Suisse devient le troisième joueur le plus âgé de l'histoire à remporter un match en Masters 1000 après Connors et Karlovic.",
+        "Kei Nishikori s'est également qualifié en trois sets alors que Carlos Alcaraz, Jannik Sinner et Novak Djokovic peaufinent leurs débuts au deuxième tour.",
+      ],
+    },
+    es: {
+      title: "Rolex Shanghai Masters: Wawrinka hace historia a los 39 años y Nishikori avanza antes del debut de los favoritos",
+      subtitle: "El suizo se convierte en el tercer ganador más veterano en Masters 1000 mientras Alcaraz, Sinner y Djokovic afinan detalles.",
+      excerpt: "Stan Wawrinka firmó una gesta inolvidable ante Safiullin y Kei Nishikori remontó ante Navone en una vibrante jornada en Shanghái.",
+      body: [
+        "Con un revés a una mano magistral, Stan Wawrinka superó 7-5, 7-6 a Roman Safiullin en el Qizhong Arena a sus 39 años y medio.",
+        "Wawrinka se une a Jimmy Connors e Ivo Karlovic como los únicos jugadores de mayor edad en ganar un partido de Masters 1000.",
+        "Kei Nishikori también avanzó tras remontar ante Navone, mientras Carlos Alcaraz, Jannik Sinner y Novak Djokovic preparan sus estrenos.",
+      ],
+    },
+    de: {
+      title: "Rolex Shanghai Masters: Wawrinka schreibt mit 39 Jahren Geschichte, Nishikori siegt vor Auftritt der Topstars",
+      subtitle: "Der Schweizer wird zum drittältesten Matchgewinner der Masters-1000-Geschichte, während Alcaraz, Sinner und Djokovic warten.",
+      excerpt: "Stan Wawrinka triumphierte mit 38 Winnern über Safiullin und Kei Nishikori kämpfte sich in drei Sätzen in Runde zwei von Shanghai.",
+      body: [
+        "Stan Wawrinka begeisterte das Publikum in der Qizhong Arena und bezwang Roman Safiullin im Alter von 39 Jahren mit 7:5, 7:6.",
+        "Damit ist Wawrinka nach Jimmy Connors und Ivo Karlovic der drittälteste Spieler mit einem Matcherfolg auf Masters-1000-Ebene.",
+        "Auch Kei Nishikori meldete sich mit einem Dreisatzsieg zurück, während Carlos Alcaraz und Jannik Sinner vor ihren Auftaktpartien stehen.",
+      ],
+    },
+    it: {
+      title: "Rolex Shanghai Masters: Wawrinka nella storia a 39 anni, Nishikori avanza prima dei big",
+      subtitle: "Lo svizzero diventa il terzo vincitore più anziano nei Masters 1000 mentre Alcaraz, Sinner e Djokovic preparano l'esordio.",
+      excerpt: "Stan Wawrinka batte Safiullin con 38 vincenti e Kei Nishikori rimonta Navone in un martedì memorabile a Shanghai.",
+      body: [
+        "A 39 anni e sei mesi, Stan Wawrinka ha incantato la Qizhong Arena piegando Roman Safiullin 7-5, 7-6 con il suo proverbiale rovescio.",
+        "Il campione elvetico è ora il terzo tennista più anziano a vincere una partita nei Masters 1000 dopo Connors e Karlovic.",
+        "Avanza anche Kei Nishikori al terzo set, mentre Carlos Alcaraz, Jannik Sinner e Novak Djokovic sono pronti al debutto nel secondo turno.",
+      ],
+    },
+    pl: {
+      title: "Rolex Shanghai Masters: 39-letni Wawrinka pisze historię, Nishikori gra dalej przed wejściem faworytów",
+      subtitle: "Szwajcar trzecim najstarszym zwycięzcą meczu w historii Masters 1000, podczas gdy Alcaraz, Sinner i Djoković czekają na start.",
+      excerpt: "Stan Wawrinka pokonał Safiullina po popisie 38 zagrań kończących, a Kei Nishikori awansował po trzysetowym boju w Szanghaju.",
+      body: [
+        "Stan Wawrinka w wieku 39 lat zachwycił fanów w Qizhong Arena, wygrywając z Romanem Safiullinem 7-5, 7-6.",
+        "Szwajcarski mistrz ustępuje pod względem wieku wygranej w Masters 1000 jedynie Jimmy'emu Connorsowi i Ivo Karloviciowi.",
+        "Kei Nishikori również zameldował się w 2. rundzie, a do gry szykują się Carlos Alcaraz, Jannik Sinner oraz Novak Djoković.",
+      ],
+    },
+    zh: {
+      title: "上海劳力士大师赛：39岁瓦林卡创历史成为大师赛第三年长胜者，锦织圭逆转晋级",
+      subtitle: "瑞士老将旗忠网球中心轰出38记制胜分，阿尔卡拉斯、辛纳与德约科维奇严阵以待次轮首秀",
+      excerpt: "39岁老将瓦林卡两盘力克萨菲乌林跻身历史前三，锦织圭三盘逆转纳沃内，上海大师赛首轮全面战罢顶尖种子即将登场。",
+      body: [
+        "在上海旗忠森林网球中心，39岁零6个月的瓦林卡用招牌单反狂轰38记制胜分，以7-5、7-6(3)击败萨菲乌林闯入第二轮。",
+        "瓦林卡借此成为ATP大师赛历史上第三年长的单打获胜者，仅次于康纳斯与卡洛维奇。",
+        "日本名将锦织圭同样激战三盘逆转纳沃内，而阿尔卡拉斯、辛纳和四届赛会冠军德约科维奇已完成备战蓄势待发。",
+      ],
+    },
+    ja: {
+      title: "上海ロレックス・マスターズ：39歳ワウリンカが歴代3位の年長勝利記録を樹立、錦織圭も逆転で初戦突破",
+      subtitle: "スイスの巨星が38本のウィナーでサフィウリンを撃破、アルカラスやシナーら上位シードが2回戦へ",
+      excerpt: "39歳のスタン・ワウリンカがマスターズ1000歴代3位の年長勝利を挙げ、錦織圭もフルセットで勝利し上海の舞台で輝きを放った。",
+      body: [
+        "旗忠アリーナでスタン・ワウリンカが代名詞の片手バックハンドを武器にサフィウリンを7-5、7-6で退けました。",
+        "39歳6カ月での勝利は、ジミー・コナーズとイボ・カルロビッチに次ぐマスターズ1000史上3番目の年長記録です。",
+        "錦織圭もナヴォーネに逆転勝ちを収め、水曜日からはアルカラス、シナー、ジョコビッチらシード勢が登場します。",
+      ],
+    },
+    ko: {
+      title: "상하이 롤렉스 마스터스: 39세 바브린카 역대 3위 최고령 승리 신기록, 니시코리도 1회전 통과",
+      subtitle: "스위스 베테랑 38개 위너로 사피울린 제압, 알카라스·시너·조코비치는 2회전 출격 대기",
+      excerpt: "39세의 스탄 바브린카가 마스터스 1000 역대 3위 최고령 승리를 거뒀고, 니시코리 케이도 역전승을 거두며 상하이 본선 2회전에 올랐다.",
+      body: [
+        "치중 아레나에서 열린 경기에서 39세 6개월의 스탄 바브린카가 사피울린을 7-5, 7-6(3)으로 꺾고 노익장을 과시했습니다.",
+        "바브린카는 코너스와 카를로비치에 이어 ATP 마스터스 1000 역사상 세 번째로 많은 나이에 승리를 따낸 선수가 됐습니다.",
+        "니시코리도 풀세트 접전 끝에 나보네를 꺾었으며, 알카라스와 시너, 조코비치가 수요일부터 본격적인 우승 사냥에 나섭니다.",
+      ],
+    },
+    ar: {
+      title: "بطولة شنغهاي للأساتذة: فافرينكا يدخل التاريخ بعمر 39 عاماً ونيشيكوري يتأهل بانتظار الكبار",
+      subtitle: "النجم السويسري يصبح ثالث أكبر لاعب يحقق فوزاً في بطولات الماسترز بينما يستعد ألكاراز وسينر للظهور الأول.",
+      excerpt: "حقق ستان فافرينكا إنجازاً تاريخياً بتغلبه على سافيولين بينما قلب نيشيكوري تأخره ليعبر للدور الثاني في شنغهاي.",
+      body: [
+        "أمتع النجم السويسري ستان فافرينكا جماهير صالة كيتشونغ بضرباته الخلفية الساحرة وتفوق على رومان سافيولين 7-5 و7-6.",
+        "وأصبح فافرينكا بعمر 39 عاماً وستة أشهر ثالث أكبر لاعب يفوز بمباراة في بطولات الماسترز 1000 عبر التاريخ.",
+        "وعبر الياباني كي نيشيكوري بثلاث مجموعات، في حين يترقب الجميع انطلاقة ألكاراز وسينر وجوكوفيتش في الدور الثاني.",
+      ],
+    },
+  },
+  'nfl-week5-power-rankings-chiefs-vikings-lions-surge-2026': {
+    fr: {
+      title: "NFL 5e semaine : les Vikings et les Chiefs seuls invaincus, les Lions grimpent sur le podium après le récital de Goff",
+      subtitle: "Le classement bousculé au quart de la saison tandis qu'Atlanta et Tampa Bay lancent le Thursday Night Football.",
+      excerpt: "Avec Minnesota et Kansas City à 4-0 et l'attaque historique des Lions de Detroit, la hiérarchie de la NFL est totalement redistribuée.",
+      body: [
+        "Après quatre semaines, seules deux équipes affichent un bilan parfait de 4-0 : les Chiefs de Mahomes et les surprenants Vikings de Darnold.",
+        "Les Lions de Detroit grimpent au troisième rang des power rankings après le match historique à 18/18 de Jared Goff face à Seattle.",
+        "La 5e semaine s'ouvre jeudi soir avec un duel brûlant de NFC South entre les Falcons de Cousins et les Buccaneers de Mayfield.",
+      ],
+    },
+    es: {
+      title: "NFL Semana 5: Vikings y Chiefs son los únicos invictos y los Lions suben al podio tras la perfección de Goff",
+      subtitle: "El orden de la liga cambia al completarse el primer cuarto de temporada con Atlanta y Tampa Bay abriendo el jueves.",
+      excerpt: "Minnesota y Kansas City comandan la NFL con 4-0 mientras Detroit desata la ofensiva más temible tras la exhibición de Goff.",
+      body: [
+        "Un mes de competición ha dejado únicamente a dos franquicias invictas: los vigentes campeones Chiefs y los asombrosos Vikings de Sam Darnold.",
+        "Los Lions se sitúan entre los tres mejores equipos tras el partido de 18 de 18 pases de Jared Goff y el dominio de Gibbs y Montgomery.",
+        "La semana 5 arranca este jueves en Atlanta con un choque crucial de la NFC South entre los Falcons y los Buccaneers.",
+      ],
+    },
+    de: {
+      title: "NFL Woche 5: Vikings und Chiefs als letzte Ungeschlagene, Lions stürmen nach Goff-Gala in die Top 3",
+      subtitle: "Machtgefüge der Liga nach vier Wochen neu geordnet; Atlanta und Tampa Bay eröffnen Thursday Night Football.",
+      excerpt: "Minnesota und Kansas City thronen mit 4:0 an der Spitze der NFL, während die Lions nach Goffs historischem 18-von-18-Auftritt glänzen.",
+      body: [
+        "Nach dem ersten Saisonviertel haben nur noch die Kansas City Chiefs und die Minnesota Vikings eine weiße Weste von 4:0.",
+        "Die Detroit Lions schoben sich nach Jared Goffs Rekordspiel gegen Seattle auf Platz drei der ligaweiten Power Rankings vor.",
+        "Woche 5 beginnt bereits am Donnerstagabend mit dem prestigeträchtigen NFC-South-Duell zwischen Falcons und Buccaneers.",
+      ],
+    },
+    it: {
+      title: "NFL Week 5: Vikings e Chiefs uniche imbattute, Lions sul podio dopo la perfezione di Goff",
+      subtitle: "I power ranking rivoluzionano la lega al primo quarto di stagione; Falcons e Buccaneers aprono il giovedì.",
+      excerpt: "Minnesota e Kansas City guidano la NFL sul 4-0 mentre Detroit vola tra le prime tre grazie al 18 su 18 storico di Goff.",
+      body: [
+        "Soltanto Kansas City e Minnesota restano a punteggio pieno (4-0) dopo quattro turni di una stagione NFL imprevedibile.",
+        "I Detroit Lions si issano al terzo posto assoluto nei ranking grazie all'attacco stellare guidato dal perfetto Jared Goff.",
+        "La quinta settimana si apre giovedì notte ad Atlanta con lo scontro al vertice della NFC South tra Falcons e Buccaneers.",
+      ],
+    },
+    pl: {
+      title: "NFL Tydzień 5: Vikings i Chiefs jedynymi niepokonanymi, Lions w czołowej trójce po perfekcyjnym występie Goffa",
+      subtitle: "Układ sił w lidze wywrócony po pierwszej ćwiartce sezonu; Falcons i Buccaneers otwierają Thursday Night Football.",
+      excerpt: "Minnesota i Kansas City prowadzą z bilansem 4-0, a Detroit Lions awansowali do czołówki po historycznym meczu Jareda Goffa.",
+      body: [
+        "Po czterech tygodniach rywalizacji tylko Minnesota Vikings i Kansas City Chiefs mogą pochwalić się bilansem 4-0.",
+        "Detroit Lions wskoczyli na trzecie miejsce w rankingach siły po popisie Goffa, który nie pomylił się ani razu w 18 rzutach.",
+        "Tydzień 5 rozpocznie się już w czwartek w Atlancie od starcia dywizyjnego Falcons z Tampa Bay Buccaneers.",
+      ],
+    },
+    zh: {
+      title: "NFL第5周实力榜：维京人与酋长成仅存不败之师，高夫完美一战助雄狮挺进前三",
+      subtitle: "赛季首个四分之一节点格局大洗牌，猎鹰与海盗周四夜赛拉开第5周战幕",
+      excerpt: "明尼苏达维京人与堪萨斯城酋长以4胜0负傲视全联盟，底特律雄狮凭借高夫的历史级表现飙升至实力榜第三位。",
+      body: [
+        "2026赛季常规赛战罢四周，仅剩酋长与维京人两支4胜0负的全胜球队屹立不倒。",
+        "雄狮队四分卫高夫在周一夜赛打出18投18中的神迹，带领底特律冲上联盟实力榜前三，展现出摧枯拉朽的进攻火力。",
+        "第5周首战将于周四夜赛打响，亚特兰大猎鹰主场迎战坦帕湾海盗，展开国联南区焦点对话。",
+      ],
+    },
+    ja: {
+      title: "NFL第5週：バイキングスとチーフスが無敗を維持、ゴフの完璧劇でライオンズがトップ3に浮上",
+      subtitle: "第1クォーター終了時点でパワーランキングが激変、ファルコンズ対バッカニアーズでTNF開幕へ",
+      excerpt: "開幕4連勝のバイキングスとチーフスが首位を走り、ゴフが歴史を作ったライオンズがリーグ3位へと躍進した。",
+      body: [
+        "第4週を終えて全勝をキープしているのは、王者チーフスとダーノルド躍進のバイキングスの2チームのみとなりました。",
+        "マンデーナイトでパス成功率100%を記録したジャレッド・ゴフ率いるライオンズがパワーランキング3位へ浮上しました。",
+        "第5週は木曜夜のサーズデーナイトで幕を開け、ファルコンズとバッカニアーズがNFC南地区首位を争います。",
+      ],
+    },
+    ko: {
+      title: "NFL 5주차: 바이킹스와 치프스 유이한 4연승 무패 행진, 고프의 완벽투로 라이언스 톱3 진입",
+      subtitle: "시즌 4분의 1 통과하며 파워랭킹 대격변, 팰컨스와 버커니어스의 TNF로 5주차 개막",
+      excerpt: "미네소타와 캔자스시티가 4승 무패로 양대 콘퍼런스를 이끄는 가운데, 디트로이트 라이언스가 강력한 화력으로 리그 3위에 올랐다.",
+      body: [
+        "NFL 4주차가 끝난 현재 32개 구단 중 전승 팀은 캔자스시티 치프스와 미네소타 바이킹스 단 두 팀뿐입니다.",
+        "디트로이트 라이언스는 18패스 100% 성공 신화를 쓴 재러드 고프의 활약에 힘입어 파워랭킹 3위로 수직 상승했습니다.",
+        "5주차는 목요일 밤 애틀랜타 팰컨스와 탬파베이 버커니어스의 NFC 남부지구 맞대결로 화려하게 시작됩니다.",
+      ],
+    },
+    ar: {
+      title: "دوري NFL الأسبوع 5: فايكنغز وتشيفس الوحيدان دون هزيمة ولايونز يقتحم الثلاثي الأفضل بعد تألق غوف",
+      subtitle: "انقلاب في موازين القوى بعد انقضاء ربع الموسم وفالكونز وبوكانيرز يفتتحان جولة الخميس.",
+      excerpt: "ينفرد مينيسوتا فايكنغز وكانساس سيتي تشيفس بسجل 4-0 في حين يقفز ديترويت لايونز للمركز الثالث في تصنيف القوة.",
+      body: [
+        "بعد مرور أربعة أسابيع من الإثارة، بقي كانساس سيتي ومينيسوتا فايكنغز فقط بسجل ناصع البياض دون أي خسارة.",
+        "وقفز ديترويت لايونز للمركز الثالث عالمياً بفضل ليلة جاريد غوف التاريخية بإكمال 18 تمريرة من أصل 18 أمام سياتل.",
+        "وتنطلق الجولة الخامسة مساء الخميس بمواجهة قوية تجمع أتلانتا فالكونز ضد تامبا باي بوكانيرز في صراع الصدارة.",
+      ],
+    },
+  },
+  'international-break-nations-league-md3-preview-spurs-inquest-2026': {
+    fr: {
+      title: "Trêve internationale : la Ligue des Nations propose un choc Italie - Belgique pendant la pause des clubs",
+      subtitle: "Les Azzurri visent un sans-faute en Ligue A tandis que Tottenham médite son effondrement face à Brighton.",
+      excerpt: "Avec Manchester City solide leader à 21 points, les championnats s'arrêtent pour laisser place aux affiches internationales.",
+      body: [
+        "Après sept journées folles en Europe, les stars rejoignent leurs sélections nationales pour la Ligue des Nations et les éliminatoires du Mondial 2026.",
+        "Le Stadio Olimpico de Rome accueille jeudi une affiche royale entre l'Italie de Spalletti et une Belgique rajeunie privée de De Bruyne et Lukaku.",
+        "Pendant ce temps à Londres, Tottenham et Ange Postecoglou disposent de deux semaines d'introspection après avoir concédé 10 points en menant au score.",
+      ],
+    },
+    es: {
+      title: "Parón de selecciones: la Nations League trae un Italia - Bélgica de campanillas con las ligas en pausa",
+      subtitle: "La Azzurra busca mantener su pleno en la Liga A mientras el Tottenham analiza su derrumbe ante el Brighton.",
+      excerpt: "Con el Manchester City intratable con 21 puntos, los clubes dan paso a las selecciones en una apasionante jornada continental.",
+      body: [
+        "El fútbol europeo de clubes se detiene con el Manchester City en lo más alto para dar paso a la ventana internacional de octubre.",
+        "El choque estelar medirá en Roma a la renacida Italia de Luciano Spalletti contra una Bélgica en transición sin De Bruyne ni Lukaku.",
+        "En Inglaterra, el Tottenham encara dos semanas de terapia interna tras haber dilapidado diez puntos en ventajas desperdiciadas.",
+      ],
+    },
+    de: {
+      title: "Länderspielpause: Nations League lockt mit Italien gegen Belgien, während die Klubligen pausieren",
+      subtitle: "Azzurri wollen Erfolgsserie ausbauen, während Tottenham den Brighton-Schock verarbeiten muss.",
+      excerpt: "Während Manchester City mit 21 Punkten souverän führt, ruht der Klubfußball für Länderspiel-Kracher in Rom und London.",
+      body: [
+        "Die europäischen Top-Ligen gehen in die Länderspielpause, angeführt von Guardiolas makellosem Manchester City.",
+        "Das Highlight der Nations League steigt im Stadio Olimpico, wo Italien auf ein neu formiertes belgisches Team trifft.",
+        "Bei Tottenham Hotspur herrscht derweil Krisenstimmung nach 10 verspielten Punkten aus Führungspositionen.",
+      ],
+    },
+    it: {
+      title: "Sosta nazionali: la Nations League regala Italia - Belgio all'Olimpico mentre i club tirano il fiato",
+      subtitle: "Gli Azzurri di Spalletti cercano il tris nel girone mentre il Tottenham medita sulla rimonta subita a Brighton.",
+      excerpt: "Con il Manchester City a punteggio pieno a quota 21, i campionati si fermano per lasciare spazio alla Nations League.",
+      body: [
+        "La Serie A e la Premier League si fermano per due settimane per far spazio agli impegni delle selezioni nazionali.",
+        "Giovedì sera l'Italia ospita il Belgio all'Olimpico di Roma per consolidare il primato nel Gruppo 2 della League A.",
+        "Nel frattempo a Londra il Tottenham apre un processo interno dopo aver dilapidato dieci punti da situazione di vantaggio.",
+      ],
+    },
+    pl: {
+      title: "Przerwa reprezentacyjna: Liga Narodów przynosi hit Włochy - Belgia, kluby analizują początek sezonu",
+      subtitle: "Azzurri chcą utrzymać komplet punktów, a Tottenham leczy rany po katastrofalnym meczu z Brighton.",
+      excerpt: "Gdy Manchester City przewodzi stawce z kompletem 21 punktów, uwaga kibiców przenosi się na mecze Ligi Narodów UEFA.",
+      body: [
+        "Krajowe rozgrywki ligowe ustępują miejsca reprezentacjom narodowym walczącym w Lidze Narodów UEFA i eliminacjach MŚ.",
+        "Hitem 3. kolejki będzie starcie w Rzymie pomiędzy odradzającymi się Włochami Luciano Spallettiego a Belgią.",
+        "Tottenham ma przed sobą dwa tygodnie trudnych rozliczeń po stracie dziesiątego punktu z pozycji prowadzenia w Premier League.",
+      ],
+    },
+    zh: {
+      title: "国际比赛日打响：欧国联迎来意大利对阵比利时焦点战，英超诸强进入休整期",
+      subtitle: "蓝衣军团力争A级三连胜，热刺两周间歇期闭门复盘被布莱顿逆转的惨痛失利",
+      excerpt: "曼城豪取21分领跑英超进入间歇期，欧洲国家联赛第三轮即将打响，意大利坐镇罗马奥林匹克球场迎战比利时。",
+      body: [
+        "在欧洲俱乐部经历七周激战后，各国球星奔赴国家队备战10月国际比赛日及欧国联赛事。",
+        "罗马奥林匹克球场周四将见证重头戏，斯帕莱蒂率领的意大利队迎战缺少德布劳内和卢卡库的比利时队。",
+        "而在北伦敦，热刺主帅波斯特科格鲁将利用两周时间反思球队领先后狂丢10分的防守痼疾。",
+      ],
+    },
+    ja: {
+      title: "代表ウィーク開幕：欧州ネーションズリーグでイタリア対ベルギーのビッグマッチ、クラブ戦は中断",
+      subtitle: "アズーリがリーグAで3連勝を狙う一方、逆転負けのスパーズは2週間の反省期間へ",
+      excerpt: "マンチェスター・Cが開幕7連勝の21点で首位を独走する中、舞台はネーションズリーグ第3節の代表戦へ移行する。",
+      body: [
+        "欧州各国の国内リーグが中断し、選手たちはネーションズリーグやW杯予選に向けて代表合宿に合流しました。",
+        "注目はローマのスタディオ・オリンピコで行われるイタリア対ベルギーの強豪対決です。",
+        "一方、ブライトン戦で手痛い逆転負けを喫したトッテナムは、守備崩壊の原因究明に追われています。",
+      ],
+    },
+    ko: {
+      title: "A매치 휴식기 돌입: 네이션스리그 이탈리아 vs 벨기에 빅매치 개막, 클럽 축구 일시 중단",
+      subtitle: "스팔레티호 아주리 군단 리그 A 3연승 도전, 토트넘은 브라이턴전 참사 복기 돌입",
+      excerpt: "맨시티가 7전 전승 승점 21점으로 프리미어리그 선두를 굳힌 가운데, 대표팀 경기가 유럽 전역에서 펼쳐진다.",
+      body: [
+        "유럽 리그가 10월 A매치 휴식기에 돌입하며 UEFA 네이션스리그 3라운드 일정에 돌입했습니다.",
+        "로마 올림피코 스타디움에서는 2연승을 달리는 이탈리아와 세대교체 중인 벨기에의 빅매치가 열립니다.",
+        "올 시즌 리드 상황에서만 승점 10점을 날린 토트넘은 2주간의 뼈아픈 자체 쇄신 시간을 갖게 됩니다.",
+      ],
+    },
+    ar: {
+      title: "فترة التوقف الدولي: دوري الأمم الأوروبية يشهد قمة إيطاليا ضد بلجيكا وتوقف المنافسات المحلية",
+      subtitle: "الآزوري يستهدف العلامة الكاملة في المستوى الأول وتوتنهام يعيد ترتيب أوراقه بعد صدمة برايتون.",
+      excerpt: "مع تحليق مانشستر سيتي في صدارة البريميرليغ برصيد 21 نقطة، تتجه الأنظار نحو قمة إيطاليا وبلجيكا في روما.",
+      body: [
+        "تتوقف الدوريات الأوروبية لمدة أسبوعين لافساح المجال أمام مباريات دوري الأمم الأوروبية وتصفيات كأس العالم.",
+        "ويحتضن الملعب الأولمبي في روما مواجهة من العيار الثقيل تجمع إيطاليا ضد بلجيكا في الجولة الثالثة.",
+        "وفي لندن، يقضي توتنهام فترة التوقف في مراجعة شاملة بعد خسارته 10 نقاط كاملة من مباريات كان متقدماً فيها.",
+      ],
+    },
+  },
+  'f1-americas-preview-lawson-red-bull-audition-norris-chase-2026': {
+    fr: {
+      title: "F1 tournée américaine : Liam Lawson entame son grand test chez RB, Red Bull prépare sa riposte à Austin",
+      subtitle: "L'écurie autrichienne prépare un nouveau fond plat à Milton Keynes pendant que Lawson joue son avenir sur six courses.",
+      excerpt: "Avec McLaren en tête des constructeurs avec 41 points d'avance, Red Bull prépare des évolutions majeures pour Austin tandis que Lawson remplace Ricciardo.",
+      body: [
+        "La pause automnale de la Formule 1 est le théâtre d'une course acharnée au développement entre McLaren et Red Bull.",
+        "Red Bull finalise pour Austin un fond plat entièrement redessiné afin d'enrayer la remontée spectaculaire de Lando Norris.",
+        "Titularisé chez RB, le Néo-Zélandais Liam Lawson sait que ses six courses serviront de test direct pour le baquet de Sergio Perez en 2027.",
+      ],
+    },
+    es: {
+      title: "F1 previa de América: Liam Lawson inicia su examen en RB y Red Bull prepara su réplica técnica para Austin",
+      subtitle: "Red Bull diseña un nuevo fondo en Milton Keynes mientras Lawson se juega un asiento en el equipo grande para 2027.",
+      excerpt: "McLaren defiende 41 puntos de ventaja en constructores mientras Red Bull ultima un paquete clave para COTA y debuta Lawson.",
+      body: [
+        "El parón otoñal de la F1 se vive con máxima intensidad en las fábricas ante el inminente triplete americano.",
+        "Red Bull llevará a Austin un suelo revisado para corregir los problemas de equilibrio del RB20 frente al dominio de McLaren.",
+        "El joven Liam Lawson tendrá seis carreras con RB para demostrar que merece el asiento de Sergio Pérez la próxima temporada.",
+      ],
+    },
+    de: {
+      title: "F1 Amerika-Vorschau: Liam Lawson startet RB-Bewerbung, Red Bull rüstet für Austin auf",
+      subtitle: "Red Bull entwickelt neuen Unterboden in Milton Keynes, während Lawson um seine Zukunft für 2027 kämpft.",
+      excerpt: "McLaren führt mit 41 Punkten Vorsprung, doch Red Bull plant für Austin ein großes Aerodynamik-Paket und testet Neuzugang Lawson.",
+      body: [
+        "Die Formel-1-Pause ist geprägt von hektischer Entwicklungsarbeit vor den drei Rennen auf dem amerikanischen Kontinent.",
+        "Red Bull bringt für den Circuit of the Americas einen neuen Unterboden, um Norris und Piastri wieder Paroli bieten zu können.",
+        "Liam Lawson übernimmt das RB-Cockpit von Ricciardo und steht vor einem intensiven Sechs-Rennen-Vorsprechen für Red Bull.",
+      ],
+    },
+    it: {
+      title: "F1 verso le Americhe: Lawson al test decisivo sulla RB, Red Bull prepara gli aggiornamenti per Austin",
+      subtitle: "Il team di Milton Keynes sviluppa un nuovo fondo mentre il giovane neozelandese si gioca il futuro per il 2027.",
+      excerpt: "McLaren vanta 41 punti di margine tra i costruttori ma Red Bull prepara la riscossa a COTA con sviluppi tecnici e l'esordio di Lawson.",
+      body: [
+        "La pausa autunnale della Formula 1 serve alle scuderie per affilare le armi prima del trittico americano.",
+        "La Red Bull introdurrà ad Austin un fondo evoluto per risolvere i cronici problemi di sottosterzo emersi a Singapore.",
+        "Tutti gli occhi saranno puntati anche su Liam Lawson, al volante della Racing Bulls per una sfida diretta con Tsunoda.",
+      ],
+    },
+    pl: {
+      title: "F1 przed wyścigami w Amerykach: Liam Lawson zaczyna test w RB, Red Bull szykuje pakiet poprawek na Austin",
+      subtitle: "Red Bull projektuje nową podłogę w Milton Keynes, a Lawson walczy o stałe miejsce w stawce na 2027 rok.",
+      excerpt: "McLaren ma 41 punktów przewagi, a Red Bull przygotowuje kluczowe poprawki na COTA, gdzie w barwach RB zadebiutuje Liam Lawson.",
+      body: [
+        "Przerwa w F1 to czas wytężonej pracy inżynierów w bazach zespołów przed wyścigami w USA, Meksyku i Brazylii.",
+        "Red Bull przywiezie do Austin gruntownie zmodyfikowaną podłogę, by zneutralizować przewagę technologiczną McLarena.",
+        "22-letni Liam Lawson staje przed życiową szansą w zespole RB, mając sześć wyścigów na przekonanie do siebie Helmuta Marko.",
+      ],
+    },
+    zh: {
+      title: "F1美洲前瞻：劳森入主RB开启六场大考，红牛奥斯汀备战重大底板升级阻击迈凯伦",
+      subtitle: "米尔顿凯恩斯工厂紧锣密鼓赶制新套件，新西兰新星直面角田角逐2027红牛正席",
+      excerpt: "迈凯伦以41分领跑车队积分榜，红牛将在奥斯汀推出关键空力升级包，利亚姆-劳森顶替里卡多迎来关键大考。",
+      body: [
+        "F1秋季休整期成为了迈凯伦与红牛两大豪门的研发军备竞赛，双方即将在奥斯汀展开美洲三连赛首战。",
+        "红牛技术团队在新加坡失利后火速改进RB20底板和前翼结构，力保维斯塔潘的52分车手领先优势。",
+        "22岁的新西兰新星劳森接替里卡多出战最后六场分站赛，这将是他争取2027年红牛主力席位的决定性面试。",
+      ],
+    },
+    ja: {
+      title: "F1アメリカ連戦展望：ローソンがRBで運命の6戦へ、レッドブルはオースティンで大改修投入へ",
+      subtitle: "ミルトンキーンズで新フロアを緊急製造、リカルドの後任ローソンは2027年昇格へ向け角田と激突",
+      excerpt: "マクラーレンが41点差でリードする中、レッドブルはオースティンに改良型フロアを投入し、ローソンがRBで出走する。",
+      body: [
+        "シンガポールでのノリス圧勝劇を受け、レッドブルはRB20のアンダーフロアを刷新する大型アップデートをオースティンに持ち込みます。",
+        "リカルドに代わってRBのステアリングを握る22歳のリアム・ローソンは、角田裕毅との直接対決に挑みます。",
+        "マクラーレンも好調を維持しており、サーキット・オブ・ジ・アメリカズでの初日から激しい開発戦争が火花を散らします。",
+      ],
+    },
+    ko: {
+      title: "F1 아메리카 프리뷰: 리암 로슨 RB서 운명의 6경기 돌입, 레드불 오스틴 대규모 업그레이드 준비",
+      subtitle: "레드불 공장서 새 플로어 긴급 제작, 로슨은 2027시즌 콜업을 목표로 츠노다와 내부 경쟁",
+      excerpt: "맥라렌이 컨스트럭터 41점 차 리드를 지키는 가운데, 레드불이 오스틴에서 공력 패키지를 선보이고 로슨이 RB 시트에 오른다.",
+      body: [
+        "F1 휴식기 동안 레드불은 싱가포르에서 드러난 머신 밸런스 문제를 해결하기 위해 오스틴에 대대적인 플로어 개선안을 투입합니다.",
+        "대니얼 리카도를 대신해 RB에 합류한 리암 로슨은 잔여 6개 레이스에서 자신의 가치를 입증해야 합니다.",
+        "맥라렌의 노리스가 52점 차로 페르스타펜을 맹추격하는 가운데 텍사스 COTA에서 타이틀 향방이 크게 요동칠 전망입니다.",
+      ],
+    },
+    ar: {
+      title: "فورمولا 1 ترقب الأمريكتين: ليام لوسون يبدأ اختباره الحاسم وريد بُل تجهز تحديثات أوستن",
+      subtitle: "مصنع ريد بُل يسابق الزمن لتجهيز أرضية جديدة للسيارة بينما يخوض لوسون اختباراً من ستة سباقات لخطف مقعد 2027.",
+      excerpt: "تدافع ماكلارين عن صدارتها بفارق 41 نقطة في حين تسعى ريد بُل للرد بقوة في حلبة أوستن مع الظهور الأول للوسون.",
+      body: [
+        "تشهد فترة التوقف سباق تطوير هندسي محموم بين ماكلارين وريد بُل قبل بدء جولات القارة الأمريكية.",
+        "تجهز ريد بُل حزمة هوائية جديدة لتعديل أرضية سيارة فيرستابن لتقليص الفارق مع ماكلارين في حلبة كوتا.",
+        "وسيكون النيوزيلندي ليام لوسون تحت مجهر المتابعة مع فريق RB بعد تعويضه لدانييل ريكاردو حتى نهاية الموسم.",
+      ],
+    },
+  },
+  'pga-tour-black-desert-utah-course-preview-mitchell-yu-2026': {
+    fr: {
+      title: "PGA Tour : le Black Desert Championship prépare ses grands débuts en Utah entre roche rouge et lave noire",
+      subtitle: "Keith Mitchell et Beau Hossler cherchent une revanche alors que l'Utah accueille le PGA Tour pour la première fois depuis 1963.",
+      excerpt: "Le PGA Tour pose ses valises dans le cadre grandiose de l'Utah après 61 ans d'absence pour une étape capitale de la FedExCup Fall.",
+      body: [
+        "Soixante-et-un ans après le dernier tournoi professionnel en Utah, le circuit PGA fait étape au spectaculaire Black Desert Resort.",
+        "Le parcours serpente au milieu de coulées de lave volcanique noire et de falaises de grès rouge, offrant un décor unique au monde.",
+        "Keith Mitchell et Beau Hossler comptent parmi les favoris tandis que Kevin Yu dispute son premier tournoi en tant que vainqueur sur le circuit.",
+      ],
+    },
+    es: {
+      title: "PGA Tour: el Black Desert Championship debuta en Utah entre cañones de roca roja y coladas de lava",
+      subtitle: "Keith Mitchell y Beau Hossler buscan revancha mientras Utah vuelve al calendario del PGA Tour tras 61 años.",
+      excerpt: "El circuito estadounidense regresa a Utah por primera vez desde 1963 en un recorrido volcánico deslumbrante con la salvación en juego.",
+      body: [
+        "El Black Desert Resort de Ivins acoge el esperado regreso del PGA Tour al estado de Utah seis décadas después.",
+        "Diseñado por Tom Weiskopf, el campo combina calles de hierba esmeralda con campos de lava basáltica negra y acantilados rojizos.",
+        "Jugadores al borde del top 125 como Keith Mitchell y Beau Hossler buscarán sellar su tarjeta para la temporada 2027.",
+      ],
+    },
+    de: {
+      title: "PGA Tour: Black Desert Championship feiert Premiere in Utah inmitten roter Felsen und schwarzer Lava",
+      subtitle: "Keith Mitchell und Beau Hossler wollen Wiedergutmachung, während Utah erstmals seit 1963 wieder Schauplatz der PGA Tour ist.",
+      excerpt: "Die PGA Tour kehrt nach 61 Jahren nach Utah zurück und gastiert auf dem spektakulären Kurs des Black Desert Resort.",
+      body: [
+        "Sechs Jahrzehnte nach den Utah Open 1963 schlägt die PGA Tour wieder im Bundesstaat Utah auf dem Black Desert Resort ab.",
+        "Der von Tom Weiskopf gestaltete Kurs besticht durch den extremen Kontrast aus sattem Grün, schwarzem Vulkangestein und roten Canyons.",
+        "Für Spieler im FedExCup-Fall-Rennen um die Top 125 bietet die Woche in Ivins eine überlebenswichtige Bewährungsprobe.",
+      ],
+    },
+    it: {
+      title: "PGA Tour: debutto da sogno nello Utah per il Black Desert Championship tra rocce rosse e lava nera",
+      subtitle: "Keith Mitchell e Beau Hossler a caccia del riscatto mentre il circuito ritrova lo Utah dopo 61 anni.",
+      excerpt: "Il PGA Tour sbarca nello spettacolare scenario dello Utah a oltre sessant'anni di distanza per una tappa cruciale della FedExCup Fall.",
+      body: [
+        "Il Black Desert Resort di Ivins ospita il PGA Tour segnando lo storico ritorno del grande golf nello Utah dal lontano 1963.",
+        "Il tracciato disegnato da Weiskopf e Smith si snoda attraverso antiche colate laviche nere sotto imponenti falesie di arenaria rossa.",
+        "Con i punti FedExCup Fall in palio, Keith Mitchell e il secondo classificato di Jackson Beau Hossler partono con i favori del pronostico.",
+      ],
+    },
+    pl: {
+      title: "PGA Tour: Black Desert Championship debiutuje w Utah pośród czerwonych skał i czarnej lawy",
+      subtitle: "Keith Mitchell i Beau Hossler szukają rewanżu po Jackson, a tour wraca do Utah po raz pierwszy od 1963 roku.",
+      excerpt: "PGA Tour wraca do stanu Utah po 61 latach przerwy na niesamowite pole golfowe Black Desert Resort wyciosane w wulkanicznej lawie.",
+      body: [
+        "Historyczny powrót PGA Tour do Utah po ponad 60 latach stał się faktem na zjawiskowym obiekcie Black Desert Resort w Ivins.",
+        "Soczyście zielone fairwaye przecinają czarne pola bazaltowe na tle monumentalnych czerwonych klifów Snow Canyon.",
+        "Keith Mitchell i Beau Hossler celują w zwycięstwo, walcząc o cenne punkty decydujące o utrzymaniu karty PGA Tour w czołowej 125.",
+      ],
+    },
+    zh: {
+      title: "美巡赛：黑沙漠锦标赛犹他首秀开杆在即，红岩峡谷与黑色火山熔岩见证保卡大战",
+      subtitle: "米切尔与霍斯勒力争密西西比失利救赎，美巡赛时隔61年重返蜂窝之州展开秋季激战",
+      excerpt: "美巡赛时隔61年重返犹他州，坐落于黑色玄武岩熔岩与红色砂岩悬崖之间的黑沙漠度假村迎来历史性首秀，联邦快递杯秋季保卡争夺升温。",
+      body: [
+        "继1963年犹他公开赛后，美巡赛时隔61年再度将正式赛事带回犹他州，落地鬼斧神工的黑沙漠度假村高尔夫球场。",
+        "由汤姆-韦斯科夫设计的球场将翠绿的本特草球道巧妙融入1500年前火山爆发形成的黑色玄武岩中，与红色砂岩悬崖交相辉映。",
+        "在杰克逊遗憾失利的米切尔和霍斯勒将全力冲击冠军，力保在联邦快递杯秋季排名前125位锁定下赛季全卡资格。",
+      ],
+    },
+    ja: {
+      title: "PGAツアー：ブラックデザート選手権がユタ州で歴史的開幕、赤色砂岩と黒い溶岩が織りなす絶景決戦",
+      subtitle: "キース・ミッチェルとボウ・ホスラーが前戦の雪辱を期す、ユタ州で61年ぶりとなる公式戦へ",
+      excerpt: "1963年以来となるユタ州でのPGAツアー公式戦がブラックデザートで開催。フェデックスカップ・フォールの生き残りをかけた戦いが幕を開ける。",
+      body: [
+        "トム・ワイスコフ設計のブラックデザート・リゾートは、1500年前の黒い玄武岩の溶岩流と赤い砂岩の峡谷に囲まれた息を呑む絶景コースです。",
+        "ユタ州で61年ぶりとなるPGAツアー開催に、前週ジャクソンで悔し涙を呑んだミッチェルやホスラーがリベンジを誓います。",
+        "来季のフルシード権獲得となるフェデックスカップ秋季ポイント上位125位を巡り、緊迫したサバイバルが繰り広げられます。",
+      ],
+    },
+    ko: {
+      title: "PGA 투어: 블랙 데저트 챔피언십 유타 역사적 개막, 붉은 협곡과 검은 용암석이 빚어낸 무대",
+      subtitle: "키스 미첼과 보 호슬러 설욕 도전, 1963년 이후 61년 만에 유타주서 PGA 투어 공식전 개최",
+      excerpt: "PGA 투어가 61년 만에 유타주로 복귀해 검은 화산암과 붉은 모래 암벽이 어우러진 블랙 데저트 리조트에서 가을 시리즈 경쟁을 이어간다.",
+      body: [
+        "1963년 유타 오픈 이후 61년 만에 유타주에 입성한 PGA 투어가 신설 대회인 블랙 데저트 챔피언십을 치릅니다.",
+        "톰 와이스코프가 설계한 이 코스는 1500년 전 화산 분출로 형성된 검은 현무암 지대와 붉은 암벽이 절묘한 조화를 이룹니다.",
+        "지난주 아쉽게 우승을 놓친 키스 미첼과 보 호슬러가 페덱스컵 가을 시리즈 125위 진입을 위해 배수의 진을 치고 출전합니다.",
+      ],
+    },
+    ar: {
+      title: "جولة PGA: بطولة بلاك ديزرت تستعد لظهورها التاريخي في يوتا وسط الصخور البركانية الحمراء والسوداء",
+      subtitle: "كيث ميتشل وبو هوسلر يسعيان للتعويض مع عودة الجولة إلى ولاية يوتا لأول مرة منذ عام 1963.",
+      excerpt: "تعود جولة PGA إلى ولاية يوتا بعد غياب دام 61 عاماً على مسار بلاك ديزرت الاستثنائي وسط اشتداد صراع بطاقات التأهل.",
+      body: [
+        "يسجل منتجع بلاك ديزرت في يوتا عودة تاريخية للجولة الأمريكية بعد انقطاع دام ستة عقود منذ بطولة يوتا المفتوحة عام 1963.",
+        "يمتاز المسار بتصميم فريد يجمع بين مسارات العشب الأخضر وتدفقات الحمم البركانية السوداء وجدران الأخاديد الحمراء.",
+        "ويدخل كيث ميتشل وبو هوسلر المنافسات بحثاً عن نقاط ثمينة لتأمين مراكزهم بين أفضل 125 لاعباً لضمان بطاقة الموسم المقبل.",
+      ],
+    },
+  },
 };
 
 

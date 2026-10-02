@@ -1,0 +1,106 @@
+{
+  "funFacts": [
+    "Liam Lawson will face a 10-place grid penalty at the United States Grand Prix in Austin due to engine component changes inherited from Daniel Ricciardo's car.",
+    "Red Bull are introducing a redesigned floor and refined sidepod inlet geometry at COTA in an urgent attempt to cure the RB20's high-speed understeer.",
+    "Lando Norris has finished on the podium in seven of the last eight Grands Prix, scoring 164 points during that span."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Liam Lawson",
+      "team": "RB",
+      "hook": "Begins an intense six-race shootout against Yuki Tsunoda with a potential 2027 Red Bull Racing seat hanging in the balance."
+    },
+    {
+      "name": "Max Verstappen",
+      "team": "Red Bull Racing",
+      "hook": "Leads the Drivers Championship by 52 points and will test Red Bull's crucial COTA aero package to halt McLaren's charge."
+    }
+  ],
+  "headToHead": "McLaren lead Red Bull by 41 points in the Constructors Championship (358 vs 317).",
+  "tags": [
+    "f1",
+    "formula-1",
+    "liam-lawson",
+    "mclaren",
+    "red-bull",
+    "austin",
+    "cota",
+    "norris"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Americas Triple-Header Countdown · Austin Technical Upgrades",
+  "resultSummary": "Lawson begins RB audition at COTA; Red Bull readies floor upgrade; McLaren defends 41-pt lead",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Mercedes",
+      "score": "558 pts",
+      "note": "Constructors Leader"
+    },
+    {
+      "pos": "2",
+      "name": "Ferrari",
+      "score": "401 pts",
+      "note": "P2 Constructors"
+    },
+    {
+      "pos": "3",
+      "name": "McLaren",
+      "score": "358 pts",
+      "note": "+41 ahead of Red Bull"
+    },
+    {
+      "pos": "4",
+      "name": "Red Bull Racing",
+      "score": "317 pts",
+      "note": "P4 Constructors"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Formula1.com: How Red Bull plans to fight back at the United States GP",
+      "url": "https://www.formula1.com/en/latest/article.red-bull-austin-upgrade-analysis"
+    },
+    {
+      "name": "Autosport: Liam Lawson on pressure, penalty and six-race audition",
+      "url": "https://www.autosport.com/f1/news/lawson-rb-audition-cota-penalty"
+    },
+    {
+      "name": "The Race: The technical war between McLaren and Red Bull ahead of Austin",
+      "url": "https://the-race.com/formula-1/mclaren-red-bull-aero-war-cota"
+    }
+  ],
+  "format": "race",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "f1-austin-us-gp-lawson-mclaren-title-2026",
+  "headline": "F1 Americas Countdown: Liam Lawson begins intense RB audition as Red Bull readies Austin upgrade package",
+  "whyCareScore": 9.6,
+  "whyCareReason": "The paddock braces for an explosive Americas triple-header as Liam Lawson enters an audition for a top seat and Red Bull brings a season-defining floor upgrade to COTA.",
+  "teaser": "Tuesday in Formula 1: Technical factories in Milton Keynes and Woking operate around the clock as Red Bull prepares a comprehensive aero overhaul for the United States Grand Prix, while 22-year-old Liam Lawson steps into the simulator ahead of his high-stakes return.",
+  "story": "Why this one matters: Formula 1's month-long autumn hiatus is providing anything but relaxation for the engineers and strategists tasked with deciding the 2026 World Championships.\n\nAt Red Bull Racing's campus in Milton Keynes, lights have burned late into the night. Lando Norris's 20.9-second thrashing of Max Verstappen in Singapore exposed fundamental balance limitations in the RB20 that team principal Christian Horner and technical director Pierre Wache must solve immediately. For the United States Grand Prix at Circuit of the Americas in Austin, Red Bull is manufacturing a substantial update package featuring a revised underfloor and altered front-wing geometry designed to widen the car's setup window across bumpy surfaces.\n\nSimultaneously, the spotlight turns to Faenza and 22-year-old New Zealander Liam Lawson. Handed Daniel Ricciardo's seat at RB for the remaining six rounds, Lawson faces a trial by fire. Helmut Marko has confirmed that Lawson will serve an engine-related grid drop in Austin, meaning his opening weekend will be judged entirely on race craft and raw pace against teammate Yuki Tsunoda. With Sergio Perez's future under scrutiny, Lawson is driving not just for points, but for a premier seat in 2027.",
+  "stakes": "The 2026 World Constructors Championship, Verstappen's drivers crown defense, and Liam Lawson's long-term Formula 1 career.",
+  "rivalryAngle": "McLaren look to establish insurmountable dominance in the Americas, while Red Bull throw everything into their Austin technical package.",
+  "home": "McLaren",
+  "away": "Red Bull Racing",
+  "group": "F1",
+  "date": "2026-10-06",
+  "time": "15:00",
+  "venue": "Circuit of the Americas",
+  "city": "Austin",
+  "status": "UPCOMING",
+  "sport": "f1",
+  "competition": "f1-2026"
+}
