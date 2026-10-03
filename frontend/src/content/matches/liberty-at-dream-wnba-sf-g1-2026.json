@@ -1,0 +1,68 @@
+{
+  "funFacts": [
+    "Series 0-0.",
+    "Dream host.",
+    "No Game 1 score on this desk."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Breanna Stewart",
+      "team": "Liberty",
+      "hook": "21 points in the close-out at Barclays, with Jonquel Jones also on 21."
+    },
+    {
+      "name": "Allisha Gray",
+      "team": "Dream",
+      "hook": "22 points in the 93-75 close-out of Washington."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "wnba",
+    "liberty",
+    "dream"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1103829/pexels-photo-1103829.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "WNBA semifinals · Game 1",
+  "resultSummary": "Series 0-0. No Game 1 score.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "CBS Sports",
+      "url": "https://www.cbssports.com/wnba/news/2026-wnba-playoffs-bracket-schedule/"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "liberty-at-dream-wnba-sf-g1-2026",
+  "headline": "WNBA semifinals Game 1: Liberty at Dream, series 0-0",
+  "whyCareScore": 9.4,
+  "whyCareReason": "An 8-seed that swept the 1-seed visits Atlanta. Tip is 2:00 p.m. ET on ABC. No Game 1 score is final.",
+  "teaser": "Sunday 4 October, 2:00 p.m. ET, ABC, Atlanta. Series 0-0.",
+  "story": "New York swept Minnesota 91-75 and 87-71. Atlanta swept Washington 92-77 and 93-75 and host Game 1. CBS lists 2:00 p.m. ET. This card has no final score.",
+  "stakes": "Best of five. Dream first semifinal since 2018.",
+  "rivalryAngle": "The first 8-seed to eliminate a 1-seed, now on the road in Atlanta.",
+  "home": "Atlanta Dream",
+  "away": "New York Liberty",
+  "group": "SF",
+  "date": "2026-10-04",
+  "time": "14:00",
+  "venue": "Gateway Center Arena",
+  "city": "Atlanta",
+  "status": "UPCOMING",
+  "sport": "basketball",
+  "competition": "wnba-2026"
+}

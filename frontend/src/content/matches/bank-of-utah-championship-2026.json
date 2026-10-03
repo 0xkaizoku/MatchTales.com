@@ -1,0 +1,93 @@
+{
+  "funFacts": [
+    "10 birdies in the Friday 62.",
+    "Roy 63-63, no bogey.",
+    "No champion printed."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Austin Smotherman",
+      "team": "PGA Tour",
+      "hook": "63-62, 125, 17 under. Led by one after 36 holes."
+    },
+    {
+      "name": "Kevin Roy",
+      "team": "PGA Tour",
+      "hook": "63-63, 126, no bogey in two days."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "golf",
+    "bank-of-utah",
+    "smotherman"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/3621104/pexels-photo-3621104.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Bank of Utah · 36 holes",
+  "resultSummary": "Through 36 holes. No winner.",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Austin Smotherman",
+      "score": "125 (-17)",
+      "note": "63-62"
+    },
+    {
+      "pos": "2",
+      "name": "Kevin Roy",
+      "score": "126 (-16)",
+      "note": "63-63, no bogey"
+    },
+    {
+      "pos": "T3",
+      "name": "Doug Ghim",
+      "score": "127 (-15)",
+      "note": "65-62"
+    },
+    {
+      "pos": "T3",
+      "name": "Kevin Streelman",
+      "score": "127 (-15)",
+      "note": "63-64"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "PGA Tour / AP round 2",
+      "url": "https://www.pgatour.com/article/news/daily-wrapup/2026/10/02/round-two-bank-of-utah-championship-black-desert-resort-storylines-fedexcup-fall-scores-leaderboard-results-jackson-koivun-tony-finau"
+    }
+  ],
+  "format": "leaderboard",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "bank-of-utah-championship-2026",
+  "headline": "Smotherman led by one after 36 holes. No Sunday winner.",
+  "whyCareScore": 8.4,
+  "whyCareReason": "63-62 for 125 at Black Desert. Round 3 is under way and this card does not crown a winner.",
+  "teaser": "AP and PGA Tour: Smotherman 125, Roy 126, Ghim and Streelman 127.",
+  "story": "Through 36 holes Austin Smotherman led the Bank of Utah Championship by one at 17 under. Kevin Roy was on 126 with no bogey in two days. Sunday round 3 was in progress when this desk was filed. No winner is printed.",
+  "stakes": "A first PGA Tour win is still unclaimed on this page.",
+  "rivalryAngle": "100th start, still seeking a first win, one shot clear after 36.",
+  "home": "Austin Smotherman",
+  "away": "Kevin Roy",
+  "group": "PGA",
+  "date": "2026-10-04",
+  "time": "10:00",
+  "venue": "Black Desert Resort",
+  "city": "Ivins",
+  "status": "UPCOMING",
+  "sport": "golf",
+  "competition": "pga-2026"
+}

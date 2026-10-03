@@ -5,7 +5,7 @@ category: "Desk"
 excerpt: "Lando Norris's dominant 20-second victory at Marina Bay has blown the 2026 Formula 1 championship wide open as teams prepare for the Americas triple-header and Liam Lawson steps into the RB seat."
 image: "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80"
 readingTime: 4
-pubDate: 2026-10-05
+pubDate: 2026-10-03
 sport: f1
 competition: f1-2026
 relatedSlug: f1-americas-triple-header-countdown-2026
@@ -17,6 +17,8 @@ sources:
   - name: "The Race: McLaren dominance and Red Bull crisis meetings"
     url: "https://the-race.com/formula-1/singapore-gp-fallout-mclaren-red-bull"
 ---
+
+Desk correction, 4 October 2026: this piece was filed ahead of the calendar. Do not treat any score in it as a result. The sourced desk for 4 October 2026 is the new set of Why Care stories.
 
 ## Why this one matters
 

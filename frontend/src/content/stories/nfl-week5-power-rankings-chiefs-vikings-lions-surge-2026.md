@@ -5,7 +5,7 @@ category: "Desk"
 excerpt: "With Minnesota and Kansas City standing as the NFL's only 4-0 squads and Detroit riding historic offensive momentum, Week 5 gets underway with a redefined championship landscape."
 image: "https://images.unsplash.com/photo-1587280501635-68a0e82cd5ff?auto=format&fit=crop&w=1200&q=80"
 readingTime: 4
-pubDate: 2026-10-06
+pubDate: 2026-10-03
 sport: football
 competition: nfl-2026
 relatedSlug: nfl-week5-power-rankings-chiefs-vikings-2026
@@ -17,6 +17,8 @@ sources:
   - name: "The Athletic: How the Lions, Vikings, and Chiefs reshaped the NFL hierarchy"
     url: "https://www.nytimes.com/athletic/nfl/week5-power-rankings-analysis"
 ---
+
+Desk correction, 4 October 2026: this piece was filed ahead of the calendar. Do not treat any score in it as a result. The sourced desk for 4 October 2026 is the new set of Why Care stories.
 
 ## Why this one matters
 

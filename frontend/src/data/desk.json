@@ -1,80 +1,56 @@
 {
-  "asOf": "2026-10-07",
+  "asOf": "2026-10-04",
   "premierLeagueTable": [
     {
       "pos": 1,
       "team": "Manchester City",
-      "p": 7,
-      "w": 7,
+      "p": 5,
+      "w": 5,
       "d": 0,
       "l": 0,
-      "gf": 17,
-      "ga": 7,
-      "gd": 10,
-      "pts": 21
+      "gf": 13,
+      "ga": 5,
+      "gd": 8,
+      "pts": 15
     },
     {
       "pos": 2,
       "team": "Arsenal",
-      "p": 7,
-      "w": 6,
+      "p": 5,
+      "w": 4,
       "d": 0,
       "l": 1,
-      "gf": 13,
-      "ga": 5,
-      "gd": 8,
-      "pts": 18
+      "gf": 8,
+      "ga": 4,
+      "gd": 4,
+      "pts": 12
     },
     {
       "pos": 3,
-      "team": "Liverpool",
-      "p": 7,
-      "w": 5,
-      "d": 0,
-      "l": 2,
-      "gf": 12,
-      "ga": 7,
-      "gd": 5,
-      "pts": 15
+      "team": "Brighton",
+      "p": 5,
+      "w": 3,
+      "d": 1,
+      "l": 1,
+      "gf": 16,
+      "ga": 5,
+      "gd": 11,
+      "pts": 10
     },
     {
       "pos": 4,
-      "team": "Brighton",
-      "p": 7,
-      "w": 4,
-      "d": 2,
-      "l": 1,
-      "gf": 20,
-      "ga": 8,
-      "gd": 12,
-      "pts": 14
-    },
-    {
-      "pos": 5,
-      "team": "Chelsea",
-      "p": 7,
-      "w": 3,
-      "d": 2,
-      "l": 2,
-      "gf": 12,
-      "ga": 8,
-      "gd": 4,
-      "pts": 11
-    },
-    {
-      "pos": 6,
       "team": "Brentford",
-      "p": 6,
+      "p": 5,
       "w": 2,
       "d": 3,
-      "l": 1,
-      "gf": 11,
-      "ga": 6,
-      "gd": 5,
+      "l": 0,
+      "gf": 10,
+      "ga": 4,
+      "gd": 6,
       "pts": 9
     },
     {
-      "pos": 7,
+      "pos": 5,
       "team": "Leeds United",
       "p": 5,
       "w": 2,
@@ -86,19 +62,31 @@
       "pts": 9
     },
     {
-      "pos": 8,
-      "team": "Everton",
-      "p": 6,
+      "pos": 6,
+      "team": "Liverpool",
+      "p": 5,
       "w": 2,
       "d": 3,
-      "l": 1,
-      "gf": 6,
-      "ga": 5,
-      "gd": 1,
+      "l": 0,
+      "gf": 7,
+      "ga": 4,
+      "gd": 3,
       "pts": 9
     },
     {
-      "pos": 9,
+      "pos": 7,
+      "team": "Everton",
+      "p": 5,
+      "w": 2,
+      "d": 3,
+      "l": 0,
+      "gf": 6,
+      "ga": 3,
+      "gd": 3,
+      "pts": 9
+    },
+    {
+      "pos": 8,
       "team": "Hull City",
       "p": 5,
       "w": 2,
@@ -110,16 +98,28 @@
       "pts": 8
     },
     {
-      "pos": 10,
+      "pos": 9,
       "team": "Newcastle United",
-      "p": 6,
+      "p": 5,
       "w": 2,
       "d": 2,
+      "l": 1,
+      "gf": 9,
+      "ga": 9,
+      "gd": 0,
+      "pts": 8
+    },
+    {
+      "pos": 10,
+      "team": "Chelsea",
+      "p": 5,
+      "w": 2,
+      "d": 1,
       "l": 2,
       "gf": 10,
-      "ga": 11,
-      "gd": -1,
-      "pts": 8
+      "ga": 12,
+      "gd": -2,
+      "pts": 7
     },
     {
       "pos": 11,
@@ -148,14 +148,14 @@
     {
       "pos": 13,
       "team": "Nottingham Forest",
-      "p": 6,
+      "p": 5,
       "w": 1,
-      "d": 3,
+      "d": 2,
       "l": 2,
-      "gf": 5,
-      "ga": 6,
+      "gf": 4,
+      "ga": 5,
       "gd": -1,
-      "pts": 6
+      "pts": 5
     },
     {
       "pos": 14,
@@ -232,13 +232,13 @@
     {
       "pos": 20,
       "team": "Tottenham Hotspur",
-      "p": 6,
+      "p": 5,
       "w": 0,
       "d": 2,
-      "l": 4,
-      "gf": 4,
-      "ga": 11,
-      "gd": -7,
+      "l": 3,
+      "gf": 2,
+      "ga": 8,
+      "gd": -6,
       "pts": 2
     }
   ],
@@ -247,90 +247,101 @@
       "pos": 1,
       "name": "Kimi Antonelli",
       "team": "Mercedes",
-      "pts": 321
+      "pts": 302
     },
     {
       "pos": 2,
       "name": "George Russell",
       "team": "Mercedes",
-      "pts": 241
+      "pts": 236
     },
     {
       "pos": 3,
-      "name": "Lando Norris",
-      "team": "McLaren",
-      "pts": 223
+      "name": "Lewis Hamilton",
+      "team": "Ferrari",
+      "pts": 199
     },
     {
       "pos": 4,
-      "name": "Lewis Hamilton",
-      "team": "Ferrari",
-      "pts": 209
+      "name": "Lando Norris",
+      "team": "McLaren",
+      "pts": 186
     },
     {
       "pos": 5,
       "name": "Charles Leclerc",
       "team": "Ferrari",
-      "pts": 192
+      "pts": 179
+    },
+    {
+      "pos": 6,
+      "name": "Max Verstappen",
+      "team": "Red Bull",
+      "pts": 163
     }
   ],
   "f1Constructors": [
     {
       "pos": 1,
       "name": "Mercedes",
-      "pts": 558
+      "pts": 538
     },
     {
       "pos": 2,
       "name": "Ferrari",
-      "pts": 401
+      "pts": 378
     },
     {
       "pos": 3,
       "name": "McLaren",
-      "pts": 358
+      "pts": 306
+    },
+    {
+      "pos": 4,
+      "name": "Red Bull",
+      "pts": 263
     }
   ],
   "wnbaSeeds": [
     {
       "seed": 1,
       "team": "Minnesota Lynx",
-      "record": "32-10"
+      "record": "33-11"
     },
     {
       "seed": 2,
       "team": "Golden State Valkyries",
-      "record": "31-11"
+      "record": "32-12"
     },
     {
       "seed": 3,
       "team": "Las Vegas Aces",
-      "record": "29-13"
+      "record": "31-13"
     },
     {
       "seed": 4,
       "team": "Atlanta Dream",
-      "record": "28-14"
+      "record": "30-14"
     },
     {
       "seed": 5,
-      "team": "Indiana Fever",
-      "record": "27-15"
+      "team": "Washington Mystics",
+      "record": "28-16"
     },
     {
       "seed": 6,
-      "team": "Dallas Wings",
-      "record": "26-17"
+      "team": "Indiana Fever",
+      "record": "28-16"
     },
     {
       "seed": 7,
-      "team": "New York Liberty",
-      "record": "25-17"
+      "team": "Dallas Wings",
+      "record": "27-17"
     },
     {
       "seed": 8,
-      "team": "Washington Mystics",
-      "record": "25-17"
+      "team": "New York Liberty",
+      "record": "26-18"
     }
   ],
   "nflWeek1": [
@@ -440,39 +451,95 @@
       "note": "FINAL: Eagles 24, Cowboys 20. Hurts 2 total TDs, Barkley 116 rush yds. Graham late 4th-down stop."
     },
     {
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "time": "8:15 p.m. ET",
-      "home": "San Francisco 49ers",
-      "away": "Los Angeles Rams",
-      "note": "FINAL: 49ers 24, Rams 20. Purdy two TDs, McCaffrey go-ahead score, 4th-down goal-line stop."
+      "home": "Cleveland Browns",
+      "away": "Pittsburgh Steelers",
+      "note": "FINAL: Browns 27, Steelers 24. ESPN and CBS. Quarters: Steelers 7-3-0-14, Browns 0-21-0-6."
     },
     {
       "date": "2026-10-04",
-      "time": "8:20 p.m. ET",
+      "time": "9:30 a.m. ET",
+      "home": "Washington Commanders",
+      "away": "Indianapolis Colts",
+      "note": "UPCOMING London. Colts 1-2 at Commanders 1-2. No score on this desk."
+    },
+    {
+      "date": "2026-10-04",
+      "time": "1:00 p.m. ET",
+      "home": "Buffalo Bills",
+      "away": "New England Patriots",
+      "note": "UPCOMING. Patriots 1-2 at Bills 3-0. No score on this desk."
+    },
+    {
+      "date": "2026-10-04",
+      "time": "1:00 p.m. ET",
+      "home": "Chicago Bears",
+      "away": "New York Jets",
+      "note": "UPCOMING. Jets 1-2 at Bears 2-1. No score on this desk."
+    },
+    {
+      "date": "2026-10-04",
+      "time": "1:00 p.m. ET",
+      "home": "Tampa Bay Buccaneers",
+      "away": "Green Bay Packers",
+      "note": "UPCOMING. Packers 1-2 at Buccaneers 0-3. No score on this desk."
+    },
+    {
+      "date": "2026-10-04",
+      "time": "1:00 p.m. ET",
       "home": "Baltimore Ravens",
-      "away": "Buffalo Bills",
-      "note": "FINAL: Ravens 35, Bills 10. Henry 199 rush yds, 2 TDs (87-yd TD run). Jackson 3 total TDs. Bills handed first loss."
-    },
-    {
-      "date": "2026-10-05",
-      "time": "8:15 p.m. ET",
-      "home": "Detroit Lions",
-      "away": "Seattle Seahawks",
-      "note": "FINAL: Lions 42, Seahawks 29. Goff historic 18-for-18 (100%), 292 yds, 2 passing TDs, 1 TD catch. Walker 3 TDs for Seattle."
-    },
-    {
-      "date": "2026-10-05",
-      "time": "7:30 p.m. ET",
-      "home": "Miami Dolphins",
       "away": "Tennessee Titans",
-      "note": "FINAL: Titans 31, Dolphins 12. Pollard 88 rush yds, TD; Titans force three turnovers in road rout."
+      "note": "UPCOMING. Titans 0-3 at Ravens 2-1. No score on this desk."
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-04",
+      "time": "1:00 p.m. ET",
+      "home": "Houston Texans",
+      "away": "Dallas Cowboys",
+      "note": "UPCOMING. Cowboys 1-2 at Texans 0-3. No score on this desk."
+    },
+    {
+      "date": "2026-10-04",
+      "time": "1:00 p.m. ET",
+      "home": "New York Giants",
+      "away": "Arizona Cardinals",
+      "note": "UPCOMING. Cardinals 1-2 at Giants 2-1. No score on this desk."
+    },
+    {
+      "date": "2026-10-04",
+      "time": "1:00 p.m. ET",
+      "home": "Philadelphia Eagles",
+      "away": "Los Angeles Rams",
+      "note": "UPCOMING. Rams 1-2 at Eagles 2-1. No score on this desk."
+    },
+    {
+      "date": "2026-10-04",
+      "time": "1:00 p.m. ET",
+      "home": "Cincinnati Bengals",
+      "away": "Jacksonville Jaguars",
+      "note": "UPCOMING. Jaguars 2-1 at Bengals 2-1. No score on this desk."
+    },
+    {
+      "date": "2026-10-04",
+      "time": "4:05 p.m. ET",
+      "home": "Minnesota Vikings",
+      "away": "Miami Dolphins",
+      "note": "UPCOMING. Dolphins 0-3 at Vikings 3-0. No score on this desk."
+    },
+    {
+      "date": "2026-10-04",
+      "time": "4:25 p.m. ET",
+      "home": "San Francisco 49ers",
+      "away": "Denver Broncos",
+      "note": "UPCOMING. Broncos 2-1 at 49ers 3-0. No score on this desk."
+    },
+    {
+      "date": "2026-10-05",
       "time": "8:15 p.m. ET",
-      "home": "Atlanta Falcons",
-      "away": "Tampa Bay Buccaneers",
-      "note": "UPCOMING: Buccaneers (3-1) at Falcons (2-2) on Thursday Night Football; NFC South first place on the line."
+      "home": "New Orleans Saints",
+      "away": "Atlanta Falcons",
+      "note": "MONDAY 5 Oct. Falcons 1-2 at Saints 1-2. Not played on this desk."
     }
   ],
   "usOpenQF": [

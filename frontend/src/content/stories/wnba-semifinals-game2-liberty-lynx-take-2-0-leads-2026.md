@@ -5,7 +5,7 @@ category: "Desk"
 excerpt: "With thrilling Game 2 victories on Tuesday night, the New York Liberty and Minnesota Lynx seized 2-0 advantages in the WNBA Semifinals, pushing the Aces and Fever into must-win territory."
 image: "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80"
 readingTime: 4
-pubDate: 2026-10-07
+pubDate: 2026-10-03
 sport: basketball
 competition: wnba-playoffs-2026
 relatedSlug: wnba-semifinals-game2-liberty-lynx-command-2026
@@ -17,6 +17,8 @@ sources:
   - name: "The Athletic: Sabrina Ionescu clutch shooting pushes Aces to brink"
     url: "https://www.nytimes.com/athletic/wnba/liberty-aces-game2-ionescu-takeaways"
 ---
+
+Desk correction, 4 October 2026: this piece was filed ahead of the calendar. Do not treat any score in it as a result. The sourced desk for 4 October 2026 is the new set of Why Care stories.
 
 ## Why this match matters
 

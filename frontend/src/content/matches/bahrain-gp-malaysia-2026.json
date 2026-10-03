@@ -1,0 +1,107 @@
+{
+  "funFacts": [
+    "Verstappen led Q1, Q2 and Q3.",
+    "Hadjar grid penalty moves Antonelli to third and Leclerc to fourth.",
+    "No race winner is printed."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Max Verstappen",
+      "team": "Red Bull",
+      "hook": "Pole, 1:35.130. First of 2026. 49th career pole."
+    },
+    {
+      "name": "Kimi Antonelli",
+      "team": "Mercedes",
+      "hook": "Championship leader on 302, starts third after Hadjar penalty."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "f1",
+    "sepang",
+    "verstappen"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1149833/pexels-photo-1149833.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Bahrain Grand Prix · Qualifying",
+  "resultSummary": "Pole Verstappen 1:35.130. Race not run.",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Max Verstappen",
+      "score": "1:35.130",
+      "note": "Red Bull · Pole, starts 1"
+    },
+    {
+      "pos": "2",
+      "name": "Lewis Hamilton",
+      "score": "1:35.428",
+      "note": "Ferrari · +0.298, starts 2"
+    },
+    {
+      "pos": "3",
+      "name": "Isack Hadjar",
+      "score": "1:35.558",
+      "note": "Red Bull · five-place penalty, starts 8"
+    },
+    {
+      "pos": "4",
+      "name": "Kimi Antonelli",
+      "score": "1:35.631",
+      "note": "Mercedes · starts 3"
+    },
+    {
+      "pos": "5",
+      "name": "Charles Leclerc",
+      "score": "1:35.666",
+      "note": "Ferrari · starts 4"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/sports/formula1/verstappen-claims-first-pole-season-bahrain-gp-malaysia-2026-10-03/"
+    },
+    {
+      "name": "The Race",
+      "url": "https://www.the-race.com/formula-1/f1-bahrain-gp-malaysia-2026-qualifying-results/"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com/f1/results/_/id/600060990"
+    }
+  ],
+  "format": "race",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "bahrain-gp-malaysia-2026",
+  "headline": "Verstappen on pole at Sepang, 1:35.130, race not run",
+  "whyCareScore": 9.2,
+  "whyCareReason": "First pole of 2026, Hamilton alongside, Hadjar drops to eighth on a penalty. ESPN still has no race classification.",
+  "teaser": "Front row: Verstappen and Hamilton. Antonelli leads the championship on 302. No winner.",
+  "story": "Qualifying at Sepang: Verstappen 1:35.130, Hamilton 1:35.428. Hadjar was third and takes a five-place penalty. The race on Sunday 4 October is not in the book. Antonelli has 302 points, 66 ahead of Russell.",
+  "stakes": "Championship lead is 66 points before this race.",
+  "rivalryAngle": "Verstappen first pole of the year. Hamilton first front row beside him.",
+  "home": "Max Verstappen",
+  "away": "Lewis Hamilton",
+  "group": "F1",
+  "date": "2026-10-04",
+  "time": "15:00",
+  "venue": "Sepang International Circuit",
+  "city": "Sepang",
+  "status": "UPCOMING",
+  "sport": "f1",
+  "competition": "f1-2026"
+}

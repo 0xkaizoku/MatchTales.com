@@ -5,7 +5,7 @@ category: "Desk"
 excerpt: "Stan Wawrinka became the third-oldest match winner in Masters 1000 history while Kei Nishikori battled through in three sets on a thrilling second day of action at the Rolex Shanghai Masters."
 image: "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1200&q=80"
 readingTime: 4
-pubDate: 2026-10-06
+pubDate: 2026-10-03
 sport: tennis
 competition: atp-shanghai-masters-2026
 relatedSlug: shanghai-masters-r1-wawrinka-nishikori-2026
@@ -17,6 +17,8 @@ sources:
   - name: "Tennis Channel: Nishikori battles through in Shanghai return"
     url: "https://www.tennischannel.com/news/shanghai-masters-round-1-wrap"
 ---
+
+Desk correction, 4 October 2026: this piece was filed ahead of the calendar. Do not treat any score in it as a result. The sourced desk for 4 October 2026 is the new set of Why Care stories.
 
 ## Why this one matters
 

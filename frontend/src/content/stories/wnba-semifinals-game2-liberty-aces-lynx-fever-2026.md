@@ -5,7 +5,7 @@ category: "Desk"
 excerpt: "With the Liberty and Lynx holding 1-0 series leads, the Las Vegas Aces and Indiana Fever enter Tuesday night facing critical Game 2 road tests to preserve their championship hopes."
 image: "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80"
 readingTime: 4
-pubDate: 2026-10-06
+pubDate: 2026-10-03
 sport: basketball
 competition: wnba-playoffs-2026
 relatedSlug: wnba-semifinals-game2-showdown-2026
@@ -17,6 +17,8 @@ sources:
   - name: "The Athletic: Tactical keys for Aces and Fever to avoid 0-2 holes"
     url: "https://www.nytimes.com/athletic/wnba/semifinals-game2-tactical-keys"
 ---
+
+Desk correction, 4 October 2026: this piece was filed ahead of the calendar. Do not treat any score in it as a result. The sourced desk for 4 October 2026 is the new set of Why Care stories.
 
 ## Why this one matters
 

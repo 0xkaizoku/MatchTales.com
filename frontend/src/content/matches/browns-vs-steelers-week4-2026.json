@@ -1,0 +1,73 @@
+{
+  "funFacts": [
+    "Quarters: Steelers 7, 3, 0, 14.",
+    "Browns 0, 21, 0, 6.",
+    "Sunday is not final."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Cleveland Browns",
+      "team": "Browns",
+      "hook": "27 points, now 3-1."
+    },
+    {
+      "name": "Pittsburgh Steelers",
+      "team": "Steelers",
+      "hook": "24 points, now 2-2, after a late surge."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "nfl",
+    "browns",
+    "steelers",
+    "week-4"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/186076/pexels-photo-186076.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "NFL Week 4",
+  "resultSummary": "Browns 27, Steelers 24",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "CBS Sports scoreboard",
+      "url": "https://www.cbssports.com/nfl/scoreboard/"
+    },
+    {
+      "name": "ESPN NFL scoreboard",
+      "url": "https://www.espn.com/nfl/scoreboard"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 27,
+  "awayScore": 24,
+  "slug": "browns-vs-steelers-week4-2026",
+  "headline": "Browns 27, Steelers 24 is the only Week 4 final",
+  "whyCareScore": 8.8,
+  "whyCareReason": "Friday 2 October is in the book. Sunday, including London, is not.",
+  "teaser": "CBS quarters: Steelers 7-3-0-14, Browns 0-21-0-6. Browns 3-1, Steelers 2-2.",
+  "story": "Cleveland held off a late Pittsburgh surge, 27-24. ESPN dates the game Friday 2 October. No Sunday score is printed on this desk.",
+  "stakes": "AFC North. Browns to 3-1, Steelers to 2-2.",
+  "rivalryAngle": "The only Week 4 game with a final score on this desk.",
+  "home": "Cleveland Browns",
+  "away": "Pittsburgh Steelers",
+  "group": "AFC",
+  "date": "2026-10-02",
+  "time": "20:15",
+  "venue": "Huntington Bank Field",
+  "city": "Cleveland",
+  "status": "FINISHED",
+  "sport": "football",
+  "competition": "nfl-2026"
+}

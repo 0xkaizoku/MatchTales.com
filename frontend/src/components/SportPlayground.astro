@@ -35,6 +35,7 @@ const nflLinks: Record<string, string> = {
   '2026-09-27': lp('/match/bills-vs-dolphins-week3-2026'),
   '2026-09-28': lp('/match/cowboys-at-eagles-mnf-week3-2026'),
   '2026-10-01': lp('/match/49ers-vs-rams-tnf-week4-2026'),
+  '2026-10-02': lp('/match/browns-vs-steelers-week4-2026'),
 };
 const hoopsPairs = [
   { a: desk.wnbaSeeds[0], b: desk.wnbaSeeds[7] },
@@ -101,7 +102,7 @@ const hoopsPairs = [
         </svg>
         <div class="kick-clock">
           <p class="text-[11px] font-sans uppercase tracking-wide text-muted">{copy.countdownTnf}</p>
-          <p id="nfl-clock" class="font-head text-4xl sm:text-5xl tabular-nums tracking-tight">41-31</p>
+          <p id="nfl-clock" class="font-head text-4xl sm:text-5xl tabular-nums tracking-tight">27-24</p>
         </div>
       </div>
       <ol class="slate">
@@ -201,6 +202,12 @@ const hoopsPairs = [
         </div>
       </div>
       <div class="scorecards">
+        <a href={lp('/match/bank-of-utah-championship-2026')} class="scorecard is-next" data-note="AP after 36 holes at Black Desert: Smotherman 63-62, 125, 17 under. Kevin Roy 126. Ghim and Streelman 127. No Sunday winner on this desk.">
+          <span class="score-event">Bank of Utah · Black Desert</span>
+          <span class="score-name">Austin Smotherman</span>
+          <span class="score-num">-17</span>
+          <span class="score-line">125 after 36. Roy -16. No winner yet.</span>
+        </a>
         <a href={lp('/match/bmw-pga-wentworth-2026')} class="scorecard" data-note="JJ Spaun 271, seventeen under. AP: Elvira, McIlroy, Rai, Scott 273. Elvira double bogey on 18. Final.">
           <span class="score-event">BMW PGA · Wentworth</span>
           <span class="score-name">JJ Spaun</span>

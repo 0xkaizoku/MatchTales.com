@@ -5,7 +5,7 @@ category: "Desk"
 excerpt: "With the Liberty and Lynx holding 1-0 series advantages, the Las Vegas Aces and Indiana Fever spent Monday in intense film sessions searching for answers before Game 2."
 image: "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80"
 readingTime: 4
-pubDate: 2026-10-05
+pubDate: 2026-10-03
 sport: basketball
 competition: wnba-playoffs-2026
 relatedSlug: wnba-semifinals-game2-preview-2026
@@ -17,6 +17,8 @@ sources:
   - name: "The Athletic: WNBA Semifinals tactical breakdown after Game 1"
     url: "https://www.nytimes.com/athletic/wnba/semifinals-tactics-liberty-aces-lynx-fever"
 ---
+
+Desk correction, 4 October 2026: this piece was filed ahead of the calendar. Do not treat any score in it as a result. The sourced desk for 4 October 2026 is the new set of Why Care stories.
 
 ## Why this one matters
 

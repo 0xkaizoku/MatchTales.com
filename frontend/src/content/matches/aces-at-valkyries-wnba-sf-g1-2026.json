@@ -1,0 +1,72 @@
+{
+  "funFacts": [
+    "Series 0-0.",
+    "NBC, 4:00 p.m. ET.",
+    "No Game 1 score on this desk."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Aja Wilson",
+      "team": "Aces",
+      "hook": "36 points in the 94-83 Game 3 close-out of Indiana."
+    },
+    {
+      "name": "Gabby Williams",
+      "team": "Valkyries",
+      "hook": "19 points in the 77-73 Game 3 win over Dallas."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "wnba",
+    "aces",
+    "valkyries"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/976873/pexels-photo-976873.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "WNBA semifinals · Game 1",
+  "resultSummary": "Series 0-0. No Game 1 score.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com/wnba/game/_/gameId/401918296/aces-valkyries"
+    },
+    {
+      "name": "Valkyries",
+      "url": "https://valkyries.wnba.com/news/valkyries-aces-semifinals-wnba-playoffs-20261002"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "aces-at-valkyries-wnba-sf-g1-2026",
+  "headline": "WNBA semifinals Game 1: Aces at Valkyries, series 0-0",
+  "whyCareScore": 9.1,
+  "whyCareReason": "Defending champions visit San Francisco at 4:00 p.m. ET on NBC. The series has not started.",
+  "teaser": "Sunday 4 October, 4:00 p.m. ET, NBC, Chase Center. Series 0-0.",
+  "story": "The Valkyries won their first-round series 2-1, closing 77-73. The Aces closed Indiana in Game 3, 94-83, Wilson 36. Game 1 of the semifinal is not final.",
+  "stakes": "Best of five. Valkyries host Game 1 and Game 2.",
+  "rivalryAngle": "Second-year Valkyries against the defending champions.",
+  "home": "Golden State Valkyries",
+  "away": "Las Vegas Aces",
+  "group": "SF",
+  "date": "2026-10-04",
+  "time": "16:00",
+  "venue": "Chase Center",
+  "city": "San Francisco",
+  "status": "UPCOMING",
+  "sport": "basketball",
+  "competition": "wnba-2026"
+}

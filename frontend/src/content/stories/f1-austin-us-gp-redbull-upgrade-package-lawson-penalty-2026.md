@@ -5,7 +5,7 @@ category: "Desk"
 excerpt: "As Formula 1 readies for the United States Grand Prix at Circuit of the Americas, Red Bull readies a defining aerodynamic update while Liam Lawson navigates a steep grid penalty in Texas."
 image: "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80"
 readingTime: 4
-pubDate: 2026-10-07
+pubDate: 2026-10-03
 sport: f1
 competition: formula-1-2026
 relatedSlug: f1-austin-usgp-redbull-upgrades-lawson-grid-penalty-2026
@@ -17,6 +17,8 @@ sources:
   - name: "Autosport: Liam Lawson faces grid penalty in Austin comeback"
     url: "https://www.autosport.com/f1/news/liam-lawson-austin-grid-penalty-rb/10660421/"
 ---
+
+Desk correction, 4 October 2026: this piece was filed ahead of the calendar. Do not treat any score in it as a result. The sourced desk for 4 October 2026 is the new set of Why Care stories.
 
 ## Why this race matters
 

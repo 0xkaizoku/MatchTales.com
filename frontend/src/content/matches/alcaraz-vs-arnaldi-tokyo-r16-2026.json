@@ -1,0 +1,77 @@
+{
+  "funFacts": [
+    "Four set points saved.",
+    "Zverev 6-0, 6-3 in Beijing the same day.",
+    "No Sunday winner."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Carlos Alcaraz",
+      "team": "Spain",
+      "hook": "7-6 (6), 6-1 over Arnaldi in Tokyo."
+    },
+    {
+      "name": "Alexander Zverev",
+      "team": "Germany",
+      "hook": "6-0, 6-3 over Shang in Beijing."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "tennis",
+    "alcaraz",
+    "tokyo"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/270085/pexels-photo-270085.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Japan Open · Last 16",
+  "resultSummary": "Alcaraz 7-6 (6), 6-1",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "7 (6)",
+      "p2": "6"
+    },
+    {
+      "p1": "6",
+      "p2": "1"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP China Open",
+      "url": "https://www.atptour.com/en/scores/current/beijing/600/"
+    }
+  ],
+  "format": "singles",
+  "homeScore": 2,
+  "awayScore": 0,
+  "slug": "alcaraz-vs-arnaldi-tokyo-r16-2026",
+  "headline": "Alcaraz beats Arnaldi 7-6 (6), 6-1 in Tokyo",
+  "whyCareScore": 8.6,
+  "whyCareReason": "Four set points saved in the opener. Quarter-finals are next. Sinner is out of Shanghai. No Sunday winner.",
+  "teaser": "Field Level Media: 7-6 (6), 6-1 after four set points saved.",
+  "story": "Carlos Alcaraz beat Matteo Arnaldi in the Japan Open last 16. Beijing the same day: Zverev beat Shang 6-0, 6-3. This desk does not print a quarter-final.",
+  "stakes": "A place in the Tokyo quarter-finals. Shanghai is a different tournament, and Sinner has withdrawn.",
+  "rivalryAngle": "The set points were the match. The next round is not in the book.",
+  "home": "Carlos Alcaraz",
+  "away": "Matteo Arnaldi",
+  "group": "ATP",
+  "date": "2026-10-03",
+  "time": "12:00",
+  "venue": "Ariake Coliseum",
+  "city": "Tokyo",
+  "status": "FINISHED",
+  "sport": "tennis",
+  "competition": "atp-2026"
+}

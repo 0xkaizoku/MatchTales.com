@@ -1,0 +1,73 @@
+{
+  "funFacts": [
+    "Half-time 2-0.",
+    "Krejci was sent off.",
+    "Unbeaten run: 41."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Lamine Yamal",
+      "team": "Spain",
+      "hook": "ESPN: goal in the 6th minute."
+    },
+    {
+      "name": "Rodri",
+      "team": "Spain",
+      "hook": "ESPN: goal in the 35th minute."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "soccer",
+    "spain",
+    "czechia",
+    "nations-league"
+  ],
+  "homeCode": "ESP",
+  "awayCode": "CZE",
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Nations League · Group A3",
+  "resultSummary": "Spain 3-1 Czechia",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401861118/czechia-spain"
+    },
+    {
+      "name": "El Pais",
+      "url": "https://elpais.com/deportes/futbol/2026-10-03/espana-republica-checa-en-directo-el-partido-de-la-nations-league-en-vivo.html"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 3,
+  "awayScore": 1,
+  "slug": "spain-vs-czechia-nations-league-2026",
+  "headline": "Spain 3-1 Czechia in Oviedo, nine points from three wins",
+  "whyCareScore": 8.7,
+  "whyCareReason": "Yamal, Rodri and Merino scored. Spain stay perfect in Group A3 and extend an unbeaten run to 41.",
+  "teaser": "ESPN: Yamal 6, Rodri 35, Slama 69, Merino 89. Half-time 2-0. Krejci sent off.",
+  "story": "Spain beat Czechia 3-1 on 3 October at Estadio Carlos Tartiere. ESPN prints Yamal 6, Rodri 35, Slama 69, Merino 89. Spain have 9 points. Czechia have 0.",
+  "stakes": "Spain lead England by three points. Both sides have played three.",
+  "rivalryAngle": "World champions, still unbeaten after 41.",
+  "home": "Spain",
+  "away": "Czechia",
+  "group": "A3",
+  "date": "2026-10-03",
+  "time": "20:45",
+  "venue": "Estadio Carlos Tartiere",
+  "city": "Oviedo",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "nations-league-2026"
+}

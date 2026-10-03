@@ -5,7 +5,7 @@ category: "Desk"
 excerpt: "The Rolex Shanghai Masters begins main draw action at Qizhong Arena, bringing Jannik Sinner, Carlos Alcaraz, and Novak Djokovic together for 12 days of world-class Asian hardcourt tennis."
 image: "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1200&q=80"
 readingTime: 4
-pubDate: 2026-10-05
+pubDate: 2026-10-03
 sport: tennis
 competition: atp-shanghai-masters-2026
 relatedSlug: shanghai-masters-atp-2026
@@ -17,6 +17,8 @@ sources:
   - name: "Tennis.com: Alcaraz, Sinner lead elite field in Shanghai"
     url: "https://www.tennis.com/tournaments/shanghai-masters"
 ---
+
+Desk correction, 4 October 2026: this piece was filed ahead of the calendar. Do not treat any score in it as a result. The sourced desk for 4 October 2026 is the new set of Why Care stories.
 
 ## Why this one matters
 

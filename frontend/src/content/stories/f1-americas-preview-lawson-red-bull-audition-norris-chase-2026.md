@@ -5,7 +5,7 @@ category: "Desk"
 excerpt: "With McLaren commanding a 41-point Constructors lead, Red Bull readies critical technical upgrades for Austin while Liam Lawson steps into Daniel Ricciardo's RB seat for a high-stakes audition."
 image: "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80"
 readingTime: 4
-pubDate: 2026-10-06
+pubDate: 2026-10-03
 sport: f1
 competition: f1-2026
 relatedSlug: f1-austin-us-gp-lawson-mclaren-title-2026
@@ -17,6 +17,8 @@ sources:
   - name: "The Race: The technical war between McLaren and Red Bull ahead of Austin"
     url: "https://the-race.com/formula-1/mclaren-red-bull-aero-war-cota"
 ---
+
+Desk correction, 4 October 2026: this piece was filed ahead of the calendar. Do not treat any score in it as a result. The sourced desk for 4 October 2026 is the new set of Why Care stories.
 
 ## Why this one matters
 

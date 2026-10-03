@@ -5,7 +5,7 @@ category: "Desk"
 excerpt: "The PGA Tour makes its historic return to Utah at the stunning Black Desert Resort, where volcanic basalt rock and FedExCup Fall desperation create an unforgettable backdrop."
 image: "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=1200&q=80"
 readingTime: 4
-pubDate: 2026-10-07
+pubDate: 2026-10-03
 sport: golf
 competition: pga-tour-fedexcup-fall-2026
 relatedSlug: black-desert-championship-utah-round1-tee-times-2026
@@ -17,6 +17,8 @@ sources:
   - name: "The Athletic: Keith Mitchell and Kevin Yu headline Utah desert debut"
     url: "https://www.nytimes.com/athletic/golf/pga-tour-black-desert-preview-mitchell-yu"
 ---
+
+Desk correction, 4 October 2026: this piece was filed ahead of the calendar. Do not treat any score in it as a result. The sourced desk for 4 October 2026 is the new set of Why Care stories.
 
 ## Why this tournament matters
 

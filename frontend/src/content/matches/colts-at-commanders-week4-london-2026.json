@@ -1,0 +1,69 @@
+{
+  "funFacts": [
+    "Both teams 1-2.",
+    "9:30 a.m. ET.",
+    "No score printed."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Indianapolis Colts",
+      "team": "Colts",
+      "hook": "1-2, visiting London."
+    },
+    {
+      "name": "Washington Commanders",
+      "team": "Commanders",
+      "hook": "1-2, home side in London."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "nfl",
+    "colts",
+    "commanders",
+    "london"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/262524/pexels-photo-262524.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "NFL Week 4 · London",
+  "resultSummary": "Not final.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "CBS Sports scoreboard",
+      "url": "https://www.cbssports.com/nfl/scoreboard/"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "colts-at-commanders-week4-london-2026",
+  "headline": "Colts at Commanders in London, no final on this desk",
+  "whyCareScore": 8.0,
+  "whyCareReason": "The 9:30 a.m. ET London game is on the CBS board without a score.",
+  "teaser": "Colts 1-2 at Commanders 1-2. Tottenham Hotspur Stadium. Not final.",
+  "story": "CBS lists Indianapolis at Washington in London at 9:30 a.m. ET, both 1-2. This desk does not print a Sunday score.",
+  "stakes": "A London kickoff that is still unscored here.",
+  "rivalryAngle": "Week 4 abroad, not a final.",
+  "home": "Washington Commanders",
+  "away": "Indianapolis Colts",
+  "group": "NFL",
+  "date": "2026-10-04",
+  "time": "09:30",
+  "venue": "Tottenham Hotspur Stadium",
+  "city": "London",
+  "status": "UPCOMING",
+  "sport": "football",
+  "competition": "nfl-2026"
+}

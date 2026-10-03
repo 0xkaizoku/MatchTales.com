@@ -12,7 +12,7 @@ Welcome, AI Coding Agent! This file outlines the architecture, tech stack, rules
 *   **World Cup Archive:** 48 teams, 12 groups, completed 19 July 2026. Spain are champions.
 *   **Sport desks:** mosaic at `/sports`. Unique boards at `/sport/tennis`, `/sport/football`, `/sport/f1`, `/sport/soccer`, `/sport/golf`, `/sport/basketball`. Soccer is one desk, not the default.
 *   **Interactive Features:** Community hype walls, live second-screen companionship, newsletter subscriptions.
-*   **Site clock:** editorial today is `2026-10-07` in `frontend/src/data/sports.ts` (`SITE_TODAY`). WNBA Semifinals: Liberty take 2-0 lead over Aces (88-84) and Lynx lead Fever 2-0 (84-78); Shanghai Masters: Alcaraz storms to 10th straight win while Sinner notches 60th season victory; NFL Week 5: Buccaneers and Falcons prepare for Thursday Night Football NFC South clash; F1: Red Bull finalizes Austin floor upgrades while Lawson faces grid penalty; PGA Tour: Black Desert Championship Round 1 tee times locked in Utah; Soccer: International window intensifies with Nations League MD3 and CONMEBOL qualifiers.
+*   **Site clock:** editorial today is `2026-10-04` in `frontend/src/data/sports.ts` (`SITE_TODAY`). Nations League: England 7-0 Croatia in Rijeka, Spain 3-1 Czechia in Oviedo; Premier League frozen with City 15 from five until 10 October. NFL Week 4: Browns 27-24 Steelers is the only final; Sunday is not printed. WNBA semis Game 1 is 0-0 (Liberty at Dream, Aces at Valkyries). F1: Verstappen pole at Sepang for the Bahrain Grand Prix in Malaysia, Antonelli 302, race not run. Golf: Smotherman 17 under after 36 holes at Black Desert, no winner. Tennis: Alcaraz through in Tokyo, Zverev through in Beijing, Sinner out of Shanghai.
 
 ---
 

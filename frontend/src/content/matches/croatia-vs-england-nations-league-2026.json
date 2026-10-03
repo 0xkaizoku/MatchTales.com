@@ -1,0 +1,77 @@
+{
+  "funFacts": [
+    "Half-time was 0-4.",
+    "Reuters: Kane 88th and 89th England goals on cap 124.",
+    "The Premier League does not restart until 10 October."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Harry Kane",
+      "team": "England",
+      "hook": "Goals in the 8th and 53rd minutes. 89 England goals, 124 caps."
+    },
+    {
+      "name": "Bukayo Saka",
+      "team": "England",
+      "hook": "Goals in the 45th and 68th minutes."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "soccer",
+    "england",
+    "croatia",
+    "nations-league"
+  ],
+  "homeCode": "CRO",
+  "awayCode": "ENG",
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/399187/pexels-photo-399187.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Nations League · Group A3",
+  "resultSummary": "Croatia 0-7 England",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/live/cm046w9zdkrwt"
+    },
+    {
+      "name": "Sky Sports",
+      "url": "https://www.skysports.com/football/news/13594637/croatia-0-7-england-amazing-nations-league-win-as-harry-kane-and-bukayo-saka-each-score-twice-in-huge-victory"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/sports/soccer/doubles-kane-saka-power-england-7-0-rout-croatia-2026-10-03/"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 0,
+  "awayScore": 7,
+  "slug": "croatia-vs-england-nations-league-2026",
+  "headline": "England 7-0 Croatia in Rijeka, Kane and Saka each twice",
+  "whyCareScore": 9.6,
+  "whyCareReason": "A 7-0 away win in Nations League Group A3, with Spain on 9 points the same night and the Premier League frozen until 10 October.",
+  "teaser": "Croatia 0-7 England. Kane 8 and 53, Bellingham 21, Gordon 39, Saka 45 and 68, Rogers 87. Half-time 0-4.",
+  "story": "England beat Croatia 7-0 on 3 October at Stadion HNK Rijeka. BBC, Sky and Reuters print the same scorers. Spain beat Czechia 3-1 in Oviedo and lead the group with 9 points. City still have 15 from five. The league returns 10 October.",
+  "stakes": "Group A3: Spain 9, England 6, Croatia 3, Czechia 0.",
+  "rivalryAngle": "Kane reached 89 England goals on his 124th cap, one short of Shilton.",
+  "home": "Croatia",
+  "away": "England",
+  "group": "A3",
+  "date": "2026-10-03",
+  "time": "17:00",
+  "venue": "Stadion HNK Rijeka",
+  "city": "Rijeka",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "nations-league-2026"
+}

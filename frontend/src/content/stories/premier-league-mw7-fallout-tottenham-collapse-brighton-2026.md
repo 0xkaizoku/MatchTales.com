@@ -5,7 +5,7 @@ category: "Desk"
 excerpt: "Brighton's stunning 3-2 comeback over Tottenham highlighted an extraordinary Matchweek 7 that left Spurs in crisis and Manchester City alone at the Premier League summit entering the international break."
 image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=1200&q=80"
 readingTime: 4
-pubDate: 2026-10-05
+pubDate: 2026-10-03
 sport: soccer
 competition: premier-league-2026
 relatedSlug: premier-league-mw7-fallout-2026
@@ -17,6 +17,8 @@ sources:
   - name: "BBC Sport: Premier League review: City flawless, Brighton flying, Spurs reeling"
     url: "https://www.bbc.co.uk/sport/football/premier-league"
 ---
+
+Desk correction, 4 October 2026: this piece was filed ahead of the calendar. Do not treat any score in it as a result. The sourced desk for 4 October 2026 is the new set of Why Care stories.
 
 ## Why this one matters
 

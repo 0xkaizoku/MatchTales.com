@@ -1,0 +1,68 @@
+{
+  "funFacts": [
+    "Bills 3-0.",
+    "Patriots 1-2.",
+    "No Sunday score on this desk."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Buffalo Bills",
+      "team": "Bills",
+      "hook": "3-0 entering Sunday."
+    },
+    {
+      "name": "New England Patriots",
+      "team": "Patriots",
+      "hook": "1-2 entering Sunday."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "nfl",
+    "bills",
+    "patriots"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618268/pexels-photo-1618268.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "NFL Week 4 · Sunday",
+  "resultSummary": "Not final.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "CBS Sports scoreboard",
+      "url": "https://www.cbssports.com/nfl/scoreboard/"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "patriots-at-bills-week4-2026",
+  "headline": "Patriots at Bills, Sunday still without a final",
+  "whyCareScore": 8.2,
+  "whyCareReason": "Bills are 3-0 and host New England at 1:00 p.m. ET. This card does not print a score.",
+  "teaser": "Patriots 1-2 at Bills 3-0. CBS lists 1:00 p.m. ET. No final.",
+  "story": "Week 4 Sunday is on the board and not in the book. The only printed final remains Browns 27, Steelers 24.",
+  "stakes": "A 3-0 Bills team. No result yet.",
+  "rivalryAngle": "AFC East, listed, not final.",
+  "home": "Buffalo Bills",
+  "away": "New England Patriots",
+  "group": "AFC",
+  "date": "2026-10-04",
+  "time": "13:00",
+  "venue": "Highmark Stadium",
+  "city": "Orchard Park",
+  "status": "UPCOMING",
+  "sport": "football",
+  "competition": "nfl-2026"
+}

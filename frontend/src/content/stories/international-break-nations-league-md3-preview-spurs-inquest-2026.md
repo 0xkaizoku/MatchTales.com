@@ -5,7 +5,7 @@ category: "Desk"
 excerpt: "With club football paused and Manchester City sitting clear with 21 points, the spotlight shifts to national teams as Italy host Belgium in Rome and England prepare for Wembley duty."
 image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=1200&q=80"
 readingTime: 4
-pubDate: 2026-10-06
+pubDate: 2026-10-03
 sport: soccer
 competition: uefa-nations-league-2026
 relatedSlug: uefa-nations-league-md3-preview-2026
@@ -17,6 +17,8 @@ sources:
   - name: "The Athletic: How the October international window impacts European domestic title races"
     url: "https://www.nytimes.com/athletic/football/international-break-nations-league-preview"
 ---
+
+Desk correction, 4 October 2026: this piece was filed ahead of the calendar. Do not treat any score in it as a result. The sourced desk for 4 October 2026 is the new set of Why Care stories.
 
 ## Why this one matters
 

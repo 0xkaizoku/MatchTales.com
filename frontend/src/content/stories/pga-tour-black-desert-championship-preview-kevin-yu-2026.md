@@ -5,7 +5,7 @@ category: "Desk"
 excerpt: "Kevin Yu captured his first career PGA Tour victory in a thrilling playoff at Sanderson Farms, vaulting into the top 65 of the world rankings as the tour travels to Utah's Black Desert Resort."
 image: "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=1200&q=80"
 readingTime: 4
-pubDate: 2026-10-05
+pubDate: 2026-10-03
 sport: golf
 competition: pga-tour-2026
 relatedSlug: black-desert-championship-2026
@@ -17,6 +17,8 @@ sources:
   - name: "PGA Tour: FedExCup Fall standings update after Sanderson Farms"
     url: "https://www.pgatour.com/fedexcup"
 ---
+
+Desk correction, 4 October 2026: this piece was filed ahead of the calendar. Do not treat any score in it as a result. The sourced desk for 4 October 2026 is the new set of Why Care stories.
 
 ## Why this one matters
 

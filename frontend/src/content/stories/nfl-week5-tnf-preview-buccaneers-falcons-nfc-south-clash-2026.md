@@ -5,7 +5,7 @@ category: "Desk"
 excerpt: "The NFC South takes center stage on Thursday night as Baker Mayfield's 3-1 Buccaneers visit Kirk Cousins and the 2-2 Falcons with first place in the division on the line."
 image: "https://images.unsplash.com/photo-1566577739112-5184e6ac4a4e?auto=format&fit=crop&w=1200&q=80"
 readingTime: 4
-pubDate: 2026-10-07
+pubDate: 2026-10-03
 sport: football
 competition: nfl-2026
 relatedSlug: falcons-vs-buccaneers-tnf-week5-2026
@@ -17,6 +17,8 @@ sources:
   - name: "The Athletic: Tactical keys for Buccaneers vs Falcons NFC South clash"
     url: "https://www.nytimes.com/athletic/nfl/week5-tnf-falcons-bucs-scouting-report"
 ---
+
+Desk correction, 4 October 2026: this piece was filed ahead of the calendar. Do not treat any score in it as a result. The sourced desk for 4 October 2026 is the new set of Why Care stories.
 
 ## Why this match matters
 

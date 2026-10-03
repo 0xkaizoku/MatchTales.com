@@ -8589,6 +8589,559 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+
+  'england-7-0-croatia-nations-league-2026': {
+    fr: {
+      title: 'Angleterre 7-0 Croatie : Kane et Saka marquent deux fois chacun à Rijeka',
+      subtitle: 'Ligue des Nations, 3 octobre. L’Espagne a battu la Tchéquie 3-1 le même soir. La Premier League reste gelée jusqu’au 10 octobre.',
+      excerpt: 'L’Angleterre a battu la Croatie 7-0 au Stadion HNK Rijeka. Kane aux 8e et 53e, Saka aux 45e et 68e. L’Espagne mène le groupe avec 9 points.',
+      body: [
+        'L’Angleterre est allée à Rijeka le samedi 3 octobre et en est repartie avec un 7-0 en Ligue des Nations, Ligue A, groupe 3. L’Espagne a battu la Tchéquie 3-1 le même soir à Oviedo. La Premier League ne reprend que le samedi 10 octobre. Cette table imprime les scores internationaux et laisse le classement là où la 5e journée l’a laissé.',
+        'BBC, Sky et Reuters s’accordent sur le 7-0. Mi-temps 0-4. Harry Kane 8e et 53e, Jude Bellingham 21e, Anthony Gordon 39e, Bukayo Saka 45e et 68e, Morgan Rogers 87e. Reuters : 88e et 89e buts de Kane lors de sa 124e sélection, à une cape de Peter Shilton.',
+        'Espagne 3-1 Tchéquie à Oviedo. ESPN : Yamal 6e, Rodri 35e, Slama 69e, Merino 89e. Mi-temps 2-0. Krejci expulsé. Groupe : Espagne 9, Angleterre 6, Croatie 3, Tchéquie 0. City a 15 points en cinq. Aucun score de club de cette trêve n’est imprimé ici.',
+      ],
+    },
+    es: {
+      title: 'Inglaterra 7-0 Croacia: Kane y Saka marcan dos cada uno en Rijeka',
+      subtitle: 'Liga de Naciones, 3 de octubre. España ganó 3-1 a Chequia esa misma noche. La Premier sigue congelada hasta el 10 de octubre.',
+      excerpt: 'Inglaterra ganó 7-0 a Croacia en el Stadion HNK Rijeka. Kane en el 8 y el 53, Saka en el 45 y el 68. España lidera el grupo con 9 puntos.',
+      body: [
+        'Inglaterra fue a Rijeka el sábado 3 de octubre y se fue con un 7-0 en la Liga de Naciones, Liga A, grupo 3. España ganó 3-1 a Chequia esa noche en Oviedo. La Premier no vuelve hasta el sábado 10 de octubre. Esta mesa imprime los marcadores internacionales y deja la tabla donde la dejó la jornada 5.',
+        'BBC, Sky y Reuters coinciden en el 7-0. Descanso 0-4. Harry Kane 8 y 53, Jude Bellingham 21, Anthony Gordon 39, Bukayo Saka 45 y 68, Morgan Rogers 87. Reuters: goles 88 y 89 de Kane en su partido 124, a uno de Peter Shilton.',
+        'España 3-1 Chequia en Oviedo. ESPN: Yamal 6, Rodri 35, Slama 69, Merino 89. Descanso 2-0. Krejci expulsado. Grupo: España 9, Inglaterra 6, Croacia 3, Chequia 0. City tiene 15 puntos en cinco. Aquí no se imprime ningún marcador de clubes de esta ventana.',
+      ],
+    },
+    de: {
+      title: 'England 7:0 Kroatien: Kane und Saka treffen je zweimal in Rijeka',
+      subtitle: 'Nations League, 3. Oktober. Spanien schlug Tschechien 3:1 am selben Abend. Die Premier League bleibt bis zum 10. Oktober eingefroren.',
+      excerpt: 'England schlug Kroatien 7:0 im Stadion HNK Rijeka. Kane in der 8. und 53., Saka in der 45. und 68. Spanien führt die Gruppe mit 9 Punkten.',
+      body: [
+        'England war am Samstag, 3. Oktober, in Rijeka und ging mit einem 7:0 in der Nations League, Liga A, Gruppe 3. Spanien schlug Tschechien am selben Abend 3:1 in Oviedo. Die Premier League kehrt erst am Samstag, 10. Oktober, zurück. Diese Tafel druckt die Länderspiele und lässt die Tabelle, wo Spieltag 5 sie gelassen hat.',
+        'BBC, Sky und Reuters sind sich über das 7:0 einig. Halbzeit 0:4. Harry Kane 8. und 53., Jude Bellingham 21., Anthony Gordon 39., Bukayo Saka 45. und 68., Morgan Rogers 87. Reuters: Kanes 88. und 89. Länderspieltor im 124. Länderspiel, ein Einsatz hinter Peter Shilton.',
+        'Spanien 3:1 Tschechien in Oviedo. ESPN: Yamal 6., Rodri 35., Slama 69., Merino 89. Halbzeit 2:0. Krejci vom Platz. Gruppe: Spanien 9, England 6, Kroatien 3, Tschechien 0. City hat 15 Punkte aus fünf. Kein Vereinsspiel dieser Pause steht hier.',
+      ],
+    },
+    it: {
+      title: 'Inghilterra 7-0 Croazia: Kane e Saka segnano due volte ciascuno a Fiume',
+      subtitle: 'Nations League, 3 ottobre. La Spagna ha battuto la Cechia 3-1 la stessa sera. La Premier resta ferma fino al 10 ottobre.',
+      excerpt: 'L’Inghilterra ha battuto la Croazia 7-0 allo Stadion HNK Rijeka. Kane all’8’ e al 53’, Saka al 45’ e al 68’. La Spagna guida il girone con 9 punti.',
+      body: [
+        'L’Inghilterra è andata a Fiume sabato 3 ottobre ed è tornata con un 7-0 in Nations League, Lega A, girone 3. La Spagna ha battuto la Cechia 3-1 la stessa sera a Oviedo. La Premier non riparte prima di sabato 10 ottobre. Questa scrivania stampa i risultati delle nazionali e lascia la classifica dov’era dopo la 5ª giornata.',
+        'BBC, Sky e Reuters concordano sul 7-0. Intervallo 0-4. Harry Kane 8’ e 53’, Jude Bellingham 21’, Anthony Gordon 39’, Bukayo Saka 45’ e 68’, Morgan Rogers 87’. Reuters: 88º e 89º gol di Kane alla 124ª presenza, a una gara da Peter Shilton.',
+        'Spagna 3-1 Cechia a Oviedo. ESPN: Yamal 6’, Rodri 35’, Slama 69’, Merino 89’. Intervallo 2-0. Krejci espulso. Girone: Spagna 9, Inghilterra 6, Croazia 3, Cechia 0. Il City ha 15 punti in cinque. Nessun risultato di club di questa sosta è stampato qui.',
+      ],
+    },
+    pl: {
+      title: 'Anglia 7-0 Chorwacja: Kane i Saka trafiają po dwa razy w Rijece',
+      subtitle: 'Liga Narodów, 3 października. Hiszpania pokonała Czechy 3-1 tego samego wieczoru. Premier League zostaje zamrożona do 10 października.',
+      excerpt: 'Anglia pokonała Chorwację 7-0 na Stadionie HNK Rijeka. Kane w 8. i 53., Saka w 45. i 68. Hiszpania prowadzi grupę z 9 punktami.',
+      body: [
+        'Anglia pojechała do Rijeki w sobotę 3 października i wróciła z wynikiem 7-0 w Lidze Narodów, Lidze A, grupie 3. Hiszpania pokonała Czechy 3-1 tego samego wieczoru w Oviedo. Premier League wraca dopiero w sobotę 10 października. Ta redakcja drukuje wyniki reprezentacji i zostawia tabelę tam, gdzie zostawiła ją 5. kolejka.',
+        'BBC, Sky i Reuters zgadzają się co do 7-0. Do przerwy 0-4. Harry Kane 8. i 53., Jude Bellingham 21., Anthony Gordon 39., Bukayo Saka 45. i 68., Morgan Rogers 87. Reuters: 88. i 89. gol Kane’a w 124. meczu, jedna czapka za Peterem Shiltonem.',
+        'Hiszpania 3-1 Czechy w Oviedo. ESPN: Yamal 6., Rodri 35., Slama 69., Merino 89. Do przerwy 2-0. Krejci z czerwoną kartką. Grupa: Hiszpania 9, Anglia 6, Chorwacja 3, Czechy 0. City ma 15 punktów z pięciu. Żaden wynik klubowy z tej przerwy nie jest tu wydrukowany.',
+      ],
+    },
+    zh: {
+      title: '英格兰 7-0 克罗地亚：凯恩和萨卡在里耶卡各进两球',
+      subtitle: '欧国联，10 月 3 日。西班牙当晚 3-1 击败捷克。英超冻结到 10 月 10 日。',
+      excerpt: '英格兰在里耶卡 HNK 球场 7-0 击败克罗地亚。凯恩第 8 和第 53 分钟，萨卡第 45 和第 68 分钟。西班牙以 9 分领跑小组。',
+      body: [
+        '10 月 3 日星期六，英格兰在里耶卡拿走欧国联 A 级第 3 组的一场 7-0。西班牙当晚在奥维耶多 3-1 击败捷克。英超要到 10 月 10 日星期六才回归。这张桌子印国际比赛比分，联赛积分榜停在第 5 轮结束的地方。',
+        'BBC、天空和路透社都是 7-0。半场 0-4。哈里·凯恩第 8 和第 53 分钟，贝林厄姆第 21 分钟，戈登第 39 分钟，萨卡第 45 和第 68 分钟，罗杰斯第 87 分钟。路透社：凯恩在第 124 场国家队比赛打进第 88 和第 89 球，出场数比彼得·希尔顿少一场。',
+        '西班牙在奥维耶多 3-1 捷克。ESPN：亚马尔第 6 分钟，罗德里第 35 分钟，斯拉马第 69 分钟，梅里诺第 89 分钟。半场 2-0。克雷伊奇被罚下。小组：西班牙 9，英格兰 6，克罗地亚 3，捷克 0。曼城 5 轮 15 分。这次国际比赛窗口的俱乐部比分不印在这里。',
+      ],
+    },
+    ja: {
+      title: 'イングランド 7-0 クロアチア：ケインとサカがリエカでそれぞれ2点',
+      subtitle: 'ネーションズリーグ、10月3日。スペインは同じ夜にチェコを3-1。プレミアリーグは10月10日まで凍結。',
+      excerpt: 'イングランドがリエカのスタディオンHNKリエカでクロアチアに7-0。ケインは8分と53分、サカは45分と68分。スペインが9点で組首位。',
+      body: [
+        '10月3日土曜、イングランドはリエカでネーションズリーグのリーグAグループ3を7-0で終えた。スペインは同じ夜、オビエドでチェコに3-1。プレミアリーグの再開は10月10日土曜。この机は代表のスコアを載せ、リーグ順位は第5節のままにする。',
+        'BBC、Sky、ロイターは7-0で一致。ハーフタイムは0-4。ハリー・ケインが8分と53分、ベリンガムが21分、ゴードンが39分、サカが45分と68分、ロジャーズが87分。ロイター：ケインは124キャップ目で通算88、89点目。出場数はピーター・シルトンにあと1。',
+        'スペインはオビエドでチェコに3-1。ESPN：ヤマル6分、ロドリ35分、スラマ69分、メリノ89分。ハーフタイム2-0。クレイチ退場。組：スペイン9、イングランド6、クロアチア3、チェコ0。シティは5試合15点。この代表ウィークのクラブスコアはここには出さない。',
+      ],
+    },
+    ko: {
+      title: '잉글랜드 7-0 크로아티아: 케인과 사카가 리예카에서 각각 두 골',
+      subtitle: '네이션스리그, 10월 3일. 스페인은 같은 밤 체코를 3-1로 이겼다. 프리미어리그는 10월 10일까지 얼어 있다.',
+      excerpt: '잉글랜드가 리예카 HNK 경기장에서 크로아티아를 7-0으로 이겼다. 케인은 8분과 53분, 사카는 45분과 68분. 스페인이 9점으로 조 선두.',
+      body: [
+        '10월 3일 토요일, 잉글랜드는 리예카에서 네이션스리그 리그 A 3조를 7-0으로 끝냈다. 스페인은 같은 밤 오비에도에서 체코를 3-1로 이겼다. 프리미어리그는 10월 10일 토요일에야 돌아온다. 이 데스크는 대표팀 점수를 싣고, 리그 순위는 5라운드가 멈춘 곳에 둔다.',
+        'BBC, Sky, 로이터가 7-0에 동의한다. 전반 0-4. 해리 케인 8분과 53분, 주드 벨링엄 21분, 앤서니 고든 39분, 부카요 사카 45분과 68분, 모건 로저스 87분. 로이터: 케인이 124번째 출전에서 88, 89호 골. 출전 수는 피터 실턴보다 하나 적다.',
+        '스페인은 오비에도에서 체코를 3-1. ESPN: 야말 6분, 로드리 35분, 슬라마 69분, 메리노 89분. 전반 2-0. 크레이치 퇴장. 조: 스페인 9, 잉글랜드 6, 크로아티아 3, 체코 0. 시티는 5경기 15점. 이번 국가대표 기간의 클럽 점수는 여기 싣지 않는다.',
+      ],
+    },
+    ar: {
+      title: 'إنجلترا 7-0 كرواتيا: كين وساكا يسجلان مرتين لكل منهما في رييكا',
+      subtitle: 'دوري الأمم، 3 أكتوبر. إسبانيا فازت على التشيك 3-1 في الليلة نفسها. البريمير يبقى مجمداً حتى 10 أكتوبر.',
+      excerpt: 'إنجلترا فازت على كرواتيا 7-0 في استاد HNK رييكا. كين في الدقيقتين 8 و53، وساكا في 45 و68. إسبانيا تتصدر المجموعة بـ9 نقاط.',
+      body: [
+        'ذهبت إنجلترا إلى رييكا يوم السبت 3 أكتوبر وعادت بنتيجة 7-0 في دوري الأمم، القسم أ، المجموعة 3. فازت إسبانيا على التشيك 3-1 في الليلة نفسها في أوفييدو. البريمير لا يعود قبل السبت 10 أكتوبر. هذه الطاولة تطبع نتائج المنتخبات وتترك الجدول حيث تركته الجولة 5.',
+        'BBC وسكاي ورويترز متفقون على 7-0. الشوط الأول 0-4. هاري كين 8 و53، جود بيلينغهام 21، أنتوني غوردون 39، بوكايو ساكا 45 و68، مورغان روجرز 87. رويترز: هدفا كين 88 و89 في مباراته الدولية 124، على بعد مباراة من بيتر شيلتون.',
+        'إسبانيا 3-1 التشيك في أوفييدو. ESPN: يامال 6، رودري 35، سلاما 69، ميرينو 89. الشوط الأول 2-0. كريجتشي طُرد. المجموعة: إسبانيا 9، إنجلترا 6، كرواتيا 3، التشيك 0. سيتي لديه 15 نقطة من خمس. لا نتيجة أندية من هذه النافذة مطبوعة هنا.',
+      ],
+    },
+  },
+  'wnba-semifinals-open-liberty-dream-aces-valkyries-2026': {
+    fr: {
+      title: 'Les demi-finales WNBA s’ouvrent à 0-0 : Liberty chez Dream, Aces chez Valkyries',
+      subtitle: 'Match 1 dimanche 4 octobre. New York et Atlanta ont balayé leur premier tour. Aucune demi-finale n’a de score.',
+      excerpt: 'Liberty chez Dream à 14 h ET sur ABC. Aces chez Valkyries à 16 h ET sur NBC. Les deux séries sont à 0-0.',
+      body: [
+        'Les demi-finales s’ouvrent le dimanche 4 octobre, les deux séries à 0-0. Liberty chez Dream, 14 h ET, ABC, à Atlanta. Aces chez Valkyries, 16 h ET, NBC, à San Francisco. CBS liste les deux matchs 1. Cette table n’imprime pas de vainqueur.',
+        'Le premier tour est fini. Liberty, 8e, a balayé les Lynx, 1er : 91-75 le 27 septembre, puis 87-71 le 29 au Barclays. ESPN : Jones 21, Stewart 21, Ionescu 18 dans le match 2. Premier 8e à éliminer un 1er. Dream a balayé Mystics 92-77 et 93-75. Gray 22 à la conclusion. Première demi-finale depuis 2018.',
+        'Les Aces ont clos Indiana au match 3, 94-83, Wilson 36. ESPN : 102-85, puis défaite 99-89, puis 94-83. Ce n’est pas un sweep. Les Valkyries ont gagné leur série 2-1, match 3 77-73 après 16 points de retard, Williams 19 points. Records StatMuse : Lynx 33-11, Valkyries 32-12, Aces 31-13, Dream 30-14, Liberty 26-18.',
+      ],
+    },
+    es: {
+      title: 'Las semifinales WNBA se abren 0-0: Liberty en Dream, Aces en Valkyries',
+      subtitle: 'Juego 1, domingo 4 de octubre. Nueva York y Atlanta barrieron su primera ronda. Ninguna semifinal tiene marcador.',
+      excerpt: 'Liberty visita a Dream a las 14:00 ET en ABC. Las Aces visitan a las Valkyries a las 16:00 ET en NBC. Las dos series están 0-0.',
+      body: [
+        'Las semifinales se abren el domingo 4 de octubre con las dos series en 0-0. Liberty en Dream, 14:00 ET, ABC, en Atlanta. Aces en Valkyries, 16:00 ET, NBC, en San Francisco. CBS lista los dos juegos 1. Esta mesa no imprime un ganador.',
+        'La primera ronda terminó. Liberty, octava, barrió a las Lynx, primeras: 91-75 el 27 de septiembre y 87-71 el 29 en el Barclays. ESPN: Jones 21, Stewart 21, Ionescu 18 en el juego 2. Primera octava que elimina a una primera. Dream barrió a Mystics 92-77 y 93-75. Gray 22 en el cierre. Primera semifinal desde 2018.',
+        'Las Aces cerraron a Indiana en el juego 3, 94-83, Wilson 36. ESPN: 102-85, derrota 99-89 y luego 94-83. No es un barrido. Las Valkyries ganaron su serie 2-1, juego 3 por 77-73 tras ir 16 abajo, Williams 19 puntos. StatMuse: Lynx 33-11, Valkyries 32-12, Aces 31-13, Dream 30-14, Liberty 26-18.',
+      ],
+    },
+    de: {
+      title: 'WNBA-Halbfinale starten 0-0: Liberty bei Dream, Aces bei Valkyries',
+      subtitle: 'Spiel 1, Sonntag 4. Oktober. New York und Atlanta fegten ihre erste Runde. Kein Halbfinale hat einen Stand.',
+      excerpt: 'Liberty bei Dream, 14:00 ET auf ABC. Aces bei Valkyries, 16:00 ET auf NBC. Beide Serien stehen 0-0.',
+      body: [
+        'Die Halbfinals beginnen am Sonntag, 4. Oktober, beide Serien 0-0. Liberty bei Dream, 14:00 ET, ABC, in Atlanta. Aces bei Valkyries, 16:00 ET, NBC, in San Francisco. CBS listet beide Spiele 1. Diese Tafel druckt keinen Sieger.',
+        'Die erste Runde ist fertig. Liberty, der 8., fegte die Lynx, den 1.: 91-75 am 27. September und 87-71 am 29. im Barclays. ESPN: Jones 21, Stewart 21, Ionescu 18 in Spiel 2. Erster 8., der einen 1. eliminiert. Dream fegte Mystics 92-77 und 93-75. Gray 22 im Abschluss. Erstes Halbfinale seit 2018.',
+        'Die Aces schlossen Indiana in Spiel 3, 94-83, Wilson 36. ESPN: 102-85, Niederlage 99-89, dann 94-83. Das ist kein Sweep. Die Valkyries gewannen ihre Serie 2-1, Spiel 3 mit 77-73 nach 16 Punkten Rückstand, Williams 19 Punkte. StatMuse: Lynx 33-11, Valkyries 32-12, Aces 31-13, Dream 30-14, Liberty 26-18.',
+      ],
+    },
+    it: {
+      title: 'Le semifinali WNBA si aprono 0-0: Liberty dalle Dream, Aces dalle Valkyries',
+      subtitle: 'Gara 1, domenica 4 ottobre. New York e Atlanta hanno spazzato il primo turno. Nessuna semifinale ha un punteggio.',
+      excerpt: 'Liberty visita le Dream alle 14:00 ET su ABC. Le Aces visitano le Valkyries alle 16:00 ET su NBC. Entrambe le serie sono 0-0.',
+      body: [
+        'Le semifinali si aprono domenica 4 ottobre con entrambe le serie a 0-0. Liberty dalle Dream, 14:00 ET, ABC, ad Atlanta. Aces dalle Valkyries, 16:00 ET, NBC, a San Francisco. CBS elenca entrambe le gare 1. Questa scrivania non stampa un vincitore.',
+        'Il primo turno è finito. Liberty, ottava, ha spazzato le Lynx, prime: 91-75 il 27 settembre e 87-71 il 29 al Barclays. ESPN: Jones 21, Stewart 21, Ionescu 18 in gara 2. Prima ottava a eliminare una prima. Dream ha spazzato Mystics 92-77 e 93-75. Gray 22 nella chiusura. Prima semifinale dal 2018.',
+        'Le Aces hanno chiuso Indiana in gara 3, 94-83, Wilson 36. ESPN: 102-85, sconfitta 99-89, poi 94-83. Non è uno sweep. Le Valkyries hanno vinto la serie 2-1, gara 3 77-73 dopo uno svantaggio di 16, Williams 19 punti. StatMuse: Lynx 33-11, Valkyries 32-12, Aces 31-13, Dream 30-14, Liberty 26-18.',
+      ],
+    },
+    pl: {
+      title: 'Półfinały WNBA startują 0-0: Liberty u Dream, Aces u Valkyries',
+      subtitle: 'Mecz 1, niedziela 4 października. Nowy Jork i Atlanta zmiażdżyły pierwszą rundę. Żaden półfinał nie ma wyniku.',
+      excerpt: 'Liberty jedzie do Dream o 14:00 ET w ABC. Aces jadą do Valkyries o 16:00 ET w NBC. Obie serie są 0-0.',
+      body: [
+        'Półfinały otwierają się w niedzielę 4 października, obie serie 0-0. Liberty u Dream, 14:00 ET, ABC, w Atlancie. Aces u Valkyries, 16:00 ET, NBC, w San Francisco. CBS podaje oba mecze 1. Ta redakcja nie drukuje zwycięzcy.',
+        'Pierwsza runda jest skończona. Liberty, ósemka, zmiażdżyło Lynx, jedynkę: 91-75 27 września i 87-71 29 września w Barclays. ESPN: Jones 21, Stewart 21, Ionescu 18 w meczu 2. Pierwsza ósemka, która wyeliminowała jedynkę. Dream zmiażdżyło Mystics 92-77 i 93-75. Gray 22 w zamknięciu. Pierwszy półfinał od 2018.',
+        'Aces zamknęły Indianę w meczu 3, 94-83, Wilson 36. ESPN: 102-85, porażka 99-89, potem 94-83. To nie jest sweep. Valkyries wygrały serię 2-1, mecz 3 77-73 po stracie 16 punktów, Williams 19 punktów. StatMuse: Lynx 33-11, Valkyries 32-12, Aces 31-13, Dream 30-14, Liberty 26-18.',
+      ],
+    },
+    zh: {
+      title: 'WNBA 半决赛 0-0 开打：自由人客场梦想，王牌客场女武神',
+      subtitle: 'G1 是 10 月 4 日周日。纽约和亚特兰大横扫了首轮。两场半决赛都还没有比分。',
+      excerpt: '自由人美东 14:00 在 ABC 客场梦想。王牌美东 16:00 在 NBC 客场女武神。两轮系列都是 0-0。',
+      body: [
+        '半决赛于 10 月 4 日周日开打，两轮系列都是 0-0。自由人客场梦想，美东 14:00，ABC，亚特兰大。王牌客场女武神，美东 16:00，NBC，旧金山。CBS 列出两场 G1。这张桌子不印胜者。',
+        '首轮结束。第 8 号种子自由人横扫第 1 号山猫：9 月 27 日 91-75，9 月 29 日巴克莱中心 87-71。ESPN：琼斯 21 分，斯图尔特 21 分，约内斯库 18 分，都在 G2。这是第一次 8 号种子淘汰 1 号种子。梦想横扫神秘 92-77 和 93-75。格雷在收官战得 22 分。这是梦想 2018 年以来第一场半决赛。',
+        '王牌在 G3 以 94-83 结束步行者，威尔逊 36 分。ESPN：102-85，然后输 99-89，再 94-83。这不是横扫。女武神系列赛 2-1，G3 在落后 16 分后 77-73，威廉姆斯 19 分。StatMuse：山猫 33-11，女武神 32-12，王牌 31-13，梦想 30-14，自由人 26-18。',
+      ],
+    },
+    ja: {
+      title: 'WNBA準決勝は0-0で開幕：リバティがドリームへ、エーセスがヴァルキリーズへ',
+      subtitle: '第1戦は10月4日日曜。ニューヨークとアトランタは1回戦をスイープ。どちらの準決勝にもスコアはない。',
+      excerpt: 'リバティは東部14:00、ABCでドリームへ。エーセスは東部16:00、NBCでヴァルキリーズへ。両シリーズは0-0。',
+      body: [
+        '準決勝は10月4日日曜、両シリーズ0-0で開く。リバティがドリームへ、東部14:00、ABC、アトランタ。エーセスがヴァルキリーズへ、東部16:00、NBC、サンフランシスコ。CBSは両方の第1戦を載せる。この机に勝者はない。',
+        '1回戦は終わった。8位のリバティが1位リンクスをスイープ。9月27日 91-75、9月29日バークレイズで87-71。ESPN：第2戦でジョーンズ21、スチュワート21、イオネスク18。8位が1位を消したのは初めて。ドリームはミスティクスを92-77と93-75でスイープ。グレイが決め試合で22。2018年以来初の準決勝。',
+        'エーセスは第3戦94-83でインディアナを閉じ、ウィルソン36点。ESPN：102-85、次に99-89の黒星、その後94-83。スイープではない。ヴァルキリーズはシリーズ2-1。第3戦は16点差から77-73、ウィリアムズ19点。StatMuse：リンクス33-11、ヴァルキリーズ32-12、エーセス31-13、ドリーム30-14、リバティ26-18。',
+      ],
+    },
+    ko: {
+      title: 'WNBA 준결승은 0-0으로 열린다: 리버티가 드림으로, 에이스가 발키리스로',
+      subtitle: '1차전은 10월 4일 일요일. 뉴욕과 애틀랜타는 1라운드를 스윕했다. 어느 준결승에도 점수는 없다.',
+      excerpt: '리버티는 동부 14:00, ABC에서 드림 원정. 에이스는 동부 16:00, NBC에서 발키리스 원정. 두 시리즈 모두 0-0.',
+      body: [
+        '준결승은 10월 4일 일요일, 두 시리즈 0-0으로 열린다. 리버티가 드림으로, 동부 14:00, ABC, 애틀랜타. 에이스가 발키리스로, 동부 16:00, NBC, 샌프란시스코. CBS가 두 1차전을 올린다. 이 데스크는 승자를 싣지 않는다.',
+        '1라운드는 끝났다. 8번 시드 리버티가 1번 링스를 스윕했다. 9월 27일 91-75, 9월 29일 바클레이스에서 87-71. ESPN: 2차전에서 존스 21, 스튜어트 21, 이오네스쿠 18. 8번 시드가 1번을 탈락시킨 것은 처음이다. 드림은 미스틱스를 92-77과 93-75로 스윕. 그레이가 마무리에서 22점. 2018년 이후 첫 준결승.',
+        '에이스는 3차전 94-83으로 인디애나를 닫았고 윌슨이 36점. ESPN: 102-85, 그다음 99-89 패, 그리고 94-83. 스윕이 아니다. 발키리스는 시리즈 2-1. 3차전은 16점 뒤진 뒤 77-73, 윌리엄스 19점. StatMuse: 링스 33-11, 발키리스 32-12, 에이스 31-13, 드림 30-14, 리버티 26-18.',
+      ],
+    },
+    ar: {
+      title: 'نصف نهائي WNBA يبدأ 0-0: ليبرتي عند دريم، إيسيس عند فالكيريز',
+      subtitle: 'المباراة 1 الأحد 4 أكتوبر. نيويورك وأتلانتا اكتسحتا الدور الأول. لا نصف نهائي له نتيجة.',
+      excerpt: 'ليبرتي تزور دريم الساعة 14:00 بتوقيت شرق أمريكا على ABC. إيسيس تزور فالكيريز الساعة 16:00 على NBC. السلسلتان 0-0.',
+      body: [
+        'يبدأ نصف النهائي الأحد 4 أكتوبر والسلسلتان 0-0. ليبرتي عند دريم، 14:00، ABC، في أتلانتا. إيسيس عند فالكيريز، 16:00، NBC، في سان فرانسيسكو. CBS تدرج المباراتين. هذه الطاولة لا تطبع فائزاً.',
+        'انتهى الدور الأول. ليبرتي، الثامنة، اكتسحت لينكس الأولى: 91-75 في 27 سبتمبر ثم 87-71 في 29 في باركليز. ESPN: جونز 21 وستيوارت 21 وإيونيسكو 18 في المباراة 2. أول ثامن يقصي الأول. دريم اكتسحت ميستيكس 92-77 و93-75. غراي 22 في الحسم. أول نصف نهائي منذ 2018.',
+        'أغلقت إيسيس إنديانا في المباراة 3 بنتيجة 94-83، ويلسون 36. ESPN: 102-85 ثم خسارة 99-89 ثم 94-83. ليست اكتساحاً. فازت فالكيريز بسلسلتها 2-1، المباراة 3 كانت 77-73 بعد تأخر بـ16، ويليامز 19 نقطة. StatMuse: لينكس 33-11، فالكيريز 32-12، إيسيس 31-13، دريم 30-14، ليبرتي 26-18.',
+      ],
+    },
+  },
+  'browns-27-steelers-24-week4-tnf-2026': {
+    fr: {
+      title: 'Browns 27, Steelers 24 : le seul final de la semaine 4 sur cette table',
+      subtitle: 'ESPN et CBS impriment vendredi. Le dimanche 4 octobre, Londres compris, n’a pas de score ici.',
+      excerpt: 'Cleveland a battu Pittsburgh 27-24. Browns 3-1, Steelers 2-2. Aucun score du dimanche n’est un final.',
+      body: [
+        'La semaine 4 a un seul final imprimé : Cleveland Browns 27, Pittsburgh Steelers 24. ESPN le date du vendredi 2 octobre. Quarts CBS : Steelers 7, 3, 0, 14 et Browns 0, 21, 0, 6. Cleveland a tenu une remontée tardive. Browns 3-1, Steelers 2-2.',
+        'Le dimanche 4 octobre n’avait pas de final sur le tableau CBS vérifié ici. Là où CBS et ESPN s’accordent : Colts 1-2 chez Commanders 1-2 à Londres, 9 h 30 ET. Patriots 1-2 chez Bills 3-0. Jets 1-2 chez Bears 2-1. Packers 1-2 chez Buccaneers 0-3. Titans 0-3 chez Ravens 2-1. Cowboys 1-2 chez Texans 0-3. Cardinals 1-2 chez Giants 2-1. Rams 1-2 chez Eagles 2-1. Jaguars 2-1 chez Bengals 2-1. Dolphins 0-3 chez Vikings 3-0. Broncos 2-1 chez 49ers 3-0. Lundi : Falcons 1-2 chez Saints 1-2.',
+        'Les invaincus à l’entrée du dimanche : Bills, Vikings et 49ers, tous 3-0. Buccaneers 0-3, Falcons 1-2. Un résultat Buccaneers chez Falcons n’est pas un final de semaine 4. Aucun score du dimanche ou du lundi n’est imprimé.',
+      ],
+    },
+    es: {
+      title: 'Browns 27, Steelers 24: el único final de la semana 4 en esta mesa',
+      subtitle: 'ESPN y CBS imprimen el viernes. El domingo 4 de octubre, Londres incluido, sigue sin marcador aquí.',
+      excerpt: 'Cleveland ganó 27-24 a Pittsburgh. Browns 3-1, Steelers 2-2. Ningún marcador del domingo es final.',
+      body: [
+        'La semana 4 tiene un solo final impreso: Cleveland Browns 27, Pittsburgh Steelers 24. ESPN lo fecha el viernes 2 de octubre. Cuartos CBS: Steelers 7, 3, 0, 14 y Browns 0, 21, 0, 6. Cleveland aguantó una remontada tardía. Browns 3-1, Steelers 2-2.',
+        'El domingo 4 de octubre no tenía final en el tablero CBS revisado aquí. Donde CBS y ESPN coinciden: Colts 1-2 en Commanders 1-2 en Londres, 9:30 ET. Patriots 1-2 en Bills 3-0. Jets 1-2 en Bears 2-1. Packers 1-2 en Buccaneers 0-3. Titans 0-3 en Ravens 2-1. Cowboys 1-2 en Texans 0-3. Cardinals 1-2 en Giants 2-1. Rams 1-2 en Eagles 2-1. Jaguars 2-1 en Bengals 2-1. Dolphins 0-3 en Vikings 3-0. Broncos 2-1 en 49ers 3-0. El lunes: Falcons 1-2 en Saints 1-2.',
+        'Los invictos al entrar el domingo: Bills, Vikings y 49ers, todos 3-0. Buccaneers 0-3, Falcons 1-2. Un resultado de Buccaneers en Falcons no es un final de la semana 4. No se imprime ningún marcador del domingo ni del lunes.',
+      ],
+    },
+    de: {
+      title: 'Browns 27, Steelers 24: das einzige Finale der Woche 4 auf dieser Tafel',
+      subtitle: 'ESPN und CBS drucken Freitag. Sonntag, 4. Oktober, London inklusive, hat hier kein Ergebnis.',
+      excerpt: 'Cleveland schlug Pittsburgh 27-24. Browns 3-1, Steelers 2-2. Kein Sonntagsergebnis ist final.',
+      body: [
+        'Woche 4 hat ein gedrucktes Finale: Cleveland Browns 27, Pittsburgh Steelers 24. ESPN datiert es auf Freitag, 2. Oktober. CBS-Viertel: Steelers 7, 3, 0, 14 und Browns 0, 21, 0, 6. Cleveland hielt einen späten Schub. Browns 3-1, Steelers 2-2.',
+        'Sonntag, 4. Oktober, hatte auf der hier geprüften CBS-Tafel kein Finale. Wo CBS und ESPN einig sind: Colts 1-2 bei Commanders 1-2 in London, 9:30 ET. Patriots 1-2 bei Bills 3-0. Jets 1-2 bei Bears 2-1. Packers 1-2 bei Buccaneers 0-3. Titans 0-3 bei Ravens 2-1. Cowboys 1-2 bei Texans 0-3. Cardinals 1-2 bei Giants 2-1. Rams 1-2 bei Eagles 2-1. Jaguars 2-1 bei Bengals 2-1. Dolphins 0-3 bei Vikings 3-0. Broncos 2-1 bei 49ers 3-0. Montag: Falcons 1-2 bei Saints 1-2.',
+        'Ungeschlagen in den Sonntag: Bills, Vikings und 49ers, alle 3-0. Buccaneers 0-3, Falcons 1-2. Ein Buccaneers-bei-Falcons-Ergebnis ist kein Finale der Woche 4. Kein Sonntags- oder Montagsergebnis steht hier.',
+      ],
+    },
+    it: {
+      title: 'Browns 27, Steelers 24: l’unico finale della settimana 4 su questa scrivania',
+      subtitle: 'ESPN e CBS stampano venerdì. Domenica 4 ottobre, Londra compresa, è ancora senza punteggio qui.',
+      excerpt: 'Cleveland ha battuto Pittsburgh 27-24. Browns 3-1, Steelers 2-2. Nessun punteggio di domenica è un finale.',
+      body: [
+        'La settimana 4 ha un solo finale stampato: Cleveland Browns 27, Pittsburgh Steelers 24. ESPN lo data venerdì 2 ottobre. Quarti CBS: Steelers 7, 3, 0, 14 e Browns 0, 21, 0, 6. Cleveland ha retto una rimonta tardiva. Browns 3-1, Steelers 2-2.',
+        'Domenica 4 ottobre non aveva un finale sul tabellone CBS controllato qui. Dove CBS ed ESPN concordano: Colts 1-2 dai Commanders 1-2 a Londra, 9:30 ET. Patriots 1-2 dai Bills 3-0. Jets 1-2 dai Bears 2-1. Packers 1-2 dai Buccaneers 0-3. Titans 0-3 dai Ravens 2-1. Cowboys 1-2 dai Texans 0-3. Cardinals 1-2 dai Giants 2-1. Rams 1-2 dagli Eagles 2-1. Jaguars 2-1 dai Bengals 2-1. Dolphins 0-3 dai Vikings 3-0. Broncos 2-1 dai 49ers 3-0. Lunedì: Falcons 1-2 dai Saints 1-2.',
+        'Imbattute all’ingresso della domenica: Bills, Vikings e 49ers, tutte 3-0. Buccaneers 0-3, Falcons 1-2. Un risultato Buccaneers dai Falcons non è un finale della settimana 4. Nessun punteggio di domenica o lunedì è stampato.',
+      ],
+    },
+    pl: {
+      title: 'Browns 27, Steelers 24: jedyny finał tygodnia 4 na tej tablicy',
+      subtitle: 'ESPN i CBS drukują piątek. Niedziela 4 października, z Londynem, nie ma tu wyniku.',
+      excerpt: 'Cleveland pokonało Pittsburgh 27-24. Browns 3-1, Steelers 2-2. Żaden wynik niedzieli nie jest końcowy.',
+      body: [
+        'Tydzień 4 ma jeden wydrukowany finał: Cleveland Browns 27, Pittsburgh Steelers 24. ESPN datuje go na piątek 2 października. Kwarty CBS: Steelers 7, 3, 0, 14 i Browns 0, 21, 0, 6. Cleveland powstrzymało późny zryw. Browns 3-1, Steelers 2-2.',
+        'Niedziela 4 października nie miała finału na sprawdzonej tu tablicy CBS. Tam, gdzie CBS i ESPN się zgadzają: Colts 1-2 u Commanders 1-2 w Londynie, 9:30 ET. Patriots 1-2 u Bills 3-0. Jets 1-2 u Bears 2-1. Packers 1-2 u Buccaneers 0-3. Titans 0-3 u Ravens 2-1. Cowboys 1-2 u Texans 0-3. Cardinals 1-2 u Giants 2-1. Rams 1-2 u Eagles 2-1. Jaguars 2-1 u Bengals 2-1. Dolphins 0-3 u Vikings 3-0. Broncos 2-1 u 49ers 3-0. Poniedziałek: Falcons 1-2 u Saints 1-2.',
+        'Niepokonani na wejściu w niedzielę: Bills, Vikings i 49ers, wszyscy 3-0. Buccaneers 0-3, Falcons 1-2. Wynik Buccaneers u Falcons nie jest finałem tygodnia 4. Żaden wynik niedzieli ani poniedziałku nie jest wydrukowany.',
+      ],
+    },
+    zh: {
+      title: '布朗 27，钢人 24：这张桌上第 4 周唯一终场',
+      subtitle: 'ESPN 和 CBS 印的是周五。10 月 4 日周日，包括伦敦，这里还没有比分。',
+      excerpt: '克利夫兰 27-24 击败匹兹堡。布朗 3-1，钢人 2-2。周日比分都不是终场。',
+      body: [
+        '第 4 周只有一个印出的终场：克利夫兰布朗 27，匹兹堡钢人 24。ESPN 日期是 10 月 2 日周五。CBS 节次：钢人 7、3、0、14，布朗 0、21、0、6。布朗顶住了钢人的后段反扑。布朗 3-1，钢人 2-2。',
+        '10 月 4 日周日在这张核对过的 CBS 板上没有终场。CBS 与 ESPN 记录一致的场次：小马 1-2 客场指挥官 1-2，伦敦，美东 9:30。爱国者 1-2 客场比尔 3-0。喷气机 1-2 客场熊 2-1。包装工 1-2 客场海盗 0-3。泰坦 0-3 客场乌鸦 2-1。牛仔 1-2 客场德州人 0-3。红雀 1-2 客场巨人 2-1。公羊 1-2 客场老鹰 2-1。美洲虎 2-1 客场猛虎 2-1。海豚 0-3 客场维京人 3-0。野马 2-1 客场 49 人 3-0。周一：猎鹰 1-2 客场圣徒 1-2。',
+        '进入周日时不败的是比尔、维京人和 49 人，都是 3-0。海盗 0-3，猎鹰 1-2。海盗客场猎鹰的结果不是第 4 周终场。周日和周一的比分都不印。',
+      ],
+    },
+    ja: {
+      title: 'ブラウンズ 27、スティーラーズ 24：この机の第4週で唯一の最終',
+      subtitle: 'ESPNとCBSが載せるのは金曜。10月4日日曜はロンドンを含め、ここにはスコアがない。',
+      excerpt: 'クリーブランドがピッツバーグに27-24。ブラウンズは3-1、スティーラーズは2-2。日曜のスコアは最終ではない。',
+      body: [
+        '第4週で印刷された最終は一つ。クリーブランド・ブラウンズ27、ピッツバーグ・スティーラーズ24。ESPNは10月2日金曜と日付を付ける。CBSのクォーター：スティーラーズ7、3、0、14、ブラウンズ0、21、0、6。ブラウンズは終盤の追い上げを耐えた。ブラウンズ3-1、スティーラーズ2-2。',
+        '10月4日日曜は、ここで確認したCBSボードに最終がなかった。CBSとESPNの成績が一致するカード：コルツ1-2がコマンダーズ1-2へ、ロンドン、東部9:30。ペイトリオッツ1-2がビルズ3-0へ。ジェッツ1-2がベアーズ2-1へ。パッカーズ1-2がバッカニアーズ0-3へ。タイタンズ0-3がレイブンズ2-1へ。カウボーイズ1-2がテキサンズ0-3へ。カージナルス1-2がジャイアンツ2-1へ。ラムズ1-2がイーグルス2-1へ。ジャガーズ2-1がベンガルズ2-1へ。ドルフィンズ0-3がバイキングス3-0へ。ブロンコス2-1が49ers 3-0へ。月曜：ファルコンズ1-2がセインツ1-2へ。',
+        '日曜を迎えて無敗なのはビルズ、バイキングス、49ersで、いずれも3-0。バッカニアーズは0-3、ファルコンズは1-2。バッカニアーズ対ファルコンズの結果は第4週の最終ではない。日曜も月曜もスコアは載せない。',
+      ],
+    },
+    ko: {
+      title: '브라운스 27, 스틸러스 24: 이 데스크의 4주차 유일한 종료',
+      subtitle: 'ESPN과 CBS가 인쇄한 것은 금요일이다. 10월 4일 일요일, 런던 포함, 여기에는 점수가 없다.',
+      excerpt: '클리블랜드가 피츠버그를 27-24로 이겼다. 브라운스 3-1, 스틸러스 2-2. 일요일 점수는 종료가 아니다.',
+      body: [
+        '4주차에 인쇄된 종료는 하나다. 클리블랜드 브라운스 27, 피츠버그 스틸러스 24. ESPN은 10월 2일 금요일로 날짜를 적는다. CBS 쿼터: 스틸러스 7, 3, 0, 14, 브라운스 0, 21, 0, 6. 브라운스는 후반 추격을 버텼다. 브라운스 3-1, 스틸러스 2-2.',
+        '10월 4일 일요일은 여기서 확인한 CBS 보드에 종료가 없었다. CBS와 ESPN 성적이 맞는 경기: 콜츠 1-2가 커맨더스 1-2로, 런던, 동부 9:30. 패트리어츠 1-2가 빌스 3-0으로. 제츠 1-2가 베어스 2-1로. 패커스 1-2가 버커니어스 0-3으로. 타이탄스 0-3이 레이븐스 2-1로. 카우보이스 1-2가 텍산스 0-3으로. 카디널스 1-2가 자이언츠 2-1로. 램스 1-2가 이글스 2-1로. 재규어스 2-1이 벵갈스 2-1로. 돌핀스 0-3이 바이킹스 3-0으로. 브롱코스 2-1이 49ers 3-0으로. 월요일: 팰컨스 1-2가 세인츠 1-2로.',
+        '일요일을 맞는 무패는 빌스, 바이킹스, 49ers이고 모두 3-0이다. 버커니어스는 0-3, 팰컨스는 1-2. 버커니어스 대 팰컨스 결과는 4주차 종료가 아니다. 일요일과 월요일 점수는 싣지 않는다.',
+      ],
+    },
+    ar: {
+      title: 'براونز 27، ستيلرز 24: النهائي الوحيد للأسبوع 4 على هذه الطاولة',
+      subtitle: 'ESPN وCBS يطبعان الجمعة. الأحد 4 أكتوبر، بما فيه لندن، بلا نتيجة هنا.',
+      excerpt: 'كليفلاند فازت 27-24 على بيتسبرغ. براونز 3-1، ستيلرز 2-2. لا نتيجة أحد هي نهائية.',
+      body: [
+        'للأسبوع 4 نتيجة نهائية مطبوعة واحدة: كليفلاند براونز 27، بيتسبرغ ستيلرز 24. ESPN يؤرخها الجمعة 2 أكتوبر. أرباع CBS: ستيلرز 7 و3 و0 و14، وبراونز 0 و21 و0 و6. صمدت كليفلاند أمام هجمة متأخرة. براونز 3-1، ستيلرز 2-2.',
+        'الأحد 4 أكتوبر لم يكن له نهائي على لوحة CBS التي فُحصت هنا. حيث يتفق CBS وESPN: كولتس 1-2 عند كوماندرز 1-2 في لندن، 9:30. باتريوتس 1-2 عند بيلز 3-0. جتس 1-2 عند بيرز 2-1. باكرز 1-2 عند بوكانيرز 0-3. تايتنز 0-3 عند رافينز 2-1. كاوبويز 1-2 عند تيكسانز 0-3. كاردينالز 1-2 عند جاينتس 2-1. رامز 1-2 عند إيغلز 2-1. جاغوارز 2-1 عند بنغالز 2-1. دولفينز 0-3 عند فايكنغز 3-0. برونكوز 2-1 عند 49ers بنتيجة 3-0. الاثنين: فالكونز 1-2 عند سينتس 1-2.',
+        'غير المهزومين عند دخول الأحد: بيلز وفايكنغز و49ers، وكلهم 3-0. بوكانيرز 0-3، فالكونز 1-2. نتيجة بوكانيرز عند فالكونز ليست نهاية الأسبوع 4. لا نتيجة أحد أو اثنين مطبوعة هنا.',
+      ],
+    },
+  },
+  'alcaraz-tokyo-zverev-beijing-sinner-shanghai-2026': {
+    fr: {
+      title: 'Alcaraz qualifié à Tokyo, Zverev qualifié à Pékin, Sinner forfait à Shanghai',
+      subtitle: 'Samedi 3 octobre sur la tournée asiatique. Les quarts sont la suite. Aucun vainqueur du dimanche sur cette table.',
+      excerpt: 'Alcaraz a battu Arnaldi 7-6 (6), 6-1 à Tokyo après quatre balles de set. Zverev a battu Shang 6-0, 6-3 à Pékin. Sinner s’est retiré de Shanghai pour un genou.',
+      body: [
+        'La tournée asiatique ici, c’est le China Open, un ATP 500 à Pékin du 30 septembre au 6 octobre, et le Japan Open à Tokyo. Ce n’est pas un Masters de Shanghai terminé. Les quarts tombent le dimanche 4 octobre et cette page ne les imprime pas.',
+        'Huitièmes à Pékin, samedi 3 octobre : Zverev a battu Shang 6-0, 6-3. Medvedev a battu Struff 6-4, 6-3. De Minaur a battu Halys 3-6, 7-6 (5), 7-5. Cerundolo a battu Mensik 6-3, 6-3. Rublev a battu Safiullin 6-2, 3-6, 6-4. À Tokyo, Alcaraz a battu Arnaldi 7-6 (6), 6-1 après quatre balles de set, selon Field Level Media.',
+        'Jannik Sinner, numéro 1 mondial, s’est retiré du Masters de Shanghai à venir pour un genou droit persistant. Field Level Media l’a annoncé le samedi 3 octobre. Il n’a pas joué depuis la finale de Wimbledon. Pas de résultat de Shanghai ni de vainqueur du dimanche.',
+      ],
+    },
+    es: {
+      title: 'Alcaraz pasa en Tokio, Zverev pasa en Pekín, Sinner fuera de Shanghái',
+      subtitle: 'Sábado 3 de octubre en la gira asiática. Los cuartos son lo siguiente. Ningún ganador del domingo en esta mesa.',
+      excerpt: 'Alcaraz venció a Arnaldi 7-6 (6), 6-1 en Tokio tras salvar cuatro bolas de set. Zverev venció a Shang 6-0, 6-3 en Pekín. Sinner se retiró de Shanghái por una rodilla.',
+      body: [
+        'La gira asiática aquí es el China Open, un ATP 500 en Pekín del 30 de septiembre al 6 de octubre, y el Japan Open en Tokio. No es un Masters de Shanghái terminado. Los cuartos caen el domingo 4 de octubre y esta página no los imprime.',
+        'Octavos en Pekín, sábado 3 de octubre: Zverev venció a Shang 6-0, 6-3. Medvedev venció a Struff 6-4, 6-3. De Minaur venció a Halys 3-6, 7-6 (5), 7-5. Cerundolo venció a Mensik 6-3, 6-3. Rublev venció a Safiullin 6-2, 3-6, 6-4. En Tokio, Alcaraz venció a Arnaldi 7-6 (6), 6-1 tras cuatro bolas de set, según Field Level Media.',
+        'Jannik Sinner, número 1, se retiró del próximo Masters de Shanghái por una rodilla derecha persistente. Field Level Media lo anunció el sábado 3 de octubre. No juega desde la final de Wimbledon. No hay resultado de Shanghái ni ganador del domingo.',
+      ],
+    },
+    de: {
+      title: 'Alcaraz in Tokio weiter, Zverev in Peking weiter, Sinner fehlt in Shanghai',
+      subtitle: 'Samstag, 3. Oktober, auf dem Asien-Schwung. Die Viertelfinals sind als Nächstes. Kein Sonntagssieger auf dieser Tafel.',
+      excerpt: 'Alcaraz schlug Arnaldi 7-6 (6), 6-1 in Tokio nach vier geretteten Satzbällen. Zverev schlug Shang 6-0, 6-3 in Peking. Sinner sagte Shanghai wegen eines Knies ab.',
+      body: [
+        'Der Asien-Schwung hier ist die China Open, ein ATP 500 in Peking vom 30. September bis 6. Oktober, und die Japan Open in Tokio. Es ist kein beendetes Shanghai Masters. Die Viertelfinals fallen auf Sonntag, 4. Oktober, und diese Seite druckt sie nicht.',
+        'Achtelfinale Peking, Samstag 3. Oktober: Zverev schlug Shang 6-0, 6-3. Medvedev schlug Struff 6-4, 6-3. De Minaur schlug Halys 3-6, 7-6 (5), 7-5. Cerundolo schlug Mensik 6-3, 6-3. Rublev schlug Safiullin 6-2, 3-6, 6-4. In Tokio schlug Alcaraz Arnaldi 7-6 (6), 6-1 nach vier Satzbällen, laut Field Level Media.',
+        'Jannik Sinner, die Nummer 1, sagte das kommende Shanghai Masters wegen eines anhaltenden rechten Knies ab. Field Level Media meldete es am Samstag, 3. Oktober. Er hat seit dem Wimbledon-Finale nicht gespielt. Kein Shanghai-Ergebnis und kein Sonntagssieger.',
+      ],
+    },
+    it: {
+      title: 'Alcaraz avanti a Tokyo, Zverev avanti a Pechino, Sinner fuori da Shanghai',
+      subtitle: 'Sabato 3 ottobre sullo swing asiatico. I quarti sono i prossimi. Nessun vincitore di domenica su questa scrivania.',
+      excerpt: 'Alcaraz ha battuto Arnaldi 7-6 (6), 6-1 a Tokyo dopo quattro palle set salvate. Zverev ha battuto Shang 6-0, 6-3 a Pechino. Sinner si è ritirato da Shanghai per un ginocchio.',
+      body: [
+        'Lo swing asiatico qui è il China Open, un ATP 500 a Pechino dal 30 settembre al 6 ottobre, e il Japan Open a Tokyo. Non è uno Shanghai Masters finito. I quarti cadono domenica 4 ottobre e questa pagina non li stampa.',
+        'Ottavi a Pechino, sabato 3 ottobre: Zverev ha battuto Shang 6-0, 6-3. Medvedev ha battuto Struff 6-4, 6-3. De Minaur ha battuto Halys 3-6, 7-6 (5), 7-5. Cerundolo ha battuto Mensik 6-3, 6-3. Rublev ha battuto Safiullin 6-2, 3-6, 6-4. A Tokyo Alcaraz ha battuto Arnaldi 7-6 (6), 6-1 dopo quattro palle set, secondo Field Level Media.',
+        'Jannik Sinner, numero 1, si è ritirato dal prossimo Shanghai Masters per un ginocchio destro persistente. Field Level Media lo ha annunciato sabato 3 ottobre. Non gioca dalla finale di Wimbledon. Nessun risultato di Shanghai e nessun vincitore di domenica.',
+      ],
+    },
+    pl: {
+      title: 'Alcaraz przechodzi w Tokio, Zverev przechodzi w Pekinie, Sinner poza Szanghajem',
+      subtitle: 'Sobota 3 października na azjatyckim swingu. Ćwierćfinały są następne. Żadnego niedzielnego zwycięzcy na tej tablicy.',
+      excerpt: 'Alcaraz pokonał Arnaldiego 7-6 (6), 6-1 w Tokio po obronie czterech piłek setowych. Zverev pokonał Shanga 6-0, 6-3 w Pekinie. Sinner wycofał się z Szanghaju przez kolano.',
+      body: [
+        'Azjatycki swing tutaj to China Open, ATP 500 w Pekinie od 30 września do 6 października, i Japan Open w Tokio. To nie jest skończony Shanghai Masters. Ćwierćfinały przypadają na niedzielę 4 października i ta strona ich nie drukuje.',
+        '1/8 w Pekinie, sobota 3 października: Zverev pokonał Shanga 6-0, 6-3. Medvedev pokonał Struffa 6-4, 6-3. De Minaur pokonał Halysa 3-6, 7-6 (5), 7-5. Cerundolo pokonał Mensika 6-3, 6-3. Rublev pokonał Safiullina 6-2, 3-6, 6-4. W Tokio Alcaraz pokonał Arnaldiego 7-6 (6), 6-1 po czterech piłkach setowych, według Field Level Media.',
+        'Jannik Sinner, numer 1, wycofał się z nadchodzącego Shanghai Masters przez utrzymującą się prawą kolano. Field Level Media podało to w sobotę 3 października. Nie gra od finału Wimbledonu. Nie ma wyniku z Szanghaju ani niedzielnego zwycięzcy.',
+      ],
+    },
+    zh: {
+      title: '阿尔卡拉斯在东京过关，兹维列夫在北京过关，辛纳退出上海',
+      subtitle: '10 月 3 日星期六的亚洲赛季。四分之一决赛是下一站。这张桌子没有周日冠军。',
+      excerpt: '阿尔卡拉斯在东京救下四个盘末点后 7-6 (6)、6-1 击败阿纳尔迪。兹维列夫在北京 6-0、6-3 击败商竣程。辛纳因膝盖退出上海。',
+      body: [
+        '这里的亚洲赛季是中国公开赛，北京的 ATP 500，9 月 30 日到 10 月 6 日，以及东京的日本公开赛。这不是一场已经结束的上海大师赛。四分之一决赛在 10 月 4 日周日，这一页不印。',
+        '北京十六强，10 月 3 日星期六：兹维列夫 6-0、6-3 击败商竣程。梅德韦杰夫 6-4、6-3 击败施特鲁夫。德米纳尔 3-6、7-6 (5)、7-5 击败阿利斯。塞伦多洛 6-3、6-3 击败门西克。卢布列夫 6-2、3-6、6-4 击败萨菲乌林。东京：据 Field Level Media，阿尔卡拉斯在救下四个盘末点后 7-6 (6)、6-1 击败阿纳尔迪。',
+        '世界第一扬尼克·辛纳因持续的右膝退出即将到来的上海大师赛。Field Level Media 在 10 月 3 日星期六报道了退赛。他自温网决赛后再未上场。没有上海赛果，也没有周日冠军。',
+      ],
+    },
+    ja: {
+      title: 'アルカラスが東京で突破、ズベレフが北京で突破、シナーは上海を欠場',
+      subtitle: '10月3日土曜のアジア・スイング。次は準々決勝。この机に日曜の勝者はない。',
+      excerpt: 'アルカラスは東京で4本のセットポイントをしのいでアルナルディを7-6 (6)、6-1。ズベレフは北京でシャンを6-0、6-3。シナーは膝で上海を欠場。',
+      body: [
+        'ここでのアジア・スイングは、9月30日から10月6日の北京ATP500チャイナオープンと、東京のジャパンオープンだ。終わった上海マスターズではない。準々決勝は10月4日日曜で、このページはそれを載せない。',
+        '北京の16強、10月3日土曜：ズベレフがシャンを6-0、6-3。メドベージェフがシュトルフを6-4、6-3。デミナウがアリスを3-6、7-6 (5)、7-5。セルンドロがメンシックを6-3、6-3。ルブレフがサフィウリンを6-2、3-6、6-4。東京ではField Level Mediaによれば、アルカラスがセットポイントを4本しのいでアルナルディを7-6 (6)、6-1。',
+        '世界1位のヤニック・シナーは、長引く右膝で次の上海マスターズを欠場した。Field Level Mediaが10月3日土曜に報じた。ウィンブルドン決勝以来、試合に出ていない。上海の結果も日曜の勝者も載せない。',
+      ],
+    },
+    ko: {
+      title: '알카라스는 도쿄에서, 즈베레프는 베이징에서 통과, 시너는 상하이 결장',
+      subtitle: '10월 3일 토요일 아시아 스윙. 다음은 8강. 이 데스크에 일요일 우승자는 없다.',
+      excerpt: '알카라스는 도쿄에서 세트 포인트 네 개를 막아내고 아르날디를 7-6 (6), 6-1로 이겼다. 즈베레프는 베이징에서 샹을 6-0, 6-3. 시너는 무릎으로 상하이를 기권했다.',
+      body: [
+        '여기의 아시아 스윙은 9월 30일부터 10월 6일까지 베이징 ATP 500 차이나 오픈과 도쿄 재팬 오픈이다. 끝난 상하이 마스터스가 아니다. 8강은 10월 4일 일요일이고, 이 페이지는 그것을 싣지 않는다.',
+        '베이징 16강, 10월 3일 토요일: 즈베레프가 샹을 6-0, 6-3. 메드베데프가 스트루프를 6-4, 6-3. 드미나우르가 알리스를 3-6, 7-6 (5), 7-5. 세룬돌로가 멘시크를 6-3, 6-3. 루블료프가 사피울린을 6-2, 3-6, 6-4. 도쿄에서는 Field Level Media에 따르면 알카라스가 세트 포인트 네 개를 막아내고 아르날디를 7-6 (6), 6-1.',
+        '세계 1위 야닉 시너는 지속되는 오른쪽 무릎으로 다가오는 상하이 마스터스를 기권했다. Field Level Media가 10월 3일 토요일에 전했다. 윔블던 결승 이후 경기를 하지 않았다. 상하이 결과도, 일요일 우승자도 없다.',
+      ],
+    },
+    ar: {
+      title: 'ألكاراز يعبر في طوكيو، زفيريف يعبر في بكين، سينر خارج شنغهاي',
+      subtitle: 'السبت 3 أكتوبر في الجولة الآسيوية. ربع النهائي هو التالي. لا فائز للأحد على هذه الطاولة.',
+      excerpt: 'ألكاراز هزم أرنالدي 7-6 (6)، 6-1 في طوكيو بعد إنقاذ أربع كرات مجموعة. زفيريف هزم شانغ 6-0، 6-3 في بكين. سينر انسحب من شنغهاي بسبب الركبة.',
+      body: [
+        'الجولة الآسيوية هنا هي الصين المفتوحة، ATP 500 في بكين من 30 سبتمبر إلى 6 أكتوبر، واليابان المفتوحة في طوكيو. ليست بطولة شنغهاي للأساتذة منتهية. ربع النهائي يوم الأحد 4 أكتوبر وهذه الصفحة لا تطبعه.',
+        'دور الـ16 في بكين، السبت 3 أكتوبر: زفيريف هزم شانغ 6-0، 6-3. ميدفيديف هزم ستروف 6-4، 6-3. دي مينور هزم هاليس 3-6، 7-6 (5)، 7-5. سيروندولو هزم مينسيك 6-3، 6-3. روبليف هزم سافيولين 6-2، 3-6، 6-4. في طوكيو هزم ألكاراز أرنالدي 7-6 (6)، 6-1 بعد أربع كرات مجموعة، بحسب Field Level Media.',
+        'يانيك سينر، المصنف الأول، انسحب من شنغهاي المقبلة بسبب ركبة يمنى مستمرة. Field Level Media أعلنت ذلك السبت 3 أكتوبر. لم يلعب منذ نهائي ويمبلدون. لا نتيجة لشنغهاي ولا فائز للأحد.',
+      ],
+    },
+  },
+  'smotherman-leads-bank-of-utah-36-holes-2026': {
+    fr: {
+      title: 'Smotherman menait d’un coup au Bank of Utah après 36 trous',
+      subtitle: 'AP et PGA Tour vendredi à Black Desert : 63-62, -17. Le 3e tour du dimanche est en cours. Aucun vainqueur.',
+      excerpt: 'Austin Smotherman était à -17 après 36 trous à Ivins. Kevin Roy à un coup. Doug Ghim et Kevin Streelman à deux.',
+      body: [
+        'Le Bank of Utah Championship se joue à Black Desert Resort, Ivins. Le PGA Tour, avec le texte AP : un 62 le vendredi, 9 sous, qui égale un record personnel. Après 36 trous Smotherman menait d’un coup. Le 3e tour du dimanche était en cours au moment de cette édition. Aucun vainqueur n’est imprimé.',
+        'PGA Tour et AP, vendredi : Smotherman 63-62 pour 125, -17, 10 birdies, à son 100e départ sur le PGA Tour. Il cherche encore une première victoire. Kevin Roy 63-63 pour 126, sans bogey en deux jours. Ghim et Streelman à 127. Le tableau en direct du dimanche montrait le 3e tour en cours et ne listait pas de champion.',
+        'Le dernier tour complet laisse Smotherman un coup devant. Un chiffre du dimanche qui bouge n’est pas un résultat.',
+      ],
+    },
+    es: {
+      title: 'Smotherman mandaba por uno en el Bank of Utah tras 36 hoyos',
+      subtitle: 'AP y PGA Tour el viernes en Black Desert: 63-62, 17 bajo par. La ronda 3 del domingo está en juego. Sin ganador.',
+      excerpt: 'Austin Smotherman estaba a 17 bajo par tras 36 hoyos en Ivins. Kevin Roy a uno. Doug Ghim y Kevin Streelman a dos.',
+      body: [
+        'El Bank of Utah Championship se juega en Black Desert Resort, Ivins. El PGA Tour, con el texto de AP: un 62 el viernes, 9 bajo par, que iguala un mínimo personal. Tras 36 hoyos Smotherman mandaba por uno. La ronda 3 del domingo estaba en juego cuando se cerró esta mesa. No se imprime un ganador.',
+        'PGA Tour y AP, viernes: Smotherman 63-62 para 125, 17 bajo par, 10 birdies, en su salida número 100 del PGA Tour. Sigue buscando una primera victoria. Kevin Roy 63-63 para 126, sin bogey en dos días. Ghim y Streelman en 127. El tablero en vivo del domingo mostraba la ronda 3 en juego y no listaba un campeón.',
+        'La última ronda completa deja a Smotherman un golpe por delante. Un número del domingo que se mueve no es un resultado.',
+      ],
+    },
+    de: {
+      title: 'Smotherman führte die Bank of Utah nach 36 Löchern um einen Schlag',
+      subtitle: 'AP und PGA Tour am Freitag in Black Desert: 63-62, 17 unter. Runde 3 am Sonntag läuft. Kein Sieger.',
+      excerpt: 'Austin Smotherman stand nach 36 Löchern in Ivins bei 17 unter. Kevin Roy einen Schlag zurück. Doug Ghim und Kevin Streelman zwei zurück.',
+      body: [
+        'Die Bank of Utah Championship liegt im Black Desert Resort, Ivins. Die PGA Tour, mit dem AP-Text: eine Freitags-62, 9 unter, die ein Karrieretief egalisiert. Nach 36 Löchern führte Smotherman um einen Schlag. Runde 3 am Sonntag lief, als diese Tafel geschlossen wurde. Kein Sieger ist gedruckt.',
+        'PGA Tour und AP, Freitag: Smotherman 63-62 für 125, 17 unter, 10 Birdies, bei seinem 100. PGA-Tour-Start. Er sucht noch einen ersten Sieg. Kevin Roy 63-63 für 126, zwei Tage ohne Bogey. Ghim und Streelman auf 127. Die Live-Tafel am Sonntag zeigte Runde 3 im Gang und keinen Champion.',
+        'Die letzte volle Runde lässt Smotherman einen Schlag vorn. Eine sich bewegende Sonntagszahl ist kein Ergebnis.',
+      ],
+    },
+    it: {
+      title: 'Smotherman comandava di uno al Bank of Utah dopo 36 buche',
+      subtitle: 'AP e PGA Tour venerdì a Black Desert: 63-62, 17 sotto. Il 3° giro di domenica è in corso. Nessun vincitore.',
+      excerpt: 'Austin Smotherman era a 17 sotto dopo 36 buche a Ivins. Kevin Roy a uno. Doug Ghim e Kevin Streelman a due.',
+      body: [
+        'Il Bank of Utah Championship si gioca al Black Desert Resort, Ivins. Il PGA Tour, con il testo AP: un 62 di venerdì, 9 sotto, che eguaglia un minimo in carriera. Dopo 36 buche Smotherman comandava di uno. Il 3° giro di domenica era in corso quando questa scrivania è stata chiusa. Nessun vincitore è stampato.',
+        'PGA Tour e AP, venerdì: Smotherman 63-62 per 125, 17 sotto, 10 birdie, alla sua 100ª partenza in PGA Tour. Cerca ancora una prima vittoria. Kevin Roy 63-63 per 126, senza bogey in due giorni. Ghim e Streelman a 127. Il tabellone live di domenica mostrava il 3° giro in corso e non elencava un campione.',
+        'L’ultimo giro completo lascia Smotherman un colpo avanti. Un numero di domenica che si muove non è un risultato.',
+      ],
+    },
+    pl: {
+      title: 'Smotherman prowadził o jeden na Bank of Utah po 36 dołkach',
+      subtitle: 'AP i PGA Tour w piątek w Black Desert: 63-62, 17 poniżej. Niedzielna runda 3 trwa. Brak zwycięzcy.',
+      excerpt: 'Austin Smotherman był 17 poniżej po 36 dołkach w Ivins. Kevin Roy o jeden z tyłu. Doug Ghim i Kevin Streelman o dwa.',
+      body: [
+        'Bank of Utah Championship gra się w Black Desert Resort w Ivins. PGA Tour, z tekstem AP: piątkowe 62, 9 poniżej, wyrównanie minimum kariery. Po 36 dołkach Smotherman prowadził o jeden. Niedzielna runda 3 trwała, gdy zamykano tę redakcję. Zwycięzca nie jest wydrukowany.',
+        'PGA Tour i AP, piątek: Smotherman 63-62 na 125, 17 poniżej, 10 birdie, w swoim 100. starcie na PGA Tour. Wciąż szuka pierwszego zwycięstwa. Kevin Roy 63-63 na 126, bez bogeya przez dwa dni. Ghim i Streelman na 127. Niedzielna tablica na żywo pokazywała rundę 3 w toku i nie wymieniała mistrza.',
+        'Ostatnia pełna runda zostawia Smothermana o jeden strzał z przodu. Ruchoma liczba z niedzieli nie jest wynikiem.',
+      ],
+    },
+    zh: {
+      title: '斯莫瑟曼在犹他银行锦标赛 36 洞后领先一杆',
+      subtitle: '美联社与 PGA Tour，周五黑沙漠：63-62，低于标准杆 17 杆。周日第三轮进行中。没有冠军。',
+      excerpt: '奥斯汀·斯莫瑟曼在艾文斯 36 洞后低于标准杆 17 杆。凯文·罗伊落后一杆。道格·吉姆和凯文·斯特里尔曼落后两杆。',
+      body: [
+        '犹他银行锦标赛在艾文斯的黑沙漠度假村。PGA Tour 引用美联社：周五一轮 62 杆，低于标准杆 9 杆，追平个人最低。36 洞后斯莫瑟曼领先一杆。这张桌子截稿时，周日第三轮正在进行。不印冠军。',
+        'PGA Tour 与美联社，周五：斯莫瑟曼 63-62，总杆 125，低于标准杆 17 杆，10 只小鸟，这是他第 100 场 PGA Tour。他仍在找第一场胜利。凯文·罗伊 63-63，总杆 126，两天没有柏忌。吉姆和斯特里尔曼 127。周日直播榜显示第三轮进行中，没有列出冠军。',
+        '最后一轮完成的成绩仍是斯莫瑟曼领先一杆。一个还在变的周日数字不是结果。',
+      ],
+    },
+    ja: {
+      title: 'スモザーマンがバンク・オブ・ユタを36ホール後に1打リード',
+      subtitle: 'APとPGAツアー、金曜のブラックデザート：63-62、17アンダー。日曜の第3ラウンドは進行中。優勝者はいない。',
+      excerpt: 'オースティン・スモザーマンはアイビンズで36ホール後17アンダー。ケビン・ロイが1打差。ダグ・ギムとケビン・ストリールマンが2打差。',
+      body: [
+        'バンク・オブ・ユタ選手権はアイビンズのブラックデザート・リゾート。PGAツアーが伝えるAP：金曜の62は9アンダーで、自己ベストに並んだ。36ホール後、スモザーマンが1打リード。この机を閉じたとき、日曜の第3ラウンドは進行中だった。優勝者は載せない。',
+        'PGAツアーとAP、金曜：スモザーマンは63-62で125、17アンダー、バーディ10、PGAツアー100戦目。まだ初勝利を探している。ケビン・ロイは63-63で126、2日間ボギーなし。ギムとストリールマンは127。日曜のライブボードは第3ラウンド進行中で、チャンピオンを載せていなかった。',
+        '最後に完了したラウンドではスモザーマンが1打リード。動いている日曜の数字は結果ではない。',
+      ],
+    },
+    ko: {
+      title: '스모더먼이 뱅크 오브 유타 36홀 후 1타 선두였다',
+      subtitle: 'AP와 PGA 투어, 금요일 블랙 데저트: 63-62, 17언더. 일요일 3라운드는 진행 중. 우승자는 없다.',
+      excerpt: '오스틴 스모더먼은 아이빈스에서 36홀 후 17언더였다. 케빈 로이가 1타 뒤. 더그 김과 케빈 스트릴먼이 2타 뒤.',
+      body: [
+        '뱅크 오브 유타 챔피언십은 아이빈스의 블랙 데저트 리조트에서 열린다. PGA 투어가 전한 AP: 금요일 62타는 9언더로 개인 최저와 같다. 36홀 후 스모더먼이 1타 앞섰다. 이 데스크를 닫을 때 일요일 3라운드는 진행 중이었다. 우승자는 싣지 않는다.',
+        'PGA 투어와 AP, 금요일: 스모더먼 63-62, 합계 125, 17언더, 버디 10개, PGA 투어 100번째 출전. 아직 첫 승을 찾고 있다. 케빈 로이 63-63, 합계 126, 이틀 동안 보기 없음. 김과 스트릴먼은 127. 일요일 라이브 보드는 3라운드 진행 중이었고 챔피언을 올리지 않았다.',
+        '마지막으로 끝난 라운드에서는 스모더먼이 1타 앞선다. 움직이는 일요일 숫자는 결과가 아니다.',
+      ],
+    },
+    ar: {
+      title: 'سموثرمان كان متقدماً بضربة في بنك يوتا بعد 36 حفرة',
+      subtitle: 'AP وPGA Tour يوم الجمعة في بلاك ديزرت: 63-62، 17 تحت. الجولة 3 يوم الأحد جارية. لا فائز.',
+      excerpt: 'أوستن سموثرمان كان عند 17 تحت بعد 36 حفرة في آيفينس. كيفن روي بفارق ضربة. دوغ غيم وكيفن ستريلمان بفارق ضربتين.',
+      body: [
+        'بطولة بنك يوتا تقام في منتجع بلاك ديزرت في آيفينس. PGA Tour مع نص AP: جولة جمعة 62، 9 تحت، تعادل أدنى رقم في مسيرته. بعد 36 حفرة كان سموثرمان متقدماً بضربة. كانت الجولة 3 يوم الأحد جارية حين أُغلقت هذه الطاولة. لا فائز مطبوع.',
+        'PGA Tour وAP، الجمعة: سموثرمان 63-62 بمجموع 125، 17 تحت، 10 بيردي، في انطلاقته رقم 100 على الجولة. ما زال يبحث عن أول فوز. كيفن روي 63-63 بمجموع 126 بلا بوجي في يومين. غيم وستريلمان على 127. لوحة الأحد المباشرة أظهرت الجولة 3 جارية ولم تدرج بطلاً.',
+        'آخر جولة مكتملة تُبقي سموثرمان متقدماً بضربة. رقم أحد يتحرك ليس نتيجة.',
+      ],
+    },
+  },
+  'verstappen-pole-bahrain-gp-malaysia-2026': {
+    fr: {
+      title: 'Verstappen en pole pour le Grand Prix de Bahreïn à Sepang',
+      subtitle: '1:35.130 samedi 3 octobre. Hamilton à 0,298 s. La course du dimanche n’est pas dans le livre.',
+      excerpt: 'La première pole 2026 de Max Verstappen le met en première ligne avec Lewis Hamilton. Kimi Antonelli mène encore le championnat avec 302 points. Aucun vainqueur de course.',
+      body: [
+        'Ce week-end est le Grand Prix de Bahreïn couru à Sepang, en Malaisie, du 2 au 4 octobre 2026. Ce n’est pas Austin et ce n’est pas un Grand Prix de Singapour terminé. Singapour est du 9 au 11 octobre. La course est dimanche 4 octobre à 15 h locales, 07 h UTC. ESPN listait encore la course comme prochaine session, sans classement. Aucun vainqueur n’est imprimé.',
+        'Qualifs samedi 3 octobre : Max Verstappen, Red Bull, 1:35.130, première pole de 2026 et 49e de sa carrière. Lewis Hamilton, Ferrari, 1:35.428, à 0,298 s. Isack Hadjar, Red Bull, 1:35.558, puis une pénalité de cinq places pour un septième moteur, ce qui le fait partir 8e. La première ligne est Verstappen et Hamilton. Antonelli était 4e en 1:35.631 et part 3e. Leclerc était 5e en 1:35.666 et part 4e. Verstappen a mené Q1, Q2 et Q3.',
+        'Championnat avant cette course, après Bakou : Antonelli 302, Russell 236, Hamilton 199, Norris 186, Leclerc 179, Verstappen 163. Constructeurs : Mercedes 538, Ferrari 378, McLaren 306, Red Bull 263. Dernière course terminée : Azerbaïdjan, George Russell vainqueur. Sky : Verstappen 2e à 0,196 s, Hadjar 3e à 10,704 s. L’avance d’Antonelli est de 66 points. La course de Sepang n’est pas dans le livre.',
+      ],
+    },
+    es: {
+      title: 'Verstappen en la pole del Gran Premio de Baréin en Sepang',
+      subtitle: '1:35.130 el sábado 3 de octubre. Hamilton a 0,298 s. La carrera del domingo no está en el libro.',
+      excerpt: 'La primera pole de 2026 de Max Verstappen lo pone en primera fila con Lewis Hamilton. Kimi Antonelli sigue liderando el campeonato con 302 puntos. No hay ganador de la carrera.',
+      body: [
+        'Este fin de semana es el Gran Premio de Baréin disputado en Sepang, Malasia, del 2 al 4 de octubre de 2026. No es Austin y no es un Gran Premio de Singapur terminado. Singapur es del 9 al 11 de octubre. La carrera es el domingo 4 de octubre a las 15:00 local, 07:00 UTC. ESPN aún listaba la carrera como la siguiente sesión, sin clasificación. No se imprime un ganador.',
+        'Clasificación el sábado 3 de octubre: Max Verstappen, Red Bull, 1:35.130, primera pole de 2026 y 49ª de su carrera. Lewis Hamilton, Ferrari, 1:35.428, a 0,298 s. Isack Hadjar, Red Bull, 1:35.558, y una penalización de cinco puestos por un séptimo motor, que lo baja al octavo. La primera fila es Verstappen y Hamilton. Antonelli fue cuarto en 1:35.631 y sale tercero. Leclerc fue quinto en 1:35.666 y sale cuarto. Verstappen lideró Q1, Q2 y Q3.',
+        'Campeonato antes de esta carrera, tras Bakú: Antonelli 302, Russell 236, Hamilton 199, Norris 186, Leclerc 179, Verstappen 163. Constructores: Mercedes 538, Ferrari 378, McLaren 306, Red Bull 263. Última carrera completada: Azerbaiyán, ganó George Russell. Sky: Verstappen segundo a 0,196 s, Hadjar tercero a 10,704 s. La ventaja de Antonelli es de 66 puntos. La carrera de Sepang no está en el libro.',
+      ],
+    },
+    de: {
+      title: 'Verstappen in Pole für den Bahrain-Grand-Prix in Sepang',
+      subtitle: '1:35.130 am Samstag, 3. Oktober. Hamilton 0,298 s zurück. Das Rennen am Sonntag steht nicht im Buch.',
+      excerpt: 'Max Verstappens erste Pole 2026 stellt ihn in die erste Reihe neben Lewis Hamilton. Kimi Antonelli führt die WM weiter mit 302 Punkten. Kein Rennsieger.',
+      body: [
+        'Dieses Wochenende ist der Bahrain-Grand-Prix in Sepang, Malaysia, 2. bis 4. Oktober 2026. Es ist nicht Austin und kein beendeter Singapur-Grand-Prix. Singapur ist 9. bis 11. Oktober. Das Rennen ist Sonntag, 4. Oktober, 15:00 Uhr Ortszeit, 07:00 UTC. ESPN führte das Rennen noch als nächste Session, ohne Wertung. Kein Sieger ist gedruckt.',
+        'Qualifying Samstag, 3. Oktober: Max Verstappen, Red Bull, 1:35.130, erste Pole 2026 und die 49. seiner Karriere. Lewis Hamilton, Ferrari, 1:35.428, 0,298 s zurück. Isack Hadjar, Red Bull, 1:35.558, dann fünf Plätze Strafe für ein siebtes Aggregat, Start von Platz 8. Erste Reihe: Verstappen und Hamilton. Antonelli war Vierter in 1:35.631 und startet Dritter. Leclerc war Fünfter in 1:35.666 und startet Vierter. Verstappen führte Q1, Q2 und Q3.',
+        'WM vor diesem Rennen, nach Baku: Antonelli 302, Russell 236, Hamilton 199, Norris 186, Leclerc 179, Verstappen 163. Konstrukteure: Mercedes 538, Ferrari 378, McLaren 306, Red Bull 263. Letztes beendetes Rennen: Aserbaidschan, Sieger George Russell. Sky: Verstappen Zweiter, 0,196 s zurück, Hadjar Dritter, 10,704 s zurück. Antonellis Vorsprung beträgt 66 Punkte. Das Rennen in Sepang steht nicht im Buch.',
+      ],
+    },
+    it: {
+      title: 'Verstappen in pole per il Gran Premio del Bahrein a Sepang',
+      subtitle: '1:35.130 sabato 3 ottobre. Hamilton a 0,298 s. La gara di domenica non è nel libro.',
+      excerpt: 'La prima pole 2026 di Max Verstappen lo mette in prima fila con Lewis Hamilton. Kimi Antonelli guida ancora il campionato con 302 punti. Nessun vincitore di gara.',
+      body: [
+        'Questo fine settimana è il Gran Premio del Bahrein corso a Sepang, in Malesia, dal 2 al 4 ottobre 2026. Non è Austin e non è un Gran Premio di Singapore finito. Singapore è dal 9 all’11 ottobre. La gara è domenica 4 ottobre alle 15:00 locali, 07:00 UTC. ESPN elencava ancora la gara come sessione successiva, senza classifica. Nessun vincitore è stampato.',
+        'Qualifiche sabato 3 ottobre: Max Verstappen, Red Bull, 1:35.130, prima pole del 2026 e 49ª in carriera. Lewis Hamilton, Ferrari, 1:35.428, a 0,298 s. Isack Hadjar, Red Bull, 1:35.558, poi una penalità di cinque posizioni per un settimo motore, che lo fa partire ottavo. Prima fila: Verstappen e Hamilton. Antonelli è stato quarto in 1:35.631 e parte terzo. Leclerc è stato quinto in 1:35.666 e parte quarto. Verstappen ha guidato Q1, Q2 e Q3.',
+        'Campionato prima di questa gara, dopo Baku: Antonelli 302, Russell 236, Hamilton 199, Norris 186, Leclerc 179, Verstappen 163. Costruttori: Mercedes 538, Ferrari 378, McLaren 306, Red Bull 263. Ultima gara completata: Azerbaijan, vincitore George Russell. Sky: Verstappen secondo a 0,196 s, Hadjar terzo a 10,704 s. Il vantaggio di Antonelli è di 66 punti. La gara di Sepang non è nel libro.',
+      ],
+    },
+    pl: {
+      title: 'Verstappen na pole w Grand Prix Bahrajnu w Sepang',
+      subtitle: '1:35.130 w sobotę 3 października. Hamilton 0,298 s z tyłu. Niedzielny wyścig nie jest w księdze.',
+      excerpt: 'Pierwsze pole 2026 Maxa Verstappena stawia go w pierwszym rzędzie z Lewisem Hamiltonem. Kimi Antonelli wciąż prowadzi mistrzostwa z 302 punktami. Nie ma zwycięzcy wyścigu.',
+      body: [
+        'Ten weekend to Grand Prix Bahrajnu na Sepang w Malezji, 2 do 4 października 2026. To nie jest Austin i nie jest skończone Grand Prix Singapuru. Singapur jest 9 do 11 października. Wyścig jest w niedzielę 4 października o 15:00 czasu lokalnego, 07:00 UTC. ESPN wciąż wymieniał wyścig jako następną sesję, bez klasyfikacji. Zwycięzca nie jest wydrukowany.',
+        'Kwalifikacje w sobotę 3 października: Max Verstappen, Red Bull, 1:35.130, pierwsze pole 2026 i 49. w karierze. Lewis Hamilton, Ferrari, 1:35.428, 0,298 s z tyłu. Isack Hadjar, Red Bull, 1:35.558, potem kara pięciu miejsc za siódmy silnik, start z 8. miejsca. Pierwszy rząd: Verstappen i Hamilton. Antonelli był czwarty w 1:35.631 i startuje trzeci. Leclerc był piąty w 1:35.666 i startuje czwarty. Verstappen prowadził Q1, Q2 i Q3.',
+        'Mistrzostwa przed tym wyścigiem, po Baku: Antonelli 302, Russell 236, Hamilton 199, Norris 186, Leclerc 179, Verstappen 163. Konstruktorzy: Mercedes 538, Ferrari 378, McLaren 306, Red Bull 263. Ostatni ukończony wyścig: Azerbejdżan, wygrał George Russell. Sky: Verstappen drugi, 0,196 s, Hadjar trzeci, 10,704 s. Prowadzenie Antonellego to 66 punktów. Wyścig w Sepang nie jest w księdze.',
+      ],
+    },
+    zh: {
+      title: '维斯塔潘拿下雪邦巴林大奖赛杆位',
+      subtitle: '10 月 3 日星期六 1:35.130。汉密尔顿慢 0.298 秒。周日正赛不在账上。',
+      excerpt: '维斯塔潘 2026 年的第一个杆位让他和刘易斯·汉密尔顿并排头排。基米·安东内利仍以 302 分领跑车手榜。没有正赛冠军。',
+      body: [
+        '这个周末是在马来西亚雪邦举行的巴林大奖赛，2026 年 10 月 2 日到 4 日。不是奥斯汀，也不是一场已经结束的新加坡大奖赛。新加坡是 10 月 9 日到 11 日。正赛是 10 月 4 日周日当地 15:00，协调世界时 07:00。ESPN 截稿时仍把正赛列为下一节，没有名次。不印冠军。',
+        '10 月 3 日星期六排位：红牛维斯塔潘 1:35.130，2026 年第一个杆位，职业生涯第 49 个。法拉利汉密尔顿 1:35.428，慢 0.298 秒。红牛哈贾尔 1:35.558，随后因第七台发动机被罚五位，落到第八位发车。头排是维斯塔潘和汉密尔顿。安东内利第四，1:35.631，第三位发车。勒克莱尔第五，1:35.666，第四位发车。维斯塔潘领跑 Q1、Q2 和 Q3。',
+        '本场之前、巴库之后的积分榜：安东内利 302，拉塞尔 236，汉密尔顿 199，诺里斯 186，勒克莱尔 179，维斯塔潘 163。车队：梅赛德斯 538，法拉利 378，迈凯伦 306，红牛 263。上一场完赛是阿塞拜疆，乔治·拉塞尔获胜。天空体育：维斯塔潘第二，慢 0.196 秒，哈贾尔第三，慢 10.704 秒。安东内利领先 66 分。雪邦正赛不在账上。',
+      ],
+    },
+    ja: {
+      title: 'フェルスタッペンがセパンのバーレーンGPでポール',
+      subtitle: '10月3日土曜、1:35.130。ハミルトンは0.298秒差。日曜の決勝は帳簿にない。',
+      excerpt: 'マックス・フェルスタッペンの2026年初ポールが、ルイス・ハミルトンとフロントローを分ける。キミ・アントネッリはなお302点で選手権首位。レースの勝者はいない。',
+      body: [
+        '今週末はマレーシアのセパンで行われるバーレーンGP、2026年10月2日から4日。オースティンではないし、終わったシンガポールGPでもない。シンガポールは10月9日から11日。決勝は10月4日日曜、現地15:00、協定世界時07:00。ESPNは締め切り時点で決勝を次のセッションとして載せ、順位はなかった。勝者は載せない。',
+        '10月3日土曜の予選：レッドブルのフェルスタッペンが1:35.130。2026年初ポールで、通算49回目。フェラーリのハミルトンが1:35.428、0.298秒差。レッドブルのハジャーが1:35.558、その後7基目のエンジンで5グリッド降格し8番手スタート。フロントローはフェルスタッペンとハミルトン。アントネッリは4位の1:35.631で3番手スタート。ルクレールは5位の1:35.666で4番手スタート。フェルスタッペンはQ1、Q2、Q3を全て首位。',
+        'このレース前、バクー後の選手権：アントネッリ302、ラッセル236、ハミルトン199、ノリス186、ルクレール179、フェルスタッペン163。コンストラクター：メルセデス538、フェラーリ378、マクラーレン306、レッドブル263。最後に終わったレースはアゼルバイジャンで、ジョージ・ラッセルが勝った。Sky：フェルスタッペン2位、0.196秒差、ハジャー3位、10.704秒差。アントネッリのリードは66点。セパンの決勝は帳簿にない。',
+      ],
+    },
+    ko: {
+      title: '페르스타펜이 세팡 바레인 그랑프리 폴포지션',
+      subtitle: '10월 3일 토요일 1:35.130. 해밀턴은 0.298초 뒤. 일요일 레이스는 장부에 없다.',
+      excerpt: '막스 페르스타펜의 2026년 첫 폴이 루이스 해밀턴과 프론트 로우를 나눈다. 키미 안토넬리는 아직 302점으로 챔피언십 선두. 레이스 우승자는 없다.',
+      body: [
+        '이번 주말은 말레이시아 세팡에서 열리는 바레인 그랑프리, 2026년 10월 2일부터 4일. 오스틴이 아니고, 끝난 싱가포르 그랑프리도 아니다. 싱가포르는 10월 9일부터 11일. 레이스는 10월 4일 일요일 현지 15:00, 협정 세계시 07:00. ESPN은 마감 때 레이스를 다음 세션으로 올렸고 순위는 없었다. 우승자는 싣지 않는다.',
+        '10월 3일 토요일 예선: 레드불 페르스타펜 1:35.130, 2026년 첫 폴이자 통산 49번째. 페라리 해밀턴 1:35.428, 0.298초 뒤. 레드불 하자르 1:35.558, 이후 일곱 번째 엔진으로 5그리드 페널티, 8번째 출발. 프론트 로우는 페르스타펜과 해밀턴. 안토넬리는 4위 1:35.631로 3번째 출발. 르클레르는 5위 1:35.666으로 4번째 출발. 페르스타펜이 Q1, Q2, Q3를 모두 이끌었다.',
+        '이 레이스 전, 바쿠 이후 챔피언십: 안토넬리 302, 러셀 236, 해밀턴 199, 노리스 186, 르클레르 179, 페르스타펜 163. 컨스트럭터: 메르세데스 538, 페라리 378, 맥라렌 306, 레드불 263. 마지막으로 끝난 레이스는 아제르바이잔이고 조지 러셀이 이겼다. Sky: 페르스타펜 2위, 0.196초, 하자르 3위, 10.704초. 안토넬리의 리드는 66점. 세팡 레이스는 장부에 없다.',
+      ],
+    },
+    ar: {
+      title: 'فيرستابن على قطب جائزة البحرين في سيبانغ',
+      subtitle: '1:35.130 السبت 3 أكتوبر. هاميلتون بفارق 0.298 ث. سباق الأحد ليس في الدفتر.',
+      excerpt: 'أول قطب لفيرستابن في 2026 يضعه في الصف الأول مع لويس هاميلتون. كيمي أنطونيلي ما زال يتصدر البطولة بـ302 نقطة. لا فائز للسباق.',
+      body: [
+        'هذه العطلة هي جائزة البحرين المقامة في سيبانغ بماليزيا، من 2 إلى 4 أكتوبر 2026. ليست أوستن وليست جائزة سنغافورة منتهية. سنغافورة من 9 إلى 11 أكتوبر. السباق الأحد 4 أكتوبر الساعة 15:00 بالتوقيت المحلي، 07:00 بالتوقيت العالمي. ESPN كانت ما زالت تدرج السباق كالجلسة التالية بلا ترتيب. لا فائز مطبوع.',
+        'التصفيات السبت 3 أكتوبر: ماكس فيرستابن، ريد بول، 1:35.130، أول قطب في 2026 والـ49 في مسيرته. لويس هاميلتون، فيراري، 1:35.428، بفارق 0.298 ث. إيساك حجار، ريد بول، 1:35.558، ثم عقوبة خمسة مراكز لمحرك سابع تنزله إلى المركز الثامن. الصف الأول فيرستابن وهاميلتون. أنطونيلي كان رابعاً بـ1:35.631 وينطلق ثالثاً. لوكلير كان خامساً بـ1:35.666 وينطلق رابعاً. فيرستابن تصدر Q1 وQ2 وQ3.',
+        'البطولة قبل هذا السباق، بعد باكو: أنطونيلي 302، راسل 236، هاميلتون 199، نوريس 186، لوكلير 179، فيرستابن 163. الصانعون: مرسيدس 538، فيراري 378، مكلارين 306، ريد بول 263. آخر سباق مكتمل: أذربيجان، فاز جورج راسل. سكاي: فيرستابن ثانياً بفارق 0.196 ث، حجار ثالثاً بفارق 10.704 ث. تقدم أنطونيلي 66 نقطة. سباق سيبانغ ليس في الدفتر.',
+      ],
+    },
+  },
 };
 
 

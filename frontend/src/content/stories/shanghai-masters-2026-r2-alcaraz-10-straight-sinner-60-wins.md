@@ -5,7 +5,7 @@ category: "Desk"
 excerpt: "Carlos Alcaraz and Jannik Sinner showed zero signs of a Beijing hangover on Wednesday, storming through their opening matches at the Rolex Shanghai Masters in dominant fashion."
 image: "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1200&q=80"
 readingTime: 4
-pubDate: 2026-10-07
+pubDate: 2026-10-03
 sport: tennis
 competition: atp-masters-1000-shanghai
 relatedSlug: shanghai-masters-r2-alcaraz-sinner-djokovic-2026
@@ -17,6 +17,8 @@ sources:
   - name: "The Athletic: Alcaraz and Sinner maintain torrid Asian swing form"
     url: "https://www.nytimes.com/athletic/tennis/shanghai-masters-alcaraz-sinner-openers"
 ---
+
+Desk correction, 4 October 2026: this piece was filed ahead of the calendar. Do not treat any score in it as a result. The sourced desk for 4 October 2026 is the new set of Why Care stories.
 
 ## Why this match matters
 

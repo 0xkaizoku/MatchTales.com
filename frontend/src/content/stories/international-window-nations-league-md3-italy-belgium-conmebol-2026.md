@@ -5,7 +5,7 @@ category: "Desk"
 excerpt: "With European leagues on break, the international window delivers high-stakes drama: Italy battles Belgium in Nations League Group A2, while Lionel Messi returns and Brazil fights for qualifying survival."
 image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&q=80"
 readingTime: 4
-pubDate: 2026-10-07
+pubDate: 2026-10-03
 sport: soccer
 competition: uefa-nations-league-2026
 relatedSlug: uefa-nations-league-md3-italy-belgium-preview-2026
@@ -17,6 +17,8 @@ sources:
   - name: "BBC Sport: Belgium prepare for Rome test without De Bruyne"
     url: "https://www.bbc.com/sport/football/articles/nations-league-italy-belgium-2026"
 ---
+
+Desk correction, 4 October 2026: this piece was filed ahead of the calendar. Do not treat any score in it as a result. The sourced desk for 4 October 2026 is the new set of Why Care stories.
 
 ## Why this international window matters
 
