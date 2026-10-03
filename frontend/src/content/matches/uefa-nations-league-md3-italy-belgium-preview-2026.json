@@ -1,0 +1,79 @@
+{
+  "funFacts": [
+    "Italy sit top of UEFA Nations League Group A2 with maximum points following away victories over France (3-1) and Israel (2-1).",
+    "Belgium manager Domenico Tedesco must navigate this international window without talisman Kevin De Bruyne and record goalscorer Romelu Lukaku.",
+    "Lionel Messi returns to international duty for Argentina against Venezuela after missing the September qualifying window due to an ankle injury."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Davide Frattesi",
+      "team": "Italy",
+      "hook": "Scored in both Nations League openers in September and has emerged as Luciano Spalletti's most lethal midfield runner."
+    },
+    {
+      "name": "Jeremy Doku",
+      "team": "Belgium",
+      "hook": "The Manchester City winger carries the primary creative burden for the Red Devils at the Stadio Olimpico in the absence of De Bruyne."
+    }
+  ],
+  "headToHead": "Italy defeated Belgium 2-1 in the Euro 2020 quarterfinals and 2-1 in the 2021 Nations League third-place playoff.",
+  "tags": [
+    "nations-league",
+    "italy",
+    "belgium",
+    "world-cup-qualifiers",
+    "argentina",
+    "brazil"
+  ],
+  "homeCode": "it",
+  "awayCode": "be",
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 3,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026/27",
+  "roundLabel": "League A · Matchday 3",
+  "resultSummary": "UPCOMING: Italy vs Belgium · Stadio Olimpico, Rome · Thursday 20:45 CET",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "UEFA.com: Italy vs Belgium Nations League Matchday 3 preview",
+      "url": "https://www.uefa.com/uefanationsleague/match/italy-vs-belgium-2026"
+    },
+    {
+      "name": "The Athletic: Luciano Spalletti Italy rebuild takes shape",
+      "url": "https://www.nytimes.com/athletic/football/italy-belgium-nations-league-spalletti-preview"
+    },
+    {
+      "name": "BBC Sport: Belgium prepare for Rome test without De Bruyne",
+      "url": "https://www.bbc.com/sport/football/articles/nations-league-italy-belgium-2026"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "uefa-nations-league-md3-italy-belgium-preview-2026",
+  "headline": "Nations League MD3: Italy host Belgium in Rome as South American qualifiers reach fever pitch",
+  "whyCareScore": 8.9,
+  "whyCareReason": "Luciano Spalletti's resurgent Italy seeks a third straight Nations League victory at the Olimpico, while Brazil faces a critical World Cup qualifier in Chile.",
+  "teaser": "The Azzurri clash with a transitioning Belgian side missing De Bruyne and Lukaku, while Lionel Messi returns to the Argentina camp ahead of a trip to Venezuela.",
+  "story": "Why this one matters: While domestic leagues pause, the international window brings two massive narratives to the forefront: a rebirth in Rome, and mounting desperation in Santiago.\n\nIn Europe, UEFA Nations League Group A2 takes center stage on Thursday night as Italy hosts Belgium at the Stadio Olimpico. Luciano Spalletti has engineered a startling turnaround since a disappointing Euro 2024. Armed with a fluid 3-5-1-1 system, the Azzurri shocked France 3-1 at the Parc des Princes and followed it with a disciplined 2-1 win over Israel. Midfield maestro Davide Frattesi has scored in both matches, providing the dynamic running that Mateo Retegui needs up front. Belgium arrives in the Italian capital with immense pressure on Domenico Tedesco, missing injured captain Kevin De Bruyne and striker Romelu Lukaku.\n\nAcross the Atlantic, the stakes could not be higher in CONMEBOL World Cup Qualifying. World champions Argentina sit comfortably atop the table with 18 points, welcoming back Lionel Messi from his ankle injury for an away match in Venezuela. But five-time world champions Brazil find themselves in genuine crisis. Dorival Junior's squad enters Matchday 9 sitting in fifth place with just ten points from eight matches, having lost four of their last five qualifiers. A hostile trip to Chile on Thursday represents a mandatory three points for the Selecao.",
+  "stakes": "Nations League knockout quarterfinal qualification: Italy can move to nine points and virtually guarantee a top-two finish in Group A2 with a win.",
+  "rivalryAngle": "Italy has won their last three competitive meetings with Belgium, including knockout victories at Euro 2020 and the 2021 Nations League Finals.",
+  "home": "Italy",
+  "away": "Belgium",
+  "group": "League A Group 2",
+  "date": "2026-10-07",
+  "time": "20:45",
+  "venue": "Stadio Olimpico",
+  "city": "Rome",
+  "status": "UPCOMING",
+  "sport": "soccer",
+  "competition": "uefa-nations-league-2026"
+}

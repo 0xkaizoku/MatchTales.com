@@ -1,0 +1,80 @@
+{
+  "funFacts": [
+    "Baker Mayfield enters Week 5 leading the NFC with eight passing touchdowns, two interceptions, and a 106.9 passer rating.",
+    "Atlanta kicker Younghoe Koo nailed a career-long 58-yard field goal with two seconds remaining in Week 4 to stun New Orleans 26-24.",
+    "The winner of Thursday night will take sole possession of first place in the NFC South through five weeks of the regular season."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Baker Mayfield",
+      "team": "Tampa Bay Buccaneers",
+      "hook": "Threw for 347 yards and two touchdowns in a 33-16 dismantling of Philadelphia, orchestrating one of the league's most lethal pass offenses."
+    },
+    {
+      "name": "Kirk Cousins",
+      "team": "Atlanta Falcons",
+      "hook": "Veteran passer looks to ignite wideout Drake London and running back Bijan Robinson in a crucial prime-time divisional home stand."
+    }
+  ],
+  "headToHead": "Tampa Bay won the last meeting 29-25 in Atlanta in December 2023; series is tied 30-30 all-time.",
+  "tags": [
+    "nfl",
+    "thursday-night-football",
+    "buccaneers",
+    "falcons",
+    "baker-mayfield",
+    "kirk-cousins",
+    "nfc-south"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 5,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1566577739112-5184e6ac4a4e?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Week 5 · Thursday Night Football",
+  "resultSummary": "UPCOMING: Buccaneers (3-1) at Falcons (2-2) · Mercedes-Benz Stadium · 8:15 PM ET",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NFL.com: Buccaneers at Falcons Week 5 game preview",
+      "url": "https://www.nfl.com/news/buccaneers-falcons-thursday-night-football-week-5-preview-2026"
+    },
+    {
+      "name": "ESPN: Baker Mayfield revival leads surging Buccaneers into Atlanta",
+      "url": "https://www.espn.com/nfl/story/_/id/41571200/nfl-week-5-tnf-bucs-falcons-mayfield-cousins"
+    },
+    {
+      "name": "The Athletic: Tactical keys for Buccaneers vs Falcons NFC South clash",
+      "url": "https://www.nytimes.com/athletic/nfl/week5-tnf-falcons-bucs-scouting-report"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "falcons-vs-buccaneers-tnf-week5-2026",
+  "headline": "Thursday Night Football: Buccaneers and Falcons clash for NFC South supremacy",
+  "whyCareScore": 9.1,
+  "whyCareReason": "Baker Mayfield and Kirk Cousins meet under the prime-time lights in Atlanta with first place in the division on the line and two high-powered offenses in form.",
+  "teaser": "Tampa Bay enters 3-1 after blowing out Philadelphia, while Atlanta sits 2-2 following a buzzer-beating divisional triumph over New Orleans.",
+  "story": "Why this one matters: Divisional games in October are where division races are won or lost. On Thursday night at Mercedes-Benz Stadium, the Tampa Bay Buccaneers and Atlanta Falcons meet with the outright lead in the NFC South hanging in the balance.\n\nBaker Mayfield has completely revitalized his career in Tampa Bay. Through four weeks, Mayfield leads the NFC with eight touchdown passes against only two interceptions, carrying a sparkling 106.9 passer rating. Coming off a 33-16 demolition of the Philadelphia Eagles in which he dissected the secondary for 347 yards, Mayfield enters Atlanta with supreme confidence and an embarrassment of riches in Mike Evans and Chris Godwin.\n\nFor Kirk Cousins and the Falcons, Thursday presents an immediate litmus test. Atlanta averted an early-season crisis on Sunday when Younghoe Koo drilled a 58-yard field goal with two ticks remaining to sink the Saints 26-24. But Raheem Morris knows that field goals will not be enough against Tampa's potent attack. The Falcons need a signature performance from Bijan Robinson on the ground and sharp decision-making from Cousins to seize control of the South.",
+  "stakes": "First place in the NFC South: a Tampa Bay victory pushes the Bucs to 4-1 with two divisional wins, while an Atlanta triumph pulls both teams level at 3-2.",
+  "rivalryAngle": "The all-time head-to-head series between these NFC South rivals stands dead even at 30-30, with four of the last five meetings decided by one possession.",
+  "home": "Atlanta Falcons",
+  "away": "Tampa Bay Buccaneers",
+  "group": "NFC South",
+  "date": "2026-10-07",
+  "time": "20:15",
+  "venue": "Mercedes-Benz Stadium",
+  "city": "Atlanta",
+  "status": "UPCOMING",
+  "sport": "football",
+  "competition": "nfl-2026"
+}

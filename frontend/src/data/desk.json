@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-06",
+  "asOf": "2026-10-07",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -466,6 +466,13 @@
       "home": "Miami Dolphins",
       "away": "Tennessee Titans",
       "note": "FINAL: Titans 31, Dolphins 12. Pollard 88 rush yds, TD; Titans force three turnovers in road rout."
+    },
+    {
+      "date": "2026-10-08",
+      "time": "8:15 p.m. ET",
+      "home": "Atlanta Falcons",
+      "away": "Tampa Bay Buccaneers",
+      "note": "UPCOMING: Buccaneers (3-1) at Falcons (2-2) on Thursday Night Football; NFC South first place on the line."
     }
   ],
   "usOpenQF": [

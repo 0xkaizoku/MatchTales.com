@@ -6614,8 +6614,10 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
     ko: {
-      title: "샌더슨 팜스 챔피언십: 케빈 유, 보 호슬러 꺾고 연장전 끝에 PGA 투어 생애 첫 우승",
-      subtitle: "18번 홀에서 잇단 버디를 낚아채며 통산 23언더파로 잭슨에서 감격의 첫 트로피 번쩍",
+      title: "샌더슨 팜스 챔피언십: 케빈 유, 보 호슬러 꺾고 연장전 끝에 PGA 투어 생애 첫 우승"
+,
+      subtitle: "18번 홀에서 잇단 버디를 낚아채며 통산 23언더파로 잭슨에서 감격의 첫 트로피 번쩍"
+,
       excerpt: "케빈 유가 최종 라운드 67타를 기록해 보 호슬러와 동타를 이룬 뒤, 연장 첫 번째 홀에서 버디 퍼트를 성공시키며 우승했다.",
       body: [
         "미시시피주 잭슨 컨트리클럽에서 열린 결승전에서 26세의 케빈 유가 생애 첫 PGA 투어 정상에 올랐습니다.",
@@ -6624,7 +6626,8 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
     ar: {
-      title: "بطولة ساندرسون فارمز: كيفن يو يتوج بأول ألقابه في جولة بي جي إيه بعد حسم التمايز أمام هوفلر",
+      title: "بطولة ساندرسون فارمز: كيفن يو يتوج بأول ألقابه في جولة بي جي إيه بعد حسم التمايز أمام هوفلر"
+,
       subtitle: "اللاعب البالغ 26 عاما يسجل ضربتي بيردي حاسمتين في الحفرة 18 ليتوج بطلا في جاكسون بمجموع 23 ضربة تحت المعدل.",
       excerpt: "كيفن يو يسجل 67 ضربة في الجولة الأخيرة ليتعادل مع بو هوسلر قبل أن يحسم الجولة الإضافية بضربة بيردي متقنة.",
       body: [
@@ -6696,8 +6699,10 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
     ja: {
-      title: "NFL第4週SNF：デリック・ヘンリーが199ヤード激走、レイブンズが開幕3連勝のビルズを35-10で粉砕",
-      subtitle: "開始早々に87ヤードの独走TDランを披露、ラマー・ジャクソンも3TDで攻守に圧倒",
+      title: "NFL第4週SNF：デリック・ヘンリーが199ヤード激走、レイブンズが開幕3連勝のビルズを35-10で粉砕"
+,
+      subtitle: "開始早々に87ヤードの独走TDランを披露、ラマー・ジャクソンも3TDで攻守に圧倒"
+,
       excerpt: "デリック・ヘンリーが199ラン獲得ヤードと2TDを記録し、ボルティモア・レイブンズが無敗のバッファロー・ビルズを35-10で撃破した。",
       body: [
         "全米注目のサンデーナイトフットボールは、ボルティモア・レイブンズの圧倒的なランオフェンス劇となりました。",
@@ -6706,8 +6711,10 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
     ko: {
-      title: "NFL 4주차 SNF: 데릭 헨리 199야드 폭주, 레이븐스가 무패 빌스를 35-10으로 완파",
-      subtitle: "첫 공격에서 87야드 터치다운 질주 성공, 라마 잭슨 3TD 합작하며 완승 견인",
+      title: "NFL 4주차 SNF: 데릭 헨리 199야드 폭주, 레이븐스가 무패 빌스를 35-10으로 완파"
+,
+      subtitle: "첫 공격에서 87야드 터치다운 질주 성공, 라마 잭슨 3TD 합작하며 완승 견인"
+,
       excerpt: "볼티모어 레이븐스가 데릭 헨리의 199 러싱 야드 2TD 맹활약에 힘입어 무패 행진을 달리던 버팔로 빌스를 35-10으로 제압했다.",
       body: [
         "M&T 뱅크 스타디움에서 열린 일요 야간 경기에서 볼티모어 레이븐스가 버팔로를 완벽하게 제압했습니다.",
@@ -6716,7 +6723,8 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
     ar: {
-      title: "دوري كرة القدم الأمريكية الأسبوع 4: ديريك هنري يتألق وري Raven يسحق بيلز 35-10",
+      title: "دوري كرة القدم الأمريكية الأسبوع 4: ديريك هنري يتألق وري Raven يسحق بيلز 35-10"
+,
       subtitle: "النجم المخضرم يسجل 199 ياردة اندفاعية وهبوطين أحدهما من ركضة تاريخية لمسافة 87 ياردة.",
       excerpt: "فاز بالتيمور ريفنز بنتيجة عريضة 35-10 على بافلو بيلز الذي تلقى خسارته الأولى بفضل أداء خارق من ديريك هنري ولمار جاكسون.",
       body: [
@@ -6728,7 +6736,8 @@ export const STORY_I18N: Record<string, LocMap> = {
   },
   'wnba-semifinals-game1-liberty-lynx-take-leads-2026': {
     fr: {
-      title: "Demi-finales WNBA Match 1 : Breanna Stewart porte le Liberty, Napheesa Collier et les Lynx résistent au Fever",
+      title: "Demi-finales WNBA Match 1 : Breanna Stewart porte le Liberty, Napheesa Collier et les Lynx résistent au Fever"
+,
       subtitle: "New York domine Las Vegas 87-77 avec 34 points de Stewart tandis que Minnesota bat Indiana 88-82.",
       excerpt: "Breanna Stewart a marqué 34 points pour guider New York vers la victoire contre les Aces, tandis que Napheesa Collier a scellé le succès des Lynx face à Caitlin Clark.",
       body: [
@@ -6738,7 +6747,8 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
     es: {
-      title: "Semifinales WNBA Partido 1: Breanna Stewart lidera al Liberty, Collier y las Lynx frenan al Fever",
+      title: "Semifinales WNBA Partido 1: Breanna Stewart lidera al Liberty, Collier y las Lynx frenan al Fever"
+,
       subtitle: "New York supera 87-77 a Las Vegas con 34 puntos de Stewart, mientras Minnesota vence 88-82 a Indiana.",
       excerpt: "Breanna Stewart brilló con 34 puntos en el triunfo de New York sobre las Aces, mientras Napheesa Collier guio a Minnesota ante Caitlin Clark.",
       body: [
@@ -6748,7 +6758,8 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
     de: {
-      title: "WNBA-Halbfinale Spiel 1: Breanna Stewart führt Liberty an, Collier und Lynx stoppen das Fever",
+      title: "WNBA-Halbfinale Spiel 1: Breanna Stewart führt Liberty an, Collier und Lynx stoppen das Fever"
+,
       subtitle: "New York schlägt Las Vegas mit 87:77 dank 34 Stewart-Punkten, Minnesota siegt 88:82 gegen Indiana.",
       excerpt: "Breanna Stewart überragte mit 34 Punkten beim Liberty-Sieg über die Aces, während Napheesa Collier die Lynx zum 88:82-Auftaktsieg führte.",
       body: [
@@ -6758,7 +6769,8 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
     it: {
-      title: "Semifinali WNBA Gara 1: Breanna Stewart trascina le Liberty, Collier e le Lynx domano le Fever",
+      title: "Semifinali WNBA Gara 1: Breanna Stewart trascina le Liberty, Collier e le Lynx domano le Fever"
+,
       subtitle: "New York supera Las Vegas 87-77 con 34 punti di Stewart, Minnesota batte Indiana 88-82.",
       excerpt: "Breanna Stewart ha incantato con 34 punti nella vittoria delle Liberty sulle Aces, mentre Napheesa Collier ha guidato le Lynx contro Caitlin Clark.",
       body: [
@@ -6768,7 +6780,8 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
     pl: {
-      title: "Półfinały WNBA Mecz 1: Breanna Stewart prowadzi Liberty, Collier i Lynx powstrzymują Fever",
+      title: "Półfinały WNBA Mecz 1: Breanna Stewart prowadzi Liberty, Collier i Lynx powstrzymują Fever"
+,
       subtitle: "New York pokonuje Las Vegas 87-77 dzięki 34 punktom Stewart, Minnesota wygrywa z Indianą 88-82.",
       excerpt: "Breanna Stewart rzuciła 34 punkty w wygranym meczu z Aces, a Napheesa Collier poprowadziła Lynx do triumfu nad Caitlin Clark i Fever.",
       body: [
@@ -6778,8 +6791,10 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
     zh: {
-      title: "WNBA半决赛G1：斯图尔特狂轰34分自由人拔头筹，科利尔28分山猫力克狂热",
-      subtitle: "纽约自由人87-77击退王牌，明尼苏达山猫88-82险胜克拉克领衔的狂热占得先机",
+      title: "WNBA半决赛G1：斯图尔特狂轰34分自由人拔头筹，科利尔28分山猫力克狂热"
+,
+      subtitle: "纽约自由人87-77击退王牌，明尼苏达山猫88-82险胜克拉克领衔的狂热占得先机"
+,
       excerpt: "斯图尔特砍下34分带领自由人主场击败卫冕冠军王牌，科利尔拿下28分助山猫末节阻击克拉克的狂轰滥炸。",
       body: [
         "2026年WNBA半决赛周日打响，纽约自由人与明尼苏达山猫双双守卫主场取得系列赛1-0领先。",
@@ -6788,8 +6803,10 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
     ja: {
-      title: "WNBA準決勝第1戦：スチュワートが34得点でリバティを牽引、コリアーとリンクスがフィーバーを撃破",
-      subtitle: "ニューヨークが87-77でエースズに先勝、ミネソタはクラークの猛追を振り切り88-82で勝利",
+      title: "WNBA準決勝第1戦：スチュワートが34得点でリバティを牽引、コリアーとリンクスがフィーバーを撃破"
+,
+      subtitle: "ニューヨークが87-77でエースズに先勝、ミネソタはクラークの猛追を振り切り88-82で勝利"
+,
       excerpt: "ブレアナ・スチュワートが34得点を奪いリバティがエースズを下し、ナフィーサ・コリアーが28得点でリンクスを白星発進に導いた。",
       body: [
         "WNBAセミファイナル第1戦は、ブルックリンとミネアポリスで熱狂的な名勝負となりました。",
@@ -6798,8 +6815,10 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
     ko: {
-      title: "WNBA 4강 1차전: 브리아나 스튜어트 34점 폭발 리버티 선승, 콜리어의 링스 피버 제압",
-      subtitle: "뉴욕이 87-77로 에이시스를 완파하고, 미네소타는 클라크의 맹추격을 따돌리며 88-82 승리",
+      title: "WNBA 4강 1차전: 브리아나 스튜어트 34점 폭발 리버티 선승, 콜리어의 링스 피버 제압"
+,
+      subtitle: "뉴욕이 87-77로 에이시스를 완파하고, 미네소타는 클라크의 맹추격을 따돌리며 88-82 승리"
+,
       excerpt: "스튜어트가 34점을 퍼부으며 리버티를 승리로 이끌었고, 나피사 콜리어가 28점을 올리며 인디애나 피버를 꺾었다.",
       body: [
         "WNBA 플레이오프 준결승 1차전 더블헤더에서 홈팀 뉴욕 리버티와 미네소타 링스가 나란히 1승을 챙겼습니다.",
@@ -6808,7 +6827,8 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
     ar: {
-      title: "نصف نهائي دوري السيدات لكرة السلة المباراة 1: ستيوارت تقود ليبرتي للفوز وكولير تمنح لينكس التقدم",
+      title: "نصف نهائي دوري السيدات لكرة السلة المباراة 1: ستيوارت تقود ليبرتي للفوز وكولير تمنح لينكس التقدم"
+,
       subtitle: "نيويورك تهزم لاس فيغاس 87-77 بفضل 34 نقطة لستيوارت ومينيسوتا تتفوق على إنديانا 88-82.",
       excerpt: "تألقت بريانا ستيوارت بـ34 نقطة لتقود ليبرتي للفوز على إيسيز، بينما حسمت نافيسا كولير مواجهة لينكس ضد كايتلين كلارك وفريق فيفر.",
       body: [
@@ -6890,8 +6910,10 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
     ko: {
-      title: "프리미어리그 7라운드: 브라이턴, 0-2 열세 딛고 후반 18분 만에 3골 폭풍 몰아치며 토트넘 3-2 격파",
-      subtitle: "민테, 뤼터, 웰벡의 연속골로 아멕스 스타디움에서 역대급 대역전승 완성하며 4위 도약",
+      title: "프리미어리그 7라운드: 브라이턴, 0-2 열세 딛고 후반 18분 만에 3골 폭풍 몰아치며 토트넘 3-2 격파"
+,
+      subtitle: "민테, 뤼터, 웰벡의 연속골로 아멕스 스타디움에서 역대급 대역전승 완성하며 4위 도약"
+,
       excerpt: "전반을 0-2로 뒤지던 브라이턴이 후반 대반격에 나서며 토트넘을 3-2로 꺾고 승점 14점으로 4위에 올랐다.",
       body: [
         "아멕스 스타디움에서 열린 경기에서 브라이턴이 토트넘을 상대로 짜릿한 후반 대역전 드라마를 완성했습니다.",
@@ -6900,7 +6922,8 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
     ar: {
-      title: "الدوري الإنجليزي الجولة 7: برايتون يقلب تأخره بهدفين ويهزم توتنهام 3-2 في شوط ثان إعجازي",
+      title: "الدوري الإنجليزي الجولة 7: برايتون يقلب تأخره بهدفين ويهزم توتنهام 3-2 في شوط ثان إعجازي"
+,
       subtitle: "طيور النورس تقلب الطاولة بثلاثية في 18 دقيقة عبر مينته وروتر ورأسية حاسمة لداني ويلبيك.",
       excerpt: "نجح برايتون في تحقيق عودة تاريخية على ملعب أميكس بتحويل تأخره 0-2 أمام توتنهام إلى فوز مثير 3-2 ليصعد للمركز الرابع.",
       body: [
@@ -8011,6 +8034,558 @@ export const STORY_I18N: Record<string, LocMap> = {
         "يسجل منتجع بلاك ديزرت في يوتا عودة تاريخية للجولة الأمريكية بعد انقطاع دام ستة عقود منذ بطولة يوتا المفتوحة عام 1963.",
         "يمتاز المسار بتصميم فريد يجمع بين مسارات العشب الأخضر وتدفقات الحمم البركانية السوداء وجدران الأخاديد الحمراء.",
         "ويدخل كيث ميتشل وبو هوسلر المنافسات بحثاً عن نقاط ثمينة لتأمين مراكزهم بين أفضل 125 لاعباً لضمان بطاقة الموسم المقبل.",
+      ],
+    },
+  },
+  'wnba-semifinals-game2-liberty-lynx-take-2-0-leads-2026': {
+    fr: {
+      title: "Liberty 88-84 Aces, Lynx 84-78 Fever : New York et Minnesota s’envolent à 2-0",
+      subtitle: "Sabrina Ionescu crucifie Las Vegas à Brooklyn tandis que Napheesa Collier et ses 26 points mettent Indiana au bord du gouffre.",
+      excerpt: "Grâce à leurs victoires pleines d’autorité lors du Match 2, le Liberty et les Lynx mènent 2-0 et placent les championnes en titre dans une impasse historique.",
+      body: [
+        "Dans l’histoire des playoffs WNBA, 24 équipes sur 25 ayant mené 2-0 ont remporté leur série au meilleur des cinq matches.",
+        "Sabrina Ionescu a marqué 24 points avec un tir décisif à 41 secondes du terme pour repousser les assauts d’A’ja Wilson et des Aces.",
+        "À Minneapolis, Napheesa Collier a encore brillé avec 26 points et 11 rebonds face aux 21 points de Caitlin Clark.",
+      ],
+    },
+    es: {
+      title: "Liberty 88-84 Aces, Lynx 84-78 Fever: New York y Minnesota toman ventaja de 2-0",
+      subtitle: "Sabrina Ionescu sentencia en Brooklyn mientras los 26 puntos de Napheesa Collier ponen a Indiana al borde del abismo.",
+      excerpt: "Con sendos triunfos en el segundo asalto, Liberty y Lynx se colocan 2-0 y dejan a las bicampeonas Aces y a las Fever sin margen de error.",
+      body: [
+        "El 96 por ciento de los equipos que toman ventaja de 2-0 en series al mejor de cinco en la WNBA terminan avanzando.",
+        "Ionescu anotó 24 puntos y encestó el tiro clave a 41 segundos del final para neutralizar el empuje de A'ja Wilson.",
+        "En Minneapolis, Napheesa Collier sumó 26 puntos y 11 rebotes para frenar los 21 puntos de Caitlin Clark.",
+      ],
+    },
+    de: {
+      title: "Liberty 88-84 Aces, Lynx 84-78 Fever: New York und Minnesota stellen auf 2:0",
+      subtitle: "Sabrina Ionescu trifft den entscheidenden Wurf in Brooklyn; Napheesa Colliers 26 Punkte bringen Indiana an den Abgrund.",
+      excerpt: "Mit packenden Siegen in Spiel 2 bauen die New York Liberty und die Minnesota Lynx ihre Serienführung auf 2:0 aus.",
+      body: [
+        "In der WNBA-Geschichte haben 24 von 25 Teams mit einer 2:0-Führung die Playoff-Serie für sich entschieden.",
+        "Ionescu glänzte mit 24 Punkten und traf 41 Sekunden vor Schluss den vorentscheidenden Sprungwurf gegen Las Vegas.",
+        "In Minneapolis dominierte Collier mit 26 Punkten und 11 Rebounds, während Caitlin Clarks 21 Punkte nicht reichten.",
+      ],
+    },
+    it: {
+      title: "Liberty 88-84 Aces, Lynx 84-78 Fever: New York e Minnesota volano sul 2-0",
+      subtitle: "Sabrina Ionescu firma il canestro decisivo a Brooklyn; i 26 punti di Napheesa Collier mettono Indiana spalle al muro.",
+      excerpt: "Con due entusiasmanti vittorie in Gara 2, New York Liberty e Minnesota Lynx si portano sul 2-0 avvicinando la finale WNBA.",
+      body: [
+        "Nella storia dei playoff WNBA, il 96% delle squadre sul 2-0 in una serie al meglio delle cinque ha superato il turno.",
+        "Sabrina Ionescu ha segnato 24 punti trovando il canestro del ko a 41 secondi dalla sirena per piegare A'ja Wilson.",
+        "Al Target Center di Minneapolis, Napheesa Collier ha dominato con 26 punti e 11 rimbalzi rendendo vani i 21 punti di Caitlin Clark.",
+      ],
+    },
+    pl: {
+      title: "Liberty 88-84 Aces, Lynx 84-78 Fever: New York i Minnesota prowadzą 2-0 w półfinałach",
+      subtitle: "Sabrina Ionescu trafia decydujący rzut w Brooklynie, a 26 punktów Napheesy Collier spycha Indianę na krawędź.",
+      excerpt: "Po emocjonujących meczach nr 2 New York Liberty oraz Minnesota Lynx obejmują prowadzenie 2-0, stawiając rywalki w sytuacji bez wyjścia.",
+      body: [
+        "Aż 24 z 25 drużyn prowadzących 2-0 w historii play-offów WNBA ostatecznie awansowało do finału.",
+        "Ionescu rzuciła 24 punkty i trafiła kluczowy rzut z wyskoku na 41 sekund przed końcem, uciszając zryw Las Vegas Aces.",
+        "W Minneapolis Collier zanotowała 26 punktów i 11 zbiórek, powstrzymując 21 punktów zdobytych przez Caitlin Clark.",
+      ],
+    },
+    zh: {
+      title: "自由人88-84王牌，山猫84-78狂热：纽约与明尼苏达大比分2-0占得先机",
+      subtitle: "约内斯库关键跳投锁定胜局，科利尔砍下26分11篮板将印第安纳逼入绝境",
+      excerpt: "在周二晚进行的WNBA半决赛G2中，纽约自由人与明尼苏达山猫双双捍卫主场，系列赛2-0领先将卫冕冠军与狂热逼上绝路。",
+      body: [
+        "在WNBA五战三胜制季后赛历史中，取得2比0领先的球队系列赛战绩为24胜1负，晋级概率高达96%。",
+        "约内斯库全场轰下24分并在最后41秒命中后撤步致命中投，粉碎了阿贾威尔逊带领王牌展开的反扑。",
+        "在标靶中心，科利尔豪取26分11篮板4抢断，山猫末节关键防守封锁了克拉克率领的狂热进攻狂潮。",
+      ],
+    },
+    ja: {
+      title: "リバティ88-84エースズ、リンクス84-78フィーバー：ニューヨークとミネソタが2勝0敗と王手",
+      subtitle: "サブリナ・イオネスクが勝負を決める一撃、ナフィーサ・コリアーは26得点でインディアナを追い詰める",
+      excerpt: "WNBA準決勝第2戦でリバティとリンクスが揃って本拠地を死守。2連勝を飾り、ファイナル進出へあと1勝に迫った。",
+      body: [
+        "WNBAの5戦3勝制プレーオフにおいて、2勝0敗とリードしたチームの勝ち抜け率は24勝1敗（96パーセント）を誇ります。",
+        "イオネスクが24得点を挙げ、残り41秒に鮮やかなステップバックジャンパーを沈めて王者エースズを突き放しました。",
+        "ミネソタではコリアーが26得点11リバウンドを記録し、クラークの21得点奮闘を退けて堅守で勝利を収めました。",
+      ],
+    },
+    ko: {
+      title: "리버티 88-84 에이시스, 링스 84-78 피버: 뉴욕과 미네소타, 2승 무패로 챔프전 진출 눈앞",
+      subtitle: "사브리나 이오네스쿠 클러치 점퍼 폭발, 나피사 콜리어 26점으로 인디애나 제압",
+      excerpt: "WNBA 4강 2차전에서 뉴욕 리버티와 미네소타 링스가 나란히 승리를 거두며 시리즈 2-0으로 앞서나갔다.",
+      body: [
+        "WNBA 5전 3선승제 플레이오프 역사상 2승 무패로 앞서간 팀의 시리즈 승리 확률은 96퍼센트(24승 1패)에 달합니다.",
+        "이오네스쿠는 24점을 올리며 종료 41초 전 승부를 결정짓는 쐐기 중거리 슛을 성공시켜 에이시스를 무너뜨렸습니다.",
+        "미네소타의 콜리어는 26점 11리바운드로 맹활약하며 케이틀린 클라크가 21점으로 분전한 피버의 추격을 봉쇄했습니다.",
+      ],
+    },
+    ar: {
+      title: "ليبرتي 88-84 إيسيس، ولينكس 84-78 فيفر: نيويورك ومينيسوتا يتقدمان 2-0",
+      subtitle: "سابرينا أيونيسكو تحسم الموقعة في بروكلين، و26 نقطة لكوليير تدفع إنديانا نحو حافة الخروج.",
+      excerpt: "حقق نيويورك ليبرتي ومينيسوتا لينكس انتصارين حاسمين في المباراة الثانية بنصف نهائي WNBA ليقتربا خطوة عملاقة من النهائي.",
+      body: [
+        "تاريخياً، نجحت 24 من أصل 25 فرقة تقدمت 2-0 في سلسلة نصف النهائي بالوصول إلى نهائي WNBA بنسبة 96 بالمئة.",
+        "سجلت سابرينا أيونيسكو 24 نقطة وسددت كرة قاتلة قبل 41 ثانية من النهاية لتروض انتفاضة حامل اللقب لاس فيغاس.",
+        "وفي مينيابوليس، واصلت نافيسا كوليير تألقها بتسجيل 26 نقطة و11 متابعة لتوقف صحوة كايتلين كلارك وفيفر.",
+      ],
+    },
+  },
+  'shanghai-masters-2026-r2-alcaraz-10-straight-sinner-60-wins': {
+    fr: {
+      title: "Masters de Shanghai R2 : Alcaraz enchaîne un 10e succès d’affilée, Sinner atteint les 60 victoires",
+      subtitle: "Carlos Alcaraz écarte Shang Juncheng en 76 minutes pendant que Jannik Sinner entre dans l’histoire avec 60 victoires.",
+      excerpt: "Alcaraz et Sinner poursuivent leur folle tournée asiatique avec deux démonstrations magistrales au deuxième tour à Shanghai.",
+      body: [
+        "Carlos Alcaraz a dominé Shang Juncheng 6-2, 6-2 sans concéder la moindre balle de break en 76 minutes de jeu.",
+        "Jannik Sinner a battu Taro Daniel 6-1, 6-4 pour devenir le premier joueur né dans les années 2000 à aligner deux saisons à 60 victoires.",
+        "Avec le retour de Novak Djokovic, quadruple lauréat du tournoi, le tableau de Shanghai s’annonce monumental.",
+      ],
+    },
+    es: {
+      title: "Shanghai Masters R2: Alcaraz vuela hacia su 10ª victoria consecutiva y Sinner alcanza las 60 victorias",
+      subtitle: "Carlos Alcaraz arrolla a Shang Juncheng en 76 minutos mientras Jannik Sinner entra en el club histórico de las 60 victorias.",
+      excerpt: "Alcaraz y Sinner no dieron opción a la sorpresa en su estreno en el Rolex Shanghai Masters, despachando a sus rivales con enorme solidez.",
+      body: [
+        "Alcaraz superó al chino Shang 6-2, 6-2 sin conceder ni un solo punto de quiebre, extendiendo su racha ganadora a 10 encuentros.",
+        "Sinner venció a Taro Daniel 6-1, 6-4 y se convirtió en el primer tenista nacido en el siglo XXI con campañas consecutivas de 60 triunfos.",
+        "El cuadro de Shanghai sube de temperatura con el regreso de Novak Djokovic en busca de su título ATP número 100.",
+      ],
+    },
+    de: {
+      title: "Shanghai Masters R2: Alcaraz feiert 10. Sieg in Serie, Sinner knackt 60-Siege-Marke",
+      subtitle: "Carlos Alcaraz deklassiert Shang Juncheng in 76 Minuten; Jannik Sinner feiert historischen 60. Saisonerfolg.",
+      excerpt: "Carlos Alcaraz und Jannik Sinner zeigten in Shanghai keine Müdigkeit und stürmten mit beeindruckender Dominanz in Runde drei.",
+      body: [
+        "Alcaraz bezwang den chinesischen Youngster Shang 6-2, 6-2 in nur 76 Minuten und wehrte keinen einzigen Breakball ab.",
+        "Sinner besiegte Taro Daniel mit 6-1, 6-4 und ist der erste nach 2000 geborene Profi mit zwei 60-Siege-Saisons in Folge.",
+        "Vierfach-Champion Novak Djokovic kehrt nach fünf Jahren Abwesenheit nach Shanghai zurück und komplettiert das Starensemble.",
+      ],
+    },
+    it: {
+      title: "Shanghai Masters R2: Alcaraz cala il decimo successo di fila, Sinner tocca quota 60 vittorie",
+      subtitle: "Carlos Alcaraz supera Shang Juncheng in 76 minuti; Jannik Sinner fa la storia con la 60a vittoria stagionale.",
+      excerpt: "Nessun calo di tensione per Alcaraz e Sinner a Shanghai: entrambi superano il secondo turno con prestazioni impeccabili.",
+      body: [
+        "Alcaraz ha travolto il cinese Shang 6-2, 6-2 senza concedere palle break, portando a dieci la striscia di successi consecutivi.",
+        "Sinner ha sconfitto Taro Daniel 6-1, 6-4 diventando il primo tennista nato negli anni 2000 a raggiungere 60 vittorie in due anni di fila.",
+        "L’atmosfera a Shanghai si accende ulteriormente con il ritorno in campo di Novak Djokovic, a caccia del titolo ATP numero 100.",
+      ],
+    },
+    pl: {
+      title: "Shanghai Masters R2: Alcaraz notuje 10. wygraną z rzędu, Sinner dobija do 60 zwycięstw",
+      subtitle: "Carlos Alcaraz odprawia Shanga Junchenga w 76 minut, a Jannik Sinner osiąga historyczny kamień milowy.",
+      excerpt: "Carlos Alcaraz i Jannik Sinner nie pozostawili złudzeń rywalom w 2. rundzie w Szanghaju, demonstrując mistrzowską formę.",
+      body: [
+        "Alcaraz pokonał Shanga 6-2, 6-2, nie dając rywalowi ani jednej szansy na przełamanie i przedłużając serię do dziesięciu wygranych.",
+        "Sinner wygrał z Taro Danielem 6-1, 6-4, zostając pierwszym graczem urodzonym w XXI wieku z dwoma z rzędu sezonami z 60 wygranymi.",
+        "Stawkę turnieju wzbogaca powrót czterokrotnego mistrza Novaka Djokovicia, który walczy o setny tytuł w karierze.",
+      ],
+    },
+    zh: {
+      title: "劳力士上海大师赛次轮：阿尔卡拉斯豪取十连胜，辛纳解锁单赛季60胜里程碑",
+      subtitle: "阿尔卡拉斯76分钟轻取商竣程，辛纳稳健过关创本世纪出生球员历史新纪录",
+      excerpt: "刚在北京完成史诗对决的阿尔卡拉斯与辛纳在上海大师赛保持火热状态，直落两盘击败各自对手晋级第三轮。",
+      body: [
+        "阿尔卡拉斯仅用时76分钟便以6-2、6-2横扫中国小将商竣程，未送出任何破发点，跨赛事连胜纪录扩大至10场。",
+        "世界第一辛纳以6-1、6-4轻取丹尼尔太郎，成为首位连续两个赛季斩获60胜的千禧年后出生男子球员。",
+        "四届赛会冠军德约科维奇时隔五年重返上海旗忠网球中心，向职业生涯第100个单打冠军头衔发起冲击。",
+      ],
+    },
+    ja: {
+      title: "上海マスターズ2回戦：アルカラスが怒涛の10連勝、シナーは今季60勝の金字塔を樹立",
+      subtitle: "カルロス・アルカラスが商竣程を76分で退け、ヤニック・シナーは2年連続60勝の快挙を達成",
+      excerpt: "北京での激闘の疲労も見せず、アルカラスとシナーが上海マスターズ初戦を完勝で飾り3回戦へと駒を進めた。",
+      body: [
+        "アルカラスは商竣程に対しブレークポイントを一切与えず、6-2, 6-2で圧倒して連勝を10に伸ばしました。",
+        "世界ランク1位のシナーはダニエル太郎を6-1, 6-4で破り、2000年代生まれの男子選手として初の2季連続60勝を記録しました。",
+        "大会4度優勝のノバク・ジョコビッチも5年ぶりに上海へ復帰し、通算100勝目のタイトルを狙います。",
+      ],
+    },
+    ko: {
+      title: "상하이 마스터스 2회전: 알카라스 파죽의 10연승, 시너 시즌 60승 대기록 달성",
+      subtitle: "카를로스 알카라스 76분 만에 상쥔청 완파, 얀니크 시너 2년 연속 60승 고지 점령",
+      excerpt: "알카라스와 시너가 베이징 결승의 피로를 잊고 상하이 마스터스 2회전에서 나란히 무실세트 완승을 거뒀다.",
+      body: [
+        "알카라스는 중국의 신성 상쥔청을 상대로 단 하나의 브레이크 포인트도 내주지 않고 6-2, 6-2 완승을 거두며 10연승을 달렸습니다.",
+        "시너는 대니얼 타로를 6-1, 6-4로 꺾고 2000년대생 남자 선수 최초로 2년 연속 60승이라는 대기록을 썼습니다.",
+        "상하이 4회 우승자 노박 조코비치도 2019년 이후 5년 만에 대회에 복귀하며 투어 100번째 우승 사냥에 나섰습니다.",
+      ],
+    },
+    ar: {
+      title: "شنغهاي ماسترز الدور الثاني: ألكاراز يحقق عاشر انتصار توالياً وسينر يبلغ 60 فوزاً",
+      subtitle: "كارلوس ألكاراز يتفوق على شانغ في 76 دقيقة ويانيك سينر يدخل التاريخ ببلوغ 60 انتصاراً هذا العام.",
+      excerpt: "واصل الثنائي كارلوس ألكاراز ويانيك سينر تألقهما الكبير في جولة آسيا بانتصارين كاسحين في الدور الثاني من بطولة شنغهاي.",
+      body: [
+        "تغلب كارلوس ألكاراز على الصيني شانغ جونشنغ 6-2 و6-2 دون مواجهة أي نقطة لكسر الإرسال في غضون 76 دقيقة فقط.",
+        "وحقق الإيطالي يانيك سينر فوزه الستين هذا الموسم بعد تجاوز تارو دانييل 6-1 و6-4 ليصبح أول لاعب من مواليد الألفية يسجل موسمين متتاليين بـ 60 فوزاً.",
+        "وتتجه الأنظار نحو الصربي نوفاك ديوكوفيتش، بطل شنغهاي 4 مرات، الذي يسعى لحصد لقبه رقم 100 في مسيرته الاحترافية.",
+      ],
+    },
+  },
+  'nfl-week5-tnf-preview-buccaneers-falcons-nfc-south-clash-2026': {
+    fr: {
+      title: "Thursday Night Football : Buccaneers et Falcons s’affrontent pour le trône de la NFC Sud",
+      subtitle: "Baker Mayfield mène l’attaque de Tampa à Atlanta où Kirk Cousins vise la première place.",
+      excerpt: "La NFC Sud est à l'honneur jeudi soir : les Buccaneers (3-1) défient les Falcons (2-2) avec la première place de la division en jeu.",
+      body: [
+        "Baker Mayfield réalise un début de saison remarquable avec 8 passes de touchdown et seulement 2 interceptions.",
+        "Les Falcons de Kirk Cousins sortent d'un succès au finish contre les Saints et veulent confirmer à domicile.",
+        "Le vainqueur de ce duel de division prendra seul la tête de la NFC Sud après cinq journées intenses.",
+      ],
+    },
+    es: {
+      title: "Thursday Night Football: Buccaneers y Falcons se disputan el liderato de la NFC Sur",
+      subtitle: "Baker Mayfield comanda el ataque de Tampa en Atlanta donde Kirk Cousins busca asaltar la cima.",
+      excerpt: "La NFC Sur se decide este jueves bajo los focos de Atlanta: Buccaneers (3-1) y Falcons (2-2) se juegan el liderato divisional.",
+      body: [
+        "Baker Mayfield lidera la NFC con ocho pases de touchdown y 106,9 de índice de pasador al frente de Tampa Bay.",
+        "Kirk Cousins y los Falcons llegan crecidos tras batir a los Saints con un gol de campo agónico de 58 yardas.",
+        "Quien gane el jueves por la noche dormirá como líder en solitario de la división tras cinco jornadas.",
+      ],
+    },
+    de: {
+      title: "Thursday Night Football: Buccaneers und Falcons kämpfen um die Krone der NFC South",
+      subtitle: "Baker Mayfield führt Tampa nach Atlanta, wo Kirk Cousins nach der Tabellenführung greift.",
+      excerpt: "Topspiel am Donnerstagabend in Atlanta: Die Buccaneers (3-1) und die Falcons (2-2) duellieren sich um Platz eins in der Division.",
+      body: [
+        "Mayfield führt die NFC mit acht Touchdown-Pässen bei nur zwei Interceptions und einem 106,9er Passer Rating an.",
+        "Atlanta tankte Selbstvertrauen durch einen dramatischen 58-Yard-Field-Goal-Sieg gegen New Orleans in letzter Sekunde.",
+        "Der Sieger dieses Primetime-Klassikers übernimmt nach fünf Spieltagen die alleinige Tabellenführung im Süden.",
+      ],
+    },
+    it: {
+      title: "Thursday Night Football: Buccaneers e Falcons si sfidano per la vetta della NFC South",
+      subtitle: "Baker Mayfield guida l’attacco di Tampa ad Atlanta, dove Kirk Cousins punta al primato.",
+      excerpt: "La NFC South accende il giovedì sera: Buccaneers (3-1) e Falcons (2-2) scendono in campo con il primo posto in palio.",
+      body: [
+        "Mayfield sta vivendo un momento d'oro guidando la NFC con 8 passaggi da touchdown e un rating di 106,9.",
+        "Kirk Cousins e i Falcons cercano continuità dopo il trionfo allo scadere contro i Saints grazie al field goal di Koo da 58 yard.",
+        "La franchigia vincente si assicurerà il comando solitario della divisione dopo le prime cinque settimane.",
+      ],
+    },
+    pl: {
+      title: "Thursday Night Football: Buccaneers i Falcons walczą o panowanie w NFC South",
+      subtitle: "Baker Mayfield prowadzi atak Tampy do Atlanty, gdzie Kirk Cousins celuje w fotel lidera.",
+      excerpt: "Czwartkowy wieczór w Atlancie zadecyduje o układzie sił w NFC South: Buccaneers (3-1) kontra Falcons (2-2).",
+      body: [
+        "Baker Mayfield zachwyca skutecznością, prowadząc w NFC z 8 przyłożeniami i ratingiem podań 106,9.",
+        "Falcons przystępują do meczu po dramatycznym zwycięstwie nad Saints dzięki kopnięciu Koo z 58 jardów na dwie sekundy przed końcem.",
+        "Zwycięzca czwartkowego starcia obejmie samodzielne prowadzenie w dywizji po pięciu tygodniach sezonu zasadniczego.",
+      ],
+    },
+    zh: {
+      title: "周四夜赛前瞻：坦帕湾海盗客战亚特兰大猎鹰，争夺国联南区头名宝座",
+      subtitle: "贝克梅菲尔德状态火热率队出征，考辛斯坐镇主场力求反超登顶",
+      excerpt: "NFL第5周周四夜赛迎来国联南区焦点德比：3胜1负的海盗客场挑战2胜2负的猎鹰，胜者将独享分区第一。",
+      body: [
+        "梅菲尔德本赛季前四周送出8次传球达阵且仅有2次抄截，四分卫评分高达106.9领跑国联。",
+        "猎鹰凭借韩国籍踢球手具英会58码压哨任意球险胜圣徒，考辛斯盼借主场之利连克同区劲敌。",
+        "本场胜者将在五周战罢后独占国联南区榜首，在季后赛席位争夺战中手握至关重要的先手权。",
+      ],
+    },
+    ja: {
+      title: "サーズデーナイト展望：バッカニアーズ対ファルコンズ、NFC南地区の覇権を懸けた激突",
+      subtitle: "好調メイフィールド率いるバ軍がアトランタへ、カズンズは地区首位奪取を誓う",
+      excerpt: "NFL第5週のTNFはNFC南地区の天王山。3勝1敗のバッカニアーズと2勝2敗のファルコンズが単独首位を争う。",
+      body: [
+        "メイフィールドは8TDパス、2インターセプト、パサーレーティング106.9とNFCトップの成績をマークしています。",
+        "ファルコンズは前週ク・ヨンフェの58ヤード劇的決勝FGでセインツを下し、勢いに乗ってホーム戦を迎えます。",
+        "この伝統のライバル対決を制したチームが、第5週終了時点で単独首位に立つことになります。",
+      ],
+    },
+    ko: {
+      title: "서스데이 나이트 풋볼: 버커니어스 vs 팰컨스, NFC 남부지구 왕좌 격돌",
+      subtitle: "베이커 메이필드의 탬파베이, 커크 커즌스의 애틀랜타 원정서 단독 선두 도전",
+      excerpt: "NFL 5주 차 목요 야간 경기에서 3승 1패의 탬파베이 버커니어스와 2승 2패의 애틀랜타 팰컨스가 지구 1위를 놓고 맞붙는다.",
+      body: [
+        "메이필드는 8개의 터치다운 패스와 레이팅 106.9를 기록하며 올 시즌 NFC 최고의 패서로 부활했습니다.",
+        "팰컨스는 지난주 종료 직전 구영회의 58야드 필드골로 세인츠를 제압한 기세를 몰아 홈 승리를 노립니다.",
+        "이번 맞대결의 승리 팀은 5주 차 종료 시점에서 NFC 남부지구 단독 1위로 올라서게 됩니다.",
+      ],
+    },
+    ar: {
+      title: "كرة القدم الأمريكية: صراع الصدارة بين بوكانيرز وفالكونز في ليلة الخميس",
+      subtitle: "بيكر مايفيلد يقود هجوم تامبا الناري في مواجهة كيرك كوزنز وأتلانتا على قمة القسم.",
+      excerpt: "تتجه أنظار عشاق الـ NFL ليلة الخميس نحو أتلانتا حيث يصطدم تامبا باي بوكانيرز (3-1) بفالكونز (2-2) لحسم الصدارة.",
+      body: [
+        "يتصدر بيكر مايفيلد تصنيف المؤتمر الوطني بثماني تمريرات حاسمة للهدف وتقييم مذهل بلغ 106.9 نقطة.",
+        "يدخل أتلانتا اللقاء بمعنويات مرتفعة عقب فوزه الدرامي على نيو أورليانز بركلة ميدانية قاتلة من مسافة 58 ياردة.",
+        "سيمنح الفوز في هذه المواجهة المباشرة صاحبه الانفراد بصدارة القسم الجنوبي بعد خمس جولات من الموسم.",
+      ],
+    },
+  },
+  'international-window-nations-league-md3-italy-belgium-conmebol-2026': {
+    fr: {
+      title: "Trêve internationale : l’Italie accueille la Belgique, qualifications sous haute tension en Amérique du Sud",
+      subtitle: "La Nazionale de Spalletti vise la passe de trois tandis que le Brésil joue sa survie au Chili.",
+      excerpt: "L'Europe et l'Amérique du Sud s'embrasent : l'Italie défie la Belgique en Ligue des Nations alors que Messi revient et que le Brésil tremble.",
+      body: [
+        "L’Italie de Luciano Spalletti caracole en tête du groupe A2 avec deux victoires de prestige face à la France et Israël.",
+        "La Belgique arrive à Rome privée de Kevin De Bruyne et Romelu Lukaku, misant sur la vitesse de Jeremy Doku.",
+        "En qualifications sud-américaines, le Brésil pointe à une inquiétante 5e place et n'a pas le droit à l'erreur au Chili.",
+      ],
+    },
+    es: {
+      title: "Ventana internacional: Italia recibe a Bélgica en Roma; máxima tensión en las eliminatorias de Sudamérica",
+      subtitle: "La Azzurri de Spalletti busca el pleno de puntos mientras Brasil afronta una prueba límite en Chile.",
+      excerpt: "El fútbol de selecciones acapara los focos con el duelo Italia-Bélgica en Nations League y la angustia de Brasil en las eliminatorias de CONMEBOL.",
+      body: [
+        "Italia lidera su grupo de Nations League con seis puntos tras sus brillantes triunfos ante Francia e Israel.",
+        "Bélgica se presenta en el Olímpico de Roma sin De Bruyne ni Lukaku, confiando su ataque al desborde de Doku.",
+        "En Sudamérica, Brasil ocupa una comprometida quinta posición y viaja a Santiago obligado a ganar a Chile.",
+      ],
+    },
+    de: {
+      title: "Länderspielpause: Italien empfängt Belgien in Rom, Hochspannung in der Südamerika-Qualifikation",
+      subtitle: "Spallettis erstarkte Azzurri jagen die perfekte Ausbeute; Brasilien in Chile unter immensem Erfolgsdruck.",
+      excerpt: "Hochkarätige Länderspiele im Oktober: Italien trifft in der Nations League auf Belgien, während Brasilien um die WM-Teilnahme bangt.",
+      body: [
+        "Italien führt die Gruppe A2 nach Siegen über Frankreich und Israel mit sechs Punkten souverän an.",
+        "Belgien reist ohne die verletzten Leistungsträger Kevin De Bruyne und Romelu Lukaku ins Stadio Olimpico.",
+        "In Südamerika steht Rekordweltmeister Brasilien auf Rang fünf und benötigt in Chile dringend einen Befreiungsschlag.",
+      ],
+    },
+    it: {
+      title: "Finestra nazionali: l’Italia ospita il Belgio a Roma, tensione alle stelle nelle qualificazioni sudamericane",
+      subtitle: "Gli Azzurri di Spalletti cercano la terza vittoria consecutiva; il Brasile si gioca tutto a Santiago del Cile.",
+      excerpt: "Il calcio internazionale regala sfide da brivido: Italia contro Belgio all'Olimpico e il ritorno di Messi con l'Argentina.",
+      body: [
+        "L’Italia comanda il gruppo A2 di Nations League a punteggio pieno dopo le convincenti prove contro Francia e Israele.",
+        "Il Belgio si presenta a Roma orfano di Kevin De Bruyne e Romelu Lukaku, affidandosi alla verve di Jeremy Doku.",
+        "Nelle qualificazioni CONMEBOL il Brasile naviga al quinto posto ed è costretto a vincere in Cile per scacciare la crisi.",
+      ],
+    },
+    pl: {
+      title: "Przerwa na kadry: Włochy podejmują Belgię w Rzymie, gorąco w eliminacjach w Ameryce Południowej",
+      subtitle: "Odrodzona ekipa Spallettiego walczy o trzecie zwycięstwo, a Brazylia gra o życie w Chile.",
+      excerpt: "Futbol reprezentacyjny wraca w wielkim stylu: hit Włochy - Belgia w Lidze Narodów oraz walka Brazylii o mundial.",
+      body: [
+        "Włosi prowadzą w grupie A2 z kompletem punktów po imponujących wygranych nad Francją i Izraelem.",
+        "Belgowie przylatują do Rzymu bez kontuzjowanych Kevina De Bruyne i Romelu Lukaku.",
+        "W strefie CONMEBOL Brazylia zajmuje dopiero piąte miejsce i nie może pozwolić sobie na potknięcie w Santiago.",
+      ],
+    },
+    zh: {
+      title: "国际比赛日：意大利坐镇罗马迎击比利时，南美世预赛巴西客战智利命悬一线",
+      subtitle: "斯帕莱蒂率蓝衣军团冲击三连胜，五星巴西深陷泥潭急需在圣地亚哥止颓",
+      excerpt: "国家队赛事烽烟再起：欧国联意大利主场对决缺少德布劳内的比利时，南美区世预赛巴西则面临巨大保线危机。",
+      body: [
+        "意大利在斯帕莱蒂的3-5-1-1新阵下连克法国与以色列，积6分领跑欧国联A2组。",
+        "比利时客战罗马面临阵容重组，德布劳内与卢卡库缺阵使多库承担起进攻组织核心重任。",
+        "南美区世预赛八轮仅积10分的巴西队滑落至第五位，客场对阵智利唯有取胜才能避免舆论危机。",
+      ],
+    },
+    ja: {
+      title: "代表ウィーク：イタリアがローマでベルギーと激突、南米予選では崖っぷちのブラジルがチリ戦へ",
+      subtitle: "復活のイタリアが3連勝を狙う一方、低迷するセレソンは敵地サンティアゴで正念場",
+      excerpt: "欧州ネーションズリーグ屈指の好カード伊白対決と、W杯南米予選で5位に沈むブラジルの必勝戦が幕を開ける。",
+      body: [
+        "スパレッティ率いるイタリアはフランスとイスラエルを連破し、勝ち点6でグループA2の首位に立ちます。",
+        "ベルギーはデ・ブライネとルカクを欠く苦しい陣容で敵地スタディオ・オリンピコに乗り込みます。",
+        "南米予選で直近5戦4敗と不振にあえぐブラジルは、チリ戦で是が非でも勝ち点3を奪わねばなりません。",
+      ],
+    },
+    ko: {
+      title: "A매치 주간: 이탈리아 로마서 벨기에와 격돌, 남美 예선선 벼랑 끝 브라질 칠레 원정",
+      subtitle: "스팔레티의 아주리 군단 3연승 정조준, 5위로 추락한 브라질 산티아고서 배수진",
+      excerpt: "유럽 네이션스리그 이탈리아-벨기에 빅매치와 함께 월드컵 본선 진출 위기에 몰린 브라질의 남미 예선전이 펼쳐진다.",
+      body: [
+        "이탈리아는 프랑스와 이스라엘을 차례로 꺾으며 승점 6점으로 네이션스리그 리그A 2조 선두를 달리고 있습니다.",
+        "벨기에는 데브라위너와 루카쿠가 결장한 가운데 도쿠의 돌파력에 기대를 걸고 로마 원정에 임합니다.",
+        "남미 예선 8경기 승점 10점으로 5위까지 떨어진 브라질은 칠레 원정에서 반드시 승점 3점을 따내야 합니다.",
+      ],
+    },
+    ar: {
+      title: "فترة التوقف الدولي: إيطاليا تواجه بلجيكا في روما، وتصفيات أمريكا الجنوبية تبلغ ذروة الإثارة",
+      subtitle: "إيطاليا سباليتي تسعى للعلامة الكاملة، بينما تواجه البرازيل ضغوطاً خانقة في تشيلي.",
+      excerpt: "تعود منافسات المنتخبات بقوة هذا الأسبوع بقمة إيطاليا وبلجيكا في دوري الأمم، واختبار مصيري للبرازيل بتصفيات المونديال.",
+      body: [
+        "تتصدر إيطاليا مجموعتها بست نقاط بعد انتصارين مدويين خارج الديار على حساب فرنسا وإسرائيل.",
+        "وتخوض بلجيكا مواجهة روما في غياب نجميها كيفين دي بروين وروميلو لوكاكو معتمدة على سرعة جيريمي دوكو.",
+        "وفي تصفيات أمريكا الجنوبية، تحتل البرازيل المركز الخامس برصيد 10 نقاط وتواجه مهمة مصيرية أمام تشيلي في سانتياغو.",
+      ],
+    },
+  },
+  'f1-austin-us-gp-redbull-upgrade-package-lawson-penalty-2026': {
+    fr: {
+      title: "F1 triplé américain : Red Bull finalise son fond plat pour Austin, Lawson sous le coup d’une pénalité",
+      subtitle: "Milton Keynes apporte un package aéro décisif pendant que Liam Lawson entame un test à très haute pression.",
+      excerpt: "Avant le Grand Prix des États-Unis à Austin, Red Bull prépare des évolutions majeures pour freiner McLaren, tandis que Lawson débutera avec un handicap.",
+      body: [
+        "Red Bull apporte à Austin une version profondément remaniée du fond plat de la RB20 pour redonner de la stabilité à Verstappen.",
+        "Lando Norris ne compte plus que 52 points de retard au championnat et McLaren mène les constructeurs de 41 unités.",
+        "Liam Lawson, remplaçant de Daniel Ricciardo chez RB, écopera d'une pénalité de 10 places sur la grille pour changement de moteur.",
+      ],
+    },
+    es: {
+      title: "F1 triplete americano: Red Bull ultima el suelo de Austin mientras Lawson asume una penalización",
+      subtitle: "Milton Keynes presenta un paquete aerodinámico crucial y Liam Lawson afronta una exigente prueba de fuego.",
+      excerpt: "La Fórmula 1 aterriza en el Circuito de las Américas con Red Bull jugándose el mundial con su nuevo suelo y Lawson debutando con sanción.",
+      body: [
+        "Red Bull confía en su nuevo suelo para solucionar los problemas de equilibrio del RB20 frente a la amenaza de McLaren.",
+        "Norris está a 52 puntos de Verstappen y McLaren lidera el mundial de constructores por 41 puntos de ventaja.",
+        "Liam Lawson saldrá desde el fondo de la parrilla en su debut con RB debido a una penalización de motor heredada de Ricciardo.",
+      ],
+    },
+    de: {
+      title: "F1 Amerika-Triple: Red Bull finalisiert Austin-Unterboden, Lawson droht Startplatzstrafe",
+      subtitle: "Milton Keynes bringt entscheidendes Aerodynamik-Paket; Liam Lawson vor Reifeprüfung im RB.",
+      excerpt: "Vor dem Großen Preis der USA auf dem COTA setzt Red Bull alles auf ein neues Unterboden-Konzept, während Debütant Lawson strafversetzt wird.",
+      body: [
+        "Red Bull hat in der Herbstpause den Unterboden des RB20 umfassend überarbeitet, um Norris' Aufholjagd zu stoppen.",
+        "McLaren führt die Konstrukteurswertung mit 41 Punkten Vorsprung an; Norris liegt 52 Zähler hinter Verstappen.",
+        "Liam Lawson übernimmt das RB-Cockpit von Ricciardo, muss in Texas aber wegen Motortauschs zehn Plätze zurück.",
+      ],
+    },
+    it: {
+      title: "F1 trittico americano: Red Bull vara il nuovo fondo per Austin, Lawson parte con penalità",
+      subtitle: "A Milton Keynes pacchetto aerodinamico da dentro o fuori; debutto in salita per Liam Lawson.",
+      excerpt: "In vista del GP degli Stati Uniti ad Austin, Red Bull svela gli attesi aggiornamenti per difendersi dalla rimonta McLaren.",
+      body: [
+        "Il nuovo fondo della RB20 punta a restituire stabilità a Verstappen sui cordoli e nelle curve veloci del COTA.",
+        "Lando Norris insegue a 52 punti di distanza, mentre McLaren difende 41 punti di margine tra i costruttori.",
+        "Liam Lawson esordirà sulla vettura di Faenza dovendo scontare 10 posizioni di penalità sulla griglia di domenica.",
+      ],
+    },
+    pl: {
+      title: "F1 amerykański tryptyk: Red Bull kończy poprawki podłogi na Austin, Lawson z karą na starcie",
+      subtitle: "Milton Keynes szykuje decydujący pakiet aero, podczas gdy Liam Lawson staje przed arcytrudnym testem.",
+      excerpt: "Formuła 1 przygotowuje się do GP Stanów Zjednoczonych w Austin. Red Bull wprowadza kluczowe modyfikacje w walce z McLarenem.",
+      body: [
+        "Zmodernizowana podłoga bolidu RB20 ma wyeliminować podsterowność i przywrócić Verstappenowi przewagę w Teksasie.",
+        "McLaren prowadzi w klasyfikacji konstruktorów z 41 punktami przewagi, a Norris traci do lidera 52 punkty.",
+        "Liam Lawson, który zastąpił Daniela Ricciardo, wystartuje do niedzielnego wyścigu z karą cofnięcia o 10 pozycji.",
+      ],
+    },
+    zh: {
+      title: "F1美洲三连赛：红牛定型奥斯汀底板大升级，劳森替补登场面临发车罚退",
+      subtitle: "米尔顿凯恩斯工厂推出关键空力套件，利亚姆劳森在得州迎来严峻大考",
+      excerpt: "F1美国大奖赛前瞻：红牛在奥斯汀赛道祭出决定赛季命运的底板升级，而劳森因继承里卡多引擎配额将接受罚退。",
+      body: [
+        "红牛工程师利用秋季休整期全面重新设计了RB20的底板通道与进气口，力求解决困扰维斯塔潘的过弯平衡顽疾。",
+        "诺里斯在车手积分榜上仅落后维斯塔潘52分，而迈凯伦手握41分车队优势向总冠军发起最后冲击。",
+        "接替里卡多出战最后六站的劳森将在周日正赛中接受罚退10位的引擎更换处罚，面临严峻逆风局。",
+      ],
+    },
+    ja: {
+      title: "F1アメリカ3連戦：レッドブルがオースティン向け新フロアを投入、ローソンは降格ペナルティへ",
+      subtitle: "タイトル死守を期すレッドブルの大型改良と、試練の復帰戦を迎えるリアム・ローソン",
+      excerpt: "オースティンのCOTAで開催されるアメリカGPを前に、レッドブルが勝負の空力パーツを投入。マクラーレンとの攻防が熱を帯びる。",
+      body: [
+        "レッドブルはRB20のアンダーフロアを大幅に刷新し、フェルスタッペンのマシンの挙動安定化を図ります。",
+        "コンストラクターズで41点先行するマクラーレンに対し、52点差で追うノリスが逆転王座を狙います。",
+        "リカルドの後任としてRBのシートを得たローソンは、PU交換ペナルティにより後方グリッドからの発進を強いられます。",
+      ],
+    },
+    ko: {
+      title: "F1 아메리카 3연전: 레드불 오스틴 바닥 대규모 업그레이드, 로슨은 그리드 페널티 직면",
+      subtitle: "밀턴킨스의 승부수 에어로 패키지와 시련의 복귀전을 치르는 리암 로슨",
+      excerpt: "미국 GP를 앞두고 레드불이 맥라렌의 맹추격을 뿌리치기 위해 RB20 바닥 설계를 전면 수정했다.",
+      body: [
+        "레드불은 고속 코너와 연석 주행 안정성을 되찾기 위해 COTA에 대대적인 바닥 업그레이드를 투입합니다.",
+        "노리스는 베르스타펜을 52점 차로 추격 중이며, 맥라렌은 컨스트럭터 41점 리드를 지키고 있습니다.",
+        "비자 캐시앱 RB의 신예 로슨은 리카도의 엔진 사용 한도 초과로 인해 10그리드 강등 페널티를 안고 달립니다.",
+      ],
+    },
+    ar: {
+      title: "فورمولا 1: ريد بل تكمل ترقية أرضية أوستن، وليام لوسون يواجه عقوبة التراجع على شبكة الانطلاق",
+      subtitle: "حزمة ديناميكية هوائية حاسمة في تكساس، واختبار بالغ الصعوبة للنيوزيلندي لوسون.",
+      excerpt: "يستعد فريق ريد بل لسباق جائزة الولايات المتحدة الكبرى بتحديثات جذرية لإيقاف تفوق مكلارين الكاسح.",
+      body: [
+        "صممت ريد بل أرضية جديدة تماماً لسيارة RB20 لإعادة التوازن المفقود لماكس فيرستابين في المنعطفات السريعة.",
+        "يتقلص الفارق بين فيرستابين ونوريس إلى 52 نقطة مع تبقي ست جولات، بينما تتصدر مكلارين بطولة الصانعين بـ 41 نقطة.",
+        "سيبدأ الشاب ليام لوسون مشاركته مع فريق RB من المراكز المتأخرة بسبب عقوبة المحرك التي ورثها عن ريكاردو.",
+      ],
+    },
+  },
+  'pga-black-desert-championship-utah-round1-tee-times-kevin-yu-2026': {
+    fr: {
+      title: "PGA Tour en Utah : départs du 1er tour calés pour le Black Desert Championship entre roches et lave",
+      subtitle: "Après 61 ans d’absence, le circuit retrouve l’Utah avec un trio de choix : Kevin Yu, Keith Mitchell et Beau Hossler.",
+      excerpt: "Le Black Desert Resort accueille le PGA Tour sur un tracé somptueux bordé de lave noire où la lutte pour les cartes 2027 fait rage.",
+      body: [
+        "Le PGA Tour fait son retour en Utah pour la première fois depuis l'Utah Open 1963 remporté par Tommy Jacobs.",
+        "Kevin Yu, tout juste couronné à Jackson, dispute le premier tour aux côtés de Keith Mitchell et Beau Hossler.",
+        "Les joueurs classés entre la 51e et la 60e place visent le précieux sésame pour les Signature Events 2027.",
+      ],
+    },
+    es: {
+      title: "PGA Tour en Utah: horarios listos para la R1 del Black Desert Championship entre roca roja y lava",
+      subtitle: "Tras 61 años de ausencia, el golf de élite regresa a Utah con Kevin Yu, Keith Mitchell y Beau Hossler en el grupo estelar.",
+      excerpt: "El PGA Tour vuelve a Utah sobre los campos de lava negra de Black Desert, con la supervivencia en la FedExCup Fall en juego.",
+      body: [
+        "Hacía 61 años que el PGA Tour no pisaba Utah, desde el triunfo de Tommy Jacobs en el Utah Open de 1963.",
+        "Kevin Yu parte como flamante campeón de Mississippi compartiendo partido con Mitchell y Hossler en un duelo de revancha.",
+        "Estar entre los puestos 51 y 60 asegura billete a dos torneos designados de 20 millones de dólares en 2027.",
+      ],
+    },
+    de: {
+      title: "PGA Tour in Utah: Startzeiten für Runde 1 der Black Desert Championship fixiert",
+      subtitle: "Nach 61 Jahren kehrt die PGA Tour nach Utah zurück: Kevin Yu, Keith Mitchell und Beau Hossler im Fokus.",
+      excerpt: "Im atemberaubenden Black Desert Resort zwischen rotem Sandstein und schwarzer Basaltlava startet die PGA Tour in ihr Utah-Comeback.",
+      body: [
+        "Zuletzt gastierte die PGA Tour 1963 in Utah, als Tommy Jacobs die Utah Open für sich entschied.",
+        "Sanderson-Farms-Sieger Kevin Yu teet am Donnerstag gemeinsam mit den knapp geschlagenen Mitchell und Hossler auf.",
+        "Im FedExCup Fall geht es um die Plätze 51 bis 60 für die lukrativen Signature Events der kommenden Saison.",
+      ],
+    },
+    it: {
+      title: "PGA Tour nello Utah: partenze del 1° giro fissate per il Black Desert Championship tra roccia e lava",
+      subtitle: "Dopo 61 anni il grande golf torna nello Utah con Kevin Yu, Keith Mitchell e Beau Hossler nel gruppo di testa.",
+      excerpt: "Scenario mozzafiato al Black Desert Resort: fairway incastonati nella lava nera e punti pesanti in palio per la FedExCup Fall.",
+      body: [
+        "L’ultimo evento PGA Tour disputato nello Utah risaliva all'Open del 1963 vinto da Tommy Jacobs.",
+        "Kevin Yu, reduce dal trionfo al playoff in Mississippi, gioca il primo giro con Keith Mitchell e Beau Hossler.",
+        "La top 60 garantisce l'accesso ai ricchissimi Signature Events da 20 milioni di dollari del 2027.",
+      ],
+    },
+    pl: {
+      title: "PGA Tour w Utah: godziny startów 1. rundy Black Desert Championship ustalone wśród czerwonych skał i lawy",
+      subtitle: "Po 61 latach przerwy elita golfa wraca do Utah: Kevin Yu, Keith Mitchell i Beau Hossler w grupie gwiazd.",
+      excerpt: "Niezwykłe pole Black Desert Resort gości PGA Tour po raz pierwszy od 1963 roku w kluczowym turnieju FedExCup Fall.",
+      body: [
+        "Poprzedni turniej PGA Tour w stanie Utah odbył się w 1963 roku, gdy triumfował Tommy Jacobs.",
+        "Kevin Yu po zwycięstwie w Jackson zagra w czwartek w jednej grupie z Keithem Mitchellem i Beau Hosslerem.",
+        "Walka toczy się o miejsca 51-60 w klasyfikacji generalnej, dające wstęp do prestiżowych turniejów w 2027 roku.",
+      ],
+    },
+    zh: {
+      title: "美巡赛重返犹他：黑沙漠锦标赛第1轮出发时间出炉，红岩与黑熔岩交织保卡大决战",
+      subtitle: "时隔61年美巡赛再驻犹他州，新科冠军俞俊安携手米切尔、霍斯勒上演焦点同组",
+      excerpt: "美巡赛在风景绝伦的黑沙漠度假村迎来历史性回归，玄武岩熔岩地貌与联邦快递杯秋季赛晋级资格争夺交相辉映。",
+      body: [
+        "这是自1963年汤米·雅各布斯赢得犹他公开赛以来，美巡赛时隔61年首次在犹他州举办正式赛事。",
+        "刚刚在杰克逊夺得巡回赛首冠的俞俊安，与在加洞赛遗憾落败的霍斯勒和前三轮领先者米切尔同组出发。",
+        "秋季积分排名前51至60位的选手将直接获得2027赛季两场两千万美元奖金的标志性赛事入场券。",
+      ],
+    },
+    ja: {
+      title: "PGAツアー・ユタ開催：ブラックデザート選手権第1Rの組み合わせ決定、赤岩と黒溶岩の決戦へ",
+      subtitle: "61年ぶりのユタ州復帰戦で初優勝のケビン・ユー、キース・ミッチェル、ボー・ホスラーが注目組を結成",
+      excerpt: "息を呑む絶景のブラックデザート・リゾートでPGAツアーが開幕。フェデックスカップ秋季シリーズのシード権争いが佳境へ。",
+      body: [
+        "ユタ州でのPGAツアー開催は、トミー・ジェイコブスが制した1963年ユタ・オープン以来実に61年ぶりとなります。",
+        "ミシシッピでツアー初制覇を果たしたケビン・ユーが、惜敗したミッチェルとホスラーと同組で1回戦をスタートします。",
+        "秋季ポイント51位から60位に与えられる2027年シグネチャー大会への出場枠を巡り、緊迫の攻防が繰り広げられます。",
+      ],
+    },
+    ko: {
+      title: "PGA 투어 유타 상륙: 블랙 데저트 챔피언십 1R 티타임 확정, 붉은 암벽과 검은 용암의 혈투",
+      subtitle: "61년 만의 유타 복귀 무대서 첫 승의 케빈 유, 키스 미첼·보 호슬러와 운명의 동반 플레이",
+      excerpt: "톰 와이스코프가 설계한 블랙 데저트 리조트에서 PGA 투어가 61년 만에 재개되며 가을 시리즈 보너스 티켓 경쟁이 불붙었다.",
+      body: [
+        "유타주에서 PGA 투어 대회가 열리는 것은 토미 제이콥스가 우승했던 1963년 유타 오픈 이후 61년 만입니다.",
+        "샌더슨 팜스에서 연장 끝에 생애 첫 승을 거둔 케빈 유가 미첼, 호슬러와 첫날 오전 동반 라운드에 나섭니다.",
+        "가을 시리즈 51~60위에 주어지는 2027년 2천만 달러 특급 대회 출전권을 차지하기 위한 사투가 시작됩니다.",
+      ],
+    },
+    ar: {
+      title: "جولة PGA في يوتا: تحديد مواعيد انطلاق الدور الأول لبطولة بلاك دازرت وسط الحمم السوداء",
+      subtitle: "بعد غياب 61 عاماً، تعود جولة PGA ليوتا مع البطل كيفن يو وكيث ميتشل وبو هوسلر في مجموعة واحدة.",
+      excerpt: "يحتضن منتجع بلاك دازرت عودة تاريخية للجولة الأمريكية وسط تضاريس بركانية خلابة وصراع محموم على بطاقات الموسم المقبل.",
+      body: [
+        "تسجل ولاية يوتا عودتها لروزنامة جولة PGA للمرة الأولى منذ فوز تومي جاكوبس ببطولة يوتا المفتوحة عام 1963.",
+        "وينطلق كيفن يو، المتوج حديثاً في ميسيسيبي، في مجموعة الصباح الباكر إلى جانب غريميه كيث ميتشل وبو هوسلر.",
+        "يسعى اللاعبون للتواجد ضمن المراكز من 51 إلى 60 في كأس فيديكس الخريفية لضمان التأهل لبطولات 2027 الكبرى.",
       ],
     },
   },

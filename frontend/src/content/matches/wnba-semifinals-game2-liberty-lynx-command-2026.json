@@ -1,0 +1,82 @@
+{
+  "funFacts": [
+    "Teams taking a 2-0 series lead in best-of-five WNBA playoff history are 24-1 all-time (96 percent series win rate).",
+    "Sabrina Ionescu scored 24 points with five three-pointers, marking her third consecutive playoff game with at least 20 points.",
+    "Napheesa Collier became the first player in WNBA postseason history to record at least 25 points and 10 rebounds in consecutive playoff games."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Sabrina Ionescu",
+      "team": "New York Liberty",
+      "hook": "Scored 24 points with nine rebounds and five assists, hitting the clutch step-back jumper with 41 seconds remaining."
+    },
+    {
+      "name": "Napheesa Collier",
+      "team": "Minnesota Lynx",
+      "hook": "Poured in 26 points, 11 rebounds, and four steals to power Minnesota to an 84-78 Game 2 victory over Indiana."
+    }
+  ],
+  "headToHead": "New York leads Las Vegas 2-0; Minnesota leads Indiana 2-0 in the best-of-five Semifinals.",
+  "tags": [
+    "wnba",
+    "playoffs",
+    "semifinals",
+    "liberty",
+    "aces",
+    "lynx",
+    "fever",
+    "sabrina-ionescu",
+    "napheesa-collier"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Semifinals · Game 2 Double-Header",
+  "resultSummary": "FINAL: Liberty 88, Aces 84 (NY leads 2-0); Lynx 84, Fever 78 (MIN leads 2-0)",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "WNBA.com: Semifinals Game 2 official box scores and recap",
+      "url": "https://www.wnba.com/playoffs/2026/semifinals-game-2-recaps"
+    },
+    {
+      "name": "ESPN: Liberty, Lynx take 2-0 leads in WNBA semifinals",
+      "url": "https://www.espn.com/wnba/story/_/id/41589120/wnba-semifinals-game-2-liberty-lynx-take-2-0-leads"
+    },
+    {
+      "name": "The Athletic: Sabrina Ionescu clutch shooting pushes Aces to brink",
+      "url": "https://www.nytimes.com/athletic/wnba/liberty-aces-game2-ionescu-takeaways"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 88,
+  "awayScore": 84,
+  "slug": "wnba-semifinals-game2-liberty-lynx-command-2026",
+  "headline": "Liberty 88-84 Aces, Lynx 84-78 Fever: New York and Minnesota take 2-0 leads",
+  "whyCareScore": 9.9,
+  "whyCareReason": "Only one team in WNBA postseason history has ever climbed out of an 0-2 deficit in a best-of-five series, leaving the two-time defending champion Aces and Caitlin Clark on the brink of elimination.",
+  "teaser": "Sabrina Ionescu dropped 24 points to fend off Las Vegas in Brooklyn, while Napheesa Collier powered Minnesota past Indiana with 26 points and 11 boards.",
+  "story": "Why this one matters: Tuesday night pushed the two most talked-about basketball stories of the year to the razor edge of survival. When the dust settled in Brooklyn and Minneapolis, both higher seeds protected home court to build commanding 2-0 series advantages.\n\nAt Barclays Center, the New York Liberty withstood a furious fourth-quarter charge from the two-time defending champion Las Vegas Aces to secure an 88-84 triumph. Sabrina Ionescu put on an electrifying display, pouring in 24 points, nine rebounds, and five assists, including five three-pointers and the decisive pull-up jumper with 41 seconds remaining. Breanna Stewart provided 15 points and eight assists, neutralizing a valiant 24-point, four-block effort from unanimous MVP A'ja Wilson.\n\nTwo hours later at Target Center, the top-seeded Minnesota Lynx completed their own sweep of home court with an 84-78 victory over the Indiana Fever. Napheesa Collier continued her historic postseason run with 26 points, 11 rebounds, and four steals. Despite 21 points and eight assists from Caitlin Clark, Minnesota's league-leading defense clamped down in the closing minutes, keeping Indiana without a field goal for over four minutes to seal the win.",
+  "stakes": "Historical survival: teams taking a 2-0 lead in best-of-five WNBA history have advanced in 24 of 25 all-time series (96 percent). Game 3 moves to Las Vegas and Indianapolis on Friday.",
+  "rivalryAngle": "New York is now one victory away from banishing the ghosts of the 2023 Finals, while Minnesota looks to close out Clark's rookie postseason run in front of a hostile road crowd.",
+  "home": "New York Liberty",
+  "away": "Las Vegas Aces",
+  "group": "WNBA",
+  "date": "2026-10-06",
+  "time": "19:30",
+  "venue": "Barclays Center",
+  "city": "New York",
+  "status": "FINISHED",
+  "sport": "basketball",
+  "competition": "wnba-playoffs-2026"
+}

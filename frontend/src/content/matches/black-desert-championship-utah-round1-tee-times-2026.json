@@ -1,0 +1,111 @@
+{
+  "funFacts": [
+    "The Black Desert Championship marks the PGA Tour's first tournament in the state of Utah since Tommy Jacobs won the 1963 Utah Open 61 years ago.",
+    "Kevin Yu vaulted 36 spots to No. 60 in the FedExCup Fall standings after birdieing the 72nd hole and winning a sudden-death playoff at the Sanderson Farms Championship.",
+    "The par-71 Tom Weiskopf design features dramatic black basalt lava fields bordering all 18 holes against the backdrop of red Navajo sandstone cliffs."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kevin Yu",
+      "team": "Chinese Taipei",
+      "hook": "Fresh off his maiden PGA Tour playoff victory in Jackson, Mississippi, Yu aims to cement his place inside the lucrative Aon Next 10."
+    },
+    {
+      "name": "Keith Mitchell",
+      "team": "United States",
+      "hook": "Seeking immediate redemption after holding a three-shot 54-hole lead in Mississippi before finishing one shot out of the playoff."
+    }
+  ],
+  "headToHead": "Yu defeated Beau Hossler on the first playoff hole at Country Club of Jackson; Mitchell finished T3.",
+  "tags": [
+    "pga-tour",
+    "fedexcup-fall",
+    "black-desert-championship",
+    "utah",
+    "kevin-yu",
+    "keith-mitchell",
+    "beau-hossler"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 1,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Round 1 Tee Times · Inaugural Championship",
+  "resultSummary": "UPCOMING: Round 1 begins Thursday 07:30 MDT · Black Desert Resort · Ivins, Utah",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Kevin Yu",
+      "score": "-23 (Winner)",
+      "note": "Sanderson Farms Champion"
+    },
+    {
+      "pos": "2",
+      "name": "Beau Hossler",
+      "score": "-23 (P2)",
+      "note": "Playoff Runner-up"
+    },
+    {
+      "pos": "T3",
+      "name": "Keith Mitchell",
+      "score": "-20",
+      "note": "54-Hole Leader"
+    },
+    {
+      "pos": "T4",
+      "name": "Alex Smalley",
+      "score": "-19",
+      "note": "Top 5 Finish"
+    },
+    {
+      "pos": "T5",
+      "name": "Sepp Straka",
+      "score": "-18",
+      "note": "Featured Group"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "PGATOUR.com: Black Desert Championship Round 1 tee times and featured groups",
+      "url": "https://www.pgatour.com/tournaments/2026/black-desert-championship/tee-times"
+    },
+    {
+      "name": "Golfweek: PGA Tour returns to Utah after 61 years at Black Desert Resort",
+      "url": "https://golfweek.usatoday.com/2026/10/pga-tour-utah-black-desert-championship-preview/"
+    },
+    {
+      "name": "The Athletic: Keith Mitchell and Kevin Yu headline Utah desert debut",
+      "url": "https://www.nytimes.com/athletic/golf/pga-tour-black-desert-preview-mitchell-yu"
+    }
+  ],
+  "format": "leaderboard",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "black-desert-championship-utah-round1-tee-times-2026",
+  "headline": "PGA Tour in Utah: Black Desert Championship Round 1 tee times locked amid red rocks and black lava",
+  "whyCareScore": 8.8,
+  "whyCareReason": "The PGA Tour tees off in Utah for the first time in 61 years at Black Desert Resort with Kevin Yu riding his maiden victory and Keith Mitchell seeking immediate redemption.",
+  "teaser": "132 players tackle Tom Weiskopf's dramatic par-71 volcanic layout in Greater Zion with FedExCup Fall cards and Aon Next 10 spots hanging in the balance.",
+  "story": "Why this one matters: For more than six decades, the PGA Tour was a stranger to the state of Utah. On Thursday morning in Ivins, beneath the colossal red sandstone monoliths of Greater Zion, that 61-year drought comes to a spectacular end.\n\nThe inaugural Black Desert Championship brings 132 players to one of the most visually mesmerizing golf courses on the planet. Designed by the late Tom Weiskopf and Phil Smith, the 7,371-yard par-71 layout weaves through jet-black basalt lava flows erupted thousands of years ago from neighboring cinder cones. Missing a fairway here is not just a hazard: it is an immediate ball-strike against jagged volcanic rock.\n\nThe human drama in the field is just as sharp. Kevin Yu enters the week as the tour's newest champion after an emotional playoff breakthrough in Jackson, Mississippi. The victory catapulted the 26-year-old from No. 96 to No. 60 in the FedExCup Fall standings, right on the bubble of the Aon Next 10. Appropriately, tournament organizers have paired Yu in the premier morning group alongside Keith Mitchell and Beau Hossler, the two men whose Sunday heartbreaks in Mississippi made Yu's celebration possible.",
+  "stakes": "FedExCup Fall positioning: players finishing Nos. 51-60 qualify for the AT&T Pebble Beach Pro-Am and The Genesis Invitational in 2027, while those outside the top 125 fight for PGA Tour cards.",
+  "rivalryAngle": "Keith Mitchell led by three shots through 54 holes at Sanderson Farms before a Sunday 70 left him one stroke short; he tees off directly alongside playoff victor Kevin Yu.",
+  "home": "Kevin Yu",
+  "away": "Keith Mitchell",
+  "group": "PGA Tour",
+  "date": "2026-10-07",
+  "time": "07:30",
+  "venue": "Black Desert Resort Golf Course",
+  "city": "Ivins",
+  "status": "UPCOMING",
+  "sport": "golf",
+  "competition": "pga-tour-fedexcup-fall-2026"
+}

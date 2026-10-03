@@ -1,0 +1,89 @@
+{
+  "funFacts": [
+    "Carlos Alcaraz extended his winning streak to 10 consecutive matches, having won the China Open in Beijing earlier in the week.",
+    "Jannik Sinner secured his 60th ATP singles match win of the season, becoming the first male player born in the 2000s to achieve back-to-back 60-win seasons.",
+    "Four-time Shanghai champion Novak Djokovic makes his return to the tournament for the first time since 2019, targeting his 100th career ATP singles title."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Carlos Alcaraz",
+      "team": "Spain",
+      "hook": "Crushed 12 winners and won 82 percent of his first-serve points without facing a break point in a 76-minute dismissal of Shang Juncheng."
+    },
+    {
+      "name": "Jannik Sinner",
+      "team": "Italy",
+      "hook": "World No. 1 fired 12 aces and committed just five unforced errors to defeat Taro Daniel 6-1, 6-4 in his opening match."
+    }
+  ],
+  "headToHead": "Alcaraz leads Shang 2-0; Sinner leads Daniel 2-0; Djokovic leads Michelsen 0-0 in opening match.",
+  "tags": [
+    "tennis",
+    "shanghai-masters",
+    "atp-1000",
+    "carlos-alcaraz",
+    "jannik-sinner",
+    "novak-djokovic",
+    "stan-wawrinka"
+  ],
+  "homeCode": "es",
+  "awayCode": "cn",
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Round of 64 · Second Round",
+  "resultSummary": "FINAL: Alcaraz d. Shang 6-2, 6-2; Sinner d. Daniel 6-1, 6-4; Djokovic arrives",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "6",
+      "p2": "2"
+    },
+    {
+      "p1": "6",
+      "p2": "2"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP Tour: Alcaraz sails through Shanghai opener against Shang",
+      "url": "https://www.atptour.com/en/news/alcaraz-shang-shanghai-2026-saturday"
+    },
+    {
+      "name": "ATP Tour: Sinner reaches 60-win milestone with Daniel victory",
+      "url": "https://www.atptour.com/en/news/sinner-daniel-shanghai-2026-round-2"
+    },
+    {
+      "name": "The Athletic: Alcaraz and Sinner maintain torrid Asian swing form",
+      "url": "https://www.nytimes.com/athletic/tennis/shanghai-masters-alcaraz-sinner-openers"
+    }
+  ],
+  "format": "singles",
+  "homeScore": 2,
+  "awayScore": 0,
+  "slug": "shanghai-masters-r2-alcaraz-sinner-djokovic-2026",
+  "headline": "Shanghai Masters R2: Alcaraz storms to 10th straight win as Sinner hits 60-win milestone",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Fresh off their Beijing epic, Carlos Alcaraz dispatched Shang Juncheng in 76 minutes while Jannik Sinner became the first player born in the 2000s to record back-to-back 60-win seasons.",
+  "teaser": "Alcaraz dismantled Shang 6-2, 6-2 without facing a break point, Sinner powered past Daniel 6-1, 6-4, and four-time champion Novak Djokovic arrived in Shanghai for the first time since 2019.",
+  "story": "Why this one matters: The Asian swing is supposed to bring weary legs and creeping burnout at the tail end of a brutal season. Instead, Carlos Alcaraz and Jannik Sinner are playing some of the most scintillating tennis of their young lives.\n\nOnly three days after their unforgettable three-set title duel in Beijing, both young titans took to the center court of Qizhong Forest Sports City Arena and laid waste to their second-round opponents. Alcaraz was in total command against China's top young prospect, Shang Juncheng, winning 6-2, 6-2 in just 76 minutes. The Spaniard did not face a single break point, won 82 percent of his first-serve deliveries, and pushed his current match-winning streak to ten.\n\nWorld No. 1 Sinner matched the tempo with his own ruthlessly efficient 6-1, 6-4 victory over Taro Daniel. The Italian blasted 12 aces and hit 26 winners, locking down his 60th match win of the season. At age 23, Sinner becomes the first player born this century to log consecutive 60-win campaigns. With four-time tournament champion Novak Djokovic also returning to the draw, the Shanghai bracket has quickly turned into an absolute crucible.",
+  "stakes": "ATP Year-End No. 1 race and 1000 ranking points: Sinner strengthens his grip on the top spot while Alcaraz aims to close the gap before the European indoor swing.",
+  "rivalryAngle": "Alcaraz and Sinner are separated on opposite halves of the Shanghai draw, setting up the tantalizing prospect of an epic rematch in Sunday's final.",
+  "home": "Carlos Alcaraz",
+  "away": "Shang Juncheng",
+  "group": "ATP 1000",
+  "date": "2026-10-07",
+  "time": "18:30",
+  "venue": "Qizhong Forest Sports City Arena",
+  "city": "Shanghai",
+  "status": "FINISHED",
+  "sport": "tennis",
+  "competition": "atp-masters-1000-shanghai"
+}

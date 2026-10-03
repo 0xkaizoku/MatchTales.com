@@ -1,0 +1,113 @@
+{
+  "funFacts": [
+    "Max Verstappen leads Lando Norris by 52 points in the Drivers' Championship with six Grands Prix and three Sprint races remaining.",
+    "McLaren hold a 41-point lead over Red Bull in the Constructors' Standings, having outscored their rivals by 83 points over the last four races.",
+    "Liam Lawson will take an automatic 10-place grid penalty in Austin after inheriting Daniel Ricciardo's used power unit allocation at RB."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Max Verstappen",
+      "team": "Red Bull Racing",
+      "hook": "Testing Red Bull's comprehensive new floor and sidepod upgrade package at COTA to solve the high-speed understeer of the RB20."
+    },
+    {
+      "name": "Liam Lawson",
+      "team": "Visa Cash App RB",
+      "hook": "Enters a pivotal six-race audition against Yuki Tsunoda with a 2025/2026 senior Red Bull seat hanging in the balance."
+    }
+  ],
+  "headToHead": "Verstappen won the Austin Sprint and Grand Prix in 2023; Norris took victory at Singapore by 20.9 seconds.",
+  "tags": [
+    "f1",
+    "us-gp",
+    "austin",
+    "cota",
+    "red-bull",
+    "mclaren",
+    "max-verstappen",
+    "lando-norris",
+    "liam-lawson"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 19,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Round 19 · United States Grand Prix Countdown",
+  "resultSummary": "UPCOMING: United States Grand Prix · Circuit of the Americas · Sprint Weekend",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Max Verstappen",
+      "score": "331 pts",
+      "note": "Red Bull Racing · Drivers Leader"
+    },
+    {
+      "pos": "2",
+      "name": "Lando Norris",
+      "score": "279 pts",
+      "note": "McLaren · -52 pts"
+    },
+    {
+      "pos": "3",
+      "name": "Charles Leclerc",
+      "score": "245 pts",
+      "note": "Ferrari · P3"
+    },
+    {
+      "pos": "4",
+      "name": "Oscar Piastri",
+      "score": "237 pts",
+      "note": "McLaren · P4"
+    },
+    {
+      "pos": "5",
+      "name": "Carlos Sainz",
+      "score": "190 pts",
+      "note": "Ferrari · P5"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Formula1.com: Austin United States GP race preview and technical countdown",
+      "url": "https://www.formula1.com/en/latest/article/us-gp-austin-technical-upgrades-preview-2026"
+    },
+    {
+      "name": "The Race: Red Bull readies defining Austin aero upgrade package",
+      "url": "https://the-race.com/formula-1/red-bull-austin-upgrade-package-details-verstappen/"
+    },
+    {
+      "name": "Autosport: Liam Lawson faces grid penalty in Austin comeback",
+      "url": "https://www.autosport.com/f1/news/liam-lawson-austin-grid-penalty-rb/10660421/"
+    }
+  ],
+  "format": "race",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "f1-austin-usgp-redbull-upgrades-lawson-grid-penalty-2026",
+  "headline": "F1 Americas Triple-Header: Red Bull finalizes Austin floor upgrade as Lawson faces grid penalty",
+  "whyCareScore": 9.2,
+  "whyCareReason": "Red Bull brings a crucial aerodynamic package to Circuit of the Americas to halt McLaren's title charge, while Liam Lawson confronts a steep uphill debut.",
+  "teaser": "Lando Norris trails Max Verstappen by 52 points with six races to go, McLaren defends a 41-point constructors lead, and Lawson prepares for an engine penalty in Texas.",
+  "story": "Why this one matters: Formula 1 is in the final calm before an unrelenting three-week storm across the Americas. When the freight arrives in Austin for the United States Grand Prix, the championship fight will reach its decisive technical and human boiling point.\n\nIn Milton Keynes, Red Bull engineers have spent the autumn break working around the clock to finalize the team's most significant aerodynamic overhaul of the season. The RB20 will feature an entirely re-profiled floor edge and redesigned sidepod inlets aimed at restoring aerodynamic stability over bumps and high-speed curbing. With Lando Norris trailing Max Verstappen by 52 points and McLaren holding a 41-point constructors advantage, Red Bull knows that failure to unlock pace at COTA could turn the title run-in into a formality.\n\nDown the pit lane at sister team Visa Cash App RB, 22-year-old Liam Lawson prepares for the most intense pressure cooker in motorsport. Replacing fan favorite Daniel Ricciardo, the New Zealander has six races to prove to Christian Horner and Helmut Marko that he deserves a promotion to the senior team. But Lawson will start his audition with one hand tied behind his back: an inherited engine penalty from Ricciardo's pool will send him to the back of the grid for Sunday's main race.",
+  "stakes": "The World Drivers' and Constructors' Championships: Austin offers 34 total points due to the Sprint format, meaning Norris can slash Verstappen's cushion into the 30s with a clean sweep.",
+  "rivalryAngle": "Verstappen and Norris remain close friends off the track, but their wheel-to-wheel battles in Austria and Singapore have set the stage for an explosive Texas showdown.",
+  "home": "McLaren",
+  "away": "Red Bull Racing",
+  "group": "Formula 1",
+  "date": "2026-10-07",
+  "time": "14:00",
+  "venue": "Circuit of the Americas",
+  "city": "Austin",
+  "status": "UPCOMING",
+  "sport": "f1",
+  "competition": "formula-1-2026"
+}
