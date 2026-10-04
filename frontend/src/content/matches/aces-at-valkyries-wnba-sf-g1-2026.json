@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "Series 0-0.",
-    "NBC, 4:00 p.m. ET.",
-    "No Game 1 score on this desk."
+    "Valkyries lead 1-0.",
+    "Chase Center.",
+    "Game 2 is not final."
   ],
   "keyPlayers": [
     {
-      "name": "Aja Wilson",
-      "team": "Aces",
-      "hook": "36 points in the 94-83 Game 3 close-out of Indiana."
-    },
-    {
       "name": "Gabby Williams",
       "team": "Valkyries",
-      "hook": "19 points in the 77-73 Game 3 win over Dallas."
+      "hook": "25 points, 11 rebounds, 5 assists."
+    },
+    {
+      "name": "A'ja Wilson",
+      "team": "Aces",
+      "hook": "24 points, 8 of 21 from the field, 4 rebounds."
     }
   ],
   "headToHead": "",
@@ -35,7 +35,7 @@
   "awayPen": null,
   "season": "2026",
   "roundLabel": "WNBA semifinals · Game 1",
-  "resultSummary": "Series 0-0. No Game 1 score.",
+  "resultSummary": "Valkyries 71, Aces 60. Golden State leads 1-0.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
@@ -49,16 +49,16 @@
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 71,
+  "awayScore": 60,
   "slug": "aces-at-valkyries-wnba-sf-g1-2026",
-  "headline": "WNBA semifinals Game 1: Aces at Valkyries, series 0-0",
-  "whyCareScore": 9.1,
-  "whyCareReason": "Defending champions visit San Francisco at 4:00 p.m. ET on NBC. The series has not started.",
-  "teaser": "Sunday 4 October, 4:00 p.m. ET, NBC, Chase Center. Series 0-0.",
-  "story": "The Valkyries won their first-round series 2-1, closing 77-73. The Aces closed Indiana in Game 3, 94-83, Wilson 36. Game 1 of the semifinal is not final.",
-  "stakes": "Best of five. Valkyries host Game 1 and Game 2.",
-  "rivalryAngle": "Second-year Valkyries against the defending champions.",
+  "headline": "Valkyries 71, Aces 60: Golden State leads the semifinal 1-0",
+  "whyCareScore": 9.2,
+  "whyCareReason": "Gabby Williams had 25 points, 11 rebounds and 5 assists at Chase Center. A'ja Wilson scored 24. Game 2 is not final.",
+  "teaser": "Sunday 4 October, Chase Center. Williams 25-11-5. Wilson 24. Series 1-0.",
+  "story": "ESPN box 401918296 and NBC Bay Area: quarters Aces 18-13-17-12, Valkyries 22-12-22-15. Gabby Williams had 25 points, 11 rebounds and 5 assists. NBC: Kiah Stokes 14 rebounds and 3 blocks. A'ja Wilson scored 24 in 35 minutes, 8 of 21 from the field, 8 of 11 at the line, 4 rebounds. Chelsea Gray scored 16. Jewell Loyd left early in the third with a left-leg injury and was being evaluated. Game 2 is not a result on this desk.",
+  "stakes": "Best of five. Valkyries lead 1-0.",
+  "rivalryAngle": "Second-year Valkyries took Game 1 off the defending champions.",
   "home": "Golden State Valkyries",
   "away": "Las Vegas Aces",
   "group": "SF",
@@ -66,7 +66,7 @@
   "time": "16:00",
   "venue": "Chase Center",
   "city": "San Francisco",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "basketball",
   "competition": "wnba-2026"
 }

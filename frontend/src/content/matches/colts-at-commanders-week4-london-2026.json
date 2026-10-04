@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "Both teams 1-2.",
-    "9:30 a.m. ET.",
-    "No score printed."
+    "London final.",
+    "Taylor 2 TD.",
+    "Commanders 1-3."
   ],
   "keyPlayers": [
     {
-      "name": "Indianapolis Colts",
+      "name": "Jonathan Taylor",
       "team": "Colts",
-      "hook": "1-2, visiting London."
+      "hook": "20 carries, 95 yards, 2 touchdowns."
     },
     {
-      "name": "Washington Commanders",
+      "name": "Athan Kaliakmanis",
       "team": "Commanders",
-      "hook": "1-2, home side in London."
+      "hook": "15 of 33, 186 yards, 1 touchdown."
     }
   ],
   "headToHead": "",
@@ -36,7 +36,7 @@
   "awayPen": null,
   "season": "2026",
   "roundLabel": "NFL Week 4 · London",
-  "resultSummary": "Not final.",
+  "resultSummary": "Colts 30, Commanders 13 in London.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
@@ -46,16 +46,16 @@
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 13,
+  "awayScore": 30,
   "slug": "colts-at-commanders-week4-london-2026",
-  "headline": "Colts at Commanders in London, no final on this desk",
+  "headline": "Colts 30, Commanders 13 in London",
   "whyCareScore": 8.0,
-  "whyCareReason": "The 9:30 a.m. ET London game is on the CBS board without a score.",
-  "teaser": "Colts 1-2 at Commanders 1-2. Tottenham Hotspur Stadium. Not final.",
-  "story": "CBS lists Indianapolis at Washington in London at 9:30 a.m. ET, both 1-2. This desk does not print a Sunday score.",
-  "stakes": "A London kickoff that is still unscored here.",
-  "rivalryAngle": "Week 4 abroad, not a final.",
+  "whyCareReason": "Jonathan Taylor ran for 95 yards and 2 touchdowns. Colts move to 2-2, Commanders to 1-3.",
+  "teaser": "ESPN London: Colts 0-10-10-10, Commanders 6-0-7-0. Taylor 20 carries, 95 yards, 2 TD.",
+  "story": "ESPN game 401872965: Indianapolis 30, Washington 13 at Tottenham Hotspur Stadium. Quarters Colts 0-10-10-10, Commanders 6-0-7-0. Colts 2-2, Commanders 1-3. Jonathan Taylor had 20 carries for 95 yards and 2 touchdowns. Athan Kaliakmanis was 15 of 33 for 186 yards and a touchdown. Dyami Brown had 3 catches for 65 yards.",
+  "stakes": "A London final. The rest of the late window is not in this card.",
+  "rivalryAngle": "Week 4 abroad, now a result.",
   "home": "Washington Commanders",
   "away": "Indianapolis Colts",
   "group": "NFL",
@@ -63,7 +63,7 @@
   "time": "09:30",
   "venue": "Tottenham Hotspur Stadium",
   "city": "London",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "football",
   "competition": "nfl-2026"
 }

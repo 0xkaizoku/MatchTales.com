@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "Series 0-0.",
-    "Dream host.",
-    "No Game 1 score on this desk."
+    "Dream lead 1-0.",
+    "Third quarter 32-15.",
+    "Game 2 is not final."
   ],
   "keyPlayers": [
     {
-      "name": "Breanna Stewart",
-      "team": "Liberty",
-      "hook": "21 points in the close-out at Barclays, with Jonquel Jones also on 21."
+      "name": "Jordin Canada",
+      "team": "Dream",
+      "hook": "25 points, 20 in the second half, 5 steals."
     },
     {
-      "name": "Allisha Gray",
-      "team": "Dream",
-      "hook": "22 points in the 93-75 close-out of Washington."
+      "name": "Sabrina Ionescu",
+      "team": "Liberty",
+      "hook": "27 points in the loss."
     }
   ],
   "headToHead": "",
@@ -35,7 +35,7 @@
   "awayPen": null,
   "season": "2026",
   "roundLabel": "WNBA semifinals · Game 1",
-  "resultSummary": "Series 0-0. No Game 1 score.",
+  "resultSummary": "Dream 92, Liberty 82. Atlanta leads 1-0.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
@@ -45,16 +45,16 @@
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 92,
+  "awayScore": 82,
   "slug": "liberty-at-dream-wnba-sf-g1-2026",
-  "headline": "WNBA semifinals Game 1: Liberty at Dream, series 0-0",
+  "headline": "Dream 92, Liberty 82: Atlanta leads the semifinal 1-0",
   "whyCareScore": 9.4,
-  "whyCareReason": "An 8-seed that swept the 1-seed visits Atlanta. Tip is 2:00 p.m. ET on ABC. No Game 1 score is final.",
-  "teaser": "Sunday 4 October, 2:00 p.m. ET, ABC, Atlanta. Series 0-0.",
-  "story": "New York swept Minnesota 91-75 and 87-71. Atlanta swept Washington 92-77 and 93-75 and host Game 1. CBS lists 2:00 p.m. ET. This card has no final score.",
-  "stakes": "Best of five. Dream first semifinal since 2018.",
-  "rivalryAngle": "The first 8-seed to eliminate a 1-seed, now on the road in Atlanta.",
+  "whyCareReason": "Jordin Canada scored 25. The Liberty led by 3 at half and lost the third quarter 32-15. Game 2 is not final.",
+  "teaser": "Sunday 4 October, Atlanta. Canada 25, Bonner 23. Ionescu 27, Stewart 19. Series 1-0.",
+  "story": "ESPN game 401918295: quarters Liberty 24-16-15-27, Dream 21-16-32-23. Jordin Canada scored 25, with 20 in the second half, and had 5 steals. DeWanna Bonner scored 23. AJC: Angel Reese 17 points and 7 rebounds, Rhyne Howard 16. Sabrina Ionescu scored 27 and Breanna Stewart 19. Allisha Gray left in the second quarter with a left-hand injury. Game 2 is Wednesday in Atlanta and is not a result here.",
+  "stakes": "Best of five. Dream lead 1-0. Game 2 is not final.",
+  "rivalryAngle": "An 8-seed that had swept the Lynx took Game 1 in Atlanta.",
   "home": "Atlanta Dream",
   "away": "New York Liberty",
   "group": "SF",
@@ -62,7 +62,7 @@
   "time": "14:00",
   "venue": "Gateway Center Arena",
   "city": "Atlanta",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "basketball",
   "competition": "wnba-2026"
 }

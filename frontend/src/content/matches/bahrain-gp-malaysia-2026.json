@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "Verstappen led Q1, Q2 and Q3.",
-    "Hadjar grid penalty moves Antonelli to third and Leclerc to fourth.",
-    "No race winner is printed."
+    "First win of 2026.",
+    "Antonelli leads by 84.",
+    "Russell scored 0."
   ],
   "keyPlayers": [
     {
       "name": "Max Verstappen",
       "team": "Red Bull",
-      "hook": "Pole, 1:35.130. First of 2026. 49th career pole."
+      "hook": "Win from pole, 1:47:14.808, 25 points."
     },
     {
       "name": "Kimi Antonelli",
       "team": "Mercedes",
-      "hook": "Championship leader on 302, starts third after Hadjar penalty."
+      "hook": "Second, +2.307. Championship lead 320 to 236."
     }
   ],
   "headToHead": "",
@@ -34,38 +34,68 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Bahrain Grand Prix · Qualifying",
-  "resultSummary": "Pole Verstappen 1:35.130. Race not run.",
+  "roundLabel": "Bahrain Grand Prix · Race",
+  "resultSummary": "Verstappen 1:47:14.808. Antonelli +2.307. Hamilton +4.919.",
   "leaderboard": [
     {
       "pos": "1",
       "name": "Max Verstappen",
-      "score": "1:35.130",
-      "note": "Red Bull · Pole, starts 1"
+      "score": "1:47:14.808",
+      "note": "Red Bull · 25 pts"
     },
     {
       "pos": "2",
-      "name": "Lewis Hamilton",
-      "score": "1:35.428",
-      "note": "Ferrari · +0.298, starts 2"
+      "name": "Kimi Antonelli",
+      "score": "+2.307",
+      "note": "Mercedes · 18 pts"
     },
     {
       "pos": "3",
-      "name": "Isack Hadjar",
-      "score": "1:35.558",
-      "note": "Red Bull · five-place penalty, starts 8"
+      "name": "Lewis Hamilton",
+      "score": "+4.919",
+      "note": "Ferrari · 15 pts"
     },
     {
       "pos": "4",
-      "name": "Kimi Antonelli",
-      "score": "1:35.631",
-      "note": "Mercedes · starts 3"
+      "name": "Charles Leclerc",
+      "score": "+7.258",
+      "note": "Ferrari · 12 pts"
     },
     {
       "pos": "5",
-      "name": "Charles Leclerc",
-      "score": "1:35.666",
-      "note": "Ferrari · starts 4"
+      "name": "Isack Hadjar",
+      "score": "+8.571",
+      "note": "Red Bull · 10 pts, started 8th"
+    },
+    {
+      "pos": "6",
+      "name": "Oscar Piastri",
+      "score": "+9.454",
+      "note": "McLaren · 8 pts"
+    },
+    {
+      "pos": "7",
+      "name": "Liam Lawson",
+      "score": "+12.753",
+      "note": "6 pts"
+    },
+    {
+      "pos": "8",
+      "name": "Fernando Alonso",
+      "score": "+13.372",
+      "note": "4 pts"
+    },
+    {
+      "pos": "9",
+      "name": "Lando Norris",
+      "score": "+13.993",
+      "note": "McLaren · 2 pts"
+    },
+    {
+      "pos": "10",
+      "name": "Arvid Lindblad",
+      "score": "+15.928",
+      "note": "1 pt"
     }
   ],
   "tennisSets": [],
@@ -87,21 +117,21 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "bahrain-gp-malaysia-2026",
-  "headline": "Verstappen on pole at Sepang, 1:35.130, race not run",
-  "whyCareScore": 9.2,
-  "whyCareReason": "First pole of 2026, Hamilton alongside, Hadjar drops to eighth on a penalty. ESPN still has no race classification.",
-  "teaser": "Front row: Verstappen and Hamilton. Antonelli leads the championship on 302. No winner.",
-  "story": "Qualifying at Sepang: Verstappen 1:35.130, Hamilton 1:35.428. Hadjar was third and takes a five-place penalty. The race on Sunday 4 October is not in the book. Antonelli has 302 points, 66 ahead of Russell.",
-  "stakes": "Championship lead is 66 points before this race.",
-  "rivalryAngle": "Verstappen first pole of the year. Hamilton first front row beside him.",
+  "headline": "Verstappen wins at Sepang. Antonelli leads by 84.",
+  "whyCareScore": 9.5,
+  "whyCareReason": "First win of 2026, from pole, in 1:47:14.808. Antonelli is second and leads 320 to Russell's 236. Russell retired.",
+  "teaser": "FIA: Verstappen, Antonelli +2.307, Hamilton +4.919. 55 laps. No fastest-lap point added.",
+  "story": "The FIA classified the Bahrain Grand Prix at Sepang, 55 laps, after a rain-delayed start. Max Verstappen won from pole in 1:47:14.808 for 25 points, the first win of 2026 and the first for Red Bull Ford Powertrains. Kimi Antonelli was second, 2.307 seconds back, 18 points. Lewis Hamilton was third, 4.919 back, 15 points, after running as low as 18th on a slick-tyre gamble. Charles Leclerc was fourth, Isack Hadjar fifth for Red Bull after starting eighth on a five-place engine penalty, then Oscar Piastri, Liam Lawson, Fernando Alonso, Lando Norris and Arvid Lindblad. George Russell retired late with a power-unit problem while running third and scored 0. Reports disagree on the lap, so this desk does not lock it. Verstappen's fastest lap was 1:38.220. BBC awards 25 points, so no extra point is added. Championship: Antonelli 320, Russell 236, Hamilton 214, Leclerc 191, Norris 188, Verstappen 188. Constructors: Mercedes 556, Ferrari 405, McLaren 316, Red Bull 298.",
+  "stakes": "The lead is 84 points. Singapore is next and is not a result.",
+  "rivalryAngle": "Verstappen's first win of the year. Russell's retirement kept the gap at 84.",
   "home": "Max Verstappen",
-  "away": "Lewis Hamilton",
+  "away": "Kimi Antonelli",
   "group": "F1",
   "date": "2026-10-04",
   "time": "15:00",
   "venue": "Sepang International Circuit",
   "city": "Sepang",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "f1",
   "competition": "f1-2026"
 }

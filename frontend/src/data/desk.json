@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-04",
+  "asOf": "2026-10-05",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -247,7 +247,7 @@
       "pos": 1,
       "name": "Kimi Antonelli",
       "team": "Mercedes",
-      "pts": 302
+      "pts": 320
     },
     {
       "pos": 2,
@@ -259,47 +259,47 @@
       "pos": 3,
       "name": "Lewis Hamilton",
       "team": "Ferrari",
-      "pts": 199
+      "pts": 214
     },
     {
       "pos": 4,
-      "name": "Lando Norris",
-      "team": "McLaren",
-      "pts": 186
+      "name": "Charles Leclerc",
+      "team": "Ferrari",
+      "pts": 191
     },
     {
       "pos": 5,
-      "name": "Charles Leclerc",
-      "team": "Ferrari",
-      "pts": 179
+      "name": "Lando Norris",
+      "team": "McLaren",
+      "pts": 188
     },
     {
       "pos": 6,
       "name": "Max Verstappen",
       "team": "Red Bull",
-      "pts": 163
+      "pts": 188
     }
   ],
   "f1Constructors": [
     {
       "pos": 1,
       "name": "Mercedes",
-      "pts": 538
+      "pts": 556
     },
     {
       "pos": 2,
       "name": "Ferrari",
-      "pts": 378
+      "pts": 405
     },
     {
       "pos": 3,
       "name": "McLaren",
-      "pts": 306
+      "pts": 316
     },
     {
       "pos": 4,
       "name": "Red Bull",
-      "pts": 263
+      "pts": 298
     }
   ],
   "wnbaSeeds": [
@@ -462,77 +462,98 @@
       "time": "9:30 a.m. ET",
       "home": "Washington Commanders",
       "away": "Indianapolis Colts",
-      "note": "UPCOMING London. Colts 1-2 at Commanders 1-2. No score on this desk."
+      "note": "FINAL: Colts 30, Commanders 13 in London. ESPN. Quarters: Colts 0-10-10-10, Commanders 6-0-7-0. Colts 2-2, Commanders 1-3. Jonathan Taylor 20 carries, 95 yards, 2 TD."
     },
     {
       "date": "2026-10-04",
       "time": "1:00 p.m. ET",
       "home": "Buffalo Bills",
       "away": "New England Patriots",
-      "note": "UPCOMING. Patriots 1-2 at Bills 3-0. No score on this desk."
+      "note": "FINAL: Patriots 29, Bills 26. ESPN. Quarters: Patriots 7-7-7-8, Bills 0-17-0-9. Patriots 2-2, Bills 3-1. Drake Maye 22 of 37, 269 yards, 3 TD."
     },
     {
       "date": "2026-10-04",
       "time": "1:00 p.m. ET",
       "home": "Chicago Bears",
       "away": "New York Jets",
-      "note": "UPCOMING. Jets 1-2 at Bears 2-1. No score on this desk."
+      "note": "FINAL: Bears 23, Jets 12. ESPN. Quarters: Jets 0-3-3-6, Bears 7-6-7-3. Jets 1-3, Bears 3-1. Kyle Monangai 30 carries, 146 yards, 2 TD."
     },
     {
       "date": "2026-10-04",
       "time": "1:00 p.m. ET",
       "home": "Tampa Bay Buccaneers",
       "away": "Green Bay Packers",
-      "note": "UPCOMING. Packers 1-2 at Buccaneers 0-3. No score on this desk."
+      "note": "FINAL: Packers 17, Buccaneers 14. ESPN. Quarters: Packers 0-10-7-0, Buccaneers 0-7-0-7. Packers 2-2, Buccaneers 0-4. Jordan Love 22 of 30, 197 yards, 2 TD."
     },
     {
       "date": "2026-10-04",
       "time": "1:00 p.m. ET",
       "home": "Baltimore Ravens",
       "away": "Tennessee Titans",
-      "note": "UPCOMING. Titans 0-3 at Ravens 2-1. No score on this desk."
+      "note": "FINAL: Ravens 24, Titans 18. ESPN. Quarters: Titans 7-0-3-8, Ravens 7-17-0-0. Titans 0-4, Ravens 3-1."
     },
     {
       "date": "2026-10-04",
       "time": "1:00 p.m. ET",
       "home": "Houston Texans",
       "away": "Dallas Cowboys",
-      "note": "UPCOMING. Cowboys 1-2 at Texans 0-3. No score on this desk."
+      "note": "FINAL: Cowboys 34, Texans 30. ESPN and FootballDB. Quarters: Cowboys 3-3-14-14, Texans 10-6-7-7. Cowboys 2-2, Texans 0-4."
     },
     {
       "date": "2026-10-04",
       "time": "1:00 p.m. ET",
       "home": "New York Giants",
       "away": "Arizona Cardinals",
-      "note": "UPCOMING. Cardinals 1-2 at Giants 2-1. No score on this desk."
+      "note": "FINAL: Giants 36, Cardinals 24. ESPN. Quarters: Cardinals 14-3-7-0, Giants 3-16-8-9. Cardinals 1-3, Giants 3-1. Jameis Winston 18 of 29, 250 yards, 3 TD."
     },
     {
       "date": "2026-10-04",
       "time": "1:00 p.m. ET",
       "home": "Philadelphia Eagles",
       "away": "Los Angeles Rams",
-      "note": "UPCOMING. Rams 1-2 at Eagles 2-1. No score on this desk."
+      "note": "FINAL: Rams 24, Eagles 20. ESPN. Quarters: Rams 3-7-0-14, Eagles 3-17-0-0. Both 2-2. Kyren Williams 16 carries, 80 yards, 2 TD."
     },
     {
       "date": "2026-10-04",
       "time": "1:00 p.m. ET",
       "home": "Cincinnati Bengals",
       "away": "Jacksonville Jaguars",
-      "note": "UPCOMING. Jaguars 2-1 at Bengals 2-1. No score on this desk."
+      "note": "FINAL: Jaguars 22, Bengals 17. ESPN. Quarters: Jaguars 3-10-3-6, Bengals 0-3-7-7. Jaguars 3-1, Bengals 2-2. Joe Burrow 39 of 54, 428 yards, 1 TD."
     },
     {
       "date": "2026-10-04",
       "time": "4:05 p.m. ET",
       "home": "Minnesota Vikings",
       "away": "Miami Dolphins",
-      "note": "UPCOMING. Dolphins 0-3 at Vikings 3-0. No score on this desk."
+      "note": "NOT FINAL. Late window still in progress when this desk closed. No score printed."
     },
     {
       "date": "2026-10-04",
       "time": "4:25 p.m. ET",
       "home": "San Francisco 49ers",
       "away": "Denver Broncos",
-      "note": "UPCOMING. Broncos 2-1 at 49ers 3-0. No score on this desk."
+      "note": "NOT FINAL. Late window still in progress when this desk closed. No score printed."
+    },
+    {
+      "date": "2026-10-04",
+      "time": "4:25 p.m. ET",
+      "home": "Las Vegas Raiders",
+      "away": "Kansas City Chiefs",
+      "note": "NOT FINAL. Late window still in progress when this desk closed. No score printed."
+    },
+    {
+      "date": "2026-10-04",
+      "time": "4:25 p.m. ET",
+      "home": "Seattle Seahawks",
+      "away": "Los Angeles Chargers",
+      "note": "NOT FINAL. Late window still in progress when this desk closed. No score printed."
+    },
+    {
+      "date": "2026-10-04",
+      "time": "8:20 p.m. ET",
+      "home": "Carolina Panthers",
+      "away": "Detroit Lions",
+      "note": "SUNDAY NIGHT. Not started when this desk closed. No score printed."
     },
     {
       "date": "2026-10-05",

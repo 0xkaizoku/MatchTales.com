@@ -9142,7 +9142,556 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+  "portugal-2-1-norway-nations-league-2026": {
+    "fr": {
+      "title": "Portugal 2-1 Norvège : Ramos et Cancelo qualifient une équipe sans Ronaldo",
+      "subtitle": "Ligue des nations, 4 octobre, Porto. Le Portugal est premier en quarts. Les matches du lundi ne sont pas finaux.",
+      "excerpt": "Le Portugal bat la Norvège 2-1 à l’Estádio do Dragão. Ajer 36, Cancelo 38, Ramos 79. Conceição est expulsé. Ronaldo n’était pas dans le groupe.",
+      "body": [
+        "Le Portugal a joué à l’Estádio do Dragão le dimanche 4 octobre sans Cristiano Ronaldo et a battu la Norvège 2-1 en Ligue des nations, groupe A4. AP, ESPN et Sofascore s’accordent sur les trois buteurs. Le Portugal est la première équipe en quarts de finale. Les matches du lundi, dont la France contre la Belgique, ne sont pas dans ce livre. La Premier League reste gelée jusqu’au 10 octobre, Manchester City à 15 points en cinq matches.",
+        "Kristoffer Ajer a marqué pour la Norvège à la 36e minute. João Cancelo a égalisé à la 38e. Gonçalo Ramos, titulaire à la place de Ronaldo, a marqué à la 79e. Francisco Conceição a été expulsé en fin de match pour un deuxième carton jaune, contestation, et cet événement n’est pas un but. Erling Haaland est sorti vers la 66e minute après une gêne et n’a pas marqué. La ligne du match ESPN indiquait 48 832 spectateurs.",
+        "Le Portugal est à 4-0-0 avec 12 points et a une place dans les deux premiers. La Norvège est à 1-0-3 avec 3 points. Le Danemark a battu le pays de Galles 1-0 et compte six points de retard. Ce desk ne nomme pas le buteur danois. Le 7-0 de l’Angleterre à Rijeka et le 3-1 de l’Espagne à Oviedo restent dans le livre depuis samedi. Aucun score de club de la trêve n’est imprimé ici."
+      ]
+    },
+    "es": {
+      "title": "Portugal 2-1 Noruega: Ramos y Cancelo clasifican a un equipo sin Ronaldo",
+      "subtitle": "Liga de Naciones, 4 de octubre, Oporto. Portugal es el primero en cuartos. Los partidos del lunes no son finales.",
+      "excerpt": "Portugal gana 2-1 a Noruega en el Estádio do Dragão. Ajer 36, Cancelo 38, Ramos 79. Conceição fue expulsado. Ronaldo no estaba en la convocatoria.",
+      "body": [
+        "Portugal jugó en el Estádio do Dragão el domingo 4 de octubre sin Cristiano Ronaldo y ganó 2-1 a Noruega en el grupo A4 de la Liga de Naciones. AP, ESPN y Sofascore coinciden en los tres goleadores. Portugal es el primer equipo en cuartos. Los partidos del lunes, incluida Francia contra Bélgica, no están en este libro. La Premier League sigue congelada hasta el 10 de octubre, con el Manchester City en 15 puntos de cinco.",
+        "Kristoffer Ajer marcó para Noruega en el minuto 36. João Cancelo empató en el 38. Gonçalo Ramos, titular en el lugar de Ronaldo, marcó en el 79. Francisco Conceição fue expulsado al final por una segunda amarilla, protesta, y ese hecho no es un gol. Erling Haaland fue sustituido alrededor del minuto 66 tras una molestia y no marcó. La ficha de ESPN daba 48.832 espectadores.",
+        "Portugal está 4-0-0 con 12 puntos y tiene asegurado un puesto entre los dos primeros. Noruega está 1-0-3 con 3 puntos. Dinamarca ganó 1-0 a Gales y está a seis puntos. Este desk no nombra al goleador de Dinamarca. El 7-0 de Inglaterra en Rijeka y el 3-1 de España en Oviedo siguen en el libro desde el sábado. Aquí no se imprime ningún resultado de clubes de la ventana."
+      ]
+    },
+    "de": {
+      "title": "Portugal 2:1 Norwegen: Ramos und Cancelo bringen eine Elf ohne Ronaldo weiter",
+      "subtitle": "Nations League, 4. Oktober, Porto. Portugal steht als Erste im Viertelfinale. Die Spiele am Montag sind nicht final.",
+      "excerpt": "Portugal schlägt Norwegen 2:1 im Estádio do Dragão. Ajer 36, Cancelo 38, Ramos 79. Conceição wurde vom Platz gestellt. Ronaldo stand nicht im Kader.",
+      "body": [
+        "Portugal spielte am Sonntag, 4. Oktober, im Estádio do Dragão ohne Cristiano Ronaldo und schlug Norwegen 2:1 in der UEFA Nations League, Gruppe A4. AP, ESPN und Sofascore nennen dieselben drei Torschützen. Portugal ist die erste Mannschaft im Viertelfinale. Die Spiele am Montag, darunter Frankreich gegen Belgien, stehen nicht in diesem Buch. Die Premier League bleibt bis zum 10. Oktober eingefroren, Manchester City mit 15 Punkten aus fünf Spielen.",
+        "Kristoffer Ajer traf für Norwegen in der 36. Minute. João Cancelo glich in der 38. aus. Gonçalo Ramos, von Beginn an auf Ronaldos Platz, traf in der 79. Francisco Conceição sah spät die zweite Gelbe, Unsportlichkeit, und dieses Ereignis ist kein Tor. Erling Haaland wurde um die 66. Minute nach einer Beschwerde ausgewechselt und traf nicht. Die ESPN-Spielzeile nannte 48.832 Zuschauer.",
+        "Portugal steht 4-0-0 mit 12 Punkten und hat einen Platz unter den ersten beiden sicher. Norwegen steht 1-0-3 mit 3 Punkten. Dänemark schlug Wales 1:0 und liegt sechs Punkte zurück. Dieser Desk nennt den dänischen Torschützen nicht. Englands 7:0 in Rijeka und Spaniens 3:1 in Oviedo bleiben seit Samstag im Buch. Kein Klubergebnis des Länderspielzeitraums wird hier gedruckt."
+      ]
+    },
+    "it": {
+      "title": "Portogallo 2-1 Norvegia: Ramos e Cancelo qualificano una squadra senza Ronaldo",
+      "subtitle": "Nations League, 4 ottobre, Porto. Il Portogallo è il primo ai quarti. Le gare di lunedì non sono finali.",
+      "excerpt": "Il Portogallo batte la Norvegia 2-1 all’Estádio do Dragão. Ajer 36, Cancelo 38, Ramos 79. Conceição è stato espulso. Ronaldo non era in rosa.",
+      "body": [
+        "Il Portogallo ha giocato all’Estádio do Dragão domenica 4 ottobre senza Cristiano Ronaldo e ha battuto la Norvegia 2-1 nel gruppo A4 di Nations League. AP, ESPN e Sofascore concordano sui tre marcatori. Il Portogallo è la prima squadra ai quarti. Le gare di lunedì, Francia contro Belgio compresa, non sono in questo libro. La Premier League resta ferma fino al 10 ottobre, Manchester City a 15 punti in cinque partite.",
+        "Kristoffer Ajer ha segnato per la Norvegia al 36esimo. João Cancelo ha pareggiato al 38esimo. Gonçalo Ramos, titolare al posto di Ronaldo, ha segnato al 79esimo. Francisco Conceição è stato espulso nel finale per un secondo giallo, proteste, e quell’episodio non è un gol. Erling Haaland è uscito intorno al 66esimo dopo un fastidio e non ha segnato. La riga ESPN indicava 48.832 spettatori.",
+        "Il Portogallo è 4-0-0 con 12 punti e ha un posto tra le prime due. La Norvegia è 1-0-3 con 3 punti. La Danimarca ha battuto il Galles 1-0 ed è a sei punti. Questo desk non nomina il marcatore della Danimarca. Il 7-0 dell’Inghilterra a Rijeka e il 3-1 della Spagna a Oviedo restano nel libro da sabato. Nessun risultato di club della sosta è stampato qui."
+      ]
+    },
+    "pl": {
+      "title": "Portugalia 2-1 Norwegia: Ramos i Cancelo prowadzą zespół bez Ronaldo dalej",
+      "subtitle": "Liga Narodów, 4 października, Porto. Portugalia jest pierwsza w ćwierćfinale. Mecze w poniedziałek nie są końcowe.",
+      "excerpt": "Portugalia pokonuje Norwegię 2-1 na Estádio do Dragão. Ajer 36, Cancelo 38, Ramos 79. Conceição dostał czerwoną. Ronaldo nie było w kadrze.",
+      "body": [
+        "Portugalia zagrała na Estádio do Dragão w niedzielę 4 października bez Cristiano Ronaldo i pokonała Norwegię 2-1 w grupie A4 Ligi Narodów. AP, ESPN i Sofascore podają tych samych trzech strzelców. Portugalia jest pierwszą drużyną w ćwierćfinale. Mecze w poniedziałek, w tym Francja z Belgią, nie są w tej księdze. Premier League zostaje zamrożona do 10 października, Manchester City ma 15 punktów z pięciu meczów.",
+        "Kristoffer Ajer trafił dla Norwegii w 36. minucie. João Cancelo wyrównał w 38. Gonçalo Ramos, w pierwszym składzie zamiast Ronaldo, trafił w 79. Francisco Conceição został usunięty pod koniec za drugą żółtą, protest, i to zdarzenie nie jest golem. Erling Haaland zszedł około 66. minuty po urazie i nie trafił. Linia ESPN podawała 48 832 widzów.",
+        "Portugalia ma 4-0-0 i 12 punktów oraz miejsce w pierwszej dwójce. Norwegia ma 1-0-3 i 3 punkty. Dania pokonała Walię 1-0 i traci sześć punktów. Ten desk nie podaje strzelca Danii. 7-0 Anglii w Rijece i 3-1 Hiszpanii w Oviedo zostają w księdze od soboty. Żaden wynik klubowy okna nie jest tu drukowany."
+      ]
+    },
+    "zh": {
+      "title": "葡萄牙 2-1 挪威：拉莫斯和坎塞洛送走没有 C 罗的球队",
+      "subtitle": "国家联赛，10 月 4 日，波尔图。葡萄牙最先进入四分之一决赛。周一的比赛不是终场。",
+      "excerpt": "葡萄牙在巨龙球场 2-1 击败挪威。阿耶尔 36 分钟，坎塞洛 38 分钟，拉莫斯 79 分钟。孔塞桑被罚下。C 罗不在名单里。",
+      "body": [
+        "葡萄牙周日 10 月 4 日在巨龙球场没有克里斯蒂亚诺·罗纳尔多，欧洲国家联赛 A4 组 2-1 击败挪威。美联社、ESPN 和 Sofascore 对三名进球者一致。葡萄牙是第一支进入四分之一决赛的球队。周一的比赛，包括法国对比利时，不在这本账上。英超冻结到 10 月 10 日，曼城五场 15 分。",
+        "克里斯托弗·阿耶尔在第 36 分钟为挪威进球。若昂·坎塞洛第 38 分钟扳平。贡萨洛·拉莫斯顶替 C 罗首发，第 79 分钟破门。弗朗西斯科·孔塞桑终场前因第二张黄牌、异议被罚下，这件事不是进球。埃尔林·哈兰德大约第 66 分钟因不适被换下，没有进球。ESPN 赛程行写着观众 48,832 人。",
+        "葡萄牙 4 胜 0 平 0 负，12 分，已经锁定前两名。挪威 1 胜 0 平 3 负，3 分。丹麦 1-0 击败威尔士，落后六分。本台不写丹麦进球者的名字。英格兰在里耶卡的 7-0 和西班牙在奥维耶多的 3-1 从周六起仍在账上。这里不印国际比赛窗口的俱乐部比分。"
+      ]
+    },
+    "ja": {
+      "title": "ポルトガル 2-1 ノルウェー。ラモスとカンセロがロナウドなしのチームを通した",
+      "subtitle": "ネイションズリーグ、10月4日、ポルト。ポルトガルが最初に準々決勝へ。月曜の試合は最終結果ではない。",
+      "excerpt": "ポルトガルがエスタディオ・ド・ドラガオでノルウェーを 2-1。アイエル 36分、カンセロ 38分、ラモス 79分。コンセイソンは退場。ロナウドはメンバー外。",
+      "body": [
+        "ポルトガルは 10月4日日曜、エスタディオ・ド・ドラガオでクリスティアーノ・ロナウドなしに UEFA ネイションズリーグのグループ A4 でノルウェーを 2-1 で破った。AP、ESPN、Sofascore は 3 人の得点者で一致する。ポルトガルが最初に準々決勝へ進んだチームだ。月曜の試合、フランス対ベルギーを含め、この帳簿にはない。プレミアリーグは 10月10日まで凍結で、マンチェスター・シティは 5 試合で 15 点。",
+        "クリストファー・アイエルが 36 分にノルウェーの得点。ジョアン・カンセロが 38 分に同点。ロナウドの代わりに先発したゴンサロ・ラモスが 79 分に決めた。フランシスコ・コンセイソンは終盤、2 枚目の警告、異議で退場し、その出来事は得点ではない。アーリング・ハーランドは足の違和感で 66 分ごろ交代し、得点はない。ESPN の試合行は観客 48,832 人としていた。",
+        "ポルトガルは 4 勝 0 分 0 敗、12 点で、上位 2 位以内を確保した。ノルウェーは 1 勝 0 分 3 敗、3 点。デンマークはウェールズを 1-0 で破り、6 点差で後ろにいる。このデスクはデンマークの得点者を名指ししない。リエカでのイングランドの 7-0 とオビエドでのスペインの 3-1 は土曜から帳簿に残る。ここで国際ウィンドウのクラブのスコアは載せない。"
+      ]
+    },
+    "ko": {
+      "title": "포르투갈 2-1 노르웨이. 하무스와 칸셀루가 호날두 없는 팀을 통과시켰다",
+      "subtitle": "네이션스리그, 10월 4일, 포르투. 포르투갈이 8강에 가장 먼저 갔다. 월요일 경기는 최종이 아니다.",
+      "excerpt": "포르투갈이 이스타디우 두 드라강에서 노르웨이를 2-1로 이겼다. 아예르 36분, 칸셀루 38분, 하무스 79분. 콘세이상은 퇴장. 호날두는 명단에 없었다.",
+      "body": [
+        "포르투갈은 10월 4일 일요일 이스타디우 두 드라강에서 크리스티아누 호날두 없이 UEFA 네이션스리그 A4조에서 노르웨이를 2-1로 이겼다. AP, ESPN, Sofascore가 세 골잡자에서 같다. 포르투갈이 8강에 가장 먼저 오른 팀이다. 프랑스를 포함한 월요일 경기는 이 장부에 없다. 프리미어리그는 10월 10일까지 멈추고, 맨체스터 시티는 다섯 경기에 15점이다.",
+        "크리스토페르 아예르가 36분에 노르웨이 골. 주앙 칸셀루가 38분에 동점. 호날두 대신 선발한 곤살루 하무스가 79분에 넣었다. 프란시스쿠 콘세이상은 후반 막판 두 번째 경고, 항의로 퇴장했고 그 사건은 골이 아니다. 엘링 홀란는 불편으로 66분쯤 교체됐고 골이 없다. ESPN 경기 줄은 관중 48,832명이었다.",
+        "포르투갈은 4승 0무 0패, 12점으로 상위 두 자리를 확보했다. 노르웨이는 1승 0무 3패, 3점. 덴마크는 웨일스를 1-0으로 이겼고 여섯 점 뒤다. 이 데스크는 덴마크 득점자를 적지 않는다. 리예카에서 잉글랜드의 7-0과 오비에도에서 스페인의 3-1은 토요일부터 장부에 남는다. 여기서 국가대표 기간의 클럽 스코어는 싣지 않는다."
+      ]
+    },
+    "ar": {
+      "title": "البرتغال 2-1 النرويج: راموس وكانسيلو يعبران بفريق بلا رونالدو",
+      "subtitle": "دوري الأمم، 4 أكتوبر، بورتو. البرتغال أول من بلغ ربع النهائي. مباريات الاثنين ليست نهائية.",
+      "excerpt": "البرتغال تهزم النرويج 2-1 على إستاد دو دراغاو. آير 36، كانسيلو 38، راموس 79. كونسيساو طُرد. رونالدو لم يكن في القائمة.",
+      "body": [
+        "لعبت البرتغال على إستاد دو دراغاو الأحد 4 أكتوبر من دون كريستيانو رونالدو وهزمت النرويج 2-1 في المجموعة A4 من دوري الأمم. تتفق AP وESPN وSofascore على الهدافين الثلاثة. البرتغال أول فريق يبلغ ربع النهائي. مباريات الاثنين، ومنها فرنسا ضد بلجيكا، ليست في هذا الدفتر. الدوري الإنجليزي يبقى مجمداً حتى 10 أكتوبر، ومانشستر سيتي على 15 نقطة من خمس مباريات.",
+        "سجل كريستوفر آير للنرويج في الدقيقة 36. عادل جواو كانسيلو في الدقيقة 38. سجل غونسالو راموس، أساسياً مكان رونالدو، في الدقيقة 79. طُرد فرانسيسكو كونسيساو متأخراً لإنذار ثان، اعتراضاً، وهذا الحدث ليس هدفاً. خرج إيرلينغ هالاند حوالي الدقيقة 66 بعد عرج ولم يسجل. سطر ESPN ذكر حضوراً من 48,832.",
+        "البرتغال 4-0-0 برصيد 12 نقطة وضمنت مكاناً بين الأولين. النرويج 1-0-3 برصيد 3 نقاط. الدنمارك هزمت ويلز 1-0 وتتأخر بست نقاط. هذا المكتب لا يسمي هداف الدنمارك. فوز إنجلترا 7-0 في رييكا وفوز إسبانيا 3-1 في أوفييدو يبقيان في الدفتر منذ السبت. لا تُطبع هنا نتيجة أندية من نافذة المنتخبات."
+      ]
+    }
+  },
+  "wnba-semifinals-game1-dream-92-valkyries-71-2026": {
+    "fr": {
+      "title": "Dream 92, Liberty 82. Valkyries 71, Aces 60. Les deux séries sont à 1-0.",
+      "subtitle": "Demi-finales WNBA, match 1, dimanche 4 octobre. Le match 2 n’est pas final.",
+      "excerpt": "Atlanta bat New York 92-82 et mène 1-0. Golden State bat Las Vegas 71-60 et mène 1-0. Jordin Canada a marqué 25. Gabby Williams a marqué 25.",
+      "body": [
+        "Les Atlanta Dream ont battu les New York Liberty 92-82 dimanche 4 octobre et mènent la demi-finale au meilleur des cinq matches, 1-0. Les Golden State Valkyries ont battu les Las Vegas Aces 71-60 le même après-midi au Chase Center et mènent aussi 1-0. Le match 2 n’est pas un résultat sur ce desk. Les bilans de saison régulière restent ceux de StatMuse : Lynx 33-11, Valkyries 32-12, Aces 31-13, Dream 30-14.",
+        "Récit ESPN, match 401918295 : quart-temps Liberty 24-16-15-27, Dream 21-16-32-23. Les Liberty menaient de 3 à la mi-temps. Atlanta a gagné le troisième quart 32-15. Jordin Canada a marqué 25 points, dont 20 en seconde période, et a pris 5 interceptions. DeWanna Bonner a marqué 23. L’AJC donnait Angel Reese à 17 points et 7 rebonds, et Rhyne Howard à 16. Sabrina Ionescu a marqué 27 et Breanna Stewart 19. Allisha Gray est sortie au deuxième quart avec une blessure à la main gauche. Le match 2 est mercredi à Atlanta.",
+        "Feuille ESPN 401918296 et NBC Bay Area : quart-temps Aces 18-13-17-12, Valkyries 22-12-22-15. Gabby Williams a inscrit 25 points, pris 11 rebonds et délivré 5 passes. NBC : Kiah Stokes, 14 rebonds et 3 contres. A'ja Wilson a marqué 24 points en 35 minutes, 8 tirs réussis sur 21, 8 lancers sur 11, et 4 rebonds. Chelsea Gray a marqué 16. Jewell Loyd est sortie tôt dans le troisième quart avec une blessure à la jambe gauche et était en cours d’évaluation."
+      ]
+    },
+    "es": {
+      "title": "Dream 92, Liberty 82. Valkyries 71, Aces 60. Las dos series van 1-0.",
+      "subtitle": "Semifinales de la WNBA, partido 1, domingo 4 de octubre. El partido 2 no es final.",
+      "excerpt": "Atlanta gana 92-82 a Nueva York y lidera 1-0. Golden State gana 71-60 a Las Vegas y lidera 1-0. Jordin Canada anotó 25. Gabby Williams anotó 25.",
+      "body": [
+        "Las Atlanta Dream ganaron 92-82 a las New York Liberty el domingo 4 de octubre y lideran la semifinal al mejor de cinco, 1-0. Las Golden State Valkyries ganaron 71-60 a las Las Vegas Aces esa misma tarde en el Chase Center y también lideran 1-0. El partido 2 no es un resultado en este desk. Los registros de temporada regular siguen donde los dejó StatMuse: Lynx 33-11, Valkyries 32-12, Aces 31-13, Dream 30-14.",
+        "Crónica de ESPN, partido 401918295: cuartos Liberty 24-16-15-27, Dream 21-16-32-23. Las Liberty iban 3 arriba al descanso. Atlanta ganó el tercer cuarto 32-15. Jordin Canada anotó 25, 20 en la segunda parte, y tuvo 5 robos. DeWanna Bonner anotó 23. El AJC dio a Angel Reese 17 puntos y 7 rebotes, y a Rhyne Howard 16. Sabrina Ionescu anotó 27 y Breanna Stewart 19. Allisha Gray salió en el segundo cuarto con una lesión en la mano izquierda. El partido 2 es el miércoles en Atlanta.",
+        "Acta de ESPN 401918296 y NBC Bay Area: cuartos Aces 18-13-17-12, Valkyries 22-12-22-15. Gabby Williams tuvo 25 puntos, 11 rebotes y 5 asistencias. NBC: Kiah Stokes, 14 rebotes y 3 tapones. A'ja Wilson anotó 24 en 35 minutos, 8 de 21 en tiros de campo, 8 de 11 en tiros libres y 4 rebotes. Chelsea Gray anotó 16. Jewell Loyd salió pronto en el tercer cuarto con una lesión en la pierna izquierda y estaba siendo evaluada."
+      ]
+    },
+    "de": {
+      "title": "Dream 92, Liberty 82. Valkyries 71, Aces 60. Beide Serien stehen 1:0.",
+      "subtitle": "WNBA-Halbfinale, Spiel 1, Sonntag, 4. Oktober. Spiel 2 ist nicht final.",
+      "excerpt": "Atlanta schlägt New York 92:82 und führt 1:0. Golden State schlägt Las Vegas 71:60 und führt 1:0. Jordin Canada erzielte 25. Gabby Williams erzielte 25.",
+      "body": [
+        "Die Atlanta Dream schlugen die New York Liberty am Sonntag, 4. Oktober, 92:82 und führen das Halbfinale nach dem Modus Best of Five mit 1:0. Die Golden State Valkyries schlugen die Las Vegas Aces am selben Nachmittag im Chase Center 71:60 und führen ebenfalls 1:0. Spiel 2 ist auf diesem Desk kein Ergebnis. Die Bilanzen der regulären Saison bleiben, wo StatMuse sie ließ: Lynx 33-11, Valkyries 32-12, Aces 31-13, Dream 30-14.",
+        "ESPN-Bericht, Spiel 401918295: Viertel Liberty 24-16-15-27, Dream 21-16-32-23. Die Liberty führten zur Pause mit 3. Atlanta gewann das dritte Viertel 32:15. Jordin Canada erzielte 25 Punkte, 20 davon in der zweiten Hälfte, und hatte 5 Steals. DeWanna Bonner erzielte 23. Das AJC führte Angel Reese mit 17 Punkten und 7 Rebounds, Rhyne Howard mit 16. Sabrina Ionescu erzielte 27, Breanna Stewart 19. Allisha Gray ging im zweiten Viertel mit einer Verletzung an der linken Hand vom Feld. Spiel 2 ist Mittwoch in Atlanta.",
+        "ESPN-Box 401918296 und NBC Bay Area: Viertel Aces 18-13-17-12, Valkyries 22-12-22-15. Gabby Williams hatte 25 Punkte, 11 Rebounds und 5 Assists. NBC: Kiah Stokes 14 Rebounds und 3 Blocks. A'ja Wilson erzielte 24 Punkte in 35 Minuten, 8 von 21 aus dem Feld, 8 von 11 von der Linie, und 4 Rebounds. Chelsea Gray erzielte 16. Jewell Loyd ging früh im dritten Viertel mit einer Verletzung am linken Bein vom Feld und wurde untersucht."
+      ]
+    },
+    "it": {
+      "title": "Dream 92, Liberty 82. Valkyries 71, Aces 60. Entrambe le serie sono sull’1-0.",
+      "subtitle": "Semifinali WNBA, gara 1, domenica 4 ottobre. Gara 2 non è finale.",
+      "excerpt": "Atlanta batte New York 92-82 e conduce 1-0. Golden State batte Las Vegas 71-60 e conduce 1-0. Jordin Canada ha segnato 25. Gabby Williams ha segnato 25.",
+      "body": [
+        "Le Atlanta Dream hanno battuto le New York Liberty 92-82 domenica 4 ottobre e conducono la semifinale al meglio delle cinque, 1-0. Le Golden State Valkyries hanno battuto le Las Vegas Aces 71-60 lo stesso pomeriggio al Chase Center e conducono anche loro 1-0. Gara 2 non è un risultato su questo desk. I bilanci della stagione regolare restano dove li ha lasciati StatMuse: Lynx 33-11, Valkyries 32-12, Aces 31-13, Dream 30-14.",
+        "Resoconto ESPN, gara 401918295: quarti Liberty 24-16-15-27, Dream 21-16-32-23. Le Liberty conducevano di 3 all’intervallo. Atlanta ha vinto il terzo quarto 32-15. Jordin Canada ha segnato 25 punti, 20 nel secondo tempo, e ha avuto 5 palle rubate. DeWanna Bonner ha segnato 23. L’AJC dava Angel Reese a 17 punti e 7 rimbalzi, e Rhyne Howard a 16. Sabrina Ionescu ha segnato 27 e Breanna Stewart 19. Allisha Gray è uscita nel secondo quarto per un infortunio alla mano sinistra. Gara 2 è mercoledì ad Atlanta.",
+        "Tabellino ESPN 401918296 e NBC Bay Area: quarti Aces 18-13-17-12, Valkyries 22-12-22-15. Gabby Williams ha avuto 25 punti, 11 rimbalzi e 5 assist. NBC: Kiah Stokes 14 rimbalzi e 3 stoppate. A'ja Wilson ha segnato 24 punti in 35 minuti, 8 su 21 dal campo, 8 su 11 ai liberi, e 4 rimbalzi. Chelsea Gray ha segnato 16. Jewell Loyd è uscita presto nel terzo quarto per un infortunio alla gamba sinistra ed era in valutazione."
+      ]
+    },
+    "pl": {
+      "title": "Dream 92, Liberty 82. Valkyries 71, Aces 60. Obie serie są 1-0.",
+      "subtitle": "Półfinały WNBA, mecz 1, niedziela 4 października. Mecz 2 nie jest końcowy.",
+      "excerpt": "Atlanta pokonuje Nowy Jork 92-82 i prowadzi 1-0. Golden State pokonuje Las Vegas 71-60 i prowadzi 1-0. Jordin Canada zdobyła 25. Gabby Williams zdobyła 25.",
+      "body": [
+        "Atlanta Dream pokonały New York Liberty 92-82 w niedzielę 4 października i prowadzą w półfinale do trzech wygranych, 1-0. Golden State Valkyries pokonały Las Vegas Aces 71-60 tego samego popołudnia w Chase Center i też prowadzą 1-0. Mecz 2 nie jest wynikiem na tym desku. Bilans sezonu zasadniczego zostaje tam, gdzie zostawił go StatMuse: Lynx 33-11, Valkyries 32-12, Aces 31-13, Dream 30-14.",
+        "Relacja ESPN, mecz 401918295: kwarty Liberty 24-16-15-27, Dream 21-16-32-23. Liberty prowadziły w przerwie trzema punktami. Atlanta wygrała trzecią kwartę 32-15. Jordin Canada zdobyła 25 punktów, 20 w drugiej połowie, i miała 5 przechwytów. DeWanna Bonner zdobyła 23. AJC podawało Angel Reese z 17 punktami i 7 zbiórkami oraz Rhyne Howard z 16. Sabrina Ionescu zdobyła 27, Breanna Stewart 19. Allisha Gray zeszła w drugiej kwarcie z kontuzją lewej ręki. Mecz 2 jest w środę w Atlancie.",
+        "Protokół ESPN 401918296 i NBC Bay Area: kwarty Aces 18-13-17-12, Valkyries 22-12-22-15. Gabby Williams miała 25 punktów, 11 zbiórek i 5 asyst. NBC: Kiah Stokes 14 zbiórek i 3 bloki. A'ja Wilson zdobyła 24 punkty w 35 minutach, 8 z 21 z gry, 8 z 11 osobistych i 4 zbiórki. Chelsea Gray zdobyła 16. Jewell Loyd zeszła wcześnie w trzeciej kwarcie z kontuzją lewej nogi i była badana."
+      ]
+    },
+    "zh": {
+      "title": "梦想 92，自由 82。女武神 71，王牌 60。两个系列都是 1-0。",
+      "subtitle": "WNBA 半决赛第 1 场，10 月 4 日周日。第 2 场不是终场。",
+      "excerpt": "亚特兰大 92-82 击败纽约，领先 1-0。金州 71-60 击败拉斯维加斯，领先 1-0。乔丁·卡纳达得 25 分。加比·威廉姆斯得 25 分。",
+      "body": [
+        "亚特兰大梦想周日 10 月 4 日 92-82 击败纽约自由人，五场三胜的半决赛领先 1-0。金州女武神同一天下午在大通中心 71-60 击败拉斯维加斯王牌，同样领先 1-0。第 2 场在本台不是结果。常规赛战绩仍停在 StatMuse 的数字：山猫 33-11，女武神 32-12，王牌 31-13，梦想 30-14。",
+        "ESPN 战报，比赛 401918295：自由人四节 24-16-15-27，梦想 21-16-32-23。自由人半场领先 3 分。亚特兰大第三节 32-15。乔丁·卡纳达得 25 分，下半场 20 分，还有 5 次抢断。德沃娜·邦纳得 23 分。AJC 写安杰尔·里斯 17 分 7 个篮板，莱恩·霍华德 16 分。萨布丽娜·约内斯库 27 分，布里安娜·斯图尔特 19 分。阿莉莎·格雷第二节因左手伤退赛。第 2 场是周三在亚特兰大。",
+        "ESPN 技术统计 401918296 和 NBC 湾区：王牌四节 18-13-17-12，女武神 22-12-22-15。加比·威廉姆斯 25 分、11 个篮板、5 次助攻。NBC：基娅·斯托克斯 14 个篮板、3 次盖帽。阿贾·威尔逊 35 分钟得 24 分，投篮 21 中 8，罚球 11 中 8，4 个篮板。切尔西·格雷得 16 分。朱厄尔·洛伊德第三节早段因左腿伤离场，正在评估。"
+      ]
+    },
+    "ja": {
+      "title": "ドリーム 92、リバティ 82。ヴァルキリーズ 71、エーシズ 60。両方のシリーズが 1-0。",
+      "subtitle": "WNBA 準決勝の第 1 戦、10月4日日曜。第 2 戦は最終結果ではない。",
+      "excerpt": "アトランタがニューヨークを 92-82 で下し 1-0。ゴールデンステートがラスベガスを 71-60 で下し 1-0。ジョーディン・カナダが 25 点。ギャビー・ウィリアムズが 25 点。",
+      "body": [
+        "アトランタ・ドリームは 10月4日日曜、ニューヨーク・リバティを 92-82 で破り、5 戦 3 勝の準決勝を 1-0 でリードする。ゴールデンステート・ヴァルキリーズは同じ午後、チェイス・センターでラスベガス・エーシズを 71-60 で破り、こちらも 1-0。第 2 戦はこのデスクの結果ではない。レギュラーシーズンの成績は StatMuse のまま：リンクス 33-11、ヴァルキリーズ 32-12、エーシズ 31-13、ドリーム 30-14。",
+        "ESPN の記事、試合 401918295：クォーターはリバティ 24-16-15-27、ドリーム 21-16-32-23。リバティがハーフで 3 点リード。アトランタが第 3 クォーターを 32-15。ジョーディン・カナダは 25 点、後半に 20 点、スティール 5。デワナ・ボナーが 23 点。AJC はエンジェル・リースを 17 点 7 リバウンド、ライン・ハワードを 16 点とした。サブリナ・イオネスクが 27 点、ブリアナ・スチュワートが 19 点。アリシャ・グレイは第 2 クォーターに左手の負傷で退いた。第 2 戦は水曜、アトランタ。",
+        "ESPN のボックス 401918296 と NBC ベイエリア：クォーターはエーシズ 18-13-17-12、ヴァルキリーズ 22-12-22-15。ギャビー・ウィリアムズは 25 点、11 リバウンド、5 アシスト。NBC：カイア・ストークスは 14 リバウンド、3 ブロック。アジャ・ウィルソンは 35 分で 24 点、フィールドゴール 21 本中 8、フリースロー 11 本中 8、リバウンド 4。チェルシー・グレイが 16 点。ジュエル・ロイドは第 3 クォーター序盤に左脚の負傷で退き、検査中だった。"
+      ]
+    },
+    "ko": {
+      "title": "드림 92, 리버티 82. 발키리스 71, 에이스 60. 두 시리즈 모두 1-0.",
+      "subtitle": "WNBA 준결승 1차전, 10월 4일 일요일. 2차전은 최종이 아니다.",
+      "excerpt": "애틀랜타가 뉴욕을 92-82로 이기고 1-0. 골든스테이트가 라스베이거스를 71-60으로 이기고 1-0. 조딘 캐나다가 25점. 개비 윌리엄스가 25점.",
+      "body": [
+        "애틀랜타 드림은 10월 4일 일요일 뉴욕 리버티를 92-82로 이기고 5전 3선승 준결승에서 1-0으로 앞선다. 골든스테이트 발키리스는 같은 오후 체이스 센터에서 라스베이거스 에이스를 71-60으로 이기고 역시 1-0. 2차전은 이 데스크의 결과가 아니다. 정규시즌 성적은 StatMuse가 둔 그대로다. 링크스 33-11, 발키리스 32-12, 에이스 31-13, 드림 30-14.",
+        "ESPN 기사, 경기 401918295: 쿼터는 리버티 24-16-15-27, 드림 21-16-32-23. 리버티가 하프에 3점 앞섰다. 애틀랜타가 3쿼터를 32-15로 가져갔다. 조딘 캐나다는 25점, 후반 20점, 스틸 5개. 드와나 보너가 23점. AJC는 앤젤 리스를 17점 7리바운드, 라인 하워드를 16점으로 적었다. 사브리나 이오네스쿠 27점, 브리아나 스튜어트 19점. 알리샤 그레이는 2쿼터에 왼손 부상으로 나갔다. 2차전은 수요일 애틀랜타.",
+        "ESPN 박스 401918296과 NBC 베이 에어리어: 쿼터는 에이스 18-13-17-12, 발키리스 22-12-22-15. 개비 윌리엄스는 25점, 11리바운드, 5어시스트. NBC: 키아 스토크스는 14리바운드, 3블록. 아자 윌슨은 35분에 24점, 필드골 21개 중 8, 자유투 11개 중 8, 리바운드 4. 첼시 그레이가 16점. 주얼 로이드는 3쿼터 초반 왼다리 부상으로 나갔고 검사 중이었다."
+      ]
+    },
+    "ar": {
+      "title": "دريم 92، ليبرتي 82. فالكيريز 71، إيسيز 60. السلسلتان 1-0.",
+      "subtitle": "نصف نهائي WNBA، المباراة 1، الأحد 4 أكتوبر. المباراة 2 ليست نهائية.",
+      "excerpt": "أتلانتا تهزم نيويورك 92-82 وتتقدم 1-0. غولدن ستيت تهزم لاس فيغاس 71-60 وتتقدم 1-0. جوردين كندا سجلت 25. غابي ويليامز سجلت 25.",
+      "body": [
+        "هزمت أتلانتا دريم نيويورك ليبرتي 92-82 الأحد 4 أكتوبر وتقود نصف النهائي الأفضل من خمسة 1-0. هزمت غولدن ستيت فالكيريز لاس فيغاس إيسيز 71-60 بعد ظهر اليوم نفسه في تشيس سنتر وتقود أيضاً 1-0. المباراة 2 ليست نتيجة على هذا المكتب. سجلات الموسم العادي تبقى حيث تركها StatMuse: لينكس 33-11، فالكيريز 32-12، إيسيز 31-13، دريم 30-14.",
+        "تقرير ESPN، المباراة 401918295: الأشواط ليبرتي 24-16-15-27، دريم 21-16-32-23. كانت ليبرتي متقدمة بـ3 عند الاستراحة. ربحت أتلانتا الشوط الثالث 32-15. سجلت جوردين كندا 25 نقطة، 20 في الشوط الثاني، ولها 5 سرقة. سجلت دينا بونر 23. ذكرت AJC أنجل ريس بـ17 نقطة و7 متابعات، وراين هوارد بـ16. سجلت سابرينا يونيسكو 27 وبريانا ستيوارت 19. خرجت أليشا غراي في الشوط الثاني لإصابة في اليد اليسرى. المباراة 2 الأربعاء في أتلانتا.",
+        "ورقة ESPN 401918296 وNBC Bay Area: الأشواط إيسيز 18-13-17-12، فالكيريز 22-12-22-15. غابي ويليامز 25 نقطة و11 متابعة و5 تمريرات. NBC: كيا ستوكس 14 متابعة و3 تصديات. سجلت أجا ويلسون 24 نقطة في 35 دقيقة، 8 من 21 من الملعب، 8 من 11 من الرميات الحرة، و4 متابعات. سجلت تشيلسي غراي 16. خرجت جويل لويد مبكراً في الشوط الثالث لإصابة في الساق اليسرى وكانت قيد الفحص."
+      ]
+    }
+  },
+  "patriots-29-bills-26-week4-2026": {
+    "fr": {
+      "title": "Patriots 29, Bills 26 : la série sans défaite est finie",
+      "subtitle": "NFL, semaine 4, dimanche 4 octobre. Londres est aussi final. La fenêtre tardive, dimanche soir et lundi soir ne le sont pas.",
+      "excerpt": "La Nouvelle-Angleterre bat Buffalo 29-26. Drake Maye a lancé pour 269 yards et 3 touchdowns. Colts 30, Commanders 13 à Londres est aussi final. Les scores de la fenêtre tardive ne sont pas imprimés.",
+      "body": [
+        "Les Buffalo Bills abordaient dimanche à 3-0 et ont perdu à domicile. ESPN et FootballDB ont Nouvelle-Angleterre 29, Buffalo 26. Les Patriots passent à 2-2 et les Bills à 3-1. Autres finales imprimées du même tableau : Colts 30, Commanders 13 à Londres ; Bears 23, Jets 12 ; Giants 36, Cardinals 24 ; Rams 24, Eagles 20 ; Cowboys 34, Texans 30 ; Ravens 24, Titans 18 ; Packers 17, Buccaneers 14 ; Jaguars 22, Bengals 17. Dolphins chez les Vikings, Broncos chez les 49ers, Chiefs chez les Raiders et Chargers chez les Seahawks étaient encore en cours. Lions chez les Panthers et Falcons chez les Saints n’étaient pas joués.",
+        "Quart-temps : Patriots 7-7-7-8, Bills 0-17-0-9. Drake Maye a réussi 22 passes sur 37 pour 269 yards et 3 touchdowns. James Cook III a eu 12 courses pour 75 yards et un touchdown. Keon Coleman a eu 6 réceptions pour 116 yards et un touchdown.",
+        "Londres est aussi une finale : Colts 30, Commanders 13. Jonathan Taylor a eu 20 courses pour 95 yards et 2 touchdowns. Athan Kaliakmanis a réussi 15 passes sur 33 pour 186 yards et un touchdown. La fenêtre tardive, dimanche soir et lundi soir ne sont pas des finales sur ce desk. Aucun score de ces matches n’est imprimé."
+      ]
+    },
+    "es": {
+      "title": "Patriots 29, Bills 26: se acabó el inicio invicto",
+      "subtitle": "NFL, semana 4, domingo 4 de octubre. Londres también es final. La ventana tardía, el domingo por la noche y el lunes por la noche no lo son.",
+      "excerpt": "Nueva Inglaterra gana 29-26 a Buffalo. Drake Maye lanzó para 269 yardas y 3 touchdowns. Colts 30, Commanders 13 en Londres también es final. Los marcadores de la ventana tardía no se imprimen.",
+      "body": [
+        "Los Buffalo Bills llegaban el domingo con 3-0 y perdieron en casa. ESPN y FootballDB tienen Nueva Inglaterra 29, Buffalo 26. Los Patriots pasan a 2-2 y los Bills a 3-1. Otras finales impresas del mismo tablero: Colts 30, Commanders 13 en Londres; Bears 23, Jets 12; Giants 36, Cardinals 24; Rams 24, Eagles 20; Cowboys 34, Texans 30; Ravens 24, Titans 18; Packers 17, Buccaneers 14; Jaguars 22, Bengals 17. Dolphins en Vikings, Broncos en 49ers, Chiefs en Raiders y Chargers en Seahawks seguían en juego. Lions en Panthers y Falcons en Saints no se habían jugado.",
+        "Cuartos: Patriots 7-7-7-8, Bills 0-17-0-9. Drake Maye completó 22 de 37 para 269 yardas y 3 touchdowns. James Cook III tuvo 12 acarreos para 75 yardas y un touchdown. Keon Coleman tuvo 6 recepciones para 116 yardas y un touchdown.",
+        "Londres también es una final: Colts 30, Commanders 13. Jonathan Taylor tuvo 20 acarreos para 95 yardas y 2 touchdowns. Athan Kaliakmanis completó 15 de 33 para 186 yardas y un touchdown. La ventana tardía, el domingo por la noche y el lunes por la noche no son finales en este desk. No se imprime ningún marcador de esos partidos."
+      ]
+    },
+    "de": {
+      "title": "Patriots 29, Bills 26: der ungeschlagene Start ist vorbei",
+      "subtitle": "NFL, Spielwoche 4, Sonntag, 4. Oktober. London ist auch final. Das späte Fenster, Sonntagabend und Montagabend sind es nicht.",
+      "excerpt": "New England schlägt Buffalo 29:26. Drake Maye warf für 269 Yards und 3 Touchdowns. Colts 30, Commanders 13 in London ist auch final. Ergebnisse aus dem späten Fenster werden nicht gedruckt.",
+      "body": [
+        "Die Buffalo Bills gingen mit 3-0 in den Sonntag und verloren zu Hause. ESPN und FootballDB haben New England 29, Buffalo 26. Die Patriots stehen 2-2, die Bills 3-1. Weitere gedruckte Endstände derselben Tafel: Colts 30, Commanders 13 in London; Bears 23, Jets 12; Giants 36, Cardinals 24; Rams 24, Eagles 20; Cowboys 34, Texans 30; Ravens 24, Titans 18; Packers 17, Buccaneers 14; Jaguars 22, Bengals 17. Dolphins bei den Vikings, Broncos bei den 49ers, Chiefs bei den Raiders und Chargers bei den Seahawks liefen noch. Lions bei den Panthers und Falcons bei den Saints waren nicht gespielt.",
+        "Viertel: Patriots 7-7-7-8, Bills 0-17-0-9. Drake Maye traf 22 von 37 Pässen für 269 Yards und 3 Touchdowns. James Cook III hatte 12 Läufe für 75 Yards und einen Touchdown. Keon Coleman hatte 6 Fänge für 116 Yards und einen Touchdown.",
+        "London ist auch ein Endstand: Colts 30, Commanders 13. Jonathan Taylor hatte 20 Läufe für 95 Yards und 2 Touchdowns. Athan Kaliakmanis traf 15 von 33 Pässen für 186 Yards und einen Touchdown. Das späte Fenster, Sonntagabend und Montagabend sind auf diesem Desk keine Endstände. Aus diesen Spielen wird kein Ergebnis gedruckt."
+      ]
+    },
+    "it": {
+      "title": "Patriots 29, Bills 26: l’avvio imbattuto è finito",
+      "subtitle": "NFL, settimana 4, domenica 4 ottobre. Londra è anche finale. La finestra tarda, domenica sera e lunedì sera non lo sono.",
+      "excerpt": "Il New England batte Buffalo 29-26. Drake Maye ha lanciato per 269 yard e 3 touchdown. Colts 30, Commanders 13 a Londra è anche finale. I punteggi della finestra tarda non sono stampati.",
+      "body": [
+        "I Buffalo Bills arrivavano domenica sul 3-0 e hanno perso in casa. ESPN e FootballDB hanno New England 29, Buffalo 26. I Patriots passano a 2-2 e i Bills a 3-1. Altre finali stampate dallo stesso tabellone: Colts 30, Commanders 13 a Londra; Bears 23, Jets 12; Giants 36, Cardinals 24; Rams 24, Eagles 20; Cowboys 34, Texans 30; Ravens 24, Titans 18; Packers 17, Buccaneers 14; Jaguars 22, Bengals 17. Dolphins dai Vikings, Broncos dai 49ers, Chiefs dai Raiders e Chargers dai Seahawks erano ancora in corso. Lions dai Panthers e Falcons dai Saints non erano state giocate.",
+        "Quarti: Patriots 7-7-7-8, Bills 0-17-0-9. Drake Maye ha completato 22 passaggi su 37 per 269 yard e 3 touchdown. James Cook III ha avuto 12 corse per 75 yard e un touchdown. Keon Coleman ha avuto 6 ricezioni per 116 yard e un touchdown.",
+        "Londra è anche una finale: Colts 30, Commanders 13. Jonathan Taylor ha avuto 20 corse per 95 yard e 2 touchdown. Athan Kaliakmanis ha completato 15 passaggi su 33 per 186 yard e un touchdown. La finestra tarda, domenica sera e lunedì sera non sono finali su questo desk. Nessun punteggio di quelle gare è stampato."
+      ]
+    },
+    "pl": {
+      "title": "Patriots 29, Bills 26: niepokonany start się skończył",
+      "subtitle": "NFL, tydzień 4, niedziela 4 października. Londyn też jest końcowy. Późne okno, niedziela wieczór i poniedziałek wieczór nie są.",
+      "excerpt": "Nowa Anglia pokonuje Buffalo 29-26. Drake Maye rzucił na 269 jardów i 3 przyłożenia. Colts 30, Commanders 13 w Londynie też jest końcowe. Wyników późnego okna nie drukujemy.",
+      "body": [
+        "Buffalo Bills wchodziły w niedzielę z bilansem 3-0 i przegrały u siebie. ESPN i FootballDB mają Nową Anglię 29, Buffalo 26. Patriots są 2-2, Bills 3-1. Inne wydrukowane końcowe z tej samej tablicy: Colts 30, Commanders 13 w Londynie; Bears 23, Jets 12; Giants 36, Cardinals 24; Rams 24, Eagles 20; Cowboys 34, Texans 30; Ravens 24, Titans 18; Packers 17, Buccaneers 14; Jaguars 22, Bengals 17. Dolphins u Vikings, Broncos u 49ers, Chiefs u Raiders i Chargers u Seahawks jeszcze trwały. Lions u Panthers i Falcons u Saints nie były rozegrane.",
+        "Kwarty: Patriots 7-7-7-8, Bills 0-17-0-9. Drake Maye trafił 22 z 37 podań na 269 jardów i 3 przyłożenia. James Cook III miał 12 biegów na 75 jardów i przyłożenie. Keon Coleman miał 6 złapań na 116 jardów i przyłożenie.",
+        "Londyn też jest końcowy: Colts 30, Commanders 13. Jonathan Taylor miał 20 biegów na 95 jardów i 2 przyłożenia. Athan Kaliakmanis trafił 15 z 33 podań na 186 jardów i przyłożenie. Późne okno, niedziela wieczór i poniedziałek wieczór nie są końcowe na tym desku. Żaden wynik tych meczów nie jest drukowany."
+      ]
+    },
+    "zh": {
+      "title": "爱国者 29，比尔 26：不败开局结束了",
+      "subtitle": "NFL 第 4 周，10 月 4 日周日。伦敦也是终场。晚场窗口、周日夜赛和周一夜赛不是。",
+      "excerpt": "新英格兰 29-26 击败布法罗。德雷克·梅伊传出 269 码和 3 次达阵。小马 30、指挥官 13 的伦敦战也是终场。晚场比分不印。",
+      "body": [
+        "布法罗比尔以 3 胜 0 负进入周日，主场落败。ESPN 和 FootballDB 都是新英格兰 29，布法罗 26。爱国者变成 2-2，比尔变成 3-1。同一记分牌上印出的其他终场：伦敦小马 30、指挥官 13；熊 23、喷气机 12；巨人 36、红雀 24；公羊 24、鹰 20；牛仔 34、德州人 30；乌鸦 24、泰坦 18；包装工 17、海盗 14；美洲虎 22、猛虎 17。海豚对维京人、野马对 49 人、酋长对突袭者、闪电对海鹰当时仍在进行。雄狮对黑豹、猎鹰对圣徒还没踢。",
+        "四节：爱国者 7-7-7-8，比尔 0-17-0-9。德雷克·梅伊 37 投 22 中，269 码，3 次达阵。詹姆斯·库克三世 12 次冲球 75 码并有 1 次达阵。基恩·科尔曼 6 次接球 116 码并有 1 次达阵。",
+        "伦敦也是终场：小马 30，指挥官 13。乔纳森·泰勒 20 次冲球 95 码、2 次达阵。阿坦·卡利亚克马尼斯 33 投 15 中，186 码、1 次达阵。晚场窗口、周日夜赛和周一夜赛在本台不是终场。那些比赛的比分一律不印。"
+      ]
+    },
+    "ja": {
+      "title": "ペイトリオッツ 29、ビルズ 26。無敗の立ち上がりは終わった",
+      "subtitle": "NFL 第 4 週、10月4日日曜。ロンドンも最終結果。遅い時間帯、日曜夜、月曜夜は違う。",
+      "excerpt": "ニューイングランドがバッファローを 29-26。ドレイク・メイは 269 ヤード、タッチダウン 3。コルツ 30、コマンダース 13 のロンドンも最終結果。遅い時間帯のスコアは載せない。",
+      "body": [
+        "バッファロー・ビルズは日曜を 3 勝 0 敗で迎え、本拠地で負けた。ESPN と FootballDB はニューイングランド 29、バッファロー 26。ペイトリオッツは 2 勝 2 敗、ビルズは 3 勝 1 敗。同じスコアボードで載ったほかの最終結果：ロンドンでコルツ 30、コマンダース 13。ベアーズ 23、ジェッツ 12。ジャイアンツ 36、カージナルス 24。ラムズ 24、イーグルス 20。カウボーイズ 34、テキサンズ 30。レイブンズ 24、タイタンズ 18。パッカーズ 17、バッカニアーズ 14。ジャガーズ 22、ベンガルズ 17。ドルフィンズ対バイキングス、ブロンコス対 49ers、チーフス対レイダース、チャージャーズ対シーホークスはまだ進行中だった。ライオンズ対パンサーズとファルコンズ対セインツは行われていなかった。",
+        "クォーター：ペイトリオッツ 7-7-7-8、ビルズ 0-17-0-9。ドレイク・メイは 37 回中 22 回成功、269 ヤード、タッチダウン 3。ジェームズ・クック 3 世は 12 回のランで 75 ヤード、タッチダウン 1。キオン・コールマンは 6 回のキャッチで 116 ヤード、タッチダウン 1。",
+        "ロンドンも最終結果：コルツ 30、コマンダース 13。ジョナサン・テイラーは 20 回のランで 95 ヤード、タッチダウン 2。アサン・カリアクマニスは 33 回中 15 回成功、186 ヤード、タッチダウン 1。遅い時間帯、日曜夜、月曜夜はこのデスクの最終結果ではない。それらの試合のスコアは載せない。"
+      ]
+    },
+    "ko": {
+      "title": "패트리어츠 29, 빌스 26. 무패 출발은 끝났다",
+      "subtitle": "NFL 4주차, 10월 4일 일요일. 런던도 최종이다. 늦은 창, 일요일 밤, 월요일 밤은 아니다.",
+      "excerpt": "뉴잉글랜드가 버펄로를 29-26으로 이겼다. 드레이크 메이는 269야드, 터치다운 3개. 런던의 콜츠 30, 커맨더스 13도 최종이다. 늦은 창의 스코어는 싣지 않는다.",
+      "body": [
+        "버펄로 빌스는 일요일을 3승 0패로 맞아 홈에서 졌다. ESPN과 FootballDB는 뉴잉글랜드 29, 버펄로 26. 패트리어츠는 2승 2패, 빌스는 3승 1패. 같은 스코어보드에서 실은 다른 최종: 런던에서 콜츠 30, 커맨더스 13. 베어스 23, 제츠 12. 자이언츠 36, 카디널스 24. 램스 24, 이글스 20. 카우보이스 34, 텍선스 30. 레이븐스 24, 타이탄스 18. 패커스 17, 버커니어스 14. 재규어스 22, 벵갈스 17. 돌핀스 대 바이킹스, 브롱코스 대 49ers, 치프스 대 레이더스, 차저스 대 시호크스는 아직 진행 중이었다. 라이온스 대 팬서스와 팰컨스 대 세인츠는 치러지지 않았다.",
+        "쿼터: 패트리어츠 7-7-7-8, 빌스 0-17-0-9. 드레이크 메이는 37개 중 22개 성공, 269야드, 터치다운 3. 제임스 쿡 3세는 12회 런에 75야드, 터치다운 1. 키온 콜먼은 6회 캐치에 116야드, 터치다운 1.",
+        "런던도 최종이다. 콜츠 30, 커맨더스 13. 조너선 테일러는 20회 런에 95야드, 터치다운 2. 아탄 칼리아크마니스는 33개 중 15개 성공, 186야드, 터치다운 1. 늦은 창, 일요일 밤, 월요일 밤은 이 데스크의 최종이 아니다. 그 경기들의 스코어는 싣지 않는다."
+      ]
+    },
+    "ar": {
+      "title": "باتريوتس 29، بيلز 26: البداية بلا خسارة انتهت",
+      "subtitle": "NFL الأسبوع 4، الأحد 4 أكتوبر. لندن أيضاً نهائية. النافذة المتأخرة وليلة الأحد وليلة الاثنين ليست كذلك.",
+      "excerpt": "نيو إنغلاند تهزم بوفالو 29-26. دريك ماي رمى لـ269 ياردة و3 هبوطات. كولتس 30، كوماندرز 13 في لندن أيضاً نهائية. نتائج النافذة المتأخرة لا تُطبع.",
+      "body": [
+        "دخل بوفالو بيلز الأحد بسجل 3-0 وخسر على أرضه. ESPN وFootballDB: نيو إنغلاند 29، بوفالو 26. باتريوتس أصبح 2-2 وبيلز 3-1. نهائيات أخرى مطبوعة من اللوحة نفسها: كولتس 30، كوماندرز 13 في لندن؛ بيرز 23، جتس 12؛ جاينتس 36، كاردينالز 24؛ رامز 24، إيغلز 20؛ كاوبويز 34، تكسانز 30؛ رافينز 24، تايتنز 18؛ باكرز 17، بوكانيرز 14؛ جاغوارز 22، بنغلز 17. دولفينز عند فايكينغز، وبرونكوز عند 49ers، وتشييفس عند رايدرز، وتشارجرز عند سيهاوكس كانت ما تزال جارية. لايونز عند بانثرز وفالكونز عند سينتس لم تُلعب.",
+        "الأشواط: باتريوتس 7-7-7-8، بيلز 0-17-0-9. دريك ماي أكمل 22 من 37 لـ269 ياردة و3 هبوطات. جيمس كوك الثالث 12 حملة لـ75 ياردة وهبوط. كيون كولمان 6 التقاطات لـ116 ياردة وهبوط.",
+        "لندن أيضاً نهائية: كولتس 30، كوماندرز 13. جوناثان تايلور 20 حملة لـ95 ياردة وهبوطين. أثان كالياكمانيس أكمل 15 من 33 لـ186 ياردة وهبوطاً. النافذة المتأخرة وليلة الأحد وليلة الاثنين ليست نهائية على هذا المكتب. لا تُطبع نتيجة من تلك المباريات."
+      ]
+    }
+  },
+  "djokovic-beats-zverev-beijing-alcaraz-tokyo-2026": {
+    "fr": {
+      "title": "Djokovic bat la tête de série numéro 1 Zverev à Pékin. Alcaraz va en demies à Tokyo.",
+      "subtitle": "Quarts de finale ATP, dimanche 4 octobre. Les demi-finales de lundi ne sont pas dans le livre.",
+      "excerpt": "Novak Djokovic a battu Alexander Zverev 4-6, 6-4, 6-4 à l’Open de Chine. Carlos Alcaraz a battu Denis Shapovalov 7-6 (3), 2-1 abandon à l’Open du Japon.",
+      "body": [
+        "Les quarts de finale ATP à Pékin et à Tokyo sont finaux. Les demi-finales de lundi, dont Alcaraz contre Munar sur le tableau de Tokyo, n’étaient pas jouées à la clôture de ce desk. Jannik Sinner reste absent de Shanghai. Aucun résultat de Shanghai n’est imprimé. La victoire de samedi d’Alcaraz sur Matteo Arnaldi reste dans le livre comme un résultat déjà passé.",
+        "Pékin, selon l’ATP : Novak Djokovic, tête de série 6, a battu Alexander Zverev, tête de série 1, 4-6, 6-4, 6-4. Daniil Medvedev a battu Francisco Cerundolo 7-6 (4), 6-3. Alex de Minaur a battu Andrey Rublev 1-6, 6-2, 6-3. Hubert Hurkacz a battu Karen Khachanov 7-6 (2), 6-2. L’ATP citait le bilan de Djokovic à l’Open de Chine : 32-0.",
+        "Tokyo, selon l’ATP : Carlos Alcaraz a battu Denis Shapovalov 7-6 (3), 2-1 abandon. Valentin Vacherot a battu Arthur Fils 7-5, 4-6, 6-4. Jaume Munar a battu Kyrian Jacquet 6-4, 6-2. Jiri Lehecka a battu Adolfo Daniel Vallejo 6-1, 6-1. Ce sont des quarts de finale. Les demi-finales sont la ligne suivante, et ce ne sont pas des résultats."
+      ]
+    },
+    "es": {
+      "title": "Djokovic vence al cabeza de serie Zverev en Pekín. Alcaraz llega a las semifinales de Tokio.",
+      "subtitle": "Cuartos de final ATP, domingo 4 de octubre. Las semifinales del lunes no están en el libro.",
+      "excerpt": "Novak Djokovic venció a Alexander Zverev 4-6, 6-4, 6-4 en el China Open. Carlos Alcaraz venció a Denis Shapovalov 7-6 (3), 2-1 y abandono en el Japan Open.",
+      "body": [
+        "Los cuartos de final ATP en Pekín y Tokio son finales. Las semifinales del lunes, incluido Alcaraz contra Munar en el cuadro de Tokio, no se habían jugado cuando cerró este desk. Jannik Sinner sigue fuera de Shanghái. No se imprime ningún resultado de Shanghái. La victoria del sábado de Alcaraz sobre Matteo Arnaldi se queda en el libro como historia.",
+        "Pekín, según la ATP: Novak Djokovic, sembrado 6, venció a Alexander Zverev, sembrado 1, 4-6, 6-4, 6-4. Daniil Medvedev venció a Francisco Cerundolo 7-6 (4), 6-3. Alex de Minaur venció a Andrey Rublev 1-6, 6-2, 6-3. Hubert Hurkacz venció a Karen Khachanov 7-6 (2), 6-2. La ATP citó el récord de Djokovic en el China Open: 32-0.",
+        "Tokio, según la ATP: Carlos Alcaraz venció a Denis Shapovalov 7-6 (3), 2-1 y abandono. Valentin Vacherot venció a Arthur Fils 7-5, 4-6, 6-4. Jaume Munar venció a Kyrian Jacquet 6-4, 6-2. Jiri Lehecka venció a Adolfo Daniel Vallejo 6-1, 6-1. Esos son cuartos. Las semifinales son la línea siguiente, y no son resultados."
+      ]
+    },
+    "de": {
+      "title": "Djokovic schlägt die Nummer 1 Zverev in Peking. Alcaraz steht in Tokio im Halbfinale.",
+      "subtitle": "ATP-Viertelfinals, Sonntag, 4. Oktober. Die Halbfinals am Montag stehen nicht im Buch.",
+      "excerpt": "Novak Djokovic schlug Alexander Zverev 4:6, 6:4, 6:4 bei den China Open. Carlos Alcaraz schlug Denis Shapovalov 7:6 (3), 2:1 Aufgabe bei den Japan Open.",
+      "body": [
+        "Die ATP-Viertelfinals in Peking und Tokio sind final. Die Halbfinals am Montag, darunter Alcaraz gegen Munar im Tableau von Tokio, waren beim Deskschluss nicht gespielt. Jannik Sinner bleibt in Shanghai außen vor. Kein Shanghai-Ergebnis wird gedruckt. Alcaraz’ Sieg vom Samstag über Matteo Arnaldi bleibt als bereits gespieltes Ergebnis im Buch.",
+        "Peking, laut ATP: Novak Djokovic, gesetzt als Nummer 6, schlug Alexander Zverev, gesetzt als Nummer 1, 4:6, 6:4, 6:4. Daniil Medvedev schlug Francisco Cerundolo 7:6 (4), 6:3. Alex de Minaur schlug Andrey Rublev 1:6, 6:2, 6:3. Hubert Hurkacz schlug Karen Khachanov 7:6 (2), 6:2. Die ATP nannte Djokovics Bilanz bei den China Open mit 32-0.",
+        "Tokio, laut ATP: Carlos Alcaraz schlug Denis Shapovalov 7:6 (3), 2:1 Aufgabe. Valentin Vacherot schlug Arthur Fils 7:5, 4:6, 6:4. Jaume Munar schlug Kyrian Jacquet 6:4, 6:2. Jiri Lehecka schlug Adolfo Daniel Vallejo 6:1, 6:1. Das sind Viertelfinals. Die Halbfinals sind die nächste Zeile, und sie sind keine Ergebnisse."
+      ]
+    },
+    "it": {
+      "title": "Djokovic batte la testa di serie Zverev a Pechino. Alcaraz va in semifinale a Tokyo.",
+      "subtitle": "Quarti ATP, domenica 4 ottobre. Le semifinali di lunedì non sono nel libro.",
+      "excerpt": "Novak Djokovic ha battuto Alexander Zverev 4-6, 6-4, 6-4 al China Open. Carlos Alcaraz ha battuto Denis Shapovalov 7-6 (3), 2-1 ritiro al Japan Open.",
+      "body": [
+        "I quarti ATP a Pechino e a Tokyo sono finali. Le semifinali di lunedì, Alcaraz contro Munar sul tabellone di Tokyo comprese, non erano giocate alla chiusura di questo desk. Jannik Sinner resta fuori da Shanghai. Nessun risultato di Shanghai è stampato. La vittoria di sabato di Alcaraz su Matteo Arnaldi resta nel libro come storia.",
+        "Pechino, secondo l’ATP: Novak Djokovic, testa di serie numero 6, ha battuto Alexander Zverev, testa di serie numero 1, 4-6, 6-4, 6-4. Daniil Medvedev ha battuto Francisco Cerundolo 7-6 (4), 6-3. Alex de Minaur ha battuto Andrey Rublev 1-6, 6-2, 6-3. Hubert Hurkacz ha battuto Karen Khachanov 7-6 (2), 6-2. L’ATP citava il bilancio di Djokovic al China Open: 32-0.",
+        "Tokyo, secondo l’ATP: Carlos Alcaraz ha battuto Denis Shapovalov 7-6 (3), 2-1 ritiro. Valentin Vacherot ha battuto Arthur Fils 7-5, 4-6, 6-4. Jaume Munar ha battuto Kyrian Jacquet 6-4, 6-2. Jiri Lehecka ha battuto Adolfo Daniel Vallejo 6-1, 6-1. Sono quarti. Le semifinali sono la riga successiva, e non sono risultati."
+      ]
+    },
+    "pl": {
+      "title": "Djokovic pokonuje rozstawionego Zvereva w Pekinie. Alcaraz jest w półfinale Tokio.",
+      "subtitle": "Ćwierćfinały ATP, niedziela 4 października. Półfinały w poniedziałek nie są w księdze.",
+      "excerpt": "Novak Djokovic pokonał Alexandra Zvereva 4-6, 6-4, 6-4 na China Open. Carlos Alcaraz pokonał Denisa Shapovalova 7-6 (3), 2-1 i krecz na Japan Open.",
+      "body": [
+        "Ćwierćfinały ATP w Pekinie i Tokio są końcowe. Półfinały w poniedziałek, w tym Alcaraz z Munarem w drabince Tokio, nie były rozegrane przy zamknięciu tego desku. Jannik Sinner nadal jest poza Szanghajem. Żaden wynik z Szanghaju nie jest drukowany. Sobotnie zwycięstwo Alcaraza nad Matteo Arnaldim zostaje w księdze jako historia.",
+        "Pekin, według ATP: Novak Djokovic, rozstawiony z numerem 6, pokonał Alexandra Zvereva, rozstawionego z numerem 1, 4-6, 6-4, 6-4. Daniil Miedwiediew pokonał Francisco Cerundolo 7-6 (4), 6-3. Alex de Minaur pokonał Andreya Rubleva 1-6, 6-2, 6-3. Hubert Hurkacz pokonał Karena Chaczanowa 7-6 (2), 6-2. ATP podało bilans Djokovicia na China Open: 32-0.",
+        "Tokio, według ATP: Carlos Alcaraz pokonał Denisa Shapovalova 7-6 (3), 2-1 i krecz. Valentin Vacherot pokonał Arthura Filsa 7-5, 4-6, 6-4. Jaume Munar pokonał Kyriana Jacqueta 6-4, 6-2. Jiri Lehecka pokonał Adolfo Daniela Vallejo 6-1, 6-1. To ćwierćfinały. Półfinały są następną linijką i nie są wynikami."
+      ]
+    },
+    "zh": {
+      "title": "德约科维奇在北京击败头号种子兹维列夫。阿尔卡拉斯打进东京半决赛。",
+      "subtitle": "ATP 四分之一决赛，10 月 4 日周日。周一的半决赛不在账上。",
+      "excerpt": "诺瓦克·德约科维奇在中国网球公开赛 4-6、6-4、6-4 击败亚历山大·兹维列夫。卡洛斯·阿尔卡拉斯在日本网球公开赛 7-6 (3)、2-1 对手退赛，击败丹尼斯·沙波瓦洛夫。",
+      "body": [
+        "北京和东京的 ATP 四分之一决赛是终场。周一的半决赛，包括东京签表上阿尔卡拉斯对穆纳尔，本台截稿时还没打。扬尼克·辛纳仍不参加上海。不印上海的结果。周六阿尔卡拉斯击败马泰奥·阿纳尔迪留在账上，当作已经发生的历史。",
+        "北京，ATP：6 号种子诺瓦克·德约科维奇 4-6、6-4、6-4 击败 1 号种子亚历山大·兹维列夫。丹尼尔·梅德韦杰夫 7-6 (4)、6-3 击败弗朗西斯科·塞伦多洛。亚历克斯·德米纳尔 1-6、6-2、6-3 击败安德烈·卢布列夫。胡贝特·胡尔卡奇 7-6 (2)、6-2 击败卡伦·哈恰诺夫。ATP 写德约科维奇的中国网球公开赛战绩是 32-0。",
+        "东京，ATP：卡洛斯·阿尔卡拉斯 7-6 (3)、2-1 对手退赛，击败丹尼斯·沙波瓦洛夫。瓦伦丁·瓦切罗 7-5、4-6、6-4 击败阿蒂尔·菲斯。豪梅·穆纳尔 6-4、6-2 击败基里安·雅凯。伊日·莱赫奇卡 6-1、6-1 击败阿道弗·丹尼尔·瓦列霍。这些是四分之一决赛。半决赛是下一行，还不是结果。"
+      ]
+    },
+    "ja": {
+      "title": "ジョコビッチが北京で第 1 シードのズベレフを破った。アルカラスは東京の準決勝へ。",
+      "subtitle": "ATP 準々決勝、10月4日日曜。月曜の準決勝は帳簿にない。",
+      "excerpt": "ノバク・ジョコビッチがチャイナ・オープンでアレクサンダー・ズベレフを 4-6, 6-4, 6-4。カルロス・アルカラスがジャパン・オープンでデニス・シャポバロフを 7-6 (3), 2-1 棄権。",
+      "body": [
+        "北京と東京の ATP 準々決勝は最終結果だ。月曜の準決勝、東京のドローでアルカラス対ムナルを含め、このデスクが閉じた時点では行われていなかった。ヤニック・シナーは引き続き上海を欠場する。上海の結果は載せない。土曜のアルカラスのマッテオ・アルナルディ戦は、すでに起きた結果として帳簿に残す。",
+        "北京、ATP による：第 6 シードのノバク・ジョコビッチが第 1 シードのアレクサンダー・ズベレフを 4-6, 6-4, 6-4。ダニール・メドベージェフがフランシスコ・セルンドロを 7-6 (4), 6-3。アレックス・デミノーがアンドレイ・ルブレフを 1-6, 6-2, 6-3。フベルト・フルカチがカレン・ハチャノフを 7-6 (2), 6-2。ATP はジョコビッチのチャイナ・オープン成績を 32-0 とした。",
+        "東京、ATP による：カルロス・アルカラスがデニス・シャポバロフを 7-6 (3), 2-1 棄権。バランタン・バシュロがアルトゥール・フィスを 7-5, 4-6, 6-4。ジャウメ・ムナルがキリアン・ジャケを 6-4, 6-2。イジー・レヘチカがアドルフォ・ダニエル・バジェホを 6-1, 6-1。これらは準々決勝だ。準決勝は次の行で、結果ではない。"
+      ]
+    },
+    "ko": {
+      "title": "조코비치가 베이징에서 1번 시드 즈베레프를 이겼다. 알카라스는 도쿄 준결승에 올랐다.",
+      "subtitle": "ATP 8강, 10월 4일 일요일. 월요일 준결승은 장부에 없다.",
+      "excerpt": "노바크 조코비치가 차이나 오픈에서 알렉산더 즈베레프를 4-6, 6-4, 6-4로 이겼다. 카를로스 알카라스가 재팬 오픈에서 데니스 샤포발로프를 7-6 (3), 2-1 기권으로 이겼다.",
+      "body": [
+        "베이징과 도쿄의 ATP 8강은 최종이다. 월요일 준결승, 도쿄 대진의 알카라스 대 무나르를 포함해, 이 데스크가 닫힐 때 치러지지 않았다. 야닉 신너는 계속 상하이를 쉰다. 상하이 결과는 싣지 않는다. 토요일 알카라스의 마테오 아르날디 승리는 이미 지난 결과로 장부에 남긴다.",
+        "베이징, ATP: 6번 시드 노바크 조코비치가 1번 시드 알렉산더 즈베레프를 4-6, 6-4, 6-4로 이겼다. 다닐 메드베데프가 프란시스코 세룬돌로를 7-6 (4), 6-3. 알렉스 드미나우르가 안드레이 루블료프를 1-6, 6-2, 6-3. 후베르트 후르카치가 카렌 하차노프를 7-6 (2), 6-2. ATP는 조코비치의 차이나 오픈 성적을 32-0으로 적었다.",
+        "도쿄, ATP: 카를로스 알카라스가 데니스 샤포발로프를 7-6 (3), 2-1 기권으로 이겼다. 발랑탱 바슈로가 아르튀르 필스를 7-5, 4-6, 6-4. 자우메 무나르가 키리안 자케를 6-4, 6-2. 이리 레헤치카가 아돌포 다니엘 바예호를 6-1, 6-1. 이것은 8강이다. 준결승은 다음 줄이고, 결과가 아니다."
+      ]
+    },
+    "ar": {
+      "title": "ديوكوفيتش يهزم المصنف الأول زفيريف في بكين. ألكاراز يبلغ نصف نهائي طوكيو.",
+      "subtitle": "ربع نهائي ATP، الأحد 4 أكتوبر. نصف النهائي يوم الاثنين ليس في الدفتر.",
+      "excerpt": "نوفاك ديوكوفيتش هزم ألكسندر زفيريف 4-6، 6-4، 6-4 في الصين المفتوحة. كارلوس ألكاراز هزم دينيس شابوفالوف 7-6 (3)، 2-1 انسحاب في اليابان المفتوحة.",
+      "body": [
+        "ربع نهائي ATP في بكين وطوكيو نهائي. نصف النهائي يوم الاثنين، ومنه ألكاراز ضد مونار على قرعة طوكيو، لم يُلعب عند إغلاق هذا المكتب. يانيك سينر ما زال خارج شنغهاي. لا تُطبع نتيجة من شنغهاي. فوز ألكاراز السبت على ماتيو أرنالدي يبقى في الدفتر بوصفه تاريخاً.",
+        "بكين، حسب ATP: نوفاك ديوكوفيتش المصنف 6 هزم ألكسندر زفيريف المصنف 1 بنتيجة 4-6، 6-4، 6-4. دانييل ميدفيديف هزم فرانسيسكو سيروندولو 7-6 (4)، 6-3. أليكس دي مينور هزم أندريه روبليف 1-6، 6-2، 6-3. هوبرت هوركاتش هزم كارين خاتشانوف 7-6 (2)، 6-2. ذكرت ATP سجل ديوكوفيتش في الصين المفتوحة 32-0.",
+        "طوكيو، حسب ATP: كارلوس ألكاراز هزم دينيس شابوفالوف 7-6 (3)، 2-1 انسحاب. فالنتين فاشرو هزم آرثر فيس 7-5، 4-6، 6-4. جاومي مونار هزم كيريان جاكي 6-4، 6-2. ييري ليهايتشكا هزم أدولفو دانييل فاييخو 6-1، 6-1. هذه أدوار ربع نهائي. نصف النهائي هو السطر التالي، وليست نتائج."
+      ]
+    }
+  },
+  "smotherman-leads-bank-of-utah-54-holes-2026": {
+    "fr": {
+      "title": "Smotherman menait d’un coup à 23 sous le par après 54 trous. Pas de vainqueur.",
+      "subtitle": "Bank of Utah Championship, Black Desert, après 54 trous. Le dernier tour de dimanche est en cours.",
+      "excerpt": "Austin Smotherman a signé 63-62-65 pour 190, 23 sous le par, un record sur 54 trous. Doug Ghim est à un coup, à 191. Ce desk ne désigne pas de vainqueur.",
+      "body": [
+        "Le tableau complet après 54 trous à Black Desert Resort, à Ivins, est celui que ce desk fige. Le dernier tour était en cours à la clôture, et les chiffres de dimanche qui bougent ne sont pas un résultat. Aucun vainqueur n’est imprimé. La dotation est de 6 000 000 dollars. Le parcours est un par 71.",
+        "Austin Smotherman a signé 63-62-65, soit 190, 23 sous le par, un coup devant. Ce 190 est le record de score sur 54 trous. L’ancienne marque était 194, Matt McCarty en 2024. C’était le 100e départ de Smotherman sur le PGA Tour. Il cherche encore une première victoire, et il a fermé le troisième tour par un birdie de 12 pieds au 18. Doug Ghim a signé 65-62-64, soit 191, 22 sous le par, lui aussi en quête d’une première victoire, pour son 192e départ.",
+        "Troisièmes à égalité à 195, 18 sous le par : Trace Crowe 66-65-64, Ben James 65-66-64, Kevin Streelman 63-64-68. La tête après 36 trous est l’histoire d’hier. Cette fiche est à 54 trous, et le nom du champion est encore vide."
+      ]
+    },
+    "es": {
+      "title": "Smotherman mandaba por uno con 23 bajo par tras 54 hoyos. No hay ganador.",
+      "subtitle": "Bank of Utah Championship, Black Desert, tras 54 hoyos. La vuelta final del domingo está en juego.",
+      "excerpt": "Austin Smotherman firmó 63-62-65 para 190, 23 bajo par, récord a 54 hoyos. Doug Ghim está a un golpe, con 191. Este desk no corona a un ganador.",
+      "body": [
+        "El tablero completo de 54 hoyos en Black Desert Resort, en Ivins, es el que este desk cierra. La vuelta final estaba en juego al cierre, y los números del domingo que se mueven no son un resultado. No se imprime un ganador. La bolsa es de 6.000.000 de dólares. El campo es un par 71.",
+        "Austin Smotherman firmó 63-62-65, 190, 23 bajo par, un golpe por delante. Ese 190 es el récord de puntuación a 54 hoyos. La marca anterior era 194, Matt McCarty en 2024. Era la salida número 100 de Smotherman en el PGA Tour. Sigue buscando su primera victoria, y cerró la tercera vuelta con un birdie de 12 pies en el 18. Doug Ghim firmó 65-62-64, 191, 22 bajo par, también en busca de una primera victoria, en su salida número 192.",
+        "Terceros empatados en 195, 18 bajo par: Trace Crowe 66-65-64, Ben James 65-66-64, Kevin Streelman 63-64-68. El liderato a 36 hoyos es la historia de ayer. Esta ficha es de 54 hoyos, y el nombre del campeón sigue en blanco."
+      ]
+    },
+    "de": {
+      "title": "Smotherman führte nach 54 Löchern mit einem Schlag bei 23 unter Par. Kein Sieger.",
+      "subtitle": "Bank of Utah Championship, Black Desert, nach 54 Löchern. Die Finalrunde am Sonntag läuft.",
+      "excerpt": "Austin Smotherman spielte 63-62-65 für 190 Schläge, 23 unter Par, ein 54-Loch-Rekord. Doug Ghim liegt einen Schlag zurück bei 191. Dieser Desk krönt keinen Sieger.",
+      "body": [
+        "Das abgeschlossene 54-Loch-Feld im Black Desert Resort in Ivins ist das, was dieser Desk festschreibt. Die Finalrunde lief beim Deskschluss, und bewegliche Sonntagszahlen sind kein Ergebnis. Kein Sieger wird gedruckt. Das Preisgeld beträgt 6.000.000 Dollar. Der Platz ist ein Par 71.",
+        "Austin Smotherman spielte 63-62-65, 190 Schläge, 23 unter Par, einen Schlag voraus. Diese 190 sind der Score-Rekord über 54 Löcher. Die bisherige Marke war 194, Matt McCarty 2024. Es war Smothermans 100. Start auf der PGA Tour. Er sucht weiter einen ersten Sieg und schloss die dritte Runde mit einem Birdie aus 12 Fuß am 18. Doug Ghim spielte 65-62-64, 191 Schläge, 22 unter Par, ebenfalls auf der Suche nach einem ersten Sieg, bei seinem 192. Start.",
+        "Geteilter Dritter mit 195 Schlägen, 18 unter Par: Trace Crowe 66-65-64, Ben James 65-66-64, Kevin Streelman 63-64-68. Die Führung nach 36 Löchern ist die Geschichte von gestern. Diese Karte ist 54 Löcher, und der Name des Siegers ist noch leer."
+      ]
+    },
+    "it": {
+      "title": "Smotherman guidava di un colpo a 23 sotto il par dopo 54 buche. Nessun vincitore.",
+      "subtitle": "Bank of Utah Championship, Black Desert, dopo 54 buche. Il giro finale di domenica è in corso.",
+      "excerpt": "Austin Smotherman ha firmato 63-62-65 per 190, 23 sotto il par, record sulle 54 buche. Doug Ghim è a un colpo, a 191. Questo desk non incorona un vincitore.",
+      "body": [
+        "Il tabellone completo dopo 54 buche al Black Desert Resort di Ivins è quello che questo desk chiude. Il giro finale era in corso alla chiusura, e i numeri di domenica che si muovono non sono un risultato. Nessun vincitore è stampato. Il montepremi è di 6.000.000 di dollari. Il campo è un par 71.",
+        "Austin Smotherman ha firmato 63-62-65, 190 colpi, 23 sotto il par, un colpo avanti. Quei 190 sono il record di score sulle 54 buche. Il precedente era 194, Matt McCarty nel 2024. Era la 100ª partenza di Smotherman sul PGA Tour. Cerca ancora la prima vittoria, e ha chiuso il terzo giro con un birdie da 12 piedi alla 18. Doug Ghim ha firmato 65-62-64, 191 colpi, 22 sotto il par, anche lui in cerca della prima vittoria, alla 192ª partenza.",
+        "Terzi a pari merito a 195, 18 sotto il par: Trace Crowe 66-65-64, Ben James 65-66-64, Kevin Streelman 63-64-68. Il comando dopo 36 buche è la storia di ieri. Questa scheda è di 54 buche, e il nome del campione è ancora vuoto."
+      ]
+    },
+    "pl": {
+      "title": "Smotherman prowadził jednym uderzeniem, 23 poniżej par, po 54 dołkach. Nie ma zwycięzcy.",
+      "subtitle": "Bank of Utah Championship, Black Desert, po 54 dołkach. Niedzielna runda finałowa trwa.",
+      "excerpt": "Austin Smotherman zagrał 63-62-65 na 190, 23 poniżej par, rekord po 54 dołkach. Doug Ghim jest o jedno uderzenie, na 191. Ten desk nie ogłasza zwycięzcy.",
+      "body": [
+        "Pełna tabela po 54 dołkach w Black Desert Resort w Ivins jest tą, którą ten desk zamyka. Runda finałowa trwała przy zamknięciu, a ruchome niedzielne liczby nie są wynikiem. Zwycięzca nie jest drukowany. Pula wynosi 6 000 000 dolarów. Pole jest na par 71.",
+        "Austin Smotherman zagrał 63-62-65, 190 uderzeń, 23 poniżej par, jedno uderzenie z przodu. Te 190 to rekord wyniku po 54 dołkach. Poprzedni wynosił 194, Matt McCarty w 2024. To był 100. start Smothermana na PGA Tour. Nadal szuka pierwszego zwycięstwa i zamknął trzecią rundę birdie z 12 stóp na dołku 18. Doug Ghim zagrał 65-62-64, 191 uderzeń, 22 poniżej par, też w poszukiwaniu pierwszego zwycięstwa, w swoim 192. starcie.",
+        "Remis na trzecim miejscu, 195 uderzeń, 18 poniżej par: Trace Crowe 66-65-64, Ben James 65-66-64, Kevin Streelman 63-64-68. Prowadzenie po 36 dołkach jest wczorajszą historią. Ta karta to 54 dołki, a nazwisko mistrza jest nadal puste."
+      ]
+    },
+    "zh": {
+      "title": "斯莫瑟曼 54 洞后以低于标准杆 23 杆领先一杆。没有冠军。",
+      "subtitle": "犹他银行锦标赛，黑沙漠，54 洞。周日决赛轮正在进行。",
+      "excerpt": "奥斯汀·斯莫瑟曼打出 63-62-65，总杆 190，低于标准杆 23 杆，54 洞计分纪录。道格·吉姆少一杆，191 杆。本台不封冠军。",
+      "body": [
+        "本台锁定的是犹他州艾文斯黑沙漠度假村已经打完的 54 洞榜。截稿时决赛轮正在进行，周日还在变的数字不是结果。不印冠军。奖金 600 万美元。球场标准杆 71 杆。",
+        "奥斯汀·斯莫瑟曼 63-62-65，190 杆，低于标准杆 23 杆，领先一杆。这 190 杆是 54 洞计分纪录。此前纪录是 194 杆，2024 年的马特·麦卡蒂。这是斯莫瑟曼的第 100 场 PGA 巡回赛。他仍在找第一场胜利，第三轮收官是 18 号洞 12 英尺的小鸟。道格·吉姆 65-62-64，191 杆，低于标准杆 22 杆，也在找第一场胜利，这是他的第 192 场。",
+        "并列第三，195 杆，低于标准杆 18 杆：特雷斯·克罗 66-65-64，本·詹姆斯 65-66-64，凯文·斯特里尔曼 63-64-68。36 洞领先是昨天的故事。这张卡片是 54 洞，冠军的名字仍然空着。"
+      ]
+    },
+    "ja": {
+      "title": "スモーサーマンは 54 ホール終了時点で 23 アンダー、1 打リード。勝者はいない。",
+      "subtitle": "バンク・オブ・ユタ選手権、ブラックデザート、54 ホールまで。日曜の最終ラウンドは進行中。",
+      "excerpt": "オースティン・スモーサーマンは 63-62-65 で 190、23 アンダー、54 ホールのスコア記録。ダグ・ギムが 1 打差の 191。このデスクは勝者を決めない。",
+      "body": [
+        "アイビンスのブラックデザート・リゾートで完了した 54 ホールのボードが、このデスクが固定するものだ。締め切り時に最終ラウンドは進行中で、動いている日曜の数字は結果ではない。勝者は載せない。賞金は 600 万ドル。コースはパー 71。",
+        "オースティン・スモーサーマンは 63-62-65、190、23 アンダーで 1 打リード。この 190 が 54 ホールのスコア記録だ。これまでの記録は 194 で、2024 年のマット・マッカーティ。スモーサーマンの PGA ツアー 100 戦目だった。まだ初優勝を探していて、3 ラウンドは 18 番の 12 フィートのバーディーで終えた。ダグ・ギムは 65-62-64、191、22 アンダー。こちらも初優勝を探し、192 戦目だった。",
+        "195、18 アンダーで 3 位タイ：トレイス・クロウ 66-65-64、ベン・ジェームズ 65-66-64、ケビン・ストリールマン 63-64-68。36 ホール時点の首位は昨日の話だ。このカードは 54 ホールで、チャンピオンの名前はまだ空欄だ。"
+      ]
+    },
+    "ko": {
+      "title": "스모더먼이 54홀 뒤 23언더, 1타 앞섰다. 우승자는 없다.",
+      "subtitle": "뱅크 오브 유타 챔피언십, 블랙 데저트, 54홀까지. 일요일 최종 라운드는 진행 중이다.",
+      "excerpt": "오스틴 스모더먼은 63-62-65로 190, 23언더, 54홀 스코어 기록. 더그 김이 1타 뒤 191. 이 데스크는 우승자를 정하지 않는다.",
+      "body": [
+        "유타 아이빈스의 블랙 데저트 리조트에서 끝난 54홀 보드가 이 데스크가 고정하는 것이다. 마감 때 최종 라운드는 진행 중이었고, 움직이는 일요일 숫자는 결과가 아니다. 우승자는 싣지 않는다. 상금은 600만 달러. 코스는 파 71.",
+        "오스틴 스모더먼은 63-62-65, 190타, 23언더, 1타 앞. 이 190이 54홀 스코어 기록이다. 이전 기록은 194, 2024년 맷 매카티. 스모더먼의 PGA 투어 100번째 출전이었다. 아직 첫 우승을 찾고, 3라운드를 18번 홀 12피트 버디로 닫았다. 더그 김은 65-62-64, 191타, 22언더. 역시 첫 우승을 찾고, 192번째 출전이었다.",
+        "195타, 18언더로 공동 3위: 트레이스 크로 66-65-64, 벤 제임스 65-66-64, 케빈 스트릴먼 63-64-68. 36홀 리드는 어제의 이야기다. 이 카드는 54홀이고, 챔피언의 이름은 아직 비어 있다."
+      ]
+    },
+    "ar": {
+      "title": "سموذرمان يتقدم بضربة على 23 تحت بعد 54 حفرة. لا فائز.",
+      "subtitle": "بطولة بنك أوف يوتا، بلاك ديزرت، بعد 54 حفرة. الجولة الأخيرة يوم الأحد جارية.",
+      "excerpt": "أوستن سموذرمان لعب 63-62-65 لمجموع 190، 23 تحت، رقم قياسي بعد 54 حفرة. دوغ غيم خلفه بضربة على 191. هذا المكتب لا يتوج فائزاً.",
+      "body": [
+        "لوحة الـ54 حفرة المكتملة في بلاك ديزرت ريزورت في آيفينز هي التي يثبتها هذا المكتب. الجولة الأخيرة كانت جارية عند الإغلاق، وأرقام الأحد المتحركة ليست نتيجة. لا يُطبع فائز. الجائزة 6,000,000 دولار. الملعب بار 71.",
+        "لعب أوستن سموذرمان 63-62-65، 190 ضربة، 23 تحت، متقدماً بضربة. هذا الـ190 هو الرقم القياسي للنتيجة بعد 54 حفرة. العلامة السابقة كانت 194، مات مكارتي في 2024. كانت الانطلاقة رقم 100 لسموذرمان على جولة PGA. ما زال يبحث عن أول فوز، وأغلق الجولة الثالثة ببيردي من 12 قدماً على الحفرة 18. لعب دوغ غيم 65-62-64، 191 ضربة، 22 تحت، وهو أيضاً يبحث عن أول فوز، في انطلاقته رقم 192.",
+        "تعادل على الثالث بـ195 ضربة، 18 تحت: تريس كرو 66-65-64، بن جيمس 65-66-64، كيفن ستريلمان 63-64-68. الصدارة بعد 36 حفرة هي قصة الأمس. هذه البطاقة لـ54 حفرة، واسم البطل ما زال فارغاً."
+      ]
+    }
+  },
+  "verstappen-wins-bahrain-gp-malaysia-2026": {
+    "fr": {
+      "title": "Verstappen gagne à Sepang. Antonelli mène de 84 points.",
+      "subtitle": "Grand Prix de Bahreïn en Malaisie, dimanche 4 octobre, 55 tours. Russell a abandonné. Hamilton a fini troisième.",
+      "excerpt": "Max Verstappen a gagné depuis la pole en 1:47:14.808, sa première victoire de 2026. Kimi Antonelli est deuxième à 2,307 s et mène le championnat 320 à 236 pour George Russell.",
+      "body": [
+        "Le Grand Prix de Bahreïn, couru à Sepang en Malaisie, est désormais un résultat. Max Verstappen a gagné depuis la pole. Kimi Antonelli a fini deuxième et mène encore le championnat. George Russell a abandonné sans marquer, et l’écart est passé de 66 à 84 points. Singapour est la prochaine course et n’est pas un résultat sur ce desk.",
+        "FIA et BBC : Verstappen, Red Bull, 1:47:14.808, 25 points, première victoire de 2026 et première pour Red Bull Ford Powertrains. Antonelli, Mercedes, plus 2,307, 18 points. Lewis Hamilton, Ferrari, plus 4,919, 15 points. Charles Leclerc plus 7,258, 12 points. Isack Hadjar, Red Bull, plus 8,571, 10 points, après un départ huitième sur une pénalité moteur de cinq places. Oscar Piastri plus 9,454, 8 points. Liam Lawson plus 12,753, 6 points. Fernando Alonso plus 13,372, 4 points. Lando Norris plus 13,993, 2 points. Arvid Lindblad plus 15,928, 1 point. Russell a abandonné tard sur un problème d’unité de puissance alors qu’il roulait troisième. Le tour de cet abandon n’est pas figé ici, parce que les comptes rendus ne s’accordent pas. Le départ a été retardé par la pluie. Hamilton était tombé jusqu’à la 18e place après un pari en pneus slicks. Le meilleur tour de Verstappen est 1:38.220. Le classement de la BBC attribue 25 points, donc ce desk n’ajoute pas de point pour le meilleur tour.",
+        "Après la course, Crash.net, RaceFans, Motorsport Week et GPFans s’accordent : Antonelli 320, Russell 236, Hamilton 214, Leclerc 191, Norris 188, Verstappen 188. Constructeurs : Mercedes 556, Ferrari 405, McLaren 316, Red Bull 298. Les 10 points de Hadjar comptent pour Red Bull. L’avance sur Ferrari est de 151 points."
+      ]
+    },
+    "es": {
+      "title": "Verstappen gana en Sepang. Antonelli lidera por 84.",
+      "subtitle": "Gran Premio de Baréin en Malasia, domingo 4 de octubre, 55 vueltas. Russell abandonó. Hamilton acabó tercero.",
+      "excerpt": "Max Verstappen ganó desde la pole en 1:47:14.808, su primera victoria de 2026. Kimi Antonelli fue segundo, a 2,307 segundos, y lidera el campeonato 320 a 236 de George Russell.",
+      "body": [
+        "El Gran Premio de Baréin, disputado en Sepang, Malasia, ya es un resultado. Max Verstappen ganó desde la pole. Kimi Antonelli acabó segundo y sigue liderando el campeonato. George Russell abandonó y no sumó, así que la ventaja pasó de 66 a 84 puntos. Singapur es la próxima carrera y no es un resultado en este desk.",
+        "FIA y BBC: Verstappen, Red Bull, 1:47:14.808, 25 puntos, primera victoria de 2026 y primera para Red Bull Ford Powertrains. Antonelli, Mercedes, más 2,307, 18 puntos. Lewis Hamilton, Ferrari, más 4,919, 15 puntos. Charles Leclerc más 7,258, 12. Isack Hadjar, Red Bull, más 8,571, 10, tras salir octavo por una penalización de motor de cinco puestos. Oscar Piastri más 9,454, 8. Liam Lawson más 12,753, 6. Fernando Alonso más 13,372, 4. Lando Norris más 13,993, 2. Arvid Lindblad más 15,928, 1. Russell abandonó tarde por un problema de unidad de potencia cuando iba tercero. La vuelta de ese abandono no se fija aquí, porque los relatos no coinciden. La salida se retrasó por la lluvia. Hamilton había caído hasta el 18 tras una apuesta con neumáticos de seco. La vuelta rápida de Verstappen fue 1:38.220. La clasificación de la BBC da 25 puntos, así que este desk no suma un punto por la vuelta rápida.",
+        "Tras la carrera, Crash.net, RaceFans, Motorsport Week y GPFans coinciden: Antonelli 320, Russell 236, Hamilton 214, Leclerc 191, Norris 188, Verstappen 188. Constructores: Mercedes 556, Ferrari 405, McLaren 316, Red Bull 298. Los 10 puntos de Hadjar cuentan para Red Bull. La ventaja sobre Ferrari es de 151 puntos."
+      ]
+    },
+    "de": {
+      "title": "Verstappen gewinnt in Sepang. Antonelli führt mit 84 Punkten.",
+      "subtitle": "Bahrain-Grand-Prix in Malaysia, Sonntag, 4. Oktober, 55 Runden. Russell fiel aus. Hamilton wurde Dritter.",
+      "excerpt": "Max Verstappen gewann von der Pole in 1:47:14.808, sein erster Sieg 2026. Kimi Antonelli wurde Zweiter, 2,307 Sekunden zurück, und führt die WM 320 zu 236 für George Russell.",
+      "body": [
+        "Der Bahrain-Grand-Prix, ausgetragen in Sepang in Malaysia, ist jetzt ein Ergebnis. Max Verstappen gewann von der Pole. Kimi Antonelli wurde Zweiter und führt die WM weiter. George Russell fiel aus und holte nichts, der Vorsprung wuchs von 66 auf 84 Punkte. Singapur ist das nächste Rennen und auf diesem Desk kein Ergebnis.",
+        "FIA und BBC: Verstappen, Red Bull, 1:47:14.808, 25 Punkte, erster Sieg 2026 und der erste für Red Bull Ford Powertrains. Antonelli, Mercedes, plus 2,307, 18 Punkte. Lewis Hamilton, Ferrari, plus 4,919, 15 Punkte. Charles Leclerc plus 7,258, 12. Isack Hadjar, Red Bull, plus 8,571, 10, nach einem Start von Platz 8 wegen einer Fünf-Plätze-Motorstrafe. Oscar Piastri plus 9,454, 8. Liam Lawson plus 12,753, 6. Fernando Alonso plus 13,372, 4. Lando Norris plus 13,993, 2. Arvid Lindblad plus 15,928, 1. Russell fiel spät mit einem Problem an der Antriebseinheit aus, während er Dritter lag. Die Runde dieses Ausfalls wird hier nicht festgeschrieben, weil die Berichte nicht übereinstimmen. Der Start verzögerte sich durch Regen. Hamilton war nach einer Wette auf Slicks bis auf Platz 18 zurückgefallen. Verstappens schnellste Runde war 1:38.220. Die BBC-Wertung vergibt 25 Punkte, also addiert dieser Desk keinen Punkt für die schnellste Runde.",
+        "Nach dem Rennen sind sich Crash.net, RaceFans, Motorsport Week und GPFans einig: Antonelli 320, Russell 236, Hamilton 214, Leclerc 191, Norris 188, Verstappen 188. Konstrukteure: Mercedes 556, Ferrari 405, McLaren 316, Red Bull 298. Hadjars 10 Punkte zählen für Red Bull. Die Führung auf Ferrari beträgt 151 Punkte."
+      ]
+    },
+    "it": {
+      "title": "Verstappen vince a Sepang. Antonelli guida di 84 punti.",
+      "subtitle": "Gran Premio del Bahrein in Malesia, domenica 4 ottobre, 55 giri. Russell si è ritirato. Hamilton è arrivato terzo.",
+      "excerpt": "Max Verstappen ha vinto dalla pole in 1:47:14.808, la sua prima vittoria del 2026. Kimi Antonelli è stato secondo, a 2,307 secondi, e guida il campionato 320 a 236 di George Russell.",
+      "body": [
+        "Il Gran Premio del Bahrein, corso a Sepang in Malesia, è ora un risultato. Max Verstappen ha vinto dalla pole. Kimi Antonelli è arrivato secondo e guida ancora il campionato. George Russell si è ritirato senza punti, e il margine è passato da 66 a 84. Singapore è la prossima gara e non è un risultato su questo desk.",
+        "FIA e BBC: Verstappen, Red Bull, 1:47:14.808, 25 punti, prima vittoria del 2026 e prima per Red Bull Ford Powertrains. Antonelli, Mercedes, più 2,307, 18 punti. Lewis Hamilton, Ferrari, più 4,919, 15 punti. Charles Leclerc più 7,258, 12. Isack Hadjar, Red Bull, più 8,571, 10, dopo una partenza ottavo per una penalità motore di cinque posizioni. Oscar Piastri più 9,454, 8. Liam Lawson più 12,753, 6. Fernando Alonso più 13,372, 4. Lando Norris più 13,993, 2. Arvid Lindblad più 15,928, 1. Russell si è ritirato tardi per un problema alla power unit mentre era terzo. Il giro di quel ritiro non è fissato qui, perché i resoconti non concordano. La partenza è stata rinviata per la pioggia. Hamilton era sceso fino al 18º posto dopo una scommessa sulle slick. Il giro veloce di Verstappen è 1:38.220. La classifica BBC assegna 25 punti, quindi questo desk non aggiunge un punto per il giro veloce.",
+        "Dopo la gara, Crash.net, RaceFans, Motorsport Week e GPFans concordano: Antonelli 320, Russell 236, Hamilton 214, Leclerc 191, Norris 188, Verstappen 188. Costruttori: Mercedes 556, Ferrari 405, McLaren 316, Red Bull 298. I 10 punti di Hadjar contano per la Red Bull. Il margine sulla Ferrari è di 151 punti."
+      ]
+    },
+    "pl": {
+      "title": "Verstappen wygrywa w Sepang. Antonelli prowadzi 84 punktami.",
+      "subtitle": "Grand Prix Bahrajnu w Malezji, niedziela 4 października, 55 okrążeń. Russell odpadł. Hamilton był trzeci.",
+      "excerpt": "Max Verstappen wygrał z pole position w 1:47:14.808, jego pierwsze zwycięstwo w 2026. Kimi Antonelli był drugi, 2,307 s z tyłu, i prowadzi mistrzostwa 320 do 236 George’a Russella.",
+      "body": [
+        "Grand Prix Bahrajnu, rozegrane w Sepang w Malezji, jest już wynikiem. Max Verstappen wygrał z pole position. Kimi Antonelli był drugi i nadal prowadzi mistrzostwa. George Russell odpadł i nie zdobył punktów, więc przewaga urosła z 66 do 84 punktów. Singapur jest następnym wyścigiem i nie jest wynikiem na tym desku.",
+        "FIA i BBC: Verstappen, Red Bull, 1:47:14.808, 25 punktów, pierwsze zwycięstwo 2026 i pierwsze dla Red Bull Ford Powertrains. Antonelli, Mercedes, plus 2,307, 18 punktów. Lewis Hamilton, Ferrari, plus 4,919, 15 punktów. Charles Leclerc plus 7,258, 12. Isack Hadjar, Red Bull, plus 8,571, 10, po starcie z ósmego miejsca za karę pięciu miejsc za silnik. Oscar Piastri plus 9,454, 8. Liam Lawson plus 12,753, 6. Fernando Alonso plus 13,372, 4. Lando Norris plus 13,993, 2. Arvid Lindblad plus 15,928, 1. Russell odpadł późno przez problem jednostki napędowej, gdy jechał trzeci. Okrążenie tego odpadnięcia nie jest tu zamknięte, bo relacje się nie zgadzają. Start opóźnił deszcz. Hamilton spadł aż na 18. miejsce po zakładzie na slicki. Najszybsze okrążenie Verstappena to 1:38.220. Klasyfikacja BBC daje 25 punktów, więc ten desk nie dodaje punktu za najszybsze okrążenie.",
+        "Po wyścigu Crash.net, RaceFans, Motorsport Week i GPFans są zgodne: Antonelli 320, Russell 236, Hamilton 214, Leclerc 191, Norris 188, Verstappen 188. Konstruktorzy: Mercedes 556, Ferrari 405, McLaren 316, Red Bull 298. 10 punktów Hadjara liczy się dla Red Bulla. Prowadzenie nad Ferrari wynosi 151 punktów."
+      ]
+    },
+    "zh": {
+      "title": "维斯塔潘在雪邦获胜。安东内利领先 84 分。",
+      "subtitle": "马来西亚的巴林大奖赛，10 月 4 日周日，55 圈。拉塞尔退赛。汉密尔顿第三。",
+      "excerpt": "马克斯·维斯塔潘从杆位出发，以 1:47:14.808 拿下 2026 年第一场胜利。基米·安东内利第二，落后 2.307 秒，以 320 分领先乔治·拉塞尔的 236 分。",
+      "body": [
+        "在马来西亚雪邦举行的巴林大奖赛现在是一场结果。马克斯·维斯塔潘从杆位获胜。基米·安东内利第二，仍然领跑车手榜。乔治·拉塞尔退赛并且没有得分，领先从 66 分变成 84 分。新加坡是下一站，在本台不是结果。",
+        "国际汽联和 BBC：红牛维斯塔潘 1:47:14.808，25 分，2026 年首胜，也是红牛福特动力总成的首胜。梅赛德斯安东内利落后 2.307 秒，18 分。法拉利刘易斯·汉密尔顿落后 4.919 秒，15 分。查尔斯·勒克莱尔落后 7.258 秒，12 分。红牛伊萨克·哈贾尔落后 8.571 秒，10 分，因发动机罚五位从第八位发车。奥斯卡·皮亚斯特里落后 9.454 秒，8 分。利亚姆·劳森落后 12.753 秒，6 分。费尔南多·阿隆索落后 13.372 秒，4 分。兰多·诺里斯落后 13.993 秒，2 分。阿维德·林德布拉德落后 15.928 秒，1 分。拉塞尔跑在第三时因动力单元问题晚段退赛。退赛的圈数这里不锁定，因为各家报道不一致。发车因雨推迟。汉密尔顿在干胎赌博之后一度掉到第 18。维斯塔潘最快圈 1:38.220。BBC 名次只给 25 分，所以本台不加最快圈积分。",
+        "赛后 Crash.net、RaceFans、Motorsport Week 和 GPFans 一致：安东内利 320，拉塞尔 236，汉密尔顿 214，勒克莱尔 191，诺里斯 188，维斯塔潘 188。车队：梅赛德斯 556，法拉利 405，迈凯伦 316，红牛 298。哈贾尔的 10 分计入红牛。对法拉利的领先是 151 分。"
+      ]
+    },
+    "ja": {
+      "title": "フェルスタッペンがセパンで勝った。アントネッリが 84 点リード。",
+      "subtitle": "マレーシアのバーレーン GP、10月4日日曜、55 周。ラッセルはリタイア。ハミルトンは 3 位。",
+      "excerpt": "マックス・フェルスタッペンがポールから 1:47:14.808 で勝ち、2026 年初勝利。キミ・アントネッリが 2.307 秒差の 2 位で、選手権は 320 対ジョージ・ラッセルの 236。",
+      "body": [
+        "マレーシアのセパンで行われたバーレーン GP は、いま結果になった。マックス・フェルスタッペンがポールから勝った。キミ・アントネッリは 2 位で、なお選手権をリードする。ジョージ・ラッセルはリタイアして無得点で、差は 66 点から 84 点に開いた。シンガポールは次戦で、このデスクの結果ではない。",
+        "FIA と BBC：レッドブルのフェルスタッペンが 1:47:14.808、25 点。2026 年初勝利で、レッドブル・フォード・パワートレインズとしても初勝利。メルセデスのアントネッリが 2.307 秒差、18 点。フェラーリのルイス・ハミルトンが 4.919 秒差、15 点。シャルル・ルクレールが 7.258 秒差、12 点。レッドブルのイザック・ハジャーが 8.571 秒差、10 点。エンジンの 5 グリッド降格で 8 番手スタート。オスカー・ピアストリが 9.454 秒差、8 点。リアム・ローソンが 12.753 秒差、6 点。フェルナンド・アロンソが 13.372 秒差、4 点。ランド・ノリスが 13.993 秒差、2 点。アーヴィド・リンドブラッドが 15.928 秒差、1 点。ラッセルは 3 位を走っていた終盤、パワーユニットの問題でリタイアした。その周回はここは固定しない。報告が一致しないからだ。スタートは雨で遅れた。ハミルトンはスリックの賭けのあと、一時 18 位まで落ちた。フェルスタッペンのファステストラップは 1:38.220。BBC の順位は 25 点なので、このデスクはファステストラップの 1 点を足さない。",
+        "レース後、Crash.net、RaceFans、Motorsport Week、GPFans は一致する。アントネッリ 320、ラッセル 236、ハミルトン 214、ルクレール 191、ノリス 188、フェルスタッペン 188。コンストラクターはメルセデス 556、フェラーリ 405、マクラーレン 316、レッドブル 298。ハジャーの 10 点はレッドブルに入る。フェラーリへのリードは 151 点。"
+      ]
+    },
+    "ko": {
+      "title": "페르스타펜이 세팡에서 이겼다. 안토넬리가 84점 앞선다.",
+      "subtitle": "말레이시아 바레인 그랑프리, 10월 4일 일요일, 55랩. 러셀은 리타이어. 해밀턴은 3위.",
+      "excerpt": "막스 페르스타펜이 폴에서 1:47:14.808로 이겨 2026년 첫 승. 키미 안토넬리가 2.307초 뒤 2위이고, 챔피언십은 320 대 조지 러셀 236.",
+      "body": [
+        "말레이시아 세팡에서 열린 바레인 그랑프리는 이제 결과다. 막스 페르스타펜이 폴에서 이겼다. 키미 안토넬리는 2위로 아직 챔피언십을 이끈다. 조지 러셀은 리타이어하고 점수가 없어 격차는 66점에서 84점이 됐다. 싱가포르는 다음 레이스이고 이 데스크의 결과가 아니다.",
+        "FIA와 BBC: 레드불 페르스타펜 1:47:14.808, 25점. 2026년 첫 승이자 레드불 포드 파워트레인스의 첫 승. 메르세데스 안토넬리 2.307초 뒤, 18점. 페라리 루이스 해밀턴 4.919초 뒤, 15점. 샤를 르클레르 7.258초 뒤, 12점. 레드불 이작 하자르 8.571초 뒤, 10점. 엔진 5그리드 페널티로 8번째 출발. 오스카 피아스트리 9.454초 뒤, 8점. 리암 로슨 12.753초 뒤, 6점. 페르난도 알론소 13.372초 뒤, 4점. 랜도 노리스 13.993초 뒤, 2점. 아르비드 린드블라드 15.928초 뒤, 1점. 러셀은 3위로 달리던 후반 파워 유닛 문제로 리타이어했다. 그 랩은 여기 고정하지 않는다. 보도가 같지 않다. 출발은 비로 늦어졌다. 해밀턴은 슬릭 타이어 승부 뒤 한때 18위까지 떨어졌다. 페르스타펜의 최속 랩은 1:38.220. BBC 순위는 25점이라 이 데스크는 최속 랩 점수를 더하지 않는다.",
+        "레이스 뒤 Crash.net, RaceFans, Motorsport Week, GPFans가 같다. 안토넬리 320, 러셀 236, 해밀턴 214, 르클레르 191, 노리스 188, 페르스타펜 188. 컨스트럭터는 메르세데스 556, 페라리 405, 맥라렌 316, 레드불 298. 하자르의 10점은 레드불에 들어간다. 페라리와의 차이는 151점."
+      ]
+    },
+    "ar": {
+      "title": "فيرستابن يفوز في سيبانغ. أنطونيلي يتقدم بـ84 نقطة.",
+      "subtitle": "جائزة البحرين في ماليزيا، الأحد 4 أكتوبر، 55 لفة. راسل انسحب. هاميلتون أنهى ثالثاً.",
+      "excerpt": "فاز ماكس فيرستابن من القطب في 1:47:14.808، أول فوز له في 2026. كيمي أنطونيلي ثانياً بفارق 2.307 ثانية ويتصدر البطولة 320 مقابل 236 لجورج راسل.",
+      "body": [
+        "جائزة البحرين المقامة في سيبانغ بماليزيا أصبحت الآن نتيجة. فاز ماكس فيرستابن من القطب. أنهى كيمي أنطونيلي ثانياً وما زال يتصدر البطولة. انسحب جورج راسل بلا نقاط، فاتسعت الفجوة من 66 إلى 84 نقطة. سنغافورة السباق التالي وليست نتيجة على هذا المكتب.",
+        "الاتحاد الدولي للسيارات وBBC: فيرستابن، ريد بول، 1:47:14.808، 25 نقطة، أول فوز في 2026 وأول فوز لريد بول فورد باورترينز. أنطونيلي، مرسيدس، بزيادة 2.307، 18 نقطة. لويس هاميلتون، فيراري، بزيادة 4.919، 15 نقطة. شارل لوكلير بزيادة 7.258، 12 نقطة. إيساك حجار، ريد بول، بزيادة 8.571، 10 نقاط، بعد انطلاق ثامناً لعقوبة محرك من خمسة مراكز. أوسكار بياستري بزيادة 9.454، 8 نقاط. ليام لاوسون بزيادة 12.753، 6 نقاط. فرناندو ألونسو بزيادة 13.372، 4 نقاط. لاندو نوريس بزيادة 13.993، نقطتان. أرفيد ليندبلاد بزيادة 15.928، نقطة واحدة. انسحب راسل متأخراً لمشكلة في وحدة الطاقة وهو ثالث. لفة هذا الانسحاب غير مثبتة هنا لأن التقارير لا تتفق. تأخر الانطلاق بسبب المطر. هبط هاميلتون حتى المركز 18 بعد رهان على إطارات ملساء. أسرع لفة لفيرستابن 1:38.220. ترتيب BBC يمنح 25 نقطة، لذا هذا المكتب لا يضيف نقطة لأسرع لفة.",
+        "بعد السباق تتفق Crash.net وRaceFans وMotorsport Week وGPFans: أنطونيلي 320، راسل 236، هاميلتون 214، لوكلير 191، نوريس 188، فيرستابن 188. الصانعون: مرسيدس 556، فيراري 405، مكلارين 316، ريد بول 298. نقاط حجار العشر تُحسب لريد بول. التقدم على فيراري 151 نقطة."
+      ]
+    }
+  }
 };
-
-
-

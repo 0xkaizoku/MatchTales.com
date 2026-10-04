@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "Bills 3-0.",
-    "Patriots 1-2.",
-    "No Sunday score on this desk."
+    "Bills fall to 3-1.",
+    "Maye 3 TD.",
+    "Late window not final."
   ],
   "keyPlayers": [
     {
-      "name": "Buffalo Bills",
-      "team": "Bills",
-      "hook": "3-0 entering Sunday."
+      "name": "Drake Maye",
+      "team": "Patriots",
+      "hook": "22 of 37, 269 yards, 3 touchdowns."
     },
     {
-      "name": "New England Patriots",
-      "team": "Patriots",
-      "hook": "1-2 entering Sunday."
+      "name": "James Cook III",
+      "team": "Bills",
+      "hook": "12 carries, 75 yards, 1 touchdown."
     }
   ],
   "headToHead": "",
@@ -35,7 +35,7 @@
   "awayPen": null,
   "season": "2026",
   "roundLabel": "NFL Week 4 · Sunday",
-  "resultSummary": "Not final.",
+  "resultSummary": "Patriots 29, Bills 26. Bills are 3-1.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
@@ -45,16 +45,16 @@
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 26,
+  "awayScore": 29,
   "slug": "patriots-at-bills-week4-2026",
-  "headline": "Patriots at Bills, Sunday still without a final",
-  "whyCareScore": 8.2,
-  "whyCareReason": "Bills are 3-0 and host New England at 1:00 p.m. ET. This card does not print a score.",
-  "teaser": "Patriots 1-2 at Bills 3-0. CBS lists 1:00 p.m. ET. No final.",
-  "story": "Week 4 Sunday is on the board and not in the book. The only printed final remains Browns 27, Steelers 24.",
-  "stakes": "A 3-0 Bills team. No result yet.",
-  "rivalryAngle": "AFC East, listed, not final.",
+  "headline": "Patriots 29, Bills 26: the unbeaten start is gone",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Drake Maye threw for 269 yards and 3 touchdowns. Buffalo entered 3-0. The late window is not final.",
+  "teaser": "ESPN: Patriots 7-7-7-8, Bills 0-17-0-9. Maye 22 of 37. Bills fall to 3-1.",
+  "story": "ESPN and FootballDB: New England 29, Buffalo 26. Quarters Patriots 7-7-7-8, Bills 0-17-0-9. Patriots 2-2, Bills 3-1. Drake Maye was 22 of 37 for 269 yards and 3 touchdowns. James Cook III had 12 carries for 75 yards and a touchdown. Keon Coleman had 6 catches for 116 yards and a touchdown. The late window, Sunday night and Monday night are not finals on this desk.",
+  "stakes": "The Bills are no longer unbeaten. A late-window score is not printed.",
+  "rivalryAngle": "AFC East. The 3-0 home side lost.",
   "home": "Buffalo Bills",
   "away": "New England Patriots",
   "group": "AFC",
@@ -62,7 +62,7 @@
   "time": "13:00",
   "venue": "Highmark Stadium",
   "city": "Orchard Park",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "football",
   "competition": "nfl-2026"
 }

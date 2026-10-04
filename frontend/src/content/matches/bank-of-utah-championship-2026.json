@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "10 birdies in the Friday 62.",
-    "Roy 63-63, no bogey.",
-    "No champion printed."
+    "54-hole record, 190.",
+    "Ghim one back.",
+    "No winner printed."
   ],
   "keyPlayers": [
     {
       "name": "Austin Smotherman",
       "team": "PGA Tour",
-      "hook": "63-62, 125, 17 under. Led by one after 36 holes."
+      "hook": "63-62-65, 190, 23 under. Led by one after 54 holes."
     },
     {
-      "name": "Kevin Roy",
+      "name": "Doug Ghim",
       "team": "PGA Tour",
-      "hook": "63-63, 126, no bogey in two days."
+      "hook": "65-62-64, 191, 22 under. Seeking a first win."
     }
   ],
   "headToHead": "",
@@ -34,32 +34,38 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Bank of Utah · 36 holes",
-  "resultSummary": "Through 36 holes. No winner.",
+  "roundLabel": "Bank of Utah · 54 holes",
+  "resultSummary": "Through 54 holes. Smotherman 190. No winner.",
   "leaderboard": [
     {
       "pos": "1",
       "name": "Austin Smotherman",
-      "score": "125 (-17)",
-      "note": "63-62"
+      "score": "190 (-23)",
+      "note": "63-62-65"
     },
     {
       "pos": "2",
-      "name": "Kevin Roy",
-      "score": "126 (-16)",
-      "note": "63-63, no bogey"
+      "name": "Doug Ghim",
+      "score": "191 (-22)",
+      "note": "65-62-64"
     },
     {
       "pos": "T3",
-      "name": "Doug Ghim",
-      "score": "127 (-15)",
-      "note": "65-62"
+      "name": "Trace Crowe",
+      "score": "195 (-18)",
+      "note": "66-65-64"
+    },
+    {
+      "pos": "T3",
+      "name": "Ben James",
+      "score": "195 (-18)",
+      "note": "65-66-64"
     },
     {
       "pos": "T3",
       "name": "Kevin Streelman",
-      "score": "127 (-15)",
-      "note": "63-64"
+      "score": "195 (-18)",
+      "note": "63-64-68"
     }
   ],
   "tennisSets": [],
@@ -73,17 +79,17 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "bank-of-utah-championship-2026",
-  "headline": "Smotherman led by one after 36 holes. No Sunday winner.",
+  "headline": "Smotherman led by one at 23 under after 54 holes. No winner.",
   "whyCareScore": 8.4,
-  "whyCareReason": "63-62 for 125 at Black Desert. Round 3 is under way and this card does not crown a winner.",
-  "teaser": "AP and PGA Tour: Smotherman 125, Roy 126, Ghim and Streelman 127.",
-  "story": "Through 36 holes Austin Smotherman led the Bank of Utah Championship by one at 17 under. Kevin Roy was on 126 with no bogey in two days. Sunday round 3 was in progress when this desk was filed. No winner is printed.",
+  "whyCareReason": "63-62-65 for 190, a 54-hole scoring record. The final round is under way and this card does not crown a winner.",
+  "teaser": "PGA and AP: Smotherman 190, Ghim 191, Crowe, James and Streelman 195.",
+  "story": "Through 54 holes at Black Desert Resort, Ivins, par 71, Austin Smotherman led the Bank of Utah Championship by one at 23 under, 63-62-65, 190. That is the 54-hole scoring record. The previous mark was 194, Matt McCarty in 2024. It was his 100th PGA Tour start and he is still seeking a first win, after a 12-foot birdie on 18. Doug Ghim shot 65-62-64, 191, 22 under, also seeking a first win on his 192nd start. Tied third at 195: Trace Crowe 66-65-64, Ben James 65-66-64, Kevin Streelman 63-64-68. The purse is $6,000,000. The final round was in progress when this desk closed. Moving Sunday numbers are not printed.",
   "stakes": "A first PGA Tour win is still unclaimed on this page.",
-  "rivalryAngle": "100th start, still seeking a first win, one shot clear after 36.",
+  "rivalryAngle": "100th start, one shot clear after 54, and the final round is not a result.",
   "home": "Austin Smotherman",
-  "away": "Kevin Roy",
+  "away": "Doug Ghim",
   "group": "PGA",
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "time": "10:00",
   "venue": "Black Desert Resort",
   "city": "Ivins",

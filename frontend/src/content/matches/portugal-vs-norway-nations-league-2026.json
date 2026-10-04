@@ -1,0 +1,72 @@
+{
+  "funFacts": [
+    "Ronaldo absent.",
+    "Conceição sent off, not a goal.",
+    "Portugal 12 points."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Gonçalo Ramos",
+      "team": "Portugal",
+      "hook": "Started in Ronaldo's place and scored in the 79th minute."
+    },
+    {
+      "name": "Erling Haaland",
+      "team": "Norway",
+      "hook": "Substituted around the 66th minute. Did not score."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "nations-league",
+    "portugal",
+    "norway"
+  ],
+  "homeCode": "POR",
+  "awayCode": "NOR",
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/362258/pexels-photo-362258.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Nations League · Group A4",
+  "resultSummary": "Portugal 2-1 Norway. Quarterfinals.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ESPN: Norway at Portugal",
+      "url": "https://www.espn.co.uk/football/match/_/gameId/401861126/norway-portugal"
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 2,
+  "awayScore": 1,
+  "slug": "portugal-vs-norway-nations-league-2026",
+  "headline": "Portugal 2-1 Norway: quarterfinals without Ronaldo",
+  "whyCareScore": 9.6,
+  "whyCareReason": "First side into the Nations League quarterfinals. Ramos started in Ronaldo's place. Monday's games are not final.",
+  "teaser": "Ajer 36, Cancelo 38, Ramos 79. Conceição was sent off. Haaland did not score.",
+  "story": "Portugal beat Norway 2-1 at Estádio do Dragão in UEFA Nations League Group A4. Kristoffer Ajer scored in the 36th minute, João Cancelo in the 38th, Gonçalo Ramos in the 79th. Francisco Conceição was sent off late for a second yellow and that event is not a goal. Cristiano Ronaldo was not in the squad. Erling Haaland was substituted around the 66th minute and did not score. Portugal are 4-0-0 with 12 points. Norway are 1-0-3 with 3 points. ESPN listed the attendance at 48,832. Monday's Nations League games are not in this card.",
+  "stakes": "A quarterfinal place is secured. The Premier League table stays frozen.",
+  "rivalryAngle": "Ronaldo walked out of camp after being dropped. Ramos started.",
+  "home": "Portugal",
+  "away": "Norway",
+  "group": "A4",
+  "date": "2026-10-04",
+  "time": "19:45",
+  "venue": "Estádio do Dragão",
+  "city": "Porto",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "nations-league-2026"
+}

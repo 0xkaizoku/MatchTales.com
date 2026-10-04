@@ -1,0 +1,85 @@
+{
+  "funFacts": [
+    "Zverev was the top seed.",
+    "Alcaraz through in Tokyo.",
+    "Semifinals not played."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Novak Djokovic",
+      "team": "Serbia",
+      "hook": "4-6, 6-4, 6-4 over the top seed."
+    },
+    {
+      "name": "Alexander Zverev",
+      "team": "Germany",
+      "hook": "Top seed, out in the Beijing quarterfinal."
+    }
+  ],
+  "headToHead": "",
+  "tags": [
+    "tennis",
+    "djokovic",
+    "beijing"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/270084/pexels-photo-270084.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "China Open · Quarterfinal",
+  "resultSummary": "Djokovic 4-6, 6-4, 6-4",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "4",
+      "p2": "6"
+    },
+    {
+      "p1": "6",
+      "p2": "4"
+    },
+    {
+      "p1": "6",
+      "p2": "4"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP Beijing 2026 results",
+      "url": "https://www.atptour.com/en/news/beijing-2026-results"
+    },
+    {
+      "name": "ATP Tokyo 2026 results",
+      "url": "https://www.atptour.com/en/news/tokyo-2026-results"
+    }
+  ],
+  "format": "singles",
+  "homeScore": 2,
+  "awayScore": 1,
+  "slug": "djokovic-vs-zverev-beijing-2026",
+  "headline": "Djokovic beats top seed Zverev 4-6, 6-4, 6-4 in Beijing",
+  "whyCareScore": 8.8,
+  "whyCareReason": "The China Open quarterfinal is final. Alcaraz is through in Tokyo. Monday's semifinals are not in the book.",
+  "teaser": "ATP: Djokovic [6] d Zverev [1] 4-6, 6-4, 6-4. Semifinals are next.",
+  "story": "ATP published the China Open quarterfinal: Novak Djokovic, seeded 6, beat Alexander Zverev, the top seed, 4-6, 6-4, 6-4. The same day in Tokyo, Carlos Alcaraz beat Denis Shapovalov 7-6 (3), 2-1 retired. Monday's semifinals were not played when this desk closed. Sinner remains out of Shanghai. No Shanghai result is printed.",
+  "stakes": "A Beijing semifinal. The next match is not a result.",
+  "rivalryAngle": "Sixth seed over the top seed. The China Open record cited by ATP for Djokovic is 32-0.",
+  "home": "Novak Djokovic",
+  "away": "Alexander Zverev",
+  "group": "ATP",
+  "date": "2026-10-04",
+  "time": "12:00",
+  "venue": "National Tennis Center",
+  "city": "Beijing",
+  "status": "FINISHED",
+  "sport": "tennis",
+  "competition": "atp-2026"
+}
