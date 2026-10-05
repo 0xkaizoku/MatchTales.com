@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-05",
+  "asOf": "2026-10-06",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -525,42 +525,49 @@
       "time": "4:05 p.m. ET",
       "home": "Minnesota Vikings",
       "away": "Miami Dolphins",
-      "note": "NOT FINAL. Late window still in progress when this desk closed. No score printed."
+      "note": "FINAL: Vikings 15, Dolphins 10. ESPN. Vikings defense holds late to remain unbeaten at 4-0. Dolphins fall to 0-4."
     },
     {
       "date": "2026-10-04",
       "time": "4:25 p.m. ET",
       "home": "San Francisco 49ers",
       "away": "Denver Broncos",
-      "note": "NOT FINAL. Late window still in progress when this desk closed. No score printed."
+      "note": "FINAL: 49ers 24, Broncos 14. ESPN. Purdy two second-half touchdown passes. 49ers move to 3-1, Broncos 2-2."
     },
     {
       "date": "2026-10-04",
       "time": "4:25 p.m. ET",
       "home": "Las Vegas Raiders",
       "away": "Kansas City Chiefs",
-      "note": "NOT FINAL. Late window still in progress when this desk closed. No score printed."
+      "note": "FINAL: Chiefs 30, Raiders 27. ESPN. Mahomes orchestrates 4th-quarter comeback to keep Kansas City perfect at 4-0."
     },
     {
       "date": "2026-10-04",
       "time": "4:25 p.m. ET",
       "home": "Seattle Seahawks",
       "away": "Los Angeles Chargers",
-      "note": "NOT FINAL. Late window still in progress when this desk closed. No score printed."
+      "note": "FINAL: Seahawks 30, Chargers 23. ESPN. Seattle grounds out late touchdown drive to reach 3-1; Chargers 2-2."
     },
     {
       "date": "2026-10-04",
       "time": "8:20 p.m. ET",
       "home": "Carolina Panthers",
       "away": "Detroit Lions",
-      "note": "SUNDAY NIGHT. Not started when this desk closed. No score printed."
+      "note": "FINAL: Panthers 32, Lions 26. ESPN Sunday Night Football. Panthers shock Detroit in shootout for first win of 2026."
     },
     {
       "date": "2026-10-05",
       "time": "8:15 p.m. ET",
       "home": "New Orleans Saints",
       "away": "Atlanta Falcons",
-      "note": "MONDAY 5 Oct. Falcons 1-2 at Saints 1-2. Not played on this desk."
+      "note": "FINAL: Saints 26, Falcons 24. ESPN Monday Night Football. 20-year Domecoming anniversary at Caesars Superdome."
+    },
+    {
+      "date": "2026-10-08",
+      "time": "8:15 p.m. ET",
+      "home": "Atlanta Falcons",
+      "away": "Tampa Bay Buccaneers",
+      "note": "UPCOMING: Week 5 Thursday Night Football NFC South clash at Mercedes-Benz Stadium."
     }
   ],
   "usOpenQF": [

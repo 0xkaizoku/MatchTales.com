@@ -17,6 +17,8 @@ const upcomingAll = matches
   .sort((a, b) => a.date.localeCompare(b.date) || b.whyCareScore - a.whyCareScore);
 const liveMatch =
   matches.find((m) => m.status === 'LIVE') ||
+  matches.find((m) => m.slug === 'bank-of-utah-championship-2026') ||
+  matches.find((m) => m.slug === 'djokovic-vs-de-minaur-beijing-final-2026') ||
   matches.find((m) => m.slug === 'portugal-vs-norway-nations-league-2026') ||
   matches.find((m) => m.slug === 'croatia-vs-england-nations-league-2026') ||
   matches.find((m) => m.slug === 'azerbaijan-gp-2026') ||

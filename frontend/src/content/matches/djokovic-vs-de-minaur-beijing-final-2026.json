@@ -1,0 +1,74 @@
+{
+  "funFacts": [
+    "Djokovic 32-0 all-time at China Open.",
+    "Medvedev defaulted at 7-5, 5-3 in semifinal.",
+    "De Minaur advanced after Hurkacz retired at 6-4, 3-2."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Novak Djokovic",
+      "team": "Serbia",
+      "hook": "Unbeaten in Beijing finals, advanced after Medvedev disqualification."
+    },
+    {
+      "name": "Alex de Minaur",
+      "team": "Australia",
+      "hook": "Overcame Hurkacz in semifinal, seeking biggest Asian swing crown."
+    }
+  ],
+  "headToHead": "Djokovic leads head-to-head 2-1 on hard courts.",
+  "tags": [
+    "tennis",
+    "china-open",
+    "djokovic",
+    "de-minaur",
+    "beijing"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/270084/pexels-photo-270084.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "China Open · Final",
+  "resultSummary": "UPCOMING: Novak Djokovic vs Alex de Minaur · Beijing Final",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ATP Beijing results",
+      "url": "https://www.atptour.com/en/news/beijing-2026-results"
+    },
+    {
+      "name": "ATP Tokyo results",
+      "url": "https://www.atptour.com/en/news/tokyo-2026-results"
+    }
+  ],
+  "format": "singles",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "djokovic-vs-de-minaur-beijing-final-2026",
+  "headline": "China Open Final: Djokovic battles De Minaur for Beijing title",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Djokovic targets 33rd consecutive win in Beijing after dramatic semifinal default; De Minaur aims to deny the Serb his 7th China Open title.",
+  "teaser": "Tuesday 6 October, Diamond Court. Djokovic takes on De Minaur for ATP 500 crown.",
+  "story": "Novak Djokovic and Alex de Minaur meet on Tuesday in the final of the 2026 China Open at Beijing's National Tennis Center. Djokovic reached the final after Daniil Medvedev was disqualified during their semifinal when an errant ball struck a spectator at 7-5, 5-3 (15-15). De Minaur advanced when Hubert Hurkacz retired trailing 6-4, 3-2. Concurrently in Tokyo, Carlos Alcaraz overcame Jaume Munar 5-7, 6-3, 6-1 to book a Japan Open final clash against Jiri Lehecka. Top stars will head directly to the Shanghai Masters following Tuesday's finals.",
+  "stakes": "ATP 500 trophy, 500 ranking points, and pristine Beijing record.",
+  "rivalryAngle": "De Minaur looks for marquee triumph against six-time champion Djokovic.",
+  "home": "Novak Djokovic",
+  "away": "Alex de Minaur",
+  "group": "ATP",
+  "date": "2026-10-06",
+  "time": "19:30",
+  "venue": "National Tennis Center",
+  "city": "Beijing",
+  "status": "UPCOMING",
+  "sport": "tennis",
+  "competition": "atp-2026"
+}

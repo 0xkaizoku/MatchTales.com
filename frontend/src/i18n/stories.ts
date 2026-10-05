@@ -9693,5 +9693,558 @@ export const STORY_I18N: Record<string, LocMap> = {
         "بعد السباق تتفق Crash.net وRaceFans وMotorsport Week وGPFans: أنطونيلي 320، راسل 236، هاميلتون 214، لوكلير 191، نوريس 188، فيرستابن 188. الصانعون: مرسيدس 556، فيراري 405، مكلارين 316، ريد بول 298. نقاط حجار العشر تُحسب لريد بول. التقدم على فيراري 151 نقطة."
       ]
     }
-  }
+  },
+  'smotherman-wins-bank-of-utah-championship-2026': {
+    "fr": {
+        "title": "Smotherman à 26 sous le par pour remporter le Bank of Utah Championship",
+        "subtitle": "Premier titre sur le PGA Tour à son 100e départ. Record du tournoi à 258. Ghim finit à deux coups.",
+        "excerpt": "Austin Smotherman a signé une dernière carte de 68 pour finir à -26 (258) à Black Desert Resort, décrochant sa première victoire sur le PGA Tour et grimpant au 51e rang de la FedExCup Fall.",
+        "body": [
+            "Le Bank of Utah Championship a son vainqueur. Austin Smotherman a bouclé son 100e départ sur le PGA Tour avec un 68 (-3) dimanche à Black Desert Resort à Ivins, Utah. Son total de 258 sur 72 trous, 26 sous le par, établit un nouveau record de score du tournoi et lui offre son premier grand succès. Avec cette victoire, Smotherman passe du 79e au 51e rang du classement FedExCup Fall, s’assurant une place pour l’AT&T Pebble Beach Pro-Am et le Genesis Invitational 2027.",
+            "Smotherman a enchaîné après des tours de 63, 62 et 65 avec un solide 68 dimanche pour terminer à 258. Doug Ghim a rendu une dernière carte de 69 pour prendre la deuxième place en solitaire à -24 (260), à deux coups, lors de son 192e départ. Trace Crowe (70) et Kevin Streelman (70) partagent la troisième place à -19 (265), tandis que Ben James est cinquième à -18 (266). Smotherman détient les records sur 36 trous (125), 54 trous (190) et 72 trous (258).",
+            "Ce succès confère au joueur de 32 ans deux années d’exemption sur le PGA Tour jusqu’en 2028, ainsi qu’une qualification pour le PGA Championship et The Players. La course au top 60 de la FedExCup Fall s’accélère avec Smotherman désormais 51e."
+        ]
+    },
+    "es": {
+        "title": "Smotherman firma 26 bajo par para ganar el Bank of Utah Championship",
+        "subtitle": "Primer título en el PGA Tour en su salida 100. Récord de 258. Ghim termina a dos golpes.",
+        "excerpt": "Austin Smotherman firmó un 68 final para concluir con 26 bajo par (258) en Black Desert Resort, logrando su primera victoria en el PGA Tour y subiendo al puesto 51 de la FedExCup Fall.",
+        "body": [
+            "El Bank of Utah Championship tiene campeón. Austin Smotherman cerró su salida 100 en el PGA Tour firmando un 68 (-3) el domingo en Black Desert Resort en Ivins, Utah. Su total de 258 en 72 hoyos, 26 bajo par, fijó un récord del torneo y le dio su primer título. Con este triunfo, Smotherman salta del puesto 79 al 51 en la FedExCup Fall, asegurando billete para Pebble Beach y el Genesis Invitational 2027.",
+            "Smotherman sumó a sus rondas de 63, 62 y 65 un consistente 68 el domingo para terminar con 258. Doug Ghim entregó tarjeta de 69 para acabar segundo en solitario con 24 bajo par (260), a dos golpes en su salida 192. Trace Crowe (70) y Kevin Streelman (70) compartieron el tercer puesto con -19 (265), mientras Ben James fue quinto con -18 (266). Smotherman batió récords a 36, 54 y 72 hoyos.",
+            "La victoria otorga al jugador de 32 años dos años de exención en el PGA Tour hasta 2028, además de plaza en el PGA Championship y The Players. La pelea por el top 60 entra en su recta decisiva con Smotherman en el 51."
+        ]
+    },
+    "de": {
+        "title": "Smotherman siegt mit 26 unter Par bei der Bank of Utah Championship",
+        "subtitle": "Erster PGA-Tour-Titel im 100. Start. Turnierrekord von 258. Ghim zwei Schläge zurück.",
+        "excerpt": "Austin Smotherman spielte eine 68er-Schlussrunde und siegte mit 26 unter Par (258) im Black Desert Resort. Er klettert auf Platz 51 der FedExCup Fall-Wertung.",
+        "body": [
+            "Die Bank of Utah Championship ist entschieden. Austin Smotherman krönte seinen 100. Start auf der PGA Tour am Sonntag im Black Desert Resort in Ivins mit einer 68 (-3). Sein 72-Loch-Gesamtergebnis von 258 Schlägen (26 unter Par) bedeutet neuen Turnierrekord und seinen ersten Sieg. Smotherman springt damit von Rang 79 auf Platz 51 des FedExCup Fall und sichert sich Startplätze für Pebble Beach und das Genesis Invitational 2027.",
+            "Nach Runden von 63, 62 und 65 brachte Smotherman den Sieg mit der 68 ins Ziel. Doug Ghim belegte mit einer 69 und 260 Schlägen (-24) Rang zwei in seinem 192. Start. Trace Crowe und Kevin Streelman teilten sich Rang drei bei 19 unter Par (265). Smotherman stellte Bestmarken über 36 (125), 54 (190) und 72 Löcher (258) auf.",
+            "Der Sieg bringt dem 32-Jährigen eine zweijährige Tour-Befreiung bis Ende 2028 sowie Startberechtigungen für die PGA Championship und The Players. Smotherman liegt nun voll auf Kurs für die Top 60."
+        ]
+    },
+    "it": {
+        "title": "Smotherman vince a 26 sotto il par il Bank of Utah Championship",
+        "subtitle": "Primo titolo PGA Tour alla 100ª partenza. Record di 258. Ghim secondo a due colpi.",
+        "excerpt": "Austin Smotherman chiude con un 68 finale a 26 sotto il par (258) al Black Desert Resort, conquistando la prima vittoria nel PGA Tour e salendo al 51º posto della FedExCup Fall.",
+        "body": [
+            "Il Bank of Utah Championship ha il suo campione. Austin Smotherman ha concluso la sua 100ª gara nel PGA Tour con un 68 (-3) domenica al Black Desert Resort a Ivins, Utah. Il punteggio di 258 su 72 buche (26 sotto il par) stabilisce il nuovo record del torneo e gli regala il primo trionfo. Smotherman sale dal 79º al 51º posto della classifica FedExCup Fall, guadagnando l’accesso a Pebble Beach e al Genesis Invitational 2027.",
+            "Dopo i giri in 63, 62 e 65, Smotherman ha gestito il vantaggio con il 68 conclusivo. Doug Ghim ha chiuso con un 69 al secondo posto a -24 (260), a due colpi alla sua 192ª partenza. Terzi a pari merito Trace Crowe e Kevin Streelman a -19 (265). Smotherman ha firmato i primati a 36 (125), 54 (190) e 72 buche (258).",
+            "Il successo garantisce al trentaduenne due anni di esenzione fino al 2028 e la qualificazione al PGA Championship e The Players. La corsa alla top 60 della FedExCup Fall vede Smotherman ora al 51º posto."
+        ]
+    },
+    "pl": {
+        "title": "Smotherman wygrywa Bank of Utah Championship z wynikiem 26 poniżej par",
+        "subtitle": "Pierwszy tytuł PGA Tour w 100. starcie. Rekord turnieju 258. Ghim dwa uderzenia z tyłu.",
+        "excerpt": "Austin Smotherman zagrał w finale 68 i triumfował z wynikiem -26 (258) w Black Desert Resort, zdobywając pierwszy tytuł PGA Tour i awansując na 51. miejsce FedExCup Fall.",
+        "body": [
+            "Bank of Utah Championship ma mistrza. Austin Smotherman zakończył swój 100. występ w PGA Tour rundą 68 (-3) w niedzielę w Black Desert Resort w Ivins w stanie Utah. Jego łączny wynik 258 po 72 dołkach (26 poniżej par) to nowy rekord turnieju i pierwszy triumf w karierze. Smotherman awansował z 79. na 51. miejsce rankingu FedExCup Fall, co daje mu prawo startu w Pebble Beach i Genesis Invitational 2027.",
+            "Po rundach 63, 62 i 65 Smotherman utrzymał prowadzenie dzięki niedzielnej 68. Doug Ghim zagrał 69 i zajął drugie miejsce z wynikiem -24 (260) w swoim 192. starcie. Trace Crowe i Kevin Streelman podzielili trzecią lokatę z wynikiem -19 (265). Smotherman pobił rekordy turnieju na 36 (125), 54 (190) i 72 dołkach (258).",
+            "Zwycięstwo daje 32-latkowi dwuletnie zwolnienie w PGA Tour do końca 2028 roku oraz przepustkę do PGA Championship i The Players Championship."
+        ]
+    },
+    "zh": {
+        "title": "斯莫瑟曼低于标准杆 26 杆夺得犹他银行锦标赛冠军",
+        "subtitle": "第 100 次出战收获美巡赛首冠。258 杆创赛事纪录。吉姆落后两杆居亚军。",
+        "excerpt": "奥斯汀·斯莫瑟曼在黑沙漠度假村决赛轮打出 68 杆，以低于标准杆 26 杆的 258 杆夺冠，赢得个人美巡赛首冠并升至联邦快递杯秋季积分榜第 51 位。",
+        "body": [
+            "犹他银行锦标赛冠军出炉。奥斯汀·斯莫瑟曼在犹他州伊文斯黑沙漠度假村周日决赛轮交出 68 杆（低于标准杆 3 杆），圆满完成个人第 100 场美巡赛。他在 72 洞取得 258 杆（低于标准杆 26 杆），打破赛事总杆数纪录并斩获生涯突破性胜利。凭借此冠，斯莫瑟曼从联邦快递杯秋季榜第 79 位飙升至第 51 位，锁定 2027 年圆石滩职业业余配对赛和捷尼赛思邀请赛参赛资格。",
+            "在交出 63、62 和 65 杆之后，斯莫瑟曼周日沉稳交出 68 杆锁定 258 杆胜局。道格·吉姆在第 192 场出赛中打出 69 杆，以低于标准杆 24 杆的 260 杆屈居单独第二。特雷斯·克劳与凯文·斯特里尔曼同以 -19（265 杆）并列第三。斯莫瑟曼同时创下 36 洞（125 杆）、54 洞（190 杆）及 72 洞纪录。",
+            "这一胜利让 32 岁的斯莫瑟曼获得美巡赛两年全卡豁免至 2028 年，并获得 PGA 锦标赛与球员锦标赛门票。"
+        ]
+    },
+    "ja": {
+        "title": "スモザーマンが通算 26 アンダーでバンク・オブ・ユタ選手権優勝",
+        "subtitle": "通算 100 戦目で PGA ツアー初優勝。大会新 258 ストローク。キムが 2 打差 2 位。",
+        "excerpt": "オースティン・スモザーマンが最終日 68 をマークし、通算 26 アンダー 258 でブラックデザート・リゾートを制覇。PGA ツアー初優勝を飾りフェデックスカップ・フォール 51 位に浮上。",
+        "body": [
+            "バンク・オブ・ユタ選手権の覇者が決定した。オースティン・スモザーマンはユタ州イビンズのブラックデザート・リゾートで日曜に 3 アンダー 68 を記録し、ツアー通算 100 戦目で初優勝を飾った。72 ホール合計 258（26 アンダー）は大会新記録。この勝利でスモザーマンはフェデックスカップ・フォールで 79 位から 51 位へ急浮上し、2027 年のペブルビーチとジェネシス招待の出場権を獲得した。",
+            "63、62、65 と伸ばしてきたスモザーマンは最終日も手堅く 68 にまとめ 258 でフィニッシュ。通算 192 戦目のダグ・キムが 69 で回り通算 24 アンダー 260 の単独 2 位。トレイス・クロウとケビン・ストリールマンが 19 アンダー 265 で 3 位タイ。スモザーマンは 36 ホール（125）、54 ホール（190）、72 ホール（258）の全大会記録を塗り替えた。",
+            "32 歳のスモザーマンは 2028 年末までの 2 年シードに加え、全米プロゴルフ選手権とザ・プレーヤーズの出場権を手にした。"
+        ]
+    },
+    "ko": {
+        "title": "스모더먼 26언더파로 뱅크 오브 유타 챔피언십 우승",
+        "subtitle": "100번째 대회 출전서 PGA 투어 첫 우승. 258타 대회 신기록. 더그 김 2타 차 2위.",
+        "excerpt": "오스틴 스모더먼이 블랙 데저트 리조트 최종 라운드에서 68타를 치며 26언더파 258타로 PGA 투어 생애 첫 우승을 차지하고 페덱스컵 가을 랭킹 51위로 도약했다.",
+        "body": [
+            "뱅크 오브 유타 챔피언십 챔피언이 탄생했다. 오스틴 스모더먼은 유타주 이빈스 블랙 데저트 리조트에서 일요일 3언더파 68타를 기록하며 자신의 PGA 투어 100번째 대회 출전을 첫 우승으로 장식했다. 72홀 합계 258타(26언더파)는 대회 신기록이다. 이 승리로 스모더먼은 페덱스컵 가을 순위 79위에서 51위로 올라서며 2027 페블비치 프로암과 제네시스 인비테이셔널 출전권을 확보했다.",
+            "63, 62, 65타에 이어 최종일 68타를 묶은 스모더먼은 258타로 경기를 끝냈다. 통산 192번째 출전인 더그 김이 69타로 24언더파 260타를 적어내 2타 차 단독 2위에 올랐다. 트레이스 크로우와 케빈 스트릴먼이 19언더파 265타로 공동 3위를 기록했다. 스모더먼은 36홀(125타), 54홀(190타), 72홀(258타) 기록을 모두 경신했다.",
+            "32세의 스모더먼은 2028년까지 2년간의 투어 시드와 함께 PGA 챔피언십 및 플레이어스 챔피언십 출전 자격을 얻었다."
+        ]
+    },
+    "ar": {
+        "title": "سموذرمان يسجل 26 تحت البار ليفوز ببطولة بنك يوتا",
+        "subtitle": "أول لقب في جولة PGA في انطلاقته رقم 100. رقم قياسي للبطولة بـ258 ضربة. غيم يحل ثانياً بفارق ضربتين.",
+        "excerpt": "أنهى أوستن سموذرمان الجولة الأخيرة بـ68 ضربة ليتوج بـ26 تحت البار (258 ضربة) في منتجع بلاك ديزرت، محققاً أول فوز له في جولة PGA وقفز إلى المركز 51 في ترتيب خريف فيديكس كب.",
+        "body": [
+            "بطولة بنك يوتا حسمت لقبها. أنهى أوستن سموذرمان مشاركته رقم 100 في جولة PGA ببطاقة 68 ضربة (3 تحت) يوم الأحد في منتجع بلاك ديزرت في إيفينز بيوتا. مجموعه بعد 72 حفرة بلغ 258 ضربة (26 تحت البار)، محققاً رقماً قياسياً جديداً للبطولة وفوزه الأول. بهذا الانتصار قفز سموذرمان من المركز 79 إلى 51 في ترتيب خريف فيديكس كب، مؤمناً مقعداً في بطولتي بيبل بيتش وجينيسيس 2027.",
+            "سجل سموذرمان جولات 63 و62 و65 متبوعة بـ68 يوم الأحد ليختم عند 258. حل دوغ غيم ثانياً منفرداً بـ24 تحت (260 ضربة) بفارق ضربتين في مشاركته رقم 192. وتقاسم تريس كرو وكيفن ستريلمان المركز الثالث بـ19 تحت (265). حطم سموذرمان أرقام البطولة لـ36 و54 و72 حفرة.",
+            "يمنح الفوز للاعب البالغ 32 عاماً إعفاءً لمدة سنتين حتى نهاية 2028 ومقعداً في بطولتي PGA والبلايرز."
+        ]
+    }
+},
+  'djokovic-alcaraz-reach-beijing-tokyo-finals-2026': {
+    "fr": {
+        "title": "Djokovic en finale à Pékin après la disqualification de Medvedev. Alcaraz en finale à Tokyo.",
+        "subtitle": "Demi-finales ATP 500, lundi 5 octobre. Finales de mardi : Djokovic contre De Minaur, Alcaraz contre Lehecka.",
+        "excerpt": "Novak Djokovic menait 7-5, 5-3 quand Daniil Medvedev a été disqualifié pour avoir touché un spectateur. Carlos Alcaraz a battu Jaume Munar 5-7, 6-3, 6-1 à Tokyo.",
+        "body": [
+            "Les deux grands tournois ATP 500 en Asie ont fixé leurs affiches de finale pour mardi 6 octobre. À Pékin, Novak Djokovic s’est qualifié pour sa septième finale du China Open dans des circonstances inhabituelles après la disqualification de Daniil Medvedev. À Tokyo, Carlos Alcaraz a renversé Jaume Munar pour rejoindre Jiri Lehecka. Les deux finales précèdent le départ immédiat vers le Masters de Shanghai.",
+            "À Pékin, Djokovic menait 7-5, 5-3 et 15-15 dans le deuxième set lorsque Medvedev a frappé une balle d’énervement qui a rebondi contre le mur du fond et touché un spectateur au premier rang, entraînant une disqualification immédiate. Alex de Minaur rejoint Djokovic après l’abandon d’Hubert Hurkacz alors qu’il était mené 6-4, 3-2. À Tokyo, Alcaraz a cédé la première manche avant de l’emporter 5-7, 6-3, 6-1 face à Munar en deux heures et 14 minutes. Lehecka s’est défait de Valentin Vacherot 6-4, 6-2.",
+            "Djokovic est invaincu à Pékin (32-0) et vise son premier titre de l’automne contre De Minaur, qu’il mène 2-1 sur dur. À Tokyo, Alcaraz affronte Lehecka pour un quatrième titre en 2026. Avec Jannik Sinner forfait pour Shanghai en raison d’un genou, les finalistes arrivent lancés pour la suite."
+        ]
+    },
+    "es": {
+        "title": "Djokovic a la final en Pekín tras descalificación de Medvedev. Alcaraz a la final en Tokio.",
+        "subtitle": "Semifinales ATP 500, lunes 5 de octubre. Finales del martes: Djokovic vs De Miñaur, Alcaraz vs Lehecka.",
+        "excerpt": "Novak Djokovic dominaba 7-5, 5-3 cuando Daniil Medvedev fue descalificado por golpear a un espectador. Carlos Alcaraz venció a Jaume Munar 5-7, 6-3, 6-1 en Tokio.",
+        "body": [
+            "Los dos torneos ATP 500 de la gira asiática definieron sus finales para el martes 6 de octubre. En el China Open de Pekín, Novak Djokovic avanzó a su séptima final tras la insólita descalificación de Daniil Medvedev. En Tokio, Carlos Alcaraz remontó ante Jaume Munar para citarse con Jiri Lehecka por el título. Ambas finales se disputan justo antes del viaje al Masters de Shanghái.",
+            "En Pekín, Djokovic mandaba 7-5, 5-3 y 15-15 en el segundo set cuando Medvedev lanzó una bola de frustración contra la lona que rebotó e hirió a un aficionado de primera fila, costándole la descalificación inmediata. Alex de Miñaur se clasificó al retirarse Hubert Hurkacz con 6-4, 3-2 en contra. En Tokio, Alcaraz perdió el primer set pero reaccionó para doblegar a Munar 5-7, 6-3, 6-1 en dos horas y 14 minutos. Antes, Lehecka superó a Valentin Vacherot por 6-4, 6-2.",
+            "Djokovic tiene marca de 32-0 en Pekín y busca su primer trofeo otoñal ante De Miñaur, a quien domina 2-1 en pista dura. En Tokio, Alcaraz persigue su cuarto entorchado de 2026 ante Lehecka."
+        ]
+    },
+    "de": {
+        "title": "Djokovic im Peking-Finale nach Medvedev-Disqualifikation. Alcaraz im Tokio-Endspiel.",
+        "subtitle": "ATP 500 Halbfinale, Montag, 5. Oktober. Dienstagsfinals: Djokovic gegen De Minaur, Alcaraz gegen Lehecka.",
+        "excerpt": "Novak Djokovic führte 7-5, 5-3, als Daniil Medvedev nach dem Treffen eines Zuschauers disqualifiziert wurde. Carlos Alcaraz schlug Jaume Munar 5-7, 6-3, 6-1 in Tokio.",
+        "body": [
+            "Die beiden ATP-500-Turniere in Asien haben ihre Finalpaarungen für Dienstag, den 6. Oktober, ermittelt. Bei den China Open in Peking zog Novak Djokovic nach einer Disqualifikation von Daniil Medvedev in sein siebtes Finale ein. In Tokio drehte Carlos Alcaraz das Match gegen Jaume Munar und trifft nun auf Jiri Lehecka. Beide Finals finden unmittelbar vor der Weiterreise nach Shanghai statt.",
+            "In Peking führte Djokovic 7-5, 5-3 und 15-15, als Medvedev frustriert einen Ball wegschlug, der von der Wand abprallte und einen Zuschauer verletzte, was die sofortige Disqualifikation zur Folge hatte. Alex de Minaur erreichte das Finale nach Aufgabe von Hubert Hurkacz beim Stand von 6-4, 3-2. In Tokio setzte sich Alcaraz nach Satzrückstand mit 5-7, 6-3, 6-1 gegen Munar durch, während Lehecka Valentin Vacherot 6-4, 6-2 besiegte.",
+            "Djokovic bleibt in Peking mit 32-0 Siegen ungeschlagen und peilt gegen De Minaur den Titel an. Alcaraz greift in Tokio gegen Lehecka nach seinem vierten Saisonsieg 2026."
+        ]
+    },
+    "it": {
+        "title": "Djokovic in finale a Pechino dopo squalifica di Medvedev. Alcaraz in finale a Tokyo.",
+        "subtitle": "Semifinali ATP 500, lunedì 5 ottobre. Finali di martedì: Djokovic vs De Minaur, Alcaraz vs Lehecka.",
+        "excerpt": "Novak Djokovic era avanti 7-5, 5-3 quando Daniil Medvedev è stato squalificato per aver colpito uno spettatore. Carlos Alcaraz ha battuto Jaume Munar 5-7, 6-3, 6-1 a Tokyo.",
+        "body": [
+            "I due tornei ATP 500 asiatici hanno definito i finalisti per martedì 6 ottobre. Al China Open di Pechino, Novak Djokovic ha conquistato la settima finale del torneo dopo la squalifica di Daniil Medvedev. Al Japan Open di Tokyo, Carlos Alcaraz ha rimontato Jaume Munar prenotando la sfida scudetto con Jiri Lehecka. Entrambe le finali precedono il trasferimento a Shanghai.",
+            "A Pechino, Djokovic conduceva 7-5, 5-3 e 15-15 nel secondo set quando Medvedev ha scagliato con rabbia una pallina che, rimbalzata a fondo campo, ha colpito uno spettatore causandone la squalifica immediata. Alex de Minaur ha raggiunto la finale dopo il ritiro di Hubert Hurkacz sul 6-4, 3-2. A Tokyo, Alcaraz ha perso il primo parziale prima di dominare 5-7, 6-3, 6-1 contro Munar in due ore e 14 minuti. Lehecka ha battuto Valentin Vacherot 6-4, 6-2.",
+            "Djokovic vanta un bilancio di 32-0 a Pechino e sfida De Minaur, contro cui conduce 2-1 sul cemento. A Tokyo, Alcaraz va a caccia del quarto titolo del 2026 contro Lehecka."
+        ]
+    },
+    "pl": {
+        "title": "Djoković w finale w Pekinie po dyskwalifikacji Miedwiediewa. Alcaraz w finale w Tokio.",
+        "subtitle": "Półfinały ATP 500, poniedziałek 5 października. Wtorkowe finały: Djoković vs De Minaur, Alcaraz vs Lehecka.",
+        "excerpt": "Novak Djoković prowadził 7-5, 5-3, gdy Daniił Miedwiediew został zdyskwalifikowany za uderzenie widza. Carlos Alcaraz pokonał Jaume Munara 5-7, 6-3, 6-1 w Tokio.",
+        "body": [
+            "Dwa turnieje ATP 500 w Azji wyłoniły finalistów na wtorek 6 października. W Pekinie Novak Djoković awansował do finału po dyskwalifikacji Daniiła Miedwiediewa. W Tokio Carlos Alcaraz odrobił stratę seta z Jaume Munarem i o tytuł zagra z Jirim Lehecką. Oba finały poprzedzają wylot na turniej w Szanghaju.",
+            "W Pekinie Djoković prowadził 7-5, 5-3 i 15-15 w drugim secie, kiedy Miedwiediew z frustracji uderzył piłkę, która odbiła się od ściany i trafiła kibica w pierwszym rzędzie. Alex de Minaur awansował po kreczu Huberta Hurkacza przy stanie 6-4, 3-2 dla Australijczyka. W Tokio Alcaraz wygrał z Munarem 5-7, 6-3, 6-1, a Lehecka pokonał Valentina Vacherota 6-4, 6-2.",
+            "Djoković ma bilans 32-0 w Pekinie i w finale powalczy z De Minaurem. Alcaraz z Lehecką zagra o czwarty tytuł w sezonie 2026."
+        ]
+    },
+    "zh": {
+        "title": "梅德韦杰夫被判违规判负德约进中网决赛，阿尔卡拉斯晋级东京决赛",
+        "subtitle": "ATP 500 级半决赛，10 月 5 日周一。周二决赛：德约科维奇对德米纳尔，阿尔卡拉斯对莱赫茨卡。",
+        "excerpt": "诺瓦克·德约科维奇在 7-5、5-3 领先时因梅德韦杰夫击球误伤观众被判负而晋级。卡洛斯·阿尔卡拉斯在东京以 5-7、6-3、6-1 击败穆纳尔。",
+        "body": [
+            "亚洲两站 ATP 500 赛事确定了 10 月 6 日周二的争冠阵容。在北京中国网球公开赛，诺瓦克·德约科维奇在梅德韦杰夫被直接判负的戏剧性场面中杀入第七次决赛。在东京日本公开赛，卡洛斯·阿尔卡拉斯逆转豪梅·穆纳尔，与莱赫茨卡会师决赛。两场决赛结束后球员将立即前往上海劳力士大师赛。",
+            "北京半决赛中，德约第二盘 7-5、5-3、15-15 领先，梅德韦杰夫愤怒击球反弹砸中前排观众致伤，裁判按规则直接判负。德米纳尔因胡尔卡奇在 6-4、3-2 落后时退赛晋级。东京方面，头号种子阿尔卡拉斯鏖战 2 小时 14 分钟以 5-7、6-3、6-1 逆转穆纳尔。莱赫茨卡以 6-4、6-2 淘汰瓦舍罗。",
+            "德约在中网保持 32 胜 0 负的完赛纪录，决赛对阵硬地交锋 2-1 领先的德米纳尔。阿尔卡拉斯则在东京力争 2026 赛季第四冠。"
+        ]
+    },
+    "ja": {
+        "title": "メドベージェフ失格でジョコビッチ北京決勝へ。アルカラスは東京決勝進出。",
+        "subtitle": "ATP 500 準決勝、10月5日月曜。火曜の決勝：ジョコビッチ対デミノー、アルカラス対レヘチカ。",
+        "excerpt": "ノバク・ジョコビッチが 7-5、5-3 とリードした場面でダニール・メドベージェフが観客に球を当て失格処分に。カルロス・アルカラスは東京でムナルを 5-7、6-3、6-1 で破る。",
+        "body": [
+            "アジア開催の ATP 500 2 大会で 10 月 6 日火曜の決勝カードが出揃った。チャイナ・オープン（北京）ではメドベージェフの失格という波乱の中、ノバク・ジョコビッチが通算 7 度目の決勝へ駒を進めた。ジャパン・オープン（東京）ではカルロス・アルカラスがハウメ・ムナルに逆転勝ちし、イジー・レヘチカとの決勝を決めた。両大会の選手は直後に上海マスターズへ移動する。",
+            "北京でジョコビッチが第 2 セット 7-5、5-3、15-15 とした局面で、メドベージェフが感情的に打った球が壁に跳ね返り前列の観客を直撃。即座に失格が宣告された。アレックス・デミノーはフルカチュが 6-4、3-2 で途中棄権したため決勝へ。東京ではアルカラスが 2 時間 14 分の末に 5-7、6-3、6-1 で勝利。レヘチカはバシェロを 6-4、6-2 で退けた。",
+            "ジョコビッチは北京で通算 32 勝 0 敗と無敗を守る。東京のアルカラスは 2026 年 4 つ目のタイトルを狙う。"
+        ]
+    },
+    "ko": {
+        "title": "메드베데프 실격으로 조코비치 베이징 결승행. 알카라스 도쿄 결승 진출.",
+        "subtitle": "ATP 500 준결승, 10월 5일 월요일. 화요일 결승: 조코비치 대 드 미노, 알카라스 대 레헤치카.",
+        "excerpt": "노박 조코비치가 7-5, 5-3으로 앞선 상황에서 다닐 메드베데프가 관중을 맞혀 실격패당했다. 카를로스 알카라스는 도쿄에서 하우메 무나르를 5-7, 6-3, 6-1로 꺾었다.",
+        "body": [
+            "아시아 스윙 ATP 500 두 대회의 10월 6일 화요일 결승 매치업이 확정됐다. 베이징 차이나 오픈에서는 메드베데프의 실격으로 노박 조코비치가 7번째 대회 결승에 올랐다. 도쿄 재팬 오픈에서는 카를로스 알카라스가 하우메 무나르에게 역전승을 거두고 이르지 레헤치카와 결승에서 맞붙는다. 두 대회 선수들은 결승 후 곧바로 상하이 마스터스로 향한다.",
+            "베이징에서 조코비치가 2세트 7-5, 5-3(15-15)으로 앞서던 중 메드베데프가 화를 내며 친 공이 벽을 맞고 튀어 1열 관중을 가격해 실격 처리됐다. 알렉스 드 미노는 후베르트 후르카치(6-4, 3-2 기권)를 꺾고 결승에 올랐다. 도쿄에서는 알카라스가 2시간 14분 혈투 끝에 무나르를 5-7, 6-3, 6-1로 제압했다. 레헤치카는 바셰로를 6-4, 6-2로 완파했다.",
+            "조코비치는 베이징 통산 32승 무패를 달리고 있으며, 도쿄의 알카라스는 2026시즌 4번째 우승 트로피를 조준한다."
+        ]
+    },
+    "ar": {
+        "title": "ديوكوفيتش إلى نهائي بكين بعد استبعاد ميدفيديف. ألكاراز إلى نهائي طوكيو.",
+        "subtitle": "نصف نهائي ATP 500، الإثنين 5 أكتوبر. نهائيات الثلاثاء: ديوكوفيتش ضد دي مينور، ألكاراز ضد ليهيتشكا.",
+        "excerpt": "كان نوفاك ديوكوفيتش متقدماً 7-5 و5-3 حين استُبعد دانييل ميدفيديف لضرب كرة أصابت أحد المشجعين. وتغلب كارلوس ألكاراز على خاومي مونار 5-7 و6-3 و6-1 في طوكيو.",
+        "body": [
+            "تحددت أطراف المباراتين النهائيتين لبطولتي فئة 500 نقطة في آسيا ليوم الثلاثاء 6 أكتوبر. في بطولة الصين المفتوحة ببكين، بلغ نوفاك ديوكوفيتش النهائي السابع له بعد استبعاد دانييل ميدفيديف في واقعة مفاجئة. وفي طوكيو ببطولة اليابان المفتوحة، قلب كارلوس ألكاراز تأخره بمجموعة أمام خاومي مونار ليضرب موعداً مع ييري ليهيتشكا.",
+            "في بكين، كان ديوكوفيتش متقدماً 7-5 و5-3 و15-15 حين ضرب ميدفيديف كرة بغضب ارتدت من الجدار وأصابت مشجعاً في الصف الأول، مما استوجب الاستبعاد الفوري. وبلغ أليكس دي مينور النهائي بعد انسحاب هوبرت هوركاتش بسبب الإصابة متأخراً 6-4 و3-2. وفي طوكيو تفوق ألكاراز على مونار 5-7 و6-3 و6-1 في ساعتين و14 دقيقة، بينما فاز ليهيتشكا على فالنتين فاشيرو 6-4 و6-2.",
+            "يمتلك ديوكوفيتش سجلاً خالياً من الهزائم في بكين (32-0) ويلاقي دي مينور، فيما يسعى ألكاراز في طوكيو للظفر بلقبه الرابع في 2026."
+        ]
+    }
+},
+  'chiefs-vikings-unbeaten-nfl-week4-wrap-2026': {
+    "fr": {
+        "title": "Chiefs et Vikings à 4-0 au terme de la 4e semaine NFL",
+        "subtitle": "Kansas City renverse les Raiders 30-27. Minnesota domine Miami 15-10. Carolina surprend Detroit 32-26 dimanche soir.",
+        "excerpt": "Le tableau de la 4e semaine NFL est complet. Kansas City et Minnesota restent les deux seules équipes invaincues à 4-0. Les Panthers battent les Lions 32-26.",
+        "body": [
+            "La 4e semaine NFL s’achève en laissant seulement deux franchises invaincues : les Kansas City Chiefs et les Minnesota Vikings, tous deux à 4-0. Les victoires de fin d’après-midi et une folle soirée dominicale ont redessiné le paysage des playoffs avant le coup d’envoi de la 5e semaine.",
+            "En fin d’après-midi dimanche, Patrick Mahomes a mené une dernière série offensive victorieuse pour battre les Las Vegas Raiders 30-27 à l’Allegiant Stadium. À Minneapolis, les Vikings se sont appuyés sur leur défense pour maîtriser les Miami Dolphins 15-10, plongeant Miami à 0-4. San Francisco a écarté Denver 24-14 et Seattle a battu les Chargers 30-23. Lors du Sunday Night Football, les Carolina Panthers ont créé la surprise en dominant Detroit 32-26.",
+            "La défaite des Bills 29-26 contre New England laisse Kansas City seul invaincu en AFC. En NFC, Minnesota domine le Nord à 4-0 devant Chicago (3-1). Le Thursday Night Football entre Falcons et Buccaneers ouvre dès jeudi la 5e semaine."
+        ]
+    },
+    "es": {
+        "title": "Chiefs y Vikings quedan 4-0 al cerrarse la Semana 4 de la NFL",
+        "subtitle": "Kansas City remonta a Raiders 30-27. Minnesota supera a Dolphins 15-10. Panthers sorprenden a Lions 32-26 el domingo noche.",
+        "excerpt": "La Semana 4 de la NFL está completa. Kansas City y Minnesota siguen como los únicos invictos con 4-0. Panthers superan a Lions 32-26.",
+        "body": [
+            "La Semana 4 de la NFL ha concluido dejando a solo dos franquicias invictas en toda la liga: Kansas City Chiefs y Minnesota Vikings, ambos con 4-0. Los triunfos vespertinos y un vibrante duelo dominical nocturno perfilaron el panorama competitivo.",
+            "En la tarde del domingo, Patrick Mahomes guio una serie decisiva en el último cuarto para batir a Las Vegas Raiders 30-27 en el Allegiant Stadium. En Mineápolis, la defensa de los Vikings sofocó a los Miami Dolphins 15-10, dejando a Miami con 0-4. Además, San Francisco superó a Denver 24-14 y Seattle venció a Chargers 30-23. En el Sunday Night Football, Carolina sorprendió a Detroit 32-26.",
+            "La caída de Bills 29-26 ante New England deja a Kansas City como único invicto en la AFC. En la NFC, Minnesota lidera el Norte con 4-0. El jueves arranca la Semana 5 con el duelo divisional Falcons vs Buccaneers."
+        ]
+    },
+    "de": {
+        "title": "Chiefs und Vikings stehen 4-0 nach Abschluss von NFL-Woche 4",
+        "subtitle": "Kansas City siegt 30-27 bei den Raiders. Minnesota schlägt Dolphins 15-10. Panthers überraschen Lions 32-26 am Sonntagabend.",
+        "excerpt": "Woche 4 der NFL ist abgeschlossen. Kansas City und Minnesota bleiben mit 4-0 die einzigen ungeschlagenen Teams. Panthers besiegen Lions 32-26.",
+        "body": [
+            "Die 4. NFL-Woche ist vorüber und nur noch zwei Teams sind unbesiegt: die Kansas City Chiefs und die Minnesota Vikings (jeweils 4-0). Späte Sonntagssiege und ein torreiches Sunday Night Game prägten das Tabellenbild.",
+            "Am späten Sonntagnachmittag führte Patrick Mahomes die Chiefs mit einem Comeback im vierten Viertel zu einem 30-27-Erfolg über die Las Vegas Raiders im Allegiant Stadium. In Minneapolis hielt die Vikings-Defense beim 15-10 gegen die Miami Dolphins stand, die nun bei 0-4 stehen. San Francisco schlug Denver 24-14 und Seattle besiegte die Chargers 30-23. Im Sunday Night Football überraschten die Panthers die Detroit Lions mit 32-26.",
+            "Nach der Niederlage der Bills gegen die Patriots (26-29) ist Kansas City das letzte ungeschlagene Team der AFC. In der NFC führt Minnesota den Norden mit 4-0 an. Am Donnerstag startet Woche 5 mit Falcons gegen Buccaneers."
+        ]
+    },
+    "it": {
+        "title": "Chiefs e Vikings sul 4-0 alla chiusura della Week 4 NFL",
+        "subtitle": "Kansas City rimonta i Raiders 30-27. Minnesota batte i Dolphins 15-10. Panthers a sorpresa sui Lions 32-26 nella notte.",
+        "excerpt": "Il quadro della Week 4 NFL è chiuso. Kansas City e Minnesota restano le uniche imbattute sul 4-0. Carolina batte Detroit 32-26 nel Sunday Night.",
+        "body": [
+            "La Week 4 della NFL è terminata lasciando solo due franchigie imbattute nell’intera lega: i Kansas City Chiefs e i Minnesota Vikings, entrambi a punteggio pieno sul 4-0. Le vittorie del tardo pomeriggio e il Sunday Night Football hanno scosso gli equilibri.",
+            "Domenica pomeriggio, Patrick Mahomes ha guidato il drive vincente nel quarto periodo per superare i Las Vegas Raiders 30-27 all’Allegiant Stadium. A Minneapolis la difesa dei Vikings ha bloccato i Miami Dolphins sul 15-10 (Miami a 0-4). San Francisco ha battuto Denver 24-14 e Seattle ha avuto la meglio sui Chargers per 30-23. Nella notte Carolina ha sorpreso Detroit 32-26.",
+            "La sconfitta dei Bills con i Patriots (26-29) lascia Kansas City sola in vetta all’AFC. Nella NFC Minnesota comanda a nord con 4-0. Giovedì si apre la Week 5 con Falcons contro Buccaneers."
+        ]
+    },
+    "pl": {
+        "title": "Chiefs i Vikings z bilansem 4-0 na zakończenie 4. tygodnia NFL",
+        "subtitle": "Kansas City pokonuje Raiders 30-27. Minnesota ogrywa Dolphins 15-10. Panthers szokują Lions 32-26 w niedzielny wieczór.",
+        "excerpt": "4. tydzień NFL jest kompletny. Kansas City i Minnesota pozostają jedynymi niepokonanymi drużynami z bilansem 4-0. Panthers wygrywają z Lions 32-26.",
+        "body": [
+            "4. tydzień rozgrywek NFL dobiegł końca, pozostawiając tylko dwa niepokonane zespoły w całej lidze: Kansas City Chiefs i Minnesota Vikings (oba 4-0). Późne niedzielne mecze i emocjonujący mecz niedzielnego wieczoru ukształtowały tabelę.",
+            "Patrick Mahomes poprowadził decydujący drive w czwartej kwarcie, dając Chiefs wygraną 30-27 z Las Vegas Raiders. W Minneapolis Vikings dzięki żelaznej obronie pokonali Miami Dolphins 15-10. San Francisco ograło Denver 24-14, a Seattle wygrało z Chargers 30-23. W Sunday Night Football Carolina Panthers niespodziewanie pokonała Detroit Lions 32-26.",
+            "Porażka Buffalo z New England (26-29) oznacza, że Chiefs są jedyną niepokonaną drużyną w AFC. W NFC Minnesota przewodzi dywizji z wynikiem 4-0. W czwartek tydzień 5 otworzy mecz Falcons z Buccaneers."
+        ]
+    },
+    "zh": {
+        "title": "NFL 第 4 周收官：酋长与维京人保持 4 胜 0 负领跑",
+        "subtitle": "堪萨斯城 30-27 逆转突袭者。明尼苏达 15-10 力克海豚。黑豹周日夜赛 32-26 爆冷击败雄狮。",
+        "excerpt": "NFL 第 4 周赛程全部结束。堪萨斯城酋长与明尼苏达维京人是全联盟仅存的两支 4 胜 0 负不败球队。黑豹周日夜赛 32-26 险胜雄狮。",
+        "body": [
+            "NFL 第 4 周争夺落幕，全联盟仅剩堪萨斯城酋长与明尼苏达维京人两支球队保持 4 胜 0 负完美开局。周日下午场与周日夜赛的较量全面重塑了早期的季后赛版图。",
+            "周日下午场中，帕特里克·马霍姆斯在第四节带队打出逆转攻势，帮助酋长客场 30-27 险胜拉斯维加斯突袭者。在明尼阿波利斯，维京人凭借防守组的稳健发挥 15-10 击败迈阿密海豚，送给对手四连败。旧金山 49 人 24-14 击败野马，海鹰 30-23 战胜冲锋。周日夜赛上，卡罗来纳黑豹以 32-26 击败底特律雄狮拿下赛季首胜。",
+            "水牛城比尔 26-29 不敌新英格兰爱国者后，酋长成为美联唯一不败球队。国联方面，维京人 4 胜 0 负领跑北区。第 5 周周四夜赛将由猎鹰主场迎战海盗。"
+        ]
+    },
+    "ja": {
+        "title": "チーフスとバイキングスが 4 勝 0 敗で無敗キープ。NFL 第 4 週終了。",
+        "subtitle": "カンザスシティが 30-27 でレイダースに逆転勝ち。ミネソタはドルフィンズを 15-10 で下す。パンサーズがライオンズを 32-26 で撃破。",
+        "excerpt": "NFL 第 4 週の全日程が終了。カンザスシティとミネソタが 4 勝 0 敗でリーグ唯一の無敗を維持。パンサーズが SNF でライオンズを 32-26 で破る。",
+        "body": [
+            "NFL 第 4 週が幕を閉じ、全 32 チームの中で無敗を保つのはカンザスシティ・チーフスとミネソタ・バイキングスの 2 チーム（ともに 4 勝 0 敗）のみとなった。日曜レイト枠とサンデーナイトの熱戦がシーズン序盤の勢力図を固めた。",
+            "日曜レイト枠ではパトリック・マホームズが第 4 クォーターに見事な逆転ドライブを演出し、チーフスがラスベガス・レイダースに 30-27 で勝利。ミネアポリスではバイキングス守備陣が奮闘しマイアミ・ドルフィンズを 15-10 で封じた。49ers はブロンコスを 24-14、シーホークスはチャージャーズを 30-23 で下した。サンデーナイトではパンサーズがライオンズを 32-26 で下し今季初白星を挙げた。",
+            "ビルズがペイトリオッツに敗れたため、チーフスが AFC 唯一の無敗に。NFC 北地区はバイキングスが 4 勝 0 敗で首位。木曜にはファルコンズ対バッカニアーズで第 5 週が開幕する。"
+        ]
+    },
+    "ko": {
+        "title": "치프스와 바이킹스 4승 무패 질주. NFL 4주차 마감.",
+        "subtitle": "캔자스시티 레이더스에 30-27 역전승. 미네소타 돌핀스 15-10 제압. 팬서스 선데이 나이트서 라이온스 32-26 제압.",
+        "excerpt": "NFL 4주차 일정이 마무리됐다. 캔자스시티 치프스와 미네소타 바이킹스가 4승 무패로 유이한 무패 팀으로 남았다. 팬서스는 라이온스를 32-26으로 꺾었다.",
+        "body": [
+            "NFL 4주차가 종료되며 리그 전체에서 무패를 달리는 팀은 캔자스시티 치프스와 미네소타 바이킹스(이상 4승 무패) 둘만 남았다. 일요일 후반 경기들과 선데이 나이트 풋볼 혈투가 순위 경쟁을 달궜다.",
+            "일요일 늦은 경기에서 패트릭 마홈스가 4쿼터 역전 드라이브를 이끌며 치프스가 라스베이거스 레이더스를 30-27로 꺾었다. 미네아폴리스에서는 바이킹스 수비진이 마이애미 돌핀스를 15-10으로 틀어막았다. 49ers는 브롱코스를 24-14로 제압했고, 시애틀은 차저스를 30-23으로 눌렀다. 선데이 나이트 풋볼에서는 캐롤라이나 팬서스가 디트로이트 라이온스를 32-26으로 꺾고 시즌 첫 승을 거뒀다.",
+            "버펄로 빌스가 패트리어츠에 26-29로 패하며 치프스가 AFC 유일의 무패 팀이 됐다. NFC에서는 미네소타가 4승으로 북부 지구 선두다. 목요일 팰컨스와 버커니어스의 경기로 5주차가 시작된다."
+        ]
+    },
+    "ar": {
+        "title": "تشيفز وفايكنغز بسجل 4-0 مع اختتام الأسبوع 4 من NFL",
+        "subtitle": "كانساس سيتي يقلب الطاولة على ريدرز 30-27. مينيسوتا يتجاوز دولفينز 15-10. بانثرز يفاجئ لايونز 32-26 مساء الأحد.",
+        "excerpt": "اكتملت مباريات الأسبوع 4 من NFL. كانساس سيتي ومينيسوتا هما الفريقان الوحيدان بسجل خالٍ من الهزائم (4-0). بانثرز يهزم لايونز 32-26.",
+        "body": [
+            "انتهت منافسات الأسبوع الرابع من NFL، ليبقى فريقان فقط بسجل مثالي خالٍ من الهزائم: كانساس سيتي تشيفز ومينيسوتا فايكنغز (4-0 لكل منهما). شكلت انتصارات النافذة المتأخرة ومباراة ليلة الأحد المثيرة ملامح المنافسة المبكرة.",
+            "قاد باتريك ماهومز هجوماً حاسماً في الربع الرابع ليتفوق تشيفز على لاس فيغاس ريدرز 30-27 في ملعب أليجانت. وفي مينيابوليس، تفوق دفاع فايكنغز ليحسم الفوز على ميامي دولفينز 15-10، ليبقى ميامي بـ0-4. وفاز سان فرانسيسكو على دنفر 24-14 وسياتل على تشارجرز 30-23. وفي ليلة الأحد، فاجأ كارولاينا بانثرز فريق ديترويت لايونز بالفوز 32-26 محققاً انتصاره الأول.",
+            "هزيمة بافلو بيلز أمام نيو إنجلاند (26-29) جعلت تشيفز الفريق الوحيد بلا هزيمة في مؤتمر AFC. وتبدأ الجولة الخامسة يوم الخميس بمواجهة فالكونز وبوكانيرز."
+        ]
+    }
+},
+  'nations-league-october-germany-draw-portugal-advance-2026': {
+    "fr": {
+        "title": "Ligue des Nations : le Portugal en quarts, l’Allemagne tenue en échec 0-0",
+        "subtitle": "Portugal 2-1 Norvège confirme la qualification. L’Allemagne accrochée par la Grèce en A2. Premier League figée à 15 points.",
+        "excerpt": "Le Portugal est la première nation qualifiée pour les quarts de la Ligue des Nations après son succès 2-1 sur la Norvège. L’Allemagne a concédé le 0-0 face à la Grèce. Reprise le 10 octobre.",
+        "body": [
+            "La trêve internationale d’octobre a atteint son point médian. Dans le groupe A4 de la Ligue des Nations de l’UEFA, le Portugal est devenu le premier pays qualifié pour les quarts de finale après avoir battu la Norvège 2-1 à Porto sans Cristiano Ronaldo. Pendant ce temps dans le groupe A2, l’Allemagne a manqué l’occasion de prendre la deuxième place après un match nul 0-0 face à la Grèce à Munich. La Premier League reste gelée jusqu’au 10 octobre avec Manchester City en tête avec 15 points en cinq matches.",
+            "Le succès 2-1 des Portugais à l’Estádio do Dragão a vu Kristoffer Ajer ouvrir le score à la 36e minute avant l’égalisation de João Cancelo et le but décisif de Gonçalo Ramos à la 79e. Francisco Conceição a reçu un carton rouge en fin de match. À Munich, la formation de Julian Nagelsmann a tenu 68 % de possession mais n’a pas su trouver la faille face à une défense grecque compacte. Le 7-0 de l’Angleterre contre la Croatie et le 3-1 de l’Espagne face à la Tchéquie restent au tableau.",
+            "Le Portugal compte 12 points (4-0-0) et ne peut plus être rejoint par la Norvège (3 points). L’Allemagne est troisième avec 5 points derrière l’Italie et la France. La Premier League reprendra samedi 10 octobre."
+        ]
+    },
+    "es": {
+        "title": "Nations League: Portugal sella cuartos mientras Alemania empata 0-0",
+        "subtitle": "Portugal 2-1 Noruega certifica el pase. Alemania empata con Grecia en el Grupo A2. La Premier sigue parada en 15 puntos.",
+        "excerpt": "Portugal se convirtió en el primer clasificado a cuartos de final de la Nations League tras vencer 2-1 a Noruega. Alemania empató 0-0 ante Grecia. La Premier vuelve el 10 de octubre.",
+        "body": [
+            "La ventana internacional de octubre llega a su ecuador. En el Grupo A4 de la UEFA Nations League, Portugal aseguró su billete a cuartos al derrotar 2-1 a Noruega en Oporto sin Cristiano Ronaldo. Mientras tanto en el Grupo A2, Alemania desaprovechó la ocasión de colocarse segunda al empatar 0-0 contra Grecia en Múnich. La Premier League sigue congelada hasta el 10 de octubre con Manchester City al frente con 15 puntos.",
+            "El triunfo luso en Do Dragão tuvo a Kristoffer Ajer adelantando a Noruega en el minuto 36, antes de que João Cancelo empatara dos minutos después y Gonçalo Ramos anotara el 2-1 definitivo en el 79. Francisco Conceição fue expulsado. En Múnich, el equipo de Nagelsmann dominó el 68 % de la posesión pero chocó contra el muro griego. Se mantienen en el historial el 7-0 de Inglaterra a Croacia y el 3-1 de España a Chequia.",
+            "Portugal lidera con 12 puntos (4-0-0). Alemania es tercera con 5 puntos tras Italia y Francia. La actividad liguera de clubes regresará el 10 de octubre."
+        ]
+    },
+    "de": {
+        "title": "Nations League: Portugal löst Viertelfinal-Ticket, Deutschland nur 0:0",
+        "subtitle": "Portugal 2:1 Norwegen sichert Platz unter den Top Zwei. DFB-Elf teilt Punkte mit Griechenland. Premier League pausiert.",
+        "excerpt": "Portugal steht nach einem 2:1 gegen Norwegen als erstes Team im Nations-League-Viertelfinale. Deutschland kam gegen Griechenland nicht über ein 0:0 hinaus. Premier League ruht bis 10. Oktober.",
+        "body": [
+            "Das Länderspielfenster im Oktober ist zur Hälfte absolviert. In der Nations-League-Gruppe A4 buchte Portugal durch ein 2:1 gegen Norwegen in Porto ohne Cristiano Ronaldo als erste Mannschaft das Viertelfinalticket. In Gruppe A2 verpasste die deutsche Nationalmannschaft durch ein 0:0 gegen Griechenland in München den Sprung auf Rang zwei. Die Premier League bleibt bis zum 10. Oktober mit Tabellenführer Manchester City (15 Punkte) eingefroren.",
+            "Beim 2:1-Erfolg Portugals traf Kristoffer Ajer in der 36. Minute zur Gästeführung, ehe João Cancelo postwendend ausglich und Gonçalo Ramos in der 79. Minute den Siegtreffer erzielte. Francisco Conceição sah spät Rot. In München hatte das Team von Julian Nagelsmann 68 Prozent Ballbesitz, fand jedoch keinen Weg durch das griechische Abwehrbollwerk. Englands 7:0 über Kroatien und Spaniens 3:1 gegen Tschechien bleiben feste Größen.",
+            "Portugal steht mit 12 Punkten (4-0-0) uneinholbar vorn. Deutschland rangiert mit 5 Punkten auf Platz drei hinter Italien und Frankreich."
+        ]
+    },
+    "it": {
+        "title": "Nations League: Portogallo ai quarti, Germania fermata sullo 0-0",
+        "subtitle": "Portogallo 2-1 Norvegia certifica il passaggio del turno. Germania bloccata dalla Grecia. Premier League ferma a 15 punti.",
+        "excerpt": "Il Portogallo è la prima squadra a centrare i quarti di Nations League grazie al 2-1 sulla Norvegia. La Germania pareggia 0-0 con la Grecia. Si riparte il 10 ottobre.",
+        "body": [
+            "La finestra internazionale di ottobre è a metà percorso. Nel Gruppo A4 di UEFA Nations League, il Portogallo ha staccato per primo il pass per i quarti di finale superando 2-1 la Norvegia a Oporto senza Cristiano Ronaldo. Nel Gruppo A2 la Germania ha fallito l’aggancio al secondo posto pareggiando 0-0 contro la Grecia a Monaco di Baviera. La Premier League resta ferma fino al 10 ottobre con il City capolista a 15 punti.",
+            "Al do Dragão, la Norvegia è passata avanti con Ajer al 36’, prima dell’immediato pari di João Cancelo e del gol vittoria di Gonçalo Ramos al 79’. Espulso nel finale Conceição. A Monaco, la squadra di Nagelsmann ha mantenuto il 68% di possesso palla senza scardinare il muro ellenico. Restano agli atti il 7-0 dell’Inghilterra sulla Croazia e il 3-1 della Spagna sulla Repubblica Ceca.",
+            "Portogallo a punteggio pieno con 12 punti in quattro gare. Germania terza a quota 5 dietro Italia e Francia. La Premier League riprenderà sabato 10 ottobre."
+        ]
+    },
+    "pl": {
+        "title": "Liga Narodów: Portugalia w ćwierćfinale, bezbramkowy remis Niemiec",
+        "subtitle": "Portugalia 2-1 Norwegia pieczętuje awans. Niemcy remisują 0-0 z Grecją. Premier League zamrożona z 15 punktami.",
+        "excerpt": "Portugalia jako pierwsza zapewniła sobie awans do ćwierćfinału Ligi Narodów po wygranej 2-1 z Norwegią. Niemcy zremisowali 0-0 z Grecją. Premier League wraca 10 października.",
+        "body": [
+            "Październikowe okienko reprezentacyjne minęło półmetek. W grupie A4 Ligi Narodów UEFA Portugalia jako pierwsza zagwarantowała sobie udział w ćwierćfinale, pokonując Norwegię 2-1 w Porto pod nieobecność Cristiano Ronaldo. W grupie A2 Niemcy zremisowali bezbramkowo 0-0 z Grecją w Monachium. W rozgrywkach ligowych Premier League pozostaje zawieszona do 10 października z Manchesterem City na czele (15 punktów).",
+            "W Porto Kristoffer Ajer trafił dla Norwegii w 36. minucie, ale João Cancelo szybko wyrównał, a Gonçalo Ramos zapewnił wygraną w 79. minucie. Francisco Conceição ujrzał czerwoną kartkę. W Monachium zespół Nagelsmanna miał 68% posiadania piłki, lecz nie przełamał greckiej obrony. W rejestrze pozostają wygrana Anglii 7-0 z Chorwacją i Hiszpanii 3-1 z Czechami.",
+            "Portugalia ma 12 punktów (4-0-0). Niemcy z 5 punktami są na trzecim miejscu za Włochami i Francją. Liga angielska wraca w sobotę 10 października."
+        ]
+    },
+    "zh": {
+        "title": "欧国联：葡萄牙率先晋级八强，德国 0-0 战平希腊",
+        "subtitle": "葡萄牙 2-1 挪威锁定小组前二。德国 A2 组闷平希腊。英超 15 分继续停赛。",
+        "excerpt": "葡萄牙 2-1 战胜挪威成为首支晋级欧国联八强的球队。德国 0-0 战平希腊。英超将于 10 月 10 日重燃战火。",
+        "body": [
+            "10 月国际比赛日进入中段。在欧国联 A4 组中，缺少克里斯蒂亚诺·罗纳尔多的葡萄牙队在波尔图 2-1 击败挪威，成为首支提前锁定八强席位的队伍。与此同时在 A2 组，德国队在慕尼黑被希腊 0-0 逼平，错失升至第二良机。英超联赛停赛至 10 月 10 日，曼城以 5 场 15 分领跑。",
+            "在巨龙球场，阿耶尔第 36 分钟为挪威首开纪录，若昂·坎塞洛两分钟后扳平，贡萨洛·拉莫斯在第 79 分钟打入制胜球。弗朗西斯科·孔塞桑终场前染红。在慕尼黑，纳格尔斯曼的德国队控球率达 68% 却难破希腊铁桶阵。英格兰 7-0 克罗地亚与西班牙 3-1 捷克继续在册。",
+            "葡萄牙 4 战全胜积 12 分。德国积 5 分位列小组第三落后于意大利与法国。英超联赛将于 10 月 10 日周六重开战幕。"
+        ]
+    },
+    "ja": {
+        "title": "ネーションズリーグ：ポルトガルが準々決勝進出決定、ドイツは 0-0 引き分け",
+        "subtitle": "ポルトガルが 2-1 でノルウェーを下し 8 強入り。ドイツはギリシャと分ける。プレミアは勝ち点 15 で休止中。",
+        "excerpt": "ポルトガルがノルウェーに 2-1 で勝利しネーションズリーグ準々決勝一番乗り。ドイツはギリシャに 0-0 で引き分けた。プレミアリーグは 10 月 10 日再開。",
+        "body": [
+            "10 月の国際 A マッチ週間は折り返し地点を迎えた。UEFA ネーションズリーグ・グループ A4 では、C・ロナウド不在のポルトガルがポルトでノルウェーを 2-1 で破り、最初の準々決勝進出を決めた。グループ A2 ではドイツがミュンヘンでギリシャと 0-0 で引き分け、2 位浮上の好機を逸した。プレミアリーグはマンチェスター・シティが 5 戦全勝勝ち点 15 で首位のまま 10 月 10 日まで中断中。",
+            "エスタディオ・ド・ドラゴンではアイエルが 36 分にノルウェーに先制点をもたらしたが、2 分後にカンセロが同点とし、79 分にラモスが決勝ゴールを挙げた。コンセイソンは終盤に退場。ミュンヘンではナーゲルスマン監督率いるドイツが支配率 68% も決め手を欠いた。イングランドの 7-0、スペインの 3-1 は記録のままである。",
+            "ポルトガルは 4 戦全勝の勝ち点 12。ドイツは勝ち点 5 でイタリア、フランスに次ぐ 3 位。リーグ戦は 10 月 10 日土曜に再開される。"
+        ]
+    },
+    "ko": {
+        "title": "네이션스리그: 포르투갈 8강행 확정, 독일은 0-0 무승부",
+        "subtitle": "포르투갈 2-1 노르웨이로 조 2위 확보. 독일은 그리스와 비겨 A2조 3위. 프리미어리그는 중단 상태.",
+        "excerpt": "포르투갈이 노르웨이를 2-1로 꺾고 네이션스리그 8강 진출을 가장 먼저 확정했다. 독일은 그리스와 0-0으로 비겼다. 리그는 10월 10일 재개된다.",
+        "body": [
+            "10월 A매치 기간이 반환점을 돌았다. UEFA 네이션스리그 A4조에서 포르투갈은 호날두 없이 포르투에서 노르웨이를 2-1로 물리치고 가장 먼저 8강 티켓을 거머쥐었다. A2조에서는 독일이 뮌헨에서 그리스와 0-0으로 비기며 조 2위 도약 기회를 놓쳤다. 프리미어리그는 맨체스터 시티가 5전 전승 승점 15점으로 선두를 달리는 가운데 10월 10일까지 휴식기다.",
+            "드라강 경기장에서 아예르가 전반 36분 선제골을 넣었으나 주앙 칸셀루가 동점골, 곤살루 하무스가 후반 79분 결승골을 터뜨렸다. 콘세이상이 막판 퇴장당했다. 뮌헨에서는 독일이 점유율 68%를 기록하고도 그리스의 수비를 뚫지 못했다. 잉글랜드의 7-0 대승과 스페인의 3-1 승리는 기록에 남아 있다.",
+            "포르투갈은 4전 전승(승점 12)으로 독주 중이다. 독일은 승점 5점으로 이탈리아와 프랑스에 이어 3위다. 프리미어리그는 10월 10일 토요일 재개된다."
+        ]
+    },
+    "ar": {
+        "title": "دوري الأمم: البرتغال تتأهل إلى ربع النهائي وتعادل سلبي لألمانيا",
+        "subtitle": "فوز البرتغال 2-1 على النرويج يحسم التأهل. ألمانيا تتعادل 0-0 مع اليونان. الدوري الإنجليزي متوقف عند 15 نقطة.",
+        "excerpt": "أصبحت البرتغال أول المتأهلين إلى ربع نهائي دوري الأمم بفوزها 2-1 على النرويج. ألمانيا تعادلت سلبياً أمام اليونان. يعود الدوري الإنجليزي في 10 أكتوبر.",
+        "body": [
+            "بلغت فترة التوقف الدولي لشهر أكتوبر منتصفها. في المجموعة A4 لدوري الأمم الأوروبية، حجزت البرتغال أول بطاقة لربع النهائي بفوزها 2-1 على النرويج في بورتو بغياب كريستيانو رونالدو. وفي المجموعة A2، تعثرت ألمانيا بتعادل 0-0 أمام اليونان في ميونخ. ويبقى الدوري الإنجليزي مجمداً حتى 10 أكتوبر مع تصدر مانشستر سيتي بـ15 نقطة.",
+            "في دراغاو تقدم آير للنرويج في الدقيقة 36، قبل أن يعادل جواو كانسيلو بعد دقيقتين ويسجل غونزالو راموس هدف الحسم في الدقيقة 79. وتعرض فرانسيسكو كونسيساو للطرد. وفي ميونخ، سيطرت ألمانيا بنسبة استحواذ 68% دون فك التكتل الدفاعي اليوناني. وتبقى نتيجة إنجلترا 7-0 وإسبانيا 3-1 ثابتة في الأرشيف.",
+            "تمتلك البرتغال 12 نقطة (4-0-0). ألمانيا ثالثة بـ5 نقاط خلف إيطاليا وفرنسا. وتستأنف الدوريات يوم السبت 10 أكتوبر."
+        ]
+    }
+},
+  'f1-bahrain-gp-aftermath-antonelli-lead-austin-upgrades-2026': {
+    "fr": {
+        "title": "La victoire de Verstappen oriente tous les regards vers les évolutions d’Austin",
+        "subtitle": "Conséquences du GP de Bahreïn en Malaisie. Antonelli compte 84 points d’avance sur Russell. Red Bull prépare le COTA.",
+        "excerpt": "Après le succès de Max Verstappen à Sepang, la F1 se tourne vers Austin. Kimi Antonelli mène avec 320 points suite à l’abandon de George Russell.",
+        "body": [
+            "Le paddock de Formule 1 quitte Sepang avec un championnat relancé avant la tournée américaine. La victoire maîtrisée de Max Verstappen lors du Grand Prix de Bahreïn en Malaisie a offert à Red Bull Ford Powertrains son premier succès en 2026. Dans le même temps, le rookie de Mercedes Kimi Antonelli a porté son avance à 84 points après l’abandon mécanique de George Russell. Tous les regards se tournent désormais vers le Grand Prix des États-Unis à Austin.",
+            "Verstappen a bouclé les 55 tours en 1:47:14.808, devançant Antonelli de 2,307 secondes et Lewis Hamilton (Ferrari) de 4,919 secondes. Charles Leclerc a fini quatrième, Isack Hadjar cinquième après une pénalité moteur, devant Piastri, Lawson, Alonso, Norris et Lindblad. Russell a abandonné en vue de l’arrivée alors qu’il était troisième.",
+            "Antonelli totalise 320 points contre 236 pour Russell. Hamilton est troisième à 214, Leclerc quatrième à 191, et Verstappen rejoint Norris à 188 points. Au classement constructeurs, Mercedes mène avec 556 points devant Ferrari (405). Pour Austin, Red Bull apportera un package complet de plancher, tandis que Liam Lawson purgera dix places de pénalité."
+        ]
+    },
+    "es": {
+        "title": "La victoria de Verstappen enfoca la atención en las mejoras de Austin",
+        "subtitle": "Secuelas del GP de Baréin en Malasia. Antonelli lidera por 84 puntos sobre Russell. Red Bull prepara paquete para COTA.",
+        "excerpt": "Tras el triunfo de Max Verstappen en Sepang, la F1 mira al Circuito de las Américas. Kimi Antonelli lidera con 320 puntos tras el abandono de George Russell.",
+        "body": [
+            "El paddock de Fórmula 1 abandona Sepang con la lucha por el título redefinida ante la inminente gira americana. El triunfo incontestable de Max Verstappen en el Gran Premio de Baréin en Malasia supuso la primera victoria de 2026 para Red Bull Ford Powertrains. El debutante de Mercedes Kimi Antonelli amplió su renta a 84 puntos tras la rotura de motor de George Russell. El foco pasa de inmediato a Austin y el fin de semana al sprint en COTA.",
+            "Verstappen ganó las 55 vueltas en 1:47:14.808 con 2,307 segundos sobre Antonelli y 4,919 sobre Lewis Hamilton (Ferrari). Leclerc fue cuarto y Hadjar quinto tras remontar una sanción. Russell abandonó en el tramo final cuando rodaba en plazas de podio.",
+            "Antonelli manda en el Mundial con 320 puntos por los 236 de Russell. Hamilton suma 214, Leclerc 191 y Verstappen iguala a Norris con 188. En constructores, Mercedes lidera con 556 puntos frente a los 405 de Ferrari. En Austin, Red Bull estrenará un nuevo fondo plano y Lawson penalizará diez puestos en parrilla."
+        ]
+    },
+    "de": {
+        "title": "Verstappen-Sieg lenkt Fokus auf Red-Bull-Upgrades für Austin",
+        "subtitle": "Nachwehen des Bahrain-GP in Malaysia. Antonelli führt 84 Punkte vor Russell. COTA-Paket in Arbeit.",
+        "excerpt": "Nach Max Verstappens Sieg in Sepang reist die F1 nach Austin. Kimi Antonelli führt die WM mit 320 Punkten nach dem späten Ausfall von George Russell an.",
+        "body": [
+            "Das Formel-1-Paddock verlässt Sepang mit neuem Schwung vor dem Amerika-Triple-Header. Max Verstappens souveräner Sieg beim Bahrain-Grand-Prix in Malaysia brachte Red Bull Ford Powertrains den ersten Sieg 2026. Mercedes-Neuling Kimi Antonelli baute seine WM-Führung auf 84 Punkte aus, nachdem Teamkollege George Russell mit Motorschaden auf Rang drei liegend ausfiel. Nun richtet sich der Blick auf den US-Grand-Prix auf dem Circuit of the Americas.",
+            "Verstappen siegte nach 55 Runden in 1:47:14.808 mit 2,307 Sekunden vor Antonelli und Lewis Hamilton (Ferrari). Leclerc wurde Vierter, Hadjar Fünfter. Russell schied kurz vor Schluss aus und blieb ohne Zähler.",
+            "Antonelli führt die Fahrerwertung mit 320 Punkten vor Russell (236) an. Hamilton folgt mit 214 Punkten, Leclerc mit 191 und Verstappen zieht mit Norris bei 188 Punkten gleich. Bei den Konstrukteuren führt Mercedes mit 556 Punkten vor Ferrari (405). Für Austin bringt Red Bull ein großes Unterboden-Update, während Liam Lawson zehn Startplätze Strafe absitzen muss."
+        ]
+    },
+    "it": {
+        "title": "La vittoria di Verstappen sposta l’attenzione sugli sviluppi per Austin",
+        "subtitle": "Effetti del GP del Bahrein in Malesia. Antonelli ha 84 punti su Russell. Red Bull prepara il pacchetto COTA.",
+        "excerpt": "Dopo il successo di Max Verstappen a Sepang, la F1 punta su Austin. Kimi Antonelli guida il mondiale con 320 punti dopo il ritiro di George Russell.",
+        "body": [
+            "Il paddock della Formula 1 lascia Sepang con gerarchie ridisegnate prima della tripletta americana. Il successo di Max Verstappen nel Gran Premio del Bahrein in Malesia ha regalato la prima vittoria del 2026 a Red Bull Ford Powertrains. Il rookie Mercedes Kimi Antonelli ha esteso il vantaggio a 84 punti approfittando del guasto al motore di George Russell mentre era terzo. L’attenzione si sposta ora sul weekend sprint di Austin al COTA.",
+            "Verstappen ha completato i 55 giri in 1:47:14.808 precedendo Antonelli di 2,307 secondi e Lewis Hamilton di 4,919. Quarto Leclerc, quinto Hadjar in rimonta. Russell è stato costretto alla resa nel finale a causa di un problema alla power unit.",
+            "Antonelli guida la classifica con 320 punti contro i 236 di Russell. Hamilton è terzo a quota 214, Leclerc quarto a 191 e Verstappen appaia Norris a 188. Tra i costruttori la Mercedes sale a 556 punti davanti alla Ferrari (405). Ad Austin la Red Bull porterà un nuovo fondo, mentre Lawson sconterà dieci posizioni di penalità."
+        ]
+    },
+    "pl": {
+        "title": "Zwycięstwo Verstappena kieruje uwagę na poprawki podłogi na Austin",
+        "subtitle": "Echa GP Bahrajnu w Malezji. Antonelli ma 84 punkty przewagi nad Russellem. Red Bull szykuje pakiet na COTA.",
+        "excerpt": "Po przełamującym zwycięstwie Maxa Verstappena w Sepang F1 zmierza do Austin. Kimi Antonelli prowadzi w mistrzostwach z 320 punktami po awarii silnika George’a Russella.",
+        "body": [
+            "Padok Formuły 1 opuszcza Sepang z nowym układem sił przed maratonem wyścigów w Ameryce. Zwycięstwo Maxa Verstappena w Grand Prix Bahrajnu w Malezji dało Red Bull Ford Powertrains pierwszy triumf w 2026 roku. Debiutant Mercedesa Kimi Antonelli powiększył przewagę do 84 punktów po awarii jednostki napędowej George’a Russella. Cała uwaga skupia się teraz na Grand Prix USA w Austin.",
+            "Verstappen pokonał 55 okrążeń w czasie 1:47:14.808, wyprzedzając Antonellego o 2,307 sekundy i Lewisa Hamiltona o 4,919 sekundy. Leclerc był czwarty, a Hadjar piąty. Russell wycofał się pod koniec rywalizacji.",
+            "Antonelli przewodzi w klasyfikacji z dorobkiem 320 punktów przed Russellem (236). Hamilton ma 214 punktów, Leclerc 191, a Verstappen zrównał się z Norrisem (po 188). Mercedes prowadzi w konstruktorach z 556 punktami przed Ferrari (405). Na Austin Red Bull przygotowuje nową podłogę, a Liam Lawson otrzyma karę cofnięcia o 10 pozycji."
+        ]
+    },
+    "zh": {
+        "title": "维斯塔潘夺冠让围场焦点转向奥斯汀底板升级",
+        "subtitle": "马来西亚巴林大奖赛余波。安东内利领先拉塞尔 84 分。红牛备战美洲赛道。",
+        "excerpt": "在马克斯·维斯塔潘于雪邦斩获首胜后，F1 移师美洲赛道。在乔治·拉塞尔赛车故障退赛后，基米·安东内利以 320 分领跑积分榜。",
+        "body": [
+            "在即将迎来美洲三连赛之际，F1 围场告别雪邦，年度争冠局势出现新变化。马克斯·维斯塔潘在雪邦举行的巴林大奖赛夺冠，为红牛福特动力总成拿下 2026 年首个分站冠军。与此同时，梅赛德斯新秀基米·安东内利将领先优势扩大到 84 分，队友乔治·拉塞尔在位列第三时遭遇动力单元故障退赛。焦点现已转向奥斯汀美洲赛道的冲刺周末。",
+            "维斯塔潘以 1 小时 47 分 14 秒 808 完成 55 圈比赛，以 2.307 秒优势力压安东内利，法拉利车手汉密尔顿获得季军。勒克莱尔第四，哈贾尔在受罚后追至第五。拉塞尔在比赛尾声遗憾退赛无积分入账。",
+            "车手积分榜上，安东内利以 320 分领跑拉塞尔的 236 分。汉密尔顿积 214 分位列第三，勒克莱尔 191 分，维斯塔潘追平诺里斯同为 188 分。车队积分榜梅赛德斯以 556 分领跑法拉利（405 分）。红牛将在奥斯汀引入全新底板套件，劳森将面临罚退 10 位的处罚。"
+        ]
+    },
+    "ja": {
+        "title": "フェルスタッペン勝利で視線はオースティンのフロア改良へ",
+        "subtitle": "マレーシア・バーレーン GP 余波。アントネッリがラッセルに 84 点差リード。レッドブルが COTA パッケージ準備。",
+        "excerpt": "セパンでのフェルスタッペン初勝利を受け、F1 はオースティンへ。ラッセルのリタイアによりキミ・アントネッリが 320 点で選手権を独走。",
+        "body": [
+            "F1 サーカスはアメリカ 3 連戦を前に、勢力図が変化した状態でセパンを後にした。マレーシアのバーレーン GP でのマックス・フェルスタッペンのポール・トゥ・ウインは、レッドブル・フォード・パワートレインズにとって 2026 年初勝利となった。メルセデスの新人キミ・アントネッリは、3 位走行中だったジョージ・ラッセルがパワーユニットトラブルでリタイアしたことでリードを 84 点に広げた。視線はオースティンのサーキット・オブ・ジ・アメリカズに向く。",
+            "フェルスタッペンは 55 周を 1:47:14.808 で走破し、アントネッリに 2.307 秒差、ハミルトンに 4.919 秒差をつけて優勝。ルクレールが 4 位、ペナルティを受けたハジャーが 5 位に入った。ラッセルは終盤に痛恨のリタイアを喫した。",
+            "ドライバーズランキングはアントネッリが 320 点、ラッセルが 236 点。ハミルトン 214 点、ルクレール 191 点、フェルスタッペンがノリスと並び 188 点。コンストラクターズはメルセデスが 556 点でフェラーリ（405 点）をリード。レッドブルはオースティンでフロアの大型改修を投入し、ローソンは 10 グリッド降格を受ける。"
+        ]
+    },
+    "ko": {
+        "title": "베르스타펜 우승으로 오스틴 플로어 업그레이드에 시선 집중",
+        "subtitle": "말레이시아 바레인 GP 후폭풍. 안토넬리 러셀에 84점 차 선두. 레드불 COTA 패키지 준비.",
+        "excerpt": "막스 베르스타펜이 세팡에서 시즌 첫 승을 거둔 후 F1 무대는 오스틴으로 향한다. 키미 안토넬리가 조지 러셀의 리타이어로 320점을 기록하며 선두를 질주했다.",
+        "body": [
+            "아메리카 3연전을 앞두고 F1 패덕은 세팡을 떠나며 타이틀 경쟁의 새로운 국면을 맞이했다. 말레이시아 바레인 그랑프리에서 막스 베르스타펜이 거둔 완승은 레드불 포드 파워트레인스의 2026시즌 첫 승리가 됐다. 메르세데스 루키 키미 안토넬리는 3위를 달리던 조지 러셀의 엔진 고장 리타이어로 드라이버 챔피언십 격차를 84점으로 벌렸다. 시선은 이제 서킷 오브 디 아메리카스 스프린트 주말로 향한다.",
+            "베르스타펜은 55랩을 1:47:14.808로 달려 안토넬리를 2.307초 차, 페라리의 루이스 해밀턴을 4.919초 차로 제치고 우승했다. 샤를 르클레르가 4위, 이작 하자르가 5위를 차지했다. 러셀은 후반 기권으로 0점에 그쳤다.",
+            "안토넬리는 320점으로 러셀(236점)에 크게 앞서 있다. 해밀턴이 214점, 르클레르가 191점이며, 베르스타펜은 노리스와 함께 188점으로 동률을 이뤘다. 컨스트럭터는 메르세데스가 556점으로 페라리(405점)를 앞서고 있다. 레드불은 오스틴에 대규모 플로어 업데이트를 투입한다."
+        ]
+    },
+    "ar": {
+        "title": "فوز فيرستابن يوجه الأنظار لتحديثات الأرضية في أوستن",
+        "subtitle": "تبعات سباق البحرين في ماليزيا. أنطونيلي يتقدم بـ84 نقطة على راسل. ريد بول تجهز حزمة كوتا.",
+        "excerpt": "بعد فوز ماكس فيرستابن في سيبانغ، تتجه الفورمولا 1 إلى حلبة أوستن. كيمي أنطونيلي يتصدر بـ320 نقطة بعد عطل محرك جورج راسل.",
+        "body": [
+            "يغادر بادوك الفورمولا 1 حلبة سيبانغ بملامح جديدة لبطولة العالم قبل الجولة الثلاثية في الأمريكتين. منح فوز ماكس فيرستابن في جائزة البحرين المقامة بماليزيا أول انتصار لمحركات ريد بول فورد في 2026. في المقابل، وسع كيمي أنطونيلي الفارق في الصدارة إلى 84 نقطة بعد انسحاب جورج راسل إثر عطل ميكانيكي وهو في المركز الثالث. وتتحول الأنظار مباشرة نحو أوستن وحلبة الأمريكتين.",
+            "أكمل فيرستابن السباق (55 لفة) في 1:47:14.808 متقدماً على أنطونيلي بفارق 2.307 ثانية ولويس هاميلتون بفارق 4.919 ثانية. وجاء لوكلير رابعاً وحجار خامساً بعد عقوبة الانطلاق. وانسحب راسل أواخر السباق بلا نقاط.",
+            "يتصدر أنطونيلي الترتيب بـ320 نقطة مقابل 236 لراسل. هاميلتون يملك 214 نقطة، ولوكلير 191، ويتساوى فيرستابن مع نوريس بـ188 نقطة. وتتصدر مرسيدس الصانعين بـ556 نقطة أمام فيراري (405). وستجلب ريد بول أرضية جديدة في أوستن."
+        ]
+    }
+},
+  'wnba-semifinals-game2-eve-dream-valkyries-lead-2026': {
+    "fr": {
+        "title": "Veille du match 2 des demi-finales WNBA : Dream et Valkyries protègent leur avantage",
+        "subtitle": "Atlanta et Golden State mènent 1-0. Liberty et Aces cherchent une réponse à l’extérieur mercredi 7 octobre.",
+        "excerpt": "Avec Atlanta devant New York 1-0 et Golden State menant 1-0 face à Las Vegas, les finalistes sortants doivent réagir lors d’un match 2 crucial mercredi.",
+        "body": [
+            "Les demi-finales WNBA 2026 observent une journée de repos mardi 6 octobre avant la double confrontation capitale du match 2 mercredi. Les deux têtes de série inférieures mènent 1-0 après de sensationnelles victoires au match 1. À Atlanta, le Dream a renversé la situation pour battre le New York Liberty 92-82. À San Francisco, les Golden State Valkyries ont muselé les Las Vegas Aces 71-60. Liberty et Aces font face à un défi impératif pour éviter le 0-2.",
+            "À Atlanta, Jordin Canada a inscrit 25 points (dont 20 en seconde période) avec 5 interceptions pour porter le Dream lors d’un 3e quart-temps remporté 32-15. DeWanna Bonner a ajouté 23 points, effaçant les 27 points de Sabrina Ionescu et les 19 de Breanna Stewart. À San Francisco, Gabby Williams a compilé 25 points, 11 rebonds et 5 passes pour étouffer les Aces à 60 points. A’ja Wilson a terminé avec 24 points.",
+            "Dans cette série au meilleur des cinq matches, le droit à l’erreur n’existe plus pour New York et Las Vegas avant le retour sur leurs parquets respectifs. Les deux rencontres auront lieu mercredi 7 octobre."
+        ]
+    },
+    "es": {
+        "title": "Víspera del Juego 2 de semifinales WNBA: Dream y Valkyries defienden ventaja",
+        "subtitle": "Atlanta y Golden State mandan 1-0. Liberty y Aces buscan respuesta a domicilio el miércoles 7 de octubre.",
+        "excerpt": "Con Atlanta 1-0 sobre Nueva York y Golden State 1-0 ante Las Vegas, los finalistas defensores afrontan un Juego 2 crucial este miércoles.",
+        "body": [
+            "Las semifinales de la WNBA descansan este martes 6 de octubre antes del doble cartel decisivo del Juego 2 el miércoles. Los equipos con peor siembra lideran 1-0 tras dos campanadas iniciales. En Atlanta, las Dream remontaron para batir a New York Liberty 92-82. En San Francisco, las debutantes Golden State Valkyries secaron a Las Vegas Aces 71-60. Liberty y Aces necesitan ganar para no caer en un abismo de 0-2.",
+            "En Atlanta, Jordin Canada anotó 25 puntos (20 en la segunda mitad) y logró 5 robos, liderando un parcial de 32-15 en el tercer cuarto. DeWanna Bonner aportó 23 puntos frente a los 27 de Sabrina Ionescu y 19 de Breanna Stewart. En San Francisco, Gabby Williams brilló con 25 puntos, 11 rebotes y 5 asistencias para frenar a las Aces en 60 puntos. A’ja Wilson sumó 24 puntos.",
+            "Al mejor de cinco partidos, una nueva derrota dejaría a neoyorquinas y aces contra las cuerdas antes de cambiar de sede. Los choques se juegan este miércoles 7 de octubre."
+        ]
+    },
+    "de": {
+        "title": "WNBA-Halbfinale vor Spiel 2: Dream und Valkyries verteidigen Heimvorteil",
+        "subtitle": "Atlanta und Golden State führen 1-0. Liberty und Aces stehen am Mittwoch unter Siegzwang.",
+        "excerpt": "Nach den Auftaktsiegen von Atlanta Dream und den Golden State Valkyries müssen die Vorjahresfinalisten am Mittwoch in Spiel 2 zwingend kontern.",
+        "body": [
+            "Die WNBA-Halbfinals pausieren am Dienstag, den 6. Oktober, vor dem brisanten Doppelpack in Spiel 2 am Mittwoch. Beide Außenseiter führen nach Überraschungssiegen mit 1-0. Atlanta bezwang die New York Liberty mit 92-82, während Expansionsteam Golden State Valkyries die Las Vegas Aces mit 71-60 niederkämpfte. New York und Las Vegas müssen auswärts gewinnen, um ein 0-2 zu verhindern.",
+            "In Atlanta erzielte Jordin Canada 25 Punkte (20 nach der Pause) sowie 5 Steals und trieb ein 32-15 im dritten Viertel an. DeWanna Bonner steuerte 23 Zähler bei und hielt Sabrina Ionescu (27) und Breanna Stewart (19) in Schach. In San Francisco glänzte Gabby Williams mit 25 Punkten, 11 Rebounds und 5 Assists und hielt Las Vegas bei nur 60 Zählern. A’ja Wilson kam auf 24 Punkte.",
+            "In der Best-of-Five-Serie steht für die Favoriten viel auf dem Spiel. Beide Partien finden am Mittwoch, 7. Oktober, statt."
+        ]
+    },
+    "it": {
+        "title": "Vigilia di Gara 2 semifinali WNBA: Dream e Valkyries difendono il fattore campo",
+        "subtitle": "Atlanta e Golden State guidano 1-0. Liberty e Aces cercano riscatto in trasferta mercoledì 7 ottobre.",
+        "excerpt": "Con Atlanta avanti 1-0 su New York e Golden State 1-0 su Las Vegas, le finaliste uscenti affrontano una Gara 2 senza appello mercoledì.",
+        "body": [
+            "Le semifinali WNBA 2026 osservano un turno di riposo martedì 6 ottobre prima della decisiva Gara 2 di mercoledì. Entrambe le sfavorite sono avanti 1-0. Ad Atlanta, le Dream hanno rimontato e battuto le New York Liberty 92-82. A San Francisco, le Golden State Valkyries hanno bloccato le Las Vegas Aces sul 71-60. Liberty e Aces devono vincere per non scivolare sullo 0-2.",
+            "Ad Atlanta, Jordin Canada ha firmato 25 punti (20 nella ripresa) e 5 recuperi, ispirando un terzo quarto da 32-15 per le Dream. DeWanna Bonner ha aggiunto 23 punti, neutralizzando i 27 di Sabrina Ionescu e i 19 di Breanna Stewart. A San Francisco, Gabby Williams ha dominato con 25 punti, 11 rimbalzi e 5 assist fermando l’attacco delle Aces a 60 punti. A’ja Wilson ha segnato 24 punti.",
+            "Nel formato al meglio delle cinque gare non sono ammessi passi falsi. Gara 2 si gioca mercoledì 7 ottobre ad Atlanta e San Francisco."
+        ]
+    },
+    "pl": {
+        "title": "W przededniu meczu nr 2 półfinałów WNBA: Dream i Valkyries bronią przewagi",
+        "subtitle": "Atlanta i Golden State prowadzą 1-0. Liberty i Aces szukają rewanżu w środę 7 października.",
+        "excerpt": "Atlanta Dream prowadzi z New York 1-0, a Golden State Valkyries 1-0 z Las Vegas. Faworytki stają przed koniecznością wygranej w meczu nr 2.",
+        "body": [
+            "Półfinały WNBA 2026 mają dzień przerwy we wtorek 6 października przed środowym podwójnym starciem meczu nr 2. Oba niżej rozstawione zespoły prowadzą 1-0 po znakomitych występach na otwarcie. W Atlancie ekipa Dream pokonała New York Liberty 92-82, a w San Francisco debiutujące Golden State Valkyries zatrzymały Las Vegas Aces na 71-60. Liberty i Aces muszą odpowiedzieć na wyjeździe, by uniknąć stanu 0-2.",
+            "W Atlancie Jordin Canada rzuciła 25 punktów (w tym 20 po przerwie) i miała 5 przechwytów, napędzając wygraną trzecią kwartę 32-15. DeWanna Bonner zdobyła 23 punkty, odpowiadając na 27 oczek Sabriny Ionescu i 19 Breanny Stewart. W San Francisco Gabby Williams zanotowała 25 punktów, 11 zbiórek i 5 asyst, ograniczając Aces do 60 punktów. A’ja Wilson rzuciła 24 punkty.",
+            "W serii do trzech zwycięstw margines błędu zmalał do zera. Oba drugie mecze odbędą się w środę 7 października."
+        ]
+    },
+    "zh": {
+        "title": "WNBA 半决赛 G2 前瞻：梦想与女武神力保主场优势",
+        "subtitle": "亚特兰大与金州 1-0 领先。自由人与王牌将于周三客场背水一战。",
+        "excerpt": "随着亚特兰大梦想 1-0 领先纽约，金州女武神 1-0 领先拉斯维加斯，卫冕决赛队伍周三面临必须拿下的 G2 战。",
+        "body": [
+            "2026 年 WNBA 半决赛在周二休整一日，周三将迎来关键的第二场较量。两支低排位球队在首战爆冷后均手握 1-0 领先。在亚特兰大，4 号种子梦想队逆转战胜纽约自由人（92-82）。在旧金山，新军金州女武神以窒息防守 71-60 击败拉斯维加斯王牌。自由人与王牌急需在周三客场反弹避免 0-2 落入绝境。",
+            "亚特兰大一战中，乔丁·加拿大砍下 25 分（下半场 20 分）外加 5 次抢断，率队第三节轰出 32-15 攻势。德万娜·邦纳贡献 23 分，抵消了萨布丽娜·约内斯库的 27 分与斯图尔特的 19 分。旧金山之战中，加比·威廉姆斯贡献 25 分 11 篮板 5 助攻，将王牌得分压制在 60 分。阿贾·威尔逊空砍 24 分。",
+            "五局三胜制下容错空间极小。两场第二战均将于 10 月 7 日周三打响。"
+        ]
+    },
+    "ja": {
+        "title": "WNBA 準決勝第 2 戦前夜：ドリームとヴァルキリーズがホーム守る",
+        "subtitle": "アトランタとゴールデンステートが 1-0 リード。リバティとエーセスは水曜に反撃狙う。",
+        "excerpt": "アトランタがニューヨークに 1-0、ゴールデンステートがラスベガスに 1-0 とリード。上位シードは水曜の第 2 戦で必勝を期す。",
+        "body": [
+            "2026 年 WNBA 準決勝は 10 月 6 日火曜に休養日を挟み、7 日水曜に重要な第 2 戦ダブルヘッダーを迎える。第 1 戦の番狂わせにより下位シードがともに 1-0 とリード。アトランタでは第 4 シードのドリームがニューヨーク・リバティを 92-82 で下し、サンフランシスコでは新設のゴールデンステート・ヴァルキリーズがラスベガス・エーセスを 71-60 で封じた。リバティとエーセスは 0-2 の崖っぷちを避けるため敵地での修正が急務となる。",
+            "アトランタではジョーディン・カナダが後半 20 点を含む 25 得点、5 スティールを記録し、第 3 クォーターの 32-15 の猛攻を牽引。デワナ・ボナーが 23 得点でイオネススクの 27 得点、スチュワートの 19 得点に対抗した。サンフランシスコではギャビー・ウィリアムズが 25 得点、11 リバウンド、5 アシストをマークし、エーセスを今季プレーオフ最少の 60 点に抑え込んだ。エイジャ・ウィルソンは 24 得点を挙げた。",
+            "5 戦 3 勝制でリバティとエーセスに余裕はない。第 2 戦は 10 月 7 日水曜に行われる。"
+        ]
+    },
+    "ko": {
+        "title": "WNBA 준결승 2차전 전야: 드림과 발키리스 홈 어드밴티지 수성",
+        "subtitle": "애틀랜타와 골든스테이트 1-0 리드. 리버티와 에이스 10월 7일 수요일 원정 반격 노려.",
+        "excerpt": "애틀랜타 드림이 뉴욕에 1-0, 골든스테이트 발키리스가 라스베이거스에 1-0으로 앞선 가운데 강호들이 수요일 2차전 반등을 노린다.",
+        "body": [
+            "2026 WNBA 준결승전은 10월 6일 화요일 하루 휴식을 취한 뒤 7일 수요일 운명의 2차전을 맞이한다. 1차전 이변으로 하위 시드 팀들이 나란히 1-0 리드를 잡았다. 애틀랜타에서는 4번 시드 드림이 뉴욕 리버티를 92-82로 제압했고, 샌프란시스코에서는 신생팀 골든스테이트 발키리스가 라스베이거스 에이스를 71-60으로 틀어막았다. 리버티와 에이스는 0-2로 몰리지 않기 위해 원정 승리가 절실하다.",
+            "애틀랜타에서는 조딘 캐나다가 후반 20점을 포함해 25점 5스틸을 올리며 3쿼터 32-15 폭풍을 주도했다. 디완나 보너가 23점을 보태며 사브리나 이오네스쿠(27점)와 브리아나 스튜어트(19점)의 활약을 무색케 했다. 샌프란시스코에서는 개비 윌리엄스가 25점 11리바운드 5어시스트로 맹활약하며 에이스를 60점으로 묶었다. 에이자 윌슨은 24점을 기록했다.",
+            "5전 3선승제에서 리버티와 에이스에게 더 이상의 여유는 없다. 2차전 두 경기는 10월 7일 수요일에 열린다."
+        ]
+    },
+    "ar": {
+        "title": "عشية المباراة 2 لنصف نهائي WNBA: دريم وفالكيريز تدافعان عن التقدم",
+        "subtitle": "أتلانتا وغولدن ستيت تتقدمان 1-0. ليبرتي وإيسيس تبحثان عن الرد خارج الأرض يوم الأربعاء 7 أكتوبر.",
+        "excerpt": "مع تقدم أتلانتا دريم 1-0 على نيويورك وغولدن ستيت 1-0 على لاس فيغاس، تواجه وصيفات الموسم الماضي مباراة ثانية حاسمة يوم الأربعاء.",
+        "body": [
+            "تحصل نصف نهائيات WNBA 2026 على يوم راحة الثلاثاء 6 أكتوبر قبل المواجهتين الحاسمتين في المباراة 2 يوم الأربعاء. يتقدم الفريقان الأقل تصنيفاً 1-0 بعد نتيجتين مفاجئتين في الافتتاح. في أتلانتا، قلبت دريم الطاولة لتفوز على نيويورك ليبرتي 92-82. وفي سان فرانسيسكو، خنقت فالكيريز الوافدة هجوم لاس فيغاس إيسيس وتغلبت عليها 71-60. وتبحث ليبرتي وإيسيس عن فوز حاسم لتفادي التأخر 0-2.",
+            "في أتلانتا، تألقت جوردين كندا بـ25 نقطة (20 في الشوط الثاني) و5 خطفات، مساهمة في تفوق دريم 32-15 في الربع الثالث. وأضافت ديوانا بونر 23 نقطة مقابل 27 نقطة لسابرينا يونيسكو و19 لبرينا ستيوارت. وفي سان فرانسيسكو، قدمت غابي ويليامز 25 نقطة و11 متابعة و5 تمريرات حاسمة مقيدة إيسيس بـ60 نقطة فقط. وسجلت إيجا ويلسون 24 نقطة.",
+            "في سلسلة الأفضل من خمس مباريات، لا مجال للخطأ أمام نيويورك ولاس فيغاس. وتلعب المباراتان يوم الأربعاء 7 أكتوبر."
+        ]
+    }
+},
+
 };

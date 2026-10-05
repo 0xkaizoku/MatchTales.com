@@ -1,0 +1,69 @@
+{
+  "funFacts": [
+    "Chiefs improve to 4-0.",
+    "Mahomes orchestrates 4th-quarter scoring drive.",
+    "Raiders fall to 1-3."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Patrick Mahomes",
+      "team": "Chiefs",
+      "hook": "Engineered fourth-quarter go-ahead drive to preserve undefeated start."
+    },
+    {
+      "name": "Maxx Crosby",
+      "team": "Raiders",
+      "hook": "Two sacks and relentless pressure against division rivals."
+    }
+  ],
+  "headToHead": "Chiefs have won six of their last seven encounters against the Raiders.",
+  "tags": [
+    "nfl",
+    "chiefs",
+    "raiders",
+    "week4"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 4,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1884578/pexels-photo-1884578.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "NFL Week 4 · AFC West",
+  "resultSummary": "FINAL: Chiefs 30, Raiders 27. Kansas City moves to 4-0.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ESPN NFL scoreboard Week 4",
+      "url": "https://www.espn.com/nfl/scoreboard/_/week/4/year/2026/seasontype/2"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 27,
+  "awayScore": 30,
+  "slug": "chiefs-at-raiders-week4-2026",
+  "headline": "Chiefs 30, Raiders 27: Kansas City rallies late to stay unbeaten at 4-0",
+  "whyCareScore": 9.0,
+  "whyCareReason": "Mahomes leads a 4th-quarter comeback in Las Vegas as Chiefs join Minnesota as the only 4-0 teams in the NFL.",
+  "teaser": "Sunday 4 October, Allegiant Stadium. Chiefs 30, Raiders 27. Kansas City 4-0.",
+  "story": "Patrick Mahomes engineered a late fourth-quarter touchdown drive as the Kansas City Chiefs edged the Las Vegas Raiders 30-27 at Allegiant Stadium. The win moves the Chiefs to 4-0, standing alongside the Minnesota Vikings as the NFL's only undefeated squads through four weeks. Earlier in the late window, Minnesota ground out a 15-10 defensive battle over Miami to keep their perfect slate, while San Francisco defeated Denver 24-14 and Seattle topped the Chargers 30-23. On Sunday night, Carolina surprised Detroit 32-26 for their maiden win.",
+  "stakes": "AFC West leadership and preservation of a perfect 4-0 record.",
+  "rivalryAngle": "Historic AFC West rivalry produces another one-score finish in Las Vegas.",
+  "home": "Las Vegas Raiders",
+  "away": "Kansas City Chiefs",
+  "group": "AFC West",
+  "date": "2026-10-04",
+  "time": "16:25",
+  "venue": "Allegiant Stadium",
+  "city": "Las Vegas",
+  "status": "FINISHED",
+  "sport": "football",
+  "competition": "nfl-2026"
+}

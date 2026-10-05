@@ -1,26 +1,27 @@
 {
   "funFacts": [
-    "54-hole record, 190.",
-    "Ghim one back.",
-    "No winner printed."
+    "Maiden win in 100th start.",
+    "Tournament record 258 (-26).",
+    "Leaps to 51st in FedExCup Fall."
   ],
   "keyPlayers": [
     {
       "name": "Austin Smotherman",
       "team": "PGA Tour",
-      "hook": "63-62-65, 190, 23 under. Led by one after 54 holes."
+      "hook": "63-62-65-68, 258 (-26). First career PGA Tour victory."
     },
     {
       "name": "Doug Ghim",
       "team": "PGA Tour",
-      "hook": "65-62-64, 191, 22 under. Seeking a first win."
+      "hook": "65-62-64-69, 260 (-24). Runner-up finish."
     }
   ],
   "headToHead": "",
   "tags": [
     "golf",
     "bank-of-utah",
-    "smotherman"
+    "smotherman",
+    "pga-tour"
   ],
   "homeCode": null,
   "awayCode": null,
@@ -34,66 +35,70 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Bank of Utah · 54 holes",
-  "resultSummary": "Through 54 holes. Smotherman 190. No winner.",
+  "roundLabel": "Bank of Utah · Final Round",
+  "resultSummary": "FINAL: Austin Smotherman 258 (-26). Doug Ghim 260 (-24).",
   "leaderboard": [
     {
       "pos": "1",
       "name": "Austin Smotherman",
-      "score": "190 (-23)",
-      "note": "63-62-65"
+      "score": "258 (-26)",
+      "note": "63-62-65-68 · Maiden PGA Tour win"
     },
     {
       "pos": "2",
       "name": "Doug Ghim",
-      "score": "191 (-22)",
-      "note": "65-62-64"
+      "score": "260 (-24)",
+      "note": "65-62-64-69 · Runner-up"
     },
     {
       "pos": "T3",
       "name": "Trace Crowe",
-      "score": "195 (-18)",
-      "note": "66-65-64"
-    },
-    {
-      "pos": "T3",
-      "name": "Ben James",
-      "score": "195 (-18)",
-      "note": "65-66-64"
+      "score": "265 (-19)",
+      "note": "66-65-64-70"
     },
     {
       "pos": "T3",
       "name": "Kevin Streelman",
-      "score": "195 (-18)",
-      "note": "63-64-68"
+      "score": "265 (-19)",
+      "note": "63-64-68-70"
+    },
+    {
+      "pos": "5",
+      "name": "Ben James",
+      "score": "266 (-18)",
+      "note": "65-66-64-71"
     }
   ],
   "tennisSets": [],
   "sources": [
     {
-      "name": "PGA Tour / AP round 2",
-      "url": "https://www.pgatour.com/article/news/daily-wrapup/2026/10/02/round-two-bank-of-utah-championship-black-desert-resort-storylines-fedexcup-fall-scores-leaderboard-results-jackson-koivun-tony-finau"
+      "name": "PGA Tour wrap",
+      "url": "https://www.pgatour.com/article/news/daily-wrapup/2026/10/04/austin-smotherman-wins-bank-of-utah-championship-black-desert-resort"
+    },
+    {
+      "name": "Field Level Media",
+      "url": "https://fieldlevelmedia.com/golf/pga/smotherman-claims-maiden-pga-tour-win-in-utah"
     }
   ],
   "format": "leaderboard",
   "homeScore": null,
   "awayScore": null,
   "slug": "bank-of-utah-championship-2026",
-  "headline": "Smotherman led by one at 23 under after 54 holes. No winner.",
-  "whyCareScore": 8.4,
-  "whyCareReason": "63-62-65 for 190, a 54-hole scoring record. The final round is under way and this card does not crown a winner.",
-  "teaser": "PGA and AP: Smotherman 190, Ghim 191, Crowe, James and Streelman 195.",
-  "story": "Through 54 holes at Black Desert Resort, Ivins, par 71, Austin Smotherman led the Bank of Utah Championship by one at 23 under, 63-62-65, 190. That is the 54-hole scoring record. The previous mark was 194, Matt McCarty in 2024. It was his 100th PGA Tour start and he is still seeking a first win, after a 12-foot birdie on 18. Doug Ghim shot 65-62-64, 191, 22 under, also seeking a first win on his 192nd start. Tied third at 195: Trace Crowe 66-65-64, Ben James 65-66-64, Kevin Streelman 63-64-68. The purse is $6,000,000. The final round was in progress when this desk closed. Moving Sunday numbers are not printed.",
-  "stakes": "A first PGA Tour win is still unclaimed on this page.",
-  "rivalryAngle": "100th start, one shot clear after 54, and the final round is not a result.",
+  "headline": "Smotherman shoots 26-under 258 to capture Bank of Utah Championship",
+  "whyCareScore": 9.1,
+  "whyCareReason": "In his 100th career start, Austin Smotherman wins his maiden PGA Tour victory by two shots with a tournament-record 258, jumping to 51st in FedExCup Fall standings.",
+  "teaser": "Smotherman 258 (-26) defeats Ghim (260) by two shots for maiden title in Utah.",
+  "story": "Austin Smotherman closed with a 3-under 68 on Sunday at Black Desert Resort to capture his first career PGA Tour victory at the Bank of Utah Championship. Finishing with a tournament-record 26-under 258 (63-62-65-68), the 32-year-old won in his 100th career start by two strokes over runner-up Doug Ghim (65-62-64-69, 260). Smotherman set tournament scoring marks for 36 holes (125), 54 holes (190) and 72 holes (258). The victory lifts Smotherman from 79th to 51st in the FedExCup Fall standings, securing invitations to the 2027 AT&T Pebble Beach Pro-Am and Genesis Invitational.",
+  "stakes": "Maiden PGA Tour title and exemptions into 2027 signature events.",
+  "rivalryAngle": "Smotherman holds off Ghim on back nine to claim first victory on 100th Tour start.",
   "home": "Austin Smotherman",
   "away": "Doug Ghim",
   "group": "PGA",
   "date": "2026-10-05",
-  "time": "10:00",
+  "time": "16:00",
   "venue": "Black Desert Resort",
   "city": "Ivins",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "golf",
   "competition": "pga-2026"
 }

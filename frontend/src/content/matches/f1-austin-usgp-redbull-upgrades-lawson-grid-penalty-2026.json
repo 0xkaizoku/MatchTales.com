@@ -45,33 +45,39 @@
   "leaderboard": [
     {
       "pos": "1",
-      "name": "Max Verstappen",
-      "score": "331 pts",
-      "note": "Red Bull Racing · Drivers Leader"
+      "name": "Kimi Antonelli",
+      "score": "320 pts",
+      "note": "Mercedes · Drivers Leader"
     },
     {
       "pos": "2",
-      "name": "Lando Norris",
-      "score": "279 pts",
-      "note": "McLaren · -52 pts"
+      "name": "George Russell",
+      "score": "236 pts",
+      "note": "Mercedes · -84 pts"
     },
     {
       "pos": "3",
-      "name": "Charles Leclerc",
-      "score": "245 pts",
-      "note": "Ferrari · P3"
+      "name": "Lewis Hamilton",
+      "score": "214 pts",
+      "note": "Ferrari · -106 pts"
     },
     {
       "pos": "4",
-      "name": "Oscar Piastri",
-      "score": "237 pts",
-      "note": "McLaren · P4"
+      "name": "Charles Leclerc",
+      "score": "191 pts",
+      "note": "Ferrari · -129 pts"
     },
     {
       "pos": "5",
-      "name": "Carlos Sainz",
-      "score": "190 pts",
-      "note": "Ferrari · P5"
+      "name": "Lando Norris",
+      "score": "188 pts",
+      "note": "McLaren · -132 pts"
+    },
+    {
+      "pos": "6",
+      "name": "Max Verstappen",
+      "score": "188 pts",
+      "note": "Red Bull · Sepang winner"
     }
   ],
   "tennisSets": [],

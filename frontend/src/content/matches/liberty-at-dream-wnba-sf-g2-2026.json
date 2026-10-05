@@ -1,0 +1,73 @@
+{
+  "funFacts": [
+    "Dream lead best-of-five series 1-0.",
+    "Atlanta won Game 1 92-82 with a 32-15 third quarter.",
+    "Game 2 takes place Wednesday 7 October."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Jordin Canada",
+      "team": "Dream",
+      "hook": "Scored 25 points with 20 in the second half and 5 steals in Game 1."
+    },
+    {
+      "name": "Sabrina Ionescu",
+      "team": "Liberty",
+      "hook": "Scored 27 points in Game 1 defeat, leading New York's response."
+    }
+  ],
+  "headToHead": "Dream lead 2026 postseason series 1-0 following 92-82 triumph.",
+  "tags": [
+    "wnba",
+    "dream",
+    "liberty",
+    "semifinals"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/2385479/pexels-photo-2385479.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "WNBA Semifinals · Game 2",
+  "resultSummary": "UPCOMING: Liberty at Dream · Game 2 (Atlanta leads 1-0)",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ESPN Dream vs Liberty Game 2 preview",
+      "url": "https://www.espn.com/wnba/game/_/gameId/401918297/liberty-dream"
+    },
+    {
+      "name": "WNBA Playoffs Hub",
+      "url": "https://www.wnba.com/playoffs/2026"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "liberty-at-dream-wnba-sf-g2-2026",
+  "headline": "WNBA Semifinals Game 2: Liberty fight to level series against surging Dream",
+  "whyCareScore": 9.2,
+  "whyCareReason": "Atlanta lead 1-0 after Game 1 upset; defending finalist Liberty fight to avoid an insurmountable 0-2 deficit.",
+  "teaser": "Wednesday 7 October, Gateway Center Arena. Atlanta look for 2-0 command.",
+  "story": "The Atlanta Dream host the New York Liberty in Game 2 of their best-of-five WNBA Semifinal on Wednesday night at Gateway Center Arena. Atlanta snatched home-court advantage in Game 1 with a 92-82 win, driven by Jordin Canada's 25 points (20 in the second half) and 5 steals, alongside DeWanna Bonner's 23 points. New York, despite 27 points from Sabrina Ionescu and 19 from Breanna Stewart, was outscored 32-15 in a decisive third quarter. Out west, the Golden State Valkyries also carry a 1-0 lead over the Las Vegas Aces heading into Wednesday's Game 2 in San Francisco.",
+  "stakes": "Series momentum. Atlanta seek 2-0 command; New York battle for home-court split.",
+  "rivalryAngle": "Underdog fourth-seed Dream seek to push last year's finalists to the brink.",
+  "home": "Atlanta Dream",
+  "away": "New York Liberty",
+  "group": "SF",
+  "date": "2026-10-07",
+  "time": "19:00",
+  "venue": "Gateway Center Arena",
+  "city": "College Park",
+  "status": "UPCOMING",
+  "sport": "basketball",
+  "competition": "wnba-2026"
+}

@@ -1,0 +1,73 @@
+{
+  "funFacts": [
+    "Germany held to scoreless stalemate.",
+    "Germany sit third in Group A2 on 5 points.",
+    "Portugal already secured quarterfinal berth in Group A4."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Florian Wirtz",
+      "team": "Germany",
+      "hook": "Created five chances but could not break down resilient Greek low block."
+    },
+    {
+      "name": "Odysseas Vlachodimos",
+      "team": "Greece",
+      "hook": "Six vital saves in Munich to secure a crucial away point."
+    }
+  ],
+  "headToHead": "Germany remain unbeaten against Greece in all competitive fixtures.",
+  "tags": [
+    "soccer",
+    "nations-league",
+    "germany",
+    "greece"
+  ],
+  "homeCode": "de",
+  "awayCode": "gr",
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 3,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/114296/pexels-photo-114296.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "UEFA Nations League · Group A2",
+  "resultSummary": "FINAL: Germany 0, Greece 0. Points shared in Group A2.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Straits Times",
+      "url": "https://www.straitstimes.com/sport/football/germany-held-to-0-0-draw-by-greece-in-nations-league"
+    },
+    {
+      "name": "UEFA Nations League Group A2",
+      "url": "https://www.uefa.com/uefanationsleague/match/germany-greece-2026"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 0,
+  "awayScore": 0,
+  "slug": "germany-vs-greece-nations-league-2026",
+  "headline": "Germany held to 0-0 draw by Greece in Nations League Group A2",
+  "whyCareScore": 8.6,
+  "whyCareReason": "Germany miss chance to leap into top two of Group A2 as Greek rearguard holds firm; Nagelsmann's side sits third with five points.",
+  "teaser": "Munich stalemate: Germany 0-0 Greece. Germany sit third in Group A2.",
+  "story": "Germany were held to a frustrating 0-0 draw by Greece in UEFA Nations League Group A2, leaving Julian Nagelsmann's side third in the group with five points from three fixtures. Despite monopolizing possession and testing the Greek defense through Florian Wirtz and Jamal Musiala, the hosts were repeatedly denied by goalkeeper Odysseas Vlachodimos. Elsewhere in the international window, Portugal confirmed their place in the quarterfinals with a 2-1 victory over Norway, while England's 7-0 rout of Croatia and Spain's 3-1 win over Czechia remain firm in the record books. The Premier League stays frozen until 10 October.",
+  "stakes": "Group A2 positioning for a place in next year's Nations League finals.",
+  "rivalryAngle": "Greek disciplined defensive structure stifles four-time world champions.",
+  "home": "Germany",
+  "away": "Greece",
+  "group": "A2",
+  "date": "2026-10-04",
+  "time": "20:45",
+  "venue": "Allianz Arena",
+  "city": "Munich",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "nations-league-2026"
+}
