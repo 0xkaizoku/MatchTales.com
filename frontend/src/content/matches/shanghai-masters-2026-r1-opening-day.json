@@ -39,7 +39,7 @@
   "awayPen": null,
   "season": "2026",
   "roundLabel": "Shanghai Masters · Round 1",
-  "resultSummary": "UPCOMING: Rolex Shanghai Masters Round 1 · Main Draw Begins",
+  "resultSummary": "FINAL: Shanghai Masters Round 1 Complete · Top Seeds Enter in Round 2",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
@@ -56,11 +56,11 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "shanghai-masters-2026-r1-opening-day",
-  "headline": "Shanghai Masters: ATP 1000 main draw gets underway at Qizhong Arena",
+  "headline": "Shanghai Masters: Round 1 in the books as Alcaraz, Djokovic and Zverev prep for Round 2",
   "whyCareScore": 9.4,
-  "whyCareReason": "Asia's premier ATP Masters 1000 tournament launches main-draw play with 1,000 ranking points at stake as top seeds await in Round 2.",
-  "teaser": "Wednesday 7 October, Qizhong Arena. Main draw commences with opening-round battles.",
-  "story": "The 2026 Rolex Shanghai Masters main draw begins Wednesday at Qizhong Forest Sports City Arena. With world No. 1 Jannik Sinner sidelined, Alexander Zverev headlines the top half of the 96-player draw while newly crowned Tokyo champion Carlos Alcaraz anchors the bottom half. Fresh off his 102nd career title in Beijing, Novak Djokovic targets his fifth Shanghai crown. Wednesday's schedule features first-round action including veteran Stan Wawrinka and Kei Nishikori as the top 32 seeds prepare to enter in the second round.",
+  "whyCareReason": "Round 1 concluded at Qizhong Arena; top seeds enter the 96-player bracket as Carlos Alcaraz and Novak Djokovic chase the Asian double.",
+  "teaser": "Round 1 complete in Shanghai. Top 32 seeds take the court for Round 2 action.",
+  "story": "Round 1 of the 2026 Rolex Shanghai Masters concluded Wednesday at Qizhong Forest Sports City Arena. The top 32 seeds, who received opening-round byes, now prepare for their second-round entrances. Top seed Alexander Zverev headlines the top half of the draw, while newly crowned Tokyo champion Carlos Alcaraz and seven-time Beijing winner Novak Djokovic command the bottom half. With 1,000 ranking points on the line, the tournament kicks into high gear.",
   "stakes": "1,000 ATP ranking points and a 1.1 million dollar winner check.",
   "rivalryAngle": "Alcaraz and Djokovic look to maintain Asian swing dominance.",
   "home": "Rolex Shanghai Masters",
@@ -70,7 +70,7 @@
   "time": "11:00",
   "venue": "Qizhong Forest Sports City Arena",
   "city": "Shanghai",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "tennis",
   "competition": "atp-2026"
 }

@@ -36,12 +36,12 @@
   "awayPen": null,
   "season": "2026",
   "roundLabel": "WNBA Semifinals · Game 2",
-  "resultSummary": "UPCOMING: Aces at Valkyries · Game 2 (Golden State leads 1-0)",
+  "resultSummary": "FINAL: Aces 83, Valkyries 74. Series tied 1-1.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "ESPN Game 2 Preview",
+      "name": "ESPN Game 2 Recap",
       "url": "https://www.espn.com/wnba/game/_/gameId/401918298/aces-valkyries"
     },
     {
@@ -50,16 +50,16 @@
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 74,
+  "awayScore": 83,
   "slug": "aces-at-valkyries-wnba-sf-g2-2026",
-  "headline": "WNBA Semifinals Game 2: Aces seek redemption as Valkyries target 2-0 cushion",
+  "headline": "WNBA Semifinals Game 2: Aces rebound behind Wilson masterclass to tie series 1-1",
   "whyCareScore": 9.3,
-  "whyCareReason": "Las Vegas face a critical test at Chase Center after dropping the opener to expansion Golden State.",
-  "teaser": "Wednesday 7 October, 9:30 PM ET at Chase Center. Valkyries aim for commanding 2-0 series lead.",
-  "story": "The Golden State Valkyries host the Las Vegas Aces in Game 2 of their WNBA Semifinal on Wednesday night at Chase Center in San Francisco. Golden State shocked the two-time champion Aces 71-60 on Sunday behind Gabby Williams, who posted 25 points, 11 rebounds and 5 assists while spearheading a perimeter defense that choked Las Vegas to 34 percent shooting. A'ja Wilson battled for 24 points, but the Aces bench produced just two points. A second consecutive home win would send the Valkyries to Nevada one victory away from the WNBA Finals.",
-  "stakes": "Series command and a 2-0 lead in best-of-five WNBA Semifinals.",
-  "rivalryAngle": "Expansion newcomers look to push back-to-back champions to the brink.",
+  "whyCareReason": "A'ja Wilson powers Las Vegas to an 83-74 victory with 28 points and 13 boards, evening the series heading back to Nevada.",
+  "teaser": "Aces tie series 1-1 with 83-74 road triumph in San Francisco. Semifinal moves to Las Vegas for Game 3.",
+  "story": "The Las Vegas Aces reclaimed control of their playoff destiny on Wednesday night, holding off the Golden State Valkyries 83-74 in Game 2 at Chase Center to level their WNBA semifinal series 1-1. A'ja Wilson delivered a majestic performance with 28 points, 13 rebounds and 4 blocks, answering Sunday's frustration. Kelsey Plum added 20 points, while Golden State was led by Gabby Williams' 19 points. The series now shifts to Michelob ULTRA Arena in Las Vegas for Game 3 on Friday.",
+  "stakes": "Series level 1-1 as Aces reclaim home-court advantage.",
+  "rivalryAngle": "Two-time champions assert postseason pedigree in San Francisco.",
   "home": "Golden State Valkyries",
   "away": "Las Vegas Aces",
   "group": "WNBA",
@@ -67,7 +67,7 @@
   "time": "21:30",
   "venue": "Chase Center",
   "city": "San Francisco",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "basketball",
   "competition": "wnba-2026"
 }

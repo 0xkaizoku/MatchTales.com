@@ -25,6 +25,7 @@ const TEAMS: Record<string, Partial<Record<Locale, string>>> = {
   Haiti: { fr: 'Haïti', es: 'Haití', de: 'Haiti', it: 'Haiti', pl: 'Haiti', zh: '海地', ja: 'ハイチ', ko: '아이티', ar: 'هايتي' },
   Iran: { fr: 'Iran', es: 'Irán', de: 'Iran', it: 'Iran', pl: 'Iran', zh: '伊朗', ja: 'イラン', ko: '이란', ar: 'إيران' },
   Iraq: { fr: 'Irak', es: 'Irak', de: 'Irak', it: 'Iraq', pl: 'Irak', zh: '伊拉克', ja: 'イラク', ko: '이라크', ar: 'العراق' },
+  Italy: { fr: 'Italie', es: 'Italia', de: 'Italien', it: 'Italia', pl: 'Włochy', zh: '意大利', ja: 'イタリア', ko: '이탈리아', ar: 'إيطاليا' },
   'Ivory Coast': { fr: "Côte d'Ivoire", es: 'Costa de Marfil', de: 'Elfenbeinküste', it: "Costa d'Avorio", pl: 'Wybrzeże Kości Słoniowej', zh: '科特迪瓦', ja: 'コートジボワール', ko: '코트디부아르', ar: 'ساحل العاج' },
   Japan: { fr: 'Japon', es: 'Japón', de: 'Japan', it: 'Giappone', pl: 'Japonia', zh: '日本', ja: '日本', ko: '일본', ar: 'اليابان' },
   Jordan: { fr: 'Jordanie', es: 'Jordania', de: 'Jordanien', it: 'Giordania', pl: 'Jordania', zh: '约旦', ja: 'ヨルダン', ko: '요르단', ar: 'الأردن' },
@@ -122,6 +123,8 @@ const TEAMS: Record<string, Partial<Record<Locale, string>>> = {
   Packers: { fr: 'Packers', es: 'Packers', de: 'Packers', it: 'Packers', pl: 'Packers', zh: '包装工', ja: 'パッカーズ', ko: '패커스', ar: 'باكرز' },
   'Atlanta Falcons': { fr: 'Atlanta Falcons', es: 'Atlanta Falcons', de: 'Atlanta Falcons', it: 'Atlanta Falcons', pl: 'Atlanta Falcons', zh: '亚特兰大猎鹰', ja: 'アトランタ・ファルコンズ', ko: '애틀랜타 팰컨스', ar: 'أتلانتا فالكونز' },
   Falcons: { fr: 'Falcons', es: 'Falcons', de: 'Falcons', it: 'Falcons', pl: 'Falcons', zh: '猎鹰', ja: 'ファルコンズ', ko: '팰컨스', ar: 'فالكونز' },
+  'Tampa Bay Buccaneers': { fr: 'Tampa Bay Buccaneers', es: 'Tampa Bay Buccaneers', de: 'Tampa Bay Buccaneers', it: 'Tampa Bay Buccaneers', pl: 'Tampa Bay Buccaneers', zh: '坦帕湾海盗', ja: 'タンパベイ・バッカニアーズ', ko: '탬파베이 버커니어스', ar: 'تامبا باي بوكانيرز' },
+  Buccaneers: { fr: 'Buccaneers', es: 'Buccaneers', de: 'Buccaneers', it: 'Buccaneers', pl: 'Buccaneers', zh: '海盗', ja: 'バッカニアーズ', ko: '버커니어스', ar: 'بوكانيرز' },
   'Bayern Munich': { fr: 'Bayern Munich', es: 'Bayern Múnich', de: 'FC Bayern München', it: 'Bayern Monaco', pl: 'Bayern Monachium', zh: '拜仁慕尼黑', ja: 'バイエルン・ミュンヘン', ko: '바이에른 뮌헨', ar: 'بايرن ميونخ' },
   Bayern: { fr: 'Bayern', es: 'Bayern', de: 'FC Bayern', it: 'Bayern', pl: 'Bayern', zh: '拜仁', ja: 'バイエルン', ko: '바이에른', ar: 'البايرن' },
   'International Team': { fr: 'International', es: 'Internacional', de: 'International', it: 'Internazionale', pl: 'Międzynarodowa', zh: '国际队', ja: 'インターナショナル', ko: '인터내셔널', ar: 'الدولي' },
@@ -198,6 +201,12 @@ const PLACES: Record<string, Partial<Record<Locale, string>>> = {
   Singapore: { fr: 'Singapour', es: 'Singapur', de: 'Singapur', it: 'Singapore', pl: 'Singapur', zh: '新加坡', ja: 'シンガポール', ko: '싱가포르', ar: 'سنغافورة' },
   'Santa Clara': { zh: '圣克拉拉', ja: 'サンタクララ', ko: '산타클라라', ar: 'سانتا كلارا' },
   "Levi's Stadium": { zh: '李维斯体育场', ja: 'リーバイス・スタジアム', ko: '리바이스 스타디움', ar: 'ملعب ليفايز' },
+  'Raymond James Stadium': { zh: '雷蒙德·詹姆斯体育场', ja: 'レイモンド・ジェームス・スタジアム', ko: '레이먼드 제임스 스타디움', ar: 'ملعب ريموند جيمس' },
+  Tampa: { zh: '坦帕', ja: 'タンパ', ko: '탬파', ar: 'تامبا' },
+  Rome: { fr: 'Rome', es: 'Roma', de: 'Rom', it: 'Roma', pl: 'Rzym', zh: '罗马', ja: 'ローマ', ko: '로마', ar: 'روما' },
+  'Stadio Olimpico': { zh: '罗马奥林匹克体育场', ja: 'スタディオ・オリンピコ', ko: '스타디오 올림피코', ar: 'ملعب أولمبيكو' },
+  Yokohama: { zh: '横滨', ja: '横浜', ko: '요코하마', ar: 'يوكوهاما' },
+  'Yokohama Country Club': { zh: '横滨乡村俱乐部', ja: '横浜カントリークラブ', ko: '요코하마 컨트리 클럽', ar: 'نادي يوكوهاما الريفي' },
 };
 
 const COMPETITIONS: Record<string, Partial<Record<Locale, string>>> = {
@@ -355,6 +364,39 @@ const COMPETITIONS: Record<string, Partial<Record<Locale, string>>> = {
     ko: '2026-27 UEFA 챔피언스리그',
     ar: 'دوري أبطال أوروبا 2026-27',
   },
+  'nations-league-2026-27': {
+    fr: 'Ligue des nations 2026-27',
+    es: 'UEFA Nations League 2026-27',
+    de: 'UEFA Nations League 2026/27',
+    it: 'UEFA Nations League 2026-27',
+    pl: 'Liga Narodów UEFA 2026/27',
+    zh: '2026-27赛季欧洲国家联赛',
+    ja: 'UEFAネーションズリーグ 2026-27',
+    ko: '2026-27 UEFA 네이션스리그',
+    ar: 'دوري الأمم الأوروبية 2026-27',
+  },
+  'UEFA Nations League': {
+    fr: 'Ligue des nations',
+    es: 'UEFA Nations League',
+    de: 'UEFA Nations League',
+    it: 'UEFA Nations League',
+    pl: 'Liga Narodów UEFA',
+    zh: '欧洲国家联赛',
+    ja: 'UEFAネーションズリーグ',
+    ko: 'UEFA 네이션스리그',
+    ar: 'دوري الأمم الأوروبية',
+  },
+  'shanghai-masters-2026': {
+    fr: 'Masters de Shanghai 2026',
+    es: 'Masters de Shanghái 2026',
+    de: 'Shanghai Masters 2026',
+    it: 'Shanghai Masters 2026',
+    pl: 'Shanghai Masters 2026',
+    zh: '2026上海劳力士大师赛',
+    ja: '2026上海マスターズ',
+    ko: '2026 상하이 마스터스',
+    ar: 'بطولة شنغهاي للأساتذة 2026',
+  },
 };
 
 export function entityName(name: string | null | undefined, locale: Locale): string {
@@ -378,6 +420,8 @@ export function competitionName(competition: string | null | undefined, locale: 
     if (competition === 'f1-2026') return 'Formula 1';
     if (competition === 'wnba-2026') return 'WNBA';
     if (competition === 'uwcl-2026') return "Women's Champions League";
+    if (competition === 'nations-league-2026-27' || competition === 'UEFA Nations League') return 'UEFA Nations League';
+    if (competition === 'shanghai-masters-2026') return 'Shanghai Masters';
     return competition;
   }
   const key = competition.startsWith('premier-league') ? 'premier-league' : competition;

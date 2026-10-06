@@ -215,6 +215,8 @@ const flagCodeMap: Record<string, string> = {
   TUN: 'tn',
   SWE: 'se',
   BEL: 'be',
+  ITA: 'it',
+  GRE: 'gr',
   EGY: 'eg',
   IRN: 'ir',
   NZL: 'nz',
