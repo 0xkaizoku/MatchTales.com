@@ -1,0 +1,73 @@
+{
+  "funFacts": [
+    "Golden State Valkyries lead 1-0 in best-of-five series.",
+    "Gabby Williams logged 25 points, 11 rebounds, 5 assists in Game 1.",
+    "Aces held to season-low 60 points in opening loss."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Gabby Williams",
+      "team": "Golden State Valkyries",
+      "hook": "Dominated Game 1 at Chase Center with 25 points and 11 boards."
+    },
+    {
+      "name": "A'ja Wilson",
+      "team": "Las Vegas Aces",
+      "hook": "Scored 24 points in opener, seeking offensive rhythm in Game 2."
+    }
+  ],
+  "headToHead": "Valkyries lead 2026 postseason series 1-0 after 71-60 Game 1 victory.",
+  "tags": [
+    "wnba",
+    "aces",
+    "valkyries",
+    "semifinals"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/976873/pexels-photo-270084.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "WNBA Semifinals · Game 2",
+  "resultSummary": "UPCOMING: Aces at Valkyries · Game 2 (Golden State leads 1-0)",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ESPN Game 2 Preview",
+      "url": "https://www.espn.com/wnba/game/_/gameId/401918298/aces-valkyries"
+    },
+    {
+      "name": "WNBA Playoffs Hub",
+      "url": "https://www.wnba.com/playoffs/2026"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "aces-at-valkyries-wnba-sf-g2-2026",
+  "headline": "WNBA Semifinals Game 2: Aces seek redemption as Valkyries target 2-0 cushion",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Las Vegas face a critical test at Chase Center after dropping the opener to expansion Golden State.",
+  "teaser": "Wednesday 7 October, 9:30 PM ET at Chase Center. Valkyries aim for commanding 2-0 series lead.",
+  "story": "The Golden State Valkyries host the Las Vegas Aces in Game 2 of their WNBA Semifinal on Wednesday night at Chase Center in San Francisco. Golden State shocked the two-time champion Aces 71-60 on Sunday behind Gabby Williams, who posted 25 points, 11 rebounds and 5 assists while spearheading a perimeter defense that choked Las Vegas to 34 percent shooting. A'ja Wilson battled for 24 points, but the Aces bench produced just two points. A second consecutive home win would send the Valkyries to Nevada one victory away from the WNBA Finals.",
+  "stakes": "Series command and a 2-0 lead in best-of-five WNBA Semifinals.",
+  "rivalryAngle": "Expansion newcomers look to push back-to-back champions to the brink.",
+  "home": "Golden State Valkyries",
+  "away": "Las Vegas Aces",
+  "group": "WNBA",
+  "date": "2026-10-07",
+  "time": "21:30",
+  "venue": "Chase Center",
+  "city": "San Francisco",
+  "status": "UPCOMING",
+  "sport": "basketball",
+  "competition": "wnba-2026"
+}

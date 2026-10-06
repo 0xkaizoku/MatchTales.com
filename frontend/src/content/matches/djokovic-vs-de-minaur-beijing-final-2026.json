@@ -37,9 +37,18 @@
   "awayPen": null,
   "season": "2026",
   "roundLabel": "China Open · Final",
-  "resultSummary": "UPCOMING: Novak Djokovic vs Alex de Minaur · Beijing Final",
+  "resultSummary": "FINAL: Novak Djokovic def. Alex de Minaur 7-6(3), 0-1 ret. · 7th China Open Crown",
   "leaderboard": [],
-  "tennisSets": [],
+  "tennisSets": [
+    {
+      "p1": "7",
+      "p2": "6"
+    },
+    {
+      "p1": "0",
+      "p2": "1"
+    }
+  ],
   "sources": [
     {
       "name": "ATP Beijing results",
@@ -51,16 +60,16 @@
     }
   ],
   "format": "singles",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 1,
+  "awayScore": 0,
   "slug": "djokovic-vs-de-minaur-beijing-final-2026",
-  "headline": "China Open Final: Djokovic battles De Minaur for Beijing title",
+  "headline": "China Open Final: Djokovic captures 7th Beijing title as De Minaur retires",
   "whyCareScore": 9.3,
-  "whyCareReason": "Djokovic targets 33rd consecutive win in Beijing after dramatic semifinal default; De Minaur aims to deny the Serb his 7th China Open title.",
-  "teaser": "Tuesday 6 October, Diamond Court. Djokovic takes on De Minaur for ATP 500 crown.",
-  "story": "Novak Djokovic and Alex de Minaur meet on Tuesday in the final of the 2026 China Open at Beijing's National Tennis Center. Djokovic reached the final after Daniil Medvedev was disqualified during their semifinal when an errant ball struck a spectator at 7-5, 5-3 (15-15). De Minaur advanced when Hubert Hurkacz retired trailing 6-4, 3-2. Concurrently in Tokyo, Carlos Alcaraz overcame Jaume Munar 5-7, 6-3, 6-1 to book a Japan Open final clash against Jiri Lehecka. Top stars will head directly to the Shanghai Masters following Tuesday's finals.",
+  "whyCareReason": "Djokovic wins his 7th China Open and 102nd career ATP title; De Minaur forced to retire with a groin injury in the second set.",
+  "teaser": "Djokovic claims 33rd career win in Beijing (7-6, 0-1 ret.) to lift trophy before heading to Shanghai.",
+  "story": "Novak Djokovic captured his seventh China Open title on Tuesday when Alex de Minaur was forced to retire with a groin strain trailing 7-6(3), 0-1 at Beijing's National Tennis Center. The victory extends Djokovic's spotless career record in Beijing to 33-0 and delivers his 102nd career ATP singles trophy. Simultaneously at the Japan Open in Tokyo, Carlos Alcaraz defended his title with a 7-6(4), 6-4 win over Jiri Lehecka, recording his 10th consecutive match victory. Both champions now head to the Rolex Shanghai Masters where main-draw play begins Wednesday.",
   "stakes": "ATP 500 trophy, 500 ranking points, and pristine Beijing record.",
-  "rivalryAngle": "De Minaur looks for marquee triumph against six-time champion Djokovic.",
+  "rivalryAngle": "Djokovic maintains unbeaten record in Beijing finals.",
   "home": "Novak Djokovic",
   "away": "Alex de Minaur",
   "group": "ATP",
@@ -68,7 +77,7 @@
   "time": "19:30",
   "venue": "National Tennis Center",
   "city": "Beijing",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "tennis",
   "competition": "atp-2026"
 }

@@ -107,7 +107,7 @@ export const ja: Messages = {
     view: '見る',
     archive: 'アーカイブ',
     rssLabel: 'RSS',
-    todayDesk: 'ポルトガル 2-1 ノルウェー。シティは5試合15点。',
+    todayDesk: 'ジョコビッチ・アルカラスV。今夜WNBA第2戦。',
     todayNfl: 'ペイトリオッツ 29、ビルズ 26。レイト枠は未確定。',
     todayTnf: '第4週の日曜最終は入った。レイト枠は未確定。',
   },

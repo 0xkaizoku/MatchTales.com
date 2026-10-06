@@ -1,0 +1,76 @@
+{
+  "funFacts": [
+    "Rolex Shanghai Masters main draw begins Wednesday 7 October.",
+    "Carlos Alcaraz arrives after winning 10th consecutive match in Tokyo.",
+    "Novak Djokovic heads to Shanghai after capturing 7th Beijing title."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Alexander Zverev",
+      "team": "ATP",
+      "hook": "Top seed in Shanghai main draw following Sinner withdrawal."
+    },
+    {
+      "name": "Stan Wawrinka",
+      "team": "ATP",
+      "hook": "Three-time Grand Slam champion takes the court in opening round."
+    }
+  ],
+  "headToHead": "Main draw Round 1 gets underway at Qizhong Forest Sports City Arena.",
+  "tags": [
+    "tennis",
+    "atp",
+    "shanghai-masters",
+    "atp-1000",
+    "alcaraz",
+    "djokovic",
+    "zverev"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/270084/pexels-photo-270084.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Shanghai Masters · Round 1",
+  "resultSummary": "UPCOMING: Rolex Shanghai Masters Round 1 · Main Draw Begins",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ATP Tour Shanghai draw",
+      "url": "https://www.atptour.com/en/tournaments/shanghai/5014/overview"
+    },
+    {
+      "name": "Rolex Shanghai Masters official site",
+      "url": "https://www.rolexshanghaimasters.com"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "shanghai-masters-2026-r1-opening-day",
+  "headline": "Shanghai Masters: ATP 1000 main draw gets underway at Qizhong Arena",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Asia's premier ATP Masters 1000 tournament launches main-draw play with 1,000 ranking points at stake as top seeds await in Round 2.",
+  "teaser": "Wednesday 7 October, Qizhong Arena. Main draw commences with opening-round battles.",
+  "story": "The 2026 Rolex Shanghai Masters main draw begins Wednesday at Qizhong Forest Sports City Arena. With world No. 1 Jannik Sinner sidelined, Alexander Zverev headlines the top half of the 96-player draw while newly crowned Tokyo champion Carlos Alcaraz anchors the bottom half. Fresh off his 102nd career title in Beijing, Novak Djokovic targets his fifth Shanghai crown. Wednesday's schedule features first-round action including veteran Stan Wawrinka and Kei Nishikori as the top 32 seeds prepare to enter in the second round.",
+  "stakes": "1,000 ATP ranking points and a 1.1 million dollar winner check.",
+  "rivalryAngle": "Alcaraz and Djokovic look to maintain Asian swing dominance.",
+  "home": "Rolex Shanghai Masters",
+  "away": "Round 1 Action",
+  "group": "ATP",
+  "date": "2026-10-07",
+  "time": "11:00",
+  "venue": "Qizhong Forest Sports City Arena",
+  "city": "Shanghai",
+  "status": "UPCOMING",
+  "sport": "tennis",
+  "competition": "atp-2026"
+}

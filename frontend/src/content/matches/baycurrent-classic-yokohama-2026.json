@@ -1,0 +1,99 @@
+{
+  "funFacts": [
+    "PGA Tour FedExCup Fall heads to Yokohama Country Club in Japan.",
+    "Austin Smotherman vaulted from 79th to 51st following Utah victory (-26, 258).",
+    "Field competes for 500 FedExCup Fall points and Signature Event exemptions."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Doug Ghim",
+      "team": "USA",
+      "hook": "Runner-up at 24 under in Utah, seeking to finish the job in Japan."
+    },
+    {
+      "name": "Kevin Yu",
+      "team": "Taiwan",
+      "hook": "Contender aiming to secure top 60 FedExCup Fall status."
+    }
+  ],
+  "headToHead": "PGA Tour Fall Series travels to Japan for four rounds of stroke play.",
+  "tags": [
+    "golf",
+    "pga-tour",
+    "baycurrent-classic",
+    "fedexcup-fall",
+    "yokohama"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1325653/pexels-photo-1325653.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "PGA Tour · Baycurrent Classic",
+  "resultSummary": "UPCOMING: Baycurrent Classic · Yokohama Country Club Round 1",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Doug Ghim",
+      "score": "E",
+      "note": "R1 Thu · Opening group"
+    },
+    {
+      "pos": "2",
+      "name": "Kevin Yu",
+      "score": "E",
+      "note": "R1 Thu"
+    },
+    {
+      "pos": "3",
+      "name": "Trace Crowe",
+      "score": "E",
+      "note": "R1 Thu"
+    },
+    {
+      "pos": "4",
+      "name": "Kevin Streelman",
+      "score": "E",
+      "note": "R1 Thu"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "PGA Tour Baycurrent Classic overview",
+      "url": "https://www.pgatour.com/tournaments/2026/baycurrent-classic"
+    },
+    {
+      "name": "PGA Tour FedExCup Fall Standings",
+      "url": "https://www.pgatour.com/fedexcup/fall"
+    }
+  ],
+  "format": "leaderboard",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "baycurrent-classic-yokohama-2026",
+  "headline": "Baycurrent Classic: PGA Tour visits Yokohama as FedExCup Fall heats up",
+  "whyCareScore": 8.8,
+  "whyCareReason": "Fresh off Smotherman's Utah breakthrough, PGA Tour players battle for crucial top 60 FedExCup Fall positions at Yokohama Country Club.",
+  "teaser": "Thursday 8 October, Yokohama Country Club. 500 FedExCup points and 2027 exemptions up for grabs.",
+  "story": "The PGA Tour shifts across the Pacific for the Baycurrent Classic at Yokohama Country Club in Yokohama, Japan. Following Austin Smotherman's maiden PGA Tour victory at the Bank of Utah Championship, where he set a 72-hole scoring record of 258 (-26) to surge to 51st in FedExCup Fall points, the pressure is on players positioned between 51 and 60. Doug Ghim, runner-up in Utah at 24 under, headlines the field alongside Taiwan's Kevin Yu and Trace Crowe as tee times are finalized for Thursday's opening round.",
+  "stakes": "500 FedExCup Fall points and guaranteed starts in 2027 Signature Events.",
+  "rivalryAngle": "The sprint for top 60 positioning enters its final month.",
+  "home": "Baycurrent Classic",
+  "away": "PGA Tour Fall Series",
+  "group": "PGA Tour",
+  "date": "2026-10-08",
+  "time": "07:30",
+  "venue": "Yokohama Country Club",
+  "city": "Yokohama",
+  "status": "UPCOMING",
+  "sport": "golf",
+  "competition": "pga-tour-2026"
+}

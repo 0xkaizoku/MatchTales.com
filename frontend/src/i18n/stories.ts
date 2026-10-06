@@ -10247,4 +10247,556 @@ export const STORY_I18N: Record<string, LocMap> = {
     }
 },
 
+  'djokovic-alcaraz-titles-beijing-tokyo-shanghai-begins-2026': {
+    "fr": {
+        "title": "Djokovic et Alcaraz sacres a Pekin et Tokyo alors que debute Shanghai",
+        "subtitle": "Djokovic decroche un 102e trophee suite a l abandon de De Minaur. Alcaraz domine Lehecka pour un 10e succes de suite.",
+        "excerpt": "Novak Djokovic a decroche son 7e titre au tournoi de Pekin et Carlos Alcaraz a conserve sa couronne a Tokyo avant le coup d envoi du Masters 1000 de Shanghai.",
+        "body": [
+                "La tournee asiatique sur dur a couronne deux champions mardi avant de basculer vers le sud. A Pekin, Novak Djokovic a remporte son septieme titre du China Open et le 102e de sa carriere quand l Australien Alex de Minaur a abandonne touche a l aine (7-6, 0-1). Le Serbe reste invaincu en carriere au Centre national de tennis avec 33 victoires en 33 matches.",
+                "A Tokyo, Carlos Alcaraz a conserve sa couronne au Japan Open en battant le Tcheque Jiri Lehecka 7-6(4), 6-4. L Espagnol enchaine une dixieme victoire consecutive apres son parcours parfait a la Laver Cup, affirmant sa superiorite sur surface rapide. Les deux hommes ont rejoint Shanghai ou debute le tableau principal.",
+                "En l absence du numero un mondial Jannik Sinner, Alexander Zverev est tete de serie numero un a Shanghai tandis qu Alcaraz mene la partie basse. Les premiers tours debutent mercredi matin avec Stan Wawrinka et Kei Nishikori."
+        ]
+},
+    "es": {
+        "title": "Djokovic y Alcaraz conquistan Pekin y Tokio al arrancar Shanghai",
+        "subtitle": "Djokovic alza su titulo 102 tras retirada de De Minaur. Alcaraz supera a Lehecka para su decima victoria seguida.",
+        "excerpt": "Novak Djokovic se corono por septima vez en Pekin y Carlos Alcaraz revalido titulo en Tokio antes del inicio del cuadro principal del Masters 1000 de Shanghai.",
+        "body": [
+                "La gira asiatica corono a dos grandes campeones el martes antes de poner rumbo al sur. En Pekin, Novak Djokovic capturo su septimo China Open y el titulo 102 de su trayectoria cuando Alex de Minaur abandono con 7-6(3), 0-1 por problemas en la ingle. Djokovic estira su balance inmaculado en Pekin a 33 victorias sin derrota.",
+                "En Tokio, Carlos Alcaraz revalido su corona en el Japan Open superando a Jiri Lehecka por 7-6(4) y 6-4. Es el decimo triunfo consecutivo para el murciano, confirmando su gran nivel en pistas rapidas. Ambos campeones vuelan directos a Shanghai para el inicio del Masters 1000.",
+                "Sin Jannik Sinner en liza, Alexander Zverev figura como maximo favorito y Alcaraz encabeza la parte baja del cuadro. Los partidos de primera ronda arrancan el miercoles con Stan Wawrinka y Kei Nishikori en pista."
+        ]
+},
+    "de": {
+        "title": "Djokovic und Alcaraz triumphieren in Peking und Tokio vor Shanghai-Start",
+        "subtitle": "Djokovic sichert sich Titel Nummer 102 nach De Minaur-Aufgabe. Alcaraz feiert zehnten Sieg in Folge gegen Lehecka.",
+        "excerpt": "Novak Djokovic hat seinen siebten Peking-Titel geholt und Carlos Alcaraz hat in Tokio triumphiert, waehrend in Shanghai das Hauptfeld beginnt.",
+        "body": [
+                "Die asiatische Hartplatz-Tour kuerte am Dienstag zwei Champions. In Peking holte Novak Djokovic seinen siebten China-Open-Titel und die 102. ATP-Trophaee seiner Karriere, als Alex de Minaur beim Stand von 7-6(3), 0-1 wegen einer Leistenverletzung aufgeben musste. Djokovic bleibt in Peking mit 33 Siegen ungeschlagen.",
+                "In Tokio verteidigte Carlos Alcaraz seinen Titel bei den Japan Open durch ein 7-6(4), 6-4 ueber Jiri Lehecka. Fuer den Spanier war es der zehnte Matchgewinn in Serie. Beide Sieger reisen nun direkt nach Shanghai zum Start des Masters 1000.",
+                "Da Jannik Sinner pausiert, fuehrt Alexander Zverev die Setzliste an, waehrend Alcaraz die untere Tableauhaelfte anfuehrt. Die erste Runde startet am Mittwoch mit Stan Wawrinka und Kei Nishikori."
+        ]
+},
+    "it": {
+        "title": "Djokovic e Alcaraz regine a Pechino e Tokyo mentre scatta Shanghai",
+        "subtitle": "Djokovic firma il 102esimo titolo col ritiro di De Minaur. Alcaraz batte Lehecka per la decima vittoria consecutiva.",
+        "excerpt": "Novak Djokovic conquista il settimo sigillo a Pechino e Carlos Alcaraz concede il bis a Tokyo prima del via del tabellone principale di Shanghai.",
+        "body": [
+                "La trasferta asiatica ha incoronato due grandi campioni martedi prima di spostarsi a sud. A Pechino, Novak Djokovic ha conquistato il suo settimo China Open e il titolo ATP numero 102 dopo il ritiro di Alex de Minaur sul 7-6(3), 0-1 per infortunio all inguine. Il bilancio di Djokovic a Pechino sale a 33 vittorie e zero sconfitte.",
+                "A Tokyo, Carlos Alcaraz ha confermato il titolo del Japan Open piegando Jiri Lehecka per 7-6(4), 6-4. Per lo spagnolo e la decima vittoria di fila. Entrambi volano ora a Shanghai per il Masters 1000.",
+                "Con Jannik Sinner a riposo precauzionale, Alexander Zverev guida il seeding e Alcaraz presidia la meta bassa. Il primo turno parte mercoledi con Stan Wawrinka e Kei Nishikori."
+        ]
+},
+    "pl": {
+        "title": "Djokovic i Alcaraz triumfuja w Pekinie i Tokio, rusza turniej w Szanghaju",
+        "subtitle": "Djokovic zdobywa 102. tytul po kreczu De Minaura. Alcaraz pokonuje Lehecke i notuje dziesiate zwyciestwo z rzedu.",
+        "excerpt": "Novak Djokovic wygral po raz siodmy w Pekinie, a Carlos Alcaraz obronil tytul w Tokio przed startem turnieju glownego w Szanghaju.",
+        "body": [
+                "Azjatycka czesc sezonu przyniosla we wtorek dwa mistrzowskie tytuly. W Pekinie Novak Djokovic wywalczyl siodmy puchar China Open i 102. turniej w karierze, gdy Alex de Minaur skreczowal przy stanie 7-6(3), 0-1 z powodu urazu pachwiny. Serb zachowal perfekcyjny bilans 33-0 w stolicy Chin.",
+                "W Tokio Carlos Alcaraz obronil tytul w Japan Open, pokonujac Jiriego Lehecke 7-6(4), 6-4. To dziesiata kolejna wygrana Hiszpana. Obaj mistrzowie udali sie bezposrednio do Szanghaju na turniej Masters 1000.",
+                "Pod nieobecnosc Jannika Sinnera najwyzej rozstawiony jest Alexander Zverev, a dolna polowke otwiera Alcaraz. Runda pierwsza startuje w srode z udzialem Stana Wawrinki i Kei Nishikoriego."
+        ]
+},
+    "zh": {
+        "title": "德约科维奇与阿尔卡拉斯分获中网与东京冠军 上海大师赛正赛打响",
+        "subtitle": "德约科维奇收获生涯第102冠，阿尔卡拉斯击败莱赫奇卡豪取十连胜。",
+        "excerpt": "德约科维奇在中网第七次捧杯，阿尔卡拉斯成功卫冕东京公开赛，随后两人奔赴上海大师赛赛场。",
+        "body": [
+                "亚洲赛季在周二决出两项重量级冠军。在国家网球中心，德约科维奇在德米纳尔因腹股沟伤势于7-6(3)、0-1退赛后，第七次夺得中网冠军，这也是他职业生涯第102个单打冠军。德约科维奇在中网的战绩保持在骄人的33战全胜。",
+                "在东京有明竞技场，阿尔卡拉斯以7-6(4)、6-4战胜捷克名将莱赫奇卡成功卫冕，豪取各项赛事十连胜，展现出在硬地上的极强统治力。两位冠军随即启程前往上海参加大师赛。",
+                "随着世界第一辛纳因疲劳休整，兹维列夫成为上海头号种子，阿尔卡拉斯坐镇下半区。正赛首轮于周三在旗忠网球中心展开，瓦林卡与锦织圭等名将登场。"
+        ]
+},
+    "ja": {
+        "title": "ジョコビッチ北京V7・アルカラス東京連覇 上海マスターズ本戦が開幕",
+        "subtitle": "ジョコビッチは通算102勝目。アルカラスはレヘチカを下し10連勝を達成。",
+        "excerpt": "ノバク・ジョコビッチが北京で7度目の優勝を飾り、カルロス・アルカラスがジャパンオープンを連覇して上海マスターズへ臨む。",
+        "body": [
+                "アジアのハードコートシーズンは火曜日に2つのタイトルが決定した。北京のチャイナ・オープンでは、アレックス・デミノーが股関節の負傷により7-6(3)、0-1で途中棄権し、ノバク・ジョコビッチが通算7度目の優勝を果たした。これでツアー通算102勝目となり、北京での戦績は33勝0敗となった。",
+                "東京の有明コロシアムでは、カルロス・アルカラスがイジー・レヘチカを7-6(4)、6-4で退け大会連覇を達成。レーバーカップからの連勝を10に伸ばした。両者は直ちに上海へ移動し、マスターズ1000の戦いに臨む。",
+                "世界1位のヤニック・シナーが欠場する中、アレクサンダー・ズベレフが第1シード、アルカラスがボトムハーフの軸となる。水曜日の1回戦にはスタン・ワウリンカや錦織圭が登場する。"
+        ]
+},
+    "ko": {
+        "title": "조코비치 베이징 7회 우승・알카라스 도쿄 연패, 상하이 마스터스 개막",
+        "subtitle": "조코비치 통산 102번째 타이틀 달성. 알카라스 레헤치카 꺾고 10연승 질주.",
+        "excerpt": "노바크 조코비치가 베이징에서 7번째 우승을 차지하고 카를로스 알카라스가 도쿄 2연패를 달성한 뒤 상하이 마스터스 본선이 개막했다.",
+        "body": [
+                "아시아 하드코트 시리즈가 화요일 두 명의 챔피언을 탄생시켰다. 베이징 차이나 오픈 결승에서 노바크 조코비치는 알렉스 드 미노가 서혜부 부상으로 7-6(3), 0-1 기권하면서 대회 통산 7번째 우승과 개인 통산 102번째 ATP 타이틀을 획득했다. 조코비치의 베이징 통산 전적은 33승 무패가 되었다.",
+                "도쿄 아리아케 콜로세움에서는 카를로스 알카라스가 이르지 레헤치카를 7-6(4), 6-4로 제압하고 재팬 오픈 2연패를 달성하며 10연승을 달렸다. 두 선수는 곧바로 상하이 마스터스 1000 무대로 향한다.",
+                "세계 1위 야닉 시너가 휴식차 결장한 가운데 알렉산더 츠베레프가 톱시드, 알카라스가 하단 대진을 이끈다. 수요일 본선 1회전에는 스탄 바브린카와 니시코리 케이가 출전한다."
+        ]
+},
+    "ar": {
+        "title": "دجوكوفيتش وألكاراز يتوجان في بكين وطوكيو مع انطلاق بطولة شنغهاي",
+        "subtitle": "دجوكوفيتش يحصد لقبه الـ102 بعد انسحاب دي مينور، وألكاراز يهزم ليهيتشكا محققاً فوزه العاشر توالياً.",
+        "excerpt": "توج نوفاك دجوكوفيتش بلقبه السابع في بطولة الصين المفتوحة وحافظ كارلوس ألكاراز على لقبه في طوكيو قبل انطلاق بطولة شنغهاي للأساتذة.",
+        "body": [
+                "توجت الجولة الآسيوية بطلين بارزين يوم الثلاثاء قبل التوجه نحو شنغهاي. في بكين، أحرز نوفاك دجوكوفيتش لقبه السابع في بطولة الصين المفتوحة والـ102 في مسيرته بعد انسحاب الأسترالي أليكس دي مينور بسبب إصابة في الفخذ والنتيجة 7-6 و0-1. وعزز دجوكوفيتش سجله الخالي من الهزائم في بكين إلى 33 انتصاراً دون خسارة.",
+                "في طوكيو، احتفظ كارلوس ألكاراز بلقب بطولة اليابان المفتوحة بفوزه على التشيكي يري ليهيتشكا 7-6 و6-4، محققاً فوزه العاشر توالياً منذ كأس لافر. وتوجه النجمان مباشرة إلى شنغهاي لخوض غمار بطولة الأساتذة.",
+                "في ظل غياب المصنف الأول يانيك سينر، يقود ألكسندر زفيريف النصف العلوي بينما يتصدر ألكاراز النصف السفلي. وتنطلق مباريات الدور الأول يوم الأربعاء بمشاركة ستان فافرينكا وكي نيشيكوري."
+        ]
+},
+  },
+  'wnba-semifinals-game2-dream-valkyries-defend-leads-2026': {
+    "fr": {
+        "title": "WNBA Demi-finales Match 2: Le Dream et les Valkyries visent le 2-0 face aux favoris",
+        "subtitle": "Atlanta et Golden State defendent leur parquet ce soir. Le Liberty et les Aces en danger.",
+        "excerpt": "Apres leurs victoires surprises du Match 1, Atlanta et Golden State accueillent New York et Las Vegas avec l opportunite de creuser l ecart.",
+        "body": [
+                "Les demi-finales WNBA 2026 reprennent mercredi soir avec un programme double decisif pour le Match 2. A l Est, le Dream d Atlanta accueille le New York Liberty a la Gateway Center Arena. Atlanta a frappe fort lors du Match 1 (92-82) derriere les 25 points de Jordin Canada et l experience de DeWanna Bonner. New York doit imperativement reagir pour ne pas rentrer a Brooklyn menee 0-2.",
+                "A l Ouest, les Golden State Valkyries recoivent les Las Vegas Aces au Chase Center de San Francisco. L equipe d expansion a etouffe les double championnes en titre 71-60 grace a Gabby Williams (25 points, 11 rebonds). A'ja Wilson a inscrit 24 points mais le banc de Las Vegas n a produit que deux unites.",
+                "Dans une serie au meilleur des cinq manches, etre mene 0-2 constitue un handicap quasi insurmontable. Pour Atlanta et Golden State, quarante minutes d intensite ce soir ouvriraient grand les portes des Finales WNBA."
+        ]
+},
+    "es": {
+        "title": "WNBA Semifinales Juego 2: Dream y Valkyries buscan ponerse 2-0 frente a los gigantes",
+        "subtitle": "Atlanta y Golden State defienden su pista esta noche. Liberty y Aces afrontan salidas clave.",
+        "excerpt": "Tras dar la sorpresa en el Juego 1, Dream y Valkyries reciben a Liberty y Aces buscando una ventaja casi definitiva en las semifinales.",
+        "body": [
+                "Las semifinales de la WNBA regresan el miercoles por la noche con una cartelera doble de Juego 2 que puede marcar las series. En el Este, Atlanta Dream recibe a New York Liberty en el Gateway Center Arena tras vencer 92-82 en el primer duelo gracias a 25 puntos de Jordin Canada y 23 de DeWanna Bonner. Las vigentes finalistas necesitan el triunfo para evitar regresar a Nueva York con 0-2.",
+                "En el Oeste, las novatas Golden State Valkyries esperan a Las Vegas Aces en el Chase Center de San Francisco tras dejarlas en 60 puntos en el Juego 1 (71-60). Gabby Williams fue la gran protagonista con 25 puntos y 11 rebotes, limitando a A'ja Wilson y a un banquillo visitante sin acierto.",
+                "En series al mejor de cinco partidos, recuperarse de un 0-2 es una mision titanica. Atlanta y Golden State tienen la oportunidad de colocarse a un triunfo de una final historica."
+        ]
+},
+    "de": {
+        "title": "WNBA Halbfinale Spiel 2: Dream und Valkyries peilen 2-0 Fuehrung gegen Titelfavoriten an",
+        "subtitle": "Atlanta und Golden State verteidigen heute Heimvorteil. Liberty und Aces unter Zugzwang.",
+        "excerpt": "Nach den Auftakterfolgen wollen Atlanta Dream und die Golden State Valkyries am Mittwochabend die Serienfuehrung auf 2-0 ausbauen.",
+        "body": [
+                "Die WNBA-Playoffs 2026 gehen am Mittwochabend mit Spiel 2 beider Halbfinalserien weiter. Im Osten empfaengt Atlanta Dream die New York Liberty in der Gateway Center Arena nach dem 92-82-Erfolg im ersten Spiel, angefuehrt von Jordin Canada mit 25 Punkten. Die Liberty stehen unter Druck, um ein 0-2 vor der Rueckkehr nach Brooklyn abzuwenden.",
+                "Im Westen wollen die Golden State Valkyries im Chase Center von San Francisco gegen die Las Vegas Aces nachlegen. Das Expansionsteam gewann Spiel 1 mit 71-60 durch eine Defensivgala und 25 Punkte sowie 11 Rebounds von Gabby Williams. A'ja Wilson erzielte zwar 24 Punkte, fand aber von der Bank kaum Entlastung.",
+                "In einer Best-of-Five-Serie bedeutet ein 0-2 Rueckstand fast immer das Aus. Fuer die Underdogs Dream und Valkyries bietet sich heute die Chance, Geschichte zu schreiben."
+        ]
+},
+    "it": {
+        "title": "WNBA Semifinali Gara 2: Dream e Valkyries cercano il 2-0 contro le corazzate",
+        "subtitle": "Atlanta e Golden State difendono il campo stasera. Liberty e Aces all esame riscatto.",
+        "excerpt": "Dopo il colpo in Gara 1, Dream e Valkyries ospitano Liberty e Aces con la possibilita di ipotecare l accesso alle WNBA Finals.",
+        "body": [
+                "Le semifinali WNBA 2026 tornano mercoledi sera con il secondo round di entrambe le serie. A Est, le Atlanta Dream ospitano le New York Liberty al Gateway Center Arena dopo aver vinto Gara 1 per 92-82 grazie a 25 punti di Jordin Canada e 23 di DeWanna Bonner. New York deve vincere per evitare un drammatico 0-2.",
+                "A Ovest, le matricole Golden State Valkyries attendono le Las Vegas Aces al Chase Center di San Francisco dopo il 71-60 dell esordio firmato dai 25 punti e 11 rimbalzi di Gabby Williams. Per Las Vegas pesano i soli 2 punti arrivati dalla panchina.",
+                "Nelle serie al meglio delle cinque partite, rimontare da 0-2 e un impresa quasi impossibile. Atlanta e Golden State sognano una doppia clamorosa affermazione casalinga."
+        ]
+},
+    "pl": {
+        "title": "WNBA Polfinaly Mecz 2: Dream i Valkyries chca prowadzic 2-0 z faworytami",
+        "subtitle": "Atlanta i Golden State bronia parkietu dzisiejszego wieczoru. Liberty i Aces w tarapatach.",
+        "excerpt": "Po wygranych w pierwszym meczu Atlanta Dream i Golden State Valkyries staja przed szansa objecia prowadzenia 2-0 w polfinalach WNBA.",
+        "body": [
+                "Polfinaly WNBA 2026 wznawiaja gre w srode wieczorem dwumeczem numer dwa. Na Wschodzie Atlanta Dream podejmuje New York Liberty w Gateway Center Arena po triumfie 92-82 w pierwszym spotkaniu, napedzanym 25 punktami Jordin Canady. Nowojorzanki musza odpowiedziec, by nie wracac do domu ze stanem 0-2.",
+                "Na Zachodzie nowo powstaly zespol Golden State Valkyries mierzy sie z Las Vegas Aces w Chase Center w San Francisco. W meczu otwarcia Valkyries zatrzymaly rywalki na 60 punktach (71-60), a Gabby Williams zanotowala 25 punktow i 11 zbiorek.",
+                "W seriach do trzech zwyciestw strata 0-2 oznacza ogromne klopoty. Srodowy wieczor zadecyduje, czy faworyci odwroca losy rywalizacji."
+        ]
+},
+    "zh": {
+        "title": "WNBA半决赛G2：梦想队与女武神队力争2-0领先豪强",
+        "subtitle": "亚特兰大与金州今晚主场出击，自由人与王牌面临绝境客战。",
+        "excerpt": "首战告捷的亚特兰大梦想与金州女武神将在周三迎来半决赛第二场较量，力求在五场三胜制中确立绝对优势。",
+        "body": [
+                "2026年WNBA半决赛在周三晚迎来G2焦点双赛。东部方面，四号种子亚特兰大梦想在网关中心竞技场迎战纽约自由人。首场较量梦想队凭借乔丹·加拿大下半场发威砍下25分和邦纳的稳定发挥以92-82拿下首胜。自由人急需客场反弹避免陷入0-2落后。",
+                "西部赛区，新军金州女武神在旧金山大通中心再度对决两届冠军拉斯维加斯王牌。首战女武神全场防守窒息以71-60压制对手，加比·威廉姆斯贡献25分11篮板5助攻，王牌替补仅得2分成为败因。",
+                "在五战三胜制的系列赛中，0-2落后几乎宣判出局。今晚两支以下克上的球队将全力捍卫主场优势。"
+        ]
+},
+    "ja": {
+        "title": "WNBA準決勝第2戦：ドリームとヴァルキリーズが強豪に2-0王手を狙う",
+        "subtitle": "アトランタとゴールデンステイトが今夜ホーム戦。リバティとエイシズは正念場。",
+        "excerpt": "初戦を先勝したドリームとヴァルキリーズが、第2戦でリバティとエイシズを相手に連勝を狙う。",
+        "body": [
+                "2026年WNBAプレイオフ準決勝は水曜夜に第2戦のダブルヘッダーを迎える。東地区では第4シードのアトランタ・ドリームが本拠地で昨季準優勝のニューヨーク・リバティと対戦。初戦はジョーディン・カナダの25得点の活躍で92-82とドリームが制した。リバティは0-2の崖っぷちを回避しなければならない。",
+                "西地区では新創設のゴールデンステイト・ヴァルキリーズがチェイス・センターでラスベガス・エイシズを迎える。初戦を71-60の堅守で制したヴァルキリーズはギャビー・ウィリアムズが25得点11リバウンドをマーク。エイシズのベンチ得点をわずか2点に封じ込めた。",
+                "5戦3勝制において0-2のビハインドは致命的となる。ホームチームが連勝でファイナル進出へ王手をかけるか注目が集まる。"
+        ]
+},
+    "ko": {
+        "title": "WNBA 4강 2차전: 드림과 발키리스, 강호 상대로 2-0 우위 정조준",
+        "subtitle": "애틀랜타와 골든스테이트 오늘 밤 홈 경기. 리버티와 에이스 벼랑 끝 승부.",
+        "excerpt": "1차전 이변을 일으킨 애틀랜타와 골든스테이트가 수요일 홈에서 2차전을 치르며 챔프전 진출 유리한 고지를 노린다.",
+        "body": [
+                "2026 WNBA 준결승 2차전이 수요일 저녁 펼쳐진다. 동부에서는 애틀랜타 드림이 게이트웨이 센터 아레나에서 뉴욕 리버티를 맞이한다. 1차전에서 조딘 캐나다의 25점 활약으로 92-82 승리를 거둔 드림은 홈 2연승을 노리며, 리버티는 0-2 탈락 위기를 막아야 한다.",
+                "서부에서는 신생팀 골든스테이트 발키리스가 샌프란시스코 체이스 센터에서 라스베이거스 에이스와 격돌한다. 발키리스는 개비 윌리엄스의 25점 11리바운드 활약 속에 1차전을 71-60으로 틀어막았다. 에이스는 벤치 득점 부진 탈출이 관건이다.",
+                "5전 3선승제 시리즈에서 2연승을 거두는 팀이 절대적으로 유리해진다. 하위 시드 팀들의 돌풍이 이어질지 기대를 모은다."
+        ]
+},
+    "ar": {
+        "title": "نصف نهائي WNBA المباراة 2: دريم وفالكيريز تسعيان لتعزيز التقدم 2-0",
+        "subtitle": "أتلانتا وغولدن ستيت تدافعان عن أرضهما الليلة. اختبار حاسم لليبرتي وإيسيس.",
+        "excerpt": "بعد مفاجآت المباراة الأولى، يسعى أتلانتا دريم وغولدن ستيت فالكيريز لحسم التقدم 2-0 في سلسلة نصف النهائي.",
+        "body": [
+                "تستأنف منافسات نصف نهائي WNBA مساء الأربعاء بمباراتين حاسمتين في الجولة الثانية. في المنطقة الشرقية، يستقبل أتلانتا دريم فريق نيويورك ليبرتي في غيتواي سنتر أرينا بعد فوزه 92-82 في الافتتاح بفضل تألق جوردين كندا برصيد 25 نقطة. ويحتاج ليبرتي للفوز لتجنب التأخر 0-2.",
+                "وفي الغرب، يستضيف غولدن ستيت فالكيريز حامل اللقب السابق لاس فيغاس إيسيس في تشيس سنتر بعد تفوقه دفاعياً 71-60 في المباراة الأولى بفضل 25 نقطة و11 متابعة من غابي ويليامز.",
+                "في سلسلة تمتد لخمس مباريات، يمثل التأخر 0-2 عقبة تصعب معالجتها. تمتلك الفرق صاحبة الأرض فرصة تاريخية للاقتراب خطوة من النهائي."
+        ]
+},
+  },
+  'nfl-week5-kickoff-chiefs-vikings-unbeaten-power-2026': {
+    "fr": {
+        "title": "Coup d envoi NFL Semaine 5: Les Chiefs et Vikings invaincus dominent le classement",
+        "subtitle": "Kansas City et Minnesota restent a 4-0 alors que le Thursday Night Football visite Tampa.",
+        "excerpt": "Apres les victoires serrees du week-end, les Chiefs et les Vikings sont les deux seules equipes parfaites de la NFL a l aube de la semaine 5.",
+        "body": [
+                "Apres quatre journees de la saison NFL 2026, trente franchises ont deja connu la defaite. Seuls les Kansas City Chiefs et les Minnesota Vikings demeurent invaincus a 4-0 apres avoir survecu a des fins de matches haletantes dimanche. Patrick Mahomes a orchestre un retour dans le dernier quart pour battre les Raiders 30-27 a Las Vegas, tandis que la defense de Brian Flores a repousse Miami sur le dernier jeu (15-10).",
+                "Le reste de la ligue se remet d un week-end spectaculaire marque par la victoire surprise des Panthers de la Caroline contre les Lions de Detroit (32-26) et le succes des Saints face aux Falcons (26-24) le lundi soir.",
+                "La semaine 5 s ouvre des jeudi soir avec un duel de division NFC Sud entre les Falcons d Atlanta et les Buccaneers de Tampa Bay au Raymond James Stadium. Un rendez-vous capital dans la course aux playoffs."
+        ]
+},
+    "es": {
+        "title": "Inicio NFL Semana 5: Chiefs y Vikings invictos lideran el panorama",
+        "subtitle": "Kansas City y Minnesota se colocan 4-0 mientras Thursday Night Football viaja a Tampa.",
+        "excerpt": "Solo Chiefs y Vikings resisten invictos tras cuatro semanas de competicion en la NFL previa al choque de division del jueves.",
+        "body": [
+                "Cumplidas cuatro semanas de temporada regular en la NFL, solo Kansas City Chiefs y Minnesota Vikings conservan un registro perfecto de 4-0. Patrick Mahomes lidero otra remontada memorable en el ultimo cuarto para batir a los Raiders 30-27 en Las Vegas, mientras que los Vikings sufrieron para frenar a Miami 15-10 en la ultima jugada.",
+                "La jornada dejo ademas la campanada de los Carolina Panthers sobre Detroit Lions (32-26) en Sunday Night Football y la victoria de los Saints sobre Falcons (26-24) en el Monday Night.",
+                "La accion de la Semana 5 arranca el jueves por la noche con el clasico de la NFC Sur entre Atlanta Falcons y Tampa Bay Buccaneers en el Raymond James Stadium."
+        ]
+},
+    "de": {
+        "title": "NFL Woche 5 Auftakt: Ungeschlagene Chiefs und Vikings an der Ligaspitze",
+        "subtitle": "Kansas City und Minnesota stehen bei 4-0, waehrend Thursday Night Football in Tampa gastiert.",
+        "excerpt": "Nur noch zwei Teams sind in der NFL nach vier Spieltagen ungeschlagen: die Kansas City Chiefs und die Minnesota Vikings.",
+        "body": [
+                "Vier Wochen der NFL-Saison 2026 sind absolviert, und nur noch die Kansas City Chiefs und Minnesota Vikings stehen mit 4-0 ungeschlagen da. Patrick Mahomes fuehrte die Chiefs zu einem dramatischen 30-27-Comeback bei den Raiders, waehrend Brian Flores' Defense in Minnesota den 15-10-Erfolg gegen Miami festhielt.",
+                "Fuer Furore sorgten die Carolina Panthers mit ihrem 32-26-Ueberraschungssieg ueber die Detroit Lions im Sunday Night Football, gefolgt vom 26-24-Sieg der Saints gegen die Falcons im Monday Night Football.",
+                "Woche 5 beginnt am Donnerstagabend mit dem NFC-South-Duell zwischen den Atlanta Falcons und den Tampa Bay Buccaneers im Raymond James Stadium."
+        ]
+},
+    "it": {
+        "title": "NFL Settimana 5 al via: Chiefs e Vikings imbattuti guidano le gerarchie",
+        "subtitle": "Kansas City e Minnesota guidano a 4-0 mentre il Thursday Night Football fa tappa a Tampa.",
+        "excerpt": "I Chiefs e i Vikings sono le uniche due franchigie ancora imbattute della NFL all inizio della quinta settimana di gare.",
+        "body": [
+                "Dopo quattro turni di regular season nella NFL 2026, solo i Kansas City Chiefs e i Minnesota Vikings vantano un record immacolato di 4-0. Patrick Mahomes ha guidato l ennesima rimonta vincente per battere i Raiders 30-27, mentre la difesa dei Vikings ha blindato il 15-10 contro Miami all ultimo secondo.",
+                "Nel weekend spiccano anche il clamoroso 32-26 dei Carolina Panthers sui Detroit Lions nel Sunday Night Football e il 26-24 dei New Orleans Saints sugli Atlanta Falcons nel Monday Night.",
+                "La Week 5 si apre giovedi sera con la sfida divisionale di NFC South tra Atlanta Falcons e Tampa Bay Buccaneers al Raymond James Stadium."
+        ]
+},
+    "pl": {
+        "title": "NFL Tydzien 5 startuje: Niepokonani Chiefs i Vikings na szczycie tabeli",
+        "subtitle": "Kansas City i Minnesota z bilansem 4-0, a Thursday Night Football zawita do Tampy.",
+        "excerpt": "Tylko Chiefs i Vikings pozostaja bez porazki w lidze NFL po czterech kolejkach zacietych bojow.",
+        "body": [
+                "Po czterech tygodniach sezonu NFL 2026 tylko dwie druzyny zachowaly czyste konto: Kansas City Chiefs i Minnesota Vikings (obie 4-0). Patrick Mahomes poprowadzil swoj zespol do zwyciestwa 30-27 nad Raiders w Las Vegas, a defensywa Vikings obronila wynik 15-10 przeciwko Dolphins w ostatniej akcji.",
+                "Wielka niespodzianke sprawili Carolina Panthers, pokonujac Detroit Lions 32-26 w niedzielny wieczor, zas New Orleans Saints pokonali Atlanta Falcons 26-24 w poniedzialkowym klasyku.",
+                "Tydzien 5 rozpoczyna sie w czwartek wieczorem starciem w dywizji NFC South pomiedzy Falcons a Buccaneers na Raymond James Stadium."
+        ]
+},
+    "zh": {
+        "title": "NFL第5周打响：酋长与维京人4胜0负保持不败领跑全联盟",
+        "subtitle": "堪萨斯城与明尼苏达高居榜首，周四夜赛转战坦帕湾海盗主场。",
+        "excerpt": "四轮战罢NFL仅存两支全胜队伍，酋长与维京人在第四周惊险逆转后继续领跑实力榜。",
+        "body": [
+                "2026赛季NFL常规赛前四周战罢，全联盟仅剩堪萨斯城酋长和明尼苏达维京人保持4胜0负的不败金身。马霍姆斯在第四节上演逆转好戏率队30-27险胜突袭者，而维京人依靠坚韧的防守在最后时刻阻截海豚以15-10过关。",
+                "黑豹队在周日夜赛以32-26爆冷击溃底特律雄狮，圣徒队则在周一夜赛以26-24险胜老鹰，让国联季后赛竞争更显扑朔迷离。",
+                "第5周首战将于周四夜赛在雷蒙德·詹姆斯体育场展开，亚特兰大猎鹰客场挑战坦帕湾海盗，争夺国联南区榜首关键积分。"
+        ]
+},
+    "ja": {
+        "title": "NFL第5週開幕：チーフスとバイキングスが4勝0敗でリーグを牽引",
+        "subtitle": "カンザスシティとミネソタが無敗を維持。サーズデーナイトはタンパで開催。",
+        "excerpt": "NFL第4週を終え無敗を守ったのはチーフスとバイキングスの2チームのみ。第5週は地区対決で幕を開ける。",
+        "body": [
+                "2026年NFLシーズンは4週を終え、カンザスシティ・チーフスとミネソタ・バイキングスのみが4勝無敗の完璧な戦績を維持している。パトリック・マホームズが第4Qに逆転劇を演出してレイダースを30-27で下し、バイキングスはドルフィンズを15-10の守備戦で退けた。",
+                "サンデーナイトではカロライナ・パンサーズがライオンズを32-26で破る大番狂わせを演じ、マンデーナイトではセインツがファルコンズに26-24で競り勝った。",
+                "第5週は木曜夜にレイモンド・ジェームス・スタジアムで行われるファルコンズ対バッカニアーズのNFC南地区直接対決でキックオフを迎える。"
+        ]
+},
+    "ko": {
+        "title": "NFL 5주차 개막: 무패 질주 치프스와 바이킹스, 파워랭킹 선두",
+        "subtitle": "캔자스시티와 미네소타 4승 무패 기록. 목요 풋볼은 탬파에서 킥오프.",
+        "excerpt": "4주차를 거치며 NFL 전 구단 중 치프스와 바이킹스만이 무패 행진을 달리고 있으며, 5주차가 개막한다.",
+        "body": [
+                "2026시즌 NFL 개막 4주가 지난 현재, 패배를 모르는 팀은 캔자스시티 치프스와 미네소타 바이킹스(이상 4승)뿐이다. 패트릭 마홈스는 레이더스를 상대로 4쿼터 역전승(30-27)을 이끌었고, 바이킹스는 돌핀스를 15-10으로 제압하며 단단한 수비력을 과시했다.",
+                "캐롤라이나 팬서스는 디트로이트 라이언스를 32-26으로 꺾는 대이변을 연출했으며, 뉴올리언스 세인츠는 월요 경기에서 애틀랜타 팰컨스를 26-24로 꺾었다.",
+                "5주차는 목요일 밤 레이먼드 제임스 스타디움에서 열리는 애틀랜타 팰컨스와 탬파베이 버커니어스의 NFC 남부지구 맞대결로 포문을 연다."
+        ]
+},
+    "ar": {
+        "title": "انطلاق الأسبوع 5 من NFL: تشيفز وفايكنغز دون هزيمة في صدارة الدوري",
+        "subtitle": "كانساس سيتي ومينيسوتا بسجل 4-0 مع توجه مباريات ليلة الخميس إلى تامبا.",
+        "excerpt": "يبقى فريقي تشيفز وفايكنغز الوحيدين دون أي هزيمة في دوري كرة القدم الأمريكية بعد أربع جولات مثيرة.",
+        "body": [
+                "بعد مرور أربعة أسابيع من موسم 2026، تذوقت ثلاثون فرقة طعم الهزيمة، ولم يبق سوى كانساس سيتي تشيفز ومينيسوتا فايكنغز بسجل ناصع 4-0. قاد باتريك ماهومز عودة مثيرة ليهزم ريدرز 30-27، بينما حافظ دفاع فايكنغز على فوز ثمين أمام دولفينز 15-10.",
+                "وحقق كارولاينا بانثرز مفاجأة مدوية بالفوز على ديترويت لايونز 32-26، في حين فاز نيو أورلينز سينتس على فالكونز 26-24 في ختام الأسبوع.",
+                "ينطلق الأسبوع الخامس مساء الخميس بمواجهة نارية في القسم الجنوبي بين أتلانتا فالكونز وتامبا باي بوكانيرز في ملعب ريموند جيمس."
+        ]
+},
+  },
+  'uefa-nations-league-md3-eve-italy-belgium-england-2026': {
+    "fr": {
+        "title": "Ligue des Nations J3: L Italie defie la Belgique, le Portugal deja qualifie",
+        "subtitle": "Les Azzurri recoivent les Diables Rouges a Rome. L Angleterre accueille la Grece a Wembley.",
+        "excerpt": "La troisieme journee de Ligue des Nations propose un choc italo-belge jeudi alors que le Portugal a deja valide son billet pour les quarts.",
+        "body": [
+                "Le football international reprend ses droits en Europe mercredi avant dix rencontres au programme jeudi en Ligue des Nations de l UEFA. L affiche du Groupe A2 opposera l Italie de Luciano Spalletti a la Belgique au Stadio Olimpico de Rome. Forts de leurs victoires de septembre face a la France et Israel, les Azzurri veulent conforter leur premiere place face a des Belges revanchards.",
+                "De son cote, l Angleterre de Lee Carsley defie la Grece a Wembley apres son festival 7-0 en Croatie. Pendant ce temps, le Portugal de Roberto Martinez a deja valide sa place en quarts de finale avec un bilan parfait de quatre victoires, ponctue par un succes 2-1 contre la Norvege.",
+                "Les championnats nationaux restent en pause jusqu au samedi 10 octobre, date de la reprise de la Premier League dominee par Manchester City avec 15 points."
+        ]
+},
+    "es": {
+        "title": "Liga de Naciones J3: Italia se mide a Belgica con Portugal ya clasificada",
+        "subtitle": "La Azzurra recibe a los Diablos Rojos en Roma. Inglaterra espera a Grecia en Wembley.",
+        "excerpt": "La jornada 3 de la UEFA Nations League llega con el clasico Italia vs Belgica y diez choques continentales este jueves.",
+        "body": [
+                "El futbol de selecciones centra todas las miradas europeas antes de los diez partidos programados para el jueves. En el Grupo A2, la renovada Italia de Spalletti se enfrenta a Belgica en el Estadio Olimpico de Roma tras firmar un pleno en septiembre ante Francia e Israel. Belgica necesita sumar para no descolgarse de los cuartos.",
+                "Inglaterra recibe a Grecia en Wembley tras su aplastante 7-0 a Croacia, mientras que Portugal ya celebro su pase a cuartos tras ganar 2-1 a Noruega y completar cuatro victorias consecutivas.",
+                "Las ligas domesticas regresaran el sabado 10 de octubre con el Manchester City al frente de la Premier League con pleno de 15 puntos."
+        ]
+},
+    "de": {
+        "title": "Nations League 3. Spieltag: Italien fordert Belgien, Portugal vorzeitig weiter",
+        "subtitle": "Azzurri empfangen Rote Teufel in Rom. England bittet Griechenland in Wembley zum Duell.",
+        "excerpt": "Am Donnerstag stehen zehn Spiele in der Nations League an. Italien kaempft gegen Belgien um Platz eins, waehrend Portugal bereits im Viertelfinale steht.",
+        "body": [
+                "Europas Laenderspielpause erreicht am Donnerstag ihren Hoehepunkt mit zehn Partien in der UEFA Nations League. Im Topspiel der Gruppe A2 trifft Italien im roemischen Stadio Olimpico auf Belgien. Nach zwei Siegen im September gegen Frankreich und Israel wollen die Azzurri ihre Spitzenposition festigen.",
+                "England empfaengt Griechenland im Wembley-Stadion nach dem furiosen 7-0 gegen Kroatien. Portugal hat derweil nach dem 2-1 ueber Norwegen mit vier Siegen aus vier Spielen bereits vorzeitig das Viertelfinalticket geloest.",
+                "Die Premier League pausiert weiter, Manchester City fuehrt die Tabelle mit makellosen 15 Punkten bis zum Wiederbeginn am 10. Oktober an."
+        ]
+},
+    "it": {
+        "title": "Nations League 3a giornata: L Italia ospita il Belgio, Portogallo gia ai quarti",
+        "subtitle": "Azzurri all Olimpico contro i Diavoli Rossi. L Inghilterra sfida la Grecia a Wembley.",
+        "excerpt": "Giovedi di grande calcio europeo con dieci sfide di Nations League, tra cui la superclassica tra Italia e Belgio a Roma.",
+        "body": [
+                "La sosta per le nazionali regala giovedi un turno ricco con dieci sfide di UEFA Nations League. Tutti i riflettori sono puntati sullo Stadio Olimpico di Roma per Italia-Belgio del Gruppo A2. La formazione di Luciano Spalletti, dopo i successi di settembre su Francia e Israele, cerca tre punti pesanti per blindare la qualificazione.",
+                "A Wembley l Inghilterra affronta la Grecia dopo il netto 7-0 inflitto alla Croazia. Nel frattempo il Portogallo ha gia staccato il pass per i quarti grazie al successo per 2-1 sulla Norvegia e quattro vittorie su quattro.",
+                "I campionati di club ripartiranno sabato 10 ottobre con il Manchester City saldamente in vetta alla Premier League a quota 15 punti."
+        ]
+},
+    "pl": {
+        "title": "Liga Narodow 3. kolejka: Wlochy podejmuja Belgie, Portugalia juz w cwiercfinale",
+        "subtitle": "Azzurri graja z Czerwonymi Diablami w Rzymie. Anglia podejmuje Grecje na Wembley.",
+        "excerpt": "Dziesiec meczow Ligi Narodow UEFA w czwartek przyniesie wielkie emocje z hitem Wlochy vs Belgia na czele.",
+        "body": [
+                "Miedzynarodowy futbol wraca na europejskie stadiony przed czwartkowa seria dziesieciu spotkan Ligi Narodow UEFA. Najciekawiej zapowiada sie starcie grupy A2 w Rzymie, gdzie Wlochy Luciano Spallettiego zmierza sie z Belgia. Wlosi po dwoch wygranych we wrzesniu chca umocnic sie na prowadzeniu.",
+                "Na Wembley Anglia zagra z Grecja po wczesniejszym rozgromieniu Chorwacji 7-0. Portugalia zas zapewnila juz sobie awans do cwiercfinalu po wygranej 2-1 z Norwegia i komplecie dwunastu punktow.",
+                "Klubowe rozgrywki powroca w sobote 10 pazdziernika z prowadzacym w Premier League Manchesterem City."
+        ]
+},
+    "zh": {
+        "title": "欧国联第3轮前瞻：意大利罗马战比利时 葡萄牙提前晋级八强",
+        "subtitle": "蓝衣军团坐镇主场，英格兰温布利迎战希腊，十场大战蓄势待发。",
+        "excerpt": "周四欧国联将展开十场对决，意大利与比利时在奥林匹克球场展开强强对话，葡萄牙已提前锁定八强席位。",
+        "body": [
+                "欧洲国家联赛周四将迎来第三比赛日的十场较量。焦点大战在罗马奥林匹克球场上演，斯帕莱蒂率领的意大利将在A2组迎战比利时。蓝衣军团9月份连克法国与以色列领跑积分榜，比利时则急需积分紧咬对手。",
+                "英格兰将在温布利球场迎战希腊，此前三狮军团曾在客场7-0大胜克罗地亚。与此同时，葡萄牙凭借2-1击败挪威取得四连胜，已提前锁定明年春季的八强名额。",
+                "欧洲主流联赛目前处于休战期，曼城以五战全胜积15分领跑英超，联赛将于10月10日星期六重燃战火。"
+        ]
+},
+    "ja": {
+        "title": "UEFAネーションズリーグ第3節：イタリア対ベルギー大一番、ポルトガルは8強決定",
+        "subtitle": "ローマで伝統国対決。イングランドはウェンブリーでギリシャを迎え撃つ。",
+        "excerpt": "木曜日に10試合が開催されるネーションズリーグ第3節。イタリア対ベルギーを筆頭に熱戦が期待される。",
+        "body": [
+                "UEFAネーションズリーグは木曜日に10試合を控える。最大の注目カードはローマのスタディオ・オリンピコで行われるグループA2のイタリア対ベルギー。9月にフランスとイスラエルを連破したスパレッティ監督のイタリアは首位固めを狙う。",
+                "イングランドはクロアチア戦7-0の勢いそのままにギリシャと激突。一方ポルトガルはノルウェーを2-1で下し4連勝でいち早く準々決勝進出を決めた。",
+                "各国リーグ戦は10月10日土曜日に再開予定で、マンチェスター・シティが勝ち点15で首位をキープしている。"
+        ]
+},
+    "ko": {
+        "title": "네이션스리그 3차전 프리뷰: 이탈리아 대 벨기에 격돌, 포르투갈 8강 확정",
+        "subtitle": "아주리 군단 로마에서 벨기에 맞아 결전. 잉글랜드 웸블리서 그리스 상대.",
+        "excerpt": "목요일 유럽 전역에서 네이션스리그 10경기가 열린다. 이탈리아와 벨기에의 맞대결이 최대 빅매치로 꼽힌다.",
+        "body": [
+                "UEFA 네이션스리그가 목요일 10경기를 앞두고 유럽 축구팬들의 이목을 집중시키고 있다. 로마 올림피코 스타디움에서 열리는 A2조 이탈리아와 벨기에의 승부가 백미다. 9월 프랑스와 이스라엘을 연파한 이탈리아는 조 1위 굳히기에 나선다.",
+                "잉글랜드는 크로아티아전 7-0 대승의 기세를 몰아 웸블리에서 그리스를 상대한다. 포르투갈은 노르웨이를 2-1로 잡고 4연승으로 8강행을 확정지었다.",
+                "클럽 리그는 10월 10일 토요일 재개되며, 맨체스터 시티가 승점 15점으로 프리미어리그 선두를 지키고 있다."
+        ]
+},
+    "ar": {
+        "title": "دوري الأمم الأوروبية الجولة 3: إيطاليا تواجه بلجيكا والبرتغال تعبر إلى ربع النهائي",
+        "subtitle": "الآزوري يستضيف الشياطين الحمر في روما، وإنجلترا تستقبل اليونان في ويمبلي.",
+        "excerpt": "تشهد الجولة الثالثة من دوري الأمم الأوروبية عشر مباريات قوية يوم الخميس تتصدرها قمة إيطاليا وبلجيكا.",
+        "body": [
+                "تتجه أنظار عشاق الكرة الأوروبية إلى الجولة الثالثة لدوري الأمم يوم الخميس مع إقامة عشر مواجهات. تتصدر القمة في ملعب الأولمبيكو بروما بين إيطاليا وبلجيكا في المجموعة A2، حيث يسعى الآزوري بقيادة سباليتي لتعزيز صدارته بعد الفوز على فرنسا وإسرائيل في سبتمبر.",
+                "في ويمبلي، تواجه إنجلترا منتخب اليونان بعد فوزها العريض 7-0 على كرواتيا. بينما ضمنت البرتغال تأهلها لربع النهائي بعد فوزها الرابع توالياً أمام النرويج 2-1.",
+                "وتستأنف البطولات المحلية نشاطها يوم السبت 10 أكتوبر حيث يتصدر مانشستر سيتي الدوري الإنجليزي برصيد 15 نقطة."
+        ]
+},
+  },
+  'baycurrent-classic-yokohama-eve-smotherman-aftermath-2026': {
+    "fr": {
+        "title": "Le PGA Tour au Japon pour le Baycurrent Classic apres l exploit de Smotherman",
+        "subtitle": "La FedExCup Fall fait escale au Yokohama Country Club. Smotherman grimpe a la 51e place.",
+        "excerpt": "Apres le triomphe record d Austin Smotherman dans l Utah, les golfeurs du PGA Tour se retrouvent au Japon pour une etape cruciale.",
+        "body": [
+                "Le PGA Tour a pose ses valises dans la prefecture de Kanagawa pour le Baycurrent Classic au Yokohama Country Club, etape asiatique de la FedExCup Fall. Les parties du premier tour ont ete publiees pour le coup d envoi de jeudi a l aube, avec 500 points et de precieuses exemptions en jeu pour le top 60.",
+                "L actualite reste marquee par la victoire d Austin Smotherman a l Utah Championship (-26, 258 record). Pour son 100e depart sur le circuit, le joueur de 32 ans est passe du 79e au 51e rang mondial du classement d automne, assurant sa carte jusqu en 2028 et des invitations a Pebble Beach et au Genesis.",
+                "Doug Ghim, deuxieme en Utah a 24 sous le par, fait figure de favori a Yokohama aux cotes de Kevin Yu et Trace Crowe dans une course aux points tres disputee."
+        ]
+},
+    "es": {
+        "title": "El PGA Tour viaja a Japon para el Baycurrent Classic tras la gloria de Smotherman",
+        "subtitle": "La FedExCup Fall llega al Yokohama Country Club. Smotherman escala al puesto 51.",
+        "excerpt": "Tras la historica victoria de Austin Smotherman en Utah, el circuito aterriza en Japon para el prestigioso torneo de otono.",
+        "body": [
+                "El PGA Tour disputa esta semana el Baycurrent Classic en el prestigioso Yokohama Country Club, cita clave de la FedExCup Fall en suelo asiatico. El torneo reparte 500 puntos y plazas vitales para los Signature Events de 2027 a quienes terminen entre los puestos 51 y 60.",
+                "El ambiente en la casa club sigue marcado por la primera victoria de Austin Smotherman en Utah (-26, 258 record). El californiano subio del puesto 79 al 51 de la clasificacion general, garantizando exencion completa hasta 2028.",
+                "Doug Ghim, subcampeon en Utah con 24 bajo par, lidera la lista de participantes en Japon junto a Kevin Yu y Trace Crowe en busca de afianzar su tarjeta."
+        ]
+},
+    "de": {
+        "title": "PGA Tour reist nach Japan zum Baycurrent Classic nach Smotherman-Coup",
+        "subtitle": "FedExCup Fall gastiert im Yokohama Country Club. Smotherman springt auf Rang 51.",
+        "excerpt": "Nach dem Sensationssieg von Austin Smotherman in Utah kaempft die PGA Tour in Yokohama um wichtige Punkte fuer die Saison 2027.",
+        "body": [
+                "Die PGA Tour gastiert in dieser Woche bei der Premiere des Baycurrent Classic im Yokohama Country Club in Japan. Beim Herbst-Turnier geht es um 500 FedExCup-Punkte und begehrte Startplaetze fuer die Signature Events 2027 fuer alle Spieler auf den Raengen 51 bis 60.",
+                "Gespraechsthema Nummer eins ist der erste PGA-Tour-Erfolg von Austin Smotherman bei der Bank of Utah Championship (-26, 258 Rekord). Der 32-Jaehrige rueckte auf Platz 51 der Herbstwertung vor und sicherte sich seine Tourkarte bis 2028.",
+                "Doug Ghim, der in Utah mit 24 unter Par Zweiter wurde, fuehrt das Starterfeld in Japan zusammen mit Kevin Yu und Trace Crowe an."
+        ]
+},
+    "it": {
+        "title": "Il PGA Tour vola in Giappone per il Baycurrent Classic dopo il trionfo di Smotherman",
+        "subtitle": "La FedExCup Fall fa tappa al Yokohama Country Club. Smotherman sale al 51esimo posto.",
+        "excerpt": "Dopo il successo record di Austin Smotherman nello Utah, il circus del PGA Tour scende in campo a Yokohama per una settimana decisiva.",
+        "body": [
+                "Il PGA Tour sbarca in Giappone per la prima edizione del Baycurrent Classic al Yokohama Country Club, tappa asiatica delle FedExCup Fall series. In palio ci sono 500 punti e l accesso ai ricchi Signature Events del 2027 per i golfisti tra il 51esimo e il 60esimo posto.",
+                "L impresa di Austin Smotherman nello Utah (-26, 258 record) risuona ancora tra i giocatori. Lo statunitense e balzato al 51esimo posto stagionale conquistando l esenzione sul tour fino al 2028.",
+                "Doug Ghim, secondo nello Utah a 24 sotto il par, riparte da favorito a Yokohama insieme a Kevin Yu e Trace Crowe."
+        ]
+},
+    "pl": {
+        "title": "PGA Tour przenosi sie do Japonii na Baycurrent Classic po triumfie Smothermana",
+        "subtitle": "FedExCup Fall zawita do Yokohama Country Club. Smotherman awansuje na 51. miejsce.",
+        "excerpt": "Po historycznym zwyciestwie Austina Smothermana w Utah najlepsi golfisci rywalizuja w Japonii o punkty do rankingu 2027.",
+        "body": [
+                "PGA Tour zawital do prefektury Kanagawa na turniej Baycurrent Classic w Yokohama Country Club w ramach jesiennej serii FedExCup Fall. Gracze walcza o 500 punktow oraz cenne przepustki do prestizowych turniejow w sezonie 2027 dla czolowej 60-tki.",
+                "Wszyscy mowia o pierwszym zwyciestwie Austina Smothermana w Bank of Utah Championship (-26, 258 rekord turnieju). Wygrana dala mu awans na 51. miejsce i karte na tour do 2028 roku.",
+                "Doug Ghim, ktory w Utah byl drugi z wynikiem 24 ponizej par, otwiera liste faworytow w Japonii wraz z Kevinem Yu i Traceem Crowe."
+        ]
+},
+    "zh": {
+        "title": "美巡赛转战日本举办湾流精英赛 斯莫瑟曼犹他夺冠引发连锁效应",
+        "subtitle": "联邦快递杯秋季赛亮相横滨乡村俱乐部，斯莫瑟曼排名飙升至第51位。",
+        "excerpt": "在斯莫瑟曼创纪录夺得美巡首冠后，赛事转战日本横滨展开为期四天的秋季积分争夺战。",
+        "body": [
+                "美巡赛本周移师日本神奈川县，在横滨乡村俱乐部打响首届湾流精英赛。作为秋季系列赛的关键一站，比赛提供500个联邦快递杯积分，前60名选手将获得2027年顶尖赛事参赛资格。",
+                "横滨赛场热议的焦点依旧是奥斯汀·斯莫瑟曼在犹他锦标赛上的突破。他在个人第100场美巡赛打出创纪录的258杆（低于标准杆26杆）夺冠，秋季排名升至第51位，并锁定至2028年的全卡资格。",
+                "在犹他以-24杆屈居亚军的道格·金本周领衔出战，俞俊安与特雷斯·克劳等人也将为保卡与提升排名全力出击。"
+        ]
+},
+    "ja": {
+        "title": "PGAツアーが日本上陸、ベイカレント・クラシック開幕へ スモザーマン初Vの余波",
+        "subtitle": "フェデックスカップ・フォールが横浜CCで開催。スモザーマンはランク51位へ浮上。",
+        "excerpt": "オースティン・スモザーマンの歴史的初優勝を経て、PGAツアー秋季シリーズが横浜カントリークラブで熱戦を展開する。",
+        "body": [
+                "PGAツアーは今週、神奈川県の横浜カントリークラブで初開催となるベイカレント・クラシックを迎える。フェデックスカップ・フォールの重要戦として500ポイントが懸かり、51位から60位までの選手には2027年シグネチャー大会の出場資格が与えられる。",
+                "話題はバンク・オブ・ユタ選手権で通算100戦目にして初優勝を遂げたオースティン・スモザーマン（通算258打・26アンダーの大会新記録）。ポイントランク51位に急浮上し2028年までのシード権を獲得した。",
+                "ユタで2位に入ったダグ・ギムやケビン・ユーらが横浜でのリベンジとランキング向上を期して木曜日の初日に挑む。"
+        ]
+},
+    "ko": {
+        "title": "PGA 투어, 베이커런트 클래식으로 일본 상륙 스모더먼 첫 승 여파",
+        "subtitle": "페덱스컵 폴 요코하마 CC서 개막. 스모더먼 랭킹 51위로 껑충.",
+        "excerpt": "오스틴 스모더먼의 유타 대회 26언더파 첫 우승 이후 PGA 투어 무대가 일본 요코하마로 자리를 옮겼다.",
+        "body": [
+                "PGA 투어가 일본 가나가와현 요코하마 컨트리클럽에서 신설 대회인 베이커런트 클래식을 치른다. 페덱스컵 폴 가을 시리즈로 500포인트가 걸려 있으며, 51위부터 60위까지 선수들에게 2027년 특급 대회 출전권이 주어진다.",
+                "유타 대회에서 258타(-26) 신기록으로 통산 100번째 출전 만에 첫 승을 올린 오스틴 스모더먼이 단숨에 51위로 올라서며 2028년까지 투어 카드를 확보한 것이 화제다.",
+                "유타에서 2위를 차지한 더그 김을 비롯해 케빈 유, 트레이스 크로우 등이 요코하마에서 가을 포인트 경쟁에 돌입한다."
+        ]
+},
+    "ar": {
+        "title": "جولة PGA تتجه إلى اليابان لبطولة بايكرنت كلاسيك بعد إنجاز سموذرمن",
+        "subtitle": "سلسلة خريف فيديكس كاب في نادي يوكوهاما. سموذرمن يقفز للمركز 51.",
+        "excerpt": "بعد الفوز التاريخي لأوستن سموذرمن في يوتا، يحط لاعبو الغولف في اليابان لخوض منافسات بطولة بايكرنت كلاسيك.",
+        "body": [
+                "حطت جولة PGA الأمريكية في اليابان لخوض بطولة بايكرنت كلاسيك في نادي يوكوهاما الريفي ضمن سلسلة الخريف. يتنافس اللاعبون على 500 نقطة وبطاقات تأهل لبطولات 2027 الكبرى لأصحاب المراكز بين 51 و60.",
+                "يبقى الحديث الأبرز هو التتويج التاريخي لأوستن سموذرمن في يوتا برقم قياسي (-26، 258 ضربة)، ليصعد إلى المركز 51 في الترتيب ويضمن بقاءه حتى عام 2028.",
+                "يتصدر دوغ غيم وصيف بطولة يوتا المشاركين إلى جانب كيفن يو وتريس كرو في منافسات تنطلق فجر الخميس."
+        ]
+},
+  },
+  'f1-austin-usgp-redbull-upgrades-lawson-penalty-eve-2026': {
+    "fr": {
+        "title": "Evolutions a Austin et penalite pour Lawson avant le Grand Prix des Etats-Unis",
+        "subtitle": "Antonelli compte 84 points d avance sur Russell. Red Bull prepare un nouveau plancher pour Verstappen.",
+        "excerpt": "Apres Sepang, la F1 prepare le triptyque americain avec Austin en ligne de mire, ou Red Bull apportera des evolutions majeures.",
+        "body": [
+                "Apres la manche malaise de Sepang, la Formule 1 prepare son deplacement a Austin pour le Grand Prix des Etats-Unis au Circuit of The Americas. Kimi Antonelli mene le championnat du monde des pilotes avec 320 points, profitant de l abandon de son equipier George Russell pour porter son avance a 84 longueurs. Lewis Hamilton pointe au 3e rang avec 214 points, devant Leclerc (191) et le duo Norris-Verstappen (188).",
+                "Malgre la victoire de Verstappen en Malaisie, Red Bull Racing apporte a COTA un package complet d evolutions avec un fond plat modifie pour resoudre les soucis d equilibre a haute vitesse de la RB22.",
+                "Chez Visa Cash App RB, Liam Lawson a confirme qu il ecoperait d une penalite de 10 places sur la grille a Austin pour changement d elements moteur. Avec six courses restantes, Austin promet une bataille intense."
+        ]
+},
+    "es": {
+        "title": "Mejoras para Austin y sancion a Lawson antes del Gran Premio de Estados Unidos",
+        "subtitle": "Antonelli aventaja en 84 puntos a Russell. Red Bull ultima un nuevo suelo para Verstappen.",
+        "excerpt": "La F1 pone rumbo al Gran Premio de EE. UU. en COTA, donde Red Bull estrenara evoluciones y Lawson penalizara en parrilla.",
+        "body": [
+                "Tras el calor de Sepang, el gran circo de la Formula 1 prepara la gira americana empezando por el Circuit of The Americas en Austin. El joven Kimi Antonelli lidera el Mundial con 320 puntos, 84 por delante de George Russell tras el abandono del britanico. Lewis Hamilton es tercero con 214, con Norris y Verstappen empatados en 188.",
+                "Red Bull presentara en Texas un importante paquete de mejoras aerodinamicas centrado en el fondo plano para mejorar el rendimiento en curva rapida del monoplaza de Verstappen.",
+                "En el equipo filial RB, Liam Lawson tendra una penalizacion de 10 posiciones en la parrilla del domingo por sustitucion de componentes de la unidad de potencia."
+        ]
+},
+    "de": {
+        "title": "Austin-Upgrades und Lawson-Strafe vor dem Grossen Preis der USA",
+        "subtitle": "Antonelli fuehrt mit 84 Punkten vor Russell. Red Bull bringt neuen Unterboden fuer Verstappen.",
+        "excerpt": "Nach dem Rennen in Sepang blickt die Formel 1 nach Austin: Red Bull bringt umfassende Updates an den COTA, waehrend Lawson strafversetzt wird.",
+        "body": [
+                "Nach dem Hitzerennen von Sepang reist die Formel 1 zum Triple-Header nach Amerika, beginnend mit dem Grossen Preis der USA auf dem Circuit of The Americas in Austin. Kimi Antonelli fuehrt die Fahrer-WM mit 320 Punkten an, 84 Zaehler vor Mercedes-Kollege George Russell. Lewis Hamilton folgt mit 214 Punkten vor Leclerc (191) sowie Norris und Verstappen (je 188).",
+                "Red Bull Racing ruetet fuer Austin auf und bringt ein grosses Upgrade-Paket mit ueberarbeitetem Unterboden, um Verstappens RB22 auf schnellen Passagen konkurrenzfaehiger zu machen.",
+                "Unterdessen muss Liam Lawson bei Racing Bulls eine Startplatzstrafe von 10 Plaetzen wegen des Wechsels von Motorenkomponenten hinnehmen."
+        ]
+},
+    "it": {
+        "title": "Aggiornamenti per Austin e penalita per Lawson prima del GP degli Stati Uniti",
+        "subtitle": "Antonelli comanda con 84 punti su Russell. Red Bull prepara un nuovo fondo per Verstappen.",
+        "excerpt": "La Formula 1 vola ad Austin per il COTA: Red Bull portera un massiccio pacchetto di aggiornamenti mentre Lawson scontera 10 posizioni di penalita.",
+        "body": [
+                "Smaltito il caldo di Sepang, la Formula 1 si prepara per la trasferta americana a partire da Austin sul tracciato del COTA. Il giovane talento Kimi Antonelli guida il mondiale con 320 punti e un vantaggio di 84 lunghezze sul compagno George Russell. Lewis Hamilton e terzo a quota 214, mentre Norris e Verstappen sono appaiati a 188 punti.",
+                "A Milton Keynes, la Red Bull ha preparato un nuovo fondo per migliorare il bilanciamento nelle curve veloci e dare a Verstappen le armi per lottare al vertice.",
+                "In casa RB, Liam Lawson subira una penalita di 10 posizioni sulla griglia di domenica per la sostituzione di componenti della power unit."
+        ]
+},
+    "pl": {
+        "title": "Poprawki na Austin i kara dla Lawsona przed Grand Prix USA",
+        "subtitle": "Antonelli prowadzi o 84 punkty przed Russellem. Red Bull szykuje nowa podloge dla Verstappena.",
+        "excerpt": "Formula 1 przygotowuje sie do wyscigu w Austin. Red Bull przywiezie wazny pakiet ulepszen, a Lawson otrzyma kare cofniecia na starcie.",
+        "body": [
+                "Po wyscigu w Sepang Formula 1 przenosi sie do Teksasu na Circuit of The Americas w Austin. Kimi Antonelli przewodzi klasyfikacji kierowcow z 320 punktami, majac 84 punkty przewagi nad Georgeem Russellem. Lewis Hamilton zajmuje trzecie miejsce z 214 punktami, a Norris i Verstappen maja po 188.",
+                "Red Bull Racing przygotowal na Austin zmodernizowany pakiet aerodynamiczny z nowa podloga, majacy zniwelowac problemy z balansem bolidu Verstappena.",
+                "W zespole RB Liam Lawson zostanie cofniety o 10 pozycji na starcie do niedzielnego wyscigu za wymiane elementow jednostki napedowej."
+        ]
+},
+    "zh": {
+        "title": "F1奥斯汀大奖赛前瞻：红牛升级底盘 劳森确认受罚退后发车",
+        "subtitle": "安东内利领先拉塞尔84分，维斯塔潘将在美洲赛道迎战梅赛德斯双雄。",
+        "excerpt": "马来西亚站后F1移师美国奥斯汀美洲赛道，红牛将引入重大底盘套件，劳森确认接受退后10位发车处罚。",
+        "body": [
+                "结束了雪邦的激战后，F1车队正前往美国德克萨斯州奥斯汀的美洲赛道。梅赛德斯年轻新星安东内利以320分领跑车手积分榜，并在拉塞尔退赛后将优势扩大至84分。汉密尔顿积214分位居第三，诺里斯与维斯塔潘同积188分。",
+                "红牛车队针对美洲赛道带来全新的底盘与侧翼空气动力学升级套件，力求解决RB22在高速弯中的平衡瓶颈，为维斯塔潘卫冕提供支持。",
+                "RB车队的劳森由于更换超出赛季配额的动力单元部件，已确认在周日正赛中接受退后10位起步的处罚。"
+        ]
+},
+    "ja": {
+        "title": "F1米オースティンGP前夜：レッドブルが新フロア投入、ローソンは降格へ",
+        "subtitle": "アントネッリがラッセルに84点差で首位独走。フェルスタッペンに大型アプデ。",
+        "excerpt": "セパン戦を終えアメリカ大陸へ舞台を移すF1。オースティンではレッドブルが大型改良を投入し、ローソンはグリッド降格を受ける。",
+        "body": [
+                "マレーシア・セパンの戦いを経て、F1はテキサス州オースティンのサーキット・オブ・ジ・アメリカズ（COTA）へ向かう。メルセデスのキミ・アントネッリが320ポイントで選手権首位を守り、ジョージ・ラッセルのリタイアで差は84点に拡大。ハミルトンが214点、ノリスとフェルスタッペンが188点で並ぶ。",
+                "レッドブルは高速コーナーでのバランス改善を狙い、新型フロアを中心とする大型空力アップデートを投入する。",
+                "一方、RBのリアム・ローソンはパワーユニット交換により決勝で10グリッド降格ペナルティを受けることが確定した。"
+        ]
+},
+    "ko": {
+        "title": "F1 오스틴 미국 GP 전야: 레드불 바닥 업그레이드, 로슨 그리드 강등",
+        "subtitle": "안토넬리 러셀에 84점 앞선 선두. 베르스타펜 위한 대형 에어로 패키지 준비.",
+        "excerpt": "말레이시아 세팡전을 마친 F1이 미국 COTA 서킷으로 향한다. 레드불은 대대적 업데이트를 예고했고 로슨은 페널티를 받는다.",
+        "body": [
+                "세팡 레이스를 마친 F1은 미국 텍사스주 오스틴 COTA에서 열리는 미국 그랑프리로 이동한다. 메르세데스의 키미 안토넬리가 320포인트로 조지 러셀을 84점 차로 따돌리고 드라이버 챔피언십 선두를 질주 중이다. 해밀턴(214점), 노리스와 베르스타펜(이상 188점)이 뒤를 잇는다.",
+                "레드불은 베르스타펜을 위해 고속 코너 밸런스를 개선할 신형 플로어와 사이드포드 업그레이드 패키지를 실전에 투입한다.",
+                "RB의 리암 로슨은 엔진 부품 교체로 인해 일요일 결선 레이스에서 10그리드 강등 페널티를 받게 되었다."
+        ]
+},
+    "ar": {
+        "title": "تحديثات لأوستن وعقوبة للاوسون قبل جائزة الولايات المتحدة الكبرى للفورمولا 1",
+        "subtitle": "أنتونيلي يتقدم بـ84 نقطة على راسل، وريد بول تجهز أرضية جديدة لفرستابن.",
+        "excerpt": "تتوجه الفورمولا 1 إلى حلبة أوستن في تكساس حيث يجلب ريد بول تحديثات تقنية هامة ويتعرض لاوسون لعقوبة التراجع.",
+        "body": [
+                "بعد سباق سيبانغ الماليزي، تستعد الفورمولا 1 للسباقات الأمريكية بدءاً من حلبة الأميركتين في أوستن. يتصدر كيمي أنتونيلي بطولة السائقين برصيد 320 نقطة بفارق 84 نقطة عن جورج راسل. ويحتل هاميلتون المركز الثالث بـ214 نقطة، متقدماً على نوريس وفرستابن (188 نقطة لكل منهما).",
+                "وتدخل ريد بول سباق أوستن بحزمة تحديثات جديدة للأرضية تهدف لمعالجة توازن السيارة في المنعطفات السريعة ومنح فرستابن فرصة للمنافسة بقوة.",
+                "وفي فريق آر بي، تأكدت معاقبة ليام لاوسون بالتراجع 10 مراكز على شبكة الانطلاق بسبب استبدال عناصر من وحدة الطاقة."
+        ]
+},
+  },
 };

@@ -1,0 +1,74 @@
+{
+  "funFacts": [
+    "Thursday Night Football opens NFL Week 5.",
+    "Falcons look to bounce back from 26-24 Monday night loss in New Orleans.",
+    "Buccaneers defend home turf in pivotal NFC South matchup."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Baker Mayfield",
+      "team": "Tampa Bay Buccaneers",
+      "hook": "Leads high-octane Tampa Bay passing attack on short rest."
+    },
+    {
+      "name": "Bijan Robinson",
+      "team": "Atlanta Falcons",
+      "hook": "Key duel in Atlanta backfield aiming to control time of possession."
+    }
+  ],
+  "headToHead": "NFC South rivals meet for the first time in 2026 regular season.",
+  "tags": [
+    "nfl",
+    "buccaneers",
+    "falcons",
+    "tnf",
+    "week-5"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 5,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618269/pexels-photo-1618269.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "NFL Week 5 · Thursday Night Football",
+  "resultSummary": "UPCOMING: Falcons at Buccaneers · Week 5 Thursday Night Football",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NFL Week 5 Schedule",
+      "url": "https://www.nfl.com/schedules/2026/reg5"
+    },
+    {
+      "name": "ESPN NFL scoreboard",
+      "url": "https://www.espn.com/nfl/scoreboard"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "falcons-at-buccaneers-tnf-week5-2026",
+  "headline": "NFL Week 5 TNF: Falcons visit Buccaneers in heated NFC South clash",
+  "whyCareScore": 8.9,
+  "whyCareReason": "Atlanta look to shake off Monday night heartbreak while Tampa Bay aim to seize early control of the NFC South.",
+  "teaser": "Thursday 8 October, 8:15 PM ET on Prime Video. Division supremacy on the line in Tampa.",
+  "story": "NFL Week 5 kicks off Thursday night as the Atlanta Falcons travel to Raymond James Stadium to battle the Tampa Bay Buccaneers. The Falcons enter on a short turnaround after falling 26-24 to the Saints on Monday night in New Orleans. Meanwhile, Kansas City (4-0) and Minnesota (4-0) remain the league's only undefeated squads after Week 4 comebacks. An early divisional win on Thursday gives either Tampa Bay or Atlanta vital leverage in the NFC playoff hunt.",
+  "stakes": "First place in the NFC South and momentum heading into October.",
+  "rivalryAngle": "Classic division rivalry under prime-time lights.",
+  "home": "Tampa Bay Buccaneers",
+  "away": "Atlanta Falcons",
+  "group": "NFL",
+  "date": "2026-10-08",
+  "time": "20:15",
+  "venue": "Raymond James Stadium",
+  "city": "Tampa",
+  "status": "UPCOMING",
+  "sport": "football",
+  "competition": "nfl-2026"
+}
