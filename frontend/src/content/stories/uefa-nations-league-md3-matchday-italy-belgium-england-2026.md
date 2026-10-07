@@ -1,33 +1,37 @@
 ---
-title: "Nations League Matchday 3 Live: Italy Host Belgium as England Welcome Greece"
-subtitle: "Spalletti targets Group A2 command in Rome. Carsley side returns to Wembley. Portugal already through."
+title: "Nations League window is closed: Spain and Portugal are through on 12"
+subtitle: "France 4-1 Belgium and Italy 3-1 Turkiye on Monday. England 3-0 Czechia and Croatia 1-2 Spain on Tuesday."
 category: "Desk"
-excerpt: "UEFA Nations League Matchday 3 features 10 fixtures on Thursday highlighted by Italy vs Belgium at Stadio Olimpico and England vs Greece at Wembley."
+excerpt: "Xinhua and Goal.com print the League A tables after Tuesday. There is no Italy against Belgium game, and no England against Greece game, on this desk."
 image: "https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 5
 pubDate: 2026-10-08
 sport: soccer
 competition: nations-league-2026
-relatedSlug: italy-vs-belgium-nations-league-2026
+relatedSlug: france-4-1-belgium-nations-league-2026
 sources:
-  - name: "UEFA Nations League Matchday 3 Match Centre"
-    url: "https://www.uefa.com/uefanationsleague/matches/"
-  - name: "BBC Sport Nations League Thursday"
-    url: "https://www.bbc.com/sport/football/nations-league"
-  - name: "The Athletic European Football"
-    url: "https://theathletic.com/football/nations-league/"
+  - name: "Xinhua Tuesday results"
+    url: "https://english.news.cn/20261007/6a51f7142c47402b8d804b83c445cf57/c.html"
+  - name: "Xinhua standings"
+    url: "https://english.news.cn/20261007/3f31b534e6704b82a8c879f609f65616/c.html"
+  - name: "AFP via DAWN"
+    url: "https://www.dawn.com/news/2035265"
+  - name: "NEWS.am Sport"
+    url: "https://sport.news.am/eng/news/169439/"
+  - name: "Goal.com League A table"
+    url: "https://www.goal.com/en-gb/competition/uefa-nations-league-a/table/595nsvo7ykvoe690b1e4u5n56"
 ---
 
-## Why this match matters
+## Why this window matters
 
-The continental window accelerates into high gear on Thursday evening with ten UEFA Nations League fixtures kicking off simultaneously across Europe. With Roberto Martinez's Portugal having already clinched their quarterfinal berth in Group A4 thanks to a 4-0-0 record, other heavyweight nations are under pressure to follow suit before domestic leagues restart on Saturday 10 October.
+The October international window is finished. It is not a live card of Italy against Belgium, and it is not England against Greece. On Monday 5 October, France beat Belgium 4-1 and Italy beat Turkiye 3-1. On Tuesday 6 October, England beat Czechia 3-0 and Croatia lost 1-2 to Spain.
 
-## What actually happened
+## What the table says
 
-The undisputed glamour tie of the night unfolds at the Stadio Olimpico in Rome, where Luciano Spalletti's Italy host Domenico Tedesco's Belgium in Group A2. The Azzurri dazzled during the September international break with back-to-back victories over France (3-1 in Paris) and Israel (2-1 in Budapest), showcasing a fluid tactical setup built around Federico Dimarco and Sandro Tonali. Belgium arrive in Rome needing at least a point to keep their quarterfinal hopes alive.
+Goal.com and Xinhua agree after those matches. Group 1: France 10 points (7 for, 2 against), Italy 7 (8 for, 5 against), Belgium 6 (6 for, 5 against), Turkiye 0 (2 for, 11 against). Group 2: Netherlands 8, Greece 8, Germany 5, Serbia 0. Group 3: Spain 12 (12 for, 5 against), England 9 (14 for, 3 against), Croatia 3, Czechia 0. Group 4: Portugal 12 (9 for, 4 against), Denmark 6, Wales 3, Norway 3. Spain and Portugal are into the quarter-finals with two group games left.
 
-In Group B2, England return to Wembley Stadium to face Greece. Under interim manager Lee Carsley, the Three Lions displayed devastating attacking form last month, crowned by a 7-0 victory against Croatia in Rijeka. Ivan Jovanovic's Greece have also collected early points and represent a disciplined defensive hurdle. Concurrently in Budapest, France take on Israel looking to rebound in Group A2.
+The wires name these scorers and no others from the two headline nights. England 3-0 Czechia: Vladimir Coufal own goal 27, Harry Kane 40 and 57. Croatia 1-2 Spain: Ivan Perisic 18, Mikel Merino 61 and 88, Perisic sent off on 79. France 4-1 Belgium: Dodi Lukebakio scored first, Desire Doue equalised, Michael Olise set up Rayan Cherki, and France scored four times in the last 13 minutes. Substitutes scored all four France goals. The other two France scorers are not on the AFP copy used here. Italy 3-1 Turkiye: Gianluca Scamacca, Aral Simsir just after the hour, Riccardo Calafiori, Pio Esposito.
 
 ## What happens next
 
-Results from tonight's fixtures will shape the qualifying landscape heading into Sunday and Monday's Matchday 4 slate. Meanwhile, Premier League players know that domestic action resumes on Saturday 10 October with Manchester City defending their perfect 15-point haul at the summit.
+Premier League stays where matchweek 5 left it: Manchester City 15, Arsenal 12, Brighton 10. Domestic league play is listed to return on 10 October. Do not invent a Saturday score. France finish the group next month, away to Italy and at home to Turkiye.

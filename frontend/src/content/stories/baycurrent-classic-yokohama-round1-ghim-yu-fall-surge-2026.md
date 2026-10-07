@@ -1,33 +1,31 @@
 ---
-title: "Baycurrent Classic Round 1 Underway: Ghim and Yu Chase Fall FedExCup Surge in Japan"
-subtitle: "Inaugural PGA Tour event begins at Yokohama Country Club. Smotherman breakthrough inspires chasing pack."
+title: "Baycurrent Classic first tee is set in Yokohama. No round score is posted."
+subtitle: "8 to 11 October, Yokohama Country Club, par 71, 7,322 yards, 8 million dollars."
 category: "Desk"
-excerpt: "The PGA Tour's FedExCup Fall visits Japan as Doug Ghim and Kevin Yu lead the pursuit of 500 points in Round 1 of the Baycurrent Classic."
+excerpt: "CBS Sports and GOLF.com list Thursday groups and no leader. This desk does not name a winner."
 image: "https://images.pexels.com/photos/1325653/pexels-photo-1325653.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
-readingTime: 5
+readingTime: 4
 pubDate: 2026-10-08
 sport: golf
 competition: pga-tour-2026
 relatedSlug: baycurrent-classic-yokohama-2026
 sources:
-  - name: "PGA Tour Baycurrent Classic Leaderboard"
-    url: "https://www.pgatour.com/tournaments/2026/baycurrent-classic"
-  - name: "Golf Channel Fall Series Coverage"
-    url: "https://www.golfchannel.com/tours/pga-tour"
-  - name: "PGA Tour FedExCup Fall Official"
-    url: "https://www.pgatour.com/fedexcup/fall"
+  - name: "GOLF.com Round 1 tee times"
+    url: "https://golf.com/news/2026-baycurrent-classic-wednesday-tee-times-round-1/"
+  - name: "CBS Sports PGA leaderboard"
+    url: "https://www.cbssports.com/golf/leaderboard/"
+  - name: "Japanese pairings board"
+    url: "https://www.sportzorg24.tv/baycurrent-classic-2026-leaderboard/"
 ---
 
-## Why this match matters
+## Why this tee sheet matters
 
-The FedExCup Fall schedule crossed the Pacific this week, touching down in Kanagawa Prefecture for the debut of the Baycurrent Classic at Yokohama Country Club. With four tournaments remaining before the 2027 PGA Tour eligibility window closes, every stroke at Yokohama holds career-defining consequences for golfers hovering around the pivotal top 60 threshold.
+The Baycurrent Classic is Thursday 8 October through Sunday 11 October at Yokohama Country Club's West Course. It is a par 71 of 7,322 yards with an 8 million dollar purse. A Japanese live page at 05:00 Japan time on 8 October still showed pairings only, before the 08:45 local start. CBS Sports listed tee times rather than scores.
 
-## What actually happened
+## Who is in the groups
 
-The entire tournament field takes inspiration from Austin Smotherman's historic display four days ago in Utah. In his 100th career start at the Bank of Utah Championship, Smotherman fired rounds of 63, 62, 65 and 68 to capture his maiden title with a tournament-record total of 258 (-26). The victory vaulted him from 79th to 51st in FedExCup Fall points, unlocking two years of PGA Tour exemption and starts at the AT&T Pebble Beach Pro-Am and Genesis Invitational.
+GOLF.com's first-round groups, in U.S. Eastern time on Wednesday night: Beau Hossler, Pierceson Coody and Ren Yonezawa at 7:45 p.m. from the 1st. Jordan Spieth with Min Woo Lee and Sungjae Im at 8:18 p.m. from the 10th. Xander Schauffele with Collin Morikawa and Jacob Bridgeman at 8:29 p.m. from the 10th. Hideki Matsuyama with Keegan Bradley and Rickie Fowler at 9:35 p.m. from the 1st. Doug Ghim is out at 9:46 p.m. with Zach Bauchou and amateur Koshin Nagasaki.
 
-Doug Ghim, who pushed Smotherman to the wire with a 24-under 260 runner-up finish, headlines the early starters on Yokohama's tight West Course. Ghim tees off alongside Taiwan's Kevin Yu and Trace Crowe, both of whom enter the week in prime form. Thursday's opening round features calm morning conditions, giving players an early target to shoot at on receptive greens.
+## What is not on the card
 
-## What happens next
-
-Players will navigate 72 holes of stroke play through Sunday, battling not only for the title and the lion's share of the purse, but for the 500 FedExCup points that can secure a golfer's livelihood for the upcoming 2027 campaign.
+Until a completed round is on the PGA Tour board, this desk does not name a leader, a low round, or a FedExCup points payout. A finished leaderboard that appears on a page while the tee sheet is still the news is not used here.

@@ -1,33 +1,35 @@
 ---
-title: "Thursday Night Football Kickoff: Falcons and Buccaneers Clash for NFC South Lead"
-subtitle: "Tampa Bay host Atlanta at Raymond James Stadium. Unbeaten Chiefs and Vikings loom over Week 5."
+title: "Thursday Night Football is Buccaneers at Cowboys, not Falcons at Buccaneers"
+subtitle: "Tampa Bay are 0-4. Dallas are 2-2. Kickoff is 8:15 p.m. ET at AT&T Stadium. No score is final."
 category: "Desk"
-excerpt: "NFL Week 5 opens Thursday night in Tampa as the Falcons and Buccaneers fight for first place in the NFC South on short rest."
+excerpt: "ESPN and the NFL list Buccaneers at Cowboys for Thursday 8 October. The Falcons are 2-2 and host the Ravens on Sunday night."
 image: "https://images.pexels.com/photos/1618269/pexels-photo-1618269.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 5
 pubDate: 2026-10-08
 sport: football
 competition: nfl-2026
-relatedSlug: falcons-at-buccaneers-tnf-week5-2026
+relatedSlug: buccaneers-at-cowboys-tnf-week5-2026
 sources:
-  - name: "NFL Week 5 Game Previews"
-    url: "https://www.nfl.com/schedules/2026/reg5"
-  - name: "ESPN NFL Prime-Time Hub"
-    url: "https://www.espn.com/nfl/story/_/id/401918301/tnf-preview-falcons-buccaneers"
-  - name: "Pro-Football-Reference Standings"
-    url: "https://www.pro-football-reference.com/years/2026/"
+  - name: "ESPN NFL scoreboard"
+    url: "https://www.espn.com/nfl/scoreboard"
+  - name: "AP: Packers 17-14 Buccaneers"
+    url: "https://global.espn.com/nfl/recap?gameId=401872968"
+  - name: "AP: Cowboys 34-30 Texans"
+    url: "https://global.espn.com/nfl/recap?gameId=401872967"
+  - name: "Pro-Football-Reference Chiefs"
+    url: "https://www.pro-football-reference.com/teams/kan/2026/gamelog"
 ---
 
 ## Why this match matters
 
-Division races in the modern NFL are won or lost in October, and the NFC South gets its first prime-time referendum on Thursday night. At Raymond James Stadium in Tampa, the Atlanta Falcons take on the Tampa Bay Buccaneers in the kickoff to NFL Week 5. With margins razor-thin across both conferences, early head-to-head division victories represent tiebreaker gold down the stretch.
+Week 5 Thursday Night Football is Tampa Bay at Dallas, 8:15 p.m. ET on Prime Video at AT&T Stadium. ESPN and the NFL scoreboard both list the Buccaneers at 0-4 and the Cowboys at 2-2, and neither has a final score. The Falcons are not in this game. They are 2-2 and host Baltimore on Sunday night.
 
-## What actually happened
+## What the board actually says
 
-Atlanta enters on just three days of rest after suffering a painful 26-24 defeat against the New Orleans Saints on Monday night at Caesars Superdome. Kirk Cousins and running back Bijan Robinson will be tested physically against a physical Todd Bowles defense that loves to bring blitz pressure in obvious passing downs. Tampa Bay, led by Baker Mayfield, look to exploit home-field advantage and seize outright command of the division.
+The Buccaneers' last game was a 17-14 loss to the Packers on 4 October. Baker Mayfield missed that start with a dislocated thumb. Jalon Daniels threw two interceptions in his first career start. Mayfield is the quarterback listed on the Thursday passing matchup: 61 of 96 for 615 yards, 2 touchdowns and 2 interceptions in three games. Dak Prescott is at 105 of 150 for 1,065 yards, 8 touchdowns and 1 interception. On Sunday in Houston, CeeDee Lamb caught 17 passes for 189 yards and the 12-yard touchdown with 40 seconds left in a 34-30 Cowboys win. Javonte Williams ran for three touchdowns in that game. SirVocea Dennis (ankle) and Benjamin Morrison (quad) are out for Tampa Bay.
 
-Across the wider league landscape, the Kansas City Chiefs and Minnesota Vikings remain the headline story. Both franchises improved to 4-0 on Sunday through dramatic fourth-quarter heroics, surviving as the NFL's only unbeaten teams. The Carolina Panthers also injected chaotic energy into the division race with their 32-26 Sunday night upset of Detroit, putting added weight on tonight's clash in Tampa.
+Three teams are 4-0: the Chiefs, the Vikings and the 49ers. Kansas City is on its bye after beating the Raiders 30-27, with Patrick Mahomes passing for 225 yards and two touchdowns and Kenneth Walker III rushing for 177 yards and two scores. Minnesota visits New Orleans on Sunday. San Francisco visits Seattle. Carolina and Kansas City are the Week 5 byes.
 
 ## What happens next
 
-A win tonight elevates either Tampa Bay or Atlanta to the summit of the NFC South and buys ten days of precious recovery time ahead of Week 6. For the loser, a divisional setback on national television creates immediate pressure ahead of the gruelling mid-autumn schedule.
+Do not print a Thursday score until the game is final. A loss leaves Tampa Bay at 0-5. A win moves Dallas off 2-2 before Philadelphia plays in London on Sunday morning. The Falcons at Buccaneers game on the season schedule is 1 November, not tonight.

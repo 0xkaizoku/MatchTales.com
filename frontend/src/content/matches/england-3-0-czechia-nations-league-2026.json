@@ -1,0 +1,68 @@
+{
+  "funFacts": [
+    "England 3-0 Czechia on Tuesday 6 October.",
+    "Vladimir Coufal own goal 27, Harry Kane 40 and 57.",
+    "England have 9 points and a goal difference of +11. Spain are through on 12."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Harry Kane",
+      "team": "England",
+      "hook": "Two goals, on 40 and 57 minutes, in the 3-0 win."
+    },
+    {
+      "name": "Vladimir Coufal",
+      "team": "Czechia",
+      "hook": "Own goal on 27 minutes. Czechia are still on 0 points."
+    }
+  ],
+  "headToHead": "Spain 12, England 9, Croatia 3, Czechia 0.",
+  "tags": ["nations-league", "england", "czechia"],
+  "homeCode": "ENG",
+  "awayCode": "CZE",
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 4,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Nations League · Group A3",
+  "resultSummary": "England 3-0 Czechia. England 9 points.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Xinhua Tuesday results",
+      "url": "https://english.news.cn/20261007/6a51f7142c47402b8d804b83c445cf57/c.html"
+    },
+    {
+      "name": "NEWS.am Sport",
+      "url": "https://sport.news.am/eng/news/169439/"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 3,
+  "awayScore": 0,
+  "slug": "england-3-0-czechia-nations-league-2026",
+  "headline": "England 3-0 Czechia: Coufal own goal, Kane twice",
+  "whyCareScore": 8.8,
+  "whyCareReason": "Tuesday's England game was against Czechia, not Greece. Spain's 2-1 win in Croatia sent Spain through.",
+  "teaser": "Coufal 27 own goal, Kane 40 and 57. England 9 points. Czechia still 0.",
+  "story": "England beat Czechia 3-0 at home on Tuesday 6 October. NEWS.am records Vladimir Coufal's own goal on 27 minutes and Harry Kane on 40 and 57. Xinhua prints the same 3-0. England have 9 points from four games, 14 goals for and 3 against. Czechia have 0 points, 2 goals for and 10 against. This was not a Wembley game against Greece.",
+  "stakes": "England cannot catch Spain on points if Spain win out, and Spain are already through. Second place is England's race.",
+  "rivalryAngle": "The same night Croatia lost 1-2 at home to Spain.",
+  "home": "England",
+  "away": "Czechia",
+  "group": "A3",
+  "date": "2026-10-06",
+  "time": "",
+  "venue": "England",
+  "city": "England",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "nations-league-2026"
+}

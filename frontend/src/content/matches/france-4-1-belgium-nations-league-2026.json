@@ -1,0 +1,68 @@
+{
+  "funFacts": [
+    "France 4-1 Belgium on Monday 5 October at the Stade de France.",
+    "Dodi Lukebakio scored first. Desire Doue equalised. Michael Olise set up Rayan Cherki.",
+    "France lead Group A1 with 10 points. The other two France scorers are not named on the AFP wire used here."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Rayan Cherki",
+      "team": "France",
+      "hook": "Put France ahead after an Olise pull-back. All four France goals came from substitutes."
+    },
+    {
+      "name": "Dodi Lukebakio",
+      "team": "Belgium",
+      "hook": "Scored the first-half goal that had Belgium in front."
+    }
+  ],
+  "headToHead": "France 10, Italy 7, Belgium 6, Turkiye 0 after four games.",
+  "tags": ["nations-league", "france", "belgium"],
+  "homeCode": "FRA",
+  "awayCode": "BEL",
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 4,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Nations League · Group A1",
+  "resultSummary": "France 4-1 Belgium. France 10 points.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "AFP via DAWN",
+      "url": "https://www.dawn.com/news/2035265"
+    },
+    {
+      "name": "Xinhua Nations League standings",
+      "url": "https://english.news.cn/20261007/3f31b534e6704b82a8c879f609f65616/c.html"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 4,
+  "awayScore": 1,
+  "slug": "france-4-1-belgium-nations-league-2026",
+  "headline": "France 4-1 Belgium: four goals in the last 13 minutes",
+  "whyCareScore": 9.2,
+  "whyCareReason": "Zidane's side stay top of Group A1 on 10 points. Belgium drop to 6. The October window is closed.",
+  "teaser": "Lukebakio, then Doue and Cherki. France scored four times in the final 13 minutes. Italy beat Turkiye 3-1 the same night.",
+  "story": "France beat Belgium 4-1 in Nations League Group A1 on Monday 5 October. Dodi Lukebakio put Belgium ahead in the first half. Desire Doue equalised, Michael Olise pulled the ball back for Rayan Cherki, and France scored four times in the final 13 minutes. AFP reports that substitutes scored all four France goals. The other two scorers are not named on that wire, so they are not named here. France have 10 points from four games (3 wins, 1 draw, 7 goals for, 2 against). Belgium have 6.",
+  "stakes": "France are three points clear of Italy with two group games left. Those games are next month, not tonight.",
+  "rivalryAngle": "Belgium had not beaten France in a competitive game since 1981. They led, then did not.",
+  "home": "France",
+  "away": "Belgium",
+  "group": "A1",
+  "date": "2026-10-05",
+  "time": "",
+  "venue": "Stade de France",
+  "city": "Saint-Denis",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "nations-league-2026"
+}

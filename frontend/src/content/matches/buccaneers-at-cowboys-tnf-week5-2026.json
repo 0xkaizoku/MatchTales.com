@@ -1,0 +1,72 @@
+{
+  "funFacts": [
+    "Thursday Night Football is Buccaneers at Cowboys, not Falcons at Buccaneers.",
+    "Tampa Bay are 0-4. Dallas are 2-2. No final score is posted.",
+    "Chiefs, Vikings and 49ers are the three 4-0 teams. Kansas City is on a bye."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Dak Prescott",
+      "team": "Dallas Cowboys",
+      "hook": "105 of 150 for 1,065 yards, 8 touchdowns and 1 interception."
+    },
+    {
+      "name": "Baker Mayfield",
+      "team": "Tampa Bay Buccaneers",
+      "hook": "Listed on the Thursday matchup after missing the Packers loss with a dislocated thumb. 61 of 96, 615 yards, 2 TD, 2 INT in three games."
+    }
+  ],
+  "headToHead": "Last meeting on this card is not a 2026 result. Thursday 8 October has no final.",
+  "tags": ["nfl", "buccaneers", "cowboys", "tnf", "week-5"],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 5,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618200/pexels-photo-1618200.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "NFL Week 5 · Thursday Night Football",
+  "resultSummary": "UPCOMING: Buccaneers at Cowboys, 8:15 p.m. ET. No score.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ESPN NFL scoreboard",
+      "url": "https://www.espn.com/nfl/scoreboard"
+    },
+    {
+      "name": "Football Database Week 5",
+      "url": "https://www.footballdb.com/scores/"
+    },
+    {
+      "name": "AP: Cowboys 34-30 Texans",
+      "url": "https://global.espn.com/nfl/recap?gameId=401872967"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "buccaneers-at-cowboys-tnf-week5-2026",
+  "headline": "NFL Week 5 TNF: Buccaneers (0-4) at Cowboys (2-2), no score yet",
+  "whyCareScore": 9.5,
+  "whyCareReason": "The verified Thursday game is Tampa Bay at Dallas, 8:15 p.m. ET at AT&T Stadium. Atlanta is not in it.",
+  "teaser": "Prime Video, AT&T Stadium. Mayfield is listed after missing the 17-14 loss to Green Bay. Lamb had 17 catches in the 34-30 win at Houston.",
+  "story": "ESPN and the NFL list Tampa Bay at Dallas for Thursday 8 October, 8:15 p.m. ET, Prime Video, AT&T Stadium. The Buccaneers are 0-4 and the Cowboys are 2-2. No final is posted. On 4 October the Packers beat Tampa Bay 17-14, a game Baker Mayfield missed with a dislocated thumb. The same day Dallas beat Houston 34-30. CeeDee Lamb caught 17 passes for 189 yards and the 12-yard touchdown with 40 seconds left. Javonte Williams ran for three touchdowns. Three teams are 4-0: Kansas City, Minnesota and San Francisco. The Chiefs are on a bye after a 30-27 win at Las Vegas.",
+  "stakes": "A fifth loss would leave Tampa Bay alone at the bottom of the NFC South. Dallas can move off 2-2 before Sunday's London game.",
+  "rivalryAngle": "This is not the Falcons-Buccaneers game. That meeting is listed for 1 November.",
+  "home": "Dallas Cowboys",
+  "away": "Tampa Bay Buccaneers",
+  "group": "NFL",
+  "date": "2026-10-08",
+  "time": "20:15",
+  "venue": "AT&T Stadium",
+  "city": "Arlington",
+  "status": "UPCOMING",
+  "sport": "football",
+  "competition": "nfl-2026"
+}

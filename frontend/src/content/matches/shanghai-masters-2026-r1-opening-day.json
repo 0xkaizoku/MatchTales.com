@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "Rolex Shanghai Masters main draw begins Wednesday 7 October.",
-    "Carlos Alcaraz arrives after winning 10th consecutive match in Tokyo.",
-    "Novak Djokovic heads to Shanghai after capturing 7th Beijing title."
+    "Rolex Shanghai Masters runs 7 to 18 October. Prize fund 9,415,725 dollars.",
+    "Ten first-round matches were complete on 7 October. The round is not closed.",
+    "Djokovic beat de Minaur in the China Open final. Alcaraz beat Lehecka in the Japan Open final. Neither has played in Shanghai."
   ],
   "keyPlayers": [
     {
-      "name": "Alexander Zverev",
+      "name": "Novak Djokovic",
       "team": "ATP",
-      "hook": "Top seed in Shanghai main draw following Sinner withdrawal."
+      "hook": "Beat Alex de Minaur 7-6 (3), 0-1 retired in Beijing on 6 October. Shanghai bye, no match yet."
     },
     {
-      "name": "Stan Wawrinka",
+      "name": "Carlos Alcaraz",
       "team": "ATP",
-      "hook": "Three-time Grand Slam champion takes the court in opening round."
+      "hook": "Beat Jiri Lehecka 7-6 (4), 6-4 in Tokyo on 6 October. Shanghai bye, no match yet."
     }
   ],
   "headToHead": "Main draw Round 1 gets underway at Qizhong Forest Sports City Arena.",
@@ -39,7 +39,7 @@
   "awayPen": null,
   "season": "2026",
   "roundLabel": "Shanghai Masters · Round 1",
-  "resultSummary": "FINAL: Shanghai Masters Round 1 Complete · Top Seeds Enter in Round 2",
+  "resultSummary": "IN PROGRESS: 10 first-round matches final on 7 October. Seeds have not played.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
@@ -56,21 +56,21 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "shanghai-masters-2026-r1-opening-day",
-  "headline": "Shanghai Masters: Round 1 in the books as Alcaraz, Djokovic and Zverev prep for Round 2",
-  "whyCareScore": 9.4,
-  "whyCareReason": "Round 1 concluded at Qizhong Arena; top seeds enter the 96-player bracket as Carlos Alcaraz and Novak Djokovic chase the Asian double.",
-  "teaser": "Round 1 complete in Shanghai. Top 32 seeds take the court for Round 2 action.",
-  "story": "Round 1 of the 2026 Rolex Shanghai Masters concluded Wednesday at Qizhong Forest Sports City Arena. The top 32 seeds, who received opening-round byes, now prepare for their second-round entrances. Top seed Alexander Zverev headlines the top half of the draw, while newly crowned Tokyo champion Carlos Alcaraz and seven-time Beijing winner Novak Djokovic command the bottom half. With 1,000 ranking points on the line, the tournament kicks into high gear.",
-  "stakes": "1,000 ATP ranking points and a 1.1 million dollar winner check.",
-  "rivalryAngle": "Alcaraz and Djokovic look to maintain Asian swing dominance.",
+  "headline": "Shanghai Masters: first round still open after ten Wednesday results",
+  "whyCareScore": 8.7,
+  "whyCareReason": "Altmaier beat Rune, Fery beat Cilic, and eight other first-round matches are final. Zverev, Alcaraz and Djokovic have byes and have not played.",
+  "teaser": "Not round 2. The round of 128 is underway. Beijing and Tokyo titles are already in the book.",
+  "story": "TennisDB lists ten completed Shanghai first-round matches on 7 October, including Daniel Altmaier over Holger Rune and Arthur Fery over Marin Cilic. The official draw gives byes to the top seeds. Alexander Zverev, Carlos Alcaraz and Novak Djokovic have not played in Shanghai. Djokovic's Beijing final and Alcaraz's Tokyo final were on 6 October and are separate tournaments.",
+  "stakes": "A Masters 1000 is in its first round. Do not print a round-of-64 result.",
+  "rivalryAngle": "The seeds meet the winners of the round of 128. Those matches are not final.",
   "home": "Rolex Shanghai Masters",
   "away": "Round 1 Action",
   "group": "ATP",
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "time": "11:00",
   "venue": "Qizhong Forest Sports City Arena",
   "city": "Shanghai",
-  "status": "FINISHED",
+  "status": "UPCOMING",
   "sport": "tennis",
   "competition": "atp-2026"
 }

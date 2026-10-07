@@ -8,12 +8,12 @@
     {
       "name": "Jordin Canada",
       "team": "Dream",
-      "hook": "Scored 25 points with 20 in the second half and 5 steals in Game 1."
+      "hook": "Scored 25 points in 32 minutes in the 92-82 Game 1 win."
     },
     {
       "name": "Sabrina Ionescu",
       "team": "Liberty",
-      "hook": "Scored 27 points in Game 1 defeat, leading New York's response."
+      "hook": "Liberty's guard for a Game 2 that has no verified final. Game 1 was a 92-82 loss."
     }
   ],
   "headToHead": "Dream lead 2026 postseason series 1-0 following 92-82 triumph.",
@@ -36,7 +36,7 @@
   "awayPen": null,
   "season": "2026",
   "roundLabel": "WNBA Semifinals · Game 2",
-  "resultSummary": "FINAL: Liberty 86, Dream 80. Series tied 1-1.",
+  "resultSummary": "SCHEDULED 7 October, 7:30 p.m. ET. No verified final. Series still 1-0 Dream.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
@@ -50,16 +50,16 @@
     }
   ],
   "format": "team-match",
-  "homeScore": 80,
-  "awayScore": 86,
+  "homeScore": null,
+  "awayScore": null,
   "slug": "liberty-at-dream-wnba-sf-g2-2026",
-  "headline": "WNBA Semifinals Game 2: Liberty fight back to edge Dream 86-80 and level series",
-  "whyCareScore": 9.2,
-  "whyCareReason": "New York answer with a resilient 86-80 road victory behind 26 points from Sabrina Ionescu, leveling the best-of-five series 1-1.",
-  "teaser": "Liberty level series 1-1 with 86-80 win in Atlanta. Semifinal shifts to Brooklyn for Game 3.",
-  "story": "The New York Liberty responded to Sunday's opening defeat with a clutch 86-80 road victory over the Atlanta Dream on Wednesday night at Gateway Center Arena. Sabrina Ionescu led all scorers with 26 points, including four three-pointers, while Breanna Stewart added 21 points and 12 rebounds. Atlanta got 22 points from Jordin Canada, but New York closed the game on an 11-4 run. The best-of-five semifinal series is now tied 1-1 and shifts to Barclays Center in Brooklyn for Game 3.",
-  "stakes": "Series level 1-1 heading to Barclays Center in Brooklyn.",
-  "rivalryAngle": "Defending finalist Liberty reclaim home-court advantage.",
+  "headline": "WNBA Semifinals Game 2: Liberty at Dream, no verified final",
+  "whyCareScore": 8.4,
+  "whyCareReason": "Game 1 is Dream 92-82. Wednesday's Game 2 is on the ESPN schedule at 7:30 p.m. ET and has no published score.",
+  "teaser": "Allisha Gray is out. Do not print 86-80. The series is 1-0 Atlanta until a box score exists.",
+  "story": "Basketball-Reference, CBS and StatMuse list New York at Atlanta for 7 October at 7:30 p.m. ET without a final. Game 1 on 4 October was Dream 92, Liberty 82. Jordin Canada scored 25 points in 32 minutes. Allisha Gray is ruled out for Game 2. Game 3 is dated 9 October in New York.",
+  "stakes": "A Game 2 win for New York would tie the series. That win is not on the board.",
+  "rivalryAngle": "Atlanta leads 1-0. The road response has not been printed.",
   "home": "Atlanta Dream",
   "away": "New York Liberty",
   "group": "SF",
@@ -67,7 +67,7 @@
   "time": "19:00",
   "venue": "Gateway Center Arena",
   "city": "College Park",
-  "status": "FINISHED",
+  "status": "UPCOMING",
   "sport": "basketball",
   "competition": "wnba-2026"
 }

@@ -1,0 +1,68 @@
+{
+  "funFacts": [
+    "Croatia 1-2 Spain on Tuesday 6 October.",
+    "Ivan Perisic 18. Mikel Merino 61 and 88. Perisic sent off on 79.",
+    "Spain are through to the quarter-finals on 12 points from four wins."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Mikel Merino",
+      "team": "Spain",
+      "hook": "Both Spain goals, on 61 and 88 minutes."
+    },
+    {
+      "name": "Ivan Perisic",
+      "team": "Croatia",
+      "hook": "Scored on 18 minutes and was sent off on 79."
+    }
+  ],
+  "headToHead": "Spain +7, 12 points. England +11, 9 points.",
+  "tags": ["nations-league", "croatia", "spain"],
+  "homeCode": "CRO",
+  "awayCode": "ESP",
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 4,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/362258/pexels-photo-362258.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Nations League · Group A3",
+  "resultSummary": "Croatia 1-2 Spain. Spain through on 12 points.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NEWS.am Sport",
+      "url": "https://sport.news.am/eng/news/169439/"
+    },
+    {
+      "name": "Xinhua standings",
+      "url": "https://english.news.cn/20261007/3f31b534e6704b82a8c879f609f65616/c.html"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 1,
+  "awayScore": 2,
+  "slug": "croatia-1-2-spain-nations-league-2026",
+  "headline": "Croatia 1-2 Spain: Merino's brace sends Spain through",
+  "whyCareScore": 9.1,
+  "whyCareReason": "Spain are into the quarter-finals with two group games still to play. Portugal matched them on 12 points in Group A4.",
+  "teaser": "Perisic 18, then a red card on 79. Merino 61 and 88. Spain 12 points, England 9.",
+  "story": "Spain came from behind to beat Croatia 1-2 away on Tuesday 6 October. Ivan Perisic scored on 18 minutes and was sent off on 79. Mikel Merino scored on 61 and 88. Xinhua's table after Tuesday: Spain 4 wins, 12 goals for, 5 against, 12 points. Croatia have 3 points and a goal difference of -10. Spain and Portugal are the two League A sides already through.",
+  "stakes": "A quarter-final place with a game to spare. England, on 9, cannot be caught by Croatia on points alone from here in a way that passes Spain.",
+  "rivalryAngle": "Spain's perfect group record is four wins. England's goal difference is better, and it is not enough.",
+  "home": "Croatia",
+  "away": "Spain",
+  "group": "A3",
+  "date": "2026-10-06",
+  "time": "",
+  "venue": "Croatia",
+  "city": "Croatia",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "nations-league-2026"
+}

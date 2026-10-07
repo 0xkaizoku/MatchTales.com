@@ -10525,95 +10525,95 @@ export const STORY_I18N: Record<string, LocMap> = {
   },
   'uefa-nations-league-md3-eve-italy-belgium-england-2026': {
     "fr": {
-        "title": "Ligue des Nations J3: L Italie defie la Belgique, le Portugal deja qualifie",
-        "subtitle": "Les Azzurri recoivent les Diables Rouges a Rome. L Angleterre accueille la Grece a Wembley.",
-        "excerpt": "La troisieme journee de Ligue des Nations propose un choc italo-belge jeudi alors que le Portugal a deja valide son billet pour les quarts.",
+        "title": "Correction : l’Italie n’a pas reçu la Belgique, et l’Angleterre n’a pas joué la Grèce",
+        "subtitle": "La fenêtre d’octobre s’est fermée sur France 4-1 Belgique, Italie 3-1 Turquie, Angleterre 3-0 Tchéquie et Croatie 1-2 Espagne.",
+        "excerpt": "Une preview plus ancienne nommait les mauvaises affiches. Les résultats vérifiés du lundi et du mardi sont sur le bureau du 8 octobre.",
         "body": [
-                "Le football international reprend ses droits en Europe mercredi avant dix rencontres au programme jeudi en Ligue des Nations de l UEFA. L affiche du Groupe A2 opposera l Italie de Luciano Spalletti a la Belgique au Stadio Olimpico de Rome. Forts de leurs victoires de septembre face a la France et Israel, les Azzurri veulent conforter leur premiere place face a des Belges revanchards.",
-                "De son cote, l Angleterre de Lee Carsley defie la Grece a Wembley apres son festival 7-0 en Croatie. Pendant ce temps, le Portugal de Roberto Martinez a deja valide sa place en quarts de finale avec un bilan parfait de quatre victoires, ponctue par un succes 2-1 contre la Norvege.",
-                "Les championnats nationaux restent en pause jusqu au samedi 10 octobre, date de la reprise de la Premier League dominee par Manchester City avec 15 points."
+            "Cette page remplace une preview qui disait que l’Italie recevrait la Belgique à Rome et que l’Angleterre recevrait la Grèce à Wembley pendant cette fenêtre. Ce n’étaient pas les matchs.",
+            "Le lundi 5 octobre, la France a battu la Belgique 4-1 et l’Italie a battu la Turquie 3-1 à Bologne. Le mardi 6 octobre, l’Angleterre a battu la Tchéquie 3-0 et l’Espagne a battu la Croatie 2-1 à l’extérieur.",
+            "L’Espagne et le Portugal sont qualifiés avec 12 points. Le tableau complet est dans le récit de Ligue des nations du 8 octobre."
         ]
-},
+    },
     "es": {
-        "title": "Liga de Naciones J3: Italia se mide a Belgica con Portugal ya clasificada",
-        "subtitle": "La Azzurra recibe a los Diablos Rojos en Roma. Inglaterra espera a Grecia en Wembley.",
-        "excerpt": "La jornada 3 de la UEFA Nations League llega con el clasico Italia vs Belgica y diez choques continentales este jueves.",
+        "title": "Corrección: Italia no recibió a Bélgica, e Inglaterra no jugó contra Grecia",
+        "subtitle": "La ventana de octubre cerró con Francia 4-1 Bélgica, Italia 3-1 Turquía, Inglaterra 3-0 Chequia y Croacia 1-2 España.",
+        "excerpt": "Una previa anterior nombró los partidos equivocados. Los resultados verificados del lunes y del martes están en la mesa del 8 de octubre.",
         "body": [
-                "El futbol de selecciones centra todas las miradas europeas antes de los diez partidos programados para el jueves. En el Grupo A2, la renovada Italia de Spalletti se enfrenta a Belgica en el Estadio Olimpico de Roma tras firmar un pleno en septiembre ante Francia e Israel. Belgica necesita sumar para no descolgarse de los cuartos.",
-                "Inglaterra recibe a Grecia en Wembley tras su aplastante 7-0 a Croacia, mientras que Portugal ya celebro su pase a cuartos tras ganar 2-1 a Noruega y completar cuatro victorias consecutivas.",
-                "Las ligas domesticas regresaran el sabado 10 de octubre con el Manchester City al frente de la Premier League con pleno de 15 puntos."
+            "Esta página sustituye una previa que decía que Italia recibiría a Bélgica en Roma y que Inglaterra recibiría a Grecia en Wembley en esta ventana. Esos no fueron los partidos.",
+            "El lunes 5 de octubre, Francia venció a Bélgica 4-1 e Italia venció a Turquía 3-1 en Bolonia. El martes 6 de octubre, Inglaterra venció a Chequia 3-0 y España venció a Croacia 2-1 fuera de casa.",
+            "España y Portugal están clasificadas con 12 puntos. La tabla completa está en el relato de Nations League del 8 de octubre."
         ]
-},
+    },
     "de": {
-        "title": "Nations League 3. Spieltag: Italien fordert Belgien, Portugal vorzeitig weiter",
-        "subtitle": "Azzurri empfangen Rote Teufel in Rom. England bittet Griechenland in Wembley zum Duell.",
-        "excerpt": "Am Donnerstag stehen zehn Spiele in der Nations League an. Italien kaempft gegen Belgien um Platz eins, waehrend Portugal bereits im Viertelfinale steht.",
+        "title": "Korrektur: Italien hat Belgien nicht empfangen, und England hat nicht gegen Griechenland gespielt",
+        "subtitle": "Das Oktoberfenster endete mit Frankreich 4-1 Belgien, Italien 3-1 Türkei, England 3-0 Tschechien und Kroatien 1-2 Spanien.",
+        "excerpt": "Eine frühere Vorschau nannte die falschen Spiele. Die geprüften Montags- und Dienstagsergebnisse stehen auf dem Desk vom 8. Oktober.",
         "body": [
-                "Europas Laenderspielpause erreicht am Donnerstag ihren Hoehepunkt mit zehn Partien in der UEFA Nations League. Im Topspiel der Gruppe A2 trifft Italien im roemischen Stadio Olimpico auf Belgien. Nach zwei Siegen im September gegen Frankreich und Israel wollen die Azzurri ihre Spitzenposition festigen.",
-                "England empfaengt Griechenland im Wembley-Stadion nach dem furiosen 7-0 gegen Kroatien. Portugal hat derweil nach dem 2-1 ueber Norwegen mit vier Siegen aus vier Spielen bereits vorzeitig das Viertelfinalticket geloest.",
-                "Die Premier League pausiert weiter, Manchester City fuehrt die Tabelle mit makellosen 15 Punkten bis zum Wiederbeginn am 10. Oktober an."
+            "Diese Seite ersetzt eine Vorschau, die sagte, Italien empfange Belgien in Rom und England empfange Griechenland in Wembley in diesem Fenster. Das waren nicht die Spiele.",
+            "Am Montag, 5. Oktober, schlug Frankreich Belgien 4-1 und Italien schlug die Türkei 3-1 in Bologna. Am Dienstag, 6. Oktober, schlug England Tschechien 3-0 und Spanien schlug Kroatien 2-1 auswärts.",
+            "Spanien und Portugal sind mit 12 Punkten durch. Die volle Tabelle steht in der Nations-League-Geschichte vom 8. Oktober."
         ]
-},
+    },
     "it": {
-        "title": "Nations League 3a giornata: L Italia ospita il Belgio, Portogallo gia ai quarti",
-        "subtitle": "Azzurri all Olimpico contro i Diavoli Rossi. L Inghilterra sfida la Grecia a Wembley.",
-        "excerpt": "Giovedi di grande calcio europeo con dieci sfide di Nations League, tra cui la superclassica tra Italia e Belgio a Roma.",
+        "title": "Correzione: l’Italia non ha ospitato il Belgio, e l’Inghilterra non ha giocato contro la Grecia",
+        "subtitle": "La finestra di ottobre si è chiusa con Francia 4-1 Belgio, Italia 3-1 Turchia, Inghilterra 3-0 Cechia e Croazia 1-2 Spagna.",
+        "excerpt": "Una preview precedente indicava le partite sbagliate. I risultati verificati di lunedì e martedì sono sul desk dell’8 ottobre.",
         "body": [
-                "La sosta per le nazionali regala giovedi un turno ricco con dieci sfide di UEFA Nations League. Tutti i riflettori sono puntati sullo Stadio Olimpico di Roma per Italia-Belgio del Gruppo A2. La formazione di Luciano Spalletti, dopo i successi di settembre su Francia e Israele, cerca tre punti pesanti per blindare la qualificazione.",
-                "A Wembley l Inghilterra affronta la Grecia dopo il netto 7-0 inflitto alla Croazia. Nel frattempo il Portogallo ha gia staccato il pass per i quarti grazie al successo per 2-1 sulla Norvegia e quattro vittorie su quattro.",
-                "I campionati di club ripartiranno sabato 10 ottobre con il Manchester City saldamente in vetta alla Premier League a quota 15 punti."
+            "Questa pagina sostituisce una preview che diceva che l’Italia avrebbe ospitato il Belgio a Roma e che l’Inghilterra avrebbe ospitato la Grecia a Wembley in questa finestra. Non erano quelle le partite.",
+            "Lunedì 5 ottobre la Francia ha battuto il Belgio 4-1 e l’Italia ha battuto la Turchia 3-1 a Bologna. Martedì 6 ottobre l’Inghilterra ha battuto la Cechia 3-0 e la Spagna ha battuto la Croazia 2-1 in trasferta.",
+            "Spagna e Portogallo sono qualificate con 12 punti. La classifica completa è nel racconto di Nations League dell’8 ottobre."
         ]
-},
+    },
     "pl": {
-        "title": "Liga Narodow 3. kolejka: Wlochy podejmuja Belgie, Portugalia juz w cwiercfinale",
-        "subtitle": "Azzurri graja z Czerwonymi Diablami w Rzymie. Anglia podejmuje Grecje na Wembley.",
-        "excerpt": "Dziesiec meczow Ligi Narodow UEFA w czwartek przyniesie wielkie emocje z hitem Wlochy vs Belgia na czele.",
+        "title": "Korekta: Włochy nie gościły Belgii, a Anglia nie grała z Grecją",
+        "subtitle": "Okno październikowe zamknęło się wynikami Francja 4-1 Belgia, Włochy 3-1 Turcja, Anglia 3-0 Czechy i Chorwacja 1-2 Hiszpania.",
+        "excerpt": "Wcześniejsza zapowiedź podała złe mecze. Sprawdzone wyniki poniedziałku i wtorku są na biurku z 8 października.",
         "body": [
-                "Miedzynarodowy futbol wraca na europejskie stadiony przed czwartkowa seria dziesieciu spotkan Ligi Narodow UEFA. Najciekawiej zapowiada sie starcie grupy A2 w Rzymie, gdzie Wlochy Luciano Spallettiego zmierza sie z Belgia. Wlosi po dwoch wygranych we wrzesniu chca umocnic sie na prowadzeniu.",
-                "Na Wembley Anglia zagra z Grecja po wczesniejszym rozgromieniu Chorwacji 7-0. Portugalia zas zapewnila juz sobie awans do cwiercfinalu po wygranej 2-1 z Norwegia i komplecie dwunastu punktow.",
-                "Klubowe rozgrywki powroca w sobote 10 pazdziernika z prowadzacym w Premier League Manchesterem City."
+            "Ta strona zastępuje zapowiedź, która mówiła, że Włochy podejmą Belgię w Rzymie, a Anglia podejmie Grecję na Wembley w tym oknie. To nie były te mecze.",
+            "W poniedziałek 5 października Francja pokonała Belgię 4-1, a Włochy pokonały Turcję 3-1 w Bolonii. We wtorek 6 października Anglia pokonała Czechy 3-0, a Hiszpania wygrała w Chorwacji 2-1.",
+            "Hiszpania i Portugalia awansowały z 12 punktami. Pełna tabela jest w tekście o Lidze Narodów z 8 października."
         ]
-},
+    },
     "zh": {
-        "title": "欧国联第3轮前瞻：意大利罗马战比利时 葡萄牙提前晋级八强",
-        "subtitle": "蓝衣军团坐镇主场，英格兰温布利迎战希腊，十场大战蓄势待发。",
-        "excerpt": "周四欧国联将展开十场对决，意大利与比利时在奥林匹克球场展开强强对话，葡萄牙已提前锁定八强席位。",
+        "title": "更正：意大利没有主场迎战比利时，英格兰也没有对阵希腊",
+        "subtitle": "十月窗口以法国4-1比利时、意大利3-1土耳其、英格兰3-0捷克、克罗地亚1-2西班牙结束。",
+        "excerpt": "早先的前瞻写错了对阵。经核实的周一和周二结果在10月8日的编辑台上。",
         "body": [
-                "欧洲国家联赛周四将迎来第三比赛日的十场较量。焦点大战在罗马奥林匹克球场上演，斯帕莱蒂率领的意大利将在A2组迎战比利时。蓝衣军团9月份连克法国与以色列领跑积分榜，比利时则急需积分紧咬对手。",
-                "英格兰将在温布利球场迎战希腊，此前三狮军团曾在客场7-0大胜克罗地亚。与此同时，葡萄牙凭借2-1击败挪威取得四连胜，已提前锁定明年春季的八强名额。",
-                "欧洲主流联赛目前处于休战期，曼城以五战全胜积15分领跑英超，联赛将于10月10日星期六重燃战火。"
+            "本页替换一篇前瞻。那篇前瞻说意大利将在罗马主场迎战比利时，英格兰将在温布利主场迎战希腊。那些不是实际比赛。",
+            "10月5日周一，法国4-1击败比利时，意大利在博洛尼亚3-1击败土耳其。10月6日周二，英格兰3-0击败捷克，西班牙客场2-1击败克罗地亚。",
+            "西班牙和葡萄牙以12分出线。完整积分榜在10月8日的欧国联故事里。"
         ]
-},
+    },
     "ja": {
-        "title": "UEFAネーションズリーグ第3節：イタリア対ベルギー大一番、ポルトガルは8強決定",
-        "subtitle": "ローマで伝統国対決。イングランドはウェンブリーでギリシャを迎え撃つ。",
-        "excerpt": "木曜日に10試合が開催されるネーションズリーグ第3節。イタリア対ベルギーを筆頭に熱戦が期待される。",
+        "title": "訂正：イタリアはベルギーを迎え撃っておらず、イングランドはギリシャと対戦していない",
+        "subtitle": "10月の期間はフランス4-1ベルギー、イタリア3-1トルコ、イングランド3-0チェコ、クロアチア1-2スペインで閉じた。",
+        "excerpt": "以前のプレビューは対戦カードを誤って書いた。確認済みの月曜と火曜の結果は10月8日のデスクにある。",
         "body": [
-                "UEFAネーションズリーグは木曜日に10試合を控える。最大の注目カードはローマのスタディオ・オリンピコで行われるグループA2のイタリア対ベルギー。9月にフランスとイスラエルを連破したスパレッティ監督のイタリアは首位固めを狙う。",
-                "イングランドはクロアチア戦7-0の勢いそのままにギリシャと激突。一方ポルトガルはノルウェーを2-1で下し4連勝でいち早く準々決勝進出を決めた。",
-                "各国リーグ戦は10月10日土曜日に再開予定で、マンチェスター・シティが勝ち点15で首位をキープしている。"
+            "このページは、この期間にイタリアがローマでベルギーを迎え、イングランドがウェンブリーでギリシャを迎えると書いたプレビューを置き換える。実際の試合はそうではなかった。",
+            "10月5日月曜、フランスがベルギーを4-1で下し、イタリアがボローニャでトルコを3-1で下した。10月6日火曜、イングランドがチェコを3-0で下し、スペインがクロアチアにアウェーで2-1で勝った。",
+            "スペインとポルトガルは12点で突破した。完全な順位表は10月8日のネーションズリーグの記事にある。"
         ]
-},
+    },
     "ko": {
-        "title": "네이션스리그 3차전 프리뷰: 이탈리아 대 벨기에 격돌, 포르투갈 8강 확정",
-        "subtitle": "아주리 군단 로마에서 벨기에 맞아 결전. 잉글랜드 웸블리서 그리스 상대.",
-        "excerpt": "목요일 유럽 전역에서 네이션스리그 10경기가 열린다. 이탈리아와 벨기에의 맞대결이 최대 빅매치로 꼽힌다.",
+        "title": "정정: 이탈리아는 벨기에를 홈에서 맞지 않았고, 잉글랜드는 그리스와 경기하지 않았다",
+        "subtitle": "10월 기간은 프랑스 4-1 벨기에, 이탈리아 3-1 튀르키예, 잉글랜드 3-0 체코, 크로아티아 1-2 스페인으로 닫혔다.",
+        "excerpt": "이전 프리뷰가 잘못된 대진을 적었다. 확인된 월요일과 화요일 결과는 10월 8일 데스크에 있다.",
         "body": [
-                "UEFA 네이션스리그가 목요일 10경기를 앞두고 유럽 축구팬들의 이목을 집중시키고 있다. 로마 올림피코 스타디움에서 열리는 A2조 이탈리아와 벨기에의 승부가 백미다. 9월 프랑스와 이스라엘을 연파한 이탈리아는 조 1위 굳히기에 나선다.",
-                "잉글랜드는 크로아티아전 7-0 대승의 기세를 몰아 웸블리에서 그리스를 상대한다. 포르투갈은 노르웨이를 2-1로 잡고 4연승으로 8강행을 확정지었다.",
-                "클럽 리그는 10월 10일 토요일 재개되며, 맨체스터 시티가 승점 15점으로 프리미어리그 선두를 지키고 있다."
+            "이 페이지는 이번 기간에 이탈리아가 로마에서 벨기에를 홈으로 맞고 잉글랜드가 웸블리에서 그리스를 홈으로 맞는다고 쓴 프리뷰를 대체한다. 그 경기들은 아니었다.",
+            "10월 5일 월요일 프랑스가 벨기에를 4-1로 이겼고, 이탈리아가 볼로냐에서 튀르키예를 3-1로 이겼다. 10월 6일 화요일 잉글랜드가 체코를 3-0으로 이겼고, 스페인이 크로아티아 원정에서 2-1로 이겼다.",
+            "스페인과 포르투갈은 12점으로 진출했다. 전체 순위는 10월 8일 네이션스리그 이야기에 있다."
         ]
-},
+    },
     "ar": {
-        "title": "دوري الأمم الأوروبية الجولة 3: إيطاليا تواجه بلجيكا والبرتغال تعبر إلى ربع النهائي",
-        "subtitle": "الآزوري يستضيف الشياطين الحمر في روما، وإنجلترا تستقبل اليونان في ويمبلي.",
-        "excerpt": "تشهد الجولة الثالثة من دوري الأمم الأوروبية عشر مباريات قوية يوم الخميس تتصدرها قمة إيطاليا وبلجيكا.",
+        "title": "تصحيح: إيطاليا لم تستضف بلجيكا، وإنجلترا لم تلعب ضد اليونان",
+        "subtitle": "أُغلقت نافذة أكتوبر بفرنسا 4-1 بلجيكا، وإيطاليا 3-1 تركيا، وإنجلترا 3-0 التشيك، وكرواتيا 1-2 إسبانيا.",
+        "excerpt": "سمّت معاينة سابقة المباريات الخطأ. النتائج الموثقة للاثنين والثلاثاء على مكتب 8 أكتوبر.",
         "body": [
-                "تتجه أنظار عشاق الكرة الأوروبية إلى الجولة الثالثة لدوري الأمم يوم الخميس مع إقامة عشر مواجهات. تتصدر القمة في ملعب الأولمبيكو بروما بين إيطاليا وبلجيكا في المجموعة A2، حيث يسعى الآزوري بقيادة سباليتي لتعزيز صدارته بعد الفوز على فرنسا وإسرائيل في سبتمبر.",
-                "في ويمبلي، تواجه إنجلترا منتخب اليونان بعد فوزها العريض 7-0 على كرواتيا. بينما ضمنت البرتغال تأهلها لربع النهائي بعد فوزها الرابع توالياً أمام النرويج 2-1.",
-                "وتستأنف البطولات المحلية نشاطها يوم السبت 10 أكتوبر حيث يتصدر مانشستر سيتي الدوري الإنجليزي برصيد 15 نقطة."
+            "تستبدل هذه الصفحة معاينة قالت إن إيطاليا ستستضيف بلجيكا في روما وإن إنجلترا ستستضيف اليونان في ويمبلي في هذه النافذة. لم تكن تلك هي المباريات.",
+            "يوم الاثنين 5 أكتوبر فازت فرنسا على بلجيكا 4-1 وفازت إيطاليا على تركيا 3-1 في بولونيا. يوم الثلاثاء 6 أكتوبر فازت إنجلترا على التشيك 3-0 وفازت إسبانيا على كرواتيا 2-1 خارج الأرض.",
+            "تأهلت إسبانيا والبرتغال برصيد 12 نقطة. الجدول الكامل في حكاية دوري الأمم بتاريخ 8 أكتوبر."
         ]
-},
+    }
   },
   'baycurrent-classic-yokohama-eve-smotherman-aftermath-2026': {
     "fr": {
@@ -10801,554 +10801,554 @@ export const STORY_I18N: Record<string, LocMap> = {
   },
   'wnba-semifinals-game2-fallout-liberty-aces-level-2026': {
     "fr": {
-        "title": "WNBA Demi-finales Match 2: Le Liberty et les Aces egalisent a l exterieur",
-        "subtitle": "New York domine le Dream 86-80 grace a Ionescu. Wilson porte les Aces avec 28 points a San Francisco (83-74).",
-        "excerpt": "Battus lors du Match 1, le Liberty de New York et les Las Vegas Aces ont reagi mercredi soir pour ramener les deux series a 1-1.",
+        "title": "Les demi-finales WNBA sont toujours à 1-0. Le match 2 n’a pas de score final vérifié.",
+        "subtitle": "Dream 92, Liberty 82. Valkyries 71, Aces 60. Le match 2 de mercredi est au programme et pas sur la feuille de stats.",
+        "excerpt": "Basketball-Reference, ESPN et StatMuse montrent encore le match 2 sans score. Les lignes 86-80 et 83-74 ne sont pas sur ces tableaux.",
         "body": [
-                "Les tenantes du titre et favorites ont refuse de ceder. Menaces d un deficit de 0-2 apres leurs revers initiaux, le New York Liberty et les Las Vegas Aces ont repondu avec autorite mercredi soir pour egaliser a 1-1 dans leurs demi-finales.",
-                "A College Park, le Liberty s est impose 86-80 face au Dream d Atlanta derriere 26 points de Sabrina Ionescu et 21 points assortis de 12 rebonds pour Breanna Stewart. New York a boucle la rencontre sur un 11-4 decisif pour reprendre l avantage du terrain.",
-                "Au Chase Center de San Francisco, les Las Vegas Aces ont fait taire l enthousiasme des Golden State Valkyries (83-74). A'ja Wilson a ete magistrale avec 28 points, 13 rebonds et 4 contres. Les series se deplacent desormais a Brooklyn et Las Vegas pour le Match 3."
+            "Les demi-finales ne sont pas à égalité. Le match 1 du dimanche 4 octobre est définitif : Atlanta Dream 92, New York Liberty 82, et Golden State Valkyries 71, Las Vegas Aces 60. Les quarts de Scoremer pour le match du Dream sont Liberty 24, 16, 15, 27 et Dream 21, 16, 32, 23.",
+            "Jordin Canada a marqué 25 points en 32 minutes. Rhyne Howard a joué 40 minutes et a tiré 5 sur 20. Angel Reese a inscrit 17 points et 7 rebonds. DeWanna Bonner a marqué 23 points en sortie de banc. À San Francisco, Gabby Williams a marqué 25 points pour les Valkyries. A'ja Wilson a marqué 24 points en 21 tirs. Jackie Young a inscrit 11 points à 4 sur 15. Golden State a pris 51 rebonds contre 23 pour Las Vegas et a gagné le compte des secondes chances 20-3.",
+            "Le match 2 est programmé mercredi 7 octobre : Liberty chez Dream, 19 h 30 ET sur ESPN, et Aces chez les Valkyries, 21 h 30 ET sur Peacock. Basketball-Reference, CBS et StatMuse listent ces matchs sans score final. Allisha Gray est absente pour Atlanta. ESPN indique Dana Evans absente pour un genou, et Jewell Loyd ainsi que Stephanie Talbot en décision au coup d’envoi. Records de saison régulière chez StatMuse : Lynx 33-11, Valkyries 32-12, Aces 31-13, Dream 30-14, Liberty 26-18. Le match 3 est daté du vendredi 9 octobre. Aucune série n’est à 1-1 tant qu’une feuille du match 2 n’existe pas."
         ]
-},
+    },
     "es": {
-        "title": "WNBA Semifinales Juego 2: Liberty y Aces igualan las series como visitantes",
-        "subtitle": "New York supera al Dream 86-80 con Ionescu estelar. Wilson lidera a las Aces con 28 puntos en San Francisco (83-74).",
-        "excerpt": "Tras caer en el estreno, New York Liberty y Las Vegas Aces dieron un golpe en la mesa a domicilio para poner las semifinales 1-1.",
+        "title": "Las semifinales de la WNBA siguen 1-0. El Juego 2 no tiene marcador final verificado.",
+        "subtitle": "Dream 92, Liberty 82. Valkyries 71, Aces 60. El Juego 2 del miércoles está en el calendario y no en el acta.",
+        "excerpt": "Basketball-Reference, ESPN y StatMuse siguen mostrando el Juego 2 sin marcador. Las líneas 86-80 y 83-74 no están en esos tableros.",
         "body": [
-                "Las grandes potencias de la WNBA no perdonaron en el segundo asalto. Obligadas a ganar para no caer en un peligroso 0-2, New York Liberty y Las Vegas Aces impusieron su jerarquia el miercoles para empatar las semifinales a una victoria por bando.",
-                "En Atlanta, el Liberty resistio la presion local y se impuso 86-80 con 26 puntos de Sabrina Ionescu y 21 de Breanna Stewart. New York cerro el choque con un parcial de 11-4 para recuperar la ventaja de campo.",
-                "En San Francisco, Las Vegas Aces frenaron a las Golden State Valkyries por 83-74 de la mano de una intratable A'ja Wilson (28 puntos, 13 rebotes y 4 tapones). Las eliminatorias viajan ahora a Brooklyn y Las Vegas para el Juego 3."
+            "Las semifinales no están empatadas. El Juego 1 del domingo 4 de octubre es final: Atlanta Dream 92, New York Liberty 82, y Golden State Valkyries 71, Las Vegas Aces 60. Los cuartos de Scoremer del partido del Dream son Liberty 24, 16, 15, 27 y Dream 21, 16, 32, 23.",
+            "Jordin Canada anotó 25 puntos en 32 minutos. Rhyne Howard jugó 40 minutos y tiró 5 de 20. Angel Reese sumó 17 puntos y 7 rebotes. DeWanna Bonner anotó 23 desde el banquillo. En San Francisco, Gabby Williams anotó 25 para las Valkyries. A'ja Wilson anotó 24 en 21 tiros. Jackie Young sumó 11 puntos con 4 de 15. Golden State ganó los rebotes 51-23 y las segundas oportunidades 20-3.",
+            "El Juego 2 está programado para el miércoles 7 de octubre: Liberty en Dream, 19:30 ET en ESPN, y Aces en Valkyries, 21:30 ET en Peacock. Basketball-Reference, CBS y StatMuse listan esos partidos sin marcador final. Allisha Gray está baja en Atlanta. ESPN lista a Dana Evans baja por la rodilla, y a Jewell Loyd y Stephanie Talbot como decisiones al salto inicial. Marcas de temporada regular en StatMuse: Lynx 33-11, Valkyries 32-12, Aces 31-13, Dream 30-14, Liberty 26-18. El Juego 3 está fechado el viernes 9 de octubre. Ninguna serie es 1-1 hasta que exista un acta del Juego 2."
         ]
-},
+    },
     "de": {
-        "title": "WNBA-Halbfinale Spiel 2: Liberty und Aces gleichen Serien auswaerts aus",
-        "subtitle": "New York schlaegt Dream 86-80 dank Ionescu. Wilson fuehrt Aces mit 28 Punkten zum 83-74 ueber Valkyries.",
-        "excerpt": "Nach den Auftaktniederlagen antworteten die Favoriten am Mittwochabend: Liberty und Aces stellten in den WNBA-Halbfinals auf 1-1.",
+        "title": "Die WNBA-Halbfinals stehen weiter 1-0. Spiel 2 hat kein geprüftes Endergebnis.",
+        "subtitle": "Dream 92, Liberty 82. Valkyries 71, Aces 60. Spiel 2 vom Mittwoch steht im Plan und nicht im Boxscore.",
+        "excerpt": "Basketball-Reference, ESPN und StatMuse zeigen Spiel 2 weiter ohne Ergebnis. Die Zeilen 86-80 und 83-74 stehen nicht auf diesen Tafeln.",
         "body": [
-                "Die Schwergewichte der WNBA schlugen zurueck. Angesichts eines drohenden 0-2-Rueckstands zeigten die New York Liberty und Las Vegas Aces am Mittwochabend Nervenstaerke und glichen ihre Best-of-Five-Serien auf 1-1 aus.",
-                "In Atlanta setzten sich die Liberty mit 86-80 gegen die Dream durch. Sabrina Ionescu glaenzte mit 26 Punkten, waehrend Breanna Stewart 21 Zaehler und 12 Rebounds beisteuerte. Ein 11-4-Lauf im Schlussviertel brachte New York den Sieg.",
-                "Im Chase Center von San Francisco behielten die Las Vegas Aces mit 83-74 gegen die Golden State Valkyries die Oberhand. A'ja Wilson dominierte mit 28 Punkten und 13 Rebounds. Fuer Spiel 3 wechseln die Serien nun nach Brooklyn und Las Vegas."
+            "Die Halbfinals sind nicht ausgeglichen. Spiel 1 vom Sonntag, 4. Oktober, ist final: Atlanta Dream 92, New York Liberty 82, und Golden State Valkyries 71, Las Vegas Aces 60. Die Viertel von Scoremer im Dream-Spiel lauten Liberty 24, 16, 15, 27 und Dream 21, 16, 32, 23.",
+            "Jordin Canada erzielte 25 Punkte in 32 Minuten. Rhyne Howard spielte 40 Minuten und traf 5 von 20. Angel Reese hatte 17 Punkte und 7 Rebounds. DeWanna Bonner erzielte 23 von der Bank. In San Francisco erzielte Gabby Williams 25 für die Valkyries. A'ja Wilson erzielte 24 Punkte bei 21 Würfen. Jackie Young hatte 11 Punkte bei 4 von 15. Golden State gewann die Rebounds 51-23 und die zweiten Chancen 20-3.",
+            "Spiel 2 ist für Mittwoch, 7. Oktober, angesetzt: Liberty bei Dream, 19:30 ET auf ESPN, und Aces bei den Valkyries, 21:30 ET auf Peacock. Basketball-Reference, CBS und StatMuse führen diese Spiele ohne Endergebnis. Allisha Gray fehlt bei Atlanta. ESPN führt Dana Evans mit einer Knieverletzung als fehlend und Jewell Loyd sowie Stephanie Talbot als Entscheidungen zum Anwurf. Saisonbilanzen bei StatMuse: Lynx 33-11, Valkyries 32-12, Aces 31-13, Dream 30-14, Liberty 26-18. Spiel 3 ist auf Freitag, 9. Oktober, datiert. Keine Serie steht 1-1, solange kein Boxscore von Spiel 2 vorliegt."
         ]
-},
+    },
     "it": {
-        "title": "WNBA Semifinali Gara 2: Liberty e Aces pareggiano i conti in trasferta",
-        "subtitle": "New York piega le Dream 86-80 con una grande Ionescu. Wilson domina con 28 punti e spinge le Aces a San Francisco (83-74).",
-        "excerpt": "Reazione d orgoglio delle favorite: New York Liberty e Las Vegas Aces vincono Gara 2 fuori casa e impattano le semifinali sull 1-1.",
+        "title": "Le semifinali WNBA sono ancora sull’1-0. Gara 2 non ha un risultato finale verificato.",
+        "subtitle": "Dream 92, Liberty 82. Valkyries 71, Aces 60. Gara 2 di mercoledì è in programma e non sul tabellino.",
+        "excerpt": "Basketball-Reference, ESPN e StatMuse mostrano ancora Gara 2 senza risultato. Le righe 86-80 e 83-74 non sono su quei tabelloni.",
         "body": [
-                "Le corazzate della WNBA ristabiliscono la parita. Con le spalle al muro dopo le sconfitte di domenica, New York Liberty e Las Vegas Aces hanno risposto da campionesse mercoledi sera portando le rispettive serie sull 1-1.",
-                "Ad Atlanta, le Liberty hanno espugnato il Gateway Center per 86-80 grazie ai 26 punti di Sabrina Ionescu e ai 21 con 12 rimbalzi di Breanna Stewart. New York ha chiuso la contesa con un parziale di 11-4.",
-                "Al Chase Center di San Francisco, le Las Vegas Aces hanno superato le Golden State Valkyries per 83-74 sotto la guida di una sontuosa A'ja Wilson da 28 punti e 13 rimbalzi. Le serie si spostano ora a Brooklyn e Las Vegas per Gara 3."
+            "Le semifinali non sono in parità. Gara 1 di domenica 4 ottobre è definitiva: Atlanta Dream 92, New York Liberty 82, e Golden State Valkyries 71, Las Vegas Aces 60. I quarti di Scoremer della gara delle Dream sono Liberty 24, 16, 15, 27 e Dream 21, 16, 32, 23.",
+            "Jordin Canada ha segnato 25 punti in 32 minuti. Rhyne Howard ha giocato 40 minuti e ha tirato 5 su 20. Angel Reese ha avuto 17 punti e 7 rimbalzi. DeWanna Bonner ha segnato 23 dalla panchina. A San Francisco, Gabby Williams ha segnato 25 per le Valkyries. A'ja Wilson ha segnato 24 punti su 21 tiri. Jackie Young ha avuto 11 punti con 4 su 15. Golden State ha vinto i rimbalzi 51-23 e le seconde opportunità 20-3.",
+            "Gara 2 è in programma mercoledì 7 ottobre: Liberty dalle Dream, 19:30 ET su ESPN, e Aces dalle Valkyries, 21:30 ET su Peacock. Basketball-Reference, CBS e StatMuse elencano quelle gare senza risultato finale. Allisha Gray è out per Atlanta. ESPN indica Dana Evans out per un ginocchio, e Jewell Loyd e Stephanie Talbot come decisioni all’inizio. Record di regular season su StatMuse: Lynx 33-11, Valkyries 32-12, Aces 31-13, Dream 30-14, Liberty 26-18. Gara 3 è datata venerdì 9 ottobre. Nessuna serie è sull’1-1 finché non esiste un tabellino di Gara 2."
         ]
-},
+    },
     "pl": {
-        "title": "WNBA Polfinaly Mecz 2: Liberty i Aces wyrownuja stan rywalizacji na wyjezdzie",
-        "subtitle": "New York pokonuje Dream 86-80 po popisach Ionescu. Wilson rzuca 28 punktow i daje Aces wygrana z Valkyries 83-74.",
-        "excerpt": "Po porazkach w pierwszym meczu faworyci odpowiedzieli w wielkim stylu: Liberty i Aces doprowadzily do remisu 1-1 w polfinalach.",
+        "title": "Półfinały WNBA nadal są 1-0. Mecz nr 2 nie ma zweryfikowanego wyniku.",
+        "subtitle": "Dream 92, Liberty 82. Valkyries 71, Aces 60. Środa, mecz nr 2, jest w planie, a nie w protokole.",
+        "excerpt": "Basketball-Reference, ESPN i StatMuse nadal pokazują mecz nr 2 bez wyniku. Linie 86-80 i 83-74 nie są na tych tablicach.",
         "body": [
-                "Potegi WNBA nie pozwolily zepchnac sie na krawedz przepasci. Majac w perspektywie niebezpieczny stan 0-2, New York Liberty oraz Las Vegas Aces wygraly mecze numer dwa na parkietach rywalek, wyrownujac stan serii na 1-1.",
-                "W Atlancie koszykarki Liberty wygraly z Dream 86-80. Liderka byla Sabrina Ionescu z 26 punktami, a Breanna Stewart dolozyla 21 punktow i 12 zbiorek. Decydujacy okazal sie zryw 11-4 w koncowce.",
-                "W San Francisco Las Vegas Aces pokonaly Golden State Valkyries 83-74. Niesamowity mecz rozegrala A'ja Wilson, notujac 28 punktow, 13 zbiorek i 4 bloki. Mecz numer 3 odbedzie sie w Nowym Jorku oraz Las Vegas."
+            "Półfinały nie są zremisowane. Mecz 1 z niedzieli 4 października jest ostateczny: Atlanta Dream 92, New York Liberty 82 oraz Golden State Valkyries 71, Las Vegas Aces 60. Kwarty Scoremer w meczu Dream to Liberty 24, 16, 15, 27 i Dream 21, 16, 32, 23.",
+            "Jordin Canada zdobyła 25 punktów w 32 minuty. Rhyne Howard grała 40 minut i trafiła 5 z 20. Angel Reese miała 17 punktów i 7 zbiórek. DeWanna Bonner zdobyła 23 punkty z ławki. W San Francisco Gabby Williams zdobyła 25 punktów dla Valkyries. A'ja Wilson zdobyła 24 punkty przy 21 rzutach. Jackie Young miała 11 punktów przy 4 z 15. Golden State wygrało zbiórki 51-23 i drugie szanse 20-3.",
+            "Mecz nr 2 jest w planie na środę 7 października: Liberty u Dream, 19:30 ET w ESPN, oraz Aces u Valkyries, 21:30 ET w Peacock. Basketball-Reference, CBS i StatMuse wpisują te mecze bez wyniku końcowego. Allisha Gray nie gra w Atlancie. ESPN podaje Danę Evans jako nieobecną przez kolano, a Jewell Loyd i Stephanie Talbot jako decyzje przed meczem. Bilans sezonu zasadniczego w StatMuse: Lynx 33-11, Valkyries 32-12, Aces 31-13, Dream 30-14, Liberty 26-18. Mecz nr 3 ma datę piątek 9 października. Żadna seria nie jest 1-1, dopóki nie ma protokołu meczu nr 2."
         ]
-},
+    },
     "zh": {
-        "title": "WNBA半决赛G2综述：自由人与王牌客场反弹将总比分扳为1-1",
-        "subtitle": "约内斯库砍下26分率自由人86-80险胜梦想，威尔逊轰下28分13板助王牌83-74击败女武神。",
-        "excerpt": "上赛季冠亚军在周三晚客场展现底蕴，自由人与王牌双双获胜，将半决赛大比分扳成1-1平。",
+        "title": "WNBA半决赛仍是1-0。第二场没有经核实的终场比分。",
+        "subtitle": "梦想92，自由人82。女武神71，王牌60。周三的第二场在赛程上，不在技术统计上。",
+        "excerpt": "Basketball-Reference、ESPN和StatMuse仍显示第二场没有比分。86-80和83-74不在这些记分牌上。",
         "body": [
-                "两支联盟豪门拒绝陷入绝境。在首战客场告负的重压之下，纽约自由人与拉斯维加斯王牌在周三晚双双打出坚韧表现，将五战三胜制的半决赛总比分顽强扳为1-1平。",
-                "在亚特兰大，自由人顶住主场声浪以86-80力克梦想队。约内斯库命中4记三分砍下全场最高的26分，斯图尔特贡献21分12篮板。末节最后阶段自由人打出11-4攻击波锁定胜局，夺回主场优势。",
-                "在旧金山大通中心，王牌队以83-74战胜金州女武神。阿贾·威尔逊打出统治级表现狂砍28分13篮板4盖帽，普拉姆贡献20分。两队系列赛移师布鲁克林与拉斯维加斯进行G3较量。"
+            "半决赛没有战平。10月4日周日的第一场已经结束：亚特兰大梦想92，纽约自由人82；金州女武神71，拉斯维加斯王牌60。Scoremer对梦想这场的节次比分是自由人24、16、15、27，梦想21、16、32、23。",
+            "乔丁·卡纳达32分钟得到25分。莱恩·霍华德打了40分钟，20投5中。安吉尔·里斯17分7篮板。德万娜·邦纳替补得到23分。在旧金山，加比·威廉姆斯为女武神得到25分。阿贾·威尔逊21次出手得到24分。杰基·扬15投4中得到11分。金州篮板51-23占优，二次进攻20-3。",
+            "第二场排在10月7日周三：自由人客战梦想，美东19:30，ESPN；王牌客战女武神，美东21:30，Peacock。Basketball-Reference、CBS和StatMuse列出这些比赛但没有终场比分。亚特兰大的阿莉莎·格雷缺阵。ESPN列达娜·埃文斯因膝盖缺阵，朱厄尔·劳埃德和斯蒂芬妮·塔尔博特为赛前决定。StatMuse常规赛战绩：山猫33胜11负，女武神32胜12负，王牌31胜13负，梦想30胜14负，自由人26胜18负。第三场日期是10月9日周五。在第二场技术统计出现之前，没有系列赛是1-1。"
         ]
-},
+    },
     "ja": {
-        "title": "WNBA準決勝第2戦：リバティとエイシズが敵地で雪辱、シリーズを1-1のタイに戻す",
-        "subtitle": "イオネスク26得点でリバティがドリームを86-80で撃破。ウィルソン28得点13リバウンドでエイシズが83-74勝利。",
-        "excerpt": "初戦を落としたリバティとエイシズが水曜夜のアウェー戦で勝利を収め、準決勝シリーズを1勝1敗の五分に戻した。",
+        "title": "WNBA準決勝はなお1勝0敗。第2戦に確認済みの最終スコアはない。",
+        "subtitle": "ドリーム92、リバティ82。ヴァルキリーズ71、エーシズ60。水曜の第2戦は日程にあり、ボックススコアにはない。",
+        "excerpt": "Basketball-Reference、ESPN、StatMuseは第2戦をスコアなしのまま示している。86-80と83-74はそれらのボードにない。",
         "body": [
-                "強豪チームが意地を見せた。0勝2敗の危機に直面したニューヨーク・リバティとラスベガス・エイシズは水曜夜の第2戦で勝利を掴み、5戦3勝制のシリーズを1-1の振り出しに戻した。",
-                "アトランタではリバティがサブリナ・イオネスクの26得点、ブレアナ・スチュワートの21得点12リバウンドの活躍でドリームを86-80で退けた。終盤に11-4の猛攻を見せてアウェーで白星を奪った。",
-                "サンフランシスコではエイシズがエイジャ・ウィルソンの28得点13リバウンド4ブロックの支配的な活躍でヴァルキリーズを83-74で下した。第3戦は舞台をブルックリンとラスベガスに移して行われる。"
+            "準決勝はタイではない。10月4日日曜の第1戦は終了している。アトランタ・ドリーム92、ニューヨーク・リバティ82。ゴールデンステート・ヴァルキリーズ71、ラスベガス・エーシズ60。Scoremerのドリーム戦のクォーターはリバティ24、16、15、27、ドリーム21、16、32、23。",
+            "ジョーダン・カナダは32分で25得点。ライン・ハワードは40分出場し、20本中5本。エンジェル・リースは17得点7リバウンド。デワナ・ボナーはベンチから23得点。サンフランシスコではギャビー・ウィリアムズがヴァルキリーズで25得点。エイジャ・ウィルソンは21本のシュートで24得点。ジャッキー・ヤングは15本中4本で11得点。ゴールデンステートはリバウンド51-23、セカンドチャンス20-3。",
+            "第2戦は10月7日水曜の予定。リバティ対ドリームは米東部午後7時30分、ESPN。エーシズ対ヴァルキリーズは午後9時30分、Peacock。Basketball-Reference、CBS、StatMuseはこれらの試合を最終スコアなしで載せている。アトランタはアリシャ・グレイが欠場。ESPNはダナ・エバンスを膝で欠場、ジュエル・ロイドとステファニー・タルボットを試合前決定としている。StatMuseのレギュラーシーズン成績：リンクス33勝11敗、ヴァルキリーズ32勝12敗、エーシズ31勝13敗、ドリーム30勝14敗、リバティ26勝18敗。第3戦の日付は10月9日金曜。第2戦のボックススコアがあるまで、どのシリーズも1勝1敗ではない。"
         ]
-},
+    },
     "ko": {
-        "title": "WNBA 4강 2차전: 리버티와 에이스, 원정서 반격 성공하며 시리즈 1-1 원점",
-        "subtitle": "이오네스쿠 26점 활약 리버티 86-80 승리. 윌슨 28점 13리바운드 에이스 83-74 발키리스 제압.",
-        "excerpt": "1차전 충격을 딛고 리버티와 에이스가 수요일 원정 2차전에서 나란히 승리하며 4강 승부를 1승 1패 원점으로 돌렸다.",
+        "title": "WNBA 준결승은 여전히 1승 0패. 2차전은 확인된 최종 점수가 없다.",
+        "subtitle": "드림 92, 리버티 82. 발키리스 71, 에이시스 60. 수요일 2차전은 일정에 있고 박스스코어에는 없다.",
+        "excerpt": "Basketball-Reference, ESPN, StatMuse는 2차전을 점수 없이 보여 준다. 86-80과 83-74는 그 보드에 없다.",
         "body": [
-                "WNBA 최강팀들이 저력을 발휘했다. 0-2 벼랑 끝 위기에서 뉴욕 리버티와 라스베이거스 에이스는 수요일 밤 원정에서 값진 승리를 챙기며 시리즈 전적 1승 1패 균형을 맞췄다.",
-                "애틀랜타에서 리버티는 사브리나 이오네스쿠의 26점과 브리아나 스튜어트의 21점 12리바운드 활약을 앞세워 드림을 86-80으로 제압했다. 경기 막판 11-4 스퍼트로 승기를 잡았다.",
-                "샌프란시스코 체이스 센터에서는 에이스가 28점 13리바운드 4블록을 몰아친 에이자 윌슨의 맹활약으로 골든스테이트 발키리스를 83-74로 꺾었다. 3차전은 브루클린과 라스베이거스 홈에서 열린다."
+            "준결승은 동률이 아니다. 10월 4일 일요일 1차전은 끝났다. 애틀랜타 드림 92, 뉴욕 리버티 82. 골든스테이트 발키리스 71, 라스베이거스 에이시스 60. Scoremer의 드림전 쿼터는 리버티 24, 16, 15, 27, 드림 21, 16, 32, 23.",
+            "조딘 캐나다는 32분에 25점. 라인 하워드는 40분을 뛰고 20개 중 5개를 넣었다. 앤젤 리스는 17점 7리바운드. 드와나 보너는 벤치에서 23점. 샌프란시스코에서 개비 윌리엄스가 발키리스를 위해 25점을 넣었다. 아자 윌슨은 21개 슛으로 24점. 재키 영은 15개 중 4개로 11점. 골든스테이트가 리바운드 51-23, 세컨드 찬스 20-3.",
+            "2차전은 10월 7일 수요일 일정이다. 리버티 대 드림은 미 동부 오후 7시 30분 ESPN. 에이시스 대 발키리스는 오후 9시 30분 Peacock. Basketball-Reference, CBS, StatMuse는 이 경기를 최종 점수 없이 올렸다. 애틀랜타의 알리샤 그레이는 결장. ESPN은 다나 에번스를 무릎 결장, 주얼 로이드와 스테퍼니 탤벗을 경기 전 결정으로 적는다. StatMuse 정규시즌: 링크스 33승 11패, 발키리스 32승 12패, 에이시스 31승 13패, 드림 30승 14패, 리버티 26승 18패. 3차전 날짜는 10월 9일 금요일. 2차전 박스스코어가 생기기 전에는 어떤 시리즈도 1승 1패가 아니다."
         ]
-},
+    },
     "ar": {
-        "title": "نصف نهائي WNBA المباراة 2: ليبرتي وإيسيس يعادلان السلسلة 1-1 في مواجهات نارية",
-        "subtitle": "نيويورك تهزم دريم 86-80 بفضل يونيسكو، وويلسون تقود إيسيس للفوز 83-74 على فالكيريز.",
-        "excerpt": "استعادت الفرق المرشحة توازنها خارج الديار مساء الأربعاء، ليتعادل نيويورك ليبرتي ولاس فيغاس إيسيس 1-1 في نصف النهائي.",
+        "title": "نصف نهائي WNBA ما زال 1-0. المباراة 2 بلا نتيجة نهائية موثقة.",
+        "subtitle": "دريم 92، ليبرتي 82. فالكيريز 71، إيسيس 60. المباراة 2 يوم الأربعاء في الجدول وليست في المحضر.",
+        "excerpt": "ما زالت Basketball-Reference وESPN وStatMuse تعرض المباراة 2 بلا نتيجة. خطا 86-80 و83-74 ليسا على تلك اللوحات.",
         "body": [
-                "رفضت الأندية الكبرى في دوري WNBA الاستسلام بعد خسارة الجولة الأولى، ونجح فريقي نيويورك ليبرتي ولاس فيغاس إيسيس في إدراك التعادل 1-1 خارج الديار في سلسلة نصف النهائي.",
-                "في أتلانتا، تفوق ليبرتي بنتيجة 86-80 بفضل 26 نقطة من سابرينا يونيسكو و21 نقطة و12 متابعة من برينا ستيوارت، مع تسجيل 11 نقطة مقابل 4 في اللحظات الحاسمة.",
-                "وفي سان فرانسيسكو، قادت إيجا ويلسون فريق إيسيس للفوز 83-74 على غولدن ستيت فالكيريز مسجلة 28 نقطة و13 متابعة. وتنتقل السلسلة الآن إلى بروكلين ولاس فيغاس للمباراة الثالثة."
+            "نصف النهائي ليس متعادلا. المباراة 1 يوم الأحد 4 أكتوبر نهائية: أتلانتا دريم 92، نيويورك ليبرتي 82، وغولدن ستيت فالكيريز 71، ولاس فيغاس إيسيس 60. أرباع Scoremer لمباراة دريم هي ليبرتي 24 و16 و15 و27، ودريم 21 و16 و32 و23.",
+            "سجلت جوردين كندا 25 نقطة في 32 دقيقة. لعبت راين هوارد 40 دقيقة وسددت 5 من 20. كان لدى أنجل ريس 17 نقطة و7 متابعات. سجلت ديفانا بونر 23 من مقاعد البدلاء. في سان فرانسيسكو سجلت غابي ويليامز 25 لفالكيريز. سجلت آجا ويلسون 24 نقطة من 21 تسديدة. كان لدى جاكي يونغ 11 نقطة من 4 من 15. فازت غولدن ستيت بالمتابعات 51-23 وبالفرص الثانية 20-3.",
+            "المباراة 2 مجدولة الأربعاء 7 أكتوبر: ليبرتي عند دريم، 7:30 مساء شرقي على ESPN، وإيسيس عند فالكيريز، 9:30 مساء شرقي على Peacock. تدرج Basketball-Reference وCBS وStatMuse هذه المباريات بلا نتيجة نهائية. أليشا غراي غائبة عن أتلانتا. تدرج ESPN دانا إيفانز غائبة بسبب الركبة، وجويل لويد وستيفاني تالبوت قرارًا قبل المباراة. سجلات الموسم المنتظم لدى StatMuse: لينكس 33-11، فالكيريز 32-12، إيسيس 31-13، دريم 30-14، ليبرتي 26-18. المباراة 3 بتاريخ الجمعة 9 أكتوبر. لا سلسلة عند 1-1 قبل وجود محضر للمباراة 2."
         ]
-},
+    }
   },
   'nfl-week5-tnf-falcons-buccaneers-nfc-south-battle-2026': {
     "fr": {
-        "title": "Coup d envoi du Thursday Night Football: Les Falcons et Buccaneers se disputent la tete du Sud",
-        "subtitle": "Tampa Bay accueille Atlanta au Raymond James Stadium. Les Chiefs et Vikings restent a 4-0.",
-        "excerpt": "La semaine 5 de la NFL debute jeudi soir a Tampa avec un duel de division NFC Sud palpitant entre Falcons et Buccaneers.",
+        "title": "Le Thursday Night Football, c’est Buccaneers contre Cowboys, pas Falcons contre Buccaneers",
+        "subtitle": "Tampa Bay est à 0-4. Dallas est à 2-2. Coup d’envoi à 20 h 15 ET à l’AT&T Stadium. Aucun score n’est final.",
+        "excerpt": "ESPN et la NFL inscrivent Buccaneers chez les Cowboys le jeudi 8 octobre. Les Falcons sont à 2-2 et reçoivent les Ravens dimanche soir.",
         "body": [
-                "Les courses de division en NFL se jouent des le mois d octobre, et la NFC Sud dispute son premier grand choc en prime-time jeudi soir au Raymond James Stadium entre les Falcons d Atlanta et les Buccaneers de Tampa Bay.",
-                "Atlanta arrive avec seulement trois jours de repos apres sa defaite cruelle 26-24 lundi soir face aux Saints. Kirk Cousins et Bijan Robinson feront face a la defense agressive de Tampa Bay menee par Todd Bowles. De leur cote, les Buccaneers de Baker Mayfield veulent profiter de l avantage du terrain pour prendre seuls les commandes de la division.",
-                "En toile de fond, les Kansas City Chiefs et les Minnesota Vikings restent les deux seules equipes invaincues de la ligue a 4-0. Le vainqueur de jeudi soir prendra une option precieuse dans la course aux playoffs."
+            "Le TNF de la semaine 5, c’est Tampa Bay à Dallas, 20 h 15 ET sur Prime Video à l’AT&T Stadium. ESPN et le tableau NFL donnent les Buccaneers à 0-4 et les Cowboys à 2-2, et aucun des deux n’a de score final. Les Falcons ne jouent pas ce match. Ils sont à 2-2 et reçoivent Baltimore dimanche soir.",
+            "Le dernier match des Buccaneers est une défaite 17-14 contre les Packers le 4 octobre. Baker Mayfield a manqué ce coup d’envoi avec un pouce déboîté. Jalon Daniels a lancé deux interceptions pour sa première titularisation. Mayfield est le quarterback inscrit au duel de passes du jeudi : 61 sur 96, 615 yards, 2 touchdowns et 2 interceptions en trois matchs. Dak Prescott est à 105 sur 150, 1 065 yards, 8 touchdowns et 1 interception. Dimanche à Houston, CeeDee Lamb a pris 17 passes pour 189 yards et le touchdown de 12 yards à 40 secondes de la fin d’une victoire 34-30 des Cowboys. Javonte Williams a marqué trois touchdowns au sol. SirVocea Dennis (cheville) et Benjamin Morrison (quadriceps) sont absents pour Tampa Bay. Trois équipes sont à 4-0 : Chiefs, Vikings et 49ers. Kansas City est en semaine de repos après un 30-27 chez les Raiders, avec Patrick Mahomes à 225 yards et deux touchdowns à la passe, et Kenneth Walker III à 177 yards et deux touchdowns au sol. Minnesota va à La Nouvelle-Orléans dimanche. San Francisco va à Seattle. Carolina et Kansas City sont les byes de la semaine 5.",
+            "Aucun score du jeudi n’est imprimé tant que le match n’est pas terminé. Une défaite laisserait Tampa Bay à 0-5. Une victoire ferait sortir Dallas du 2-2 avant le match de Philadelphie à Londres dimanche matin. Falcons contre Buccaneers au calendrier, c’est le 1er novembre, pas ce soir."
         ]
-},
+    },
     "es": {
-        "title": "Arranca el Thursday Night Football: Falcons y Buccaneers por el liderato del Sur",
-        "subtitle": "Tampa Bay recibe a Atlanta en el Raymond James Stadium. Chiefs y Vikings mandan con 4-0.",
-        "excerpt": "La Semana 5 de la NFL abre este jueves en Tampa con un duelo divisional de alto voltaje por el liderato de la NFC Sur.",
+        "title": "El Thursday Night Football es Buccaneers en Cowboys, no Falcons en Buccaneers",
+        "subtitle": "Tampa Bay está 0-4. Dallas está 2-2. El inicio es a las 20:15 ET en el AT&T Stadium. No hay marcador final.",
+        "excerpt": "ESPN y la NFL anotan Buccaneers en Cowboys el jueves 8 de octubre. Los Falcons están 2-2 y reciben a los Ravens el domingo por la noche.",
         "body": [
-                "Las batallas divisionales marcan el rumbo de la temporada en otono y la NFC Sur vive este jueves un duelo directo en horario estelar entre Atlanta Falcons y Tampa Bay Buccaneers.",
-                "Atlanta encara el partido con apenas tres dias de descanso tras caer 26-24 el lunes por la noche frente a los Saints. Kirk Cousins y Bijan Robinson tendran que superar la presion defensiva de Tampa Bay, donde Baker Mayfield busca afianzar el liderato divisional.",
-                "Mientras tanto, Kansas City Chiefs y Minnesota Vikings se mantienen como los unicos invictos de la NFL con 4-0. El triunfo del jueves otorgara una ventaja crucial en el desempate divisional."
+            "El TNF de la Semana 5 es Tampa Bay en Dallas, 20:15 ET en Prime Video en el AT&T Stadium. ESPN y el marcador de la NFL dejan a los Buccaneers en 0-4 y a los Cowboys en 2-2, y ninguno tiene resultado final. Los Falcons no están en este partido. Van 2-2 y reciben a Baltimore el domingo por la noche.",
+            "El último partido de los Buccaneers fue una derrota 17-14 ante los Packers el 4 de octubre. Baker Mayfield se perdió esa titularidad por un pulgar dislocado. Jalon Daniels lanzó dos intercepciones en su primer partido como titular. Mayfield es el quarterback que figura en el duelo de pases del jueves: 61 de 96 para 615 yardas, 2 touchdowns y 2 intercepciones en tres partidos. Dak Prescott va 105 de 150 para 1.065 yardas, 8 touchdowns y 1 intercepción. El domingo en Houston, CeeDee Lamb atrapó 17 pases para 189 yardas y el touchdown de 12 yardas a falta de 40 segundos en una victoria 34-30 de los Cowboys. Javonte Williams anotó tres touchdowns terrestres. SirVocea Dennis (tobillo) y Benjamin Morrison (cuádriceps) están fuera en Tampa Bay. Tres equipos van 4-0: Chiefs, Vikings y 49ers. Kansas City descansa tras ganar 30-27 en casa de los Raiders, con Patrick Mahomes para 225 yardas y dos touchdowns, y Kenneth Walker III con 177 yardas y dos touchdowns terrestres. Minnesota visita Nueva Orleans el domingo. San Francisco visita Seattle. Carolina y Kansas City son los descansos de la Semana 5.",
+            "No se imprime un marcador del jueves hasta que el partido sea final. Una derrota dejaría a Tampa Bay en 0-5. Una victoria sacaría a Dallas del 2-2 antes de que Filadelfia juegue en Londres el domingo por la mañana. Falcons en Buccaneers en el calendario de la temporada es el 1 de noviembre, no esta noche."
         ]
-},
+    },
     "de": {
-        "title": "Thursday Night Football Auftakt: Falcons und Buccaneers kaempfen um NFC-South-Krone",
-        "subtitle": "Tampa Bay empfaengt Atlanta im Raymond James Stadium. Ungeschlagene Chiefs und Vikings an der Spitze.",
-        "excerpt": "Woche 5 der NFL startet am Donnerstagabend in Tampa mit einem packenden Divisionsduell um Platz eins in der NFC South.",
+        "title": "Thursday Night Football ist Buccaneers bei den Cowboys, nicht Falcons bei den Buccaneers",
+        "subtitle": "Tampa Bay ist 0-4. Dallas ist 2-2. Anstoß 20:15 ET im AT&T Stadium. Es gibt kein Endergebnis.",
+        "excerpt": "ESPN und die NFL führen Buccaneers bei den Cowboys am Donnerstag, 8. Oktober. Die Falcons sind 2-2 und empfangen die Ravens am Sonntagabend.",
         "body": [
-                "Die Divisionsduelle im Oktober sind oft wegweisend: Am Donnerstagabend treffen die Atlanta Falcons und Tampa Bay Buccaneers im Raymond James Stadium zum Auftakt der NFL-Woche 5 aufeinander.",
-                "Atlanta muss mit nur drei Tagen Pause nach der 24-26-Niederlage gegen die Saints antreten. Kirk Cousins und Bijan Robinson treffen auf die druckvolle Defense der Bucs, waehrend Baker Mayfield den Heimvorteil nutzen will.",
-                "In der gesamten Liga bleiben die Kansas City Chiefs und Minnesota Vikings mit 4-0 ungeschlagen das Mass aller Dinge. Dem Sieger in Tampa winkt die alleinige Tabellenfuehrung der NFC South."
+            "Das TNF der Woche 5 ist Tampa Bay in Dallas, 20:15 ET auf Prime Video im AT&T Stadium. ESPN und der NFL-Spielplan führen die Buccaneers mit 0-4 und die Cowboys mit 2-2, und keines der beiden Spiele hat ein Endergebnis. Die Falcons spielen hier nicht. Sie sind 2-2 und empfangen Baltimore am Sonntagabend.",
+            "Das letzte Spiel der Buccaneers war eine 17-14-Niederlage gegen die Packers am 4. Oktober. Baker Mayfield fehlte mit einem ausgekugelten Daumen. Jalon Daniels warf bei seinem ersten Start zwei Interceptions. Mayfield ist der Quarterback im Pass-Duell des Donnerstags: 61 von 96 für 615 Yards, 2 Touchdowns und 2 Interceptions in drei Spielen. Dak Prescott steht bei 105 von 150 für 1.065 Yards, 8 Touchdowns und 1 Interception. Am Sonntag in Houston fing CeeDee Lamb 17 Pässe für 189 Yards und den 12-Yards-Touchdown 40 Sekunden vor Schluss beim 34-30 der Cowboys. Javonte Williams erlief drei Touchdowns. SirVocea Dennis (Knöchel) und Benjamin Morrison (Quadrizeps) fehlen bei Tampa Bay. Drei Teams sind 4-0: Chiefs, Vikings und 49ers. Kansas City hat Bye nach einem 30-27 bei den Raiders, Patrick Mahomes mit 225 Yards und zwei Touchdown-Pässen, Kenneth Walker III mit 177 Yards und zwei Lauf-Touchdowns. Minnesota ist am Sonntag in New Orleans. San Francisco ist in Seattle. Carolina und Kansas City haben in Woche 5 Bye.",
+            "Ein Donnerstagsergebnis wird erst gedruckt, wenn das Spiel vorbei ist. Eine Niederlage ließe Tampa Bay bei 0-5. Ein Sieg holt Dallas vom 2-2, bevor Philadelphia am Sonntagmorgen in London spielt. Falcons bei den Buccaneers steht am 1. November im Kalender, nicht heute Abend."
         ]
-},
+    },
     "it": {
-        "title": "Thursday Night Football al via: Falcons e Buccaneers si contendono la vetta della NFC South",
-        "subtitle": "Tampa Bay ospita Atlanta al Raymond James Stadium. Chiefs e Vikings imbattuti a 4-0.",
-        "excerpt": "La quinta settimana della NFL comincia giovedi notte a Tampa con una classica sfida divisionale per il primato nella NFC South.",
+        "title": "Il Thursday Night Football è Buccaneers contro Cowboys, non Falcons contro Buccaneers",
+        "subtitle": "Tampa Bay è sul 0-4. Dallas è sul 2-2. Il calcio d’inizio è alle 20:15 ET all’AT&T Stadium. Nessun risultato è definitivo.",
+        "excerpt": "ESPN e la NFL indicano Buccaneers contro Cowboys giovedì 8 ottobre. I Falcons sono sul 2-2 e ospitano i Ravens domenica sera.",
         "body": [
-                "Le sfide di divisione in autunno pesano doppio: giovedi notte al Raymond James Stadium va in scena il duello di NFC South tra Atlanta Falcons e Tampa Bay Buccaneers.",
-                "Atlanta arriva con pochissimo riposo dopo il ko di misura per 26-24 subito lunedi contro i Saints. Kirk Cousins e Bijan Robinson dovranno vedersela contro la difesa fisica dei Buccaneers guidata da Baker Mayfield in attacco.",
-                "Sullo sfondo, i Kansas City Chiefs e i Minnesota Vikings guidano la lega con un perfetto 4-0. Chi vincera stasera si prendera la testa solitaria della division."
+            "Il TNF della Week 5 è Tampa Bay a Dallas, 20:15 ET su Prime Video all’AT&T Stadium. ESPN e il tabellone NFL danno i Buccaneers sul 0-4 e i Cowboys sul 2-2, e nessuno dei due ha un risultato finale. I Falcons non sono in questa gara. Sono sul 2-2 e ospitano Baltimore domenica sera.",
+            "L’ultima gara dei Buccaneers è una sconfitta 17-14 contro i Packers il 4 ottobre. Baker Mayfield ha saltato quel kickoff per un pollice lussato. Jalon Daniels ha lanciato due intercetti nella sua prima titolarità. Mayfield è il quarterback indicato nel duello di passaggi del giovedì: 61 su 96, 615 yard, 2 touchdown e 2 intercetti in tre gare. Dak Prescott è a 105 su 150, 1.065 yard, 8 touchdown e 1 intercetto. Domenica a Houston, CeeDee Lamb ha preso 17 passaggi per 189 yard e il touchdown da 12 yard a 40 secondi dalla fine nella vittoria 34-30 dei Cowboys. Javonte Williams ha segnato tre touchdown su corsa. SirVocea Dennis (caviglia) e Benjamin Morrison (quadricipite) sono out per Tampa Bay. Tre squadre sono sul 4-0: Chiefs, Vikings e 49ers. Kansas City è in bye dopo il 30-27 sui Raiders, con Patrick Mahomes a 225 yard e due touchdown passati e Kenneth Walker III a 177 yard e due touchdown corsi. Minnesota va a New Orleans domenica. San Francisco va a Seattle. Carolina e Kansas City sono i bye della Week 5.",
+            "Nessun risultato del giovedì viene stampato finché la gara non è finita. Una sconfitta lascerebbe Tampa Bay sul 0-5. Una vittoria porterebbe Dallas fuori dal 2-2 prima della gara di Philadelphia a Londra domenica mattina. Falcons contro Buccaneers in calendario è il 1 novembre, non stasera."
         ]
-},
+    },
     "pl": {
-        "title": "Thursday Night Football startuje: Falcons i Buccaneers w walce o prymat w NFC South",
-        "subtitle": "Tampa Bay podejmuje Atlante na Raymond James Stadium. Niepokonani Chiefs i Vikings z bilansem 4-0.",
-        "excerpt": "Tydzien 5 ligi NFL otwiera czwartkowy klasyk w Tampie pomiedzy rywalami z dywizji NFC South.",
+        "title": "Thursday Night Football to Buccaneers u Cowboys, nie Falcons u Buccaneers",
+        "subtitle": "Tampa Bay jest na 0-4. Dallas jest na 2-2. Początek o 20:15 ET na AT&T Stadium. Nie ma wyniku końcowego.",
+        "excerpt": "ESPN i NFL wpisują Buccaneers u Cowboys w czwartek 8 października. Falcons są na 2-2 i goszczą Ravens w niedzielę wieczorem.",
         "body": [
-                "Mecze dywizyjne w pazdzierniku czesto decyduja o awansie do play-offow. W czwartek wieczorem na Raymond James Stadium w Tampie dojdzie do starcia Atlanta Falcons z Tampa Bay Buccaneers.",
-                "Atlanta gra po zaledwie trzech dniach odpoczynku po dramatycznej porazce 24-26 z Saints w poniedzialek. Kirk Cousins i Bijan Robinson stana naprzeciw defensywy Buccaneers, a Baker Mayfield bedzie chcial wykorzystac atut wlasnego boiska.",
-                "W calej lidze jedynymi niepokonanymi druzynami pozostaja Kansas City Chiefs i Minnesota Vikings (4-0). Zwyciestwo w Tampie da prowadzenie w dywizji."
+            "TNF tygodnia 5 to Tampa Bay w Dallas, 20:15 ET w Prime Video na AT&T Stadium. ESPN i tabela NFL dają Buccaneers 0-4 i Cowboys 2-2, i żaden z tych zapisów nie ma wyniku końcowego. Falcons nie grają w tym meczu. Są na 2-2 i goszczą Baltimore w niedzielę wieczorem.",
+            "Ostatni mecz Buccaneers to porażka 17-14 z Packers 4 października. Baker Mayfield opuścił ten początek przez zwichnięty kciuk. Jalon Daniels rzucił dwie przechwycenia w pierwszym meczu w wyjściowym składzie. Mayfield jest rozgrywającym wpisanym do czwartkowego pojedynku podań: 61 z 96, 615 jardów, 2 przyłożenia i 2 przechwycenia w trzech meczach. Dak Prescott ma 105 z 150, 1065 jardów, 8 przyłożeń i 1 przechwycenie. W niedzielę w Houston CeeDee Lamb złapał 17 podań na 189 jardów i przyłożenie z 12 jardów na 40 sekund przed końcem przy wygranej Cowboys 34-30. Javonte Williams zdobył trzy przyłożenia biegowe. SirVocea Dennis (kostka) i Benjamin Morrison (mięsień czworogłowy) nie grają w Tampa Bay. Trzy zespoły są na 4-0: Chiefs, Vikings i 49ers. Kansas City ma bye po wygranej 30-27 u Raiders: Patrick Mahomes 225 jardów i dwa przyłożenia podaniami, Kenneth Walker III 177 jardów i dwa przyłożenia biegowe. Minnesota jedzie w niedzielę do Nowego Orleanu. San Francisco jedzie do Seattle. Carolina i Kansas City mają bye w tygodniu 5.",
+            "Wyniku czwartku nie drukujemy, dopóki mecz się nie skończy. Porażka zostawiłaby Tampa Bay na 0-5. Wygrana zdejmie Dallas z 2-2, zanim Philadelphia zagra w Londynie w niedzielę rano. Falcons u Buccaneers w terminarzu to 1 listopada, nie dziś wieczorem."
         ]
-},
+    },
     "zh": {
-        "title": "周四夜赛开打：猎鹰与海盗争夺国联南区榜首",
-        "subtitle": "坦帕湾主场迎战亚特兰大，全胜酋长与维京人领跑第5周全联盟格局。",
-        "excerpt": "NFL第5周在坦帕湾雷蒙德·詹姆斯体育场拉开帷幕，猎鹰与海盗在周四夜赛展开同区头名争夺战。",
+        "title": "周四夜赛是海盗客战牛仔，不是猎鹰客战海盗",
+        "subtitle": "坦帕湾0胜4负。达拉斯2胜2负。开球时间美东20:15，AT&T球场。没有终场比分。",
+        "excerpt": "ESPN与NFL将10月8日周四的比赛列为海盗客战牛仔。猎鹰2胜2负，周日夜主场迎战乌鸦。",
         "body": [
-                "十月的同区内战往往能决定季后赛资格的归属。周四夜赛在坦帕的雷蒙德·詹姆斯体育场展开，亚特兰大猎鹰客场挑战坦帕湾海盗，争夺国联南区领头羊宝座。",
-                "老鹰队在周一客场24-26惜败圣徒后仅休息三天便再次出征，四分卫考辛斯与跑卫比詹·罗宾逊需要应对托德·鲍尔斯极具侵略性的闪电战防守。贝克·梅菲尔德领衔的海盗则渴望借助主场之利独占鳌头。",
-                "与此同时，堪萨斯城酋长和明尼苏达维京人依然以4胜0负保持全胜。今晚周四夜赛的胜者将在分区竞争中占据先机。"
+            "第5周周四夜赛是坦帕湾客场对达拉斯，美东时间20:15，Prime Video，AT&T球场。ESPN和NFL记分牌上海盗0胜4负、牛仔2胜2负，两边都没有终场比分。猎鹰不在这场比赛里。他们2胜2负，周日夜主场迎战巴尔的摩。",
+            "海盗上一场是10月4日17-14负于包装工。贝克·梅菲尔德因拇指脱臼缺席那次首发。贾伦·丹尼尔斯在生涯首次首发中扔出2次拦截。梅菲尔德被列在周四传球对位里：三场比赛61次完成96次尝试，615码，2次达阵，2次拦截。达克·普雷斯科特是105次完成150次尝试，1065码，8次达阵，1次拦截。周日在休斯敦，锡迪·兰姆接住17球得到189码，并在比赛结束前40秒接到12码达阵，牛仔34-30取胜。贾冯特·威廉姆斯在那场比赛中跑出3个达阵。坦帕湾的瑟沃西·丹尼斯（脚踝）和本杰明·莫里森（股四头肌）缺阵。三支球队4胜0负：酋长、维京人和49人。堪萨斯城本周轮空，上一场客场30-27击败突袭者，帕特里克·马霍姆斯传球225码并送出2次达阵，肯尼斯·沃克三世跑出177码和2个达阵。明尼苏达周日客场新奥尔良。旧金山周日客场西雅图。卡罗来纳和堪萨斯城是第5周轮空球队。",
+            "比赛结束之前不刊登周四比分。若输球，坦帕湾变成0胜5负。若赢球，达拉斯将离开2胜2负，而费城周日上午在伦敦比赛。赛程上猎鹰对海盗是11月1日，不是今晚。"
         ]
-},
+    },
     "ja": {
-        "title": "サーズデーナイト開幕：ファルコンズ対バッカニアーズがNFC南地区首位を争う",
-        "subtitle": "タンパのレイモンド・ジェームス・スタジアムで開催。無敗のチーフスとバイキングスが第5週をリード。",
-        "excerpt": "NFL第5週は木曜夜にタンパでキックオフ。地区首位を懸けたファルコンズとバッカニアーズの直接対決に注目。",
+        "title": "サーズデーナイトフットボールはバッカニアーズ対カウボーイズであり、ファルコンズ対バッカニアーズではない",
+        "subtitle": "タンパベイは0勝4敗。ダラスは2勝2敗。キックオフは米東部午後8時15分、AT&Tスタジアム。最終スコアはない。",
+        "excerpt": "ESPNとNFLは10月8日木曜のカードをバッカニアーズ対カウボーイズとしている。ファルコンズは2勝2敗で、日曜夜にレイブンズを迎える。",
         "body": [
-                "10月の地区対決はシーズン後半の行方を左右する。NFL第5週の開幕戦はレイモンド・ジェームス・スタジアムでアトランタ・ファルコンズとタンパベイ・バッカニアーズが対戦する。",
-                "月曜夜にセインツに24-26で惜敗したファルコンズは中2日の強行日程。カーク・カズンズとビジャン・ロビンソンがバッカニアーズの強力な守備陣に挑む。ベイカー・メイフィールド率いるバッカニアーズはホーム勝利を狙う。",
-                "リーグ全体ではカンザスシティ・チーフスとミネソタ・バイキングスが4勝0敗で無敗を守る。木曜戦の勝者は地区単独首位に立つ。"
+            "第5週TNFはタンパベイのダラス遠征、米東部午後8時15分、Prime Video、AT&Tスタジアム。ESPNとNFLのスコアボードはバッカニアーズを0勝4敗、カウボーイズを2勝2敗とし、どちらにも最終スコアはない。ファルコンズはこの試合に出ていない。2勝2敗で、日曜夜にボルティモアを迎える。",
+            "バッカニアーズの直近は10月4日のパッカーズ戦17-14の敗戦。ベイカー・メイフィールドは親指の脱臼でその先発を欠いた。ジェイロン・ダニエルズはキャリア初先発でインターセプト2本を投げた。メイフィールドは木曜のパス対決に名前があるクォーターバックで、3試合で61本成功、96本中、615ヤード、タッチダウン2、インターセプト2。ダック・プレスコットは150本中105本成功、1065ヤード、タッチダウン8、インターセプト1。日曜のヒューストンでシーディー・ラムは17キャッチ189ヤード、試合終了40秒前の12ヤードタッチダウンを記録し、カウボーイズが34-30で勝った。ジャボンテ・ウィリアムズはその試合でランタッチダウンを3本決めた。サーヴォシア・デニス（足首）とベンジャミン・モリソン（大腿四頭筋）はタンパベイを欠場する。4勝0敗はチーフス、バイキングス、49ersの3チーム。カンザスシティはレイダースに30-27で勝った後のバイ週で、パトリック・マホームズはパス225ヤードとタッチダウン2、ケネス・ウォーカー3世はラン177ヤードとタッチダウン2。ミネソタは日曜にニューオーリンズへ、サンフランシスコはシアトルへ向かう。カロライナとカンザスシティが第5週のバイ。",
+            "試合が終わるまで木曜のスコアは載せない。負けならタンパベイは0勝5敗。勝ちならダラスは2勝2敗を離れ、フィラデルフィアは日曜朝にロンドンで戦う。ファルコンズ対バッカニアーズは日程上11月1日であり、今夜ではない。"
         ]
-},
+    },
     "ko": {
-        "title": "목요 풋볼 킥오프: 팰컨스와 버커니어스, NFC 남부 선두 격돌",
-        "subtitle": "탬파베이 레이먼드 제임스 스타디움서 맞대결. 무패 치프스와 바이킹스 5주차 주목.",
-        "excerpt": "NFL 5주차가 탬파에서 목요일 밤 개막하며 팰컨스와 버커니어스가 지구 선두 자리를 놓고 맞붙는다.",
+        "title": "서스데이 나이트 풋볼은 버커니어스 대 카우보이스이며, 팰컨스 대 버커니어스가 아니다",
+        "subtitle": "탬파베이는 0승 4패. 댈러스는 2승 2패. 킥오프는 미 동부 오후 8시 15분, AT&T 스타디움. 최종 점수는 없다.",
+        "excerpt": "ESPN과 NFL은 10월 8일 목요일 경기를 버커니어스 대 카우보이스로 적었다. 팰컨스는 2승 2패이며 일요일 밤 레이븐스를 홈에서 맞는다.",
         "body": [
-                "가을 지구 라이벌전 승리는 플레이오프 시드의 지름길이다. 목요일 밤 탬파 레이먼드 제임스 스타디움에서 애틀랜타 팰컨스와 탬파베이 버커니어스가 NFC 남부지구 선두 자리를 두고 맞대결을 펼친다.",
-                "팰컨스는 월요일 세인츠전 24-26 석패 후 짧은 휴식 끝에 원정에 나선다. 커크 커즌스와 비잔 로빈슨이 버커니어스 수비를 뚫어야 하며, 베이커 메이필드는 홈 이점을 살려 지구 단독 선두를 노린다.",
-                "리그 전체로는 캔자스시티 치프스와 미네소타 바이킹스가 4승 무패로 선두를 달리고 있다. 목요일 승리 팀은 남부지구 독주 발판을 마련한다."
+            "5주차 TNF는 탬파베이의 댈러스 원정, 미 동부 오후 8시 15분, 프라임 비디오, AT&T 스타디움이다. ESPN과 NFL 스코어보드는 버커니어스 0승 4패, 카우보이스 2승 2패이며 어느 쪽에도 최종 점수가 없다. 팰컨스는 이 경기에 없다. 2승 2패로 일요일 밤 볼티모어를 홈에서 맞는다.",
+            "버커니어스의 직전 경기는 10월 4일 패커스에 17-14 패배다. 베이커 메이필드는 엄지 탈구로 그 선발을 빠졌다. 제일런 대니얼스는 첫 선발에서 인터셉션 2개를 던졌다. 메이필드는 목요일 패스 매치업에 이름이 오른 쿼터백이다. 3경기 96시도 61성공, 615야드, 터치다운 2, 인터셉션 2. 닥 프레스콧은 150시도 105성공, 1065야드, 터치다운 8, 인터셉션 1. 일요일 휴스턴에서 시디 램은 17리셉션 189야드와 종료 40초 전 12야드 터치다운을 기록했고 카우보이스가 34-30으로 이겼다. 저본테 윌리엄스는 그 경기에서 러싱 터치다운 3개를 넣었다. 서보시아 데니스(발목)와 벤저민 모리슨(대퇴사두근)은 탬파베이에서 결장한다. 4승 무패는 치프스, 바이킹스, 49ers 세 팀이다. 캔자스시티는 레이더스를 30-27로 이긴 뒤 휴주이며, 패트릭 마홈스는 패스 225야드와 터치다운 2개, 케네스 워커 3세는 러싱 177야드와 터치다운 2개. 미네소타는 일요일 뉴올리언스, 샌프란시스코는 시애틀로 간다. 캐롤라이나와 캔자스시티가 5주차 휴주다.",
+            "경기가 끝나기 전에는 목요일 점수를 싣지 않는다. 패하면 탬파베이는 0승 5패. 이기면 댈러스는 2승 2패를 벗어나며, 필라델피아는 일요일 아침 런던에서 뛴다. 팰컨스 대 버커니어스는 일정표상 11월 1일이며 오늘 밤이 아니다."
         ]
-},
+    },
     "ar": {
-        "title": "انطلاق مباراة ليلة الخميس: فالكونز وبوكانيرز يتصارعان على صدارة الجنوب",
-        "subtitle": "تامبا باي تستضيف أتلانتا في ملعب ريموند جيمس، وتشيفز وفايكنغز دون هزيمة في الأسبوع 5.",
-        "excerpt": "يفتتح الأسبوع 5 من دوري NFL مساء الخميس في تامبا بمواجهة نارية بين فالكونز وبوكانيرز على زعامة القسم الجنوبي.",
+        "title": "ليلة الخميس هي بوكانيرز ضد كاوبويز، وليست فالكونز ضد بوكانيرز",
+        "subtitle": "تامبا باي 0-4. دالاس 2-2. البداية 8:15 مساء بالتوقيت الشرقي على ملعب AT&T. لا نتيجة نهائية.",
+        "excerpt": "تدرج ESPN وNFL بوكانيرز ضد كاوبويز يوم الخميس 8 أكتوبر. فالكونز 2-2 ويستضيفون رايفنز مساء الأحد.",
         "body": [
-                "تكتسب مواجهات الأقسام في شهر أكتوبر أهمية مضاعفة، ويفتتح الأسبوع الخامس من الدوري بمباراة ليلة الخميس بين أتلانتا فالكونز وتامبا باي بوكانيرز على ملعب ريموند جيمس.",
-                "يدخل أتلانتا اللقاء بعد ثلاثة أيام فقط من خسارته 24-26 أمام سينتس، حيث يواجه كيرك كوزنز دفاع تامبا باي القوي، بينما يقود بيكر مايفيلد هجوم أصحاب الأرض لحسم الصدارة.",
-                "في المقابل، يواصل كانساس سيتي تشيفز ومينيسوتا فايكنغز تصدر الدوري بسجل 4-0 دون أي خسارة. والفائز الليلة سينفرد بصدارة القسم الجنوبي."
+            "مباراة ليلة الخميس في الأسبوع 5 هي تامبا باي في دالاس، 8:15 مساء شرقي على برايم فيديو في ملعب AT&T. تضع ESPN ولوحة NFL بوكانيرز على 0-4 وكاوبويز على 2-2، ولا نتيجة نهائية لأي منهما. فالكونز ليسوا في هذه المباراة. سجلهم 2-2 ويستضيفون بالتيمور مساء الأحد.",
+            "آخر مباراة لبوكانيرز خسارة 17-14 أمام باكرز في 4 أكتوبر. غاب بيكر مايفيلد عن تلك البداية بإبهام مخلوع. رمى جالون دانيلز اعتراضين في أول بداية له. مايفيلد هو الظهير المدرج في مواجهة التمريرات يوم الخميس: 61 من 96 لمسافة 615 ياردة، وإحرازان، واعتراضان في ثلاث مباريات. داك بريسكوت عند 105 من 150 لمسافة 1065 ياردة، و8 إحرازات، واعتراض واحد. يوم الأحد في هيوستن التقط سيدي لامب 17 تمريرة لمسافة 189 ياردة وإحراز 12 ياردة قبل 40 ثانية من نهاية فوز كاوبويز 34-30. سجل جافونتي ويليامز ثلاثة إحرازات جريا. سيرفوشيا دينيس (الكاحل) وبنجامين موريسون (العضلة الرباعية) خارج تشكيلة تامبا باي. ثلاثة فرق على 4-0: تشيفز وفايكنغز و49ers. كانساس سيتي في أسبوع راحة بعد 30-27 على رايدرز، مع باتريك ماهومز بـ225 ياردة وإحرازين تمريرًا، وكينيث ووكر الثالث بـ177 ياردة وإحرازين جريا. مينيسوتا تزور نيو أورلينز الأحد. سان فرانسيسكو تزور سياتل. كارولاينا وكانساس سيتي في راحة بالأسبوع 5.",
+            "لا تُطبع نتيجة الخميس قبل نهاية المباراة. الخسارة تترك تامبا باي على 0-5. الفوز يخرج دالاس من 2-2 قبل مباراة فيلادلفيا في لندن صباح الأحد. فالكونز ضد بوكانيرز في الجدول يوم 1 نوفمبر، لا الليلة."
         ]
-},
+    }
   },
   'uefa-nations-league-md3-matchday-italy-belgium-england-2026': {
     "fr": {
-        "title": "Ligue des Nations J3 en direct: L Italie accueille la Belgique, l Angleterre face a la Grece",
-        "subtitle": "Spalletti vise la premiere place du Groupe A2 a Rome. L equipe de Carsley de retour a Wembley. Le Portugal deja qualifie.",
-        "excerpt": "Dix rencontres au programme jeudi en Ligue des Nations avec le choc Italie vs Belgique au Stadio Olimpico et Angleterre vs Grece a Wembley.",
+        "title": "La fenêtre de Ligue des nations est fermée : l’Espagne et le Portugal sont qualifiés avec 12 points",
+        "subtitle": "France 4-1 Belgique et Italie 3-1 Turquie lundi. Angleterre 3-0 Tchéquie et Croatie 1-2 Espagne mardi.",
+        "excerpt": "Xinhua et Goal.com publient les tableaux de Ligue A après mardi. Il n’y a pas d’Italie contre Belgique, ni d’Angleterre contre Grèce, sur ce bureau.",
         "body": [
-                "La soiree internationale europeenne bat son plein jeudi avec dix matches au menu de la Ligue des Nations de l UEFA. Le Portugal ayant deja assure sa place en quarts de finale avec un parcours sans faute, la pression monte pour les autres cadors.",
-                "L affiche phare se deroule au Stadio Olimpico de Rome ou l Italie de Luciano Spalletti accueille la Belgique de Domenico Tedesco dans le Groupe A2. Les Azzurri ont impressionne en septembre avec des victoires sur la France et Israel et cherchent a conforter leur leadership.",
-                "A Wembley, l Angleterre de Lee Carsley defie la Grece apres son festival 7-0 en Croatie le mois dernier. Pendant ce temps a Budapest, la France affronte Israel. En Angleterre, la Premier League reprendra samedi avec Manchester City en tete (15 points)."
+            "La fenêtre internationale d’octobre est terminée. Ce n’est pas une affiche en direct Italie contre Belgique, et ce n’est pas Angleterre contre Grèce. Le lundi 5 octobre, la France a battu la Belgique 4-1 et l’Italie a battu la Turquie 3-1. Le mardi 6 octobre, l’Angleterre a battu la Tchéquie 3-0 et la Croatie a perdu 1-2 contre l’Espagne.",
+            "Goal.com et Xinhua s’accordent après ces matchs. Groupe 1 : France 10 points (7 pour, 2 contre), Italie 7 (8 pour, 5 contre), Belgique 6 (6 pour, 5 contre), Turquie 0 (2 pour, 11 contre). Groupe 2 : Pays-Bas 8, Grèce 8, Allemagne 5, Serbie 0. Groupe 3 : Espagne 12 (12 pour, 5 contre), Angleterre 9 (14 pour, 3 contre), Croatie 3, Tchéquie 0. Groupe 4 : Portugal 12 (9 pour, 4 contre), Danemark 6, pays de Galles 3, Norvège 3. L’Espagne et le Portugal sont en quarts avec deux matchs de groupe restants. Les dépêches nomment ces buteurs et aucun autre pour les deux soirées principales. Angleterre 3-0 Tchéquie : c.s.c. de Vladimir Coufal 27, Harry Kane 40 et 57. Croatie 1-2 Espagne : Ivan Perisic 18, Mikel Merino 61 et 88, Perisic expulsé à la 79e. France 4-1 Belgique : Dodi Lukebakio a ouvert, Desire Doue a égalisé, Michael Olise a servi Rayan Cherki, et la France a marqué quatre fois dans les 13 dernières minutes. Les remplaçants ont marqué les quatre buts français. Les deux autres buteurs français ne sont pas dans la copie AFP utilisée ici. Italie 3-1 Turquie : Gianluca Scamacca, Aral Simsir juste après l’heure de jeu, Riccardo Calafiori, Pio Esposito.",
+            "La Premier League reste où la 5e journée l’a laissée : Manchester City 15, Arsenal 12, Brighton 10. Le championnat national est annoncé de retour le 10 octobre. Aucun score du samedi n’est inventé. La France finit le groupe le mois prochain, à l’extérieur contre l’Italie et à domicile contre la Turquie."
         ]
-},
+    },
     "es": {
-        "title": "Nations League Jornada 3: Italia recibe a Belgica e Inglaterra se mide a Grecia",
-        "subtitle": "Spalletti busca afianzar el liderato del Grupo A2 en Roma. Inglaterra vuelve a Wembley. Portugal ya en cuartos.",
-        "excerpt": "Diez partidos componen el menu de la UEFA Nations League este jueves con el clasico Italia vs Belgica y el Inglaterra vs Grecia.",
+        "title": "La ventana de la Nations League está cerrada: España y Portugal están clasificadas con 12 puntos",
+        "subtitle": "Francia 4-1 Bélgica e Italia 3-1 Turquía el lunes. Inglaterra 3-0 Chequia y Croacia 1-2 España el martes.",
+        "excerpt": "Xinhua y Goal.com publican las tablas de la Liga A después del martes. En esta mesa no hay Italia contra Bélgica ni Inglaterra contra Grecia.",
         "body": [
-                "La ventana internacional europea alcanza su punto algido este jueves con diez partidos simultaneos de la UEFA Nations League. Con Portugal ya clasificada a cuartos tras ganar sus cuatro partidos, el resto de favoritas busca sellar su billete.",
-                "El duelo estrella se juega en el Estadio Olimpico de Roma entre la renovada Italia de Luciano Spalletti y Belgica. La Azzurra maravilló en septiembre venciendo a Francia e Israel y busca un triunfo que encamine su pase a la siguiente fase.",
-                "En Wembley, Inglaterra recibe a Grecia tras su goleada por 7-0 a Croacia, mientras Francia se mide a Israel en Budapest. La Premier League reanudara su calendario el sabado con el Manchester City al mando con 15 puntos."
+            "La ventana internacional de octubre terminó. No es un partido en directo de Italia contra Bélgica, ni Inglaterra contra Grecia. El lunes 5 de octubre, Francia venció a Bélgica 4-1 e Italia venció a Turquía 3-1. El martes 6 de octubre, Inglaterra venció a Chequia 3-0 y Croacia perdió 1-2 con España.",
+            "Goal.com y Xinhua coinciden después de esos partidos. Grupo 1: Francia 10 puntos (7 a favor, 2 en contra), Italia 7 (8 a favor, 5 en contra), Bélgica 6 (6 a favor, 5 en contra), Turquía 0 (2 a favor, 11 en contra). Grupo 2: Países Bajos 8, Grecia 8, Alemania 5, Serbia 0. Grupo 3: España 12 (12 a favor, 5 en contra), Inglaterra 9 (14 a favor, 3 en contra), Croacia 3, Chequia 0. Grupo 4: Portugal 12 (9 a favor, 4 en contra), Dinamarca 6, Gales 3, Noruega 3. España y Portugal están en cuartos con dos partidos de grupo por jugar. Las agencias nombran estos goleadores y ningún otro de las dos noches principales. Inglaterra 3-0 Chequia: autogol de Vladimir Coufal 27, Harry Kane 40 y 57. Croacia 1-2 España: Ivan Perisic 18, Mikel Merino 61 y 88, Perisic expulsado en el 79. Francia 4-1 Bélgica: Dodi Lukebakio marcó primero, Desire Doue empató, Michael Olise asistió a Rayan Cherki, y Francia marcó cuatro veces en los últimos 13 minutos. Los suplentes marcaron los cuatro goles franceses. Los otros dos goleadores de Francia no están en el texto de AFP usado aquí. Italia 3-1 Turquía: Gianluca Scamacca, Aral Simsir justo después de la hora, Riccardo Calafiori, Pio Esposito.",
+            "La Premier League se queda donde la dejó la jornada 5: Manchester City 15, Arsenal 12, Brighton 10. El fútbol de liga está anunciado de vuelta el 10 de octubre. No se inventa un marcador del sábado. Francia cierra el grupo el mes que viene, fuera contra Italia y en casa contra Turquía."
         ]
-},
+    },
     "de": {
-        "title": "Nations League 3. Spieltag live: Italien empfaengt Belgien, England fordert Griechenland",
-        "subtitle": "Spalletti peilt Gruppensieg in Rom an. Carsley-Team zurueck in Wembley. Portugal bereits fuer Viertelfinale qualifiziert.",
-        "excerpt": "Zehn Nations-League-Duelle am Donnerstagabend: Italien trifft im roemischen Klassiker auf Belgien, England spielt gegen Griechenland.",
+        "title": "Das Nations-League-Fenster ist zu: Spanien und Portugal sind mit 12 Punkten durch",
+        "subtitle": "Frankreich 4-1 Belgien und Italien 3-1 Türkei am Montag. England 3-0 Tschechien und Kroatien 1-2 Spanien am Dienstag.",
+        "excerpt": "Xinhua und Goal.com drucken die Tabellen der Liga A nach Dienstag. Auf diesem Desk gibt es kein Italien gegen Belgien und kein England gegen Griechenland.",
         "body": [
-                "Die Laenderspielwoche bietet am Donnerstagabend zehn packende Begegnungen in der UEFA Nations League. Waehrend Portugal das Viertelfinalticket bereits in der Tasche hat, kaempfen die uebrigen Top-Nationen um ihre Ausgangsposition.",
-                "Im Stadio Olimpico von Rom empfaengt Italien unter Luciano Spalletti die belgische Auswahl um Domenico Tedesco. Die Azzurri ueberzeugten im September gegen Frankreich und Israel und wollen Platz eins in der Gruppe A2 verteidigen.",
-                "Im Wembley-Stadion tritt England nach dem 7-0-Kantersieg gegen Kroatien gegen Griechenland an. Frankreich spielt in Budapest gegen Israel. Am Samstag kehrt die Premier League mit Spitzenreiter Manchester City zurueck."
+            "Das internationale Oktoberfenster ist vorbei. Es ist kein Live-Spiel Italien gegen Belgien und kein England gegen Griechenland. Am Montag, 5. Oktober, schlug Frankreich Belgien 4-1 und Italien schlug die Türkei 3-1. Am Dienstag, 6. Oktober, schlug England Tschechien 3-0 und Kroatien verlor 1-2 gegen Spanien.",
+            "Goal.com und Xinhua stimmen nach diesen Spielen überein. Gruppe 1: Frankreich 10 Punkte (7 Tore, 2 Gegentore), Italien 7 (8 Tore, 5 Gegentore), Belgien 6 (6 Tore, 5 Gegentore), Türkei 0 (2 Tore, 11 Gegentore). Gruppe 2: Niederlande 8, Griechenland 8, Deutschland 5, Serbien 0. Gruppe 3: Spanien 12 (12 Tore, 5 Gegentore), England 9 (14 Tore, 3 Gegentore), Kroatien 3, Tschechien 0. Gruppe 4: Portugal 12 (9 Tore, 4 Gegentore), Dänemark 6, Wales 3, Norwegen 3. Spanien und Portugal sind im Viertelfinale, zwei Gruppenspiele stehen noch aus. Die Agenturen nennen diese Torschützen und keine weiteren aus den beiden Hauptabenden. England 3-0 Tschechien: Eigentor Vladimir Coufal 27, Harry Kane 40 und 57. Kroatien 1-2 Spanien: Ivan Perisic 18, Mikel Merino 61 und 88, Perisic in Minute 79 vom Platz. Frankreich 4-1 Belgien: Dodi Lukebakio traf zuerst, Desire Doue glich aus, Michael Olise legte für Rayan Cherki auf, und Frankreich traf viermal in den letzten 13 Minuten. Einwechselspieler erzielten alle vier französischen Tore. Die beiden anderen französischen Torschützen stehen nicht in der hier verwendeten AFP-Meldung. Italien 3-1 Türkei: Gianluca Scamacca, Aral Simsir kurz nach der Stunde, Riccardo Calafiori, Pio Esposito.",
+            "Die Premier League bleibt, wo Spieltag 5 sie ließ: Manchester City 15, Arsenal 12, Brighton 10. Der Ligabetrieb ist für den 10. Oktober angesetzt. Es wird kein Samstagsergebnis erfunden. Frankreich beendet die Gruppe nächsten Monat, auswärts gegen Italien und zu Hause gegen die Türkei."
         ]
-},
+    },
     "it": {
-        "title": "Nations League 3a giornata: Italia contro Belgio a Roma, Inghilterra ospita la Grecia",
-        "subtitle": "Spalletti cerca il comando del Gruppo A2 all Olimpico. Carsley a Wembley. Portogallo gia promosso ai quarti.",
-        "excerpt": "Dieci sfide europee giovedi sera in Nations League con il big match tra Italia e Belgio all Olimpico e Inghilterra vs Grecia a Wembley.",
+        "title": "La finestra di Nations League è chiusa: Spagna e Portogallo sono qualificate con 12 punti",
+        "subtitle": "Francia 4-1 Belgio e Italia 3-1 Turchia lunedì. Inghilterra 3-0 Cechia e Croazia 1-2 Spagna martedì.",
+        "excerpt": "Xinhua e Goal.com pubblicano le classifiche di Lega A dopo martedì. Su questo desk non c’è Italia contro Belgio e non c’è Inghilterra contro Grecia.",
         "body": [
-                "La Nations League regala dieci appuntamenti imperdibili giovedi sera. Con il Portogallo gia matematicamente qualificato ai quarti di finale, le altre grandi d Europa scendono in campo per ipotecare il passaggio del turno.",
-                "Allo Stadio Olimpico di Roma, l Italia di Luciano Spalletti affronta il Belgio nel Gruppo A2. Gli Azzurri, reduci dalle brillanti vittorie su Francia e Israele, puntano al successo per consolidare il primato in classifica.",
-                "A Wembley l Inghilterra affronta la Grecia dopo il travolgente 7-0 rifilato alla Croazia. In contemporanea la Francia sfida Israele. Sabato ripartira la Premier League con il Manchester City a punteggio pieno con 15 punti."
+            "La finestra internazionale di ottobre è finita. Non è una partita in diretta Italia contro Belgio, e non è Inghilterra contro Grecia. Lunedì 5 ottobre la Francia ha battuto il Belgio 4-1 e l’Italia ha battuto la Turchia 3-1. Martedì 6 ottobre l’Inghilterra ha battuto la Cechia 3-0 e la Croazia ha perso 1-2 contro la Spagna.",
+            "Goal.com e Xinhua concordano dopo quelle partite. Gruppo 1: Francia 10 punti (7 fatti, 2 subiti), Italia 7 (8 fatti, 5 subiti), Belgio 6 (6 fatti, 5 subiti), Turchia 0 (2 fatti, 11 subiti). Gruppo 2: Paesi Bassi 8, Grecia 8, Germania 5, Serbia 0. Gruppo 3: Spagna 12 (12 fatti, 5 subiti), Inghilterra 9 (14 fatti, 3 subiti), Croazia 3, Cechia 0. Gruppo 4: Portogallo 12 (9 fatti, 4 subiti), Danimarca 6, Galles 3, Norvegia 3. Spagna e Portogallo sono ai quarti con due partite di gruppo ancora da giocare. Le agenzie nominano questi marcatori e nessun altro delle due serate principali. Inghilterra 3-0 Cechia: autogol di Vladimir Coufal 27, Harry Kane 40 e 57. Croazia 1-2 Spagna: Ivan Perisic 18, Mikel Merino 61 e 88, Perisic espulso al 79. Francia 4-1 Belgio: Dodi Lukebakio ha segnato per primo, Desire Doue ha pareggiato, Michael Olise ha servito Rayan Cherki, e la Francia ha segnato quattro volte negli ultimi 13 minuti. I subentrati hanno segnato tutti e quattro i gol francesi. Gli altri due marcatori della Francia non sono nel testo AFP usato qui. Italia 3-1 Turchia: Gianluca Scamacca, Aral Simsir appena dopo l’ora, Riccardo Calafiori, Pio Esposito.",
+            "La Premier League resta dove l’ha lasciata la giornata 5: Manchester City 15, Arsenal 12, Brighton 10. Il campionato è indicato di ritorno il 10 ottobre. Non si inventa un risultato del sabato. La Francia chiude il girone il mese prossimo, in trasferta contro l’Italia e in casa contro la Turchia."
         ]
-},
+    },
     "pl": {
-        "title": "Liga Narodow 3. kolejka na zywo: Wlochy podejmuja Belgie, Anglia gra z Grecja",
-        "subtitle": "Spalletti walczy o prymat w grupie A2 w Rzymie. Zespol Carsleya wraca na Wembley. Portugalia z pewnym awansem.",
-        "excerpt": "Dziesiec czwartkowych meczow Ligi Narodow przynosi hit Wlochy vs Belgia na Stadio Olimpico oraz starcie Anglia vs Grecja w Londynie.",
+        "title": "Okno Ligi Narodów jest zamknięte: Hiszpania i Portugalia awansowały z 12 punktami",
+        "subtitle": "Francja 4-1 Belgia i Włochy 3-1 Turcja w poniedziałek. Anglia 3-0 Czechy i Chorwacja 1-2 Hiszpania we wtorek.",
+        "excerpt": "Xinhua i Goal.com drukują tabele Ligi A po wtorku. Na tym biurku nie ma Włoch z Belgią ani Anglii z Grecją.",
         "body": [
-                "Czwartkowy wieczor na europejskich stadionach stoi pod znakiem dziesieciu meczow Ligi Narodow UEFA. Portugalia jest juz pewna gry w wiosennych cwiercfinalach, a o awans walcza kolejne potegi kontynentu.",
-                "W Rzymie Wlochy prowadzone przez Luciano Spallettiego graja z Belgia w grupie A2. Azzurri zachwycili we wrzesniu wygranymi z Francja i Izraelem, zas Belgowie musza zapunktowac, by zachowac szanse na awans.",
-                "Na Wembley Anglia podejmuje Grecje po wczesniejszym rozbiciu Chorwacji 7-0. W Budapeszcie Francja mierzy sie z Izraelem. Rozgrywki klubowe powroca w sobote z liderem Manchesterem City."
+            "Październikowe okno reprezentacji jest zakończone. To nie jest mecz na żywo Włochy kontra Belgia i nie jest to Anglia kontra Grecja. W poniedziałek 5 października Francja pokonała Belgię 4-1, a Włochy pokonały Turcję 3-1. We wtorek 6 października Anglia pokonała Czechy 3-0, a Chorwacja przegrała 1-2 z Hiszpanią.",
+            "Goal.com i Xinhua zgadzają się po tych meczach. Grupa 1: Francja 10 punktów (7 strzelonych, 2 stracone), Włochy 7 (8 strzelonych, 5 straconych), Belgia 6 (6 strzelonych, 5 straconych), Turcja 0 (2 strzelone, 11 straconych). Grupa 2: Holandia 8, Grecja 8, Niemcy 5, Serbia 0. Grupa 3: Hiszpania 12 (12 strzelonych, 5 straconych), Anglia 9 (14 strzelonych, 3 stracone), Chorwacja 3, Czechy 0. Grupa 4: Portugalia 12 (9 strzelonych, 4 stracone), Dania 6, Walia 3, Norwegia 3. Hiszpania i Portugalia są w ćwierćfinale, zostały dwa mecze grupowe. Agencje wymieniają tych strzelców i nikogo więcej z dwóch głównych wieczorów. Anglia 3-0 Czechy: samobój Vladimira Coufala 27, Harry Kane 40 i 57. Chorwacja 1-2 Hiszpania: Ivan Perisic 18, Mikel Merino 61 i 88, Perisic usunięty w 79. minucie. Francja 4-1 Belgia: Dodi Lukebakio strzelił pierwszy, Desire Doue wyrównał, Michael Olise dograł do Rayana Cherkiego, a Francja zdobyła cztery gole w ostatnich 13 minutach. Rezerwowi zdobyli wszystkie cztery gole Francji. Dwóch pozostałych strzelców Francji nie ma w użytej tu depeszy AFP. Włochy 3-1 Turcja: Gianluca Scamacca, Aral Simsir tuż po godzinie gry, Riccardo Calafiori, Pio Esposito.",
+            "Premier League zostaje tam, gdzie zostawiła ją 5. kolejka: Manchester City 15, Arsenal 12, Brighton 10. Liga ma wrócić 10 października. Nie wymyślamy wyniku soboty. Francja kończy grupę w przyszłym miesiącu, na wyjeździe z Włochami i u siebie z Turcją."
         ]
-},
+    },
     "zh": {
-        "title": "欧国联第3轮打响：意大利罗马战比利时 英格兰温布利迎希腊",
-        "subtitle": "斯帕莱蒂率蓝衣军团力争A2组榜首，三狮军团再战温布利，葡萄牙已提前出线。",
-        "excerpt": "周四欧国联展开十场较量，焦点大战由意大利在罗马奥林匹克球场迎战比利时，英格兰坐镇温布利对阵希腊。",
+        "title": "欧国联窗口已经关闭：西班牙和葡萄牙以12分出线",
+        "subtitle": "周一法国4-1比利时，意大利3-1土耳其。周二英格兰3-0捷克，克罗地亚1-2西班牙。",
+        "excerpt": "新华社与Goal.com在周二之后刊登了A级联赛积分榜。这张编辑台上没有意大利对比利时，也没有英格兰对希腊。",
         "body": [
-                "欧洲国家联赛周四晚迎来十场精彩大战。在葡萄牙以四战全胜提前锁定八强席位之后，各路传统强队纷纷出击争取晋级主动权。",
-                "当晚最受瞩目的较量在罗马奥林匹克球场进行，斯帕莱蒂率领的意大利在A2组迎战特德斯科的比利时。蓝衣军团9月份连续击败法国与以色列，今晚力争主场拿下关键三分。",
-                "在温布利球场，卡斯利执教的英格兰迎战希腊，此前三狮军团曾客场7-0横扫克罗地亚。在布达佩斯，法国队对阵以色列。英超联赛将于周六重燃战火，曼城以15分领跑。"
+            "十月国家队窗口已经结束。这不是意大利对比利时的直播，也不是英格兰对希腊。10月5日周一，法国4-1击败比利时，意大利3-1击败土耳其。10月6日周二，英格兰3-0击败捷克，克罗地亚1-2负于西班牙。",
+            "Goal.com与新华社在这些比赛之后的积分一致。第1组：法国10分（进7失2），意大利7分（进8失5），比利时6分（进6失5），土耳其0分（进2失11）。第2组：荷兰8，希腊8，德国5，塞尔维亚0。第3组：西班牙12分（进12失5），英格兰9分（进14失3），克罗地亚3，捷克0。第4组：葡萄牙12分（进9失4），丹麦6，威尔士3，挪威3。西班牙和葡萄牙已进四分之一决赛，小组还剩两场。通讯社只点出这两个晚上的这些进球者。英格兰3-0捷克：弗拉迪米尔·库法尔第27分钟乌龙，哈里·凯恩第40和57分钟。克罗地亚1-2西班牙：伊万·佩里西奇第18分钟，米克尔·梅里诺第61和88分钟，佩里西奇第79分钟被罚下。法国4-1比利时：多迪·卢克巴吉奥先破门，德西雷·杜埃扳平，迈克尔·奥利塞助攻拉扬·谢尔基，法国在最后13分钟打进4球。替补打进法国全部4球。另外两名法国进球者不在这里采用的法新社稿件里。意大利3-1土耳其：詹卢卡·斯卡马卡，阿拉尔·希姆希尔在一小时刚过时破门，里卡多·卡拉菲奥里，皮奥·埃斯波西托。",
+            "英超停在第5轮结束时的位置：曼城15分，阿森纳12分，布莱顿10分。国内联赛列入10月10日恢复。不编造周六比分。法国下个月完成小组赛，客场对意大利，主场对土耳其。"
         ]
-},
+    },
     "ja": {
-        "title": "UEFAネーションズリーグ第3節：イタリア対ベルギー、イングランド対ギリシャ開催",
-        "subtitle": "スパレッティ監督がローマでA2組首位固めへ。カーズリー監督のイングランドはウェンブリー帰還。ポルトガルは8強進出済み。",
-        "excerpt": "木曜日にネーションズリーグ10試合が激突。スタディオ・オリンピコでのイタリア対ベルギーが注目の的。",
+        "title": "ネーションズリーグの期間は終了：スペインとポルトガルが12点で突破",
+        "subtitle": "月曜はフランス4-1ベルギー、イタリア3-1トルコ。火曜はイングランド3-0チェコ、クロアチア1-2スペイン。",
+        "excerpt": "新華社とGoal.comが火曜後のリーグA順位を掲載している。このデスクにイタリア対ベルギーもイングランド対ギリシャもない。",
         "body": [
-                "UEFAネーションズリーグは木曜日に欧州各地で10試合が一斉開催される。ポルトガルが4連勝でいち早く準々決勝進出を決める中、他国の首位争いも激しさを増している。",
-                "大一番はローマのスタディオ・オリンピコで行われるグループA2のイタリア対ベルギー。9月にフランスとイスラエルを破ったアズーリがホームで強豪撃破を狙う。",
-                "ウェンブリーではイングランドがギリシャと対戦。クロアチア戦7-0の攻撃陣が再び躍動するか。土曜日には勝ち点15で首位のマンチェスター・シティらプレミア勢がリーグ再開を迎える。"
+            "10月の国際試合期間は終わった。イタリア対ベルギーの中継でも、イングランド対ギリシャでもない。10月5日月曜、フランスがベルギーを4-1、イタリアがトルコを3-1で下した。10月6日火曜、イングランドがチェコを3-0で下し、クロアチアはスペインに1-2で敗れた。",
+            "Goal.comと新華社はこれらの試合後で一致する。グループ1：フランス10点（得点7、失点2）、イタリア7（得点8、失点5）、ベルギー6（得点6、失点5）、トルコ0（得点2、失点11）。グループ2：オランダ8、ギリシャ8、ドイツ5、セルビア0。グループ3：スペイン12（得点12、失点5）、イングランド9（得点14、失点3）、クロアチア3、チェコ0。グループ4：ポルトガル12（得点9、失点4）、デンマーク6、ウェールズ3、ノルウェー3。スペインとポルトガルは準々決勝へ進み、グループ戦は残り2試合。通信社が挙げる得点者は次だけで、二つの主夜のほかの名前はない。イングランド3-0チェコ：ヴラジミール・コウファルのオウンゴール27分、ハリー・ケイン40分と57分。クロアチア1-2スペイン：イヴァン・ペリシッチ18分、ミケル・メリノ61分と88分、ペリシッチは79分に退場。フランス4-1ベルギー：ドディ・ルケバキオが先制、デジレ・ドゥエが同点、マイケル・オリーズがライアン・シェルキを通し、フランスは最後の13分で4点を奪った。交代出場者がフランスの4点すべてを決めた。残る二人のフランスの得点者は、ここで使うAFP原稿にはない。イタリア3-1トルコ：ジャンルカ・スカマッカ、試合時間が1時間を少し過ぎてアラル・シムシル、リカルド・カラフィオーリ、ピオ・エスポジト。",
+            "プレミアリーグは第5節のまま：マンチェスター・シティ15、アーセナル12、ブライトン10。国内リーグの再開は10月10日とされている。土曜のスコアは作らない。フランスは来月、イタリアへアウェー、トルコをホームに迎えてグループを終える。"
         ]
-},
+    },
     "ko": {
-        "title": "네이션스리그 3차전: 이탈리아 로마서 벨기에 격돌, 잉글랜드 웸블리서 그리스전",
-        "subtitle": "스팔레티호 A2조 선두 질주 노려. 카슬리의 잉글랜드 홈 경기. 포르투갈은 이미 8강 확정.",
-        "excerpt": "목요일 유럽 전역에서 네이션스리그 10경기가 일제히 펼쳐지며 이탈리아-벨기에, 잉글랜드-그리스 맞대결이 주목받는다.",
+        "title": "네이션스리그 기간은 끝났다: 스페인과 포르투갈이 12점으로 진출",
+        "subtitle": "월요일 프랑스 4-1 벨기에, 이탈리아 3-1 튀르키예. 화요일 잉글랜드 3-0 체코, 크로아티아 1-2 스페인.",
+        "excerpt": "신화통신과 Goal.com이 화요일 이후 A리그 순위를 실었다. 이 데스크에는 이탈리아 대 벨기에도, 잉글랜드 대 그리스도 없다.",
         "body": [
-                "목요일 밤 유럽 네이션스리그 10경기가 일제히 열린다. 포르투갈이 4연승으로 8강에 선착한 가운데 나머지 강호들도 본선 티켓 확보를 위해 나선다.",
-                "로마 올림피코 스타디움에서는 A2조 이탈리아와 벨기에의 맞대결이 펼쳐진다. 9월 프랑스와 이스라엘을 연파한 아주리 군단은 홈 승리로 조 1위를 굳히겠다는 각오다.",
-                "웸블리에서는 잉글랜드가 그리스를 맞이하며, 프랑스는 부다페스트에서 이스라엘과 대결한다. 프리미어리그는 토요일 15점 선두 맨체스터 시티와 함께 재개된다."
+            "10월 국가대표 기간은 끝났다. 이탈리아 대 벨기에 중계가 아니고, 잉글랜드 대 그리스도 아니다. 10월 5일 월요일 프랑스가 벨기에를 4-1, 이탈리아가 튀르키예를 3-1로 이겼다. 10월 6일 화요일 잉글랜드가 체코를 3-0으로 이겼고, 크로아티아는 스페인에 1-2로 졌다.",
+            "Goal.com과 신화통신은 그 경기들 이후 순위가 같다. 1조: 프랑스 10점(득점 7, 실점 2), 이탈리아 7(득점 8, 실점 5), 벨기에 6(득점 6, 실점 5), 튀르키예 0(득점 2, 실점 11). 2조: 네덜란드 8, 그리스 8, 독일 5, 세르비아 0. 3조: 스페인 12(득점 12, 실점 5), 잉글랜드 9(득점 14, 실점 3), 크로아티아 3, 체코 0. 4조: 포르투갈 12(득점 9, 실점 4), 덴마크 6, 웨일스 3, 노르웨이 3. 스페인과 포르투갈은 8강에 올랐고 조별 경기는 두 경기 남았다. 통신사는 두 주요 밤의 이 득점자들만 적는다. 잉글랜드 3-0 체코: 블라디미르 코우팔 자책골 27분, 해리 케인 40분과 57분. 크로아티아 1-2 스페인: 이반 페리시치 18분, 미켈 메리노 61분과 88분, 페리시치는 79분에 퇴장. 프랑스 4-1 벨기에: 도디 루케바키오가 선제골, 데지레 두에가 동점, 미카엘 올리즈가 라이언 셰르키를 연결했고, 프랑스는 마지막 13분에 4골을 넣었다. 교체 투입 선수들이 프랑스의 4골을 모두 넣었다. 나머지 프랑스 득점자 둘은 여기서 쓰는 AFP 원고에 없다. 이탈리아 3-1 튀르키예: 잔루카 스카마카, 한 시간을 갓 넘긴 아랄 심시르, 리카르도 칼라피오리, 피오 에스포지토.",
+            "프리미어리그는 5라운드가 남긴 그대로다. 맨체스터 시티 15, 아스널 12, 브라이턴 10. 국내 리그 재개는 10월 10일로 적혀 있다. 토요일 점수는 만들지 않는다. 프랑스는 다음 달 이탈리아 원정과 튀르키예 홈으로 조를 마친다."
         ]
-},
+    },
     "ar": {
-        "title": "دوري الأمم الأوروبية الجولة 3: إيطاليا تستضيف بلجيكا وإنجلترا تواجه اليونان",
-        "subtitle": "سباليتي يسعى لتعزيز صدارة المجموعة A2 في روما، وإنجلترا تعود إلى ويمبلي بعد تأهل البرتغال.",
-        "excerpt": "عشر مواجهات قوية في دوري الأمم الأوروبية مساء الخميس تتصدرها قمة إيطاليا وبلجيكا في روما ولقاء إنجلترا واليونان.",
+        "title": "نافذة دوري الأمم أُغلقت: إسبانيا والبرتغال تأهلتا برصيد 12 نقطة",
+        "subtitle": "الاثنين فرنسا 4-1 بلجيكا وإيطاليا 3-1 تركيا. الثلاثاء إنجلترا 3-0 التشيك وكرواتيا 1-2 إسبانيا.",
+        "excerpt": "تنشر شينخوا وGoal.com جداول المستوى A بعد الثلاثاء. لا توجد على هذا المكتب مباراة إيطاليا ضد بلجيكا ولا إنجلترا ضد اليونان.",
         "body": [
-                "تشتعل المنافسات الأوروبية مساء الخميس مع إقامة عشر مباريات في دوري الأمم. بعد حسم البرتغال تأهلها لربع النهائي، تتنافس كبرى المنتخبات على بطاقات الصعود.",
-                "المباراة الأبرز تقام على ملعب الأولمبيكو في روما بين إيطاليا بقيادة لوتشانو سباليتي وبلجيكا في المجموعة A2. وكان الآزوري قد حقق انتصارين لافتين على فرنسا وإسرائيل في سبتمبر.",
-                "في ويمبلي، تواجه إنجلترا منتخب اليونان بعد فوزها الساحق 7-0 على كرواتيا، في حين تلعب فرنسا ضد إسرائيل في بودابست. ويعود الدوري الإنجليزي السبت حيث يتصدر مانشستر سيتي بـ15 نقطة."
+            "انتهت النافذة الدولية في أكتوبر. ليست مباراة مباشرة بين إيطاليا وبلجيكا، وليست إنجلترا ضد اليونان. يوم الاثنين 5 أكتوبر فازت فرنسا على بلجيكا 4-1 وفازت إيطاليا على تركيا 3-1. يوم الثلاثاء 6 أكتوبر فازت إنجلترا على التشيك 3-0 وخسرت كرواتيا 1-2 أمام إسبانيا.",
+            "يتفق Goal.com وشينخوا بعد تلك المباريات. المجموعة 1: فرنسا 10 نقاط (7 لها و2 عليها)، إيطاليا 7 (8 لها و5 عليها)، بلجيكا 6 (6 لها و5 عليها)، تركيا 0 (2 لها و11 عليها). المجموعة 2: هولندا 8، اليونان 8، ألمانيا 5، صربيا 0. المجموعة 3: إسبانيا 12 (12 لها و5 عليها)، إنجلترا 9 (14 لها و3 عليها)، كرواتيا 3، التشيك 0. المجموعة 4: البرتغال 12 (9 لها و4 عليها)، الدنمارك 6، ويلز 3، النرويج 3. بلغت إسبانيا والبرتغال ربع النهائي وبقيت مباراتان في المجموعة. تسمي الوكالات هؤلاء الهدافين ولا غيرهم من الليلتين الرئيسيتين. إنجلترا 3-0 التشيك: هدف عكسي لفلاديمير كوفال في 27، وهاري كين في 40 و57. كرواتيا 1-2 إسبانيا: إيفان بيريسيتش 18، وميكيل ميرينو 61 و88، وطُرد بيريسيتش في 79. فرنسا 4-1 بلجيكا: سجل دودي لوكباكيو أولا، وعادل ديزيريه دوي، ومرر مايكل أوليز إلى رايان شيركي، وسجلت فرنسا أربع مرات في آخر 13 دقيقة. سجل البدلاء أهداف فرنسا الأربعة. الهدافان الفرنسيان الآخران ليسا في نص وكالة الصحافة الفرنسية المستخدم هنا. إيطاليا 3-1 تركيا: جانلوكا سكاماكا، وآرال سيمسير بعد الساعة بقليل، وريكاردو كالافيوري، وبيو إسبوزيتو.",
+            "يبقى الدوري الإنجليزي حيث تركته الجولة 5: مانشستر سيتي 15، آرسنال 12، برايتون 10. عودة دوريات الأندية مدرجة في 10 أكتوبر. لا يُختلق نتيجة ليوم السبت. تنهي فرنسا المجموعة الشهر المقبل خارج أرضها أمام إيطاليا وعلى أرضها أمام تركيا."
         ]
-},
+    }
   },
   'shanghai-masters-2026-r2-alcaraz-djokovic-top-seeds-ready': {
     "fr": {
-        "title": "Shanghai Masters 2e tour: Alcaraz et Djokovic prets pour une nouvelle démonstration",
-        "subtitle": "Les 32 tetes de serie entrent en lice a Qizhong. Alcaraz vise un 11e succes de suite ; Djokovic vise un 5e sacre.",
-        "excerpt": "Apres le premier tour a Shanghai, Carlos Alcaraz, Novak Djokovic et Alexander Zverev entament leur parcours au Masters 1000.",
+        "title": "Le premier tour de Shanghai n’est pas fini. Dix scores de mercredi le sont.",
+        "subtitle": "Djokovic a battu de Minaur à Pékin. Alcaraz a battu Lehecka à Tokyo. Les têtes de série de Shanghai sont encore exemptées.",
+        "excerpt": "TennisDB liste les scores du premier tour du Rolex Shanghai Masters de mercredi. Zverev, Alcaraz et Djokovic n’y ont pas joué de match.",
         "body": [
-                "Le premier tour du Rolex Shanghai Masters etant boucle, les cadors du circuit mondial font leur entree dans le tableau a 96 joueurs a la Qizhong Forest Sports City Arena.",
-                "Frais emoulu de son sacre a Tokyo face a Jiri Lehecka pour sa dixieme victoire d affilee, Carlos Alcaraz aborde le tournoi avec le plein de confiance dans la moitie basse du tableau.",
-                "De son cote, Novak Djokovic convoite un cinquieme trophee a Shanghai apres son 102e titre conquis a Pekin face a Alex de Minaur. En l absence de Jannik Sinner, Alexander Zverev mene la partie haute en tant que tete de serie numero un."
+            "Le Rolex Shanghai Masters se joue du 7 au 18 octobre sur dur. La dotation affichée est de 9 415 725 dollars. Appeler le tournoi « deuxième tour » saute un premier tour qui se joue encore. Les têtes de série, dont Alexander Zverev, Carlos Alcaraz et Novak Djokovic, ont un bye. Elles n’ont pas joué de match à Shanghai.",
+            "Matchs de premier tour terminés le 7 octobre selon TennisDB. Altmaier d. Rune 1-6, 7-6 (5), 6-4. Fery d. Cilic 7-6 (2), 6-1. Zhou Yi d. Bellucci 6-4, 3-6, 7-6 (4). Wu Yibing d. Michael Zheng 6-3, 7-6 (6). Halys d. Coleman Wong 6-4, 7-6 (5). Hanfmann d. Majchrzak 6-7 (4), 7-6 (3), 7-6 (7). Safiullin d. Hijikata 7-5, 6-3. Machac d. Zhang Zhizhen 1-6, 7-6 (3), 6-2. Gea d. Faria 6-7 (3), 6-1, 6-2. Kecmanovic d. Shimabukuro 6-2, 6-4.",
+            "Le 6 octobre, Djokovic a battu Alex de Minaur 7-6 (3), 0-1 abandon en finale du China Open. Alcaraz a battu Jiri Lehecka 7-6 (4), 6-4 en finale du Japan Open. Ce sont des titres. Ce ne sont pas des matchs de Shanghai. Le tableau des 64 est la prochaine fois que les exemptés jouent, et il n’est pas déjà fini."
         ]
-},
+    },
     "es": {
-        "title": "Masters de Shanghai Segunda Ronda: Alcaraz y Djokovic preparados para su estreno",
-        "subtitle": "Los 32 cabezas de serie entran a pista en Qizhong. Alcaraz busca su triunfo 11 consecutivo; Djokovic a por el quinto título.",
-        "excerpt": "Completada la primera ronda en Shanghái, Carlos Alcaraz, Novak Djokovic y Alexander Zverev debutan en el Masters 1000 asiatico.",
+        "title": "La primera ronda de Shanghai no ha terminado. Diez marcadores del miércoles sí.",
+        "subtitle": "Djokovic venció a de Minaur en Pekín. Alcaraz venció a Lehecka en Tokio. Los cabezas de serie de Shanghai siguen con bye.",
+        "excerpt": "TennisDB lista los marcadores del miércoles de la primera ronda del Rolex Shanghai Masters. Zverev, Alcaraz y Djokovic no han jugado un partido allí.",
         "body": [
-                "Superada la primera fase del Rolex Shanghai Masters, los mejores tenistas del planeta entran en competicion en el cuadro de 96 jugadores de la Qizhong Arena.",
-                "Carlos Alcaraz llega tras conquistar Tokio ante Jiri Lehecka sumando diez victorias consecutivas en pista rapida. El murciano encabeza la parte baja del cuadro en busca del doblete asiatico.",
-                "En el otro lado, Novak Djokovic aspira a su quinta corona en Shanghái y el titulo 103 de su carrera tras vencer en Pekin. Sin Jannik Sinner, Alexander Zverev figura como primer cabeza de serie en la parte alta."
+            "El Rolex Shanghai Masters se juega del 7 al 18 de octubre en pista dura. El premio publicado es de 9.415.725 dólares. Llamar al torneo «ronda 2» se salta una primera ronda que todavía se está jugando. Los cabezas de serie, entre ellos Alexander Zverev, Carlos Alcaraz y Novak Djokovic, tienen bye. No han jugado un partido en Shanghai.",
+            "Partidos de primera ronda completados el 7 de octubre según TennisDB. Altmaier d. Rune 1-6, 7-6 (5), 6-4. Fery d. Cilic 7-6 (2), 6-1. Zhou Yi d. Bellucci 6-4, 3-6, 7-6 (4). Wu Yibing d. Michael Zheng 6-3, 7-6 (6). Halys d. Coleman Wong 6-4, 7-6 (5). Hanfmann d. Majchrzak 6-7 (4), 7-6 (3), 7-6 (7). Safiullin d. Hijikata 7-5, 6-3. Machac d. Zhang Zhizhen 1-6, 7-6 (3), 6-2. Gea d. Faria 6-7 (3), 6-1, 6-2. Kecmanovic d. Shimabukuro 6-2, 6-4.",
+            "El 6 de octubre, Djokovic venció a Alex de Minaur 7-6 (3), 0-1 retirada en la final del China Open. Alcaraz venció a Jiri Lehecka 7-6 (4), 6-4 en la final del Japan Open. Esos son títulos. No son partidos de Shanghai. La ronda de 64 es la próxima vez que juegan los exentos, y no está ya terminada."
         ]
-},
+    },
     "de": {
-        "title": "Shanghai Masters 2. Runde: Alcaraz und Djokovic bereit fuer die Fortsetzung ihrer Siegesserien",
-        "subtitle": "Die besten 32 Gesetzten greifen in der Qizhong Arena ein. Alcaraz peilt 11. Sieg in Folge an; Djokovic jagt fuenften Titel.",
-        "excerpt": "Nach Abschluss von Runde eins in Shanghai steigen Carlos Alcaraz, Novak Djokovic und Alexander Zverev ins Masters 1000 ein.",
+        "title": "Shanghais erste Runde ist nicht fertig. Zehn Mittwochsergebnisse sind es.",
+        "subtitle": "Djokovic schlug de Minaur in Peking. Alcaraz schlug Lehecka in Tokio. Die Gesetzten in Shanghai haben weiter ein Freilos.",
+        "excerpt": "TennisDB listet die Mittwochsergebnisse der ersten Runde der Rolex Shanghai Masters. Zverev, Alcaraz und Djokovic haben dort kein Match gespielt.",
         "body": [
-                "Die Auftaktrunde des Rolex Shanghai Masters ist Geschichte und nun betreten die Topspieler der Welt die Buehne der Qizhong Forest Sports City Arena.",
-                "Carlos Alcaraz reist mit einer Serie von zehn Siegen nach seinem Turniersieg in Tokio ueber Jiri Lehecka an. Der Spanier fuehrt die untere Tableauhälfte an.",
-                "Novak Djokovic jagt nach seinem 102. Karrieretitel in Peking seinen fuenften Shanghai-Triumph. Da Jannik Sinner pausiert, ist Alexander Zverev die Nummer eins der Setzliste in der oberen Haelfte."
+            "Die Rolex Shanghai Masters laufen vom 7. bis 18. Oktober auf Hartplatz. Das ausgewiesene Preisgeld beträgt 9.415.725 Dollar. Das Turnier «Runde 2» zu nennen überspringt eine erste Runde, die noch gespielt wird. Die Gesetzten, darunter Alexander Zverev, Carlos Alcaraz und Novak Djokovic, haben ein Freilos. Sie haben kein Shanghai-Match gespielt.",
+            "Abgeschlossene Erstrundenmatches am 7. Oktober laut TennisDB. Altmaier d. Rune 1-6, 7-6 (5), 6-4. Fery d. Cilic 7-6 (2), 6-1. Zhou Yi d. Bellucci 6-4, 3-6, 7-6 (4). Wu Yibing d. Michael Zheng 6-3, 7-6 (6). Halys d. Coleman Wong 6-4, 7-6 (5). Hanfmann d. Majchrzak 6-7 (4), 7-6 (3), 7-6 (7). Safiullin d. Hijikata 7-5, 6-3. Machac d. Zhang Zhizhen 1-6, 7-6 (3), 6-2. Gea d. Faria 6-7 (3), 6-1, 6-2. Kecmanovic d. Shimabukuro 6-2, 6-4.",
+            "Am 6. Oktober schlug Djokovic Alex de Minaur 7-6 (3), 0-1 Aufgabe im Finale der China Open. Alcaraz schlug Jiri Lehecka 7-6 (4), 6-4 im Finale der Japan Open. Das sind Titel. Das sind keine Shanghai-Matches. Die Runde der letzten 64 ist das nächste Mal, dass die Freilos-Spieler antreten, und sie ist nicht schon vorbei."
         ]
-},
+    },
     "it": {
-        "title": "Shanghai Masters Secondo Turno: Alcaraz e Djokovic pronti all esordio",
-        "subtitle": "Le prime 32 teste di serie entrano in scena alla Qizhong Arena. Alcaraz a caccia dell undicesima vittoria consecutiva; Djokovic per la cinquina.",
-        "excerpt": "Concluso il primo turno a Shanghai, Carlos Alcaraz, Novak Djokovic e Alexander Zverev scendono in campo nel Masters 1000.",
+        "title": "Il primo turno di Shanghai non è finito. Dieci risultati di mercoledì sì.",
+        "subtitle": "Djokovic ha battuto de Minaur a Pechino. Alcaraz ha battuto Lehecka a Tokyo. Le teste di serie di Shanghai sono ancora al bye.",
+        "excerpt": "TennisDB elenca i risultati di mercoledì del primo turno del Rolex Shanghai Masters. Zverev, Alcaraz e Djokovic non hanno giocato una partita lì.",
         "body": [
-                "La prima fase del Rolex Shanghai Masters si e chiusa alla Qizhong Arena, lasciando spazio all esordio dei migliori giocatori al mondo nel tabellone a 96.",
-                "Carlos Alcaraz arriva con una striscia aperta di dieci vittorie consecutive dopo aver difeso il titolo di Tokyo contro Jiri Lehecka. Lo spagnolo presidia la parte bassa del tabellone.",
-                "Dall altra parte, Novak Djokovic punta al quinto titolo a Shanghai dopo il trionfo numero 102 a Pechino contro Alex de Minaur. Con Jannik Sinner a riposo, Alexander Zverev guida il seeding nella parte alta."
+            "Il Rolex Shanghai Masters si gioca dal 7 al 18 ottobre sul cemento. Il montepremi pubblicato è di 9.415.725 dollari. Chiamare il torneo «secondo turno» salta un primo turno che si sta ancora giocando. Le teste di serie, tra cui Alexander Zverev, Carlos Alcaraz e Novak Djokovic, hanno un bye. Non hanno giocato una partita a Shanghai.",
+            "Partite di primo turno concluse il 7 ottobre secondo TennisDB. Altmaier d. Rune 1-6, 7-6 (5), 6-4. Fery d. Cilic 7-6 (2), 6-1. Zhou Yi d. Bellucci 6-4, 3-6, 7-6 (4). Wu Yibing d. Michael Zheng 6-3, 7-6 (6). Halys d. Coleman Wong 6-4, 7-6 (5). Hanfmann d. Majchrzak 6-7 (4), 7-6 (3), 7-6 (7). Safiullin d. Hijikata 7-5, 6-3. Machac d. Zhang Zhizhen 1-6, 7-6 (3), 6-2. Gea d. Faria 6-7 (3), 6-1, 6-2. Kecmanovic d. Shimabukuro 6-2, 6-4.",
+            "Il 6 ottobre Djokovic ha battuto Alex de Minaur 7-6 (3), 0-1 ritiro nella finale del China Open. Alcaraz ha battuto Jiri Lehecka 7-6 (4), 6-4 nella finale del Japan Open. Sono titoli. Non sono partite di Shanghai. Il tabellone dei 64 è la prossima volta in cui giocano gli esenti, e non è già finito."
         ]
-},
+    },
     "pl": {
-        "title": "Shanghai Masters 2. runda: Alcaraz i Djokovic gotowi na debiut w turnieju glownym",
-        "subtitle": "Czolo rozstawionych wkracza do gry w Qizhong Arena. Alcaraz poluje na 11. wygrana z rzedu; Djokovic na 5. tytul w Szanghaju.",
-        "excerpt": "Po zakonczeniu 1. rundy w Szanghaju najwieksze gwiazdy tenisa z Carlosem Alcarazem i Novakiem Djokovicem rozpoczynaja walke o tytul.",
+        "title": "Pierwsza runda w Szanghaju nie jest skończona. Dziesięć wyników ze środy jest.",
+        "subtitle": "Djoković pokonał de Minaura w Pekinie. Alcaraz pokonał Leheckę w Tokio. Rozstawieni w Szanghaju nadal mają wolny los.",
+        "excerpt": "TennisDB podaje środowe wyniki pierwszej rundy Rolex Shanghai Masters. Zverev, Alcaraz i Djoković nie zagrali tam meczu.",
         "body": [
-                "Pierwsza runda Rolex Shanghai Masters dobiegla konca w Qizhong Arena, otwierajac droge do gry dla 32 najwyzej rozstawionych tenisistow.",
-                "Carlos Alcaraz przyjezdza z seria dziesieciu kolejnych wygranych po obronie tytulu w Tokio w meczu z Jirim Lehecka. Hiszpan otwiera dolna polowke drabinki.",
-                "Z kolei Novak Djokovic celuje w piaty triumf w Szanghaju po zdobyciu 102. tytulu w Pekinie przeciwko Alexowi de Minaurowi. Pod nieobecnosc Jannika Sinnera najwyzej rozstawiony w gornej polowce jest Alexander Zverev."
+            "Rolex Shanghai Masters trwa od 7 do 18 października na twardej nawierzchni. Podana pula nagród to 9 415 725 dolarów. Nazywanie turnieju «rundą 2» pomija pierwszą rundę, która wciąż trwa. Rozstawieni, w tym Alexander Zverev, Carlos Alcaraz i Novak Djoković, mają wolny los. Nie zagrali meczu w Szanghaju.",
+            "Zakończone mecze pierwszej rundy 7 października według TennisDB. Altmaier d. Rune 1-6, 7-6 (5), 6-4. Fery d. Cilic 7-6 (2), 6-1. Zhou Yi d. Bellucci 6-4, 3-6, 7-6 (4). Wu Yibing d. Michael Zheng 6-3, 7-6 (6). Halys d. Coleman Wong 6-4, 7-6 (5). Hanfmann d. Majchrzak 6-7 (4), 7-6 (3), 7-6 (7). Safiullin d. Hijikata 7-5, 6-3. Machac d. Zhang Zhizhen 1-6, 7-6 (3), 6-2. Gea d. Faria 6-7 (3), 6-1, 6-2. Kecmanovic d. Shimabukuro 6-2, 6-4.",
+            "6 października Djoković pokonał Alexa de Minaura 7-6 (3), 0-1 krecz w finale China Open. Alcaraz pokonał Jiriego Leheckę 7-6 (4), 6-4 w finale Japan Open. To tytuły. To nie są mecze w Szanghaju. Runda 64 jest następnym występem zawodników z wolnym losem i nie jest już zakończona."
         ]
-},
+    },
     "zh": {
-        "title": "上海大师赛第二轮蓄势待发：阿尔卡拉斯与德约科维奇亮相旗忠",
-        "subtitle": "前32号种子悉数出战，阿卡冲击十一连胜，德约力争个人上海第五冠。",
-        "excerpt": "上海劳力士大师赛首轮战罢，前32位种子选手将在周四和周五陆续登场展开第二轮角逐。",
+        "title": "上海的首轮还没有结束。周三的十场比分已经有了。",
+        "subtitle": "德约科维奇在北京击败德米纳尔。阿尔卡拉斯在东京击败莱赫茨卡。上海的种子选手仍在轮空。",
+        "excerpt": "TennisDB列出劳力士上海大师赛周三的首轮比分。兹维列夫、阿尔卡拉斯和德约科维奇还没有在那里打过比赛。",
         "body": [
-                "2026年上海劳力士大师赛首轮赛事在旗忠网球中心落下帷幕，前32位享受轮空待遇的顶尖种子选手即将迎来正赛首秀。",
-                "刚在东京站击败莱赫奇卡成功卫冕并豪取十连胜的阿尔卡拉斯坐镇下半区，士气正盛的他将力争延续在亚洲硬地的强势表现。",
-                "在上半区，刚刚在中网夺得职业生涯第102冠的德约科维奇将冲击个人的第五座上海大师赛奖杯。世界第一辛纳休战的情况下，兹维列夫作为赛会头号种子领衔出战。"
+            "劳力士上海大师赛于10月7日至18日在硬地进行。公布的奖金是9415725美元。把赛事叫成「第二轮」会跳过仍在进行的首轮。种子选手包括亚历山大·兹维列夫、卡洛斯·阿尔卡拉斯和诺瓦克·德约科维奇，他们轮空，还没有打过上海的比赛。",
+            "TennisDB所载10月7日已经结束的首轮： Altmaier d. Rune 1-6, 7-6 (5), 6-4. Fery d. Cilic 7-6 (2), 6-1. Zhou Yi d. Bellucci 6-4, 3-6, 7-6 (4). Wu Yibing d. Michael Zheng 6-3, 7-6 (6). Halys d. Coleman Wong 6-4, 7-6 (5). Hanfmann d. Majchrzak 6-7 (4), 7-6 (3), 7-6 (7). Safiullin d. Hijikata 7-5, 6-3. Machac d. Zhang Zhizhen 1-6, 7-6 (3), 6-2. Gea d. Faria 6-7 (3), 6-1, 6-2. Kecmanovic d. Shimabukuro 6-2, 6-4.",
+            "10月6日，德约科维奇在中国网球公开赛决赛以7-6（3）、0-1退击败亚历克斯·德米纳尔。阿尔卡拉斯在日本公开赛决赛以7-6（4）、6-4击败伊日·莱赫茨卡。那是冠军。那不是上海的比赛。64强是轮空选手的下一场，而且那一轮还没有结束。"
         ]
-},
+    },
     "ja": {
-        "title": "上海マスターズ第2回戦へ：アルカラスとジョコビッチがいよいよ登場",
-        "subtitle": "上位32シードが旗忠アリーナに集結。アルカラス11連勝なるか、ジョコビッチは5度目のV狙う。",
-        "excerpt": "上海マスターズの1回戦が終了し、カルロス・アルカラスやノバク・ジョコビッチらシード勢が2回戦から参戦する。",
+        "title": "上海の1回戦は終わっていない。水曜の10試合のスコアは出ている。",
+        "subtitle": "ジョコビッチは北京でデミノーを下した。アルカラスは東京でレヘチカを下した。上海のシードはまだbyeのまま。",
+        "excerpt": "TennisDBはロレックス上海マスターズの水曜の1回戦スコアを載せている。ズベレフ、アルカラス、ジョコビッチはそこで試合をしていない。",
         "body": [
-                "ロレックス上海マスターズは1回戦が終わり、シード免除を受けていた上位32選手がいよいよコートに登場する。",
-                "東京でレヘチカを退け連覇を果たしたカルロス・アルカラスは目下10連勝中。ボトムハーフの軸として大会に臨む。",
-                "北京でツアー102勝目を飾ったノバク・ジョコビッチは大会5度目の優勝を目指す。シナー欠場を受け、トップハーフではアレクサンダー・ズベレフが第1シードとして控える。"
+            "ロレックス上海マスターズは10月7日から18日、ハードコート。掲示された賞金総額は9,415,725ドル。大会を「2回戦」と呼ぶと、まだ続いている1回戦を飛ばすことになる。アレクサンダー・ズベレフ、カルロス・アルカラス、ノバク・ジョコビッチを含むシードはbyeで、上海の試合はしていない。",
+            "TennisDBによる10月7日の終了した1回戦。 Altmaier d. Rune 1-6, 7-6 (5), 6-4. Fery d. Cilic 7-6 (2), 6-1. Zhou Yi d. Bellucci 6-4, 3-6, 7-6 (4). Wu Yibing d. Michael Zheng 6-3, 7-6 (6). Halys d. Coleman Wong 6-4, 7-6 (5). Hanfmann d. Majchrzak 6-7 (4), 7-6 (3), 7-6 (7). Safiullin d. Hijikata 7-5, 6-3. Machac d. Zhang Zhizhen 1-6, 7-6 (3), 6-2. Gea d. Faria 6-7 (3), 6-1, 6-2. Kecmanovic d. Shimabukuro 6-2, 6-4.",
+            "10月6日、ジョコビッチはチャイナ・オープン決勝でアレックス・デミノーを7-6（3）、0-1棄権で下した。アルカラスはジャパン・オープン決勝でイジー・レヘチカを7-6（4）、6-4で下した。それはタイトルであり、上海の試合ではない。64人の本戦がbyeの選手の次の出番であり、それはまだ終わっていない。"
         ]
-},
+    },
     "ko": {
-        "title": "상하이 마스터스 2회전 돌입: 알카라스와 조코비치, 정상 정조준",
-        "subtitle": "치중 아레나서 톱 32시드 본격 출격. 알카라스 11연승 도전, 조코비치 5회 우승 노려.",
-        "excerpt": "상하이 마스터스 1회전이 마무리되고 카를로스 알카라스, 노바크 조코비치, 알렉산더 츠베레프 등 톱시드들이 2회전부터 출전한다.",
+        "title": "상하이 1회전은 끝나지 않았다. 수요일 열 경기 스코어는 나왔다.",
+        "subtitle": "조코비치는 베이징에서 드미나우르를 이겼다. 알카라스는 도쿄에서 레헤치카를 이겼다. 상하이 시드는 아직 부전승이다.",
+        "excerpt": "TennisDB는 롤렉스 상하이 마스터스 수요일 1회전 스코어를 올린다. 즈베레프, 알카라스, 조코비치는 그곳에서 경기를 하지 않았다.",
         "body": [
-                "롤렉스 상하이 마스터스 본선 1회전이 끝나고 32명의 톱시드 선수들이 치중 포레스트 스포츠 시티 아레나에서 본격적인 우승 도전에 나선다.",
-                "도쿄 재팬 오픈을 제패하며 10연승을 달리고 있는 카를로스 알카라스는 하단 대진을 이끌며 아시아 시즌 2관왕을 노린다.",
-                "베이징에서 102번째 타이틀을 딴 노바크 조코비치는 통산 5번째 상하이 우승을 정조준한다. 야닉 시너가 결장한 가운데 알렉산더 츠베레프가 톱시드로 출전한다."
+            "롤렉스 상하이 마스터스는 10월 7일부터 18일까지 하드코트에서 열린다. 게시된 상금은 9,415,725달러. 대회를 「2회전」이라고 부르면 아직 진행 중인 1회전을 건너뛰게 된다. 알렉산더 즈베레프, 카를로스 알카라스, 노바크 조코비치를 포함한 시드는 부전승이며 상하이 경기를 하지 않았다.",
+            "TennisDB 기준 10월 7일 끝난 1회전. Altmaier d. Rune 1-6, 7-6 (5), 6-4. Fery d. Cilic 7-6 (2), 6-1. Zhou Yi d. Bellucci 6-4, 3-6, 7-6 (4). Wu Yibing d. Michael Zheng 6-3, 7-6 (6). Halys d. Coleman Wong 6-4, 7-6 (5). Hanfmann d. Majchrzak 6-7 (4), 7-6 (3), 7-6 (7). Safiullin d. Hijikata 7-5, 6-3. Machac d. Zhang Zhizhen 1-6, 7-6 (3), 6-2. Gea d. Faria 6-7 (3), 6-1, 6-2. Kecmanovic d. Shimabukuro 6-2, 6-4.",
+            "10월 6일 조코비치는 차이나 오픈 결승에서 알렉스 드미나우르를 7-6(3), 0-1 기권으로 이겼다. 알카라스는 재팬 오픈 결승에서 이르지 레헤치카를 7-6(4), 6-4로 이겼다. 그것은 우승이며 상하이 경기가 아니다. 64강이 부전승 선수의 다음 경기이며, 그 라운드는 아직 끝나지 않았다."
         ]
-},
+    },
     "ar": {
-        "title": "بطولة شنغهاي للأساتذة الدور الثاني: ألكاراز ودجوكوفيتش يستعدان للظهور الأول",
-        "subtitle": "أفضل 32 مصنفاً يستهلون مشوارهم في قيزونغ، ألكاراز يسعى للفوز 11 توالياً ودجوكوفيتش للقبه الخامس.",
-        "excerpt": "بعد انتهاء منافسات الدور الأول في شنغهاي، يبدأ كارلوس ألكاراز ونوفاك دجوكوفيتش وألكسندر زفيريف مشوارهم في البطولة.",
+        "title": "الدور الأول في شنغهاي لم ينته. عشر نتائج من الأربعاء انتهت.",
+        "subtitle": "هزم جوكوفيتش دي مينور في بكين. هزم ألكاراز ليهيتشكا في طوكيو. المصنفون في شنغهاي ما زالوا معفيين.",
+        "excerpt": "تدرج TennisDB نتائج الأربعاء للدور الأول من رولكس شنغهاي للأساتذة. زفيريف وألكاراز وجوكوفيتش لم يلعبوا مباراة هناك.",
         "body": [
-                "اكتملت مباريات الدور الأول من بطولة شنغهاي للأساتذة لتبدأ المنافسة الحقيقية مع دخول المصنفين الأوائل في القرعة المكونة من 96 لاعباً.",
-                "يدخل كارلوس ألكاراز المنافسات منتشياً بفوزه بلقب بطولة طوكيو وتحقيقه عشرة انتصارات متتالية، حيث يتصدر النصف السفلي من الجدول.",
-                "من جهته، يسعى نوفاك دجوكوفيتش للقبه الخامس في شنغهاي والـ103 في مسيرته بعد تتويجه في بكين. ومع غياب يانيك سينر، يقود ألكسندر زفيريف صدارة المصنفين."
+            "تقام رولكس شنغهاي للأساتذة من 7 إلى 18 أكتوبر على الملاعب الصلبة. جائزة المعلنة 9,415,725 دولارًا. تسمية البطولة «الدور الثاني» تتخطى دورًا أولًا ما زال يُلعب. المصنفون، ومنهم ألكسندر زفيريف وكارلوس ألكاراز ونوفاك جوكوفيتش، لديهم إعفاء. لم يلعبوا مباراة في شنغهاي.",
+            "مباريات الدور الأول المكتملة في 7 أكتوبر حسب TennisDB. Altmaier d. Rune 1-6, 7-6 (5), 6-4. Fery d. Cilic 7-6 (2), 6-1. Zhou Yi d. Bellucci 6-4, 3-6, 7-6 (4). Wu Yibing d. Michael Zheng 6-3, 7-6 (6). Halys d. Coleman Wong 6-4, 7-6 (5). Hanfmann d. Majchrzak 6-7 (4), 7-6 (3), 7-6 (7). Safiullin d. Hijikata 7-5, 6-3. Machac d. Zhang Zhizhen 1-6, 7-6 (3), 6-2. Gea d. Faria 6-7 (3), 6-1, 6-2. Kecmanovic d. Shimabukuro 6-2, 6-4.",
+            "في 6 أكتوبر هزم جوكوفيتش أليكس دي مينور 7-6 (3) و0-1 انسحابًا في نهائي الصين المفتوحة. هزم ألكاراز ييري ليهيتشكا 7-6 (4) و6-4 في نهائي اليابان المفتوحة. تلك ألقاب. ليست مباريات شنغهاي. دور الـ64 هو المرة التالية التي يلعب فيها المعفون، وهو لم ينته بعد."
         ]
-},
+    }
   },
   'baycurrent-classic-yokohama-round1-ghim-yu-fall-surge-2026': {
     "fr": {
-        "title": "Baycurrent Classic 1er tour: Ghim et Yu en quete de points FedExCup au Japon",
-        "subtitle": "L epreuve inaugurale du PGA Tour debute au Yokohama Country Club apres l exploit de Smotherman.",
-        "excerpt": "La course aux points de la FedExCup Fall se poursuit au Japon avec Doug Ghim et Kevin Yu au depart du Baycurrent Classic a Yokohama.",
+        "title": "Le premier départ du Baycurrent Classic est fixé à Yokohama. Aucun score de tour n’est publié.",
+        "subtitle": "Du 8 au 11 octobre, Yokohama Country Club, par 71, 7 322 yards, 8 millions de dollars.",
+        "excerpt": "CBS Sports et GOLF.com donnent les groupes de jeudi et aucun leader. Ce bureau ne nomme pas de vainqueur.",
         "body": [
-                "Le calendrier de la FedExCup Fall a franchi le Pacifique cette semaine pour la premiere edition du Baycurrent Classic au Yokohama Country Club dans la prefecture de Kanagawa.",
-                "Le plateau entier reste inspire par l exploit historique d Austin Smotherman a l Utah Championship (-26, 258 record). Cette victoire l a propulse de la 79e a la 51e place, lui assurant deux annees d exemption.",
-                "Doug Ghim, dauphin de Smotherman a 24 sous le par, mene les premiers departs du jeudi matin aux cotes de Kevin Yu et Trace Crowe. Les joueurs se disputent 500 points precieux pour le top 60 mondial."
+            "Le Baycurrent Classic va du jeudi 8 octobre au dimanche 11 octobre sur le parcours Ouest du Yokohama Country Club. C’est un par 71 de 7 322 yards avec une dotation de 8 millions de dollars. Une page japonaise en direct à 05:00 heure du Japon le 8 octobre montrait encore seulement les groupes, avant le départ local de 08:45. CBS Sports a listé des heures de départ plutôt que des scores.",
+            "Groupes du premier tour selon GOLF.com, en heure de l’Est américain mercredi soir. 19:45 ET : Hossler, Coody, Ren Yonezawa, trou 1. 20:18 ET : Min Woo Lee, Spieth, Sungjae Im, trou 10. 20:29 ET : Bridgeman, Morikawa, Schauffele, trou 10. 21:35 ET : Bradley, Matsuyama, Fowler, trou 1. 21:46 ET : Ghim, Bauchou, amateur Koshin Nagasaki.",
+            "Tant qu’un tour complet n’est pas sur le tableau du PGA Tour, ce bureau ne nomme ni leader, ni carte basse, ni gain de points FedExCup. Un classement terminé qui apparaît sur une page pendant que la feuille de départs est encore l’information n’est pas utilisé ici."
         ]
-},
+    },
     "es": {
-        "title": "Baycurrent Classic Ronda 1: Ghim y Yu buscan puntos vitales de la FedExCup en Japon",
-        "subtitle": "El estreno del PGA Tour en el Yokohama Country Club tras la gesta de Smotherman.",
-        "excerpt": "Las series de otono de la FedExCup aterrizan en Yokohama con Doug Ghim y Kevin Yu peleando por entrar en el top 60 del circuito.",
+        "title": "La primera salida del Baycurrent Classic está fijada en Yokohama. No hay tarjeta de la ronda.",
+        "subtitle": "Del 8 al 11 de octubre, Yokohama Country Club, par 71, 7.322 yardas, 8 millones de dólares.",
+        "excerpt": "CBS Sports y GOLF.com listan los grupos del jueves y ningún líder. Esta mesa no nombra un ganador.",
         "body": [
-                "El circuito PGA Tour estrena el Baycurrent Classic en el prestigioso Yokohama Country Club de Kanagawa, en una cita trascendental para la FedExCup Fall.",
-                "El triunfo de Austin Smotherman en Utah con 26 bajo par (258 record) marco el camino al resto del circuito tras catapultarlo al puesto 51 de la clasificacion general.",
-                "Doug Ghim, subcampeon en Utah con -24, comanda las salidas del jueves junto a Kevin Yu y Trace Crowe en busca de sumar los 500 puntos que aseguran plaza en los torneos estrella de 2027."
+            "El Baycurrent Classic va del jueves 8 de octubre al domingo 11 de octubre en el recorrido West del Yokohama Country Club. Es un par 71 de 7.322 yardas con un bolsa de 8 millones de dólares. Una página japonesa en directo a las 05:00 hora de Japón del 8 de octubre seguía mostrando solo los grupos, antes de la salida local de las 08:45. CBS Sports listó horarios de salida y no marcadores.",
+            "Grupos de la primera ronda según GOLF.com, en hora del Este de Estados Unidos el miércoles por la noche. 19:45 ET: Hossler, Coody, Ren Yonezawa, hole 1. 20:18 ET: Min Woo Lee, Spieth, Sungjae Im, hole 10. 20:29 ET: Bridgeman, Morikawa, Schauffele, hole 10. 21:35 ET: Bradley, Matsuyama, Fowler, hole 1. 21:46 ET: Ghim, Bauchou, amateur Koshin Nagasaki.",
+            "Hasta que una ronda completa esté en el tablero del PGA Tour, esta mesa no nombra un líder, una tarjeta baja ni un pago de puntos FedExCup. Un liderato terminado que aparece en una página mientras la hoja de salidas sigue siendo la noticia no se usa aquí."
         ]
-},
+    },
     "de": {
-        "title": "Baycurrent Classic Runde 1: Ghim und Yu jagen FedExCup-Herbstpunkte in Japan",
-        "subtitle": "PGA Tour Premiere im Yokohama Country Club nach dem Sensationssieg von Smotherman.",
-        "excerpt": "Die FedExCup Fall Series macht Station in Japan: Doug Ghim und Kevin Yu greifen in Runde 1 des Baycurrent Classic an.",
+        "title": "Der erste Abschlag der Baycurrent Classic steht in Yokohama. Es ist keine Rundenzahl veröffentlicht.",
+        "subtitle": "8. bis 11. Oktober, Yokohama Country Club, Par 71, 7.322 Yards, 8 Millionen Dollar.",
+        "excerpt": "CBS Sports und GOLF.com nennen Donnerstagsgruppen und keinen Führenden. Dieser Desk nennt keinen Sieger.",
         "body": [
-                "Die PGA Tour feiert in dieser Woche das Debuet des Baycurrent Classic im Yokohama Country Club in der Praefektur Kanagawa.",
-                "Die Spieler blicken auf die Rekordleistung von Austin Smotherman zurueck, der in Utah mit 258 Schlægen (-26) triumphierte und auf Rang 51 der Herbstwertung kletterte.",
-                "Doug Ghim, der in Utah mit 24 unter Par Rang zwei belegte, startet am Donnerstag gemeinsam mit Kevin Yu und Trace Crowe in den Kampf um 500 wertvolle FedExCup-Punkte."
+            "Die Baycurrent Classic läuft von Donnerstag, 8. Oktober, bis Sonntag, 11. Oktober, auf dem Westkurs des Yokohama Country Club. Es ist ein Par 71 über 7.322 Yards mit 8 Millionen Dollar Preisgeld. Eine japanische Live-Seite um 05:00 japanischer Zeit am 8. Oktober zeigte noch nur die Gruppen, vor dem lokalen Start um 08:45. CBS Sports listete Startzeiten statt Ergebnisse.",
+            "Erstrundengruppen laut GOLF.com, US-Ostküstenzeit am Mittwochabend. 19:45 ET: Hossler, Coody, Ren Yonezawa, hole 1. 20:18 ET: Min Woo Lee, Spieth, Sungjae Im, hole 10. 20:29 ET: Bridgeman, Morikawa, Schauffele, hole 10. 21:35 ET: Bradley, Matsuyama, Fowler, hole 1. 21:46 ET: Ghim, Bauchou, amateur Koshin Nagasaki.",
+            "Solange keine volle Runde auf der PGA-Tour-Tafel steht, nennt dieser Desk keinen Führenden, keine niedrige Runde und keine FedExCup-Punkteauszahlung. Eine fertige Führungsleiste, die auf einer Seite erscheint, während das Tee-Sheet noch die Nachricht ist, wird hier nicht verwendet."
         ]
-},
+    },
     "it": {
-        "title": "Baycurrent Classic Primo Giro: Ghim e Yu a caccia di punti FedExCup in Giappone",
-        "subtitle": "Debutto del PGA Tour al Yokohama Country Club dopo il trionfo record di Smotherman nello Utah.",
-        "excerpt": "La corsa ai punti della FedExCup Fall fa tappa a Yokohama con Doug Ghim e Kevin Yu protagonisti del primo giro.",
+        "title": "Il primo tee del Baycurrent Classic è fissato a Yokohama. Nessun risultato di giro è pubblicato.",
+        "subtitle": "Dall’8 all’11 ottobre, Yokohama Country Club, par 71, 7.322 yard, 8 milioni di dollari.",
+        "excerpt": "CBS Sports e GOLF.com elencano i gruppi di giovedì e nessun leader. Questo desk non nomina un vincitore.",
         "body": [
-                "Il tour americano sbarca in Giappone per la prima edizione del Baycurrent Classic al prestigioso Yokohama Country Club.",
-                "L impresa di Austin Smotherman nello Utah, dove ha chiuso a -26 (258 colpi) salendo al 51 posto, e un punto di riferimento per tutto il field.",
-                "Doug Ghim, secondo nello Utah con -24, e tra i favoriti del primo giro insieme a Kevin Yu e Trace Crowe per conquistare i 500 punti in palio."
+            "Il Baycurrent Classic va da giovedì 8 ottobre a domenica 11 ottobre sul West del Yokohama Country Club. È un par 71 di 7.322 yard con un montepremi di 8 milioni di dollari. Una pagina giapponese in diretta alle 05:00 ora del Giappone dell’8 ottobre mostrava ancora solo i gruppi, prima della partenza locale delle 08:45. CBS Sports ha elencato orari di partenza e non risultati.",
+            "Gruppi del primo giro secondo GOLF.com, ora della costa orientale USA mercoledì sera. 19:45 ET: Hossler, Coody, Ren Yonezawa, hole 1. 20:18 ET: Min Woo Lee, Spieth, Sungjae Im, hole 10. 20:29 ET: Bridgeman, Morikawa, Schauffele, hole 10. 21:35 ET: Bradley, Matsuyama, Fowler, hole 1. 21:46 ET: Ghim, Bauchou, amateur Koshin Nagasaki.",
+            "Finché un giro completo non è sul tabellone del PGA Tour, questo desk non nomina un leader, un giro basso o un pagamento di punti FedExCup. Una classifica finita che compare su una pagina mentre il foglio dei tee è ancora la notizia non viene usata qui."
         ]
-},
+    },
     "pl": {
-        "title": "Baycurrent Classic 1. runda: Ghim i Yu walcza o punkty FedExCup w Japonii",
-        "subtitle": "Debiut PGA Tour w Yokohama Country Club po rekordowym zwyciestwie Smothermana w Utah.",
-        "excerpt": "Jesienna seria FedExCup przenosi sie do Japonii, gdzie Doug Ghim i Kevin Yu rozpoczynaja zmagania w Baycurrent Classic.",
+        "title": "Pierwszy tee Baycurrent Classic jest ustalony w Jokohamie. Nie ma wyniku rundy.",
+        "subtitle": "Od 8 do 11 października, Yokohama Country Club, par 71, 7322 jardy, 8 milionów dolarów.",
+        "excerpt": "CBS Sports i GOLF.com podają czwartkowe grupy i żadnego lidera. To biurko nie wymienia zwycięzcy.",
         "body": [
-                "Kalendarz FedExCup Fall zawital w tym tygodniu do Japonii na inauguracje turnieju Baycurrent Classic w Yokohama Country Club.",
-                "Inspiracja dla graczy jest postawa Austina Smothermana, ktory w Utah uzyskal 258 uderzen (-26) i wskoczyl na 51. miejsce w klasyfikacji sezonu.",
-                "Doug Ghim, drugi w Utah z wynikiem 24 ponizej par, otwiera poranna runde w Jokohamie u boku Kevina Yu i Tracea Crowe."
+            "Baycurrent Classic trwa od czwartku 8 października do niedzieli 11 października na polu West w Yokohama Country Club. To par 71, 7322 jardy, z pulą 8 milionów dolarów. Japońska strona na żywo o 05:00 czasu Japonii 8 października wciąż pokazywała tylko grupy, przed lokalnym startem o 08:45. CBS Sports podało godziny startu, nie wyniki.",
+            "Grupy pierwszej rundy według GOLF.com, czas wschodni USA w środę wieczorem. 19:45 ET: Hossler, Coody, Ren Yonezawa, hole 1. 20:18 ET: Min Woo Lee, Spieth, Sungjae Im, hole 10. 20:29 ET: Bridgeman, Morikawa, Schauffele, hole 10. 21:35 ET: Bradley, Matsuyama, Fowler, hole 1. 21:46 ET: Ghim, Bauchou, amateur Koshin Nagasaki.",
+            "Dopóki ukończonej rundy nie ma na tablicy PGA Tour, to biurko nie podaje lidera, niskiej rundy ani wypłaty punktów FedExCup. Ukończona tabela lidera, która pojawia się na stronie, gdy kartą wiadomości wciąż są godziny startu, nie jest tu używana."
         ]
-},
+    },
     "zh": {
-        "title": "横滨湾流精英赛首轮打响：金与俞俊安争夺联邦快递杯积分",
-        "subtitle": "美巡赛全新赛事亮相横滨乡村俱乐部，斯莫瑟曼夺冠神话激励群雄。",
-        "excerpt": "美巡赛秋季赛转战日本横滨，道格·金与俞俊安在首届湾流精英赛首轮力争向前60名发起冲击。",
+        "title": "横滨Baycurrent精英赛的第一洞开球已经排好。没有一轮成绩。",
+        "subtitle": "10月8日至11日，横滨乡村俱乐部，标准杆71，7322码，奖金800万美元。",
+        "excerpt": "CBS Sports和GOLF.com列出周四分组，没有领先者。这张编辑台不写冠军。",
         "body": [
-                "联邦快递杯秋季系列赛本周跨越太平洋，在日本神奈川县横滨乡村俱乐部展开首届湾流精英赛的争夺。",
-                "四天前斯莫瑟曼在犹他打出创纪录的258杆（低于标准杆26杆）夺冠并跃升至第51位的壮举激励着全体参赛球员。",
-                "在犹他以-24杆获得亚军的道格·金在周四早场出发，与中国台北名将俞俊安和特雷斯·克劳同场竞技，争夺500个宝贵的联邦快递杯积分。"
+            "Baycurrent精英赛从10月8日周四到11日周日，在横滨乡村俱乐部西场进行。标准杆71，7322码，奖金800万美元。10月8日日本时间05:00的一个日本直播页在当地08:45开球之前仍只显示分组。CBS Sports列的是出发时间，不是成绩。",
+            "GOLF.com的首轮分组，周三夜间的美国东部时间。 19:45 ET: Hossler, Coody, Ren Yonezawa, hole 1. 20:18 ET: Min Woo Lee, Spieth, Sungjae Im, hole 10. 20:29 ET: Bridgeman, Morikawa, Schauffele, hole 10. 21:35 ET: Bradley, Matsuyama, Fowler, hole 1. 21:46 ET: Ghim, Bauchou, amateur Koshin Nagasaki.",
+            "在完整的一轮出现在美巡赛记分牌之前，这张编辑台不写领先者、低杆轮次或联邦快递杯积分。当出发表仍是新闻时，页面上出现的已结束领先榜不在这里采用。"
         ]
-},
+    },
     "ja": {
-        "title": "ベイカレント・クラシック第1ラウンド：ギムとユーが日本でポイント獲得へ挑む",
-        "subtitle": "横浜カントリークラブでPGAツアー新設大会が開幕。スモザーマンの快挙が刺激に。",
-        "excerpt": "フェデックスカップ・フォールが日本上陸。ダグ・ギムとケビン・ユーらが横浜CCでの第1ラウンドに臨む。",
+        "title": "ベイカレント・クラシックの第1ティーは横浜で決まった。ラウンドスコアは出ていない。",
+        "subtitle": "10月8日から11日、横浜カントリークラブ、パー71、7322ヤード、賞金800万ドル。",
+        "excerpt": "CBS SportsとGOLF.comは木曜の組を出し、首位は出していない。このデスクは優勝者を名指ししない。",
         "body": [
-                "PGAツアー秋季シリーズは神奈川県の横浜カントリークラブでベイカレント・クラシック初開催を迎えた。",
-                "ユタで26アンダー（258）の大会新記録で初優勝しランキング51位に急浮上したオースティン・スモザーマンの快挙が話題の中心だ。",
-                "ユタで2位に入ったダグ・ギムはケビン・ユーやトレース・クロウらとともに木曜日の第1ラウンドをスタート。500ポイントを懸けた戦いが始まった。"
+            "ベイカレント・クラシックは10月8日木曜から11日日曜、横浜カントリークラブのウエストコース。パー71、7322ヤード、賞金800万ドル。10月8日日本時間05:00の日本のライブページは、現地08:45のスタート前で、まだ組み合わせだけを示していた。CBS Sportsはスコアではなくティーオフ時刻を載せた。",
+            "GOLF.comの第1ラウンドの組、水曜夜の米東部時間。 19:45 ET: Hossler, Coody, Ren Yonezawa, hole 1. 20:18 ET: Min Woo Lee, Spieth, Sungjae Im, hole 10. 20:29 ET: Bridgeman, Morikawa, Schauffele, hole 10. 21:35 ET: Bradley, Matsuyama, Fowler, hole 1. 21:46 ET: Ghim, Bauchou, amateur Koshin Nagasaki.",
+            "完了したラウンドがPGAツアーのボードに出るまで、このデスクは首位もロースコアもフェデックスカップのポイントも書かない。ティーシートがまだニュースであるときにページへ出た完成リーダーボードは、ここでは使わない。"
         ]
-},
+    },
     "ko": {
-        "title": "베이커런트 클래식 1라운드: 더그 김과 케빈 유, 일본서 가을 포인트 사냥",
-        "subtitle": "요코하마 컨트리클럽서 PGA 투어 신설 대회 개막. 스모더먼 우승 효과.",
-        "excerpt": "페덱스컵 폴 시리즈가 일본 요코하마에 상륙해 더그 김과 케빈 유 등이 1라운드 티오프에 나섰다.",
+        "title": "베이커런트 클래식 첫 티는 요코하마에서 정해졌다. 라운드 점수는 없다.",
+        "subtitle": "10월 8일부터 11일, 요코하마 컨트리 클럽, 파 71, 7322야드, 상금 800만 달러.",
+        "excerpt": "CBS Sports와 GOLF.com은 목요일 조를 올리고 선두는 없다. 이 데스크는 우승자를 적지 않는다.",
         "body": [
-                "PGA 투어 페덱스컵 폴 가을 시리즈가 일본 가나가와현 요코하마 컨트리클럽에서 베이커런트 클래식으로 개막했다.",
-                "유타 대회에서 258타(-26) 신기록으로 우승해 51위로 뛰어오른 오스틴 스모더먼의 활약이 선수들에게 큰 자극제가 되고 있다.",
-                "유타에서 24언더파로 2위를 기록한 더그 김은 케빈 유, 트레이스 크로우와 함께 목요일 1라운드에 출격했다."
+            "베이커런트 클래식은 10월 8일 목요일부터 11일 일요일까지 요코하마 컨트리 클럽 웨스트 코스다. 파 71, 7322야드, 상금 800만 달러. 10월 8일 일본 시간 05:00의 일본 라이브 페이지는 현지 08:45 시작 전에 조 편성만 보여 주었다. CBS Sports는 점수가 아니라 티오프 시각을 올렸다.",
+            "GOLF.com 1라운드 조, 수요일 밤 미 동부 시간. 19:45 ET: Hossler, Coody, Ren Yonezawa, hole 1. 20:18 ET: Min Woo Lee, Spieth, Sungjae Im, hole 10. 20:29 ET: Bridgeman, Morikawa, Schauffele, hole 10. 21:35 ET: Bradley, Matsuyama, Fowler, hole 1. 21:46 ET: Ghim, Bauchou, amateur Koshin Nagasaki.",
+            "완료된 라운드가 PGA 투어 보드에 오르기 전에는 이 데스크가 선두도, 낮은 라운드도, 페덱스컵 포인트도 적지 않는다. 티시트가 아직 뉴스인 동안 페이지에 나온 끝난 리더보드는 여기서 쓰지 않는다."
         ]
-},
+    },
     "ar": {
-        "title": "بطولة بايكرنت كلاسيك الجولة 1: غيم ويو يسعيان لحصد نقاط فيديكس كاب في اليابان",
-        "subtitle": "انطلاق بطولة جولة PGA في نادي يوكوهاما بعد إنجاز سموذرمن التاريخي في يوتا.",
-        "excerpt": "تتواصل منافسات سلسلة خريف فيديكس كاب في اليابان مع انطلاق الجولة الأولى لبطولة بايكرنت كلاسيك في يوكوهاما.",
+        "title": "أول ضربة في بايكرنت كلاسيك محددة في يوكوهاما. لا نتيجة لجولة.",
+        "subtitle": "من 8 إلى 11 أكتوبر، نادي يوكوهاما الريفي، بار 71، 7322 ياردة، 8 ملايين دولار.",
+        "excerpt": "تدرج CBS Sports وGOLF.com مجموعات الخميس ولا متصدر. هذا المكتب لا يسمي فائزًا.",
         "body": [
-                "حطت جولة PGA الأمريكية في اليابان لخوض النسخة الأولى من بطولة بايكرنت كلاسيك في نادي يوكوهاما الريفي بمحافظة كاناغاوا.",
-                "ألهم الفوز التاريخي لأوستن سموذرمن في يوتا بـ258 ضربة (-26) وقفزه إلى المركز 51 جميع اللاعبين الساعين لدخول قائمة الستين الأوائل.",
-                "يقود دوغ غيم، وصيف بطولة يوتا، المنطلقين في الجولة الأولى يوم الخميس إلى جانب كيفن يو وتريس كرو للمنافسة على 500 نقطة."
+            "تقام بايكرنت كلاسيك من الخميس 8 أكتوبر إلى الأحد 11 أكتوبر على الملعب الغربي في نادي يوكوهاما الريفي. بار 71 ومسافة 7322 ياردة وجائزة 8 ملايين دولار. صفحة يابانية مباشرة عند الساعة 05:00 بتوقيت اليابان في 8 أكتوبر كانت ما زالت تعرض المجموعات فقط، قبل الانطلاق المحلي عند 08:45. أدرجت CBS Sports مواعيد الانطلاق لا النتائج.",
+            "مجموعات الجولة الأولى حسب GOLF.com بتوقيت شرق الولايات المتحدة مساء الأربعاء. 19:45 ET: Hossler, Coody, Ren Yonezawa, hole 1. 20:18 ET: Min Woo Lee, Spieth, Sungjae Im, hole 10. 20:29 ET: Bridgeman, Morikawa, Schauffele, hole 10. 21:35 ET: Bradley, Matsuyama, Fowler, hole 1. 21:46 ET: Ghim, Bauchou, amateur Koshin Nagasaki.",
+            "إلى أن تكتمل جولة على لوحة جولة PGA، لا يسمي هذا المكتب متصدرًا ولا جولة منخفضة ولا نقاط فيديكس كب. لوحة متصدر مكتملة تظهر على صفحة بينما ورقة الانطلاق ما زالت الخبر لا تُستخدم هنا."
         ]
-},
+    }
   },
   'f1-austin-usgp-verstappen-redbull-floor-triple-header-2026': {
     "fr": {
-        "title": "Le triptyque americain approche: Red Bull accelere les evolutions d Austin pour Verstappen",
-        "subtitle": "Antonelli possede 84 points d avance sur Russell. Milton Keynes apporte un plancher modifie au COTA.",
-        "excerpt": "La Formule 1 met le cap sur Austin ou Red Bull introduira un fond plat modifie pour tenter d arreter la domination de Mercedes.",
+        "title": "Singapour est la prochaine, pas Austin. Antonelli devance Russell de 84 points.",
+        "subtitle": "Le tableau officiel avant Marina Bay : Antonelli 320, Russell 236, Hamilton 214, Leclerc 191, Norris 188, Verstappen 188.",
+        "excerpt": "Formula1.com et l’AFP s’accordent sur les six premiers avant le week-end sprint de Singapour. La course est le dimanche 11 octobre. Aucun résultat n’est imprimé.",
         "body": [
-                "La derniere ligne droite de la saison 2026 de Formule 1 debute bientot avec le triptyque americain a Austin au Circuit of The Americas.",
-                "Kimi Antonelli mene solidement le championnat des pilotes avec 320 points, 84 longueurs devant George Russell (236) apres l abandon de ce dernier a Sepang. Hamilton suit avec 214 points, Leclerc avec 191 et Norris a egalite avec Verstappen a 188 points.",
-                "Pour contrer les Fleches d Argent, Red Bull Racing a avance son nouveau fond plat pour Verstappen. Chez RB, Liam Lawson sera quant a lui penalise de 10 places sur la grille pour changement moteur."
+            "Le prochain Grand Prix est Singapour, un week-end sprint du 9 au 11 octobre à Marina Bay. La course est annoncée le dimanche 11 octobre à 20 h 00 heure locale. Ce n’est pas une course terminée, et ce n’est pas le Grand Prix des États-Unis.",
+            "Le classement des pilotes de Formula1.com, repris par l’AFP le 7 octobre comme le tableau avant Singapour : Kimi Antonelli 320, George Russell 236, Lewis Hamilton 214, Charles Leclerc 191, Lando Norris 188, Max Verstappen 188. C’est une avance de 84 points pour Antonelli. Oscar Piastri est 7e avec 128. Mercedes est à 556 avec ses deux pilotes. Ferrari est à 405 avec Hamilton et Leclerc. McLaren est à 316 avec Norris et Piastri.",
+            "La dernière course au tableau est le Grand Prix de Bahreïn disputé à Sepang, gagné par Max Verstappen le 4 octobre. George Russell avait gagné à Bakou avant cela. Un classement qui donne déjà une victoire à Singapour à Norris ne correspond pas à un tableau publié avant Singapour. Ce bureau n’en imprime pas, et il n’imprime pas une pénalité de grille à Austin qui n’est pas sur la page officielle du classement."
         ]
-},
+    },
     "es": {
-        "title": "Se acerca la gira americana: Red Bull adelanta el suelo de Austin para Verstappen",
-        "subtitle": "Antonelli lidera con 84 puntos sobre Russell. Milton Keynes lleva mejoras clave al COTA.",
-        "excerpt": "La F1 ultima detalles para el GP de Estados Unidos en Austin con un nuevo suelo para el monoplaza de Max Verstappen.",
+        "title": "Singapur es la siguiente, no Austin. Antonelli le saca 84 puntos a Russell.",
+        "subtitle": "La tabla oficial antes de Marina Bay: Antonelli 320, Russell 236, Hamilton 214, Leclerc 191, Norris 188, Verstappen 188.",
+        "excerpt": "Formula1.com y AFP coinciden en los seis primeros antes del fin de semana sprint de Singapur. La carrera es el domingo 11 de octubre. No se imprime un resultado.",
         "body": [
-                "El tramo final del Mundial 2026 comienza en breve con el triplete americano en el Circuit of The Americas en Austin, Texas.",
-                "Kimi Antonelli comanda la tabla con 320 puntos, aventajando en 84 a George Russell tras su retirada en Sepang. Hamilton figura tercero con 214 y Verstappen empata con Norris en 188.",
-                "Red Bull ha adelantado un paquete de mejoras en el suelo para solucionar el equilibrio en curvas rapidas de Verstappen. En RB, Liam Lawson perdera 10 posiciones en la parrilla por sancion de motor."
+            "El próximo Gran Premio es Singapur, un fin de semana sprint del 9 al 11 de octubre en Marina Bay. La carrera está anunciada para el domingo 11 de octubre a las 20:00 hora local. No es una carrera terminada, y no es el Gran Premio de Estados Unidos.",
+            "La tabla de pilotos de Formula1.com, igualada por AFP el 7 de octubre como la clasificación previa a Singapur: Kimi Antonelli 320, George Russell 236, Lewis Hamilton 214, Charles Leclerc 191, Lando Norris 188, Max Verstappen 188. Son 84 puntos de ventaja para Antonelli. Oscar Piastri es 7º con 128. Mercedes suma 556 con sus dos pilotos. Ferrari suma 405 con Hamilton y Leclerc. McLaren suma 316 con Norris y Piastri.",
+            "La última carrera en el tablero es el Gran Premio de Baréin disputado en Sepang, ganado por Max Verstappen el 4 de octubre. George Russell ganó en Bakú antes de eso. Una clasificación que ya le da a Norris una victoria en Singapur no coincide con una tabla publicada antes de Singapur. Esta mesa no imprime esa victoria, y no imprime una sanción de parrilla en Austin que no está en la página oficial de la clasificación."
         ]
-},
+    },
     "de": {
-        "title": "Amerika-Triple-Header naht: Red Bull zieht Austin-Unterboden fuer Verstappen vor",
-        "subtitle": "Antonelli fuehrt mit 84 Punkten vor Russell. Milton Keynes liefert grosses Aerodynamik-Paket an den COTA.",
-        "excerpt": "Die Formel 1 ruestet fuer das Rennen in Austin auf: Red Bull bringt einen neuen Unterboden, um Mercedes herauszufordern.",
+        "title": "Singapur ist als Nächstes, nicht Austin. Antonelli führt Russell mit 84 Punkten an.",
+        "subtitle": "Die offizielle Tabelle vor Marina Bay: Antonelli 320, Russell 236, Hamilton 214, Leclerc 191, Norris 188, Verstappen 188.",
+        "excerpt": "Formula1.com und AFP sind sich über die ersten sechs vor dem Sprint-Wochenende in Singapur einig. Das Rennen ist am Sonntag, 11. Oktober. Es wird kein Ergebnis gedruckt.",
         "body": [
-                "Der Schlussspurt der Formel-1-Saison 2026 beginnt in Kuerze mit dem Triple-Header auf dem Circuit of The Americas in Austin.",
-                "Kimi Antonelli fuehrt die WM mit 320 Punkten souveraen an, 84 Zaehler vor George Russell nach dessen Ausfall in Sepang. Hamilton folgt mit 214 Punkten, waehrend Verstappen und Norris bei 188 Punkten stehen.",
-                "Red Bull Racing hat ein ueberarbeitetes Unterboden-Upgrade fuer Verstappen vorgezogen, um im schnellen ersten Sektor konkurrenzfaehiger zu sein. Liam Lawson erhaelt eine 10-Plaetze-Strafe wegen Motorenwechsels."
+            "Der nächste Grand Prix ist Singapur, ein Sprint-Wochenende vom 9. bis 11. Oktober in Marina Bay. Das Rennen ist für Sonntag, 11. Oktober, 20:00 Uhr Ortszeit angesetzt. Es ist kein beendetes Rennen, und es ist nicht der Große Preis der USA.",
+            "Die Fahrerwertung von Formula1.com, von AFP am 7. Oktober als Stand vor Singapur bestätigt: Kimi Antonelli 320, George Russell 236, Lewis Hamilton 214, Charles Leclerc 191, Lando Norris 188, Max Verstappen 188. Das sind 84 Punkte Vorsprung für Antonelli. Oscar Piastri ist 7. mit 128. Mercedes steht mit beiden Fahrern auf 556. Ferrari steht mit Hamilton und Leclerc auf 405. McLaren steht mit Norris und Piastri auf 316.",
+            "Das letzte Rennen auf der Tafel ist der Große Preis von Bahrain in Sepang, gewonnen von Max Verstappen am 4. Oktober. George Russell hatte zuvor in Baku gewonnen. Eine Wertung, die Norris schon einen Sieg in Singapur gibt, passt nicht zu einer vor Singapur veröffentlichten Tabelle. Dieser Desk druckt keinen solchen Sieg und keine Austin-Startplatzstrafe, die nicht auf der offiziellen Wertungsseite steht."
         ]
-},
+    },
     "it": {
-        "title": "Verso il trittico americano: Red Bull anticipa il nuovo fondo ad Austin per Verstappen",
-        "subtitle": "Antonelli a +84 su Russell. Milton Keynes porta un importante pacchetto aerodinamico al COTA.",
-        "excerpt": "La Formula 1 si prepara per il Gran Premio degli Stati Uniti con Red Bull pronta a montare un nuovo fondo per Max Verstappen.",
+        "title": "Singapore è la prossima, non Austin. Antonelli ha 84 punti su Russell.",
+        "subtitle": "La classifica ufficiale prima di Marina Bay: Antonelli 320, Russell 236, Hamilton 214, Leclerc 191, Norris 188, Verstappen 188.",
+        "excerpt": "Formula1.com e l’AFP concordano sui primi sei prima del weekend sprint di Singapore. La gara è domenica 11 ottobre. Non si stampa un risultato.",
         "body": [
-                "La volata finale del Mondiale 2026 prende il via con il trittico americano al Circuit of The Americas di Austin, in Texas.",
-                "Kimi Antonelli guida la classifica con 320 punti e 84 lunghezze di vantaggio su George Russell. Hamilton e terzo a quota 214, mentre Verstappen e Norris sono appaiati a 188 punti.",
-                "La Red Bull ha velocizzato la produzione di un nuovo fondo per risolvere i problemi di bilanciamento della monoposto di Verstappen. In casa RB, Liam Lawson scontera 10 posizioni di penalita per il cambio motore."
+            "Il prossimo Gran Premio è Singapore, un weekend sprint dal 9 all’11 ottobre a Marina Bay. La gara è indicata per domenica 11 ottobre alle 20:00 ora locale. Non è una gara finita, e non è il Gran Premio degli Stati Uniti.",
+            "La classifica piloti di Formula1.com, confermata dall’AFP il 7 ottobre come situazione prima di Singapore: Kimi Antonelli 320, George Russell 236, Lewis Hamilton 214, Charles Leclerc 191, Lando Norris 188, Max Verstappen 188. Sono 84 punti di vantaggio per Antonelli. Oscar Piastri è 7º con 128. Mercedes è a 556 con i due piloti. Ferrari è a 405 con Hamilton e Leclerc. McLaren è a 316 con Norris e Piastri.",
+            "L’ultima gara in classifica è il Gran Premio del Bahrain corso a Sepang, vinto da Max Verstappen il 4 ottobre. George Russell aveva vinto a Baku prima di quella gara. Una classifica che dà già a Norris una vittoria a Singapore non coincide con una tabella pubblicata prima di Singapore. Questo desk non la stampa, e non stampa una penalità in griglia ad Austin che non è sulla pagina ufficiale della classifica."
         ]
-},
+    },
     "pl": {
-        "title": "Zbliza sie amerykanski maraton: Red Bull przyspiesza nowa podloge dla Verstappena w Austin",
-        "subtitle": "Antonelli ma 84 punkty przewagi nad Russellem. Milton Keynes dostarcza poprawki na COTA.",
-        "excerpt": "Formula 1 szykuje sie do Grand Prix USA w Teksasie, gdzie Red Bull wprowadzi zmodernizowany pakiet aerodynamiczny.",
+        "title": "Następny jest Singapur, nie Austin. Antonelli prowadzi z Russellem o 84 punkty.",
+        "subtitle": "Oficjalna tabela przed Marina Bay: Antonelli 320, Russell 236, Hamilton 214, Leclerc 191, Norris 188, Verstappen 188.",
+        "excerpt": "Formula1.com i AFP zgadzają się co do pierwszej szóstki przed weekendem sprinterskim w Singapurze. Wyścig jest w niedzielę 11 października. Wyniku nie drukujemy.",
         "body": [
-                "Koncowa faza sezonu 2026 rozpocznie sie niebawem amerykanska seria wyscigow na Circuit of The Americas w Austin.",
-                "Kimi Antonelli prowadzi w klasyfikacji z dorobkiem 320 punktow, wyprzedzajac Georgea Russella o 84 punkty po jego awarii w Sepang. Hamilton ma 214 punktow, a Verstappen i Norris po 188.",
-                "Red Bull Racing przyspieszyl dostawe nowej podlogi dla bolidu Verstappena, by poprawic balans w szybkich zakretach. W siostrzanym zespole RB Liam Lawson otrzyma kare 10 pozycji za wymiane silnika."
+            "Następne Grand Prix to Singapur, weekend sprinterski od 9 do 11 października na Marina Bay. Wyścig jest wpisany na niedzielę 11 października o 20:00 czasu lokalnego. To nie jest ukończony wyścig i nie jest to Grand Prix Stanów Zjednoczonych.",
+            "Tabela kierowców Formula1.com, potwierdzona przez AFP 7 października jako stan przed Singapurem: Kimi Antonelli 320, George Russell 236, Lewis Hamilton 214, Charles Leclerc 191, Lando Norris 188, Max Verstappen 188. To 84 punkty przewagi Antonellego. Oscar Piastri jest 7. z 128 punktami. Mercedes ma 556 punktami obu kierowców. Ferrari ma 405 punktami Hamiltona i Leclerca. McLaren ma 316 punktami Norrisa i Piastriego.",
+            "Ostatni wyścig na tablicy to Grand Prix Bahrajnu rozegrane w Sepang, wygrane przez Maxa Verstappena 4 października. George Russell wygrał wcześniej w Baku. Klasyfikacja, która już daje Norrisowi zwycięstwo w Singapurze, nie zgadza się z tabelą opublikowaną przed Singapurem. To biurko jej nie drukuje i nie drukuje kary na starcie w Austin, której nie ma na oficjalnej stronie klasyfikacji."
         ]
-},
+    },
     "zh": {
-        "title": "美洲三连赛在即：红牛提前为维斯塔潘加推奥斯汀底盘升级",
-        "subtitle": "安东内利领先拉塞尔84分，米尔顿凯恩斯工厂为美洲赛道急调全新套件。",
-        "excerpt": "F1即将迎来美国奥斯汀大奖赛，红牛车队火线加推新底盘套件以对抗梅赛德斯的领先优势。",
+        "title": "下一站是新加坡，不是奥斯汀。安东内利领先拉塞尔84分。",
+        "subtitle": "滨海湾之前的官方积分：安东内利320，拉塞尔236，汉密尔顿214，勒克莱尔191，诺里斯188，维斯塔潘188。",
+        "excerpt": "Formula1.com与法新社在新加坡冲刺周末之前对前六名一致。正赛是10月11日周日。不刊登成绩。",
         "body": [
-                "2026赛季F1冲刺阶段即将在德克萨斯州奥斯汀美洲赛道打响美洲三连赛的第一枪。",
-                "梅赛德斯新星安东内利在积分榜上以320分傲视群雄，领先退赛的队友拉塞尔84分。汉密尔顿积214分位列第三，维斯塔潘与诺里斯同积188分。",
-                "为了扭转战局，红牛车队提前完成了维斯塔潘赛车的新底盘升级以改善高速弯平衡。RB车队的劳森则因更换引擎部件确认正赛退后10位发车。"
+            "下一场大奖赛是新加坡，10月9日至11日的冲刺周末，地点滨海湾。正赛列在10月11日周日当地时间20:00。这不是一场已经结束的比赛，也不是美国大奖赛。",
+            "Formula1.com车手积分榜，法新社在10月7日将其作为新加坡之前的排名：基米·安东内利320，乔治·拉塞尔236，刘易斯·汉密尔顿214，夏尔·勒克莱尔191，兰多·诺里斯188，马克斯·维斯塔潘188。安东内利领先84分。奥斯卡·皮亚斯特里第7，128分。梅赛德斯两名车手合计556分。法拉利的汉密尔顿与勒克莱尔合计405分。迈凯伦的诺里斯与皮亚斯特里合计316分。",
+            "记分牌上的上一场是在雪邦举行的巴林大奖赛，马克斯·维斯塔潘于10月4日获胜。在那之前乔治·拉塞尔赢得巴库。一份已经把新加坡胜利记给诺里斯的成绩，与新加坡之前公布的积分榜不符。这张编辑台不刊登那个成绩，也不刊登官方积分页上没有的奥斯汀发车罚位。"
         ]
-},
+    },
     "ja": {
-        "title": "アメリカ3連戦が接近：レッドブルがオースティンでフェルスタッペンに新フロアを前倒し投入",
-        "subtitle": "アントネッリがラッセルに84点リード。ミルトンキーンズがCOTAに大型空力パーツを投入。",
-        "excerpt": "F1はアメリカ・オースティン戦へ向け準備を進め、レッドブルは新型フロアを実戦投入してメルセデス追撃を期す。",
+        "title": "次はシンガポールであり、オースティンではない。アントネッリはラッセルに84点差をつけている。",
+        "subtitle": "マリーナベイ前の公式順位：アントネッリ320、ラッセル236、ハミルトン214、ルクレール191、ノリス188、フェルスタッペン188。",
+        "excerpt": "Formula1.comとAFPはシンガポールのスプリント週末の前の上位6人で一致している。決勝は10月11日日曜。結果は載せない。",
         "body": [
-                "2026年F1シーズンの終盤戦はテキサス州オースティンのサーキット・オブ・ジ・アメリカズから始まるアメリカ3連戦で幕を開ける。",
-                "キミ・アントネッリが320ポイントで選手権首位に立ち、リタイアに終わった同僚ジョージ・ラッセルに84点の大差をつけている。ハミルトンが214点、フェルスタッペンとノリスが188点で並ぶ。",
-                "レッドブルは高速コーナーでのバランス改善を目指し、新型フロアをオースティンへ前倒し投入。一方、RBのリアム・ローソンはPU交換で10グリッド降格が決まっている。"
+            "次のグランプリはシンガポール、10月9日から11日のスプリント週末、マリーナベイ。決勝は10月11日日曜、現地時間20:00とされている。終わったレースではなく、アメリカグランプリでもない。",
+            "Formula1.comのドライバー順位を、AFPが10月7日にシンガポール前の順位として一致させた。キミ・アントネッリ320、ジョージ・ラッセル236、ルイス・ハミルトン214、シャルル・ルクレール191、ランド・ノリス188、マックス・フェルスタッペン188。アントネッリのリードは84点。オスカー・ピアストリは7位で128点。メルセデスは2人のドライバーで556点。フェラーリはハミルトンとルクレールで405点。マクラーレンはノリスとピアストリで316点。",
+            "ボード上の前回はセパンで行われたバーレーングランプリで、10月4日にマックス・フェルスタッペンが勝った。その前にジョージ・ラッセルがバクーで勝っている。ノリスにすでにシンガポール優勝を与える順位は、シンガポール前に公表された表と合わない。このデスクはそれを載せず、公式順位のページにないオースティンのグリッドペナルティも載せない。"
         ]
-},
+    },
     "ko": {
-        "title": "아메리카 3연전 임박: 레드불, 베르스타펜 위해 오스틴 플로어 조기 투입",
-        "subtitle": "안토넬리 러셀에 84점 앞선 선두. 밀턴킨스 공장 COTA에 대형 업그레이드 배송.",
-        "excerpt": "F1 미국 오스틴 그랑프리를 앞두고 레드불 레이싱이 메르세데스 추격을 위해 신형 플로어 패키지를 실전에 투입한다.",
+        "title": "다음은 싱가포르이며 오스틴이 아니다. 안토넬리가 러셀보다 84점 앞선다.",
+        "subtitle": "마리나 베이 전의 공식 순위: 안토넬리 320, 러셀 236, 해밀턴 214, 르클레르 191, 노리스 188, 페르스타펜 188.",
+        "excerpt": "Formula1.com과 AFP는 싱가포르 스프린트 주말 전의 상위 6명이 같다. 결승은 10월 11일 일요일. 결과는 싣지 않는다.",
         "body": [
-                "2026 F1 챔피언십 후반기가 미국 텍사스 오스틴 COTA 서킷에서 열리는 아메리카 3연전으로 본격화된다.",
-                "메르세데스의 키미 안토넬리가 320포인트로 조지 러셀(236점)에 84점 차로 앞선 가운데 해밀턴이 214점, 베르스타펜과 노리스가 188점을 기록 중이다.",
-                "레드불은 고속 코너 밸런스 개선을 위해 베르스타펜용 신형 플로어를 오스틴에 긴급 투입했다. RB의 리암 로슨은 엔진 교체로 10그리드 강등 페널티를 받는다."
+            "다음 그랑프리는 싱가포르, 10월 9일부터 11일 스프린트 주말, 마리나 베이다. 결승은 10월 11일 일요일 현지 시간 20:00으로 적혀 있다. 끝난 레이스가 아니고 미국 그랑프리도 아니다.",
+            "Formula1.com 드라이버 순위를 AFP가 10월 7일 싱가포르 전 순위로 맞췄다. 키미 안토넬리 320, 조지 러셀 236, 루이스 해밀턴 214, 샤를 르클레르 191, 랜도 노리스 188, 막스 페르스타펜 188. 안토넬리의 차이는 84점. 오스카르 피아스트리는 7위 128점. 메르세데스는 두 드라이버로 556점. 페라리는 해밀턴과 르클레르로 405점. 맥라렌은 노리스와 피아스트리로 316점.",
+            "보드의 직전 경기는 세팡에서 열린 바레인 그랑프리이며 10월 4일 막스 페르스타펜이 이겼다. 그전에 조지 러셀이 바쿠에서 이겼다. 노리스에게 이미 싱가포르 우승을 주는 성적은 싱가포르 전에 공개된 표와 맞지 않는다. 이 데스크는 그 성적을 싣지 않고, 공식 순위 페이지에 없는 오스틴 그리드 페널티도 싣지 않는다."
         ]
-},
+    },
     "ar": {
-        "title": "السباقات الأمريكية تقترب: ريد بول تعجل بتحديث أرضية أوستن لفرستابن",
-        "subtitle": "أنتونيلي يتقدم بـ84 نقطة على راسل، وريد بول تجلب حزمة انسيابية جديدة لحلبة COTA.",
-        "excerpt": "تستعد الفورمولا 1 لسباق جائزة الولايات المتحدة الكبرى في أوستن حيث تسرع ريد بول في إدخال أرضية جديدة للمنافسة بقوة.",
+        "title": "سنغافورة هي التالية، لا أوستن. يتقدم أنطونيلي على راسل بـ84 نقطة.",
+        "subtitle": "الجدول الرسمي قبل مارينا باي: أنطونيلي 320، راسل 236، هاميلتون 214، لوكلير 191، نوريس 188، فيرستابن 188.",
+        "excerpt": "يتفق Formula1.com ووكالة الصحافة الفرنسية على الستة الأوائل قبل عطلة نهاية الأسبوع السريعة في سنغافورة. السباق يوم الأحد 11 أكتوبر. لا تُطبع نتيجة.",
         "body": [
-                "تقترب المرحلة الختامية من موسم الفورمولا 1 لعام 2026 مع انطلاق السباقات الأمريكية الثلاثة في حلبة الأميركتين بأوستن تكساس.",
-                "يتصدر كيمي أنتونيلي الترتيب العام برصيد 320 نقطة بفارق 84 نقطة عن زميله جورج راسل. ويحتل هاميلتون المركز الثالث بـ214 نقطة، في حين يتساوى فرستابن ونوريس بـ188 نقطة.",
-                "ولوقف تفوق مرسيدس، عجلت ريد بول بإدخال تعديلات جديدة على أرضية سيارة فرستابن، بينما سيبدأ ليام لاوسون السباق بعقوبة التراجع 10 مراكز."
+            "جائزة الكبرى التالية هي سنغافورة، عطلة نهاية أسبوع سريعة من 9 إلى 11 أكتوبر في مارينا باي. السباق مدرج يوم الأحد 11 أكتوبر عند الساعة 8:00 مساء بالتوقيت المحلي. ليس سباقًا منتهيًا، وليس جائزة الولايات المتحدة الكبرى.",
+            "جدول السائقين في Formula1.com، وطابقته وكالة الصحافة الفرنسية في 7 أكتوبر بوصفه الترتيب قبل سنغافورة: كيمي أنطونيلي 320، جورج راسل 236، لويس هاميلتون 214، شارل لوكلير 191، لاندو نوريس 188، ماكس فيرستابن 188. ذلك تقدم 84 نقطة لأنطونيلي. أوسكار بياستري سابع برصيد 128. مرسيدس على 556 من سائقيها. فيراري على 405 من هاميلتون ولوكلير. مكلارين على 316 من نوريس وبياستري.",
+            "آخر سباق على اللوحة هو جائزة البحرين الكبرى التي أُقيمت في سيبانغ وفاز بها ماكس فيرستابن في 4 أكتوبر. فاز جورج راسل في باكو قبل ذلك. ترتيب يمنح نوريس بالفعل فوزًا في سنغافورة لا يطابق جدولًا نُشر قبل سنغافورة. لا يطبع هذا المكتب ذلك الفوز، ولا يطبع عقوبة شبكة انطلاق في أوستن ليست على صفحة الترتيب الرسمية."
         ]
-},
+    }
   },
 };

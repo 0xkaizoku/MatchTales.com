@@ -1,0 +1,68 @@
+{
+  "funFacts": [
+    "Italy 3-1 Turkiye in Bologna on Monday 5 October.",
+    "Gianluca Scamacca, Aral Simsir, Riccardo Calafiori, Pio Esposito.",
+    "Italy are second in Group A1 on 7 points, not in a live game against Belgium."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Gianluca Scamacca",
+      "team": "Italy",
+      "hook": "Opened the scoring before Aral Simsir levelled after the hour."
+    },
+    {
+      "name": "Pio Esposito",
+      "team": "Italy",
+      "hook": "Scored with Riccardo Calafiori as Italy won a second game against Turkiye in the window."
+    }
+  ],
+  "headToHead": "Italy 7 points. Turkiye 0 from four games.",
+  "tags": ["nations-league", "italy", "turkiye"],
+  "homeCode": "ITA",
+  "awayCode": "TUR",
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 4,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Nations League · Group A1",
+  "resultSummary": "Italy 3-1 Turkiye. Italy 7 points.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "AFP via DAWN",
+      "url": "https://www.dawn.com/news/2035265"
+    },
+    {
+      "name": "Goal.com League A table",
+      "url": "https://www.goal.com/en-gb/competition/uefa-nations-league-a/table/595nsvo7ykvoe690b1e4u5n56"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": 3,
+  "awayScore": 1,
+  "slug": "italy-3-1-turkiye-nations-league-2026",
+  "headline": "Italy 3-1 Turkiye in Bologna, not a Rome game against Belgium",
+  "whyCareScore": 8.6,
+  "whyCareReason": "The Monday result that moved Italy to 7 points was against Turkiye. Belgium were in Paris.",
+  "teaser": "Scamacca, Simsir, Calafiori, Pio Esposito. Italy are second, three points behind France.",
+  "story": "Italy beat Turkiye 3-1 in Bologna on Monday 5 October. Gianluca Scamacca scored first. Aral Simsir equalised just after the hour. Riccardo Calafiori and Pio Esposito scored the other Italy goals. AFP notes Italy had already won 4-1 in Bursa the previous week. Italy have 7 points (2 wins, 1 draw, 1 loss, 8 goals for, 5 against). Turkiye have 0 points and a goal difference of -9. There is no Italy against Belgium fixture on 8 October.",
+  "stakes": "Italy stay second. The next group games are next month.",
+  "rivalryAngle": "France, not Belgium, are the side three points ahead.",
+  "home": "Italy",
+  "away": "Turkiye",
+  "group": "A1",
+  "date": "2026-10-05",
+  "time": "",
+  "venue": "Bologna",
+  "city": "Bologna",
+  "status": "FINISHED",
+  "sport": "soccer",
+  "competition": "nations-league-2026"
+}

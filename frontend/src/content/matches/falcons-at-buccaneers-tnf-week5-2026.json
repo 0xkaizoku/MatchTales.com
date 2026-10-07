@@ -1,8 +1,8 @@
 {
   "funFacts": [
-    "Thursday Night Football opens NFL Week 5.",
-    "Falcons look to bounce back from 26-24 Monday night loss in New Orleans.",
-    "Buccaneers defend home turf in pivotal NFC South matchup."
+    "Falcons at Buccaneers is listed for 1 November, not Thursday 8 October.",
+    "Thursday Night Football is Buccaneers at Cowboys.",
+    "Atlanta are 2-2. Tampa Bay are 0-4."
   ],
   "keyPlayers": [
     {
@@ -37,7 +37,7 @@
   "awayPen": null,
   "season": "2026",
   "roundLabel": "NFL Week 5 · Thursday Night Football",
-  "resultSummary": "UPCOMING: Falcons at Buccaneers · Week 5 Thursday Night Football",
+  "resultSummary": "UPCOMING 1 November: Falcons at Buccaneers. Not the 8 October TNF.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
@@ -54,18 +54,18 @@
   "homeScore": null,
   "awayScore": null,
   "slug": "falcons-at-buccaneers-tnf-week5-2026",
-  "headline": "NFL Week 5 TNF: Falcons visit Buccaneers in heated NFC South clash",
-  "whyCareScore": 8.9,
-  "whyCareReason": "Atlanta look to shake off Monday night heartbreak while Tampa Bay aim to seize early control of the NFC South.",
-  "teaser": "Thursday 8 October, 8:15 PM ET on Prime Video. Division supremacy on the line in Tampa.",
-  "story": "NFL Week 5 kicks off Thursday night as the Atlanta Falcons travel to Raymond James Stadium to battle the Tampa Bay Buccaneers. The Falcons enter on a short turnaround after falling 26-24 to the Saints on Monday night in New Orleans. Meanwhile, Kansas City (4-0) and Minnesota (4-0) remain the league's only undefeated squads after Week 4 comebacks. An early divisional win on Thursday gives either Tampa Bay or Atlanta vital leverage in the NFC playoff hunt.",
-  "stakes": "First place in the NFC South and momentum heading into October.",
-  "rivalryAngle": "Classic division rivalry under prime-time lights.",
+  "headline": "Falcons at Buccaneers is 1 November, not Thursday Night Football",
+  "whyCareScore": 6.2,
+  "whyCareReason": "StatMuse lists Atlanta at Tampa Bay on Sunday 1 November. The 8 October prime-time game is Tampa Bay at Dallas.",
+  "teaser": "Do not use this card as the Week 5 TNF. Records as of 8 October: Falcons 2-2, Buccaneers 0-4.",
+  "story": "The Falcons are not playing the Buccaneers on 8 October. ESPN's Week 5 Thursday game is Tampa Bay at Dallas. A Falcons schedule lists Sunday 1 November, Atlanta at Tampa Bay, 1:00 p.m. ET. Atlanta are 2-2. Tampa Bay are 0-4 after a 17-14 loss to Green Bay.",
+  "stakes": "A division game in November, not the Thursday opener.",
+  "rivalryAngle": "NFC South, later. The Thursday night stake is in Arlington.",
   "home": "Tampa Bay Buccaneers",
   "away": "Atlanta Falcons",
   "group": "NFL",
-  "date": "2026-10-08",
-  "time": "20:15",
+  "date": "2026-11-01",
+  "time": "13:00",
   "venue": "Raymond James Stadium",
   "city": "Tampa",
   "status": "UPCOMING",

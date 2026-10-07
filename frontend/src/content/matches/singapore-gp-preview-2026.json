@@ -1,19 +1,19 @@
 {
   "funFacts": [
-    "Lando Norris claimed his third Grand Prix victory of 2026, leading every lap from pole position in Singapore.",
-    "McLaren scored 40 points in a single weekend with Norris P1 and Oscar Piastri P3 to extend their Constructors' Championship lead.",
-    "The 20.945-second margin of victory was the largest recorded at the Singapore Grand Prix in the hybrid era."
+    "Singapore is a sprint weekend, 9 to 11 October. The race is Sunday 11 October.",
+    "Ahead of it: Antonelli 320, Russell 236, Hamilton 214, Leclerc 191, Norris 188, Verstappen 188.",
+    "The last finished race on the official table's eve was Verstappen at Sepang on 4 October."
   ],
   "keyPlayers": [
     {
-      "name": "Lando Norris",
-      "team": "McLaren",
-      "hook": "Drove a flawless race from pole position, managing tire degradation in stifling humidity to win by nearly 21 seconds."
+      "name": "Kimi Antonelli",
+      "team": "Mercedes",
+      "hook": "Leads the drivers' championship by 84 points. No Singapore result is on the board."
     },
     {
       "name": "Max Verstappen",
       "team": "Red Bull Racing",
-      "hook": "Maximized his package with a lonely drive to P2, minimizing damage in the Drivers' Championship battle."
+      "hook": "Won the Bahrain Grand Prix at Sepang on 4 October. Tied with Norris on 188."
     }
   ],
   "headToHead": "",
@@ -37,80 +37,39 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "Sunday Race · Norris Dominates Marina Bay",
-  "resultSummary": "1. Norris (McLaren) 1:40:52.571; 2. Verstappen (Red Bull) +20.945; 3. Piastri (McLaren) +41.823; 4. Russell (Mercedes) +61.040; 5. Leclerc (Ferrari) +62.430; 6. Hamilton (Ferrari) +85.248",
-  "leaderboard": [
-    {
-      "pos": "1",
-      "name": "Lando Norris (McLaren)",
-      "score": "1:40:52.571",
-      "note": "Winner (25 pts)"
-    },
-    {
-      "pos": "2",
-      "name": "Max Verstappen (Red Bull)",
-      "score": "+20.945s",
-      "note": "P2 (18 pts)"
-    },
-    {
-      "pos": "3",
-      "name": "Oscar Piastri (McLaren)",
-      "score": "+41.823s",
-      "note": "P3 (15 pts)"
-    },
-    {
-      "pos": "4",
-      "name": "George Russell (Mercedes)",
-      "score": "+61.040s",
-      "note": "P4 (12 pts)"
-    },
-    {
-      "pos": "5",
-      "name": "Charles Leclerc (Ferrari)",
-      "score": "+62.430s",
-      "note": "P5 (10 pts)"
-    },
-    {
-      "pos": "6",
-      "name": "Lewis Hamilton (Ferrari)",
-      "score": "+85.248s",
-      "note": "P6 (8 pts)"
-    }
-  ],
+  "roundLabel": "Singapore Grand Prix · sprint weekend, not yet run",
+  "resultSummary": "UPCOMING: Marina Bay, 9-11 October. No classification.",
+  "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "Formula 1 Official: Norris takes dominant Singapore Grand Prix victory",
-      "url": "https://www.formula1.com/en/racing/2026/singapore.html"
+      "name": "Formula 1 2026 drivers' standings",
+      "url": "https://www.formula1.com/en/results/2026/drivers"
     },
     {
-      "name": "BBC Sport: Norris cruises to Singapore GP win over Verstappen",
-      "url": "https://www.bbc.co.uk/sport/formula1"
-    },
-    {
-      "name": "Sky Sports F1: Singapore Grand Prix race results and standings",
-      "url": "https://www.skysports.com/f1"
+      "name": "AFP standings ahead of Singapore",
+      "url": "https://www.nampa.org/text/23033282"
     }
   ],
   "format": "leaderboard",
   "homeScore": null,
   "awayScore": null,
   "slug": "singapore-gp-preview-2026",
-  "headline": "Singapore GP: Lando Norris converts pole into crushing 20-second victory over Verstappen",
-  "whyCareScore": 9.8,
-  "whyCareReason": "Lando Norris drives an untouchable race under the Marina Bay lights, securing a dominant 20-second win to deliver McLaren massive championship points.",
-  "teaser": "Sunday night at Marina Bay: Lando Norris commands all 62 laps to defeat Max Verstappen by 20.945 seconds, while Oscar Piastri finishes third for McLaren.",
-  "story": "Why this one matters: Under the blinding floodlights of Marina Bay, Lando Norris produced the most emphatic drive of his career, turning what is traditionally Formula 1's most chaotic circuit into a masterclass in domination.\n\nFrom the moment the red lights extinguished, Norris controlled the launch, fended off Max Verstappen through Turn 1, and built an immediate margin. By lap 15, his lead had ballooned past 10 seconds as his McLaren MCL38 exhibited superior balance and tire preservation through the humid Singapore air. Even a brush with the barriers on lap 29 failed to slow his momentum.\n\nVerstappen drove a lonely, disciplined race to take second, 20.945 seconds adrift. With Oscar Piastri carving through from fifth to take third, McLaren collected 40 points in a single weekend to tighten their grip on the Constructors' Championship standings.",
-  "stakes": "25 vital championship points for Norris, slashing Verstappen's points cushion and consolidating McLaren's constructors' championship supremacy.",
-  "rivalryAngle": "Norris proves his pace advantage on high-downforce street circuits, applying intense psychological pressure on Red Bull.",
+  "headline": "Singapore GP is next: Antonelli 320, Russell 236, no result yet",
+  "whyCareScore": 9.0,
+  "whyCareReason": "Formula1.com's table ahead of the 9-11 October sprint weekend still has Antonelli 84 points clear. A printed Norris win does not match that table.",
+  "teaser": "Race listed for Sunday 11 October, 8:00 p.m. local. Verstappen won the previous race, at Sepang, on 4 October.",
+  "story": "Singapore has not been run. AFP on 7 October published the drivers' standings ahead of the Singapore Grand Prix and sprint. Formula1.com prints the same top six: Antonelli 320, Russell 236, Hamilton 214, Leclerc 191, Norris 188, Verstappen 188. Mercedes 556, Ferrari 405 and McLaren 316 follow from those pairs. The race start listed for Marina Bay is Sunday 11 October at 8:00 p.m. local time.",
+  "stakes": "Seven rounds were still listed after Sepang on one calendar. Singapore is the next one. Austin is not this weekend.",
+  "rivalryAngle": "Russell won Baku. Verstappen won at Sepang. Neither result is a Singapore classification.",
   "home": "Lando Norris",
   "away": "Max Verstappen",
   "group": "F1",
-  "date": "2026-10-03",
+  "date": "2026-10-11",
   "time": "20:00",
   "venue": "Marina Bay Street Circuit",
   "city": "Singapore",
-  "status": "FINISHED",
+  "status": "UPCOMING",
   "sport": "f1",
   "competition": "formula-1-2026"
 }
