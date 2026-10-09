@@ -1,0 +1,81 @@
+{
+  "slug": "shanghai-masters-2026-round3-qizhong",
+  "headline": "Shanghai Masters Round of 32: Open draw beckons after Djokovic shock exit",
+  "whyCareScore": 9.3,
+  "whyCareReason": "With Novak Djokovic eliminated by Hubert Hurkacz in straight sets, the bottom half is blown wide open at Qizhong Arena.",
+  "teaser": "Alexander Zverev, Ben Shelton, and Japanese qualifier Rei Sakamoto lead the charge as third-round action begins.",
+  "story": "The Rolex Shanghai Masters moves into the round of 32 on Saturday with a completely reshaped landscape. Friday's shock defeat of four-time champion Novak Djokovic by Hubert Hurkacz sent shockwaves through the men's tour, eliminating the heavy tournament favorite in his opening match. With Djokovic gone, players in the bottom half including Ben Shelton, Karen Khachanov, and Hurkacz himself now harbor legitimate hopes of an ATP Masters 1000 final run. Meanwhile, second seed Alexander Zverev continues his march in the upper half alongside emerging talents at the Qizhong Forest Sports City Arena.",
+  "stakes": "Massive ranking points and Masters 1000 semifinal opportunities await those who capitalize on Djokovic's exit.",
+  "rivalryAngle": "Emerging young stars clash with established top-10 mainstays in Shanghai.",
+  "funFacts": [
+    "Djokovic's second-round loss was his earliest defeat ever at the Rolex Shanghai Masters.",
+    "Japanese 19-year-old qualifier Rei Sakamoto reached the round of 32 by eliminating Andrey Rublev in straight sets.",
+    "The Qizhong Forest Sports City Arena features a famous magnolia-shaped retractable steel roof."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Alexander Zverev",
+      "team": "Germany",
+      "hook": "Second seed looking to capitalize on Djokovic's departure to claim another Masters title."
+    },
+    {
+      "name": "Ben Shelton",
+      "team": "United States",
+      "hook": "Big-serving American seeking deep autumn hardcourt momentum."
+    },
+    {
+      "name": "Hubert Hurkacz",
+      "team": "Poland",
+      "hook": "Giant-killer riding the confidence of his straight-sets win over Djokovic."
+    }
+  ],
+  "headToHead": "A wide-open draw promises fresh head-to-head encounters in the third round.",
+  "tags": [
+    "tennis",
+    "atp",
+    "shanghai-masters",
+    "zverev",
+    "shelton",
+    "hurkacz",
+    "atp-1000"
+  ],
+  "home": "Alexander Zverev",
+  "away": "Ben Shelton",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "ATP Masters 1000",
+  "matchday": 3,
+  "date": "2026-10-10",
+  "time": "13:30",
+  "venue": "Qizhong Forest Sports City Arena",
+  "city": "Shanghai",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209905/pexels-photo-209905.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Shanghai Masters · Round of 32",
+  "resultSummary": "UPCOMING: Round of 32 play at Qizhong Arena following Djokovic upset",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Rolex Shanghai Masters official schedule",
+      "url": "https://www.rolexshanghaimasters.com/schedule"
+    },
+    {
+      "name": "ATP Tour Shanghai draw",
+      "url": "https://www.atptour.com/en/scores/current/shanghai/5014/draws"
+    }
+  ]
+}

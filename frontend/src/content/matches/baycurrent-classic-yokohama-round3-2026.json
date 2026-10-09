@@ -1,0 +1,129 @@
+{
+  "slug": "baycurrent-classic-yokohama-round3-2026",
+  "headline": "Baycurrent Classic Round 3: Mitchell and Bridgeman lead into Moving Day",
+  "whyCareScore": 9.1,
+  "whyCareReason": "Keith Mitchell and Jacob Bridgeman share the 36-hole lead at 11 under, paired with Max Homa (-9) for Saturday's round.",
+  "teaser": "Leaders tee off at 10:36 AM JST on the par-71 West Course at Yokohama Country Club. 500 FedExCup points at stake.",
+  "story": "Moving Day is underway at Yokohama Country Club as the PGA Tour's Baycurrent Classic reaches its pivotal third round. Keith Mitchell and Jacob Bridgeman share the 36-hole summit at 11 under par (131) following bogey-free back nines on Friday. Paired with them in the final group is Max Homa, who sits just two strokes off the pace at 9 under alongside Zach Bauchou, Ben Kohles, and Mac Meissner. With no 36-hole cut in this 72-player limited-field tournament, Saturday's third round serves as the launchpad for Sunday's battle over the 8 million dollar purse.",
+  "stakes": "Moving Day positions players for Sunday's final round and a critical two-year PGA Tour winner exemption.",
+  "rivalryAngle": "Mitchell and Bridgeman duel in the final group with major winner Max Homa breathing down their necks.",
+  "funFacts": [
+    "Yokohama Country Club's West Course is playing to a par of 71 and 7,322 yards.",
+    "Both Mitchell and Bridgeman posted identical totals of 131 through 36 holes.",
+    "Japanese crowd favorite Hideki Matsuyama sits four shots back at 7 under."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Keith Mitchell",
+      "team": "United States",
+      "hook": "Carded rounds of 66 and 65 to co-lead at 11 under par."
+    },
+    {
+      "name": "Jacob Bridgeman",
+      "team": "United States",
+      "hook": "Matched the lead with rounds of 65 and 66 in Yokohama."
+    },
+    {
+      "name": "Max Homa",
+      "team": "United States",
+      "hook": "Six-time PGA Tour winner lurking two shots behind at 9 under."
+    }
+  ],
+  "headToHead": "Mitchell and Bridgeman share the lead with Homa paired alongside them in Saturday's feature group.",
+  "tags": [
+    "golf",
+    "pga-tour",
+    "baycurrent-classic",
+    "yokohama",
+    "moving-day",
+    "keith-mitchell"
+  ],
+  "home": "Keith Mitchell",
+  "away": "Jacob Bridgeman",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "PGA Tour",
+  "matchday": 3,
+  "date": "2026-10-10",
+  "time": "10:36",
+  "venue": "Yokohama Country Club",
+  "city": "Yokohama",
+  "status": "LIVE",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1325653/pexels-photo-1325653.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "golf",
+  "competition": "pga-tour-2026",
+  "format": "leaderboard",
+  "season": "2026",
+  "roundLabel": "Baycurrent Classic · Round 3",
+  "resultSummary": "LIVE: Mitchell & Bridgeman (-11), Homa, Bauchou, Kohles, Meissner (-9)",
+  "leaderboard": [
+    {
+      "pos": "T1",
+      "name": "Keith Mitchell",
+      "score": "-11",
+      "note": "66-65 · Final Group"
+    },
+    {
+      "pos": "T1",
+      "name": "Jacob Bridgeman",
+      "score": "-11",
+      "note": "65-66 · Final Group"
+    },
+    {
+      "pos": "T3",
+      "name": "Max Homa",
+      "score": "-9",
+      "note": "68-67 · Final Group"
+    },
+    {
+      "pos": "T3",
+      "name": "Zach Bauchou",
+      "score": "-9",
+      "note": "67-68"
+    },
+    {
+      "pos": "T3",
+      "name": "Ben Kohles",
+      "score": "-9",
+      "note": "67-68"
+    },
+    {
+      "pos": "T3",
+      "name": "Mac Meissner",
+      "score": "-9",
+      "note": "66-69"
+    },
+    {
+      "pos": "T7",
+      "name": "Justin Thomas",
+      "score": "-8",
+      "note": "68-68"
+    },
+    {
+      "pos": "T11",
+      "name": "Hideki Matsuyama",
+      "score": "-7",
+      "note": "69-68 · Local Favorite"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "PGA Tour Leaderboard",
+      "url": "https://www.pgatour.com/tournaments/2026/baycurrent-classic/leaderboard"
+    },
+    {
+      "name": "Golf Channel Round 3 tee times",
+      "url": "https://www.golfchannel.com/tours/pga-tour/2026/baycurrent-classic"
+    }
+  ]
+}

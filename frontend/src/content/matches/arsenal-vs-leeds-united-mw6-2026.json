@@ -1,0 +1,74 @@
+{
+  "slug": "arsenal-vs-leeds-united-mw6-2026",
+  "headline": "Premier League MW6: Arsenal host unbeaten Leeds United at Emirates Stadium",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Arsenal can pull level on points with leaders Manchester City ahead of Sunday's Anfield blockbuster.",
+  "teaser": "Mikel Arteta's side sit on 12 points while Leeds remain undefeated with 9. Kickoff is 12:30 BST in North London.",
+  "story": "The Premier League returns on Saturday afternoon as Arsenal welcome Leeds United to Emirates Stadium for Matchweek 6's early kickoff. Having won four of their opening five league fixtures, the Gunners sit second in the table on 12 points, just three behind league leaders Manchester City. Leeds United have mounted an impressive start to their campaign, remaining unbeaten with two wins and three draws for 9 points. With Manchester City facing a daunting trip to Anfield on Sunday, victory for Arsenal would temporarily draw them level on points at the top of the Premier League table.",
+  "stakes": "Three points for Arsenal puts maximum pressure on Manchester City before Sunday's showdown with Liverpool.",
+  "rivalryAngle": "Historical Premier League foes clash in an electric North London atmosphere.",
+  "funFacts": [
+    "Arsenal have won five consecutive home league meetings against Leeds United.",
+    "Leeds United are one of only three Premier League teams alongside Man City and Liverpool yet to lose a match this season.",
+    "Mikel Arteta's defense has conceded just 4 goals across the opening five matchweeks."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Bukayo Saka",
+      "team": "Arsenal",
+      "hook": "Fresh off international duty, aims to unlock a resilient Leeds backline."
+    },
+    {
+      "name": "Wilfried Gnonto",
+      "team": "Leeds United",
+      "hook": "Leads Leeds' dangerous transition attacks on the counter."
+    }
+  ],
+  "headToHead": "Arsenal hold a dominant recent record with four straight victories in all competitions.",
+  "tags": [
+    "soccer",
+    "premier-league",
+    "arsenal",
+    "leeds-united",
+    "emirates-stadium"
+  ],
+  "home": "Arsenal",
+  "away": "Leeds United",
+  "homeCode": "ARS",
+  "awayCode": "LEE",
+  "homeFlag": "gb-eng",
+  "awayFlag": "gb-eng",
+  "group": "Premier League",
+  "matchday": 6,
+  "date": "2026-10-10",
+  "time": "12:30",
+  "venue": "Emirates Stadium",
+  "city": "London",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "soccer",
+  "competition": "premier-league-2026-27",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "Premier League · Matchweek 6",
+  "resultSummary": "UPCOMING: Arsenal vs Leeds United, Saturday 12:30 BST at Emirates Stadium",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "PremierLeague.com fixture guide",
+      "url": "https://www.premierleague.com/fixtures"
+    },
+    {
+      "name": "BBC Sport Matchweek 6 preview",
+      "url": "https://www.bbc.com/sport/football/premier-league"
+    }
+  ]
+}

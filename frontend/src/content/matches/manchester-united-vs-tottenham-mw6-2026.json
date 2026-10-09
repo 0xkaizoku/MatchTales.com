@@ -1,0 +1,74 @@
+{
+  "slug": "manchester-united-vs-tottenham-mw6-2026",
+  "headline": "Premier League MW6: Manchester United host winless Tottenham at Old Trafford",
+  "whyCareScore": 9.2,
+  "whyCareReason": "High-stakes teatime battle as Manchester United look to break into the European spots while Spurs desperately seek their first win.",
+  "teaser": "Spurs are winless through five matchweeks with two draws and three defeats. Kickoff is 17:30 BST at Old Trafford.",
+  "story": "Saturday evening serves up a heavyweight Premier League clash under the lights at Old Trafford as Manchester United host Tottenham Hotspur. Tottenham arrive in Manchester enduring a turbulent start to the campaign, sitting winless in the bottom three with just two points from their first five outings. Manchester United have had an inconsistent opening month but possess an opportunity to climb within touching distance of the Champions League places with a home victory. With pressure mounting on the visiting dugout, Old Trafford provides the cauldron for Saturday's most emotionally charged fixture.",
+  "stakes": "Tottenham need an urgent result to avoid falling deeper into early-season relegation trouble.",
+  "rivalryAngle": "Two traditional 'Big Six' clubs searching for identity and momentum.",
+  "funFacts": [
+    "Tottenham have not won a league fixture at Old Trafford in their last three visits.",
+    "Manchester United have kept clean sheets in two of their last three home fixtures.",
+    "Spurs have scored just three goals across their opening five league matches."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Bruno Fernandes",
+      "team": "Manchester United",
+      "hook": "The United captain orchestrates the midfield tempo and set-piece delivery."
+    },
+    {
+      "name": "Son Heung-min",
+      "team": "Tottenham Hotspur",
+      "hook": "Tottenham's talisman carries the offensive burden in search of a season-igniting display."
+    }
+  ],
+  "headToHead": "Evenly contested over recent years with tactical battles decided by fine margins.",
+  "tags": [
+    "soccer",
+    "premier-league",
+    "manchester-united",
+    "tottenham",
+    "old-trafford"
+  ],
+  "home": "Manchester United",
+  "away": "Tottenham Hotspur",
+  "homeCode": "MUN",
+  "awayCode": "TOT",
+  "homeFlag": "gb-eng",
+  "awayFlag": "gb-eng",
+  "group": "Premier League",
+  "matchday": 6,
+  "date": "2026-10-10",
+  "time": "17:30",
+  "venue": "Old Trafford",
+  "city": "Manchester",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1884574/pexels-photo-1884574.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "soccer",
+  "competition": "premier-league-2026-27",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "Premier League · Matchweek 6",
+  "resultSummary": "UPCOMING: Manchester United vs Tottenham Hotspur, Saturday 17:30 BST at Old Trafford",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "PremierLeague.com fixture guide",
+      "url": "https://www.premierleague.com/fixtures"
+    },
+    {
+      "name": "Sky Sports live match centre",
+      "url": "https://www.skysports.com/premier-league"
+    }
+  ]
+}

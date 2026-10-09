@@ -17,6 +17,12 @@ const upcomingAll = matches
   .sort((a, b) => a.date.localeCompare(b.date) || b.whyCareScore - a.whyCareScore);
 const liveMatch =
   matches.find((m) => m.status === 'LIVE') ||
+  matches.find((m) => m.slug === 'arsenal-vs-leeds-united-mw6-2026') ||
+  matches.find((m) => m.slug === 'manchester-united-vs-tottenham-mw6-2026') ||
+  matches.find((m) => m.slug === 'texas-vs-oklahoma-red-river-rivalry-2026') ||
+  matches.find((m) => m.slug === 'singapore-gp-sprint-race-and-qualifying-2026') ||
+  matches.find((m) => m.slug === 'baycurrent-classic-yokohama-round3-2026') ||
+  matches.find((m) => m.slug === 'shanghai-masters-2026-round3-qizhong') ||
   matches.find((m) => m.slug === 'singapore-gp-sprint-qualifying-2026') ||
   matches.find((m) => m.slug === 'dream-at-liberty-wnba-sf-g3-2026') ||
   matches.find((m) => m.slug === 'shanghai-masters-2026-r2-hurkacz-shocks-djokovic') ||

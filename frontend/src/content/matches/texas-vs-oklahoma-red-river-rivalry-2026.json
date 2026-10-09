@@ -1,0 +1,75 @@
+{
+  "slug": "texas-vs-oklahoma-red-river-rivalry-2026",
+  "headline": "122nd Red River Rivalry: Texas and Oklahoma clash at the historic Cotton Bowl",
+  "whyCareScore": 9.8,
+  "whyCareReason": "College football's most storied neutral-site tradition meets at the Texas State Fair with massive SEC title implications.",
+  "teaser": "The Cotton Bowl is divided precisely down the 50-yard line into burnt orange and crimson. Kickoff is 2:30 p.m. CT on ABC.",
+  "story": "The 122nd edition of the Red River Rivalry takes center stage on Saturday afternoon as the Texas Longhorns and Oklahoma Sooners renew their legendary conflict inside the historic Cotton Bowl in Dallas, Texas. Staged amidst the backdrop of the State Fair of Texas, this annual tradition remains one of American sport's great spectacles, with the stadium split precisely down the 50-yard line between crimson and burnt orange. With both programs now competing in the Southeastern Conference, the Golden Hat trophy carries direct implications for conference championship positioning and the 12-team College Football Playoff race.",
+  "stakes": "The winner takes the Golden Hat and secures an inside track in the grueling SEC standings.",
+  "rivalryAngle": "Over a century of bad blood, pride, and unforgettable fourth-quarter finishes in Dallas.",
+  "funFacts": [
+    "The series began in 1900 and has been played continuously at the Cotton Bowl since 1929.",
+    "The 92,100-seat stadium is divided exactly in half at the 50-yard line between fanbases.",
+    "The winning team claims possession of the famed ten-gallon Golden Hat trophy."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Arch Manning",
+      "team": "Texas Longhorns",
+      "hook": "Under the brightest spotlight in Dallas, commands Steve Sarkisian's explosive offensive attack."
+    },
+    {
+      "name": "Jackson Arnold",
+      "team": "Oklahoma Sooners",
+      "hook": "Leads Oklahoma into hostile territory aiming to author another legendary Sooners upset."
+    }
+  ],
+  "headToHead": "Texas leads the all-time series 63-51-5 entering the 122nd meeting in Dallas.",
+  "tags": [
+    "football",
+    "college-football",
+    "red-river-rivalry",
+    "texas",
+    "oklahoma",
+    "cotton-bowl"
+  ],
+  "home": "Texas Longhorns",
+  "away": "Oklahoma Sooners",
+  "homeCode": "TEX",
+  "awayCode": "OU",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "College Football",
+  "matchday": 6,
+  "date": "2026-10-10",
+  "time": "14:30",
+  "venue": "Cotton Bowl Stadium",
+  "city": "Dallas",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618269/pexels-photo-1618269.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "football",
+  "competition": "college-football-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "Week 6 · Red River Rivalry",
+  "resultSummary": "UPCOMING: Texas vs Oklahoma, Saturday 2:30 p.m. CT on ABC at the Cotton Bowl",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NCAA College Football scoreboard",
+      "url": "https://www.ncaa.com/scoreboard/football/fbs"
+    },
+    {
+      "name": "ESPN College Football hub",
+      "url": "https://www.espn.com/college-football"
+    }
+  ]
+}
