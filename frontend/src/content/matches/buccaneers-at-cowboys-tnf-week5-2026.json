@@ -1,22 +1,22 @@
 {
   "funFacts": [
-    "Thursday Night Football is Buccaneers at Cowboys, not Falcons at Buccaneers.",
-    "Tampa Bay are 0-4. Dallas are 2-2. No final score is posted.",
-    "Chiefs, Vikings and 49ers are the three 4-0 teams. Kansas City is on a bye."
+    "Jalon Daniels completed 19 of 25 passes for 189 yards and a touchdown in his second career start.",
+    "Tampa Bay gained a season-high 419 total yards to secure their first victory of 2026.",
+    "Bucky Irving scored twice, catching a 5-yard touchdown and rushing for another."
   ],
   "keyPlayers": [
     {
-      "name": "Dak Prescott",
-      "team": "Dallas Cowboys",
-      "hook": "105 of 150 for 1,065 yards, 8 touchdowns and 1 interception."
+      "name": "Jalon Daniels",
+      "team": "Tampa Bay Buccaneers",
+      "hook": "Stepped in for the injured Baker Mayfield, going 19 of 25 for 189 yards, 1 passing TD and 23 rushing yards."
     },
     {
-      "name": "Baker Mayfield",
-      "team": "Tampa Bay Buccaneers",
-      "hook": "Listed on the Thursday matchup after missing the Packers loss with a dislocated thumb. 61 of 96, 615 yards, 2 TD, 2 INT in three games."
+      "name": "George Pickens",
+      "team": "Dallas Cowboys",
+      "hook": "Led Dallas with 9 receptions for 130 yards and a touchdown in the defeat."
     }
   ],
-  "headToHead": "Last meeting on this card is not a 2026 result. Thursday 8 October has no final.",
+  "headToHead": "Tampa Bay snap a four-game losing skid to open 2026 with a 24-16 victory at AT&T Stadium.",
   "tags": ["nfl", "buccaneers", "cowboys", "tnf", "week-5"],
   "homeCode": null,
   "awayCode": null,
@@ -31,7 +31,7 @@
   "awayPen": null,
   "season": "2026",
   "roundLabel": "NFL Week 5 · Thursday Night Football",
-  "resultSummary": "UPCOMING: Buccaneers at Cowboys, 8:15 p.m. ET. No score.",
+  "resultSummary": "FINAL: Buccaneers 24, Cowboys 16",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
@@ -40,25 +40,25 @@
       "url": "https://www.espn.com/nfl/scoreboard"
     },
     {
-      "name": "Football Database Week 5",
-      "url": "https://www.footballdb.com/scores/"
+      "name": "Pro-Football-Reference Week 5",
+      "url": "https://www.pro-football-reference.com/boxscores/202610080dal.htm"
     },
     {
-      "name": "AP: Cowboys 34-30 Texans",
-      "url": "https://global.espn.com/nfl/recap?gameId=401872967"
+      "name": "NFL.com game recap",
+      "url": "https://www.nfl.com/games/buccaneers-at-cowboys-2026-reg-5"
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 16,
+  "awayScore": 24,
   "slug": "buccaneers-at-cowboys-tnf-week5-2026",
-  "headline": "NFL Week 5 TNF: Buccaneers (0-4) at Cowboys (2-2), no score yet",
+  "headline": "Buccaneers 24, Cowboys 16: Daniels delivers first win on TNF",
   "whyCareScore": 9.5,
-  "whyCareReason": "The verified Thursday game is Tampa Bay at Dallas, 8:15 p.m. ET at AT&T Stadium. Atlanta is not in it.",
-  "teaser": "Prime Video, AT&T Stadium. Mayfield is listed after missing the 17-14 loss to Green Bay. Lamb had 17 catches in the 34-30 win at Houston.",
-  "story": "ESPN and the NFL list Tampa Bay at Dallas for Thursday 8 October, 8:15 p.m. ET, Prime Video, AT&T Stadium. The Buccaneers are 0-4 and the Cowboys are 2-2. No final is posted. On 4 October the Packers beat Tampa Bay 17-14, a game Baker Mayfield missed with a dislocated thumb. The same day Dallas beat Houston 34-30. CeeDee Lamb caught 17 passes for 189 yards and the 12-yard touchdown with 40 seconds left. Javonte Williams ran for three touchdowns. Three teams are 4-0: Kansas City, Minnesota and San Francisco. The Chiefs are on a bye after a 30-27 win at Las Vegas.",
-  "stakes": "A fifth loss would leave Tampa Bay alone at the bottom of the NFC South. Dallas can move off 2-2 before Sunday's London game.",
-  "rivalryAngle": "This is not the Falcons-Buccaneers game. That meeting is listed for 1 November.",
+  "whyCareReason": "Undrafted rookie Jalon Daniels led Tampa Bay to a 24-16 victory at Dallas for the Buccaneers' first win of 2026.",
+  "teaser": "Daniels threw for 189 yards and a score while Bucky Irving found the end zone twice. Dallas drops to 2-3.",
+  "story": "The Tampa Bay Buccaneers earned their first victory of the 2026 season on Thursday night, defeating the Dallas Cowboys 24-16 at AT&T Stadium. Backup quarterback Jalon Daniels, making his second career start in place of injured Baker Mayfield, completed 19 of 25 passes for 189 yards and one touchdown while adding 23 yards on the ground. Bucky Irving proved pivotal, catching a 5-yard touchdown and scoring on the ground as Tampa Bay generated a season-high 419 total yards. For Dallas, George Pickens caught 9 passes for 130 yards and a touchdown, but Dak Prescott and the Cowboys offense could not overcome late penalties. Tampa Bay improves to 1-4 while Dallas falls to 2-3. Kansas City, Minnesota and San Francisco remain the league's unbeaten teams at 4-0.",
+  "stakes": "Tampa Bay avoids an 0-5 start and climbs off the bottom of the NFC South. Dallas falls behind in the NFC East before Philadelphia plays Sunday.",
+  "rivalryAngle": "Tampa Bay secures their first road win over Dallas since 2022 behind an inspired backup quarterback.",
   "home": "Dallas Cowboys",
   "away": "Tampa Bay Buccaneers",
   "group": "NFL",
@@ -66,7 +66,7 @@
   "time": "20:15",
   "venue": "AT&T Stadium",
   "city": "Arlington",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "football",
   "competition": "nfl-2026"
 }

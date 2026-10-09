@@ -1,0 +1,124 @@
+{
+  "funFacts": [
+    "Max Verstappen secured pole position for Saturday's Singapore Sprint with a lap of 1:31.156.",
+    "George Russell qualified on the front row, just 0.120 seconds behind Verstappen.",
+    "Championship leader Kimi Antonelli qualified seventh after encountering traffic on his flying lap."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Max Verstappen",
+      "team": "Red Bull Racing",
+      "hook": "Mastered the tricky Marina Bay streets under the lights to claim Sprint pole position."
+    },
+    {
+      "name": "George Russell",
+      "team": "Mercedes",
+      "hook": "Topped FP1 in the baseline car and locked in a front-row start for the Sprint."
+    }
+  ],
+  "headToHead": "Verstappen and Russell share the front row for the final Sprint race of the 2026 season.",
+  "tags": [
+    "f1",
+    "singapore-gp",
+    "sprint-qualifying",
+    "verstappen",
+    "russell",
+    "antonelli"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Singapore Grand Prix · Sprint Qualifying",
+  "resultSummary": "POLE: Verstappen 1:31.156, Russell +0.120, Leclerc +0.243",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Max Verstappen",
+      "score": "1:31.156",
+      "note": "Red Bull · Sprint Pole"
+    },
+    {
+      "pos": "2",
+      "name": "George Russell",
+      "score": "+0.120",
+      "note": "Mercedes · Front Row"
+    },
+    {
+      "pos": "3",
+      "name": "Charles Leclerc",
+      "score": "+0.243",
+      "note": "Ferrari · Row 2"
+    },
+    {
+      "pos": "4",
+      "name": "Oscar Piastri",
+      "score": "+0.298",
+      "note": "McLaren · Row 2"
+    },
+    {
+      "pos": "5",
+      "name": "Lando Norris",
+      "score": "+0.431",
+      "note": "McLaren · Row 3"
+    },
+    {
+      "pos": "6",
+      "name": "Lewis Hamilton",
+      "score": "+0.546",
+      "note": "Ferrari · Row 3"
+    },
+    {
+      "pos": "7",
+      "name": "Kimi Antonelli",
+      "score": "+0.693",
+      "note": "Mercedes · Row 4"
+    },
+    {
+      "pos": "8",
+      "name": "Liam Lawson",
+      "score": "+1.185",
+      "note": "Racing Bulls · Row 4"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Formula1.com Sprint Qualifying report",
+      "url": "https://www.formula1.com/en/results/2026/races/singapore/sprint-qualifying"
+    },
+    {
+      "name": "Motorsport.com Marina Bay timings",
+      "url": "https://www.motorsport.com/f1/news/singapore-gp-sprint-qualifying-results-2026"
+    }
+  ],
+  "format": "leaderboard",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "singapore-gp-sprint-qualifying-2026",
+  "headline": "Singapore GP Sprint Qualifying: Verstappen edges Russell for Sprint pole",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Max Verstappen delivered a blistering 1:31.156 to beat George Russell to Sprint pole under Singapore's floodlights.",
+  "teaser": "Verstappen edged Russell by 0.120s with Leclerc third and Piastri fourth. Championship leader Antonelli starts seventh.",
+  "story": "Max Verstappen clinched pole position for the 2026 Singapore Grand Prix Sprint on Friday night, producing a sensational 1:31.156 lap under the Marina Bay floodlights to deny Mercedes' George Russell by 0.120 seconds. Charles Leclerc took third for Ferrari, just ahead of the McLaren pair of Oscar Piastri and Lando Norris. Championship leader Kimi Antonelli, who holds an 84-point cushion over Russell in the drivers' standings, endured a difficult SQ3 and qualified seventh after running wide on his final effort. Mercedes had split car specifications between its two drivers during the weekend, with Russell returning to an older aerodynamic configuration. With eight Sprint championship points on offer Saturday evening, Verstappen and Russell will lead the charge into the tight Turn 1 complex.",
+  "stakes": "Sprint points are vital as Russell attempts to chip away at Antonelli's 84-point championship lead with six rounds remaining.",
+  "rivalryAngle": "Verstappen and Russell renew their front-row rivalry under the lights at Marina Bay.",
+  "home": "Max Verstappen",
+  "away": "George Russell",
+  "group": "F1",
+  "date": "2026-10-09",
+  "time": "20:30",
+  "venue": "Marina Bay Street Circuit",
+  "city": "Singapore",
+  "status": "FINISHED",
+  "sport": "f1",
+  "competition": "formula-1-2026"
+}

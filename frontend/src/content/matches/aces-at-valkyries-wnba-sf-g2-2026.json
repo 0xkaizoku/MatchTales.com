@@ -1,22 +1,22 @@
 {
   "funFacts": [
-    "Golden State Valkyries lead 1-0 in best-of-five series.",
-    "Gabby Williams scored 25 points in Game 1.",
-    "Aces held to season-low 60 points in opening loss."
+    "Expansion Golden State Valkyries lead two-time champion Aces 2-0 in the semifinals.",
+    "Tiffany Hayes delivered 21 points off the bench for Golden State.",
+    "Veronica Burton sank a go-ahead 3-pointer with 41 seconds left to seal the 83-81 victory."
   ],
   "keyPlayers": [
     {
-      "name": "Gabby Williams",
+      "name": "Tiffany Hayes",
       "team": "Golden State Valkyries",
-      "hook": "Scored 25 points in the 71-60 Game 1 win. Rebounds from that night are not reprinted without a second source."
+      "hook": "Provided the spark with 21 points off the bench, complemented by Gabby Williams' 20 points."
     },
     {
       "name": "A'ja Wilson",
       "team": "Las Vegas Aces",
-      "hook": "Scored 24 points in opener, seeking offensive rhythm in Game 2."
+      "hook": "Scored 24 points and grabbed 7 rebounds in a tight road battle at Chase Center."
     }
   ],
-  "headToHead": "Valkyries lead 2026 postseason series 1-0 after 71-60 Game 1 victory.",
+  "headToHead": "Valkyries lead 2026 postseason series 2-0 after victories of 71-60 and 83-81 in San Francisco.",
   "tags": [
     "wnba",
     "aces",
@@ -36,7 +36,7 @@
   "awayPen": null,
   "season": "2026",
   "roundLabel": "WNBA Semifinals · Game 2",
-  "resultSummary": "SCHEDULED 7 October, 9:30 p.m. ET. No verified final. Series still 1-0 Valkyries.",
+  "resultSummary": "FINAL: Valkyries 83, Aces 81. Series 2-0 Valkyries.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
@@ -50,16 +50,16 @@
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 83,
+  "awayScore": 81,
   "slug": "aces-at-valkyries-wnba-sf-g2-2026",
-  "headline": "WNBA Semifinals Game 2: Aces at Valkyries, no verified final",
-  "whyCareScore": 8.5,
-  "whyCareReason": "Game 1 is Valkyries 71-60. Wednesday's Game 2 is on the Peacock schedule at 9:30 p.m. ET and has no published score.",
-  "teaser": "Wilson scored 24 on 21 shots in Game 1. Loyd and Talbot are game-time decisions. Evans is out with a knee injury.",
-  "story": "ESPN still shows Las Vegas at Golden State for 7 October at 9:30 p.m. ET with Golden State leading the series 1-0. Game 1 was 71-60. Gabby Williams scored 25. A'ja Wilson scored 24 on 21 shots. Jackie Young had 11 on 4 of 15. Golden State outrebounded Las Vegas 51-23. There is no 83-74 final on Basketball-Reference.",
-  "stakes": "A Las Vegas win would tie the series. That win is not on the board.",
-  "rivalryAngle": "Golden State leads 1-0 at home. Game 3 is dated 9 October in Las Vegas.",
+  "headline": "Valkyries 83, Aces 81: Burton clutch three puts Golden State up 2-0",
+  "whyCareScore": 9.5,
+  "whyCareReason": "The first-year Valkyries edged the powerhouse Aces 83-81 behind Veronica Burton's late three and Kiah Stokes' final block.",
+  "teaser": "Hayes scored 21 off the bench and Williams added 20 as Golden State held off A'ja Wilson. Game 3 shifts to Las Vegas.",
+  "story": "The Golden State Valkyries took a 2-0 series lead over the Las Vegas Aces on Wednesday night with a thrilling 83-81 win at Chase Center. After Las Vegas took its first lead of the contest with under two minutes remaining, Veronica Burton connected on a deep go-ahead 3-pointer with 41 seconds on the clock. In the closing seconds, Kiah Stokes blocked Chelsea Gray's driving layup, and Burton secured the defensive rebound to ice the contest. Tiffany Hayes led Golden State with 21 points off the bench, while Gabby Williams added 20 points and 5 rebounds. A'ja Wilson led Las Vegas with 24 points and 7 rebounds, while Chelsea Gray added 19 points and 6 assists. The series moves to Michelob ULTRA Arena in Las Vegas for Game 3 on Friday 9 October with the Aces facing elimination.",
+  "stakes": "The expansion Valkyries need one more win to reach the WNBA Finals in their inaugural season. The Aces face a win-or-go-home Game 3.",
+  "rivalryAngle": "The expansion Valkyries have stunned the two-time champion Aces in consecutive games to begin the series.",
   "home": "Golden State Valkyries",
   "away": "Las Vegas Aces",
   "group": "WNBA",
@@ -67,7 +67,7 @@
   "time": "21:30",
   "venue": "Chase Center",
   "city": "San Francisco",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "basketball",
   "competition": "wnba-2026"
 }

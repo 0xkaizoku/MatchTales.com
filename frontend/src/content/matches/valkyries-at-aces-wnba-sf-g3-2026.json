@@ -1,0 +1,74 @@
+{
+  "funFacts": [
+    "Golden State Valkyries are one win away from reaching the WNBA Finals in their inaugural season.",
+    "Las Vegas Aces must win three straight games to defend their crown.",
+    "Game 3 takes place at Michelob ULTRA Arena in Las Vegas on Peacock."
+  ],
+  "keyPlayers": [
+    {
+      "name": "A'ja Wilson",
+      "team": "Aces",
+      "hook": "Scored 24 in Game 2 and must carry the two-time champions at home facing elimination."
+    },
+    {
+      "name": "Gabby Williams",
+      "team": "Valkyries",
+      "hook": "Averaging 22.5 points in the series after scoring 25 and 20 in the opening two games."
+    }
+  ],
+  "headToHead": "Valkyries lead 2-0 after victories of 71-60 and 83-81 in San Francisco.",
+  "tags": [
+    "wnba",
+    "valkyries",
+    "aces",
+    "semifinals",
+    "game-3"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/976873/pexels-photo-270084.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "WNBA Semifinals · Game 3",
+  "resultSummary": "UPCOMING: Golden State Valkyries at Las Vegas Aces, 9:30 p.m. ET (Valkyries lead 2-0)",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ESPN WNBA scoreboard",
+      "url": "https://www.espn.com/wnba/scoreboard"
+    },
+    {
+      "name": "WNBA Playoffs Hub",
+      "url": "https://www.wnba.com/playoffs/2026"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "valkyries-at-aces-wnba-sf-g3-2026",
+  "headline": "WNBA Semifinals Game 3: Aces face elimination trailing Valkyries 0-2",
+  "whyCareScore": 9.5,
+  "whyCareReason": "The expansion Valkyries can close out a historic sweep in Las Vegas, while A'ja Wilson fights to extend the Aces' season.",
+  "teaser": "Burton's late triple and Stokes' block gave Golden State an 83-81 Game 2 win. Tipoff is 9:30 p.m. ET on Peacock.",
+  "story": "The Las Vegas Aces host the Golden State Valkyries in an elimination Game 3 on Friday night at Michelob ULTRA Arena. The expansion Valkyries have stunned the basketball world by taking a 2-0 series advantage, grinding out a 71-60 defensive masterclass in Game 1 and surviving an 83-81 thriller in Game 2. Gabby Williams and Tiffany Hayes have punished the Aces with perimeter scoring, while Veronica Burton's go-ahead 3-pointer with 41 seconds left decided Game 2. Facing a sweep on home wood, A'ja Wilson and Chelsea Gray must summon their championship pedigree to keep Las Vegas alive and force Game 4 on Sunday.",
+  "stakes": "A Valkyries win sends an expansion team to the WNBA Finals in year one. An Aces win keeps the series alive.",
+  "rivalryAngle": "The defending champions find themselves pushed to the limit by the league's newest franchise.",
+  "home": "Las Vegas Aces",
+  "away": "Golden State Valkyries",
+  "group": "SF",
+  "date": "2026-10-09",
+  "time": "21:30",
+  "venue": "Michelob ULTRA Arena",
+  "city": "Las Vegas",
+  "status": "UPCOMING",
+  "sport": "basketball",
+  "competition": "wnba-2026"
+}

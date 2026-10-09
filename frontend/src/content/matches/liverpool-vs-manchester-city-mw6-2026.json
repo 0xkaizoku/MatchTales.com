@@ -1,0 +1,73 @@
+{
+  "funFacts": [
+    "Manchester City are the only team in the Premier League with a perfect 5-0-0 record (15 points).",
+    "Liverpool enter Matchweek 6 unbeaten on 9 points (2 wins, 3 draws).",
+    "This is the marquee fixture of Matchweek 6 as domestic football returns from the October break."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Erling Haaland",
+      "team": "Manchester City",
+      "hook": "Leads the Premier League scoring charts having found the net in all five matches."
+    },
+    {
+      "name": "Mohamed Salah",
+      "team": "Liverpool",
+      "hook": "Aims to halt City's flawless start before a raucous Anfield home crowd."
+    }
+  ],
+  "headToHead": "Manchester City and Liverpool battle at Anfield in the defining showdown of Matchweek 6.",
+  "tags": [
+    "premier-league",
+    "liverpool",
+    "manchester-city",
+    "matchweek-6"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 6,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026/27",
+  "roundLabel": "Premier League · Matchweek 6",
+  "resultSummary": "UPCOMING: Liverpool vs Manchester City · Sunday 11 October, Anfield",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "PremierLeague.com Matchweek 6 fixtures",
+      "url": "https://www.premierleague.com/fixtures"
+    },
+    {
+      "name": "Sky Sports Premier League hub",
+      "url": "https://www.skysports.com/premier-league"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "liverpool-vs-manchester-city-mw6-2026",
+  "headline": "Premier League MW6: Liverpool host perfect Manchester City at Anfield",
+  "whyCareScore": 9.7,
+  "whyCareReason": "Premier League resumes as 15-point Manchester City travel to Anfield looking to preserve their 100% record.",
+  "teaser": "City have won five of five. Liverpool are unbeaten on nine points. Sunday 11 October at Anfield is the weekend's blockbuster.",
+  "story": "The Premier League returns from the October international window with a marquee showdown on Sunday afternoon, as Manchester City visit Anfield to take on Liverpool. Pep Guardiola's City are the league's sole flawless side through five matchweeks, boasting 15 points and a plus-8 goal difference. Arsenal sit second on 12 points, while Brighton hold third on 10. Liverpool have navigated a tricky opening stretch without defeat, posting two wins and three draws for 9 points. With Saturday featuring Arsenal hosting Leeds and Manchester United taking on Tottenham, all eyes turn to Anfield on Sunday to see whether Arne Slot's side can inflict City's first dropped points of the campaign.",
+  "stakes": "A City victory extends their lead at the top of the table. A Liverpool win would pull the Reds within three points of the summit.",
+  "rivalryAngle": "Modern English football's highest-caliber rivalry resumes with title momentum in the balance.",
+  "home": "Liverpool",
+  "away": "Manchester City",
+  "group": "Premier League",
+  "date": "2026-10-11",
+  "time": "16:30",
+  "venue": "Anfield",
+  "city": "Liverpool",
+  "status": "UPCOMING",
+  "sport": "soccer",
+  "competition": "premier-league-2026-27"
+}

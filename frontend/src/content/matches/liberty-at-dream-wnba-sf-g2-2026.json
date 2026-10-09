@@ -1,22 +1,22 @@
 {
   "funFacts": [
-    "Dream lead best-of-five series 1-0.",
-    "Atlanta won Game 1 92-82 with a 32-15 third quarter.",
-    "Game 2 takes place Wednesday 7 October."
+    "Atlanta Dream rallied in overtime to take a commanding 2-0 series lead.",
+    "Angel Reese and Jordin Canada each scored 23 points for the Dream.",
+    "Naz Hillmon sank the decisive go-ahead layup with 20.8 seconds remaining in overtime."
   ],
   "keyPlayers": [
     {
-      "name": "Jordin Canada",
+      "name": "Angel Reese",
       "team": "Dream",
-      "hook": "Scored 25 points in 32 minutes in the 92-82 Game 1 win."
+      "hook": "Dominated the paint with 23 points and clutch overtime rebounding."
     },
     {
-      "name": "Sabrina Ionescu",
+      "name": "Breanna Stewart",
       "team": "Liberty",
-      "hook": "Liberty's guard for a Game 2 that has no verified final. Game 1 was a 92-82 loss."
+      "hook": "Poured in 35 points and grabbed 11 rebounds in a heartbreaking overtime defeat."
     }
   ],
-  "headToHead": "Dream lead 2026 postseason series 1-0 following 92-82 triumph.",
+  "headToHead": "Dream lead 2026 postseason series 2-0 after victories of 92-82 and 101-98 (OT).",
   "tags": [
     "wnba",
     "dream",
@@ -31,12 +31,12 @@
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/2385479/pexels-photo-2385479.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": null,
+  "decidedBy": "AET",
   "homePen": null,
   "awayPen": null,
   "season": "2026",
   "roundLabel": "WNBA Semifinals · Game 2",
-  "resultSummary": "SCHEDULED 7 October, 7:30 p.m. ET. No verified final. Series still 1-0 Dream.",
+  "resultSummary": "FINAL (OT): Dream 101, Liberty 98. Series 2-0 Dream.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
@@ -50,24 +50,24 @@
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 101,
+  "awayScore": 98,
   "slug": "liberty-at-dream-wnba-sf-g2-2026",
-  "headline": "WNBA Semifinals Game 2: Liberty at Dream, no verified final",
-  "whyCareScore": 8.4,
-  "whyCareReason": "Game 1 is Dream 92-82. Wednesday's Game 2 is on the ESPN schedule at 7:30 p.m. ET and has no published score.",
-  "teaser": "Allisha Gray is out. Do not print 86-80. The series is 1-0 Atlanta until a box score exists.",
-  "story": "Basketball-Reference, CBS and StatMuse list New York at Atlanta for 7 October at 7:30 p.m. ET without a final. Game 1 on 4 October was Dream 92, Liberty 82. Jordin Canada scored 25 points in 32 minutes. Allisha Gray is ruled out for Game 2. Game 3 is dated 9 October in New York.",
-  "stakes": "A Game 2 win for New York would tie the series. That win is not on the board.",
-  "rivalryAngle": "Atlanta leads 1-0. The road response has not been printed.",
+  "headline": "Dream 101, Liberty 98 (OT): Atlanta edges New York to take 2-0 lead",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Atlanta overcame Breanna Stewart's 35-point performance to win an overtime classic 101-98 and take a 2-0 series stranglehold.",
+  "teaser": "Reese and Canada scored 23 each before Hillmon's clutch bucket iced overtime. Game 3 moves to New York with Liberty facing elimination.",
+  "story": "The Atlanta Dream captured a 2-0 series lead in the WNBA Semifinals on Wednesday night, holding off the New York Liberty 101-98 in an overtime thriller at Gateway Center Arena. Angel Reese and Jordin Canada powered Atlanta with 23 points apiece, matching Breanna Stewart's brilliant 35-point, 11-rebound display for New York. With the game tied in the extra session, Naz Hillmon converted a go-ahead layup with 20.8 seconds left. After a controversial timeout sequence where New York could not advance the ball, Atlanta sealed the win at the free-throw line. The series now shifts to Barclays Center for Game 3 on Friday 9 October with the defending finalist Liberty facing elimination.",
+  "stakes": "Atlanta moves within one victory of the WNBA Finals, while New York faces a must-win Game 3 on home court.",
+  "rivalryAngle": "The fourth-seeded Dream have now won consecutive postseason games against the star-studded Liberty.",
   "home": "Atlanta Dream",
   "away": "New York Liberty",
   "group": "SF",
   "date": "2026-10-07",
-  "time": "19:00",
+  "time": "19:30",
   "venue": "Gateway Center Arena",
   "city": "College Park",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "basketball",
   "competition": "wnba-2026"
 }

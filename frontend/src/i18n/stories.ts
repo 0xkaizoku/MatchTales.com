@@ -11351,4 +11351,556 @@ export const STORY_I18N: Record<string, LocMap> = {
         ]
     }
   },
+  'nfl-week5-tnf-buccaneers-24-16-cowboys-daniels-2026': {
+    fr: {
+      title: "Buccaneers 24, Cowboys 16 : Jalon Daniels offre un premier succès le jeudi soir",
+      subtitle: "Le quarterback remplaçant réussit 19 passes sur 25 pour 189 yards et un touchdown alors que Tampa Bay passe à 1-4.",
+      excerpt: "ESPN et NFL.com confirment la victoire 24-16 de Tampa Bay à l'AT&T Stadium. Jalon Daniels supplée Mayfield blessé, Dallas chute à 2-3.",
+      body: [
+        "Les Buccaneers de Tampa Bay ne sont plus bredouilles. Jeudi soir à l'AT&T Stadium, le quarterback remplaçant Jalon Daniels a guidé Tampa Bay vers une victoire 24-16 face aux Dallas Cowboys. Face au gouffre d'un 0-5 et privés de Baker Mayfield touché au pouce, les Bucs ont trouvé leur calme à Arlington.",
+        "Daniels a livré une prestation maîtrisée pour sa deuxième titularisation en NFL. Le rookie a complété 19 passes sur 25 pour 189 yards, délivré un touchdown et couru pour 23 yards. Le coureur Bucky Irving a porté l'offensive avec un touchdown de 5 yards à la réception et un autre au sol, Tampa Bay cumulant 419 yards totaux.",
+        "Dallas a poussé par l'intermédiaire de George Pickens, auteur de 9 réceptions pour 130 yards et un touchdown. Mais Dak Prescott et les Cowboys ont calé sur leurs deux dernières possessions, freinés par des pénalités et la pression de Tampa Bay. Dallas passe à 2-3, Tampa Bay remonte à 1-4.",
+      ],
+    },
+    es: {
+      title: "Buccaneers 24, Cowboys 16: Jalon Daniels sella la primera victoria en el Thursday Night",
+      subtitle: "El quarterback suplente completa 19 de 25 pases para 189 yardas y un touchdown para colocar a Tampa Bay en 1-4.",
+      excerpt: "ESPN y NFL.com confirman el triunfo 24-16 de Tampa Bay en el AT&T Stadium. Jalon Daniels releva al lesionado Mayfield y Dallas cae a 2-3.",
+      body: [
+        "Los Tampa Bay Buccaneers ya conocen la victoria esta campaña. El jueves por la noche en el AT&T Stadium, el mariscal suplente Jalon Daniels guio a Tampa Bay a un triunfo 24-16 sobre los Dallas Cowboys. Ante el abismo del 0-5 y sin el lesionado Baker Mayfield, los Bucs mostraron aplomo en Arlington.",
+        "Daniels brilló con calma en su segunda apertura en la NFL. El novato completó 19 de 25 envíos para 189 yardas, lanzó un pase de touchdown y sumó 23 yardas por tierra. El corredor Bucky Irving aportó dos anotaciones, una por recepción de 5 yardas y otra terrestre, en una ofensiva que sumó 419 yardas.",
+        "Dallas apretó con George Pickens, quien firmó 9 recepciones para 130 yardas y un touchdown. Sin embargo, Dak Prescott y los Cowboys se estancaron en sus dos últimas series ofensivas por castigos costosos y la presión defensiva. Dallas queda 2-3 y Tampa Bay avanza a 1-4.",
+      ],
+    },
+    de: {
+      title: "Buccaneers 24, Cowboys 16: Jalon Daniels führt Tampa Bay zum ersten Saisonsieg",
+      subtitle: "Ersatz-Quarterback wirft 19 von 25 für 189 Yards und einen Touchdown beim 24:16-Erfolg über Dallas.",
+      excerpt: "ESPN und NFL.com bestätigen den 24:16-Sieg von Tampa Bay im AT&T Stadium. Jalon Daniels springt für Mayfield ein, Dallas fällt auf 2-3.",
+      body: [
+        "Die Tampa Bay Buccaneers haben ihren ersten Saisonsieg. Am Donnerstagabend im AT&T Stadium führte Ersatz-Quarterback Jalon Daniels Tampa Bay zu einem 24:16-Erfolg gegen die Dallas Cowboys. Ohne den verletzten Baker Mayfield zeigte das Team in Arlington große Nervenstärke.",
+        "Daniels überzeugte in seinem zweiten NFL-Start mit 19 von 25 Pässen für 189 Yards, einem Touchdown-Pass und 23 Rushing Yards. Running Back Bucky Irving steuerte zwei Touchdowns bei, einen per 5-Yard-Pass und einen am Boden, während Tampa Bay 419 Total Yards erzielte.",
+        "Dallas kämpfte sich durch George Pickens (9 Receptions, 130 Yards, 1 TD) heran. Doch Dak Prescott und die Cowboys scheiterten in den letzten beiden Angriffsserien an Strafen und dem Pass-Rush der Bucs. Dallas steht nun bei 2-3, Tampa Bay verbessert sich auf 1-4.",
+      ],
+    },
+    it: {
+      title: "Buccaneers 24, Cowboys 16: Jalon Daniels firma la prima vittoria nel Thursday Night",
+      subtitle: "Il quarterback di riserva completa 19 su 25 per 189 yard e un touchdown portando Tampa Bay sull'1-4.",
+      excerpt: "ESPN e NFL.com confermano la vittoria 24-16 di Tampa Bay all'AT&T Stadium. Jalon Daniels brilla al posto dell'infortunato Mayfield, Dallas scivola sul 2-3.",
+      body: [
+        "I Tampa Bay Buccaneers conquistano la prima vittoria stagionale. Giovedì sera all'AT&T Stadium, il quarterback di riserva Jalon Daniels ha guidato Tampa Bay al successo per 24-16 sui Dallas Cowboys. Senza il titolare Baker Mayfield infortunato, i Bucs hanno giocato con lucidità ad Arlington.",
+        "Daniels ha offerto una prova solida: 19 su 25 per 189 yard, un passaggio da touchdown e 23 yard su corsa. Il running back Bucky Irving ha segnato due touchdown, uno su ricezione da 5 yard e uno su corsa, spingendo l'attacco a 419 yard complessive.",
+        "Dallas ha cercato la rimonta con George Pickens (9 ricezioni per 130 yard e un touchdown). Dak Prescott e i Cowboys si sono però fermati nei possessi finali per colpa di penalità e della pressione difensiva. Dallas scende a 2-3, Tampa Bay sale a 1-4.",
+      ],
+    },
+    pl: {
+      title: "Buccaneers 24, Cowboys 16: Jalon Daniels prowadzi Tampa Bay do pierwszej wygranej",
+      subtitle: "Rezerwowy rozgrywający trafia 19 z 25 podań na 189 jardów i przyłożenie, dając Buccaneers bilans 1-4.",
+      excerpt: "ESPN i NFL.com potwierdzają wygraną Tampa Bay 24-16 na AT&T Stadium. Jalon Daniels zastępuje Mayfielda, Dallas spada na 2-3.",
+      body: [
+        "Tampa Bay Buccaneers przełamali serię porażek. W czwartkowym meczu na AT&T Stadium rezerwowy rozgrywający Jalon Daniels poprowadził gości do wygranej 24-16 nad Dallas Cowboys. Grając bez kontuzjowanego Bakera Mayfielda, Bucs pokazali spokój w trudnych momentach.",
+        "Daniels zanotował świetny występ w drugim starcie w NFL: 19 z 25 celnych podań na 189 jardów, jedno przyłożenie oraz 23 jardy dołem. Bucky Irving zdobył dwa przyłożenia, w tym jedno po 5-jardowym podaniu, a Tampa Bay uzyskała 419 jardów z gry.",
+        "Dallas odpowiedziało dobrą grą George'a Pickensa (9 chwytów, 130 jardów, 1 przyłożenie). Dak Prescott i ofensywa Cowboys zostali jednak powstrzymani w końcówce przez kary i presję obrony Bucs. Dallas ma bilans 2-3, a Tampa Bay 1-4.",
+      ],
+    },
+    zh: {
+      title: "海盗 24-16 牛仔：丹尼尔斯临危受命，周四夜赛首尝胜绩",
+      subtitle: "替补四分卫25传19中推进189码并斩获达阵，坦帕湾海盗战绩来到1胜4负。",
+      excerpt: "ESPN与NFL.com确认坦帕湾在AT&T球场以24-16击败牛仔。丹尼尔斯顶替受伤的梅菲尔德，达拉斯战绩降至2胜3负。",
+      body: [
+        "坦帕湾海盗终于结束连败。周四夜赛在AT&T球场，替补四分卫贾隆·丹尼尔斯率队以24-16击败达拉斯牛仔。在主力四分卫梅菲尔德拇指受伤缺阵的情况下，海盗顶住压力拿到关键首胜。",
+        "丹尼尔斯在生涯第二次首发中表现稳健，25次传球命中19次，拿下189码和1次达阵，同时自身冲球拿下23码。跑卫巴基·欧文贡献两次达阵，包括一次5码接球达阵和一次地面冲球达阵，全队进攻拿下赛季最高的419码。",
+        "牛仔方面外接手皮肯斯表现抢眼，9次接球贡献130码和1次达阵。然而普雷斯科特率领的牛仔在最后两波进攻中因犯规受阻。达拉斯战绩降至2胜3负，海盗战绩升至1胜4负。",
+      ],
+    },
+    ja: {
+      title: "バッカニアーズ 24-16 カウボーイズ：ダニエルズがTNFで待望の初勝利を演出",
+      subtitle: "控えQBがパス25本中19本成功、189ヤード1TDをマークし、タンパベイが1勝4敗に浮上。",
+      excerpt: "ESPNとNFL.comがAT&Tスタジアムでのタンパベイの24-16の勝利を確認。メイフィールド不在の中でダニエルズが奮闘、ダラスは2勝3敗に後退。",
+      body: [
+        "タンパベイ・バッカニアーズが今季初勝利を掴んだ。木曜夜のAT&Tスタジアムで、控えQBジャロン・ダニエルズがチームを牽引し、ダラス・カウボーイズを24-16で退けた。親指脱臼のベイカー・メイフィールドを欠く中、敵地で集中力を保った。",
+        "ダニエルズは先発2試合目で冷静にパス25本中19本を通し、189ヤードと1TDを記録。さらにランでも23ヤードを稼いだ。RBバッキー・アービングが5ヤードのTDレシーブとランTDの計2得点を挙げ、チーム総獲得ヤードは419ヤードに達した。",
+        "カウボーイズはジョージ・ピケンズが9レシーブ130ヤード1TDと奮戦したが、ダック・プレスコット率いる攻撃陣が終盤の勝負どころで反則に泣いた。ダラスは2勝3敗となり、バッカニアーズは1勝4敗とした。",
+      ],
+    },
+    ko: {
+      title: "버커니어스 24-16 카우보이스: 제일런 대니얼스, TNF서 첫 승 견인",
+      subtitle: "백업 쿼터백이 25개 중 19개 패스 성공, 189야드 1TD를 기록하며 탬파베이 1승 4패로 도약.",
+      excerpt: "ESPN과 NFL.com이 AT&T 스타디움에서 탬파베이의 24-16 승리를 확인. 부상당한 메이필드 대신 나선 대니얼스가 맹활약, 댈러스는 2승 3패.",
+      body: [
+        "탬파베이 버커니어스가 마침내 첫 승을 신고했다. 목요일 밤 AT&T 스타디움에서 백업 쿼터백 제일런 대니얼스가 탬파베이를 24-16 승리로 이끌었다. 엄지 탈구 부상으로 결장한 베이커 메이필드의 빈자리를 완벽히 채웠다.",
+        "대니얼스는 침착한 경기 운영 속에 25개 중 19개의 패스를 적중시켜 189야드와 1개의 터치다운을 기록했고, 러싱으로도 23야드를 보탰다. 러닝백 버키 어빙은 5야드 패스 터치다운과 러싱 터치다운으로 2TD를 책임졌다.",
+        "댈러스는 조지 픽큰스가 9리시빙 130야드 1TD로 분전했으나, 프레스콧과 공격진이 막판 범실과 상대 패스러시에 막혔다. 댈러스는 2승 3패로 내려앉았고, 탬파베이는 1승 4패를 기록했다.",
+      ],
+    },
+    ar: {
+      title: "بوكانيرز 24، كاوبويز 16: جايلون دانيلز يقود أول انتصار في ليلة الخميس",
+      subtitle: "الظهير الربعي البديل يكمل 19 من 25 تمريرة لمسافة 189 ياردة وهدف ليقود تامبا باي إلى 1-4.",
+      excerpt: "أكدت ESPN وNFL.com فوز تامبا باي 24-16 على ملعب AT&T. دانيلز يعوض المصاب مايفيلد ودالاس تتراجع إلى 2-3.",
+      body: [
+        "ودع تامبا باي بوكانيرز سجل الهزائم الخالي من الانتصارات. في ليلة الخميس على ملعب AT&T، قاد البديل جايلون دانيلز فريقه للفوز 24-16 على دالاس كاوبويز. في غياب الأساسي بيكر مايفيلد المصاب، تمسك الفريق بفرصه في أرلينغتون.",
+        "قدم دانيلز أداء متزنا في ثاني مشاركة أساسية له، مكملا 19 من 25 تمريرة لمسافة 189 ياردة مع هدف وتمرير 23 ياردة ركضا. وأضاف باكي إرفينغ هدفين أحدهما استقبالا والآخر اندفاعا، لتبلغ حصيلة الهجوم 419 ياردة.",
+        "حاولت دالاس العودة بفضل جورج بيكنز الذي سجل 9 استقبالات لمسافة 130 ياردة وهدفا. لكن داك بريسكوت وكاوبويز تعثروا في اللحظات الأخيرة بسبب الأخطاء وضغط الدفاع. دالاس أصبحت 2-3 وتامبا باي 1-4.",
+      ],
+    },
+  },
+  'wnba-semifinals-game3-eve-dream-valkyries-2-0-lead-2026': {
+    fr: {
+      title: "Demi-finales WNBA : Dream et Valkyries mènent 2-0, Liberty et Aces au bord du gouffre",
+      subtitle: "Le match 3 de vendredi soir à New York et Las Vegas place les finalistes de l'an dernier dos au mur.",
+      excerpt: "Atlanta s'impose 101-98 en prolongation et Golden State l'emporte 83-81. Le match 3 apporte un vendredi éliminatoire.",
+      body: [
+        "Les playoffs WNBA arrivent à un tournant décisif ce vendredi soir. Les deux séries de demi-finales sont à 2-0 en faveur des têtes de série inférieures. Le Dream d'Atlanta et les Golden State Valkyries ne sont plus qu'à un succès de la finale, tandis que le Liberty et les Aces jouent leur survie.",
+        "Le match 2 de mercredi a offert un spectacle total. À College Park, Atlanta a dominé New York 101-98 après prolongation. Angel Reese et Jordin Canada ont inscrit 23 points chacune face aux 35 points de Breanna Stewart. Naz Hillmon a inscrit le panier décisif à 20,8 secondes du terme.",
+        "À San Francisco, les Valkyries ont battu Las Vegas 83-81. Tiffany Hayes est sortie du banc pour marquer 21 points, Gabby Williams en ajoutant 20. Veronica Burton a réussi un tir à 3 points crucial et Kiah Stokes a contré Chelsea Gray dans les ultimes secondes. Le match 3 aura lieu vendredi à New York et Las Vegas.",
+      ],
+    },
+    es: {
+      title: "Semifinales WNBA: Dream y Valkyries lideran 2-0 mientras Liberty y Aces rozan la eliminación",
+      subtitle: "El Juego 3 de este viernes en Nueva York y Las Vegas deja a las favoritas contra las cuerdas.",
+      excerpt: "Atlanta ganó 101-98 en la prórroga y Golden State 83-81. El Juego 3 plantea un viernes de eliminación directa.",
+      body: [
+        "Los playoffs de la WNBA afrontan una jornada de máxima tensión este viernes. Ambas semifinales marchan 2-0 para los equipos con peor siembra. Atlanta Dream y Golden State Valkyries están a un triunfo de las Finales, mientras Liberty y Aces necesitan ganar tres seguidos.",
+        "El Juego 2 del miércoles brindó un desenlace electrizante. En College Park, Atlanta superó a Nueva York 101-98 en tiempo extra. Angel Reese y Jordin Canada sumaron 23 puntos cada una, resistiendo los 35 puntos de Breanna Stewart. Naz Hillmon selló la canasta decisiva a 20,8 segundos del final.",
+        "En el Chase Center, las Valkyries ganaron 83-81 a Las Vegas. Tiffany Hayes aportó 21 puntos desde el banquillo y Gabby Williams sumó 20. Veronica Burton encestó un triple decisivo con 41 segundos y Kiah Stokes taponó a Chelsea Gray en la bocina. El Juego 3 se disputa este viernes.",
+      ],
+    },
+    de: {
+      title: "WNBA-Halbfinals: Dream und Valkyries führen 2-0, Liberty und Aces vor dem Aus",
+      subtitle: "Spiel 3 am Freitagabend in New York und Las Vegas bringt den Vorjahresfinalisten ein K.o.-Szenario.",
+      excerpt: "Atlanta siegt 101:98 nach Verlängerung und Golden State setzt sich 83:81 durch. Spiel 3 bringt ein Ausscheidungsspiel am Freitag.",
+      body: [
+        "Die WNBA-Playoffs stehen vor einer Vorentscheidung. Beide Halbfinalserien stehen 2-0 für die Außenseiter. Atlanta Dream und die Golden State Valkyries benötigen nur noch einen Sieg für die Finals, während die New York Liberty und die Las Vegas Aces mit dem Rücken zur Wand stehen.",
+        "Spiel 2 am Mittwoch bot Hochspannung. Atlanta schlug New York mit 101:98 in der Verlängerung. Angel Reese und Jordin Canada erzielten je 23 Punkte, während Breanna Stewart mit 35 Punkten dagegenhielt. Naz Hillmon traf 20,8 Sekunden vor Schluss den entscheidenden Korb.",
+        "Im Chase Center gewannen die Valkyries 83:81 gegen Las Vegas. Tiffany Hayes kam von der Bank für 21 Punkte, Gabby Williams steuerte 20 bei. Veronica Burton traf einen Dreier 41 Sekunden vor dem Ende und Kiah Stokes blockte Chelsea Gray in letzter Sekunde. Spiel 3 folgt am Freitag.",
+      ],
+    },
+    it: {
+      title: "Semifinali WNBA: Dream e Valkyries avanti 2-0, Liberty e Aces a rischio eliminazione",
+      subtitle: "Gara 3 di venerdì a New York e Las Vegas vede le favorite con le spalle al muro.",
+      excerpt: "Atlanta vince 101-98 ai supplementari, Golden State supera Las Vegas 83-81. Gara 3 porta verdetti immediati.",
+      body: [
+        "I playoff WNBA arrivano a un punto di non ritorno venerdì sera. Entrambe le serie di semifinale sono sul 2-0. Le Atlanta Dream e le Golden State Valkyries sono a una sola vittoria dalle Finals, mentre Liberty e Aces sono costrette a vincere tre gare di fila per non essere eliminate.",
+        "Gara 2 di mercoledì ha regalato grandi emozioni. A College Park Atlanta ha piegato New York 101-98 all'overtime. Angel Reese e Jordin Canada hanno segnato 23 punti a testa per respingere i 35 punti di Breanna Stewart. Naz Hillmon ha firmato il canestro decisivo a 20,8 secondi dal termine.",
+        "A San Francisco le Valkyries hanno sconfitto Las Vegas 83-81. Tiffany Hayes ha messo a referto 21 punti dalla panchina e Gabby Williams 20. La tripla di Veronica Burton a 41 secondi e la stoppata di Kiah Stokes su Chelsea Gray hanno blindato il successo. Gara 3 si giocherà stasera.",
+      ],
+    },
+    pl: {
+      title: "Półfinały WNBA: Dream i Valkyries prowadzą 2-0, Liberty i Aces o krok od odpadnięcia",
+      subtitle: "Mecz 3 w Nowym Jorku i Las Vegas stawia zeszłorocznych finalistów pod ścianą.",
+      excerpt: "Atlanta wygrywa 101-98 po dogrywce, a Golden State pokonuje Aces 83-81. Piątkowy mecz 3 to gra o przetrwanie.",
+      body: [
+        "Play-offy WNBA osiągają punkt kulminacyjny. Obie serie półfinałowe stoją 2-0. Atlanta Dream oraz Golden State Valkyries potrzebują tylko jednego zwycięstwa do awansu do finału, podczas gdy New York Liberty i Las Vegas Aces stoją przed widmem eliminacji.",
+        "Mecze nr 2 w środę dostarczyły ogromnych emocji. Atlanta pokonała New York 101-98 po dogrywce. Angel Reese i Jordin Canada zdobyły po 23 punkty, niwelując 35 punktów Breanny Stewart. Decydujące punkty zdobyła Naz Hillmon na 20,8 sekundy przed końcem dogrywki.",
+        "W Chase Center Valkyries wygrały 83-81 z Las Vegas. Tiffany Hayes rzuciła 21 punktów z ławki, a Gabby Williams dołożyła 20. Trójka Veroniki Burton na 41 sekund przed końcem i blok Kiah Stokes na Chelsea Gray przesądziły o wygranej. Mecz nr 3 już w piątek.",
+      ],
+    },
+    zh: {
+      title: "WNBA半决赛：梦想与女武神2-0领先，自由人与王牌面临背水一战",
+      subtitle: "周五晚第3场移师纽约与拉斯维加斯，上赛季冠亚军均站在被淘汰边缘。",
+      excerpt: "亚特兰大加时101-98胜自由人，金州女武神83-81险胜王牌。周五第3场双赛生死战来袭。",
+      body: [
+        "WNBA季后赛在周五迎来生死对决。两组半决赛大比分均为2-0，排名较低的球队占据绝对主动。亚特兰大梦想与金州女武神距离总决赛仅差一场胜利，而去年会师决赛的纽约自由人与拉斯维加斯王牌必须连赢三场才能逆转。",
+        "周三的第2场比赛激烈非凡。在学院公园，梦想队通过加时以101-98力克自由人。安吉尔·里斯与乔丁·加拿大各拿23分，抵挡住了布里安娜·斯图尔特狂砍35分11篮板的表现。纳兹·希尔蒙在加时赛还剩20.8秒时命中关键制胜球。",
+        "在大通中心，女武神以83-81力克王牌。替补登场的海斯砍下21分，威廉姆斯贡献20分。伯顿在比赛还剩41秒时命中关键三分，斯托克斯最后时刻封盖切尔西·格雷的绝杀球。第3场比赛将于周五晚在纽约和拉斯维加斯举行。",
+      ],
+    },
+    ja: {
+      title: "WNBA準決勝：ドリームとヴァルキリーズが2勝0敗、リバティとエーシズは後がない状況に",
+      subtitle: "金曜夜の第3戦で昨季のファイナリストが崖っぷち。ニューヨークとラスベガスで運命の対決。",
+      excerpt: "アトランタが延長戦の末に101-98で勝利し、ゴールデンステイトは83-81で辛勝。金曜の第3戦はエリミネーションゲーム。",
+      body: [
+        "WNBAプレーオフは金曜夜に重大な局面を迎える。準決勝2カードはいずれも下位シードが2勝0敗と王手をかけた。アトランタ・ドリームと新参入のゴールデンステイト・ヴァルキリーズがファイナル進出へあと1勝とし、リバティとエーシズは敗退の危機にある。",
+        "水曜の第2戦は息詰まる大熱戦となった。カレッジパークではアトランタが延長の末にニューヨークを101-98で撃破。アンヘル・リースとジョーディン・カナダが各23点を挙げ、ブリアナ・スチュワートの35得点に立ち向かった。ナズ・ヒルモンが残り20.8秒で勝ち越し点を決めた。",
+        "チェイス・センターではヴァルキリーズがエーシズに83-81で競り勝った。ベンチ出場のティファニー・ヘイズが21点、ギャビー・ウィリアムズが20点を挙げ、バートンが終盤に決勝3ポイントを沈めた。第3戦は金曜夜に開催される。",
+      ],
+    },
+    ko: {
+      title: "WNBA 준결승: 드림과 발키리스 2-0 리드 속 리버티와 에이시스 탈락 위기",
+      subtitle: "뉴욕과 라스베이거스에서 열리는 3차전 더블헤더, 전년도 파이널 팀들이 벼랑 끝에 몰렸다.",
+      excerpt: "애틀랜타 연장 101-98 승리, 골든스테이트 83-81 신승. 금요일 3차전에서 탈락 결정 가능.",
+      body: [
+        "WNBA 플레이오프가 금요일 밤 중요한 분수령을 맞았다. 두 준결승 시리즈 모두 하위 시드가 2-0으로 앞서 있다. 애틀랜타 드림과 골든스테이트 발키리스는 파이널 진출까지 단 1승만을 남겨두고 있으며, 리버티와 에이시스는 3연승이 필요한 절박한 상황이다.",
+        "수요일 2차전은 엄청난 접전이었다. 애틀랜타는 연장전 끝에 뉴욕을 101-98로 꺾었다. 에인절 리스와 조딘 캐나다가 각각 23점씩 기록하며 브리아나 스튜어트의 35점 폭발을 버텨냈고, 힐먼이 종료 20.8초 전 결승골을 터뜨렸다.",
+        "체이스 센터에서는 발키리스가 라스베이거스를 83-81로 제압했다. 벤치에서 나온 티파니 헤이즈가 21점, 개비 윌리엄스가 20점을 올렸다. 버튼의 결승 3점포와 스톡스의 막판 블록이 빛났다. 3차전은 금요일 밤 펼쳐진다.",
+      ],
+    },
+    ar: {
+      title: "نصف نهائي WNBA: دريم وفالكيريز تتقدمان 2-0 وليبرتي وإيسيس على حافة الإقصاء",
+      subtitle: "المباراة 3 مساء الجمعة في نيويورك ولاس فيغاس تضع طرفي نهائي العام الماضي تحت التهديد.",
+      excerpt: "أتلانتا تفوز 101-98 بعد التمديد وغولدن ستيت تحسم مواجهة إيسيس 83-81. إقصاء حاسم الجمعة.",
+      body: [
+        "وصلت تصفيات WNBA إلى منعطف حاسم مساء الجمعة. كلا سلسلتي نصف النهائي تقف عند 2-0 لصالح الفرق الأقل تصنيفا. بات أتلانتا دريم وغولدن ستيت فالكيريز على بعد فوز واحد من النهائي، بينما يواجه نيويورك ليبرتي ولاس فيغاس إيسيس خطر الإقصاء الفوري.",
+        "شهدت المباراة 2 يوم الأربعاء إثارة بالغة. في كوليدج بارك، حسمت أتلانتا فوزها على نيويورك 101-98 بعد التمديد. سجلت كل من أنجيل ريس وجوردين كندا 23 نقطة للتغلب على تألق بريانا ستيوارت بـ35 نقطة، وسجلت هيلتون سلة الفوز قبل 20.8 ثانية من النهاية.",
+        "وفي تشيس سنتر، فازت فالكيريز على إيسيس 83-81. سجلت تيفاني هايز 21 نقطة من مقاعد البدلاء وأضافت غابي ويليامز 20 نقطة، بينما أحرزت بورتون ثلاثية حاسمة. تقام المباراة 3 في نيويورك ولاس فيغاس الليلة.",
+      ],
+    },
+  },
+  'shanghai-masters-2026-r2-hurkacz-stuns-djokovic-zverev-advances': {
+    fr: {
+      title: "Masters de Shanghai : Hubert Hurkacz surprend Novak Djokovic en deux sets",
+      subtitle: "Le Polonais met fin à huit défaites consécutives face au Serbe avec un net 6-4, 6-3 tandis que Zverev et Shelton passent.",
+      excerpt: "Le tableau officiel du Rolex Shanghai Masters confirme la première victoire d'Hurkacz sur Djokovic. Zverev bat Wu 6-4, 7-6.",
+      body: [
+        "La plus grande surprise de la tournée asiatique s'est produite vendredi à Shanghai. Hubert Hurkacz affichait un bilan de 0-8 face à Novak Djokovic. Deux sets plus tard, le Polonais de 27 ans a quitté le court avec une victoire nette 6-4, 6-3, infligeant au quadruple vainqueur son élimination la plus précoce à Shanghai.",
+        "Hurkacz a dominé au service dès les premiers échanges. Auteur de 14 aces et de 84% de points gagnés derrière sa première balle, il n'a concédé aucune balle de break en 78 minutes. Djokovic, vainqueur à Pékin mardi, est apparu émoussé dans les longs échanges et a commis 26 fautes directes.",
+        "Dans les autres matches du deuxième tour, Alexander Zverev a dominé l'invité chinois Yibing Wu 6-4, 7-6 (4). Ben Shelton s'est défait de Daniel Altmaier 6-3, 7-6 (6), tandis que le qualifié japonais Rei Sakamoto a créé la sensation en éliminant Andrey Rublev 6-4, 6-4. Hurkacz affrontera Arthur Rinderknech au troisième tour.",
+      ],
+    },
+    es: {
+      title: "Masters de Shanghái: Hubert Hurkacz sorprende a Novak Djokovic en sets corridos",
+      subtitle: "El polaco corta una racha de ocho derrotas con un 6-4, 6-3 mientras Zverev y Shelton avanzan a dieciseisavos.",
+      excerpt: "El cuadro oficial del Rolex Shanghai Masters confirma la primera victoria de Hurkacz sobre Djokovic. Zverev supera a Wu 6-4, 7-6.",
+      body: [
+        "La mayor sorpresa de la gira asiática de pista rápida llegó este viernes en Shanghái. Hubert Hurkacz llegaba con un balance de 0-8 en el cara a cara ante Novak Djokovic. Dos sets después, el jugador polaco firmó una victoria contundente por 6-4, 6-3, propinando al tetracampeón su despedida más temprana en el torneo.",
+        "Hurkacz desplegó un servicio demoledor desde el inicio. Con 14 saques directos y un 84% de puntos ganados con el primer servicio, no cedió ni una sola bola de rotura en 78 minutos. Djokovic, reciente campeón del China Open en Pekín, acusó el cansancio y cometió 26 errores no forzados.",
+        "En otros choques de segunda ronda, Alexander Zverev contuvo al local Yibing Wu por 6-4, 7-6 (4). Ben Shelton superó a Daniel Altmaier 6-3, 7-6 (6), mientras que la gran sorpresa japonesa, Rei Sakamoto, eliminó a Andrey Rublev 6-4, 6-4. Hurkacz jugará contra Arthur Rinderknech el domingo.",
+      ],
+    },
+    de: {
+      title: "Shanghai Masters: Hubert Hurkacz schockt Novak Djokovic glatt in zwei Sätzen",
+      subtitle: "Der polnische Aufschlagriese beendet seine Negativserie mit einem 6:4, 6:3; Zverev und Shelton erreichen Runde 3.",
+      excerpt: "Das offizielle Tableau bestätigt Hurkaczs ersten Karrieresieg über Djokovic. Zverev schlägt Wu 6:4, 7:6.",
+      body: [
+        "Die größte Überraschung der Herbstsaison ereignete sich am Freitag in Shanghai. Hubert Hurkacz ging mit einer 0:8-Bilanz gegen Novak Djokovic ins Spiel. Nach nur zwei Sätzen verließ der 27-jährige Pole den Platz mit einem souveränen 6:4, 6:3-Erfolg und bescherte dem Rekordsieger sein frühestes Shanghai-Aus.",
+        "Hurkacz dominierte mit seinem Aufschlag nach Belieben: 14 Asse, 84 Prozent gewonnene Punkte beim ersten Aufschlag und kein einziger Breakball in 78 Minuten Spielzeit. Djokovic, der erst am Dienstag den Titel in Peking gewonnen hatte, wirkte müde und beging 26 unerzwungene Fehler.",
+        "In weiteren Zweitrundenpartien behauptete sich Alexander Zverev gegen den Chinesen Yibing Wu mit 6:4, 7:6 (4). Ben Shelton bezwang Daniel Altmaier 6:3, 7:6 (6), während der japanische Qualifikant Rei Sakamoto Andrey Rublev mit 6:4, 6:4 ausschaltete. Hurkacz trifft nun auf Arthur Rinderknech.",
+      ],
+    },
+    it: {
+      title: "Shanghai Masters: Hubert Hurkacz travolge Novak Djokovic in due set",
+      subtitle: "Il polacco spezza la serie negativa con un 6-4, 6-3 mentre Zverev e Shelton raggiungono i sedicesimi.",
+      excerpt: "Il tabellone ufficiale del Rolex Shanghai Masters conferma il primo successo di Hurkacz su Djokovic. Zverev batte Wu 6-4, 7-6.",
+      body: [
+        "La sorpresa più clamorosa della stagione autunnale è andata in scena venerdì a Shanghai. Hubert Hurkacz affrontava Novak Djokovic con un bilancio di 0 vittorie e 8 sconfitte nei precedenti. Il 27enne polacco ha ribaltato la storia con un perentorio 6-4, 6-3, infliggendo al quattro volte campione la sua eliminazione più precoce a Shanghai.",
+        "Hurkacz ha offerto una lezione di servizio: 14 ace, 84% di punti vinti con la prima e nessuna palla break concessa in 78 minuti di gioco. Djokovic, reduce dal trionfo a Pechino, è apparso provato fisicamente e ha commesso 26 errori gratuiti.",
+        "Negli altri incontri di secondo turno, Alexander Zverev ha superato la wild card cinese Yibing Wu 6-4, 7-6 (4). Ben Shelton ha avuto la meglio su Daniel Altmaier 6-3, 7-6 (6), mentre il qualificato giapponese Rei Sakamoto ha sorpreso Andrey Rublev per 6-4, 6-4. Hurkacz affronterà Arthur Rinderknech.",
+      ],
+    },
+    pl: {
+      title: "Shanghai Masters: Hubert Hurkacz sensacyjnie pokonał Novaka Djokovicia w dwóch setach",
+      subtitle: "Polak przełamuje passę ośmiu porażek z Serbem wygraną 6-4, 6-3; Zverev i Shelton meldują się w 3. rundzie.",
+      excerpt: "Oficjalna drabinka Rolex Shanghai Masters potwierdza premierowe zwycięstwo Hurkacza nad Djokoviciem. Zverev ogrywa Wu 6-4, 7-6.",
+      body: [
+        "Największa sensacja jesiennej części sezonu wydarzyła się w piątek w Szanghaju. Hubert Hurkacz przystępował do pojedynku z bilansem 0-8 w bezpośrednich starciach z Novakiem Djokoviciem. Po dwóch setach wrocławianin cieszył się ze zwycięstwa 6-4, 6-3, fundując serbskiemu mistrzowi najwcześniejszą porażkę w historii jego startów w Szanghaju.",
+        "Hurkacz zagrał znakomicie przy własnym podaniu: zaserwował 14 asów, wygrał 84% punktów po pierwszym serwisie i w ciągu 78 minut nie musiał bronić ani jednego break pointa. Djoković, który we wtorek triumfował w Pekinie, wyglądał na zmęczonego i popełnił 26 niewymuszonych błędów.",
+        "W pozostałych meczach 2. rundy Alexander Zverev pokonał Yibinga Wu 6-4, 7-6 (4). Ben Shelton wygrał z Danielem Altmaierem 6-3, 7-6 (6), z kolei japoński kwalifikant Rei Sakamoto sensacyjnie wyeliminował Andrieja Rublowa 6-4, 6-4. W kolejnej rundzie Hurkacz zmierzy się z Arthurem Rinderknechem.",
+      ],
+    },
+    zh: {
+      title: "上海大师赛第2轮：胡尔卡奇直落两盘爆冷淘汰德约科维奇",
+      subtitle: "波兰名将以6-4、6-3终结对阵德约的八连败，兹维列夫与谢尔顿顺利晋级32强。",
+      excerpt: "劳力士上海大师赛官方签表确认胡尔卡奇生涯首胜德约科维奇。兹维列夫6-4、7-6击败吴易昺晋级。",
+      body: [
+        "秋季硬地赛季最大的冷门在周五的上海旗忠网球中心诞生。此前面对德约科维奇遭遇0胜8负的胡尔卡奇，本场发挥无可挑剔，以6-4、6-3直落两盘淘汰四届赛会冠军，送给德约在上海大师赛的最早出局纪录。",
+        "胡尔卡奇的发球局固若金汤，全场轰出14记ACE球，一发得分率高达84%，在78分钟的比赛里未送出任何破发点。周二刚刚在背靠背中网夺冠的德约科维奇在底线多拍中显得体力透支，全场出现26次非受迫性失误。",
+        "第二轮其他比赛中，2号种子兹维列夫以6-4、7-6(4)战胜中国选手吴易昺。谢尔顿以6-3、7-6(6)战胜阿尔特迈尔，而日本资格赛黑马坂本怜以两个6-4爆冷淘汰卢布列夫。胡尔卡奇将在周日的32强战中迎战林德克内希。",
+      ],
+    },
+    ja: {
+      title: "上海マスターズ2回戦：フルカチュがジョコビッチをストレートで破る大番狂わせ",
+      subtitle: "ポーランドの強打者が6-4、6-3で対ジョコビッチ連敗を8でストップ。ズベレフとシェルトンも3回戦へ。",
+      excerpt: "上海マスターズ公式ドローがフルカチュのジョコビッチ戦キャリア初勝利を確認。ズベレフが呉を退ける。",
+      body: [
+        "秋のハードコートシーズン最大の波乱が金曜の上海で起きた。通算対戦成績0勝8敗だったフベルト・フルカチュが、ノバク・ジョコビッチを6-4、6-3で下し、4度の優勝を誇る絶対王者に上海大会史上最も早い敗退を突きつけた。",
+        "フルカチュはサーブで試合を支配した。14本のサービスエースを決め、ファーストサーブ時のポイント獲得率は84%に達し、78分間の試合で一度もブレークポイントを与えなかった。火曜に北京で優勝したばかりのジョコビッチは疲労の色が濃く、26個の凡ミスを重ねた。",
+        "2回戦の他の試合では、第2シードのアレクサンダー・ズベレフが中国の呉易昺を6-4、7-6(4)で退けた。ベン・シェルトンはアルトマイアーにストレート勝ちし、日本の予選勝者である坂本怜がルブレフを6-4、6-4で破る大金星を挙げた。フルカチュは次戦でリンデルクネシュと対戦する。",
+      ],
+    },
+    ko: {
+      title: "상하이 마스터스 2회전: 휴르카츠, 조코비치에 2-0 완승 대이변",
+      subtitle: "폴란드 에이스가 6-4, 6-3으로 상대 8연패 사슬 끊어내며 3회전 진출. 즈베레프와 셸턴도 생존.",
+      excerpt: "롤렉스 상하이 마스터스 공식 대진표가 휴르카츠의 조코비치 상대 첫 승을 확인. 즈베레프는 우이빙을 6-4, 7-6으로 제압.",
+      body: [
+        "가을 하드코트 최대의 이변이 금요일 상하이 치중 테니스 센터에서 일어났다. 후베르트 휴르카츠는 노박 조코비치 상대 8전 전패의 절대적 열세를 딛고 6-4, 6-3 완승을 거두었다. 4회 우승자인 조코비치에게 상하이 대회 사상 가장 이른 탈락을 안겼다.",
+        "휴르카츠의 서브는 무결점이었다. 14개의 에이스와 첫 서브 성공 시 득점률 84%를 기록하며 78분 동안 단 하나의 브레이크 포인트도 내주지 않았다. 화요일 베이징 대회 결승 우승 후 합류한 조코비치는 피로 누적으로 26개의 실책을 범했다.",
+        "다른 2회전 경기에서는 2번 시드 알렉산더 즈베레프가 홈의 우이빙을 6-4, 7-6(4)으로 꺾었다. 벤 셸턴은 알트마이어를 6-3, 7-6(6)으로 꺾었고, 일본 예선 통과자 사카모토 레이가 루블레프를 6-4, 6-4로 잡는 돌풍을 일으켰다. 휴르카츠는 3회전에서 랭데르크네시와 맞붙는다.",
+      ],
+    },
+    ar: {
+      title: "ماسترز شنغهاي: هوركاتش يصعق ديوكوفيتش في مجموعتين دون رد",
+      subtitle: "النجم البولندي ينهي سلسلة 8 هزائم متتالية بفوز 6-4 و6-3 وزفيريف وشيلتون يبلغان الدور الثالث.",
+      excerpt: "أكدت قرعة رولكس شنغهاي ماسترز أول فوز في مسيرة هوركاتش على ديوكوفيتش. زفيريف يهزم وو 6-4 و7-6.",
+      body: [
+        "سجلت ملاعب شنغهاي يوم الجمعة أكبر مفاجآت موسم الملاعب الصلبة. دخل هوبرت هوركاتش المواجهة بسجل 0-8 ضد نوفاك ديوكوفيتش. لكن النجم البولندي البالغ 27 عاما حسم اللقاء بنتيجة 6-4 و6-3، ملحقا بالبطل أسرع خروج له في تاريخ مشاركاته في شنغهاي.",
+        "تألق هوركاتش بإرسالاته القوية، محققا 14 إرسالا ساحقا ونسبة فوز بلغت 84% على الإرسال الأول دون أن يواجه أي نقطة لكسر إرساله طوال 78 دقيقة. وبدا الإرهاق على ديوكوفيتش المتوج بلقب بكين يوم الثلاثاء ليرتكب 26 خطأ سهلا.",
+        "وفي باقي المباريات، تجاوز ألكسندر زفيريف منافسه الصيني وو ييبينغ بنتيجة 6-4 و7-6 (4). وتغلب بن شيلتون على دانييل ألتماير 6-3 و7-6 (6)، في حين فجر الياباني ساكاموتو مفاجأة بإقصاء أندريه روبليف 6-4 و6-4. سيلتقي هوركاتش مع ريندركنيش في الدور الثالث.",
+      ],
+    },
+  },
+  'baycurrent-classic-yokohama-round2-mitchell-bridgeman-lead-2026': {
+    fr: {
+      title: "Baycurrent Classic : Keith Mitchell et Jacob Bridgeman co-leaders à 11 sous le par",
+      subtitle: "Le Yokohama Country Club livre de petits scores alors qu'Homa, Bauchou, Kohles et Meissner restent à deux coups.",
+      excerpt: "Le classement du PGA Tour place Mitchell et Bridgeman à égalité en tête à -11 après deux tours au Japon.",
+      body: [
+        "Le circuit PGA fait étape au Japon pour la course d'automne de la FedExCup, et le sommet du classement au Yokohama Country Club est particulièrement dense. Keith Mitchell et Jacob Bridgeman partagent la tête du tournoi à 11 sous le par après deux tours maîtrisés sur le parcours Ouest (par 71).",
+        "Mitchell (66-65) et Bridgeman (65-66) affichent un total de 131 coups après 36 trous, sans aucun bogey sur le retour vendredi. Juste derrière à 9 sous le par se trouve un groupe de quatre poursuivants composé de Max Homa, Zach Bauchou, Ben Kohles et Mac Meissner. Homa a signé une carte de 67 avec cinq birdies pour rester en embuscade.",
+        "Plus bas sur le tableau, Justin Thomas partage la 7e place à 8 sous le par avec Stephan Jaeger et Min Woo Lee. Le favori local Hideki Matsuyama est à quatre longueurs à 7 sous le par après un 68 vendredi. Sans cut cette semaine, les 72 joueurs disputeront les quatre tours.",
+      ],
+    },
+    es: {
+      title: "Baycurrent Classic: Keith Mitchell y Jacob Bridgeman comparten el liderato con 11 bajo par",
+      subtitle: "El Yokohama Country Club registra bajas tarjetas con Homa, Bauchou, Kohles y Meissner a dos golpes.",
+      excerpt: "El leaderboard del PGA Tour sitúa a Mitchell y Bridgeman empatados en la cima con -11 tras dos rondas en Japón.",
+      body: [
+        "El otoño del PGA Tour recaló en Japón esta semana y la clasificación en el Yokohama Country Club está al rojo vivo. Keith Mitchell y Jacob Bridgeman comparten la cabeza del torneo con 11 bajo par tras dos rondas impecables en el recorrido par 71 del West Course.",
+        "Tanto Mitchell (66-65) como Bridgeman (65-66) suman 131 golpes tras 36 hoyos, completando la segunda vuelta sin bogeys el viernes. A dos impactos (-9) acecha un cuarteto formado por Max Homa, Zach Bauchou, Ben Kohles y Mac Meissner. Homa firmó una tarjeta de 67 golpes con cinco birdies.",
+        "Justin Thomas marcha séptimo con 8 bajo par junto a Stephan Jaeger y Min Woo Lee. El ídolo local Hideki Matsuyama está a cuatro golpes con -7 tras un 68 el viernes. Al no haber corte en este torneo de 72 jugadores, todo el plantel disputará el fin de semana por los 8 millones de dólares en premios.",
+      ],
+    },
+    de: {
+      title: "Baycurrent Classic: Keith Mitchell und Jacob Bridgeman teilen sich die Führung bei 11 unter Par",
+      subtitle: "Im Yokohama Country Club fallen niedrige Scores; Homa, Bauchou, Kohles und Meissner lauern zwei Schläge zurück.",
+      excerpt: "Das PGA-Tour-Leaderboard führt Mitchell und Bridgeman mit 11 unter Par nach zwei Runden in Japan an der Spitze.",
+      body: [
+        "Der FedExCup Fall der PGA Tour gastiert in Japan, und an der Spitze des Yokohama Country Club geht es eng zu. Keith Mitchell und Jacob Bridgeman teilen sich nach zwei starken Runden auf dem Par-71-Kurs mit 11 unter Par die Führung.",
+        "Beide Spieler, Mitchell (66-65) und Bridgeman (65-66), stehen bei 131 Schlägen nach 36 Löchern und blieben am Freitag auf den hinteren neun Löchern fehlerfrei. Zwei Schläge dahinter bei 9 unter Par lauert eine Vierergruppe mit Max Homa, Zach Bauchou, Ben Kohles und Mac Meissner. Homa spielte eine 67 mit fünf Birdies.",
+        "Justin Thomas liegt mit 8 unter Par auf dem geteilten siebten Rang, gemeinsam mit Stephan Jaeger und Min Woo Lee. Publikumsliebling Hideki Matsuyama folgt bei 7 unter Par nach einer 68er-Runde. Da es bei dem 72-Mann-Feld keinen Cut gibt, spielen alle Profis bis zum Sonntag.",
+      ],
+    },
+    it: {
+      title: "Baycurrent Classic: Keith Mitchell e Jacob Bridgeman in vetta a 11 sotto il par",
+      subtitle: "Al Yokohama Country Club punteggi bassi: Homa, Bauchou, Kohles e Meissner a due colpi di distacco.",
+      excerpt: "La classifica PGA Tour vede Mitchell e Bridgeman appaiati al comando a -11 dopo due giri in Giappone.",
+      body: [
+        "Il PGA Tour fa tappa in Giappone per le FedExCup Fall series, e la graduatoria al Yokohama Country Club è cortissima. Keith Mitchell e Jacob Bridgeman guidano la classifica a 11 sotto il par dopo due giri impeccabili sul percorso par 71 del West Course.",
+        "Mitchell (66-65) e Bridgeman (65-66) hanno completato le prime 36 buche in 131 colpi, senza commettere bogey nelle seconde nove buche di venerdì. A due lunghezze di distanza (-9) c'è un quartetto composto da Max Homa, Zach Bauchou, Ben Kohles e Mac Meissner. Homa ha girato in 67 con cinque birdie.",
+        "Justin Thomas è settimo a -8 insieme a Stephan Jaeger e Min Woo Lee. Il beniamino di casa Hideki Matsuyama insegue a 7 sotto il par dopo un secondo giro in 68 colpi. Senza taglio per i 72 partenti, tutti i giocatori saranno in gara nel fine settimana per contendersi il montepremi di 8 milioni di dollari.",
+      ],
+    },
+    pl: {
+      title: "Baycurrent Classic: Keith Mitchell i Jacob Bridgeman na czele z wynikiem 11 poniżej par",
+      subtitle: "W Yokohama Country Club padają niskie wyniki; Homa, Bauchou, Kohles i Meissner tracą tylko dwa uderzenia.",
+      excerpt: "Tabela PGA Tour wskazuje remis Mitchella i Bridgemana na prowadzeniu z wynikiem -11 po dwóch rundach w Japonii.",
+      body: [
+        "Cykl PGA Tour zawitał w tym tygodniu do Japonii, a rywalizacja w Yokohama Country Club przynosi znakomite wyniki. Keith Mitchell i Jacob Bridgeman dzielą prowadzenie z wynikiem 11 poniżej par po dwóch świetnych rundach na polu par 71.",
+        "Zarówno Mitchell (66-65), jak i Bridgeman (65-66) uzyskali 131 uderzeń po 36 dołkach, unikając bogeyów w drugiej dziewiątce w piątek. Dwa uderzenia za nimi (-9) plasuje się czterech graczy: Max Homa, Zach Bauchou, Ben Kohles oraz Mac Meissner. Homa zanotował rundę 67 z pięcioma birdie.",
+        "Justin Thomas zajmuje siódme miejsce z wynikiem 8 poniżej par, dzieląc je ze Stephanem Jaegerem i Min Woo Lee. Ulubieniec miejscowej publiczności Hideki Matsuyama traci cztery uderzenia (-7) po piątkowej rundzie 68. Turniej nie przewiduje cuta, więc cała 72-osobowa stawka zagra w weekend.",
+      ],
+    },
+    zh: {
+      title: "横滨Baycurrent精英赛：米切尔与布里奇曼以低于标准杆11杆并列领跑",
+      subtitle: "横滨乡村俱乐部低杆频现，霍马、鲍肖、科尔斯与梅斯纳落后两杆并列第三。",
+      excerpt: "美巡赛积分榜显示米切尔与布里奇曼在日本前两轮打完后以-11杆并列榜首。",
+      body: [
+        "美巡赛秋季联邦快递杯赛事本周来到日本横滨乡村俱乐部，前两轮过后战况胶着。基斯·米切尔与雅各布·布里奇曼在标准杆71杆的西球场表现出色，以低于标准杆11杆的总成绩并列领跑半程。",
+        "米切尔（66-65杆）与布里奇曼（65-66杆）前36洞总成绩均为131杆，两人周五在后九洞均未吞下任何柏忌。落后两杆的9언더파梯队包括马克斯·霍马、扎克·鲍肖、本·科尔斯和麦克·梅斯纳。霍马次轮交出67杆，抓下5只小鸟保持在争冠行列。",
+        "贾斯汀·托马斯以8언더파并列第七，同组的还有德国选手耶格尔与澳大利亚名将李旻宇。日本名将松山英树次轮打出68杆，以7언더파落后4杆。本次72人赛事不设晋级线，全员将参加周末后两轮的角逐。",
+      ],
+    },
+    ja: {
+      title: "ベイカレント・クラシック：キース・ミッチェルとジェイコブ・ブリッジマンが通算11アンダーで首位タイ",
+      subtitle: "横浜カントリークラブで好スコア続出。ホーマ、バウチョウ、コールズ、マイスナーが2打差で追う。",
+      excerpt: "PGAツアー公式リーダーボードでミッチェルとブリッジマンが2日目を終えて通算11アンダー首位タイに並ぶ。",
+      body: [
+        "PGAツアーのフェデックスカップ・フォールが日本で開催され、横浜カントリークラブ西コース（パー71）で熱戦が繰り広げられている。キース・ミッチェルとジェイコブ・ブリッジマンが通算11アンダーで首位を分け合っている。",
+        "ミッチェル（66-65）とブリッジマン（65-66）は36ホールを通算131で回り、金曜のバックナインをノーボギーで乗り切った。2打差の9アンダーにはマックス・ホーマ、ザック・バウチョウ、ベン・コールズ、マック・マイスナーの4人が並ぶ。ホーマは5バーディーの67をマークした。",
+        "ジャスティン・トーマスが通算8アンダーで7位タイ、地元期待の松山英樹は第2ラウンドを68で回り通算7アンダーの4打差につけている。72人の限定フィールドで予選落ちがないため、全選手が週末の決勝ラウンドに進む。",
+      ],
+    },
+    ko: {
+      title: "베이커런트 클래식: 키스 미첼과 제이콥 브리지먼, 11언더파 공동 선두",
+      subtitle: "요코하마 컨트리 클럽서 버디 행진. 호마, 바우초, 콜스, 마이스너가 2타 차 추격.",
+      excerpt: "PGA 투어 리더보드에서 미첼과 브리지먼이 일본 대회 2라운드 종료 기준 11언더파로 공동 선두에 올랐다.",
+      body: [
+        "PGA 투어 페덱스컵 가을 시리즈가 일본 요코하마 컨트리 클럽에서 열린 가운데 선두권 경쟁이 치열하다. 키스 미첼과 제이콥 브리지먼이 파71 서코스에서 이틀 연속 맹타를 휘두르며 11언더파 공동 선두에 자리했다.",
+        "미첼(66-65)과 브리지먼(65-66)은 나란히 131타를 기록했고, 금요일 후반 9홀을 보기 없이 깔끔하게 막았다. 2타 뒤진 9언더파에는 맥스 호마, 잭 바우초, 벤 콜스, 맥 마이스너 4명이 포진했다. 호마는 5버디를 낚으며 67타를 쳤다.",
+        "저스틴 토머스는 8언더파 공동 7위에 자리했고, 개최국 스타 마쓰야마 히데키는 2라운드 68타를 기록하며 7언더파로 4타 차 추격을 이어갔다. 72명 전원이 컷 탈락 없이 주말 3, 4라운드를 치른다.",
+      ],
+    },
+    ar: {
+      title: "بايكرنت كلاسيك: كيث ميتشل وجيكوب بريدجمان يتقاسمان الصدارة بـ11 تحت المعدل",
+      subtitle: "نادي يوكوهاما الريفي يشهد نتائج لافتة وهوما وباتشو وكولز وميسنر على بعد ضربتين.",
+      excerpt: "تضع لوحة صدارة جولة PGA ميتشل وبريدجمان متعادلين في الصدارة بـ11 تحت المعدل بعد جولتين في اليابان.",
+      body: [
+        "حطت منافسات جولة PGA رحالها في اليابان ضمن سباق الخريف، لتشهد قمة الترتيب في نادي يوكوهاما الريفي تنافسا شديدا. يتقاسم كيث ميتشل وجيكوب بريدجمان صدارة البطولة بـ11 ضربة تحت المعدل بعد جولتين متألقتين على الملعب الغربي (بار 71).",
+        "سجل كل من ميتشل (66-65) وبريدجمان (65-66) مجموع 131 ضربة بعد 36 حفرة دون ارتكاب أي أخطاء في الحفر التسع الأخيرة يوم الجمعة. وخلفهما بفارق ضربتين (-9) يقبع ماكس هوما وزاك باتشو وبن كولز وماك ميسنر. أنهى هوما الجولة الثانية بـ67 ضربة.",
+        "ويتقاسم جاستن توماس المركز السابع بـ8 تحت المعدل مع ستيفان ياغر ومين وو لي، بينما يقف نجم اليابان هيديكي ماتسوياما على بعد 4 ضربات (-7) بعد تسجيل 68 ضربة. في غياب التصفية لـ72 لاعبا، ستخوض المجموعة كاملة منافسات عطلة نهاية الأسبوع.",
+      ],
+    },
+  },
+  'singapore-gp-sprint-qualifying-verstappen-pole-russell-front-row-2026': {
+    fr: {
+      title: "Grand Prix de Singapour : Max Verstappen décroche la pole du Sprint devant George Russell",
+      subtitle: "Red Bull devance Mercedes de 0,120 seconde sous les projecteurs de Marina Bay tandis qu'Antonelli se classe septième.",
+      excerpt: "Formula1.com confirme le chrono de 1:31.156 de Verstappen pour le Sprint de samedi. Russell 2e, Leclerc 3e, Antonelli 7e.",
+      body: [
+        "Les week-ends au format sprint ne laissent aucune place à l'erreur, et le circuit urbain de Marina Bay a offert un dénouement intense vendredi soir. Max Verstappen a décroché la pole position du Sprint de 100 kilomètres au volant de sa Red Bull en signant un tour en 1:31.156 sous le ciel nocturne de Singapour.",
+        "Verstappen a devancé George Russell sur sa Mercedes de 0,120 seconde seulement. Russell, qui avait signé le meilleur chrono de l'unique séance d'essais libres plus tôt dans la journée, s'est assuré une place sur la première ligne de départ pour le Sprint. Charles Leclerc a pris la troisième place pour Ferrari (+0,243), juste devant Oscar Piastri (+0,298) et Lando Norris (+0,431).",
+        "Le leader du championnat du monde Kimi Antonelli a connu une qualification difficile. Gêné par le trafic lors de son tour de préparation et coupable d'un écart au virage 14, l'Italien de 20 ans doit se contenter du septième temps (+0,693). Antonelli compte 84 points d'avance sur Russell (320 contre 236), mais son départ en quatrième ligne samedi mettra son sang-froid à l'épreuve.",
+      ],
+    },
+    es: {
+      title: "Gran Premio de Singapur: Max Verstappen logra la pole al sprint por delante de George Russell",
+      subtitle: "Red Bull supera a Mercedes por 0,120 segundos bajo los focos de Marina Bay mientras Antonelli clasifica séptimo.",
+      excerpt: "Formula1.com confirma la pole de Verstappen con 1:31.156 para el Sprint del sábado. Russell 2º, Leclerc 3º y Antonelli 7º.",
+      body: [
+        "Los fines de semana con formato sprint no perdonan errores, y la noche del viernes en el circuito urbano de Marina Bay brindó emoción inmediata. Max Verstappen se adjudicó la pole para la carrera sprint de 100 kilómetros del sábado al marcar un crono de 1:31.156 con su Red Bull.",
+        "Verstappen superó a George Russell por apenas 0,120 segundos. El británico de Mercedes, que había liderado la única sesión de entrenamientos libres, saldrá en primera línea junto al neerlandés. Charles Leclerc finalizó tercero con Ferrari (+0,243), seguido de Oscar Piastri (+0,298) y Lando Norris (+0,431).",
+        "El líder del campeonato Kimi Antonelli no encontró su ritmo y saldrá séptimo (+0,693) tras cometer un error en la curva 14. El italiano aventaja a Russell en 84 puntos (320 a 236) en el mundial de pilotos, pero partir desde la cuarta fila supondrá un reto importante en la carrera al sprint del sábado.",
+      ],
+    },
+    de: {
+      title: "Großer Preis von Singapur: Max Verstappen sichert sich Sprint-Pole vor George Russell",
+      subtitle: "Red Bull schlägt Mercedes um 0,120 Sekunden unter dem Flutlicht von Marina Bay; Antonelli wird Siebter.",
+      excerpt: "Formula1.com bestätigt Verstappens Pole-Zeit von 1:31.156 für den Samstagssprint. Russell Zweiter, Leclerc Dritter, Antonelli Siebter.",
+      body: [
+        "Sprint-Wochenenden verzeihen keine Fehler, und der Freitagabend auf dem Marina Bay Street Circuit sorgte für Hochspannung. Max Verstappen sicherte sich die Pole-Position für den 100-Kilometer-Sprint am Samstag mit einer Rundenzeit von 1:31.156 im Red Bull.",
+        "Verstappen verwies George Russell im Mercedes um nur 0,120 Sekunden auf Rang zwei. Russell, der bereits das einzige freie Training dominiert hatte, steht damit in der ersten Startreihe. Charles Leclerc wurde im Ferrari Dritter (+0,243), knapp vor Oscar Piastri (+0,298) und Lando Norris (+0,431).",
+        "WM-Spitzenreiter Kimi Antonelli erlebte eine knifflige Session. Nach Verkehr auf seiner Aufwärmrunde und einem Rutscher in Kurve 14 reichte es nur für Startplatz sieben (+0,693). Antonelli führt die Fahrerwertung mit 84 Punkten Vorsprung vor Russell an (320 zu 236), muss sich im Sprint am Samstag aber durch das Feld kämpfen.",
+      ],
+    },
+    it: {
+      title: "GP Singapore: Max Verstappen conquista la pole della Sprint davanti a George Russell",
+      subtitle: "Red Bull batte Mercedes per 0,120 secondi sotto i riflettori di Marina Bay; Antonelli chiude al settimo posto.",
+      excerpt: "Formula1.com conferma il tempo di 1:31.156 di Verstappen per la Sprint di sabato. Russell secondo, Leclerc terzo, Antonelli settimo.",
+      body: [
+        "Nei fine settimana con la Sprint non ci sono margini di errore, e venerdì sera a Marina Bay lo spettacolo è stato all'altezza delle attese. Max Verstappen ha conquistato la pole position per la gara Sprint di sabato con un tempo di 1:31.156 sulla sua Red Bull.",
+        "L'olandese ha preceduto George Russell su Mercedes di appena 0,120 secondi. Russell partirà in prima fila dopo un venerdì molto competitivo. Charles Leclerc ha ottenuto il terzo tempo con la Ferrari (+0,243), precedendo Oscar Piastri (+0,298) e Lando Norris (+0,431).",
+        "Serata complicata per il leader del mondiale Kimi Antonelli, che partirà settimo (+0,693) a causa del traffico e di un errore in curva 14. L'italiano ha un margine di 84 punti su Russell in classifica piloti (320 a 236), ma dovrà rimontare dalla quarta fila nella Sprint di sabato.",
+      ],
+    },
+    pl: {
+      title: "Grand Prix Singapuru: Max Verstappen zdobywa pole position do sprintu przed George'em Russellem",
+      subtitle: "Red Bull wyprzedza Mercedesa o 0,120 sekundy pod światłami Marina Bay; Antonelli ruszy z siódmego pola.",
+      excerpt: "Formula1.com potwierdza czas Verstappena 1:31.156 do sobotniego sprintu. Russell drugi, Leclerc trzeci, Antonelli siódmy.",
+      body: [
+        "Weekend ze sprintem nie wybacza potknięć, a piątkowy wieczór na torze Marina Bay przyniósł kapitalną walkę o ułamki sekund. Max Verstappen wywalczył pole position do sobotniego 100-kilometrowego sprintu, uzyskując czas 1:31.156 w barwach Red Bulla.",
+        "Holender wyprzedził kierowcę Mercedesa George'a Russella o zaledwie 0,120 sekundy. Russell zapewnił sobie start z pierwszego rzędu. Charles Leclerc zajął trzecie miejsce dla Ferrari (+0,243), wyprzedzając duet McLarena: Oscara Piastriego (+0,298) i Lando Norrisa (+0,431).",
+        "Lider klasyfikacji generalnej Kimi Antonelli zajął siódme miejsce (+0,693) po kłopotach z ruchem na torze i błędzie w zakręcie 14. Włoch ma 84 punkty przewagi nad Russellem w mistrzostwach świata (320 do 236), ale w sobotnim sprincie czeka go trudne zadanie przebijania się z czwartego rzędu.",
+      ],
+    },
+    zh: {
+      title: "新加坡大奖赛：维斯塔潘击败拉塞尔夺得冲刺排位赛杆位",
+      subtitle: "红牛在滨海湾夜灯下以0.120秒险胜梅赛德斯，积分领跑者安东内利位列第七。",
+      excerpt: "Formula1.com确认维斯塔潘以1分31秒156斩获周六冲刺赛杆位。拉塞尔第二，勒克莱尔第三，安东内利第七。",
+      body: [
+        "冲刺周末没有任何容错空间，周五晚上的滨海湾街道赛道立刻上演了一场毫厘之间的激战。马克斯·维斯塔潘在湿热的狮城夜空下做出1分31秒156的最快圈速，为红牛车队拿下周六百公里冲刺赛的发车杆位。",
+        "维斯塔潘仅以0.120秒的微弱优势险胜梅赛德斯车手乔治·拉塞尔。拉塞尔在日间的唯一一次自由练习赛中登顶，正赛排位中继续保持强势并锁定前排发车。法拉利车队的夏尔·勒克莱尔排名第三（+0.243），紧随其后的是迈凯伦双雄皮亚斯特里（+0.298）与诺里斯（+0.431）。",
+        "车手积分领跑者基米·安东内利经历了一场起伏的排位赛。这位20岁的意大利新星在出场圈受慢车影响并在14号弯走大，最终仅获第七名（+0.693）。虽然安东内利在积分榜上以320分对236分领先拉塞尔84分，但在周六冲刺赛中从第四排发车将极大考验其超车能力。",
+      ],
+    },
+    ja: {
+      title: "シンガポールGP：マックス・フェルスタッペンがラッセルを抑えてスプリントポール獲得",
+      subtitle: "マリーナベイのナイター照明の下、レッドブルが0.120秒差でメルセデスに競り勝つ。アントネッリは7番手。",
+      excerpt: "Formula1.comが土曜スプリントに向けたフェルスタッペンの1分31秒156でのポールタイムを確認。ラッセル2位、ルクレール3位。",
+      body: [
+        "スプリント週末はミスが許されない。マリーナ・ベイ・ストリート・サーキットで行われたスプリント予選で、マックス・フェルスタッペンが1分31秒156を叩き出し、土曜の100kmスプリントレースのポールポジションを獲得した。",
+        "フェルスタッペンはメルセデスのジョージ・ラッセルをわずか0.120秒差で振り切った。ラッセルはフリー走行トップの勢いを保ち、最前列グリッドを確保した。フェラーリのシャルル・ルクレールが3位（+0.243）に入り、マクラーレンのピアストリとノリスが続いた。",
+        "ドライバーズ選手権首位のキミ・アントネッリはアタックラップ前のトラフィックとターン14でのオーバーシュートに苦しみ、7番手（+0.693）に留まった。アントネッリはラッセルに対して84点差のリード（320対236）を持つが、土曜スプリントでは4列目からの巻き返しが求められる。",
+      ],
+    },
+    ko: {
+      title: "싱가포르 GP: 막스 페르스타펜, 조지 러셀 제치고 스프린트 폴 포지션 획득",
+      subtitle: "마리나 베이 야간 조명 아래 레드불이 메르세데스를 0.120초 차로 제압. 안토넬리는 7위.",
+      excerpt: "Formula1.com이 토요일 스프린트를 앞두고 페르스타펜의 1분 31초 156 폴 기록을 확인. 러셀 2위, 르클레르 3위, 안토넬리 7위.",
+      body: [
+        "스프린트 주말은 한 치의 오차도 허용하지 않는다. 금요일 밤 마리나 베이 스트리트 서킷에서 열린 스프린트 퀄리파잉에서 막스 페르스타펜이 1분 31초 156을 기록하며 토요일 스프린트 폴 포지션을 차지했다.",
+        "페르스타펜은 메르세데스의 조지 러셀을 단 0.120초 차이로 따돌렸다. 낮 연습주행에서 1위를 차지했던 러셀은 소프트 타이어에서 뛰어난 접지력을 끌어내며 프론트 로우를 확보했다. 페라리의 샤를 르클레르가 3위(+0.243), 맥라렌의 피아스트리와 노리스가 뒤를 이었다.",
+        "챔피언십 선두 키미 안토넬리는 14번 코너에서 라인을 벗어나며 7위(+0.693)에 머물렀다. 안토넬리는 드라이버 순위에서 러셀에 84점 앞서 있지만(320점 대 236점), 토요일 스프린트에서 4열 출발의 부담을 안게 되었다.",
+      ],
+    },
+    ar: {
+      title: "جائزة سنغافورة الكبرى: ماكس فيرستابن يحسم قطب الانطلاق للسباق القصير أمام راسل",
+      subtitle: "ريد بُل تتفوق على مرسيدس بفارق 0.120 ثانية تحت أضواء مارينا باي وأنطونيلي ينطلق سابعا.",
+      excerpt: "أكدت Formula1.com زمن فيرستابن البالغ 1:31.156 لسباق السرعة يوم السبت. راسل ثانيا ولوكلير ثالثا وأنطونيلي سابعا.",
+      body: [
+        "لا مجال للخطأ في عطلات نهاية الأسبوع ذات السباقات القصيرة، وقدمت حلبة مارينا باي مساء الجمعة إثارة كبرى. حسم ماكس فيرستابن قطب الانطلاق للسباق القصير لمسافة 100 كيلومتر بعد تسجيله 1:31.156 في أجواء سنغافورة الليلية.",
+        "تفوق فيرستابن على سائق مرسيدس جورج راسل بفارق 0.120 ثانية فقط. وكان راسل قد تصدر التجارب الحرة في وقت سابق ليضمن الانطلاق من الصف الأول. وجاء شارل لوكلير ثالثا مع فيراري (+0.243)، متبوعا بثنائي ماكلارين أوسكار بياستري ولاندو نوريس.",
+        "وعانى متصدر البطولة كيمي أنطونيلي في حصته التأهيلية ليحتل المركز السابع (+0.693) بعد مواجهة زحام في لفته التحضيرية وخطأ في المنعطف 14. يتقدم أنطونيلي بفارق 84 نقطة على راسل في الترتيب العام (320 مقابل 236)، لكن انطلاقه من الصف الرابع سيشكل اختبارا قويا له السبت.",
+      ],
+    },
+  },
+  'premier-league-mw6-eve-city-perfect-anfield-clash-2026': {
+    fr: {
+      title: "Retour de la Premier League : Manchester City met son sans-faute en jeu à Anfield",
+      subtitle: "La 6e journée reprend après la trêve internationale avec City en tête avec 15 points avant son choc face à Liverpool.",
+      excerpt: "La Premier League reprend le samedi 10 octobre. Arsenal reçoit Leeds et dimanche verra le duel au sommet Liverpool - Manchester City.",
+      body: [
+        "La trêve internationale est terminée et la Premier League reprend ses droits ce samedi avec la 6e journée. Après deux semaines de Ligue des Nations où l'Espagne et le Portugal ont composté leur billet pour les quarts de finale, le championnat anglais revient au premier plan. Manchester City trône seul en tête avec 15 points en cinq matches.",
+        "Le début de saison des hommes de Pep Guardiola est remarquable avec 13 buts marqués et seulement 5 encaissés. Arsenal suit de près avec 12 points, devant la surprenante équipe de Brighton (10 points). Cinq clubs se bousculent à 9 points : Brentford, Leeds, Liverpool, Everton et Hull City. En bas de tableau, Tottenham et Fulham cherchent encore leur premier succès.",
+        "Samedi, Arsenal recevra Leeds à l'Emirates tandis que Manchester United accueillera Tottenham à Old Trafford. Le sommet du week-end aura lieu dimanche après-midi à Anfield, où Liverpool défiera Manchester City. Les Reds sont invaincus cette saison mais devront museler Erling Haaland, buteur lors de chacune des cinq premières journées.",
+      ],
+    },
+    es: {
+      title: "Vuelve la Premier League: el Manchester City expone su pleno de victorias en Anfield",
+      subtitle: "La jornada 6 arranca tras el parón de selecciones con el City líder con 15 puntos antes del partidazo ante el Liverpool.",
+      excerpt: "La Premier League regresa el sábado 10 de octubre. Arsenal recibe a Leeds y el domingo depara el esperado Liverpool ante Manchester City.",
+      body: [
+        "El parón de selecciones ha concluido y la Premier League se reanuda este sábado con la jornada 6. Tras dos semanas de Nations League en las que España y Portugal sellaron su pase a cuartos, la emoción liguera regresa a Inglaterra. En la cúspide se mantiene el Manchester City con 15 puntos de 15 posibles.",
+        "El arranque del City cuenta con 13 goles a favor y solo 5 en contra. El Arsenal le persigue con 12 puntos, seguido por el sorprendente Brighton con 10. Un pelotón de cinco clubes suma 9 puntos: Brentford, Leeds, Liverpool, Everton y Hull City. En la cola, Tottenham y Fulham buscan aún su primer triunfo del curso.",
+        "El sábado, el Arsenal recibe al Leeds en el Emirates y el Manchester United se mide al Tottenham en Old Trafford. Pero el duelo estelar llegará el domingo por la tarde en Anfield, donde el Liverpool recibe al Manchester City. El equipo de Arne Slot intentará frenar a un Erling Haaland desatado que ha marcado en las cinco jornadas anteriores.",
+      ],
+    },
+    de: {
+      title: "Premier League kehrt zurück: Manchester City setzt weiße Weste in Anfield aufs Spiel",
+      subtitle: "Spieltag 6 beginnt nach der Länderspielpause mit City an der Spitze mit 15 Punkten vor dem Gipfeltreffen gegen Liverpool.",
+      excerpt: "Die Premier League startet am Samstag, 10. Oktober, wieder durch. Arsenal empfängt Leeds, am Sonntag steigt das Topspiel Liverpool gegen City.",
+      body: [
+        "Die Länderspielpause ist vorüber und die Premier League meldet sich am Samstag mit dem 6. Spieltag zurück. Nachdem Spanien und Portugal in der Nations League das Viertelfinale erreichten, rollt nun wieder der Ball in England. An der Spitze thront Manchester City als einziges Team mit optimalen 15 Punkten aus fünf Partien.",
+        "Citys Start beeindruckt mit 13 erzielten und nur 5 kassierten Toren. Arsenal folgt mit 12 Punkten auf Rang zwei vor der Überraschungsmannschaft Brighton (10 Punkte). Fünf Klubs stehen bei 9 Zählern: Brentford, Leeds, Liverpool, Everton und Hull City. Am Tabellenende warten Tottenham und Fulham noch auf ihren ersten Saisonsieg.",
+        "Am Samstag empfängt Arsenal Leeds United, während Manchester United im Old Trafford auf Tottenham trifft. Der absolute Höhepunkt des Wochenendes folgt am Sonntagnachmittag in Anfield, wo Liverpool Manchester City herausfordert. Liverpool ist ungeschlagen, trifft aber auf Erling Haaland, der in allen bisherigen Saisonspielen traf.",
+      ],
+    },
+    it: {
+      title: "Torna la Premier League: il Manchester City difende il primato a punteggio pieno ad Anfield",
+      subtitle: "La 6ª giornata riparte dopo la sosta per le nazionali con il City in vetta a quota 15 punti prima della sfida con il Liverpool.",
+      excerpt: "La Premier League riparte sabato 10 ottobre. L'Arsenal ospita il Leeds, mentre domenica c'è Liverpool contro Manchester City.",
+      body: [
+        "La pausa per le nazionali è alle spalle e la Premier League riparte sabato con la sesta giornata. Dopo la Nations League che ha promosso Spagna e Portogallo ai quarti, i campionati per club tornano protagonisti. Il Manchester City guida la classifica a punteggio pieno con 15 punti in cinque giornate.",
+        "L'avvio dei campioni in carica registra 13 reti segnate e appena 5 subite. L'Arsenal insegue a quota 12 punti, seguito dalla rivelazione Brighton a 10. Un gruppo di cinque squadre staziona a 9 punti: Brentford, Leeds, Liverpool, Everton e Hull City. In fondo, Tottenham e Fulham cercano ancora la prima vittoria.",
+        "Sabato l'Arsenal attende il Leeds all'Emirates, mentre il Manchester United ospita il Tottenham a Old Trafford. La sfida più attesa andrà in scena domenica pomeriggio ad Anfield tra Liverpool e Manchester City. I Reds proveranno a fermare Erling Haaland, andato a segno in tutte le prime cinque gare di campionato.",
+      ],
+    },
+    pl: {
+      title: "Premier League wraca do gry: Manchester City broni perfekcyjnego bilansu na Anfield",
+      subtitle: "6. kolejka rusza po przerwie reprezentacyjnej z Manchesterem City na czele z 15 punktami przed szlagierem z Liverpoolem.",
+      excerpt: "Premier League wznawia rozgrywki w sobotę 10 października. Arsenal podejmie Leeds, a w niedzielę hit Liverpool kontra Manchester City.",
+      body: [
+        "Przerwa reprezentacyjna dobiegła końca i Premier League wznawia rywalizację w sobotę spotkaniami 6. kolejki. Po meczach Ligi Narodów, w których awans przypieczętowały Hiszpania i Portugalia, uwaga kibiców znów skupia się na lidze angielskiej. Na szczycie tabeli z kompletem 15 punktów znajduje się Manchester City.",
+        "Początek sezonu w wykonaniu City to 13 zdobytych bramek i tylko 5 straconych. Drugi jest Arsenal z 12 punktami, a trzeci rewelacyjny Brighton z 10. Aż pięć zespołów ma na koncie 9 punktów: Brentford, Leeds, Liverpool, Everton i Hull City. Na dole tabeli Tottenham i Fulham wciąż czekają na pierwsze zwycięstwo.",
+        "W sobotę Arsenal podejmie Leeds na Emirates, a Manchester United zmierzy się z Tottenhamem na Old Trafford. Hitem kolejki będzie jednak niedzielne starcie na Anfield pomiędzy Liverpoolem a Manchesterem City. Niepokonany Liverpool spróbuje zatrzymać Erlinga Haalanda, który trafiał w każdym meczu obecnego sezonu.",
+      ],
+    },
+    zh: {
+      title: "英超战火重燃：五战全胜曼城做客安菲尔德迎战利物浦",
+      subtitle: "国家队比赛周后英超第6轮全面开打，曼城积15分领跑积分榜，强强对决一触即发。",
+      excerpt: "英超联赛于10月10日周六重燃战火。阿森纳迎战利兹联，周日迎来利物浦决战曼城的焦点大战。",
+      body: [
+        "国家队比赛日正式结束，英超联赛将于周六迎来第6轮角逐。在西班牙与葡萄牙率先晋级欧国联八强后，各支豪门重新回归国内赛场。曼城以5战全胜积15分的强势表现继续独占积分榜首位。",
+        "曼城开局阶段打入13球仅失5球，展现出强大的统治力。阿森纳以12分紧随其后，黑马布莱顿积10分位列第三。包括利物浦、布伦特福德、利兹联、埃弗顿和赫尔城在内的五支球队同积9分。积分榜末端，热刺与富勒姆仍在苦苦寻求赛季首胜。",
+        "周六的比赛中，阿森纳将在酋长球场迎战利兹联，曼联坐镇老特拉福德硬碰热刺。本轮最具决定性的较量定于周日下午打响，利物浦坐镇安菲尔德迎战曼城。斯洛特的球队目前保持不败，但如何限制本赛季连续五场英超均有进球的哈兰德将是最大考验。",
+      ],
+    },
+    ja: {
+      title: "プレミアリーグ再開：開幕5連勝のマンチェスター・シティが敵地アンフィールドに乗り込む",
+      subtitle: "代表ウィーク明けの第6節、首位シティ（勝ち点15）が不敗のリヴァプールと激突。",
+      excerpt: "プレミアリーグは10月10日土曜日に再開。アーセナルがリーズを迎え、日曜にはリヴァプール対マンチェスター・シティの大一番。",
+      body: [
+        "代表戦ブレークが明け、プレミアリーグは土曜日に第6節を迎える。スペインとポルトガルがネーションズリーグ準々決勝進出を決めた2週間を経て、クラブサッカーの熱気がイングランドに戻ってくる。首位に立つのは開幕から5戦全勝で勝ち点15を積み上げたマンチェスター・シティだ。",
+        "シティは13得点5失点と攻守に盤石の戦いを見せている。2位アーセナルが勝ち点12で追い、快進撃のブライトンが10点で続く。リヴァプール、リーズ、ブレントフォード、エヴァートン、ハル・シティの5クラブが9点でひしめく混戦だ。下位ではトッテナムとフラムが初勝利を狙う。",
+        "土曜にはアーセナル対リーズ、オールド・トラッフォードでのマンチェスター・ユナイテッド対トッテナムが組まれている。そして日曜午後の大一番がアンフィールドでのリヴァプール対マンチェスター・シティだ。開幕無敗のリヴァプールが、全5試合でゴールを決めているハーランドをどう止めるかが焦点となる。",
+      ],
+    },
+    ko: {
+      title: "프리미어리그 재개: 개막 5연승 맨체스터 시티, 안필드 원정서 시험대",
+      subtitle: "A매치 휴식기 끝내고 6라운드 돌입. 승점 15점 선두 시티와 리버풀의 일요일 대격돌.",
+      excerpt: "프리미어리그 10월 10일 토요일 재개. 아스널 대 리즈, 일요일에는 리버풀 대 맨체스터 시티 빅매치.",
+      body: [
+        "A매치 휴식기가 끝나고 프리미어리그가 토요일 6라운드로 다시 달린다. 스페인과 포르투갈이 네이션스리그 8강에 안착한 가운데, 잉글랜드 무대에서는 맨체스터 시티가 5전 전승(승점 15점)으로 단독 선두를 질주하고 있다.",
+        "맨시티는 13득점 5실점으로 완벽한 출발을 보였다. 아스널이 승점 12점으로 맹추격 중이며, 브라이턴이 10점으로 돌풍을 이어가고 있다. 리버풀, 리즈, 브렌트퍼드, 에버턴, 헐 시티가 나란히 승점 9점에 묶여 있다. 하위권의 토트넘과 풀럼은 첫 승 사냥에 나선다.",
+        "토요일에는 아스널이 리즈를 맞이하고, 맨체스터 유나이티드가 올드 트래퍼드에서 토트넘과 격돌한다. 이번 주말 최고의 하이라이트는 일요일 오후 안필드에서 열리는 리버풀과 맨시티의 맞대결이다. 무패 행진 중인 리버풀이 5경기 연속골을 터뜨린 홀란을 어떻게 막아낼지가 관건이다.",
+      ],
+    },
+    ar: {
+      title: "عودة الدوري الإنجليزي: مانشستر سيتي يضع سجله المثالي على المحك في أنفيلد",
+      subtitle: "الجولة 6 تُستأنف بعد التوقف الدولي وسيتي في الصدارة بـ15 نقطة قبل قمة ليفربول المنتظرة.",
+      excerpt: "يستأنف الدوري الإنجليزي مبارياته السبت 10 أكتوبر. أرسنال يستضيف ليدز والأحد يجمع ليفربول ومانشستر سيتي.",
+      body: [
+        "انتهت فترة التوقف الدولي ويعود الدوري الإنجليزي الممتاز يوم السبت مع منافسات الجولة السادسة. بعد أسبوعين في دوري الأمم الأوروبية حسمت خلالهما إسبانيا والبرتغال التأهل لربع النهائي، تعود الإثارة إلى إنجلترا. يتصدر مانشستر سيتي الترتيب برصيد 15 نقطة بالعلامة الكاملة من خمس مباريات.",
+        "سجل سيتي 13 هدفا واستقبل 5 فقط في انطلاقة مثالية. يلاحقه أرسنال في المركز الثاني برصيد 12 نقطة، يليه برايتون المفاجئ بـ10 نقاط. وتتساوى خمسة أندية برصيد 9 نقاط: برينتفورد وليدز وليفربول وإيفرتون وهال سيتي. وفي القاع يبحث توتنهام وفولهام عن فوزهما الأول.",
+        "يفتتح السبت بمواجهة أرسنال ضد ليدز في الإمارات، بينما يستقبل مانشستر يونايتد توتنهام في أولد ترافورد. وتبقى المواجهة الأبرز مساء الأحد في أنفيلد بين ليفربول وسيتي، حيث يسعى أصحاب الأرض لإيقاف إرلينغ هالاند الذي هز الشباك في جميع المباريات الخمس السابقة.",
+      ],
+    },
+  },
 };

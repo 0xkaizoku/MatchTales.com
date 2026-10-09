@@ -1,0 +1,74 @@
+{
+  "funFacts": [
+    "Atlanta Dream hold a 2-0 series lead heading into Barclays Center.",
+    "New York Liberty face elimination in front of their home fans.",
+    "A victory sends Atlanta to the WNBA Finals for the first time since 2013."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Breanna Stewart",
+      "team": "Liberty",
+      "hook": "Scored 35 points in Game 2 and must carry New York in an elimination battle."
+    },
+    {
+      "name": "Jordin Canada",
+      "team": "Dream",
+      "hook": "Averaging 24 points per game through the first two semifinal contests."
+    }
+  ],
+  "headToHead": "Atlanta leads 2-0 after a 92-82 Game 1 win and a 101-98 overtime Game 2 victory.",
+  "tags": [
+    "wnba",
+    "dream",
+    "liberty",
+    "semifinals",
+    "game-3"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/2385479/pexels-photo-2385479.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "WNBA Semifinals · Game 3",
+  "resultSummary": "UPCOMING: Atlanta Dream at New York Liberty, 7:30 p.m. ET (Dream lead 2-0)",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ESPN WNBA scoreboard",
+      "url": "https://www.espn.com/wnba/scoreboard"
+    },
+    {
+      "name": "WNBA Playoffs Hub",
+      "url": "https://www.wnba.com/playoffs/2026"
+    }
+  ],
+  "format": "team-match",
+  "homeScore": null,
+  "awayScore": null,
+  "slug": "dream-at-liberty-wnba-sf-g3-2026",
+  "headline": "WNBA Semifinals Game 3: Liberty face elimination trailing Dream 0-2",
+  "whyCareScore": 9.6,
+  "whyCareReason": "Defending finalist Liberty must win at Barclays Center to prevent an Atlanta sweep and keep their season alive.",
+  "teaser": "Stewart posted 35 in Game 2 but Atlanta took overtime 101-98. Tipoff is 7:30 p.m. ET on ESPN in Brooklyn.",
+  "story": "The New York Liberty host the Atlanta Dream in a pivotal Game 3 on Friday night at Barclays Center with their season on the brink. Atlanta took command of the best-of-five semifinal series with a 92-82 victory in Game 1 and an electrifying 101-98 overtime win in Game 2. Angel Reese and Jordin Canada have spearheaded Atlanta's attack, combining for 46 points on Wednesday. New York star Breanna Stewart delivered 35 points and 11 rebounds in Game 2, but the Liberty were undone by late defensive breakdowns and an overtime timeout controversy. No WNBA team has ever overcome an 0-2 deficit in a best-of-five series, meaning the Liberty face history as well as the surging Dream in Friday's clash.",
+  "stakes": "An Atlanta victory seals a 3-0 sweep and a ticket to the WNBA Finals. A New York win forces Game 4 in Brooklyn on Sunday.",
+  "rivalryAngle": "The Liberty swept Atlanta in the regular season, but the Dream have dominated the postseason series so far.",
+  "home": "New York Liberty",
+  "away": "Atlanta Dream",
+  "group": "SF",
+  "date": "2026-10-09",
+  "time": "19:30",
+  "venue": "Barclays Center",
+  "city": "Brooklyn",
+  "status": "UPCOMING",
+  "sport": "basketball",
+  "competition": "wnba-2026"
+}

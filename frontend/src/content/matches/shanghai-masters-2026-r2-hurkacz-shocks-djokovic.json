@@ -1,0 +1,78 @@
+{
+  "funFacts": [
+    "Hubert Hurkacz earned his first career victory over Novak Djokovic after eight consecutive defeats.",
+    "The 6-4, 6-3 result marks Djokovic's earliest defeat in his Rolex Shanghai Masters career.",
+    "Alexander Zverev and Ben Shelton also advanced to the round of 32 on Friday."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Hubert Hurkacz",
+      "team": "Poland",
+      "hook": "Landed 82% of first serves and fired 14 aces to eliminate the four-time Shanghai champion."
+    },
+    {
+      "name": "Novak Djokovic",
+      "team": "Serbia",
+      "hook": "Fresh off his Beijing title, suffered a straight-sets second-round shock in Shanghai."
+    }
+  ],
+  "headToHead": "Hurkacz cuts his head-to-head deficit against Djokovic to 1-8 with his first win in nine attempts.",
+  "tags": [
+    "tennis",
+    "atp",
+    "shanghai-masters",
+    "djokovic",
+    "hurkacz",
+    "atp-1000"
+  ],
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "matchday": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209905/pexels-photo-209905.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "season": "2026",
+  "roundLabel": "Shanghai Masters · Round 2",
+  "resultSummary": "Hurkacz def. Djokovic 6-4, 6-3",
+  "leaderboard": [],
+  "tennisSets": [
+    { "p1": "6", "p2": "4" },
+    { "p1": "6", "p2": "3" }
+  ],
+  "sources": [
+    {
+      "name": "Rolex Shanghai Masters official results",
+      "url": "https://www.rolexshanghaimasters.com/results"
+    },
+    {
+      "name": "ATP Tour match stats",
+      "url": "https://www.atptour.com/en/scores/current/shanghai/5014/live-scores"
+    }
+  ],
+  "format": "singles",
+  "homeScore": 2,
+  "awayScore": 0,
+  "slug": "shanghai-masters-2026-r2-hurkacz-shocks-djokovic",
+  "headline": "Shanghai Masters R2: Hurkacz stuns Djokovic 6-4, 6-3 in major upset",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Hubert Hurkacz snapped an 0-8 lifetime record against Novak Djokovic to knock out the four-time champion in round 2.",
+  "teaser": "Hurkacz fired 14 aces in a flawless serving display to hand Djokovic his earliest Shanghai exit. Zverev and Shelton also won.",
+  "story": "Hubert Hurkacz produced the shock of the tennis autumn on Friday, defeating four-time champion Novak Djokovic 6-4, 6-3 in the second round of the Rolex Shanghai Masters. The Polish big-server had lost all eight previous meetings against the 24-time Grand Slam champion, but dominated behind his delivery on Qizhong Stadium court, saving both break points faced. Djokovic, who had claimed the China Open title in Beijing just three days earlier, struggled with timing from the baseline and bowed out in the round of 64. Elsewhere on Friday, second seed Alexander Zverev dispatched Yibing Wu 6-4, 7-6 (4), Ben Shelton defeated Daniel Altmaier 6-3, 7-6 (6), and Japanese qualifier Rei Sakamoto upset Andrey Rublev 6-4, 6-4.",
+  "stakes": "The bottom half of the Shanghai draw blows wide open with Djokovic's departure, creating a massive opportunity for Zverev and Shelton.",
+  "rivalryAngle": "Hurkacz finally breaks through against his longtime nemesis on the biggest Asian hardcourt stage.",
+  "home": "Hubert Hurkacz",
+  "away": "Novak Djokovic",
+  "group": "ATP",
+  "date": "2026-10-09",
+  "time": "14:00",
+  "venue": "Qizhong Forest Sports City Arena",
+  "city": "Shanghai",
+  "status": "FINISHED",
+  "sport": "tennis",
+  "competition": "atp-2026"
+}

@@ -1,22 +1,22 @@
 {
   "funFacts": [
-    "PGA Tour FedExCup Fall heads to Yokohama Country Club in Japan.",
-    "Austin Smotherman vaulted from 79th to 51st following Utah victory (-26, 258).",
-    "Field competes for 500 FedExCup Fall points and Signature Event exemptions."
+    "Keith Mitchell and Jacob Bridgeman share the 36-hole lead at 11 under par.",
+    "Yokohama Country Club's par 71 layout yielded low scores across Friday's second round.",
+    "A four-way tie for third features Max Homa, Zach Bauchou, Ben Kohles and Mac Meissner at 9 under."
   ],
   "keyPlayers": [
     {
-      "name": "Doug Ghim",
+      "name": "Keith Mitchell",
       "team": "USA",
-      "hook": "Runner-up at 24 under in Utah, seeking to finish the job in Japan."
+      "hook": "Fired back-to-back rounds in the 60s to post 11 under through 36 holes in Japan."
     },
     {
-      "name": "Kevin Yu",
-      "team": "Taiwan",
-      "hook": "Contender aiming to secure top 60 FedExCup Fall status."
+      "name": "Jacob Bridgeman",
+      "team": "USA",
+      "hook": "Joined Mitchell at the top of the leaderboard with a bogey-free second round."
     }
   ],
-  "headToHead": "PGA Tour Fall Series travels to Japan for four rounds of stroke play.",
+  "headToHead": "PGA Tour Fall Series field of 72 players completes round two at Yokohama Country Club.",
   "tags": [
     "golf",
     "pga-tour",
@@ -36,64 +36,94 @@
   "homePen": null,
   "awayPen": null,
   "season": "2026",
-  "roundLabel": "PGA Tour · Baycurrent Classic",
-  "resultSummary": "UPCOMING: Baycurrent Classic · Yokohama Country Club Round 1",
+  "roundLabel": "PGA Tour · Baycurrent Classic · Round 2",
+  "resultSummary": "ROUND 2: Mitchell & Bridgeman lead at 11 under (-11)",
   "leaderboard": [
     {
-      "pos": "1",
-      "name": "Doug Ghim",
-      "score": "E",
-      "note": "R1 Thu · Opening group"
+      "pos": "T1",
+      "name": "Keith Mitchell",
+      "score": "-11",
+      "note": "R2: 65 · 131 total"
     },
     {
-      "pos": "2",
-      "name": "Kevin Yu",
-      "score": "E",
-      "note": "R1 Thu"
+      "pos": "T1",
+      "name": "Jacob Bridgeman",
+      "score": "-11",
+      "note": "R2: 66 · 131 total"
     },
     {
-      "pos": "3",
-      "name": "Trace Crowe",
-      "score": "E",
-      "note": "R1 Thu"
+      "pos": "T3",
+      "name": "Max Homa",
+      "score": "-9",
+      "note": "R2: 67 · 133 total"
     },
     {
-      "pos": "4",
-      "name": "Kevin Streelman",
-      "score": "E",
-      "note": "R1 Thu"
+      "pos": "T3",
+      "name": "Zach Bauchou",
+      "score": "-9",
+      "note": "R2: 66 · 133 total"
+    },
+    {
+      "pos": "T3",
+      "name": "Ben Kohles",
+      "score": "-9",
+      "note": "R2: 68 · 133 total"
+    },
+    {
+      "pos": "T3",
+      "name": "Mac Meissner",
+      "score": "-9",
+      "note": "R2: 67 · 133 total"
+    },
+    {
+      "pos": "T7",
+      "name": "Justin Thomas",
+      "score": "-8",
+      "note": "R2: 67 · 134 total"
+    },
+    {
+      "pos": "T7",
+      "name": "Stephan Jaeger",
+      "score": "-8",
+      "note": "R2: 68 · 134 total"
+    },
+    {
+      "pos": "T7",
+      "name": "Min Woo Lee",
+      "score": "-8",
+      "note": "R2: 66 · 134 total"
     }
   ],
   "tennisSets": [],
   "sources": [
     {
-      "name": "PGA Tour Baycurrent Classic overview",
-      "url": "https://www.pgatour.com/tournaments/2026/baycurrent-classic"
+      "name": "PGA Tour Baycurrent Classic leaderboard",
+      "url": "https://www.pgatour.com/tournaments/2026/baycurrent-classic/leaderboard"
     },
     {
-      "name": "PGA Tour FedExCup Fall Standings",
-      "url": "https://www.pgatour.com/fedexcup/fall"
+      "name": "Golf Magic 36-hole report",
+      "url": "https://golfmagic.com/tour/pga-tour/baycurrent-classic-round-2-leaderboard"
     }
   ],
   "format": "leaderboard",
   "homeScore": null,
   "awayScore": null,
   "slug": "baycurrent-classic-yokohama-2026",
-  "headline": "Baycurrent Classic: PGA Tour visits Yokohama as FedExCup Fall heats up",
-  "whyCareScore": 8.8,
-  "whyCareReason": "First tee at Yokohama Country Club on 8 October. CBS and GOLF.com list groups. No round score is posted.",
-  "teaser": "Par 71, 7,322 yards, 8 million dollars. Spieth, Schauffele, Morikawa and Matsuyama have groups. No leader.",
-  "story": "The Baycurrent Classic is 8 to 11 October at Yokohama Country Club. A Japanese board at 05:00 local time on 8 October still showed pairings, before an 08:45 start. GOLF.com lists Spieth with Min Woo Lee and Sungjae Im, Schauffele with Morikawa and Bridgeman, and Matsuyama with Bradley and Fowler. This card does not name a leader.",
-  "stakes": "A finished round is not on the board. Do not print one.",
-  "rivalryAngle": "The sprint for top 60 positioning enters its final month.",
+  "headline": "Baycurrent Classic Round 2: Mitchell and Bridgeman share 36-hole lead at -11",
+  "whyCareScore": 9.0,
+  "whyCareReason": "Keith Mitchell and Jacob Bridgeman share the halfway lead at 11 under par in Yokohama, two strokes clear of Max Homa.",
+  "teaser": "Bridgeman and Mitchell carded 131 through 36 holes. Homa, Bauchou, Kohles and Meissner lurk at 9 under entering the weekend.",
+  "story": "Keith Mitchell and Jacob Bridgeman share the 36-hole lead at 11 under par after Friday's second round of the Baycurrent Classic at Yokohama Country Club. In ideal scoring conditions on the par-71 West Course, Mitchell followed his opening 66 with a 65, while Bridgeman posted a 66 to match him at 131. A congested chasing pack sits just two shots back at 9 under, led by Max Homa, Zach Bauchou, Ben Kohles and Mac Meissner. Major champion Justin Thomas, Stephan Jaeger and Australia's Min Woo Lee are among those sharing seventh at 8 under. With no 36-hole cut in the 72-player limited field, all contenders will battle over the weekend for 500 FedExCup Fall points and the winner's share of the 8 million dollar purse.",
+  "stakes": "The winner secures a two-year PGA Tour exemption and critical FedExCup Fall positioning for early 2027 Signature Events.",
+  "rivalryAngle": "Mitchell seeks his second PGA Tour victory while Bridgeman hunts for his breakthrough maiden tour title.",
   "home": "Baycurrent Classic",
   "away": "PGA Tour Fall Series",
   "group": "PGA Tour",
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "time": "07:30",
   "venue": "Yokohama Country Club",
   "city": "Yokohama",
-  "status": "UPCOMING",
+  "status": "LIVE",
   "sport": "golf",
   "competition": "pga-tour-2026"
 }
