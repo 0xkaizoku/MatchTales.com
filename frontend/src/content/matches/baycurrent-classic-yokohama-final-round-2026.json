@@ -1,0 +1,124 @@
+{
+  "slug": "baycurrent-classic-yokohama-final-round-2026",
+  "headline": "Baycurrent Classic Final Round: Max Homa holds 54-hole lead in Yokohama",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Max Homa (-14) leads Jacob Bridgeman (-13) and Keith Mitchell (-12) into Championship Sunday with 500 FedExCup Fall points on the line.",
+  "teaser": "Leaders tee off at 10:48 AM JST at Yokohama Country Club. Hideki Matsuyama sits four back at 10 under.",
+  "story": "Championship Sunday arrives at Yokohama Country Club as the inaugural Baycurrent Classic reaches its climax on the par-71 West Course. Six-time PGA Tour winner Max Homa vaulted to the top of the leaderboard with a flawless third-round 66, establishing a 54-hole total of 14 under par (199). Homa holds a one-stroke lead over Jacob Bridgeman (-13) and two strokes over Keith Mitchell (-12) in the final pairing. With home favorite Hideki Matsuyama firing a third-round 66 to close within four shots at 10 under alongside Justin Thomas, Sunday promises a high-drama shootout for the 1.44 million dollar winner's check and a two-year PGA Tour exemption.",
+  "stakes": "The victor secures 500 FedExCup Fall points, full PGA Tour status through 2028, and entry into the 2027 Masters.",
+  "rivalryAngle": "Homa's veteran experience against Bridgeman's pursuit of a maiden PGA Tour breakthrough.",
+  "funFacts": [
+    "Max Homa has converted three of his four career 54-hole leads on the PGA Tour into victories.",
+    "Yokohama Country Club's closing 18th hole has yielded 14 birdies and 8 bogeys through three rounds.",
+    "Japanese hero Hideki Matsuyama is chasing a record-tying 11th career PGA Tour victory."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Max Homa",
+      "team": "United States",
+      "hook": "Fired a Saturday 66 to seize solo control of the tournament at 14 under par."
+    },
+    {
+      "name": "Jacob Bridgeman",
+      "team": "United States",
+      "hook": "Hunting a maiden PGA Tour title from the final group just one shot behind."
+    },
+    {
+      "name": "Hideki Matsuyama",
+      "team": "Japan",
+      "hook": "Home hero lurking four shots back after an electrifying Moving Day charge."
+    }
+  ],
+  "headToHead": "Homa leads Bridgeman by one stroke and Mitchell by two entering Sunday's final group.",
+  "tags": [
+    "golf",
+    "pga-tour",
+    "baycurrent-classic",
+    "yokohama",
+    "max-homa",
+    "final-round",
+    "championship-sunday"
+  ],
+  "home": "Max Homa",
+  "away": "Jacob Bridgeman",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "PGA Tour",
+  "matchday": 4,
+  "date": "2026-10-11",
+  "time": "10:48",
+  "venue": "Yokohama Country Club",
+  "city": "Yokohama",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1325653/pexels-photo-1325653.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "golf",
+  "competition": "pga-tour-2026",
+  "format": "leaderboard",
+  "season": "2026",
+  "roundLabel": "Baycurrent Classic · Final Round",
+  "resultSummary": "UPCOMING: Championship Sunday. Homa (-14), Bridgeman (-13), Mitchell (-12), Matsuyama (-10)",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Max Homa",
+      "score": "-14",
+      "note": "199 (68-67-66) · Final Group"
+    },
+    {
+      "pos": "2",
+      "name": "Jacob Bridgeman",
+      "score": "-13",
+      "note": "200 (65-66-69) · Final Group"
+    },
+    {
+      "pos": "3",
+      "name": "Keith Mitchell",
+      "score": "-12",
+      "note": "201 (66-65-70) · Final Group"
+    },
+    {
+      "pos": "T4",
+      "name": "Ben Kohles",
+      "score": "-11",
+      "note": "202 (67-68-67)"
+    },
+    {
+      "pos": "T4",
+      "name": "Zach Bauchou",
+      "score": "-11",
+      "note": "202 (67-68-67)"
+    },
+    {
+      "pos": "T6",
+      "name": "Hideki Matsuyama",
+      "score": "-10",
+      "note": "203 (69-68-66) · Crowd Favorite"
+    },
+    {
+      "pos": "T6",
+      "name": "Justin Thomas",
+      "score": "-10",
+      "note": "203 (68-68-67)"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "PGA Tour Official Final Round leaderboard",
+      "url": "https://www.pgatour.com/tournaments/2026/baycurrent-classic/leaderboard"
+    },
+    {
+      "name": "Golf Channel Championship Sunday preview",
+      "url": "https://www.golfchannel.com/tours/pga-tour/2026/baycurrent-classic"
+    }
+  ]
+}

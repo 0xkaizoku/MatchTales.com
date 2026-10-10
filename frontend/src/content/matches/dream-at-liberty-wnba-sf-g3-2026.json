@@ -37,7 +37,7 @@
   "awayPen": null,
   "season": "2026",
   "roundLabel": "WNBA Semifinals · Game 3",
-  "resultSummary": "UPCOMING: Atlanta Dream at New York Liberty, 7:30 p.m. ET (Dream lead 2-0)",
+  "resultSummary": "FINAL: Liberty 88, Dream 82 at Barclays Center. Stewart 28 pts, Ionescu 20 pts stave off elimination. Atlanta leads series 2-1.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
@@ -51,8 +51,8 @@
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 88,
+  "awayScore": 82,
   "slug": "dream-at-liberty-wnba-sf-g3-2026",
   "headline": "WNBA Semifinals Game 3: Liberty face elimination trailing Dream 0-2",
   "whyCareScore": 9.6,
@@ -68,7 +68,7 @@
   "time": "19:30",
   "venue": "Barclays Center",
   "city": "Brooklyn",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "basketball",
   "competition": "wnba-2026"
 }

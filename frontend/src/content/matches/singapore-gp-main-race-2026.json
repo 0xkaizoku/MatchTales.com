@@ -1,0 +1,118 @@
+{
+  "slug": "singapore-gp-main-race-2026",
+  "headline": "Singapore GP Sunday: Verstappen and Russell lead grid into 62-lap night race",
+  "whyCareScore": 9.6,
+  "whyCareReason": "Verstappen starts on pole alongside Russell as championship leader Antonelli fights from fourth to protect his title advantage.",
+  "teaser": "Lights out under the Marina Bay floodlights at 20:00 local time (12:00 UTC). 62 laps of grueling physical endurance.",
+  "story": "The 2026 Singapore Grand Prix ignites under the floodlights of the Marina Bay Street Circuit on Sunday evening. After sweeping Saturday's Sprint victory and claiming pole position in qualifying with a lap of 1:29.525, Max Verstappen commands the front of the grid. George Russell shares the front row for Mercedes (+0.145s), hungry to convert his pace into a grand prix triumph. For championship leader Kimi Antonelli, Sunday represents a defining crucible: starting fourth behind Charles Leclerc, the Italian rookie must master Marina Bay's grueling 62 laps of humidity and concrete barriers to preserve his 81-point championship buffer over Russell.",
+  "stakes": "A Russell victory cuts deeply into Antonelli's points lead, while Verstappen seeks back-to-back weekend perfection in Singapore.",
+  "rivalryAngle": "Verstappen, Russell, Leclerc, and Antonelli fight wheel-to-wheel down the drag to Turn 1.",
+  "funFacts": [
+    "Marina Bay is the only Grand Prix on the calendar where the Safety Car has appeared in every single edition.",
+    "Drivers can lose up to three kilograms of body weight during the grueling two-hour race.",
+    "Verstappen swept both Sprint victory and GP pole on Saturday in Singapore."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Max Verstappen",
+      "team": "Red Bull Racing",
+      "hook": "Pole sitter aiming for a dominant lights-to-flag victory on the streets of Singapore."
+    },
+    {
+      "name": "George Russell",
+      "team": "Mercedes",
+      "hook": "Starts on the front row looking to claim crucial points in the title fight."
+    },
+    {
+      "name": "Kimi Antonelli",
+      "team": "Mercedes",
+      "hook": "Points leader starting fourth with a mission to secure a podium and protect his championship lead."
+    }
+  ],
+  "headToHead": "Verstappen edged Russell by just 0.145s in qualifying under the floodlights.",
+  "tags": [
+    "f1",
+    "singapore-gp",
+    "verstappen",
+    "russell",
+    "antonelli",
+    "marina-bay",
+    "night-race"
+  ],
+  "home": "Max Verstappen",
+  "away": "George Russell",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "Formula 1",
+  "matchday": 18,
+  "date": "2026-10-11",
+  "time": "20:00",
+  "venue": "Marina Bay Street Circuit",
+  "city": "Singapore",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "f1",
+  "competition": "formula-1-2026",
+  "format": "leaderboard",
+  "season": "2026",
+  "roundLabel": "Singapore Grand Prix · Main Race",
+  "resultSummary": "UPCOMING: 62 Laps under Marina Bay lights (20:00 local / 12:00 UTC)",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Max Verstappen",
+      "score": "1:29.525",
+      "note": "Red Bull · Pole Position"
+    },
+    {
+      "pos": "2",
+      "name": "George Russell",
+      "score": "+0.145",
+      "note": "Mercedes · Front Row"
+    },
+    {
+      "pos": "3",
+      "name": "Charles Leclerc",
+      "score": "+0.218",
+      "note": "Ferrari · Row 2"
+    },
+    {
+      "pos": "4",
+      "name": "Kimi Antonelli",
+      "score": "+0.312",
+      "note": "Mercedes · Row 2"
+    },
+    {
+      "pos": "5",
+      "name": "Lando Norris",
+      "score": "+0.384",
+      "note": "McLaren · Row 3"
+    },
+    {
+      "pos": "6",
+      "name": "Lewis Hamilton",
+      "score": "+0.450",
+      "note": "Ferrari · Row 3"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Formula1.com official grid",
+      "url": "https://www.formula1.com/en/results/2026/races/singapore/starting-grid"
+    },
+    {
+      "name": "Motorsport.com race hub",
+      "url": "https://www.motorsport.com/f1/news/singapore-gp-starting-grid-2026"
+    }
+  ]
+}

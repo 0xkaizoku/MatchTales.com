@@ -50,7 +50,7 @@
   "time": "17:00",
   "venue": "Marina Bay Street Circuit",
   "city": "Singapore",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "homeScore": null,
   "awayScore": null,
   "marquee": true,
@@ -64,7 +64,7 @@
   "format": "leaderboard",
   "season": "2026",
   "roundLabel": "Singapore Grand Prix · Sprint & Qualifying",
-  "resultSummary": "UPCOMING: F1 Sprint (17:00 local) followed by GP Qualifying (21:00 local)",
+  "resultSummary": "FINAL: Verstappen wins Sprint from Russell (+1.8s) & takes GP Pole (1:29.525). Antonelli P5 in Sprint, qualifies P4.",
   "leaderboard": [
     {
       "pos": "1",

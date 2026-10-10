@@ -1,0 +1,76 @@
+{
+  "slug": "ravens-at-falcons-snf-week5-2026",
+  "headline": "NFL Week 5 SNF: Ravens clash with Falcons under the dome in Atlanta",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Lamar Jackson leads 3-1 Baltimore into Mercedes-Benz Stadium while undefeated Vikings and 49ers defend 4-0 starts on Sunday.",
+  "teaser": "Sunday Night Football kickoff is 8:20 p.m. ET on NBC in Atlanta. Unbeaten Vikings and 49ers headline the daytime slate.",
+  "story": "Week 5 of the 2026 NFL season culminates with a primetime interconference showdown as the Baltimore Ravens visit the Atlanta Falcons at Mercedes-Benz Stadium. John Harbaugh's Ravens arrive at 3-1, riding a formidable rushing attack led by Lamar Jackson and Derrick Henry. Atlanta enters fighting to ignite their season behind young signal-caller Michael Penix Jr. and a potent offensive arsenal featuring Bijan Robinson and Drake London. Across the wider league, Sunday action sees the Minnesota Vikings and San Francisco 49ers battle to keep their perfect 4-0 records unblemished while the Kansas City Chiefs enjoy their bye week.",
+  "stakes": "A victory cements Baltimore among the AFC elite, while Atlanta desperately seeks a signature win to climb into NFC South contention.",
+  "rivalryAngle": "Two dynamic, dual-threat offensive schemes test contrasting defensive philosophies on primetime television.",
+  "funFacts": [
+    "Mercedes-Benz Stadium features a unique eight-petal retractable pinwheel roof.",
+    "Lamar Jackson holds the highest winning percentage against NFC opponents of any active quarterback.",
+    "The Minnesota Vikings and San Francisco 49ers are both seeking to reach 5-0 during Sunday's afternoon games."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Lamar Jackson",
+      "team": "Baltimore Ravens",
+      "hook": "Two-time MVP commanding an offense that leads the league in rushing efficiency."
+    },
+    {
+      "name": "Bijan Robinson",
+      "team": "Atlanta Falcons",
+      "hook": "Dynamic playmaker capable of breaking games open through both the ground and air."
+    }
+  ],
+  "headToHead": "Baltimore has won four of the last five meetings between the two franchises.",
+  "tags": [
+    "football",
+    "nfl",
+    "ravens",
+    "falcons",
+    "snf",
+    "week-5",
+    "mercedes-benz-stadium"
+  ],
+  "home": "Atlanta Falcons",
+  "away": "Baltimore Ravens",
+  "homeCode": "ATL",
+  "awayCode": "BAL",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NFL",
+  "matchday": 5,
+  "date": "2026-10-11",
+  "time": "20:20",
+  "venue": "Mercedes-Benz Stadium",
+  "city": "Atlanta",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618269/pexels-photo-1618269.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "football",
+  "competition": "nfl-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "NFL Week 5 · Sunday Night Football",
+  "resultSummary": "UPCOMING: Ravens at Falcons, Sunday 8:20 p.m. ET on NBC at Mercedes-Benz Stadium",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NFL.com Week 5 schedule",
+      "url": "https://www.nfl.com/schedules/2026/reg5"
+    },
+    {
+      "name": "ESPN Sunday Night Football hub",
+      "url": "https://www.espn.com/nfl/schedule"
+    }
+  ]
+}

@@ -50,7 +50,7 @@
   "time": "10:36",
   "venue": "Yokohama Country Club",
   "city": "Yokohama",
-  "status": "LIVE",
+  "status": "FINISHED",
   "homeScore": null,
   "awayScore": null,
   "marquee": true,
@@ -64,55 +64,49 @@
   "format": "leaderboard",
   "season": "2026",
   "roundLabel": "Baycurrent Classic · Round 3",
-  "resultSummary": "LIVE: Mitchell & Bridgeman (-11), Homa, Bauchou, Kohles, Meissner (-9)",
+  "resultSummary": "FINAL: Moving Day. Max Homa (-14) leads Bridgeman (-13), Mitchell (-12), Kohles (-11), Matsuyama (-10).",
   "leaderboard": [
     {
-      "pos": "T1",
-      "name": "Keith Mitchell",
-      "score": "-11",
-      "note": "66-65 · Final Group"
-    },
-    {
-      "pos": "T1",
-      "name": "Jacob Bridgeman",
-      "score": "-11",
-      "note": "65-66 · Final Group"
-    },
-    {
-      "pos": "T3",
+      "pos": "1",
       "name": "Max Homa",
-      "score": "-9",
-      "note": "68-67 · Final Group"
+      "score": "-14",
+      "note": "68-67-66 · 54-Hole Leader"
     },
     {
-      "pos": "T3",
-      "name": "Zach Bauchou",
-      "score": "-9",
-      "note": "67-68"
+      "pos": "2",
+      "name": "Jacob Bridgeman",
+      "score": "-13",
+      "note": "65-66-69 · Final Group"
     },
     {
-      "pos": "T3",
+      "pos": "3",
+      "name": "Keith Mitchell",
+      "score": "-12",
+      "note": "66-65-70 · Final Group"
+    },
+    {
+      "pos": "T4",
       "name": "Ben Kohles",
-      "score": "-9",
-      "note": "67-68"
+      "score": "-11",
+      "note": "67-68-67"
     },
     {
-      "pos": "T3",
-      "name": "Mac Meissner",
-      "score": "-9",
-      "note": "66-69"
+      "pos": "T4",
+      "name": "Zach Bauchou",
+      "score": "-11",
+      "note": "67-68-67"
     },
     {
-      "pos": "T7",
-      "name": "Justin Thomas",
-      "score": "-8",
-      "note": "68-68"
-    },
-    {
-      "pos": "T11",
+      "pos": "T6",
       "name": "Hideki Matsuyama",
-      "score": "-7",
-      "note": "69-68 · Local Favorite"
+      "score": "-10",
+      "note": "69-68-66 · Local Favorite"
+    },
+    {
+      "pos": "T6",
+      "name": "Justin Thomas",
+      "score": "-10",
+      "note": "68-68-67"
     }
   ],
   "tennisSets": [],

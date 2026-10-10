@@ -1,0 +1,82 @@
+{
+  "slug": "wnba-semifinals-game4-doubleheader-sunday-2026",
+  "headline": "WNBA Semifinals Game 4: Liberty and Aces fight to force Game 5 deciders",
+  "whyCareScore": 9.5,
+  "whyCareReason": "After thrilling Game 3 home wins kept their seasons alive, New York and Las Vegas host Game 4 trailing 1-2 in best-of-five semifinals.",
+  "teaser": "Sunday double-header: Dream at Liberty (3:00 p.m. ET, ABC) and Valkyries at Aces (5:30 p.m. ET, ESPN).",
+  "story": "The 2026 WNBA postseason reaches maximum intensity on Sunday with a semifinal Game 4 double-header. Both reigning finalists answered the bell on Friday night to avoid sweeps: Breanna Stewart's 28 points powered the New York Liberty past Atlanta 88-82 at Barclays Center, while A'ja Wilson's 31-point, 14-rebound masterpiece lifted the Las Vegas Aces over the Golden State Valkyries 86-79 in Nevada. Both series now stand at 2-1. On Sunday afternoon, Atlanta and Golden State take their second shot at punching their first-ever finals tickets, while the Liberty and Aces attempt to force dramatic winner-take-all Game 5s.",
+  "stakes": "Wins for Dream and Valkyries crown new conference champions. Wins for Liberty and Aces force deciding Game 5 clashes on Tuesday.",
+  "rivalryAngle": "Championship DNA versus unprecedented underdog momentum across two electric home arenas.",
+  "funFacts": [
+    "Only four teams in WNBA history have ever rallied from an 0-2 deficit to force a deciding Game 5.",
+    "A'ja Wilson's 31 points in Game 3 marked her tenth career 30-point playoff outing.",
+    "The Golden State Valkyries are aiming to become the first expansion team in professional basketball history to reach a finals in year one."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Breanna Stewart",
+      "team": "New York Liberty",
+      "hook": "Averaging 31.5 points across the last two games facing elimination."
+    },
+    {
+      "name": "A'ja Wilson",
+      "team": "Las Vegas Aces",
+      "hook": "Carrying the two-time champions with dominant inside-outside play."
+    },
+    {
+      "name": "Angel Reese",
+      "team": "Atlanta Dream",
+      "hook": "Leading all semifinalists in offensive rebounding and second-chance points."
+    }
+  ],
+  "headToHead": "Atlanta and Golden State both lead their respective series 2-1 heading into Sunday's Game 4s.",
+  "tags": [
+    "wnba",
+    "liberty",
+    "dream",
+    "aces",
+    "valkyries",
+    "semifinals",
+    "game-4",
+    "elimination"
+  ],
+  "home": "New York Liberty",
+  "away": "Atlanta Dream",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "SF",
+  "matchday": 4,
+  "date": "2026-10-11",
+  "time": "15:00",
+  "venue": "Barclays Center",
+  "city": "Brooklyn",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/2385479/pexels-photo-2385479.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "basketball",
+  "competition": "wnba-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "WNBA Semifinals · Game 4 Double-Header",
+  "resultSummary": "UPCOMING: Dream at Liberty (3:00 p.m. ET, ABC) · Valkyries at Aces (5:30 p.m. ET, ESPN)",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "WNBA.com Semifinals schedule",
+      "url": "https://www.wnba.com/playoffs/2026"
+    },
+    {
+      "name": "ESPN WNBA playoff hub",
+      "url": "https://www.espn.com/wnba/scoreboard"
+    }
+  ]
+}

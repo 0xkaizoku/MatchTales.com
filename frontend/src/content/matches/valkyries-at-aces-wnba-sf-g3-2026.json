@@ -37,7 +37,7 @@
   "awayPen": null,
   "season": "2026",
   "roundLabel": "WNBA Semifinals · Game 3",
-  "resultSummary": "UPCOMING: Golden State Valkyries at Las Vegas Aces, 9:30 p.m. ET (Valkyries lead 2-0)",
+  "resultSummary": "FINAL: Aces 86, Valkyries 79 at Michelob ULTRA Arena. Wilson 31 pts, 14 reb keeps Las Vegas alive. Valkyries lead series 2-1.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
@@ -51,8 +51,8 @@
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 86,
+  "awayScore": 79,
   "slug": "valkyries-at-aces-wnba-sf-g3-2026",
   "headline": "WNBA Semifinals Game 3: Aces face elimination trailing Valkyries 0-2",
   "whyCareScore": 9.5,
@@ -68,7 +68,7 @@
   "time": "21:30",
   "venue": "Michelob ULTRA Arena",
   "city": "Las Vegas",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "basketball",
   "competition": "wnba-2026"
 }

@@ -1,0 +1,82 @@
+{
+  "slug": "shanghai-masters-2026-round4-round-of-16",
+  "headline": "Shanghai Masters Round of 16: Zverev faces Shelton, Hurkacz meets Sakamoto",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Blockbuster fourth-round clashes at Qizhong Arena with Alexander Zverev meeting Ben Shelton and giant-killer Hubert Hurkacz testing sensation Rei Sakamoto.",
+  "teaser": "Play begins Sunday 12:30 local at Qizhong Arena. The top half and bottom half contenders battle for quarterfinal berths.",
+  "story": "The Rolex Shanghai Masters reaches the round of 16 on Sunday as the survivors of a turbulent opening week collide at Qizhong Forest Sports City Arena. The headline battle pits second-seeded Alexander Zverev against explosive American Ben Shelton on Center Court. Shelton's blistering 145 mph delivery and fearless shotmaking face Zverev's imperious baseline defense and championship pedigree. In the bottom half, Hubert Hurkacz looks to build on his upset of Novak Djokovic when he squares off with 19-year-old Japanese qualifier Rei Sakamoto, who has captivated crowds by knocking out Andrey Rublev and Gael Monfils.",
+  "stakes": "Quarterfinal berths at the ATP Masters 1000 level and 200 ranking points for every winner on Sunday.",
+  "rivalryAngle": "Big servers and rising stars collide on Shanghai's fast hard courts.",
+  "funFacts": [
+    "Ben Shelton has struck 48 aces through his opening three rounds in Shanghai.",
+    "Rei Sakamoto is the youngest Japanese player to reach the round of 16 at a Masters 1000 tournament since 1990.",
+    "Alexander Zverev is seeking his third ATP Masters 1000 title of the 2026 campaign."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Alexander Zverev",
+      "team": "Germany",
+      "hook": "Second seed seeking control of the tournament bracket on Center Court."
+    },
+    {
+      "name": "Ben Shelton",
+      "team": "United States",
+      "hook": "Electrifying southpaw possessing the tournament's most lethal first serve."
+    },
+    {
+      "name": "Hubert Hurkacz",
+      "team": "Poland",
+      "hook": "Former Shanghai champion riding supreme confidence after toppling Djokovic."
+    }
+  ],
+  "headToHead": "Zverev leads Shelton 2-1 in their previous career meetings on outdoor hard courts.",
+  "tags": [
+    "tennis",
+    "atp",
+    "shanghai-masters",
+    "zverev",
+    "shelton",
+    "hurkacz",
+    "round-of-16",
+    "atp-1000"
+  ],
+  "home": "Alexander Zverev",
+  "away": "Ben Shelton",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "ATP Masters 1000",
+  "matchday": 4,
+  "date": "2026-10-11",
+  "time": "12:30",
+  "venue": "Qizhong Forest Sports City Arena",
+  "city": "Shanghai",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209905/pexels-photo-209905.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Shanghai Masters · Round of 16",
+  "resultSummary": "UPCOMING: Zverev vs Shelton, Hurkacz vs Sakamoto · Sunday at Qizhong Arena",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Rolex Shanghai Masters Order of Play",
+      "url": "https://www.rolexshanghaimasters.com/schedule"
+    },
+    {
+      "name": "ATP Tour Shanghai draw & results",
+      "url": "https://www.atptour.com/en/scores/current/shanghai/5014/draws"
+    }
+  ]
+}
