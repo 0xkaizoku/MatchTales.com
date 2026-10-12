@@ -1,59 +1,39 @@
 {
   "slug": "shanghai-masters-2026-monday-round32-center-court",
-  "headline": "Shanghai Masters Monday: Sinner and Alcaraz headline Center Court as R16 berths loom",
+  "headline": "Shanghai Masters: Bergs beats Alcaraz 7-5, 7-6 (4)",
   "whyCareScore": 9.4,
-  "whyCareReason": "Jannik Sinner and Carlos Alcaraz return to action at Qizhong Arena looking to join marathon survivor Alexander Zverev in the round of 16.",
-  "teaser": "Monday action begins at 12:30 local at Qizhong Forest Sports City Arena with 1000 ranking points in play.",
-  "story": "The Rolex Shanghai Masters accelerates into the business end of round-of-32 competition on Monday at Qizhong Forest Sports City Arena. Following Sunday's marathon where Alexander Zverev endured a three-set battle against Quentin Halys and Hubert Hurkacz pushed past Yi Zhou, top seeds Jannik Sinner and Carlos Alcaraz return to Center Court. With Novak Djokovic and Ben Shelton already eliminated from the bracket, the tournament path has opened up dramatically for the young titans of men's tennis to make their definitive moves toward the title.",
-  "stakes": "Berths in the prestigious round of 16 and crucial ATP year-end finals qualification points.",
-  "rivalryAngle": "Sinner and Alcaraz eye a potential collision course in the Shanghai final.",
+  "whyCareReason": "The ATP lists the upset. Reuters says it confirms Alexander Zverev as year-end world No. 1. Sinner is not in the draw.",
+  "teaser": "Monday round of 32 at Qizhong is complete. Bergs defeated the second seed in two sets.",
+  "story": "Zizou Bergs beat second seed Carlos Alcaraz 7-5, 7-6 (4) in the Shanghai round of 32 on Monday. Reuters reports that the loss confirms Alexander Zverev as year-end world No. 1. Zverev plays Alexander Bublik next. Jannik Sinner has not played since the Wimbledon final and is out for the rest of the season. Also on the ATP list: Auger-Aliassime beat Carreno Busta, Medvedev beat Svrcina, van de Zandschulp beat Fils, Tsitsipas beat Fritz, Jodar beat Lehecka, Ruud beat Tien, and Paul beat Vacherot.",
+  "stakes": "A round-of-32 upset removed the second seed and closed the year-end No. 1 race on Zverev.",
+  "rivalryAngle": "Alcaraz was the name on the marquee. Bergs won the match that was supposed to be his test.",
   "funFacts": [
-    "Alexander Zverev struck 21 aces during his three-set victory over Quentin Halys on Sunday.",
-    "Qizhong Arena's retractable roof features eight sliding petal panels designed to resemble a blooming magnolia flower.",
-    "Jannik Sinner has compiled a 42-4 record on hard courts during the 2026 season."
+    "ATP result: Bergs d. Alcaraz 7-5, 7-6 (4) on 12 October 2026.",
+    "Reuters: Zverev is the year-end world No. 1, the first German to finish a year there. He plays Bublik next.",
+    "Sunday: Zverev d. Halys 6-4, 6-7 (8), 6-3. De Minaur d. Sakamoto 7-6 (6), 6-4."
   ],
   "keyPlayers": [
-    {
-      "name": "Jannik Sinner",
-      "team": "Italy",
-      "hook": "World number one aiming to dominate Shanghai's fast indoor-outdoor conditions."
-    },
-    {
-      "name": "Carlos Alcaraz",
-      "team": "Spain",
-      "hook": "Four-time Grand Slam champion bringing dynamic all-court aggression to Center Court."
-    },
-    {
-      "name": "Alexander Zverev",
-      "team": "Germany",
-      "hook": "Safely through to the round of 16 after grinding out a 6-4, 6-7, 6-3 win."
-    }
+    {"name": "Zizou Bergs", "team": "Belgium", "hook": "Beat Alcaraz 7-5, 7-6 (4)."},
+    {"name": "Carlos Alcaraz", "team": "Spain", "hook": "Second seed, out in the round of 32."},
+    {"name": "Alexander Zverev", "team": "Germany", "hook": "Year-end No. 1. Beat Halys on Sunday. Plays Bublik next."}
   ],
-  "headToHead": "Sinner and Alcaraz have split their previous eight career meetings at the Masters 1000 level.",
-  "tags": [
-    "tennis",
-    "atp",
-    "shanghai-masters",
-    "sinner",
-    "alcaraz",
-    "zverev",
-    "qizhong"
-  ],
-  "home": "Jannik Sinner",
+  "headToHead": "Bergs won in straight sets. Reuters says their only previous meeting went to Alcaraz at last year's Japan Open.",
+  "tags": ["tennis", "atp", "shanghai-masters", "bergs", "alcaraz", "zverev", "qizhong"],
+  "home": "Zizou Bergs",
   "away": "Carlos Alcaraz",
   "homeCode": null,
   "awayCode": null,
   "homeFlag": "",
   "awayFlag": "",
   "group": "ATP Masters 1000",
-  "matchday": 5,
+  "matchday": 8,
   "date": "2026-10-12",
-  "time": "12:30",
+  "time": "12:00",
   "venue": "Qizhong Forest Sports City Arena",
   "city": "Shanghai",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 0,
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/209905/pexels-photo-209905.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
@@ -64,18 +44,24 @@
   "competition": "atp-2026",
   "format": "singles",
   "season": "2026",
-  "roundLabel": "Shanghai Masters · Round of 32 Finale",
-  "resultSummary": "UPCOMING: Sinner, Alcaraz on Center Court · Monday at Qizhong Arena",
-  "leaderboard": [],
-  "tennisSets": [],
+  "roundLabel": "Shanghai Masters · Round of 32",
+  "resultSummary": "FINAL: Bergs d. Alcaraz 7-5, 7-6 (4). Zverev is year-end No. 1. Sinner is not in the draw.",
+  "leaderboard": [
+    {"pos": "R32", "name": "Zizou Bergs", "score": "7-5, 7-6 (4)", "note": "d. Carlos Alcaraz (2)"},
+    {"pos": "R32", "name": "Felix Auger-Aliassime", "score": "6-3, 4-6, 6-1", "note": "d. Pablo Carreno Busta"},
+    {"pos": "R32", "name": "Daniil Medvedev", "score": "6-2, 6-3", "note": "d. Dalibor Svrcina"},
+    {"pos": "R32", "name": "Botic van de Zandschulp", "score": "7-5, 6-4", "note": "d. Arthur Fils"},
+    {"pos": "R32", "name": "Stefanos Tsitsipas", "score": "3-6, 7-5, 6-3", "note": "d. Taylor Fritz"},
+    {"pos": "R32", "name": "Rafael Jodar", "score": "4-6, 7-6 (2), 6-4", "note": "d. Jiri Lehecka"},
+    {"pos": "R32", "name": "Casper Ruud", "score": "6-4, 7-6 (3)", "note": "d. Learner Tien"},
+    {"pos": "R32", "name": "Tommy Paul", "score": "6-4, 6-2", "note": "d. Valentin Vacherot"}
+  ],
+  "tennisSets": [
+    {"p1": "7", "p2": "5"},
+    {"p1": "7", "p2": "6 (4)"}
+  ],
   "sources": [
-    {
-      "name": "Rolex Shanghai Masters Order of Play",
-      "url": "https://www.rolexshanghaimasters.com/schedule"
-    },
-    {
-      "name": "ATP Tour Shanghai scores and draw",
-      "url": "https://www.atptour.com/en/scores/current/shanghai/5014/draws"
-    }
+    {"name": "ATP Tour Shanghai results", "url": "https://www.atptour.com/en/news/shanghai-2026-results"},
+    {"name": "Reuters", "url": "https://www.reuters.com/sports/tennis/bergs-shocks-alcaraz-shanghai-zverev-claims-year-end-top-ranking-2026-10-12/"}
   ]
 }

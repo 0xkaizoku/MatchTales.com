@@ -1,46 +1,26 @@
 {
   "slug": "baycurrent-classic-yokohama-final-round-2026",
-  "headline": "Baycurrent Classic: Michael Brennan fires 67 to triumph at Yokohama",
+  "headline": "Baycurrent Classic: Michael Brennan wins at 16 under with a closing 68",
   "whyCareScore": 9.3,
-  "whyCareReason": "Max Homa (-14) leads Jacob Bridgeman (-13) and Keith Mitchell (-12) into Championship Sunday with 500 FedExCup Fall points on the line.",
-  "teaser": "Leaders tee off at 10:48 AM JST at Yokohama Country Club. Hideki Matsuyama sits four back at 10 under.",
-  "story": "Michael Brennan captured the inaugural Baycurrent Classic at Yokohama Country Club on Championship Sunday, carding a clinical 4-under 67 to finish at 16 under par (268). Brennan held off Jacob Bridgeman (-15) and Keith Mitchell (-15) by one stroke to claim his third PGA Tour victory and the $1.44 million winner's prize. 54-hole leader Max Homa struggled on Sunday, posting a 2-over 73 to finish tied for 11th at 10 under par, while home favorite Hideki Matsuyama tied for sixth at 11 under.",
-  "stakes": "The victor secures 500 FedExCup Fall points, full PGA Tour status through 2028, and entry into the 2027 Masters.",
-  "rivalryAngle": "Homa's veteran experience against Bridgeman's pursuit of a maiden PGA Tour breakthrough.",
+  "whyCareReason": "Brennan finished one shot clear of Mitchell and Bridgeman. The winner's check is $1.44 million. Homa tied for 13th at 11 under.",
+  "teaser": "Final at Yokohama Country Club: Brennan 268 (-16). Mitchell and Bridgeman -15.",
+  "story": "Michael Brennan won the Baycurrent Classic with a final-round 68 and a total of 268, 16 under par, on the par-71 Yokohama Country Club. He earned $1.44 million, his third PGA Tour title. Keith Mitchell and Jacob Bridgeman tied for second at 15 under and each earned $704,000. Mitchell shot 68. Bridgeman shot 69. Defending champion Xander Schauffele tied for fourth at 13 under. Max Homa tied for 13th at 11 under. Hideki Matsuyama tied for 21st at 9 under.",
+  "stakes": "One shot decided the title. Brennan started the last round tied at 13 under with Bridgeman and Zach Bauchou.",
+  "rivalryAngle": "Schauffele was the defending champion and finished tied for fourth. The event was not a first-time tournament.",
   "funFacts": [
-    "Max Homa has converted three of his four career 54-hole leads on the PGA Tour into victories.",
-    "Yokohama Country Club's closing 18th hole has yielded 14 birdies and 8 bogeys through three rounds.",
-    "Japanese hero Hideki Matsuyama is chasing a record-tying 11th career PGA Tour victory."
+    "Brennan closed with a 3-under 68. Total 268. Winner's check $1.44 million.",
+    "Mitchell and Bridgeman tied for second at 15 under, $704,000 each.",
+    "Homa finished T13 at 11 under. Matsuyama finished T21 at 9 under."
   ],
   "keyPlayers": [
-    {
-      "name": "Max Homa",
-      "team": "United States",
-      "hook": "Fired a Saturday 66 to seize solo control of the tournament at 14 under par."
-    },
-    {
-      "name": "Jacob Bridgeman",
-      "team": "United States",
-      "hook": "Hunting a maiden PGA Tour title from the final group just one shot behind."
-    },
-    {
-      "name": "Hideki Matsuyama",
-      "team": "Japan",
-      "hook": "Home hero lurking four shots back after an electrifying Moving Day charge."
-    }
+    {"name": "Michael Brennan", "team": "United States", "hook": "Won at 16 under with a closing 68. $1.44 million."},
+    {"name": "Keith Mitchell", "team": "United States", "hook": "Tied for second at 15 under after a final-round 68."},
+    {"name": "Jacob Bridgeman", "team": "United States", "hook": "Tied for second at 15 under after a final-round 69."}
   ],
-  "headToHead": "Homa leads Bridgeman by one stroke and Mitchell by two entering Sunday's final group.",
-  "tags": [
-    "golf",
-    "pga-tour",
-    "baycurrent-classic",
-    "yokohama",
-    "max-homa",
-    "final-round",
-    "championship-sunday"
-  ],
-  "home": "Max Homa",
-  "away": "Jacob Bridgeman",
+  "headToHead": "Brennan -16, Mitchell -15, Bridgeman -15.",
+  "tags": ["golf", "pga-tour", "baycurrent-classic", "yokohama", "michael-brennan", "final-round"],
+  "home": "Michael Brennan",
+  "away": "Keith Mitchell",
   "homeCode": null,
   "awayCode": null,
   "homeFlag": "",
@@ -65,66 +45,21 @@
   "format": "leaderboard",
   "season": "2026",
   "roundLabel": "Baycurrent Classic · Final Round",
-  "resultSummary": "FINAL: Michael Brennan (-16) wins inaugural Baycurrent Classic over Bridgeman (-15) and Mitchell (-15)",
+  "resultSummary": "FINAL: Michael Brennan (-16) wins. Mitchell and Bridgeman T2 at -15. Homa T13 at -11.",
   "leaderboard": [
-    {
-      "pos": "1",
-      "name": "Michael Brennan",
-      "score": "-16",
-      "note": "268 (68-67-66-67) · Champion ($1.44M)"
-    },
-    {
-      "pos": "T2",
-      "name": "Jacob Bridgeman",
-      "score": "-15",
-      "note": "269 (65-66-69-69) · Runner-Up ($704K)"
-    },
-    {
-      "pos": "T2",
-      "name": "Keith Mitchell",
-      "score": "-15",
-      "note": "269 (66-65-70-68) · Runner-Up ($704K)"
-    },
-    {
-      "pos": "4",
-      "name": "Zach Bauchou",
-      "score": "-13",
-      "note": "271 (67-68-67-69)"
-    },
-    {
-      "pos": "5",
-      "name": "Ben Kohles",
-      "score": "-12",
-      "note": "272 (67-68-67-70)"
-    },
-    {
-      "pos": "T6",
-      "name": "Hideki Matsuyama",
-      "score": "-11",
-      "note": "273 (69-68-66-70)"
-    },
-    {
-      "pos": "T6",
-      "name": "Justin Thomas",
-      "score": "-11",
-      "note": "273 (68-68-67-70)"
-    },
-    {
-      "pos": "T11",
-      "name": "Max Homa",
-      "score": "-10",
-      "note": "274 (68-67-66-73)"
-    }
+    {"pos": "1", "name": "Michael Brennan", "score": "-16", "note": "Final-round 68. 268. $1,440,000"},
+    {"pos": "T2", "name": "Keith Mitchell", "score": "-15", "note": "Final-round 68. $704,000"},
+    {"pos": "T2", "name": "Jacob Bridgeman", "score": "-15", "note": "Final-round 69. $704,000"},
+    {"pos": "T4", "name": "Xander Schauffele", "score": "-13", "note": "Defending champion. $301,600"},
+    {"pos": "T4", "name": "Brian Harman", "score": "-13", "note": "$301,600"},
+    {"pos": "T4", "name": "Stephan Jaeger", "score": "-13", "note": "$301,600"},
+    {"pos": "T4", "name": "Ryan Gerard", "score": "-13", "note": "$301,600"},
+    {"pos": "T4", "name": "Jordan Smith", "score": "-13", "note": "$301,600"},
+    {"pos": "T13", "name": "Max Homa", "score": "-11", "note": "Tied with Spieth, Roy and Adam Scott. $156,800"}
   ],
   "tennisSets": [],
   "sources": [
-    {
-      "name": "PGA Tour Official Final Round leaderboard",
-      "url": "https://www.pgatour.com/tournaments/2026/baycurrent-classic/leaderboard"
-    },
-    {
-      "name": "Golf Channel Championship Sunday preview",
-      "url": "https://www.golfchannel.com/tours/pga-tour/2026/baycurrent-classic"
-    }
+    {"name": "Golfweek", "url": "https://golfweek.usatoday.com/story/sports/golf/pga/2026/10/11/michael-brennan-wins-2026-baycurrent-classic-title/92202229007/"},
+    {"name": "Golfmagic prize money", "url": "https://www.golfmagic.com/tour/pga-tour/baycurrent-classic-final-scores-and-prize-money-payouts-michael-brennan-seals-pga"}
   ]
 }

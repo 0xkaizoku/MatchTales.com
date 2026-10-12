@@ -1,73 +1,56 @@
 {
+  "slug": "liverpool-vs-manchester-city-mw6-2026",
+  "headline": "Premier League MW6: Manchester City beat Liverpool 3-0 at Anfield",
+  "whyCareScore": 9.7,
+  "whyCareReason": "City are alone on 18 points after a 3-0 win at Anfield. Arsenal have 15. Liverpool are ninth on 9.",
+  "teaser": "Final: Liverpool 0-3 Manchester City. Haaland 65, Doku 68, Cherki 78, after Gravenberch's second yellow.",
+  "story": "Manchester City beat Liverpool 3-0 at Anfield on Sunday. The score was 0-0 when Ryan Gravenberch was sent off for a second yellow. Erling Haaland scored in the 65th minute from Jeremy Doku's deflected shot. Doku scored in the 68th minute. Rayan Cherki scored in the 78th minute. Enzo Maresca's side have 18 points from six wins, 16 goals for and 5 against. Liverpool's report called it their first league defeat of 2026-27. They sit ninth on 9 points.",
+  "stakes": "The win puts City three points clear of Arsenal. Liverpool drop to ninth, level on 9 points with Leeds and Hull.",
+  "rivalryAngle": "Anfield was the Matchweek 6 meeting that separated a perfect City side from an unbeaten Liverpool side.",
   "funFacts": [
-    "Manchester City are the only team in the Premier League with a perfect 5-0-0 record (15 points).",
-    "Liverpool enter Matchweek 6 unbeaten on 9 points (2 wins, 3 draws).",
-    "This is the marquee fixture of Matchweek 6 as domestic football returns from the October break."
+    "City are 6-0-0 with 18 points, 16 goals for and 5 against.",
+    "Liverpool's first league defeat of 2026-27 leaves them ninth on 9 points, goal difference zero.",
+    "The club report lists Haaland 65, Doku 68 and Cherki 78."
   ],
   "keyPlayers": [
-    {
-      "name": "Erling Haaland",
-      "team": "Manchester City",
-      "hook": "Leads the Premier League scoring charts having found the net in all five matches."
-    },
-    {
-      "name": "Mohamed Salah",
-      "team": "Liverpool",
-      "hook": "Aims to halt City's flawless start before a raucous Anfield home crowd."
-    }
+    {"name": "Erling Haaland", "team": "Manchester City", "hook": "Scored in the 65th minute from Doku's deflected shot."},
+    {"name": "Jeremy Doku", "team": "Manchester City", "hook": "Scored in the 68th minute and started the move for the first goal."},
+    {"name": "Rayan Cherki", "team": "Manchester City", "hook": "Scored the third from close range in the 78th minute."}
   ],
-  "headToHead": "Manchester City and Liverpool battle at Anfield in the defining showdown of Matchweek 6.",
-  "tags": [
-    "premier-league",
-    "liverpool",
-    "manchester-city",
-    "matchweek-6"
-  ],
+  "headToHead": "Liverpool 0-3 Manchester City at Anfield on 11 October 2026.",
+  "tags": ["premier-league", "liverpool", "manchester-city", "matchweek-6"],
+  "home": "Liverpool",
+  "away": "Manchester City",
   "homeCode": "LIV",
   "awayCode": "MCI",
   "homeFlag": "gb-eng",
   "awayFlag": "gb-eng",
+  "group": "Premier League",
   "matchday": 6,
+  "date": "2026-10-11",
+  "time": "16:30",
+  "venue": "Anfield",
+  "city": "Liverpool",
+  "status": "FINISHED",
+  "homeScore": 0,
+  "awayScore": 3,
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
   "decidedBy": null,
   "homePen": null,
   "awayPen": null,
+  "sport": "soccer",
+  "competition": "premier-league-2026-27",
+  "format": "team-match",
   "season": "2026/27",
   "roundLabel": "Premier League · Matchweek 6",
-  "resultSummary": "FINAL: Liverpool 0-3 Manchester City · Anfield (Haaland 65', Doku 68', Cherki 78', Gravenberch RC 62')",
+  "resultSummary": "FINAL: Liverpool 0-3 Manchester City. Haaland 65, Doku 68, Cherki 78. Gravenberch sent off.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
-    {
-      "name": "PremierLeague.com Matchweek 6 fixtures",
-      "url": "https://www.premierleague.com/fixtures"
-    },
-    {
-      "name": "Sky Sports Premier League hub",
-      "url": "https://www.skysports.com/premier-league"
-    }
-  ],
-  "format": "team-match",
-  "homeScore": 0,
-  "awayScore": 3,
-  "slug": "liverpool-vs-manchester-city-mw6-2026",
-  "headline": "Premier League MW6: Manchester City dismantle Liverpool 3-0 at Anfield",
-  "whyCareScore": 9.7,
-  "whyCareReason": "After Arsenal's Saturday win drew them level on 15 points, Manchester City travel to Anfield needing a result to regain solo first place.",
-  "teaser": "City have won five of five. Liverpool are unbeaten on nine points. Sunday 16:30 BST at Anfield is the weekend's blockbuster.",
-  "story": "Manchester City delivered a devastating statement of intent at Anfield on Sunday afternoon, defeating Liverpool 3-0 to move three points clear atop the Premier League with a perfect 18 points. After an absorbing, scoreless opening hour, the encounter swung decisively on Ryan Gravenberch's 62nd-minute red card. Erling Haaland broke the deadlock three minutes later, nodding home Kevin De Bruyne's cross for his ninth league goal. Jeremy Doku doubled the advantage with a curling strike from distance, before Rayan Cherki finished off a counterattack to seal City's six consecutive victory.",
-  "stakes": "A City victory extends their lead at the top of the table. A Liverpool win would pull the Reds within three points of the summit.",
-  "rivalryAngle": "Modern English football's highest-caliber rivalry resumes with title momentum in the balance.",
-  "home": "Liverpool",
-  "away": "Manchester City",
-  "group": "Premier League",
-  "date": "2026-10-11",
-  "time": "16:30",
-  "venue": "Anfield",
-  "city": "Liverpool",
-  "status": "FINISHED",
-  "sport": "soccer",
-  "competition": "premier-league-2026-27"
+    {"name": "Manchester City match report", "url": "https://www.mancity.com/news/mens/liverpool-v-city-premier-league-match-report-october-2026-63927325"},
+    {"name": "ESPN recap", "url": "https://www.espn.com/soccer/story/_/id/50158413/liverpool-man-city-premier-league-result-score-recap-erling-haaland-ryan-gravenberch-jeremy-doku-rayan-cherki"},
+    {"name": "Liverpool FC match report", "url": "https://www.liverpoolfc.com/news/match-report-liverpool-man-city-premier-league-anfield"}
+  ]
 }

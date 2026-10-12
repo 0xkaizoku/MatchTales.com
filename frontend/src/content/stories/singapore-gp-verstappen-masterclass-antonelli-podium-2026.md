@@ -1,8 +1,8 @@
 ---
-title: "Singapore GP: Verstappen conquers Marina Bay as Antonelli strengthens championship grip"
-subtitle: "Verstappen converts pole into dominant 73rd career win; Antonelli takes podium while Russell battles to ninth."
+title: "Singapore GP: Verstappen wins from pole as Antonelli's lead grows to 102 points"
+subtitle: "Official classification: Leclerc second by 7.335 seconds, Antonelli third by 24.573. Russell ninth from 19th."
 category: "Desk"
-excerpt: "Formula1.com race classification confirms Max Verstappen's victory under the Singapore floodlights ahead of Charles Leclerc and Kimi Antonelli."
+excerpt: "Formula1.com lists Max Verstappen first in the 62-lap Singapore Grand Prix. Kimi Antonelli has 340 points, 102 ahead of George Russell."
 image: "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80"
 readingTime: 5
 pubDate: 2026-10-12
@@ -10,22 +10,20 @@ sport: f1
 competition: formula-1-2026
 relatedSlug: singapore-gp-main-race-2026
 sources:
-  - name: "Formula1.com official Singapore classification"
-    url: "https://www.formula1.com/en/results/2026/races/singapore/race-result"
-  - name: "Motorsport.com Marina Bay race report"
-    url: "https://www.motorsport.com/f1/news/singapore-gp-verstappen-wins-2026"
-  - name: "Autosport F1 technical review"
-    url: "https://www.autosport.com/f1/news/singapore-gp-analysis-2026"
+  - name: "Formula1.com Singapore race result"
+    url: "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+  - name: "Formula1.com 2026 drivers' standings"
+    url: "https://www.formula1.com/en/results/2026/drivers"
+  - name: "BBC Sport Singapore Grand Prix report"
+    url: "https://www.bbc.co.uk/sport/formula1/articles/c84g1p2ql9z5o"
 ---
 
-## Verstappen masterclass under the lights
+## A first Marina Bay win, on the official clock
 
-Max Verstappen completed a flawless clean sweep at the Marina Bay Street Circuit on Sunday night, converting his Saturday Sprint win and pole position into a commanding victory in the 2026 Singapore Grand Prix. Over 62 demanding laps under the Singapore floodlights, the Dutch four-time world champion controlled the race from the front, taking his 73rd career Grand Prix win and his very first triumph on Singapore soil.
+Max Verstappen won the Singapore Grand Prix from pole on Sunday, his first victory at Marina Bay. Formula1.com times the 62 laps at 1:42:00.785. Charles Leclerc finished second, 7.335 seconds back, and scored 18 points. Kimi Antonelli was third, 24.573 seconds back, and scored 15. Verstappen also won Saturday's sprint.
 
-Charles Leclerc pushed Verstappen all evening, bringing his Ferrari home in second place just 4.2 seconds adrift. But the most significant drive in the title fight belonged to rookie points leader Kimi Antonelli. Starting fourth, the 20-year-old Mercedes prodigy executed an undercut during the lap 24 safety car period to pass Lando Norris, holding on for third place to celebrate his seventh podium of the year and expand his championship tally to 339 points.
+Lando Norris was fourth, Oscar Piastri fifth and Lewis Hamilton sixth. Liam Lawson finished seventh and Nico Hulkenberg eighth. George Russell, who started 19th, was ninth, 84.677 seconds behind, and scored two points. Isack Hadjar took the last point in 10th.
 
-## Heading into the Americas triple-header
+## The championship after Marina Bay
 
-For teammate George Russell, Sunday proved an uphill slog after engine penalty troubles dropped him through the pack, eventually salvaging ninth place and two points (245 pts). Antonelli's lead now stands at an imposing 94 points over Russell, with Verstappen closing to within 24 points of second place.
-
-With Mercedes leading Ferrari in the constructors' championship by 145 points, Formula 1 now packs its crates for the Americas triple-header, starting with the United States Grand Prix at Circuit of the Americas in Austin.
+The official drivers' standings now read Antonelli 340, Russell 238, Hamilton 229, Verstappen 221, Leclerc 215 and Norris 201. Antonelli's lead over Russell is 102 points. Mercedes lead the constructors' championship with 578 points, 134 ahead of Ferrari on 444. McLaren have 339 and Red Bull 332. The next round is the United States Grand Prix in Austin.

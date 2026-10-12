@@ -1,46 +1,26 @@
 {
   "slug": "singapore-gp-main-race-2026",
-  "headline": "Singapore GP: Max Verstappen dominates from pole for first Marina Bay victory",
+  "headline": "Singapore GP: Verstappen wins from pole. Antonelli leads by 102 points",
   "whyCareScore": 9.6,
-  "whyCareReason": "Verstappen starts on pole alongside Russell as championship leader Antonelli fights from fourth to protect his title advantage.",
-  "teaser": "Lights out under the Marina Bay floodlights at 20:00 local time (12:00 UTC). 62 laps of grueling physical endurance.",
-  "story": "Max Verstappen delivered a flawless lights-to-flag masterclass under the Marina Bay floodlights on Sunday evening, securing his 73rd career Grand Prix victory and his first ever triumph in Singapore. Starting on pole position, the Red Bull driver controlled all 62 laps despite safety car restarts. Charles Leclerc brought Ferrari home in second (+4.2s), while championship leader Kimi Antonelli drove a mature race to round out the podium in third (+8.5s), extending his drivers' standings lead to 94 points over George Russell, who finished ninth following engine grid penalties.",
-  "stakes": "A Russell victory cuts deeply into Antonelli's points lead, while Verstappen seeks back-to-back weekend perfection in Singapore.",
-  "rivalryAngle": "Verstappen, Russell, Leclerc, and Antonelli fight wheel-to-wheel down the drag to Turn 1.",
+  "whyCareReason": "Formula1.com has Verstappen first, Leclerc 7.335 seconds back and Antonelli 24.573 back. Antonelli has 340 points.",
+  "teaser": "62 laps in 1:42:00.785. Russell finished ninth from 19th on the grid.",
+  "story": "Max Verstappen won the Singapore Grand Prix from pole. The official time is 1:42:00.785 for 62 laps. Charles Leclerc was second at +7.335s. Kimi Antonelli was third at +24.573s. Verstappen also won the sprint. George Russell started 19th and finished ninth. The drivers' standings: Antonelli 340, Russell 238, Hamilton 229, Verstappen 221, Leclerc 215, Norris 201. Mercedes have 578 constructors' points, Ferrari 444.",
+  "stakes": "Antonelli's lead over Russell is 102 points. Verstappen is fourth, 119 behind the leader.",
+  "rivalryAngle": "A first Marina Bay win for Verstappen, and a podium that widened the championship gap.",
   "funFacts": [
-    "Marina Bay is the only Grand Prix on the calendar where the Safety Car has appeared in every single edition.",
-    "Drivers can lose up to three kilograms of body weight during the grueling two-hour race.",
-    "Verstappen swept both Sprint victory and GP pole on Saturday in Singapore."
+    "Race time 1:42:00.785. Leclerc +7.335. Antonelli +24.573.",
+    "Antonelli 340, Russell 238. The gap is 102 points on the official standings.",
+    "Russell started 19th, finished ninth, and scored two points. Hadjar scored the last point in 10th."
   ],
   "keyPlayers": [
-    {
-      "name": "Max Verstappen",
-      "team": "Red Bull Racing",
-      "hook": "Pole sitter aiming for a dominant lights-to-flag victory on the streets of Singapore."
-    },
-    {
-      "name": "George Russell",
-      "team": "Mercedes",
-      "hook": "Starts on the front row looking to claim crucial points in the title fight."
-    },
-    {
-      "name": "Kimi Antonelli",
-      "team": "Mercedes",
-      "hook": "Points leader starting fourth with a mission to secure a podium and protect his championship lead."
-    }
+    {"name": "Max Verstappen", "team": "Red Bull Racing", "hook": "Won from pole in 1:42:00.785. Also won the sprint."},
+    {"name": "Charles Leclerc", "team": "Ferrari", "hook": "Second, 7.335 seconds behind, 18 points."},
+    {"name": "Kimi Antonelli", "team": "Mercedes", "hook": "Third, 24.573 seconds behind. Leads on 340 points."}
   ],
-  "headToHead": "Verstappen edged Russell by just 0.145s in qualifying under the floodlights.",
-  "tags": [
-    "f1",
-    "singapore-gp",
-    "verstappen",
-    "russell",
-    "antonelli",
-    "marina-bay",
-    "night-race"
-  ],
+  "headToHead": "Verstappen, Leclerc, Antonelli. Russell ninth from 19th.",
+  "tags": ["f1", "singapore-gp", "verstappen", "leclerc", "antonelli", "marina-bay"],
   "home": "Max Verstappen",
-  "away": "George Russell",
+  "away": "Charles Leclerc",
   "homeCode": null,
   "awayCode": null,
   "homeFlag": "",
@@ -65,78 +45,22 @@
   "format": "leaderboard",
   "season": "2026",
   "roundLabel": "Singapore Grand Prix · Main Race",
-  "resultSummary": "FINAL: Verstappen wins 62-lap Singapore GP ahead of Leclerc (+4.2s) and Antonelli (+8.5s)",
+  "resultSummary": "FINAL: Verstappen wins. Leclerc +7.335s, Antonelli +24.573s. Antonelli leads Russell by 102 points (340-238).",
   "leaderboard": [
-    {
-      "pos": "1",
-      "name": "Max Verstappen",
-      "score": "1:45:33.210",
-      "note": "Red Bull · Winner (25 pts)"
-    },
-    {
-      "pos": "2",
-      "name": "Charles Leclerc",
-      "score": "+4.218",
-      "note": "Ferrari · P2 (18 pts)"
-    },
-    {
-      "pos": "3",
-      "name": "Kimi Antonelli",
-      "score": "+8.541",
-      "note": "Mercedes · P3 (15 pts)"
-    },
-    {
-      "pos": "4",
-      "name": "Lando Norris",
-      "score": "+12.390",
-      "note": "McLaren · P4 (12 pts)"
-    },
-    {
-      "pos": "5",
-      "name": "Lewis Hamilton",
-      "score": "+15.820",
-      "note": "Ferrari · P5 (10 pts)"
-    },
-    {
-      "pos": "6",
-      "name": "Oscar Piastri",
-      "score": "+21.430",
-      "note": "McLaren · P6 (8 pts)"
-    },
-    {
-      "pos": "7",
-      "name": "Fernando Alonso",
-      "score": "+33.110",
-      "note": "Aston Martin · P7 (6 pts)"
-    },
-    {
-      "pos": "8",
-      "name": "Liam Lawson",
-      "score": "+41.900",
-      "note": "Racing Bulls · P8 (4 pts)"
-    },
-    {
-      "pos": "9",
-      "name": "George Russell",
-      "score": "+48.250",
-      "note": "Mercedes · P9 (2 pts)"
-    },
-    {
-      "pos": "10",
-      "name": "Carlos Sainz",
-      "score": "+55.100",
-      "note": "Williams · P10 (1 pt)"
-    }
+    {"pos": "1", "name": "Max Verstappen", "score": "1:42:00.785", "note": "Red Bull · 25 pts"},
+    {"pos": "2", "name": "Charles Leclerc", "score": "+7.335", "note": "Ferrari · 18 pts"},
+    {"pos": "3", "name": "Kimi Antonelli", "score": "+24.573", "note": "Mercedes · 15 pts"},
+    {"pos": "4", "name": "Lando Norris", "score": "+40.506", "note": "McLaren · 12 pts"},
+    {"pos": "5", "name": "Oscar Piastri", "score": "+49.644", "note": "McLaren · 10 pts"},
+    {"pos": "6", "name": "Lewis Hamilton", "score": "+53.188", "note": "Ferrari · 8 pts"},
+    {"pos": "7", "name": "Liam Lawson", "score": "+81.666", "note": "Racing Bulls · 6 pts"},
+    {"pos": "8", "name": "Nico Hulkenberg", "score": "+83.386", "note": "Audi · 4 pts"},
+    {"pos": "9", "name": "George Russell", "score": "+84.677", "note": "Mercedes · 2 pts · started 19th"},
+    {"pos": "10", "name": "Isack Hadjar", "score": "+90.862", "note": "Red Bull · 1 pt"}
   ],
   "tennisSets": [],
   "sources": [
-    {
-      "name": "Formula1.com official grid",
-      "url": "https://www.formula1.com/en/results/2026/races/singapore/starting-grid"
-    },
-    {
-      "name": "Motorsport.com race hub",
-      "url": "https://www.motorsport.com/f1/news/singapore-gp-starting-grid-2026"
-    }
+    {"name": "Formula1.com race result", "url": "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"},
+    {"name": "Formula1.com drivers' standings", "url": "https://www.formula1.com/en/results/2026/drivers"}
   ]
 }

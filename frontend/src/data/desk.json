@@ -8,9 +8,9 @@
       "w": 6,
       "d": 0,
       "l": 0,
-      "gf": 15,
-      "ga": 2,
-      "gd": 13,
+      "gf": 16,
+      "ga": 5,
+      "gd": 11,
       "pts": 18
     },
     {
@@ -33,36 +33,48 @@
       "d": 1,
       "l": 1,
       "gf": 18,
-      "ga": 6,
-      "gd": 12,
+      "ga": 5,
+      "gd": 13,
       "pts": 13
     },
     {
       "pos": 4,
+      "team": "Brentford",
+      "p": 6,
+      "w": 2,
+      "d": 4,
+      "l": 0,
+      "gf": 12,
+      "ga": 6,
+      "gd": 6,
+      "pts": 10
+    },
+    {
+      "pos": 5,
+      "team": "Everton",
+      "p": 6,
+      "w": 2,
+      "d": 4,
+      "l": 0,
+      "gf": 8,
+      "ga": 5,
+      "gd": 3,
+      "pts": 10
+    },
+    {
+      "pos": 6,
       "team": "Chelsea",
       "p": 6,
       "w": 3,
       "d": 1,
       "l": 2,
-      "gf": 12,
-      "ga": 12,
-      "gd": 0,
+      "gf": 15,
+      "ga": 13,
+      "gd": 2,
       "pts": 10
     },
     {
-      "pos": 5,
-      "team": "Brentford",
-      "p": 5,
-      "w": 2,
-      "d": 3,
-      "l": 0,
-      "gf": 10,
-      "ga": 4,
-      "gd": 6,
-      "pts": 9
-    },
-    {
-      "pos": 6,
+      "pos": 7,
       "team": "Leeds United",
       "p": 6,
       "w": 2,
@@ -74,52 +86,40 @@
       "pts": 9
     },
     {
-      "pos": 7,
+      "pos": 8,
+      "team": "Hull City",
+      "p": 6,
+      "w": 2,
+      "d": 3,
+      "l": 1,
+      "gf": 8,
+      "ga": 6,
+      "gd": 2,
+      "pts": 9
+    },
+    {
+      "pos": 9,
       "team": "Liverpool",
       "p": 6,
       "w": 2,
       "d": 3,
       "l": 1,
       "gf": 7,
-      "ga": 6,
-      "gd": 1,
+      "ga": 7,
+      "gd": 0,
       "pts": 9
-    },
-    {
-      "pos": 8,
-      "team": "Everton",
-      "p": 5,
-      "w": 2,
-      "d": 3,
-      "l": 0,
-      "gf": 6,
-      "ga": 3,
-      "gd": 3,
-      "pts": 9
-    },
-    {
-      "pos": 9,
-      "team": "Manchester United",
-      "p": 6,
-      "w": 2,
-      "d": 2,
-      "l": 2,
-      "gf": 10,
-      "ga": 8,
-      "gd": 2,
-      "pts": 8
     },
     {
       "pos": 10,
-      "team": "Hull City",
-      "p": 5,
-      "w": 2,
-      "d": 2,
-      "l": 1,
-      "gf": 6,
-      "ga": 4,
-      "gd": 2,
-      "pts": 8
+      "team": "Ipswich",
+      "p": 6,
+      "w": 3,
+      "d": 0,
+      "l": 3,
+      "gf": 9,
+      "ga": 12,
+      "gd": -3,
+      "pts": 9
     },
     {
       "pos": 11,
@@ -135,62 +135,62 @@
     },
     {
       "pos": 12,
-      "team": "Ipswich",
-      "p": 5,
+      "team": "Crystal Palace",
+      "p": 6,
       "w": 2,
-      "d": 0,
+      "d": 1,
       "l": 3,
-      "gf": 7,
-      "ga": 11,
-      "gd": -4,
-      "pts": 6
+      "gf": 9,
+      "ga": 12,
+      "gd": -3,
+      "pts": 7
     },
     {
       "pos": 13,
-      "team": "Nottingham Forest",
-      "p": 5,
+      "team": "Manchester United",
+      "p": 6,
       "w": 1,
-      "d": 2,
+      "d": 3,
       "l": 2,
-      "gf": 4,
-      "ga": 5,
-      "gd": -1,
-      "pts": 5
+      "gf": 9,
+      "ga": 9,
+      "gd": 0,
+      "pts": 6
     },
     {
       "pos": 14,
+      "team": "Nottingham Forest",
+      "p": 6,
+      "w": 1,
+      "d": 2,
+      "l": 3,
+      "gf": 5,
+      "ga": 8,
+      "gd": -3,
+      "pts": 5
+    },
+    {
+      "pos": 15,
+      "team": "Aston Villa",
+      "p": 6,
+      "w": 1,
+      "d": 2,
+      "l": 3,
+      "gf": 6,
+      "ga": 11,
+      "gd": -5,
+      "pts": 5
+    },
+    {
+      "pos": 16,
       "team": "Sunderland",
       "p": 6,
       "w": 1,
       "d": 1,
       "l": 4,
-      "gf": 7,
-      "ga": 12,
-      "gd": -5,
-      "pts": 4
-    },
-    {
-      "pos": 15,
-      "team": "Crystal Palace",
-      "p": 5,
-      "w": 1,
-      "d": 1,
-      "l": 3,
       "gf": 6,
-      "ga": 11,
-      "gd": -5,
-      "pts": 4
-    },
-    {
-      "pos": 16,
-      "team": "Aston Villa",
-      "p": 5,
-      "w": 1,
-      "d": 1,
-      "l": 3,
-      "gf": 4,
-      "ga": 9,
-      "gd": -5,
+      "ga": 12,
+      "gd": -6,
       "pts": 4
     },
     {
@@ -200,13 +200,25 @@
       "w": 0,
       "d": 3,
       "l": 3,
-      "gf": 6,
-      "ga": 10,
-      "gd": -4,
+      "gf": 7,
+      "ga": 13,
+      "gd": -6,
       "pts": 3
     },
     {
       "pos": 18,
+      "team": "Tottenham Hotspur",
+      "p": 6,
+      "w": 0,
+      "d": 3,
+      "l": 3,
+      "gf": 3,
+      "ga": 9,
+      "gd": -6,
+      "pts": 3
+    },
+    {
+      "pos": 19,
       "team": "Coventry City",
       "p": 5,
       "w": 1,
@@ -218,27 +230,15 @@
       "pts": 3
     },
     {
-      "pos": 19,
-      "team": "Fulham",
-      "p": 5,
-      "w": 0,
-      "d": 2,
-      "l": 3,
-      "gf": 5,
-      "ga": 8,
-      "gd": -3,
-      "pts": 2
-    },
-    {
       "pos": 20,
-      "team": "Tottenham Hotspur",
+      "team": "Fulham",
       "p": 6,
       "w": 0,
       "d": 2,
       "l": 4,
-      "gf": 2,
+      "gf": 6,
       "ga": 10,
-      "gd": -8,
+      "gd": -4,
       "pts": 2
     }
   ],
@@ -247,59 +247,118 @@
       "pos": 1,
       "name": "Kimi Antonelli",
       "team": "Mercedes",
-      "pts": 339
+      "pts": 340
     },
     {
       "pos": 2,
       "name": "George Russell",
       "team": "Mercedes",
-      "pts": 245
+      "pts": 238
     },
     {
       "pos": 3,
+      "name": "Lewis Hamilton",
+      "team": "Ferrari",
+      "pts": 229
+    },
+    {
+      "pos": 4,
       "name": "Max Verstappen",
       "team": "Red Bull",
       "pts": 221
     },
     {
-      "pos": 4,
+      "pos": 5,
       "name": "Charles Leclerc",
       "team": "Ferrari",
       "pts": 215
     },
     {
-      "pos": 5,
+      "pos": 6,
       "name": "Lando Norris",
       "team": "McLaren",
-      "pts": 205
+      "pts": 201
     },
     {
-      "pos": 6,
+      "pos": 7,
       "name": "Oscar Piastri",
       "team": "McLaren",
-      "pts": 196
+      "pts": 138
+    },
+    {
+      "pos": 8,
+      "name": "Isack Hadjar",
+      "team": "Red Bull",
+      "pts": 97
+    },
+    {
+      "pos": 9,
+      "name": "Liam Lawson",
+      "team": "Racing Bulls",
+      "pts": 75
+    },
+    {
+      "pos": 10,
+      "name": "Pierre Gasly",
+      "team": "Alpine",
+      "pts": 41
     }
   ],
   "f1Constructors": [
     {
       "pos": 1,
       "name": "Mercedes",
-      "pts": 584
+      "pts": 578
     },
     {
       "pos": 2,
       "name": "Ferrari",
-      "pts": 439
+      "pts": 444
     },
     {
       "pos": 3,
       "name": "McLaren",
-      "pts": 341
+      "pts": 339
     },
     {
       "pos": 4,
       "name": "Red Bull",
-      "pts": 331
+      "pts": 332
+    },
+    {
+      "pos": 5,
+      "name": "Racing Bulls",
+      "pts": 100
+    },
+    {
+      "pos": 6,
+      "name": "Alpine",
+      "pts": 68
+    },
+    {
+      "pos": 7,
+      "name": "Haas",
+      "pts": 30
+    },
+    {
+      "pos": 8,
+      "name": "Audi",
+      "pts": 23
+    },
+    {
+      "pos": 9,
+      "name": "Williams",
+      "pts": 12
+    },
+    {
+      "pos": 10,
+      "name": "Aston Martin",
+      "pts": 7
+    },
+    {
+      "pos": 11,
+      "name": "Cadillac",
+      "pts": 0
     }
   ],
   "wnbaSeeds": [

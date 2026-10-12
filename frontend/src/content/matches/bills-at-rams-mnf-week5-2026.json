@@ -1,39 +1,31 @@
 {
   "slug": "bills-at-rams-mnf-week5-2026",
-  "headline": "NFL Week 5 MNF: Bills clash with Rams under SoFi lights in primetime duel",
+  "headline": "NFL Week 5 MNF: Bills (3-1) at Rams (2-2), SoFi Stadium, 8:15 p.m. ET",
   "whyCareScore": 9.5,
-  "whyCareReason": "Josh Allen leads Buffalo into Inglewood against Matthew Stafford and Puka Nacua to cap Week 5 after Sunday overtime drama.",
-  "teaser": "Monday Night Football kickoff is 8:15 p.m. ET on ESPN and ABC from SoFi Stadium in Los Angeles.",
-  "story": "Week 5 of the 2026 NFL season concludes with a blockbuster cross-conference showdown as the Buffalo Bills visit the Los Angeles Rams at SoFi Stadium on Monday Night Football. Josh Allen commands a high-flying Buffalo offense seeking to keep pace in the competitive AFC East race. Sean McVay's Rams welcome back key defensive pieces and look to lean on Kyren Williams and Matthew Stafford before a raucous California home crowd. After a Sunday slate featuring overtime finishes and undefeated runs, Monday night delivers the ultimate Week 5 exclamation point.",
-  "stakes": "A Buffalo victory vaults them to 4-1 alongside the AFC elite, while a Rams win pulls Los Angeles into a tie atop the NFC West.",
-  "rivalryAngle": "Two premier franchise quarterbacks duel in prime time under the multimillion-dollar canopy of SoFi Stadium.",
+  "whyCareReason": "ESPN lists Buffalo at the Rams to close Week 5. The Ravens already won 30-23 in overtime. No Monday score is posted.",
+  "teaser": "Monday Night Football kickoff is 8:15 p.m. ET on ESPN and ABC from SoFi Stadium. Status stays upcoming.",
+  "story": "ESPN lists the Buffalo Bills (3-1) at the Los Angeles Rams (2-2) for Monday Night Football at SoFi Stadium. Kickoff is 8:15 p.m. ET on ESPN and ABC. The board has no score, so this match stays upcoming. Sunday night, the Ravens beat the Falcons 30-23 in overtime. The Vikings are 5-0 after a 23-13 win at the Saints. The 49ers are 5-0 after a 32-29 win at the Seahawks. The Chiefs are 4-0 on their Week 5 bye.",
+  "stakes": "A Bills win makes Buffalo 4-1. A Rams win makes Los Angeles 3-2, still behind the 5-0 49ers in the NFC West.",
+  "rivalryAngle": "Week 5's last game is a cross-conference kickoff in Inglewood, after an overtime Sunday night in Atlanta.",
   "funFacts": [
-    "SoFi Stadium hosted Super Bowl LVI where Matthew Stafford and the Rams claimed the Lombardi Trophy.",
-    "Josh Allen has thrown at least two touchdown passes in six of his last seven Monday Night Football appearances.",
-    "The Minnesota Vikings and San Francisco 49ers stand at 5-0 while the Chiefs are 4-0 following Sunday results."
+    "ESPN lists kickoff at 8:15 p.m. ET at SoFi Stadium on ESPN and ABC. No score is posted.",
+    "Ravens quarters were 3, 6, 6, 8 and 7. Falcons quarters were 7, 7, 3, 6 and 0. Final: 30-23 in overtime.",
+    "Vikings 23-13 Saints and 49ers 32-29 Seahawks. Both winners are 5-0. Bills are 3-1 and Rams are 2-2."
   ],
   "keyPlayers": [
     {
-      "name": "Josh Allen",
+      "name": "Buffalo Bills",
       "team": "Buffalo Bills",
-      "hook": "Dynamic playmaker capable of dominating games through both air and ground."
+      "hook": "Enter at 3-1 on the road. A win would make them 4-1."
     },
     {
-      "name": "Matthew Stafford",
+      "name": "Los Angeles Rams",
       "team": "Los Angeles Rams",
-      "hook": "Veteran signal-caller orchestrating an offense that leads the NFC in red zone efficiency."
+      "hook": "Enter at 2-2 at home. ESPN lists the kickoff at 8:15 p.m. ET."
     }
   ],
-  "headToHead": "Buffalo and the Rams have split their last four regular-season meetings.",
-  "tags": [
-    "football",
-    "nfl",
-    "bills",
-    "rams",
-    "mnf",
-    "week-5",
-    "sofi-stadium"
-  ],
+  "headToHead": "The Monday game has not been played. Sunday's overtime final was Ravens 30, Falcons 23.",
+  "tags": ["football", "nfl", "bills", "rams", "mnf", "week-5", "sofi-stadium"],
   "home": "Los Angeles Rams",
   "away": "Buffalo Bills",
   "homeCode": "LAR",
@@ -60,17 +52,11 @@
   "format": "team-match",
   "season": "2026",
   "roundLabel": "NFL Week 5 · Monday Night Football",
-  "resultSummary": "UPCOMING: Bills at Rams, Monday 8:15 p.m. ET on ESPN/ABC at SoFi Stadium",
+  "resultSummary": "UPCOMING: Bills (3-1) at Rams (2-2), Monday 8:15 p.m. ET on ESPN/ABC at SoFi Stadium. No score.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
-    {
-      "name": "NFL.com Week 5 schedule",
-      "url": "https://www.nfl.com/schedules/2026/reg5"
-    },
-    {
-      "name": "ESPN Monday Night Football hub",
-      "url": "https://www.espn.com/nfl/schedule"
-    }
+    {"name": "ESPN NFL scoreboard", "url": "https://www.espn.com/nfl/scoreboard"},
+    {"name": "NFL Week 5 schedule", "url": "https://nflschedules.com/weeks/2026/week-5/"}
   ]
 }
