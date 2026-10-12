@@ -1,10 +1,10 @@
 {
   "slug": "baycurrent-classic-yokohama-final-round-2026",
-  "headline": "Baycurrent Classic Final Round: Max Homa holds 54-hole lead in Yokohama",
+  "headline": "Baycurrent Classic: Michael Brennan fires 67 to triumph at Yokohama",
   "whyCareScore": 9.3,
   "whyCareReason": "Max Homa (-14) leads Jacob Bridgeman (-13) and Keith Mitchell (-12) into Championship Sunday with 500 FedExCup Fall points on the line.",
   "teaser": "Leaders tee off at 10:48 AM JST at Yokohama Country Club. Hideki Matsuyama sits four back at 10 under.",
-  "story": "Championship Sunday arrives at Yokohama Country Club as the inaugural Baycurrent Classic reaches its climax on the par-71 West Course. Six-time PGA Tour winner Max Homa vaulted to the top of the leaderboard with a flawless third-round 66, establishing a 54-hole total of 14 under par (199). Homa holds a one-stroke lead over Jacob Bridgeman (-13) and two strokes over Keith Mitchell (-12) in the final pairing. With home favorite Hideki Matsuyama firing a third-round 66 to close within four shots at 10 under alongside Justin Thomas, Sunday promises a high-drama shootout for the 1.44 million dollar winner's check and a two-year PGA Tour exemption.",
+  "story": "Michael Brennan captured the inaugural Baycurrent Classic at Yokohama Country Club on Championship Sunday, carding a clinical 4-under 67 to finish at 16 under par (268). Brennan held off Jacob Bridgeman (-15) and Keith Mitchell (-15) by one stroke to claim his third PGA Tour victory and the $1.44 million winner's prize. 54-hole leader Max Homa struggled on Sunday, posting a 2-over 73 to finish tied for 11th at 10 under par, while home favorite Hideki Matsuyama tied for sixth at 11 under.",
   "stakes": "The victor secures 500 FedExCup Fall points, full PGA Tour status through 2028, and entry into the 2027 Masters.",
   "rivalryAngle": "Homa's veteran experience against Bridgeman's pursuit of a maiden PGA Tour breakthrough.",
   "funFacts": [
@@ -51,7 +51,7 @@
   "time": "10:48",
   "venue": "Yokohama Country Club",
   "city": "Yokohama",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "homeScore": null,
   "awayScore": null,
   "marquee": true,
@@ -65,49 +65,55 @@
   "format": "leaderboard",
   "season": "2026",
   "roundLabel": "Baycurrent Classic · Final Round",
-  "resultSummary": "UPCOMING: Championship Sunday. Homa (-14), Bridgeman (-13), Mitchell (-12), Matsuyama (-10)",
+  "resultSummary": "FINAL: Michael Brennan (-16) wins inaugural Baycurrent Classic over Bridgeman (-15) and Mitchell (-15)",
   "leaderboard": [
     {
       "pos": "1",
-      "name": "Max Homa",
-      "score": "-14",
-      "note": "199 (68-67-66) · Final Group"
+      "name": "Michael Brennan",
+      "score": "-16",
+      "note": "268 (68-67-66-67) · Champion ($1.44M)"
     },
     {
-      "pos": "2",
+      "pos": "T2",
       "name": "Jacob Bridgeman",
-      "score": "-13",
-      "note": "200 (65-66-69) · Final Group"
+      "score": "-15",
+      "note": "269 (65-66-69-69) · Runner-Up ($704K)"
     },
     {
-      "pos": "3",
+      "pos": "T2",
       "name": "Keith Mitchell",
-      "score": "-12",
-      "note": "201 (66-65-70) · Final Group"
+      "score": "-15",
+      "note": "269 (66-65-70-68) · Runner-Up ($704K)"
     },
     {
-      "pos": "T4",
-      "name": "Ben Kohles",
-      "score": "-11",
-      "note": "202 (67-68-67)"
-    },
-    {
-      "pos": "T4",
+      "pos": "4",
       "name": "Zach Bauchou",
-      "score": "-11",
-      "note": "202 (67-68-67)"
+      "score": "-13",
+      "note": "271 (67-68-67-69)"
+    },
+    {
+      "pos": "5",
+      "name": "Ben Kohles",
+      "score": "-12",
+      "note": "272 (67-68-67-70)"
     },
     {
       "pos": "T6",
       "name": "Hideki Matsuyama",
-      "score": "-10",
-      "note": "203 (69-68-66) · Crowd Favorite"
+      "score": "-11",
+      "note": "273 (69-68-66-70)"
     },
     {
       "pos": "T6",
       "name": "Justin Thomas",
+      "score": "-11",
+      "note": "273 (68-68-67-70)"
+    },
+    {
+      "pos": "T11",
+      "name": "Max Homa",
       "score": "-10",
-      "note": "203 (68-68-67)"
+      "note": "274 (68-67-66-73)"
     }
   ],
   "tennisSets": [],

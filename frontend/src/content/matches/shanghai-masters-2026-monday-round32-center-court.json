@@ -1,0 +1,81 @@
+{
+  "slug": "shanghai-masters-2026-monday-round32-center-court",
+  "headline": "Shanghai Masters Monday: Sinner and Alcaraz headline Center Court as R16 berths loom",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Jannik Sinner and Carlos Alcaraz return to action at Qizhong Arena looking to join marathon survivor Alexander Zverev in the round of 16.",
+  "teaser": "Monday action begins at 12:30 local at Qizhong Forest Sports City Arena with 1000 ranking points in play.",
+  "story": "The Rolex Shanghai Masters accelerates into the business end of round-of-32 competition on Monday at Qizhong Forest Sports City Arena. Following Sunday's marathon where Alexander Zverev endured a three-set battle against Quentin Halys and Hubert Hurkacz pushed past Yi Zhou, top seeds Jannik Sinner and Carlos Alcaraz return to Center Court. With Novak Djokovic and Ben Shelton already eliminated from the bracket, the tournament path has opened up dramatically for the young titans of men's tennis to make their definitive moves toward the title.",
+  "stakes": "Berths in the prestigious round of 16 and crucial ATP year-end finals qualification points.",
+  "rivalryAngle": "Sinner and Alcaraz eye a potential collision course in the Shanghai final.",
+  "funFacts": [
+    "Alexander Zverev struck 21 aces during his three-set victory over Quentin Halys on Sunday.",
+    "Qizhong Arena's retractable roof features eight sliding petal panels designed to resemble a blooming magnolia flower.",
+    "Jannik Sinner has compiled a 42-4 record on hard courts during the 2026 season."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Jannik Sinner",
+      "team": "Italy",
+      "hook": "World number one aiming to dominate Shanghai's fast indoor-outdoor conditions."
+    },
+    {
+      "name": "Carlos Alcaraz",
+      "team": "Spain",
+      "hook": "Four-time Grand Slam champion bringing dynamic all-court aggression to Center Court."
+    },
+    {
+      "name": "Alexander Zverev",
+      "team": "Germany",
+      "hook": "Safely through to the round of 16 after grinding out a 6-4, 6-7, 6-3 win."
+    }
+  ],
+  "headToHead": "Sinner and Alcaraz have split their previous eight career meetings at the Masters 1000 level.",
+  "tags": [
+    "tennis",
+    "atp",
+    "shanghai-masters",
+    "sinner",
+    "alcaraz",
+    "zverev",
+    "qizhong"
+  ],
+  "home": "Jannik Sinner",
+  "away": "Carlos Alcaraz",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "ATP Masters 1000",
+  "matchday": 5,
+  "date": "2026-10-12",
+  "time": "12:30",
+  "venue": "Qizhong Forest Sports City Arena",
+  "city": "Shanghai",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209905/pexels-photo-209905.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Shanghai Masters · Round of 32 Finale",
+  "resultSummary": "UPCOMING: Sinner, Alcaraz on Center Court · Monday at Qizhong Arena",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Rolex Shanghai Masters Order of Play",
+      "url": "https://www.rolexshanghaimasters.com/schedule"
+    },
+    {
+      "name": "ATP Tour Shanghai scores and draw",
+      "url": "https://www.atptour.com/en/scores/current/shanghai/5014/draws"
+    }
+  ]
+}

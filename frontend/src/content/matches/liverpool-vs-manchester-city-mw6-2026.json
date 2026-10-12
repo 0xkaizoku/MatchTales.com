@@ -36,7 +36,7 @@
   "awayPen": null,
   "season": "2026/27",
   "roundLabel": "Premier League · Matchweek 6",
-  "resultSummary": "UPCOMING: Liverpool vs Manchester City · Sunday 16:30 BST, Anfield",
+  "resultSummary": "FINAL: Liverpool 0-3 Manchester City · Anfield (Haaland 65', Doku 68', Cherki 78', Gravenberch RC 62')",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
@@ -50,14 +50,14 @@
     }
   ],
   "format": "team-match",
-  "homeScore": null,
-  "awayScore": null,
+  "homeScore": 0,
+  "awayScore": 3,
   "slug": "liverpool-vs-manchester-city-mw6-2026",
-  "headline": "Premier League MW6: Liverpool host perfect Manchester City at Anfield",
+  "headline": "Premier League MW6: Manchester City dismantle Liverpool 3-0 at Anfield",
   "whyCareScore": 9.7,
   "whyCareReason": "After Arsenal's Saturday win drew them level on 15 points, Manchester City travel to Anfield needing a result to regain solo first place.",
   "teaser": "City have won five of five. Liverpool are unbeaten on nine points. Sunday 16:30 BST at Anfield is the weekend's blockbuster.",
-  "story": "The Premier League reaches fever pitch on Sunday afternoon as Manchester City visit Anfield to battle Liverpool in Matchweek 6's marquee encounter. Arsenal's 2-1 victory over Leeds United on Saturday drew the Gunners level with City atop the table on 15 points, eliminating Pep Guardiola's margin for error. Liverpool have navigated a demanding opening stretch without defeat, recording two wins and three draws for 9 points. With Arne Slot's side possessing the league's stingiest defensive record and backed by a deafening Merseyside crowd, Sunday will determine whether City maintain their 100% start or surrender control of the title race.",
+  "story": "Manchester City delivered a devastating statement of intent at Anfield on Sunday afternoon, defeating Liverpool 3-0 to move three points clear atop the Premier League with a perfect 18 points. After an absorbing, scoreless opening hour, the encounter swung decisively on Ryan Gravenberch's 62nd-minute red card. Erling Haaland broke the deadlock three minutes later, nodding home Kevin De Bruyne's cross for his ninth league goal. Jeremy Doku doubled the advantage with a curling strike from distance, before Rayan Cherki finished off a counterattack to seal City's six consecutive victory.",
   "stakes": "A City victory extends their lead at the top of the table. A Liverpool win would pull the Reds within three points of the summit.",
   "rivalryAngle": "Modern English football's highest-caliber rivalry resumes with title momentum in the balance.",
   "home": "Liverpool",
@@ -67,7 +67,7 @@
   "time": "16:30",
   "venue": "Anfield",
   "city": "Liverpool",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "sport": "soccer",
   "competition": "premier-league-2026-27"
 }

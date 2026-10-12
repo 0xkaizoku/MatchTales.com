@@ -17,6 +17,9 @@ const upcomingAll = matches
   .sort((a, b) => a.date.localeCompare(b.date) || b.whyCareScore - a.whyCareScore);
 const liveMatch =
   matches.find((m) => m.status === 'LIVE') ||
+  matches.find((m) => m.slug === 'bills-at-rams-mnf-week5-2026') ||
+  matches.find((m) => m.slug === 'shanghai-masters-2026-monday-round32-center-court') ||
+  matches.find((m) => m.slug === 'wnba-finals-2026-game1-dream-vs-valkyries') ||
   matches.find((m) => m.slug === 'liverpool-vs-manchester-city-mw6-2026') ||
   matches.find((m) => m.slug === 'singapore-gp-main-race-2026') ||
   matches.find((m) => m.slug === 'ravens-at-falcons-snf-week5-2026') ||

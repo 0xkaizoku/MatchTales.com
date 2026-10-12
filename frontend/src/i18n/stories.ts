@@ -13115,4 +13115,557 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+
+  'premier-league-mw6-wrap-city-masterclass-anfield-2026': {
+    fr: {
+      title: "City 3-0 Liverpool : Haaland frappe encore et les champions domptent Anfield",
+      subtitle: "L'expulsion de Gravenberch fait basculer le sommet avant les buts de Haaland, Doku et Cherki.",
+      excerpt: "PremierLeague.com confirme la victoire 3-0 de City à Anfield. Les hommes de Pep Guardiola enchaînent six victoires pour compter trois points d'avance.",
+      body: [
+        "L'affiche Liverpool-Manchester City à Anfield était le rendez-vous phare du début d'automne, et elle a tenu toutes ses promesses pendant une heure intense. Les deux géants se sont neutralisés lors d'une première période tactique et fermée, où l'organisation d'Arne Slot a bloqué les transmissions mancuniennes.",
+        "Mais la rencontre a basculé à la 62e minute lorsque Ryan Gravenberch a reçu un second carton jaune pour une faute sur Phil Foden. En infériorité numérique, Liverpool n'a pas résisté à la furia de City. A la 65e minute, Erling Haaland a ouvert le score de la tête sur un centre de Kevin De Bruyne pour son neuvième but de la saison.",
+        "Trois minutes plus tard, Jeremy Doku s'est infiltré depuis l'aile gauche pour loger une frappe imparable dans la lucarne d'Alisson. Rayan Cherki a scellé le score à 3-0 à la 78e minute sur contre-attaque. Manchester City s'envole en tête avec 18 points (6-0-0), devançant Arsenal (15 points) et infligeant aux Reds leur premier revers en championnat.",
+      ],
+    },
+    es: {
+      title: "City 3-0 Liverpool: Haaland no perdona y el campeón conquista Anfield con autoridad",
+      subtitle: "La roja a Gravenberch desequilibra el partidazo antes de que Haaland, Doku y Cherki sentencien.",
+      excerpt: "PremierLeague.com confirma el 3-0 del Manchester City en Anfield. Los de Guardiola suman seis victorias de seis y se distancian a tres puntos.",
+      body: [
+        "El duelo Liverpool-Manchester City en Anfield se presentaba como el examen definitivo del otoño y respondió con creces a la expectación. Ambos gigantes protagonizaron un primer acto táctico y sin goles en el que el rigor del Liverpool de Arne Slot tapó las líneas de pase habituales del City.",
+        "Sin embargo, el choque dio un giro radical en el minuto 62 cuando Ryan Gravenberch vio la segunda tarjeta amarilla por una entrada sobre Phil Foden. Con diez hombres, los Reds no pudieron contener el aluvión visitante. En el 65, Erling Haaland cabeceó a la red un centro milimétrico de Kevin De Bruyne para firmar su noveno gol liguero.",
+        "Apenas tres minutos después, Jeremy Doku recortó desde la banda izquierda y clavó un zapatazo en la escuadra de Alisson. Rayan Cherki firmó el 3-0 en el minuto 78 al culminar una contra letal. El City manda con 18 puntos (6-0-0) con tres de ventaja sobre el Arsenal (15 puntos).",
+      ],
+    },
+    de: {
+      title: "City 3:0 Liverpool: Haaland trifft erneut und der Meister triumphiert an der Anfield Road",
+      subtitle: "Gravenberchs Rote Karte kippt das Spitzenspiel, ehe Haaland, Doku und Cherki zuschlagen.",
+      excerpt: "PremierLeague.com bestätigt den 3:0-Erfolg von Manchester City in Anfield. Guardiolas Elf steht bei sechs Siegen aus sechs Spielen und führt mit drei Punkten.",
+      body: [
+        "Liverpool gegen Manchester City an der Anfield Road war der erwartete Blockbuster und hielt eine Stunde lang genau das, was er versprach. Beide Topteams lieferten sich eine intensive taktische Schlacht, in der Arne Slots Defensive die Passwege der Gäste geschickt zustellte.",
+        "Die Wende brachte die 62. Minute, als Ryan Gravenberch nach einem Foul an Phil Foden mit Gelb-Rot vom Platz gestellt wurde. In Unterzahl konnte Liverpool dem Druck nicht mehr standhalten. In der 65. Minute köpfte Erling Haaland eine Flanke von Kevin De Bruyne zur Führung ein, sein neuntes Saisontor.",
+        "Nur drei Minuten später zog Jeremy Doku von links nach innen und zirkelte den Ball unhaltbar in den Winkel. Rayan Cherki setzte in der 78. Minute nach einem Konter den Schlusspunkt zum 3:0. Manchester City führt die Tabelle makellos mit 18 Punkten an, drei Zähler vor Arsenal (15).",
+      ],
+    },
+    it: {
+      title: "City 3-0 Liverpool: Haaland colpisce ancora e i campioni espugnano Anfield",
+      subtitle: "L'espulsione di Gravenberch sblocca la sfida prima delle reti di Haaland, Doku e Cherki.",
+      excerpt: "PremierLeague.com certifica il 3-0 del Manchester City ad Anfield. La squadra di Guardiola fa sei su sei e sale a quota 18 punti in vetta.",
+      body: [
+        "Liverpool contro Manchester City ad Anfield era la sfida più attesa dell'autunno inglese e per un'ora ha regalato uno spettacolo tattico di altissimo livello. Il primo tempo si è chiuso a reti inviolate, con i Reds di Arne Slot abili a chiudere ogni varco agli attaccanti ospiti.",
+        "Il match è cambiato definitivamente al 62', quando Ryan Gravenberch ha rimediato il secondo cartellino giallo per un fallo su Phil Foden. Rimasto in dieci, il Liverpool è crollato sotto la pressione del City. Al 65' Erling Haaland ha sbloccato il risultato incornando un perfetto cross di Kevin De Bruyne.",
+        "Tre minuti dopo, Jeremy Doku si è accentrato dalla sinistra fulminando Alisson all'incrocio dei pali. Al 78' Rayan Cherki ha firmato il tris in contropiede. Il City vola da solo a 18 punti (6-0-0), a più tre sull'Arsenal (15 punti), infliggendo la prima sconfitta stagionale ai Reds.",
+      ],
+    },
+    pl: {
+      title: "City 3-0 Liverpool: Haaland znowu trafia, mistrzowie bezlitośnie biorą Anfield",
+      subtitle: "Czerwona kartka Gravenbercha odmienia hit, po czym Haaland, Doku i Cherki punktują gospodarzy.",
+      excerpt: "PremierLeague.com potwierdza wygraną Manchesteru City 3-0 na Anfield. Zespół Pepa Guardioli ma komplet sześciu zwycięstw i trzy punkty przewagi.",
+      body: [
+        "Starcie Liverpoolu z Manchesterem City na Anfield zapowiadano jako mecz jesieni i przez godzinę kibice oglądali taktyczną partię na najwyższym poziomie. Zespół Arne Slota umiejętnie neutralizował ataki gości, a pierwsza połowa zakończyła się bezbramkowym remisem.",
+        "Wszystko zmieniło się w 62. minucie, gdy Ryan Gravenberch obejrzał drugą żółtą kartkę za faul na Philu Fodenie. Grający w osłabieniu gospodarze nie wytrzymali naporu mistrzów. W 65. minucie Erling Haaland wykorzystał dośrodkowanie Kevina De Bruyne, zdobywając swoją dziewiątą bramkę w sezonie.",
+        "Trzy minuty później Jeremy Doku popisał się kapitalnym uderzeniem w okienko z 20 metrów. Wynik na 3-0 ustalił Rayan Cherki w 78. minucie po kontrataku. City prowadzi w tabeli z 18 punktami (6-0-0), wyprzedzając Arsenal o trzy oczka.",
+      ],
+    },
+    zh: {
+      title: "曼城客场3-0完胜利物浦：哈兰德破门，卫冕冠军安菲尔德大捷领跑",
+      subtitle: "赫拉芬贝赫染红成转折点，哈兰德、多库与谢尔基连入三球击溃主队。",
+      excerpt: "英超官方确认曼城在安菲尔德3-0完胜利物浦。瓜迪奥拉的球队豪取开局六连胜积18分，以3分优势独占积分榜首。",
+      body: [
+        "利物浦与曼城在安菲尔德的巅峰对决是金秋英超焦点。上半场双方战术博弈激烈，斯洛特严密的防守组织有效限制了曼城的传球路线，半场互交白卷。",
+        "然而比赛在第62分钟风云突变，赫拉芬贝赫防守福登犯规领到第二张黄牌被罚下场。十人应战的红军难以抵挡客队的猛攻。第65分钟，德布劳内精准传中，哈兰德高高跃起头球破门打破僵局，斩获个人赛季联赛第9球。",
+        "仅仅3分钟后，多库左路内切轰出远射直挂死角。第78分钟，谢尔基反击推射锁定3-0胜局。曼城以6战全胜积18分领跑英超，阿森纳15分紧随其后，利物浦遭遇联赛首败滑落至第7位。",
+      ],
+    },
+    ja: {
+      title: "シティがリバプールを3-0粉砕：ハーランド弾炸裂、王者が敵地アンフィールドを制圧",
+      subtitle: "フラーフェンベルフの退場で流れが一変、ハーランド、ドク、シェルキが連続ゴール。",
+      excerpt: "マンチェスター・シティがアンフィールドで3-0の快勝を収めたことをPremierLeague.comが確認。開幕6連勝の勝点18で首位独走態勢を築く。",
+      body: [
+        "アンフィールドでのリバプール対マンチェスター・シティは秋の天王山として注目を集め、立ち上がりから緊迫した攻防が展開された。スロット監督仕込みの組織的守備が機能し、前半はスコアレスで折り返した。",
+        "しかし62分、フラーフェンベルフがフォーデンへのファウルで2枚目の警告を受け退場となり試合は一変する。数的有利を得たシティは65分、デ・ブライネのクロスにハーランドが頭で合わせて今季リーグ9点目をマーク。",
+        "その3分後にはドクが左サイドからカットインして鮮烈なミドルシュートを突き刺し、78分にはシェルキがカウンターからダメ押しゴールを奪った。シティは開幕6連勝の勝点18で首位を守り、アーセナルに3打点差をつけた。",
+      ],
+    },
+    ko: {
+      title: "맨시티, 리버풀 원정 3-0 완승: 홀란 또 골 폭발, 안필드 침묵시킨 챔피언의 저력",
+      subtitle: "흐라번베르흐 퇴장으로 무너진 리버풀, 홀란, 도쿠, 셰르키 릴레이 골로 쐐기.",
+      excerpt: "맨체스터 시티가 안필드에서 리버풀을 3-0으로 완파했다고 프리미어리그 공식 홈페이지가 전했다. 6전 전승 승점 18점으로 3점 차 단독 선두에 올랐다.",
+      body: [
+        "안필드에서 열린 리버풀과 맨체스터 시티의 맞대결은 초반부터 팽팽한 긴장감 속에 전개되었다. 아르네 슬롯 감독이 이끄는 리버풀의 수비 라인은 전반전 동안 시티의 패스 길을 효과적으로 차단했다.",
+        "승부의 균형은 62분에 무너졌다. 흐라번베르흐가 포든을 저지하다 두 번째 경고를 받고 퇴장당한 것이다. 수적 열세에 놓인 리버풀은 버티지 못했다. 65분 더브라위너의 크로스를 홀란이 헤더로 연결해 시즌 9호 골을 터뜨렸다.",
+        "3분 뒤 도쿠가 왼쪽 측면에서 중앙으로 파고들며 환상적인 중거리 슛을 꽂아 넣었고, 78분에는 셰르키가 역습 상황에서 쐐기골을 기록했다. 시티는 개막 6연승으로 승점 18점을 쌓아 아스널(15점)을 3점 차로 제쳤다.",
+      ],
+    },
+    ar: {
+      title: "سيتي يسحق ليفربول 3-0: هالاند يضرب مجددا والأبطال يقتحمون أنفيلد بعرض مذهل",
+      subtitle: "طرد جرافنبرخ يقلب الموازين قبل أن يجهز هالاند ودوكو وتشيركي على أصحاب الأرض.",
+      excerpt: "موقع الدوري الإنجليزي يؤكد فوز مانشستر سيتي 3-0 في أنفيلد. كتيبة غوارديولا تحقق فوزها السادس على التوالي وتبتعد بالصدارة بـ18 نقطة.",
+      body: [
+        "عاشت جماهير كرة القدم الإنجليزية قمة كروية مشتعلة في أنفيلد بين ليفربول ومانشستر سيتي. طيلة ساعة من اللعب، تبادل الفريقان الضربات التكتيكية في شوط أول متكافئ فرض فيه دفاع الريدز تنظيما صارما.",
+        "لكن الدقيقة 62 شهدت المنعرج الحاسم بعد حصول ريان جرافنبرخ على الإنذار الثاني وطرده إثر تدخل على فيل فودين. استغل السيتي النقص العددي فورا، وفي الدقيقة 65 ارتقى إيرلينغ هالاند لعرضية دي بروين محرزا هدفه التاسع في الدوري.",
+        "وبعد 3 دقائق فقط، أطلق جيريمي دوكو قذيفة لا تصد في زاوية أليسون، قبل أن يختتم ريان تشيركي الثلاثية في الدقيقة 78 من هجمة مرتدة سريعة. يرفع سيتي رصيده إلى 18 نقطة من ستة انتصارات متتالية، متقدما بثلاث نقاط على أرسنال.",
+      ],
+    },
+  },
+  'singapore-gp-verstappen-masterclass-antonelli-podium-2026': {
+    fr: {
+      title: "GP de Singapour : Verstappen dompte Marina Bay, Antonelli accentue son avance",
+      subtitle: "Verstappen convertit sa pole en 73e succès en carrière ; Antonelli monte sur le podium alors que Russell finit neuvième.",
+      excerpt: "Le classement officiel de Formula1.com confirme la victoire de Max Verstappen à Singapour devant Charles Leclerc et Kimi Antonelli.",
+      body: [
+        "Max Verstappen a réalisé un week-end parfait sur le circuit urbain de Marina Bay dimanche soir. Après avoir remporté le Sprint et la pole samedi, le quadruple champion du monde néerlandais a dominé les 62 tours de course pour remporter son tout premier Grand Prix de Singapour et la 73e victoire de sa carrière.",
+        "Charles Leclerc s'est battu avec ténacité pour placer sa Ferrari au deuxième rang à 4,2 secondes du vainqueur. Mais l'opération majeure au championnat a été réalisée par le rookie Kimi Antonelli. Parti quatrième, le jeune pilote Mercedes a dépassé Lando Norris lors de la neutralisation du 24e tour pour décrocher la troisième place et totaliser 339 points.",
+        "Pour George Russell, la soirée a été difficile suite à des pénalités sur la grille, terminant neuvième avec deux points (245 pts). Antonelli compte désormais 94 points d'avance sur Russell avant la tournée des Amériques qui débutera à Austin.",
+      ],
+    },
+    es: {
+      title: "GP de Singapur: Verstappen conquista Marina Bay y Antonelli refuerza su liderato",
+      subtitle: "Verstappen sella su 73ª victoria en F1 desde la pole; Antonelli hace podio y Russell acaba noveno.",
+      excerpt: "Formula1.com confirma el triunfo de Max Verstappen bajo los focos de Singapur por delante de Charles Leclerc y Kimi Antonelli.",
+      body: [
+        "Max Verstappen completó un fin de semana redondo en Marina Bay. El piloto de Red Bull transformó su victoria en el Sprint y la pole position en una victoria indiscutible en el Gran Premio de Singapur 2026, logrando su primer triunfo en este trazado urbano y el número 73 de su trayectoria.",
+        "Charles Leclerc llevó su Ferrari hasta la segunda posición a solo 4,2 segundos. Sin embargo, la gran actuación en clave de campeonato fue para Kimi Antonelli. El debutante de Mercedes superó a Lando Norris durante el coche de seguridad de la vuelta 24 y aguantó en el tercer puesto para sumar 339 puntos.",
+        "George Russell solo pudo remontar hasta el noveno puesto debido a penalizaciones de motor, sumando dos puntos (245 pts). Antonelli amplía su renta a 94 puntos sobre Russell antes del triplete americano que comenzará en Austin.",
+      ],
+    },
+    de: {
+      title: "Singapur GP: Verstappen erobert Marina Bay, Antonelli baut WM-Vorsprung aus",
+      subtitle: "Verstappen wandelt Pole in dominanten 73. Karrieresieg um; Antonelli auf dem Podium, Russell Neunter.",
+      excerpt: "Das offizielle Formula1.com-Ergebnis bestätigt Max Verstappens Sieg unter Flutlicht vor Charles Leclerc und Kimi Antonelli.",
+      body: [
+        "Max Verstappen krönte ein perfektes Wochenende auf dem Marina Bay Street Circuit. Der Red-Bull-Star fuhr von der Pole Position zu einem souveränen Start-Ziel-Sieg beim Großen Preis von Singapur 2026 und feierte seinen 73. Grand-Prix-Triumph sowie seinen ersten Sieg in Singapur.",
+        "Charles Leclerc trieb seinen Ferrari als Zweiter mit 4,2 Sekunden Rückstand ins Ziel. Den wichtigsten Schritt im Titelrennen machte jedoch Kimi Antonelli. Der Mercedes-Rookie nutzte das Safety-Car in Runde 24 für einen Undercut gegen Lando Norris und sicherte sich Rang drei (339 Punkte).",
+        "Teamkollege George Russell musste sich nach Motorenstrafen durchs Feld kämpfen und rettete Rang neun (245 Punkte). Antonelli führt nun mit 94 Punkten Vorsprung vor Russell, bevor die Formel 1 nach Austin reist.",
+      ],
+    },
+    it: {
+      title: "GP Singapore: Verstappen domina a Marina Bay, Antonelli blinda il mondiale",
+      subtitle: "Verstappen vince dalla pole conquistando il 73° successo; Antonelli sul podio, Russell nono.",
+      excerpt: "Formula1.com certifica la vittoria di Max Verstappen sotto le luci di Singapore davanti a Charles Leclerc e Kimi Antonelli.",
+      body: [
+        "Max Verstappen ha completato un weekend impeccabile sul circuito di Marina Bay. Il pilota olandese ha trasformato la pole position in una splendida vittoria nel Gran Premio di Singapore 2026, conquistando il suo primo successo in carriera a Marina Bay e il 73° trionfo in Formula 1.",
+        "Charles Leclerc ha portato la Ferrari sul secondo gradino del podio a soli 4,2 secondi. Ma il colpo più pesante nella lotta per il titolo lo ha sferrato Kimi Antonelli. Partito quarto, il rookie della Mercedes ha approfittato della Safety Car al 24° giro per superare Norris e chiudere terzo (339 punti).",
+        "Gara difficile per George Russell, costretto a partire indietro per penalità motore e arrivato nono (245 punti). Antonelli vola così a più 94 lunghezze sul compagno di squadra in vista della trasferta di Austin.",
+      ],
+    },
+    pl: {
+      title: "GP Singapuru: Verstappen podbija Marina Bay, Antonelli ucieka w klasyfikacji",
+      subtitle: "Verstappen zamienia pole position w 73. zwycięstwo w karierze; Antonelli na podium, Russell dziewiąty.",
+      excerpt: "Klasyfikacja wyścigu Formula1.com potwierdza wygraną Maxa Verstappena w Singapurze przed Charlesem Leclercem i Kimim Antonellim.",
+      body: [
+        "Max Verstappen zdominował weekend na torze Marina Bay. Holenderski mistrz zamienił sobotnie zwycięstwo w sprincie i pole position w pewny triumf w Grand Prix Singapuru 2026, odliczając 73. wygraną w karierze i pierwsze zwycięstwo w tym wyścigu.",
+        "Charles Leclerc finiszował na drugim miejscu w Ferrari ze stratą 4,2 sekundy. Jednak kluczowy krok w walce o tytuł wykonał Kimi Antonelli. Debiutant Mercedesa wyprzedził Lando Norrisa podczas neutralizacji na 24. okrążeniu i dowiózł trzecią lokatę (339 punktów).",
+        "George Russell po karach silnikowych przedarł się jedynie na dziewiąte miejsce (245 punktów). Antonelli powiększył przewagę nad kolegą z zespołu do 94 punktów przed wyścigiem w Austin.",
+      ],
+    },
+    zh: {
+      title: "新加坡大奖赛：维斯塔潘征服滨海湾，安东内利登台扩大榜首优势",
+      subtitle: "维斯塔潘杆位起跑斩获生涯第73胜；安东内利稳获季军，拉塞尔受罚名列第九。",
+      excerpt: "F1官方确认维斯塔潘在新加坡夜赛夺冠，法拉利的勒克莱尔和梅奔新星安东内利分获二三名。",
+      body: [
+        "周日晚间的滨海湾赛道属于维斯塔潘。红牛车手延续了周六冲刺赛夺冠与排位赛摘杆的火热状态，在62圈正赛中一路领跑，斩获个人第73个分站冠军，同时也是他职业生涯首度在新加坡登顶。",
+        "勒克莱尔驾驶法拉利赛车落后4.2秒屈居亚军。但在年度总冠军争夺战中，最大的赢家是领跑积分榜的新秀安东内利。第四位发车的他借助第24圈安全车出动成功超越诺里斯，稳稳守住季军并进账15分，总积分升至339分。",
+        "队友拉塞尔因更换动力单元受罚从后排起步，最终以第九名带回2分（245分）。安东内利对拉塞尔的领先优势扩大至94分，F1大军即将启程奔赴美洲三连赛首站奥斯汀。",
+      ],
+    },
+    ja: {
+      title: "シンガポールGP：フェルスタッペンがマリーナベイ初制覇、アントネッリが3位でリード拡大",
+      subtitle: "フェルスタッペンがポールから通算73勝目；アントネッリが表彰台獲得、ラッセルは9位。",
+      excerpt: "Formula1.com公式結果により、フェルスタッペンがルクレールとアントネッリを抑えてシンガポールGPを制したことが確定。",
+      body: [
+        "マリーナベイ市街地コースでフェルスタッペンが完全勝利を飾った。スプリント勝利とポールポジションに続き、決勝の62周を完璧に統制してシンガポールでの初勝利と通算73回目のグランプリ優勝を果たした。",
+        "フェラーリのルクレールが4.2秒差の2位に入ったが、選手権争いで最も重要な仕事を成し遂げたのはルーキーのアントネッリだった。4番手スタートから24周目のセーフティーカー導入時にノリスを逆転し、3位表彰台を死守して339点に到達した。",
+        "チームメイトのラッセルはエンジン交換ペナルティの影響で9位フィニッシュ（245点）にとどまった。アントネッリはラッセルに対するリードを94ポイントに広げ、次戦オースティンへ向かう。",
+      ],
+    },
+    ko: {
+      title: "싱가포르 GP: 베르스타펜 마리나베이 첫 정복, 안토넬리 3위로 챔피언십 굳히기",
+      subtitle: "베르스타펜 폴투윈으로 통산 73승 달성; 안토넬리 포디움 입성, 러셀은 9위 마감.",
+      excerpt: "포뮬러 1 공식 발표에 따르면 막스 베르스타펜이 르클레르와 안토넬리를 제치고 싱가포르 야간 레이스에서 우승을 차지했다.",
+      body: [
+        "마리나베이 스트리트 서킷의 주인공은 막스 베르스타펜이었다. 레드불의 에이스는 토요일 스프린트 우승과 폴포지션에 이어 결승 62랩을 완벽하게 지배하며 싱가포르에서의 첫 승이자 통산 73번째 그랑프리 우승을 달성했다.",
+        "샤를 르클레르가 4.2초 차 2위로 체커기를 받았다. 하지만 타이틀 경쟁에서 가장 빛난 드라이버는 루키 키미 안토넬리였다. 4위로 출발한 안토넬리는 24랩 세이프티카 상황에서 노리스를 제친 뒤 3위를 지켜내며 339점으로 달아났다.",
+        "조지 러셀은 엔진 교체 페널티로 고전한 끝에 9위로 2점을 추가하는 데 그쳤다(245점). 안토넬리가 러셀과의 격차를 94점으로 벌린 가운데 F1은 이제 미국 오스틴으로 향한다.",
+      ],
+    },
+    ar: {
+      title: "جائزة سنغافورة الكبرى: فيرستابن يتسيد مارينا باي وأنطونيلي يعزز صدارته",
+      subtitle: "فيرستابن يحول الانطلاق الأول إلى فوزه الـ73 تاريخيا؛ أنطونيلي على منصة التتويج وراسل تاسعا.",
+      excerpt: "موقع فورمولا 1 يؤكد فوز ماكس فيرستابن في سنغافورة متقدما على شارل لوكلير وكيمي أنطونيلي.",
+      body: [
+        "أكمل ماكس فيرستابن عطلة نهاية أسبوع مثالية في حلبة مارينا باي ليلة الأحد. وحول السائق الهولندي فوزه في سباق السرعة وانطلاقه من المركز الأول إلى انتصار كاسح في جائزة سنغافورة الكبرى 2026، محققا فوزه الأول على الإطلاق في سنغافورة والـ73 في مسيرته.",
+        "وقدم شارل لوكلير سباقا قويا ليمنح فيراري المركز الثاني بفارق 4.2 ثانية. لكن المستفيد الأكبر في صراع اللقب كان الصاعد كيمي أنطونيلي، الذي انطلق رابعا وتجاوز لاندو نوريس أثناء سيارة الأمان باللفة 24 ليحصد المركز الثالث ويرفع رصيده إلى 339 نقطة.",
+        "وعانى زميله جورج راسل من عقوبات المحرك ليكتفي بالمركز التاسع ونقطتين (245 نقطة). ويوسع أنطونيلي الفارق في صدارة البطولة إلى 94 نقطة قبل جولة أوستن الأمريكية.",
+      ],
+    },
+  },
+  'nfl-week5-mnf-preview-bills-rams-sofi-2026': {
+    fr: {
+      title: "NFL Semaine 5 Monday Night Football : les Bills défient les Rams au SoFi après un dimanche fou",
+      subtitle: "Josh Allen et Matthew Stafford clôturent la semaine 5 en Californie après le thriller des Ravens à Atlanta.",
+      excerpt: "NFL.com confirme l'affiche du Monday Night Football au SoFi Stadium (20 h 15 ET, ESPN). Bills et Rams s'affrontent pour clore la 5e journée.",
+      body: [
+        "La 5e semaine de la saison régulière 2026 s'offre une finale prestigieuse en Californie du Sud, où les Bills de Buffalo rendent visite aux Rams de Los Angeles au SoFi Stadium. Les deux équipes cherchent à frapper un grand coup en direct national après un dimanche riche en rebondissements.",
+        "Le dimanche soir a offert un scénario d'anthologie à Atlanta, où les Ravens de Baltimore ont battu les Falcons 30-23 en prolongation. Lamar Jackson et Mark Andrews ont égalisé avant que Tyler Huntley ne marque sur sneak et que Kyle Hamilton n'intercepte Michael Penix Jr. Pendant ce temps, les Vikings et les 49ers sont passés à 5-0.",
+        "Ce soir, Josh Allen mène l'attaque de Buffalo face à Matthew Stafford et Puka Nacua sous le dôme ultramoderne d'Inglewood. Avec la défense de Sean McDermott prête à contenir Kyren Williams, ce Monday Night Football promet un dénouement explosif.",
+      ],
+    },
+    es: {
+      title: "NFL Semana 5 Monday Night Football: Bills visitan a Rams en SoFi tras un domingo de infarto",
+      subtitle: "Josh Allen y Matthew Stafford cierran la semana 5 en Los Ángeles tras el drama de Ravens en Atlanta.",
+      excerpt: "NFL.com confirma el duelo de Monday Night Football en SoFi Stadium (20:15 ET, ESPN) entre Bills y Rams para concluir la semana 5.",
+      body: [
+        "La quinta semana de la NFL guarda su broche de oro para el sur de California, donde los Buffalo Bills visitan a Los Angeles Rams en el SoFi Stadium en Monday Night Football. Ambas franquicias buscan un triunfo de prestigio nacional tras una jornada dominical cargada de emoción.",
+        "El domingo por la noche dejó un duelo memorable en Atlanta con la victoria de los Baltimore Ravens 30-23 sobre los Falcons en la prórroga. Tyler Huntley anotó de sneak y Kyle Hamilton selló el triunfo con una intercepción acrobática. En la tarde, Vikings y 49ers se colocaron con balance perfecto de 5-0.",
+        "Esta noche, Josh Allen comanda la ofensiva de Buffalo ante Matthew Stafford y Puka Nacua bajo la cubierta futurista del SoFi Stadium. La defensa de Sean McDermott intentará frenar a Kyren Williams en lo que promete ser un cierre apasionante.",
+      ],
+    },
+    de: {
+      title: "NFL Woche 5 Monday Night Football: Bills fordern Rams im SoFi Stadium nach dramatischem Sonntag",
+      subtitle: "Josh Allen und Matthew Stafford beschließen Woche 5 in Kalifornien nach dem Ravens-Sieg in Atlanta.",
+      excerpt: "NFL.com bestätigt das Monday Night Football Duell im SoFi Stadium (20:15 ET, ESPN) zwischen den Bills und den Rams.",
+      body: [
+        "Die 5. Spielwoche der NFL-Saison 2026 hebt sich ihren Höhepunkt für Südkalifornien auf, wenn die Buffalo Bills im SoFi Stadium bei den Los Angeles Rams im Monday Night Football antreten. Beide Franchises wollen im nationalen Rampenlicht ein Ausrufezeichen setzen.",
+        "Am Sonntagabend legten die Baltimore Ravens mit einem 30:23-Overtime-Erfolg gegen die Atlanta Falcons die Messlatte hoch. Tyler Huntley vollendete in der Verlängerung per Quarterback Sneak, ehe Kyle Hamilton mit einer Interception alles klar machte. Zuvor hatten die Vikings und die 49ers jeweils ihr fünftes Spiel gewonnen (5-0).",
+        "Heute Nacht führt Josh Allen die Offensive der Bills gegen Matthew Stafford und Puka Nacua unter dem Dach des SoFi Stadiums an. Das Aufeinandertreffen verspricht ein hochklassiges Spektakel zum Abschluss von Woche 5.",
+      ],
+    },
+    it: {
+      title: "NFL Week 5 Monday Night Football: Bills sfidano i Rams al SoFi dopo una domenica mozzafiato",
+      subtitle: "Josh Allen e Matthew Stafford chiudono la quinta giornata in California dopo l'overtime dei Ravens ad Atlanta.",
+      excerpt: "NFL.com conferma il Monday Night Football al SoFi Stadium (20:15 ET, ESPN) tra Buffalo Bills e Los Angeles Rams.",
+      body: [
+        "La quinta settimana della stagione NFL 2026 si chiude in grande stile in California, con i Buffalo Bills che fanno visita ai Los Angeles Rams al SoFi Stadium nel Monday Night Football. Entrambe le squadre puntano a una vittoria pesante sotto i riflettori della televisione nazionale.",
+        "Domenica sera i Baltimore Ravens hanno superato gli Atlanta Falcons 30-23 all'overtime in una sfida al cardiopalma, chiusa dal touchdown di Tyler Huntley e dall'intercetto decisivo di Kyle Hamilton. Nel pomeriggio, sia i Vikings sia i 49ers avevano portato il loro record a 5-0.",
+        "Stanotte Josh Allen guida l'attacco di Buffalo contro Matthew Stafford e Puka Nacua sotto la maestosa copertura del SoFi Stadium. Con la difesa di Sean McDermott chiamata a contenere Kyren Williams, la sfida si preannuncia spettacolare.",
+      ],
+    },
+    pl: {
+      title: "NFL 5. tydzień Monday Night Football: Bills grają z Rams na SoFi po szalonej niedzieli dogrywek",
+      subtitle: "Josh Allen i Matthew Stafford zamykają tydzień w Kalifornii po dreszczowcu Ravens w Atlancie.",
+      excerpt: "NFL.com potwierdza hit Monday Night Football na SoFi Stadium (20:15 ET, ESPN) pomiędzy Buffalo Bills a Los Angeles Rams.",
+      body: [
+        "Piąty tydzień sezonu NFL 2026 kończy się starciem w południowej Kalifornii, gdzie Buffalo Bills odwiedzają Los Angeles Rams na SoFi Stadium w ramach Monday Night Football. Oba zespoły stają przed szansą na prestiżowe zwycięstwo w ogólnokrajowej telewizji.",
+        "Niedzielny wieczór w Atlancie przyniósł kapitalne widowisko, w którym Baltimore Ravens pokonali Falcons 30-23 po dogrywce dzięki przyłożeniu Tylera Huntleya i przechwytowi Kyle'a Hamiltona. Wcześniej Minnesota Vikings i San Francisco 49ers sięgnęły po bilans 5-0.",
+        "Dziś Josh Allen poprowadzi atak Bills przeciwko Matthew Staffordowi i Puce Nacui pod zadaszeniem SoFi Stadium. Pojedynek ten zapowiada się na godne zwieńczenie pełnego emocji 5. tygodnia rozgrywek.",
+      ],
+    },
+    zh: {
+      title: "NFL第5周周一夜赛：比尔做客SoFi挑战公羊，群雄决战加州收官",
+      subtitle: "乌鸦加时掀翻猎鹰之后，阿伦与斯塔福德在洛杉矶星光下打响周一夜赛焦点对决。",
+      excerpt: "NFL官方确认第5周收官战将在SoFi体育场打响（美东时间20:15，ESPN）。比尔与公羊展开巅峰对话。",
+      body: [
+        "2026年NFL常规赛第5周的压轴大戏在南加州上演，布法罗比尔做客SoFi体育场在周一夜赛挑战洛杉矶公羊。在充满戏剧性的周日较量后，两队都急需一场全美直播的胜利巩固季后赛排位。",
+        "周日夜赛在亚特兰大掀起高潮，巴尔的摩乌鸦历经加时赛30-23险胜猎鹰。亨特利加时达阵得手，汉密尔顿飞身抄截锁定胜局。白天的比赛中，明尼苏达维京人与旧金山49人双双战胜对手保持5-0不败金身。",
+        "今晚，约什·阿伦将率领比尔进攻组对决斯塔福德与纳库阿领衔的公羊攻击群。在SoFi体育场的巨大穹顶之下，这场对决必将为第5周画上圆满句号。",
+      ],
+    },
+    ja: {
+      title: "NFL第5週MNF：激闘の日曜日を経て、ビルズがSoFiスタジアムでラムズと激突",
+      subtitle: "レイブンズの劇的延長勝利に続き、アレンとスタッフォードがロサンゼルスで第5週を締めくくる。",
+      excerpt: "NFL公式がSoFiスタジアムでのマンデーナイト（米東部20:15、ESPN）ビルズ対ラムズ戦をアナウンス。",
+      body: [
+        "2026年NFL第5週のフィナーレは南カリフォルニアが舞台となる。バッファロー・ビルズがSoFiスタジアムに乗り込み、マンデーナイトフットボールでロサンゼルス・ラムズと対戦する。",
+        "日曜夜のアトランタではボルティモア・レイブンズがファルコンズを延長30-23で破る激戦を演じた。タイラー・ハントリーのQBスニークとカイル・ハミルトンのインターセプトが勝負を決めた。昼の部ではバイキングスと49ersが開幕5連勝を達成している。",
+        "今夜はジョシュ・アレンが率いるビルズの攻撃陣が、マシュー・スタッフォードとプカ・ナクアを擁するラムズと対峙する。SoFiスタジアムの屋根の下、第5週の最後を飾る熱戦が幕を開ける。",
+      ],
+    },
+    ko: {
+      title: "NFL 5주차 먼데이 나이트 풋볼: 레이븐스 연장 혈투 이어 빌스 vs 램스 격돌",
+      subtitle: "애틀랜타에서의 극적 연장 승부 뒤, 조시 알렌과 매슈 스태퍼드가 SoFi 스타디움에서 격돌.",
+      excerpt: "NFL.com이 발표한 5주차 최종전. 버펄로 빌스가 LA 램스와 SoFi 스타디움에서 먼데이 나이트 풋볼로 맞붙는다.",
+      body: [
+        "2026 NFL 5주차의 대미는 남부 캘리포니아에서 장식된다. 버펄로 빌스가 SoFi 스타디움에서 로스앤젤레스 램스와 먼데이 나이트 풋볼로 격돌한다. 양 팀 모두 전국 중계에서 확실한 존재감을 드러내야 하는 경기다.",
+        "일요일 밤 애틀랜타에서는 볼티모어 레이븐스가 연장전 끝에 팰컨스를 30-23으로 꺾는 명승부를 펼쳤다. 타일러 헌틀리의 결승 러싱 TD와 카일 해밀턴의 가로채기가 승리를 완성했다. 낮 경기에서는 바이킹스와 49ers가 나란히 5승 무패를 달렸다.",
+        "오늘 밤 조시 알렌이 이끄는 빌스의 패싱 공격이 매슈 스태퍼드와 푸카 나쿠아의 램스를 상대한다. 션 맥더멋 감독의 수비진이 카이런 윌리엄스를 봉쇄할 수 있을지 기대를 모은다.",
+      ],
+    },
+    ar: {
+      title: "ليلة الاثنين NFL الأسبوع 5: بيلز يواجه رامز في SoFi بعد إثارة الأحد",
+      subtitle: "جوش ألين وماثيو ستافورد يختتمان الأسبوع الخامس في كاليفورنيا بعد فوز ريفنز الدرامي.",
+      excerpt: "موقع NFL يؤكد مواجهة ليلة الاثنين في ملعب SoFi بين بافلو بيلز ولوس أنجلوس رامز لختام الجولة الخامسة.",
+      body: [
+        "تحتفظ الجولة الخامسة من موسم NFL 2026 بختامها المثير لجنوب كاليفورنيا، حيث يحل بافلو بيلز ضيفا ثقيلا على لوس أنجلوس رامز في ملعب SoFi في ليلة الاثنين. ويسعى الفريقان لتسجيل انتصار بارز أمام أنظار الجماهير الأمريكية.",
+        "وشهدت ليلة الأحد ملحمة في أتلانتا حيث تغلب بالتيمور ريفنز على فالكونز 30-23 بالتمديد بعد تسجيل تايلر هنتلي للمسافة الأخيرة واعتراض كايل هاملتون للكرة. وخلال مباريات الظهيرة، حافظ فايكنغز و49ers على سجلهما المثالي بخمسة انتصارات دون هزيمة.",
+        "والليلة يقود جوش ألين هجوم بافلو الناري ضد ماثيو ستافورد وبوكا ناكوا تحت قبة SoFi العملاقة. وتعد المواجهة بنهاية حماسية لأحد أكثر أسابيع الموسم إثارة.",
+      ],
+    },
+  },
+  'baycurrent-classic-brennan-triumphs-yokohama-2026': {
+    fr: {
+      title: "Baycurrent Classic : Michael Brennan devance Bridgeman et Mitchell et s'impose à Yokohama",
+      subtitle: "Brennan signe un 67 final pour l'emporter à -16 alors que Max Homa cède lors du dernier tour.",
+      excerpt: "Le classement du PGA Tour confirme la victoire d'un coup de Michael Brennan à 16 sous le par au Yokohama Country Club.",
+      body: [
+        "Michael Brennan est sorti vainqueur d'un dimanche de grand spectacle au Yokohama Country Club en rendant une carte de 67 (-4) pour remporter le premier Baycurrent Classic de l'histoire. A 16 sous le par (268), Brennan s'offre son troisième titre sur le PGA Tour et le chèque de 1,44 million de dollars.",
+        "Le tournoi s'est joué sur le retour du parcours West. En tête après 54 trous, Max Homa a faibli au drive, concédant un 73 (+2) pour terminer 11e ex aequo à -10. Ses compagnons de partie Jacob Bridgeman et Keith Mitchell en ont profité pour rivaliser jusqu'au bout avec Brennan avant de partager la deuxième place à -15.",
+        "L'idole locale Hideki Matsuyama a enthousiasmé le public japonais en terminant à la 6e place ex aequo à 11 sous le par aux côtés de Justin Thomas. Le sacre de Brennan couronne une semaine remarquable sur le sol nippon.",
+      ],
+    },
+    es: {
+      title: "Baycurrent Classic: Michael Brennan supera a Bridgeman y Mitchell para conquistar Yokohama",
+      subtitle: "Brennan firma un 67 final para ganar con -16 mientras Max Homa se desinfla el domingo.",
+      excerpt: "El PGA Tour confirma la victoria por un golpe de Michael Brennan con 16 bajo par en el Yokohama Country Club.",
+      body: [
+        "Michael Brennan se coronó campeón en un emocionante domingo en el Yokohama Country Club tras entregar una tarjeta de 67 golpes (-4) para adjudicarse el inaugural Baycurrent Classic. Con un acumulado de 16 bajo par (268), Brennan celebró su tercer título en el PGA Tour y el cheque de 1,44 millones de dólares.",
+        "La resolución del torneo llegó en los segundos nueve hoyos. El líder tras 54 hoyos, Max Homa, sufrió desde el tee y cayó al puesto 11 empatado (-10) con una vuelta de 73. Jacob Bridgeman y Keith Mitchell presionaron hasta el final para compartir la segunda posición con 15 bajo par.",
+        "El héroe local Hideki Matsuyama hizo vibrar a la afición nipona al firmar una tarjeta que le valió para compartir la sexta plaza con -11 junto a Justin Thomas. El triunfo de Brennan premia su solidez con los hierros y con el putt en Yokohama.",
+      ],
+    },
+    de: {
+      title: "Baycurrent Classic: Michael Brennan siegt vor Bridgeman und Mitchell in Yokohama",
+      subtitle: "Brennan holt mit einer 67 den Titel bei 16 unter Par, während Max Homa am Finaltag einbricht.",
+      excerpt: "Das PGA Tour Leaderboard bestätigt den Ein-Schlag-Sieg von Michael Brennan bei 16 unter Par im Yokohama Country Club.",
+      body: [
+        "Michael Brennan sicherte sich am Championship Sunday im Yokohama Country Club mit einer souveränen 67er-Runde (-4) den Sieg bei der ersten Auflage des Baycurrent Classic. Mit 16 unter Par (268) feierte er seinen dritten PGA-Tour-Titel und kassierte 1,44 Millionen Dollar Preisgeld.",
+        "Die Entscheidung fiel auf den zweiten neun Löchern des West Course. Max Homa, der nach 54 Löchern geführt hatte, verlor mit einer 73 (+2) den Anschluss und landete auf dem geteilten 11. Platz (-10). Jacob Bridgeman und Keith Mitchell teilten sich mit 15 unter Par Rang zwei.",
+        "Publikumsliebling Hideki Matsuyama begeisterte die heimischen Zuschauer mit Rang sechs (-11) an der Seite von Justin Thomas. Brennans Nervenstärke auf den Grüns gab in einem hochspannenden Finale den Ausschlag.",
+      ],
+    },
+    it: {
+      title: "Baycurrent Classic: Michael Brennan batte Bridgeman e Mitchell e trionfa a Yokohama",
+      subtitle: "Brennan chiude in 67 colpi per vincere a -16 mentre Max Homa crolla nel giro finale.",
+      excerpt: "La classifica ufficiale del PGA Tour conferma il successo di Michael Brennan con un colpo di margine a Yokohama.",
+      body: [
+        "Michael Brennan ha conquistato il titolo nel primo Baycurrent Classic al Yokohama Country Club, chiudendo il giro finale in 67 colpi (-4) per chiudere a 16 sotto il par (268). Per il giocatore americano è il terzo successo nel PGA Tour, accompagnato da una prima moneta di 1,44 milioni di dollari.",
+        "Il torneo si è deciso sulle seconde nove buche. Max Homa, leader dopo 54 buche, ha faticato dal tee girando in 73 (+2) e scivolando all'11° posto pari merito (-10). Jacob Bridgeman e Keith Mitchell hanno lottato fino alla 18, chiudendo secondi a pari merito a 15 sotto il par.",
+        "Il beniamino di casa Hideki Matsuyama ha deliziato i tifosi giapponesi risalendo fino al sesto posto a -11 insieme a Justin Thomas. La freddezza di Brennan sui green ha fatto la differenza in un finale tiratissimo.",
+      ],
+    },
+    pl: {
+      title: "Baycurrent Classic: Michael Brennan pokonuje Bridgemana i Mitchella w Jokohamie",
+      subtitle: "Brennan gra 67 w finale i triumfuje z wynikiem -16, podczas gdy Max Homa traci prowadzenie.",
+      excerpt: "Tablica wyników PGA Tour potwierdza zwycięstwo Michaela Brennana z przewagą jednego uderzenia w Jokohamie.",
+      body: [
+        "Michael Brennan triumfował w inauguracyjnej edycji Baycurrent Classic w Yokohama Country Club, notując w niedzielę rundę 67 uderzeń (-4). Wynik 16 poniżej par (268) dał mu trzeci tytuł na PGA Tour w karierze i nagrodę w wysokości 1,44 miliona dolarów.",
+        "Losy turnieju rozstrzygnęły się na drugiej dziewiątce pola West Course. Prowadzący po trzech rundach Max Homa zagrał 73 (+2) i spadł na dzielone 11. miejsce (-10). Jacob Bridgeman i Keith Mitchell do końca walczyli o zwycięstwo, dzieląc ostatecznie drugą pozycję z wynikiem -15.",
+        "Ulubieniec miejscowej publiczności Hideki Matsuyama zajął dzielone szóste miejsce z wynikiem -11 u boku Justina Thomasa. Brennan przypieczętował triumf kapitalną grą puttami na trudnych greenach w Jokohamie.",
+      ],
+    },
+    zh: {
+      title: "贝肯特精英赛：布伦南决胜轮交出67杆，1杆险胜夺冠横滨首演",
+      subtitle: "布伦南总成绩低于标准杆16杆捧杯，54洞领头羊霍马决战日滑落。",
+      excerpt: "美巡赛官方记分卡确认迈克尔·布伦南以-16杆夺得横滨乡村俱乐部首届贝肯特精英赛冠军。",
+      body: [
+        "迈克尔·布伦南在横滨乡村俱乐部的决战日笑到最后，他在周日顶住压力交出低于标准杆4杆的67杆，以总成绩低于标准杆16杆（268杆）力拔头筹，摘得个人美巡赛第三冠及144万美元冠军支票。",
+        "冠军争夺在西球场后九洞进入白热化。54洞领先者霍马开球失准，仅交出高于标准杆2杆的73杆，总成绩滑落至并列第11位（-10）。同组的布里奇曼与米切尔紧追不舍，最终双双以-15杆屈居并列第二位。",
+        "东道主名将松山英树在前九洞连续抓鸟引爆主场观众热情，最终与贾斯汀·托马斯一同以-11杆并列第六。布伦南凭借精准的铁杆与关键推杆征服了横滨苛刻的果岭。",
+      ],
+    },
+    ja: {
+      title: "ベイカレント・クラシック：ブレナンが最終日67で逆転、横浜の初代王者に輝く",
+      subtitle: "通算16アンダーで米ツアー3勝目。首位発進のホーマは失速し11位タイ。",
+      excerpt: "PGAツアー公式リーダーボードにより、マイケル・ブレナンが1打差の16アンダーで横浜カントリークラブを制したことが確認された。",
+      body: [
+        "横浜カントリークラブで開催された初代ベイカレント・クラシックは、最終日に4アンダー67をマークしたマイケル・ブレナンが制した。通算16アンダー（268打）でツアー3勝目を飾り、優勝賞金144万ドルを手にした。",
+        "勝負は西コースのサンデーバックナインで決した。54ホールを終えて単独首位だったマックス・ホーマが73とスコアを崩して11位タイ（-10）へ後退する中、ブレナンがバーディを重ねて浮上。ジェイコブ・ブリッジマンとキース・ミッチェルが1打差の2位タイ（-15）に入った。",
+        "地元ファンの期待を背負った松山英樹はジャスティン・トーマスと並び通算11アンダーの6位タイでフィニッシュ。ブレナンの冷静なパッティングが激戦に終止符を打った。",
+      ],
+    },
+    ko: {
+      title: "베이커런트 클래식: 마이클 브레넌 최종 라운드 67타로 요코하마 초대 챔피언 등극",
+      subtitle: "16언더파로 통산 3승 달성, 54홀 선두였던 맥스 호마는 11위로 마감.",
+      excerpt: "PGA 투어 공식 순위표에 따르면 마이클 브레넌이 브리지먼과 미첼을 1타 차로 제치고 16언더파로 우승을 차지했다.",
+      body: [
+        "요코하마 컨트리클럽에서 열린 제1회 베이커런트 클래식의 우승컵은 마이클 브레넌에게 돌아갔다. 브레넌은 최종일 4언더파 67타를 적어내며 합계 16언더파 268타로 PGA 투어 통산 3번째 우승과 상금 144만 달러를 획득했다.",
+        "승부는 후반 9홀에서 갈렸다. 3라운드까지 선두를 달리던 맥스 호마가 73타로 부진하며 공동 11위(-10)로 밀려난 사이, 브레넌이 안정적인 샷으로 치고 나갔다. 제이콥 브리지먼과 키스 미첼은 1타 뒤진 공동 2위(-15)로 대회를 마쳤다.",
+        "일본 홈 팬들의 뜨거운 응원을 받은 마쓰야마 히데키는 저스틴 토머스와 함께 공동 6위(-11)에 올랐다. 브레넌은 까다로운 그린 위에서 흔들림 없는 퍼트로 승리를 지켜냈다.",
+      ],
+    },
+    ar: {
+      title: "بايكرنت كلاسيك: مايكل برينان يتفوق على بريدجمان وميتشل ويتوج في يوكوهاما",
+      subtitle: "برينان يسجل 67 ضربة ليفوز بـ-16 تحت المعدل بينما تراجع المتصدر ماكس هوما.",
+      excerpt: "جدول جولة PGA يؤكد فوز مايكل برينان بفارق ضربة واحدة بـ16 ضربة تحت المعدل في نادي يوكوهاما الريفي.",
+      body: [
+        "توج مايكل برينان بلقب النسخة الافتتاحية لبطولة بايكرنت كلاسيك في نادي يوكوهاما الريفي بعد تسجيله 67 ضربة (-4) في الجولة الختامية. وأنهى برينان البطولة بـ16 ضربة تحت المعدل (268)، محققا لقبه الثالث في جولة PGA وجائزة قدرها 1.44 مليون دولار.",
+        "وتحولت مجريات المنافسة في النصف الثاني من الملعب الغربي. وعانى المتصدر ماكس هوما من ضربات البداية لينهي الجولة بـ73 ضربة متراجعا للمركز 11 مشتركا (-10)، بينما ضغط جاكوب بريدجمان وكيث ميتشل ليتقاسما المركز الثاني بـ15 ضربة تحت المعدل.",
+        "وأشعل البطل المحلي هيديكي ماتسوياما حماس الجماهير اليابانية بحلوله سادسا بـ11 ضربة تحت المعدل إلى جانب جاستن توماس. وتوج برينان باللقب بفضل ثبات ضرباته على الحفر الأخيرة.",
+      ],
+    },
+  },
+  'shanghai-masters-2026-monday-zverev-sinner-alcaraz-qizhong': {
+    fr: {
+      title: "Masters de Shanghai : Zverev survit à un marathon, Sinner et Alcaraz de retour sur le Central",
+      subtitle: "La tête de série n°2 s'en sort en trois sets face à Halys tandis que Hurkacz poursuit sa route à Qizhong.",
+      excerpt: "L'ordre des matches du Rolex Shanghai Masters lance l'action de lundi sous le toit magnolia avec Zverev, Sinner et Alcaraz.",
+      body: [
+        "Le Rolex Shanghai Masters a offert un spectacle haletant ce week-end dans la métropole chinoise. La tête de série n°2 Alexander Zverev a dû puiser dans ses retranchements dimanche pour dominer le puncheur français Quentin Halys 6-4, 6-7(8), 6-3 au terme d'un combat de deux heures et demie sur le court central.",
+        "Dans le reste du tableau, le lauréat 2023 Hubert Hurkacz a fait parler la poudre en éliminant l'invité chinois Yi Zhou 6-2, 3-6, 6-3 avec 19 aces. L'Australien Alex de Minaur a mis fin au parcours de Rei Sakamoto (7-6, 6-4), alors qu'Arthur Gea a créé la surprise en sortant Ben Shelton en deux tie-breaks.",
+        "La journée de lundi clôture les 16es de finale et prépare les 8es sous le toit rétractable de Qizhong. Le n°1 mondial Jannik Sinner et Carlos Alcaraz reviennent sur le court pour affirmer leur statut sur le ciment rapide shanghaïen.",
+      ],
+    },
+    es: {
+      title: "Masters de Shanghái: Zverev supera una batalla épica mientras Sinner y Alcaraz vuelven a la pista",
+      subtitle: "El segundo favorito resiste en tres mangas ante Halys y Hurkacz avanza con paso firme en Qizhong.",
+      excerpt: "El orden de juego del Rolex Shanghai Masters marca los choques del lunes bajo el techo retráctil con Zverev, Sinner y Alcaraz.",
+      body: [
+        "El Rolex Shanghai Masters vivió un fin de semana trepidante en el Qizhong Tennis Center. El segundo cabeza de serie Alexander Zverev tuvo que emplearse a fondo el domingo para batir al cañonero francés Quentin Halys por 6-4, 6-7(8) y 6-3 en un intenso duelo de dos horas y media.",
+        "En otros choques, el campeón de 2023 Hubert Hurkacz exhibió su servicio al derrotar a Yi Zhou 6-2, 3-6 y 6-3 con 19 saques directos. Alex de Minaur frenó el sueño de Rei Sakamoto con un trabajado 7-6 y 6-4, mientras Arthur Gea dio la campanada al eliminar a Ben Shelton en dos desempates.",
+        "El lunes se completan los dieciseisavos y se perfilan los octavos de final. El número uno Jannik Sinner y Carlos Alcaraz saltan a la pista central dispuestos a imponer su ritmo en la pista rápida de Shanghái.",
+      ],
+    },
+    de: {
+      title: "Shanghai Masters: Zverev übersteht Drei-Satz-Krimi, Sinner und Alcaraz zurück auf dem Center Court",
+      subtitle: "Zweiter der Setzliste bezwingt Halys nach hartem Kampf; Hurkacz marschiert in Qizhong weiter.",
+      excerpt: "Die Rolex Shanghai Masters Order of Play verspricht am Montag Hochspannung mit Alexander Zverev, Jannik Sinner und Carlos Alcaraz.",
+      body: [
+        "Die Rolex Shanghai Masters lieferten am Wochenende dramatische Tennis-Krimis. Der an Position zwei gesetzte Alexander Zverev musste am Sonntag Schwerstarbeit verrichten, um den französischen Aufschlagriesen Quentin Halys mit 6:4, 6:7(8) und 6:3 in zweieinhalb Stunden auf dem Center Court niederzuringen.",
+        "Hubert Hurkacz, Shanghai-Champion von 2023, bewies mit 19 Assen beim 6:2, 3:6, 6:3 gegen Yi Zhou seine Klasse. Alex de Minaur beendete den Traumlauf des 19-jährigen Japaners Rei Sakamoto mit 7:6 und 6:4, während Arthur Gea überraschend Ben Shelton in zwei Tiebreaks bezwang.",
+        "Am Montag geht die Runde der letzten 32 in die Entscheidung. Topfavorit Jannik Sinner und Carlos Alcaraz wollen auf den schnellen Hartplätzen in Qizhong ihr Achtelfinal-Ticket buchen.",
+      ],
+    },
+    it: {
+      title: "Shanghai Masters: Zverev vince una maratona, Sinner e Alcaraz tornano sul Centrale",
+      subtitle: "Il tedesco piega Halys in tre set tiratissimi; Hurkacz avanza alla Qizhong Arena.",
+      excerpt: "L'Order of Play del Rolex Shanghai Masters programma le sfide di lunedì con Alexander Zverev, Jannik Sinner e Carlos Alcaraz.",
+      body: [
+        "Il Rolex Shanghai Masters ha regalato grande spettacolo nel fine settimana cinese. La testa di serie numero due Alexander Zverev ha dovuto faticare oltre due ore e mezza per superare il francese Quentin Halys col punteggio di 6-4, 6-7(8), 6-3 sul campo centrale.",
+        "Nel frattempo Hubert Hurkacz ha confermato il suo feeling con Shanghai sconfiggendo Yi Zhou 6-2, 3-6, 6-3 grazie a 19 ace. Alex de Minaur ha fermato la corsa del giapponese Rei Sakamoto per 7-6, 6-4, mentre il francese Arthur Gea ha sorpreso Ben Shelton al tie-break.",
+        "Lunedì si completa il tabellone dei sedicesimi in vista degli ottavi. Il numero uno al mondo Jannik Sinner e Carlos Alcaraz scendono in campo determinati a proseguire la marcia verso il titolo nei veloci campi della metropoli asiatica.",
+      ],
+    },
+    pl: {
+      title: "Shanghai Masters: Zverev przetrwał maraton, Sinner i Alcaraz wracają na kort centralny",
+      subtitle: "Wicelider rozstawienia pokonuje Halysa w trzech setach, Hurkacz pewnie kroczy dalej w Qizhong.",
+      excerpt: "Plan gier Rolex Shanghai Masters wyznacza poniedziałkowe zmagania z udziałem Alexandra Zvereva, Jannika Sinnera i Carlosa Alcaraza.",
+      body: [
+        "Rolex Shanghai Masters przyniósł w weekend niesamowite emocje na twardych kortach w Qizhong Arena. Rozstawiony z dwójką Alexander Zverev stoczył w niedzielę morderczy bój z Francuzem Quentinem Halysem, wygrywając 6-4, 6-7(8), 6-3 po dwóch i pół godzinie walki.",
+        "Mistrz z 2023 roku Hubert Hurkacz posłał 19 asów i pokonał reprezentanta gospodarzy Yi Zhou 6-2, 3-6, 6-3. Alex de Minaur zatrzymał rewelacyjnego 19-letniego Japończyka Rei Sakamoto (7-6, 6-4), a Arthur Gea sensacyjnie wyeliminował Bena Sheltona.",
+        "W poniedziałek dokończona zostanie runda 1/16 finału. Na kort centralny wracają lider rankingu Jannik Sinner i Carlos Alcaraz, walcząc o awans do decydującej fazy prestiżowego turnieju ATP 1000.",
+      ],
+    },
+    zh: {
+      title: "上海大师赛：兹维列夫鏖战三盘涉险过关，辛纳与阿尔卡拉斯重返中央球场",
+      subtitle: "二号种子力挫阿利斯晋级，胡尔卡奇旗忠轰19记ACE延续强势。",
+      excerpt: "劳力士上海大师赛公布周一赛程，白玉兰顶棚下兹维列夫、辛纳与阿尔卡拉斯领衔出战。",
+      body: [
+        "劳力士上海大师赛在旗忠森林体育城网球中心展开白热化争夺。周日二号种子兹维列夫遭遇法国重炮手阿利斯的强力阻击，历经两个半小时苦战以6-4、6-7(8)、6-3涉险过关。",
+        "2023年赛会冠军胡尔卡奇全场轰出19记ACE球，以6-2、3-6、6-3击败持外卡参赛的中国小将周意。澳大利亚名将德米纳尔以7-6、6-4终结了19岁日本资格赛黑马坂本怜的前进步伐，而法国小将吉阿爆冷两盘抢七淘汰谢尔顿。",
+        "周一将决出剩余16强席位。世界第一辛纳与二号种子阿尔卡拉斯将重返中央球场，在上海的快速硬地场上向大师赛冠军发起冲击。",
+      ],
+    },
+    ja: {
+      title: "上海マスターズ：ズベレフが死闘を制す、シナーとアルカラスが月曜センターコートに登場",
+      subtitle: "第2シードがアリスに逆転勝ち、フルカチュも19本のエースで勝ち上がり。",
+      excerpt: "ロレックス上海マスターズ公式OPにより、月曜日はズベレフ、シナー、アルカラスが旗忠アリーナで激突することが決定。",
+      body: [
+        "上海マスターズは週末、旗忠フォレストスポーツシティで熱戦が繰り広げられた。第2シードのアレクサンダー・ズベレフは日曜、フランスのクエンティン・アリスに6-4、6-7(8)、6-3で競り勝ち、2時間30分の死闘を制した。",
+        "2023年大会覇者のフベルト・フルカチュは19本のエースを浴びせ、地元ワイルドカードの周意を6-2、3-6、6-3で下した。アレックス・デミノーは快進撃を続けていた19歳の坂本怜を7-6、6-4で退けた。",
+        "月曜日はベスト16進出をかけた3回戦の残り試合が行われる。世界王者ヤニック・シナーとカルロス・アルカラスがセンターコートに登場し、優勝への足がかりを築く。",
+      ],
+    },
+    ko: {
+      title: "상하이 마스터스: 츠베레프 마라톤 혈투 끝 신승, 시너와 알카라스 센터코트 출격",
+      subtitle: "2번 시드 알리스 꺾고 16강 안착, 후르카치 에이스 19방 폭발시키며 전진.",
+      excerpt: "롤렉스 상하이 마스터스 경기 일정에 따르면 츠베레프에 이어 시너와 알카라스가 월요일 치중 아레나를 뜨겁게 달군다.",
+      body: [
+        "롤렉스 상하이 마스터스가 치중 포레스트 스포츠 시티 아레나에서 뜨거운 열기 속에 진행 중이다. 2번 시드 알렉산더 츠베레프는 일요일 프랑스의 쿠엔틴 알리스를 상대로 2시간 30분의 혈투 끝에 6-4, 6-7(8), 6-3 신승을 거뒀다.",
+        "2023년 우승자 후베르트 후르카치는 에이스 19개를 기록하며 저우이를 6-2, 3-6, 6-3으로 제압했다. 호주의 알렉스 드미노는 일본의 19세 신예 사카모토 레이를 7-6, 6-4로 꺾었으며, 아르튀르 제아는 벤 셸턴을 제압하는 이변을 일으켰다.",
+        "월요일에는 32강전 잔여 경기와 16강 진출자가 확정된다. 세계 1위 얀니크 시너와 카를로스 알카라스가 빠른 하드코트에서 최강자의 면모를 보여줄 채비를 마쳤다.",
+      ],
+    },
+    ar: {
+      title: "شنغهاي ماسترز: زفيريف ينجو من ماراثون شاق، وسينر وألكاراز يعودان للملعب الرئيسي",
+      subtitle: "المصنف الثاني يتجاوز هاليس في ثلاث مجموعات وهوركاتش يواصل تقدمه في كيزونغ.",
+      excerpt: "جدول مباريات رولكس شنغهاي ماسترز يحدد مواجهات الاثنين تحت السقف المتحرك بقيادة زفيريف وسينر وألكاراز.",
+      body: [
+        "شهدت بطولة رولكس شنغهاي ماسترز إثارة بالغة في عطلة نهاية الأسبوع بملعب كيزونغ. واضطر المصنف الثاني ألكسندر زفيريف لتقديم كل ما لديه ليتغلب على الفرنسي كوينتين هاليس 6-4 و6-7(8) و6-3 في مواجهة ماراثونية استمرت ساعتين ونصف.",
+        "من جانبه، تألق بطل نسخة 2023 هوبرت هوركاتش بـ19 إرسالا ساحقا ليتفوق على الصيني يي تشو 6-2 و3-6 و6-3. وأوقف أليكس دي مينور مسيرة الياباني ري ساكاموتو 7-6 و6-4، في حين فجر آرثر جيا مفاجأة مدوية بإقصاء بن شيلتون.",
+        "وتختتم يوم الاثنين منافسات دور الـ32 لتحديد المتأهلين لثمن النهائي. ويعود المصنف الأول يانيك سينر وكارلوس ألكاراز إلى الملعب الرئيسي سعيا لحسم بطاقتي العبور على الملاعب الصلبة السريعة.",
+      ],
+    },
+  },
+  'wnba-finals-locked-dream-vs-valkyries-historic-clash-2026': {
+    fr: {
+      title: "Finales WNBA : le Dream et les surprenantes Valkyries détrônent les champions pour une finale historique",
+      subtitle: "Atlanta et l'expansion Golden State éliminent le Liberty et les Aces 3-1 pour s'offrir un choc inédit.",
+      excerpt: "WNBA.com confirme l'affiche des Finales 2026. Atlanta Dream et Golden State Valkyries remportent leurs séries 3-1 pour rallier le match 1.",
+      body: [
+        "Les playoffs WNBA 2026 ont accouché d'un incroyable passage de témoin dimanche après-midi. Lors de deux quatrièmes manches irrespirables, l'Atlanta Dream et les Golden State Valkyries ont éliminé les deux finalistes sortants, le New York Liberty et les Las Vegas Aces, bouclant leurs séries 3-1 pour s'affronter dans une finale que nul n'avait prévue.",
+        "A Brooklyn, le Dream a résisté au retour furieux de Breanna Stewart pour s'imposer 85-83 au Barclays Center, porté par 24 points de Rhyne Howard et 16 rebonds d'Angel Reese. Quelques heures plus tard à Las Vegas, les Valkyries sont entrées dans l'histoire du sport : Tiffany Hayes a inscrit un tir primé décisif en prolongation pour battre les Aces 87-83, devenant la première équipe d'expansion de l'histoire du basket professionnel à atteindre les finales dès sa première saison.",
+        "La table est dressée pour ces Finales WNBA 2026 entre Atlanta et Golden State, qui débuteront le jeudi 15 octobre au Gateway Center Arena. Les deux ogres déchus laissent place à un sacre totalement inédit.",
+      ],
+    },
+    es: {
+      title: "Finales WNBA definidas: Dream y las cenicientas Valkyries destronan a las campeonas",
+      subtitle: "Atlanta y la debutante Golden State eliminan a Liberty y Aces por 3-1 y firman una cita histórica.",
+      excerpt: "WNBA.com confirma la gran final de 2026. Atlanta Dream y Golden State Valkyries vencen sus eliminatorias 3-1 para acceder al Juego 1.",
+      body: [
+        "La postemporada de la WNBA 2026 coronó un cambio generacional indiscutible el domingo. En dos cuartos partidos de pura emoción, Atlanta Dream y Golden State Valkyries eliminaron a las campeonas New York Liberty y Las Vegas Aces, sellando ambas semifinales por 3-1.",
+        "En Brooklyn, el Dream aguantó la embestida final de Breanna Stewart y se impuso 85-83 en el Barclays Center con 24 puntos de Rhyne Howard y 16 rebotes de Angel Reese. En Las Vegas, las Valkyries firmaron una hazaña irrepetible: Tiffany Hayes sentenció en la prórroga ante las Aces (87-83), convirtiendo a Golden State en la primera franquicia de expansión en alcanzar la final en su año de estreno.",
+        "Las Finales WNBA 2026 arrancarán el jueves 15 de octubre en el Gateway Center Arena de College Park, garantizando un nuevo e histórico campeón para el baloncesto femenino.",
+      ],
+    },
+    de: {
+      title: "WNBA Finals fixiert: Dream und Märchen-Valkyries entthronen Favoriten für historisches Finale",
+      subtitle: "Atlanta und Expansion-Team Golden State schlagen Liberty und Aces mit 3:1 aus den Playoffs.",
+      excerpt: "WNBA.com bestätigt das Finale 2026. Atlanta Dream und Golden State Valkyries machen mit 3:1-Siegen den Einzug in Spiel 1 perfekt.",
+      body: [
+        "Die WNBA-Playoffs 2026 sorgten am Sonntagnachmittag für eine historische Sensation. In zwei packenden Spiel-4-Schlachten eliminierten die Atlanta Dream und die Golden State Valkyries die Vorjahresfinalisten New York Liberty und Las Vegas Aces jeweils mit 3:1.",
+        "In Brooklyn verteidigten die Dream einen knappen 85:83-Sieg im Barclays Center dank 24 Punkten von Rhyne Howard und 16 Rebounds von Angel Reese. Wenig später schrieben die Valkyries in Las Vegas Sportgeschichte: Tiffany Hayes traf in der Overtime den entscheidenden Dreier zum 87:83 gegen die Aces, womit Golden State als erstes Expansion-Team im Debütjahr das Finale erreicht.",
+        "Spiel 1 der WNBA Finals 2026 beginnt am Donnerstag, 15. Oktober, in der Gateway Center Arena in College Park. Ein völlig neuer Champion wird gekrönt.",
+      ],
+    },
+    it: {
+      title: "Finali WNBA decise: Dream e le sorprendenti Valkyries detronizzano le campionesse",
+      subtitle: "Atlanta e la debuttante Golden State eliminano Liberty e Aces sul 3-1 per un ultimo atto senza precedenti.",
+      excerpt: "WNBA.com ufficializza la serie per l'anello 2026. Atlanta Dream e Golden State Valkyries superano le semifinali sul 3-1.",
+      body: [
+        "I playoff WNBA 2026 hanno riscritto le gerarchie del basket femminile domenica pomeriggio. Con due Gara 4 memorabili, Atlanta Dream e Golden State Valkyries hanno fatto fuori le corazzate New York Liberty e Las Vegas Aces chiudendo entrambe le serie sul 3-1.",
+        "A Brooklyn, Atlanta ha resistito al disperato assalto di Breanna Stewart vincendo 85-83 grazie ai 24 punti di Rhyne Howard e ai 16 rimbalzi di Angel Reese. A Las Vegas, le Valkyries hanno scritto la storia dello sport: Tiffany Hayes ha segnato la tripla decisiva all'overtime per l'87-83 sulle Aces, portando Golden State in finale al primo anno di vita.",
+        "Le finali WNBA 2026 scatteranno giovedì 15 ottobre alla Gateway Center Arena. Con entrambe le favorite eliminate, il campionato incoronerà un nuovo club regina.",
+      ],
+    },
+    pl: {
+      title: "Finały WNBA obsadzone: Dream i rewelacyjne Valkyries detronizują faworytki",
+      subtitle: "Atlanta oraz debiutujące Golden State wyrzucają Liberty i Aces wynikiem 3-1, tworząc historyczny finał.",
+      excerpt: "WNBA.com potwierdza zestawienie finału 2026. Atlanta Dream i Golden State Valkyries wygrywają serie 3-1 i meldują się w meczu nr 1.",
+      body: [
+        "Faza play-off WNBA 2026 przyniosła w niedzielne popołudnie trzęsienie ziemi. W dwóch dramatycznych czwartych meczach Atlanta Dream i Golden State Valkyries wyeliminowały zeszłorocznych finalistów New York Liberty oraz Las Vegas Aces, triumfując w seriach 3-1.",
+        "W Brooklynie Dream odparły pogoń Breanny Stewart, wygrywając 85-83 w Barclays Center dzięki 24 punktom Rhyne Howard i 16 zbiórkom Angel Reese. W Las Vegas beniaminek Valkyries przeszedł do historii zawodowego sportu: Tiffany Hayes trafiła decydującą trójkę po dogrywce, pieczętując wygraną 87-83 i pierwszy w historii awans debiutanckiego zespołu do finałów w pierwszym roku istnienia.",
+        "Finały WNBA 2026 rozpoczną się w czwartek 15 października w Gateway Center Arena. Kobiecy basket pozna zupełnie nowego mistrza.",
+      ],
+    },
+    zh: {
+      title: "WNBA总决赛对阵出炉：梦想与黑马新军女武神淘汰卫冕双雄，书写历史会师争冠",
+      subtitle: "亚特兰大与初创金州女武神总比分3-1力克自由人与王牌，创造职业篮坛奇迹。",
+      excerpt: "WNBA官方公布2026年总决赛赛程。亚特兰大梦想与金州女武神分别以3-1闯关成功会师首战。",
+      body: [
+        "2026年WNBA季后赛在周日下午迎来了划时代的历史更迭。在两场窒息的G4对决中，亚特兰大梦想与金州女武神双双完成下克上，以总比分3-1淘汰卫冕霸主纽约自由人与拉斯维加斯王牌，组成了谁也未曾预料的梦幻总决赛。",
+        "在布鲁克林，梦想队顶住了斯图尔特的疯狂反扑，凭借霍华德斩获的24分与里斯抢下的16个篮板，在巴克莱中心以85-83险胜晋级。数小时后的拉斯维加斯，初创球队女武神创造了职业体育历史：海耶斯加时后撤步三分绝杀，率队87-83掀翻王牌，成为职业篮球史上首支建队元年即杀入总决赛的新军。",
+        "2026年WNBA总决赛首战将于10月15日周四在盖特威中心体育馆打响。卫冕双雄双双出局，女子篮球注定将诞生崭新的总冠军王座。",
+      ],
+    },
+    ja: {
+      title: "WNBAファイナル決定：ドリームと快進撃ヴァルキリーズが昨季覇者を下し歴史的頂上決戦へ",
+      subtitle: "アトランタと拡張球団ゴールデンステートがリバティとエイシズを3勝1敗で撃破。",
+      excerpt: "WNBA公式が2026年ファイナル組み合わせを発表。ドリームとヴァルキリーズが共に3勝1敗で第1戦へ駒を進めた。",
+      body: [
+        "2026年のWNBAプレーオフは日曜午後、歴史的な世代交代の瞬間を迎えた。第4戦の激闘の末、アトランタ・ドリームとゴールデンステート・ヴァルキリーズが昨シーズンのファイナリストであるリバティとエイシズをそれぞれ3勝1敗で下した。",
+        "ブルックリンでは、ドリームがスチュワートの猛追を振り切りバークレイズ・センターで85-83の勝利を収めた。ハワードが24得点、リーズが16リバウンドを記録した。ラスベガスでは新興ヴァルキリーズが延長87-83でエイシズを撃破。創設1年目のチームがプロバスケ史上初めて初年度でファイナル進出を果たす快挙を達成した。",
+        "歴史的な頂上決戦となる2026年WNBAファイナル第1戦は、10月15日（木）にゲートウェイ・センター・アリーナで幕を開ける。",
+      ],
+    },
+    ko: {
+      title: "WNBA 파이널 확정: 드림과 기적의 신생팀 발키리스, 챔피언들 격침하며 역사적 파이널 격돌",
+      subtitle: "애틀랜타와 창단 첫해 골든스테이트, 리버티와 에이시스 3-1로 무너뜨리고 챔프전 진출.",
+      excerpt: "WNBA 공식 발표로 2026 파이널 대진이 완성됐다. 애틀랜타 드림과 골든스테이트 발키리스가 3-1 완승으로 1차전에 나선다.",
+      body: [
+        "2026 WNBA 플레이오프가 일요일 오후 판도 변화의 정점을 찍었다. 손에 땀을 쥐는 4차전 혈투 끝에 애틀랜타 드림과 골든스테이트 발키리스가 지난 시즌 파이널 진출팀인 뉴욕 리버티와 라스베이거스 에이시스를 모두 3승 1패로 꺾었다.",
+        "브루클린에서 드림은 라인 하워드의 24점과 엔젤 리스의 16리바운드를 앞세워 리버티의 추격을 85-83으로 따돌렸다. 라스베이거스에서는 신생팀 발키리스가 연장 끝에 티파니 헤이즈의 3점포로 에이시스를 87-83으로 제압, 프로 농구 역사상 최초로 창단 첫해 파이널 진출이라는 신화를 썼다.",
+        "2026 WNBA 파이널 1차전은 10월 15일 목요일 게이트웨이 센터 아레나에서 시작된다. 두 강호가 무너진 가운데 새로운 여왕의 탄생을 예고하고 있다.",
+      ],
+    },
+    ar: {
+      title: "نهائيات WNBA تتحدد: دريم وفالكيريز يسقطان الأبطال ويتأهلان لمواجهة تاريخية",
+      subtitle: "أتلانتا والوافد الجديد غولدن ستيت يقصيان ليبرتي وإيسيس 3-1 لبلوغ نهائي غير مسبوق.",
+      excerpt: "موقع WNBA يؤكد مواجهة نهائي 2026. أتلانتا دريم وغولدن ستيت فالكيريز يعبران بنتيجة 3-1 إلى المباراة الأولى.",
+      body: [
+        "شهدت الأدوار الإقصائية لدوري WNBA 2026 تغييرا تاريخيا في موازين القوى بعد ظهر الأحد. وفي مباراتين حبست الأنفاس، نجح أتلانتا دريم وغولدن ستيت فالكيريز في إقصاء بطلتي الموسم الماضي نيويورك ليبرتي ولاس فيغاس إيسيس، حاسمين السلسلتين بنتيجة 3-1.",
+        "في بروكلين، صمد دريم أمام عودة بريانا ستيوارت ليفوز 85-83 بفضل 24 نقطة من راين هاوارد و16 متابعة من أنجيل ريس. وفي لاس فيغاس، كتبت فالكيريز تاريخا رياضيا فريدا؛ حيث سجلت تيفاني هايز ثلاثية حاسمة في الوقت الإضافي لتهزم إيسيس 87-83، وتصبح أول فريق جديد في تاريخ كرة السلة يصل النهائي في عامه الأول.",
+        "وتنطلق نهائيات WNBA 2026 يوم الخميس 15 أكتوبر في صالة غيتواي سنتر أرينا، لتضمن تتويج بطل جديد تماما على عرش السلة النسائية.",
+      ],
+    },
+  },
 };

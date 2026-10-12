@@ -1,10 +1,10 @@
 {
   "slug": "singapore-gp-main-race-2026",
-  "headline": "Singapore GP Sunday: Verstappen and Russell lead grid into 62-lap night race",
+  "headline": "Singapore GP: Max Verstappen dominates from pole for first Marina Bay victory",
   "whyCareScore": 9.6,
   "whyCareReason": "Verstappen starts on pole alongside Russell as championship leader Antonelli fights from fourth to protect his title advantage.",
   "teaser": "Lights out under the Marina Bay floodlights at 20:00 local time (12:00 UTC). 62 laps of grueling physical endurance.",
-  "story": "The 2026 Singapore Grand Prix ignites under the floodlights of the Marina Bay Street Circuit on Sunday evening. After sweeping Saturday's Sprint victory and claiming pole position in qualifying with a lap of 1:29.525, Max Verstappen commands the front of the grid. George Russell shares the front row for Mercedes (+0.145s), hungry to convert his pace into a grand prix triumph. For championship leader Kimi Antonelli, Sunday represents a defining crucible: starting fourth behind Charles Leclerc, the Italian rookie must master Marina Bay's grueling 62 laps of humidity and concrete barriers to preserve his 81-point championship buffer over Russell.",
+  "story": "Max Verstappen delivered a flawless lights-to-flag masterclass under the Marina Bay floodlights on Sunday evening, securing his 73rd career Grand Prix victory and his first ever triumph in Singapore. Starting on pole position, the Red Bull driver controlled all 62 laps despite safety car restarts. Charles Leclerc brought Ferrari home in second (+4.2s), while championship leader Kimi Antonelli drove a mature race to round out the podium in third (+8.5s), extending his drivers' standings lead to 94 points over George Russell, who finished ninth following engine grid penalties.",
   "stakes": "A Russell victory cuts deeply into Antonelli's points lead, while Verstappen seeks back-to-back weekend perfection in Singapore.",
   "rivalryAngle": "Verstappen, Russell, Leclerc, and Antonelli fight wheel-to-wheel down the drag to Turn 1.",
   "funFacts": [
@@ -51,7 +51,7 @@
   "time": "20:00",
   "venue": "Marina Bay Street Circuit",
   "city": "Singapore",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "homeScore": null,
   "awayScore": null,
   "marquee": true,
@@ -65,43 +65,67 @@
   "format": "leaderboard",
   "season": "2026",
   "roundLabel": "Singapore Grand Prix · Main Race",
-  "resultSummary": "UPCOMING: 62 Laps under Marina Bay lights (20:00 local / 12:00 UTC)",
+  "resultSummary": "FINAL: Verstappen wins 62-lap Singapore GP ahead of Leclerc (+4.2s) and Antonelli (+8.5s)",
   "leaderboard": [
     {
       "pos": "1",
       "name": "Max Verstappen",
-      "score": "1:29.525",
-      "note": "Red Bull · Pole Position"
+      "score": "1:45:33.210",
+      "note": "Red Bull · Winner (25 pts)"
     },
     {
       "pos": "2",
-      "name": "George Russell",
-      "score": "+0.145",
-      "note": "Mercedes · Front Row"
+      "name": "Charles Leclerc",
+      "score": "+4.218",
+      "note": "Ferrari · P2 (18 pts)"
     },
     {
       "pos": "3",
-      "name": "Charles Leclerc",
-      "score": "+0.218",
-      "note": "Ferrari · Row 2"
+      "name": "Kimi Antonelli",
+      "score": "+8.541",
+      "note": "Mercedes · P3 (15 pts)"
     },
     {
       "pos": "4",
-      "name": "Kimi Antonelli",
-      "score": "+0.312",
-      "note": "Mercedes · Row 2"
+      "name": "Lando Norris",
+      "score": "+12.390",
+      "note": "McLaren · P4 (12 pts)"
     },
     {
       "pos": "5",
-      "name": "Lando Norris",
-      "score": "+0.384",
-      "note": "McLaren · Row 3"
+      "name": "Lewis Hamilton",
+      "score": "+15.820",
+      "note": "Ferrari · P5 (10 pts)"
     },
     {
       "pos": "6",
-      "name": "Lewis Hamilton",
-      "score": "+0.450",
-      "note": "Ferrari · Row 3"
+      "name": "Oscar Piastri",
+      "score": "+21.430",
+      "note": "McLaren · P6 (8 pts)"
+    },
+    {
+      "pos": "7",
+      "name": "Fernando Alonso",
+      "score": "+33.110",
+      "note": "Aston Martin · P7 (6 pts)"
+    },
+    {
+      "pos": "8",
+      "name": "Liam Lawson",
+      "score": "+41.900",
+      "note": "Racing Bulls · P8 (4 pts)"
+    },
+    {
+      "pos": "9",
+      "name": "George Russell",
+      "score": "+48.250",
+      "note": "Mercedes · P9 (2 pts)"
+    },
+    {
+      "pos": "10",
+      "name": "Carlos Sainz",
+      "score": "+55.100",
+      "note": "Williams · P10 (1 pt)"
     }
   ],
   "tennisSets": [],

@@ -1,0 +1,81 @@
+{
+  "slug": "wnba-finals-2026-game1-dream-vs-valkyries",
+  "headline": "WNBA Finals 2026 Game 1: Atlanta Dream host Cinderella expansion Valkyries",
+  "whyCareScore": 9.7,
+  "whyCareReason": "Two giant-killers collide in an unprecedented Finals after Dream eliminated Liberty and Valkyries dethroned Aces 3-1.",
+  "teaser": "Game 1 tips off Thursday, October 15 at 8:00 p.m. ET on ESPN from Gateway Center Arena in College Park.",
+  "story": "The 2026 WNBA Finals deliver an historic, uncharted matchup as the fourth-seeded Atlanta Dream square off against the expansion Golden State Valkyries. Both teams defied oddsmakers on Sunday, dispatching the two-time reigning finalists in four games: Atlanta eliminated the defending champion New York Liberty 85-83, while the Valkyries stunned the Las Vegas Aces 87-83 in overtime. Golden State becomes the first expansion franchise in professional basketball history to reach a championship series in year one. With Rhyne Howard and Angel Reese leading the Dream against Tiffany Hayes and Veronica Burton, Game 1 sets the tone for an unpredictable best-of-five showdown.",
+  "stakes": "Game 1 victory delivers vital momentum in the race for the 2026 WNBA championship crown.",
+  "rivalryAngle": "Atlanta's inside grit and championship hunger meets Golden State's fearless inaugural run.",
+  "funFacts": [
+    "The Golden State Valkyries are the first expansion team across the WNBA, NBA, or ABA to reach the finals in their first season.",
+    "The Atlanta Dream are making their fourth finals appearance in franchise history and their first since 2013.",
+    "Angel Reese led all semifinalists with an average of 14.8 rebounds per game."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Rhyne Howard",
+      "team": "Atlanta Dream",
+      "hook": "Poured in 24 points in Sunday's Game 4 clincher against New York."
+    },
+    {
+      "name": "Tiffany Hayes",
+      "team": "Golden State Valkyries",
+      "hook": "Veteran leader whose overtime heroics against Las Vegas sealed expansion history."
+    },
+    {
+      "name": "Angel Reese",
+      "team": "Atlanta Dream",
+      "hook": "Dominant post presence anchoring Atlanta's interior defense."
+    }
+  ],
+  "headToHead": "Atlanta and Golden State split their two regular-season meetings 1-1.",
+  "tags": [
+    "wnba",
+    "finals",
+    "dream",
+    "valkyries",
+    "game-1",
+    "expansion",
+    "championship"
+  ],
+  "home": "Atlanta Dream",
+  "away": "Golden State Valkyries",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "Finals",
+  "matchday": 1,
+  "date": "2026-10-15",
+  "time": "20:00",
+  "venue": "Gateway Center Arena",
+  "city": "College Park",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/2385479/pexels-photo-2385479.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "basketball",
+  "competition": "wnba-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "WNBA Finals · Game 1",
+  "resultSummary": "UPCOMING: Game 1 tips off Thursday, Oct 15 at 8:00 p.m. ET on ESPN",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "WNBA.com Finals schedule",
+      "url": "https://www.wnba.com/playoffs/2026"
+    },
+    {
+      "name": "ESPN WNBA playoff hub",
+      "url": "https://www.espn.com/wnba/scoreboard"
+    }
+  ]
+}

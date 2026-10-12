@@ -1,10 +1,10 @@
 {
   "slug": "wnba-semifinals-game4-doubleheader-sunday-2026",
-  "headline": "WNBA Semifinals Game 4: Liberty and Aces fight to force Game 5 deciders",
+  "headline": "WNBA Semifinals: Dream and Cinderella Valkyries advance to 2026 Finals",
   "whyCareScore": 9.5,
   "whyCareReason": "After thrilling Game 3 home wins kept their seasons alive, New York and Las Vegas host Game 4 trailing 1-2 in best-of-five semifinals.",
   "teaser": "Sunday double-header: Dream at Liberty (3:00 p.m. ET, ABC) and Valkyries at Aces (5:30 p.m. ET, ESPN).",
-  "story": "The 2026 WNBA postseason reaches maximum intensity on Sunday with a semifinal Game 4 double-header. Both reigning finalists answered the bell on Friday night to avoid sweeps: Breanna Stewart's 28 points powered the New York Liberty past Atlanta 88-82 at Barclays Center, while A'ja Wilson's 31-point, 14-rebound masterpiece lifted the Las Vegas Aces over the Golden State Valkyries 86-79 in Nevada. Both series now stand at 2-1. On Sunday afternoon, Atlanta and Golden State take their second shot at punching their first-ever finals tickets, while the Liberty and Aces attempt to force dramatic winner-take-all Game 5s.",
+  "story": "The WNBA crowned two new conference champions on Sunday as both semifinal series concluded in 3-1 upsets. In Brooklyn, the Atlanta Dream eliminated the defending champion New York Liberty 85-83 behind 24 points from Rhyne Howard and 16 rebounds from Angel Reese. In Las Vegas, the expansion Golden State Valkyries made sports history, outlasting the Las Vegas Aces 87-83 in overtime to become the first expansion franchise in professional basketball history to reach the Finals in year one.",
   "stakes": "Wins for Dream and Valkyries crown new conference champions. Wins for Liberty and Aces force deciding Game 5 clashes on Tuesday.",
   "rivalryAngle": "Championship DNA versus unprecedented underdog momentum across two electric home arenas.",
   "funFacts": [
@@ -52,7 +52,7 @@
   "time": "15:00",
   "venue": "Barclays Center",
   "city": "Brooklyn",
-  "status": "UPCOMING",
+  "status": "FINISHED",
   "homeScore": null,
   "awayScore": null,
   "marquee": true,
@@ -66,7 +66,7 @@
   "format": "team-match",
   "season": "2026",
   "roundLabel": "WNBA Semifinals · Game 4 Double-Header",
-  "resultSummary": "UPCOMING: Dream at Liberty (3:00 p.m. ET, ABC) · Valkyries at Aces (5:30 p.m. ET, ESPN)",
+  "resultSummary": "FINAL: Dream 85-83 Liberty (Atlanta wins series 3-1) · Valkyries 87-83 Aces OT (Golden State wins series 3-1)",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [

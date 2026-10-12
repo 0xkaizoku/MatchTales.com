@@ -1,17 +1,17 @@
 {
-  "asOf": "2026-10-11",
+  "asOf": "2026-10-12",
   "premierLeagueTable": [
     {
       "pos": 1,
       "team": "Manchester City",
-      "p": 5,
-      "w": 5,
+      "p": 6,
+      "w": 6,
       "d": 0,
       "l": 0,
-      "gf": 13,
-      "ga": 5,
-      "gd": 8,
-      "pts": 15
+      "gf": 15,
+      "ga": 2,
+      "gd": 13,
+      "pts": 18
     },
     {
       "pos": 2,
@@ -76,13 +76,13 @@
     {
       "pos": 7,
       "team": "Liverpool",
-      "p": 5,
+      "p": 6,
       "w": 2,
       "d": 3,
-      "l": 0,
+      "l": 1,
       "gf": 7,
-      "ga": 4,
-      "gd": 3,
+      "ga": 6,
+      "gd": 1,
       "pts": 9
     },
     {
@@ -247,59 +247,59 @@
       "pos": 1,
       "name": "Kimi Antonelli",
       "team": "Mercedes",
-      "pts": 324
+      "pts": 339
     },
     {
       "pos": 2,
       "name": "George Russell",
       "team": "Mercedes",
-      "pts": 243
+      "pts": 245
     },
     {
       "pos": 3,
-      "name": "Lewis Hamilton",
-      "team": "Ferrari",
-      "pts": 214
+      "name": "Max Verstappen",
+      "team": "Red Bull",
+      "pts": 221
     },
     {
       "pos": 4,
       "name": "Charles Leclerc",
       "team": "Ferrari",
-      "pts": 197
+      "pts": 215
     },
     {
       "pos": 5,
-      "name": "Max Verstappen",
-      "team": "Red Bull",
-      "pts": 196
+      "name": "Lando Norris",
+      "team": "McLaren",
+      "pts": 205
     },
     {
       "pos": 6,
-      "name": "Lando Norris",
+      "name": "Oscar Piastri",
       "team": "McLaren",
-      "pts": 193
+      "pts": 196
     }
   ],
   "f1Constructors": [
     {
       "pos": 1,
       "name": "Mercedes",
-      "pts": 567
+      "pts": 584
     },
     {
       "pos": 2,
       "name": "Ferrari",
-      "pts": 411
+      "pts": 439
     },
     {
       "pos": 3,
       "name": "McLaren",
-      "pts": 321
+      "pts": 341
     },
     {
       "pos": 4,
       "name": "Red Bull",
-      "pts": 306
+      "pts": 331
     }
   ],
   "wnbaSeeds": [
@@ -581,7 +581,14 @@
       "time": "8:20 p.m. ET",
       "home": "Atlanta Falcons",
       "away": "Baltimore Ravens",
-      "note": "Sunday Night Football at Mercedes-Benz Stadium. Jackson vs Penix Jr. Undefeated Vikings and 49ers battle to reach 5-0."
+      "note": "FINAL: Ravens 30, Falcons 23 (OT). NBC Sunday Night Football. Huntley sneak, Hamilton INT in OT. Ravens 4-1, Falcons 1-4."
+    },
+    {
+      "date": "2026-10-12",
+      "time": "8:15 p.m. ET",
+      "home": "Los Angeles Rams",
+      "away": "Buffalo Bills",
+      "note": "Monday Night Football at SoFi Stadium. Josh Allen vs Matthew Stafford. Week 5 wraps under California lights on ESPN."
     }
   ],
   "usOpenQF": [
