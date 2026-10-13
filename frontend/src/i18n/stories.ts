@@ -13677,4 +13677,502 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+  'nfl-week5-mnf-bills-37-rams-34-ot-2026': {
+    fr: {
+      title: "Monday Night Football : les Bills battent les Rams 37-34 en prolongation au SoFi",
+      subtitle: "Tyler Bass a réussi un field goal de 45 yards à 1:55 de la fin. Buffalo est à 4-1. Les Rams sont à 2-3.",
+      excerpt: "ESPN inscrit un score final de 37-34 en prolongation au SoFi Stadium. Josh Allen a fini avec 331 yards au total.",
+      body: [
+        "Les Buffalo Bills ont battu les Los Angeles Rams 37-34 en prolongation au SoFi Stadium. Les quarts d'ESPN : Bills 6, 7, 6, 15 et 3. Rams 0, 7, 7, 20 et 0. Buffalo est à 4-1, dont 2-0 à l'extérieur. Los Angeles est à 2-3, dont 1-2 à domicile, toujours derrière les 49ers à 5-0 dans la NFC Ouest.",
+        "Tyler Bass a conclu avec un field goal de 45 yards à 1:55 de la fin de la prolongation, après que Greg Rousseau a contré une tentative de Harrison Mevis. James Cook a perdu le ballon tôt en prolongation. Josh Allen a lancé pour 210 yards et couru pour 121, soit 331 yards et deux touchdowns. Matthew Stafford a lancé pour 383 yards et trois touchdowns. James Cook a couru pour 111 yards et deux touchdowns. Puka Nacua a pris 17 réceptions pour 138 yards et un touchdown. Vikings et 49ers restent à 5-0. Les Chiefs sont à 4-0 pendant leur semaine de repos.",
+      ],
+    },
+    es: {
+      title: "Monday Night Football: los Bills vencen a los Rams 37-34 en la prórroga en el SoFi",
+      subtitle: "Tyler Bass metió un field goal de 45 yardas a 1:55 del final. Buffalo está 4-1. Los Rams están 2-3.",
+      excerpt: "ESPN lista un final de 37-34 en la prórroga en el SoFi Stadium. Josh Allen acabó con 331 yardas totales.",
+      body: [
+        "Los Buffalo Bills vencieron a los Los Angeles Rams 37-34 en la prórroga en el SoFi Stadium. Los cuartos de ESPN: Bills 6, 7, 6, 15 y 3. Rams 0, 7, 7, 20 y 0. Buffalo está 4-1 y 2-0 fuera. Los Angeles está 2-3 y 1-2 en casa, todavía por detrás de los 49ers, que están 5-0 en la NFC Oeste.",
+        "Tyler Bass lo cerró con un field goal de 45 yardas a 1:55 del final de la prórroga, después de que Greg Rousseau bloqueara un intento de Harrison Mevis. James Cook perdió el balón pronto en la prórroga. Josh Allen lanzó para 210 yardas y corrió para 121: 331 yardas totales y dos touchdowns. Matthew Stafford lanzó para 383 yardas y tres touchdowns. James Cook corrió para 111 yardas y dos touchdowns. Puka Nacua tuvo 17 recepciones para 138 yardas y un tanto. Vikings y 49ers siguen 5-0. Los Chiefs están 4-0 en su semana de descanso.",
+      ],
+    },
+    de: {
+      title: "Monday Night Football: Bills besiegen Rams 37:34 nach Verlängerung im SoFi",
+      subtitle: "Tyler Bass traf ein Field Goal aus 45 Yards bei 1:55 Restzeit. Buffalo ist 4-1. Die Rams sind 2-3.",
+      excerpt: "ESPN führt ein 37:34 nach Verlängerung im SoFi Stadium. Josh Allen kam auf 331 Yards insgesamt.",
+      body: [
+        "Die Buffalo Bills besiegten die Los Angeles Rams 37:34 nach Verlängerung im SoFi Stadium. Viertel bei ESPN: Bills 6, 7, 6, 15 und 3. Rams 0, 7, 7, 20 und 0. Buffalo ist 4-1 und 2-0 auswärts. Los Angeles ist 2-3 und 1-2 daheim, weiter hinter den 49ers, die in der NFC West bei 5-0 stehen.",
+        "Tyler Bass entschied mit einem Field Goal aus 45 Yards bei 1:55 Restzeit in der Verlängerung, nachdem Greg Rousseau einen Versuch von Harrison Mevis geblockt hatte. James Cook verlor den Ball früh in der Verlängerung. Josh Allen warf für 210 Yards und lief für 121, zusammen 331 Yards und zwei Touchdowns. Matthew Stafford warf für 383 Yards und drei Touchdowns. James Cook lief für 111 Yards und zwei Touchdowns. Puka Nacua fing 17 Pässe für 138 Yards und einen Touchdown. Vikings und 49ers bleiben bei 5-0. Die Chiefs sind 4-0 in ihrer spielfreien Woche.",
+      ],
+    },
+    it: {
+      title: "Monday Night Football: i Bills battono i Rams 37-34 all'overtime al SoFi",
+      subtitle: "Tyler Bass ha segnato un field goal da 45 yard a 1:55 dalla fine. Buffalo è sul 4-1. I Rams sono sul 2-3.",
+      excerpt: "ESPN indica un finale di 37-34 all'overtime al SoFi Stadium. Josh Allen ha chiuso con 331 yard totali.",
+      body: [
+        "I Buffalo Bills hanno battuto i Los Angeles Rams 37-34 all'overtime al SoFi Stadium. I quarti di ESPN: Bills 6, 7, 6, 15 e 3. Rams 0, 7, 7, 20 e 0. Buffalo è sul 4-1 e 2-0 in trasferta. Los Angeles è sul 2-3 e 1-2 in casa, ancora dietro ai 49ers sul 5-0 nella NFC West.",
+        "Tyler Bass ha chiuso con un field goal da 45 yard a 1:55 dalla fine dell'overtime, dopo che Greg Rousseau ha respinto un tentativo di Harrison Mevis. James Cook ha perso il pallone all'inizio dell'overtime. Josh Allen ha passato per 210 yard e corso per 121: 331 yard totali e due touchdown. Matthew Stafford ha passato per 383 yard e tre touchdown. James Cook ha corso per 111 yard e due touchdown. Puka Nacua ha preso 17 ricezioni per 138 yard e un touchdown. Vikings e 49ers restano sul 5-0. I Chiefs sono sul 4-0 nella settimana di riposo.",
+      ],
+    },
+    pl: {
+      title: "Monday Night Football: Bills wygrywają z Rams 37-34 po dogrywce na SoFi",
+      subtitle: "Tyler Bass trafił field goal z 45 jardów przy 1:55 do końca. Buffalo ma 4-1. Rams mają 2-3.",
+      excerpt: "ESPN podaje końcowy wynik 37-34 po dogrywce na SoFi Stadium. Josh Allen zakończył mecz z 331 jardami łącznie.",
+      body: [
+        "Buffalo Bills pokonali Los Angeles Rams 37-34 po dogrywce na SoFi Stadium. Kwarty według ESPN: Bills 6, 7, 6, 15 i 3. Rams 0, 7, 7, 20 i 0. Buffalo ma 4-1 i 2-0 na wyjeździe. Los Angeles ma 2-3 i 1-2 u siebie, wciąż za 49ers, którzy mają 5-0 w NFC West.",
+        "Tyler Bass zakończył mecz field goalem z 45 jardów przy 1:55 do końca dogrywki, po tym jak Greg Rousseau zablokował próbę Harrisona Mevisa. James Cook zgubił piłkę wcześnie w dogrywce. Josh Allen rzucił na 210 jardów i przebiegł 121: łącznie 331 jardów i dwa przyłożenia. Matthew Stafford rzucił na 383 jardy i trzy przyłożenia. James Cook przebiegł 111 jardów i zdobył dwa przyłożenia. Puka Nacua złapał 17 podań na 138 jardów i przyłożenie. Vikings i 49ers zostają przy 5-0. Chiefs mają 4-0 w tygodniu pauzy.",
+      ],
+    },
+    zh: {
+      title: "周一夜赛：比尔在SoFi加时37-34击败公羊",
+      subtitle: "泰勒·巴斯在还剩1:55时踢进45码射门。布法罗4胜1负。公羊2胜3负。",
+      excerpt: "ESPN记录SoFi加时终场37-34。乔什·艾伦全场贡献331码。",
+      body: [
+        "布法罗比尔在SoFi体育场加时37-34击败洛杉矶公羊。ESPN的节次：比尔6、7、6、15、3，公羊0、7、7、20、0。布法罗4胜1负，客场2胜0负。洛杉矶2胜3负，主场1胜2负，在NFC西区仍落后于5胜0负的49人。",
+        "泰勒·巴斯在加时还剩1:55时用45码射门锁定胜局，此前格雷格·卢梭封堵了哈里森·梅维斯的射门。詹姆斯·库克在加时早段丢球。乔什·艾伦传球210码、冲球121码，合计331码并有两次达阵。马修·斯塔福德传球383码、3次达阵。詹姆斯·库克冲球111码、2次达阵。普卡·纳库阿接球17次、138码并有1次达阵。维京人与49人仍是5胜0负。酋长4胜0负，本周轮休。",
+      ],
+    },
+    ja: {
+      title: "マンデーナイト：ビルズがSoFiで延長の末、ラムズを37-34で下す",
+      subtitle: "タイラー・バスが残り1:55で45ヤードのFGを成功。バッファローは4勝1敗。ラムズは2勝3敗。",
+      excerpt: "ESPNはSoFiの延長戦を37-34と記す。ジョシュ・アレンの総獲得ヤードは331。",
+      body: [
+        "バッファロー・ビルズがSoFiスタジアムでロサンゼルス・ラムズを延長の末37-34で下した。ESPNのクォーター：ビルズ6、7、6、15、3。ラムズ0、7、7、20、0。バッファローは4勝1敗、アウェー2勝0敗。ロサンゼルスは2勝3敗、ホーム1勝2敗で、NFC西地区の5勝0敗の49ersにまだ及ばない。",
+        "タイラー・バスが延長残り1:55で45ヤードのフィールドゴールを決め、その前にグレッグ・ルソーがハリソン・メビスのキックをブロックした。ジェームズ・クックは延長の序盤にファンブルした。ジョシュ・アレンはパス210ヤード、ラン121ヤード、合計331ヤードでタッチダウン2つ。マシュー・スタッフォードはパス383ヤード、タッチダウン3つ。ジェームズ・クックはラン111ヤード、タッチダウン2つ。プーカ・ナクアは17キャッチ、138ヤード、タッチダウン1つ。バイキングスと49ersは5勝0敗のまま。チーフスは4勝0敗でバイ週。",
+      ],
+    },
+    ko: {
+      title: "먼데이 나이트: 빌스가 SoFi에서 연장 끝에 램스를 37-34로 이겼다",
+      subtitle: "타일러 배스가 1분 55초를 남기고 45야드 필드골을 성공했다. 버펄로는 4승 1패. 램스는 2승 3패.",
+      excerpt: "ESPN은 SoFi 연장 최종 스코어를 37-34로 적는다. 조시 앨런의 총 야드는 331.",
+      body: [
+        "버펄로 빌스가 SoFi 스타디움에서 로스앤젤레스 램스를 연장 끝에 37-34로 이겼다. ESPN 쿼터: 빌스 6, 7, 6, 15, 3. 램스 0, 7, 7, 20, 0. 버펄로는 4승 1패, 원정 2승 무패. 로스앤젤레스는 2승 3패, 홈 1승 2패로, NFC 서부 5승 무패인 49ers에 여전히 뒤진다.",
+        "타일러 배스가 연장 1분 55초를 남기고 45야드 필드골로 끝냈다. 그 전에 그렉 루소가 해리슨 메비스의 시도를 막았다. 제임스 쿡은 연장 초반 공을 놓쳤다. 조시 앨런은 패스 210야드, 러시 121야드, 합계 331야드와 터치다운 2개. 매슈 스태퍼드는 패스 383야드와 터치다운 3개. 제임스 쿡은 러시 111야드와 터치다운 2개. 푸카 나쿠아는 17리셉션, 138야드, 터치다운 1개. 바이킹스와 49ers는 5승 무패. 치프스는 4승 무패로 휴식이다.",
+      ],
+    },
+    ar: {
+      title: "ليلة الاثنين: بيلز يهزم رامز 37-34 في الوقت الإضافي في SoFi",
+      subtitle: "سجل تايلر باس هدفا من 45 ياردة عند 1:55 من النهاية. بافالو 4-1. رامز 2-3.",
+      excerpt: "تسجل ESPN نتيجة نهائية 37-34 في الوقت الإضافي في ملعب SoFi. أنهى جوش ألين بـ331 ياردة إجمالا.",
+      body: [
+        "هزم بافالو بيلز لوس أنجلوس رامز 37-34 في الوقت الإضافي في ملعب SoFi. أرباع ESPN: بيلز 6 و7 و6 و15 و3. رامز 0 و7 و7 و20 و0. بافالو 4-1 و2-0 خارج أرضه. لوس أنجلوس 2-3 و1-2 على أرضه، وما زال خلف 49ers برصيد 5-0 في غرب NFC.",
+        "حسم تايلر باس المباراة بهدف من 45 ياردة عند 1:55 من نهاية الوقت الإضافي، بعد أن صد غريغ روسو محاولة هاريسون ميفيس. أضاع جيمس كوك الكرة مبكرا في الوقت الإضافي. مرر جوش ألين لمسافة 210 ياردات وركض 121، أي 331 ياردة وهدفين. مرر ماثيو ستافورد لمسافة 383 ياردة وثلاثة أهداف. ركض جيمس كوك 111 ياردة وسجل هدفين. التقط بوكا ناكوا 17 تمريرة لمسافة 138 ياردة وهدف. يبقى فايكنغز و49ers عند 5-0. تشيفز 4-0 في أسبوع الراحة.",
+      ],
+    },
+  },
+  'coventry-4-1-newcastle-mw6-2026': {
+    fr: {
+      title: "Coventry 4-1 Newcastle : une première victoire à domicile en Premier League depuis 25 ans",
+      subtitle: "Rudoni, Cherif, Botman, Simms et Mfuni ont marqué au Coventry Building Society Arena. Newcastle reste 11e avec 8 points.",
+      excerpt: "Sky Sports et le centre des matches de la FIFA inscrivent un 4-1. Coventry monte à la 14e place avec 6 points.",
+      body: [
+        "Coventry a battu Newcastle 4-1 lundi au Coventry Building Society Arena. Le coup d'envoi était à 20 h. Sky Sports et la FIFA donnent les buteurs : Jack Rudoni sur penalty à la 6e, Sidiki Cherif à la 48e, Sven Botman à la 70e, Ellis Simms à la 81e et Stephen Mfuni à la 86e. La mi-temps était 1-0. Frank Lampard est l'entraîneur de Coventry. Jack Rudoni a dit à Sky Sports que c'était la première victoire à domicile du club en Premier League depuis 25 ans.",
+        "Coventry a joué 6 matches, avec 2 victoires et 4 défaites, 5 buts pour et 11 contre, une différence de -6 et 6 points. C'est la 14e place, à égalité de points avec Manchester United et derrière au goal-average. Newcastle a joué 6 matches, bilan 2-2-2, 10 buts pour et 13 contre, et reste 11e avec 8 points. Manchester City mène toujours avec 18 points. Ce bureau ne donne pas de score au match de mercredi entre City et le Paris Saint-Germain.",
+      ],
+    },
+    es: {
+      title: "Coventry 4-1 Newcastle: primera victoria en casa en la Premier en 25 años",
+      subtitle: "Rudoni, Cherif, Botman, Simms y Mfuni marcaron en el Coventry Building Society Arena. Newcastle sigue 11º con 8 puntos.",
+      excerpt: "Sky Sports y el centro de partidos de la FIFA anotan un 4-1. Coventry sube al puesto 14 con 6 puntos.",
+      body: [
+        "El Coventry venció 4-1 al Newcastle el lunes en el Coventry Building Society Arena. El saque fue a las 20:00. Sky Sports y la FIFA dan los goles: Jack Rudoni de penalti en el minuto 6, Sidiki Cherif en el 48, Sven Botman en el 70, Ellis Simms en el 81 y Stephen Mfuni en el 86. El descanso fue 1-0. Frank Lampard es el entrenador del Coventry. Jack Rudoni dijo a Sky Sports que era la primera victoria en casa del club en la Premier en 25 años.",
+        "El Coventry ha jugado 6 partidos, con 2 victorias y 4 derrotas, 5 goles a favor y 11 en contra, una diferencia de -6 y 6 puntos. Es el puesto 14, empatado a puntos con el Manchester United y por detrás en la diferencia. El Newcastle ha jugado 6, con un balance de 2-2-2, 10 a favor y 13 en contra, y sigue 11º con 8. El Manchester City sigue líder con 18. Esta mesa no da un marcador al partido del miércoles entre el City y el Paris Saint-Germain.",
+      ],
+    },
+    de: {
+      title: "Coventry 4:1 Newcastle: erster Premier-League-Heimsieg seit 25 Jahren",
+      subtitle: "Rudoni, Cherif, Botman, Simms und Mfuni trafen in der Coventry Building Society Arena. Newcastle bleibt 11. mit 8 Punkten.",
+      excerpt: "Sky Sports und das FIFA-Matchcenter führen ein 4:1. Coventry steigt auf Platz 14 mit 6 Punkten.",
+      body: [
+        "Coventry besiegte Newcastle am Montag 4:1 in der Coventry Building Society Arena. Anpfiff war um 20:00 Uhr. Sky Sports und die FIFA nennen die Torschützen: Jack Rudoni per Elfmeter in der 6. Minute, Sidiki Cherif in der 48., Sven Botman in der 70., Ellis Simms in der 81. und Stephen Mfuni in der 86. Zur Pause stand es 1:0. Frank Lampard ist Coventrys Trainer. Jack Rudoni sagte Sky Sports, es sei der erste Heimsieg des Klubs in der Premier League seit 25 Jahren.",
+        "Coventry hat 6 Spiele, 2 Siege und 4 Niederlagen, 5 Tore und 11 Gegentore, eine Differenz von -6 und 6 Punkte. Das ist Platz 14, punktgleich mit Manchester United und dahinter in der Differenz. Newcastle hat 6 Spiele, Bilanz 2-2-2, 10 Tore und 13 Gegentore, und bleibt 11. mit 8 Punkten. Manchester City führt weiter mit 18. Dieser Desk gibt dem Mittwochspiel von City gegen Paris Saint-Germain kein Ergebnis.",
+      ],
+    },
+    it: {
+      title: "Coventry 4-1 Newcastle: prima vittoria casalinga in Premier League da 25 anni",
+      subtitle: "Rudoni, Cherif, Botman, Simms e Mfuni hanno segnato al Coventry Building Society Arena. Il Newcastle resta 11° con 8 punti.",
+      excerpt: "Sky Sports e il match centre FIFA segnano un 4-1. Il Coventry sale al 14° posto con 6 punti.",
+      body: [
+        "Il Coventry ha battuto il Newcastle 4-1 lunedì al Coventry Building Society Arena. Il calcio d'inizio era alle 20:00. Sky Sports e la FIFA indicano i marcatori: Jack Rudoni su rigore al 6', Sidiki Cherif al 48', Sven Botman al 70', Ellis Simms all'81' e Stephen Mfuni all'86'. L'intervallo era 1-0. Frank Lampard è l'allenatore del Coventry. Jack Rudoni ha detto a Sky Sports che era la prima vittoria casalinga del club in Premier League da 25 anni.",
+        "Il Coventry ha giocato 6 partite, con 2 vittorie e 4 sconfitte, 5 gol fatti e 11 subiti, differenza -6 e 6 punti. È il 14° posto, a pari punti con il Manchester United e dietro nella differenza. Il Newcastle ha giocato 6 partite, bilancio 2-2-2, 10 gol fatti e 13 subiti, e resta 11° con 8 punti. Il Manchester City comanda ancora con 18. Questa redazione non dà un punteggio alla partita di mercoledì tra City e Paris Saint-Germain.",
+      ],
+    },
+    pl: {
+      title: "Coventry 4-1 Newcastle: pierwsze domowe zwycięstwo w Premier League od 25 lat",
+      subtitle: "Rudoni, Cherif, Botman, Simms i Mfuni trafili na Coventry Building Society Arena. Newcastle zostaje 11. z 8 punktami.",
+      excerpt: "Sky Sports i centrum meczowe FIFA podają wynik 4-1. Coventry awansuje na 14. miejsce z 6 punktami.",
+      body: [
+        "Coventry pokonało Newcastle 4-1 w poniedziałek na Coventry Building Society Arena. Początek o 20:00. Sky Sports i FIFA wymieniają strzelców: Jack Rudoni z karnego w 6. minucie, Sidiki Cherif w 48., Sven Botman w 70., Ellis Simms w 81. i Stephen Mfuni w 86. Do przerwy było 1-0. Frank Lampard jest trenerem Coventry. Jack Rudoni powiedział Sky Sports, że to pierwsze domowe zwycięstwo klubu w Premier League od 25 lat.",
+        "Coventry rozegrało 6 meczów, ma 2 zwycięstwa i 4 porażki, 5 bramek zdobytych i 11 straconych, bilans -6 i 6 punktów. To 14. miejsce, punktami na równi z Manchesterem United i za nim w bilansie bramek. Newcastle rozegrało 6 meczów, bilans 2-2-2, 10 zdobytych i 13 straconych, i zostaje 11. z 8 punktami. Manchester City nadal prowadzi z 18. To biuro nie podaje wyniku środowego meczu City z Paris Saint-Germain.",
+      ],
+    },
+    zh: {
+      title: "考文垂4-1纽卡斯尔：25年来首场英超主场胜利",
+      subtitle: "鲁多尼、谢里夫、博特曼、西姆斯和姆富尼在考文垂建筑协会球场进球。纽卡斯尔仍列第11，积8分。",
+      excerpt: "天空体育和国际足联赛事中心记录4-1。考文垂升至第14，积6分。",
+      body: [
+        "考文垂周一在考文垂建筑协会球场4-1击败纽卡斯尔。开球时间是20:00。天空体育和国际足联列出进球者：杰克·鲁多尼第6分钟点球，西迪基·谢里夫第48分钟，斯文·博特曼第70分钟，埃利斯·西姆斯第81分钟，斯蒂芬·姆富尼第86分钟。半场1-0。弗兰克·兰帕德是考文垂主帅。杰克·鲁多尼对天空体育说，这是俱乐部25年来首场英超主场胜利。",
+        "考文垂6场2胜4负，进5球失11球，净胜球-6，积6分，列第14，与曼联同分而净胜球落后。纽卡斯尔6场2胜2平2负，进10球失13球，仍列第11，积8分。曼城仍以18分领跑。本版不为周三曼城对巴黎圣日耳曼的比赛给出比分。",
+      ],
+    },
+    ja: {
+      title: "コベントリー 4-1 ニューカッスル：25年ぶりのプレミアリーグ本拠地勝利",
+      subtitle: "ルドーニ、シェリフ、ボトマン、シムズ、ムフニがコベントリー・ビルディング・ソサエティ・アリーナで得点。ニューカッスルは11位のまま勝点8。",
+      excerpt: "スカイスポーツとFIFAのマッチセンターは4-1と記す。コベントリーは14位、勝点6に上がる。",
+      body: [
+        "コベントリーは月曜、コベントリー・ビルディング・ソサエティ・アリーナでニューカッスルを4-1で下した。キックオフは20:00。スカイスポーツとFIFAの得点者は、ジャック・ルドーニが6分のPK、シディキ・シェリフが48分、スベン・ボトマンが70分、エリス・シムズが81分、スティーブン・ムフニが86分。前半は1-0。フランク・ランパードがコベントリーの監督。ジャック・ルドーニはスカイスポーツに、クラブとして25年ぶりのプレミアリーグ本拠地勝利だと語った。",
+        "コベントリーは6試合で2勝4敗、得点5、失点11、得失点差-6、勝点6。14位で、勝点でマンチェスター・ユナイテッドと並び、得失点差で後れる。ニューカッスルは6試合で2勝2分2敗、得点10、失点13、11位のまま勝点8。マンチェスター・シティはなお勝点18で首位。このデスクは水曜のシティ対パリ・サンジェルマンにスコアを付けない。",
+      ],
+    },
+    ko: {
+      title: "코번트리 4-1 뉴캐슬: 25년 만의 프리미어리그 홈 승리",
+      subtitle: "루도니, 셰리프, 보트만, 심스, 무푸니가 코번트리 빌딩 소사이어티 아레나에서 넣었다. 뉴캐슬은 11위, 승점 8을 유지한다.",
+      excerpt: "스카이 스포츠와 FIFA 매치 센터는 4-1을 적는다. 코번트리는 14위, 승점 6으로 올라간다.",
+      body: [
+        "코번트리는 월요일 코번트리 빌딩 소사이어티 아레나에서 뉴캐슬을 4-1로 이겼다. 킥오프는 20:00. 스카이 스포츠와 FIFA의 득점자는 잭 루도니의 6분 페널티, 시디키 셰리프 48분, 스벤 보트만 70분, 엘리스 심스 81분, 스티븐 무푸니 86분이다. 전반은 1-0. 프랭크 램파드가 코번트리 감독이다. 잭 루도니는 스카이 스포츠에 클럽의 25년 만의 프리미어리그 홈 승리라고 말했다.",
+        "코번트리는 6경기 2승 4패, 5득점 11실점, 골득실 -6, 승점 6으로 14위다. 맨체스터 유나이티드와 승점은 같고 골득실에서 뒤진다. 뉴캐슬은 6경기 2승 2무 2패, 10득점 13실점, 11위 승점 8을 유지한다. 맨체스터 시티는 여전히 승점 18로 선두다. 이 데스크는 수요일 시티와 파리 생제르맹의 경기에 스코어를 주지 않는다.",
+      ],
+    },
+    ar: {
+      title: "كوفنتري 4-1 نيوكاسل: أول فوز على أرضه في الدوري الممتاز منذ 25 عاما",
+      subtitle: "سجل رودوني وشيريف وبوت مان وسيمز ومفوني في ملعب كوفنتري بيلدينغ سوسايتي أرينا. نيوكاسل يبقى 11 برصيد 8 نقاط.",
+      excerpt: "تسجل سكاي سبورتس ومركز مباريات الفيفا نتيجة 4-1. يصعد كوفنتري إلى المركز 14 برصيد 6 نقاط.",
+      body: [
+        "هزم كوفنتري نيوكاسل 4-1 يوم الاثنين في ملعب كوفنتري بيلدينغ سوسايتي أرينا. كانت الانطلاقة عند 20:00. تذكر سكاي سبورتس والفيفا الهدافين: جاك رودوني من ركلة جزاء في الدقيقة 6، وسيديكي شيريف في 48، وسفين بوت مان في 70، وإليس سيمز في 81، وستيفن مفوني في 86. كانت الاستراحة 1-0. فرانك لامبارد مدرب كوفنتري. قال جاك رودوني لسكاي سبورتس إنها أول مباراة يفوز بها النادي على أرضه في الدوري الممتاز منذ 25 عاما.",
+        "لعب كوفنتري 6 مباريات، فاز في اثنتين وخسر أربعا، له 5 وعليه 11، بفارق -6 و6 نقاط. هذا المركز 14، متعادلا في النقاط مع مانشستر يونايتد ومتأخرا في فارق الأهداف. لعب نيوكاسل 6 مباريات بسجل 2-2-2، له 10 وعليه 13، ويبقى 11 برصيد 8 نقاط. ما زال مانشستر سيتي متصدرا بـ18 نقطة. لا يعطي هذا المكتب نتيجة لمباراة الأربعاء بين سيتي وباريس سان جيرمان.",
+      ],
+    },
+  },
+  'shanghai-masters-2026-tuesday-zverev-bublik': {
+    fr: {
+      title: "Masters de Shanghai : Zverev bat Bublik et file en quarts",
+      subtitle: "La tête de série numéro 1 a gagné 7-6 (6), 4-6, 7-6 (1) en 2 h 37. De Minaur, Gea et Davidovich Fokina sont aussi passés.",
+      excerpt: "L'ATP et le tableau Rolex de Shanghai inscrivent quatre simples de huitièmes de finale terminés. Quatre autres, dont Paul contre Bergs, restent à jouer.",
+      body: [
+        "Mardi, au Rolex Shanghai Masters, Alexander Zverev, tête de série numéro 1 et numéro 1 mondial de fin d'année, a battu Alexander Bublik 7-6 (6), 4-6, 7-6 (1). Le tableau du tournoi indique 2:37:48. Bublik était tête de série numéro 19. Alex de Minaur, neuvième tête de série, a battu Karen Khachanov 6-3, 6-4 en 1:25:31. Arthur Gea a battu Jakub Mensik, 13e, 7-6 (4), 6-4 en 1:37:01. Alejandro Davidovich Fokina, 25e, a battu Hubert Hurkacz 1-6, 6-3, 7-6 (6) en 2:04:01.",
+        "Quatre simples de huitièmes restent à jouer, dont Tommy Paul contre Zizou Bergs, Botic van de Zandschulp contre Rafael Jodar, Casper Ruud contre Felix Auger-Aliassime, et Daniil Medvedev contre Stefanos Tsitsipas. Les quarts déjà fixés sont Zverev contre de Minaur, et Gea contre Davidovich Fokina. Jannik Sinner n'a pas joué depuis la finale de Wimbledon et reste absent pour la fin de saison. Lundi, Bergs a battu Carlos Alcaraz 7-5, 7-6 (4).",
+      ],
+    },
+    es: {
+      title: "Masters de Shanghái: Zverev vence a Bublik y pasa a cuartos",
+      subtitle: "El primer cabeza de serie ganó 7-6 (6), 4-6, 7-6 (1) en 2 horas y 37 minutos. También pasaron de Minaur, Gea y Davidovich Fokina.",
+      excerpt: "La ATP y el cuadro Rolex de Shanghái anotan cuatro partidos de octavos ya jugados. Otros cuatro, incluido Paul contra Bergs, siguen pendientes.",
+      body: [
+        "El martes en el Rolex Shanghai Masters, Alexander Zverev, primer cabeza de serie y número 1 mundial al cierre del año, venció a Alexander Bublik 7-6 (6), 4-6, 7-6 (1). El cuadro del torneo marca 2:37:48. Bublik era el 19. Alex de Minaur, noveno, venció a Karen Khachanov 6-3, 6-4 en 1:25:31. Arthur Gea venció a Jakub Mensik, 13º, 7-6 (4), 6-4 en 1:37:01. Alejandro Davidovich Fokina, 25º, venció a Hubert Hurkacz 1-6, 6-3, 7-6 (6) en 2:04:01.",
+        "Quedan cuatro partidos de octavos, entre ellos Tommy Paul contra Zizou Bergs, Botic van de Zandschulp contra Rafael Jodar, Casper Ruud contra Felix Auger-Aliassime y Daniil Medvedev contra Stefanos Tsitsipas. Los cuartos ya fijados son Zverev contra de Minaur, y Gea contra Davidovich Fokina. Jannik Sinner no juega desde la final de Wimbledon y sigue fuera el resto de la temporada. El lunes, Bergs venció a Carlos Alcaraz 7-5, 7-6 (4).",
+      ],
+    },
+    de: {
+      title: "Shanghai Masters: Zverev besiegt Bublik und steht im Viertelfinale",
+      subtitle: "Der Topgesetzte gewann 7-6 (6), 4-6, 7-6 (1) in 2 Stunden 37 Minuten. De Minaur, Gea und Davidovich Fokina kamen ebenfalls weiter.",
+      excerpt: "ATP und das Rolex-Tableau von Shanghai führen vier beendete Achtelfinal-Einzel. Vier weitere, darunter Paul gegen Bergs, stehen noch aus.",
+      body: [
+        "Am Dienstag beim Rolex Shanghai Masters besiegte Alexander Zverev, der Topgesetzte und die Jahresend-Nummer 1, Alexander Bublik 7-6 (6), 4-6, 7-6 (1). Das Turnierblatt nennt 2:37:48. Bublik war die Nummer 19. Alex de Minaur, der Neunte, besiegte Karen Khachanov 6-3, 6-4 in 1:25:31. Arthur Gea besiegte Jakub Mensik, den 13., mit 7-6 (4), 6-4 in 1:37:01. Alejandro Davidovich Fokina, der 25., besiegte Hubert Hurkacz 1-6, 6-3, 7-6 (6) in 2:04:01.",
+        "Vier Achtelfinal-Einzel stehen noch aus, darunter Tommy Paul gegen Zizou Bergs, Botic van de Zandschulp gegen Rafael Jodar, Casper Ruud gegen Felix Auger-Aliassime und Daniil Medvedev gegen Stefanos Tsitsipas. Fest stehen die Viertelfinals Zverev gegen de Minaur und Gea gegen Davidovich Fokina. Jannik Sinner hat seit dem Wimbledon-Finale nicht gespielt und fehlt weiter. Am Montag besiegte Bergs Carlos Alcaraz 7-5, 7-6 (4).",
+      ],
+    },
+    it: {
+      title: "Shanghai Masters: Zverev batte Bublik e va ai quarti",
+      subtitle: "La prima testa di serie ha vinto 7-6 (6), 4-6, 7-6 (1) in 2 ore e 37 minuti. Sono passati anche de Minaur, Gea e Davidovich Fokina.",
+      excerpt: "L'ATP e il tabellone Rolex di Shanghai segnano quattro singolari degli ottavi già giocati. Altri quattro, tra cui Paul contro Bergs, devono ancora essere disputati.",
+      body: [
+        "Martedì al Rolex Shanghai Masters, Alexander Zverev, prima testa di serie e numero 1 di fine anno, ha battuto Alexander Bublik 7-6 (6), 4-6, 7-6 (1). Il tabellone indica 2:37:48. Bublik era il numero 19. Alex de Minaur, nono, ha battuto Karen Khachanov 6-3, 6-4 in 1:25:31. Arthur Gea ha battuto Jakub Mensik, 13º, 7-6 (4), 6-4 in 1:37:01. Alejandro Davidovich Fokina, 25º, ha battuto Hubert Hurkacz 1-6, 6-3, 7-6 (6) in 2:04:01.",
+        "Restano quattro singolari degli ottavi, tra cui Tommy Paul contro Zizou Bergs, Botic van de Zandschulp contro Rafael Jodar, Casper Ruud contro Felix Auger-Aliassime e Daniil Medvedev contro Stefanos Tsitsipas. I quarti già fissati sono Zverev contro de Minaur e Gea contro Davidovich Fokina. Jannik Sinner non gioca dalla finale di Wimbledon e resta fuori per il resto della stagione. Lunedì Bergs ha battuto Carlos Alcaraz 7-5, 7-6 (4).",
+      ],
+    },
+    pl: {
+      title: "Shanghai Masters: Zverev pokonuje Bublika i jest w ćwierćfinale",
+      subtitle: "Rozstawiony z numerem 1 wygrał 7-6 (6), 4-6, 7-6 (1) w 2 godziny 37 minut. Dalej są też de Minaur, Gea i Davidovich Fokina.",
+      excerpt: "ATP i tablica Rolex w Szanghaju podają cztery zakończone single 1/8 finału. Cztery kolejne, w tym Paul z Bergsem, dopiero się odbędą.",
+      body: [
+        "We wtorek na Rolex Shanghai Masters Alexander Zverev, rozstawiony z numerem 1 i numer 1 na koniec roku, pokonał Alexandra Bublika 7-6 (6), 4-6, 7-6 (1). Tablica turnieju podaje 2:37:48. Bublik był numerem 19. Alex de Minaur, dziewiąty, pokonał Karena Khachanova 6-3, 6-4 w 1:25:31. Arthur Gea pokonał Jakuba Mensika, 13., 7-6 (4), 6-4 w 1:37:01. Alejandro Davidovich Fokina, 25., pokonał Huberta Hurkacza 1-6, 6-3, 7-6 (6) w 2:04:01.",
+        "Do rozegrania zostały cztery single 1/8, w tym Tommy Paul z Zizou Bergsem, Botic van de Zandschulp z Rafaelem Jodarem, Casper Ruud z Felixem Augerem-Aliassime i Daniil Medvedev ze Stefanosem Tsitsipasem. Ustawione ćwierćfinały to Zverev z de Minaurem i Gea z Davidovichem Fokiną. Jannik Sinner nie gra od finału Wimbledonu i nadal pauzuje. W poniedziałek Bergs pokonał Carlosa Alcaraza 7-5, 7-6 (4).",
+      ],
+    },
+    zh: {
+      title: "上海大师赛：兹韦列夫击败布布利克，晋级四分之一决赛",
+      subtitle: "头号种子以7-6(6)、4-6、7-6(1)取胜，用时2小时37分。德米纳尔、热阿和达维多维奇·福基纳同时晋级。",
+      excerpt: "ATP与劳力士上海签表记下四场已经结束的单打16强。包括保罗对贝尔格斯在内的另外四场仍未进行。",
+      body: [
+        "周二的劳力士上海大师赛，年终世界第一、头号种子亚历山大·兹韦列夫以7-6(6)、4-6、7-6(1)击败亚历山大·布布利克。赛事计时为2:37:48。布布利克是19号种子。9号种子亚历克斯·德米纳尔以6-3、6-4击败卡连·哈恰诺夫，用时1:25:31。阿蒂尔·热阿以7-6(4)、6-4击败13号种子雅各布·门西克，用时1:37:01。25号种子亚历杭德罗·达维多维奇·福基纳以1-6、6-3、7-6(6)击败休伯特·胡尔卡奇，用时2:04:01。",
+        "还有四场单打16强未赛，包括汤米·保罗对齐祖·贝尔格斯、博蒂奇·范德赞舒尔普对拉斐尔·霍达尔、卡斯珀·鲁德对费利克斯·奥热-阿利亚西姆，以及丹尼尔·梅德韦杰夫对斯特凡诺斯·西西帕斯。周二已经确定的四分之一决赛是兹韦列夫对德米纳尔，以及热阿对达维多维奇·福基纳。扬尼克·辛纳自温网决赛后没有比赛，本赛季剩余赛事继续缺席。周一贝尔格斯以7-5、7-6(4)击败卡洛斯·阿尔卡拉斯。",
+      ],
+    },
+    ja: {
+      title: "上海マスターズ：ズベレフがブブリクを下し、準々決勝へ",
+      subtitle: "第1シードが7-6(6), 4-6, 7-6(1)で勝った。所要時間は2時間37分。デミナー、ジェア、ダビドビッチ・フォキナも突破した。",
+      excerpt: "ATPとロレックス上海のボードは、終わったシングルスのベスト16を4試合記す。ポール対ベルフスを含む残り4試合はこれから。",
+      body: [
+        "火曜のロレックス上海マスターズで、年間世界1位の第1シード、アレクサンダー・ズベレフがアレクサンダー・ブブリクを7-6(6), 4-6, 7-6(1)で下した。大会の計時は2:37:48。ブブリクは第19シード。第9シードのアレックス・デミナーはカレン・カチャノフを6-3, 6-4、1:25:31。アルチュール・ジェアは第13シードのヤクブ・メンシックを7-6(4), 6-4、1:37:01。第25シードのアレハンドロ・ダビドビッチ・フォキナはフベルト・フルカチを1-6, 6-3, 7-6(6)、2:04:01。",
+        "シングルスのベスト16はあと4試合で、トミー・ポール対ジズー・ベルフス、ボティック・ファン・デ・ザンスフルプ対ラファエル・ホダル、カスパー・ルード対フェリックス・オジェ・アリアシム、ダニール・メドベージェフ対ステファノス・チチパスが残る。火曜に決まった準々決勝はズベレフ対デミナー、ジェア対ダビドビッチ・フォキナ。ヤニック・シナーはウィンブルドン決勝以来試合がなく、今季残りも欠場のまま。月曜はベルフスがカルロス・アルカラスを7-5, 7-6(4)で下した。",
+      ],
+    },
+    ko: {
+      title: "상하이 마스터스: 츠베레프가 부블리크를 꺾고 8강에 올랐다",
+      subtitle: "1번 시드가 7-6(6), 4-6, 7-6(1)로 이겼다. 시간은 2시간 37분. 드미나우르, 제아, 다비도비치 포키나도 통과했다.",
+      excerpt: "ATP와 롤렉스 상하이 대진표는 끝난 단식 16강 네 경기를 적는다. 폴 대 베르흐스를 포함한 나머지 네 경기는 아직이다.",
+      body: [
+        "화요일 롤렉스 상하이 마스터스에서 연말 세계 1위이자 1번 시드인 알렉산더 츠베레프가 알렉산더 부블리크를 7-6(6), 4-6, 7-6(1)로 이겼다. 대회 시간은 2:37:48. 부블리크는 19번 시드였다. 9번 시드 알렉스 드미나우르는 카렌 카차노프를 6-3, 6-4, 1:25:31. 아르튀르 제아는 13번 시드 야쿠프 멘시크를 7-6(4), 6-4, 1:37:01. 25번 시드 알레한드로 다비도비치 포키나는 후베르트 후르카치를 1-6, 6-3, 7-6(6), 2:04:01.",
+        "단식 16강 네 경기가 남았다. 토미 폴 대 지주 베르흐스, 보티크 판더잔스휠프 대 라파엘 호다르, 카스퍼 루드 대 펠릭스 오제알리아심, 다닐 메드베데프 대 스테파노스 치치파스다. 화요일에 정해진 8강은 츠베레프 대 드미나우르, 제아 대 다비도비치 포키나. 야닉 신너는 윔블던 결승 이후 경기를 치르지 않았고 시즌 남은 일정도 계속 쉰다. 월요일 베르흐스는 카를로스 알카라스를 7-5, 7-6(4)로 이겼다.",
+      ],
+    },
+    ar: {
+      title: "ماسترز شنغهاي: زفيريف يهزم بوبليك ويبلغ ربع النهائي",
+      subtitle: "فاز المصنف أولا 7-6 (6) و4-6 و7-6 (1) في ساعتين و37 دقيقة. تأهل أيضا دي مينور وجيا ودافيدوفيتش فوكينا.",
+      excerpt: "تسجل رابطة المحترفين ولوحة رولكس شنغهاي أربع مباريات فردية من دور الـ16 انتهت. أربع أخرى، بينها بول ضد بيرغس، لم تلعب بعد.",
+      body: [
+        "يوم الثلاثاء في رولكس ماسترز شنغهاي، هزم ألكسندر زفيريف، المصنف أولا والرقم 1 في نهاية العام، ألكسندر بوبليك 7-6 (6) و4-6 و7-6 (1). تذكر لوحة البطولة الزمن 2:37:48. كان بوبليك المصنف 19. هزم أليكس دي مينور، التاسع، كارين خاتشانوف 6-3 و6-4 في 1:25:31. هزم أرتور جيا ياكوب مينسيك، الثالث عشر، 7-6 (4) و6-4 في 1:37:01. هزم أليخاندرو دافيدوفيتش فوكينا، الخامس والعشرين، هوبيرت هوركاتش 1-6 و6-3 و7-6 (6) في 2:04:01.",
+        "تبقى أربع مباريات فردية من دور الـ16، بينها تومي بول ضد زيزو بيرغس، وبوتيك فان دي زانسخولب ضد رافاييل خودار، وكاسبر رود ضد فيليكس أوجيه-ألياسيم، ودانييل ميدفيديف ضد ستيفانوس تسيتسيباس. ربع النهائي المحدد هو زفيريف ضد دي مينور، وجيا ضد دافيدوفيتش فوكينا. لم يلعب يانيك سينر منذ نهائي ويمبلدون وما زال غائبا لبقية الموسم. يوم الاثنين هزم بيرغس كارلوس ألكاراز 7-5 و7-6 (4).",
+      ],
+    },
+  },
+  'butterfield-bermuda-championship-preview-2026': {
+    fr: {
+      title: "Semaine sans PGA Tour : la victoire de Brennan au Baycurrent tient, les Bermudes sont les suivantes",
+      subtitle: "Aucun tournoi n'est au programme cette semaine. Le Butterfield Bermuda Championship se joue du 22 au 25 octobre à Port Royal.",
+      excerpt: "Le calendrier d'ESPN laisse cette semaine vide. La prochaine dotation est de 6 millions de dollars à Port Royal, et Adam Schenk est le vainqueur précédent.",
+      body: [
+        "Le calendrier du PGA Tour n'a pas de tournoi dans la semaine du 13 octobre. Le Baycurrent Classic s'est terminé le 11 octobre. Le prochain rendez-vous est le Butterfield Bermuda Championship, du 22 au 25 octobre 2026, à Port Royal Golf Course, à Southampton. Il n'y a pas de score du mardi à imprimer, et ce bureau ne marque pas de tour en direct.",
+        "La victoire de Michael Brennan à Yokohama tient toujours. Il a fermé en 68, pour un total de 268, 16 sous le par, et 1,44 million de dollars. C'était son troisième titre sur le PGA Tour. Keith Mitchell et Jacob Bridgeman ont partagé la deuxième place à 15 sous le par. Xander Schauffele, tenant du titre, a fini 4e à égalité à 13 sous le par. Max Homa a fini 13e à égalité à 11 sous le par. Bermuda.com et theScore donnent une dotation de 6 millions et Adam Schenk comme vainqueur précédent. Le premier tour est le 22 octobre. Rien n'a encore de score.",
+      ],
+    },
+    es: {
+      title: "Semana sin PGA Tour: la victoria de Brennan en el Baycurrent sigue, y Bermudas es lo siguiente",
+      subtitle: "No hay torneo esta semana. El Butterfield Bermuda Championship es del 22 al 25 de octubre en Port Royal.",
+      excerpt: "El calendario de ESPN deja esta semana vacía. La próxima bolsa es de 6 millones en Port Royal, y Adam Schenk es el anterior ganador.",
+      body: [
+        "El calendario del PGA Tour no tiene torneo en la semana del 13 de octubre. El Baycurrent Classic terminó el 11 de octubre. El siguiente evento es el Butterfield Bermuda Championship, del 22 al 25 de octubre de 2026, en Port Royal Golf Course, Southampton. No hay un marcador del martes, y esta mesa no marca una vuelta en directo.",
+        "La victoria de Michael Brennan en Yokohama sigue en pie. Cerró con 68, un total de 268, 16 bajo par, y 1,44 millones de dólares. Era su tercer título del PGA Tour. Keith Mitchell y Jacob Bridgeman empataron segundos con 15 bajo par. Xander Schauffele, el defensor, acabó 4º empatado con 13 bajo par. Max Homa acabó 13º empatado con 11 bajo par. Bermuda.com y theScore dan una bolsa de 6 millones y a Adam Schenk como anterior ganador. La primera vuelta es el 22 de octubre. Nada tiene marcador todavía.",
+      ],
+    },
+    de: {
+      title: "Woche ohne PGA Tour: Brennans Baycurrent-Sieg bleibt, Bermuda ist der nächste Start",
+      subtitle: "Diese Woche steht kein Turnier im Kalender. Die Butterfield Bermuda Championship läuft vom 22. bis 25. Oktober in Port Royal.",
+      excerpt: "Der ESPN-Kalender lässt diese Woche leer. Die nächste Börse beträgt 6 Millionen Dollar in Port Royal, und Adam Schenk ist der Vorjahressieger.",
+      body: [
+        "Der PGA-Tour-Kalender hat in der Woche des 13. Oktober kein Turnier. Das Baycurrent Classic endete am 11. Oktober. Das nächste Event ist die Butterfield Bermuda Championship, 22. bis 25. Oktober 2026, auf dem Port Royal Golf Course in Southampton. Es gibt keinen Dienstagsscore, und dieser Desk markiert keine Runde als live.",
+        "Michael Brennans Sieg in Yokohama bleibt stehen. Er schloss mit einer 68, einem Total von 268, 16 unter par, und 1,44 Millionen Dollar. Es war sein dritter PGA-Tour-Titel. Keith Mitchell und Jacob Bridgeman teilten sich Platz zwei mit 15 unter par. Xander Schauffele, der Titelverteidiger, wurde geteilter Vierter mit 13 unter par. Max Homa wurde geteilter 13. mit 11 unter par. Bermuda.com und theScore nennen 6 Millionen Dollar und Adam Schenk als Vorjahressieger. Die erste Runde ist am 22. Oktober. Nichts hat ein Ergebnis.",
+      ],
+    },
+    it: {
+      title: "Settimana senza PGA Tour: la vittoria di Brennan al Baycurrent resta, e il Bermuda è il prossimo",
+      subtitle: "Nessun torneo in programma questa settimana. Il Butterfield Bermuda Championship è dal 22 al 25 ottobre a Port Royal.",
+      excerpt: "Il calendario ESPN lascia vuota questa settimana. Il prossimo montepremi è di 6 milioni a Port Royal, e Adam Schenk è il vincitore precedente.",
+      body: [
+        "Il calendario del PGA Tour non ha un torneo nella settimana del 13 ottobre. Il Baycurrent Classic è finito l'11 ottobre. Il prossimo evento è il Butterfield Bermuda Championship, 22-25 ottobre 2026, al Port Royal Golf Course di Southampton. Non c'è un punteggio di martedì, e questa redazione non segna un giro come live.",
+        "La vittoria di Michael Brennan a Yokohama resta. Ha chiuso con 68, un totale di 268, 16 sotto il par, e 1,44 milioni di dollari. Era il suo terzo titolo del PGA Tour. Keith Mitchell e Jacob Bridgeman hanno chiuso secondi a pari merito a 15 sotto. Xander Schauffele, il detentore, è arrivato 4° a pari merito a 13 sotto. Max Homa è arrivato 13° a pari merito a 11 sotto. Bermuda.com e theScore indicano un montepremi di 6 milioni e Adam Schenk come vincitore precedente. Il primo giro è il 22 ottobre. Nulla ha ancora un punteggio.",
+      ],
+    },
+    pl: {
+      title: "Tydzień bez PGA Tour: wygrana Brennana w Baycurrent zostaje, a Bermudy są następne",
+      subtitle: "W tym tygodniu nie ma turnieju. Butterfield Bermuda Championship trwa 22-25 października na Port Royal.",
+      excerpt: "Kalendarz ESPN zostawia ten tydzień pusty. Następna pula to 6 milionów na Port Royal, a Adam Schenk jest poprzednim zwycięzcą.",
+      body: [
+        "Kalendarz PGA Tour nie ma turnieju w tygodniu 13 października. Baycurrent Classic skończył się 11 października. Następny start to Butterfield Bermuda Championship, 22-25 października 2026, na Port Royal Golf Course w Southampton. Nie ma wtorkowego wyniku, a to biuro nie oznacza rundy jako trwającej.",
+        "Wygrana Michaela Brennana w Jokohamie zostaje. Zamknął rundą 68, łącznie 268 uderzeń, 16 pod par, i 1,44 miliona dolarów. To jego trzeci tytuł PGA Tour. Keith Mitchell i Jacob Bridgeman byli drudzy ex aequo z wynikiem -15. Xander Schauffele, obrońca tytułu, był 4. ex aequo z wynikiem -13. Max Homa był 13. ex aequo z wynikiem -11. Bermuda.com i theScore podają pulę 6 milionów i Adama Schenka jako poprzedniego zwycięzcę. Pierwsza runda jest 22 października. Nic nie ma jeszcze wyniku.",
+      ],
+    },
+    zh: {
+      title: "美巡赛本周休赛：布伦南的湾流夺冠仍然有效，下一站是百慕大",
+      subtitle: "本周没有比赛。百慕大巴特菲尔德锦标赛于10月22日至25日在皇家港举行。",
+      excerpt: "ESPN赛程把这一周留空。下一站奖金600万美元，地点皇家港，上届冠军是亚当·申克。",
+      body: [
+        "美巡赛赛程在10月13日这一周没有比赛。湾流精英赛于10月11日结束。下一站是2026年10月22日至25日的百慕大巴特菲尔德锦标赛，场地是南安普敦的皇家港高尔夫球场。没有周二的成绩可以刊登，本版也不把任何一轮标成进行中。",
+        "迈克尔·布伦南在横滨的夺冠仍然有效。他收官68杆，总成绩268杆，低于标准杆16杆，奖金144万美元。这是他的第三个美巡赛冠军。基思·米切尔与雅各布·布里奇曼以低于标准杆15杆并列第二。卫冕冠军赞德·沙夫勒以低于标准杆13杆并列第四。马克斯·霍马以低于标准杆11杆并列第13。Bermuda.com与theScore都写明奖金600万美元，上届冠军是亚当·申克。第一轮是10月22日。那张记分板上还没有任何成绩。",
+      ],
+    },
+    ja: {
+      title: "PGAツアーは今週休み：ブレナンのベイカレント優勝はそのまま、次はバミューダ",
+      subtitle: "今週の大会はない。バターフィールド・バミューダ選手権は10月22-25日、ポートロイヤル。",
+      excerpt: "ESPNの日程はこの週を空ける。次の賞金はポートロイヤルの600万ドルで、前回優勝はアダム・シェンク。",
+      body: [
+        "PGAツアーの日程は10月13日の週に大会がない。ベイカレント・クラシックは10月11日に終わった。次は2026年10月22-25日のバターフィールド・バミューダ選手権で、会場はサウサンプトンのポートロイヤル・ゴルフコース。火曜のスコアはなく、このデスクはラウンドを進行中にしない。",
+        "マイケル・ブレナンの横浜での優勝はそのままだ。最終日68、合計268、16アンダー、賞金144万ドル。PGAツアー3勝目だった。キース・ミッチェルとジェイコブ・ブリッジマンが15アンダーで2位タイ。前年優勝のザンダー・シャウフェレは13アンダーで4位タイ。マックス・ホーマは11アンダーで13位タイ。Bermuda.comとtheScoreは賞金600万ドル、前回優勝アダム・シェンクと記す。初日は10月22日。そのボードにスコアはまだない。",
+      ],
+    },
+    ko: {
+      title: "PGA 투어는 이번 주 휴무: 브레넌의 베이커런트 우승은 그대로, 다음은 버뮤다",
+      subtitle: "이번 주 대회는 없다. 버터필드 버뮤다 챔피언십은 10월 22-25일 포트로열.",
+      excerpt: "ESPN 일정은 이번 주를 비운다. 다음 상금은 포트로열의 600만 달러이고, 이전 우승자는 애덤 솅크다.",
+      body: [
+        "PGA 투어 일정에는 10월 13일 주에 대회가 없다. 베이커런트 클래식은 10월 11일에 끝났다. 다음은 2026년 10월 22-25일 버터필드 버뮤다 챔피언십, 사우샘프턴 포트로열 골프코스다. 화요일 스코어는 없고, 이 데스크는 라운드를 진행 중으로 표시하지 않는다.",
+        "마이클 브레넌의 요코하마 우승은 그대로다. 최종 라운드 68, 합계 268, 16언더, 상금 144만 달러. PGA 투어 세 번째 우승이었다. 키스 미첼과 제이컵 브리지먼이 15언더 공동 2위. 디펜딩 챔피언 잰더 셔플레는 13언더 공동 4위. 맥스 호마는 11언더 공동 13위. Bermuda.com과 theScore는 상금 600만 달러, 이전 우승자 애덤 솅크를 적는다. 1라운드는 10월 22일. 그 보드에는 아직 스코어가 없다.",
+      ],
+    },
+    ar: {
+      title: "أسبوع بلا جولة PGA: فوز برينان في بايكرنت قائم، وبرمودا هي التالية",
+      subtitle: "لا بطولة هذا الأسبوع. بطولة باترفيلد برمودا من 22 إلى 25 أكتوبر في بورت رويال.",
+      excerpt: "رزنامة ESPN تترك هذا الأسبوع فارغا. الجائزة التالية 6 ملايين دولار في بورت رويال، والفائز السابق آدم شينك.",
+      body: [
+        "رزنامة جولة PGA بلا بطولة في أسبوع 13 أكتوبر. انتهت بايكرنت كلاسيك في 11 أكتوبر. الفعالية التالية هي بطولة باترفيلد برمودا، 22-25 أكتوبر 2026، على ملعب بورت رويال في ساوثهامبتون. لا نتيجة ليوم الثلاثاء، ولا يضع هذا المكتب أي جولة في حالة مباشرة.",
+        "فوز مايكل برينان في يوكوهاما ما زال قائما. أنهى بجولة 68، ومجموع 268، و16 تحت المعيار، و1.44 مليون دولار. كان ذلك لقبه الثالث على الجولة. تعادل كيث ميتشل وجاكوب بريدجمان في المركز الثاني عند 15 تحت. حل زاندر شوفليه، حامل اللقب، رابعا باشتراك عند 13 تحت. حل ماكس هوما 13 باشتراك عند 11 تحت. يذكر Bermuda.com وtheScore جائزة 6 ملايين وآدم شينك فائزا سابقا. الجولة الأولى في 22 أكتوبر. لا شيء على تلك اللوحة له نتيجة بعد.",
+      ],
+    },
+  },
+  'f1-austin-us-gp-antonelli-lead-102-2026': {
+    fr: {
+      title: "GP des États-Unis : Austin est la suivante, et l'avance d'Antonelli reste de 102 points",
+      subtitle: "La Formule 1 place la course le 25 octobre au Circuit of the Americas. Le classement de Singapour ne bouge pas un mardi sans Grand Prix.",
+      excerpt: "Pas de Grand Prix le 13 octobre. Antonelli a 340 points, 102 devant Russell. Le calendrier officiel place la course d'Austin à 15:00 heure locale.",
+      body: [
+        "Il n'y a pas de Grand Prix le 13 octobre. Le classement des pilotes après Singapour est inchangé. Kimi Antonelli a 340 points. George Russell en a 238. L'écart est de 102. Lewis Hamilton a 229, Max Verstappen 221, Charles Leclerc 215 et Lando Norris 201. Oscar Piastri en a 138. Chez les constructeurs, Mercedes a 578, Ferrari 444, soit un écart de 134. McLaren a 339, qui est le total de l'écurie, pas celui d'Antonelli. Red Bull a 332.",
+        "Formula1.com place le Grand Prix des États-Unis au Circuit of the Americas du 23 au 25 octobre 2026, avec la course le 25 octobre. Le calendrier complet indique 15:00 heure locale et précise qu'il peut changer. Ce bureau ne convertit pas cette heure en heure de l'Est des États-Unis. La page du circuit donne 5,513 km, 56 tours et 308,405 km. Le premier Grand Prix des États-Unis y a eu lieu en 2012. Le meilleur tour historique indiqué est 1:36.169, par Charles Leclerc en 2019. Aucune séance à Austin n'a de résultat. Ensuite : Mexique du 30 octobre au 1er novembre, Brésil du 6 au 8 novembre, Las Vegas du 19 au 21 novembre, Qatar du 27 au 29 novembre, Abou Dhabi du 4 au 6 décembre.",
+      ],
+    },
+    es: {
+      title: "GP de Estados Unidos: Austin es la siguiente, y la ventaja de Antonelli sigue en 102 puntos",
+      subtitle: "La Fórmula 1 sitúa la carrera el 25 de octubre en el Circuit of the Americas. La clasificación de Singapur no se mueve en un martes sin Gran Premio.",
+      excerpt: "No hay Gran Premio el 13 de octubre. Antonelli tiene 340 puntos, 102 por delante de Russell. El horario oficial pone la carrera de Austin a las 15:00 hora local.",
+      body: [
+        "No hay Gran Premio el 13 de octubre. La tabla de pilotos tras Singapur no cambia. Kimi Antonelli tiene 340 puntos. George Russell tiene 238. La diferencia es de 102. Lewis Hamilton tiene 229, Max Verstappen 221, Charles Leclerc 215 y Lando Norris 201. Oscar Piastri tiene 138. En constructores, Mercedes tiene 578 y Ferrari 444, una diferencia de 134. McLaren tiene 339, que es el total del equipo, no el de Antonelli. Red Bull tiene 332.",
+        "Formula1.com sitúa el Gran Premio de Estados Unidos en el Circuit of the Americas del 23 al 25 de octubre de 2026, con la carrera el 25 de octubre. El horario completo marca las 15:00 hora local y avisa de que puede cambiar. Esta mesa no convierte ese reloj a la hora del Este de Estados Unidos. La ficha del circuito da 5,513 km, 56 vueltas y 308,405 km. El primer Gran Premio de Estados Unidos allí fue en 2012. La vuelta rápida histórica que figura es 1:36.169, de Charles Leclerc en 2019. Ninguna sesión en Austin tiene resultado. Después: México del 30 de octubre al 1 de noviembre, Brasil del 6 al 8 de noviembre, Las Vegas del 19 al 21 de noviembre, Catar del 27 al 29 de noviembre, Abu Dabi del 4 al 6 de diciembre.",
+      ],
+    },
+    de: {
+      title: "USA-GP: Austin ist der nächste Stopp, und Antonellis Vorsprung bleibt bei 102 Punkten",
+      subtitle: "Die Formel 1 setzt das Rennen auf den 25. Oktober am Circuit of the Americas. Die Wertung von Singapur bewegt sich an einem dienstag ohne Grand Prix nicht.",
+      excerpt: "Kein Grand Prix am 13. Oktober. Antonelli hat 340 Punkte, 102 vor Russell. Der volle Zeitplan nennt das Rennen in Austin um 15:00 Uhr Ortszeit.",
+      body: [
+        "Am 13. Oktober gibt es keinen Grand Prix. Die Fahrerwertung nach Singapur ist unverändert. Kimi Antonelli hat 340 Punkte. George Russell hat 238. Der Abstand ist 102. Lewis Hamilton hat 229, Max Verstappen 221, Charles Leclerc 215 und Lando Norris 201. Oscar Piastri hat 138. Bei den Konstrukteuren hat Mercedes 578 und Ferrari 444, ein Abstand von 134. McLaren hat 339, das ist die Teamsumme, nicht Antonellis. Red Bull hat 332.",
+        "Formula1.com setzt den Großen Preis der USA auf den Circuit of the Americas für den 23. bis 25. Oktober 2026, mit dem Rennen am 25. Oktober. Der volle Zeitplan nennt 15:00 Uhr Ortszeit und weist darauf hin, dass er sich ändern kann. Dieser Desk rechnet diese Uhr nicht in US-Ostküstenzeit um. Die Streckenseite nennt 5,513 km, 56 Runden und 308,405 km. Der erste USA-Grand-Prix dort war 2012. Die historische schnellste Runde auf der Seite ist 1:36.169 von Charles Leclerc 2019. Keine Session in Austin hat ein Ergebnis. Danach: Mexiko 30. Oktober bis 1. November, Brasilien 6. bis 8. November, Las Vegas 19. bis 21. November, Katar 27. bis 29. November, Abu Dhabi 4. bis 6. Dezember.",
+      ],
+    },
+    it: {
+      title: "GP degli Stati Uniti: Austin è la prossima, e il vantaggio di Antonelli resta di 102 punti",
+      subtitle: "La Formula 1 mette la gara il 25 ottobre al Circuit of the Americas. La classifica di Singapore non si muove in un martedì senza Gran Premio.",
+      excerpt: "Nessun Gran Premio il 13 ottobre. Antonelli ha 340 punti, 102 su Russell. Il calendario completo mette la gara di Austin alle 15:00 ora locale.",
+      body: [
+        "Non c'è un Gran Premio il 13 ottobre. La classifica piloti dopo Singapore è invariata. Kimi Antonelli ha 340 punti. George Russell ne ha 238. Il distacco è 102. Lewis Hamilton ha 229, Max Verstappen 221, Charles Leclerc 215 e Lando Norris 201. Oscar Piastri ha 138. Tra i costruttori Mercedes ha 578 e Ferrari 444, un distacco di 134. McLaren ha 339, che è il totale della squadra, non quello di Antonelli. Red Bull ha 332.",
+        "Formula1.com mette il Gran Premio degli Stati Uniti al Circuit of the Americas dal 23 al 25 ottobre 2026, con la gara il 25 ottobre. Il calendario completo indica le 15:00 ora locale e avverte che può cambiare. Questa redazione non converte quell'orario nell'ora della costa est degli Stati Uniti. La scheda del circuito dà 5,513 km, 56 giri e 308,405 km. Il primo Gran Premio degli Stati Uniti lì fu nel 2012. Il giro più veloce storico indicato è 1:36.169 di Charles Leclerc nel 2019. Nessuna sessione ad Austin ha un risultato. Poi: Messico dal 30 ottobre al 1° novembre, Brasile dal 6 all'8 novembre, Las Vegas dal 19 al 21 novembre, Qatar dal 27 al 29 novembre, Abu Dhabi dal 4 al 6 dicembre.",
+      ],
+    },
+    pl: {
+      title: "GP Stanów Zjednoczonych: Austin jest następne, a przewaga Antonellego zostaje przy 102 punktach",
+      subtitle: "Formuła 1 ustawia wyścig na 25 października na Circuit of the Americas. Klasyfikacja Singapuru nie rusza się we wtorek bez Grand Prix.",
+      excerpt: "13 października nie ma Grand Prix. Antonelli ma 340 punktów, 102 przed Russellem. Pełny harmonogram podaje wyścig w Austin o 15:00 czasu lokalnego.",
+      body: [
+        "13 października nie ma Grand Prix. Tabela kierowców po Singapurze jest bez zmian. Kimi Antonelli ma 340 punktów. George Russell ma 238. Różnica to 102. Lewis Hamilton ma 229, Max Verstappen 221, Charles Leclerc 215, a Lando Norris 201. Oscar Piastri ma 138. Wśród konstruktorów Mercedes ma 578, Ferrari 444, różnica 134. McLaren ma 339, i to suma zespołu, nie Antonellego. Red Bull ma 332.",
+        "Formula1.com ustawia Grand Prix Stanów Zjednoczonych na Circuit of the Americas na 23-25 października 2026, z wyścigiem 25 października. Pełny harmonogram podaje 15:00 czasu lokalnego i zaznacza, że może się zmienić. To biuro nie przelicza tego zegara na czas wschodni USA. Strona toru podaje 5,513 km, 56 okrążeń i 308,405 km. Pierwsze Grand Prix Stanów Zjednoczonych odbyło się tam w 2012 roku. Historyczne najszybsze okrążenie na stronie to 1:36.169 Charlesa Leclerca z 2019. Żadna sesja w Austin nie ma wyniku. Dalej: Meksyk 30 października do 1 listopada, Brazylia 6-8 listopada, Las Vegas 19-21 listopada, Katar 27-29 listopada, Abu Zabi 4-6 grudnia.",
+      ],
+    },
+    zh: {
+      title: "美国大奖赛：下一站奥斯汀，安东内利的领先仍是102分",
+      subtitle: "一级方程式把正赛放在10月25日的美洲赛道。没有大奖赛的周二，新加坡的积分榜不动。",
+      excerpt: "10月13日没有大奖赛。安东内利340分，领先拉塞尔102分。官方完整赛程把奥斯汀正赛列在当地时间15:00。",
+      body: [
+        "10月13日没有大奖赛。新加坡之后的车手积分不变。基米·安东内利340分。乔治·拉塞尔238分。差距102分。刘易斯·汉密尔顿229分，马克斯·维斯塔潘221分，夏尔·勒克莱尔215分，兰多·诺里斯201分。奥斯卡·皮亚斯特里138分。车队积分：梅赛德斯578，法拉利444，差距134。迈凯伦339，这是车队总分，不是安东内利的个人积分。红牛332。",
+        "Formula1.com把2026年美国大奖赛放在美洲赛道，赛期10月23日至25日，正赛在10月25日。完整赛程写明当地时间15:00，并注明赛程可能调整。本版不把这个钟点换算成美国东部时间。赛道页列出5.513公里、56圈、比赛距离308.405公里。那里的首届美国大奖赛是2012年。同一页列出的历史最快圈速是2019年夏尔·勒克莱尔的1:36.169。奥斯汀还没有任何练习或排位成绩。之后：墨西哥10月30日至11月1日，巴西11月6日至8日，拉斯维加斯11月19日至21日，卡塔尔11月27日至29日，阿布扎比12月4日至6日。",
+      ],
+    },
+    ja: {
+      title: "アメリカGP：次はオースティン、アントネッリのリードはなお102点",
+      subtitle: "フォーミュラ1は決勝を10月25日、サーキット・オブ・ジ・アメリカズに置く。グランプリのない火曜にシンガポールの順位は動かない。",
+      excerpt: "10月13日にグランプリはない。アントネッリは340点で、ラッセルに102点差。公式の全日程はオースティンの決勝を現地15:00とする。",
+      body: [
+        "10月13日にグランプリはない。シンガポール後のドライバー順位は不変だ。キミ・アントネッリは340点。ジョージ・ラッセルは238点。差は102。ルイス・ハミルトン229、マックス・フェルスタッペン221、シャルル・ルクレール215、ランド・ノリス201。オスカー・ピアストリは138。コンストラクターはメルセデス578、フェラーリ444、差は134。マクラーレンの339はチーム合計で、アントネッリ個人の点数ではない。レッドブルは332。",
+        "Formula1.comはアメリカGPをサーキット・オブ・ジ・アメリカズ、2026年10月23-25日、決勝は10月25日とする。全日程は現地15:00と記し、変更があり得ると注記する。このデスクはその時刻を米国東部時間に換算しない。サーキットのページは5.513 km、56周、レース距離308.405 km。そこで初めてアメリカGPが開かれたのは2012年。同じページの歴代ファステストラップは2019年のシャルル・ルクレール、1:36.169。オースティンのどのセッションにも結果はない。その後はメキシコ10月30日-11月1日、ブラジル11月6-8日、ラスベガス11月19-21日、カタール11月27-29日、アブダビ12月4-6日。",
+      ],
+    },
+    ko: {
+      title: "미국 GP: 다음은 오스틴, 안토넬리의 리드 102점은 그대로다",
+      subtitle: "포뮬러 1은 결승을 10월 25일 서킷 오브 디 아메리카스에 둔다. 그랑프리가 없는 화요일에 싱가포르 순위는 움직이지 않는다.",
+      excerpt: "10월 13일에는 그랑프리가 없다. 안토넬리는 340점으로 러셀에 102점 앞선다. 공식 전체 일정은 오스틴 결승을 현지 15:00으로 적는다.",
+      body: [
+        "10월 13일에는 그랑프리가 없다. 싱가포르 이후 드라이버 순위는 같다. 키미 안토넬리는 340점. 조지 러셀은 238점. 차이는 102. 루이스 해밀턴 229, 막스 베르스타펜 221, 샤를 르클레르 215, 랜도 노리스 201. 오스카 피아스트리는 138. 컨스트럭터는 메르세데스 578, 페라리 444, 차이 134. 맥라렌 339는 팀 합계이고 안토넬리 개인의 점수가 아니다. 레드불은 332.",
+        "Formula1.com은 미국 그랑프리를 서킷 오브 디 아메리카스, 2026년 10월 23-25일, 결승은 10월 25일로 둔다. 전체 일정은 현지 15:00이라고 적고 변경될 수 있다고 밝힌다. 이 데스크는 그 시각을 미국 동부 시간으로 바꾸지 않는다. 서킷 페이지는 5.513 km, 56랩, 레이스 거리 308.405 km. 그곳에서 첫 미국 그랑프리는 2012년이었다. 같은 페이지의 역대 최고 랩은 2019년 샤를 르클레르의 1:36.169. 오스틴의 어떤 세션에도 결과는 없다. 이후는 멕시코 10월 30일-11월 1일, 브라질 11월 6-8일, 라스베이거스 11월 19-21일, 카타르 11월 27-29일, 아부다비 12월 4-6일.",
+      ],
+    },
+    ar: {
+      title: "جائزة الولايات المتحدة: أوستن هي التالية، وتقدم أنطونيلي يبقى 102 نقطة",
+      subtitle: "تضع الفورمولا 1 السباق في 25 أكتوبر على حلبة الأمريكتين. ترتيب سنغافورة لا يتحرك في ثلاثاء بلا جائزة كبرى.",
+      excerpt: "لا جائزة كبرى في 13 أكتوبر. أنطونيلي لديه 340 نقطة، بفارق 102 عن راسل. الجدول الكامل يضع سباق أوستن عند 15:00 بالتوقيت المحلي.",
+      body: [
+        "لا جائزة كبرى في 13 أكتوبر. جدول السائقين بعد سنغافورة بلا تغيير. كيمي أنطونيلي لديه 340 نقطة. جورج راسل لديه 238. الفارق 102. لويس هاميلتون 229، وماكس فيرستابن 221، وشارل لوكلير 215، ولاندو نوريس 201. أوسكار بياستري 138. لدى الصانعين مرسيدس 578 وفيراري 444، بفارق 134. مكلارين لديها 339، وهو مجموع الفريق لا مجموع أنطونيلي. ريد بول لديها 332.",
+        "تضع Formula1.com جائزة الولايات المتحدة على حلبة الأمريكتين من 23 إلى 25 أكتوبر 2026، والسباق في 25 أكتوبر. يذكر الجدول الكامل الساعة 15:00 بالتوقيت المحلي وينبه إلى أنه قد يتغير. لا يحوّل هذا المكتب تلك الساعة إلى التوقيت الشرقي للولايات المتحدة. تذكر صفحة الحلبة 5.513 كم و56 لفة ومسافة 308.405 كم. أقيم أول سباق للولايات المتحدة هناك في 2012. أسرع لفة تاريخية على الصفحة هي 1:36.169 لشارل لوكلير في 2019. لا حصة في أوستن لها نتيجة. بعدها: المكسيك من 30 أكتوبر إلى 1 نوفمبر، والبرازيل 6-8 نوفمبر، ولاس فيغاس 19-21 نوفمبر، وقطر 27-29 نوفمبر، وأبوظبي 4-6 ديسمبر.",
+      ],
+    },
+  },
+  'wnba-finals-2026-schedule-dream-valkyries': {
+    fr: {
+      title: "Calendrier des finales WNBA : les Valkyries reçoivent Dream samedi, sans score",
+      subtitle: "Le match 1 est le 17 octobre à 15 h 30 ET sur NBC. Le match 2 est le lundi 19 octobre à 20 h ET. Les deux demi-finales se sont finies 3-0.",
+      excerpt: "Mardi n'a pas de match WNBA. Golden State reçoit Atlanta au Chase Center pour ouvrir une finale au meilleur des sept. Les victoires décisives des demi-finales étaient 85-83 et 87-77 en prolongation.",
+      body: [
+        "Mardi n'a pas de match WNBA. La finale est au meilleur des sept, et le match 1 est encore à venir. Golden State reçoit Atlanta au Chase Center le samedi 17 octobre à 15 h 30 ET, soit 12 h 30 PT, sur NBC et Peacock. Le reste de la série, sur les dates que Sporting News, StatMuse et NBC donnent ensemble : match 2 le lundi 19 octobre à 20 h ET au Chase Center sur USA et Peacock. Match 3 le jeudi 22 octobre à 20 h ET à Atlanta sur USA et Peacock. Match 4 le samedi 24 octobre à 15 h 30 ET à Atlanta sur NBC et Peacock.",
+        "Si la série en a besoin : match 5 le lundi 26 octobre à 20 h ET à Golden State, match 6 le jeudi 29 octobre à 20 h ET à Atlanta, match 7 le samedi 31 octobre à 20 h ET à Golden State. Les deux demi-finales se sont finies 3-0. Dream a battu Liberty 85-83 à New York, avec 22 points d'Angel Reese. Les Valkyries ont battu les Aces, tenantes du titre, 87-77 en prolongation au Michelob ULTRA Arena. Ce bureau n'inscrit pas 87-83 ni 88-77 pour ce match décisif. Les Valkyries sont dans leur deuxième saison. Dream retrouve la finale pour la première fois depuis 2013. Le match 1 n'a pas de score.",
+      ],
+    },
+    es: {
+      title: "Calendario de las finales WNBA: las Valkyries reciben a Dream el sábado, sin marcador",
+      subtitle: "El Juego 1 es el 17 de octubre a las 15:30 ET en NBC. El Juego 2 es el lunes 19 de octubre a las 20:00 ET. Las dos semifinales acabaron 3-0.",
+      excerpt: "El martes no hay partido de la WNBA. Golden State recibe a Atlanta en el Chase Center para abrir una final al mejor de siete. Los cierres de las semifinales fueron 85-83 y 87-77 en la prórroga.",
+      body: [
+        "El martes no hay partido de la WNBA. La final es al mejor de siete y el Juego 1 sigue pendiente. Golden State recibe a Atlanta en el Chase Center el sábado 17 de octubre a las 15:30 ET, las 12:30 PT, en NBC y Peacock. El resto de la serie, en las fechas que Sporting News, StatMuse y NBC dan juntas: Juego 2 el lunes 19 de octubre a las 20:00 ET en el Chase Center, en USA y Peacock. Juego 3 el jueves 22 de octubre a las 20:00 ET en Atlanta, en USA y Peacock. Juego 4 el sábado 24 de octubre a las 15:30 ET en Atlanta, en NBC y Peacock.",
+        "Si la serie los necesita: Juego 5 el lunes 26 de octubre a las 20:00 ET en Golden State, Juego 6 el jueves 29 de octubre a las 20:00 ET en Atlanta, Juego 7 el sábado 31 de octubre a las 20:00 ET en Golden State. Las dos semifinales acabaron 3-0. Dream venció a Liberty 85-83 en Nueva York, con 22 puntos de Angel Reese. Las Valkyries vencieron a las Aces, campeonas defensoras, 87-77 en la prórroga en el Michelob ULTRA Arena. Esta mesa no publica 87-83 ni 88-77 para ese cierre. Las Valkyries están en su segundo año. Dream llega a la final por primera vez desde 2013. El Juego 1 no tiene marcador.",
+      ],
+    },
+    de: {
+      title: "WNBA-Finalkalender: die Valkyries empfangen Dream am Samstag, ohne Ergebnis",
+      subtitle: "Spiel 1 ist am 17. Oktober um 15:30 ET bei NBC. Spiel 2 ist am Montag, 19. Oktober, um 20:00 ET. Beide Halbfinals endeten 3:0.",
+      excerpt: "Dienstag hat kein WNBA-Spiel. Golden State empfängt Atlanta im Chase Center zum Auftakt eines Best of Seven. Die Halbfinal-Entscheidungen waren 85:83 und 87:77 nach Verlängerung.",
+      body: [
+        "Dienstag hat kein WNBA-Spiel. Das Finale ist ein Best of Seven, und Spiel 1 steht noch aus. Golden State empfängt Atlanta am Samstag, 17. Oktober, um 15:30 ET, das ist 12:30 PT, im Chase Center bei NBC und Peacock. Der Rest der Serie, an den Daten, die Sporting News, StatMuse und NBC gemeinsam nennen: Spiel 2 am Montag, 19. Oktober, um 20:00 ET im Chase Center bei USA und Peacock. Spiel 3 am Donnerstag, 22. Oktober, um 20:00 ET in Atlanta bei USA und Peacock. Spiel 4 am Samstag, 24. Oktober, um 15:30 ET in Atlanta bei NBC und Peacock.",
+        "Falls die Serie sie braucht: Spiel 5 am Montag, 26. Oktober, um 20:00 ET in Golden State, Spiel 6 am Donnerstag, 29. Oktober, um 20:00 ET in Atlanta, Spiel 7 am Samstag, 31. Oktober, um 20:00 ET in Golden State. Beide Halbfinals endeten 3:0. Dream besiegte Liberty 85:83 in New York, Angel Reese erzielte 22 Punkte. Die Valkyries besiegten die Titelverteidiger Aces 87:77 nach Verlängerung in der Michelob ULTRA Arena. Dieser Desk druckt für diesen Entscheidungssieg nicht 87:83 und nicht 88:77. Die Valkyries sind in ihrem zweiten Jahr. Dream steht zum ersten Mal seit 2013 im Finale. Spiel 1 hat kein Ergebnis.",
+      ],
+    },
+    it: {
+      title: "Calendario delle finali WNBA: le Valkyries ospitano Dream sabato, senza punteggio",
+      subtitle: "Gara 1 è il 17 ottobre alle 15:30 ET su NBC. Gara 2 è lunedì 19 ottobre alle 20:00 ET. Entrambe le semifinali sono finite 3-0.",
+      excerpt: "Martedì non c'è una partita WNBA. Golden State ospita Atlanta al Chase Center per aprire una finale al meglio delle sette. Le vittorie decisive delle semifinali sono state 85-83 e 87-77 all'overtime.",
+      body: [
+        "Martedì non c'è una partita WNBA. La finale è al meglio delle sette e gara 1 è ancora da giocare. Golden State ospita Atlanta al Chase Center sabato 17 ottobre alle 15:30 ET, le 12:30 PT, su NBC e Peacock. Il resto della serie, nelle date che Sporting News, StatMuse e NBC indicano insieme: gara 2 lunedì 19 ottobre alle 20:00 ET al Chase Center su USA e Peacock. Gara 3 giovedì 22 ottobre alle 20:00 ET ad Atlanta su USA e Peacock. Gara 4 sabato 24 ottobre alle 15:30 ET ad Atlanta su NBC e Peacock.",
+        "Se la serie li richiede: gara 5 lunedì 26 ottobre alle 20:00 ET a Golden State, gara 6 giovedì 29 ottobre alle 20:00 ET ad Atlanta, gara 7 sabato 31 ottobre alle 20:00 ET a Golden State. Entrambe le semifinali sono finite 3-0. Dream ha battuto Liberty 85-83 a New York, con 22 punti di Angel Reese. Le Valkyries hanno battuto le Aces, campionesse in carica, 87-77 all'overtime alla Michelob ULTRA Arena. Questa redazione non pubblica 87-83 né 88-77 per quella vittoria decisiva. Le Valkyries sono al secondo anno. Dream torna in finale per la prima volta dal 2013. Gara 1 non ha punteggio.",
+      ],
+    },
+    pl: {
+      title: "Kalendarz finału WNBA: Valkyries goszczą Dream w sobotę, bez wyniku",
+      subtitle: "Mecz 1 jest 17 października o 15:30 ET w NBC. Mecz 2 jest w poniedziałek 19 października o 20:00 ET. Oba półfinały skończyły się 3-0.",
+      excerpt: "We wtorek nie ma meczu WNBA. Golden State gości Atlantę w Chase Center na otwarcie serii do czterech wygranych. Rozstrzygnięcia półfinałów to 85-83 i 87-77 po dogrywce.",
+      body: [
+        "We wtorek nie ma meczu WNBA. Finał jest do czterech wygranych, a mecz 1 dopiero się odbędzie. Golden State gości Atlantę w Chase Center w sobotę 17 października o 15:30 ET, czyli 12:30 PT, w NBC i Peacock. Reszta serii, w datach, które Sporting News, StatMuse i NBC podają razem: mecz 2 w poniedziałek 19 października o 20:00 ET w Chase Center, w USA i Peacock. Mecz 3 w czwartek 22 października o 20:00 ET w Atlancie, w USA i Peacock. Mecz 4 w sobotę 24 października o 15:30 ET w Atlancie, w NBC i Peacock.",
+        "Jeśli seria ich potrzebuje: mecz 5 w poniedziałek 26 października o 20:00 ET w Golden State, mecz 6 w czwartek 29 października o 20:00 ET w Atlancie, mecz 7 w sobotę 31 października o 20:00 ET w Golden State. Oba półfinały skończyły się 3-0. Dream pokonało Liberty 85-83 w Nowym Jorku, a Angel Reese zdobyła 22 punkty. Valkyries pokonały broniące tytułu Aces 87-77 po dogrywce w Michelob ULTRA Arena. To biuro nie drukuje 87-83 ani 88-77 przy tym rozstrzygnięciu. Valkyries są w drugim sezonie. Dream jest w finale pierwszy raz od 2013 roku. Mecz 1 nie ma wyniku.",
+      ],
+    },
+    zh: {
+      title: "WNBA总决赛赛程：女武神周六主场迎战梦想，尚无比分",
+      subtitle: "G1是10月17日美东15:30，NBC播出。G2是10月19日周一美东20:00。两场半决赛都是3-0。",
+      excerpt: "周二没有WNBA比赛。金州在大通中心主场迎战亚特兰大，揭开七场四胜。半决赛收官战是85-83和加时87-77。",
+      body: [
+        "周二没有WNBA比赛。总决赛七场四胜，G1仍未开打。金州10月17日周六美东15:30（太平洋时间12:30）在旧金山大通中心主场迎战亚特兰大，NBC与Peacock播出。Sporting News、StatMuse和NBC共同列出的后续日期：G2是10月19日周一美东20:00，大通中心，USA与Peacock。G3是10月22日周四美东20:00，亚特兰大，USA与Peacock。G4是10月24日周六美东15:30，亚特兰大，NBC与Peacock。",
+        "如果系列赛需要：G5是10月26日周一美东20:00，金州。G6是10月29日周四美东20:00，亚特兰大。G7是10月31日周六美东20:00，金州。两场半决赛都是3-0。梦想在纽约85-83淘汰自由人，安吉尔·里斯得到22分。女武神在Michelob ULTRA球馆加时87-77淘汰卫冕冠军王牌。本版不把那场收官写成87-83，也不写成88-77。女武神处于第二个赛季。梦想自2013年以来首次进入总决赛。G1没有比分。",
+      ],
+    },
+    ja: {
+      title: "WNBAファイナル日程：ヴァルキリーズが土曜にドリームを迎える。スコアはまだない",
+      subtitle: "第1戦は10月17日、米東部15:30、NBC。第2戦は10月19日月曜、米東部20:00。準決勝はともに3勝0敗。",
+      excerpt: "火曜にWNBAの試合はない。ゴールデンステートがチェイス・センターでアトランタを迎え、7戦4勝の開幕戦を行う。準決勝の決着は85-83と延長87-77。",
+      body: [
+        "火曜にWNBAの試合はない。ファイナルは7戦4勝で、第1戦はこれから。ゴールデンステートは10月17日土曜、米東部15:30（太平洋12:30）にサンフランシスコのチェイス・センターでアトランタを迎える。NBCとPeacock。Sporting News、StatMuse、NBCが揃って挙げる続きは、第2戦が10月19日月曜、米東部20:00、チェイス・センター、USAとPeacock。第3戦は10月22日木曜、米東部20:00、アトランタ、USAとPeacock。第4戦は10月24日土曜、米東部15:30、アトランタ、NBCとPeacock。",
+        "必要なら、第5戦は10月26日月曜、米東部20:00、ゴールデンステート。第6戦は10月29日木曜、米東部20:00、アトランタ。第7戦は10月31日土曜、米東部20:00、ゴールデンステート。準決勝はともに3勝0敗。ドリームはニューヨークでリバティを85-83、エンジェル・リースが22得点。ヴァルキリーズは前年度王者エイシズをラスベガスのMichelob ULTRAアリーナで延長87-77。このデスクはその決着を87-83とも88-77とも書かない。ヴァルキリーズは2年目。ドリームは2013年以来初めてのファイナル。第1戦にスコアはない。",
+      ],
+    },
+    ko: {
+      title: "WNBA 파이널 일정: 발키리스가 토요일 드림을 맞이한다. 아직 스코어는 없다",
+      subtitle: "1차전은 10월 17일 미 동부 15:30, NBC. 2차전은 10월 19일 월요일 미 동부 20:00. 준결승은 모두 3승 무패.",
+      excerpt: "화요일에는 WNBA 경기가 없다. 골든스테이트가 체이스 센터에서 애틀랜타를 맞아 7전 4선승을 연다. 준결승 결정전은 85-83과 연장 87-77.",
+      body: [
+        "화요일에는 WNBA 경기가 없다. 파이널은 7전 4선승이고 1차전은 아직이다. 골든스테이트는 10월 17일 토요일 미 동부 15:30, 태평양 12:30에 샌프란시스코 체이스 센터에서 애틀랜타를 맞는다. NBC와 Peacock. Sporting News, StatMuse, NBC가 함께 적는 나머지는 2차전이 10월 19일 월요일 미 동부 20:00, 체이스 센터, USA와 Peacock. 3차전은 10월 22일 목요일 미 동부 20:00, 애틀랜타, USA와 Peacock. 4차전은 10월 24일 토요일 미 동부 15:30, 애틀랜타, NBC와 Peacock.",
+        "필요하면 5차전은 10월 26일 월요일 미 동부 20:00, 골든스테이트. 6차전은 10월 29일 목요일 미 동부 20:00, 애틀랜타. 7차전은 10월 31일 토요일 미 동부 20:00, 골든스테이트. 준결승은 모두 3승 무패. 드림은 뉴욕에서 리버티를 85-83, 앤절 리스 22득점. 발키리스는 디펜딩 챔피언 에이시스를 라스베이거스 Michelob ULTRA 아레나에서 연장 87-77. 이 데스크는 그 결정전을 87-83으로도 88-77로도 적지 않는다. 발키리스는 두 번째 시즌. 드림은 2013년 이후 처음 파이널이다. 1차전에 스코어는 없다.",
+      ],
+    },
+    ar: {
+      title: "جدول نهائيات WNBA: فالكيريز تستضيف دريم السبت، بلا نتيجة",
+      subtitle: "المباراة 1 في 17 أكتوبر عند 15:30 بتوقيت شرق أمريكا على NBC. المباراة 2 الاثنين 19 أكتوبر عند 20:00. انتهى نصف النهائي 3-0 للطرفين.",
+      excerpt: "لا مباراة WNBA يوم الثلاثاء. تستضيف غولدن ستيت أتلانتا في تشيس سنتر لافتتاح نهائي الأفضل من سبعة. حسم نصف النهائي كان 85-83 و87-77 بالتمديد.",
+      body: [
+        "لا مباراة WNBA يوم الثلاثاء. النهائي الأفضل من سبعة، والمباراة 1 لم تلعب. تستضيف غولدن ستيت أتلانتا في تشيس سنتر يوم السبت 17 أكتوبر عند 15:30 بتوقيت شرق أمريكا، أي 12:30 بتوقيت المحيط الهادئ، على NBC وPeacock. بقية السلسلة في التواريخ التي تتفق عليها Sporting News وStatMuse وNBC: المباراة 2 الاثنين 19 أكتوبر عند 20:00 في تشيس سنتر على USA وPeacock. المباراة 3 الخميس 22 أكتوبر عند 20:00 في أتلانتا على USA وPeacock. المباراة 4 السبت 24 أكتوبر عند 15:30 في أتلانتا على NBC وPeacock.",
+        "إذا احتاجتها السلسلة: المباراة 5 الاثنين 26 أكتوبر عند 20:00 في غولدن ستيت، والمباراة 6 الخميس 29 أكتوبر عند 20:00 في أتلانتا، والمباراة 7 السبت 31 أكتوبر عند 20:00 في غولدن ستيت. انتهى نصف النهائي 3-0 للطرفين. فاز دريم على ليبرتي 85-83 في نيويورك، وسجلت أنجل ريس 22 نقطة. فازت فالكيريز على إيسيس حامل اللقب 87-77 بالتمديد في صالة Michelob ULTRA. لا يطبع هذا المكتب 87-83 ولا 88-77 لذلك الحسم. فالكيريز في موسمها الثاني. يبلغ دريم النهائي للمرة الأولى منذ 2013. المباراة 1 بلا نتيجة.",
+      ],
+    },
+  },
 };

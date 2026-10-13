@@ -1,30 +1,35 @@
 {
   "slug": "bills-at-rams-mnf-week5-2026",
-  "headline": "NFL Week 5 MNF: Bills (3-1) at Rams (2-2), SoFi Stadium, 8:15 p.m. ET",
+  "headline": "NFL Week 5 MNF: Bills beat Rams 37-34 in overtime at SoFi",
   "whyCareScore": 9.5,
-  "whyCareReason": "ESPN lists Buffalo at the Rams to close Week 5. The Ravens already won 30-23 in overtime. No Monday score is posted.",
-  "teaser": "Monday Night Football kickoff is 8:15 p.m. ET on ESPN and ABC from SoFi Stadium. Status stays upcoming.",
-  "story": "ESPN lists the Buffalo Bills (3-1) at the Los Angeles Rams (2-2) for Monday Night Football at SoFi Stadium. Kickoff is 8:15 p.m. ET on ESPN and ABC. The board has no score, so this match stays upcoming. Sunday night, the Ravens beat the Falcons 30-23 in overtime. The Vikings are 5-0 after a 23-13 win at the Saints. The 49ers are 5-0 after a 32-29 win at the Seahawks. The Chiefs are 4-0 on their Week 5 bye.",
-  "stakes": "A Bills win makes Buffalo 4-1. A Rams win makes Los Angeles 3-2, still behind the 5-0 49ers in the NFC West.",
-  "rivalryAngle": "Week 5's last game is a cross-conference kickoff in Inglewood, after an overtime Sunday night in Atlanta.",
+  "whyCareReason": "ESPN and NFL.com list a 37-34 overtime final. Buffalo are 4-1. The Rams are 2-3.",
+  "teaser": "Tyler Bass hit a 45-yard field goal with 1:55 left in overtime. Josh Allen finished with 331 total yards.",
+  "story": "The Buffalo Bills beat the Los Angeles Rams 37-34 in overtime at SoFi Stadium. ESPN's quarters: Bills 6, 7, 6, 15 and 3. Rams 0, 7, 7, 20 and 0. Tyler Bass won it with a 45-yard field goal with 1:55 left in overtime, after Greg Rousseau blocked a Harrison Mevis attempt. James Cook had fumbled early in overtime. Josh Allen passed for 210 yards and rushed for 121, 331 total yards and two touchdowns. Matthew Stafford passed for 383 yards and three touchdowns. James Cook rushed for 111 yards and two touchdowns. Puka Nacua had 17 receptions for 138 yards and a score. Buffalo are 4-1. The Rams are 2-3.",
+  "stakes": "A Bills win makes Buffalo 4-1. The Rams stay 2-3, still behind the 5-0 49ers in the NFC West.",
+  "rivalryAngle": "Week 5 closed with six lead changes and an overtime kick in Inglewood.",
   "funFacts": [
-    "ESPN lists kickoff at 8:15 p.m. ET at SoFi Stadium on ESPN and ABC. No score is posted.",
-    "Ravens quarters were 3, 6, 6, 8 and 7. Falcons quarters were 7, 7, 3, 6 and 0. Final: 30-23 in overtime.",
-    "Vikings 23-13 Saints and 49ers 32-29 Seahawks. Both winners are 5-0. Bills are 3-1 and Rams are 2-2."
+    "Final (OT): Bills 37, Rams 34. Quarters: Bills 6, 7, 6, 15, 3. Rams 0, 7, 7, 20, 0.",
+    "Bass kicked a 45-yard field goal with 1:55 left in overtime, after Rousseau blocked a Harrison Mevis attempt. Cook had fumbled early in overtime.",
+    "Allen: 210 passing yards and 121 rushing yards, 331 total, two touchdowns. Stafford: 383 yards and 3 TD. Cook: 111 rushing yards and 2 TD. Nacua: 17 catches, 138 yards and a score."
   ],
   "keyPlayers": [
     {
-      "name": "Buffalo Bills",
+      "name": "Josh Allen",
       "team": "Buffalo Bills",
-      "hook": "Enter at 3-1 on the road. A win would make them 4-1."
+      "hook": "331 total yards: 210 passing and 121 rushing, and two touchdowns."
     },
     {
-      "name": "Los Angeles Rams",
+      "name": "Tyler Bass",
+      "team": "Buffalo Bills",
+      "hook": "45-yard field goal with 1:55 left in overtime."
+    },
+    {
+      "name": "Matthew Stafford",
       "team": "Los Angeles Rams",
-      "hook": "Enter at 2-2 at home. ESPN lists the kickoff at 8:15 p.m. ET."
+      "hook": "383 passing yards and three touchdowns in a 34-point night."
     }
   ],
-  "headToHead": "The Monday game has not been played. Sunday's overtime final was Ravens 30, Falcons 23.",
+  "headToHead": "Bills 37, Rams 34, overtime, 12 October 2026, SoFi Stadium.",
   "tags": ["football", "nfl", "bills", "rams", "mnf", "week-5", "sofi-stadium"],
   "home": "Los Angeles Rams",
   "away": "Buffalo Bills",
@@ -38,13 +43,13 @@
   "time": "20:15",
   "venue": "SoFi Stadium",
   "city": "Inglewood",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 34,
+  "awayScore": 37,
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/1618269/pexels-photo-1618269.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": null,
+  "decidedBy": "overtime",
   "homePen": null,
   "awayPen": null,
   "sport": "football",
@@ -52,11 +57,11 @@
   "format": "team-match",
   "season": "2026",
   "roundLabel": "NFL Week 5 · Monday Night Football",
-  "resultSummary": "UPCOMING: Bills (3-1) at Rams (2-2), Monday 8:15 p.m. ET on ESPN/ABC at SoFi Stadium. No score.",
+  "resultSummary": "FINAL (OT): Bills 37, Rams 34. Bass 45-yard field goal with 1:55 left. Bills 4-1, Rams 2-3.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
-    {"name": "ESPN NFL scoreboard", "url": "https://www.espn.com/nfl/scoreboard"},
-    {"name": "NFL Week 5 schedule", "url": "https://nflschedules.com/weeks/2026/week-5/"}
+    {"name": "ESPN recap", "url": "https://www.espn.com/nfl/recap?gameId=401872994"},
+    {"name": "ESPN game", "url": "https://www.espn.com/nfl/game/_/gameId/401872994/bills-rams"}
   ]
 }

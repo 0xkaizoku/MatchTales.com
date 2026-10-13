@@ -1,0 +1,64 @@
+{
+  "slug": "shanghai-masters-2026-tuesday-zverev-bublik",
+  "headline": "Shanghai Masters: Zverev beats Bublik 7-6 (6), 4-6, 7-6 (1)",
+  "whyCareScore": 9.2,
+  "whyCareReason": "The top seed and year-end No. 1 came through a three-set round of 16. De Minaur, Gea and Davidovich Fokina also won.",
+  "teaser": "ATP time: 2:37:48. The quarter-final line from Tuesday is Zverev against de Minaur, and Gea against Davidovich Fokina.",
+  "story": "Alexander Zverev beat Alexander Bublik 7-6 (6), 4-6, 7-6 (1) in the Shanghai round of 16. The ATP lists the match at 2:37:48. Alex de Minaur beat Karen Khachanov 6-3, 6-4 in 1:25:31. Arthur Gea beat Jakub Mensik 7-6 (4), 6-4 in 1:37:01. Alejandro Davidovich Fokina beat Hubert Hurkacz 1-6, 6-3, 7-6 (6) in 2:04:01. Four round-of-16 matches remain, including Tommy Paul against Zizou Bergs. Jannik Sinner is still out for the season.",
+  "stakes": "Zverev's quarter-final is against de Minaur. Gea plays Davidovich Fokina. The other half of the round of 16 is still to be played.",
+  "rivalryAngle": "The year-end No. 1 had to go three sets against the 19th seed on Stadium Court.",
+  "funFacts": [
+    "Zverev (1) d. Bublik (19): 7-6 (6), 4-6, 7-6 (1), in 2:37:48.",
+    "de Minaur (9) d. Khachanov (26): 6-3, 6-4. Gea d. Mensik (13): 7-6 (4), 6-4. Davidovich Fokina (25) d. Hurkacz: 1-6, 6-3, 7-6 (6).",
+    "Still to play: van de Zandschulp vs Jodar, Ruud vs Auger-Aliassime, Medvedev vs Tsitsipas, Paul vs Bergs."
+  ],
+  "keyPlayers": [
+    {"name": "Alexander Zverev", "team": "Germany", "hook": "Top seed and year-end No. 1. Beat Bublik in three sets."},
+    {"name": "Alexander Bublik", "team": "Kazakhstan", "hook": "19th seed. Took the second set before the third-set tie-break."},
+    {"name": "Alex de Minaur", "team": "Australia", "hook": "Beat Khachanov 6-3, 6-4 and meets Zverev in the quarter-finals."}
+  ],
+  "headToHead": "Zverev won 7-6 (6), 4-6, 7-6 (1) on 13 October 2026.",
+  "tags": ["tennis", "atp", "shanghai-masters", "zverev", "bublik", "qizhong"],
+  "home": "Alexander Zverev",
+  "away": "Alexander Bublik",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "ATP Masters 1000",
+  "matchday": 8,
+  "date": "2026-10-13",
+  "time": "12:00",
+  "venue": "Qizhong Forest Sports City Arena",
+  "city": "Shanghai",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 1,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1405355/pexels-photo-1405355.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Shanghai Masters · Round of 16",
+  "resultSummary": "FINAL: Zverev d. Bublik 7-6 (6), 4-6, 7-6 (1). de Minaur, Gea and Davidovich Fokina also through. Sinner remains out.",
+  "leaderboard": [
+    {"pos": "R16", "name": "Alexander Zverev", "score": "7-6 (6), 4-6, 7-6 (1)", "note": "d. Alexander Bublik (19), 2:37:48"},
+    {"pos": "R16", "name": "Alex de Minaur", "score": "6-3, 6-4", "note": "d. Karen Khachanov (26), 1:25:31"},
+    {"pos": "R16", "name": "Arthur Gea", "score": "7-6 (4), 6-4", "note": "d. Jakub Mensik (13), 1:37:01"},
+    {"pos": "R16", "name": "Alejandro Davidovich Fokina", "score": "1-6, 6-3, 7-6 (6)", "note": "d. Hubert Hurkacz, 2:04:01"}
+  ],
+  "tennisSets": [
+    {"p1": "7", "p2": "6 (6)"},
+    {"p1": "4", "p2": "6"},
+    {"p1": "7", "p2": "6 (1)"}
+  ],
+  "sources": [
+    {"name": "ATP Tour Shanghai", "url": "https://www.atptour.com/en/scores/archive/shanghai/5014/2026/results"},
+    {"name": "ATP news", "url": "https://www.atptour.com/en/news/shanghai-2026-results"}
+  ]
+}

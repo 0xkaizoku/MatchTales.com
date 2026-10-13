@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-12",
+  "asOf": "2026-10-13",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -124,13 +124,13 @@
     {
       "pos": 11,
       "team": "Newcastle United",
-      "p": 5,
+      "p": 6,
       "w": 2,
       "d": 2,
-      "l": 1,
-      "gf": 9,
-      "ga": 9,
-      "gd": 0,
+      "l": 2,
+      "gf": 10,
+      "ga": 13,
+      "gd": -3,
       "pts": 8
     },
     {
@@ -159,6 +159,18 @@
     },
     {
       "pos": 14,
+      "team": "Coventry City",
+      "p": 6,
+      "w": 2,
+      "d": 0,
+      "l": 4,
+      "gf": 5,
+      "ga": 11,
+      "gd": -6,
+      "pts": 6
+    },
+    {
+      "pos": 15,
       "team": "Nottingham Forest",
       "p": 6,
       "w": 1,
@@ -170,7 +182,7 @@
       "pts": 5
     },
     {
-      "pos": 15,
+      "pos": 16,
       "team": "Aston Villa",
       "p": 6,
       "w": 1,
@@ -182,7 +194,7 @@
       "pts": 5
     },
     {
-      "pos": 16,
+      "pos": 17,
       "team": "Sunderland",
       "p": 6,
       "w": 1,
@@ -194,7 +206,7 @@
       "pts": 4
     },
     {
-      "pos": 17,
+      "pos": 18,
       "team": "Bournemouth",
       "p": 6,
       "w": 0,
@@ -206,7 +218,7 @@
       "pts": 3
     },
     {
-      "pos": 18,
+      "pos": 19,
       "team": "Tottenham Hotspur",
       "p": 6,
       "w": 0,
@@ -215,18 +227,6 @@
       "gf": 3,
       "ga": 9,
       "gd": -6,
-      "pts": 3
-    },
-    {
-      "pos": 19,
-      "team": "Coventry City",
-      "p": 5,
-      "w": 1,
-      "d": 0,
-      "l": 4,
-      "gf": 1,
-      "ga": 10,
-      "gd": -9,
       "pts": 3
     },
     {
