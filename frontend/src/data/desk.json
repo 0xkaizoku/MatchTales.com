@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-13",
+  "asOf": "2026-10-14",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -647,7 +647,14 @@
       "time": "8:15 p.m. ET",
       "home": "Los Angeles Rams",
       "away": "Buffalo Bills",
-      "note": "Monday Night Football at SoFi Stadium. Josh Allen vs Matthew Stafford. Week 5 wraps under California lights on ESPN."
+      "note": "FINAL (OT): Bills 37, Rams 34. Bass 45-yd FG at 1:55 in OT. Bills 4-1, Rams 2-3. Allen 4 total TDs."
+    },
+    {
+      "date": "2026-10-15",
+      "time": "8:15 p.m. ET",
+      "home": "Seattle Seahawks",
+      "away": "Denver Broncos",
+      "note": "Thursday Night Football kickoff for Week 6 on Prime Video. Lumen Field in Seattle. Kickoff 8:15 p.m. ET."
     }
   ],
   "usOpenQF": [

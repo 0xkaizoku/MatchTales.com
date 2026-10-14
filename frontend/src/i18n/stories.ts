@@ -14175,4 +14175,556 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+  'shanghai-masters-2026-wednesday-medvedev-tsitsipas': {
+    fr: {
+      title: "Masters de Shanghai : Medvedev bat Tsitsipas 6-4, 7-5, les quarts sont fixes",
+      subtitle: "Tommy Paul, Rafael Jodar et Casper Ruud se qualifient egalement pour completer les huit derniers.",
+      excerpt: "L'ATP confirme la victoire en deux sets de Medvedev sur Tsitsipas. Paul stoppe Bergs, Jodar renverse van de Zandschulp, et Ruud passe apres abandon.",
+      body: [
+        "Daniil Medvedev a battu Stefanos Tsitsipas 6-4, 7-5 mercredi en huitiemes de finale du Masters de Shanghai. Le match a dure 1 h 44 sur le court central. Medvedev a reussi le break tot dans le premier set et a tenu bon pour signer un nouveau succes dans leur duel historique.",
+        "Les trois autres huitiemes ont complete le tableau. Tommy Paul a battu Zizou Bergs 7-6 (5), 6-4 en 1 h 52, mettant fin au parcours du Belge qui avait elimine Carlos Alcaraz lundi. L'Espagnol de 19 ans Rafael Jodar est revenu pour battre Botic van de Zandschulp 6-7 (4), 6-4, 6-2 en 2 h 28. Casper Ruud est passe apres l'abandon de Felix Auger-Aliassime, mene 5-2 dans le premier set.",
+        "Les quarts de finale sont officiellement fixes : Zverev contre de Minaur, Gea contre Davidovich Fokina, Paul contre Ruud, et Medvedev contre Jodar. Alexander Zverev est deja assure de finir numero 1 mondial cette annee. Jannik Sinner reste forfait pour le reste de la saison.",
+      ],
+    },
+    es: {
+      title: "Masters de Shanghai: Medvedev vence a Tsitsipas 6-4, 7-5 y define los cuartos",
+      subtitle: "Tommy Paul, Rafael Jodar y Casper Ruud avanzan para completar los ocho mejores en Qizhong.",
+      excerpt: "La ATP confirma el triunfo en dos sets de Medvedev sobre Tsitsipas. Paul frena a Bergs, Jodar remonta ante van de Zandschulp y Ruud avanza por retirada.",
+      body: [
+        "Daniil Medvedev vencio a Stefanos Tsitsipas 6-4, 7-5 este miercoles en los octavos de final del Masters de Shanghai. El duelo duro 1:44:12 en la pista central. Medvedev quebro temprano en la primera manga y resistio en el segundo set para sumar otro capitulo en su rivalidad.",
+        "Los otros tres partidos de octavos cerraron el cuadro. Tommy Paul supero a Zizou Bergs 7-6 (5), 6-4 en 1:52:10, cortando el camino del belga que habia eliminado a Carlos Alcaraz el lunes. El espanol de 19 anos Rafael Jodar remonto ante Botic van de Zandschulp 6-7 (4), 6-4, 6-2 en 2:28:15. Casper Ruud複合 avanzo tras la retirada de Felix Auger-Aliassime cuando caia 5-2 en el primer set.",
+        "Los cuartos de final quedan listos: Zverev frente a de Minaur, Gea ante Davidovich Fokina, Paul contra Ruud y Medvedev frente a Jodar. Alexander Zverev ya tiene asegurado el numero 1 del mundo a fin de ano. Jannik Sinner sigue fuera por lesion.",
+      ],
+    },
+    de: {
+      title: "Shanghai Masters: Medvedev schlagt Tsitsipas 6:4, 7:5, Viertelfinale komplett",
+      subtitle: "Tommy Paul, Rafael Jodar und Casper Ruud ziehen ebenfalls in die Runde der letzten Acht ein.",
+      excerpt: "Die ATP bestatigt Medvedevs Zweisatzsieg uber Tsitsipas. Paul stoppt Bergs, Jodar dreht das Spiel gegen van de Zandschulp und Ruud profitiert von Aufgabe.",
+      body: [
+        "Daniil Medvedev besiegte Stefanos Tsitsipas am Mittwoch im Achtelfinale der Rolex Shanghai Masters mit 6:4, 7:5. Die Partie auf dem Stadium Court dauerte 1:44:12 Stunden. Medvedev holte ein fruhes Break im ersten Satz und blieb im zweiten Satz stabil fur einen weiteren Sieg im Dauerduell.",
+        "Die drei restlichen Achtelfinalspiele machten das Feld komplett. Tommy Paul bezwang Zizou Bergs 7:6 (5), 6:4 in 1:52:10 Stunden und beendete den Lauf des Belgiers nach dessen Uberraschungssieg uber Carlos Alcaraz am Montag. Der 19-jahrige Spanier Rafael Jodar kampfte Botic van de Zandschulp mit 6:7 (4), 6:4, 6:2 nieder. Casper Ruud kam weiter, nachdem Felix Auger-Aliassime beim Stand von 5:2 im ersten Satz aufgeben musste.",
+        "Das Viertelfinale steht: Zverev gegen de Minaur, Gea gegen Davidovich Fokina, Paul gegen Ruud und Medvedev gegen Jodar. Alexander Zverev steht als Jahresend-Erster fest. Jannik Sinner fallt weiter bis Saisonende aus.",
+      ],
+    },
+    it: {
+      title: "Shanghai Masters: Medvedev supera Tsitsipas 6-4, 7-5, quarti di finale definiti",
+      subtitle: "Anche Tommy Paul, Rafael Jodar e Casper Ruud avanzano tra i migliori otto alla Qizhong Arena.",
+      excerpt: "L'ATP elenca la vittoria in due set di Medvedev su Tsitsipas. Paul ferma Bergs, Jodar rimonta su van de Zandschulp e Ruud passa per ritiro.",
+      body: [
+        "Daniil Medvedev ha sconfitto Stefanos Tsitsipas 6-4, 7-5 mercoledi negli ottavi di finale del Rolex Shanghai Masters. La sfida sullo Stadium Court e durata 1 ora e 44 minuti. Medvedev ha ottenuto un break iniziale nel primo set e ha resistito in un serrato secondo parziale.",
+        "Gli altri tre ottavi hanno completato il tabellone. Tommy Paul ha battuto Zizou Bergs 7-6 (5), 6-4 in 1:52:10, fermando la corsa del belga reduce dal successo su Carlos Alcaraz. Lo spagnolo classe 2007 Rafael Jodar ha rimontato Botic van de Zandschulp 6-7 (4), 6-4, 6-2 in 2:28:15. Casper Ruud e avanzato dopo il ritiro di Felix Auger-Aliassime, sotto 5-2 nel primo set.",
+        "I quarti di finale sono fissati: Zverev contro de Minaur, Gea contro Davidovich Fokina, Paul contro Ruud e Medvedev contro Jodar. Alexander Zverev ha gia blindato il numero 1 di fine anno. Jannik Sinner rimane indisponibile.",
+      ],
+    },
+    pl: {
+      title: "Szanghaj Masters: Medvedev pokonuje Tsitsipasa 6-4, 7-5, cwiercfinaly obsadzone",
+      subtitle: "Tommy Paul, Rafael Jodar i Casper Ruud rowniez awansuja do najlepszej osemki w Qizhong Arena.",
+      excerpt: "ATP potwierdza dwusetowe zwyciestwo Medvedeva nad Tsitsipasem. Paul zatrzymuje Bergsa, Jodar odwraca mecz z van de Zandschulpem, a Ruud awansuje po kreczu.",
+      body: [
+        "Daniil Medvedev pokonal Stefanosa Tsitsipasa 6-4, 7-5 w srode w 1/8 finalu turnieju Rolex Shanghai Masters. Mecz na korcie centralnym trwal 1 godzine i 44 minuty. Medvedev szybko przelamal w pierwszym secie i utrzymal przewage w zacietym drugim secie.",
+        "Pozostale trzy mecze 1/8 finalu zamknely stawke. Tommy Paul wygral z Zizou Bergsem 7-6 (5), 6-4 w 1:52:10, konczac serie Belga po jego poniedzialkowym triumfie nad Carlosem Alcarazem. 19-letni hiszpanski talent Rafael Jodar pokonal Botica van de Zandschulpa 6-7 (4), 6-4, 6-2. Casper Ruud awansowal po kreczu Felixa Augera-Aliassime przy stanie 5-2 w pierwszym secie.",
+        "Zestawienie cwiercfinalow jest gotowe: Zverev z de Minaurem, Gea z Davidovichem Fokina, Paul z Ruudem oraz Medvedev z Jodarem. Alexander Zverev ma juz zapewniony tytul numeru 1 na koniec roku. Jannik Sinner pozostaje poza gra do konca sezonu.",
+      ],
+    },
+    zh: {
+      title: "上海劳力士大师赛：梅德韦杰夫6-4、7-5击败西西帕斯，八强全部产生",
+      subtitle: "保罗、约达尔和鲁德亦顺利过关，旗忠网球中心四分之一决赛对阵出炉。",
+      excerpt: "ATP确认梅德韦杰夫直落两盘力克斯西帕斯。保罗终结贝尔赫斯黑马之路，约达尔逆转范德赞舒普，鲁德因对手退赛晋级。",
+      body: [
+        "周三在上海劳力士大师赛男单八分之一决赛中，丹尼尔·梅德韦杰夫在中央球场以6-4、7-5击败斯特凡诺斯·西西帕斯。比赛耗时1小时44分钟。梅德韦杰夫在首盘早早破发，并在第二盘顶住反扑，在宿敌对决中再添一胜。",
+        "另外三场八分之一决赛同样结束。汤米·保罗以7-6(5)、6-4击败齐祖·贝尔赫斯，终结了后者周一淘汰阿尔卡拉斯后的黑马之旅。19岁西班牙新秀拉斐尔·约达尔苦战三盘以6-7(4)、6-4、6-2逆转范德赞舒普。卡斯珀·鲁德在阿利亚西姆首盘2-5落后因伤退赛后晋级。",
+        "八强对阵全部确定：头号种子兹维列夫对阵德米纳尔，热阿对阵达维多维奇·福基纳，保罗对阵鲁德，梅德韦杰夫对决约达尔。兹维列夫已锁定ATP年终世界第一。辛纳本赛季继续休战。",
+      ],
+    },
+    ja: {
+      title: "上海マスターズ：メドベージェフがチチパスを6-4, 7-5で撃破、8強が出揃う",
+      subtitle: "トミー・ポール、ラファエル・ホダル、キャスパー・ルードも勝ち上がり準々決勝進出。",
+      excerpt: "ATP公式記録でメドベージェフがチチパスにストレート勝ち。ポールがベルフスを止め、ホダルが逆転勝ち、ルードが棄権勝ちで8強入り。",
+      body: [
+        "水曜の上海マスターズ男子シングルス4回戦で、ダニール・メドベージェフがステファノス・チチパスを6-4, 7-5のストレートで下した。試合時間は1時間44分。メドベージェフが第1セット序盤でブレークを奪い、競り合った第2セットを制してライバル対決を制した。",
+        "残る4回戦3試合も決着した。トミー・ポールが月曜にアルカラスを破ったジズー・ベルフスを7-6(5), 6-4で破り進出。スペインの19歳ラファエル・ホダルがファン・デ・ザンスフルプに6-7(4), 6-4, 6-2で逆転勝ち。キャスパー・ルードはオジェ アリアシムが第1セット2-5で途中棄権したため勝ち上がった。",
+        "準々決勝の顔合わせが確定：ズベレフ対デミノー、ジェア対ダビドビッチ フォキナ、ポール対ルード、メドベージェフ対ホダル。ズベレフは年間世界1位を確定済み。シナーは今季残り全休。",
+      ],
+    },
+    ko: {
+      title: "상하이 마스터스: 메드베데프, 치치파스에 6-4, 7-5 승리, 8강 대진 완성",
+      subtitle: "토미 폴, 라파엘 호다르, 카스페르 루드도 나란히 8강에 합류했다.",
+      excerpt: "ATP 공식 기록: 메드베데프가 치치파스를 2-0으로 제압했다. 폴은 베르흐스를 꺾었고 호다르는 역전승, 루드는 기권승으로 통과했다.",
+      body: [
+        "수요일 상하이 마스터스 16강에서 다닐 메드베데프가 스테파노스 치치파스를 6-4, 7-5로 물리쳤다. 경기 시간은 1시간 44분이었다. 메드베데프는 1세트 초반 브레이크를 따낸 뒤 팽팽했던 2세트마저 지켜내며 맞대결 승리를 챙겼다.",
+        "나머지 16강 3경기도 마무리되었다. 토미 폴은 월요일 알카라스를 꺾었던 지주 베르흐스를 7-6(5), 6-4로 제압했다. 19세 스페인 기대주 라파엘 호다르는 보틱 판 더 잔츠휠프에게 6-7(4), 6-4, 6-2로 역전승했다. 카스페르 루드는 오제 알리아심이 1세트 2-5에서 기권하며 8강에 올랐다.",
+        "8강 대진이 확정되었다: 즈베레프 대 드 미노, 제아 대 다비도비치 포키나, 폴 대 루드, 메드베데프 대 호다르. 즈베레프는 연말 세계 1위를 이미 확정지었다. 신너는 시즌 아웃 상태다.",
+      ],
+    },
+    ar: {
+      title: "ماسترز شنغهاي: ميدفيديف يهزم تسيتسيباس 6-4 و7-5 واكتمال عقد ربع النهائي",
+      subtitle: "تومي بول ورافاييل خودار وكاسبر رود يبلغون دور الثمانية في ملعب تشيتشونغ.",
+      excerpt: "تؤكد رابطة المحترفين فوز ميدفيديف بمجموعتين دون رد على تسيتسيباس. بول يوقف بيرغس، وخودار يقلب النتيجة، ورود يتأهل بعد انسحاب منافسه.",
+      body: [
+        "فاز دانييل ميدفيديف على ستيفانوس تسيتسيباس بنتيجة 6-4 و7-5 يوم الأربعاء في ثمن نهائي بطولة شنغهاي للأساتذة. استغرقت المباراة ساعة و44 دقيقة على الملعب الرئيسي، حيث كسر ميدفيديف إرسال منافسه مبكرا في المجموعة الأولى وصمد في الثانية.",
+        "واختتمت المباريات الثلاث المتبقية دور الـ16. تفوق تومي بول على زيزو بيرغس بنتيجة 7-6 (5) و6-4 بعدما فجر الأخير مفاجأة أمام ألكاراز يوم الاثنين. وقلب الإسباني الواعد رافاييل خودار (19 عاما) تأخره أمام بوتيك فان دي زاندشولب إلى فوز 6-7 (4) و6-4 و6-2. وتأهل كاسبر رود إثر انسحاب فيليكس أوجيه-ألياسيم وهو متأخر 2-5 في المجموعة الأولى.",
+        "اكتملت مواجهات ربع النهائي: زفيريف ضد دي مينور، وجيا ضد دافيدوفيتش فوكينا، وبول ضد رود، وميدفيديف ضد خودار. ضمن زفيريف إنهاء العام في صدارة التصنيف العالمي، بينما يغيب سينر حتى نهاية الموسم.",
+      ],
+    },
+  },
+  'nfl-week6-tnf-preview-broncos-seahawks-lumen-2026': {
+    fr: {
+      title: "NFL Semaine 6 : les Broncos chez les Seahawks au Lumen Field pour le Thursday Night Football",
+      subtitle: "Seattle affiche un bilan de 4-1. La semaine 5 s'est achevee sur le succes 37-34 des Bills en prolongation au SoFi.",
+      excerpt: "Prime Video diffuse le match jeudi a 20 h 15 ET. Les Bills ont battu les Rams 37-34 en prolongation. Vikings et 49ers restent a 5-0.",
+      body: [
+        "La 6e semaine de la saison NFL 2026 s'ouvre jeudi 15 octobre au Lumen Field de Seattle. Les Seahawks recoivent les Broncos de Denver sur Amazon Prime Video a 20 h 15 ET (17 h 15 PT).",
+        "Seattle aborde la rencontre a 4-1 apres ses succes face aux Patriots (13-10), aux Cardinals (31-7) et aux Chargers (30-23). Denver se presente a 2-3 apres des revers contre les Chiefs (31-10) et les 49ers (24-14). Les rapports d'entrainement de mercredi preparent un choc intense devant le public bruyant de Seattle.",
+        "La semaine 5 s'est terminee lundi au SoFi Stadium par la victoire des Bills de Buffalo sur les Rams de Los Angeles 37-34 en prolongation. Tyler Bass a converti le coup de pied de 45 yards decisif a 1:55 de la fin. Trois equipes restent invaincues : les Vikings (5-0), les 49ers (5-0) et les Chiefs (4-0, au repos en semaine 5). Les Ravens sont a 4-1 apres leur succes a Atlanta.",
+      ],
+    },
+    es: {
+      title: "NFL Semana 6: los Broncos visitan a los Seahawks en Lumen Field en el Thursday Night Football",
+      subtitle: "Seattle llega 4-1 tras un arranque solido. La semana 5 cerro con el triunfo 37-34 en la prorroga de Bills en SoFi.",
+      excerpt: "Prime Video transmite el jueves a las 20:15 ET. Bills vencieron a Rams 37-34 en OT. Vikings y 49ers marchan 5-0.",
+      body: [
+        "La semana 6 de la temporada NFL 2026 arranca este jueves 15 de octubre en el Lumen Field de Seattle. Los Seahawks reciben a los Denver Broncos en Amazon Prime Video a las 20:15 ET (17:15 PT).",
+        "Seattle llega con marca de 4-1 tras victorias sobre Patriots (13-10), Cardinals (31-7) y Chargers (30-23). Denver acude con balance de 2-3 tras caer ante Chiefs (31-10) y 49ers (24-14). Los informes de lesionados del miercoles apuntan a un duelo muy disputado.",
+        "La semana 5 concluyo el lunes en el SoFi Stadium con el triunfo de los Bills de Buffalo 37-34 en la prorroga sobre los Rams. Tyler Bass anoto el gol de campo ganador de 45 yardas a falta de 1:55. Tres equipos siguen invictos: Vikings (5-0), 49ers (5-0) y Chiefs (4-0 tras su descanso). Los Ravens estan 4-1 tras vencer a los Falcons.",
+      ],
+    },
+    de: {
+      title: "NFL Woche 6: Broncos gastieren bei den Seahawks im Lumen Field zum Thursday Night Football",
+      subtitle: "Seattle steht bei 4-1 nach starkem Saisonstart. Woche 5 endete mit Buffalos 37:34-Krimi nach Verlangerung im SoFi.",
+      excerpt: "Prime Video ubertragt am Donnerstag um 20:15 ET. Bills schlugen Rams 37:34 in OT. Vikings und 49ers stehen 5-0.",
+      body: [
+        "Woche 6 der NFL-Saison 2026 beginnt am Donnerstag, 15. Oktober, im Lumen Field in Seattle. Die Seahawks empfangen die Denver Broncos auf Amazon Prime Video um 20:15 ET (17:15 PT).",
+        "Seattle geht mit einer 4-1-Bilanz nach Siegen uber die Patriots (13:10), Cardinals (31:7) und Chargers (30:23) ins Spiel. Denver steht bei 2-3 nach Niederlagen gegen die Chiefs (31:10) und 49ers (24:14). Die Trainingsberichte vom Mittwoch zeigen beide Teams fokussiert auf ein physisches Duell.",
+        "Woche 5 schloss am Montag im SoFi Stadium mit einem 37:34-Overtime-Sieg der Buffalo Bills uber die Los Angeles Rams ab. Tyler Bass traf das entscheidende 45-Yard-Field-Goal 1:55 vor Schluss. Drei Teams sind ungeschlagen: Vikings (5-0), 49ers (5-0) und Chiefs (4-0 nach der Bye-Week). Die Ravens stehen bei 4-1.",
+      ],
+    },
+    it: {
+      title: "NFL Week 6: i Broncos fanno visita ai Seahawks al Lumen Field nel Thursday Night Football",
+      subtitle: "Seattle e sul 4-1 dopo un ottimo avvio. La week 5 si e chiusa con il 37-34 all'overtime dei Bills al SoFi.",
+      excerpt: "Prime Video trasmette giovedi alle 20:15 ET. I Bills hanno superato i Rams 37-34 in OT. Vikings e 49ers sono sul 5-0.",
+      body: [
+        "La settimana 6 della stagione NFL 2026 comincia giovedi 15 ottobre al Lumen Field di Seattle. I Seahawks ospitano i Denver Broncos su Amazon Prime Video alle 20:15 ET (17:15 PT).",
+        "Seattle si presenta sul 4-1 dopo i successi su Patriots (13-10), Cardinals (31-7) e Chargers (30-23). Denver e sul 2-3 dopo le sconfitte contro Chiefs (31-10) e 49ers (24-14). I report medici del mercoledi delineano una sfida ad alta intensita.",
+        "La settimana 5 si e conclusa lunedi al SoFi Stadium con la vittoria dei Buffalo Bills sui Los Angeles Rams per 37-34 all'overtime. Tyler Bass ha siglato il field goal decisivo da 45 yard a 1:55 dal termine. Restano tre imbattute: Vikings (5-0), 49ers (5-0) e Chiefs (4-0, reduci dal turno di riposo). I Ravens sono 4-1.",
+      ],
+    },
+    pl: {
+      title: "NFL Tydzien 6: Broncos graja z Seahawks na Lumen Field w Thursday Night Football",
+      subtitle: "Seattle ma bilans 4-1 po udanym starcie. Tydzien 5 zamknal triumf Bills 37-34 po dogrywce na SoFi.",
+      excerpt: "Prime Video transmituje mecz w czwartek o 20:15 ET. Bills pokonali Rams 37-34 w dogrywce. Vikings i 49ers maja bilans 5-0.",
+      body: [
+        "Tydzien 6 sezonu NFL 2026 rusza w czwartek 15 pazdziernika na stadionie Lumen Field w Seattle. Seahawks podejmuja Denver Broncos na Amazon Prime Video o 20:15 ET (17:15 PT).",
+        "Seattle przystepuje do rywalizacji z bilansem 4-1 po wygranych z Patriots (13-10), Cardinals (31-7) i Chargers (30-23). Denver ma bilans 2-3 po porazkach z Chiefs (31-10) i 49ers (24-14). Srodowe raporty treningowe zapowiadaja zacieta walke.",
+        "Tydzien 5 zakonczyl sie w poniedzialek na SoFi Stadium wygrana Buffalo Bills nad Los Angeles Rams 37-34 po dogrywce. Tyler Bass trafil zwycieskiego field goala z 45 jardow na 1:55 przed koncem. Niepokonane pozostaja trzy ekipy: Vikings (5-0), 49ers (5-0) i Chiefs (4-0 po pauzie). Ravens maja bilans 4-1.",
+      ],
+    },
+    zh: {
+      title: "NFL第6周前瞻：野马周四夜赛客战海鹰，决战流明球场",
+      subtitle: "西雅图战绩4胜1负势头强劲。第5周在比尔加时37-34力克公羊后收官。",
+      excerpt: "Prime Video将于美东周四20:15直播。比尔加时37-34击败公羊。维京人与49人保持5-0不败金身。",
+      body: [
+        "2026赛季NFL第6周将于10月15日周四在西雅图流明球场打响。西雅图海鹰在Amazon Prime Video主场迎战丹佛野马，开球时间为美东20:15（太平洋时间17:15）。",
+        "西雅图在先后击败爱国者（13-10）、红雀（31-7）和闪电（30-23）后取得4胜1负。野马在负于酋长（31-10）和49人（24-14）后战绩为2胜3负。周三的训练报告显示两队均已做好高强度碰撞的准备。",
+        "第5周周一夜赛在SoFi体育场落幕，布法罗比尔加时37-34击败洛杉矶公羊。泰勒·巴斯在加时赛还剩1分55秒时命中45码绝杀任意球。联盟目前仅剩三支不败球队：维京人（5-0）、49人（5-0）以及轮空归来的酋长（4-0）。乌鸦在加时力克猎鹰后战绩来到4-1。",
+      ],
+    },
+    ja: {
+      title: "NFL第6週：木曜ナイトゲームでブロンコスがシーホークスの本拠地ルーメン・フィールドに乗り込む",
+      subtitle: "シアトルは開幕4勝1敗と好調。第5週はビルズがSoFiで延長37-34の激闘を制して幕。",
+      excerpt: "Prime Videoが木曜米東部20:15に中継。ビルズが延長37-34でラムズに勝利。バイキングスと49ersは5勝0敗を維持。",
+      body: [
+        "NFL2026年シーズンの第6週が10月15日木曜、シアトルのルーメン・フィールドで幕を開ける。シアトル・シーホークスがAmazon Prime Videoでデンバー・ブロンコスを迎え撃つ。キックオフは米東部20:15（太平洋17:15）。",
+        "シアトルはペイトリオッツ（13-10）、カージナルス（31-7）、チャージャーズ（30-23）を下して4勝1敗。ブロンコスはチーフス（31-10）と49ers（24-14）に敗れて2勝3敗。水曜の練習レポートでは両軍ともにフィジカルな戦いを見据える。",
+        "第5週は月曜にSoFiスタジアムでビルズがラムズを延長37-34で下して終了。タイラー・バスが残り1分55秒で45ヤードの決勝FGを決めた。全勝はバイキングス（5勝0敗）、49ers（5勝0敗）、バイ明けのチーフス（4勝0敗）の3チーム。レイブンズは4勝1敗。",
+      ],
+    },
+    ko: {
+      title: "NFL 6주차 프리뷰: 목요일 밤 시애틀 루멘 필드에서 브롱코스 vs 시호크스 격돌",
+      subtitle: "시애틀은 4승 1패로 순항 중이다. 5주차는 빌스가 연장 끝에 램스를 37-34로 꺾고 마무리되었다.",
+      excerpt: "Prime Video가 목요일 미 동부 20:15에 생중계한다. 빌스는 연장 37-34로 승리했다. 바이킹스와 49ers는 5승 무패 행진.",
+      body: [
+        "2026 NFL 6주차가 10월 15일 목요일 시애틀 루멘 필드에서 막을 올린다. 시애틀 시호크스가 Amazon Prime Video를 통해 덴버 브롱코스를 홈으로 불러들인다. 킥오프는 미 동부 20:15(태평양 17:15)다.",
+        "시애틀은 패트리어츠(13-10), 카디널스(31-7), 차지스(30-23)를 꺾고 4승 1패를 기록 중이다. 덴버는 치프스(31-10), 49ers(24-14)에 패하며 2승 3패를 기록하고 있다. 수요일 부상 리포트에 따르면 양 팀 모두 총력전을 준비하고 있다.",
+        "5주차는 월요일 SoFi 스타디움에서 버펄로 빌스가 LA 램스를 연장 접전 끝에 37-34로 꺾고 마무리되었다. 타일러 바스가 1분 55초를 남기고 45야드 결승 필드골을 성공시켰다. 무패 팀은 바이킹스(5-0), 49ers(5-0), 휴식기를 마친 치프스(4-0) 3팀이다. 레이븐스는 4승 1패다.",
+      ],
+    },
+    ar: {
+      title: "دوري كرة القدم الأمريكية الأسبوع 6: برونكوز يحل ضيفا على سيهوكس في لومن فيلد ليلة الخميس",
+      subtitle: "سياتل يدخل برصيد 4-1. الأسبوع 5 اختتم بفوز بيلز المثير 37-34 بالتمديد في ملعب SoFi.",
+      excerpt: "برايم فيديو تنقل المباراة الخميس عند 20:15 بتوقيت شرق أمريكا. بيلز هزم رامز 37-34 في الوقت الإضافي. فايكنغز و49ers برصيد 5-0.",
+      body: [
+        "ينطلق الأسبوع السادس من موسم 2026 لدوري NFL يوم الخميس 15 أكتوبر في ملعب لومن فيلد بسياتل. يستضيف سياتل سيهوكس نظيره دنفر برونكوز عبر أمازون برايم فيديو عند 20:15 بتوقيت شرق أمريكا (17:15 بتوقيت المحيط الهادئ).",
+        "يدخل سياتل اللقاء برصيد 4-1 بعد انتصارات على باتريوتس (13-10) وكاردينالز (31-7) وتشارلجرز (30-23). ويصل برونكوز بسجل 2-3 بعد خسارتين أمام تشيفس (31-10) و49ers (24-14). كشفت تقارير تدريبات الأربعاء عن استعداد بدني كبير لكلا الفريقين.",
+        "اختتم الأسبوع الخامس ليلة الاثنين في ملعب SoFi بفوز بافالو بيلز على لوس أنجلوس رامز 37-34 بالتمديد. سجل تايلر باس هدف الميدان الحاسم من 45 ياردة قبل 1:55 من النهاية. تبقى ثلاثة فرق بلا هزيمة: فايكنغز (5-0) و49ers (5-0) وتشيفس (4-0 بعد أسبوع الراحة). ريفنز برصيد 4-1.",
+      ],
+    },
+  },
+  'premier-league-mw7-preview-city-flawless-arsenal-chase-2026': {
+    fr: {
+      title: "Premier League : Manchester City compte trois points d'avance avant la 7e journee",
+      subtitle: "City affiche un parfait 6-0-0 et 18 points. Arsenal suit a trois longueurs. Coventry a conclu la 6e journee en battant Newcastle 4-1.",
+      excerpt: "Le classement de Premier League confirme City avec 18 points, Arsenal a 15 et Brighton a 13. La 7e journee demarre samedi 17 octobre.",
+      body: [
+        "Manchester City mene la Premier League avec un sans-faute de 18 points en six matches (6-0-0, 16 buts pour, 5 contre). Les hommes de Pep Guardiola possedent trois points d'avance sur Arsenal (15 points, 5-0-1) apres leur demonstration 3-0 a Anfield dimanche face a Liverpool.",
+        "Brighton occupe la troisieme place avec 13 points (4-1-1, 18 buts marques). Brentford, Everton et Chelsea suivent avec 10 points chacun. Liverpool est neuvieme avec 9 points, a egalite avec Leeds et Hull. Tottenham Hotspur reste en zone rouge au 19e rang avec 3 points, devant Fulham (2 points).",
+        "La 6e journee s'est terminee lundi a la Coventry Building Society Arena. Coventry City a surclasse Newcastle United 4-1 grace a Jack Rudoni (pen.), Sidiki Cherif, Sven Botman, Ellis Simms et Stephen Mfuni. Frank Lampard a offert au club son premier succes a domicile dans l'elite depuis 25 ans, hissant Coventry au 14e rang avec 6 points. Le championnat reprend samedi 17 octobre.",
+      ],
+    },
+    es: {
+      title: "Premier League: Manchester City aventaja en tres puntos antes de la jornada 7",
+      subtitle: "City lidera 6-0-0 con 18 puntos. Arsenal le sigue a tres unidades. El 4-1 de Coventry a Newcastle cerro la jornada 6.",
+      excerpt: "La tabla de la Premier League ratifica al City con 18 puntos, Arsenal con 15 y Brighton con 13. La jornada 7 arranca el sabado 17 de octubre.",
+      body: [
+        "El Manchester City comanda la Premier League con pleno de 18 puntos en seis encuentros (6-0-0, 16 goles a favor, 5 en contra). El equipo de Pep Guardiola mantiene tres puntos de renta sobre el Arsenal (15 puntos, 5-0-1) tras vencer 3-0 al Liverpool en Anfield el domingo.",
+        "El Brighton es tercero con 13 puntos (4-1-1, 18 goles anotados). Brentford, Everton y Chelsea se colocan cuarto, quinto y sexto con 10 unidades cada uno. El Liverpool marcha noveno con 9 puntos, empatado con Leeds y Hull. El Tottenham Hotspur sigue en zona de descenso en la 19ª plaza con 3 puntos, con Fulham en el fondo con 2.",
+        "La jornada 6 concluyo el lunes en el Coventry Building Society Arena. El Coventry City derroto al Newcastle United 4-1 con tantos de Jack Rudoni (penalti), Sidiki Cherif, Sven Botman, Ellis Simms y Stephen Mfuni. Con Frank Lampard, el Coventry sumo su primer triunfo liguero en casa en 25 anos y subio al 14º lugar con 6 puntos. La liga regresa el sabado 17 de octubre.",
+      ],
+    },
+    de: {
+      title: "Premier League: Manchester City fuhrt vor Spieltag 7 mit drei Punkten Vorsprung",
+      subtitle: "City steht makellos bei 6-0-0 und 18 Punkten. Arsenal folgt mit 15. Coventrys 4:1 uber Newcastle beendete Spieltag 6.",
+      excerpt: "Die Tabelle bestatigt City mit 18 Punkten, Arsenal mit 15 und Brighton mit 13. Spieltag 7 beginnt am Samstag, 17. Oktober.",
+      body: [
+        "Manchester City thront an der Spitze der Premier League mit perfekten 18 Punkten aus sechs Spielen (6-0-0, 16:5 Tore). Das Team von Pep Guardiola halt drei Zahler Vorsprung auf Arsenal (15 Punkte, 5-0-1) nach dem souveranen 3:0-Erfolg beim FC Liverpool an der Anfield Road.",
+        "Brighton belegt mit 13 Punkten (4-1-1, 18 Tore) Rang drei. Dahinter folgen Brentford, Everton und Chelsea mit jeweils 10 Punkten. Liverpool ist mit 9 Zahlern Neunter, punktgleich mit Leeds und Hull. Tottenham Hotspur bleibt auf Abstiegsplatz 19 mit 3 Punkten, Fulham ist Letzter mit 2 Punkten.",
+        "Spieltag 6 ging am Montag in der Coventry Building Society Arena zu Ende. Coventry City bezwang Newcastle United 4:1 durch Tore von Jack Rudoni (Elfmeter), Sidiki Cherif, Sven Botman, Ellis Simms und Stephen Mfuni. Unter Frank Lampard gelang Coventry der erste Heimsieg in der Premier League seit 25 Jahren. Am Samstag, 17. Oktober, geht die Liga weiter.",
+      ],
+    },
+    it: {
+      title: "Premier League: il Manchester City guida con tre punti di vantaggio prima della 7ª giornata",
+      subtitle: "City perfetto a quota 18 punti (6-0-0). L'Arsenal insegue a 15. Il 4-1 del Coventry sul Newcastle ha chiuso il 6° turno.",
+      excerpt: "La classifica di Premier League conferma il City a 18 punti, l'Arsenal a 15 e il Brighton a 13. La 7ª giornata scatta sabato 17 ottobre.",
+      body: [
+        "Il Manchester City comanda la classifica di Premier League con 18 punti pieni in sei turni (6-0-0, 16 gol fatti e 5 subiti). Gli uomini di Pep Guardiola mantengono tre lunghezze sull'Arsenal (15 punti, 5-0-1) dopo il netto 3-0 inflitto al Liverpool ad Anfield domenica.",
+        "Il Brighton e terzo a quota 13 punti (4-1-1, 18 reti realizzate). Brentford, Everton e Chelsea seguono a quota 10 punti ciascuno. Il Liverpool e nono con 9 punti, appaiato a Leeds e Hull. Il Tottenham Hotspur resta in zona retrocessione al 19° posto con 3 punti, Fulham fanalino di coda con 2.",
+        "La 6ª giornata si e chiusa lunedi alla Coventry Building Society Arena. Il Coventry City ha battuto il Newcastle United 4-1 con i gol di Jack Rudoni (rigore), Sidiki Cherif, Sven Botman, Ellis Simms e Stephen Mfuni. Con Frank Lampard in panchina il Coventry festeggia il primo successo interno nella massima serie dopo 25 anni e sale al 14° posto con 6 punti. Si riparte sabato 17 ottobre.",
+      ],
+    },
+    pl: {
+      title: "Premier League: Manchester City prowadzi z trzema punktami przewagi przed 7. kolejka",
+      subtitle: "City ma komplet 18 punktow (6-0-0). Arsenal traci trzy oczka. Wygrana Coventry 4-1 z Newcastle zamknela 6. kolejke.",
+      excerpt: "Tabela Premier League potwierdza City z 18 punktami, Arsenal z 15 i Brighton z 13. Kolejka 7 rusza w sobote 17 pazdziernika.",
+      body: [
+        "Manchester City prowadzi w tabeli Premier League z kompletem 18 punktow w szesciu meczach (6-0-0, bilans bramkowy 16-5). Zespol Pepa Guardioli ma trzy punkty przewagi nad Arsenalem (15 punktow, 5-0-1) po niedzielnym triumfie 3-0 nad Liverpoolem na Anfield.",
+        "Brighton zajmuje trzecie miejsce z 13 punktami (4-1-1, 18 zdobytych bramek). Brentford, Everton i Chelsea maja po 10 punktow. Liverpool jest dziewiaty z 9 punktami, na rowni z Leeds i Hull. Tottenham Hotspur tkwi w strefie spadkowej na 19. miejscu z 3 punktami, a Fulham ma 2 punkty.",
+        "Kolejka 6 zakonczyla sie w poniedzialek na Coventry Building Society Arena. Coventry City rozgromilo Newcastle United 4-1 po bramkach Jacka Rudoniego (karny), Sidikiego Cherifa, Svena Botmana, Ellisa Simmsa i Stephena Mfuniego. Dla Coventry to pierwsza domowa wygrana w elicie od 25 lat, dajaca 14. miejsce z 6 punktami. Liga wraca w sobote 17 pazdziernika.",
+      ],
+    },
+    zh: {
+      title: "英超积分榜：曼城手握3分优势进入第7周角逐",
+      subtitle: "蓝月亮6战全胜积18分领跑。阿森纳积15分紧追。考文垂4-1胜纽卡收官第6轮。",
+      excerpt: "英超官方积分榜确认曼城积18分、阿森纳15分、布莱顿13分。第7轮比赛将于10月17日周六重燃战火。",
+      body: [
+        "曼城以开季六连胜积18分的完美战绩领跑英超积分榜（进16球失5球）。瓜迪奥拉的球队周日在安菲尔德3-0完胜利物浦后，对排名第二的阿森纳（5胜1负积15分）保持3分领先优势。",
+        "布莱顿以13分（4胜1平1负，打进18球）位列第三。布伦特福德、埃弗顿和切尔西同积10分紧随其后。利物浦积9分位列第九，与利兹联、赫尔城持平。托特纳姆热刺以3分深陷降级区第19位，富勒姆积2分垫底。",
+        "第6轮最后一场较量周一在考文垂协会球场收兵。考文垂主场4-1大胜纽卡斯尔联，鲁多尼点球破门，谢里夫、博特曼、西姆斯与姆富尼各入一球。兰帕德率领考文垂取得25年来英超主场首胜，积6分升至第14位。英超联赛将于10月17日周六继续进行。",
+      ],
+    },
+    ja: {
+      title: "プレミアリーグ：首位マンチェスター・シティが勝ち点3差で第7節へ",
+      subtitle: "シティは6勝0敗で勝ち点18。アーセナルが15で追う。コベントリーのニューカッスル戦4-1で第6節終了。",
+      excerpt: "プレミアリーグ順位表：シティ18点、アーセナル15点、ブライトン13点。第7節は10月17日土曜に開幕。",
+      body: [
+        "マンチェスター・シティが開幕6連勝の勝ち点18（得点16、失点5）でプレミアリーグ首位を独走する。日曜にアンフィールドでリバプールを3-0で下し、2位アーセナル（5勝1敗、勝ち点15）に3ポイント差をつけている。",
+        "ブライトンが勝ち点13（4勝1分1敗、18得点）で3位につける。ブレントフォード、エバートン、チェルシーがそれぞれ10点で続く。リバプールは勝ち点9の9位で、リーズやハルと並ぶ。トッテナムは勝ち点3の19位で降格圏、フラムが勝ち点2の最下位。",
+        "第6節は月曜にコベントリー・ビルディング・ソサエティ・アリーナで終了。コベントリーがジャック・ルドーニ（PK）、シディキ・チェリフ、スベン・ボトマン、エリス・シムズ、スティーブン・ムフニのゴールでニューカッスルを4-1で粉砕。ランパード監督のもと25年ぶりのトップリーグ本拠地白星を挙げ勝ち点6の14位に浮上した。第7節は10月17日土曜に再開する。",
+      ],
+    },
+    ko: {
+      title: "프리미어리그: 맨체스터 시티, 승점 3점 차 선두로 7라운드 맞이",
+      subtitle: "맨시티 6전 전승 승점 18점 질주. 아스널 승점 15점으로 추격. 코번트리 4-1 뉴캐슬전으로 6라운드 마감.",
+      excerpt: "프리미어리그 공식 순위표: 맨시티 18점, 아스널 15점, 브라이턴 13점. 7라운드는 10월 17일 토요일 재개된다.",
+      body: [
+        "맨체스터 시티가 개막 6연승, 승점 18점(16득점 5실점)으로 프리미어리그 선두를 질주하고 있다. 펩 과르디올라 감독의 맨시티는 일요일 안필드에서 리버풀을 3-0으로 완파하고 2위 아스널(5승 1패, 승점 15점)과의 격차를 3점으로 유지했다.",
+        "브라이턴이 승점 13점(4승 1무 1패, 18득점)으로 3위에 올라 있다. 브렌트퍼드, 에버턴, 첼시가 나란히 승점 10점으로 그 뒤를 잇는다. 리버풀은 승점 9점으로 리즈, 헐 시티와 함께 공동 9위다. 토트넘 홋스퍼는 승점 3점으로 강등권인 19위에 머물러 있고, 풀럼이 승점 2점으로 최하위다.",
+        "6라운드는 월요일 코번트리 빌딩 소사이어티 아레나에서 막을 내렸다. 코번트리 시티가 루도니(페널티킥), 셰리프, 보트만, 심스, 음푸니의 연속골로 뉴캐슬 유나이티드를 4-1로 대파했다. 프랭크 램파드 감독 지휘 아래 25년 만의 1부리그 홈 승리를 따내며 승점 6점의 14위로 뛰어올랐다. 리그는 10월 17일 토요일 재개된다.",
+      ],
+    },
+    ar: {
+      title: "الدوري الإنجليزي الممتاز: مانشستر سيتي يتصدر بفارق ثلاث نقاط قبل الجولة 7",
+      subtitle: "سيتي يملك 18 نقطة من 6 انتصارات. أرسنال يلاحقه بـ15. فوز كوفنتري 4-1 على نيوكاسل اختتم الجولة 6.",
+      excerpt: "جدول ترتيب الدوري الإنجليزي يؤكد تصدر سيتي بـ18 نقطة وأرسنال بـ15 وبرايتون بـ13. تنطلق الجولة 7 السبت 17 أكتوبر.",
+      body: [
+        "يتصدر مانشستر سيتي جدول ترتيب الدوري الإنجليزي الممتاز بالعلامة الكاملة بـ18 نقطة من ست مباريات (6-0-0، سجل 16 واستقبل 5). وحافظ فريق بيب غوارديولا على فارق الثلاث نقاط أمام أرسنال (15 نقطة، 5-0-1) بعد فوزه العريض 3-0 على ليفربول في أنفيلد يوم الأحد.",
+        "يحتل برايتون المركز الثالث برصيد 13 نقطة (4-1-1، سجل 18 هدفا). يليه برينتفورد وإيفرتون وتشيلسي بـ10 نقاط لكل منهم. ويأتي ليفربول تاسعا برصيد 9 نقاط متساويا مع ليدز وهال. يقبع توتنهام هوتسبير في منطقة الهبوط بالمركز 19 برصيد 3 نقاط وفولهام في القاع بنقطتين.",
+        "اكتملت الجولة السادسة ليلة الاثنين في ملعب كوفنتري، حيث تغلب كوفنتري سيتي على نيوكاسل يونايتد 4-1 بأهداف جاك رودوني (ضربة جزاء)، وسيديكي شريف، وسفين بوتمان، وإليس سيمز، وستيفن مفوني. منح فرانك لامبارد الفريق فوزه الأول بالدوري الممتاز على ملعبه منذ 25 عاما ليرتقي للمركز 14 برصيد 6 نقاط. تستأنف المباريات يوم السبت 17 أكتوبر.",
+      ],
+    },
+  },
+  'wnba-finals-2026-tactical-preview-dream-valkyries': {
+    fr: {
+      title: "Finales WNBA 2026 : a trois jours du match 1 entre Dream et Valkyries au Chase Center",
+      subtitle: "Golden State accueille Atlanta samedi 17 octobre sur NBC. Les deux finalistes se sont qualifies sur un sweep 3-0.",
+      excerpt: "Le match 1 des finales WNBA a lieu samedi au Chase Center a San Francisco. L'equipe d'expansion des Valkyries defie le Dream apres deux demi-finales bouclees 3-0.",
+      body: [
+        "Les finales WNBA 2026 debutent samedi 17 octobre au Chase Center de San Francisco. Le match 1 sera diffuse sur NBC et Peacock avec un coup d'envoi a 15 h 30 ET (12 h 30 PT).",
+        "Les Golden State Valkyries possedent l'avantage du terrain en tant que tete de serie numero 2 et accueilleront les matches 1 et 2. Le match 2 aura lieu lundi 19 octobre a 20 h ET. La serie se deplacera ensuite au Gateway Center Arena d'Atlanta pour le match 3 le jeudi 22 octobre et le match 4 eventuel le dimanche 25 octobre.",
+        "Les deux equipes ont valide leur billet sur un score parfait de 3-0 en demi-finales : le Dream a elimine le Liberty, tenant du titre, 85-83 grace a 22 points d'Angel Reese pour sa premiere finale depuis 2013 ; les Valkyries ont battu les Aces 87-77 en prolongation pour devenir la premiere equipe d'expansion a atteindre la finale lors de sa saison inaugurale.",
+      ],
+    },
+    es: {
+      title: "Finales WNBA 2026: a tres dias del Juego 1 entre Dream y Valkyries en el Chase Center",
+      subtitle: "Golden State recibe a Atlanta el sabado 17 de octubre en NBC. Ambas finalistas barrieron sus series 3-0.",
+      excerpt: "El Juego 1 de las Finales de la WNBA se disputa el sabado en San Francisco. La franquicia debutante Valkyries reta al Dream tras dos barridas en semifinales.",
+      body: [
+        "Las Finales WNBA 2026 se ponen en marcha el sabado 17 de octubre en el Chase Center de San Francisco. El Juego 1 se emitira por NBC y Peacock a partir de las 15:30 ET (12:30 PT).",
+        "Las Golden State Valkyries tienen la ventaja de localia como segunda cabeza de serie y organizaran los Juegos 1 y 2. El Juego 2 esta fijado para el lunes 19 de octubre a las 20:00 ET. La serie viajara al Gateway Center Arena de College Park para el Juego 3 el jueves 22 de octubre.",
+        "Ambos conjuntos sellaron su pase con barridas 3-0 en semifinales: el Dream apeo a las campeonas defensoras Liberty 85-83 con 22 puntos de Angel Reese, regresando a la final por primera vez desde 2013 ; las Valkyries superaron a las Aces 87-77 en la prorroga para ser la primera franquicia debutante en alcanzar las Finales en su temporada de estreno.",
+      ],
+    },
+    de: {
+      title: "WNBA Finals 2026: Drei Tage bis zu Spiel 1 zwischen Dream und Valkyries im Chase Center",
+      subtitle: "Golden State empfangt Atlanta am Samstag, 17. Oktober, auf NBC. Beide Teams schafften 3:0-Sweeps.",
+      excerpt: "Spiel 1 der WNBA Finals steigt am Samstag im Chase Center in San Francisco. Das Expansion-Team der Valkyries trifft nach dominanten Halbfinals auf Dream.",
+      body: [
+        "Die WNBA Finals 2026 beginnen am Samstag, 17. Oktober, im Chase Center in San Francisco. Spiel 1 wird auf NBC und Peacock um 15:30 ET (12:30 PT) ubertragen.",
+        "Die Golden State Valkyries geniessen als Nummer 2 der Setzliste Heimrecht und richten Spiel 1 und 2 aus. Spiel 2 folgt am Montag, 19. Oktober, um 20:00 ET. Danach wechselt die Serie fur Spiel 3 am Donnerstag, 22. Oktober, nach Atlanta in die Gateway Center Arena.",
+        "Beide Finalisten marschierten mit einem 3:0-Sweep durchs Halbfinale: Atlanta Dream bezwang Titelverteidiger New York Liberty mit 85:83 dank 22 Punkten von Angel Reese und steht erstmals seit 2013 im Finale. Die Valkyries bezwangen die Aces 87:77 nach Verlangerung und sind das erste Expansion-Team uberhaupt, das in seiner Debut-Saison das Finale erreicht.",
+      ],
+    },
+    it: {
+      title: "Finali WNBA 2026: mancano tre giorni a gara 1 tra Dream e Valkyries al Chase Center",
+      subtitle: "Golden State ospita Atlanta sabato 17 ottobre su NBC. Entrambe hanno dominato le semifinali per 3-0.",
+      excerpt: "Gara 1 delle finali WNBA e in programma sabato al Chase Center di San Francisco. Le debuttanti Valkyries sfidano il Dream.",
+      body: [
+        "Le finali WNBA 2026 prendono il via sabato 17 ottobre al Chase Center di San Francisco. Gara 1 sara trasmessa su NBC e Peacock alle 15:30 ET (12:30 PT).",
+        "Le Golden State Valkyries godono del fattore campo come testa di serie numero 2 e ospiteranno gara 1 e gara 2. Gara 2 si giochera lunedi 19 ottobre alle 20:00 ET. La serie si spostera poi alla Gateway Center Arena di Atlanta per gara 3 giovedi 22 ottobre.",
+        "Entrambe le finaliste hanno superato le semifinali con un netto 3-0: il Dream ha estromesso le campionesse in carica delle Liberty 85-83 con 22 punti di Angel Reese, tornando all'atto conclusivo per la prima volta dal 2013; le Valkyries hanno piegato le Aces 87-77 dopo un tempo supplementare, diventando la prima squadra d'espansione a raggiungere le Finals al debutto.",
+      ],
+    },
+    pl: {
+      title: "Finaly WNBA 2026: trzy dni do meczu 1 miedzy Dream i Valkyries w Chase Center",
+      subtitle: "Golden State podejmuje Atlante w sobote 17 pazdziernika w NBC. Obie ekipy wygraly polfinaly 3-0.",
+      excerpt: "Mecz 1 finalow WNBA odbedzie sie w sobote w Chase Center w San Francisco. Debiutujace Valkyries zmierza sie z Dream.",
+      body: [
+        "Finaly WNBA 2026 rozpoczna sie w sobote 17 pazdziernika w hali Chase Center w San Francisco. Mecz 1 pokaze stacja NBC i platforma Peacock o 15:30 ET (12:30 PT).",
+        "Golden State Valkyries posiadaja przewage parkietu jako rozstawione z numerem 2 i zorganizuja mecze 1 i 2. Mecz 2 zaplanowano na poniedzialek 19 pazdziernika o 20:00 ET. Nastepnie seria przeniesie sie do Gateway Center Arena w Atlancie na mecz 3 w czwartek 22 pazdziernika.",
+        "Oba zespoly awansowaly po gladkich zwyciestwach 3-0 w polfinalach: Atlanta Dream wyeliminowala broniace tytulu New York Liberty 85-83 dzieki 22 punktom Angel Reese, meldujac sie w finale pierwszy raz od 2013 roku. Valkyries pokonaly Aces 87-77 po dogrywce, stajac sie pierwszym zespolem w historii, ktory dotarl do finalu w swoim pierwszym sezonie.",
+      ],
+    },
+    zh: {
+      title: "2026年WNBA总决赛：女武神与梦想大通中心G1决战倒计时三天",
+      subtitle: "金州将于10月17日周六主场迎战亚特兰大，NBC全美直播。两队均以半决赛3-0横扫晋级。",
+      excerpt: "WNBA总决赛G1将于周六在旧金山大通中心开打。新军女武神与亚特兰大梦想在双双横扫半决赛后会师总决赛。",
+      body: [
+        "2026年WNBA总决赛将于10月17日周六在旧金山大通中心打响。总决赛第一场将于美东时间15:30（太平洋时间12:30）由NBC与Peacock联合直播。",
+        "金州女武神作为2号种子手握主场优势，将承办G1和G2。第二场比赛定于10月19日周一美东20:00举行。系列赛随后将于10月22日周四移师佐治亚州大学公园市的网关中心球馆进行G3。",
+        "两支晋级队伍在半决赛均展现统治力以3-0横扫晋级：亚特兰大梦想凭借安吉尔·里斯砍下22分在客场以85-83淘汰卫冕冠军纽约自由人，自2013年以来首次重返总决赛舞台；金州女武神则在加时赛以87-77力克拉斯维加斯王牌，成为WNBA历史上首支在建队处子赛季即闯入总决赛的扩张球队。",
+      ],
+    },
+    ja: {
+      title: "WNBAファイナル2026：ドリーム対ヴァルキリーズ第1戦まであと3日",
+      subtitle: "ゴールデンステートが10月17日土曜にNBC全米生中継でアトランタを迎える。両チーム準決勝3-0スイープ。",
+      excerpt: "WNBAファイナル第1戦は土曜にサンフランシスコのチェイス・センターで開幕。新規参入のヴァルキリーズがドリームと激突。",
+      body: [
+        "2026年WNBAファイナルが10月17日土曜、サンフランシスコのチェイス・センターで幕を開ける。第1戦はNBCとPeacockで米東部15:30（太平洋12:30）にティップオフ。",
+        "第2シードのゴールデンステート・ヴァルキリーズがホームコートアドバンテージを持ち、第1戦と第2戦を主催する。第2戦は10月19日月曜米東部20:00。シリーズはその後アトランタのゲートウェイ・センター・アリーナに移り、第3戦が10月22日木曜に行われる。",
+        "両軍とも準決勝を3勝0敗のスイープで突破した。アトランタ・ドリームはエンジェル・リースが22得点を挙げ前年度王者リバティを85-83で破り、2013年以来のファイナル進出を果たした。ヴァルキリーズはエイシズを延長87-77で退け、リーグ史上初めて創設初年度でファイナルに進出した拡張チームとなった。",
+      ],
+    },
+    ko: {
+      title: "WNBA 파이널 2026: 드림과 발키리스의 체이스 센터 1차전까지 D-3",
+      subtitle: "골든스테이트가 10월 17일 토요일 NBC를 통해 애틀랜타를 홈으로 불러들인다. 양 팀 준결승 3전 전승 스윕.",
+      excerpt: "WNBA 파이널 1차전이 토요일 샌프란시스코 체이스 센터에서 열린다. 신생팀 발키리스가 애틀랜타 드림과 챔피언 반지를 놓고 다툰다.",
+      body: [
+        "2026 WNBA 파이널이 10월 17일 토요일 샌프란시스코 체이스 센터에서 시작된다. 1차전은 미 동부 15:30(태평양 12:30)에 NBC와 Peacock을 통해 생중계된다.",
+        "2번 시드 골든스테이트 발키리스가 홈코트 어드밴티지를 확보해 1, 2차전을 주최한다. 2차전은 10월 19일 월요일 미 동부 20:00에 펼쳐진다. 3차전은 조지아주 칼리지파크의 게이트웨이 센터 아레나로 장소를 옮겨 10월 22일 목요일에 진행된다.",
+        "양 팀 모두 준결승에서 3-0 완승을 거두었다. 애틀랜타 드림은 엔젤 리스가 22점을 올리며 디펜딩 챔피언 뉴욕 리버티를 85-83으로 꺾고 2013년 이후 처음으로 파이널에 올랐다. 발키리스는 에이시스를 연장 87-77로 제압하며 창단 첫해 파이널에 오른 사상 최초의 신생팀이 되었다.",
+      ],
+    },
+    ar: {
+      title: "نهائيات WNBA 2026: ثلاثة أيام تفصل دريم وفالكيريز عن المباراة 1 في تشيس سنتر",
+      subtitle: "غولدن ستيت تستضيف أتلانتا السبت 17 أكتوبر عبر NBC بعد اكتساح الطرفين لنصف النهائي بنتيجة 3-0.",
+      excerpt: "تنطلق المباراة 1 من نهائيات دوري السيدات السبت في سان فرانسيسكو. فالكيريز الوافدة الجديدة تلتقي دريم بعد مسيرة مثالية.",
+      body: [
+        "تنطلق نهائيات WNBA لعام 2026 يوم السبت 17 أكتوبر في صالة تشيس سنتر بسان فرانسيسكو. ستبث المباراة 1 عبر NBC وPeacock ابتداء من 15:30 بتوقيت شرق أمريكا (12:30 بتوقيت المحيط الهادئ).",
+        "تمتلك غولدن ستيت فالكيريز ميزة الأرض بصفتها المصنفة الثانية وستستضيف المباراتين 1 و2. حددت المباراة 2 يوم الاثنين 19 أكتوبر عند 20:00 بتوقيت شرق أمريكا، قبل الانتقال إلى ملعب غيتواي سنتر في أتلانتا للمباراة 3 يوم الخميس 22 أكتوبر.",
+        "بلغ الفريقان النهائي بعد انتصارين نظيفين 3-0 في نصف النهائي: أطاح دريم بنيويورك ليبرتي حامل اللقب 85-83 بفضل 22 نقطة من أنجل ريس ليعود للنهائي للمرة الأولى منذ 2013؛ فيما تغلبت فالكيريز على إيسيس 87-77 بعد التمديد لتصبح أول فريق توسع في التاريخ يبلغ النهائي في موسمه الأول.",
+      ],
+    },
+  },
+  'f1-us-gp-austin-constructors-championship-stakes-2026': {
+    fr: {
+      title: "F1 Austin : Mercedes vise le titre des Constructeurs sur le Circuit des Ameriques",
+      subtitle: "Antonelli possede 102 points d'avance sur Russell. Mercedes devance Ferrari de 134 points avant le Texas.",
+      excerpt: "La Formule 1 se rend a Austin du 23 au 25 octobre pour le GP des Etats-Unis. Antonelli mene avec 340 points. Mercedes peut plier le championnat.",
+      body: [
+        "Le paddock de Formule 1 se prepare pour le Grand Prix des Etats-Unis sur le Circuit des Ameriques (COTA) du 23 au 25 octobre 2026. La course de 56 tours aura lieu dimanche 25 octobre a 15 h 00 heure locale (20 h 00 UTC).",
+        "Le trace de 5,513 km accueille la F1 depuis 2012. Le week-end d'Austin integre une course Sprint le samedi, offrant jusqu'a 34 points au total pour un pilote qui remporterait le Sprint et le Grand Prix avec le tour le plus rapide.",
+        "Au classement des pilotes, Kimi Antonelli domine avec 340 points devant son coequipier George Russell (238 points, 102 points d'ecart). Lewis Hamilton est troisieme pour Ferrari avec 229 points. Max Verstappen est quatrieme avec 221 points apres sa victoire a Singapour, devant Charles Leclerc (215 points). Chez les Constructeurs, Mercedes totalise 578 points contre 444 pour Ferrari et peut mathematiquement sceller le titre a Austin.",
+      ],
+    },
+    es: {
+      title: "F1 Austin: Mercedes apunta al titulo de Constructores en el Circuito de las Americas",
+      subtitle: "Antonelli comanda con 102 puntos sobre Russell. Mercedes supera a Ferrari por 134 unidades.",
+      excerpt: "La F1 viaja a Austin del 23 al 25 de octubre para el GP de Estados Unidos. Kimi Antonelli lidera con 340 puntos. Mercedes puede coronarse en Texas.",
+      body: [
+        "El paddock de la Formula 1 pone rumbo a Austin, Texas, para disputar el Gran Premio de Estados Unidos en el Circuito de las Americas (COTA) del 23 al 25 de octubre de 2026. La carrera a 56 vueltas se celebrara el domingo 25 de octubre a las 15:00 hora local (20:00 UTC).",
+        "La pista de 5,513 km acoge la F1 desde 2012. Austin contara con formato Sprint el sabado, repartiendo hasta 34 puntos como botin maximo del fin de semana.",
+        "En el campeonato de pilotos, Kimi Antonelli encabeza la tabla con 340 puntos por los 238 de George Russell (102 de diferencia). Lewis Hamilton marcha tercero para Ferrari con 229 puntos. Max Verstappen se situa cuarto con 221 tras ganar en Singapur, por delante de Charles Leclerc (215). En Constructores, Mercedes suma 578 puntos frente a los 444 de Ferrari y dispone de opcion matematica de coronarse en Texas.",
+      ],
+    },
+    de: {
+      title: "F1 Austin: Mercedes greift auf dem Circuit of the Americas nach dem Konstrukteurstitel",
+      subtitle: "Antonelli fuhrt mit 102 Punkten vor Russell. Mercedes liegt 134 Punkte vor Ferrari.",
+      excerpt: "Die Formel 1 gastiert vom 23. bis 25. Oktober beim US-Grand-Prix in Austin. Kimi Antonelli fuhrt mit 340 Punkten. Mercedes vor Titelentscheidung.",
+      body: [
+        "Der Formel-1-Zirkus reist nach Austin, Texas, zum Grossen Preis der USA auf dem Circuit of the Americas (COTA) vom 23. bis 25. Oktober 2026. Das Rennen uber 56 Runden startet am Sonntag, 25. Oktober, um 15:00 Uhr Ortszeit (20:00 Uhr UTC).",
+        "Die 5,513 km lange Strecke ist seit 2012 fester Bestandteil des Kalenders. In Austin findet ein Sprint-Wochenende statt, bei dem maximal 34 WM-Zahler fur einen Doppelsieg vergeben werden.",
+        "Kimi Antonelli fuhrt die Fahrer-Weltmeisterschaft mit 340 Punkten an. Teamkollege George Russell folgt mit 238 Punkten (102 Punkte Ruckstand). Lewis Hamilton ist Dritter fur Ferrari mit 229 Punkten. Max Verstappen liegt mit 221 Zahlern nach seinem Singapur-Triumph auf Rang vier, vor Charles Leclerc (215). Bei den Konstrukteuren fuhrt Mercedes mit 578 Punkten vor Ferrari (444) und kann den Titel in Texas vorzeitig perfekt machen.",
+      ],
+    },
+    it: {
+      title: "F1 Austin: Mercedes punta al titolo Costruttori al Circuit of the Americas",
+      subtitle: "Antonelli vanta 102 punti su Russell. Mercedes a +134 sulla Ferrari prima del Texas.",
+      excerpt: "La Formula 1 vola ad Austin dal 23 al 25 ottobre per il GP degli Stati Uniti. Kimi Antonelli guida a quota 340 punti. Mercedes verso il titolo.",
+      body: [
+        "Il circus della Formula 1 approda ad Austin, in Texas, per il Gran Premio degli Stati Uniti al Circuit of the Americas (COTA) dal 23 al 25 ottobre 2026. La gara di 56 giri scattera domenica 25 ottobre alle 15:00 locali (20:00 UTC).",
+        "Il tracciato di 5,513 km e sede della tappa statunitense dal 2012. Ad Austin andra in scena un weekend Sprint, che mettera in palio fino a 34 punti complessivi.",
+        "Kimi Antonelli primeggia nel mondiale piloti con 340 punti davanti al compagno George Russell (238 punti, 102 di distacco). Lewis Hamilton e terzo con la Ferrari a quota 229 punti. Max Verstappen e quarto a 221 dopo la vittoria di Singapore, davanti a Charles Leclerc (215). Tra i Costruttori, Mercedes domina a quota 578 punti contro i 444 della Ferrari e ha il primo match point per chiudere i conti.",
+      ],
+    },
+    pl: {
+      title: "F1 Austin: Mercedes walczy o mistrzostwo konstruktorow na Circuit of the Americas",
+      subtitle: "Antonelli ma 102 punkty przewagi nad Russellem. Mercedes wyprzedza Ferrari o 134 punkty.",
+      excerpt: "Formula 1 zawita do Austin w dniach 23-25 pazdziernika na Grand Prix USA. Kimi Antonelli prowadzi z 340 punktami. Mercedes blisko korony.",
+      body: [
+        "Padok Formuly 1 udaje sie do Austin w Teksasie na Grand Prix Stanow Zjednoczonych na torze Circuit of the Americas (COTA) w dniach 23-25 pazdziernika 2026 roku. Wyscig na dystansie 56 okrazen zaplanowano na niedziele 25 pazdziernika na 15:00 czasu lokalnego (20:00 UTC).",
+        "Petla o dlugosci 5,513 km goscin stawke F1 od 2012 roku. W Austin odbedzie sie weekend ze sprintem, co pozwala zdobyc maksymalnie 34 punkty do klasyfikacji.",
+        "Kimi Antonelli przewodzi w mistrzostwach kierowcow z 340 punktami. Drugi jest George Russell z 238 punktami (102 punkty straty). Lewis Hamilton zajmuje trzecie miejsce w Ferrari z 229 punktami. Max Verstappen jest czwarty z 221 punktami po triumfie w Singapurze, wyprzedzajac Charlesa Leclerca (215). Wsrod konstruktorow Mercedes ma 578 punktow przy 444 Ferrari i moze przypieczetowac tytul w Teksasie.",
+      ],
+    },
+    zh: {
+      title: "F1奥斯汀前瞻：梅赛德斯剑指美洲赛道车队总冠军",
+      subtitle: "安东内利领先拉塞尔102分。梅赛德斯领先法拉利134分进军得克萨斯。",
+      excerpt: "F1将于10月23日至25日造访奥斯汀举行美国大奖赛。基米·安东内利积340分领跑。梅赛德斯有望提前锁定年度车队冠军。",
+      body: [
+        "F1围场将于2026年10月23日至25日前往得克萨斯州奥斯汀美洲赛道（COTA）举行美国大奖赛。全长56圈的正赛将于10月25日周日当地时间15:00（世界协调时20:00）开跑。",
+        "这条全长5.513公里的赛道自2012年起承办F1比赛。奥斯汀站将采用冲刺赛赛制，单周末最高可斩获34个积分。",
+        "车手积分榜上，基米·安东内利以340分强势领跑，梅赛德斯队友乔治·拉塞尔以238分位列次席（分差102分）。法拉利的刘易斯·汉密尔顿以229分排名第三。马克斯·维斯塔潘在新加坡夺冠后积221分升至第四，查尔斯·勒克莱尔以215分位居第五。车队榜上，梅赛德斯以578分大幅领先法拉利（444分），在得克萨斯有望提前锁定2026赛季车队总冠军。",
+      ],
+    },
+    ja: {
+      title: "F1オースティン展望：メルセデスがサーキット・オブ・ジ・アメリカズで製造者部門制覇を狙う",
+      subtitle: "アントネッリがラッセルに102点リード。メルセデスはフェラーリに134点差をつけてテキサスへ。",
+      excerpt: "F1は10月23-25日にアメリカGPでオースティンへ。キミ・アントネッリが340点で首位。メルセデスがタイトル獲得に王手。",
+      body: [
+        "F1サーカスは2026年10月23-25日、テキサス州オースティンのサーキット・オブ・ジ・アメリカズ（COTA）で開催されるアメリカGPへと向かう。56周の決勝は10月25日日曜の現地時間15:00（UTC 20:00）にスタートする。",
+        "全長5.513kmのサーキットは2012年からF1を開催。オースティンはスプリント開催週末となり、最大34ポイントの大量得点が可能となる。",
+        "ドライバーズ選手権はキミ・アントネッリが340点で首位を独走し、メルセデスの僚友ジョージ・ラッセルが238点で続く（102点差）。フェラーリのルイス・ハミルトンが229点で3位。シンガポールで完勝したマックス・フェルスタッペンが221点で4位、シャルル・ルクレールが215点で5位。コンストラクターズではメルセデスが578点でフェラーリ（444点）を大きくリードし、オースティンで戴冠のチャンスを迎える。",
+      ],
+    },
+    ko: {
+      title: "F1 오스틴 프리뷰: 메르세데스, COTA에서 컨스트럭터 챔피언십 조기 확정 조준",
+      subtitle: "안토넬리, 러셀에 102점 차 리드. 메르세데스는 페라리에 134점 앞서며 텍사스로 향한다.",
+      excerpt: "F1이 10월 23~25일 오스틴 미국 그랑프리로 향한다. 키미 안토넬리가 340점으로 선두. 메르세데스가 팀 우승 확정을 노린다.",
+      body: [
+        "포뮬러 1 패독이 2026년 10월 23일부터 25일까지 미국 텍사스주 오스틴의 서킷 오브 디 아메리카스(COTA)에서 열리는 미국 그랑프리로 집결한다. 56랩 결승 레이스는 10월 25일 일요일 현지 시각 15:00(UTC 20:00)에 펼쳐진다.",
+        "5.513km 트랙은 2012년부터 F1을 개최해 왔다. 오스틴은 스프린트 포맷으로 치러져 주말 최대 34점의 포인트를 획득할 수 있다.",
+        "드라이버 챔피언십에서는 키미 안토넬리가 340점으로 메르세데스 팀 동료 조지 러셀(238점, 102점 차)을 앞서고 있다. 페라리의 루이스 해밀턴이 229점으로 3위, 싱가포르에서 우승한 막스 베르스타펜이 221점으로 4위, 샤를 르클레르가 215점으로 5위다. 컨스트럭터에서는 메르세데스가 578점으로 페라리(444점)를 크게 앞서며 텍사스에서 챔피언십을 조기 확정지을 수 있다.",
+      ],
+    },
+    ar: {
+      title: "فورمولا 1 أوستن: مرسيدس تستهدف حسم لقب الصانعين في حلبة الأمريكتين",
+      subtitle: "أنتونيلي يتقدم بفارق 102 نقطة على راسل. مرسيدس تتفوق على فيراري بـ134 نقطة قبل سباق تكساس.",
+      excerpt: "تتجه الفورمولا 1 إلى أوستن من 23 إلى 25 أكتوبر لسباق جائزة أمريكا الكبرى. يتصدر كيمي أنتونيلي بـ340 نقطة، ومرسيدس قريبة من حسم اللقب.",
+      body: [
+        "تتجه بطولة العالم للفورمولا 1 إلى حلبة الأمريكتين (COTA) في أوستن بولاية تكساس لإقامة جائزة الولايات المتحدة الكبرى بين 23 و25 أكتوبر 2026. يقام السباق المكون من 56 لفة يوم الأحد 25 أكتوبر عند الساعة 15:00 بالتوقيت المحلي (20:00 بتوقيت غرينتش).",
+        "تستضيف الحلبة البالغ طولها 5.513 كم السباقات منذ عام 2012. يشهد سباق أوستن إقامة سباق قصير (Sprint) يوم السبت، مما يتيح حصد 34 نقطة كحد أقصى للسائق الفائز بالسباقين وأسرع لفة.",
+        "في بطولة السائقين، يتربع كيمي أنتونيلي في الصدارة برصيد 340 نقطة متقدما بفارق 102 نقطة على زميله جورج راسل (238 نقطة). لويس هاميلتون ثالثا مع فيراري بـ229 نقطة. ماكس فيرستابن رابعا بـ221 نقطة بعد تتويجه في سنغافورة أمام شارل لوكلير (215 نقطة). في بطولة الصانعين، تحلق مرسيدس في الصدارة بـ578 نقطة أمام فيراري (444 نقطة) ويمكنها حسم اللقب رسميا في تكساس.",
+      ],
+    },
+  },
+  'pga-tour-fall-swing-bermuda-qualifiers-brennan-yokohama-2026': {
+    fr: {
+      title: "PGA Tour : les qualifications pour les Bermudes s'organisent, Brennan savoure son titre a Yokohama",
+      subtitle: "Port Royal滤波器 accueillera le prochain tournoi du 22 au 25 octobre. Les 16 sous le par de Michael Brennan restent la reference.",
+      excerpt: "Le PGA Tour fait relache cette semaine avant le Butterfield Bermuda Championship. Adam Schenk est tenant du titre. Michael Brennan a empoche 1,44 million au Japon.",
+      body: [
+        "Le PGA Tour ne propose aucun tournoi au calendrier pour la semaine du 14 octobre 2026. Les joueurs profitent d'une semaine de pause avant la reprise du calendrier automnal avec le Butterfield Bermuda Championship, prevu du 22 au 25 octobre sur le parcours de Port Royal a Southampton, aux Bermudes.",
+        "Port Royal est un par 71 de 6 828 yards longeant l'ocean Atlantique. Le tournoi offre une dotation totale de 6 millions de dollars, Adam Schenk etant repertorie comme le vainqueur sortant.",
+        "Le triomphe de Michael Brennan au Baycurrent Classic de Yokohama reste le dernier resultat officiel. L'Americain de 24 ans a rendu une derniere carte de 68 au Yokohama Country Club pour un score cumule de 268 (16 sous le par), remportant son premier titre sur le circuit et un cheque de 1,44 million de dollars. Keith Mitchell et Jacob Bridgeman ont partage la deuxieme place a 15 sous le par, tandis que Max Homa a termine 13e a 11 sous le par.",
+      ],
+    },
+    es: {
+      title: "PGA Tour: la clasificacion a Bermudas toma forma mientras Brennan saborea su triunfo en Yokohama",
+      subtitle: "Port Royal albergara el proximo evento del 22 al 25 de octubre. Los 16 bajo par de Michael Brennan siguen vigentes.",
+      excerpt: "El PGA Tour descansa esta semana antes del Butterfield Bermuda Championship en Port Royal. Adam Schenk defiende corona. Michael Brennan gano 1,44 millones en Japon.",
+      body: [
+        "El PGA Tour no tiene torneos programados para la semana del 14 de octubre de 2026. Los golfistas disfrutan de un parentesis de una semana antes de retomar la gira de otono con el Butterfield Bermuda Championship, que se jugara del 22 al 25 de octubre en el campo de Port Royal en Southampton, Bermudas.",
+        "Port Royal es un par 71 de 6.828 yardas frente al oceano Atlantico. El certamen cuenta con una bolsa de 6 millones de dolares, con Adam Schenk figurando como el campeon defensor.",
+        "La victoria de Michael Brennan en el Baycurrent Classic de Yokohama se mantiene como el resultado oficial mas reciente. El joven de 24 anos firmo un 68 final en el Yokohama Country Club para un total de 268 golpes (16 bajo par), logrando su primer trofeo en el PGA Tour y 1,44 millones de dolares. Keith Mitchell y Jacob Bridgeman empataron en el segundo puesto con 15 bajo par.",
+      ],
+    },
+    de: {
+      title: "PGA Tour: Bermuda-Qualifikation nimmt Form an, wahrend Brennan den Yokohama-Sieg geniesst",
+      subtitle: "Port Royal richtet vom 22. bis 25. Oktober das nachste Turnier aus. Michael Brennans 16 unter Par bleiben bestehen.",
+      excerpt: "Die PGA Tour pausiert diese Woche vor der Butterfield Bermuda Championship in Port Royal. Adam Schenk ist Titelverteidiger. Michael Brennan holte 1,44 Millionen Dollar in Japan.",
+      body: [
+        "Die PGA Tour hat fur die Woche des 14. Oktober 2026 kein Turnier angesetzt. Die Profis legen eine einwochige Pause ein, bevor die Herbstserie mit der Butterfield Bermuda Championship vom 22. bis 25. Oktober auf dem Port Royal Golf Course in Southampton auf Bermuda fortgesetzt wird.",
+        "Port Royal ist ein Par-71-Kurs mit 6.828 Yards entlang der Atlantikkuste. Das Turnier ist mit 6 Millionen Dollar dotiert, Adam Schenk wird als Titelverteidiger gefuhrt.",
+        "Der Sieg des 24-jahrigen Michael Brennan bei der Baycurrent Classic in Yokohama bleibt das jungste offizielle Resultat. Brennan schloss im Yokohama Country Club mit einer 68 fur ein Gesamtergebnis von 268 Schlagen (16 unter Par) ab und sicherte sich seinen Premierensieg samt 1,44 Millionen Dollar Preisgeld. Keith Mitchell und Jacob Bridgeman belegten geteilt Rang zwei bei 15 unter Par.",
+      ],
+    },
+    it: {
+      title: "PGA Tour: si delinea il field per le Bermuda mentre Brennan si gode il trionfo di Yokohama",
+      subtitle: "Port Royal ospitera il prossimo torneo dal 22 al 25 ottobre. Il -16 di Michael Brennan resta intatto.",
+      excerpt: "Il PGA Tour si ferma questa settimana prima del Butterfield Bermuda Championship a Port Royal. Adam Schenk difende il titolo. Michael Brennan ha vinto 1,44 milioni in Giappone.",
+      body: [
+        "Il PGA Tour non ha tornei in programma nella settimana del 14 ottobre 2026. I giocatori osservano una settimana di riposo prima della ripresa del circuito autunnale con il Butterfield Bermuda Championship, in calendario dal 22 al 25 ottobre al Port Royal Golf Course di Southampton, nelle Bermuda.",
+        "Port Royal e un percorso par 71 di 6.828 yard lungo la costa atlantica. Il montepremi complessivo e di 6 milioni di dollari, con Adam Schenk campione in carica.",
+        "La vittoria del ventiquattrenne Michael Brennan al Baycurrent Classic di Yokohama resta l'ultimo verdetto ufficiale. Brennan ha chiuso con un 68 finale al Yokohama Country Club per un totale di 268 colpi (-16), conquistando il suo primo titolo sul PGA Tour e un assegno da 1,44 milioni di dollari. Keith Mitchell e Jacob Bridgeman hanno concluso al secondo posto a pari merito a 15 sotto il par.",
+      ],
+    },
+    pl: {
+      title: "PGA Tour: kwalifikacje na Bermudy nabieraja ksztaltu, podczas gdy Brennan cieszy sie z triumfu w Jokohamie",
+      subtitle: "Port Royal ugosci kolejny turniej w dniach 22-25 pazdziernika. Wynik -16 Michaela Brennana pozostaje w mocy.",
+      excerpt: "PGA Tour pauzuje w tym tygodniu przed Butterfield Bermuda Championship w Port Royal. Adam Schenk broni tytulu. Michael Brennan zarobil 1,44 mln dolarow w Japonii.",
+      body: [
+        "W tygodniu od 14 pazdziernika 2026 roku w kalendarzu PGA Tour nie ma zadnego turnieju. Zawodnicy maja tydzien przerwy przed powrotem do jesiennej rywalizacji w Butterfield Bermuda Championship, ktore odbeda sie 22-25 pazdziernika na polu Port Royal Golf Course w Southampton na Bermudach.",
+        "Port Royal to pole par 71 o dlugosci 6828 jardow polozone nad brzegiem Oceanu Atlantyckiego. Pula nagrod wynosi 6 milionow dolarow, a obronca tytulu jest Adam Schenk.",
+        "Triumf 24-letniego Michaela Brennana w Baycurrent Classic w Jokohamie pozostaje najswiezszym oficjalnym rezultatem. Brennan zakonczyl turniej w Yokohama Country Club runda 68 z wynikiem 268 uderzen (-16), siegajac po swoj premierowy tytul w PGA Tour i czek na 1,44 miliona dolarow. Keith Mitchell i Jacob Bridgeman podzielili drugie miejsce z wynikiem 15 ponizej par.",
+      ],
+    },
+    zh: {
+      title: "美巡赛秋季赛：百慕大资格赛逐渐明朗，布伦南品味横滨胜利",
+      subtitle: "皇家港高尔夫球场将于10月22日至25日承办下一站赛事。迈克尔·布伦南-16杆夺冠成绩保持不变。",
+      excerpt: "美巡赛本周休赛，备战皇家港举行的百慕大锦标赛。亚当·申克为卫冕冠军。迈克尔·布伦南在日本斩获144万美元。",
+      body: [
+        "美巡赛在2026年10月14日当周没有安排比赛日程。在联邦快递杯秋季赛于10月22日至25日在百慕大南安普敦皇家港高尔夫球场重燃战火前，球员们迎来了一周的休整期。",
+        "皇家港球场全长6828码，标准杆71杆，紧邻大西洋海岸线。百慕大锦标赛总奖金为600万美元，亚当·申克为卫冕冠军。",
+        "24岁小将迈克尔·布伦南在横滨湾流精英赛上的夺冠仍是最近的官方赛果。布伦南在横滨乡村俱乐部以最终轮68杆、总成绩268杆（低于标准杆16杆）夺得个人美巡赛首冠并斩获144万美元头奖。基斯·米切尔和雅各布·布里奇曼以-15杆并列第二。",
+      ],
+    },
+    ja: {
+      title: "PGAツアー秋季シリーズ：ブレナンが横浜の美酒に酔う中、バミューダの出場枠争いが本格化",
+      subtitle: "ポートロイヤルで10月22-25日に次戦開催。マイケル・ブレナンの16アンダー優勝記録が最新。",
+      excerpt: "PGAツアーは今週休催、ポートロイヤルのバターフィールド・バミューダ選手権へ向かう。アダム・シェンクが前回覇者。マイケル・ブレナンは日本で144万ドル獲得。",
+      body: [
+        "PGAツアーは2026年10月14日の週に大会開催がない。フェデックスカップ・フォールが10月22-25日にバミューダのポートロイヤル・ゴルフコースで開催されるバターフィールド・バミューダ選手権で再開するまで、選手たちは束の間の休息を取る。",
+        "ポートロイヤルは大西洋を望む全長6,828ヤード、パー71のコース。賞金総額は600万ドルで、アダム・シェンクがディフェンディング・チャンピオンとなる。",
+        "横浜カントリークラブで行われたベイカレント・クラシックでの24歳マイケル・ブレナンの優勝が最新の公式記録。ブレナンは最終日68をマークして通算268（16アンダー）でツアー初優勝を飾り、賞金144万ドルを手にした。キース・ミッチェルとジェイコブ・ブリッジマンが15アンダーで2位タイに入った。",
+      ],
+    },
+    ko: {
+      title: "PGA 투어 가을 시리즈: 브레넌의 요코하마 우승 여운 속 버뮤다 출전권 경쟁 본격화",
+      subtitle: "포트로열에서 10월 22~25일 다음 대회 개최. 마이클 브레넌의 16언더파 우승 기록이 최신.",
+      excerpt: "PGA 투어는 이번 주 휴식기를 갖고 포트로열 버터필드 버뮤다 챔피언십을 준비한다. 애덤 솅크가 디펜딩 챔피언. 브레넌은 일본에서 144만 달러를 획득했다.",
+      body: [
+        "PGA 투어는 2026년 10월 14일 주간에 공식 일정이 없다. 페덱스컵 가을 시리즈가 10월 22일부터 25일까지 버뮤다 사우샘프턴의 포트로열 골프 코스에서 열리는 버터필드 버뮤다 챔피언십으로 재개되기 전까지 1주일간의 휴식기를 갖는다.",
+        "포트로열은 대서양 해안을 끼고 있는 6,828야드, 파71 규모의 코스다. 총상금은 600만 달러이며 애덤 솅크가 디펜딩 챔피언으로 등재되어 있다.",
+        "요코하마 컨트리클럽에서 열린 베이커런트 클래식에서 24세 마이클 브레넌이 거둔 우승이 가장 최근 공식 기록이다. 브레넌은 최종 라운드 68타, 4라운드 합계 268타(16언더파)로 PGA 투어 생애 첫 우승과 상금 144만 달러를 거머쥐었다. 키스 미첼과 제이컵 브리지먼이 15언더파로 공동 2위를 기록했다.",
+      ],
+    },
+    ar: {
+      title: "جولة PGA: تصفيات برمودا تتشكل بينما يستمتع برينان بلقب يوكوهاما",
+      subtitle: "بورت رويال تستضيف البطولة المقبلة من 22 إلى 25 أكتوبر. تتويج مايكل برينان عند 16 تحت المعيار يظل الأحدث.",
+      excerpt: "جولة PGA في راحة هذا الأسبوع قبل بطولة باترفيلد برمودا في بورت رويال. آدم شينك هو حامل اللقب. مايكل برينان نال 1.44 مليون دولار في اليابان.",
+      body: [
+        "لا تتضمن جولة PGA أي بطولة مجدولة للأسبوع الذي يبدأ في 14 أكتوبر 2026. يحصل اللاعبون على راحة لمدة أسبوع قبل استئناف سلسلة الخريف مع بطولة باترفيلد برمودا المقررة بين 22 و25 أكتوبر في ملعب بورت رويال في ساوثهامبتون ببرمودا.",
+        "يمتد ملعب بورت رويال لمسافة 6828 ياردة بمعدل 71 ضربة على طول ساحل المحيط الأطلسي. تبلغ جوائز البطولة 6 ملايين دولار، ويعد آدم شينك حامل اللقب.",
+        "يعد تتويج الشاب مايكل برينان (24 عاما) بلقب بايكرنت كلاسيك في يوكوهاما أحدث نتيجة رسمية مسجلة. أنهى برينان الجولة الأخيرة بـ68 ضربة بمجموع 268 ضربة (16 تحت المعيار) ليحصد لقبه الأول في جولة PGA وشيكا بقيمة 1.44 مليون دولار. واشترك كيث ميتشل وجاكوب بريدجمان في المركز الثاني بـ15 تحت المعيار.",
+      ],
+    },
+  },
 };

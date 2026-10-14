@@ -1,0 +1,67 @@
+{
+  "slug": "broncos-at-seahawks-tnf-week6-2026",
+  "headline": "NFL Week 6 TNF: Broncos visit Seahawks at Lumen Field",
+  "whyCareScore": 9.1,
+  "whyCareReason": "Week 6 opens on Thursday Night Football under Seattle lights. Seahawks are 4-1; Broncos sit 2-3 looking to stay in AFC West contention.",
+  "teaser": "Amazon Prime Video broadcasts Thursday at 8:15 p.m. ET. Bills beat Rams 37-34 in OT to close Week 5. Vikings and 49ers stand 5-0.",
+  "story": "Week 6 of the 2026 NFL season begins Thursday 15 October at Lumen Field in Seattle. The Seattle Seahawks host the Denver Broncos on Amazon Prime Video and NFL+ at 8:15 p.m. ET (5:15 p.m. PT). Seattle enter at 4-1 after opening victories against the Patriots, Cardinals, and Chargers. Denver stand 2-3 after tough losses to the Chiefs and 49ers. Week 5 concluded with Tyler Bass drilling a 45-yard overtime field goal to lift Buffalo over the Rams 37-34 at SoFi Stadium. Unbeaten records belong to the Minnesota Vikings (5-0), San Francisco 49ers (5-0), and Kansas City Chiefs (4-0).",
+  "stakes": "Seattle can push their record to 5-1 and keep pressure on the 49ers in the NFC West. Denver need a road win to reach 3-3.",
+  "rivalryAngle": "A classic former AFC West rivalry renewed under the Lumen Field roar on Thursday night.",
+  "funFacts": [
+    "Kickoff: Thursday 15 October 2026, 8:15 p.m. ET, Prime Video, Lumen Field, Seattle.",
+    "Records: Seahawks 4-1, Broncos 2-3. Unbeaten teams: Vikings 5-0, 49ers 5-0, Chiefs 4-0.",
+    "Week 5 MNF closed with Bills 37, Rams 34 in OT. Ravens beat Falcons 30-23 in OT on Sunday night."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Sam Darnold",
+      "team": "Seattle Seahawks",
+      "hook": "Leads Seattle's 4-1 offense into prime time at Lumen Field."
+    },
+    {
+      "name": "Bo Nix",
+      "team": "Denver Broncos",
+      "hook": "Looking to guide Denver to 3-3 against a fierce Seattle pass rush."
+    },
+    {
+      "name": "Kenneth Walker III",
+      "team": "Seattle Seahawks",
+      "hook": "Rushed for over 100 yards twice this season as Seattle's primary ground weapon."
+    }
+  ],
+  "headToHead": "Seahawks host Broncos on Thursday 15 October 2026 at Lumen Field.",
+  "tags": ["football", "nfl", "seahawks", "broncos", "tnf", "week-6", "lumen-field"],
+  "home": "Seattle Seahawks",
+  "away": "Denver Broncos",
+  "homeCode": "SEA",
+  "awayCode": "DEN",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NFL",
+  "matchday": 6,
+  "date": "2026-10-15",
+  "time": "20:15",
+  "venue": "Lumen Field",
+  "city": "Seattle",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618269/pexels-photo-1618269.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "football",
+  "competition": "nfl-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "NFL Week 6 · Thursday Night Football",
+  "resultSummary": "UPCOMING: Thursday 15 October 2026, 8:15 p.m. ET, Prime Video. Seahawks 4-1 host Broncos 2-3. No score.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {"name": "NFL.com Week 6 schedule", "url": "https://www.nfl.com/schedules/2026/reg6"},
+    {"name": "ESPN NFL scoreboard", "url": "https://www.espn.com/nfl/scoreboard"}
+  ]
+}

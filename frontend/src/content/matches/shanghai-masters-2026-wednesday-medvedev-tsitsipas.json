@@ -1,0 +1,64 @@
+{
+  "slug": "shanghai-masters-2026-wednesday-medvedev-tsitsipas",
+  "headline": "Shanghai Masters: Medvedev beats Tsitsipas 6-4, 7-5; Quarterfinals set",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Daniil Medvedev defeated longtime rival Stefanos Tsitsipas in straight sets to reach the quarterfinals. Paul, Jodar and Ruud also advanced.",
+  "teaser": "ATP time: 1:44:12. The quarterfinal lineup at Qizhong is officially locked: Zverev vs de Minaur, Gea vs Davidovich Fokina, Paul vs Ruud, Medvedev vs Jodar.",
+  "story": "Daniil Medvedev defeated Stefanos Tsitsipas 6-4, 7-5 on Stadium Court in the Shanghai Masters round of 16 on Wednesday. The ATP lists the match at 1:44:12. Tommy Paul ended the upset run of Zizou Bergs with a 7-6 (5), 6-4 victory. Spanish 19-year-old Rafael Jodar rallied past Botic van de Zandschulp 6-7 (4), 6-4, 6-2 in 2:28:15. Casper Ruud advanced to the final eight after Felix Auger-Aliassime was forced to retire trailing 5-2 in the first set. Alexander Zverev has already secured year-end World No. 1. Jannik Sinner remains out for the season.",
+  "stakes": "The quarterfinal matchups are set: top seed Zverev plays de Minaur, Gea meets Davidovich Fokina, Paul faces Ruud, and Medvedev battles the rising Spanish teenager Jodar.",
+  "rivalryAngle": "Medvedev earned another chapter in his heated rivalry against Tsitsipas, advancing to his fourth Shanghai Masters quarterfinal.",
+  "funFacts": [
+    "Medvedev (5) d. Tsitsipas: 6-4, 7-5 in 1:44:12.",
+    "Paul (15) d. Bergs: 7-6 (5), 6-4. Jodar (12) d. van de Zandschulp: 6-7 (4), 6-4, 6-2. Ruud (20) d. Auger-Aliassime (4): 5-2, ret.",
+    "Quarterfinals locked: Zverev (1) vs de Minaur (9), Gea vs Davidovich Fokina (25), Paul (15) vs Ruud (20), Medvedev (5) vs Jodar (12)."
+  ],
+  "keyPlayers": [
+    {"name": "Daniil Medvedev", "team": "Individual", "hook": "Former champion beat Tsitsipas 6-4, 7-5 to reach the quarterfinals."},
+    {"name": "Stefanos Tsitsipas", "team": "Greece", "hook": "Fought hard in the second set before falling to Medvedev in straight sets."},
+    {"name": "Rafael Jodar", "team": "Spain", "hook": "19-year-old rallied from a set down to reach his first ATP Masters 1000 quarterfinal."},
+    {"name": "Tommy Paul", "team": "United States", "hook": "Halted Zizou Bergs in straight sets to set up a clash with Casper Ruud."}
+  ],
+  "headToHead": "Medvedev defeated Tsitsipas 6-4, 7-5 on 14 October 2026 at Qizhong Arena.",
+  "tags": ["tennis", "atp", "shanghai-masters", "medvedev", "tsitsipas", "qizhong"],
+  "home": "Daniil Medvedev",
+  "away": "Stefanos Tsitsipas",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "ATP Masters 1000",
+  "matchday": 9,
+  "date": "2026-10-14",
+  "time": "14:00",
+  "venue": "Qizhong Forest Sports City Arena",
+  "city": "Shanghai",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1405355/pexels-photo-1405355.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Shanghai Masters · Round of 16",
+  "resultSummary": "FINAL: Medvedev d. Tsitsipas 6-4, 7-5. Paul, Jodar, and Ruud through. Quarterfinals set. Sinner remains out.",
+  "leaderboard": [
+    {"pos": "R16", "name": "Daniil Medvedev", "score": "6-4, 7-5", "note": "d. Stefanos Tsitsipas, 1:44:12"},
+    {"pos": "R16", "name": "Tommy Paul", "score": "7-6 (5), 6-4", "note": "d. Zizou Bergs, 1:52:10"},
+    {"pos": "R16", "name": "Rafael Jodar", "score": "6-7 (4), 6-4, 6-2", "note": "d. Botic van de Zandschulp, 2:28:15"},
+    {"pos": "R16", "name": "Casper Ruud", "score": "5-2, ret.", "note": "d. Felix Auger-Aliassime, 0:28:40"}
+  ],
+  "tennisSets": [
+    {"p1": "6", "p2": "4"},
+    {"p1": "7", "p2": "5"}
+  ],
+  "sources": [
+    {"name": "ATP Tour Shanghai", "url": "https://www.atptour.com/en/scores/archive/shanghai/5014/2026/results"},
+    {"name": "ATP news", "url": "https://www.atptour.com/en/news/shanghai-2026-results"}
+  ]
+}
