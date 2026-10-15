@@ -1,0 +1,62 @@
+{
+  "slug": "shanghai-masters-2026-thursday-davidovich-zverev",
+  "headline": "Shanghai Masters: Davidovich Fokina reaches semis as Gea retires; Zverev meets de Minaur",
+  "whyCareScore": 9.5,
+  "whyCareReason": "Alejandro Davidovich Fokina became the first semifinalist after Arthur Gea retired with injury. Top seed Alexander Zverev plays Alex de Minaur in the night session.",
+  "teaser": "Davidovich Fokina led 4-1 when Gea retired after 18 minutes. Zverev and de Minaur clash for a semifinal berth against the Spaniard. Sinner remains out.",
+  "story": "Alejandro Davidovich Fokina advanced to the semifinals of the Rolex Shanghai Masters on Thursday when Arthur Gea was forced to retire due to a right leg injury trailing 4-1 in the first set. The match lasted 18 minutes on Stadium Court. The 25th seed reaches his first Masters 1000 semifinal of 2026. Top seed Alexander Zverev faces ninth seed Alex de Minaur in the evening quarterfinal to decide Davidovich Fokina's semifinal opponent. The remaining two quarterfinals, featuring Daniil Medvedev against Tommy Paul and Rafael Jodar against Casper Ruud, take place on Friday. Alexander Zverev has already clinched the year-end World No. 1 ranking. Jannik Sinner remains sidelined for the rest of the season.",
+  "stakes": "Davidovich Fokina is through to Saturday's semifinals. Zverev and de Minaur play Thursday night for the other spot in the top half.",
+  "rivalryAngle": "Zverev and de Minaur meet in another high-stakes clash on Stadium Court with a Masters 1000 semifinal on the line.",
+  "funFacts": [
+    "Davidovich Fokina (25) d. Gea: 4-1, ret. in 18 minutes.",
+    "Zverev (1) vs de Minaur (9) takes place Thursday night on Stadium Court.",
+    "Friday quarterfinals: Medvedev (5) vs Paul (15), Jodar (12) vs Ruud (20)."
+  ],
+  "keyPlayers": [
+    {"name": "Alejandro Davidovich Fokina", "team": "Spain", "hook": "First semifinalist at Qizhong after Gea retired trailing 4-1."},
+    {"name": "Alexander Zverev", "team": "Germany", "hook": "Top seed and year-end No. 1 battles Alex de Minaur on Thursday night."},
+    {"name": "Alex de Minaur", "team": "Australia", "hook": "Seeking a signature victory over Zverev to reach the semifinals."}
+  ],
+  "headToHead": "Davidovich Fokina advanced 4-1 ret. on 15 October 2026.",
+  "tags": ["tennis", "atp", "shanghai-masters", "zverev", "de-minaur", "davidovich-fokina", "qizhong"],
+  "home": "Alejandro Davidovich Fokina",
+  "away": "Arthur Gea",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "ATP Masters 1000",
+  "matchday": 10,
+  "date": "2026-10-15",
+  "time": "14:00",
+  "venue": "Qizhong Forest Sports City Arena",
+  "city": "Shanghai",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1405355/pexels-photo-1405355.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "retirement",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Shanghai Masters · Quarterfinals",
+  "resultSummary": "FINAL: Davidovich Fokina d. Gea 4-1, ret. Zverev vs de Minaur on Stadium Court tonight. Sinner remains out.",
+  "leaderboard": [
+    {"pos": "QF", "name": "Alejandro Davidovich Fokina", "score": "4-1, ret.", "note": "d. Arthur Gea, 0:18:24"},
+    {"pos": "QF", "name": "Alexander Zverev", "score": "vs Alex de Minaur", "note": "Thursday night session"},
+    {"pos": "QF", "name": "Daniil Medvedev", "score": "vs Tommy Paul", "note": "Friday session"},
+    {"pos": "QF", "name": "Rafael Jodar", "score": "vs Casper Ruud", "note": "Friday session"}
+  ],
+  "tennisSets": [
+    {"p1": "4", "p2": "1"}
+  ],
+  "sources": [
+    {"name": "ATP Tour Shanghai", "url": "https://www.atptour.com/en/scores/archive/shanghai/5014/2026/results"},
+    {"name": "Rolex Shanghai Masters official", "url": "https://www.rolexshanghaimasters.com"}
+  ]
+}

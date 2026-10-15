@@ -14727,4 +14727,556 @@ export const STORY_I18N: Record<string, LocMap> = {
       ],
     },
   },
+  'shanghai-masters-2026-thursday-davidovich-zverev': {
+    fr: {
+      title: "Masters de Shanghai : Davidovich Fokina en demies sur abandon de Gea, Zverev defie de Minaur",
+      subtitle: "L'Espagnol menait 4-1 avant la blessure de Gea en 18 minutes, tandis que la tete de serie Alexander Zverev joue en soiree.",
+      excerpt: "Alejandro Davidovich Fokina devient le premier demi-finaliste au Rolex Shanghai Masters apres l'abandon d'Arthur Gea a 4-1. Alexander Zverev et Alex de Minaur s'affrontent jeudi soir.",
+      body: [
+        "Alejandro Davidovich Fokina est devenu le premier joueur qualifie pour les demi-finales du Rolex Shanghai Masters 2026 jeudi apres-midi apres l'abandon d'Arthur Gea sur blessure a la jambe droite. Davidovich Fokina menait 4-1 apres 18 minutes de jeu sur le Stadium Court lorsque le joueur francais a indique ne plus pouvoir poursuivre.",
+        "La tete de serie numero 25 rallie sa premiere demi-finale en Masters 1000 de la saison 2026 sans grande depense d'energie. L'Espagnol a converti ses deux balles de break avant que Gea ne demande une evaluation medicale puis ne jette l'eponge.",
+        "La session nocturne a la Qizhong Arena propose un choc entre la tete de serie numero 1 Alexander Zverev et la tete de serie numero 9 Alex de Minaur. Le vainqueur affrontera Davidovich Fokina samedi. Zverev est deja assure de terminer numero 1 mondial a la fin de l'annee. Jannik Sinner reste absent jusqu'a la saison prochaine. Les quarts du bas de tableau auront lieu vendredi : Daniil Medvedev contre Tommy Paul, et Rafael Jodar contre Casper Ruud.",
+      ],
+    },
+    es: {
+      title: "Masters de Shanghai: Davidovich Fokina a semifinales por retirada de Gea; Zverev ante de Minaur",
+      subtitle: "El espanol dominaba 4-1 antes de la lesion de Gea en 18 minutos; Alexander Zverev estelariza la sesion nocturna.",
+      excerpt: "Alejandro Davidovich Fokina es el primer semifinalista del Rolex Shanghai Masters tras la retirada de Arthur Gea con 4-1. Alexander Zverev y Alex de Minaur se miden el jueves por la noche.",
+      body: [
+        "Alejandro Davidovich Fokina se convirtio este jueves en el primer clasificado a las semifinales del Rolex Shanghai Masters 2026 despues de que Arthur Gea se viera obligado a retirarse por una lesion en la pierna derecha. Davidovich Fokina mandaba 4-1 tras apenas 18 minutos de accion en la pista central de Qizhong.",
+        "El vigesimo quinto cabeza de serie alcanza su primera semifinal de Masters 1000 en 2026 con un desgaste minimo. Davidovich Fokina aprovecho las dos opciones de quiebre de las que dispuso antes de que el frances solicitara atencion y decidiera no continuar.",
+        "La sesion nocturna en Shanghai presenta al primer cabeza de serie Alexander Zverev frente al noveno preclasificado Alex de Minaur. El vencedor se medira a Davidovich Fokina el sabado. Zverev ya tiene garantizado el numero 1 mundial al cierre del curso. Jannik Sinner continua de baja hasta 2027. Los cuartos de la parte baja se jugaran el viernes: Daniil Medvedev ante Tommy Paul, y Rafael Jodar contra Casper Ruud.",
+      ],
+    },
+    de: {
+      title: "Shanghai Masters: Davidovich Fokina im Halbfinale nach Gea-Aufgabe; Zverev trifft auf de Minaur",
+      subtitle: "Der Spanier fuhrte 4:1 vor Geas Verletzung nach 18 Minuten; Topgesetzter Zverev spielt in der Abendsession.",
+      excerpt: "Alejandro Davidovich Fokina steht als erster Halbfinalist der Rolex Shanghai Masters fest, nachdem Arthur Gea beim Stand von 4:1 aufgeben musste. Zverev und de Minaur duellieren sich am Donnerstagabend.",
+      body: [
+        "Alejandro Davidovich Fokina zog am Donnerstagnachmittag als erster Spieler ins Halbfinale der Rolex Shanghai Masters 2026 ein, nachdem Arthur Gea wegen einer Verletzung am rechten Bein aufgeben musste. Davidovich Fokina fuhrte nach 18 Minuten auf dem Stadium Court mit 4:1.",
+        "Die Nummer 25 der Setzliste erreicht sein erstes Masters-1000-Halbfinale des Jahres 2026 mit geringem Kraftaufwand. Davidovich Fokina nutzte beide Breakchancen, ehe Gea nach einer medizinischen Auszeit das Match abbrach.",
+        "In der Abendsession in der Qizhong Arena trifft der Weltranglistenerste Alexander Zverev auf den an Position neun gesetzten Alex de Minaur. Der Sieger trifft am Samstag auf Davidovich Fokina. Zverev steht bereits als Jahresend-Weltranglistenerster fest. Jannik Sinner pausiert weiter bis zum Saisonende. Die verbleibenden Viertelfinals finden am Freitag statt: Daniil Medvedev gegen Tommy Paul und Rafael Jodar gegen Casper Ruud.",
+      ],
+    },
+    it: {
+      title: "Shanghai Masters: Davidovich Fokina in semifinale per ritiro di Gea; Zverev sfida de Minaur",
+      subtitle: "Lo spagnolo era avanti 4-1 prima dello stop di Gea in 18 minuti; Zverev protagonista nella sessione serale.",
+      excerpt: "Alejandro Davidovich Fokina e il primo semifinalista del Rolex Shanghai Masters dopo il ritiro di Arthur Gea sul 4-1. Alexander Zverev e Alex de Minaur si affrontano giovedi sera.",
+      body: [
+        "Alejandro Davidovich Fokina e il primo giocatore a raggiungere le semifinali del Rolex Shanghai Masters 2026, grazie al ritiro di Arthur Gea per un problema alla gamba destra giovedi pomeriggio. Davidovich Fokina conduceva 4-1 dopo 18 minuti sul campo centrale.",
+        "La testa di serie numero 25 accede alla sua prima semifinale Masters 1000 della stagione 2026 preservando energie preziose. Lo spagnolo ha concretizzato entrambe le palle break avute a disposizione prima della decisione di Gea di fermarsi.",
+        "La sessione serale alla Qizhong Arena vedra opposti Alexander Zverev (testa di serie numero 1) e Alex de Minaur (numero 9). Chi vincera trovera Davidovich Fokina sabato. Zverev ha gia in tasca il numero 1 ATP di fine anno. Jannik Sinner resta ai box fino alla prossima stagione. Venerdi si giocheranno i quarti della parte bassa: Daniil Medvedev contro Tommy Paul e Rafael Jodar contro Casper Ruud.",
+      ],
+    },
+    pl: {
+      title: "Szanghaj Masters: Davidovich Fokina w polfinale po kreczu Gea; Zverev gra z de Minaurem",
+      subtitle: "Hiszpan prowadzil 4-1 przed urazem Gea w 18 minut; Alexander Zverev gwiazda sesji wieczornej.",
+      excerpt: "Alejandro Davidovich Fokina pierwszym polfinalista Rolex Shanghai Masters po kreczu Arthura Gea przy stanie 4-1. Zverev i de Minaur zmierza sie w czwartek wieczorem.",
+      body: [
+        "Alejandro Davidovich Fokina jako pierwszy zameldowal sie w polfinale turnieju Rolex Shanghai Masters 2026, gdy Arthur Gea skreczowal z powodu kontuzji prawej nogi w czwartek popoludniu. Davidovich Fokina prowadzil 4-1 po zaledwie 18 minutach gry na Stadium Court.",
+        "Rozstawiony z numerem 25 Hiszpan osiagnal swoj pierwszy polfinal rangi Masters 1000 w 2026 roku przy minimalnym nakladzie sil. Wykorzystal obie okazje na przelamanie, zanim Gea zglosil niemoznosc dalszej gry.",
+        "W czwartkowej sesji wieczornej najwyzej rozstawiony Alexander Zverev zmierzy sie z numerem 9 Alexem de Minaurem. Zwyciezca zagra w sobote z Davidovichem Fokina. Zverev ma juz zagwarantowane miano lidera rankingu na koniec roku. Jannik Sinner pauzuje do konca sezonu. Dolna polowka gra w piatek: Daniil Medvedev z Tommym Paulem oraz Rafael Jodar z Casperem Ruudem.",
+      ],
+    },
+    zh: {
+      title: "上海劳力士大师赛：热阿因伤退赛达维多维奇晋级四强，兹维列夫今晚战德米纳尔",
+      subtitle: "西班牙人在4-1领先时因热阿18分钟伤退率先晋级，头号种子兹维列夫领衔夜场焦点战。",
+      excerpt: "达维多维奇·福基纳在热阿4-1落后退赛后率先锁定上海大师赛半决赛席位。头号种子兹维列夫与德米纳尔今晚展开对决。",
+      body: [
+        "周四下午在上海劳力士大师赛首场男单四分之一决赛中，由于法国选手阿蒂尔·热阿右腿受伤退赛，25号种子阿莱杭德罗·达维多维奇·福基纳率先挺进四强。比赛在中央球场仅仅进行了18分钟，达维多维奇便以4-1领先并收获退赛礼。",
+        "这是西班牙人2026赛季首次闯入ATP 1000级别大师赛四强，体能消耗极低。达维多维奇在热阿接受医疗评估并宣布退赛前两度破发成功。",
+        "旗忠网球中心周四晚场将迎来头号种子亚历山大·兹维列夫与9号种子亚历克斯·德米纳尔的强强对决。胜者将在周六半决赛迎战达维多维奇。兹维列夫此前已锁定ATP年终世界第一。辛纳本赛季继续伤缺。下半区两场四分之一决赛将于周五进行：梅德韦杰夫对阵保罗，约达尔迎战鲁德。",
+      ],
+    },
+    ja: {
+      title: "上海マスターズ：ジェアが途中棄権でダビドビッチが準決勝進出、夜にズベレフ対デミノー",
+      subtitle: "スペイン選手が4-1リードで18分で勝利決定。トップシードのズベレフが夜の部で激突。",
+      excerpt: "アルチュール・ジェアが4-1劣勢で右脚を痛めて棄権し、ダビドビッチ フォキナが上海マスターズ4強一番乗り。ズベレフ対デミノーは木曜夜に開催。",
+      body: [
+        "木曜午後のロレックス上海マスターズ男子シングルス準々決勝で、アルチュール・ジェアが右脚の負傷により途中棄権し、第25シードのアレハンドロ・ダビドビッチ フォキナが最初の準決勝進出を決めた。スタジアムコートでの試合はわずか18分、ダビドビッチが4-1とリードした時点で終了した。",
+        "ダビドビッチにとっては2026年シーズン初となるマスターズ1000準決勝進出であり、体力消耗も最小限に抑えられた。ジェアがドクターを呼んで試合続行を断念するまでに、ダビドビッチは2度のブレークチャンスを確実にものにしていた。",
+        "木曜夜のセッションでは、第1シードのアレクサンダー・ズベレフと第9シードのアレックス・デミノーが対戦する。勝者は土曜の準決勝でダビドビッチと対戦する。ズベレフはすでにATP年間世界ランキング1位を確定させている。シナーは今季残り全休。ボトムハーフの準々決勝は金曜に行われ、メドベージェフ対ポール、ホダル対ルードが激突する。",
+      ],
+    },
+    ko: {
+      title: "상하이 마스터스: 제아 부상 기권으로 다비도비치 준결승 선착, 야간에 즈베레프 vs 드 미노",
+      subtitle: "다비도비치가 4-1 리드 상황에서 18분 만에 4강 진출. 1번 시드 즈베레프는 야간 경기 출격.",
+      excerpt: "아르튀르 제아가 4-1 상황에서 오른쪽 다리 부상으로 기권하며 알레한드로 다비도비치 포키나가 상하이 마스터스 준결승에 올랐다. 즈베레프와 드 미노는 목요일 밤 격돌한다.",
+      body: [
+        "목요일 오후 상하이 롤렉스 마스터스 남자 단식 8강에서 아르튀르 제아가 오른쪽 다리 부상으로 기권하며 25번 시드 알레한드로 다비도비치 포키나가 대회 첫 4강 진출자가 되었다. 스타디움 코트에서 열린 경기는 다비도비치가 4-1로 앞선 18분 만에 종료되었다.",
+        "다비도비치는 2026시즌 첫 마스터스 1000 준결승 무대를 밟으며 체력을 아꼈다. 그는 제아가 메디컬 타임아웃 끝에 경기를 포기하기 전까지 두 번의 브레이크 기회를 모두 살렸다.",
+        "목요일 야간 경기에서는 1번 시드 알렉산더 즈베레프와 9번 시드 알렉스 드 미노가 맞붙는다. 승자는 토요일 준결승에서 다비도비치와 대결한다. 즈베레프는 연말 세계 1위를 이미 확정지었다. 얀니크 신너는 시즌 아웃 상태다. 하단 대진 8강전은 금요일에 열려 메드베데프 vs 폴, 호다르 vs 루드가 맞붙는다.",
+      ],
+    },
+    ar: {
+      title: "ماسترز شنغهاي: دافيدوفيتش فوكينا إلى نصف النهائي بعد انسحاب جيا؛ وزفيريف يواجه دي مينور",
+      subtitle: "الإسباني تقدم 4-1 قبل إصابة جيا في 18 دقيقة؛ والمصنف الأول ألكسندر زفيريف يتصدر الفترة المسائية.",
+      excerpt: "أصبح أليخاندرو دافيدوفيتش فوكينا أول المتأهلين إلى نصف نهائي بطولة شنغهاي للأساتذة بعد انسحاب آرثر جيا متأخرا 4-1. زفيريف ودي مينور يلتقيان مساء الخميس.",
+      body: [
+        "أصبح أليخاندرو دافيدوفيتش فوكينا أول المتأهلين إلى نصف نهائي بطولة شنغهاي للأساتذة 2026 بعد انسحاب آرثر جيا بداعي إصابة في الساق اليمنى بعد ظهر الخميس. وكان دافيدوفيتش فوكينا متقدما 4-1 بعد 18 دقيقة فقط من اللعب على الملعب الرئيسي.",
+        "ووصل المصنف 25 إلى أول نصف نهائي له في بطولات الأساتذة فئة 1000 نقطة لموسم 2026 بأقل مجهود بدني، حيث استغل فرصتي كسر الإرسال قبل توقف جيا عن مواصلة اللقاء.",
+        "وتشهد الفترة المسائية في شنغهاي قمة مرتقبة بين المصنف الأول عالميا ألكسندر زفيريف والمصنف التاسع أليكس دي مينور، حيث سيلتقي الفائز مع دافيدوفيتش فوكينا يوم السبت. وضمن زفيريف إنهاء العام في صدارة التصنيف العالمي، بينما يغيب يانيك سينر حتى الموسم المقبل. وتجرى باقي مباريات ربع النهائي الجمعة بمواجهتي ميدفيديف ضد بول، وخودار ضد رود.",
+      ],
+    },
+  },
+  'nfl-week6-tnf-gameday-broncos-seahawks-lumen-2026': {
+    fr: {
+      title: "NFL Semaine 6 : les Seahawks accueillent les Broncos sous les projecteurs du Lumen Field",
+      subtitle: "Seattle (4-1) vise a maintenir la cadence en NFC Ouest tandis que Denver (2-3) cherche a rebondir en prime time.",
+      excerpt: "Le Thursday Night Football ouvre la semaine 6 de la NFL au Lumen Field. Sam Darnold guide les Seahawks (4-1) face a Bo Nix et aux Broncos (2-3) sur Prime Video.",
+      body: [
+        "La NFL lance sa 6e semaine ce jeudi soir dans le nord-ouest pacifique avec la reception des Broncos de Denver par les Seahawks de Seattle au Lumen Field. Le coup d'envoi est fixe a 20 h 15 ET (17 h 15 PT) sur Amazon Prime Video et NFL+.",
+        "Seattle arrive avec un bilan de 4-1, porte par la regularite de Sam Darnold a la passe et l'impact de Kenneth Walker III a la course. Les Seahawks ont remporte quatre de leurs cinq premiers rendez-vous pour rester au coude-a-coude avec les 49ers de San Francisco (5-0) en tete de la division.",
+        "Denver se presente a 2-3 apres des revers serres contre Kansas City et San Francisco. Le quart-arriere Bo Nix devra maitriser le vacarme caracteristique du public de Seattle. Trois franchises restent invaincues : Vikings (5-0), 49ers (5-0) et Chiefs (4-0). Un succes permettrait a Seattle de monter a 5-1.",
+      ],
+    },
+    es: {
+      title: "NFL Semana 6: los Seahawks reciben a los Broncos bajo las luces del Lumen Field",
+      subtitle: "Seattle (4-1) busca mantener el pulso en la NFC Oeste ante un Denver (2-3) que necesita reaccionar.",
+      excerpt: "El Thursday Night Football inaugura la semana 6 en Seattle. Sam Darnold lidera a los Seahawks (4-1) frente a Bo Nix y los Broncos (2-3) en Prime Video.",
+      body: [
+        "La NFL arranca la semana 6 este jueves por la noche en Seattle, con el duelo entre Seahawks y Denver Broncos en Lumen Field. El inicio esta pautado para las 20:15 ET (17:15 PT) con emision nacional en Amazon Prime Video y NFL+.",
+        "Seattle llega con marca de 4-1 gracias a la solidez de Sam Darnold y al rendimiento terrestre de Kenneth Walker III. Los Seahawks han ganado cuatro de sus cinco compromisos para no perder la estela de los invictos San Francisco 49ers (5-0) en la NFC Oeste.",
+        "Denver acude con registro de 2-3 tras apretadas derrotas ante Kansas City y San Francisco. El mariscal Bo Nix afronta el reto del estruendoso publico de Seattle. En la liga solo quedan tres invictos: Vikings (5-0), 49ers (5-0) y Chiefs (4-0). Una victoria situaria a Seattle con 5-1.",
+      ],
+    },
+    de: {
+      title: "NFL Woche 6: Seahawks empfangen die Broncos im Flutlicht des Lumen Field",
+      subtitle: "Seattle (4-1) will in der NFC West Schritt halten, wahrend Denver (2-3) in der Prime Time punkten will.",
+      excerpt: "Thursday Night Football eroffnet Woche 6 im Lumen Field. Sam Darnold fuhrt die 4-1 Seahawks gegen Bo Nix und die 2-3 Broncos bei Prime Video an.",
+      body: [
+        "Die NFL startet am Donnerstagabend in Woche 6, wenn die Seattle Seahawks die Denver Broncos im Lumen Field empfangen. Kickoff ist um 20:15 ET (17:15 PT) live auf Amazon Prime Video und NFL+.",
+        "Seattle geht mit einer 4-1-Bilanz ins Duell, getragen vom zuverlassigen Passspiel von Sam Darnold und der Laufstarke von Kenneth Walker III. Vier Siege aus funf Spielen halten den Druck auf die ungeschlagenen San Francisco 49ers (5-0) in der NFC West aufrecht.",
+        "Denver reist mit 2-3 an nach knappen Niederlagen gegen Kansas City und San Francisco. Quarterback Bo Nix steht vor der Feuertaufe im beruchtigten Larm von Seattle. Drei Teams sind noch ungeschlagen: Vikings (5-0), 49ers (5-0) und Chiefs (4-0). Ein Heimsieg wurde Seattle auf 5-1 heben.",
+      ],
+    },
+    it: {
+      title: "NFL Week 6: i Seahawks ospitano i Broncos sotto i riflettori del Lumen Field",
+      subtitle: "Seattle (4-1) vuole tenere il passo nella NFC West, mentre Denver (2-3) cerca il riscatto in prima serata.",
+      excerpt: "Il Thursday Night Football apre la week 6 al Lumen Field. Sam Darnold guida i Seahawks (4-1) contro Bo Nix e i Broncos (2-3) su Prime Video.",
+      body: [
+        "La NFL apre la sesta settimana giovedi sera a Seattle, dove i Seahawks attendono i Denver Broncos al Lumen Field. Calcio d'inizio alle 20:15 ET (17:15 PT) in diretta su Amazon Prime Video e NFL+.",
+        "Seattle si presenta con un record di 4-1 forte della continuita di Sam Darnold al lancio e delle corse pesanti di Kenneth Walker III. Con quattro successi su cinque uscite, i Seahawks restano incollati agli imbattuti San Francisco 49ers (5-0) nella NFC West.",
+        "Denver arriva sul 2-3 dopo i ko ravvicinati contro Kansas City e San Francisco. Il giovane quarterback Bo Nix dovra gestire il boato assordante del pubblico di Seattle. Restano tre franchigie imbattute: Vikings (5-0), 49ers (5-0) e Chiefs (4-0). Un successo porterebbe Seattle a quota 5-1.",
+      ],
+    },
+    pl: {
+      title: "NFL Tydzien 6: Seahawks podejmuja Broncos w swietle jupiterow Lumen Field",
+      subtitle: "Seattle (4-1) walczy o pozycje w NFC West, a Denver (2-3) celuje w przelamanie w meczu na szczycie.",
+      excerpt: "Thursday Night Football otwiera 6. tydzien NFL w Seattle. Sam Darnold prowadzi Seahawks (4-1) przeciwko Bo Nixowi i Broncos (2-3) na Prime Video.",
+      body: [
+        "NFL rozpoczyna tydzien 6 w czwartek wieczorem na stadionie Lumen Field, gdzie Seattle Seahawks podejmuja Denver Broncos. Poczetek meczu o 20:15 ET (17:15 PT) na Amazon Prime Video i NFL+.",
+        "Seattle wchodzi w ten mecz z bilansem 4-1, opierajac swoja gre na stabilnej postawie Sama Darnolda i dynamicznych biegach Kennetha Walkera III. Cztery zwyciestwa w pieciu meczach pozwalaja Seahawks dotrzymywac kroku niepokonanym San Francisco 49ers (5-0) w dywizji.",
+        "Denver przyjezdza z bilansem 2-3 po minimalnych porazkach z Kansas City i San Francisco. Rozgrywajacy Bo Nix zmierzy sie z legendarnym halasem kibicow w Seattle. Tylko trzy druzyny pozostaja bez porazki: Vikings (5-0), 49ers (5-0) i Chiefs (4-0). Wygrana da Seahawks bilans 5-1.",
+      ],
+    },
+    zh: {
+      title: "NFL第6周周四夜赛：海鹰流明球场迎战野马，争夺国联西区前列",
+      subtitle: "4胜1负的西雅图力争紧咬49人，2胜3负的丹佛在客场寻求反弹。",
+      excerpt: "周四夜赛在流明球场拉开第6周战幕。达诺德率4胜1负海鹰在Prime Video迎战博·尼克斯领衔的野马。",
+      body: [
+        "NFL第6周于美东时间周四晚在西雅图流明球场开战，西雅图海鹰主场迎战丹佛野马。开球时间定于美东20:15（太平洋时间17:15），由Amazon Prime Video与NFL+全美直播。",
+        "西雅图凭借达诺德的高效调度以及跑卫沃克三世的稳定推进，前5场取得4胜1负，与5胜0负不败领跑的旧金山49人在国联西区展开正面竞逐。",
+        "野马在惜败酋长与49人后战绩为2胜3负，新秀四分卫博·尼克斯将在流明球场承受声名远扬的主场声浪考验。目前联盟仅存维京人（5-0）、49人（5-0）与酋长（4-0）三支全胜球队。海鹰今晚若胜将战绩提升至5胜1负。",
+      ],
+    },
+    ja: {
+      title: "NFL第6週TNF：シーホークスがルーメン・フィールドでブロンコスと激突",
+      subtitle: "開幕4勝1敗のシアトルが地区首位争いを維持、2勝3敗のデンバーは敵地で巻き返しを期す。",
+      excerpt: "木曜ナイトゲームで第6週が開幕。サム・ダーノルド擁する4勝1敗のシーホークスがボ・ニックスのブロンコスを迎え撃つ。",
+      body: [
+        "NFL第6週が木曜夜、シアトルのルーメン・フィールドでキックオフを迎える。シアトル・シーホークスがデンバー・ブロンコスを迎え、米東部20:15（太平洋17:15）よりAmazon Prime VideoとNFL+で生中継される。",
+        "シアトルはQBサム・ダーノルドの安定した配球とRBケネス・ウォーカー3世の力走で4勝1敗と好スタートを切り、NFC西地区で全勝の49ers（5勝0敗）にプレッシャーをかけ続けている。",
+        "デンバーはチーフスと49ersに僅差で敗れ2勝3敗。QBボ・ニックスは敵地シアトルの大歓声の中で攻撃陣を統率する難題に挑む。リーグ全勝はバイキングス（5-0）、49ers（5-0）、チーフス（4-0）の3チームのみ。シーホークスが勝てば5勝1敗となる。",
+      ],
+    },
+    ko: {
+      title: "NFL 6주차 목요일 밤 경기: 시호크스, 루멘 필드에서 브롱코스 격돌",
+      subtitle: "4승 1패의 시애틀은 NFC 서부 선두권을 노리며, 2승 3패의 덴버는 반등을 꾀한다.",
+      excerpt: "서스데이 나이트 풋볼이 루멘 필드에서 6주차를 연다. 샘 다놀드의 시호크스(4-1)와 보 닉스의 브롱코스(2-3)가 Prime Video에서 격돌한다.",
+      body: [
+        "2026 NFL 6주차가 목요일 밤 시애틀 루멘 필드에서 개막한다. 시애틀 시호크스가 덴버 브롱코스를 홈으로 불러들이며 미 동부 20:15(태평양 17:15)에 Prime Video와 NFL+로 중계된다.",
+        "시애틀은 샘 다놀드의 안정된 패스와 러닝백 케네스 워커 3세의 활약에 힘입어 4승 1패를 기록 중이다. NFC 서부지구에서 5승 무패의 49ers를 바짝 추격하고 있다.",
+        "덴버는 치프스와 49ers에 연패하며 2승 3패로 내려앉았다. 쿼터백 보 닉스는 시애틀 특유의 홈 관중 소음을 극복해야 한다. 현재 무패 팀은 바이킹스(5-0), 49ers(5-0), 치프스(4-0)뿐이다. 시애틀이 승리할 경우 5승 1패로 올라선다.",
+      ],
+    },
+    ar: {
+      title: "دوري NFL الأسبوع 6: سيهوكس يستضيف برونكوز تحت أضواء لومن فيلد",
+      subtitle: "سياتل (4-1) يسعى لمواصلة الضغط في القسم الغربي ودنفر (2-3) يطمح للتعويض.",
+      excerpt: "تنطلق مباريات الأسبوع السادس ليلة الخميس في لومن فيلد. سام دارنولد يقود سيهوكس (4-1) ضد بو نيكس وبرونكوز (2-3) على برايم فيديو.",
+      body: [
+        "تفتتح الجولة السادسة من دوري كرة القدم الأمريكية مساء الخميس في سياتل، حيث يستضيف سياتل سيهوكس نظيره دنفر برونكوز على ملعب لومن فيلد، عند الساعة 20:15 بتوقيت شرق أمريكا عبر أمازون برايم فيديو وNFL+.",
+        "يدخل سياتل اللقاء بسجل 4-1 بفضل الأداء المتوازن لصانع اللعب سام دارنولد والركض الفعال لكينيث ووكر الثالث، ليواصل مطاردة سان فرانسيسكو 49ers متصدر المجموعة بلا هزيمة (5-0).",
+        "ويصل دنفر بسجل 2-3 بعد هزيمتين متقاربتين أمام كنساس سيتي وسان فرانسيسكو، حيث يواجه لاعب الوسط بو نيكس اختبارا صعبا أمام صخب جماهير سياتل الشهيرة. لا تزال ثلاثة فرق فقط بلا هزيمة: فايكنغز (5-0) و49ers (5-0) وتشيفس (4-0).",
+      ],
+    },
+  },
+  'premier-league-mw7-saturday-slate-preview-2026': {
+    fr: {
+      title: "Premier League : Manchester City garde trois points d'avance a l'approche de la 7e journee",
+      subtitle: "Les conferences de presse du jeudi lancent le week-end avec City parfait a 18 points et Arsenal en embuscade.",
+      excerpt: "Les clubs de Premier League tiennent leurs points presse jeudi avant la 7e journee. Manchester City mene a 6-0-0, tandis que Coventry savoure son 4-1 contre Newcastle.",
+      body: [
+        "Les entraineurs de Premier League se presentent face aux medias ce jeudi pour livrer leurs dernieres nouvelles avant la 7e journee, qui debutera samedi 17 octobre a travers l'Angleterre.",
+        "Manchester City occupe la tete avec un bilan parfait de six victoires en six matches (18 points, 16 buts inscrits, 5 encaisses). Les hommes de Pep Guardiola restent sur une victoire retentissante 3-0 a Anfield contre Liverpool. Erling Haaland domine le classement des buteurs.",
+        "Arsenal reste le plus proche poursuivant en deuxieme position avec 15 points (5-0-1) apres son succes 2-1 sur Leeds. Brighton est troisieme avec 13 points. Lundi, Coventry City a cree la sensation en battant Newcastle 4-1 pour remonter au 14e rang avec 6 points sous les ordres de Frank Lampard. Tottenham est 19e avec 3 points.",
+      ],
+    },
+    es: {
+      title: "Premier League: City sostiene tres puntos de ventaja a las puertas de la jornada 7",
+      subtitle: "Las ruedas de prensa del jueves preparan el reinicio con el City pleno en 18 puntos y el Arsenal al acecho.",
+      excerpt: "Los clubes ingleses comparecen ante los medios antes de la jornada 7. Manchester City marcha 6-0-0 en la cima, mientras Coventry disfruta su 4-1 ante Newcastle.",
+      body: [
+        "Los entrenadores de la Premier League ofrecen este jueves sus conferencias previas a la septima jornada, que se pondra en marcha el sabado 17 de octubre en Inglaterra.",
+        "El Manchester City comanda la tabla con 18 puntos tras ganar sus seis compromisos (16 goles a favor y 5 en contra). El conjunto de Pep Guardiola viene de firmar un 3-0 en Anfield frente al Liverpool, con Erling Haaland al frente de la tabla de goleadores.",
+        "El Arsenal de Mikel Arteta ocupa la segunda plaza con 15 puntos (5-0-1) tras superar 2-1 al Leeds, mientras que el Brighton marcha tercero con 13 puntos. El lunes, el Coventry City de Frank Lampard vencio 4-1 al Newcastle para colocarse 14º con 6 puntos. El Tottenham continua 19º con 3 puntos.",
+      ],
+    },
+    de: {
+      title: "Premier League: City halt drei Punkte Vorsprung vor dem 7. Spieltag",
+      subtitle: "Donnerstags-Pressekonferenzen stimmen auf den Neustart ein: Manchester City mit makellosen 18 Punkten vorne.",
+      excerpt: "Die Premier-League-Klubs halten am Donnerstag ihre Medienrunden vor Spieltag 7 ab. City steht bei 6-0-0, wahrend Coventry das 4:1 gegen Newcastle feiert.",
+      body: [
+        "Die Trainer der Premier League treten am Donnerstag vor die Presse, um personelle Updates und taktische Einschatzungen vor dem 7. Spieltag abzugeben, der am Samstag, 17. Oktober, beginnt.",
+        "Manchester City steht mit perfekten 18 Punkten aus sechs Partien an der Spitze (16:5 Tore). Vor der Unterbrechung siegte das Team von Pep Guardiola uberzeugend mit 3:0 beim FC Liverpool an der Anfield Road. Erling Haaland fuhrt die Torschutzenliste an.",
+        "Arsenal folgt mit 15 Punkten (5-0-1) auf Rang zwei nach dem 2:1 uber Leeds United. Brighton belegt mit 13 Punkten Platz drei. Am Montag hatte Coventry City mit einem 4:1 uber Newcastle fur Aufsehen gesorgt und rangiert nun auf Platz 14 mit 6 Punkten. Tottenham bleibt mit 3 Punkten auf Platz 19.",
+      ],
+    },
+    it: {
+      title: "Premier League: il City conserva tre punti di margine verso la 7ª giornata",
+      subtitle: "Le conferenze stampa di giovedi aprono il fine settimana con il Manchester City a punteggio pieno a 18 punti.",
+      excerpt: "Conferenze stampa giovedi nei club di Premier League in vista del 7° turno. City al comando con 6 vittorie su 6, Coventry festeggia il 4-1 sul Newcastle.",
+      body: [
+        "I tecnici di Premier League salgono in cattedra giovedi per fare il punto su infortuni e formazioni prima della settima giornata, in programma sabato 17 ottobre in tutta l'Inghilterra.",
+        "Il Manchester City guida la classifica a punteggio pieno con 18 punti in sei partite (16 gol realizzati, 5 incassati), galvanizzato dal brillante 3-0 centrato ad Anfield contro il Liverpool. Erling Haaland detta legge tra i marcatori.",
+        "L'Arsenal di Mikel Arteta insegue a tre lunghezze al secondo posto con 15 punti (5-0-1), mentre il Brighton e terzo con 13 punti. Lunedi il Coventry City di Frank Lampard ha travolto il Newcastle 4-1 issandosi al 14° posto con 6 punti. Il Tottenham occupa il 19° posto con 3 punti.",
+      ],
+    },
+    pl: {
+      title: "Premier League: City utrzymuje trzy punkty przewagi przed 7. kolejka",
+      subtitle: "Czwartkowe konferencje prasowe zapowiadaja weekendowy restart: Manchester City ma komplet 18 punktow.",
+      excerpt: "Kluby Premier League organizuja w czwartek briefingi przed 7. kolejka. Manchester City prowadzi z bilansem 6-0-0, a Coventry swietuje 4-1 z Newcastle.",
+      body: [
+        "Menedzerowie Premier League spotykaja sie w czwartek z dziennikarzami, aby przedstawic sytuacje kadrowa przed 7. kolejka, ktora wystartuje w sobote 17 pazdziernika.",
+        "Manchester City prowadzi w tabeli z kompletem 18 punktow po szesciu wygranych (bilans bramek 16-5). Podopieczni Pepa Guardioli przed przerwa wygrali pewnie 3-0 na Anfield z Liverpoolem, a Erling Haaland przewodzi klasyfikacji strzelcow.",
+        "Arsenal zajmuje drugie miejsce z 15 punktami (5-0-1) po wygranej 2-1 z Leeds. Brighton jest trzecie z 13 punktami. W poniedzialek Coventry City rozbilo Newcastle 4-1 i awansowalo na 14. lokate z 6 punktami pod wodza Franka Lamparda. Tottenham jest 19. z 3 punktami.",
+      ],
+    },
+    zh: {
+      title: "英超联赛：曼城手握3分优势迎接第7轮角逐",
+      subtitle: "周四赛前发布会聚焦周末重燃战火，蓝月亮6战全胜积18分领跑，阿森纳紧随其后。",
+      excerpt: "英超诸强周四召开第7轮赛前新闻发布会。曼城6战全胜领跑积分榜，考文垂仍在庆祝4-1大胜纽卡斯尔联。",
+      body: [
+        "英超各队主帅周四出席赛前新闻发布会，通报球队伤情及战术备战动态。英超第7轮将于10月17日周六全面开打。",
+        "曼城开局六战全胜积18分高居榜首（打进16球失5球）。瓜迪奥拉的球队在国际比赛日前于安菲尔德客场3-0完胜利物浦，哈兰德继续领跑射手榜。",
+        "阿尔特塔执教的阿森纳以5胜1负积15分位居次席，布莱顿积13分排在第三位。在周一结束的第6轮较量中，考文垂4-1击溃纽卡斯尔联，兰帕德的球队积6分升至第14位。热刺积3分位居第19位。",
+      ],
+    },
+    ja: {
+      title: "プレミアリーグ：首位シティが勝ち点3差を維持して第7節へ",
+      subtitle: "木曜の公式会見で週末再開へ準備完了。6戦全勝のマンチェスター・シティをアーセナルが追走。",
+      excerpt: "プレミアリーグ各クラブが第7節を前に木曜記者会見を開催。シティが勝ち点18で首位、コベントリーはニューカッスル戦4-1勝利の勢いに乗る。",
+      body: [
+        "プレミアリーグの各監督が木曜の公式記者会見に臨み、10月17日土曜にイングランド各地で開幕する第7節に向けた最新情報を語った。",
+        "マンチェスター・シティは開幕6連勝の勝ち点18（16得点5失点）で首位を快走。中断前にはアンフィールドでリバプールに3-0と完勝した。アーリング・ハーランドが得点ランクのトップに立つ。",
+        "アーセナルが勝ち点15（5勝1敗）で2位、ブライトンが勝ち点13で3位につける。月曜にはコベントリーがニューカッスルを4-1で破り、ランパード監督のもと勝ち点6の14位に浮上した。トッテナムは勝ち点3の19位。",
+      ],
+    },
+    ko: {
+      title: "프리미어리그: 맨시티, 승점 3점 차 선두로 7라운드 앞둬",
+      subtitle: "목요일 기자회견으로 주말 리그 재개 준비. 맨시티 6전 전승 승점 18점, 아스널 추격전.",
+      excerpt: "프리미어리그 구단들이 7라운드를 앞두고 목요일 기자회견을 열었다. 맨시티 18점 선두 질주, 코번트리는 뉴캐슬전 4-1 승리 자축.",
+      body: [
+        "프리미어리그 감독들이 10월 17일 토요일 개막하는 7라운드를 앞두고 목요일 미디어 브리핑을 열어 선수단 소식을 전달했다.",
+        "맨체스터 시티는 6경기 전승으로 승점 18점(16득점 5실점)을 기록하며 단독 1위를 달리고 있다. 과르디올라 감독의 맨시티는 안필드 원정에서 리버풀을 3-0으로 완파한 기세를 이어가고 있으며 엘링 홀란이 득점 1위를 지키고 있다.",
+        "아스널이 5승 1패(승점 15점)로 2위에서 맹추격 중이며 브라이턴이 승점 13점으로 3위에 올라 있다. 월요일 코번트리가 뉴캐슬을 4-1로 대파하고 14위(승점 6점)로 도약했다. 토트넘은 승점 3점으로 19위 강등권이다.",
+      ],
+    },
+    ar: {
+      title: "الدوري الإنجليزي: مانشستر سيتي يحتفظ بفارق ثلاث نقاط قبل الجولة 7",
+      subtitle: "المؤتمرات الصحفية ليوم الخميس تمهد لاستئناف المنافسات وسيتي بالعلامة الكاملة بـ18 نقطة.",
+      excerpt: "أندية الدوري الإنجليزي تعقد مؤتمراتها الصحفية الخميس قبل انطلاق الجولة 7. سيتي يتصدر بسجل 6-0-0، وكوفنتري يحتفل بفوزه 4-1 على نيوكاسل.",
+      body: [
+        "يعقد مدربو الدوري الإنجليزي الممتاز مؤتمراتهم الصحفية يوم الخميس لتقديم آخر التحديثات التكتيكية وتقارير الإصابات قبل انطلاق الجولة السابعة يوم السبت 17 أكتوبر.",
+        "يتربع مانشستر سيتي على قمة الترتيب بالعلامة الكاملة برصيد 18 نقطة من ست مباريات (سجل 16 واستقبل 5)، مدعوما بفوزه الكبير 3-0 على ليفربول في أنفيلد، بينما يقود إرلينغ هالاند صدارة الهدافين.",
+        "ويحتل أرسنال المركز الثاني برصيد 15 نقطة (5-0-1) وبرايتون في المركز الثالث برصيد 13 نقطة. وكان كوفنتري سيتي قد حقق فوزا تاريخيا 4-1 على نيوكاسل يوم الاثنين ليرتقي للمركز 14 برصيد 6 نقاط بقيادة فرانك لامبارد، بينما يقبع توتنهام في المركز 19 بـ3 نقاط.",
+      ],
+    },
+  },
+  'wnba-finals-2026-media-day-valkyries-dream-chase-center': {
+    fr: {
+      title: "Finales WNBA : Valkyries et Dream reunies pour le Media Day au Chase Center",
+      subtitle: "San Francisco se prepare pour le match 1 alors que les deux finalistes sortent d'un sweep autoritaire 3-0.",
+      excerpt: "Le Media Day au Chase Center lance officiellement les Finales WNBA 2026 entre Golden State et Atlanta. Coup d'envoi du match 1 samedi sur NBC.",
+      body: [
+        "Les Finales WNBA 2026 s'installent a San Francisco avec la tenue jeudi des sessions officielles du Media Day et des entrainements ouverts au public au Chase Center. Joueuses et entraineurs des Golden State Valkyries et du Dream d'Atlanta ont repondu a la presse a quarante-huit heures du match 1.",
+        "La premiere manche aura lieu samedi 17 octobre a 15 h 30 ET (12 h 30 PT) sur NBC et Peacock. Grace a leur deuxieme place en saison reguliere, les Valkyries disputeront les deux premiers matches a domicile avant de se rendre a Atlanta pour les matches 3 et 4.",
+        "Les deux equipes ont survole leurs demi-finales sur le score de 3-0 : Atlanta a sorti New York 85-83 dans le match 3 grace a 22 points d'Angel Reese pour sa premiere finale depuis 2013, tandis que Golden State a ecarte Las Vegas 87-77 apres prolongation, atteignant les finales des sa deuxieme annee d'existence.",
+      ],
+    },
+    es: {
+      title: "Finales WNBA: Valkyries y Dream se dan cita en el Media Day del Chase Center",
+      subtitle: "San Francisco ultiman detalles para el Juego 1 tras las contundentes barridas por 3-0 de ambas finalistas.",
+      excerpt: "El Media Day en el Chase Center marca el rumbo de las Finales WNBA 2026 entre Golden State Valkyries y Atlanta Dream. El Juego 1 sera el sabado por NBC.",
+      body: [
+        "Las Finales WNBA 2026 arrancan mediaticamente en San Francisco con el Media Day y la practica abierta de este jueves en el Chase Center. Integrantes de las Golden State Valkyries y de Atlanta Dream atendieron a los medios de comunicacion antes del arranque del sabado.",
+        "El Juego 1 esta programado para el sabado 17 de octubre a las 15:30 ET (12:30 PT) por NBC y Peacock. Al contar con mejor preclasificacion, las Valkyries albergaran los Juegos 1 y 2 en el Chase Center antes de que la eliminatoria viaje a Atlanta para los Juegos 3 y 4.",
+        "Ambos conjuntos firmaron sendas barridas 3-0 en semifinales: Atlanta dejo en el camino a Nueva York 85-83 con 22 puntos de Angel Reese, alcanzando sus primeras Finales desde 2013; Golden State despacho a Las Vegas 87-77 en tiempo extra, plantandose en la final en solo su segunda campana en la liga.",
+      ],
+    },
+    de: {
+      title: "WNBA Finals: Valkyries und Dream versammeln sich zum Media Day im Chase Center",
+      subtitle: "San Francisco bereitet sich auf Spiel 1 vor, nachdem beide Finalisten dominante 3:0-Sweeps feierten.",
+      excerpt: "Der Media Day im Chase Center bereitet die Buhne fur die WNBA Finals 2026 zwischen Golden State und Atlanta. Spiel 1 steigt am Samstag auf NBC.",
+      body: [
+        "Die WNBA Finals 2026 nehmen in San Francisco Fahrt auf: Am Donnerstag fanden im Chase Center der offizielle Media Day und das offene Abschlusstraining statt. Spielerinnen und Trainer der Golden State Valkyries und der Atlanta Dream stellten sich den Journalisten vor Spiel 1.",
+        "Spiel 1 beginnt am Samstag, 17. Oktober, um 15:30 ET (12:30 PT) und wird bundesweit auf NBC und Peacock ubertragen. Als hohere Setzung geniessen die Valkyries in den Spielen 1 und 2 Heimrecht, bevor die Best-of-Seven-Serie fur die Spiele 3 und 4 nach Atlanta wechselt.",
+        "Beide Teams setzten sich im Halbfinale mit 3:0 durch: Atlanta Dream besiegte Titelverteidiger New York Liberty mit 85:83 dank 22 Punkten von Angel Reese und steht erstmals seit 2013 im Finale. Die Valkyries schalteten die Aces mit 87:77 nach Verlangerung aus und stehen in ihrer zweiten Saison sensationell im Finale.",
+      ],
+    },
+    it: {
+      title: "Finali WNBA: Valkyries e Dream al Media Day del Chase Center",
+      subtitle: "San Francisco pronta a gara 1 dopo i netti sweep per 3-0 centrati da entrambe le finaliste.",
+      excerpt: "Il Media Day al Chase Center apre il sipario sulle finali WNBA 2026 tra Golden State Valkyries e Atlanta Dream. Gara 1 scatta sabato su NBC.",
+      body: [
+        "Le finali WNBA 2026 entrano nel vivo a San Francisco con il Media Day ufficiale e gli allenamenti aperti del giovedi al Chase Center. Cestiste e allenatori di Golden State Valkyries e Atlanta Dream hanno incontrato la stampa in vista della prima sfida.",
+        "Gara 1 si giochera sabato 17 ottobre alle 15:30 ET (12:30 PT), trasmessa in diretta nazionale da NBC e in streaming su Peacock. Con una testa di serie migliore, le Valkyries ospiteranno gara 1 e gara 2 prima del trasferimento della serie al meglio delle sette ad Atlanta per le gare 3 e 4.",
+        "Entrambe arrivano da un perentorio 3-0 in semifinale: Atlanta ha battuto New York 85-83 con 22 punti di Angel Reese tornando alle Finals per la prima volta dal 2013; Golden State ha eliminato Las Vegas 87-77 all'overtime, approdando all'ultimo atto nella sua seconda stagione assoluta.",
+      ],
+    },
+    pl: {
+      title: "Finaly WNBA: Valkyries i Dream na Media Day w Chase Center",
+      subtitle: "San Francisco szykuje sie do meczu 1 po tym, jak oba zespoly wygraly polfinaly w stosunku 3-0.",
+      excerpt: "Media Day w hali Chase Center zapowiada finaly WNBA 2026 miedzy Golden State Valkyries i Atlanta Dream. Mecz 1 odbedzie sie w sobote w NBC.",
+      body: [
+        "Finaly WNBA 2026 wkraczaja w decydujaca faze w San Francisco wraz z czwartkowym Media Day i otwartym treningiem w hali Chase Center. Koszykarki i sztaby Golden State Valkyries oraz Atlanta Dream rozmawialy z mediami przed sobota.",
+        "Mecz 1 zaplanowano na sobote 17 pazdziernika na godzine 15:30 ET (12:30 PT) w stacji NBC i na platformie Peacock. Wyzej rozstawione Valkyries rozegraja u siebie mecze 1 i 2, a seria do czterech zwyciestw przeniesie sie do Atlanty na mecze 3 i 4.",
+        "Oba kluby zamknely polfinaly wynikiem 3-0: Dream wyeliminowaly obronczynie tytulu z Nowego Jorku 85-83 dzieki 22 punktom Angel Reese, wracajac do finalu pierwszy raz od 2013 roku, a Valkyries ograly Aces 87-77 po dogrywce w swoim zaledwie drugim sezonie w lidze.",
+      ],
+    },
+    zh: {
+      title: "WNBA总决赛：女武神与梦想齐聚大通中心媒体日",
+      subtitle: "两支总决赛队伍半决赛均以3-0横扫晋级，旧金山进入总决赛G1时间。",
+      excerpt: "大通中心媒体日周四正式拉开2026年WNBA总决赛序幕。金州女武神与亚特兰大梦想备战周六NBC全美直播的揭幕战。",
+      body: [
+        "2026年WNBA总决赛媒体日周四在旧金山大通中心举行，金州女武神与亚特兰大梦想的将帅出席新闻发布会并进行了公开训练，为周六打响的总决赛G1做最后准备。",
+        "总决赛首战将于10月17日周六美东时间15:30（太平洋时间12:30）开球，由NBC与Peacock联合全美直播。凭借更高的种子顺位，女武神拥有主场优势，将承办G1和G2，随后七战四胜制的系列赛将移师亚特兰大进行G3和G4。",
+        "两队在半决赛中均打出摧枯拉朽的表现：亚特兰大梦想在G3以85-83险胜卫冕冠军自由人，安吉尔·里斯砍下22分率队自2013年以来首度重返总决赛；金州女武神则在加时赛以87-77力克王牌，在建队第二年便历史性杀入总决赛。",
+      ],
+    },
+    ja: {
+      title: "WNBAファイナル：ヴァルキリーズとドリームがチェイス・センターのメディアデーに集結",
+      subtitle: "両チームとも3勝0敗のスイープで進出。サンフランシスコで第1戦へ向けて準備が整う。",
+      excerpt: "チェイス・センターでの木曜メディアデーで2026年WNBAファイナルの幕が開く。ゴールデンステート対アトランタの第1戦は土曜NBC生中継。",
+      body: [
+        "2026年のWNBAファイナルに向けて、木曜にサンフランシスコのチェイス・センターで公式メディアデーと公開練習が開催された。ゴールデンステート・ヴァルキリーズとアトランタ・ドリームの選手・監督が取材に応じ、土曜の第1戦へ意気込みを語った。",
+        "第1戦は10月17日土曜の米東部15:30（太平洋12:30）に開始され、NBCとPeacockで全米中継される。上位シードのヴァルキリーズが第1戦と第2戦を本拠地で開催し、その後7戦4勝制のシリーズはアトランタへ移動する。",
+        "両チームとも準決勝を3勝0敗のストレートで制した。ドリームは前年覇者リバティを85-83で破り、アンジェル・リースが22得点を挙げて2013年以来の決勝進出を決めた。創設2年目のヴァルキリーズはエイシズを延長87-77で下し、快挙となるファイナル進出を果たした。",
+      ],
+    },
+    ko: {
+      title: "WNBA 파이널: 발키리스와 드림, 체이스 센터 미디어 데이에서 격돌 예고",
+      subtitle: "양 팀 모두 3전 전승 스윕으로 결승 진출. 샌프란시스코에서 1차전 카운트다운 돌입.",
+      excerpt: "체이스 센터 미디어 데이로 2026 WNBA 파이널 막이 올랐다. 골든스테이트와 애틀랜타의 1차전은 토요일 NBC에서 생중계된다.",
+      body: [
+        "2026 WNBA 파이널이 목요일 샌프란시스코 체이스 센터에서 열린 공식 미디어 데이와 공개 연습으로 분위기를 끌어올렸다. 골든스테이트 발키리스와 애틀랜타 드림 선수단은 토요일 1차전을 앞두고 취재진과 만났다.",
+        "1차전은 10월 17일 토요일 미 동부 15:30(태평양 12:30)에 열리며 NBC와 Peacock을 통해 전국 중계된다. 상위 시드인 발키리스가 1차전과 2차전을 안방에서 치르며, 이후 7전 4선승제 시리즈는 애틀랜타로 이동한다.",
+        "두 팀 모두 4강 플레이오프를 3-0 완승으로 장식했다. 애틀랜타 드림은 엔젤 리스의 22득점 활약 속에 디펜딩 챔피언 리버티를 85-83으로 꺾고 2013년 이후 처음 결승에 올랐다. 창단 2년 차 발키리스는 에이시스를 연장 끝에 87-77로 제압하고 구단 사상 첫 파이널 진출을 이뤘다.",
+      ],
+    },
+    ar: {
+      title: "نهائيات WNBA: فالكيريز ودريم يجتمعان في اليوم الإعلامي بملعب تشيس سنتر",
+      subtitle: "سان فرانسيسكو تستعد للمباراة 1 بعد تأهل الفريقين باكتساح تام 3-0 في نصف النهائي.",
+      excerpt: "اليوم الإعلامي في تشيس سنتر يمهد لانطلاق نهائيات WNBA 2026 بين غولدن ستيت فالكيريز وأتلانتا دريم. المباراة 1 تنطلق السبت عبر NBC.",
+      body: [
+        "انطلقت فعاليات نهائيات دوري WNBA 2026 في سان فرانسيسكو يوم الخميس مع جلسات اليوم الإعلامي والتدريبات المفتوحة في قاعة تشيس سنتر، حيث تحدث لاعبو ومدربو فريقي غولدن ستيت فالكيريز وأتلانتا دريم لوسائل الإعلام قبل المباراة الأولى.",
+        "تقام المباراة الأولى يوم السبت 17 أكتوبر عند الساعة 15:30 بتوقيت شرق أمريكا (12:30 بتوقيت المحيط الهادئ) عبر شبكة NBC وPeacock. وبصفتها المصنفة الأعلى، تستضيف فالكيريز المباراتين 1 و2 على أرضها قبل انتقال السلسلة المكونة من سبع مباريات إلى أتلانتا.",
+        "وتأهل الفريقان بعد اكتساح نصف النهائي بنتيجة 3-0، حيث أقصى أتلانتا حامل اللقب نيويورك ليبرتي 85-83 بفضل 22 نقطة من أنجيل ريس ليعود للنهائي لأول مرة منذ 2013، فيما حسم فالكيريز سلسلته أمام لاس فيغاس 87-77 بالتمديد في موسمه الثاني بالدوري.",
+      ],
+    },
+  },
+  'f1-us-gp-austin-sprint-weekend-antonelli-mercedes-2026': {
+    fr: {
+      title: "F1 : A une semaine d'Austin, Mercedes vise le titre Constructeurs au COTA",
+      subtitle: "Kimi Antonelli possede 102 points d'avance tandis que Mercedes peut sceller la couronne au Texas.",
+      excerpt: "La Formule 1 entame le compte a rebours du Grand Prix des Etats-Unis a Austin. Antonelli devance Russell de 102 points et Mercedes touche au but.",
+      body: [
+        "A exactement une semaine des premiers essais libres, le monde de la Formule 1 se tourne vers Austin et le Circuit des Ameriques pour le Grand Prix des Etats-Unis 2026 (23-25 octobre).",
+        "Le trace texan de 5,513 km accueillera la 19e manche de la saison sur 56 tours le dimanche 25 octobre. Le rendez-vous comprendra egalement un format Sprint le samedi, offrant des points capitaux pour les deux championnats.",
+        "Kimi Antonelli trone en tete du classement des pilotes avec 340 points apres sa place sur le podium a Singapour. Son coequipier chez Mercedes George Russell est deuxieme avec 238 points (102 points d'ecart), tandis que Max Verstappen suit au troisieme rang avec 221 points. Au championnat des constructeurs, Mercedes totalise 578 points contre 444 pour Ferrari, et pourrait mathematiquement decrocher le titre mondial a Austin.",
+      ],
+    },
+    es: {
+      title: "F1: A una semana de Austin, Mercedes puede coronarse campeon de Constructores",
+      subtitle: "Kimi Antonelli administra 102 puntos de renta y Mercedes tiene a tiro el campeonato de equipos en COTA.",
+      excerpt: "La Formula 1 entra en la cuenta atras para el GP de Estados Unidos en Austin. Antonelli lidera sobre Russell y Mercedes busca asegurar el titulo de escuderias.",
+      body: [
+        "A falta de una semana exacta para el inicio de la actividad en pista, la Formula 1 enfoca sus miradas hacia el Circuito de las Americas en Austin para el Gran Premio de Estados Unidos 2026 (23 al 25 de octubre).",
+        "El trazado de 5,513 kilometros albergara la decimonovena ronda del ano a 56 vueltas el domingo 25 de octubre. El fin de semana texano se disputara bajo formato Sprint, otorgando puntos adicionales tanto el sabado como el domingo.",
+        "Kimi Antonelli lidera el Mundial con 340 puntos tras su podio en Singapur, con 102 de margen sobre su companero George Russell (238 puntos). Max Verstappen es tercero con 221 puntos. En el campeonato de constructores, Mercedes manda con 578 puntos frente a los 444 de Ferrari y podria proclamarse matematicamente campeona si logra la ventaja necesaria en Austin.",
+      ],
+    },
+    de: {
+      title: "Formel 1: Noch eine Woche bis Austin: Mercedes winkt der Konstrukteurstitel am COTA",
+      subtitle: "Kimi Antonelli verteidigt 102 Punkte Vorsprung, wahrend Mercedes in Texas den Sack zumachen kann.",
+      excerpt: "Die Formel 1 zahlt die Tage bis zum Großen Preis der USA in Austin. Antonelli fuhrt vor Russell und Mercedes greift nach der Konstrukteurs-Krone.",
+      body: [
+        "Genau eine Woche vor den ersten Trainingssessions richtet sich der Blick des Formel-1-Fahrerlagers auf Austin, Texas, wo vom 23. bis 25. Oktober der Große Preis der USA 2026 auf dem Circuit of the Americas ausgetragen wird.",
+        "Der 5,513 Kilometer lange Kurs ist am Sonntag, 25. Oktober, Schauplatz des 19. Saisonrennens uber 56 Runden. Das Wochenende wird im Sprint-Format ausgetragen und bietet somit zusatzliche Weltmeisterschaftspunkte.",
+        "Kimi Antonelli fuhrt die Fahrerwertung mit 340 Punkten nach seinem Podesterfolg in Singapur souveran an. Mercedes-Teamkollege George Russell folgt mit 238 Punkten auf Rang zwei (102 Punkte Ruckstand), Max Verstappen ist Dritter mit 221 Punkten. In der Konstrukteurswertung fuhrt Mercedes mit 578 Punkten vor Ferrari (444 Punkte) und kann den Titelgewinn in Texas rechnerisch perfekt machen.",
+      ],
+    },
+    it: {
+      title: "F1: A una settimana da Austin, la Mercedes vede il titolo Costruttori al COTA",
+      subtitle: "Kimi Antonelli custodisce 102 punti di vantaggio e il team di Brackley punta al colpo grosso in Texas.",
+      excerpt: "Scatta il conto alla rovescia di una settimana per il Gran Premio degli Stati Uniti al COTA. Antonelli guida su Russell e Mercedes vede l'iride.",
+      body: [
+        "A esattamente sette giorni dall'accensione dei motori per le prime prove libere, il paddock della Formula 1 mette nel mirino Austin, in Texas, per il Gran Premio degli Stati Uniti 2026 (23-25 ottobre).",
+        "Il tracciato da 5,513 chilometri del Circuit of the Americas sara teatro del diciannovesimo appuntamento stagionale su 56 giri domenica 25 ottobre. La tappa texana sara valida come weekend Sprint, con punti pesanti assegnati gia al sabato.",
+        "Kimi Antonelli comanda la classifica piloti con 340 punti dopo il podio di Singapore. Il compagno in Mercedes George Russell insegue a quota 238 con un ritardo di 102 lunghezze, davanti a Max Verstappen terzo a 221. Nel mondiale costruttori la Mercedes guida a 578 punti contro i 444 della Ferrari e potrebbe chiudere i conti per il titolo iridato ad Austin.",
+      ],
+    },
+    pl: {
+      title: "F1: Tydzien do Austin: Mercedes przed szansa na mistrzostwo konstruktorow na COTA",
+      subtitle: "Kimi Antonelli kontroluje 102 punkty przewagi, a Mercedes moze przypieczetowac tytul w Teksasie.",
+      excerpt: "Formula 1 rozpoczyna jednotygodniowe odliczanie do GP Stanow Zjednoczonych. Antonelli prowadzi przed Russellem, a Mercedes siega po korone zespolowa.",
+      body: [
+        "Dokladnie tydzien dzieli Formule 1 od wyjazdu bolidow na tor Circuit of the Americas w Austin w Teksasie na Grand Prix Stanow Zjednoczonych 2026 (23-25 pazdziernika).",
+        "Liczący 5,513 km tor ugosci 19. runde mistrzostw swiata na dystansie 56 okrazen w niedziele 25 pazdziernika. W Teksasie obowiazywac bedzie format Sprintu, co oznacza dodatkowe punkty w sobote.",
+        "Kimi Antonelli przewodzi klasyfikacji kierowcow z dorobkiem 340 punktow po podium w Singapurze. George Russell traci 102 punkty (238 pkt), a Max Verstappen jest trzeci z 221 punktami. W klasyfikacji konstruktorow Mercedes zgromadzil 578 punktow przy 444 punktach Ferrari i juz w Austin moze matematycznie zapewnic sobie mistrzowski tytul.",
+      ],
+    },
+    zh: {
+      title: "F1：奥斯汀站进入一周倒计时，梅赛德斯美洲赛道冲击车队总冠军",
+      subtitle: "安东内利手握102分领先优势，梅赛德斯车队有望在德州提前加冕年度车队冠军。",
+      excerpt: "F1美国大奖赛进入最后一周倒计时。安东内利积340分领跑积分榜，梅赛德斯剑指奥斯汀车队总冠军。",
+      body: [
+        "距离2026年F1美国大奖赛（10月23日至25日）首次自由练习赛整整一周，围场目光已全面聚焦位于德克萨斯州奥斯汀的美洲赛道（COTA）。",
+        "全长5.513公里的美洲赛道将于10月25日周日进行56圈的正赛较量。奥斯汀站还将采用冲刺赛赛制，在三天的赛程中提供额外的车手与车队积分。",
+        "基米·安东内利在新加坡站登上领奖台后积340分领跑车手榜，队友拉塞尔积238分位列次席（落后102分），维斯塔潘以221分排名第三。在车队积分榜上，梅赛德斯以578分对阵法拉利的444分保持134分优势，若在奥斯汀进一步拉开差距，便可提前锁定2026赛季车队世界冠军。",
+      ],
+    },
+    ja: {
+      title: "F1：オースティンまであと1週間、メルセデスがCOTAで製造者タイトル獲得に王手",
+      subtitle: "キミ・アントネッリが102点リードを維持し、メルセデスはテキサスで戴冠を目指す。",
+      excerpt: "F1アメリカGPまであと1週間のカウントダウン。アントネッリがラッセルを102点リードし、メルセデスが製造者王座獲得へ。",
+      body: [
+        "最初のフリー走行セッションまであとちょうど1週間となり、F1サーカスは10月23-25日にテキサス州オースティンのサーキット・オブ・ジ・アメリカズ（COTA）で開催される2026年アメリカGPへ視線を向けている。",
+        "全長5.513キロのCOTAを舞台に、10月25日日曜に56周の第19戦決勝が行われる。オースティン戦はスプリント形式で行われ、週末を通じて追加ポイントが争われる。",
+        "ドライバーズ選手権ではシンガポールで表彰台に登ったキミ・アントネッリが340点で首位を守り、同僚のジョージ・ラッセルが238点（102点差）で追う。フェルスタッペンが221点で3位。コンストラクターズ選手権ではメルセデスが578点でフェラーリ（444点）に134点差をつけており、オースティンでタイトル確定の可能性がある。",
+      ],
+    },
+    ko: {
+      title: "F1: 오스틴 대회 D-7, 메르세데스 COTA에서 컨스트럭터 챔피언 확정 조준",
+      subtitle: "키미 안토넬리 102점 차 리드, 메르세데스는 텍사스에서 팀 챔피언십 조기 확정 노려.",
+      excerpt: "F1 미국 그랑프리 개막이 일주일 앞으로 다가왔다. 안토넬리가 러셀을 102점 차로 앞서며 메르세데스는 팀 우승을 정조준한다.",
+      body: [
+        "첫 연습 세션까지 정확히 1주일이 남은 가운데 포뮬러 1의 시선은 10월 23일부터 25일까지 텍사스주 오스틴의 서킷 오브 디 아메리카스(COTA)에서 열리는 2026 미국 그랑프리로 향하고 있다.",
+        "5.513km 길이의 서킷에서 10월 25일 일요일 56랩에 걸쳐 19라운드 결승이 치러진다. 오스틴 대회는 스프린트 포맷이 적용되어 주말 동안 더 많은 챔피언십 포인트가 걸려 있다.",
+        "드라이버 챔피언십에서는 싱가포르 포디엄에 오른 키미 안토넬리가 340점으로 선두를 질주하고 있으며, 팀 동료 조지 러셀이 238점으로 102점 차 2위, 페르스타펜이 221점으로 3위다. 컨스트럭터 부문에서는 메르세데스가 578점으로 페라리(444점)에 134점 앞서 있어 오스틴에서 우승을 조기 확정지을 수 있다.",
+      ],
+    },
+    ar: {
+      title: "فورمولا 1: أسبوع واحد قبل أوستن ومرسيدس تتطلع لحسم لقب الصانعين في COTA",
+      subtitle: "كيمي أنتونيلي يحافظ على فارق 102 نقطة ومرسيدس تستعد للتتويج في تكساس.",
+      excerpt: "بدأ العد التنازلي لمدة أسبوع لسباق جائزة الولايات المتحدة الكبرى. أنتونيلي يتقدم على راسل بـ102 نقطة ومرسيدس تقترب من اللقب.",
+      body: [
+        "مع بقاء أسبوع واحد بالضبط حتى انطلاق التجارب الحرة، تتجه أنظار مجتمع الفورمولا 1 نحو حلبة COTA في أوستن بولاية تكساس لاستضافة جائزة الولايات المتحدة الكبرى 2026 (23-25 أكتوبر).",
+        "تستضيف الحلبة البالغ طولها 5.513 كم الجولة التاسعة عشرة المكونة من 56 لفة يوم الأحد 25 أكتوبر، وسيقام السباق بنظام السبرينت السريع ليوفر نقاطا إضافية على مدار الأيام الثلاثة.",
+        "يتصدر كيمي أنتونيلي الترتيب العام للسائقين برصيد 340 نقطة، متقدما بفارق 102 نقطة على زميله في مرسيدس جورج راسل (238 نقطة)، فيما يحتل ماكس فيرستابن المركز الثالث بـ221 نقطة. وفي بطولة الصانعين، تجمع مرسيدس 578 نقطة مقابل 444 لفيراري، وتمتلك فرصة حسم اللقب رسميا في أوستن.",
+      ],
+    },
+  },
+  'pga-tour-fall-hiatus-bermuda-field-announcements-2026': {
+    fr: {
+      title: "PGA Tour : La pause automnale se poursuit, le plateau des Bermudes se dessine",
+      subtitle: "Sans tournoi cette semaine, les premiers engagements se confirment pour le rendez-vous a 6 millions a Port Royal.",
+      excerpt: "Le PGA Tour observe sa coupure de la mi-octobre. Le titre de Michael Brennan reste d'actualite en attendant le Butterfield Bermuda Championship.",
+      body: [
+        "Le calendrier du PGA Tour ne comporte aucune epreuve officielle au cours de la semaine du 13 au 19 octobre 2026. Apres les tournois de l'Utah et du Japon, le calendrier d'automne offre aux joueurs un moment de recuperation avant la derniere serie internationale de trois rendez-vous.",
+        "La victoire de Michael Brennan au Baycurrent Classic a Yokohama constitue le dernier resultat valide. Brennan s'etait impose a 16 sous le par avec un tour final en 68 pour empocher 1,44 million de dollars.",
+        "Le circuit reprendra la semaine prochaine avec le Butterfield Bermuda Championship, prevu du 22 au 25 octobre sur le parcours de Port Royal a Southampton (Bermudes), dote de 6 millions de dollars. Adam Schenk est le tenant du titre, et les premieres inscriptions annoncees jeudi augurent d'une lutte intense pour le maintien dans le top 125.",
+      ],
+    },
+    es: {
+      title: "PGA Tour: La pausa de otono continua y se perfila el cuadro para Bermudas",
+      subtitle: "Sin torneo esta semana, se anuncian los primeros compromisos para la cita de 6 millones en Port Royal.",
+      excerpt: "El PGA Tour disfruta de su descanso de mediados de octubre. El triunfo de Michael Brennan sigue vigente a la espera del Butterfield Bermuda Championship.",
+      body: [
+        "El calendario del PGA Tour no tiene programado ningun torneo oficial durante la semana del 13 al 19 de octubre de 2026. Tras las paradas en Utah y Japon, las series de otono conceden una pausa a los golfistas antes de afrontar las ultimas tres pruebas internacionales.",
+        "La victoria de Michael Brennan en el Baycurrent Classic de Yokohama es el ultimo resultado clasificado. Brennan firmo un 68 final para ganar con 16 bajo par y llevarse un premio de 1,44 millones de dolares.",
+        "La competicion oficial regresara la proxima semana con el Butterfield Bermuda Championship, del 22 al 25 de octubre en el campo de Port Royal en Southampton, Bermudas, con una bolsa de 6 millones de dolares. Adam Schenk defiende el titulo y las listas previas publicadas este jueves perfilan una dura pugna por asegurar la tarjeta para 2027.",
+      ],
+    },
+    de: {
+      title: "PGA Tour: Herbstpause dauert an, Teilnehmerfeld fur Bermuda nimmt Gestalt an",
+      subtitle: "Ohne Turnier in dieser Woche formieren sich die Zusagen fur das 6-Millionen-Dollar-Event in Port Royal.",
+      excerpt: "Die PGA Tour legt ihre geplante Pause ein. Michael Brennans Sieg beim Baycurrent Classic bleibt aktuell, wahrend die Bermuda Championship naht.",
+      body: [
+        "Der Spielplan der PGA Tour sieht in der Woche vom 13. bis 19. Oktober 2026 kein Turnier vor. Nach den Stationen in Utah und Japan gonnt der FedExCup Fall den Profis eine Verschnaufpause vor den letzten drei Turnieren.",
+        "Der Triumph von Michael Brennan beim Baycurrent Classic in Yokohama bleibt das jungste offizielle Ergebnis. Brennan siegte mit einer Schlussrunde von 68 Schlagon bei 16 unter Par und sicherte sich 1,44 Millionen Dollar Preisgeld.",
+        "Die Tour kehrt nachste Woche mit der Butterfield Bermuda Championship zuruck, die vom 22. bis 25. Oktober auf dem Port Royal Golf Course in Southampton (Bermuda) mit einem Preisgeld von 6 Millionen Dollar stattfindet. Adam Schenk tritt als Titelverteidiger an, und die ersten Anmeldungen vom Donnerstag versprechen einen spannenden Kampf um die Tour-Karten fur 2027.",
+      ],
+    },
+    it: {
+      title: "PGA Tour: Prosegue la pausa autunnale, si delinea il field per le Bermuda",
+      subtitle: "Nessun torneo in calendario questa settimana; arrivano le prime conferme per i 6 milioni di Port Royal.",
+      excerpt: "Il PGA Tour osserva il break di meta ottobre. Il successo di Michael Brennan resta il piu recente mentre ci si prepara al Butterfield Bermuda Championship.",
+      body: [
+        "Il calendario del PGA Tour non prevede tornei ufficiali nella settimana dal 13 al 19 ottobre 2026. Dopo gli appuntamenti nello Utah e in Giappone, il circuito osserva una sosta prima del trittico finale di fine stagione.",
+        "La vittoria di Michael Brennan al Baycurrent Classic di Yokohama resta l'ultimo verdetto ufficiale. Brennan ha chiuso con un 68 finale a 16 sotto il par, incassando una prima moneta da 1,44 milioni di dollari.",
+        "Le gare riprenderanno la prossima settimana con il Butterfield Bermuda Championship, in programma dal 22 al 25 ottobre al Port Royal Golf Course di Southampton (Bermuda) con 6 milioni di dollari di montepremi. Adam Schenk e il campione in carica, e le prime adesioni comunicate giovedi delineano una serrata battaglia per la top 125.",
+      ],
+    },
+    pl: {
+      title: "PGA Tour: Trwa jesienna pauza, krystalizuje sie obsada turnieju na Bermudach",
+      subtitle: "Brak turnieju w tym tygodniu; naplywaja pierwsze zgloszenia do imprezy z pula 6 mln dolarow w Port Royal.",
+      excerpt: "PGA Tour ma wolny tydzien w polowie pazdziernika. Triumf Michaela Brennana pozostaje najswiezszy przed Butterfield Bermuda Championship.",
+      body: [
+        "Kalendarz PGA Tour nie przewiduje zadnego oficjalnego turnieju w tygodniu od 13 do 19 pazdziernika 2026 roku. Po zmaganiach w Utah i Japonii zawodnicy maja krotka przerwe przed ostatnimi trzema miedzynarodowymi startami jesieni.",
+        "Sukces Michaela Brennana w turnieju Baycurrent Classic w Jokohamie to ostatni oficjalny wynik. Brennan z wynikiem 16 ponizej par (runda finalowa 68) zainkasowal 1,44 miliona dolarow.",
+        "Rywalizacja powroci w przyszlym tygodniu turniejem Butterfield Bermuda Championship, ktory odbedzie sie w dniach 22-25 pazdziernika na polu Port Royal w Southampton na Bermudach z pula nagrod 6 milionow dolarow. Adam Schenk broni tytulu, a czwartkowe zgloszenia zapowiadaja zacieta walke o utrzymanie karty na 2027 rok.",
+      ],
+    },
+    zh: {
+      title: "美巡赛：秋季休赛期持续，百慕大锦标赛参赛阵容初见端倪",
+      subtitle: "本周无官方赛事，皇家港球场总奖金600万美元的赛事周四公布首批确认参赛球手。",
+      excerpt: "美巡赛迎来10月中旬休赛周。迈克尔·布伦南的横滨胜利依旧耀眼，巡回赛正蓄力下周巴特菲尔德百慕大锦标赛。",
+      body: [
+        "在2026年10月13日至19日当周，美巡赛赛程未安排任何正式锦标赛。在连续转战犹他与日本之后，联邦快递杯秋季赛迎来短暂调整周，供球员备战最后三站国际赛事。",
+        "迈克尔·布伦南在日本横滨乡村俱乐部举办的Baycurrent精英赛中夺冠，是目前最新的官方赛果。布伦南决赛轮交出68杆，以低于标准杆16杆的268杆总成绩摘得桂冠并收获144万美元奖金。",
+        "美巡赛下周将重返大西洋赛场，于10月22日至25日在百慕大南安普敦的皇家港高尔夫球场举行巴特菲尔德百慕大锦标赛，赛事总奖金为600万美元。亚当·申克为卫冕冠军，周四公布的早期参赛名单预示着争夺2027赛季前125名参赛席位的保卡战即将打响。",
+      ],
+    },
+    ja: {
+      title: "PGAツアー：秋の休催週が継続、バミューダ選手権の出場枠が固まり始める",
+      subtitle: "今週は大会開催なし。ポートロイヤルで行われる賞金総額600万ドル大会の出場選手が判明。",
+      excerpt: "PGAツアーは10月中旬のオープンウィーク。マイケル・ブレナンの横浜優勝が最新記録のまま、来週のバミューダ選手権へ。",
+      body: [
+        "PGAツアーの日程では2026年10月13日から19日の週に公式戦は組まれていない。ユタと日本での連戦を終え、フェデックスカップ・フォールは最後の3連戦を前に小休止を迎えている。",
+        "横浜カントリークラブで開催されたベイカレント・クラシックでのマイケル・ブレナンの優勝が最新の公式結果となっている。ブレナンは最終日68をマークし、通算16アンダーで米ツアー初優勝と賞金144万ドルを獲得した。",
+        "ツアーは来週、10月22-25日にバミューダのポートロイヤル・ゴルフコースで開催されるバターフィールド・バミューダ選手権（賞金総額600万ドル）で再開する。アダム・シェンクが前年覇者として出場予定で、木曜に発表された予備登録メンバーからもシード権を巡る激戦が予想される。",
+      ],
+    },
+    ko: {
+      title: "PGA 투어: 가을 휴식기 지속, 버뮤다 챔피언십 출전 명단 윤곽",
+      subtitle: "이번 주 공식 대회 없음. 포트로열에서 열리는 600만 달러 대회의 1차 출전 확정자 발표.",
+      excerpt: "PGA 투어가 10월 중순 휴식기를 보내고 있다. 마이클 브레넌의 베이커런트 우승이 최신 기록으로 유지되는 가운데 버뮤다 대회 준비가 한창이다.",
+      body: [
+        "2026년 10월 13일부터 19일까지 주간에는 PGA 투어 공식 대회가 열리지 않는다. 유타와 일본으로 이어진 일정을 마친 페덱스컵 폴 시리즈는 마지막 3개 대회를 앞두고 숨고르기에 들어갔다.",
+        "일본 요코하마에서 열린 베이커런트 클래식에서 마이클 브레넌이 거둔 우승이 가장 최근의 공식 기록이다. 브레넌은 최종 라운드 68타, 합계 16언더파로 생애 첫 PGA 투어 타이틀과 144만 달러를 차지했다.",
+        "투어는 다음 주 10월 22일부터 25일까지 버뮤다 사우샘프턴의 포트로열 골프코스에서 열리는 버터필드 버뮤다 챔피언십(총상금 600만 달러)으로 재개된다. 애덤 솅크가 디펜딩 챔피언이며, 목요일 발표된 초기 엔트리를 통해 2027년 출전권 확보를 위한 치열한 순위 싸움이 예고되었다.",
+      ],
+    },
+    ar: {
+      title: "جولة PGA: استمرار راحة الخريف وقائمة بطولة برمودا تبدأ في التشكل",
+      subtitle: "لا بطولات رسمية هذا الأسبوع؛ وإعلان أولى الالتزامات لبطولة بورت رويال بجوائز 6 ملايين دولار.",
+      excerpt: "تأخذ جولة PGA استراحة منتصف أكتوبر المجدولة. تتويج مايكل برينان في بايكرنت يظل الأحدث بينما تستعد الجولة لبطولة برمودا.",
+      body: [
+        "لا يشتمل جدول جولة PGA على أي بطولات معتمدة خلال أسبوع 13 إلى 19 أكتوبر 2026. بعد منافسات يوتا واليابان، يمنح جدول الخريف للاعبين فترة راحة قصيرة قبل الجولة الختامية من ثلاث بطولات دولية.",
+        "يظل فوز مايكل برينان المذهل ببطولة بايكرنت كلاسيك في يوكوهاما باليابان أحدث نتيجة مسجلة رسميا، بعدما أنهى الجولة الأخيرة بـ68 ضربة بمجموع 16 تحت المعيار ونال جائزة 1.44 مليون دولار.",
+        "تستأنف المنافسات الأسبوع المقبل مع بطولة باترفيلد برمودا من 22 إلى 25 أكتوبر في ملعب بورت رويال في ساوثهامبتون ببرمودا، بجوائز إجمالية 6 ملايين دولار. ويعد آدم شينك حامل اللقب، وتظهر الالتزامات الأولية المعلنة يوم الخميس منافسة قوية لتأمين بطاقات الموسم المقبل.",
+      ],
+    },
+  },
 };
