@@ -1,48 +1,56 @@
 {
   "slug": "broncos-at-seahawks-tnf-week6-2026",
-  "headline": "NFL Week 6 TNF: Broncos visit Seahawks at Lumen Field",
+  "headline": "NFL Week 6 TNF: Seahawks at Broncos, no ESPN final",
   "whyCareScore": 9.1,
-  "whyCareReason": "Week 6 opens on Thursday Night Football under Seattle lights. Seahawks are 4-1; Broncos sit 2-3 looking to stay in AFC West contention.",
-  "teaser": "Amazon Prime Video broadcasts Thursday at 8:15 p.m. ET. Bills beat Rams 37-34 in OT to close Week 5. Vikings and 49ers stand 5-0.",
-  "story": "Week 6 of the 2026 NFL season begins Thursday 15 October at Lumen Field in Seattle. The Seattle Seahawks host the Denver Broncos on Amazon Prime Video and NFL+ at 8:15 p.m. ET (5:15 p.m. PT). Seattle enter at 4-1 after opening victories against the Patriots, Cardinals, and Chargers. Denver stand 2-3 after tough losses to the Chiefs and 49ers. Week 5 concluded with Tyler Bass drilling a 45-yard overtime field goal to lift Buffalo over the Rams 37-34 at SoFi Stadium. Unbeaten records belong to the Minnesota Vikings (5-0), San Francisco 49ers (5-0), and Kansas City Chiefs (4-0).",
-  "stakes": "Seattle can push their record to 5-1 and keep pressure on the 49ers in the NFC West. Denver need a road win to reach 3-3.",
-  "rivalryAngle": "A classic former AFC West rivalry renewed under the Lumen Field roar on Thursday night.",
+  "whyCareReason": "ESPN lists Seattle at Denver for Thursday Night Football and prints no score. Both clubs enter 3-2 at Empower Field at Mile High.",
+  "teaser": "Prime Video lists 8:15 p.m. ET. The game page says data is currently unavailable. Vikings and 49ers are 5-0. Chiefs are 4-0.",
+  "story": "The ESPN game page for Thursday 15 October still titles the match Seattle Seahawks at Denver Broncos. The venue is Empower Field at Mile High in Denver. Kickoff is 8:15 p.m. ET on Prime Video. Where a score would sit, the page says data is currently unavailable. Odds remain posted. This card does not print a winner. Seattle enter 3-2. Denver enter 3-2. On 11 October the 49ers beat the Seahawks 32-29, and the Broncos beat the Chargers 23-17. Season passing yards on the game page: Sam Darnold 755 on 63 of 98, with 7 touchdowns and 5 interceptions. Bo Nix 942 on 97 of 162, with 6 touchdowns and 3 interceptions. Jaxon Smith-Njigba has 583 receiving yards. J.K. Dobbins has 229 rushing yards. Emanuel Wilson has 251 rushing yards. ESPN standings on 16 October have not absorbed a Thursday result. Minnesota and San Francisco are 5-0. Kansas City are 4-0. Buffalo, Baltimore and Jacksonville are 4-1.",
+  "stakes": "A result would move the AFC West and the NFC West. ESPN has not posted one. This card stays upcoming.",
+  "rivalryAngle": "Former AFC West clubs meet in Denver. The score is still unposted.",
   "funFacts": [
-    "Kickoff: Thursday 15 October 2026, 8:15 p.m. ET, Prime Video, Lumen Field, Seattle.",
-    "Records: Seahawks 4-1, Broncos 2-3. Unbeaten teams: Vikings 5-0, 49ers 5-0, Chiefs 4-0.",
-    "Week 5 MNF closed with Bills 37, Rams 34 in OT. Ravens beat Falcons 30-23 in OT on Sunday night."
+    "Kickoff: Thursday 15 October 2026, 8:15 p.m. ET, Prime Video, Empower Field at Mile High, Denver.",
+    "Records entering: Seahawks 3-2, Broncos 3-2. Unbeaten: Vikings 5-0, 49ers 5-0, Chiefs 4-0.",
+    "ESPN game page: data is currently unavailable. No final is printed."
   ],
   "keyPlayers": [
     {
       "name": "Sam Darnold",
       "team": "Seattle Seahawks",
-      "hook": "Leads Seattle's 4-1 offense into prime time at Lumen Field."
+      "hook": "755 passing yards, 63 of 98, 7 touchdowns, 5 interceptions on the ESPN game page."
     },
     {
       "name": "Bo Nix",
       "team": "Denver Broncos",
-      "hook": "Looking to guide Denver to 3-3 against a fierce Seattle pass rush."
+      "hook": "942 passing yards, 97 of 162, 6 touchdowns, 3 interceptions on the ESPN game page."
     },
     {
-      "name": "Kenneth Walker III",
+      "name": "Jaxon Smith-Njigba",
       "team": "Seattle Seahawks",
-      "hook": "Rushed for over 100 yards twice this season as Seattle's primary ground weapon."
+      "hook": "583 receiving yards on the ESPN game page."
     }
   ],
-  "headToHead": "Seahawks host Broncos on Thursday 15 October 2026 at Lumen Field.",
-  "tags": ["football", "nfl", "seahawks", "broncos", "tnf", "week-6", "lumen-field"],
-  "home": "Seattle Seahawks",
-  "away": "Denver Broncos",
-  "homeCode": "SEA",
-  "awayCode": "DEN",
+  "headToHead": "Seahawks at Broncos, Thursday 15 October 2026, Empower Field at Mile High. No final posted.",
+  "tags": [
+    "football",
+    "nfl",
+    "seahawks",
+    "broncos",
+    "tnf",
+    "week-6",
+    "empower-field"
+  ],
+  "home": "Denver Broncos",
+  "away": "Seattle Seahawks",
+  "homeCode": "DEN",
+  "awayCode": "SEA",
   "homeFlag": "us",
   "awayFlag": "us",
   "group": "NFL",
   "matchday": 6,
   "date": "2026-10-15",
   "time": "20:15",
-  "venue": "Lumen Field",
-  "city": "Seattle",
+  "venue": "Empower Field at Mile High",
+  "city": "Denver",
   "status": "UPCOMING",
   "homeScore": null,
   "awayScore": null,
@@ -57,11 +65,17 @@
   "format": "team-match",
   "season": "2026",
   "roundLabel": "NFL Week 6 · Thursday Night Football",
-  "resultSummary": "UPCOMING: Thursday 15 October 2026, 8:15 p.m. ET, Prime Video. Seahawks 4-1 host Broncos 2-3. No score.",
+  "resultSummary": "UPCOMING: Seahawks (3-2) at Broncos (3-2), Empower Field, 8:15 p.m. ET, Prime Video. ESPN has no final.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
-    {"name": "NFL.com Week 6 schedule", "url": "https://www.nfl.com/schedules/2026/reg6"},
-    {"name": "ESPN NFL scoreboard", "url": "https://www.espn.com/nfl/scoreboard"}
+    {
+      "name": "ESPN game page",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872995/seahawks-broncos"
+    },
+    {
+      "name": "ESPN NFL standings",
+      "url": "https://www.espn.com/nfl/standings"
+    }
   ]
 }

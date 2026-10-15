@@ -1,0 +1,58 @@
+{
+  "slug": "shanghai-friday-qf-jodar-ruud-medvedev-paul-2026",
+  "headline": "Shanghai Friday: Jodar-Ruud and Medvedev-Paul, no score posted",
+  "whyCareScore": 8.6,
+  "whyCareReason": "ATP lists both quarterfinals for Friday 16 October. The results page still stops at Thursday.",
+  "teaser": "Not before 14:30: Rafael Jodar vs Casper Ruud. Not before 18:00: Daniil Medvedev vs Tommy Paul. No winner is printed.",
+  "story": "The ATP order of play for Friday 16 October at the Rolex Shanghai Masters puts Rafael Jodar against Casper Ruud not before 14:30, then Daniil Medvedev against Tommy Paul not before 18:00, both on Stadium Court. The results page has not added either match. Wednesday is in: Jodar beat van de Zandschulp 6-7 (4), 6-4, 6-2. Ruud led Auger-Aliassime 5-2 when Auger-Aliassime retired. Medvedev beat Tsitsipas 6-4, 7-5. Paul beat Bergs 7-6 (5), 6-4. This card stays upcoming.",
+  "stakes": "The winners meet in the other semifinal. Zverev and Davidovich Fokina are already through on the opposite side.",
+  "rivalryAngle": "Ruud has now reached the quarterfinals at all nine Masters 1000 events, per the ATP report on his win over Auger-Aliassime.",
+  "funFacts": [
+    "Friday order: Jodar (12) vs Ruud (20), not before 14:30.",
+    "Then Medvedev (5) vs Paul (15), not before 18:00.",
+    "No Friday score is on the ATP results page."
+  ],
+  "keyPlayers": [
+    {"name": "Rafael Jodar", "team": "Spain", "hook": "Beat van de Zandschulp 6-7 (4), 6-4, 6-2 to reach the quarterfinal."},
+    {"name": "Casper Ruud", "team": "Norway", "hook": "Advanced when Auger-Aliassime retired at 5-2."},
+    {"name": "Daniil Medvedev", "team": "Neutral", "hook": "Beat Tsitsipas 6-4, 7-5 and plays Paul."}
+  ],
+  "headToHead": "Friday 16 October 2026. No score posted.",
+  "tags": ["tennis", "atp", "shanghai", "jodar", "ruud", "medvedev", "paul"],
+  "home": "Rafael Jodar",
+  "away": "Casper Ruud",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "ATP Masters 1000",
+  "matchday": 12,
+  "date": "2026-10-16",
+  "time": "14:30",
+  "venue": "Qizhong Forest Sports City Arena",
+  "city": "Shanghai",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1405355/pexels-photo-1405355.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Shanghai Masters · Friday quarterfinals",
+  "resultSummary": "UPCOMING: Jodar vs Ruud, then Medvedev vs Paul. ATP has not posted a Friday score.",
+  "leaderboard": [
+    {"pos": "QF", "name": "Rafael Jodar vs Casper Ruud", "score": "not before 14:30", "note": "No score posted"},
+    {"pos": "QF", "name": "Daniil Medvedev vs Tommy Paul", "score": "not before 18:00", "note": "No score posted"}
+  ],
+  "tennisSets": [],
+  "sources": [
+    {"name": "ATP Tour Friday schedule", "url": "https://www.atptour.com/en/news/shanghai-2026-schedule"},
+    {"name": "ATP Tour Shanghai results", "url": "https://www.atptour.com/en/scores/current/shanghai/5014/results"}
+  ]
+}

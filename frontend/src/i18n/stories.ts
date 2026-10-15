@@ -10,6 +10,531 @@ export type StoryI18n = {
 type LocMap = Partial<Record<Exclude<Locale, 'en'>, StoryI18n>>;
 
 export const STORY_I18N: Record<string, LocMap> = {
+"nfl-week6-espn-no-final-seahawks-at-broncos-2026": {
+    "fr": {
+      "title": "ESPN n'a aucun score final pour les Seahawks chez les Broncos",
+      "subtitle": "Les deux clubs arrivent à 3-2. La fiche indique toujours Empower Field, et le classement n'a pas bougé.",
+      "excerpt": "ESPN place Seattle à Denver pour le Thursday Night Football et n'imprime aucun score. Seahawks et Broncos sont à 3-2. Vikings et 49ers sont à 5-0. Chiefs sont à 4-0.",
+      "body": [
+        "La page ESPN du 15 octobre titre toujours Seattle Seahawks à Denver Broncos. Le lieu est Denver, Empower Field at Mile High. Le coup d'envoi est à 20 h 15 ET sur Prime Video. À la place du score, la page dit que les données ne sont pas disponibles. Les cotes restent affichées. Ce bureau n'imprime pas de vainqueur. Seattle arrive à 3-2. Denver arrive à 3-2. Le 11 octobre, les 49ers ont battu les Seahawks 32-29, et les Broncos ont battu les Chargers 23-17.",
+        "Yards de passe sur cette page: Sam Darnold 755, 63 sur 98, 7 touchdowns et 5 interceptions. Bo Nix 942, 97 sur 162, 6 touchdowns et 3 interceptions. Jaxon Smith-Njigba a 583 yards de réception. J.K. Dobbins a 229 yards au sol. Emanuel Wilson a 251 yards au sol. Pat Surtain II (cheville) et Talanoa Hufanga (cheville) sont absents pour Denver. Riley Moss (côtes) est incertain. Zach Charbonnet est sur la liste PUP des Seahawks pour un genou. Chazz Surratt (mollet) et Drake Thomas (cheville) sont absents.",
+        "Le classement ESPN du 16 octobre n'a pas absorbé de résultat du jeudi. Minnesota et San Francisco sont à 5-0. Kansas City est à 4-0. Buffalo, Baltimore et Jacksonville sont à 4-1. Les Rams sont à 2-3. Les Chargers sont à 0-5. Le programme de dimanche reste listé, dont Buffalo à Las Vegas et les Chargers à Kansas City."
+      ]
+    },
+    "es": {
+      "title": "ESPN no tiene un final de Seahawks en Broncos",
+      "subtitle": "Los dos clubes llegan 3-2. La ficha sigue en Empower Field y la tabla no se ha movido.",
+      "excerpt": "ESPN sitúa a Seattle en Denver para el Thursday Night Football y no imprime marcador. Seahawks y Broncos están 3-2. Vikings y 49ers están 5-0. Chiefs están 4-0.",
+      "body": [
+        "La página de ESPN del 15 de octubre sigue titulando Seattle Seahawks en Denver Broncos. La sede es Denver, Empower Field at Mile High. El inicio es a las 20:15 ET en Prime Video. Donde iría el marcador, la página dice que los datos no están disponibles. Las cuotas siguen publicadas. Esta mesa no imprime un ganador. Seattle llega 3-2. Denver llega 3-2. El 11 de octubre los 49ers ganaron a los Seahawks 32-29 y los Broncos ganaron a los Chargers 23-17.",
+        "Yardas de pase en esa página: Sam Darnold 755, 63 de 98, 7 touchdowns y 5 intercepciones. Bo Nix 942, 97 de 162, 6 touchdowns y 3 intercepciones. Jaxon Smith-Njigba tiene 583 yardas de recepción. J.K. Dobbins tiene 229 yardas por tierra. Emanuel Wilson tiene 251 yardas por tierra. Pat Surtain II (tobillo) y Talanoa Hufanga (tobillo) están fuera en Denver. Riley Moss (costillas) es dudoso. Zach Charbonnet está en la lista PUP de Seattle por la rodilla. Chazz Surratt (gemelo) y Drake Thomas (tobillo) están fuera.",
+        "La clasificación de ESPN del 16 de octubre no ha absorbido un resultado del jueves. Minnesota y San Francisco están 5-0. Kansas City está 4-0. Buffalo, Baltimore y Jacksonville están 4-1. Los Rams están 2-3. Los Chargers están 0-5. El calendario del domingo sigue listado, incluido Buffalo en Las Vegas y los Chargers en Kansas City."
+      ]
+    },
+    "de": {
+      "title": "ESPN hat kein Endergebnis für Seahawks bei den Broncos",
+      "subtitle": "Beide Clubs stehen 3-2. Die Spielseite nennt weiter Empower Field, die Tabelle hat sich nicht bewegt.",
+      "excerpt": "ESPN führt Seattle in Denver für Thursday Night Football und druckt keinen Spielstand. Seahawks und Broncos sind 3-2. Vikings und 49ers sind 5-0. Chiefs sind 4-0.",
+      "body": [
+        "Die ESPN-Seite vom 15. Oktober titelt weiter Seattle Seahawks bei den Denver Broncos. Der Ort ist Denver, Empower Field at Mile High. Anstoß ist 20:15 ET bei Prime Video. Dort, wo ein Spielstand stünde, sagt die Seite, die Daten seien derzeit nicht verfügbar. Quoten stehen noch. Dieser Desk druckt keinen Sieger. Seattle kommt mit 3-2. Denver kommt mit 3-2. Am 11. Oktober schlugen die 49ers die Seahawks 32-29, und die Broncos schlugen die Chargers 23-17.",
+        "Passyards auf dieser Seite: Sam Darnold 755, 63 von 98, 7 Touchdowns und 5 Interceptions. Bo Nix 942, 97 von 162, 6 Touchdowns und 3 Interceptions. Jaxon Smith-Njigba hat 583 Receiving Yards. J.K. Dobbins hat 229 Rushing Yards. Emanuel Wilson hat 251 Rushing Yards. Pat Surtain II (Knöchel) und Talanoa Hufanga (Knöchel) fehlen bei Denver. Riley Moss (Rippen) ist fraglich. Zach Charbonnet steht auf der PUP-Liste der Seahawks mit einer Knieverletzung. Chazz Surratt (Wade) und Drake Thomas (Knöchel) fehlen.",
+        "Die ESPN-Tabelle vom 16. Oktober hat kein Donnerstagsergebnis aufgenommen. Minnesota und San Francisco sind 5-0. Kansas City ist 4-0. Buffalo, Baltimore und Jacksonville sind 4-1. Die Rams sind 2-3. Die Chargers sind 0-5. Der Sonntagsspielplan steht noch, darunter Buffalo in Las Vegas und die Chargers in Kansas City."
+      ]
+    },
+    "it": {
+      "title": "ESPN non ha un finale per Seahawks a Broncos",
+      "subtitle": "Entrambi i club arrivano sul 3-2. La scheda indica ancora Empower Field e la classifica non si è mossa.",
+      "excerpt": "ESPN mette Seattle a Denver per il Thursday Night Football e non stampa un punteggio. Seahawks e Broncos sono 3-2. Vikings e 49ers sono 5-0. Chiefs sono 4-0.",
+      "body": [
+        "La pagina ESPN del 15 ottobre titola ancora Seattle Seahawks a Denver Broncos. La sede è Denver, Empower Field at Mile High. Il calcio d'inizio è alle 20:15 ET su Prime Video. Dove starebbe il punteggio, la pagina dice che i dati non sono disponibili. Le quote sono ancora pubblicate. Questa redazione non stampa un vincitore. Seattle arriva 3-2. Denver arriva 3-2. L'11 ottobre i 49ers hanno battuto i Seahawks 32-29 e i Broncos hanno battuto i Chargers 23-17.",
+        "Yard passate su quella pagina: Sam Darnold 755, 63 su 98, 7 touchdown e 5 intercetti. Bo Nix 942, 97 su 162, 6 touchdown e 3 intercetti. Jaxon Smith-Njigba ha 583 yard ricevute. J.K. Dobbins ha 229 yard corse. Emanuel Wilson ha 251 yard corse. Pat Surtain II (caviglia) e Talanoa Hufanga (caviglia) sono out per Denver. Riley Moss (costole) è in dubbio. Zach Charbonnet è sulla lista PUP dei Seahawks per un ginocchio. Chazz Surratt (polpaccio) e Drake Thomas (caviglia) sono out.",
+        "La classifica ESPN del 16 ottobre non ha assorbito un risultato del giovedì. Minnesota e San Francisco sono 5-0. Kansas City è 4-0. Buffalo, Baltimore e Jacksonville sono 4-1. I Rams sono 2-3. I Chargers sono 0-5. Il programma di domenica è ancora in elenco, incluso Buffalo a Las Vegas e i Chargers a Kansas City."
+      ]
+    },
+    "pl": {
+      "title": "ESPN nie ma koncowego wyniku Seahawks u Broncos",
+      "subtitle": "Oba kluby wchodza z bilansem 3-2. Strona meczu nadal wskazuje Empower Field, a tabela sie nie ruszyla.",
+      "excerpt": "ESPN ustawia Seattle w Denver na Thursday Night Football i nie drukuje wyniku. Seahawks i Broncos sa 3-2. Vikings i 49ers sa 5-0. Chiefs sa 4-0.",
+      "body": [
+        "Strona ESPN z 15 pazdziernika nadal tytuluje mecz Seattle Seahawks u Denver Broncos. Obiekt to Denver, Empower Field at Mile High. Poczatek o 20:15 ET na Prime Video. Tam, gdzie bylby wynik, strona pisze, ze dane sa obecnie niedostepne. Kursy nadal wisza. To biuro nie drukuje zwyciezcy. Seattle wchodzi 3-2. Denver wchodzi 3-2. 11 pazdziernika 49ers pokonali Seahawks 32-29, a Broncos pokonali Chargers 23-17.",
+        "Jardow podan na tej stronie: Sam Darnold 755, 63 z 98, 7 przylozen i 5 przechwytow. Bo Nix 942, 97 ze 162, 6 przylozen i 3 przechwyty. Jaxon Smith-Njigba ma 583 jardy zlapane. J.K. Dobbins ma 229 jardow biegiem. Emanuel Wilson ma 251 jardow biegiem. Pat Surtain II (kostka) i Talanoa Hufanga (kostka) sa poza skladem Denver. Riley Moss (zebra) jest niepewny. Zach Charbonnet jest na liscie PUP Seahawks z kontuzja kolana. Chazz Surratt (lydka) i Drake Thomas (kostka) sa poza skladem.",
+        "Tabela ESPN z 16 pazdziernika nie wchlonela wyniku z czwartku. Minnesota i San Francisco sa 5-0. Kansas City jest 4-0. Buffalo, Baltimore i Jacksonville sa 4-1. Rams sa 2-3. Chargers sa 0-5. Niedzielny terminarz nadal jest wylistowany, w tym Buffalo w Las Vegas i Chargers w Kansas City."
+      ]
+    },
+    "zh": {
+      "title": "ESPN没有海鹰客场对野马的终场比分",
+      "subtitle": "两队同为3胜2负。比赛页仍写着Empower Field，排名没有变化。",
+      "excerpt": "ESPN把西雅图客场对丹佛列为周四夜赛，并且没有比分。海鹰和野马都是3-2。维京人与49人是5-0。酋长是4-0。",
+      "body": [
+        "ESPN 10月15日的比赛页标题仍是西雅图海鹰客场对丹佛野马。场地是丹佛的Empower Field at Mile High。开球时间是美东20:15，Prime Video播出。比分位置写着数据目前不可用。赔率仍在。本版不写胜者。西雅图以3-2进入。丹佛以3-2进入。10月11日，49人32-29击败海鹰，野马23-17击败闪电。",
+        "该页赛季传球码数：萨姆·达诺德755码，63投98次，7次达阵、5次拦截。博·尼克斯942码，97投162次，6次达阵、3次拦截。贾克森·史密斯-恩吉巴接球583码。J.K.多宾斯冲球229码。伊曼纽尔·威尔逊冲球251码。帕特·瑟坦二世（脚踝）和塔拉诺阿·胡凡加（脚踝）丹佛缺阵。莱利·莫斯（肋骨）出战成疑。扎克·沙博内因膝盖伤在海鹰PUP名单。查兹·苏拉特（小腿）和德雷克·托马斯（脚踝）缺阵。",
+        "ESPN 10月16日的排名没有纳入周四结果。明尼苏达和旧金山是5-0。堪萨斯城是4-0。布法罗、巴尔的摩和杰克逊维尔是4-1。公羊是2-3。闪电是0-5。周日赛程仍在列表中，包括布法罗客场对拉斯维加斯，以及闪电客场对堪萨斯城。"
+      ]
+    },
+    "ja": {
+      "title": "ESPNにシーホークス対ブロンコスの最終スコアはない",
+      "subtitle": "両クラブは3勝2敗。試合ページはエンパワー・フィールドのままで、順位は動いていない。",
+      "excerpt": "ESPNはサーズデーナイトの試合をシアトルのデンバー戦として載せ、スコアを出していない。シーホークスとブロンコスは3-2。バイキングスと49ersは5-0。チーフスは4-0。",
+      "body": [
+        "10月15日のESPN試合ページの見出しは、今もシアトル・シーホークス対デンバー・ブロンコス（ブロンコスのホーム）。会場はデンバーのEmpower Field at Mile High。キックオフは米東部20:15、Prime Video。スコアの場所には、データは現在利用できないとある。オッズは残っている。このデスクは勝者を書かない。シアトルは3-2。デンバーは3-2。10月11日、49ersがシーホークスに32-29、ブロンコスがチャージャーズに23-17で勝った。",
+        "そのページのシーズンパス獲得ヤード：サム・ダーノルド755、98回中63回成功、タッチダウン7、インターセプト5。ボー・ニックス942、162回中97回成功、タッチダウン6、インターセプト3。ジャクソン・スミス＝ナイジバはレシーブ583ヤード。J.K.ドビンスはラン229ヤード。エマニュエル・ウィルソンはラン251ヤード。パット・サーテイン2世（足首）とタラノア・フファンガ（足首）はデンバーを欠場。ライリー・モス（肋骨）はクエスチョナブル。ザック・シャルボネは膝でシーホークスのPUP。チャズ・サラット（ふくらはぎ）とドレーク・トーマス（足首）は欠場。",
+        "10月16日のESPN順位表は木曜の結果を取り込んでいない。ミネソタとサンフランシスコは5-0。カンザスシティは4-0。バッファロー、ボルティモア、ジャクソンビルは4-1。ラムズは2-3。チャージャーズは0-5。日曜のカードはまだ並んでおり、バッファロー対ラスベガスとチャージャーズ対カンザスシティを含む。"
+      ]
+    },
+    "ko": {
+      "title": "ESPN에 시호크스 대 브롱코스 최종 스코어가 없다",
+      "subtitle": "두 팀은 3승 2패다. 경기 페이지는 여전히 엠파워 필드이고, 순위는 움직이지 않았다.",
+      "excerpt": "ESPN은 서스데이 나이트를 시애틀의 덴버 원정으로 올리고 스코어를 찍지 않았다. 시호크스와 브롱코스는 3-2. 바이킹스와 49ers는 5-0. 치프스는 4-0.",
+      "body": [
+        "10월 15일 ESPN 경기 페이지 제목은 여전히 시애틀 시호크스의 덴버 브롱코스 원정이다. 장소는 덴버 엠파워 필드 앳 마일 하이. 킥오프는 미 동부 20:15, Prime Video. 스코어가 있을 자리에는 데이터를 현재 이용할 수 없다고 적혀 있다. 배당은 그대로다. 이 데스크는 승자를 적지 않는다. 시애틀은 3-2. 덴버는 3-2. 10월 11일 49ers가 시호크스를 32-29로, 브롱코스가 차저스를 23-17로 이겼다.",
+        "그 페이지의 시즌 패싱 야드: 샘 다놀드 755, 98회 중 63회, 터치다운 7, 인터셉트 5. 보 닉스 942, 162회 중 97회, 터치다운 6, 인터셉트 3. 잭슨 스미스-은지바는 리시빙 583야드. J.K. 도빈스는 러싱 229야드. 에마누엘 윌슨은 러싱 251야드. 팻 서튼 2세(발목)와 탈라노아 후팡가(발목)는 덴버 결장. 라일리 모스(갈비뼈)는 출전 불투명. 잭 샤르보네는 무릎으로 시호크스 PUP. 채즈 서랫(종아리)과 드레이크 토머스(발목)는 결장.",
+        "10월 16일 ESPN 순위는 목요일 결과를 반영하지 않았다. 미네소타와 샌프란시스코는 5-0. 캔자스시티는 4-0. 버펄로, 볼티모어, 잭슨빌은 4-1. 램스는 2-3. 차저스는 0-5. 일요일 일정은 그대로이며, 버펄로의 라스베이거스전과 차저스의 캔자스시티전을 포함한다."
+      ]
+    },
+    "ar": {
+      "title": "ESPN بلا نتيجة نهائية لسيهوكس عند برونكوز",
+      "subtitle": "الفريقان يدخلان 3-2. صفحة المباراة ما زالت في إمباور فيلد والترتيب لم يتحرك.",
+      "excerpt": "ESPN تضع سياتل في دنفر لليلة الخميس ولا تطبع نتيجة. سيهوكس وبرونكوز 3-2. فايكنغز و49ers برصيد 5-0. تشيفس 4-0.",
+      "body": [
+        "صفحة ESPN ليوم 15 أكتوبر ما زال عنوانها سياتل سيهوكس عند دنفر برونكوز. الملعب هو إمباور فيلد في دنفر. الانطلاق 20:15 بتوقيت شرق أمريكا على برايم فيديو. في موضع النتيجة تقول الصفحة إن البيانات غير متاحة حاليا. الاحتمالات ما زالت منشورة. هذا المكتب لا يطبع فائزا. سياتل تدخل 3-2. دنفر تدخل 3-2. في 11 أكتوبر فاز 49ers على سيهوكس 32-29، وفاز برونكوز على تشارجرز 23-17.",
+        "ياردات التمرير في تلك الصفحة: سام دارنولد 755، 63 من 98، و7 هبوطات و5 اعتراضات. بو نيكس 942، 97 من 162، و6 هبوطات و3 اعتراضات. جاكسون سميث-نجيغبا لديه 583 ياردة استقبال. جيه كيه دوبنز لديه 229 ياردة ركض. إيمانويل ويلسون لديه 251 ياردة ركض. بات سيرتين الثاني (كاحل) وتالانووا هوفانغا (كاحل) خارج تشكيلة دنفر. رايلي موس (أضلاع) مشكوك. زاك شاربونيه على قائمة PUP لدى سيهوكس لإصابة ركبة. تشاز سورات (سمانة) ودريك توماس (كاحل) خارجان.",
+        "ترتيب ESPN في 16 أكتوبر لم يستوعب نتيجة الخميس. مينيسوتا وسان فرانسيسكو 5-0. كانساس سيتي 4-0. بافلو وبالتيمور وجاكسونفيل 4-1. رامز 2-3. تشارجرز 0-5. جدول الأحد ما زال مدرجا، ومنه بافلو في لاس فيغاس وتشارجرز في كانساس سيتي."
+      ]
+    }
+  },
+  "shanghai-masters-2026-friday-zverev-through-qf-open": {
+    "fr": {
+      "title": "Zverev bat de Minaur 6-4, 6-4. Les quarts de vendredi n'ont pas de score",
+      "subtitle": "L'ATP a imprimé la victoire de jeudi. Jodar-Ruud et Medvedev-Paul sont à l'ordre du jour de vendredi, sans résultat.",
+      "excerpt": "Alexander Zverev a battu Alex de Minaur 6-4, 6-4. Davidovich Fokina était déjà qualifié après l'abandon de Gea à 4-1. Les deux quarts de vendredi ne sont pas sur la page des résultats.",
+      "body": [
+        "L'ATP inscrit jeudi 15 octobre comme terminé pour la moitié haute du Rolex Shanghai Masters. Alexander Zverev, tête de série numéro 1, a battu Alex de Minaur 6-4, 6-4 en 1 h 17 sur le court central. Le site Rolex imprime le même score. Alejandro Davidovich Fokina était déjà qualifié quand Arthur Gea a abandonné à 4-1. Le rapport Rolex dit que Zverev a gagné 80 pour cent des points sur première balle, 35 sur 44, et a servi 10 aces. Le match a duré 78 minutes. Il est numéro 1 mondial en fin d'année. Jannik Sinner reste absent pour le reste de la saison. Zverev joue Davidovich Fokina en demi-finale samedi.",
+        "La note de programme de l'ATP pour vendredi 16 octobre ouvre le court central à 12:00. Le double commence. Rafael Jodar, tête de série 12, joue Casper Ruud, tête de série 20, pas avant 14:30. Daniil Medvedev, tête de série 5, joue Tommy Paul, tête de série 15, pas avant 18:00. La page des résultats s'arrête à jeudi. Ce bureau n'invente pas ces deux scores.",
+        "Mercredi est déjà imprimé. Jodar a battu Botic van de Zandschulp 6-7 (4), 6-4, 6-2. Ruud menait 5-2 contre Felix Auger-Aliassime quand le Canadien a abandonné. Medvedev a battu Stefanos Tsitsipas 6-4, 7-5. Paul a battu Zizou Bergs 7-6 (5), 6-4."
+      ]
+    },
+    "es": {
+      "title": "Zverev vence a de Minaur 6-4, 6-4. Los cuartos del viernes no tienen marcador",
+      "subtitle": "La ATP imprimió el triunfo del jueves. Jodar-Ruud y Medvedev-Paul están en el orden de juego del viernes, sin resultado.",
+      "excerpt": "Alexander Zverev venció a Alex de Minaur 6-4, 6-4. Davidovich Fokina ya había pasado cuando Gea se retiró 4-1. Los dos cuartos del viernes no están en la página de resultados.",
+      "body": [
+        "La ATP deja el jueves 15 de octubre como cerrado en la mitad alta del Rolex Shanghai Masters. Alexander Zverev, primer cabeza de serie, venció a Alex de Minaur 6-4, 6-4 en 1 hora 17 minutos en la pista central. El sitio de Rolex imprime el mismo marcador. Alejandro Davidovich Fokina ya había pasado cuando Arthur Gea se retiró 4-1. El informe de Rolex dice que Zverev ganó el 80 por ciento de los puntos con el primer saque, 35 de 44, y hizo 10 aces. El partido duró 78 minutos. Es el número 1 de fin de año. Jannik Sinner sigue fuera el resto de la temporada. Zverev juega con Davidovich Fokina en la semifinal del sábado.",
+        "La nota de horarios de la ATP para el viernes 16 de octubre abre la pista central a las 12:00. Empieza el dobles. Rafael Jodar, cabeza de serie 12, juega con Casper Ruud, cabeza de serie 20, no antes de las 14:30. Daniil Medvedev, cabeza de serie 5, juega con Tommy Paul, cabeza de serie 15, no antes de las 18:00. La página de resultados se detiene en el jueves. Esta mesa no inventa esos dos marcadores.",
+        "El miércoles ya está impreso. Jodar venció a Botic van de Zandschulp 6-7 (4), 6-4, 6-2. Ruud iba 5-2 contra Felix Auger-Aliassime cuando el canadiense se retiró. Medvedev venció a Stefanos Tsitsipas 6-4, 7-5. Paul venció a Zizou Bergs 7-6 (5), 6-4."
+      ]
+    },
+    "de": {
+      "title": "Zverev schlägt de Minaur 6:4, 6:4. Freitagsviertelfinals ohne Spielstand",
+      "subtitle": "Die ATP hat den Donnerstagssieg gedruckt. Jodar-Ruud und Medvedev-Paul stehen auf der Freitagsordnung, ohne Ergebnis.",
+      "excerpt": "Alexander Zverev schlug Alex de Minaur 6:4, 6:4. Davidovich Fokina war schon weiter, als Gea bei 4:1 aufgab. Die beiden Freitagsviertelfinals stehen nicht auf der Ergebnisseite.",
+      "body": [
+        "Die ATP führt Donnerstag, 15. Oktober, in der oberen Hälfte der Rolex Shanghai Masters als beendet. Alexander Zverev, die Nummer 1 der Setzliste, schlug Alex de Minaur 6:4, 6:4 in 1 Stunde 17 Minuten auf dem Center Court. Die Rolex-Seite druckt denselben Spielstand. Alejandro Davidovich Fokina war schon weiter, als Arthur Gea bei 4:1 aufgab. Der Rolex-Bericht sagt, Zverev gewann 80 Prozent der Punkte nach dem ersten Aufschlag, 35 von 44, und schlug 10 Asse. Das Match dauerte 78 Minuten. Er ist die Jahresend-Nummer 1. Jannik Sinner bleibt für den Rest der Saison draußen. Zverev spielt am Samstag im Halbfinale gegen Davidovich Fokina.",
+        "Der ATP-Spielplan für Freitag, 16. Oktober, öffnet den Center Court um 12:00. Doppel eröffnet. Rafael Jodar, gesetzt als 12, spielt Casper Ruud, gesetzt als 20, nicht vor 14:30. Daniil Medvedev, gesetzt als 5, spielt Tommy Paul, gesetzt als 15, nicht vor 18:00. Die Ergebnisseite endet am Donnerstag. Dieser Desk erfindet diese beiden Spielstände nicht.",
+        "Mittwoch ist schon gedruckt. Jodar schlug Botic van de Zandschulp 6:7 (4), 6:4, 6:2. Ruud führte 5:2 gegen Felix Auger-Aliassime, als der Kanadier aufgab. Medvedev schlug Stefanos Tsitsipas 6:4, 7:5. Paul schlug Zizou Bergs 7:6 (5), 6:4."
+      ]
+    },
+    "it": {
+      "title": "Zverev batte de Minaur 6-4, 6-4. I quarti di venerdì non hanno punteggio",
+      "subtitle": "L'ATP ha stampato la vittoria di giovedì. Jodar-Ruud e Medvedev-Paul sono nell'ordine di gioco di venerdì, senza risultato.",
+      "excerpt": "Alexander Zverev ha battuto Alex de Minaur 6-4, 6-4. Davidovich Fokina era già passato quando Gea si è ritirato sul 4-1. I due quarti di venerdì non sono nella pagina dei risultati.",
+      "body": [
+        "L'ATP segna giovedì 15 ottobre come chiuso nella metà alta del Rolex Shanghai Masters. Alexander Zverev, testa di serie numero 1, ha battuto Alex de Minaur 6-4, 6-4 in 1 ora e 17 minuti sul campo centrale. Il sito Rolex stampa lo stesso punteggio. Alejandro Davidovich Fokina era già passato quando Arthur Gea si è ritirato sul 4-1. Il resoconto Rolex dice che Zverev ha vinto l'80 per cento dei punti sulla prima di servizio, 35 su 44, e ha servito 10 ace. La partita è durata 78 minuti. È il numero 1 di fine anno. Jannik Sinner resta fuori per il resto della stagione. Zverev gioca Davidovich Fokina in semifinale sabato.",
+        "La nota di programma ATP per venerdì 16 ottobre apre il campo centrale alle 12:00. Si parte dal doppio. Rafael Jodar, testa di serie 12, gioca Casper Ruud, testa di serie 20, non prima delle 14:30. Daniil Medvedev, testa di serie 5, gioca Tommy Paul, testa di serie 15, non prima delle 18:00. La pagina dei risultati si ferma a giovedì. Questa redazione non inventa quei due punteggi.",
+        "Mercoledì è già stampato. Jodar ha battuto Botic van de Zandschulp 6-7 (4), 6-4, 6-2. Ruud conduceva 5-2 su Felix Auger-Aliassime quando il canadese si è ritirato. Medvedev ha battuto Stefanos Tsitsipas 6-4, 7-5. Paul ha battuto Zizou Bergs 7-6 (5), 6-4."
+      ]
+    },
+    "pl": {
+      "title": "Zverev wygral z de Minaurem 6-4, 6-4. Piatkowe cwiercfinaly nie maja wyniku",
+      "subtitle": "ATP wydrukowalo czwartkowe zwyciestwo. Jodar-Ruud i Medvedev-Paul sa w piatkowym porzadku gry, bez wyniku.",
+      "excerpt": "Alexander Zverev pokonal Alexa de Minaura 6-4, 6-4. Davidovich Fokina byl juz dalej, gdy Gea skreczowal przy 4-1. Dwa piatkowe cwiercfinaly nie sa na stronie wynikow.",
+      "body": [
+        "ATP oznacza czwartek 15 pazdziernika jako zakonczony w gornej polowie Rolex Shanghai Masters. Alexander Zverev, rozstawiony z numerem 1, pokonal Alexa de Minaura 6-4, 6-4 w 1 godzine 17 minut na korcie glownym. Strona Rolex drukuje ten sam wynik. Alejandro Davidovich Fokina byl juz dalej, gdy Arthur Gea skreczowal przy 4-1. Raport Rolex mowi, ze Zverev wygral 80 procent punktow na pierwszym serwisie, 35 z 44, i mial 10 asow. Mecz trwal 78 minut. Jest numerem 1 na koniec roku. Jannik Sinner pozostaje poza sezonem. Zverev gra z Davidovichem Fokina w sobotnim polfinale.",
+        "Notatka ATP na piatek 16 pazdziernika otwiera kort glowny o 12:00. Zaczyna debel. Rafael Jodar, rozstawiony z 12, gra z Casperem Ruudem, rozstawionym z 20, nie wczesniej niz o 14:30. Daniil Medvedev, rozstawiony z 5, gra z Tommym Paulem, rozstawionym z 15, nie wczesniej niz o 18:00. Strona wynikow konczy sie na czwartku. To biuro nie wymysla tych dwoch wynikow.",
+        "Sroda jest juz wydrukowana. Jodar pokonal Botica van de Zandschulpa 6-7 (4), 6-4, 6-2. Ruud prowadzil 5-2 z Felixem Augerem-Aliassime, gdy Kanadyjczyk skreczowal. Medvedev pokonal Stefanosa Tsitsipasa 6-4, 7-5. Paul pokonal Zizou Bergsa 7-6 (5), 6-4."
+      ]
+    },
+    "zh": {
+      "title": "兹维列夫6-4、6-4击败德米纳尔。周五四分之一决赛没有比分",
+      "subtitle": "ATP已经印出周四的胜利。霍达尔对鲁德、梅德韦杰夫对保罗在周五赛程上，没有结果。",
+      "excerpt": "亚历山大·兹维列夫6-4、6-4击败亚历克斯·德米纳尔。达维多维奇在热阿4-1退赛时已经晋级。周五两场四分之一决赛不在结果页上。",
+      "body": [
+        "ATP把10月15日周四的上海劳力士大师赛上半区标为结束。头号种子亚历山大·兹维列夫在中心球场用1小时17分，以6-4、6-4击败亚历克斯·德米纳尔。劳力士赛事网站印出同一比分。亚历杭德罗·达维多维奇·福基纳在阿蒂尔·热阿4-1退赛时已经晋级。劳力士报道称兹维列夫赢得80%的一发得分，44次一发中拿下35分，并发出10记ACE。比赛用时78分钟。他是年终世界第一。扬尼克·辛纳本赛季剩余时间继续缺席。兹维列夫周六半决赛对阵达维多维奇。",
+        "ATP对10月16日周五的赛程说明：中心球场12:00开始。先进行双打。12号种子拉斐尔·霍达尔对20号种子卡斯珀·鲁德，不早于14:30。5号种子丹尼尔·梅德韦杰夫对15号种子汤米·保罗，不早于18:00。结果页仍停在周四。本版不编造这两场比分。",
+        "周三已经印出。霍达尔以6-7（4）、6-4、6-2击败博蒂奇·范德赞德舒尔普。鲁德在费利克斯·奥热-阿利亚西姆退赛时以5-2领先。梅德韦杰夫以6-4、7-5击败斯特凡诺斯·西西帕斯。保罗以7-6（5）、6-4击败齐祖·贝尔赫斯。"
+      ]
+    },
+    "ja": {
+      "title": "ズベレフがデミノーに6-4、6-4。金曜の準々決勝にスコアはない",
+      "subtitle": "ATPは木曜の勝利を掲載した。ホダール対ルードとメドベージェフ対ポールは金曜のオーダーにあり、結果はない。",
+      "excerpt": "アレクサンダー・ズベレフがアレックス・デミノーを6-4、6-4で下した。ダビドビッチはジェアが4-1で棄権した時点で勝ち上がっていた。金曜の2試合は結果ページにない。",
+      "body": [
+        "ATPは10月15日木曜のロレックス上海マスターズ上半分を終了としている。第1シードのアレクサンダー・ズベレフがセンターコートで1時間17分、6-4、6-4でアレックス・デミノーを下した。ロレックスの大会サイトも同じスコア。アレハンドロ・ダビドビッチ・フォキナはアルトゥール・ジェアが4-1で棄権した時点で勝ち上がっていた。ロレックスの報告では、ズベレフはファーストサーブポイントの80パーセント、44本中35本を取り、エースは10本。試合時間は78分。年末世界1位。ヤニック・シナーはシーズン残りを欠場。ズベレフは土曜の準決勝でダビドビッチと当たる。",
+        "ATPの10月16日金曜のオーダーではセンターコートは12:00から。最初はダブルス。第12シードのラファエル・ホダールは第20シードのカスパー・ルードと、14:30より前には入らない。第5シードのダニール・メドベージェフは第15シードのトミー・ポールと、18:00より前には入らない。結果ページは木曜で止まっている。このデスクはその2試合のスコアを作らない。",
+        "水曜はすでに出ている。ホダールはボティック・ファン・デ・ザントシュルプを6-7（4）、6-4、6-2。ルードはフェリックス・オジェ・アリアシムが棄権したとき5-2でリードしていた。メドベージェフはステファノス・チチパスを6-4、7-5。ポールはジズー・ベルフスを7-6（5）、6-4。"
+      ]
+    },
+    "ko": {
+      "title": "즈베레프가 드 미노를 6-4, 6-4로 이겼다. 금요일 8강은 스코어가 없다",
+      "subtitle": "ATP가 목요일 승리를 올렸다. 호다르-루드와 메드베데프-폴은 금요일 오더에 있고 결과는 없다.",
+      "excerpt": "알렉산더 즈베레프가 알렉스 드 미노를 6-4, 6-4로 이겼다. 다비도비치는 제아가 4-1에서 기권했을 때 이미 올라갔다. 금요일 두 8강은 결과 페이지에 없다.",
+      "body": [
+        "ATP는 10월 15일 목요일 롤렉스 상하이 마스터스 상위 절반을 종료로 적는다. 1번 시드 알렉산더 즈베레프가 센터 코트에서 1시간 17분, 6-4, 6-4로 알렉스 드 미노를 이겼다. 롤렉스 대회 사이트도 같은 스코어다. 알레한드로 다비도비치 포키나는 아르투르 제아가 4-1에서 기권했을 때 이미 올라갔다. 롤렉스 보도는 즈베레프가 퍼스트 서브 포인트의 80퍼센트, 44개 중 35개를 가져갔고 에이스가 10개라고 적는다. 경기 시간은 78분. 그는 연말 세계 1위다. 야닉 신너는 시즌 남은 기간 결장이다. 즈베레프는 토요일 준결승에서 다비도비치를 만난다.",
+        "ATP의 10월 16일 금요일 오더는 센터 코트를 12:00에 연다. 복식부터 시작한다. 12번 시드 라파엘 호다르는 20번 시드 카스퍼 루드와 14:30 이전에 들어가지 않는다. 5번 시드 다닐 메드베데프는 15번 시드 토미 폴과 18:00 이전에 들어가지 않는다. 결과 페이지는 목요일에서 멈춘다. 이 데스크는 그 두 스코어를 만들지 않는다.",
+        "수요일은 이미 나와 있다. 호다르는 보티크 판 더 잔트스휠프를 6-7(4), 6-4, 6-2. 루드는 펠릭스 오제알리아심이 기권할 때 5-2로 앞서 있었다. 메드베데프는 스테파노스 치치파스를 6-4, 7-5. 폴은 지주 베르흐스를 7-6(5), 6-4."
+      ]
+    },
+    "ar": {
+      "title": "زفيريف يهزم دي مينور 6-4، 6-4. ربعا نهائي الجمعة بلا نتيجة",
+      "subtitle": "رابطة المحترفين طبعت فوز الخميس. خودار-رود وميدفيديف-بول على جدول الجمعة بلا نتيجة.",
+      "excerpt": "ألكسندر زفيريف هزم أليكس دي مينور 6-4، 6-4. دافيدوفيتش فوكينا كان قد تأهل حين انسحب جيا عند 4-1. ربعا نهائي الجمعة ليسا في صفحة النتائج.",
+      "body": [
+        "رابطة المحترفين تسجل خميس 15 أكتوبر منتهيا في النصف العلوي من ماسترز شنغهاي رولكس. ألكسندر زفيريف، المصنف الأول، هزم أليكس دي مينور 6-4، 6-4 في ساعة و17 دقيقة على الملعب الرئيسي. موقع رولكس يطبع النتيجة نفسها. أليخاندرو دافيدوفيتش فوكينا كان قد تأهل حين انسحب آرثر جيا عند 4-1. تقرير رولكس يقول إن زفيريف فاز بـ80 في المئة من نقاط الإرسال الأول، 35 من 44، وسجل 10 إرسالات ساحقة. المباراة استمرت 78 دقيقة. هو المصنف الأول في نهاية العام. يانيك سينر ما زال غائبا لبقية الموسم. زفيريف يلعب دافيدوفيتش فوكينا في نصف النهائي السبت.",
+        "ملاحظة جدول الرابطة لجمعة 16 أكتوبر تفتح الملعب الرئيسي عند 12:00. يبدأ الزوجي. رافاييل خودار، المصنف 12، يلعب كاسبر رود، المصنف 20، في وقت لا يسبق 14:30. دانيل ميدفيديف، المصنف 5، يلعب تومي بول، المصنف 15، في وقت لا يسبق 18:00. صفحة النتائج تتوقف عند الخميس. هذا المكتب لا يخترع هاتين النتيجتين.",
+        "الأربعاء مطبوع بالفعل. خودار هزم بوتيك فان دي زندسخولب 6-7 (4)، 6-4، 6-2. رود كان متقدما 5-2 على فيليكس أوجيه-ألياسيم حين انسحب الكندي. ميدفيديف هزم ستيفانوس تسيتسيباس 6-4، 7-5. بول هزم زيزو بيرغس 7-6 (5)، 6-4."
+      ]
+    }
+  },
+  "premier-league-mw7-friday-table-holds-2026": {
+    "fr": {
+      "title": "Le classement de Premier League tient vendredi. La 7e journée commence samedi",
+      "subtitle": "City reste à 18 points. Aucun match de championnat n'est listé le 16 octobre.",
+      "excerpt": "NBC et Match XI impriment toujours City 18, Arsenal 15, Brighton 13. Samedi s'ouvre par Everton contre Chelsea à 12:30 BST. City reçoit Ipswich à 15:00 BST.",
+      "body": [
+        "Aucun match de Premier League n'est listé vendredi 16 octobre. NBC Sports, mis à jour le 15 octobre, et Match XI, généré le 15 octobre à 20:08 UTC, impriment le même sommet de tableau. Manchester City a 18 points en six victoires, différence +11. Arsenal a 15. Brighton a 13, avec la meilleure différence du championnat à +13. Brentford, Everton et Chelsea sont à 10. Liverpool est neuvième avec 9 points, différence 0. Coventry est 14e avec 6 points après le 4-1 de lundi contre Newcastle. Tottenham est 19e avec 3 points. Fulham est dernier avec 2 points.",
+        "Match XI donne les coups d'envoi en UTC. En Grande-Bretagne, c'est une heure plus tard. Samedi 17 octobre: Everton contre Chelsea à 12:30 BST, Hill Dickinson Stadium. Brentford contre Liverpool à 15:00, Gtech Community Stadium. Fulham contre Hull City à 15:00, Craven Cottage. Manchester City contre Ipswich à 15:00, Etihad Stadium. Newcastle contre Aston Villa à 17:30, St James' Park.",
+        "Dimanche 18 octobre: Bournemouth contre Sunderland à 14:00, Vitality Stadium. Brighton contre Crystal Palace à 14:00, l'Amex. Leeds contre Manchester United à 14:00, Elland Road. Nottingham Forest contre Arsenal à 16:30, City Ground. Lundi 19 octobre: Tottenham contre Coventry à 20:00, Tottenham Hotspur Stadium. Aucun de ces matches n'a de score. City peut allonger une série parfaite à domicile contre Ipswich. Arsenal se déplace à Forest le lendemain, toujours à trois points."
+      ]
+    },
+    "es": {
+      "title": "La tabla de la Premier se mantiene el viernes. La fecha 7 empieza el sábado",
+      "subtitle": "City sigue con 18 puntos. No hay partido de liga el 16 de octubre.",
+      "excerpt": "NBC y Match XI siguen imprimiendo City 18, Arsenal 15, Brighton 13. El sábado abre Everton contra Chelsea a las 12:30 BST. City recibe a Ipswich a las 15:00 BST.",
+      "body": [
+        "No hay partido de Premier League el viernes 16 de octubre. NBC Sports, actualizado el 15 de octubre, y Match XI, generado el 15 de octubre a las 20:08 UTC, imprimen la misma cima. El Manchester City tiene 18 puntos en seis victorias, diferencia +11. El Arsenal tiene 15. El Brighton tiene 13, con la mejor diferencia de la liga en +13. Brentford, Everton y Chelsea están en 10. El Liverpool es noveno con 9, diferencia 0. El Coventry es 14º con 6 tras el 4-1 del lunes al Newcastle. El Tottenham es 19º con 3. El Fulham es último con 2.",
+        "Match XI lista los inicios en UTC. En Gran Bretaña es una hora más tarde. Sábado 17 de octubre: Everton contra Chelsea a las 12:30 BST, Hill Dickinson Stadium. Brentford contra Liverpool a las 15:00, Gtech Community Stadium. Fulham contra Hull City a las 15:00, Craven Cottage. Manchester City contra Ipswich a las 15:00, Etihad Stadium. Newcastle contra Aston Villa a las 17:30, St James' Park.",
+        "Domingo 18 de octubre: Bournemouth contra Sunderland a las 14:00, Vitality Stadium. Brighton contra Crystal Palace a las 14:00, el Amex. Leeds contra Manchester United a las 14:00, Elland Road. Nottingham Forest contra Arsenal a las 16:30, City Ground. Lunes 19 de octubre: Tottenham contra Coventry a las 20:00, Tottenham Hotspur Stadium. Ninguno de esos partidos tiene marcador. City puede estirar un registro perfecto en casa ante Ipswich. El Arsenal viaja a Forest un día después, aún a tres puntos."
+      ]
+    },
+    "de": {
+      "title": "Die Premier-League-Tabelle hält am Freitag. Spieltag 7 beginnt am Samstag",
+      "subtitle": "City bleibt bei 18 Punkten. Für den 16. Oktober ist kein Ligaspiel gelistet.",
+      "excerpt": "NBC und Match XI drucken weiter City 18, Arsenal 15, Brighton 13. Samstag beginnt mit Everton gegen Chelsea um 12:30 BST. City empfängt Ipswich um 15:00 BST.",
+      "body": [
+        "Für Freitag, 16. Oktober, ist kein Premier-League-Spiel gelistet. NBC Sports, aktualisiert am 15. Oktober, und Match XI, erzeugt am 15. Oktober um 20:08 UTC, drucken dieselbe Tabellenspitze. Manchester City hat 18 Punkte aus sechs Siegen, Tordifferenz +11. Arsenal hat 15. Brighton hat 13, mit der besten Differenz der Liga bei +13. Brentford, Everton und Chelsea stehen auf 10. Liverpool ist Neunter mit 9, Differenz 0. Coventry ist 14. mit 6 nach dem 4:1 am Montag gegen Newcastle. Tottenham ist 19. mit 3. Fulham ist Letzter mit 2.",
+        "Match XI nennt Anstoßzeiten in UTC. In Großbritannien ist es eine Stunde später. Samstag, 17. Oktober: Everton gegen Chelsea um 12:30 BST, Hill Dickinson Stadium. Brentford gegen Liverpool um 15:00, Gtech Community Stadium. Fulham gegen Hull City um 15:00, Craven Cottage. Manchester City gegen Ipswich um 15:00, Etihad Stadium. Newcastle gegen Aston Villa um 17:30, St James' Park.",
+        "Sonntag, 18. Oktober: Bournemouth gegen Sunderland um 14:00, Vitality Stadium. Brighton gegen Crystal Palace um 14:00, Amex. Leeds gegen Manchester United um 14:00, Elland Road. Nottingham Forest gegen Arsenal um 16:30, City Ground. Montag, 19. Oktober: Tottenham gegen Coventry um 20:00, Tottenham Hotspur Stadium. Keines dieser Spiele hat einen Spielstand. City kann zu Hause gegen Ipswich eine makellose Serie verlängern. Arsenal reist einen Tag später zu Forest, weiter drei Punkte zurück."
+      ]
+    },
+    "it": {
+      "title": "La classifica di Premier League resta venerdì. Il 7º turno inizia sabato",
+      "subtitle": "Il City resta a 18 punti. Nessuna partita di campionato è in elenco il 16 ottobre.",
+      "excerpt": "NBC e Match XI stampano ancora City 18, Arsenal 15, Brighton 13. Sabato apre Everton contro Chelsea alle 12:30 BST. Il City ospita l'Ipswich alle 15:00 BST.",
+      "body": [
+        "Nessuna partita di Premier League è in elenco venerdì 16 ottobre. NBC Sports, aggiornato il 15 ottobre, e Match XI, generato il 15 ottobre alle 20:08 UTC, stampano la stessa vetta. Il Manchester City ha 18 punti in sei vittorie, differenza +11. L'Arsenal ha 15. Il Brighton ha 13, con la miglior differenza del campionato a +13. Brentford, Everton e Chelsea sono a 10. Il Liverpool è nono con 9, differenza 0. Il Coventry è 14º con 6 dopo il 4-1 di lunedì sul Newcastle. Il Tottenham è 19º con 3. Il Fulham è ultimo con 2.",
+        "Match XI elenca i calci d'inizio in UTC. In Gran Bretagna è un'ora dopo. Sabato 17 ottobre: Everton contro Chelsea alle 12:30 BST, Hill Dickinson Stadium. Brentford contro Liverpool alle 15:00, Gtech Community Stadium. Fulham contro Hull City alle 15:00, Craven Cottage. Manchester City contro Ipswich alle 15:00, Etihad Stadium. Newcastle contro Aston Villa alle 17:30, St James' Park.",
+        "Domenica 18 ottobre: Bournemouth contro Sunderland alle 14:00, Vitality Stadium. Brighton contro Crystal Palace alle 14:00, Amex. Leeds contro Manchester United alle 14:00, Elland Road. Nottingham Forest contro Arsenal alle 16:30, City Ground. Lunedì 19 ottobre: Tottenham contro Coventry alle 20:00, Tottenham Hotspur Stadium. Nessuna di queste partite ha un punteggio. Il City può allungare una striscia perfetta in casa contro l'Ipswich. L'Arsenal va al Forest il giorno dopo, ancora a tre punti."
+      ]
+    },
+    "pl": {
+      "title": "Tabela Premier League trzyma w piatek. 7. kolejka startuje w sobote",
+      "subtitle": "City zostaje przy 18 punktach. Na 16 pazdziernika nie ma meczu ligowego.",
+      "excerpt": "NBC i Match XI nadal drukuja City 18, Arsenal 15, Brighton 13. Sobota otwiera sie Evertonem z Chelsea o 12:30 BST. City gosci Ipswich o 15:00 BST.",
+      "body": [
+        "Na piatek 16 pazdziernika nie ma meczu Premier League. NBC Sports, aktualizacja 15 pazdziernika, i Match XI, wygenerowane 15 pazdziernika o 20:08 UTC, drukuja te sama czolowke. Manchester City ma 18 punktow z szesciu wygranych, bilans +11. Arsenal ma 15. Brighton ma 13, z najlepszym bilansem ligi +13. Brentford, Everton i Chelsea maja po 10. Liverpool jest dziewiaty z 9 punktami, bilans 0. Coventry jest 14. z 6 punktami po poniedzialkowym 4-1 z Newcastle. Tottenham jest 19. z 3 punktami. Fulham jest ostatni z 2.",
+        "Match XI podaje rozpoczecia w UTC. W Brytanii jest godzina pozniej. Sobota 17 pazdziernika: Everton z Chelsea o 12:30 BST, Hill Dickinson Stadium. Brentford z Liverpoolem o 15:00, Gtech Community Stadium. Fulham z Hull City o 15:00, Craven Cottage. Manchester City z Ipswich o 15:00, Etihad Stadium. Newcastle z Aston Villa o 17:30, St James' Park.",
+        "Niedziela 18 pazdziernika: Bournemouth z Sunderlandem o 14:00, Vitality Stadium. Brighton z Crystal Palace o 14:00, Amex. Leeds z Manchesterem United o 14:00, Elland Road. Nottingham Forest z Arsenalem o 16:30, City Ground. Poniedzialek 19 pazdziernika: Tottenham z Coventry o 20:00, Tottenham Hotspur Stadium. Zaden z tych meczow nie ma wyniku. City moze wydluzyc serie bez porazki u siebie z Ipswich. Arsenal jedzie do Forest dzien pozniej, nadal trzy punkty z tylu."
+      ]
+    },
+    "zh": {
+      "title": "英超积分榜周五不动。第7轮周六开赛",
+      "subtitle": "曼城仍是18分。10月16日没有联赛。",
+      "excerpt": "NBC与Match XI仍印曼城18分、阿森纳15分、布莱顿13分。周六首先是埃弗顿对切尔西，英国夏令时12:30。曼城英国夏令时15:00主场对伊普斯维奇。",
+      "body": [
+        "10月16日周五没有英超比赛。NBC Sports于10月15日更新，Match XI于10月15日20:08 UTC生成，印出同一榜首。曼城6战全胜积18分，净胜球+11。阿森纳15分。布莱顿13分，联赛最好净胜球+13。布伦特福德、埃弗顿和切尔西同为10分。利物浦第9，9分，净胜球0。考文垂周一4-1击败纽卡斯尔后以6分列第14。热刺第19，3分。富勒姆垫底，2分。",
+        "Match XI的开球时间是UTC。英国夏令时晚一小时。10月17日周六：埃弗顿对切尔西，英国夏令时12:30，希尔·迪金森球场。布伦特福德对利物浦，15:00，Gtech社区球场。富勒姆对赫尔城，15:00，克拉文农场。曼城对伊普斯维奇，15:00，伊蒂哈德。纽卡斯尔对阿斯顿维拉，17:30，圣詹姆斯公园。",
+        "10月18日周日：伯恩茅斯对桑德兰，14:00，活力球场。布莱顿对水晶宫，14:00，Amex。利兹对曼联，14:00，埃兰路。诺丁汉森林对阿森纳，16:30，城市球场。10月19日周一：热刺对考文垂，20:00，热刺球场。这些比赛都没有比分。曼城可以在主场对伊普斯维奇延续全胜。阿森纳次日客场对森林，仍落后3分。"
+      ]
+    },
+    "ja": {
+      "title": "プレミアリーグの順位は金曜も動かない。第7節は土曜に始まる",
+      "subtitle": "シティは18点のまま。10月16日にリーグ戦はない。",
+      "excerpt": "NBCとMatch XIは今もシティ18、アーセナル15、ブライトン13。土曜はエバートン対チェルシーが英国夏時間12:30。シティは英国夏時間15:00にイプスウィッチを迎える。",
+      "body": [
+        "10月16日金曜にプレミアリーグの試合はない。10月15日更新のNBC Sportsと、10月15日20:08 UTC生成のMatch XIは同じ首位を出している。マンチェスター・シティは6勝で18点、得失点差+11。アーセナルは15。ブライトンは13で、リーグ最良の得失点差は+13。ブレントフォード、エバートン、チェルシーは10。リバプールは9位で9点、得失点差0。コベントリーは月曜にニューカッスルを4-1で下したあと6点で14位。トッテナムは19位で3点。フラムは最下位で2点。",
+        "Match XIのキックオフはUTC。英国では1時間遅い。10月17日土曜：エバートン対チェルシー、英国夏時間12:30、ヒル・ディキンソン。ブレントフォード対リバプール、15:00、Gtech。フラム対ハル、15:00、クレイヴン・コテージ。マンチェスター・シティ対イプスウィッチ、15:00、エティハド・スタジアム。ニューカッスル対アストン・ヴィラ、17:30、セント・ジェームズ・パーク。",
+        "10月18日日曜：ボーンマス対サンダーランド、14:00、バイタリティ。ブライトン対クリスタル・パレス、14:00、アメックス。リーズ対マンチェスター・ユナイテッド、14:00、エランド・ロード。ノッティンガム・フォレスト対アーセナル、16:30、シティ・グラウンド。10月19日月曜：トッテナム対コベントリー、20:00、トッテナム・ホットスパー・スタジアム。どの試合にもスコアはない。シティはホームでイプスウィッチを迎え、無敗を伸ばせる。アーセナルは翌日フォレストへ、なお3点差。"
+      ]
+    },
+    "ko": {
+      "title": "프리미어리그 순위는 금요일에도 그대로다. 7라운드는 토요일에 시작",
+      "subtitle": "맨시티는 18점이다. 10월 16일 리그 경기는 없다.",
+      "excerpt": "NBC와 Match XI는 여전히 맨시티 18, 아스널 15, 브라이턴 13이다. 토요일은 에버턴 대 첼시가 영국 서머타임 12:30. 맨시티는 영국 서머타임 15:00에 입스위치를 홈에서 맞는다.",
+      "body": [
+        "10월 16일 금요일 프리미어리그 경기는 없다. 10월 15일 갱신된 NBC Sports와 10월 15일 20:08 UTC에 생성된 Match XI가 같은 선두를 찍는다. 맨체스터 시티는 6승 18점, 골득실 +11. 아스널은 15점. 브라이턴은 13점이고 리그 최고 골득실은 +13. 브렌트퍼드, 에버턴, 첼시는 10점. 리버풀은 9위 9점, 골득실 0. 코번트리는 월요일 뉴캐슬을 4-1로 이긴 뒤 6점으로 14위. 토트넘은 19위 3점. 풀럼은 최하위 2점.",
+        "Match XI의 킥오프는 UTC다. 영국에서는 한 시간 늦다. 10월 17일 토요일: 에버턴 대 첼시, 영국 서머타임 12:30, 힐 디킨슨. 브렌트퍼드 대 리버풀, 15:00, Gtech. 풀럼 대 헐, 15:00, 크레이븐 코티지. 맨체스터 시티 대 입스위치, 15:00, 에티하드. 뉴캐슬 대 애스턴 빌라, 17:30, 세인트 제임스 파크.",
+        "10월 18일 일요일: 본머스 대 선덜랜드, 14:00, 바이탈리티. 브라이턴 대 크리스털 팰리스, 14:00, 아멕스. 리즈 대 맨체스터 유나이티드, 14:00, 엘런드 로드. 노팅엄 포리스트 대 아스널, 16:30, 시티 그라운드. 10월 19일 월요일: 토트넘 대 코번트리, 20:00, 토트넘 홋스퍼 스타디움. 어느 경기도 스코어가 없다. 맨시티는 홈에서 입스위치를 맞아 무패를 늘릴 수 있다. 아스널은 다음 날 포리스트로, 여전히 3점 차."
+      ]
+    },
+    "ar": {
+      "title": "جدول الدوري الإنجليزي يثبت يوم الجمعة. الجولة 7 تبدأ السبت",
+      "subtitle": "سيتي يبقى على 18 نقطة. لا مباراة دوري في 16 أكتوبر.",
+      "excerpt": "NBC وMatch XI ما زالا يطبعان سيتي 18 وأرسنال 15 وبرايتون 13. السبت يفتتح بإيفرتون ضد تشيلسي عند 12:30 بتوقيت بريطانيا الصيفي. سيتي يستضيف إيبسويتش عند 15:00.",
+      "body": [
+        "لا مباراة في الدوري الإنجليزي يوم الجمعة 16 أكتوبر. NBC Sports المحدّث في 15 أكتوبر وMatch XI المولّد في 15 أكتوبر عند 20:08 بالتوقيت العالمي يطبعان القمة نفسها. مانشستر سيتي لديه 18 نقطة من ست انتصارات، فارق أهداف +11. أرسنال 15. برايتون 13، بأفضل فارق في الدوري عند +13. برينتفورد وإيفرتون وتشيلسي على 10. ليفربول تاسع برصيد 9 وفارق 0. كوفنتري 14 برصيد 6 بعد فوز 4-1 الاثنين على نيوكاسل. توتنهام 19 برصيد 3. فولهام أخير برصيد 2.",
+        "Match XI يدرج الانطلاقات بالتوقيت العالمي. في بريطانيا ذلك بعد ساعة. السبت 17 أكتوبر: إيفرتون ضد تشيلسي عند 12:30 بتوقيت بريطانيا الصيفي، ملعب هيل ديكنسون. برينتفورد ضد ليفربول عند 15:00، ملعب غيتك. فولهام ضد هال سيتي عند 15:00، كرافن كوتيج. مانشستر سيتي ضد إيبسويتش عند 15:00، الاتحاد. نيوكاسل ضد أستون فيلا عند 17:30، سانت جيمس بارك.",
+        "الأحد 18 أكتوبر: بورنموث ضد سندرلاند عند 14:00، فيتاليتي. برايتون ضد كريستال بالاس عند 14:00، الأميركس. ليدز ضد مانشستر يونايتد عند 14:00، إيلاند رود. نوتينغهام فورست ضد أرسنال عند 16:30، سيتي غراوند. الاثنين 19 أكتوبر: توتنهام ضد كوفنتري عند 20:00، ملعب توتنهام. لا نتيجة لأي من هذه المباريات. سيتي يستطيع تمديد سجل كامل في الديار ضد إيبسويتش. أرسنال يسافر إلى فورست في اليوم التالي، وما زال بفارق ثلاث نقاط."
+      ]
+    }
+  },
+  "wnba-finals-2026-friday-one-day-out": {
+    "fr": {
+      "title": "Finales WNBA, plus qu'un jour. La série est à 0-0",
+      "subtitle": "Pas de match vendredi. Le match 1 est samedi au Chase Center, 15 h 30 ET, sur NBC.",
+      "excerpt": "Le calendrier WNBA place le match 1 des finales samedi 17 octobre. Atlanta à Golden State. Série 0-0. Vendredi est vide.",
+      "body": [
+        "Le calendrier WNBA du vendredi 16 octobre ne liste pas de match. Les finales s'ouvrent samedi 17 octobre. Le match 1 est Atlanta Dream à Golden State Valkyries, 15 h 30 ET, Chase Center, San Francisco. La ligne de série sur le calendrier de la ligue est 0-0. NBC et Peacock diffusent l'ouverture. ESPN liste le même horaire. Le match 2 est lundi 19 octobre, 20:00 ET, encore au Chase Center. Le match 3 est mercredi 21 octobre, 20:00 ET, au State Farm Arena d'Atlanta. Le match 4 est samedi 24 octobre, 13:00 ET, aussi au State Farm Arena. Golden State reçoit les matches 1 et 2 en tant que meilleure tête de série.",
+        "Les deux demi-finales se sont finies 3-0. Atlanta a clos Liberty 85-83, Angel Reese à 22 points. Golden State a clos les championnes en titre Aces 87-77 en prolongation. Aucun des deux clubs n'a gagné un titre WNBA. Aucun point de finale n'a été joué. Cette page n'invente pas un score d'entraînement du vendredi."
+      ]
+    },
+    "es": {
+      "title": "Finales WNBA, a un día. La serie está 0-0",
+      "subtitle": "Sin partido el viernes. El Juego 1 es el sábado en el Chase Center, 15:30 ET, en NBC.",
+      "excerpt": "El calendario de la WNBA pone el Juego 1 de las finales el sábado 17 de octubre. Atlanta en Golden State. Serie 0-0. El viernes está vacío.",
+      "body": [
+        "El calendario de la WNBA del viernes 16 de octubre no lista un partido. Las finales abren el sábado 17 de octubre. El Juego 1 es Atlanta Dream en Golden State Valkyries, 15:30 ET, Chase Center, San Francisco. La línea de la serie en el calendario de la liga dice 0-0. NBC y Peacock emiten el estreno. ESPN lista el mismo horario. El Juego 2 es el lunes 19 de octubre, 20:00 ET, otra vez en el Chase Center. El Juego 3 es el miércoles 21 de octubre, 20:00 ET, en el State Farm Arena de Atlanta. El Juego 4 es el sábado 24 de octubre, 13:00 ET, también en el State Farm Arena. Golden State recibe los Juegos 1 y 2 como mejor cabeza de serie.",
+        "Las dos semifinales acabaron 3-0. Atlanta cerró a Liberty 85-83, con Angel Reese en 22 puntos. Golden State cerró a las campeonas Aces 87-77 en la prórroga. Ningún club ha ganado un título de la WNBA. No se ha jugado ningún punto de la final. Esta página no inventa un marcador de entrenamiento del viernes."
+      ]
+    },
+    "de": {
+      "title": "WNBA-Finals, ein Tag vorher. Die Serie steht 0:0",
+      "subtitle": "Kein Spiel am Freitag. Spiel 1 ist am Samstag im Chase Center, 15:30 ET, bei NBC.",
+      "excerpt": "Der WNBA-Spielplan setzt Finals-Spiel 1 auf Samstag, 17. Oktober. Atlanta bei Golden State. Serie 0:0. Freitag ist leer.",
+      "body": [
+        "Der WNBA-Spielplan für Freitag, 16. Oktober, listet kein Spiel. Die Finals öffnen am Samstag, 17. Oktober. Spiel 1 ist Atlanta Dream bei den Golden State Valkyries, 15:30 ET, Chase Center, San Francisco. Die Serienzeile im Ligaplan lautet 0:0. NBC und Peacock übertragen den Auftakt. ESPN listet dieselbe Anwurfzeit. Spiel 2 ist Montag, 19. Oktober, 20:00 ET, wieder im Chase Center. Spiel 3 ist Mittwoch, 21. Oktober, 20:00 ET, in der State Farm Arena in Atlanta. Spiel 4 ist Samstag, 24. Oktober, 13:00 ET, ebenfalls in der State Farm Arena. Golden State empfängt die Spiele 1 und 2 als bessere Setzposition.",
+        "Beide Halbfinals endeten 3:0. Atlanta schloss Liberty 85:83, Angel Reese mit 22 Punkten. Golden State schloss die Titelverteidigerinnen Aces 87:77 in der Verlängerung. Keiner der beiden Clubs hat einen WNBA-Titel gewonnen. Kein Finalpunkt ist gespielt. Diese Seite erfindet keinen Trainingsstand vom Freitag."
+      ]
+    },
+    "it": {
+      "title": "Finali WNBA, manca un giorno. La serie è 0-0",
+      "subtitle": "Nessuna gara venerdì. Gara 1 è sabato al Chase Center, 15:30 ET, su NBC.",
+      "excerpt": "Il calendario WNBA mette gara 1 delle finali sabato 17 ottobre. Atlanta a Golden State. Serie 0-0. Venerdì è vuoto.",
+      "body": [
+        "Il calendario WNBA di venerdì 16 ottobre non elenca una gara. Le finali aprono sabato 17 ottobre. Gara 1 è Atlanta Dream a Golden State Valkyries, 15:30 ET, Chase Center, San Francisco. La riga della serie sul calendario della lega è 0-0. NBC e Peacock trasmettono l'apertura. ESPN elenca lo stesso orario. Gara 2 è lunedì 19 ottobre, 20:00 ET, di nuovo al Chase Center. Gara 3 è mercoledì 21 ottobre, 20:00 ET, alla State Farm Arena di Atlanta. Gara 4 è sabato 24 ottobre, 13:00 ET, ancora alla State Farm Arena. Golden State ospita le gare 1 e 2 da migliore testa di serie.",
+        "Entrambe le semifinali sono finite 3-0. Atlanta ha chiuso Liberty 85-83, Angel Reese a 22 punti. Golden State ha chiuso le campionesse in carica Aces 87-77 ai supplementari. Nessuno dei due club ha vinto un titolo WNBA. Nessun punto di finale è stato giocato. Questa pagina non inventa un punteggio di allenamento del venerdì."
+      ]
+    },
+    "pl": {
+      "title": "Finaly WNBA, dzien wczesniej. Seria jest 0-0",
+      "subtitle": "Brak meczu w piatek. Mecz 1 jest w sobote w Chase Center, 15:30 ET, na NBC.",
+      "excerpt": "Terminarz WNBA stawia mecz 1 finalow na sobote 17 pazdziernika. Atlanta u Golden State. Seria 0-0. Piatek jest pusty.",
+      "body": [
+        "Terminarz WNBA na piatek 16 pazdziernika nie ma meczu. Finaly otwieraja sie w sobote 17 pazdziernika. Mecz 1 to Atlanta Dream u Golden State Valkyries, 15:30 ET, Chase Center, San Francisco. Linia serii w terminarzu ligi brzmi 0-0. NBC i Peacock transmituja otwarcie. ESPN podaje te sama godzine. Mecz 2 to poniedzialek 19 pazdziernika, 20:00 ET, znowu w Chase Center. Mecz 3 to sroda 21 pazdziernika, 20:00 ET, w State Farm Arena w Atlancie. Mecz 4 to sobota 24 pazdziernika, 13:00 ET, tez w State Farm Arena. Golden State gosci mecze 1 i 2 jako wyzszy rozstaw.",
+        "Oba polfinaly skonczyly sie 3-0. Atlanta zamknela Liberty 85-83, Angel Reese miala 22 punkty. Golden State zamknela broniace tytulu Aces 87-77 po dogrywce. Zaden klub nie wygral tytulu WNBA. Nie rozegrano punktu finalu. Ta strona nie wymysla piatkowego wyniku treningu."
+      ]
+    },
+    "zh": {
+      "title": "WNBA总决赛还差一天。系列赛是0-0",
+      "subtitle": "周五没有比赛。G1是周六在大通中心，美东15:30，NBC播出。",
+      "excerpt": "WNBA赛程把总决赛G1放在10月17日周六。亚特兰大客场对金州。系列赛0-0。周五是空的。",
+      "body": [
+        "WNBA 10月16日周五的赛程没有比赛。总决赛10月17日周六开幕。G1是亚特兰大梦想客场对金州女武神，美东15:30，旧金山大通中心。联盟赛程上的系列赛比分是0-0。NBC与Peacock播出揭幕战。ESPN列出同一开球时间。G2是10月19日周一美东20:00，仍在大通中心。G3是10月21日周三美东20:00，在亚特兰大州立农场球馆。G4是10月24日周六美东13:00，也在州立农场球馆。金州作为较高种子主场进行第1场和第2场。",
+        "两场半决赛都是3-0。亚特兰大以85-83终结自由人，安杰尔·里斯得到22分。金州在加时以87-77终结卫冕冠军王牌。两队都没有赢得过WNBA冠军。总决赛还没有一个得分。本页不编造周五训练比分。"
+      ]
+    },
+    "ja": {
+      "title": "WNBAファイナル、前日。シリーズは0-0",
+      "subtitle": "金曜に試合はない。第1戦は土曜、チェイス・センター、米東部15:30、NBC。",
+      "excerpt": "WNBAの日程はファイナル第1戦を10月17日土曜としている。アトランタがゴールデンステートへ。シリーズ0-0。金曜は空いている。",
+      "body": [
+        "10月16日金曜のWNBA日程に試合はない。ファイナルは10月17日土曜に開く。第1戦はアトランタ・ドリーム対ゴールデンステート・ヴァルキリーズ、米東部15:30、サンフランシスコのチェイス・センター。リーグ日程のシリーズは0-0。NBCとPeacockが開幕を伝える。ESPNも同じティップオフ。第2戦は10月19日月曜、米東部20:00、再びチェイス・センター。第3戦は10月21日水曜、米東部20:00、アトランタのステートファーム・アリーナ。第4戦は10月24日土曜、米東部13:00、同じくステートファーム・アリーナ。ゴールデンステートは上位シードとして第1戦と第2戦を主催する。",
+        "準決勝はどちらも3勝0敗。アトランタはリバティを85-83で締め、エンジェル・リースは22得点。ゴールデンステートは王者エイシズを延長で87-77。どちらもWNBAタイトルはない。ファイナルの得点はまだない。このページは金曜の練習スコアを作らない。"
+      ]
+    },
+    "ko": {
+      "title": "WNBA 파이널, 하루 전. 시리즈는 0-0",
+      "subtitle": "금요일 경기는 없다. 1차전은 토요일 체이스 센터, 미 동부 15:30, NBC.",
+      "excerpt": "WNBA 일정은 파이널 1차전을 10월 17일 토요일로 둔다. 애틀랜타가 골든스테이트로. 시리즈 0-0. 금요일은 비어 있다.",
+      "body": [
+        "10월 16일 금요일 WNBA 일정에 경기가 없다. 파이널은 10월 17일 토요일에 열린다. 1차전은 애틀랜타 드림의 골든스테이트 발키리스 원정, 미 동부 15:30, 샌프란시스코 체이스 센터. 리그 일정의 시리즈는 0-0. NBC와 Peacock이 개막을 중계한다. ESPN도 같은 팁오프를 적는다. 2차전은 10월 19일 월요일 미 동부 20:00, 다시 체이스 센터. 3차전은 10월 21일 수요일 미 동부 20:00, 애틀랜타 스테이트팜 아레나. 4차전은 10월 24일 토요일 미 동부 13:00, 역시 스테이트팜 아레나. 골든스테이트는 상위 시드로 1차전과 2차전을 홈에서 치른다.",
+        "준결승은 둘 다 3승 무패였다. 애틀랜타는 리버티를 85-83으로 끝냈고 앤절 리스는 22점을 넣었다. 골든스테이트는 디펜딩 챔피언 에이시스를 연장에서 87-77로 끝냈다. 두 팀 모두 WNBA 우승이 없다. 파이널 득점은 아직 없다. 이 페이지는 금요일 연습 스코어를 만들지 않는다."
+      ]
+    },
+    "ar": {
+      "title": "نهائيات WNBA، يوم واحد قبل الانطلاق. السلسلة 0-0",
+      "subtitle": "لا مباراة يوم الجمعة. المباراة 1 السبت في تشيس سنتر، 15:30 بتوقيت شرق أمريكا، على NBC.",
+      "excerpt": "جدول WNBA يضع المباراة 1 من النهائيات يوم السبت 17 أكتوبر. أتلانتا عند غولدن ستيت. السلسلة 0-0. الجمعة فارغة.",
+      "body": [
+        "جدول WNBA لجمعة 16 أكتوبر لا يدرج مباراة. النهائيات تُفتتح السبت 17 أكتوبر. المباراة 1 هي أتلانتا دريم عند غولدن ستيت فالكيريز، 15:30 بتوقيت شرق أمريكا، تشيس سنتر، سان فرانسيسكو. سطر السلسلة في جدول الدوري هو 0-0. NBC وPeacock ينقلان الافتتاح. ESPN تدرج التوقيت نفسه. المباراة 2 الاثنين 19 أكتوبر، 20:00 بتوقيت شرق أمريكا، مجددا في تشيس سنتر. المباراة 3 الأربعاء 21 أكتوبر، 20:00، في ستيت فارم أرينا بأتلانتا. المباراة 4 السبت 24 أكتوبر، 13:00، أيضا في ستيت فارم أرينا. غولدن ستيت تستضيف المباراتين 1 و2 بوصفها المصنفة الأعلى.",
+        "نصف النهائيات انتهيا 3-0. أتلانتا أغلقت ليبرتي 85-83، وأنجل ريس سجلت 22 نقطة. غولدن ستيت أغلقت حاملة اللقب إيسيس 87-77 في الوقت الإضافي. لا نادٍ منهما فاز بلقب WNBA. لم تُلعب نقطة في النهائي. هذه الصفحة لا تخترع نتيجة تدريب ليوم الجمعة."
+      ]
+    }
+  },
+  "f1-austin-no-session-friday-2026-10-16": {
+    "fr": {
+      "title": "Pas de séance de Formule 1 vendredi. Austin est dans une semaine",
+      "subtitle": "Antonelli 340, Russell 238. Mercedes 578. Le Grand Prix des Etats-Unis n'a pas été couru.",
+      "excerpt": "RacingNews365 imprime toujours Antonelli à 102 points de Russell. Le week-end de COTA est du 23 au 25 octobre. Vendredi 16 octobre n'a pas de séance de Grand Prix.",
+      "body": [
+        "Le classement RacingNews365 après Singapour lit encore: Andrea Kimi Antonelli 340, George Russell 238, Lewis Hamilton 229, Max Verstappen 221, Charles Leclerc 215, Lando Norris 201. L'écart d'Antonelli à Russell est de 102 points. Constructeurs: Mercedes 578, Ferrari 444, McLaren 339, Red Bull 332. Mercedes devance Ferrari de 134. Les 339 de McLaren sont un total d'écurie, pas un total pilote.",
+        "Le même calendrier place le Grand Prix des Etats-Unis le 25 octobre 2026, avec le week-end sprint du 23 au 25 octobre au Circuit of the Americas. L'heure de course reste 15:00 locale. Ce bureau ne convertit pas cette horloge en heure de l'Est. Vendredi 16 octobre n'est pas un jour de séance de Formule 1. Une table de résultats qui nomme déjà un vainqueur du Grand Prix des Etats-Unis n'est pas utilisée ici. La course est encore dans une semaine. Le résultat de Singapour tient: Verstappen a gagné depuis la pole. Les 340 points d'Antonelli incluent déjà ce week-end."
+      ]
+    },
+    "es": {
+      "title": "No hay sesión de Fórmula 1 el viernes. Austin es dentro de una semana",
+      "subtitle": "Antonelli 340, Russell 238. Mercedes 578. El Gran Premio de Estados Unidos no se ha corrido.",
+      "excerpt": "RacingNews365 sigue imprimiendo a Antonelli 102 puntos por delante de Russell. El fin de semana de COTA es del 23 al 25 de octubre. El viernes 16 de octubre no hay sesión de Gran Premio.",
+      "body": [
+        "La tabla de RacingNews365 después de Singapur sigue así: Andrea Kimi Antonelli 340, George Russell 238, Lewis Hamilton 229, Max Verstappen 221, Charles Leclerc 215, Lando Norris 201. La ventaja de Antonelli sobre Russell es de 102 puntos. Constructores: Mercedes 578, Ferrari 444, McLaren 339, Red Bull 332. Mercedes supera a Ferrari por 134. Los 339 de McLaren son un total de equipo, no de piloto.",
+        "El mismo calendario pone el Gran Premio de Estados Unidos el 25 de octubre de 2026, con el fin de semana de sprint del 23 al 25 de octubre en el Circuit of the Americas. La hora de carrera sigue en 15:00 local. Esta mesa no convierte ese reloj a la hora del Este. El viernes 16 de octubre no es un día de sesión de Fórmula 1. Una tabla de resultados que ya nombre un ganador del Gran Premio de Estados Unidos no se usa aquí. La carrera sigue a una semana. El resultado de Singapur se mantiene: Verstappen ganó desde la pole. Los 340 puntos de Antonelli ya incluyen ese fin de semana."
+      ]
+    },
+    "de": {
+      "title": "Keine Formel-1-Session am Freitag. Austin ist in einer Woche",
+      "subtitle": "Antonelli 340, Russell 238. Mercedes 578. Der Große Preis der USA ist nicht gefahren.",
+      "excerpt": "RacingNews365 druckt Antonelli weiter 102 Punkte vor Russell. Das COTA-Wochenende ist vom 23. bis 25. Oktober. Freitag, 16. Oktober, hat keine Grand-Prix-Session.",
+      "body": [
+        "Die Meisterschaftstabelle von RacingNews365 nach Singapur liest weiter: Andrea Kimi Antonelli 340, George Russell 238, Lewis Hamilton 229, Max Verstappen 221, Charles Leclerc 215, Lando Norris 201. Der Abstand von Antonelli auf Russell beträgt 102 Punkte. Konstrukteure: Mercedes 578, Ferrari 444, McLaren 339, Red Bull 332. Mercedes führt vor Ferrari mit 134. McLarens 339 sind ein Teamwert, kein Fahrerwert.",
+        "Derselbe Kalender setzt den Großen Preis der USA auf den 25. Oktober 2026, mit dem Sprint-Wochenende vom 23. bis 25. Oktober am Circuit of the Americas. Die Rennzeit bleibt 15:00 Ortszeit. Dieser Desk rechnet diese Uhr nicht in Eastern Time um. Freitag, 16. Oktober, ist kein Formel-1-Sessiontag. Eine Ergebnistabelle, die schon einen Sieger des Großen Preises der USA nennt, wird hier nicht benutzt. Das Rennen ist noch eine Woche entfernt. Das Singapur-Ergebnis steht: Verstappen gewann von der Pole. Antonellis 340 Punkte enthalten dieses Wochenende bereits."
+      ]
+    },
+    "it": {
+      "title": "Nessuna sessione di Formula 1 venerdì. Austin è tra una settimana",
+      "subtitle": "Antonelli 340, Russell 238. Mercedes 578. Il Gran Premio degli Stati Uniti non è stato corso.",
+      "excerpt": "RacingNews365 stampa ancora Antonelli a 102 punti da Russell. Il weekend di COTA è dal 23 al 25 ottobre. Venerdì 16 ottobre non ha una sessione di Gran Premio.",
+      "body": [
+        "La classifica RacingNews365 dopo Singapore legge ancora: Andrea Kimi Antonelli 340, George Russell 238, Lewis Hamilton 229, Max Verstappen 221, Charles Leclerc 215, Lando Norris 201. Il distacco da Antonelli a Russell è di 102 punti. Costruttori: Mercedes 578, Ferrari 444, McLaren 339, Red Bull 332. Mercedes precede Ferrari di 134. I 339 della McLaren sono un totale di squadra, non di pilota.",
+        "Lo stesso calendario mette il Gran Premio degli Stati Uniti il 25 ottobre 2026, con il weekend sprint dal 23 al 25 ottobre al Circuit of the Americas. L'orario di gara resta 15:00 locale. Questa redazione non converte quell'orologio in ora orientale. Venerdì 16 ottobre non è un giorno di sessione di Formula 1. Una tabella di risultati che nomini già un vincitore del Gran Premio degli Stati Uniti non si usa qui. La gara è ancora tra una settimana. Il risultato di Singapore resta: Verstappen ha vinto dalla pole. I 340 punti di Antonelli includono già quel weekend."
+      ]
+    },
+    "pl": {
+      "title": "Brak sesji Formuly 1 w piatek. Austin jest za tydzien",
+      "subtitle": "Antonelli 340, Russell 238. Mercedes 578. Grand Prix Stanow Zjednoczonych nie zostalo rozegrane.",
+      "excerpt": "RacingNews365 nadal drukuje Antonellego 102 punkty przed Russellem. Weekend na COTA to 23-25 pazdziernika. Piatek 16 pazdziernika nie ma sesji Grand Prix.",
+      "body": [
+        "Tabela RacingNews365 po Singapurze nadal czyta: Andrea Kimi Antonelli 340, George Russell 238, Lewis Hamilton 229, Max Verstappen 221, Charles Leclerc 215, Lando Norris 201. Przewaga Antonellego nad Russellem to 102 punkty. Konstruktorzy: Mercedes 578, Ferrari 444, McLaren 339, Red Bull 332. Mercedes wyprzedza Ferrari o 134. 339 McLarena to suma zespolu, nie kierowcy.",
+        "Ten sam kalendarz stawia Grand Prix Stanow Zjednoczonych na 25 pazdziernika 2026, z weekendem sprintu 23-25 pazdziernika na Circuit of the Americas. Godzina wyscigu zostaje 15:00 czasu lokalnego. To biuro nie przelicza tego zegara na czas wschodni. Piatek 16 pazdziernika nie jest dniem sesji Formuly 1. Tabela wynikow, ktora juz nazywa zwyciezce Grand Prix Stanow Zjednoczonych, nie jest tu uzywana. Wyscig jest dopiero za tydzien. Wynik Singapuru zostaje: Verstappen wygral z pole position. 340 punktow Antonellego juz obejmuje tamten weekend."
+      ]
+    },
+    "zh": {
+      "title": "周五没有一级方程式练习。奥斯汀还有一周",
+      "subtitle": "安东内利340分，拉塞尔238分。梅赛德斯578分。美国大奖赛还没有比。",
+      "excerpt": "RacingNews365仍印安东内利领先拉塞尔102分。美洲赛道周末是10月23日至25日。10月16日周五没有大奖赛练习。",
+      "body": [
+        "RacingNews365在新加坡之后的积分榜仍是：安德烈亚·基米·安东内利340，乔治·拉塞尔238，刘易斯·汉密尔顿229，马克斯·维斯塔潘221，夏尔·勒克莱尔215，兰多·诺里斯201。安东内利对拉塞尔的分差是102。车队：梅赛德斯578，法拉利444，迈凯伦339，红牛332。梅赛德斯领先法拉利134分。迈凯伦的339是车队总分，不是车手总分。",
+        "同一赛历把美国大奖赛放在2026年10月25日，冲刺周末是10月23日至25日，地点是美洲赛道。正赛时间保持当地15:00。本版不把这个时钟换算成美东时间。10月16日周五不是一级方程式练习日。一张已经写出美国大奖赛冠军的成绩表，这里不用。比赛还要一周。新加坡的结果成立：维斯塔潘从杆位获胜。安东内利的340分已经包含那个周末。"
+      ]
+    },
+    "ja": {
+      "title": "金曜にF1のセッションはない。オースティンはあと1週間",
+      "subtitle": "アントネッリ340、ラッセル238。メルセデス578。アメリカGPはまだ走っていない。",
+      "excerpt": "RacingNews365は今もアントネッリがラッセルに102点差と出している。COTAの週末は10月23-25日。10月16日金曜にグランプリのセッションはない。",
+      "body": [
+        "シンガポール後のRacingNews365の順位は今もこうだ。アンドレア・キミ・アントネッリ340、ジョージ・ラッセル238、ルイス・ハミルトン229、マックス・フェルスタッペン221、シャルル・ルクレール215、ランド・ノリス201。アントネッリとラッセルの差は102点。コンストラクターはメルセデス578、フェラーリ444、マクラーレン339、レッドブル332。メルセデスはフェラーリに134点差。マクラーレンの339はチーム合計で、ドライバー合計ではない。",
+        "同じカレンダーはアメリカGPを2026年10月25日とし、スプリント週末は10月23-25日、サーキット・オブ・ジ・アメリカズ。決勝時刻は現地15:00のまま。このデスクはその時計を米東部時間に換算しない。10月16日金曜はF1のセッション日ではない。アメリカGPの勝者をすでに名指しする結果表はここでは使わない。レースはまだ1週間先。シンガポールの結果は立つ。フェルスタッペンがポールから勝った。アントネッリの340点にはその週末がすでに入っている。"
+      ]
+    },
+    "ko": {
+      "title": "금요일에 포뮬러 1 세션은 없다. 오스틴은 일주일 남았다",
+      "subtitle": "안토넬리 340, 러셀 238. 메르세데스 578. 미국 그랑프리는 아직 치르지 않았다.",
+      "excerpt": "RacingNews365는 여전히 안토넬리가 러셀에 102점 앞선다고 찍는다. COTA 주말은 10월 23-25일. 10월 16일 금요일에는 그랑프리 세션이 없다.",
+      "body": [
+        "싱가포르 이후 RacingNews365 순위는 그대로다. 안드레아 키미 안토넬리 340, 조지 러셀 238, 루이스 해밀턴 229, 막스 베르스타펜 221, 샤를 르클레르 215, 랜도 노리스 201. 안토넬리와 러셀의 격차는 102점. 컨스트럭터는 메르세데스 578, 페라리 444, 맥라렌 339, 레드불 332. 메르세데스가 페라리에 134점 앞선다. 맥라렌 339는 팀 합계이지 드라이버 합계가 아니다.",
+        "같은 달력은 미국 그랑프리를 2026년 10월 25일로 두고, 스프린트 주말은 10월 23-25일, 서킷 오브 디 아메리카스다. 결승 시각은 현지 15:00 그대로다. 이 데스크는 그 시계를 미 동부 시간으로 바꾸지 않는다. 10월 16일 금요일은 포뮬러 1 세션 날이 아니다. 미국 그랑프리 우승자를 이미 적은 결과표는 여기서 쓰지 않는다. 레이스는 아직 일주일 뒤다. 싱가포르 결과는 그대로다. 베르스타펜이 폴에서 이겼다. 안토넬리의 340점에는 그 주말이 이미 들어 있다."
+      ]
+    },
+    "ar": {
+      "title": "لا حصة فورمولا 1 يوم الجمعة. أوستن بعد أسبوع",
+      "subtitle": "أنتونيلي 340، راسل 238. مرسيدس 578. جائزة الولايات المتحدة الكبرى لم تُقام.",
+      "excerpt": "RacingNews365 ما زال يطبع أنتونيلي متقدما بـ102 نقطة على راسل. عطلة COTA من 23 إلى 25 أكتوبر. جمعة 16 أكتوبر بلا حصة جائزة كبرى.",
+      "body": [
+        "جدول RacingNews365 بعد سنغافورة ما زال يقرأ: أندريا كيمي أنتونيلي 340، جورج راسل 238، لويس هاملتون 229، ماكس فيرستابن 221، شارل لوكلير 215، لاندو نوريس 201. الفارق من أنتونيلي إلى راسل 102 نقطة. الصانعون: مرسيدس 578، فيراري 444، مكلارين 339، ريد بول 332. مرسيدس تتقدم على فيراري بـ134. نقاط مكلارين الـ339 مجموع فريق، لا مجموع سائق.",
+        "التقويم نفسه يضع جائزة الولايات المتحدة الكبرى في 25 أكتوبر 2026، مع عطلة السبرينت من 23 إلى 25 أكتوبر على حلبة الأمريكتين. وقت السباق يبقى 15:00 بالتوقيت المحلي. هذا المكتب لا يحوّل تلك الساعة إلى التوقيت الشرقي. جمعة 16 أكتوبر ليست يوم حصة فورمولا 1. جدول نتائج يسمّي بالفعل فائزا بجائزة الولايات المتحدة لا يُستخدم هنا. السباق ما زال بعد أسبوع. نتيجة سنغافورة قائمة: فيرستابن فاز من مركز الانطلاق الأول. نقاط أنتونيلي الـ340 تشمل تلك العطلة بالفعل."
+      ]
+    }
+  },
+  "pga-tour-off-friday-bermuda-next-2026": {
+    "fr": {
+      "title": "Le PGA Tour ne joue pas vendredi. Les Bermudes sont la semaine prochaine",
+      "subtitle": "La victoire Baycurrent de Brennan tient à 16 sous le par. Port Royal est du 22 au 25 octobre.",
+      "excerpt": "Aucun tour du PGA Tour n'est publié pour le 16 octobre. La suite est le Butterfield Bermuda Championship à Port Royal, 6 millions de dollars. Adam Schenk est le vainqueur précédent.",
+      "body": [
+        "Le 16 octobre est un jour vide sur le PGA Tour. Il n'y a pas de leader du premier tour, pas de cut, et pas de total sur 18 trous à imprimer. La victoire de Michael Brennan au Baycurrent Classic tient toujours: 16 sous le par, 68 final, total 268 sur 72 trous. C'est le dernier titre PGA Tour terminé sur ce bureau.",
+        "Le prochain événement du PGA Tour est le Butterfield Bermuda Championship, du 22 au 25 octobre, au Port Royal Golf Course. La dotation est de 6 millions de dollars. Adam Schenk est le vainqueur précédent. Il a clos avec un 71 dans le vent et a gagné par un coup. Une liste d'engagements n'est pas un classement. Ce bureau n'attache pas un score de vendredi à un tournoi qui commence jeudi prochain."
+      ]
+    },
+    "es": {
+      "title": "El PGA Tour no juega el viernes. Bermudas es la próxima semana",
+      "subtitle": "El título de Brennan en Baycurrent sigue en 16 bajo par. Port Royal es del 22 al 25 de octubre.",
+      "excerpt": "No hay vuelta del PGA Tour publicada para el 16 de octubre. Lo siguiente es el Butterfield Bermuda Championship en Port Royal, 6 millones de dólares. Adam Schenk es el ganador anterior.",
+      "body": [
+        "El 16 de octubre es un día en blanco en el PGA Tour. No hay líder de la primera vuelta, no hay corte y no hay total de 18 hoyos que imprimir. La victoria de Michael Brennan en el Baycurrent Classic sigue en pie: 16 bajo par, 68 final, total de 268 golpes en 72 hoyos. Es el último título del PGA Tour cerrado en esta mesa.",
+        "El siguiente evento del PGA Tour es el Butterfield Bermuda Championship, del 22 al 25 de octubre, en Port Royal Golf Course. La bolsa es de 6 millones de dólares. Adam Schenk es el ganador anterior. Cerró con 71 en el viento y ganó por uno. Una lista de inscritos no es una clasificación. Esta mesa no pega un marcador del viernes a un torneo que sale el jueves que viene."
+      ]
+    },
+    "de": {
+      "title": "Die PGA Tour spielt am Freitag nicht. Bermuda ist nächste Woche",
+      "subtitle": "Brennans Baycurrent-Sieg steht bei 16 unter par. Port Royal ist vom 22. bis 25. Oktober.",
+      "excerpt": "Für den 16. Oktober ist keine PGA-Tour-Runde veröffentlicht. Als Nächstes kommt die Butterfield Bermuda Championship in Port Royal, 6 Millionen Dollar. Adam Schenk ist der Vorjahressieger.",
+      "body": [
+        "Der 16. Oktober ist ein leerer Tag auf der PGA Tour. Es gibt keinen Führenden nach Runde eins, keinen Cut und keine 18-Loch-Summe zum Drucken. Michael Brennans Sieg beim Baycurrent Classic steht: 16 unter par, Schlussrunde 68, 72-Loch-Total 268. Das ist der letzte abgeschlossene PGA-Tour-Titel auf diesem Desk.",
+        "Das nächste PGA-Tour-Event ist die Butterfield Bermuda Championship, 22. bis 25. Oktober, auf dem Port Royal Golf Course. Das Preisgeld beträgt 6 Millionen Dollar. Adam Schenk ist der Vorjahressieger. Er schloss mit einer 71 im Wind und gewann mit einem Schlag. Eine Meldeliste ist kein Leaderboard. Dieser Desk hängt keinen Freitagsstand an ein Turnier, das nächsten Donnerstag beginnt."
+      ]
+    },
+    "it": {
+      "title": "Il PGA Tour non gioca venerdì. Bermuda è la prossima settimana",
+      "subtitle": "La vittoria Baycurrent di Brennan resta a 16 sotto il par. Port Royal è dal 22 al 25 ottobre.",
+      "excerpt": "Nessun giro del PGA Tour è pubblicato per il 16 ottobre. Il prossimo è il Butterfield Bermuda Championship a Port Royal, 6 milioni di dollari. Adam Schenk è il vincitore precedente.",
+      "body": [
+        "Il 16 ottobre è un giorno vuoto sul PGA Tour. Non c'è un leader del primo giro, non c'è un taglio e non c'è un totale su 18 buche da stampare. La vittoria di Michael Brennan al Baycurrent Classic resta: 16 sotto il par, 68 finale, totale 268 su 72 buche. È l'ultimo titolo PGA Tour chiuso su questa redazione.",
+        "Il prossimo evento del PGA Tour è il Butterfield Bermuda Championship, dal 22 al 25 ottobre, al Port Royal Golf Course. Il montepremi è di 6 milioni di dollari. Adam Schenk è il vincitore precedente. Ha chiuso con un 71 nel vento e ha vinto di un colpo. Una lista di iscritti non è una classifica. Questa redazione non attacca un punteggio di venerdì a un torneo che parte giovedì prossimo."
+      ]
+    },
+    "pl": {
+      "title": "PGA Tour nie gra w piatek. Bermudy sa w przyszlym tygodniu",
+      "subtitle": "Wygrana Brennana w Baycurrent zostaje przy 16 ponizej par. Port Royal to 22-25 pazdziernika.",
+      "excerpt": "Na 16 pazdziernika nie ma opublikowanej rundy PGA Tour. Nastepny jest Butterfield Bermuda Championship w Port Royal, 6 milionow dolarow. Adam Schenk jest poprzednim zwyciezca.",
+      "body": [
+        "16 pazdziernika to pusty dzien na PGA Tour. Nie ma lidera pierwszej rundy, nie ma cuta i nie ma sumy 18 dolkow do druku. Wygrana Michaela Brennana w Baycurrent Classic zostaje: 16 ponizej par, koncowe 68, suma 268 po 72 dolkach. To ostatni zamkniety tytul PGA Tour na tym biurku.",
+        "Nastepny turniej PGA Tour to Butterfield Bermuda Championship, 22-25 pazdziernika, na Port Royal Golf Course. Pula to 6 milionow dolarow. Adam Schenk jest poprzednim zwyciezca. Zamknal runda 71 na wietrze i wygral jednym uderzeniem. Lista zgloszen nie jest klasyfikacja. To biuro nie dokleja piatkowego wyniku do turnieju, ktory startuje w przyszly czwartek."
+      ]
+    },
+    "zh": {
+      "title": "美巡赛周五不比赛。百慕大在下周",
+      "subtitle": "布伦南的湾流冠军仍是低于标准杆16杆。皇家港是10月22日至25日。",
+      "excerpt": "10月16日没有公布的美巡赛轮次。下一站是皇家港的百慕大巴特菲尔德锦标赛，奖金600万美元。亚当·申克是上届冠军。",
+      "body": [
+        "10月16日在美巡赛上是空白的一天。没有首轮领先者，没有晋级线，也没有18洞总杆可以刊登。迈克尔·布伦南在湾流精英赛的胜利仍然成立：低于标准杆16杆，收官68杆，72洞总杆268。这是本版最后一项已经结束的美巡赛冠军。",
+        "下一站美巡赛是百慕大巴特菲尔德锦标赛，10月22日至25日，皇家港高尔夫球场。奖金600万美元。亚当·申克是上届冠军。他在风中以71杆收官，以一杆优势获胜。一份报名名单不是领先榜。本版不把周五比分贴到下周四才开杆的赛事上。"
+      ]
+    },
+    "ja": {
+      "title": "PGAツアーは金曜に試合がない。バミューダは来週",
+      "subtitle": "ブレナンのベイカレント優勝は16アンダーのまま。ポートロイヤルは10月22-25日。",
+      "excerpt": "10月16日に公開されたPGAツアーのラウンドはない。次はポートロイヤルのバターフィールド・バミューダ、賞金600万ドル。前回優勝はアダム・シェンク。",
+      "body": [
+        "10月16日はPGAツアーの空白日だ。第1ラウンドの首位も、カットも、印刷する18ホール合計もない。マイケル・ブレナンのベイカレント・クラシック優勝は残る。16アンダー、最終日68、72ホール合計268。これがこのデスクで最後に完了したPGAツアーのタイトルだ。",
+        "次のPGAツアーはバターフィールド・バミューダ・チャンピオンシップ、10月22-25日、ポートロイヤル・ゴルフコース。賞金は600万ドル。前回優勝はアダム・シェンク。風の中で71をマークし、1打差で勝った。出場リストはリーダーボードではない。このデスクは、来週木曜にティーオフする大会へ金曜のスコアを付けない。"
+      ]
+    },
+    "ko": {
+      "title": "PGA 투어는 금요일에 치지 않는다. 버뮤다는 다음 주다",
+      "subtitle": "브레넌의 베이커런트 우승은 16언더 그대로다. 포트로열은 10월 22-25일.",
+      "excerpt": "10월 16일에 공개된 PGA 투어 라운드는 없다. 다음은 포트로열의 버터필드 버뮤다 챔피언십, 상금 600만 달러. 이전 우승자는 애덤 솅크다.",
+      "body": [
+        "10월 16일은 PGA 투어의 빈 날이다. 1라운드 선두도, 컷도, 인쇄할 18홀 합계도 없다. 마이클 브레넌의 베이커런트 클래식 우승은 그대로다. 16언더, 최종 라운드 68, 72홀 합계 268. 이 데스크에서 마지막으로 끝난 PGA 투어 타이틀이다.",
+        "다음 PGA 투어는 버터필드 버뮤다 챔피언십, 10월 22-25일, 포트로열 골프 코스. 상금은 600만 달러. 이전 우승자는 애덤 솅크다. 바람 속에서 71로 마무리하고 1타 차로 이겼다. 출전 명단은 리더보드가 아니다. 이 데스크는 다음 주 목요일에 티오프하는 대회에 금요일 스코어를 붙이지 않는다."
+      ]
+    },
+    "ar": {
+      "title": "جولة PGA لا تلعب يوم الجمعة. برمودا الأسبوع المقبل",
+      "subtitle": "فوز برينان في بايكرنت يبقى عند 16 تحت المعيار. بورت رويال من 22 إلى 25 أكتوبر.",
+      "excerpt": "لا جولة PGA منشورة ليوم 16 أكتوبر. التالية بطولة باترفيلد برمودا في بورت رويال، 6 ملايين دولار. آدم شينك هو الفائز السابق.",
+      "body": [
+        "16 أكتوبر يوم فارغ على جولة PGA. لا متصدر للجولة الأولى، ولا خط قطع، ولا مجموع 18 حفرة للطباعة. فوز مايكل برينان في بايكرنت كلاسيك قائم: 16 تحت المعيار، جولة ختامية 68، مجموع 268 على 72 حفرة. هذا آخر لقب مكتمل لجولة PGA على هذا المكتب.",
+        "الحدث التالي على جولة PGA هو بطولة باترفيلد برمودا، من 22 إلى 25 أكتوبر، على ملعب بورت رويال. الجائزة 6 ملايين دولار. آدم شينك هو الفائز السابق. أنهى بجولة 71 في الريح وفاز بفارق ضربة. قائمة المشاركين ليست لوحة ترتيب. هذا المكتب لا يلصق نتيجة جمعة ببطولة تنطلق الخميس المقبل."
+      ]
+    }
+  },
   'brighton-arsenal-mw5': {
     fr: {
       title: 'Brighton 3-0 Arsenal : les champions chutent, dimanche reste ouvert',

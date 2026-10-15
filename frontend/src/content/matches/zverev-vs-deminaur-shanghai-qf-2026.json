@@ -1,0 +1,58 @@
+{
+  "slug": "zverev-vs-deminaur-shanghai-qf-2026",
+  "headline": "Shanghai quarterfinal: Zverev beats de Minaur 6-4, 6-4",
+  "whyCareScore": 9.4,
+  "whyCareReason": "ATP and the Rolex site both print 6-4, 6-4. Zverev is into Saturday's semifinal against Davidovich Fokina.",
+  "teaser": "Top seed Alexander Zverev beat Alex de Minaur in 1 hour 17 minutes. He is the year-end No. 1. Sinner is out.",
+  "story": "Alexander Zverev beat Alex de Minaur 6-4, 6-4 on Thursday 15 October at the Rolex Shanghai Masters. ATP Tour times the match at 1:17:34 on Stadium Court. The Rolex site records 10 aces and 35 of 44 first-serve points. Alejandro Davidovich Fokina waits in Saturday's semifinal after Arthur Gea retired at 4-1. Friday's other quarterfinals, Jodar against Ruud and Medvedev against Paul, have no posted score.",
+  "stakes": "Zverev is one win from the final. The semifinal is Saturday against Davidovich Fokina.",
+  "rivalryAngle": "Zverev leads the head-to-head with de Minaur 9-4 after this win, per the Rolex match report.",
+  "funFacts": [
+    "Score: Zverev d. de Minaur 6-4, 6-4. Time 1:17:34. Umpire Adel Nour.",
+    "First-serve points: 35 of 44. Aces: 10.",
+    "Saturday semifinal: Zverev vs Davidovich Fokina. Sinner is out for the season."
+  ],
+  "keyPlayers": [
+    {"name": "Alexander Zverev", "team": "Germany", "hook": "Beat de Minaur 6-4, 6-4 and is the year-end No. 1."},
+    {"name": "Alex de Minaur", "team": "Australia", "hook": "Lost in straight sets in the quarterfinal."},
+    {"name": "Alejandro Davidovich Fokina", "team": "Spain", "hook": "Already through after Gea retired at 4-1."}
+  ],
+  "headToHead": "Zverev leads de Minaur 9-4 after 15 October 2026.",
+  "tags": ["tennis", "atp", "shanghai", "zverev", "de-minaur"],
+  "home": "Alexander Zverev",
+  "away": "Alex de Minaur",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "ATP Masters 1000",
+  "matchday": 11,
+  "date": "2026-10-15",
+  "time": "13:00",
+  "venue": "Qizhong Forest Sports City Arena",
+  "city": "Shanghai",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1103828/pexels-photo-1103828.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Shanghai Masters · Quarterfinal",
+  "resultSummary": "FINAL: Zverev d. de Minaur 6-4, 6-4. Semifinal vs Davidovich Fokina is Saturday. Sinner remains out.",
+  "leaderboard": [],
+  "tennisSets": [
+    {"p1": "6", "p2": "4"},
+    {"p1": "6", "p2": "4"}
+  ],
+  "sources": [
+    {"name": "ATP Tour Shanghai", "url": "https://www.atptour.com/en/scores/current/shanghai/5014/results"},
+    {"name": "Rolex Shanghai Masters", "url": "https://en.rolexshanghaimasters.com/en/media/news/zverev-de-minaur-shanghai-2026-qf"}
+  ]
+}
