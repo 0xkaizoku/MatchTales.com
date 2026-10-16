@@ -1,23 +1,23 @@
 {
   "slug": "shanghai-friday-qf-jodar-ruud-medvedev-paul-2026",
-  "headline": "Shanghai Friday: Jodar-Ruud and Medvedev-Paul, no score posted",
-  "whyCareScore": 8.6,
-  "whyCareReason": "ATP lists both quarterfinals for Friday 16 October. The results page still stops at Thursday.",
-  "teaser": "Not before 14:30: Rafael Jodar vs Casper Ruud. Not before 18:00: Daniil Medvedev vs Tommy Paul. No winner is printed.",
-  "story": "The ATP order of play for Friday 16 October at the Rolex Shanghai Masters puts Rafael Jodar against Casper Ruud not before 14:30, then Daniil Medvedev against Tommy Paul not before 18:00, both on Stadium Court. The results page has not added either match. Wednesday is in: Jodar beat van de Zandschulp 6-7 (4), 6-4, 6-2. Ruud led Auger-Aliassime 5-2 when Auger-Aliassime retired. Medvedev beat Tsitsipas 6-4, 7-5. Paul beat Bergs 7-6 (5), 6-4. This card stays upcoming.",
-  "stakes": "The winners meet in the other semifinal. Zverev and Davidovich Fokina are already through on the opposite side.",
-  "rivalryAngle": "Ruud has now reached the quarterfinals at all nine Masters 1000 events, per the ATP report on his win over Auger-Aliassime.",
+  "headline": "Shanghai Friday QF: Jodar rallies past Ruud; Medvedev tops Paul",
+  "whyCareScore": 9.2,
+  "whyCareReason": "Rafael Jodar becomes the youngest semifinalist in Shanghai history after rallying from a set down against Ruud. Daniil Medvedev wins a three-set battle against Paul.",
+  "teaser": "FINAL: Jodar d. Ruud 4-6, 6-4, 6-3. Medvedev d. Paul 6-3, 1-6, 6-3. Both advance to Saturday's semifinals on Stadium Court.",
+  "story": "The ATP results page for Friday 16 October at the Rolex Shanghai Masters confirmed both remaining semifinal spots. 20-year-old Spaniard Rafael Jodar mounted his fourth consecutive comeback win of the tournament, recovering from a set down to defeat Casper Ruud 4-6, 6-4, 6-3 in two hours and 20 minutes on Stadium Court. Jodar broke Ruud five times across sets two and three. In the following quarterfinal, fifth-seeded Daniil Medvedev overcame 15th-seeded Tommy Paul 6-3, 1-6, 6-3 in two hours and eight minutes, hitting 16 aces and 31 winners to reach his 70th tour-level semifinal. Jodar and Medvedev meet in Saturday's second semifinal.",
+  "stakes": "Jodar and Medvedev advanced to face each other in Saturday's semifinals, joining Alexander Zverev and Alejandro Davidovich Fokina.",
+  "rivalryAngle": "Jodar's breakout Masters run continues as he reaches the semifinals in his debut full ATP Tour season.",
   "funFacts": [
-    "Friday order: Jodar (12) vs Ruud (20), not before 14:30.",
-    "Then Medvedev (5) vs Paul (15), not before 18:00.",
-    "No Friday score is on the ATP results page."
+    "Final 1: Rafael Jodar d. Casper Ruud 4-6, 6-4, 6-3 (2h 20m).",
+    "Final 2: Daniil Medvedev d. Tommy Paul 6-3, 1-6, 6-3 (2h 08m, 16 aces).",
+    "Jodar becomes the youngest semifinalist in Rolex Shanghai Masters tournament history."
   ],
   "keyPlayers": [
-    {"name": "Rafael Jodar", "team": "Spain", "hook": "Beat van de Zandschulp 6-7 (4), 6-4, 6-2 to reach the quarterfinal."},
-    {"name": "Casper Ruud", "team": "Norway", "hook": "Advanced when Auger-Aliassime retired at 5-2."},
-    {"name": "Daniil Medvedev", "team": "Neutral", "hook": "Beat Tsitsipas 6-4, 7-5 and plays Paul."}
+    {"name": "Rafael Jodar", "team": "Spain", "hook": "Rallied from a set down for the fourth straight match to beat Ruud 4-6, 6-4, 6-3."},
+    {"name": "Daniil Medvedev", "team": "Neutral", "hook": "Fired 16 aces to beat Paul 6-3, 1-6, 6-3 for his 70th tour-level semifinal."},
+    {"name": "Casper Ruud", "team": "Norway", "hook": "Took the opening set 6-4 before Jodar broke five times in sets two and three."}
   ],
-  "headToHead": "Friday 16 October 2026. No score posted.",
+  "headToHead": "Friday 16 October 2026. Jodar d. Ruud 4-6, 6-4, 6-3. Medvedev d. Paul 6-3, 1-6, 6-3.",
   "tags": ["tennis", "atp", "shanghai", "jodar", "ruud", "medvedev", "paul"],
   "home": "Rafael Jodar",
   "away": "Casper Ruud",
@@ -31,9 +31,9 @@
   "time": "14:30",
   "venue": "Qizhong Forest Sports City Arena",
   "city": "Shanghai",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 1,
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/1405355/pexels-photo-1405355.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
@@ -45,14 +45,18 @@
   "format": "singles",
   "season": "2026",
   "roundLabel": "Shanghai Masters · Friday quarterfinals",
-  "resultSummary": "UPCOMING: Jodar vs Ruud, then Medvedev vs Paul. ATP has not posted a Friday score.",
+  "resultSummary": "FINAL: Jodar d. Ruud 4-6, 6-4, 6-3. Medvedev d. Paul 6-3, 1-6, 6-3. Both advance to Saturday semifinals.",
   "leaderboard": [
-    {"pos": "QF", "name": "Rafael Jodar vs Casper Ruud", "score": "not before 14:30", "note": "No score posted"},
-    {"pos": "QF", "name": "Daniil Medvedev vs Tommy Paul", "score": "not before 18:00", "note": "No score posted"}
+    {"pos": "QF", "name": "Rafael Jodar d. Casper Ruud", "score": "4-6, 6-4, 6-3", "note": "Jodar into semifinals"},
+    {"pos": "QF", "name": "Daniil Medvedev d. Tommy Paul", "score": "6-3, 1-6, 6-3", "note": "Medvedev into semifinals"}
   ],
-  "tennisSets": [],
+  "tennisSets": [
+    {"p1": "4", "p2": "6"},
+    {"p1": "6", "p2": "4"},
+    {"p1": "6", "p2": "3"}
+  ],
   "sources": [
-    {"name": "ATP Tour Friday schedule", "url": "https://www.atptour.com/en/news/shanghai-2026-schedule"},
-    {"name": "ATP Tour Shanghai results", "url": "https://www.atptour.com/en/scores/current/shanghai/5014/results"}
+    {"name": "ATP Tour Friday results", "url": "https://www.atptour.com/en/scores/current/shanghai/5014/results"},
+    {"name": "Rolex Shanghai Masters recap", "url": "https://en.rolexshanghaimasters.com/en/media/news/shanghai-2026-semifinals-preview"}
   ]
 }

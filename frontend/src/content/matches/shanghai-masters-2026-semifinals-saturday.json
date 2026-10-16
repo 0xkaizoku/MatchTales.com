@@ -1,0 +1,58 @@
+{
+  "slug": "shanghai-masters-2026-semifinals-saturday",
+  "headline": "Shanghai Semifinals Saturday: Zverev-Davidovich Fokina and Medvedev-Jodar",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Top seed Alexander Zverev faces Alejandro Davidovich Fokina, while Daniil Medvedev meets 20-year-old sensation Rafael Jodar on Stadium Court.",
+  "teaser": "Saturday at Qizhong: Zverev vs Davidovich Fokina, followed by Medvedev vs Jodar. The winners advance to Sunday's championship final.",
+  "story": "Saturday 17 October at the Rolex Shanghai Masters showcases both men's singles semifinals on Stadium Court at Qizhong Forest Sports City Arena. The afternoon session opens with top seed Alexander Zverev facing Spain's Alejandro Davidovich Fokina. Zverev, already confirmed as year-end ATP world No. 1, defeated Alex de Minaur 6-4, 6-4 in the quarterfinals, while Davidovich Fokina advanced past Arthur Gea. The second semifinal features fifth seed Daniil Medvedev against 20-year-old Rafael Jodar. Jodar reached the last four with a historic 4-6, 6-4, 6-3 comeback over Casper Ruud, while Medvedev defeated Tommy Paul 6-3, 1-6, 6-3 with 16 aces.",
+  "stakes": "A place in Sunday's Masters 1000 final. Zverev seeks to cap his year-end No. 1 season with a trophy, while Jodar chases his first ATP final.",
+  "rivalryAngle": "Medvedev's veteran Masters pedigree clashes with Jodar's fairytale breakout run in Shanghai.",
+  "funFacts": [
+    "Semifinal 1: Alexander Zverev (1) vs Alejandro Davidovich Fokina.",
+    "Semifinal 2: Daniil Medvedev (5) vs Rafael Jodar (12).",
+    "Jodar is the youngest semifinalist in the history of the Rolex Shanghai Masters."
+  ],
+  "keyPlayers": [
+    {"name": "Alexander Zverev", "team": "Germany", "hook": "Year-end world No. 1, won 80 percent of first-serve points against de Minaur."},
+    {"name": "Rafael Jodar", "team": "Spain", "hook": "Youngest semifinalist in Shanghai history, four straight comeback wins."},
+    {"name": "Daniil Medvedev", "team": "Neutral", "hook": "Reaches his 19th ATP Masters 1000 semifinal with 16 aces against Paul."}
+  ],
+  "headToHead": "Saturday 17 October 2026. Status upcoming. No score.",
+  "tags": ["tennis", "atp", "shanghai", "semifinals", "zverev", "jodar", "medvedev"],
+  "home": "Alexander Zverev",
+  "away": "Alejandro Davidovich Fokina",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "ATP Masters 1000",
+  "matchday": 13,
+  "date": "2026-10-17",
+  "time": "14:30",
+  "venue": "Qizhong Forest Sports City Arena",
+  "city": "Shanghai",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1103828/pexels-photo-1103828.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Shanghai Masters · Semifinals",
+  "resultSummary": "UPCOMING: Saturday 17 October, Stadium Court. Zverev vs Davidovich Fokina, then Medvedev vs Jodar. No score.",
+  "leaderboard": [
+    {"pos": "SF1", "name": "Alexander Zverev vs Alejandro Davidovich Fokina", "score": "not before 14:30", "note": "Stadium Court"},
+    {"pos": "SF2", "name": "Daniil Medvedev vs Rafael Jodar", "score": "not before 18:00", "note": "Stadium Court"}
+  ],
+  "tennisSets": [],
+  "sources": [
+    {"name": "ATP Tour Saturday order of play", "url": "https://www.atptour.com/en/news/shanghai-2026-schedule"},
+    {"name": "Rolex Shanghai Masters", "url": "https://en.rolexshanghaimasters.com/en/media/news/shanghai-2026-semifinals-preview"}
+  ]
+}

@@ -1,35 +1,35 @@
 {
   "slug": "broncos-at-seahawks-tnf-week6-2026",
-  "headline": "NFL Week 6 TNF: Seahawks at Broncos, no ESPN final",
-  "whyCareScore": 9.1,
-  "whyCareReason": "ESPN lists Seattle at Denver for Thursday Night Football and prints no score. Both clubs enter 3-2 at Empower Field at Mile High.",
-  "teaser": "Prime Video lists 8:15 p.m. ET. The game page says data is currently unavailable. Vikings and 49ers are 5-0. Chiefs are 4-0.",
-  "story": "The ESPN game page for Thursday 15 October still titles the match Seattle Seahawks at Denver Broncos. The venue is Empower Field at Mile High in Denver. Kickoff is 8:15 p.m. ET on Prime Video. Where a score would sit, the page says data is currently unavailable. Odds remain posted. This card does not print a winner. Seattle enter 3-2. Denver enter 3-2. On 11 October the 49ers beat the Seahawks 32-29, and the Broncos beat the Chargers 23-17. Season passing yards on the game page: Sam Darnold 755 on 63 of 98, with 7 touchdowns and 5 interceptions. Bo Nix 942 on 97 of 162, with 6 touchdowns and 3 interceptions. Jaxon Smith-Njigba has 583 receiving yards. J.K. Dobbins has 229 rushing yards. Emanuel Wilson has 251 rushing yards. ESPN standings on 16 October have not absorbed a Thursday result. Minnesota and San Francisco are 5-0. Kansas City are 4-0. Buffalo, Baltimore and Jacksonville are 4-1.",
-  "stakes": "A result would move the AFC West and the NFC West. ESPN has not posted one. This card stays upcoming.",
-  "rivalryAngle": "Former AFC West clubs meet in Denver. The score is still unposted.",
+  "headline": "NFL Week 6 TNF: Broncos edge Seahawks 17-14 in overtime",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Wil Lutz drilled a 53-yard field goal in overtime after Ja'Quan McMillian intercepted Sam Darnold. Denver improve to 4-2 while Seattle fall to 3-3.",
+  "teaser": "FINAL (OT): Broncos 17, Seahawks 14. Lutz 53-yard FG seals victory after late Seattle comeback forced overtime at Empower Field at Mile High.",
+  "story": "Week 6 Thursday Night Football concluded in Denver with the Broncos defeating the Seattle Seahawks 17-14 in overtime. Denver established a 14-3 advantage in the first half with rushing touchdowns from J.K. Dobbins and RJ Harvey. Seattle battled back in the second half, with Jason Myers drilling a 34-yard field goal with three seconds left in regulation to tie the game 14-14. In overtime, Broncos cornerback Ja'Quan McMillian intercepted Seahawks quarterback Sam Darnold, setting up Wil Lutz for a game-winning 53-yard field goal. Denver move to 4-2 in the AFC West, while Seattle drop to 3-3 in the NFC West. Minnesota and San Francisco remain 5-0, and Kansas City stand 4-0.",
+  "stakes": "Denver improve to 4-2 to keep pace with the 4-0 Chiefs in the AFC West. Seattle drop to 3-3 behind the 5-0 49ers in the NFC West.",
+  "rivalryAngle": "Former AFC West rivals play a defensive thriller decided on a 53-yard field goal in overtime.",
   "funFacts": [
-    "Kickoff: Thursday 15 October 2026, 8:15 p.m. ET, Prime Video, Empower Field at Mile High, Denver.",
-    "Records entering: Seahawks 3-2, Broncos 3-2. Unbeaten: Vikings 5-0, 49ers 5-0, Chiefs 4-0.",
-    "ESPN game page: data is currently unavailable. No final is printed."
+    "Final: Denver Broncos 17, Seattle Seahawks 14 (OT), Empower Field at Mile High.",
+    "Winning play: Wil Lutz 53-yard field goal in overtime after Ja'Quan McMillian interception.",
+    "Records: Broncos 4-2, Seahawks 3-3. Unbeaten: Vikings 5-0, 49ers 5-0, Chiefs 4-0."
   ],
   "keyPlayers": [
     {
-      "name": "Sam Darnold",
-      "team": "Seattle Seahawks",
-      "hook": "755 passing yards, 63 of 98, 7 touchdowns, 5 interceptions on the ESPN game page."
-    },
-    {
-      "name": "Bo Nix",
+      "name": "Wil Lutz",
       "team": "Denver Broncos",
-      "hook": "942 passing yards, 97 of 162, 6 touchdowns, 3 interceptions on the ESPN game page."
+      "hook": "Drilled the 53-yard game-winning field goal in overtime."
     },
     {
-      "name": "Jaxon Smith-Njigba",
-      "team": "Seattle Seahawks",
-      "hook": "583 receiving yards on the ESPN game page."
+      "name": "Ja'Quan McMillian",
+      "team": "Denver Broncos",
+      "hook": "Intercepted Sam Darnold in overtime to set up the game-winning drive."
+    },
+    {
+      "name": "J.K. Dobbins",
+      "team": "Denver Broncos",
+      "hook": "Scored Denver's opening touchdown on the ground."
     }
   ],
-  "headToHead": "Seahawks at Broncos, Thursday 15 October 2026, Empower Field at Mile High. No final posted.",
+  "headToHead": "Seahawks at Broncos, Thursday 15 October 2026. Final: Broncos 17, Seahawks 14 in overtime.",
   "tags": [
     "football",
     "nfl",
@@ -51,13 +51,13 @@
   "time": "20:15",
   "venue": "Empower Field at Mile High",
   "city": "Denver",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 17,
+  "awayScore": 14,
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/1618269/pexels-photo-1618269.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": null,
+  "decidedBy": "aet",
   "homePen": null,
   "awayPen": null,
   "sport": "football",
@@ -65,13 +65,13 @@
   "format": "team-match",
   "season": "2026",
   "roundLabel": "NFL Week 6 · Thursday Night Football",
-  "resultSummary": "UPCOMING: Seahawks (3-2) at Broncos (3-2), Empower Field, 8:15 p.m. ET, Prime Video. ESPN has no final.",
+  "resultSummary": "FINAL (OT): Broncos 17, Seahawks 14. Wil Lutz 53-yd FG in overtime after McMillian INT. Broncos 4-2, Seahawks 3-3.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "ESPN game page",
-      "url": "https://www.espn.com/nfl/game/_/gameId/401872995/seahawks-broncos"
+      "name": "NFL Game Recap",
+      "url": "https://www.nfl.com/games/seahawks-at-broncos-2026-reg-6"
     },
     {
       "name": "ESPN NFL standings",
