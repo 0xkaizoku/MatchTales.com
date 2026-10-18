@@ -1,0 +1,56 @@
+{
+  "slug": "shanghai-masters-2026-final-zverev-vs-medvedev",
+  "headline": "Shanghai Masters Final: Zverev faces Medvedev for the Masters 1000 crown",
+  "whyCareScore": 9.6,
+  "whyCareReason": "World No. 1 Alexander Zverev meets Daniil Medvedev on Stadium Court in their 20th career meeting for the Shanghai title.",
+  "teaser": "Sunday at Qizhong: Year-end world No. 1 Zverev battles former champion Medvedev in a clash of hard-court giants.",
+  "story": "Sunday 18 October brings the championship climax to the Rolex Shanghai Masters as top seed Alexander Zverev faces fifth seed Daniil Medvedev on Stadium Court at Qizhong Forest Sports City Arena. Zverev advanced to the final with a commanding 6-4, 6-3 victory over Alejandro Davidovich Fokina, firing 12 aces and never dropping serve. Medvedev earned his berth by halting 20-year-old Rafael Jodar's fairytale run with a disciplined 7-6(4), 6-3 semifinal win. Zverev aims to crown his confirmed year-end No. 1 ranking with a seventh ATP Masters 1000 trophy, while Medvedev targets his second Shanghai crown following his 2019 triumph. Their 20th ATP head-to-head meeting carries enormous prestige in the Asian swing finale.",
+  "stakes": "The Shanghai Masters 1000 championship trophy and 1,000 ATP ranking points. Zverev seeks his second Masters title of 2026.",
+  "rivalryAngle": "One of modern tennis's fiercest rivalries enters its 20th chapter on Shanghai's premier indoor-outdoor hard court.",
+  "funFacts": [
+    "Head-to-head: Medvedev leads the career tour-level series 12-7 entering Sunday's final.",
+    "Zverev is already confirmed as the 2026 year-end ATP world No. 1.",
+    "Medvedev previously won the Shanghai Masters title in 2019."
+  ],
+  "keyPlayers": [
+    {"name": "Alexander Zverev", "team": "Germany", "hook": "Year-end world No. 1, won 84 percent of first-serve points in Saturday's semifinal win."},
+    {"name": "Daniil Medvedev", "team": "Neutral", "hook": "2019 Shanghai champion, advanced with 14 aces and zero breaks conceded against Jodar."}
+  ],
+  "headToHead": "Sunday 18 October 2026. Status upcoming championship final.",
+  "tags": ["tennis", "atp", "shanghai", "final", "zverev", "medvedev"],
+  "home": "Alexander Zverev",
+  "away": "Daniil Medvedev",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "ATP Masters 1000",
+  "matchday": 14,
+  "date": "2026-10-18",
+  "time": "16:30",
+  "venue": "Qizhong Forest Sports City Arena",
+  "city": "Shanghai",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1103828/pexels-photo-1103828.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Shanghai Masters · Championship Final",
+  "resultSummary": "UPCOMING: Sunday 18 October, 16:30 local, Stadium Court. Alexander Zverev (1) vs Daniil Medvedev (5).",
+  "leaderboard": [
+    {"pos": "Final", "name": "Alexander Zverev vs Daniil Medvedev", "score": "16:30 local", "note": "Stadium Court"}
+  ],
+  "tennisSets": [],
+  "sources": [
+    {"name": "ATP Tour Shanghai results", "url": "https://www.atptour.com/en/scores/current/shanghai/5014/results"},
+    {"name": "Rolex Shanghai Masters", "url": "https://en.rolexshanghaimasters.com/en/media/news/shanghai-2026-final-preview"}
+  ]
+}

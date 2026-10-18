@@ -1,77 +1,77 @@
 {
-  "asOf": "2026-10-17",
+  "asOf": "2026-10-18",
   "premierLeagueTable": [
     {
       "pos": 1,
       "team": "Manchester City",
-      "p": 6,
-      "w": 6,
+      "p": 7,
+      "w": 7,
       "d": 0,
       "l": 0,
-      "gf": 16,
-      "ga": 5,
-      "gd": 11,
-      "pts": 18
+      "gf": 19,
+      "ga": 6,
+      "gd": 13,
+      "pts": 21
     },
     {
       "pos": 2,
       "team": "Arsenal",
-      "p": 6,
-      "w": 5,
+      "p": 7,
+      "w": 6,
       "d": 0,
       "l": 1,
-      "gf": 10,
+      "gf": 12,
       "ga": 5,
-      "gd": 5,
-      "pts": 15
+      "gd": 7,
+      "pts": 18
     },
     {
       "pos": 3,
       "team": "Brighton",
-      "p": 6,
-      "w": 4,
+      "p": 7,
+      "w": 5,
       "d": 1,
       "l": 1,
-      "gf": 18,
-      "ga": 5,
-      "gd": 13,
-      "pts": 13
+      "gf": 20,
+      "ga": 6,
+      "gd": 14,
+      "pts": 16
     },
     {
       "pos": 4,
       "team": "Brentford",
-      "p": 6,
-      "w": 2,
+      "p": 7,
+      "w": 3,
       "d": 4,
       "l": 0,
-      "gf": 12,
-      "ga": 6,
-      "gd": 6,
-      "pts": 10
+      "gf": 14,
+      "ga": 7,
+      "gd": 7,
+      "pts": 13
     },
     {
       "pos": 5,
       "team": "Everton",
-      "p": 6,
+      "p": 7,
       "w": 2,
-      "d": 4,
+      "d": 5,
       "l": 0,
-      "gf": 8,
-      "ga": 5,
+      "gf": 9,
+      "ga": 6,
       "gd": 3,
-      "pts": 10
+      "pts": 11
     },
     {
       "pos": 6,
       "team": "Chelsea",
-      "p": 6,
+      "p": 7,
       "w": 3,
-      "d": 1,
+      "d": 2,
       "l": 2,
-      "gf": 15,
-      "ga": 13,
+      "gf": 16,
+      "ga": 14,
       "gd": 2,
-      "pts": 10
+      "pts": 11
     },
     {
       "pos": 7,
@@ -100,25 +100,25 @@
     {
       "pos": 9,
       "team": "Liverpool",
-      "p": 6,
+      "p": 7,
       "w": 2,
       "d": 3,
-      "l": 1,
-      "gf": 7,
-      "ga": 7,
-      "gd": 0,
+      "l": 2,
+      "gf": 8,
+      "ga": 9,
+      "gd": -1,
       "pts": 9
     },
     {
       "pos": 10,
       "team": "Ipswich",
-      "p": 6,
+      "p": 7,
       "w": 3,
       "d": 0,
-      "l": 3,
-      "gf": 9,
-      "ga": 12,
-      "gd": -3,
+      "l": 4,
+      "gf": 10,
+      "ga": 15,
+      "gd": -5,
       "pts": 9
     },
     {
@@ -655,6 +655,20 @@
       "home": "Denver Broncos",
       "away": "Seattle Seahawks",
       "note": "FINAL (OT): Broncos 17, Seahawks 14. Wil Lutz 53-yd FG in overtime after McMillian INT. Broncos 4-2, Seahawks 3-3."
+    },
+    {
+      "date": "2026-10-18",
+      "time": "4:25 p.m. ET",
+      "home": "Kansas City Chiefs",
+      "away": "Los Angeles Chargers",
+      "note": "FINAL: Chiefs 27, Chargers 20. CBS. Mahomes 2 TDs, Pacheco 88 yards. Chiefs improve to 5-0; Chargers drop to 3-3."
+    },
+    {
+      "date": "2026-10-18",
+      "time": "4:05 p.m. ET",
+      "home": "Las Vegas Raiders",
+      "away": "Buffalo Bills",
+      "note": "FINAL: Bills 31, Raiders 13. CBS. Allen 3 TD passes, Cook 94 yards. Bills move to 5-1; Raiders fall to 2-4."
     }
   ],
   "usOpenQF": [

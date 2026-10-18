@@ -10,6 +10,558 @@ export type StoryI18n = {
 type LocMap = Partial<Record<Exclude<Locale, 'en'>, StoryI18n>>;
 
 export const STORY_I18N: Record<string, LocMap> = {
+"shanghai-masters-2026-final-sunday-zverev-vs-medvedev": {
+  "fr": {
+    "title": "Finale du Masters de Shanghai : Zverev défie Medvedev pour le trophée",
+    "subtitle": "Le n°1 mondial Alexander Zverev affronte le champion 2019 Daniil Medvedev pour leur 20e duel sur le circuit.",
+    "excerpt": "Alexander Zverev et Daniil Medvedev se disputent le titre du Rolex Shanghai Masters dimanche après deux solides victoires en demi-finale samedi.",
+    "body": [
+          "La finale du Rolex Shanghai Masters a été officialisée samedi après-midi à la Qizhong Forest Sports City Arena au terme de deux démonstrations d'autorité. La tête de série n°1 Alexander Zverev a dominé l'Espagnol Alejandro Davidovich Fokina 6-4, 6-3 en 1 h 28. Zverev a réalisé une prestation remarquable au service, remportant 31 de ses 37 points sur premier service sans concéder la moindre balle de break.",
+          "Dans la seconde demi-finale, la tête de série n°5 Daniil Medvedev a stoppé la série héroïque du jeune Rafael Jodar (20 ans), s'imposant 7-6(4), 6-3. Jodar avait enflammé Shanghai avec quatre victoires renversantes consécutives, mais Medvedev a fait valoir sa régularité en fond de court et 14 services gagnants.",
+          "La finale de dimanche constitue le 20e duel en carrière entre Zverev et Medvedev sur le circuit principal. Medvedev mène 12-7 au face-à-face, mais Zverev arrive fort de sa place de n°1 mondial de fin d'année déjà assurée pour tenter de décrocher son deuxième Masters 1000 de 2026. Medvedev, titré à Shanghai en 2019, vise un premier sacre en Masters 1000 cette saison."
+    ]
+  },
+  "es": {
+    "title": "Final del Masters de Shanghái: Zverev frente a Medvedev por la corona",
+    "subtitle": "El número 1 mundial Alexander Zverev choca con el campeón de 2019 Daniil Medvedev en su vigésimo clásico en el circuito.",
+    "excerpt": "Alexander Zverev y Daniil Medvedev se enfrentan este domingo por el título en Shanghái tras firmar convincentes triunfos en las semifinales del sábado.",
+    "body": [
+          "El Rolex Shanghai Masters definió su gran final el sábado con dos triunfos autoritarios en la Stadium Court de Qizhong. El primer cabeza de serie Alexander Zverev derrotó a Alejandro Davidovich Fokina por 6-4 y 6-3 en 1 hora y 28 minutos. El alemán estuvo intratable con el saque, ganando el 84 por ciento de sus primeros servicios y sin conceder opciones de quiebre.",
+          "En la segunda semifinal, Daniil Medvedev (quinto favorito) frenó el cuento de hadas de Rafael Jodar, de 20 años, imponiéndose por 7-6(4) y 6-3. Jodar había deslumbrado en Shanghái con cuatro remontadas épicas, pero la solidez y los 14 servicios directos de Medvedev inclinaron la balanza.",
+          "El duelo del domingo marca el enfrentamiento número 20 entre Zverev y Medvedev en el circuito ATP. Medvedev domina el cara a cara histórico por 12-7, pero Zverev llega avalado por su condición asegurada de número 1 de final de temporada, buscando su segundo trofeo de Masters 1000 de 2026."
+    ]
+  },
+  "de": {
+    "title": "Shanghai Masters Finale: Zverev trifft auf Medvedev im Titelduell",
+    "subtitle": "Die Nummer 1 der Welt Alexander Zverev kämpft gegen den Champion von 2019 Daniil Medvedev im 20. direkten Aufeinandertreffen.",
+    "excerpt": "Alexander Zverev und Daniil Medvedev bestreiten am Sonntag das Finale des Rolex Shanghai Masters nach souveränen Halbfinalsiegen am Samstag.",
+    "body": [
+          "Das Finale des Rolex Shanghai Masters steht fest: Am Samstagnachmittag setzten sich die Favoriten in der Qizhong Forest Sports City Arena durch. Alexander Zverev bezwang Alejandro Davidovich Fokina mit 6:4, 6:3 in 88 Minuten. Zverev servierte makellos, holte 31 von 37 Punkten über den ersten Aufschlag und ließ keinen einzigen Breakball zu.",
+          "Im zweiten Halbfinale beendete Daniil Medvedev den Traumlauf des 20-jährigen Rafael Jodar mit 7:6(4), 6:3. Jodar hatte das Turnier mit vier Comeback-Erfolgen begeistert, fand gegen Medvedevs Grundlinienspiel und 14 Asse aber kein Rezept.",
+          "Das Endspiel am Sonntag ist das 20. Aufeinandertreffen zwischen Zverev und Medvedev auf der ATP-Tour. Medvedev führt im direkten Vergleich mit 12:7, doch Zverev tritt mit dem Rückenwind der feststehenden Nummer 1 zum Jahresende an, um seinen zweiten Masters-1000-Titel der Saison 2026 einzufahren."
+    ]
+  },
+  "it": {
+    "title": "Finale Masters Shanghai: Zverev contro Medvedev per il titolo",
+    "subtitle": "Il numero 1 mondiale Alexander Zverev affronta il campione del 2019 Daniil Medvedev nel loro 20° confronto sul circuito.",
+    "excerpt": "Alexander Zverev e Daniil Medvedev si contenderanno domenica il titolo a Shanghai dopo le nette vittorie in semifinale di sabato.",
+    "body": [
+          "Il Rolex Shanghai Masters ha decretato i suoi finalisti sabato a Qizhong al termine di due prove di forza. La testa di serie numero 1 Alexander Zverev ha superato Alejandro Davidovich Fokina per 6-4, 6-3 in un'ora e 28 minuti, vincendo l'84% dei punti sulla prima palla e senza concedere palle break.",
+          "Nella seconda semifinale Daniil Medvedev ha interrotto la favola del ventenne Rafael Jodar vincendo 7-6(4), 6-3. Jodar aveva stupito il pubblico con quattro rimonte consecutive, ma la regolarità da fondo campo e i 14 ace di Medvedev hanno fatto la differenza.",
+          "La finale di domenica rappresenta il 20° capitolo della rivalità tra Zverev e Medvedev. Il russo guida per 12-7 nei precedenti, ma il tedesco scende in campo da numero 1 di fine anno già confermato, a caccia del secondo Masters 1000 stagionale."
+    ]
+  },
+  "pl": {
+    "title": "Finał Shanghai Masters: Zverev kontra Miedwiediew w meczu o tytuł",
+    "subtitle": "Lider rankingu Alexander Zverev zmierzy sie z triumfatorem z 2019 roku Daniiłem Miedwiediewem w ich 20. pojedynku.",
+    "excerpt": "Alexander Zverev i Daniił Miedwiediew zagrają w niedzielę o trofeum w Szanghaju po przekonujących zwycięstwach w sobotnich półfinałach.",
+    "body": [
+          "Skład finału turnieju Rolex Shanghai Masters został wyłoniony w sobotnie popołudnie w Qizhong Arena. Najwyżej rozstawiony Alexander Zverev pokonał Alejandro Davidovicha Fokinę 6-4, 6-3 w 88 minut. Niemiec zagrał perfekcyjnie przy własnym podaniu, nie broniąc ani jednego break pointa.",
+          "W drugim półfinale Daniił Miedwiediew zatrzymał rewelacyjnego 20-latka Rafaela Jodara, wygrywając 7-6(4), 6-3. Jodar zachwycił kibiców czterema kolejnymi trzysetowymi powrotami, lecz precyzja i 14 asów Miedwiediewa okazały się decydujące.",
+          "Niedzielne starcie będzie 20. bezpośrednim meczem Zvereva z Miedwiediewem. Rosjanin prowadzi w bilansie 12-7, lecz pewny pozycji lidera na koniec sezonu Zverev celuje w drugi tytuł rangi Masters 1000 w 2026 roku."
+    ]
+  },
+  "zh": {
+    "title": "上海大师赛决赛：兹维列夫对决梅德韦杰夫争夺桂冠",
+    "subtitle": "年终世界第一兹维列夫与2019年赛会冠军梅德韦杰夫在中央球场上演第20次巅峰对决。",
+    "excerpt": "兹维列夫与梅德韦杰夫在周六半决赛双双取胜，顺利会师周日旗忠网球中心的劳力士上海大师赛男单争冠战。",
+    "body": [
+          "周六下午劳力士上海大师赛两场男单半决赛在旗忠森林体育城网球中心落幕。头号种子亚历山大·兹维列夫以6-4、6-3力克西班牙选手达维多维奇·福基纳，全场比赛耗时1小时28分钟，兹维列夫一发得分率高达84%，未送出任何破发点。",
+          "随后进行的第二场半决赛中，五号种子丹尼尔·梅德韦杰夫以7-6(4)、6-3战胜20岁西班牙黑马拉斐尔·霍达尔。霍达尔此前连胜四场逆转好戏，但梅德韦杰夫凭借标志性的底线相持与14记ACE球锁定胜局。",
+          "周日的冠军争夺战将是兹维列夫与梅德韦杰夫在巡回赛的第20次交锋。梅德韦杰夫以12胜7负领跑交锋记录，而已经锁定年终世界第一的兹维列夫则力争斩获本赛季第二座大师赛奖杯。"
+    ]
+  },
+  "ja": {
+    "title": "上海マスターズ決勝：ズベレフ対メドベージェフ、第20回対決の頂上決戦",
+    "subtitle": "世界ランク1位ズベレフと2019年王者メドベージェフがセンターコートで激突。",
+    "excerpt": "アレクサンダー・ズベレフとダニール・メドベージェフが土曜日の準決勝を制し、日曜日の上海マスターズ決勝で顔を合わせます。",
+    "body": [
+          "土曜日の旗忠テニスセンターで行われた準決勝で上海マスターズの決勝カードが確定しました。第1シードのアレクサンダー・ズベレフはアレハンドロ・ダビドビッチ・フォキナを6-4、6-3で退け、ファーストサーブでの勝率84パーセントを記録してブレークポイントを1つも与えませんでした。",
+          "第2試合では第5シードのダニール・メドベージェフが、快進撃を続けていた20歳のラファエル・ホダルを7-6(4)、6-3で下しました。ホダルの力強いストロークを封じたメドベージェフは14本のエースを叩き込みました。",
+          "日曜日の決勝は両者にとって通算20度目のツアー対戦となります。対戦成績はメドベージェフが12勝7敗とリードしていますが、年間1位を確定させたズベレフも今季2度目のマスターズ1000制覇を狙います。"
+    ]
+  },
+  "ko": {
+    "title": "상하이 마스터스 결승: 츠베레프 대 메드베데프 20번째 맞대결",
+    "subtitle": "연말 세계 1위 츠베레프와 2019년 챔피언 메드베데프가 스타디움 코트에서 격돌합니다.",
+    "excerpt": "알렉산더 츠베레프와 다닐 메드베데프가 토요일 준결승에서 완승을 거두고 일요일 상하이 마스터스 결승에 진출했습니다.",
+    "body": [
+          "토요일 오후 치중 테니스 센터에서 열린 준결승을 통해 결승 대진이 확정되었습니다. 톱시드 알렉산더 츠베레프는 알레한드로 다비도비치 포키나를 6-4, 6-3으로 꺾었습니다. 츠베레프는 첫 서브 득점률 84%를 기록하며 단 하나의 브레이크 포인트도 내주지 않았습니다.",
+          "이어진 경기에서는 5번 시드 다닐 메드베데프가 20세 신성 라파엘 호다르의 돌풍을 7-6(4), 6-3으로 잠재웠습니다. 호다르는 4경기 연속 역전승으로 팬들을 열광시켰지만 메드베데프의 견고한 스트로크와 14개의 에이스를 넘지 못했습니다.",
+          "일요일 결승전은 두 선수의 통산 20번째 맞대결입니다. 역대 전적에서는 메드베데프가 12승 7패로 앞서 있으나 연말 1위를 확정한 츠베레프는 2026년 두 번째 마스터스 1000 트로피를 조준합니다."
+    ]
+  },
+  "ar": {
+    "title": "نهائي بطولة شنغهاي للأساتذة: زفيريف يواجه ميدفيديف على اللقب",
+    "subtitle": "المصنف الأول عالميا ألكسندر زفيريف يلتقي بطل 2019 دانييل ميدفيديف في مواجهتهما العشرين.",
+    "excerpt": "يلتقي ألكسندر زفيريف مع دانييل ميدفيديف يوم الأحد في قمة نهائي شنغهاي للأساتذة بعد تأهلهما المستحق من نصف النهائي يوم السبت.",
+    "body": [
+          "تحددت ملامح المباراة النهائية لبطولة رولكس شنغهاي للأساتذة يوم السبت في مجمع تشيتشونغ للتنس بعد عرضين قويين. تغلب المصنف الأول ألكسندر زفيريف على الإسباني أليخاندرو دافيدوفيتش فوكينا بنتيجة 6-4 و6-3 خلال ساعة و28 دقيقة دون أن يواجه أي نقطة لكسر إرساله.",
+          "وفي نصف النهائي الثاني، أوقف المصنف الخامس دانييل ميدفيديف مغامرة الإسباني الشاب رافاييل خودار البالغ 20 عاما وتغلب عليه بنتيجة 7-6(4) و6-3، معتمدا على انضباطه الدفاعي و14 إرسالا ساحقا.",
+          "المباراة النهائية يوم الأحد تشهد اللقاء رقم 20 بين زفيريف وميدفيديف في بطولات المحترفين. يتفوق ميدفيديف بـ12 انتصارا مقابل 7، لكن زفيريف يدخل المواجهة بصفته المصنف الأول عالميا بنهاية العام ساعيا للقبه الثاني في فئة الماسترز هذا الموسم."
+    ]
+  }
+},
+"wnba-finals-2026-game1-valkyries-edge-dream-lead-1-0": {
+  "fr": {
+    "title": "Finales WNBA match 1 : les Valkyries battent le Dream 82-76 et mènent 1-0",
+    "subtitle": "Golden State brille pour son premier match de finale devant le public en feu du Chase Center. Match 2 lundi soir.",
+    "excerpt": "Les Golden State Valkyries ont remporté le match 1 des Finales WNBA 2026 samedi en dominant l'Atlanta Dream 82-76 grâce à une défense de fer dans le money-time.",
+    "body": [
+          "Les Finales WNBA 2026 ont débuté dans une ambiance électrique samedi après-midi au Chase Center de San Francisco, où les Valkyries de Golden State se sont imposées 82-76 face à l'Atlanta Dream dans le match 1. Pour la première rencontre de finale de leur histoire, les Valkyries ont résisté au retour d'Atlanta pour mener 1-0 dans cette série au meilleur des sept manches.",
+          "Une salle comble de 18 064 spectateurs a vu Golden State mener 46-38 à la mi-temps grâce à une circulation de balle fluide. Atlanta a réagi dans le troisième quart-temps sous l'impulsion d'Angel Reese, auteure de 19 points et 14 rebonds, pour ramener le Dream à 68-66 à cinq minutes du terme.",
+          "Golden State a alors verrouillé sa raquette lors des trois dernières minutes, provoquant trois pertes de balle consécutives d'Atlanta pour valider la victoire. Le match 2 aura lieu lundi 19 octobre à 20 h 00 ET au Chase Center avant le déplacement en Géorgie."
+    ]
+  },
+  "es": {
+    "title": "Finales WNBA Juego 1: Valkyries superan a Dream 82-76 y se adelantan 1-0",
+    "subtitle": "Golden State debuta en las Finales con victoria ante el fervor del Chase Center. El Juego 2 será el lunes.",
+    "excerpt": "Las Golden State Valkyries ganaron el Juego 1 de las Finales WNBA 2026 el sábado, derrotando al Atlanta Dream 82-76 con un brillante cierre defensivo.",
+    "body": [
+          "Las Finales de la WNBA 2026 arrancaron el sábado en San Francisco con el triunfo 82-76 de las Golden State Valkyries sobre el Atlanta Dream en el Juego 1. En su primera aparición en una serie por el título, la franquicia californiana pegó primero en la serie al mejor de siete.",
+          "Ante 18.064 espectadores en el Chase Center, Golden State dominó la primera mitad por 46-38. Atlanta apretó en el tercer parcial impulsada por Angel Reese (19 puntos y 14 rebotes), apretando el marcador a 68-66 a mediados del último periodo.",
+          "En los minutos finales, la férrea defensa de las Valkyries forzó tres pérdidas consecutivas de Atlanta para sellar el resultado. El Juego 2 se disputará el lunes 19 de octubre a las 20:00 ET en San Francisco."
+    ]
+  },
+  "de": {
+    "title": "WNBA Finals Spiel 1: Valkyries besiegen Dream 82-76 und führen 1-0",
+    "subtitle": "Golden State triumphiert im ersten Finalspiel der Teamgeschichte im Chase Center. Spiel 2 folgt am Montag.",
+    "excerpt": "Die Golden State Valkyries holten am Samstag Spiel 1 der WNBA Finals 2026 mit einem 82-76 über die Atlanta Dream dank starker Abwehrarbeit in der Schlussphase.",
+    "body": [
+          "Die WNBA Finals 2026 begannen am Samstagnachmittag im ausverkauften Chase Center in San Francisco mit einem 82-76-Erfolg der Golden State Valkyries gegen die Atlanta Dream. Im ersten Finalspiel der Klubgeschichte erarbeitete sich das Heimteam die 1-0-Führung in der Best-of-Seven-Serie.",
+          "Vor 18.064 Fans führte Golden State zur Halbzeit mit 46-38. Atlanta kam im dritten Viertel angeführt von Angel Reese (19 Punkte, 14 Rebounds) zurück und verkürzte im Schlussviertel auf 68-66.",
+          "In der Schlussphase erzwang Golden States Defensive drei entscheidende Ballverluste der Dream. Vier verwandelte Freiwürfe in den letzten Sekunden machten den Auftaktsieg perfekt. Spiel 2 findet am Montagabend im Chase Center statt."
+    ]
+  },
+  "it": {
+    "title": "WNBA Finals Gara 1: Valkyries piegano le Dream 82-76 e vanno sull'1-0",
+    "subtitle": "Golden State esulta nella prima gara di finale della sua storia davanti ai tifosi del Chase Center. Gara 2 lunedì.",
+    "excerpt": "Le Golden State Valkyries conquistano Gara 1 delle WNBA Finals 2026 battendo le Atlanta Dream 82-76 con una grande difesa nel finale.",
+    "body": [
+          "Le WNBA Finals 2026 si sono aperte sabato a San Francisco con il successo delle Golden State Valkyries per 82-76 sulle Atlanta Dream in Gara 1. All'esordio assoluto nelle Finals, Golden State si è portata avanti 1-0 nella serie al meglio delle sette gare.",
+          "Davanti a 18.064 spettatori al Chase Center, le padrone di casa hanno chiuso il primo tempo sul 46-38. Atlanta è rientrata nel terzo quarto con i 19 punti e 14 rimbalzi di Angel Reese, toccando il 68-66 nel quarto periodo.",
+          "La difesa delle Valkyries ha fatto la differenza negli ultimi tre minuti provocando tre palle perse decisive. Gara 2 si giocherà lunedì 19 ottobre al Chase Center."
+    ]
+  },
+  "pl": {
+    "title": "Finały WNBA Mecz 1: Valkyries pokonują Dream 82-76 i prowadzą 1-0",
+    "subtitle": "Golden State wygrywa pierwszy mecz finałowy w historii klubu w Chase Center. Mecz numer 2 w poniedziałek.",
+    "excerpt": "Golden State Valkyries rozpoczęły finały WNBA 2026 od triumfu 82-76 nad Atlanta Dream dzięki żelaznej obronie w końcówce spotkania.",
+    "body": [
+          "Finały WNBA 2026 wystartowały w sobotę w San Francisco od zwycięstwa Golden State Valkyries nad Atlanta Dream 82-76 w pierwszym meczu serii. Klub z Zatoki objął prowadzenie 1-0 w rywalizacji do czterech zwycięstw.",
+          "Komplet 18 064 widzów w Chase Center oglądał prowadzenie gospodyń 46-38 do przerwy. Atlanta odpowiedziała w trzeciej kwarcie za sprawą Angel Reese (19 punktów i 14 zbiórek), zmniejszając stratę do 68-66 w czwartej części.",
+          "W decydujących minutach Valkyries wymusiły trzy straty rywalek i bezbłędnie egzekwowały rzuty wolne. Mecz numer 2 zaplanowano na poniedziałek w Chase Center."
+    ]
+  },
+  "zh": {
+    "title": "WNBA总决赛G1：女武神82-76力克梦想拔得头筹，总比分1-0领先",
+    "subtitle": "金州女武神在大通中心迎来队史总决赛首胜，系列赛第二战将于周一打响。",
+    "excerpt": "金州女武神在周六进行的2026年WNBA总决赛首战中以82-76击败亚特兰大梦想，依靠末节关键防守抢得开门红。",
+    "body": [
+          "2026年WNBA总决赛周六在旧金山大通中心揭开战幕，主场作战的金州女武神在总决赛首场较量中以82-76战胜亚特兰大梦想，在七场四胜制系列赛中取得1-0领先。",
+          "现场18064名球迷见证了女武神在半场打出流畅进攻以46-38占得先机。下半场亚特兰大梦想在前锋安吉尔·里斯（19分14个篮板）带领下发起反扑，在第四节一度将比分迫近至66-68。",
+          "决胜时刻女武神全队众志成城连续造成对手3次关键失误，并在最后30秒稳稳罚中4记罚球锁定胜局。总决赛第二场将于当地时间周一晚在大通中心继续进行。"
+    ]
+  },
+  "ja": {
+    "title": "WNBAファイナル第1戦：ヴァルキリーズがドリームを82-76で下し1勝目",
+    "subtitle": "チェイス・センターの熱狂の中、球団初のファイナルを白星で発進。第2戦は月曜夜。",
+    "excerpt": "ゴールデンステイト・ヴァルキリーズが土曜日のWNBAファイナル開幕戦でアトランタ・ドリームを82-76で破り、シリーズ1-0とリードしました。",
+    "body": [
+          "2026年のWNBAファイナルが土曜日にサンフランシスコのチェイス・センターで開幕し、ゴールデンステイト・ヴァルキリーズがアトランタ・ドリームを82-76で破って初戦を飾りました。",
+          "超満員18,064人の観客の前でヴァルキリーズは前半を46-38でリード。ドリームは後半にエンジェル・リース（19得点、14リバウンド）のインサイド攻撃で反撃し、第4クォーター中盤に66-68と2点差まで迫りました。",
+          "しかしヴァルキリーズは終盤3分間にドリームから3つのターンオーバーを奪い、クラッチフリースローを沈めて逃げ切りました。第2戦は月曜日夜にチェイス・センターで開催されます。"
+    ]
+  },
+  "ko": {
+    "title": "WNBA 파이널 1차전: 발키리스, 드림에 82-76 승리하며 시리즈 1-0 리드",
+    "subtitle": "체이스 센터 만원 관중 앞에서 창단 첫 파이널 승리. 2차전은 월요일 밤 격돌.",
+    "excerpt": "골든스테이트 발키리스가 토요일 WNBA 파이널 1차전에서 아틀란타 드림을 82-76으로 제압하고 7전 4선승제 승부에서 기선 제압에 성공했습니다.",
+    "body": [
+          "2026 WNBA 파이널 1차전이 토요일 샌프란시스코 체이스 센터에서 열려 골든스테이트 발키리스가 아틀란타 드림을 82-76으로 꺾었습니다. 창단 첫 파이널 무대에서 값진 첫 승을 거두며 1-0으로 앞서 나갔습니다.",
+          "18,064명의 홈 관중의 응원을 등에 업은 발키리스는 전반을 46-38로 앞섰습니다. 드림은 엔젤 리스(19점 14리바운드)를 앞세워 4쿼터 중반 66-68까지 추격하며 압박했습니다.",
+          "승부처에서 발키리스는 경기 막판 3분간 드림의 실책을 3차례 유도하며 리드를 지켜냈습니다. 시리즈 2차전은 월요일 체이스 센터에서 펼쳐집니다."
+    ]
+  },
+  "ar": {
+    "title": "نهائي WNBA المباراة 1: فالكيريز تفوز على دريم 82-76 وتتقدم 1-0",
+    "subtitle": "غولدن ستيت تفتتح أول نهائي في تاريخها بفوز ثمين أمام جماهير تشيس سنتر. المباراة 2 مساء الاثنين.",
+    "excerpt": "حققت غولدن ستيت فالكيريز الفوز في افتتاح نهائي دوري السيدات WNBA يوم السبت بعد تغلبها على أتلانتا دريم بنتيجة 82-76 بفضل دفاع قوي في اللحظات الحاسمة.",
+    "body": [
+          "انطلقت سلسلة نهائي دوري السلة الأمريكي للسيدات 2026 يوم السبت في صالة تشيس سنتر بسان فرانسيسكو بفوز غولدن ستيت فالكيريز على أتلانتا دريم 82-76 في المباراة الأولى، لتتقدم 1-0 في السلسلة المكونة من سبع مباريات.",
+          "وأمام 18,064 متفرجا، أنهت فالكيريز الشوط الأول متقدمة 46-38. وعادت أتلانتا في الربع الثالث بفضل تألق أنجيل ريس (19 نقطة و14 متابعة) لتقلص الفارق إلى 68-66 في الربع الأخير.",
+          "لكن دفاع فالكيريز أحكم قبضته في الدقائق الثلاث الأخيرة وأجبر لاعبات دريم على ارتكاب ثلاث تمريرات خاطئة حاسمة. وتلتقي التشكيلتان في المباراة الثانية مساء الاثنين في سان فرانسيسكو."
+    ]
+  }
+},
+"nfl-week6-sunday-chiefs-down-chargers-stay-perfect-at-5-0": {
+  "fr": {
+    "title": "NFL Semaine 6 dimanche : les Chiefs dominent les Chargers 27-20 et restent invaincus à 5-0",
+    "subtitle": "Patrick Mahomes lance deux touchdowns dans le dernier quart-temps à Arrowhead. Buffalo surclasse Las Vegas 31-13.",
+    "excerpt": "Les Kansas City Chiefs ont conservé leur bilan parfait dimanche en battant les Los Angeles Chargers 27-20 à l'Arrowhead Stadium, consolidant leur emprise sur l'AFC Ouest.",
+    "body": [
+          "Le choc de l'AFC Ouest entre les Kansas City Chiefs et les Los Angeles Chargers a tenu toutes ses promesses dimanche à l'Arrowhead Stadium. A égalité 13-13 au début du quatrième quart-temps, Patrick Mahomes a orchestré deux séries offensives victorieuses pour offrir un succès 27-20 aux siens.",
+          "Mahomes a trouvé Rashee Rice sur 18 yards avant de servir Travis Kelce pour un touchdown de 6 yards à 4 minutes du terme. Justin Herbert a répliqué en trouvant Quentin Johnston pour ramener les Chargers à sept points, mais Kansas City a recouvert l'onside kick pour passer à 5-0.",
+          "Cette victoire conforte Kansas City en tête de l'AFC Ouest devant les Denver Broncos (4-2). Dans les autres rencontres, les Buffalo Bills ont surclassé les Las Vegas Raiders 31-13 pour passer à 5-1 grâce à trois passes de touchdown de Josh Allen. En NFC, Minnesota et San Francisco restent parfaits à 5-0."
+    ]
+  },
+  "es": {
+    "title": "NFL Semana 6 domingo: Chiefs vencen a Chargers 27-20 y siguen invictos 5-0",
+    "subtitle": "Patrick Mahomes firma dos pases de anotación en el último cuarto. Buffalo arrolla 31-13 a Las Vegas y se coloca 5-1.",
+    "excerpt": "Los Kansas City Chiefs mantuvieron su marcha perfecta al imponerse 27-20 a Los Angeles Chargers en un disputado encuentro divisional en Arrowhead.",
+    "body": [
+          "El clásico de la AFC Oeste regaló otro emocionante desenlace en el Arrowhead Stadium. Empatados 13-13 al iniciar el último cuarto, Patrick Mahomes condujo dos series anotadoras consecutivas para asegurar el triunfo 27-20 de Kansas City sobre los Chargers.",
+          "Mahomes conectó con Rashee Rice en un envío de 18 yardas y después encontró a Travis Kelce en la zona de anotación a 4 minutos del final. Justin Herbert descontó con pase a Quentin Johnston, pero los Chiefs recuperaron la patada corta para ponerse 5-0.",
+          "En otros resultados, los Buffalo Bills aplastaron 31-13 a Las Vegas Raiders en el Allegiant Stadium con tres pases de anotación de Josh Allen para ponerse 5-1. En la NFC, los Minnesota Vikings y los San Francisco 49ers siguen invictos con récord de 5-0."
+    ]
+  },
+  "de": {
+    "title": "NFL Woche 6 Sonntag: Chiefs bezwingen Chargers 27-20 und bleiben makellos bei 5-0",
+    "subtitle": "Patrick Mahomes wirft zwei Touchdowns im Schlussviertel im Arrowhead. Buffalo fegt Las Vegas mit 31-13 vom Feld.",
+    "excerpt": "Die Kansas City Chiefs wahrten am Sonntag ihre weiße Weste mit einem 27-20 über die Los Angeles Chargers und behaupten die Spitze der AFC West.",
+    "body": [
+          "Der Showdown in der AFC West endete am Sonntag im GEHA Field at Arrowhead Stadium mit einem 27-20-Sieg der Kansas City Chiefs gegen die Los Angeles Chargers. Beim Stand von 13-13 im vierten Viertel führte Patrick Mahomes zwei entscheidende Angriffsserien an.",
+          "Mahomes bediente Rashee Rice über 18 Yards und fand anschließend Travis Kelce für einen 6-Yard-Touchdown. Justin Herbert verkürzte mit einem Pass auf Quentin Johnston, doch Kansas City sicherte den Onside-Kick und verbesserte sich auf 5-0.",
+          "Die Buffalo Bills setzten sich parallel bei den Las Vegas Raiders mit 31-13 durch und stehen bei 5-1, angeführt von drei Touchdown-Pässen von Josh Allen. In der NFC halten die Minnesota Vikings und San Francisco 49ers bei 5-0 die Spitzenplätze."
+    ]
+  },
+  "it": {
+    "title": "NFL Week 6 domenica: Chiefs superano i Chargers 27-20 e restano imbattuti sul 5-0",
+    "subtitle": "Patrick Mahomes lancia due touchdown nel quarto periodo all'Arrowhead. Buffalo travolge Las Vegas 31-13 e sale a 5-1.",
+    "excerpt": "I Kansas City Chiefs continuano la loro marcia impeccabile piegando i Los Angeles Chargers 27-20 nella sfida divisionale di domenica.",
+    "body": [
+          "La sfida di AFC West tra Kansas City Chiefs e Los Angeles Chargers si è decisa nel quarto periodo all'Arrowhead Stadium. Sul 13-13, Patrick Mahomes ha guidato due drive da touchdown consecutivi portando i Chiefs sul 27-20 finale.",
+          "Mahomes ha trovato prima Rashee Rice per 18 yard e poi Travis Kelce per la meta da 6 yard a quattro minuti dal termine. Justin Herbert ha accorciato con un passaggio per Quentin Johnston, ma Kansas City ha ricoperto l'onside kick salendo a 5-0.",
+          "Nelle altre gare i Buffalo Bills hanno espugnato il campo dei Las Vegas Raiders per 31-13 con tre mete aeree di Josh Allen, salendo a 5-1. Nella NFC, Minnesota Vikings e San Francisco 49ers restano perfetti sul 5-0."
+    ]
+  },
+  "pl": {
+    "title": "NFL Tydzien 6 niedziela: Chiefs pokonują Chargers 27-20 i zachowują bilans 5-0",
+    "subtitle": "Patrick Mahomes rzuca dwa przyłożenia w czwartej kwarcie w Arrowhead. Buffalo gromi Las Vegas 31-13 i ma bilans 5-1.",
+    "excerpt": "Kansas City Chiefs pozostają niepokonani po niedzielnym zwycięstwie 27-20 nad Los Angeles Chargers w dywizyjnym starciu w Arrowhead Stadium.",
+    "body": [
+          "Niedzielne spotkanie w AFC West przyniosło zaciętą walkę na Arrowhead Stadium. Przy stanie 13-13 przed czwartą kwartą Patrick Mahomes poprowadził dwie serie punktowe, dając Kansas City triumf 27-20 nad Chargers.",
+          "Mahomes posłał podanie na przyłożenie do Rashee Rice'a, a następnie odnalazł Travisa Kelce w polu punktowym. Justin Herbert odpowiedział trafieniem do Quentina Johnstona, lecz Chiefs odzyskali piłkę po onside kicku i awansowali na bilans 5-0.",
+          "W innym meczu Buffalo Bills pokonali na wyjeździe Las Vegas Raiders 31-13 dzięki trzem podaniom na touchdown Josha Allena, poprawiając bilans na 5-1. W konferencji NFC Minnesota Vikings oraz San Francisco 49ers nadal nie zaznali porażki (5-0)."
+    ]
+  },
+  "zh": {
+    "title": "NFL第6周周日：酋长27-20力克冲锋者保持5胜0负不败，比尔31-13大胜突袭者",
+    "subtitle": "马霍姆斯在箭头球场末节连线赖斯与凯尔西斩获两达阵，布法罗客场轻取拉斯维加斯升至5胜1负。",
+    "excerpt": "堪萨斯城酋长在周日的AFC西区焦点战中以27-20险胜洛杉矶冲锋者，继续捍卫全胜战绩并领跑分区。",
+    "body": [
+          "周日NFL第6周在箭头球场上演了一场精彩的AFC西区对决。双方带着13-13的平局进入第四节，帕特里克·马霍姆斯关键时刻展现MVP水准，连续组织两次达阵攻势率领酋长以27-20锁定胜局。",
+          "马霍姆斯先是连线拉希·赖斯完成18码接球达阵，随后在比赛还剩4分12秒时助攻特拉维斯·凯尔西完成6码致胜达阵。贾斯汀·赫伯特虽在最后关头助攻约翰斯顿达阵迫近分差，但酋长成功抢下随后的内侧开球将战绩改写为5胜0负。",
+          "另一场较量中，布法罗比尔在客场以31-13击败拉斯维加斯突袭者，四分卫乔希·阿伦送出3次达阵传球，比尔战绩升至5胜1负。在NFC方面，明尼苏达维京人与旧金山49人同样保持5胜0负的完美开局。"
+    ]
+  },
+  "ja": {
+    "title": "NFL第6週日曜：チーフスがチャージャーズを27-20で下し5戦全勝キープ",
+    "subtitle": "マホームズが第4Qに2本のTDパスを通しアローヘッドで勝利。ビルズはレイダースに31-13で快勝。",
+    "excerpt": "カンザスシティ・チーフスが日曜日のAFC西地区首位攻防戦でロサンゼルス・チャージャーズを27-20で退け、開幕5連勝を達成しました。",
+    "body": [
+          "日曜日のアローヘッド・スタジアムで行われたAFC西地区のライバル対決は、第4クォーターに劇的な展開を迎えました。13-13の同点で迎えた勝負どころでパトリック・マホームズが本領を発揮し、チーフスが27-20で競り勝ちました。",
+          "マホームズはラシー・ライスへの18ヤードTDパスに続き、残り4分12秒にトラビス・ケルシーへ6ヤードの勝ち越しTDパスを成功。ジャスティン・ハーバートの反撃を振り切ったチーフスは5勝0敗と無敗を守りました。",
+          "同日行われた試合ではバッファロー・ビルズがラスベガス・レイダースを31-13で圧倒し5勝1敗に。NFCではミネソタ・バイキングスとサンフランシスコ・49ersが5勝0敗を維持しています。"
+    ]
+  },
+  "ko": {
+    "title": "NFL 6주 차 일요일: 치프스, 차저스에 27-20 신승 거두며 5승 무패 행진",
+    "subtitle": "패트릭 마홈스가 4쿼터 터치다운 2개를 배달하며 승리 견인. 빌스는 레이더스를 31-13으로 대파.",
+    "excerpt": "캔자스시티 치프스가 일요일 애로헤드 스타디움에서 열린 AFC 서부지구 맞대결에서 로스앤젤레스 차저스를 27-20으로 꺾고 무패를 이어갔습니다.",
+    "body": [
+          "NFL 6주 차 일요일 애로헤드 스타디움에서 열린 AFC 서부지구 명승부에서 캔자스시티 치프스가 차저스를 27-20으로 제압했습니다. 13-13 동점으로 맞선 4쿼터에서 패트릭 마홈스가 경기 흐름을 장악했습니다.",
+          "마홈스는 라시 라이스에게 18야드 터치다운 패스를 연결한 데 이어 트래비스 켈시에게 6야드 쐐기 터치다운을 전달했습니다. 차저스는 저스틴 허버트가 퀜틴 존스턴에게 터치다운을 던지며 추격했으나 치프스가 온사이드 킥을 안전하게 확보하며 5승 고지에 올랐습니다.",
+          "한편 버팔로 빌스는 라스베이거스 레이더스를 31-13으로 완파하고 5승 1패를 기록했습니다. NFC에서는 미네소타 바이킹스와 샌프란시스코 포티나이너스가 나란히 5승 무패를 달리고 있습니다."
+    ]
+  },
+  "ar": {
+    "title": "دوري NFL الأسبوع 6 الأحد: تشيفس يهزم تشارجرز 27-20 ويحافظ على سجله المثالي 5-0",
+    "subtitle": "باتريك ماهومز يرمي تمريرتي هبوط في الربع الأخير بملعب أروهيد. وبافالو يسحق لاس فيغاس 31-13.",
+    "excerpt": "حافظ كانساس سيتي تشيفس على سجله الخالي من الهزائم بتغلبه على لوس أنجلوس تشارجرز 27-20 يوم الأحد ليواصل تصدر القسم الغربي.",
+    "body": [
+          "شهد ملعب أروهيد فصلا جديدا من الإثارة في دوري كرة القدم الأمريكية NFL يوم الأحد، حيث فاز كانساس سيتي تشيفس على لوس أنجلوس تشارجرز 27-20. بعد التعادل 13-13 عند انطلاق الربع الأخير، قاد باتريك ماهومز هجوم فريقه لتسجيل هبوطين متتاليين.",
+          "مرر ماهومز كرة الهبوط الأولى إلى راشي رايس لمسافة 18 ياردة، ثم أرسل تمريرة ثانية إلى ترافيس كيلسي لمسافة 6 ياردات. ورغم رد جاستن هربرت بتمريرة هبوط لصالح تشارجرز، نجح تشيفس في حسم اللقاء ورفع رصيده إلى 5 انتصارات دون خسارة.",
+          "وفي مباريات أخرى، تغلب بافالو بيلز على لاس فيغاس رايدرز بنتيجة 31-13 ليرفع سجله إلى 5-1. وفي القسم الوطني NFC، يواصل مينيسوتا فايكنغز وسان فرانسيسكو 49 سجلهما المثالي بـ5 انتصارات متتالية."
+    ]
+  }
+},
+"premier-league-mw7-sunday-arsenal-blank-forest-chase-city": {
+  "fr": {
+    "title": "Premier League 7e journée dimanche : Arsenal bat Forest 2-0 et reste au contact de City",
+    "subtitle": "Saka et Havertz trouvent la faille au City Ground. Les Gunners répondent à la victoire de City contre Ipswich.",
+    "excerpt": "Arsenal a maintenu la pression sur Manchester City dimanche en s'imposant 2-0 sur le terrain de Nottingham Forest, revenant à trois longueurs du leader.",
+    "body": [
+          "La pression pesait sur les épaules des Gunners au coup d'envoi dimanche au City Ground. La veille, Manchester City avait enchaîné un septième succès consécutif en dominant Ipswich Town 3-1 à l'Etihad Stadium.",
+          "L'équipe de Mikel Arteta a répondu avec une grande maîtrise. Bukayo Saka a ouvert le score à la 34e minute d'une frappe enroulée du gauche avant que Kai Havertz ne double la mise de la tête à la 68e sur un corner de Declan Rice. Cette victoire 2-0 permet à Arsenal d'atteindre 18 points (6-0-1) et de rester à trois points de City.",
+          "Dans l'autre match dominical, Brighton (3e) a battu Crystal Palace 2-1 à l'Amex Stadium pour monter à 16 points. Samedi, Brentford avait dominé Liverpool 2-1 tandis qu'Everton et Chelsea s'étaient neutralisés 1-1. La 7e journée se refermera lundi avec Tottenham contre Coventry."
+    ]
+  },
+  "es": {
+    "title": "Premier League Jornada 7 domingo: Arsenal vence 2-0 a Forest y no da tregua al City",
+    "subtitle": "Saka y Havertz anotan en el City Ground para responder al 3-1 del City sobre Ipswich.",
+    "excerpt": "El Arsenal cumplió este domingo a domicilio superando 2-0 a Nottingham Forest para mantenerse a solo tres puntos del líder Manchester City.",
+    "body": [
+          "El Arsenal no falló a su cita en el City Ground este domingo. Conscientes del triunfo sabatino del Manchester City por 3-1 frente a Ipswich Town, los hombres de Mikel Arteta saltaron obligados a sumar los tres puntos.",
+          "Bukayo Saka abrió el marcador en el minuto 34 con un remate ajustado tras recorte hacia adentro. En el segundo tiempo, Kai Havertz cabeceó a la red en el minuto 68 un centro de Declan Rice para firmar el 2-0 definitivo. Los Gunners alcanzan 18 puntos (6-0-1) y sostienen el pulso por el liderato.",
+          "En el otro duelo del domingo, el Brighton venció 2-1 a Crystal Palace y se coloca tercero con 16 puntos. El sábado Brentford sorprendió 2-1 a Liverpool y Everton empató 1-1 con Chelsea. La fecha concluirá el lunes con Tottenham frente a Coventry."
+    ]
+  },
+  "de": {
+    "title": "Premier League 7. Spieltag Sonntag: Arsenal siegt 2-0 bei Forest und jagt City",
+    "subtitle": "Saka und Havertz treffen im City Ground. Die Gunners antworten auf Manchester Citys 3-1 gegen Ipswich.",
+    "excerpt": "Arsenal hielt am Sonntag mit einem souveränen 2-0-Auswärtssieg bei Nottingham Forest den Anschluss an Tabellenführer Manchester City.",
+    "body": [
+          "Arsenal stand am Sonntagnachmittag im City Ground unter Zugzwang, nachdem Manchester City am Samstag mit einem 3-1 gegen Ipswich Town auf 21 Punkte davongezogen war.",
+          "Die Mannschaft von Mikel Arteta agierte konzentriert. Bukayo Saka erzielte in der 34. Minute die Führung, ehe Kai Havertz in der 68. Minute per Kopf nach einer Ecke von Declan Rice auf 2-0 stellte. Arsenal steht damit bei 18 Punkten (6-0-1) und bleibt bis auf drei Zähler an City dran.",
+          "Am Sonntag setzte sich zudem Brighton mit 2-1 gegen Crystal Palace durch und ist mit 16 Punkten Dritter. Am Samstag hatte Brentford Liverpool mit 2-1 besiegt, während Everton und Chelsea sich 1-1 trennten. Der Spieltag endet am Montag mit Tottenham gegen Coventry."
+    ]
+  },
+  "it": {
+    "title": "Premier League 7a giornata domenica: Arsenal vince 2-0 a Forest e insegue il City",
+    "subtitle": "Saka e Havertz a segno al City Ground. I Gunners rispondono al successo del City sull'Ipswich.",
+    "excerpt": "L'Arsenal risponde presente superando 2-0 il Nottingham Forest in trasferta domenica, rimanendo a tre punti dalla vetta del Manchester City.",
+    "body": [
+          "L'Arsenal non ha tremato al City Ground dopo che il Manchester City aveva conquistato la settima vittoria consecutiva battendo 3-1 l'Ipswich Town sabato all'Etihad.",
+          "I Gunners si sono imposti per 2-0 grazie alla rete di Bukayo Saka al 34' e all'incornata vincente di Kai Havertz al 68' su assist di Declan Rice. La squadra di Arteta sale a 18 punti (6-0-1), a tre lunghezze dal Manchester City capolista con 21 punti.",
+          "Nelle altre sfide, il Brighton si è imposto 2-1 sul Crystal Palace salendo al terzo posto con 16 punti. Sabato il Brentford aveva superato il Liverpool 2-1 mentre Everton e Chelsea avevano chiuso sull'1-1. Lunedì chiude Tottenham-Coventry."
+    ]
+  },
+  "pl": {
+    "title": "Premier League 7. kolejka niedziela: Arsenal pokonuje Forest 2-0 i goni City",
+    "subtitle": "Saka i Havertz strzelają na City Ground. Kanonierzy odpowiadają na sobotnią wygraną City z Ipswich.",
+    "excerpt": "Arsenal zachował dystans do lidera, wygrywając w niedzielę 2-0 z Nottingham Forest na wyjeździe i gromadząc 18 punktów.",
+    "body": [
+          "Arsenal przystępował do niedzielnego meczu na City Ground ze świadomością, że Manchester City dzień wcześniej pokonał Ipswich Town 3-1 i umocnił się na czele z kompletem 21 punktów.",
+          "Drużyna Mikela Artety zachowała spokój. Bukayo Saka otworzył wynik w 34. minucie precyzyjnym strzałem lewą nogą, a w 68. minucie Kai Havertz podwyższył na 2-0 po dośrodkowaniu Declana Rice'a z rzutu rożnego. Arsenal ma 18 punktów (6-0-1) i traci 3 punkty do lidera.",
+          "W innym niedzielnym meczu Brighton pokonało Crystal Palace 2-1 i zajmuje 3. miejsce z 16 punktami. W sobotę Brentford wygrało z Liverpoolem 2-1, a Everton zremisował z Chelsea 1-1. Kolejkę zakończy poniedziałkowy mecz Tottenhamu z Coventry."
+    ]
+  },
+  "zh": {
+    "title": "英超第7轮周日：阿森纳客场2-0轻取森林紧咬曼城，萨卡哈弗茨建功",
+    "subtitle": "枪手在城市球场用稳定表现回应曼城3-1击败伊普斯威奇，继续以3分之差位列积分榜次席。",
+    "excerpt": "阿森纳周日客场2-0战胜诺丁汉森林全取三分，在英超积分榜上以18分紧咬7连胜领跑的曼城。",
+    "body": [
+          "周日下午在城市球场，阿森纳面临着必须赢球的压力。此前一天，曼城在伊蒂哈德球场以3-1战胜伊普斯威奇豪取联赛开局七连胜，将积分提升至21分。",
+          "阿尔特塔的球队沉着应对。第34分钟布卡约·萨卡内切兜射打破僵局，第68分钟凯·哈弗茨接德克兰·赖斯角球传中头槌破门将比分改写为2-0。枪手凭借本场胜利以6胜0平1负积18分，继续对曼城保持紧追之势。",
+          "周日另一场比赛中，布莱顿主场2-1力克水晶宫积16分暂居第三。周六的比赛中布伦特福德2-1爆冷战胜利物浦，埃弗顿1-1战平切尔西。本轮最后一场较量将于周一晚在热刺与考文垂之间展开。"
+    ]
+  },
+  "ja": {
+    "title": "プレミア第7節日曜：アーセナルがフォレストを2-0で下し首位シティを追走",
+    "subtitle": "サカとハフェルツが得点。シティのイプスウィッチ戦3-1勝利に敵地でしっかり応答。",
+    "excerpt": "アーセナルは日曜日に敵地シティ・グラウンドでノッティンガム・フォレストを2-0で退け、首位マンチェスター・シティと3ポイント差を維持しました。",
+    "body": [
+          "土曜日にマンチェスター・シティがイプスウィッチ・タウンに3-1で勝利し7連勝（勝ち点21）を飾ったため、日曜日にシティ・グラウンドに乗り込んだアーセナルには勝利が必須でした。",
+          "ミケル・アルテタ監督のチームは冷静な試合運びを披露。34分にブカヨ・サカが巧みなミドルシュートを決めて先制し、68分にはデクラン・ライスのコーナーキックからカイ・ハフェルツが頭で押し込んで2-0の勝利を収めました。アーセナルは勝ち点18（6勝0分1敗）としました。",
+          "日曜のもう1試合ではブライトンがクリスタル・パレスに2-1で勝利し勝ち点16の3位に浮上。土曜日にはブレントフォードがリヴァプールを2-1で下し、エヴァートン対チェルシーは1-1で引き分けました。月曜日にトッテナム対コヴェントリーが行われます。"
+    ]
+  },
+  "ko": {
+    "title": "EPL 7라운드 일요일: 아스널, 포레스트에 2-0 완승 거두며 맨시티 추격",
+    "subtitle": "사카와 하베르츠 연속 골. 맨시티의 입스위치전 3-1 승리에 원정 승리로 응수.",
+    "excerpt": "아스널이 일요일 노팅엄 포레스트 원정에서 2-0으로 승리하며 7연승을 달린 선두 맨체스터 시티와의 승점 3점 차를 유지했습니다.",
+    "body": [
+          "토요일 맨체스터 시티가 입스위치 타운을 3-1로 제압하고 7전 전승(승점 21)을 기록하자, 일요일 노팅엄 원정에 나선 아스널로서도 승리가 절실했습니다.",
+          "미켈 아르테타 감독의 아스널은 흔들리지 않았습니다. 전반 34분 부카요 사카가 절묘한 감아차기로 선제골을 뽑아냈고, 후반 68분 데클란 라이스의 코너킥을 카이 하베르츠가 헤더로 마무리해 2-0 완승을 거두었습니다. 아스널은 승점 18(6승 1패)을 기록했습니다.",
+          "일요일 또 다른 경기에서는 브라이턴이 크리스탈 팰리스를 2-1로 꺾고 승점 16으로 3위를 지켰습니다. 토요일에는 브렌트퍼드가 리버풀을 2-1로 꺾었고 에버턴과 첼시는 1-1로 비겼습니다. 7라운드는 월요일 토트넘과 코번트리의 경기로 마무리됩니다."
+    ]
+  },
+  "ar": {
+    "title": "الدوري الإنجليزي الجولة 7 الأحد: أرسنال يفوز على فورست 2-0 ويواصل مطاردة سيتي",
+    "subtitle": "ساكا وهافرتز يسجلان في سيتي غراوند. والغانرز يردون على فوز مانشستر سيتي على إيبسويتش.",
+    "excerpt": "حافظ أرسنال على فارق النقاط الثلاث مع المتصدر مانشستر سيتي بعد فوزه المستحق خارج أرضه على نوتنغهام فورست بنتيجة 2-0 يوم الأحد.",
+    "body": [
+          "دخل أرسنال مباراته أمام نوتنغهام فورست يوم الأحد تحت ضغط تحقيق الفوز بعد أن وسع مانشستر سيتي الفارق بتغلبه على إيبسويتش تاون 3-1 يوم السبت ليرفع رصيده إلى 21 نقطة بالعلامة الكاملة.",
+          "وأظهر فريق المدرب ميكيل أرتيتا تركيزا عاليا، حيث افتتح بوكايو ساكا التسجيل في الدقيقة 34 بتسديدة متقنة، قبل أن يضيف كاي هافرتز الهدف الثاني في الدقيقة 68 برأسية إثر ركنية ديكلان رايس. وبهذا الفوز رفع أرسنال رصيده إلى 18 نقطة (6 انتصارات وهزيمة واحدة).",
+          "وفي مواجهة أخرى يوم الأحد، فاز برايتون على كريستال بالاس 2-1 ليعزز مركزه الثالث بـ16 نقطة. وكان برينتفورد قد تغلب على ليفربول 2-1 يوم السبت، بينما تعادل إيفرتون مع تشيلسي 1-1. وتختتم الجولة مساء الاثنين بمباراة توتنهام ضد كوفنتري."
+    ]
+  }
+},
+"f1-austin-race-week-begins-mercedes-title-countdown-2026": {
+  "fr": {
+    "title": "F1 GP des Etats-Unis : la semaine de course s'ouvre à Austin, Mercedes vise le titre",
+    "subtitle": "Le Circuit des Amériques accueille le week-end de sprint du 23 au 25 octobre. Antonelli compte 102 points d'avance sur Russell.",
+    "excerpt": "La Formule 1 entre dans la semaine du Grand Prix des Etats-Unis à Austin. Mercedes a une première balle de match pour le championnat des constructeurs.",
+    "body": [
+          "Le paddock de Formule 1 pose ses valises au Texas pour le Grand Prix des Etats-Unis 2026 sur le Circuit des Amériques à Austin. Les hostilités débuteront dans cinq jours, le vendredi 23 octobre, avec les essais libres et les qualifications sprint, avant la course sprint samedi et le Grand Prix dominical de 56 tours le 25 octobre à 15 h 00 locale.",
+          "Le tracé bosselé de 5,513 kilomètres et ses 20 virages, marqué par la spectaculaire montée vers le virage 1, mettront les monoplaces à rude épreuve avec une forte dégradation des pneus.",
+          "Kimi Antonelli aborde Austin au sommet du classement des pilotes avec 340 points, soit 102 unités d'avance sur son équipier George Russell (238). Chez les constructeurs, Mercedes totalise 578 points et peut être sacrée dès ce week-end si l'écurie devance Ferrari de 14 points."
+    ]
+  },
+  "es": {
+    "title": "F1 GP de Estados Unidos: arranca la semana de carrera en Austin con Mercedes acariciando el título",
+    "subtitle": "El Circuito de las Américas albergará el fin de semana de sprint del 23 al 25 de octubre. Antonelli aventaja a Russell en 102 puntos.",
+    "excerpt": "La Fórmula 1 inicia la semana de carrera del Gran Premio de Estados Unidos en Austin. Mercedes tiene su primera oportunidad para sellar el título de constructores.",
+    "body": [
+          "La Fórmula 1 cruza el océano para disputar el Gran Premio de Estados Unidos 2026 en el Circuito de las Américas en Austin, Texas. La actividad en pista comenzará en cinco días, el viernes 23 de octubre con los libres y la clasificación al sprint, antes del Gran Premio a 56 vueltas el domingo 25.",
+          "El trazado de 5,513 km con su célebre subida a la curva 1 pondrá a prueba la gestión de neumáticos y el rendimiento de las suspensiones en un asfalto muy bacheado.",
+          "Kimi Antonelli lidera el mundial de pilotos con 340 puntos, 102 más que su compañero George Russell (238). En el campeonato de constructores, Mercedes suma 578 puntos y se coronará campeona en Austin si logra sumar 14 puntos más que Ferrari este fin de semana."
+    ]
+  },
+  "de": {
+    "title": "F1 GP der USA: Rennwoche in Austin beginnt, Mercedes greift nach dem Konstrukteurstitel",
+    "subtitle": "Der Circuit of the Americas trägt vom 23. bis 25. Oktober das Sprint-Wochenende aus. Antonelli führt mit 102 Punkten vor Russell.",
+    "excerpt": "Die Formel 1 startet in die Rennwoche für den Großen Preis der USA in Austin. Mercedes kann vorzeitig den Titel der Konstrukteure sichern.",
+    "body": [
+          "Der Formel-1-Tross reist nach Texas zum Großen Preis der USA 2026 auf dem Circuit of the Americas in Austin. Das Geschehen beginnt in fünf Tagen am Freitag, 23. Oktober, mit dem ersten Training und dem Sprint-Qualifying, gefolgt vom Sprint am Samstag und dem 56-Runden-Grand-Prix am Sonntag, 25. Oktober um 15:00 Uhr Ortszeit.",
+          "Der anspruchsvolle 5,513 Kilometer lange Kurs mit der steilen Bergauf-Passage in Kurve 1 stellt die Reifen und Fahrzeuge vor immense Herausforderungen.",
+          "Kimi Antonelli führt die Fahrer-Weltmeisterschaft mit 340 Punkten souverän an, 102 Zähler vor George Russell (238). In der Konstrukteurswertung hat Mercedes 578 Punkte auf dem Konto und kann den Titelgewinn in Texas perfekt machen, falls man Ferrari um 14 Punkte distanziert."
+    ]
+  },
+  "it": {
+    "title": "F1 GP Stati Uniti: inizia la settimana di gara ad Austin, Mercedes a caccia del titolo",
+    "subtitle": "Il Circuit of the Americas ospita il weekend sprint dal 23 al 25 ottobre. Antonelli ha 102 punti di vantaggio su Russell.",
+    "excerpt": "La Formula 1 apre la settimana di gara per il Gran Premio degli Stati Uniti ad Austin. Mercedes può conquistare il titolo costruttori con cinque gare d'anticipo.",
+    "body": [
+          "Il paddock della Formula 1 approda in Texas per il Gran Premio degli Stati Uniti 2026 al Circuit of the Americas di Austin. Le prime sessioni scatteranno tra cinque giorni, venerdì 23 ottobre con le prove libere e le qualifiche sprint, prima del Gran Premio domenicale di 56 giri il 25 ottobre alle 15:00 locali.",
+          "I 5,513 chilometri del tracciato texano, caratterizzati dalla salita mozzafiato verso curva 1 e dall'alto degrado gomme, metteranno a dura prova gli assetti delle monoposto.",
+          "Kimi Antonelli comanda il mondiale piloti con 340 punti, 102 lunghezze davanti al compagno George Russell (238). Nella classifica costruttori la Mercedes guida con 578 punti e potrà festeggiare il titolo ad Austin se guadagnerà almeno 14 punti sulla Ferrari."
+    ]
+  },
+  "pl": {
+    "title": "F1 GP Stanów Zjednoczonych: startuje tydzien wyscigowy w Austin, Mercedes o krok od tytulu",
+    "subtitle": "Circuit of the Americas gosci weekend sprinterski w dniach 23-25 pazdziernika. Antonelli wyprzedza Russella o 102 punkty.",
+    "excerpt": "Formuła 1 rozpoczyna tydzień wyścigowy przed Grand Prix Stanów Zjednoczonych w Austin. Mercedes może przypieczętować mistrzostwo konstruktorów.",
+    "body": [
+          "Padok Formuły 1 melduje się w Teksasie na Grand Prix Stanów Zjednoczonych 2026 na torze Circuit of the Americas w Austin. Rywalizacja rozpocznie się za pięć dni, w piątek 23 października od treningu i kwalifikacji do sprintu, a główny wyścig na dystansie 56 okrążeń zaplanowano na niedzielę 25 października.",
+          "Tor o długości 5,513 km z charakterystycznym podjazdem do zakrętu numer 1 będzie poważnym sprawdzianem dla opon i zawieszenia bolidów na nierównej nawierzchni.",
+          "Kimi Antonelli przewodzi klasyfikacji kierowców z dorobkiem 340 punktów, wyprzedzając George'a Russella o 102 punkty. Wśród konstruktorów Mercedes zgromadził 578 punktów i zapewni sobie tytuł mistrzowski, jeśli powiększy przewagę nad Ferrari o kolejne 14 oczek."
+    ]
+  },
+  "zh": {
+    "title": "F1美国大奖赛：奥斯汀比赛周正式开启，梅赛德斯迎车队夺冠赛点",
+    "subtitle": "美洲赛道将于10月23日至25日举办冲刺周末，安东内利手握102分领先优势。",
+    "excerpt": "F1正式进入2026年美国大奖赛比赛周。梅赛德斯车队有望在奥斯汀提前锁定年度车队总冠军。",
+    "body": [
+          "F1车队与车手本周齐聚德克萨斯州奥斯汀美洲赛道，开启2026年美国大奖赛的争夺。比赛将于5天后的10月23日周五打响，当天将进行一练与冲刺排位赛，周六迎来冲刺赛，正赛将于当地时间10月25日周日15:00发车。",
+          "全长5.513公里的美洲赛道拥有标志性的1号弯上坡盲弯，赛道表面的起伏与高轮胎磨损率将对各车队的底盘调校构成严峻考验。",
+          "基米·安东内利以340分领跑车手积分榜，领先队友拉塞尔多达102分。在车队积分榜上，梅赛德斯以578分高居榜首，只要在本周末比法拉利多拿14分，便可在美洲赛道提前问鼎2026赛季车队总冠军。"
+    ]
+  },
+  "ja": {
+    "title": "F1アメリカGP：オースティンでのレースウィーク開幕、メルセデスが王座決定へ",
+    "subtitle": "サーキット・オブ・ジ・アメリカズで10月23〜25日にスプリント開催。アントネッリがラッセルに102点差。",
+    "excerpt": "F1はオースティンでの2026年アメリカGPレースウィークに突入。メルセデスがコンストラクターズ選手権初戴冠に王手をかけます。",
+    "body": [
+          "2026年のF1アメリカGPが開催されるテキサス州オースティンのサーキット・オブ・ジ・アメリカズにF1サーカスが到着しました。5日後の10月23日金曜日にフリー走行とスプリント予選が行われ、日曜日の56周の決勝は15:00にスタートします。",
+          "名物であるターン1への急勾配と高いタイヤデグラデーションが各チームのセットアップを試すテクニカルなレイアウトです。",
+          "キミ・アントネッリが340ポイントでドライバーズ選手権をリードし、ジョージ・ラッセルに102ポイント差をつけています。コンストラクターズ部門では578ポイントのメルセデスがフェラーリに14点差をつければタイトル獲得が決まります。"
+    ]
+  },
+  "ko": {
+    "title": "F1 미국 GP: 오스틴 레이스 위크 시작, 메르세데스 컨스트럭터 챔피언십 조준",
+    "subtitle": "서킷 오브 디 아메리카스에서 10월 23~25일 스프린트 주말 개최. 안토넬리가 러셀에 102점 차 리드.",
+    "excerpt": "포뮬러 1이 오스틴에서 열리는 2026 미국 그랑프리 레이스 주간에 돌입했습니다. 메르세데스가 조기 타이틀 확정을 노립니다.",
+    "body": [
+          "F1 패덕이 2026 미국 그랑프리를 위해 텍사스주 오스틴의 서킷 오브 디 아메리카스로 이동했습니다. 5일 뒤인 10월 23일 금요일 연습 주행과 스프린트 퀄리파잉을 시작으로 일요일 오후 3시 56랩의 결승 레이스가 펼쳐집니다.",
+          "1번 코너의 가파른 오르막과 거친 노면, 극심한 타이어 마모는 팀들의 전략에 큰 변수로 작용할 전망입니다.",
+          "키미 안토넬리는 340점으로 2위 조지 러셀(238점)에 102점 앞서 있습니다. 컨스트럭터 챔피언십에서는 578점을 기록 중인 메르세데스가 페라리보다 14점 이상을 더 획득하면 오스틴에서 시즌 우승을 조기에 확정짓게 됩니다."
+    ]
+  },
+  "ar": {
+    "title": "فورمولا 1 جائزة أمريكا الكبرى: انطلاق أسبوع السباق في أوستن ومرسيدس تقترب من اللقب",
+    "subtitle": "حلبة الأمريكتين تستضيف سباق السرعة سبرينت من 23 إلى 25 أكتوبر. أنتونيللي يتقدم على راسل بـ102 نقطة.",
+    "excerpt": "تدخل بطولة العالم لسباقات فورمولا 1 أسبوع سباق جائزة الولايات المتحدة الكبرى في أوستن، حيث تملك مرسيدس فرصة حسم بطولة الصانعين.",
+    "body": [
+          "وصلت قافلة فورمولا 1 إلى تكساس لخوض جائزة الولايات المتحدة الكبرى 2026 على حلبة الأمريكتين في أوستن. وتنطلق التجارب الحرة والتأهيل لسباق السرعة بعد خمسة أيام في 23 أكتوبر، بينما يقام السباق الرئيسي المكون من 56 لفة يوم الأحد 25 أكتوبر في تمام الساعة 15:00 بالتوقيت المحلي.",
+          "وتتميز الحلبة البالغ طولها 5.513 كم بوجود المنعطف الأول الصاعد ودرجة التآكل العالية للإطارات، مما يمثل اختبارا حقيقيا لإعدادات السيارات.",
+          "يتصدر كيمي أنتونيللي بطولة السائقين برصيد 340 نقطة بفارق 102 نقطة عن زميله جورج راسل (238). وفي بطولة الصانعين، تتصدر مرسيدس بـ578 نقطة ويمكنها حسم اللقب رسميا في أوستن إذا تفوقت على فيراري بفارق 14 نقطة."
+    ]
+  }
+},
+"pga-tour-fall-bermuda-countdown-port-royal-awaits-2026": {
+  "fr": {
+    "title": "PGA Tour d'automne : cap sur les Bermudes, Port Royal prêt pour la reprise",
+    "subtitle": "Le Butterfield Bermuda Championship à 6 millions de dollars débute le 22 octobre. Le sacre de Michael Brennan reste la référence.",
+    "excerpt": "Le calendrier d'automne du PGA Tour reprend ses droits cette semaine à Port Royal aux Bermudes, avec 500 points FedExCup en jeu.",
+    "body": [
+          "Après une semaine de pause, le circuit PGA Tour prend la direction de Southampton aux Bermudes pour le Butterfield Bermuda Championship 2026. Le premier tour débutera dans quatre jours, le jeudi 22 octobre, sur le parcours côtier de Port Royal.",
+          "Le parcours de Port Royal est réputé pour ses trous exposés à l'océan Atlantique, notamment le spectaculaire par 3 du 16e trou de 235 yards surplombant les eaux turquoise. Le tournoi offre une dotation globale de 6 millions de dollars et 500 points FedExCup au vainqueur.",
+          "Le tenant du titre Adam Schenk mènera le champ des engagés aux côtés de Keith Mitchell et Jacob Bridgeman, tous deux deuxièmes derrière Michael Brennan au Baycurrent Classic de Yokohama. Le triomphe de Brennan à 16 sous le par reste la référence la plus récente avant ce rendez-vous insulaire."
+    ]
+  },
+  "es": {
+    "title": "PGA Tour de otoño: cuenta atrás para Bermudas, Port Royal espera a los jugadores",
+    "subtitle": "El Butterfield Bermuda Championship de 6 millones arranca el 22 de octubre. El título de Michael Brennan sigue vigente.",
+    "excerpt": "El calendario otoñal del PGA Tour se reanuda esta semana en el Port Royal Golf Course de Bermudas con 500 puntos de la FedExCup en liza.",
+    "body": [
+          "Tras una semana de receso programado, el PGA Tour se traslada a Southampton, Bermudas, para disputar el Butterfield Bermuda Championship 2026. La primera ronda comenzará en cuatro días, el jueves 22 de octubre, en el trazado costero de Port Royal.",
+          "El campo de Port Royal destaca por sus hoyos batidos por el viento del Atlántico, especialmente el emblemático par 3 del hoyo 16 sobre el océano. La competición reparte 6 millones de dólares en premios y 500 puntos FedExCup para el campeón.",
+          "El defensor del título Adam Schenk encabeza el plantel junto a Keith Mitchell y Jacob Bridgeman, quienes escoltaron a Michael Brennan en el Baycurrent Classic de Yokohama. Aquel triunfo de Brennan con -16 sigue siendo la última referencia competitiva del circuito."
+    ]
+  },
+  "de": {
+    "title": "PGA Tour Herbstserie: Countdown für Bermuda, Port Royal wartet auf die Profis",
+    "subtitle": "Die mit 6 Millionen Dollar dotierte Butterfield Bermuda Championship startet am 22. Oktober. Brennans Yokohama-Sieg bleibt der Maßstab.",
+    "excerpt": "Die Herbstserie der PGA Tour wird diese Woche auf dem Port Royal Golf Course auf Bermuda mit 500 FedExCup-Punkten fortgesetzt.",
+    "body": [
+          "Nach einer einwöchigen Spielpause reist die PGA Tour nach Southampton auf den Bermudas zur Butterfield Bermuda Championship 2026. Die Auftaktrunde beginnt in vier Tagen am Donnerstag, 22. Oktober, auf dem spektakulären Küstenkurs von Port Royal.",
+          "Port Royal ist berühmt für seine anspruchsvollen Meereslöcher, allen voran das 235 Yards lange Par-3 an Loch 16 über den Atlantik. Bei dem Turnier geht es um ein Gesamtpreisgeld von 6 Millionen Dollar und 500 FedExCup-Punkte für den Sieger.",
+          "Titelverteidiger Adam Schenk führt das Teilnehmerfeld an, zu dem auch Keith Mitchell und Jacob Bridgeman gehören, die zuletzt in Yokohama Platz zwei hinter Michael Brennan belegt hatten. Brennans Sieg mit 16 unter Par bleibt die aktuelle Benchmark der Tour."
+    ]
+  },
+  "it": {
+    "title": "PGA Tour autunnale: conto alla rovescia per le Bermuda, Port Royal pronta al via",
+    "subtitle": "Il Butterfield Bermuda Championship da 6 milioni di dollari scatta il 22 ottobre. La vittoria di Brennan a Yokohama resta il riferimento.",
+    "excerpt": "Il calendario autunnale del PGA Tour riparte questa settimana dal Port Royal Golf Course nelle Bermuda con 500 punti FedExCup in palio.",
+    "body": [
+          "Dopo una settimana di pausa, il PGA Tour sbarca a Southampton nelle Bermuda per il Butterfield Bermuda Championship 2026. Il primo giro scatterà tra quattro giorni, giovedì 22 ottobre, sul percorso costiero di Port Royal.",
+          "Port Royal è celebre per le sue buche a picco sull'oceano, in particolare la buca 16 (par 3 da 235 yard) che si affaccia direttamente sulle acque dell'Atlantico. L'evento mette in palio 6 milioni di dollari di montepremi e 500 punti FedExCup per il vincitore.",
+          "Il campione in carica Adam Schenk guiderà il field insieme a Keith Mitchell e Jacob Bridgeman, reduci dal secondo posto al Baycurrent Classic alle spalle di Michael Brennan, il cui punteggio di 16 colpi sotto il par rimane l'ultimo trofeo assegnato."
+    ]
+  },
+  "pl": {
+    "title": "Jesienny cykl PGA Tour: odliczanie do Bermudow, Port Royal czeka na zawodnikow",
+    "subtitle": "Butterfield Bermuda Championship z pulą 6 milionow dolarow startuje 22 pazdziernika. Triumf Michaela Brennana wciaz w pamieci.",
+    "excerpt": "Jesienne rozgrywki PGA Tour powracają w tym tygodniu na pole Port Royal Golf Course na Bermudach z 500 punktami FedExCup do zdobycia.",
+    "body": [
+          "Po tygodniowej przerwie PGA Tour przenosi się do Southampton na Bermudach na turniej Butterfield Bermuda Championship 2026. Pierwsza runda wystartuje za cztery dni, w czwartek 22 października, na malowniczym polu Port Royal Golf Course.",
+          "Pole Port Royal słynie z dołków usytuowanych tuż nad Oceanem Atlantyckim, ze szczególnym uwzględnieniem spektakularnego dołka numer 16 (par 3, 235 jardów). Pula nagród wynosi 6 milionów dolarów, a triumfator otrzyma 500 punktów FedExCup.",
+          "Obrońca tytułu Adam Schenk stanie na czele stawki u boku Keitha Mitchella i Jacoba Bridgemana, którzy zajęli drugie miejsce za Michaelem Brennanem w Baycurrent Classic w Jokohamie. Wygrana Brennana z wynikiem 16 poniżej par to ostatni zapisany rezultat cyklu."
+    ]
+  },
+  "zh": {
+    "title": "美巡秋季赛：百慕大锦标赛进入倒计时，皇家港球场静候开杆",
+    "subtitle": "总奖金600万美元的巴特菲尔德百慕大锦标赛将于10月22日开打，布伦南横滨夺冠战绩犹在眼前。",
+    "excerpt": "美巡赛秋季系列赛本周转战百慕大南安普敦的皇家港高尔夫球场，500个联邦快递杯积分虚位以待。",
+    "body": [
+          "在经历了一周的常规休整后，美巡赛将于本周重燃战火，移师百慕大南安普敦举行2026年巴特菲尔德百慕大锦标赛。首轮比赛将于4天后的10月22日周四在著名的皇家港高尔夫球场打响。",
+          "皇家港球场以直面大西洋海风的滨海球洞闻名，尤其是全长235码、跨越蔚蓝海水的第16洞三杆洞。本场比赛总奖金达600万美元，冠军将入账500个联邦快递杯积分。",
+          "赛事卫冕冠军亚当·申克将领衔出战，同场竞技的还包括两周前在横滨湾流精英赛屈居亚军的基斯·米切尔和雅各布·布里奇曼。迈克尔·布伦南当时以低于标准杆16杆捧得个人美巡首冠的壮举依然是目前的最新战报。"
+    ]
+  },
+  "ja": {
+    "title": "PGAツアー秋季シリーズ：バミューダ選手権カウントダウン、ポートロイヤルが開幕待つ",
+    "subtitle": "賞金600万ドルのバターフィールド・バミューダ選手権が10月22日開幕。ブレナンの横浜優勝が最新記録。",
+    "excerpt": "PGAツアーの秋季シリーズが今週、バミューダ諸島のポートロイヤル・ゴルフコースで再開され、フェデックスカップ500ptが懸かります。",
+    "body": [
+          "1週間の休催期間を経て、PGAツアーはバミューダ諸島サウサンプトンのポートロイヤル・ゴルフコースで開催される2026年バターフィールド・バミューダ選手権に向かいます。第1ラウンドは4日後の10月22日木曜日にティーオフします。",
+          "大西洋の海風を受けるポートロイヤルは、海越えとなる235ヤードの16番パー3をはじめとする景観と難度の高さで知られています。大会は賞金総額600万ドル、優勝者にはフェデックスカップ500ポイントが付与されます。",
+          "ディフェンディングチャンピオンのアダム・シェンクに加え、横浜ベイカレントで2位タイとなったキース・ミッチェルとジェイコブ・ブリッジマンが出場。通算16アンダーで初優勝を果たしたマイケル・ブレナンのタイトルが依然として最新の指標です。"
+    ]
+  },
+  "ko": {
+    "title": "PGA 투어 가을 시리즈: 버뮤다 챔피언십 카운트다운, 포트 로열 개막 준비",
+    "subtitle": "총상금 600만 달러 버터필드 버뮤다 챔피언십 10월 22일 티오프. 마이클 브레넌의 우승 기록 유지.",
+    "excerpt": "PGA 투어 가을 시리즈가 이번 주 버뮤다 포트 로열 골프 코스에서 재개되며 우승자에게는 페덱스컵 500포인트가 주어집니다.",
+    "body": [
+          "한 주간의 휴식을 마친 PGA 투어가 버뮤다 사우샘프턴의 포트 로열 골프 코스에서 열리는 2026 버터필드 버뮤다 챔피언십으로 돌아옵니다. 대회 1라운드는 나흘 뒤인 10월 22일 목요일에 시작됩니다.",
+          "대서양 해풍이 불어오는 포트 로열은 바다를 넘겨 치는 235야드 16번 홀(파3)로 유명합니다. 이번 대회 총상금은 600만 달러이며 우승자에게는 페덱스컵 500포인트가 부여됩니다.",
+          "디펜딩 챔피언 애덤 솅크와 함께 요코하마 베이커런트 클래식에서 준우승을 차지했던 키스 미첼, 제이컵 브리지먼이 출격합니다. 16언더파로 생애 첫 승을 거둔 마이클 브레넌의 성적이 가을 시리즈의 최신 기준점으로 남아 있습니다."
+    ]
+  },
+  "ar": {
+    "title": "جولة الخريف للـPGA: العد التنازلي لبطولة برمودا، وملعب بورت رويال يستعد للانطلاق",
+    "subtitle": "بطولة باترفيلد برمودا بجوائز 6 ملايين دولار تنطلق في 22 أكتوبر. ولقب مايكل برينان في يوكوهاما يبقى الأحدث.",
+    "excerpt": "تستأنف جولة PGA للجولف منافساتها هذا الأسبوع على ملعب بورت رويال في برمودا، حيث يتنافس اللاعبون على 500 نقطة في كأس فيديكس.",
+    "body": [
+          "بعد أسبوع راحة مبرمج، تتجه جولة PGA إلى ساوثهامبتون في برمودا لخوض بطولة باترفيلد برمودا 2026. تنطلق الجولة الأولى بعد أربعة أيام، يوم الخميس 22 أكتوبر، على ملعب بورت رويال الساحلي.",
+          "يشتهر ملعب بورت رويال بمواجهة الرياح الأطلسية، خاصة في الحفرة 16 ذات المعدل 3 لمسافة 235 ياردة فوق مياه المحيط. وتبلغ جوائز البطولة 6 ملايين دولار مع 500 نقطة لبطل كأس فيديكس.",
+          "يقود حامل اللقب آدم شينك قائمة المشاركين إلى جانب كيث ميتشل وجيكوب بريدجمان اللذين حلا في المركز الثاني خلف مايكل برينان في يوكوهاما، حيث يبقى فوز برينان بنتيجة 16 تحت المعدل أحدث إنجازات الخريف."
+    ]
+  }
+},
 "shanghai-masters-2026-semifinals-saturday-jodar-medvedev-zverev": {
   "fr": {
     "title": "Demi-finales du samedi à Shanghai : Jodar renverse Ruud et défie Medvedev",

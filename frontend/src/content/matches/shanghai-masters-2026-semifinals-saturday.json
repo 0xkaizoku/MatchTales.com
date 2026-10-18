@@ -31,13 +31,13 @@
   "time": "14:30",
   "venue": "Qizhong Forest Sports City Arena",
   "city": "Shanghai",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 0,
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/1103828/pexels-photo-1103828.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": null,
+  "decidedBy": "sets",
   "homePen": null,
   "awayPen": null,
   "sport": "tennis",
@@ -45,12 +45,15 @@
   "format": "singles",
   "season": "2026",
   "roundLabel": "Shanghai Masters · Semifinals",
-  "resultSummary": "UPCOMING: Saturday 17 October, Stadium Court. Zverev vs Davidovich Fokina, then Medvedev vs Jodar. No score.",
+  "resultSummary": "FINAL: Saturday 17 October. SF1: Zverev d. Davidovich Fokina 6-4, 6-3. SF2: Medvedev d. Jodar 7-6(4), 6-3. Sunday Final: Zverev vs Medvedev.",
   "leaderboard": [
-    {"pos": "SF1", "name": "Alexander Zverev vs Alejandro Davidovich Fokina", "score": "not before 14:30", "note": "Stadium Court"},
-    {"pos": "SF2", "name": "Daniil Medvedev vs Rafael Jodar", "score": "not before 18:00", "note": "Stadium Court"}
+    {"pos": "SF1", "name": "Alexander Zverev d. Alejandro Davidovich Fokina", "score": "6-4, 6-3", "note": "Stadium Court"},
+    {"pos": "SF2", "name": "Daniil Medvedev d. Rafael Jodar", "score": "7-6(4), 6-3", "note": "Stadium Court"}
   ],
-  "tennisSets": [],
+  "tennisSets": [
+    {"p1": "6", "p2": "4"},
+    {"p1": "6", "p2": "3"}
+  ],
   "sources": [
     {"name": "ATP Tour Saturday order of play", "url": "https://www.atptour.com/en/news/shanghai-2026-schedule"},
     {"name": "Rolex Shanghai Masters", "url": "https://en.rolexshanghaimasters.com/en/media/news/shanghai-2026-semifinals-preview"}
