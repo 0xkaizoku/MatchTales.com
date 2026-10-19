@@ -1,8 +1,8 @@
 ---
-title: "Premier League MW7 Sunday: Arsenal blank Forest 2-0 to chase City"
-subtitle: "Saka and Havertz strike at the City Ground as Gunners respond to City's 3-1 win over Ipswich."
+title: "Premier League MW7 Sunday: Madueke gives Arsenal a 1-0 win at Forest"
+subtitle: "The goal came in the 80th minute. City still lead on 21. Brighton beat Palace 5-0."
 category: "Desk"
-excerpt: "Arsenal kept the Premier League title race tight with a professional 2-0 away win against Nottingham Forest on Sunday, remaining within three points of league leaders Manchester City."
+excerpt: "Arsenal stayed three points behind Manchester City with a 1-0 win at Nottingham Forest. Noni Madueke scored the only goal."
 image: "https://images.pexels.com/photos/60778/pexels-photo-60778.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 5
 pubDate: 2026-10-18
@@ -10,20 +10,22 @@ sport: soccer
 competition: premier-league-2026
 relatedSlug: nottingham-forest-vs-arsenal-mw7-2026
 sources:
-  - name: "PremierLeague.com match centre"
-    url: "https://www.premierleague.com/match/nottingham-forest-vs-arsenal-2026"
-  - name: "NBC Sports Premier League table"
-    url: "https://www.nbcsports.com/soccer/news/premier-league-table-for-2026-27-season"
+  - name: "AFP via Dawn"
+    url: "https://www.dawn.com/news/2038200"
+  - name: "Xinhua Premier League standings"
+    url: "https://english.news.cn/20261019/b078eb594d5f401a875ec4ddaee82dbd/c.html"
 ---
 
-## Arsenal respond to City's Saturday statement
+## One goal, in the 80th minute
 
-The pressure was squarely on Arsenal when they kicked off at the City Ground on Sunday afternoon. Twenty-four hours earlier, Manchester City had stretched their unblemished start to seven consecutive victories with a 3-1 win over Ipswich Town at the Etihad Stadium.
+AFP reported that Noni Madueke scored in the 80th minute as Arsenal beat Nottingham Forest 1-0 at the City Ground on Sunday, 18 October. It was Arsenal's only shot on target. Murillo went close to an equaliser in stoppage time. Arsenal are second on 18 points from a 6-0-1 record, three behind Manchester City.
 
-Mikel Arteta's side answered with total composure. Bukayo Saka broke the deadlock in the 34th minute, cutting inside his marker and bending a low strike past Matz Sels. Kai Havertz settled matters in the 68th minute, rising unmarked to head home a corner delivered by Declan Rice. The 2-0 victory lifts Arsenal to 18 points (6-0-1), keeping them three points behind City at the summit.
+A previous 2-0 line, with scorers who were not in the AFP or Reuters account, is withdrawn.
 
-## The table takes shape after seven rounds
+## The Sunday board around them
 
-Elsewhere on Sunday, third-placed Brighton edged Crystal Palace 2-1 at the Amex Stadium to reach 16 points (5-1-1). Saturday's fixtures had already witnessed Brentford defeat Liverpool 2-1 at the Gtech Community Stadium, leaving Liverpool ninth on 9 points, while Everton and Chelsea shared the points in a 1-1 draw on Merseyside.
+Brighton beat Crystal Palace 5-0. Jaydee Canvot scored an own goal at 4 minutes, Diego Gomez scored at 7 from inside his own half, Yasin Ayari at 10, C. Kostoulas at 49 and J. Hinshelwood at 84. Half-time was 3-0. Brighton are third on 16 points, goal difference +18.
 
-Matchweek 7 concludes on Monday evening when Tottenham host Coventry City in North London. For now, the Premier League summit remains a two-horse sprint between Pep Guardiola's flawless Manchester City and Arteta's relentless Arsenal.
+Leeds United 1, Manchester United 1. Bryan Mbeumo at 35, Dominic Calvert-Lewin at 51. United have one win in seven and are 13th on 7 points. Bournemouth beat Sunderland 2-0 for a first league win.
+
+Saturday, aligned to the Xinhua table: City 3-2 Ipswich, Everton 0-2 Chelsea, Brentford 1-2 Liverpool. City have 21 points from seven wins, with 19 goals for and 7 against.

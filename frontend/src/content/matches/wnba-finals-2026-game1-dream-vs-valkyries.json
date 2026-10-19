@@ -1,24 +1,43 @@
 {
   "slug": "wnba-finals-2026-game1-dream-vs-valkyries",
-  "headline": "WNBA Finals Game 1: Valkyries host the Dream at Chase Center",
+  "headline": "WNBA Finals Game 1: Valkyries beat the Dream 68-64",
   "whyCareScore": 9.7,
-  "whyCareReason": "Both semifinals ended 3-0. Game 1 is Saturday 17 October at 3:30 p.m. ET on NBC. No score yet.",
-  "teaser": "Golden State host Atlanta at Chase Center. Dream won the Liberty series 85-83 in the clincher. Valkyries won the Aces series 87-77 in overtime.",
-  "story": "The 2026 WNBA Finals open Saturday 17 October at Chase Center in San Francisco. ESPN and the Valkyries list Game 1 at 3:30 p.m. ET (12:30 p.m. PT) on NBC and Peacock. Golden State are the higher seed and host Games 1 and 2. Atlanta swept the Liberty 3-0, closing 85-83, with Angel Reese scoring 22 points. Golden State swept the defending champion Aces 3-0, closing 87-77 in overtime at Michelob ULTRA Arena. The Valkyries are in their second season. The match stays upcoming.",
-  "stakes": "Game 1 is the first game of a best-of-seven. Golden State host. Atlanta host Games 3 and 4.",
-  "rivalryAngle": "A second-year expansion team against a club in the Finals for the first time since 2013.",
+  "whyCareReason": "ESPN and CBS list Saturday's final as 68-64. Golden State lead 1-0. Game 2 is unplayed.",
+  "teaser": "Gabby Williams scored 26. Angel Reese had 14 points and 12 rebounds and was scoreless in the second half.",
+  "story": "ESPN and CBS Sports list Game 1 of the 2026 WNBA Finals as Golden State Valkyries 68, Atlanta Dream 64 on Saturday 17 October at Chase Center. CBS reported Gabby Williams scored 26 points and the Golden State bench scored 20. Angel Reese finished with 14 points and 12 rebounds and was scoreless in the second half. Allisha Gray, cleared to play with a hand injury, led Atlanta with 19 points. The series is 1-0. An earlier 82-76 line is withdrawn. Game 2 is Monday 19 October at 8:00 p.m. ET at Chase Center on USA, Peacock and CNBC, and it has no score.",
+  "stakes": "Best of seven. Golden State host Game 2. Atlanta host Game 3 on Wednesday 21 October at State Farm Arena.",
+  "rivalryAngle": "A four-point final, with Atlanta's leading scorer held without a point after half-time.",
   "funFacts": [
-    "Series: Dream swept Liberty 3-0. Valkyries swept Aces 3-0.",
-    "Clinchers: Dream 85-83, Valkyries 87-77 in overtime.",
-    "Game 1 is Saturday 17 October, 3:30 p.m. ET, Chase Center, NBC and Peacock."
+    "Final: Valkyries 68, Dream 64. Series 1-0.",
+    "Gabby Williams 26 points. Golden State bench 20 points.",
+    "Angel Reese 14 points and 12 rebounds, scoreless in the second half. Allisha Gray 19."
   ],
   "keyPlayers": [
-    {"name": "Angel Reese", "team": "Atlanta Dream", "hook": "Scored 22 points in the 85-83 clincher in New York."},
-    {"name": "Golden State Valkyries", "team": "Golden State Valkyries", "hook": "Won the semifinal 3-0, including 87-77 in overtime in Las Vegas."},
-    {"name": "Atlanta Dream", "team": "Atlanta Dream", "hook": "Swept the Liberty and reach the Finals for the first time since 2013."}
+    {
+      "name": "Gabby Williams",
+      "team": "Golden State Valkyries",
+      "hook": "26 points in the 68-64 win."
+    },
+    {
+      "name": "Angel Reese",
+      "team": "Atlanta Dream",
+      "hook": "14 points and 12 rebounds, scoreless in the second half."
+    },
+    {
+      "name": "Allisha Gray",
+      "team": "Atlanta Dream",
+      "hook": "19 points after being cleared to play with a hand injury."
+    }
   ],
-  "headToHead": "No Finals game has been played. The semifinal clinchers are 85-83 and 87-77 OT.",
-  "tags": ["wnba", "finals", "dream", "valkyries", "game-1", "chase-center"],
+  "headToHead": "Saturday 17 October 2026. Final: Valkyries 68, Dream 64. Series 1-0.",
+  "tags": [
+    "wnba",
+    "finals",
+    "dream",
+    "valkyries",
+    "game-1",
+    "chase-center"
+  ],
   "home": "Golden State Valkyries",
   "away": "Atlanta Dream",
   "homeCode": null,
@@ -32,8 +51,8 @@
   "venue": "Chase Center",
   "city": "San Francisco",
   "status": "FINISHED",
-  "homeScore": 82,
-  "awayScore": 76,
+  "homeScore": 68,
+  "awayScore": 64,
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/2385479/pexels-photo-2385479.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
@@ -45,11 +64,17 @@
   "format": "team-match",
   "season": "2026",
   "roundLabel": "WNBA Finals · Game 1",
-  "resultSummary": "FINAL: Game 1, Valkyries 82, Dream 76. Golden State leads series 1-0. Game 2 is Monday 19 October, 8:00 p.m. ET at Chase Center on ESPN.",
+  "resultSummary": "FINAL: Game 1, Valkyries 68, Dream 64. Series 1-0. Game 2 Monday 19 October, 8:00 p.m. ET, Chase Center. No score.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
-    {"name": "ESPN playoff schedule", "url": "https://www.espn.com/wnba/story/_/id/49882118/wnba-playoffs-2026-schedule-games-first-round-semifinals-finals-scores-results-news-highlights"},
-    {"name": "Valkyries Finals announcement", "url": "https://valkyries.wnba.com/news/golden-state-valkyries-advance-to-2026-wnba-finals-20261009"}
+    {
+      "name": "ESPN WNBA Finals",
+      "url": "https://www.espn.com/wnba/story/_/id/50176202/2026-wnba-finals-valkyries-dream-schedule-scores-news"
+    },
+    {
+      "name": "CBS Sports bracket",
+      "url": "https://www.cbssports.com/wnba/news/2026-wnba-playoffs-bracket-schedule/"
+    }
   ]
 }

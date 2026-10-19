@@ -1,24 +1,37 @@
 {
   "slug": "man-city-vs-ipswich-mw7-2026",
-  "headline": "Matchweek 7: City host Ipswich on Saturday. No Friday score",
+  "headline": "Matchweek 7: City beat Ipswich 3-2 and stay perfect on 21",
   "whyCareScore": 8.8,
-  "whyCareReason": "City are still perfect on 18 points. The Etihad kickoff is Saturday 15:00 BST. Friday does not move the table.",
-  "teaser": "Manchester City (18) host Ipswich (9). Arsenal are three points back and play Forest on Sunday. No match is listed for Friday.",
-  "story": "Match XI lists Manchester City against Ipswich Town on Saturday 17 October at 14:00 UTC, 15:00 BST, at the Etihad Stadium. City lead the Premier League with 18 points from six wins. Ipswich are 10th on 9 points. NBC Sports and Match XI agree the table has not changed since Monday: Arsenal 15, Brighton 13. Everton play Chelsea at 12:30 BST the same day. Brentford play Liverpool at 15:00. There is no Friday fixture and no Friday score.",
-  "stakes": "A City win would make it seven from seven and keep a gap of at least three points heading into Sunday, when Arsenal visit Nottingham Forest.",
-  "rivalryAngle": "The leaders against a side on 9 points. The table is frozen until Saturday.",
+  "whyCareReason": "The table after Sunday has City on 21 points, 19 scored and 7 conceded. This desk does not name the scorers.",
+  "teaser": "Manchester City 3, Ipswich Town 2. Seven wins from seven. No scorer list is published here.",
+  "story": "Xinhua's Premier League table after Sunday 18 October has Manchester City first: 7 played, 7 wins, 19 goals for, 7 against, 21 points. That is a 3-2 win over Ipswich at the Etihad on Saturday 17 October. The score is read from the table movement, not from a named scorer. This desk does not invent the goals. City lead Arsenal by three points.",
+  "stakes": "Seven wins from seven. A slip on Saturday would have let Arsenal close the gap on Sunday.",
+  "rivalryAngle": "The leaders conceded twice and still took all three points.",
   "funFacts": [
-    "Kickoff: Saturday 17 October 2026, 15:00 BST, Etihad Stadium.",
-    "Table: City 18, Arsenal 15, Brighton 13. Ipswich 9.",
-    "No Premier League match is listed for Friday 16 October."
+    "City: 7 played, 7-0-0, 19 for, 7 against, goal difference +12, 21 points.",
+    "Ipswich: 7 played, 3-0-4, 11 for, 15 against, 9 points.",
+    "No scorer is named on this card."
   ],
   "keyPlayers": [
-    {"name": "Manchester City", "team": "Manchester City", "hook": "Six wins from six. 16 scored, 5 conceded, 18 points."},
-    {"name": "Ipswich Town", "team": "Ipswich Town", "hook": "10th on 9 points, goal difference -3."},
-    {"name": "Arsenal", "team": "Arsenal", "hook": "Second on 15. They play Forest on Sunday, not Friday."}
+    {
+      "name": "Manchester City",
+      "team": "Manchester City",
+      "hook": "21 points from seven wins. 19 scored, 7 conceded."
+    },
+    {
+      "name": "Ipswich Town",
+      "team": "Ipswich Town",
+      "hook": "10th on 9 points after a 3-2 defeat."
+    }
   ],
-  "headToHead": "Saturday 17 October 2026. Status upcoming. No score.",
-  "tags": ["soccer", "premier-league", "manchester-city", "ipswich", "mw7"],
+  "headToHead": "Saturday 17 October 2026. Final from the table: Manchester City 3, Ipswich Town 2.",
+  "tags": [
+    "soccer",
+    "premier-league",
+    "manchester-city",
+    "ipswich",
+    "mw7"
+  ],
   "home": "Manchester City",
   "away": "Ipswich Town",
   "homeCode": null,
@@ -33,7 +46,7 @@
   "city": "Manchester",
   "status": "FINISHED",
   "homeScore": 3,
-  "awayScore": 1,
+  "awayScore": 2,
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/60778/pexels-photo-60778.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
@@ -45,11 +58,17 @@
   "format": "team-match",
   "season": "2026/27",
   "roundLabel": "Premier League · Matchweek 7",
-  "resultSummary": "FINAL: Saturday 17 October, Etihad Stadium. Manchester City 3, Ipswich Town 1. City reach 21 points (7-0-0).",
+  "resultSummary": "FINAL: Saturday 17 October, Etihad. City 3, Ipswich 2. City 21 points (7-0-0), 19 for and 7 against.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
-    {"name": "Match XI 2026/27", "url": "https://matchxi.com/seasons/2026-27"},
-    {"name": "NBC Sports table", "url": "https://www.nbcsports.com/soccer/news/premier-league-table-for-2026-27-season"}
+    {
+      "name": "Xinhua Premier League standings",
+      "url": "https://english.news.cn/20261019/b078eb594d5f401a875ec4ddaee82dbd/c.html"
+    },
+    {
+      "name": "FBref 19 October",
+      "url": "https://fbref.com/en/matches/2026-10-19"
+    }
   ]
 }

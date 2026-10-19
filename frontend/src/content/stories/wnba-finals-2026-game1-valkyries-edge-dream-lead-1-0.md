@@ -1,29 +1,25 @@
 ---
-title: "WNBA Finals Game 1: Valkyries hold off Dream 82-76 to take 1-0 series lead"
-subtitle: "Golden State delivers in its first-ever Finals game before a raucous Chase Center crowd. Game 2 follows on Monday night."
+title: "WNBA Finals Game 1: Valkyries beat Dream 68-64 and lead 1-0"
+subtitle: "ESPN and CBS Sports list Saturday's final as 68-64 at Chase Center. Game 2 is Monday at 8:00 p.m. ET."
 category: "Desk"
-excerpt: "The Golden State Valkyries claimed Game 1 of the 2026 WNBA Finals on Saturday, defeating the Atlanta Dream 82-76 behind clutch late free throws and stifling defense."
+excerpt: "Golden State took Game 1 of the WNBA Finals 68-64. Gabby Williams scored 26. The series lead is 1-0, and Game 2 has not been played."
 image: "https://images.pexels.com/photos/260352/pexels-photo-260352.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
-readingTime: 5
+readingTime: 4
 pubDate: 2026-10-18
 sport: basketball
 competition: wnba-2026
 relatedSlug: wnba-finals-2026-game1-dream-vs-valkyries
 sources:
-  - name: "WNBA Finals game recap"
-    url: "https://www.wnba.com/game/20261017/ATLGSW"
-  - name: "ESPN WNBA scoreboard"
-    url: "https://www.espn.com/wnba/game/_/gameId/401762021/dream-valkyries"
+  - name: "ESPN WNBA Finals schedule"
+    url: "https://www.espn.com/wnba/story/_/id/50176202/2026-wnba-finals-valkyries-dream-schedule-scores-news"
+  - name: "CBS Sports Finals bracket"
+    url: "https://www.cbssports.com/wnba/news/2026-wnba-playoffs-bracket-schedule/"
 ---
 
-## Golden State strikes first in historic opener
+## The final is 68-64
 
-The 2026 WNBA Finals opened with electric intensity on Saturday afternoon at Chase Center in San Francisco as the Golden State Valkyries secured an 82-76 victory over the Atlanta Dream in Game 1. Playing in their first Finals contest in franchise history, the Valkyries withstood a second-half surge from Atlanta to take an early 1-0 advantage in the best-of-seven series.
+ESPN and CBS Sports list Game 1 of the 2026 WNBA Finals as Golden State Valkyries 68, Atlanta Dream 64, on Saturday, 17 October, at Chase Center. CBS reported Gabby Williams scored 26 points and the Golden State bench scored 20. Angel Reese finished with 14 points and 12 rebounds and did not score in the second half. Allisha Gray led Atlanta with 19 points.
 
-A capacity crowd of 18,064 watched the Valkyries build a 46-38 halftime lead through rapid ball movement and perimeter shooting. Atlanta responded in the third quarter behind forward Angel Reese, who recorded 19 points and 14 rebounds to pull the Dream within two points at 68-66 midway through the fourth period.
+A previous line of 82-76 on this desk is withdrawn. The series is 1-0 to Golden State.
 
-## Defensive stops turn the tide late
-
-With the contest hanging in the balance, Golden State clamped down defensively over the final three minutes, forcing three consecutive Atlanta turnovers. Back-to-back driving layups and four flawless free throws in the closing thirty seconds sealed the victory for head coach Natalie Nakase's squad.
-
-The series remains in San Francisco for Game 2 on Monday 19 October at 8:00 p.m. ET (5:00 p.m. local PT), televised on ESPN. Atlanta will seek a road split before the series shifts to Gateway Center Arena for Games 3 and 4 next weekend.
+Game 2 is Monday, 19 October, at 8:00 p.m. ET at Chase Center on USA Network, Peacock and CNBC. It has not been played. Game 3 is Wednesday, 21 October, at State Farm Arena.

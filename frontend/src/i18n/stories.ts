@@ -10,374 +10,867 @@ export type StoryI18n = {
 type LocMap = Partial<Record<Exclude<Locale, 'en'>, StoryI18n>>;
 
 export const STORY_I18N: Record<string, LocMap> = {
+"nfl-week6-mnf-commanders-at-49ers-2026": {
+  "fr": {
+    "title": "Lundi NFL, semaine 6 : les Commanders chez les 49ers invaincus",
+    "subtitle": "Coup d'envoi à 20 h 15 ET au Levi's Stadium sur ESPN et ABC. Pas de score. Dimanche : Chiefs 22-6 et Bills 33-30.",
+    "excerpt": "Washington (1-3-1) se déplace à Santa Clara face aux 49ers (5-0). Kansas City est resté parfait en battant les Chargers 22-6, et Buffalo a tenu 33-30 contre les Raiders.",
+    "body": [
+      "Le dernier match de la semaine 6 est lundi 19 octobre au Levi's Stadium, à Santa Clara. Les Washington Commanders (1-3-1) visitent les San Francisco 49ers (5-0). ESPN indique 20 h 15 ET sur ESPN et ABC. Ce bureau ne publie pas de score : le match n'a pas été joué. San Francisco est l'une des trois équipes invaincues, avec les Chiefs et les Vikings. Les Vikings sont à 5-0 pendant leur semaine de repos. CBS Sports donnait les 49ers favoris de 7,5 points.",
+      "Le tableau ESPN donne Los Angeles Chargers 6, Kansas City Chiefs 22. Quart-temps : Chargers 3, 0, 3, 0 et Chiefs 9, 10, 0, 3. Patrick Mahomes, 272 yards à la passe. Kenneth Walker III, 128 yards au sol. Xavier Worthy, 73 yards en réception. Chiefs 5-0. Chargers 0-6.",
+      "À Allegiant Stadium, Buffalo a battu Las Vegas 33-30. Quart-temps : Bills 3, 10, 10, 10 et Raiders 7, 6, 0, 17. Bills 5-1. Raiders 3-3. StatMuse indique que Josh Allen a égalé le record de passes de touchdown de Jim Kelly chez les Bills. Dimanche soir à Lambeau : Cowboys 13, Packers 23. Jeudi : Broncos 17, Seahawks 14 en prolongation. Broncos 4-2, Seahawks 3-3. L'Associated Press place aussi les Patriots et les Jaguars à 4-2."
+    ]
+  },
+  "es": {
+    "title": "Lunes de la semana 6: los Commanders visitan a los 49ers invictos",
+    "subtitle": "El saque es a las 8:15 p.m. ET en el Levi's Stadium por ESPN y ABC. Sin marcador. El domingo: Chiefs 22-6 y Bills 33-30.",
+    "excerpt": "Washington (1-3-1) viaja a Santa Clara ante los 49ers (5-0). Kansas City siguió perfecto al ganar 22-6 a los Chargers, y Buffalo aguantó 33-30 ante los Raiders.",
+    "body": [
+      "El último partido de la semana 6 es el lunes 19 de octubre en el Levi's Stadium de Santa Clara. Los Washington Commanders (1-3-1) visitan a los San Francisco 49ers (5-0). ESPN lista el saque a las 8:15 p.m. ET por ESPN y ABC. Esta mesa no publica un marcador: el partido no se ha jugado. San Francisco es uno de los tres invictos, junto a Chiefs y Vikings. Los Vikings están 5-0 en su fecha libre. CBS Sports daba a los 49ers como favoritos por 7,5 puntos.",
+      "El marcador de ESPN cierra Los Angeles Chargers 6, Kansas City Chiefs 22. Cuartos: Chargers 3, 0, 3, 0 y Chiefs 9, 10, 0, 3. Patrick Mahomes, 272 yardas de pase. Kenneth Walker III, 128 de carrera. Xavier Worthy, 73 de recepción. Chiefs 5-0. Chargers 0-6.",
+      "En el Allegiant Stadium, Buffalo venció a Las Vegas 33-30. Cuartos: Bills 3, 10, 10, 10 y Raiders 7, 6, 0, 17. Bills 5-1. Raiders 3-3. StatMuse informó que Josh Allen igualó el récord de pases de touchdown de Jim Kelly con los Bills. El domingo por la noche en Lambeau: Cowboys 13, Packers 23. El jueves: Broncos 17, Seahawks 14 en la prórroga. Broncos 4-2, Seahawks 3-3. La Associated Press también tiene a Patriots y Jaguars en 4-2."
+    ]
+  },
+  "de": {
+    "title": "NFL-Montag, Woche 6: die Commanders bei den ungeschlagenen 49ers",
+    "subtitle": "Anstoß 20:15 ET im Levi's Stadium bei ESPN und ABC. Kein Spielstand. Sonntag: Chiefs 22:6 und Bills 33:30.",
+    "excerpt": "Washington (1-3-1) gastiert in Santa Clara bei den 49ers (5-0). Kansas City blieb nach dem 22:6 gegen die Chargers perfekt, Buffalo hielt ein 33:30 gegen die Raiders.",
+    "body": [
+      "Das letzte Spiel der Woche 6 ist am Montag, 19. Oktober, im Levi's Stadium in Santa Clara. Die Washington Commanders (1-3-1) besuchen die San Francisco 49ers (5-0). ESPN nennt 20:15 ET bei ESPN und ABC. Dieser Desk setzt keinen Spielstand: das Spiel ist nicht angepfiffen. San Francisco ist eines von drei ungeschlagenen Teams, neben Chiefs und Vikings. Die Vikings sind in der spielfreien Woche 5-0. CBS Sports führte die 49ers als 7,5-Punkte-Favoriten.",
+      "Der ESPN-Spielplan endet Los Angeles Chargers 6, Kansas City Chiefs 22. Viertel: Chargers 3, 0, 3, 0 und Chiefs 9, 10, 0, 3. Patrick Mahomes 272 Passing-Yards, Kenneth Walker III 128 Rushing-Yards, Xavier Worthy 73 Receiving-Yards. Chiefs 5-0. Chargers 0-6.",
+      "Im Allegiant Stadium schlug Buffalo Las Vegas 33:30. Viertel: Bills 3, 10, 10, 10 und Raiders 7, 6, 0, 17. Bills 5-1. Raiders 3-3. StatMuse meldete, dass Josh Allen Jim Kellys Bills-Rekord für Touchdown-Pässe egalisiert hat. Sonntagabend in Lambeau: Cowboys 13, Packers 23. Donnerstag: Broncos 17, Seahawks 14 nach Verlängerung. Broncos 4-2, Seahawks 3-3. Die Associated Press führt auch Patriots und Jaguars mit 4-2."
+    ]
+  },
+  "it": {
+    "title": "Lunedì NFL, settimana 6: i Commanders dai 49ers imbattuti",
+    "subtitle": "Il calcio d'inizio è alle 20:15 ET al Levi's Stadium su ESPN e ABC. Nessun punteggio. Domenica: Chiefs 22-6 e Bills 33-30.",
+    "excerpt": "Washington (1-3-1) va a Santa Clara contro i 49ers (5-0). Kansas City è rimasta perfetta battendo i Chargers 22-6, e Buffalo ha tenuto 33-30 contro i Raiders.",
+    "body": [
+      "L'ultima gara della settimana 6 è lunedì 19 ottobre al Levi's Stadium di Santa Clara. I Washington Commanders (1-3-1) visitano i San Francisco 49ers (5-0). ESPN indica le 20:15 ET su ESPN e ABC. Questa redazione non pubblica un punteggio: la gara non è stata giocata. San Francisco è una delle tre squadre imbattute, con Chiefs e Vikings. I Vikings sono 5-0 nella settimana di riposo. CBS Sports dava i 49ers favoriti di 7,5 punti.",
+      "Il tabellone ESPN chiude Los Angeles Chargers 6, Kansas City Chiefs 22. Quarti: Chargers 3, 0, 3, 0 e Chiefs 9, 10, 0, 3. Patrick Mahomes 272 yard passate, Kenneth Walker III 128 yard corse, Xavier Worthy 73 yard ricevute. Chiefs 5-0. Chargers 0-6.",
+      "All'Allegiant Stadium Buffalo ha battuto Las Vegas 33-30. Quarti: Bills 3, 10, 10, 10 e Raiders 7, 6, 0, 17. Bills 5-1. Raiders 3-3. StatMuse ha riferito che Josh Allen ha eguagliato il record di touchdown passati di Jim Kelly con i Bills. Domenica sera al Lambeau: Cowboys 13, Packers 23. Giovedì: Broncos 17, Seahawks 14 ai supplementari. Broncos 4-2, Seahawks 3-3. L'Associated Press ha anche Patriots e Jaguars a 4-2."
+    ]
+  },
+  "pl": {
+    "title": "Poniedziałek NFL, tydzień 6: Commanders u niepokonanych 49ers",
+    "subtitle": "Początek o 20:15 ET na Levi's Stadium w ESPN i ABC. Brak wyniku. Niedziela: Chiefs 22-6 i Bills 33-30.",
+    "excerpt": "Washington (1-3-1) jedzie do Santa Clara na 49ers (5-0). Kansas City zostało niepokonane po 22-6 z Chargers, a Buffalo utrzymało 33-30 z Raiders.",
+    "body": [
+      "Ostatni mecz tygodnia 6 to poniedziałek 19 października na Levi's Stadium w Santa Clara. Washington Commanders (1-3-1) grają u San Francisco 49ers (5-0). ESPN podaje 20:15 ET w ESPN i ABC. To biuro nie publikuje wyniku: mecz nie został rozegrany. San Francisco jest jedną z trzech niepokonanych drużyn, obok Chiefs i Vikings. Vikings są 5-0 w tygodniu wolnym. CBS Sports dawało 49ers faworyta o 7,5 punktu.",
+      "Tabela ESPN: Los Angeles Chargers 6, Kansas City Chiefs 22. Kwarty: Chargers 3, 0, 3, 0 i Chiefs 9, 10, 0, 3. Patrick Mahomes 272 jardy podaniami, Kenneth Walker III 128 jardów biegiem, Xavier Worthy 73 jardy przyjęciami. Chiefs 5-0. Chargers 0-6.",
+      "Na Allegiant Stadium Buffalo pokonało Las Vegas 33-30. Kwarty: Bills 3, 10, 10, 10 i Raiders 7, 6, 0, 17. Bills 5-1. Raiders 3-3. StatMuse podało, że Josh Allen wyrównał rekord Jim Kelly'ego w przyłożeniach podaniami dla Bills. Niedziela wieczór na Lambeau: Cowboys 13, Packers 23. Czwartek: Broncos 17, Seahawks 14 po dogrywce. Broncos 4-2, Seahawks 3-3. Associated Press ma też Patriots i Jaguars po 4-2."
+    ]
+  },
+  "zh": {
+    "title": "NFL第6周周一：指挥官客战不败的49人",
+    "subtitle": "开球时间美东晚8:15，利维斯球场，ESPN与ABC转播。无比分。周日：酋长22-6，比尔33-30。",
+    "excerpt": "华盛顿（1胜3负1平）前往圣克拉拉对阵5胜0负的49人。堪萨斯城以22-6击败闪电保持不败，布法罗以33-30压住突袭者。",
+    "body": [
+      "第6周最后一场比赛是10月19日周一，在圣克拉拉的利维斯球场。华盛顿指挥官（1胜3负1平）客战旧金山49人（5胜0负）。ESPN列出开球时间为美东晚8:15，ESPN与ABC转播。本报不刊登比分：比赛尚未进行。旧金山是三支不败球队之一，另外两支是酋长和维京人。维京人5胜0负，本周轮空。CBS Sports把49人列为让7.5分的热门。",
+      "ESPN记分牌：洛杉矶闪电6，堪萨斯城酋长22。节次：闪电3、0、3、0，酋长9、10、0、3。帕特里克·马霍姆斯传球272码，肯尼思·沃克三世冲球128码，泽维尔·沃西接球73码。酋长5胜0负。闪电0胜6负。",
+      "在忠实球场，布法罗以33-30击败拉斯维加斯。节次：比尔3、10、10、10，突袭者7、6、0、17。比尔5胜1负。突袭者3胜3负。StatMuse报道乔希·艾伦追平了吉姆·凯利的比尔队传球达阵纪录。周日晚兰博球场：牛仔13，包装工23。周四：野马加时17-14击败海鹰。野马4胜2负，海鹰3胜3负。美联社周一综述里爱国者与美洲虎也是4胜2负。"
+    ]
+  },
+  "ja": {
+    "title": "NFL第6週月曜: コマンダーズが無敗の49ersへ",
+    "subtitle": "キックオフは東部午後8時15分、リーバイス・スタジアム、ESPNとABC。スコアなし。日曜はチーフス22-6、ビルズ33-30。",
+    "excerpt": "ワシントン（1勝3敗1分）がサンタクララで5勝0敗の49ersと対戦する。カンザスシティはチャージャーズに22-6で勝ち無敗を守り、バッファローはレイダースを33-30で退けた。",
+    "body": [
+      "第6週最後の試合は10月19日月曜、サンタクララのリーバイス・スタジアム。ワシントン・コマンダーズ（1勝3敗1分）がサンフランシスコ・49ers（5勝0敗）を訪れる。ESPNは東部午後8時15分、ESPNとABCと記している。このデスクはスコアを出さない。試合はまだ行われていない。サンフランシスコはチーフス、バイキングスと並ぶ三つの無敗の一つだ。バイキングスは5勝0敗でバイウィーク。CBS Sportsは49ersを7.5点有利としていた。",
+      "ESPNのスコアボードはロサンゼルス・チャージャーズ6、カンザスシティ・チーフス22。クォーターはチャージャーズ3、0、3、0、チーフス9、10、0、3。パトリック・マホームズのパス272ヤード、ケネス・ウォーカー三世のラン128ヤード、ゼイビア・ワーシーのレシーブ73ヤード。チーフスは5勝0敗。チャージャーズは0勝6敗。",
+      "アレジャント・スタジアムでバッファローがラスベガスを33-30で破った。クォーターはビルズ3、10、10、10、レイダース7、6、0、17。ビルズは5勝1敗。レイダースは3勝3敗。StatMuseはジョシュ・アレンがジム・ケリーのビルズTDパス記録に並んだと伝えた。日曜夜のランボーはカウボーイズ13、パッカーズ23。木曜はブロンコスが延長でシーホークスに17-14。ブロンコス4勝2敗、シーホークス3勝3敗。APの月曜一覧ではペイトリオッツとジャガーズも4勝2敗。"
+    ]
+  },
+  "ko": {
+    "title": "NFL 6주차 월요일: 커맨더스가 무패 49ers를 찾는다",
+    "subtitle": "킥오프는 동부 오후 8시 15분, 리바이스 스타디움, ESPN과 ABC. 스코어 없음. 일요일: 치프스 22-6, 빌스 33-30.",
+    "excerpt": "워싱턴(1승 3패 1무)이 산타클라라에서 5승 0패 49ers와 맞붙는다. 캔자스시티는 차저스를 22-6으로 꺾고 무패를 지켰고, 버펄로는 레이더스를 33-30으로 버텼다.",
+    "body": [
+      "6주차 마지막 경기는 10월 19일 월요일, 산타클라라 리바이스 스타디움이다. 워싱턴 커맨더스(1승 3패 1무)가 샌프란시스코 49ers(5승 0패)를 방문한다. ESPN은 동부 오후 8시 15분, ESPN과 ABC로 적는다. 이 데스크는 스코어를 내지 않는다. 경기는 아직 열리지 않았다. 샌프란시스코는 치프스, 바이킹스와 함께 세 무패 팀 중 하나다. 바이킹스는 5승 0패로 휴주다. CBS Sports는 49ers를 7.5점 우세로 적었다.",
+      "ESPN 스코어보드: 로스앤젤레스 차저스 6, 캔자스시티 치프스 22. 쿼터는 차저스 3, 0, 3, 0, 치프스 9, 10, 0, 3. 패트릭 마홈스 패스 272야드, 케네스 워커 3세 러시 128야드, 재비어 워디 리시브 73야드. 치프스는 5승 0패. 차저스는 0승 6패.",
+      "얼리전트 스타디움에서 버펄로가 라스베이거스를 33-30으로 이겼다. 쿼터는 빌스 3, 10, 10, 10, 레이더스 7, 6, 0, 17. 빌스는 5승 1패. 레이더스는 3승 3패. StatMuse는 조시 앨런이 짐 켈리의 빌스 TD 패스 기록과 타이를 이뤘다고 전했다. 일요일 밤 램보는 카우보이스 13, 패커스 23. 목요일은 브롱코스가 연장에서 시호크스를 17-14로 이겼다. 브롱코스 4승 2패, 시호크스 3승 3패. AP 월요일 일람에는 패트리어츠와 재규어도 4승 2패다."
+    ]
+  },
+  "ar": {
+    "title": "اثنين الأسبوع 6 في NFL: كوماندرز عند 49ers غير المهزومين",
+    "subtitle": "الانطلاق 8:15 مساء بتوقيت الشرق على ملعب ليفاي عبر ESPN وABC. لا نتيجة. الأحد: تشيفس 22-6 وبيلز 33-30.",
+    "excerpt": "واشنطن (1-3-1) تذهب إلى سانتا كلارا لمواجهة 49ers (5-0). كانساس سيتي بقيت كاملة بعد 22-6 على تشارجرز، وبافلو صمدت 33-30 أمام ريدرز.",
+    "body": [
+      "آخر مباراة في الأسبوع 6 هي الاثنين 19 أكتوبر على ملعب ليفاي في سانتا كلارا. واشنطن كوماندرز (1-3-1) تزور سان فرانسيسكو 49ers (5-0). ESPN تضع الانطلاق عند 8:15 مساء بتوقيت الشرق على ESPN وABC. هذا المكتب لا ينشر نتيجة: المباراة لم تُلعب. سان فرانسيسكو أحد ثلاثة فرق بلا هزيمة، مع تشيفس وفايكينغز. فايكينغز عند 5-0 في أسبوع الراحة. CBS Sports جعلت 49ers مرشحة بفارق 7.5 نقطة.",
+      "لوحة ESPN: لوس أنجلوس تشارجرز 6، كانساس سيتي تشيفس 22. الأشواط: تشارجرز 3 و0 و3 و0، وتشيفس 9 و10 و0 و3. باتريك ماهومز 272 ياردة تمرير، كينيث ووكر الثالث 128 ياردة ركض، زافيير وورثي 73 ياردة استقبال. تشيفس 5-0. تشارجرز 0-6.",
+      "في ملعب أليجانت فازت بافلو على لاس فيغاس 33-30. الأشواط: بيلز 3 و10 و10 و10، وريدرز 7 و6 و0 و17. بيلز 5-1. ريدرز 3-3. ذكر StatMuse أن جوش ألن عادل رقم جيم كيلي في تمريرات الهبوط مع بيلز. مساء الأحد في لامبو: كاوبويز 13، باكرز 23. الخميس: برونكوز 17، سي هوكس 14 في الوقت الإضافي. برونكوز 4-2، سي هوكس 3-3. أسوشيتد برس تضع باتريوتس وجاغوار أيضا عند 4-2."
+    ]
+  }
+},
+"premier-league-mw7-monday-spurs-host-coventry-2026": {
+  "fr": {
+    "title": "Lundi de Premier League : Tottenham reçoit Coventry, toujours au fond",
+    "subtitle": "Coup d'envoi à 20:00 UK au Tottenham Hotspur Stadium. Pas de score. City mène avec 21 points. Arsenal en a 18 après un 1-0 à Forest.",
+    "excerpt": "Tottenham, 20e avec 3 points, reçoit le Coventry de Frank Lampard, 16e avec 6 points. Dimanche : Arsenal 1-0 à Forest et Brighton 5-0 contre Palace.",
+    "body": [
+      "La 7e journée se termine lundi 19 octobre à 20:00 UK au Tottenham Hotspur Stadium. FBref laisse le score de Tottenham contre Coventry vide. Ce bureau n'en invente pas un. Après dimanche, Xinhua place Tottenham 20e : 6 matchs, 0 victoire, 3 nuls, 3 défaites, 3 buts pour, 9 contre, 3 points. Coventry est 16e : 6 matchs, 2 victoires, 4 défaites, 5 pour, 11 contre, 6 points. Frank Lampard entraîne Coventry.",
+      "Nottingham Forest 0, Arsenal 1. Noni Madueke a marqué à la 80e minute. L'AFP a indiqué que c'était le seul tir cadré d'Arsenal, et que Murillo est passé près en temps additionnel. Arsenal est deuxième avec 18 points (6-0-1), à trois longueurs de Manchester City.",
+      "Brighton 5, Crystal Palace 0. Les buts : contre son camp de Jaydee Canvot à la 4e, Diego Gomez à la 7e depuis sa propre moitié, Yasin Ayari à la 10e, C. Kostoulas à la 49e, J. Hinshelwood à la 84e. Mi-temps 3-0. Brighton est troisième avec 16 points et une différence de +18. Leeds 1-1 Manchester United : Bryan Mbeumo à la 35e, Dominic Calvert-Lewin à la 51e. United n'a qu'une victoire en sept matchs et est 13e avec 7 points. Bournemouth a battu Sunderland 2-0, Marcus Tavernier à la 6e et Evanilson à la 48e, pour sa première victoire de championnat. Samedi, lu sur le même tableau : City 3-2 Ipswich, Everton 0-2 Chelsea, Brentford 1-2 Liverpool, Newcastle 0-1 Aston Villa, Fulham 1-0 Hull. City a 21 points en sept victoires. Liverpool est cinquième avec 12. Chelsea est quatrième avec 13."
+    ]
+  },
+  "es": {
+    "title": "Lunes de Premier League: el Tottenham recibe al Coventry fuera del fondo",
+    "subtitle": "El saque es a las 20:00 UK en el Tottenham Hotspur Stadium. Sin marcador. El City lidera con 21. El Arsenal tiene 18 tras el 1-0 en Forest.",
+    "excerpt": "El Tottenham, 20º con 3 puntos, se mide al Coventry de Frank Lampard, 16º con 6. El domingo: Arsenal 1-0 en Forest y Brighton 5-0 al Palace.",
+    "body": [
+      "La fecha 7 cierra el lunes 19 de octubre a las 20:00 UK en el Tottenham Hotspur Stadium. FBref deja en blanco Tottenham contra Coventry. Esta mesa no inventa el marcador. Tras el domingo, Xinhua tiene al Tottenham 20º: 6 partidos, 0 victorias, 3 empates, 3 derrotas, 3 goles a favor, 9 en contra, 3 puntos. El Coventry es 16º: 6 partidos, 2 victorias, 4 derrotas, 5 a favor, 11 en contra, 6 puntos. Frank Lampard dirige al Coventry.",
+      "Nottingham Forest 0, Arsenal 1. Noni Madueke marcó en el minuto 80. La AFP dijo que fue el único tiro a puerta del Arsenal y que Murillo estuvo cerca en el descuento. El Arsenal es segundo con 18 puntos (6-0-1), a tres del Manchester City.",
+      "Brighton 5, Crystal Palace 0. Los goles: autogol de Jaydee Canvot al 4, Diego Gomez al 7 desde su propio campo, Yasin Ayari al 10, C. Kostoulas al 49, J. Hinshelwood al 84. Descanso 3-0. El Brighton es tercero con 16 puntos y +18 de diferencia. Leeds 1-1 Manchester United: Bryan Mbeumo al 35, Dominic Calvert-Lewin al 51. El United tiene una sola victoria en siete partidos y es 13º con 7 puntos. El Bournemouth venció 2-0 al Sunderland, Marcus Tavernier al 6 y Evanilson al 48, su primera victoria de liga. El sábado, leído en la misma tabla: City 3-2 Ipswich, Everton 0-2 Chelsea, Brentford 1-2 Liverpool, Newcastle 0-1 Aston Villa, Fulham 1-0 Hull. El City suma 21 puntos en siete victorias. El Liverpool es quinto con 12. El Chelsea es cuarto con 13."
+    ]
+  },
+  "de": {
+    "title": "Premier-League-Montag: Tottenham empfängt Coventry, noch nicht vom Tabellenende weg",
+    "subtitle": "Anstoß 20:00 UK im Tottenham Hotspur Stadium. Kein Spielstand. City führt mit 21 Punkten. Arsenal hat 18 nach dem 1:0 bei Forest.",
+    "excerpt": "Tottenham, 20. mit 3 Punkten, trifft auf Frank Lampards Coventry, 16. mit 6 Punkten. Sonntag: Arsenal 1:0 bei Forest und Brighton 5:0 gegen Palace.",
+    "body": [
+      "Der 7. Spieltag endet am Montag, 19. Oktober, um 20:00 UK im Tottenham Hotspur Stadium. FBref lässt Tottenham gegen Coventry ohne Spielstand. Dieser Desk erfindet keinen. Nach dem Sonntag steht Tottenham bei Xinhua auf Platz 20: 6 Spiele, 0 Siege, 3 Remis, 3 Niederlagen, 3 Tore, 9 Gegentore, 3 Punkte. Coventry ist 16.: 6 Spiele, 2 Siege, 4 Niederlagen, 5 Tore, 11 Gegentore, 6 Punkte. Frank Lampard trainiert Coventry.",
+      "Nottingham Forest 0, Arsenal 1. Noni Madueke traf in der 80. Minute. Die AFP nannte es Arsenals einzigen Schuss aufs Tor, und Murillo war in der Nachspielzeit nah dran. Arsenal ist Zweiter mit 18 Punkten (6-0-1), drei hinter Manchester City.",
+      "Brighton 5, Crystal Palace 0. Die Tore: Eigentor Jaydee Canvot in der 4., Diego Gomez in der 7. aus der eigenen Hälfte, Yasin Ayari in der 10., C. Kostoulas in der 49., J. Hinshelwood in der 84. Pause 3:0. Brighton ist Dritter mit 16 Punkten und +18 Differenz. Leeds 1:1 Manchester United: Bryan Mbeumo in der 35., Dominic Calvert-Lewin in der 51. United hat einen Sieg aus sieben Spielen und ist 13. mit 7 Punkten. Bournemouth schlug Sunderland 2:0, Marcus Tavernier in der 6. und Evanilson in der 48., der erste Ligasieg. Samstag, aus derselben Tabelle: City 3:2 Ipswich, Everton 0:2 Chelsea, Brentford 1:2 Liverpool, Newcastle 0:1 Aston Villa, Fulham 1:0 Hull. City hat 21 Punkte aus sieben Siegen. Liverpool ist Fünfter mit 12. Chelsea ist Vierter mit 13."
+    ]
+  },
+  "it": {
+    "title": "Lunedì di Premier League: il Tottenham ospita il Coventry, ancora in fondo",
+    "subtitle": "Calcio d'inizio alle 20:00 UK al Tottenham Hotspur Stadium. Nessun punteggio. Il City guida con 21 punti. L'Arsenal ne ha 18 dopo l'1-0 al Forest.",
+    "excerpt": "Il Tottenham, 20º con 3 punti, affronta il Coventry di Frank Lampard, 16º con 6. Domenica: Arsenal 1-0 al Forest e Brighton 5-0 contro il Palace.",
+    "body": [
+      "La 7ª giornata chiude lunedì 19 ottobre alle 20:00 UK al Tottenham Hotspur Stadium. FBref lascia vuoto Tottenham contro Coventry. Questa redazione non inventa il punteggio. Dopo la domenica Xinhua ha il Tottenham 20º: 6 gare, 0 vittorie, 3 pareggi, 3 sconfitte, 3 gol fatti, 9 subiti, 3 punti. Il Coventry è 16º: 6 gare, 2 vittorie, 4 sconfitte, 5 fatti, 11 subiti, 6 punti. Frank Lampard allena il Coventry.",
+      "Nottingham Forest 0, Arsenal 1. Noni Madueke ha segnato all'80º. L'AFP ha scritto che era l'unico tiro in porta dell'Arsenal e che Murillo ci è andato vicino nei minuti di recupero. L'Arsenal è secondo con 18 punti (6-0-1), a tre dal Manchester City.",
+      "Brighton 5, Crystal Palace 0. I gol: autogol di Jaydee Canvot al 4º, Diego Gomez al 7º dalla propria metà campo, Yasin Ayari al 10º, C. Kostoulas al 49º, J. Hinshelwood all'84º. Intervallo 3-0. Il Brighton è terzo con 16 punti e differenza +18. Leeds 1-1 Manchester United: Bryan Mbeumo al 35º, Dominic Calvert-Lewin al 51º. Lo United ha una sola vittoria in sette gare ed è 13º con 7 punti. Il Bournemouth ha battuto il Sunderland 2-0, Marcus Tavernier al 6º ed Evanilson al 48º, prima vittoria di campionato. Sabato, dalla stessa classifica: City 3-2 Ipswich, Everton 0-2 Chelsea, Brentford 1-2 Liverpool, Newcastle 0-1 Aston Villa, Fulham 1-0 Hull. Il City ha 21 punti da sette vittorie. Il Liverpool è quinto con 12. Il Chelsea è quarto con 13."
+    ]
+  },
+  "pl": {
+    "title": "Poniedziałek Premier League: Tottenham gości Coventry, wciąż na dnie",
+    "subtitle": "Początek o 20:00 czasu brytyjskiego na Tottenham Hotspur Stadium. Brak wyniku. City prowadzi z 21 punktami. Arsenal ma 18 po 1-0 u Forest.",
+    "excerpt": "Tottenham, 20. z 3 punktami, gra z Coventry Franka Lamparda, 16. z 6 punktami. Niedziela: Arsenal 1-0 u Forest i Brighton 5-0 z Palace.",
+    "body": [
+      "7. kolejka kończy się w poniedziałek 19 października o 20:00 czasu brytyjskiego na Tottenham Hotspur Stadium. FBref zostawia puste Tottenham kontra Coventry. To biuro nie wymyśla wyniku. Po niedzieli Xinhua ma Tottenham na 20. miejscu: 6 meczów, 0 zwycięstw, 3 remisy, 3 porażki, 3 gole, 9 straconych, 3 punkty. Coventry jest 16.: 6 meczów, 2 zwycięstwa, 4 porażki, 5 goli, 11 straconych, 6 punktów. Frank Lampard prowadzi Coventry.",
+      "Nottingham Forest 0, Arsenal 1. Noni Madueke trafił w 80. minucie. AFP napisało, że to był jedyny celny strzał Arsenalu i że Murillo był blisko w doliczonym czasie. Arsenal jest drugi z 18 punktami (6-0-1), trzy za Manchester City.",
+      "Brighton 5, Crystal Palace 0. Gole: samobójczy Jaydee Canvota w 4., Diego Gomez w 7. z własnej połowy, Yasin Ayari w 10., C. Kostoulas w 49., J. Hinshelwood w 84. Do przerwy 3-0. Brighton jest trzeci z 16 punktami i różnicą +18. Leeds 1-1 Manchester United: Bryan Mbeumo w 35., Dominic Calvert-Lewin w 51. United ma jedno zwycięstwo w siedmiu meczach i jest 13. z 7 punktami. Bournemouth wygrało z Sunderlandem 2-0, Marcus Tavernier w 6. i Evanilson w 48., pierwsze ligowe zwycięstwo. Sobota z tej samej tabeli: City 3-2 Ipswich, Everton 0-2 Chelsea, Brentford 1-2 Liverpool, Newcastle 0-1 Aston Villa, Fulham 1-0 Hull. City ma 21 punktów z siedmiu zwycięstw. Liverpool jest piąty z 12. Chelsea jest czwarte z 13."
+    ]
+  },
+  "zh": {
+    "title": "英超周一：热刺主场迎战仍在降级区边缘的考文垂",
+    "subtitle": "开球英国时间20:00，托特纳姆热刺球场。无比分。曼城以21分领跑。阿森纳客场1-0森林后积18分。",
+    "excerpt": "热刺排名第20，积3分，对阵弗兰克·兰帕德的考文垂，第16名积6分。周日：阿森纳客场1-0森林，布莱顿5-0水晶宫。",
+    "body": [
+      "第7轮在10月19日周一英国时间20:00于托特纳姆热刺球场收官。FBref上热刺对考文垂的比分仍是空白。本报不编造比分。周日之后，新华社的积分榜：热刺第20，6场，0胜3平3负，进3球失9球，3分。考文垂第16，6场，2胜4负，进5球失11球，6分。弗兰克·兰帕德是考文垂的主教练。",
+      "诺丁汉森林0，阿森纳1。诺尼·马杜埃凯在第80分钟进球。法新社称这是阿森纳全场唯一一次射正，穆里略在补时险些破门。阿森纳以18分（6胜0平1负）排名第二，落后曼城3分。",
+      "布莱顿5，水晶宫0。进球：第4分钟杰迪·坎沃特乌龙，第7分钟迭戈·戈麦斯在本方半场远射，第10分钟亚辛·阿亚里，第49分钟C. 科斯图拉斯，第84分钟J. 欣谢尔伍德。半场3-0。布莱顿第三，16分，净胜球+18。利兹1-1曼联：第35分钟布赖恩·姆贝乌莫，第51分钟多米尼克·卡尔弗特-勒温。曼联七场只有一胜，第13名积7分。伯恩茅斯2-0桑德兰，第6分钟马库斯·塔弗尼尔，第48分钟埃瓦尼尔森，这是他们的联赛首胜。周六对照同一张积分榜：曼城3-2伊普斯维奇，埃弗顿0-2切尔西，布伦特福德1-2利物浦，纽卡斯尔0-1阿斯顿维拉，富勒姆1-0赫尔。曼城七战全胜积21分。利物浦第五积12分。切尔西第四积13分。"
+    ]
+  },
+  "ja": {
+    "title": "プレミアリーグ月曜: トッテナムがコベントリーを迎え、まだ最下位圏",
+    "subtitle": "キックオフは英国20:00、トッテナム・ホットスパー・スタジアム。スコアなし。シティが勝ち点21で首位。アーセナルはフォレストに1-0で勝ち点18。",
+    "excerpt": "トッテナムは20位で勝ち点3。フランク・ランパード率いるコベントリーは16位で勝ち点6。日曜はアーセナルがフォレストに1-0、ブライトンがパレスに5-0。",
+    "body": [
+      "第7節は10月19日月曜、英国20:00にトッテナム・ホットスパー・スタジアムで終わる。FBrefはトッテナム対コベントリーのスコアを空欄のままにしている。このデスクはスコアを作らない。日曜のあと新華社の表ではトッテナムが20位: 6試合、0勝3分3敗、得点3、失点9、勝ち点3。コベントリーは16位: 6試合、2勝4敗、得点5、失点11、勝ち点6。フランク・ランパードがコベントリーの監督だ。",
+      "ノッティンガム・フォレスト0、アーセナル1。ノニ・マドゥエケが80分に決めた。AFPはアーセナル唯一の枠内シュートで、ムリージョがアディショナルタイムに惜しかったと伝えた。アーセナルは勝ち点18（6勝0分1敗）で2位、マンチェスター・シティに3点差。",
+      "ブライトン5、クリスタル・パレス0。得点は4分ジェイディー・カンボのオウンゴール、7分ディエゴ・ゴメスが自陣から、10分ヤシン・アヤリ、49分C・コストウラス、84分J・ヒンシェルウッド。ハーフタイムは3-0。ブライトンは3位、勝ち点16、得失点差+18。リーズ1-1マンチェスター・ユナイテッド: 35分ブライアン・ムベウモ、51分ドミニク・カルバート＝ルーウィン。ユナイテッドは7試合で1勝、13位で勝ち点7。ボーンマスはサンダーランドに2-0、6分マーカス・タバーニア、48分エバニルソンでリーグ初勝利。土曜は同じ表から: シティ3-2イプスウィッチ、エバートン0-2チェルシー、ブレントフォード1-2リバプール、ニューカッスル0-1アストン・ビラ、フラム1-0ハル。シティは7勝で勝ち点21。リバプールは5位で12。チェルシーは4位で13。"
+    ]
+  },
+  "ko": {
+    "title": "프리미어리그 월요일: 토트넘이 코번트리를 맞이, 아직 바닥 근처",
+    "subtitle": "킥오프는 영국 20:00, 토트넘 홋스퍼 스타디움. 스코어 없음. 시티가 승점 21로 선두. 아스널은 포리스트 원정 1-0 뒤 승점 18.",
+    "excerpt": "토트넘은 20위 승점 3. 프랭크 램파드의 코번트리는 16위 승점 6. 일요일: 아스널이 포리스트에 1-0, 브라이턴이 팰리스에 5-0.",
+    "body": [
+      "7라운드는 10월 19일 월요일 영국 20:00, 토트넘 홋스퍼 스타디움에서 끝난다. FBref는 토트넘 대 코번트리 스코어를 비워 둔다. 이 데스크는 스코어를 만들지 않는다. 일요일 이후 신화사 표에서 토트넘은 20위: 6경기, 0승 3무 3패, 득점 3, 실점 9, 승점 3. 코번트리는 16위: 6경기, 2승 4패, 득점 5, 실점 11, 승점 6. 프랭크 램파드가 코번트리 감독이다.",
+      "노팅엄 포리스트 0, 아스널 1. 노니 마두에케가 80분에 넣었다. AFP는 아스널의 유일한 유효 슈팅이었고, 무리요가 추가 시간에 가까웠다고 전했다. 아스널은 승점 18(6승 0무 1패)로 2위, 맨체스터 시티에 3점 차.",
+      "브라이턴 5, 크리스털 팰리스 0. 골: 4분 제이디 캔보의 자책골, 7분 디에고 고메스가 자기 진영에서, 10분 야신 아야리, 49분 C. 코스툴라스, 84분 J. 힌셜우드. 전반 3-0. 브라이턴은 3위, 승점 16, 골득실 +18. 리즈 1-1 맨체스터 유나이티드: 35분 브라이언 음베우모, 51분 도미닉 칼버트-르윈. 유나이티드는 7경기 1승, 13위 승점 7. 본머스는 선덜랜드를 2-0으로 이겼다. 6분 마커스 태버니어, 48분 에바닐손, 리그 첫 승. 토요일은 같은 표에서: 시티 3-2 입스위치, 에버턴 0-2 첼시, 브렌트퍼드 1-2 리버풀, 뉴캐슬 0-1 애스턴 빌라, 풀럼 1-0 헐. 시티는 7승으로 승점 21. 리버풀은 5위 12점. 첼시는 4위 13점."
+    ]
+  },
+  "ar": {
+    "title": "اثنين البريميرليج: توتنهام يستضيف كوفنتري وما زال في القاع",
+    "subtitle": "الانطلاق 20:00 بتوقيت بريطانيا على ملعب توتنهام. لا نتيجة. سيتي يتصدر بـ21 نقطة. أرسنال على 18 بعد 1-0 عند فورست.",
+    "excerpt": "توتنهام العشرون برصيد 3 نقاط يلتقي كوفنتري بقيادة فرانك لامبارد، السادس عشر برصيد 6 نقاط. الأحد: أرسنال 1-0 عند فورست وبرايتون 5-0 على بالاس.",
+    "body": [
+      "الجولة 7 تنتهي الاثنين 19 أكتوبر عند الساعة 20:00 بتوقيت بريطانيا على ملعب توتنهام هوتسبر. FBref يترك نتيجة توتنهام ضد كوفنتري فارغة. هذا المكتب لا يخترع نتيجة. بعد الأحد تضع شينخوا توتنهام في المركز 20: 6 مباريات، 0 فوز، 3 تعادلات، 3 هزائم، 3 أهداف له، 9 عليه، 3 نقاط. كوفنتري في المركز 16: 6 مباريات، فوزان، 4 هزائم، 5 له، 11 عليه، 6 نقاط. فرانك لامبارد مدرب كوفنتري.",
+      "نوتينغهام فورست 0، أرسنال 1. سجل نوني مادويكي في الدقيقة 80. ذكرت وكالة الصحافة الفرنسية أنه التسديدة الوحيدة على المرمى لأرسنال، وأن موريلو اقترب في الوقت بدل الضائع. أرسنال ثان برصيد 18 نقطة (6-0-1)، بفارق ثلاث عن مانشستر سيتي.",
+      "برايتون 5، كريستال بالاس 0. الأهداف: هدف عكسي لجايدي كانفوت في الدقيقة 4، دييغو غوميز في 7 من نصف ملعبه، ياسين أياري في 10، C. كوستولاس في 49، J. هينشيلوود في 84. الشوط الأول 3-0. برايتون ثالث برصيد 16 نقطة وفارق +18. ليدز 1-1 مانشستر يونايتد: براين مبيومو في 35 ودومينيك كالفيرت-لوين في 51. يونايتد يملك فوزا واحدا في سبع مباريات ويجلس 13 برصيد 7 نقاط. بورنموث فاز على سندرلاند 2-0، ماركوس تافيرنيير في 6 وإيفانيلسون في 48، أول فوز في الدوري. السبت من الجدول نفسه: سيتي 3-2 إبسويتش، إيفرتون 0-2 تشيلسي، برينتفورد 1-2 ليفربول، نيوكاسل 0-1 أستون فيلا، فولهام 1-0 هال. سيتي على 21 نقطة من سبعة انتصارات. ليفربول خامس برصيد 12. تشيلسي رابع برصيد 13."
+    ]
+  }
+},
+"wnba-finals-2026-game2-eve-dream-at-valkyries": {
+  "fr": {
+    "title": "Finales WNBA, match 2 : le Dream revient au Chase Center, série 1-0",
+    "subtitle": "Coup d'envoi à 20 h 00 ET sur USA, Peacock et CNBC. Pas de score. Le match 1 s'est fini 68-64 pour les Valkyries.",
+    "excerpt": "Golden State mène 1-0 après une victoire 68-64 samedi. Le match 2 est lundi au Chase Center. Il n'a pas été joué.",
+    "body": [
+      "L'Atlanta Dream se déplace lundi 19 octobre chez les Golden State Valkyries pour le match 2. ESPN et le calendrier WNBA indiquent 20 h 00 ET au Chase Center de San Francisco, sur USA Network, Peacock et CNBC. La WNBA donne Golden State en tête 1-0. Ce bureau ne publie pas de score pour le match 2. Le match 3 est mercredi 21 octobre à 20 h 00 ET au State Farm Arena d'Atlanta.",
+      "ESPN et CBS Sports donnent le match 1 : Valkyries 68, Dream 64, samedi 17 octobre au Chase Center. CBS : Gabby Williams 26 points, le banc de Golden State 20 points. Angel Reese a fini avec 14 points et 12 rebonds, sans panier en seconde mi-temps. Allisha Gray, autorisée à jouer avec une blessure à la main, a mené Atlanta avec 19 points.",
+      "La série est donc Golden State 1, Atlanta 0. Une ancienne carte MatchTales en 82-76 est retirée. Le chiffre de ce soir est 68-64, et le match 2 reste à jouer."
+    ]
+  },
+  "es": {
+    "title": "Finales WNBA, Juego 2: el Dream vuelve al Chase Center, serie 1-0",
+    "subtitle": "El salto es a las 8:00 p.m. ET por USA, Peacock y CNBC. Sin marcador. El Juego 1 fue Valkyries 68, Dream 64.",
+    "excerpt": "Golden State lidera 1-0 tras ganar 68-64 el sábado. El Juego 2 es el lunes en el Chase Center y no se ha jugado.",
+    "body": [
+      "El Atlanta Dream visita el lunes 19 de octubre a las Golden State Valkyries en el Juego 2. ESPN y el calendario de la WNBA ponen el salto a las 8:00 p.m. ET en el Chase Center de San Francisco, por USA Network, Peacock y CNBC. La WNBA tiene a Golden State arriba 1-0. Esta mesa no publica un marcador del Juego 2. El Juego 3 es el miércoles 21 de octubre a las 8:00 p.m. ET en el State Farm Arena de Atlanta.",
+      "ESPN y CBS Sports dan el Juego 1: Valkyries 68, Dream 64, el sábado 17 de octubre en el Chase Center. CBS: Gabby Williams 26 puntos y la banca de Golden State 20. Angel Reese acabó con 14 puntos y 12 rebotes, sin anotar en la segunda mitad. Allisha Gray, habilitada pese a una lesión en la mano, lideró a Atlanta con 19 puntos.",
+      "La serie es Golden State 1, Atlanta 0. Una ficha antigua de MatchTales con 82-76 queda retirada. El número de esta noche es 68-64, y el Juego 2 sigue sin jugarse."
+    ]
+  },
+  "de": {
+    "title": "WNBA Finals, Spiel 2: die Dream zurück im Chase Center, Serie 1:0",
+    "subtitle": "Anwurf 20:00 ET auf USA, Peacock und CNBC. Kein Spielstand. Spiel 1 endete 68:64 für die Valkyries.",
+    "excerpt": "Golden State führt 1:0 nach dem 68:64 vom Samstag. Spiel 2 ist am Montag im Chase Center und wurde nicht gespielt.",
+    "body": [
+      "Die Atlanta Dream gastiert am Montag, 19. Oktober, bei den Golden State Valkyries in Spiel 2. ESPN und der WNBA-Kalender nennen 20:00 ET im Chase Center in San Francisco, auf USA Network, Peacock und CNBC. Die WNBA führt Golden State mit 1:0. Dieser Desk setzt keinen Spielstand für Spiel 2. Spiel 3 ist am Mittwoch, 21. Oktober, um 20:00 ET in der State Farm Arena in Atlanta.",
+      "ESPN und CBS Sports nennen Spiel 1: Valkyries 68, Dream 64, Samstag, 17. Oktober, im Chase Center. CBS: Gabby Williams 26 Punkte, die Bank von Golden State 20. Angel Reese kam auf 14 Punkte und 12 Rebounds und blieb in der zweiten Halbzeit ohne Korb. Allisha Gray, trotz einer Handverletzung freigegeben, führte Atlanta mit 19 Punkten an.",
+      "Die Serie steht Golden State 1, Atlanta 0. Eine ältere MatchTales-Karte mit 82:76 ist zurückgezogen. Die Zahl heute Abend ist 68:64, und Spiel 2 ist noch offen."
+    ]
+  },
+  "it": {
+    "title": "Finali WNBA, gara 2: le Dream tornano al Chase Center, serie 1-0",
+    "subtitle": "La palla a due è alle 20:00 ET su USA, Peacock e CNBC. Nessun punteggio. Gara 1 è finita 68-64 per le Valkyries.",
+    "excerpt": "Golden State conduce 1-0 dopo il 68-64 di sabato. Gara 2 è lunedì al Chase Center e non è stata giocata.",
+    "body": [
+      "Le Atlanta Dream visitano lunedì 19 ottobre le Golden State Valkyries in gara 2. ESPN e il calendario WNBA indicano le 20:00 ET al Chase Center di San Francisco, su USA Network, Peacock e CNBC. La WNBA dà Golden State avanti 1-0. Questa redazione non pubblica un punteggio di gara 2. Gara 3 è mercoledì 21 ottobre alle 20:00 ET alla State Farm Arena di Atlanta.",
+      "ESPN e CBS Sports danno gara 1: Valkyries 68, Dream 64, sabato 17 ottobre al Chase Center. CBS: Gabby Williams 26 punti, la panchina di Golden State 20. Angel Reese ha chiuso con 14 punti e 12 rimbalzi, a secco nel secondo tempo. Allisha Gray, autorizzata a giocare con un infortunio alla mano, ha guidato Atlanta con 19 punti.",
+      "La serie è Golden State 1, Atlanta 0. Una vecchia scheda MatchTales da 82-76 è ritirata. Il numero di stasera è 68-64, e gara 2 è ancora da giocare."
+    ]
+  },
+  "pl": {
+    "title": "Finały WNBA, mecz 2: Dream wraca do Chase Center, seria 1-0",
+    "subtitle": "Początek o 20:00 ET na USA, Peacock i CNBC. Brak wyniku. Mecz 1 skończył się 68-64 dla Valkyries.",
+    "excerpt": "Golden State prowadzi 1-0 po sobotnim 68-64. Mecz 2 jest w poniedziałek w Chase Center i nie został rozegrany.",
+    "body": [
+      "Atlanta Dream jedzie w poniedziałek 19 października do Golden State Valkyries na mecz 2. ESPN i terminarz WNBA podają 20:00 ET w Chase Center w San Francisco, na USA Network, Peacock i CNBC. WNBA daje Golden State prowadzenie 1-0. To biuro nie publikuje wyniku meczu 2. Mecz 3 jest w środę 21 października o 20:00 ET w State Farm Arena w Atlancie.",
+      "ESPN i CBS Sports podają mecz 1: Valkyries 68, Dream 64, sobota 17 października w Chase Center. CBS: Gabby Williams 26 punktów, ławka Golden State 20. Angel Reese skończyła z 14 punktami i 12 zbiórkami, bez punktu w drugiej połowie. Allisha Gray, dopuszczona do gry z kontuzją ręki, poprowadziła Atlantę z 19 punktami.",
+      "Seria to Golden State 1, Atlanta 0. Starsza karta MatchTales z wynikiem 82-76 jest wycofana. Liczba na dziś wieczór to 68-64, a mecz 2 wciąż przed nami."
+    ]
+  },
+  "zh": {
+    "title": "WNBA总决赛第二场：梦想回到大通中心，系列赛1-0",
+    "subtitle": "跳球美东晚8:00，USA、Peacock与CNBC转播。无比分。第一场是女武神68-64。",
+    "excerpt": "金州在周六68-64取胜后以1-0领先。第二场是周一在大通中心，比赛尚未进行。",
+    "body": [
+      "亚特兰大梦想将在10月19日周一客场挑战金州女武神，这是总决赛第二场。ESPN与WNBA赛程列出跳球时间为美东晚8:00，地点旧金山大通中心，转播为USA Network、Peacock与CNBC。WNBA显示金州系列赛1-0领先。本报不刊登第二场比分。第三场是10月21日周三美东晚8:00，在亚特兰大州立农场球馆。",
+      "ESPN与CBS都把第一场记为10月17日周六大通中心：女武神68，梦想64。CBS报道加比·威廉姆斯得到26分，金州替补得到20分。安杰尔·里斯14分12篮板，下半场没有得分。阿莉沙·格雷带着手伤获准出战，以19分领衔亚特兰大。",
+      "系列赛是金州1，亚特兰大0。旧卡片上的82-76已经撤回。今晚页面上的数字是68-64，第二场仍未开打。"
+    ]
+  },
+  "ja": {
+    "title": "WNBAファイナル第2戦: ドリームがチェイス・センターに戻り、シリーズ1勝0敗",
+    "subtitle": "ティップは東部午後8時、USA、Peacock、CNBC。スコアなし。第1戦はヴァルキリーズ68-64。",
+    "excerpt": "ゴールデンステートは土曜の68-64のあと1勝0敗。第2戦は月曜のチェイス・センターで、まだ行われていない。",
+    "body": [
+      "アトランタ・ドリームは10月19日月曜、ゴールデンステート・ヴァルキリーズを第2戦で訪れる。ESPNとWNBAの日程は東部午後8時、サンフランシスコのチェイス・センター、USA Network、Peacock、CNBCとしている。WNBAはゴールデンステートの1勝0敗リードを記す。このデスクは第2戦のスコアを出さない。第3戦は10月21日水曜、東部午後8時、アトランタのステートファーム・アリーナ。",
+      "ESPNとCBS Sportsは第1戦を10月17日土曜、チェイス・センターでヴァルキリーズ68、ドリーム64としている。CBSはギャビー・ウィリアムズが26得点、ゴールデンステートのベンチが20得点と伝えた。エンジェル・リースは14得点12リバウンドで、後半は無得点。手のけがから出場が認められたアリシャ・グレイがアトランタを19得点で引っ張った。",
+      "シリーズはゴールデンステート1、アトランタ0。古い82-76のカードは撤回する。今夜の数字は68-64で、第2戦はまだこれからだ。"
+    ]
+  },
+  "ko": {
+    "title": "WNBA 파이널 2차전: 드림이 체이스 센터로, 시리즈 1-0",
+    "subtitle": "팁오프는 동부 오후 8시, USA, Peacock, CNBC. 스코어 없음. 1차전은 발키리스 68-64.",
+    "excerpt": "골든스테이트가 토요일 68-64 승리 뒤 1-0으로 앞선다. 2차전은 월요일 체이스 센터이며 아직 열리지 않았다.",
+    "body": [
+      "애틀랜타 드림은 10월 19일 월요일 골든스테이트 발키리스와 2차전을 치른다. ESPN과 WNBA 일정은 동부 오후 8시, 샌프란시스코 체이스 센터, USA Network, Peacock, CNBC로 적는다. WNBA는 골든스테이트의 1-0 리드를 표시한다. 이 데스크는 2차전 스코어를 내지 않는다. 3차전은 10월 21일 수요일 동부 오후 8시, 애틀랜타 스테이트팜 아레나다.",
+      "ESPN과 CBS Sports는 1차전을 10월 17일 토요일 체이스 센터, 발키리스 68, 드림 64로 적는다. CBS는 개비 윌리엄스가 26점, 골든스테이트 벤치가 20점을 넣었다고 전했다. 앤젤 리스는 14점 12리바운드였고 후반에는 득점이 없었다. 손 부상에도 출전 허가를 받은 앨리샤 그레이가 19점으로 애틀랜타를 이끌었다.",
+      "시리즈는 골든스테이트 1, 애틀랜타 0이다. 예전의 82-76 카드는 철회한다. 오늘 밤의 숫자는 68-64이고, 2차전은 아직 남아 있다."
+    ]
+  },
+  "ar": {
+    "title": "نهائيات WNBA المباراة 2: دريم تعود إلى تشيس سنتر والسلسلة 1-0",
+    "subtitle": "البداية 8:00 مساء بتوقيت الشرق على USA وPeacock وCNBC. لا نتيجة. المباراة 1 انتهت 68-64 لفالكيريز.",
+    "excerpt": "غولدن ستيت تتقدم 1-0 بعد فوز 68-64 يوم السبت. المباراة 2 يوم الاثنين في تشيس سنتر ولم تُلعب.",
+    "body": [
+      "أتلانتا دريم تزور الاثنين 19 أكتوبر غولدن ستيت فالكيريز في المباراة 2. ESPN وجدول WNBA يضعان البداية عند 8:00 مساء بتوقيت الشرق في تشيس سنتر بسان فرانسيسكو، على USA Network وPeacock وCNBC. WNBA تعطي غولدن ستيت التقدم 1-0. هذا المكتب لا ينشر نتيجة للمباراة 2. المباراة 3 يوم الأربعاء 21 أكتوبر عند 8:00 مساء بتوقيت الشرق في ستيت فارم أرينا بأتلانتا.",
+      "ESPN وCBS Sports تضعان المباراة 1: فالكيريز 68، دريم 64، السبت 17 أكتوبر في تشيس سنتر. CBS: غابي ويليامز 26 نقطة ودكة غولدن ستيت 20 نقطة. أنهت أنجل ريس بـ14 نقطة و12 متابعة وبلا نقاط في الشوط الثاني. أليشا غراي، المسموح لها باللعب رغم إصابة في اليد، قادت أتلانتا بـ19 نقطة.",
+      "السلسلة إذن غولدن ستيت 1، أتلانتا 0. بطاقة MatchTales القديمة بنتيجة 82-76 سُحبت. الرقم الليلة هو 68-64، والمباراة 2 لم تُلعب بعد."
+    ]
+  }
+},
+"shanghai-masters-2026-final-davidovich-fokina-beats-jodar": {
+  "fr": {
+    "title": "Finale du Masters de Shanghai : Davidovich Fokina bat Jodar",
+    "subtitle": "Résultat ATP : 1-6, 7-6(5), 6-4 sur le Stadium Court. La finale 100 % espagnole a suivi les chutes de Zverev et Medvedev.",
+    "excerpt": "Alejandro Davidovich Fokina a remporté le Rolex Shanghai Masters en battant Rafael Jodar 1-6, 7-6(5), 6-4. Alexander Zverev reste le n° 1 de fin d'année.",
+    "body": [
+      "La page des résultats ATP pour le dimanche 18 octobre donne la finale du Rolex Shanghai Masters terminée en 2 heures 27 minutes sur le Stadium Court. Alejandro Davidovich Fokina, tête de série n° 25, a battu Rafael Jodar, tête de série n° 12, 1-6, 7-6(5), 6-4. Arbitre : Greg Allensworth. C'est une finale entre Espagnols parce que les demies de samedi n'ont pas suivi le tableau. Davidovich Fokina a battu Alexander Zverev 5-7, 6-4, 6-3 en 2 heures 2 minutes. Jodar a battu Daniil Medvedev 6-3, 6-4 en 1 heure 44 minutes. Jodar, 20 ans, est le plus jeune finaliste de l'histoire du tournoi et jouait sa première finale en Masters 1000. Il a commencé l'année 168e et est désormais 13e.",
+      "Zverev reste le n° 1 mondial de fin d'année. Il a gagné Roland-Garros et l'US Open, et Jannik Sinner est absent pour le reste de la saison. Après la demie, il a dit qu'une pause était nécessaire et qu'il vérifierait sa forme avant Vienne, qui commence le 24 octobre. Medvedev, champion à Shanghai en 2019, n'a pas eu la revanche que l'avant-papier avait prévue. Le trophée est allé à Davidovich Fokina, dans sa deuxième finale de Masters 1000 après une place de finaliste à Monte-Carlo en 2022."
+    ]
+  },
+  "es": {
+    "title": "Final del Masters de Shanghái: Davidovich Fokina vence a Jodar",
+    "subtitle": "Resultado ATP: 1-6, 7-6(5), 6-4 en la Stadium Court. La final fue toda española tras las caídas de Zverev y Medvedev.",
+    "excerpt": "Alejandro Davidovich Fokina ganó el Rolex Shanghai Masters al vencer a Rafael Jodar por 1-6, 7-6(5) y 6-4. Alexander Zverev sigue siendo el número 1 de fin de año.",
+    "body": [
+      "La página de resultados de la ATP del domingo 18 de octubre da por terminada la final del Rolex Shanghai Masters en 2 horas y 27 minutos en la Stadium Court. Alejandro Davidovich Fokina, cabeza de serie 25, venció a Rafael Jodar, cabeza de serie 12, por 1-6, 7-6(5) y 6-4. Árbitro: Greg Allensworth. Es una final entre españoles porque las semifinales del sábado no siguieron el cuadro. Davidovich Fokina venció a Alexander Zverev por 5-7, 6-4 y 6-3 en 2 horas y 2 minutos. Jodar venció a Daniil Medvedev por 6-3 y 6-4 en 1 hora y 44 minutos. Jodar, de 20 años, fue el finalista más joven en la historia del torneo y jugaba su primera final de Masters 1000. Empezó el año como 168 y ahora es el 13.",
+      "Zverev sigue siendo el número 1 de fin de año. Ganó Roland Garros y el US Open, y Jannik Sinner está fuera el resto de la temporada. Tras la semifinal dijo que un descanso era necesario y que revisaría su estado antes de Viena, que empieza el 24 de octubre. Medvedev, campeón en Shanghái en 2019, no tuvo la revancha que el previo había apuntado. El trofeo fue para Davidovich Fokina, en su segunda final de Masters 1000 después de ser subcampeón en Montecarlo en 2022."
+    ]
+  },
+  "de": {
+    "title": "Shanghai-Masters-Finale: Davidovich Fokina schlägt Jodar",
+    "subtitle": "ATP-Ergebnis: 1:6, 7:6(5), 6:4 auf dem Stadium Court. Das rein spanische Finale folgte den Niederlagen von Zverev und Medvedev.",
+    "excerpt": "Alejandro Davidovich Fokina gewann die Rolex Shanghai Masters gegen Rafael Jodar mit 1:6, 7:6(5), 6:4. Alexander Zverev bleibt die Nummer 1 zum Jahresende.",
+    "body": [
+      "Die ATP-Ergebnisse vom Sonntag, 18. Oktober, führen das Finale der Rolex Shanghai Masters als beendet nach 2 Stunden 27 Minuten auf dem Stadium Court. Alejandro Davidovich Fokina, gesetzt als 25, besiegte Rafael Jodar, gesetzt als 12, mit 1:6, 7:6(5), 6:4. Schiedsrichter: Greg Allensworth. Es ist ein Finale unter Spaniern, weil die Halbfinals vom Samstag nicht nach Setzliste liefen. Davidovich Fokina besiegte Alexander Zverev 5:7, 6:4, 6:3 in 2 Stunden 2 Minuten. Jodar besiegte Daniil Medvedev 6:3, 6:4 in 1 Stunde 44 Minuten. Jodar, 20, war der jüngste Finalist der Turniergeschichte und spielte sein erstes Masters-1000-Finale. Er begann das Jahr als 168. und steht jetzt auf 13.",
+      "Zverev bleibt die Nummer 1 zum Jahresende. Er gewann die French Open und die US Open, und Jannik Sinner fehlt für den Rest der Saison. Nach dem Halbfinale sagte er, eine Pause sei nötig, und er werde seine Fitness vor Wien prüfen, das am 24. Oktober beginnt. Medvedev, Shanghaier Champion von 2019, bekam das im Vorbericht skizzierte Rückspiel nicht. Die Trophäe ging an Davidovich Fokina, in seinem zweiten Masters-1000-Finale nach dem verlorenen Endspiel von Monte Carlo 2022."
+    ]
+  },
+  "it": {
+    "title": "Finale dello Shanghai Masters: Davidovich Fokina batte Jodar",
+    "subtitle": "Risultato ATP: 1-6, 7-6(5), 6-4 sullo Stadium Court. La finale tutta spagnola è arrivata dopo le uscite di Zverev e Medvedev.",
+    "excerpt": "Alejandro Davidovich Fokina ha vinto il Rolex Shanghai Masters battendo Rafael Jodar 1-6, 7-6(5), 6-4. Alexander Zverev resta il numero 1 di fine anno.",
+    "body": [
+      "La pagina dei risultati ATP di domenica 18 ottobre dà la finale del Rolex Shanghai Masters chiusa in 2 ore e 27 minuti sullo Stadium Court. Alejandro Davidovich Fokina, testa di serie numero 25, ha battuto Rafael Jodar, testa di serie numero 12, 1-6, 7-6(5), 6-4. Arbitro: Greg Allensworth. È una finale tra spagnoli perché le semifinali di sabato non hanno seguito il tabellone. Davidovich Fokina ha battuto Alexander Zverev 5-7, 6-4, 6-3 in 2 ore e 2 minuti. Jodar ha battuto Daniil Medvedev 6-3, 6-4 in 1 ora e 44 minuti. Jodar, 20 anni, è stato il più giovane finalista nella storia del torneo e giocava la sua prima finale di Masters 1000. Ha iniziato l'anno al numero 168 e ora è 13.",
+      "Zverev resta il numero 1 di fine anno. Ha vinto il Roland Garros e lo US Open, e Jannik Sinner è fuori per il resto della stagione. Dopo la semifinale ha detto che una pausa era necessaria e che avrebbe controllato la condizione prima di Vienna, che inizia il 24 ottobre. Medvedev, campione a Shanghai nel 2019, non ha avuto la rivincita che l'anteprima aveva messo in agenda. Il trofeo è andato a Davidovich Fokina, alla sua seconda finale di Masters 1000 dopo il secondo posto a Monte Carlo nel 2022."
+    ]
+  },
+  "pl": {
+    "title": "Finał Shanghai Masters: Davidovich Fokina pokonuje Jodara",
+    "subtitle": "Wynik ATP: 1-6, 7-6(5), 6-4 na Stadium Court. Finał Hiszpanów przyszedł po odpadnięciu Zvereva i Miedwiediewa.",
+    "excerpt": "Alejandro Davidovich Fokina wygrał Rolex Shanghai Masters, pokonując Rafaela Jodara 1-6, 7-6(5), 6-4. Alexander Zverev zostaje numerem 1 na koniec roku.",
+    "body": [
+      "Strona wyników ATP z niedzieli 18 października podaje finał Rolex Shanghai Masters jako skończony w 2 godziny 27 minut na Stadium Court. Alejandro Davidovich Fokina, rozstawiony z numerem 25, pokonał Rafaela Jodara, rozstawionego z numerem 12, 1-6, 7-6(5), 6-4. Sędzia: Greg Allensworth. To finał Hiszpanów, bo sobotnie półfinały nie poszły po rozstawieniu. Davidovich Fokina pokonał Alexandra Zvereva 5-7, 6-4, 6-3 w 2 godziny 2 minuty. Jodar pokonał Daniiła Miedwiediewa 6-3, 6-4 w 1 godzinę 44 minuty. Jodar, lat 20, był najmłodszym finalistą w historii turnieju i grał swój pierwszy finał Masters 1000. Rok zaczął jako 168. i jest teraz 13.",
+      "Zverev zostaje numerem 1 na koniec roku. Wygrał French Open i US Open, a Jannik Sinner jest poza grą do końca sezonu. Po półfinale powiedział, że przerwa jest konieczna i że sprawdzi formę przed Wiedniem, który zaczyna się 24 października. Miedwiediew, mistrz Szanghaju z 2019, nie dostał rewanżu, który zapowiadał tekst przed meczem. Puchar trafił do Davidovicha Fokiny, w jego drugim finale Masters 1000 po finale Monte Carlo w 2022."
+    ]
+  },
+  "zh": {
+    "title": "上海大师赛决赛：达维多维奇·福基纳击败霍达尔",
+    "subtitle": "ATP赛果：中央球场1-6、7-6(5)、6-4。这是一场西班牙德比决赛，因为兹维列夫和梅德韦杰夫都在半决赛出局。",
+    "excerpt": "亚历杭德罗·达维多维奇·福基纳赢得劳力士上海大师赛，以1-6、7-6(5)、6-4击败拉斐尔·霍达尔。亚历山大·兹维列夫仍是年终世界第一。",
+    "body": [
+      "ATP赛果页显示，10月18日周日的劳力士上海大师赛决赛在中央球场打完，用时2小时27分。25号种子亚历杭德罗·达维多维奇·福基纳以1-6、7-6(5)、6-4击败12号种子拉斐尔·霍达尔。主裁：格雷格·阿伦斯沃思。这是一场西班牙选手之间的决赛，因为周六的半决赛没有按种子进行。达维多维奇·福基纳以5-7、6-4、6-3击败亚历山大·兹维列夫，用时2小时2分。霍达尔以6-3、6-4击败丹尼尔·梅德韦杰夫，用时1小时44分。20岁的霍达尔是赛事历史上最年轻的决赛选手，也是他的首个大师赛1000决赛。他本赛季初排名第168，现在大约第13。",
+      "兹维列夫仍是年终世界第一。他赢得了法网和美网，扬尼克·辛纳本赛季剩余赛事缺席。半决赛后他告诉记者需要休息，并会在10月24日开始的维也纳站之前检查身体。2019年上海冠军梅德韦杰夫没有等到预告里的那场重赛。奖杯给了达维多维奇·福基纳。这是他的第二个大师赛1000决赛，上一次是2022年蒙特卡洛亚军。"
+    ]
+  },
+  "ja": {
+    "title": "上海マスターズ決勝: ダビドビッチ・フォキナがホダルを破る",
+    "subtitle": "ATPの結果はスタジアムコートで1-6, 7-6(5), 6-4。ズベレフとメドベージェフが落ちたあとのスペイン勢同士の決勝。",
+    "excerpt": "アレハンドロ・ダビドビッチ・フォキナがロレックス上海マスターズを制し、ラファエル・ホダルを1-6, 7-6(5), 6-4で下した。アレクサンダー・ズベレフは年間1位のまま。",
+    "body": [
+      "ATPの結果ページは10月18日日曜のロレックス上海マスターズ決勝を、スタジアムコートで2時間27分で終了と記す。第25シードのアレハンドロ・ダビドビッチ・フォキナが第12シードのラファエル・ホダルを1-6, 7-6(5), 6-4で破った。主審はグレッグ・アレンズワース。土曜の準決勝がシード通りに進まなかったため、スペイン勢同士の決勝になった。ダビドビッチ・フォキナはアレクサンダー・ズベレフを5-7, 6-4, 6-3で下し、2時間2分。ホダルはダニール・メドベージェフを6-3, 6-4で下し、1時間44分。20歳のホダルは大会史上最年少の決勝進出者で、マスターズ1000の決勝は初めて。年初は168位で、今は13位前後だ。",
+      "ズベレフは年間世界1位のまま。全仏と全米を勝ち、ヤニック・シナーは残りのシーズンを欠場する。準決勝後、休息が必要で、10月24日に始まるウィーンの前に状態を確認すると話した。2019年の上海王者メドベージェフは、事前展望が書いていた再戦にはならなかった。トロフィーはダビドビッチ・フォキナへ。マスターズ1000の決勝は、2022年モンテカルロ準優勝以来2度目だ。"
+    ]
+  },
+  "ko": {
+    "title": "상하이 마스터스 결승: 다비도비치 포키나가 호다르를 꺾다",
+    "subtitle": "ATP 결과: 스타디움 코트 1-6, 7-6(5), 6-4. 츠베레프와 메드베데프가 떨어진 뒤의 스페인 결승.",
+    "excerpt": "알레한드로 다비도비치 포키나가 롤렉스 상하이 마스터스에서 라파엘 호다르를 1-6, 7-6(5), 6-4로 이기고 우승했다. 알렉산더 츠베레프는 연말 1위다.",
+    "body": [
+      "ATP 결과 페이지는 10월 18일 일요일 롤렉스 상하이 마스터스 결승을 스타디움 코트에서 2시간 27분 만에 끝난 것으로 적는다. 25번 시드 알레한드로 다비도비치 포키나가 12번 시드 라파엘 호다르를 1-6, 7-6(5), 6-4로 이겼다. 심판은 그레그 앨런스워스. 토요일 준결승이 시드대로 가지 않아 스페인 선수들의 결승이 됐다. 다비도비치 포키나는 알렉산더 츠베레프를 5-7, 6-4, 6-3으로 꺾었고 2시간 2분이 걸렸다. 호다르는 다닐 메드베데프를 6-3, 6-4로 꺾었고 1시간 44분이 걸렸다. 20세 호다르는 대회 역사상 최연소 결승 진출자이고, 마스터스 1000 결승은 처음이다. 시즌 초 168위였고 지금은 13위 근처다.",
+      "츠베레프는 연말 세계 1위로 남는다. 프랑스 오픈과 US 오픈을 우승했고, 야닉 시너는 시즌 나머지를 쉰다. 준결승 뒤 휴식이 필요하고, 10월 24일에 시작하는 빈 대회 전에 몸 상태를 확인하겠다고 말했다. 2019년 상하이 챔피언 메드베데프는 예고편이 적어 둔 재대결을 하지 못했다. 트로피는 다비도비치 포키나에게 갔다. 마스터스 1000 결승은 2022년 몬테카를로 준우승 이후 두 번째다."
+    ]
+  },
+  "ar": {
+    "title": "نهائي ماسترز شنغهاي: دافيدوفيتش فوكينا يهزم خودار",
+    "subtitle": "نتيجة ATP: 1-6 و7-6(5) و6-4 على الملعب الرئيسي. نهائي إسباني بعد خروج زفيريف وميدفيديف.",
+    "excerpt": "فاز أليخاندرو دافيدوفيتش فوكينا بلقب رولكس شنغهاي بعد الفوز على رافاييل خودار 1-6 و7-6(5) و6-4. ألكسندر زفيريف يبقى الأول في نهاية العام.",
+    "body": [
+      "صفحة نتائج ATP ليوم الأحد 18 أكتوبر تضع نهائي رولكس شنغهاي منتهيا خلال ساعتين و27 دقيقة على الملعب الرئيسي. أليخاندرو دافيدوفيتش فوكينا، المصنف 25، هزم رافاييل خودار، المصنف 12، بنتيجة 1-6 و7-6(5) و6-4. الحكم: غريغ ألينزوورث. النهائي إسباني لأن نصف نهائي السبت لم يسر وفق التصنيف. دافيدوفيتش فوكينا هزم ألكسندر زفيريف 5-7 و6-4 و6-3 خلال ساعتين ودقيقتين. خودار هزم دانييل ميدفيديف 6-3 و6-4 خلال ساعة و44 دقيقة. خودار، 20 عاما، أصغر متأهل لنهائي شنغهاي في تاريخ البطولة، وكان يلعب أول نهائي له في فئة الماسترز 1000. بدأ العام في المركز 168 وهو الآن قرب المركز 13.",
+      "زفيريف يبقى الأول عالميا في نهاية العام. فاز برولان غاروس وأمريكا المفتوحة، ويانيك سينر غائب لبقية الموسم. بعد نصف النهائي قال إن الاستراحة ضرورية وإنه سيراجع لياقته قبل فيينا التي تبدأ في 24 أكتوبر. ميدفيديف، بطل شنغهاي 2019، لم يحصل على الإعادة التي رسمتها المعاينة. الكأس ذهب إلى دافيدوفيتش فوكينا، في نهائي الماسترز 1000 الثاني له بعد وصافة مونتي كارلو 2022."
+    ]
+  }
+},
+"pga-tour-bermuda-field-set-monday-2026": {
+  "fr": {
+    "title": "Le champ des Bermudes est fixé : 120 joueurs, pas de tour lundi",
+    "subtitle": "Port Royal ouvre jeudi 22 octobre. Dotation de 6 millions de dollars. Tenant du titre : Adam Schenk. Le succès de Brennan à 16 sous le par tient toujours.",
+    "excerpt": "Pas de tour PGA le 19 octobre. Le Butterfield Bermuda Championship est verrouillé à 120 joueurs, avec cinq anciens vainqueurs et un départ jeudi à Port Royal.",
+    "body": [
+      "Le lundi 19 octobre n'est pas un jour de compétition sur le PGA Tour. Le Butterfield Bermuda Championship commence jeudi 22 octobre et finit dimanche 25 octobre au Port Royal Golf Course de Southampton. C'est la huitième édition. Le PGA Tour annonce 120 joueurs, une dotation de 6 millions de dollars, 1,08 million pour le vainqueur et 500 points FedExCup. Le cut est les 65 meilleurs et égalités après 36 trous. Golf Channel commence la couverture du premier tour jeudi à 13 h 00 ET. Il n'y a pas de leader lundi sur ce bureau.",
+      "Golfweek et le PGA Tour citent cinq anciens vainqueurs au départ : Brendon Todd (2019), Seamus Power (2022), Camilo Villegas (2023), Rafael Campos (2024) et Adam Schenk, tenant du titre 2025. Golf Channel note qu'Austin Lemieux, 30 ans, fils de Mario Lemieux, s'est qualifié par un tournoi ouvert et fera ses débuts sur le PGA Tour. Miles Russell figure parmi les amateurs. Le titre de Michael Brennan au Baycurrent Classic, à 16 sous le par, tient toujours. Keith Mitchell et Jacob Bridgeman étaient deuxièmes ex aequo à 15 sous le par. Cette épreuve est close."
+    ]
+  },
+  "es": {
+    "title": "El campo de Bermudas está cerrado: 120 jugadores, sin vuelta el lunes",
+    "subtitle": "Port Royal abre el jueves 22 de octubre. Bolsa de 6 millones de dólares. Defiende Adam Schenk. El título de Brennan a 16 bajo par sigue en pie.",
+    "excerpt": "El PGA Tour no tiene vuelta el 19 de octubre. El Butterfield Bermuda Championship queda en 120 jugadores, con cinco campeones anteriores y salida el jueves en Port Royal.",
+    "body": [
+      "El lunes 19 de octubre no es día de competición en el PGA Tour. El Butterfield Bermuda Championship empieza el jueves 22 de octubre y acaba el domingo 25 en Port Royal Golf Course, Southampton. Es la octava edición. El PGA Tour lista 120 jugadores, una bolsa de 6 millones de dólares, 1,08 millones para el ganador y 500 puntos FedExCup. El corte es los 65 mejores y empates tras 36 hoyos. Golf Channel empieza la primera ronda el jueves a la 1:00 p.m. ET. Esta mesa no tiene líder del lunes.",
+      "Golfweek y el PGA Tour citan cinco campeones anteriores: Brendon Todd (2019), Seamus Power (2022), Camilo Villegas (2023), Rafael Campos (2024) y Adam Schenk, defensor de 2025. Golf Channel señala que Austin Lemieux, de 30 años, hijo de Mario Lemieux, se clasificó por un torneo abierto y hará su debut en el PGA Tour. Miles Russell está entre los amateurs. El título de Michael Brennan en el Baycurrent Classic, a 16 bajo par, sigue en pie. Keith Mitchell y Jacob Bridgeman empataron en el segundo puesto a 15 bajo par. Ese torneo está cerrado."
+    ]
+  },
+  "de": {
+    "title": "Das Bermuda-Feld steht: 120 Spieler, am Montag keine Runde",
+    "subtitle": "Port Royal öffnet am Donnerstag, 22. Oktober. Dotierung 6 Millionen Dollar. Titelverteidiger Adam Schenk. Brennans Sieg mit 16 unter Par steht.",
+    "excerpt": "Am 19. Oktober gibt es keine PGA-Tour-Runde. Die Butterfield Bermuda Championship ist auf 120 Spieler geschlossen, mit fünf früheren Siegern und einem Start am Donnerstag in Port Royal.",
+    "body": [
+      "Montag, der 19. Oktober, ist kein Wettkampftag der PGA Tour. Die Butterfield Bermuda Championship beginnt am Donnerstag, 22. Oktober, und endet am Sonntag, 25. Oktober, auf dem Port Royal Golf Course in Southampton. Es ist die achte Austragung. Die PGA Tour nennt 120 Spieler, 6 Millionen Dollar Preisgeld, 1,08 Millionen für den Sieger und 500 FedExCup-Punkte. Der Cut sind die besten 65 und Geteilte nach 36 Löchern. Golf Channel beginnt die erste Runde am Donnerstag um 13:00 ET. Es gibt keinen Montagsführer auf diesem Desk.",
+      "Golfweek und die PGA Tour nennen fünf frühere Sieger im Feld: Brendon Todd (2019), Seamus Power (2022), Camilo Villegas (2023), Rafael Campos (2024) und Adam Schenk, Titelverteidiger von 2025. Golf Channel vermerkt, dass Austin Lemieux, 30, Sohn von Mario Lemieux, sich über ein offenes Qualifikationsturnier spielte und sein PGA-Tour-Debüt gibt. Miles Russell ist unter den Amateuren. Michael Brennans Sieg bei der Baycurrent Classic mit 16 unter Par steht. Keith Mitchell und Jacob Bridgeman teilten sich Platz zwei mit 15 unter Par. Das Turnier ist geschlossen."
+    ]
+  },
+  "it": {
+    "title": "Il campo delle Bermuda è chiuso: 120 giocatori, nessun giro lunedì",
+    "subtitle": "Port Royal apre giovedì 22 ottobre. Montepremi 6 milioni di dollari. Campione in carica Adam Schenk. Il titolo di Brennan a 16 sotto il par resta.",
+    "excerpt": "Il PGA Tour non ha un giro il 19 ottobre. Il Butterfield Bermuda Championship è fissato a 120 giocatori, con cinque vecchi campioni e il via giovedì a Port Royal.",
+    "body": [
+      "Lunedì 19 ottobre non è un giorno di gara del PGA Tour. Il Butterfield Bermuda Championship inizia giovedì 22 ottobre e finisce domenica 25 al Port Royal Golf Course di Southampton. È l'ottava edizione. Il PGA Tour indica 120 giocatori, un montepremi di 6 milioni di dollari, 1,08 milioni al vincitore e 500 punti FedExCup. Il taglio è i migliori 65 e i pari dopo 36 buche. Golf Channel apre il primo giro giovedì all'1:00 p.m. ET. Su questa redazione non c'è un leader di lunedì.",
+      "Golfweek e il PGA Tour citano cinque campioni precedenti: Brendon Todd (2019), Seamus Power (2022), Camilo Villegas (2023), Rafael Campos (2024) e Adam Schenk, detentore del 2025. Golf Channel nota che Austin Lemieux, 30 anni, figlio di Mario Lemieux, si è qualificato da un open e farà il suo debutto sul PGA Tour. Miles Russell è tra gli amatori. Il titolo di Michael Brennan al Baycurrent Classic, a 16 sotto il par, resta. Keith Mitchell e Jacob Bridgeman erano secondi a pari merito a 15 sotto il par. Quella gara è chiusa."
+    ]
+  },
+  "pl": {
+    "title": "Pole na Bermudach jest zamknięte: 120 graczy, w poniedziałek nie ma rundy",
+    "subtitle": "Port Royal startuje w czwartek 22 października. Pula 6 milionów dolarów. Obrońca tytułu Adam Schenk. Wygrana Brennana z wynikiem 16 poniżej par zostaje.",
+    "excerpt": "19 października nie ma rundy PGA Tour. Butterfield Bermuda Championship ma 120 graczy, pięciu dawnych zwycięzców i start w czwartek na Port Royal.",
+    "body": [
+      "Poniedziałek 19 października nie jest dniem gry PGA Tour. Butterfield Bermuda Championship zaczyna się w czwartek 22 października i kończy w niedzielę 25 października na Port Royal Golf Course w Southampton. To ósma edycja. PGA Tour podaje 120 graczy, pulę 6 milionów dolarów, 1,08 miliona dla zwycięzcy i 500 punktów FedExCup. Cut to najniższe 65 wyników i remisy po 36 dołkach. Golf Channel zaczyna relację z pierwszej rundy w czwartek o 13:00 ET. Na tym biurze nie ma lidera z poniedziałku.",
+      "Golfweek i PGA Tour wymieniają pięciu dawnych zwycięzców: Brendon Todd (2019), Seamus Power (2022), Camilo Villegas (2023), Rafael Campos (2024) i Adam Schenk, obrońca z 2025. Golf Channel zaznacza, że Austin Lemieux, lat 30, syn Mario Lemieux, wszedł przez turniej otwarty i zagra pierwszy raz na PGA Tour. Miles Russell jest wśród amatorów. Tytuł Michaela Brennana w Baycurrent Classic, 16 poniżej par, zostaje. Keith Mitchell i Jacob Bridgeman byli drudzy ex aequo z wynikiem 15 poniżej par. Tamten turniej jest zamknięty."
+    ]
+  },
+  "zh": {
+    "title": "百慕大赛名单已定：120人，周一无轮次",
+    "subtitle": "皇家港球场10月22日周四开赛。奖金600万美元。卫冕冠军亚当·申克。布伦南低于标准杆16杆的湾流赛冠军仍然有效。",
+    "excerpt": "10月19日美巡赛没有比赛。百慕大锦标赛锁定120人，五位往届冠军在列，周四在皇家港开球。",
+    "body": [
+      "10月19日周一不是美巡赛比赛日。百慕大锦标赛10月22日周四开赛，10月25日周日结束，地点南安普敦皇家港高尔夫球场，这是第八届。美巡赛列出120名球员、600万美元奖金、冠军108万美元、500点联邦快递杯积分。36洞后前65名及并列者晋级。高尔夫频道周四美东下午1:00开始转播第一轮。本报没有周一领先者。",
+      "Golfweek与美巡赛列出五位往届冠军：布伦登·托德（2019）、谢默斯·鲍尔（2022）、卡米洛·维列加斯（2023）、拉斐尔·坎波斯（2024），以及2025年卫冕冠军亚当·申克。高尔夫频道指出，30岁的奥斯汀·勒米厄是马里奥·勒米厄之子，通过公开资格赛获得参赛权，这将是他的美巡赛首秀。迈尔斯·拉塞尔在业余选手之列。迈克尔·布伦南在湾流精英赛低于标准杆16杆的冠军仍然有效。基思·米切尔与雅各布·布里奇曼以低于标准杆15杆并列第二。那场比赛已经结束。"
+    ]
+  },
+  "ja": {
+    "title": "バミューダの出場者は確定: 120人、月曜はラウンドなし",
+    "subtitle": "ポートロイヤルは10月22日木曜に開幕。賞金600万ドル。前回優勝はアダム・シェンク。ブレナンの16アンダー優勝は残る。",
+    "excerpt": "10月19日にPGAツアーのラウンドはない。バミューダ選手権は120人で確定し、過去の優勝者5人が入り、木曜にポートロイヤルで始まる。",
+    "body": [
+      "10月19日月曜はPGAツアーの競技日ではない。バミューダ選手権は10月22日木曜に始まり、10月25日日曜にサウサンプトンのポートロイヤル・ゴルフコースで終わる。8回目の開催だ。PGAツアーは120人、賞金600万ドル、優勝賞金108万ドル、フェデックス杯500ポイントと記す。カットは36ホール後の上位65人とタイ。ゴルフチャンネルの第1ラウンド中継は木曜の東部午後1時。このデスクに月曜のリーダーはいない。",
+      "ゴルフウィークとPGAツアーは過去の優勝者5人を挙げる。ブレンドン・トッド（2019）、シェイマス・パワー（2022）、カミロ・ビジェガス（2023）、ラファエル・カンポス（2024）、そして2025年の前回優勝アダム・シェンク。ゴルフチャンネルは、マリオ・ルミューの息子で30歳のオースティン・ルミューがオープン予選を通り、PGAツアー初出場になると記す。マイルズ・ラッセルはアマチュアに入っている。マイケル・ブレナンのベイカレント16アンダー優勝は残る。キース・ミッチェルとジェイコブ・ブリジマンは15アンダーで2位タイ。あの大会は終わっている。"
+    ]
+  },
+  "ko": {
+    "title": "버뮤다 출전 명단 확정: 120명, 월요일 라운드 없음",
+    "subtitle": "포트 로열은 10월 22일 목요일 개막. 상금 600만 달러. 디펜딩 챔피언은 애덤 솅크. 브레넌의 16언더 우승은 그대로다.",
+    "excerpt": "10월 19일에는 PGA 투어 라운드가 없다. 버뮤다 챔피언십은 120명으로 잠겼고, 과거 우승자 다섯 명이 포함되며 목요일 포트 로열에서 시작한다.",
+    "body": [
+      "10월 19일 월요일은 PGA 투어 경기일이 아니다. 버뮤다 챔피언십은 10월 22일 목요일에 시작해 10월 25일 일요일 사우샘프턴 포트 로열 골프 코스에서 끝난다. 여덟 번째 대회다. PGA 투어는 120명, 상금 600만 달러, 우승 상금 108만 달러, 페덱스컵 500점을 적는다. 컷은 36홀 뒤 상위 65명과 타이다. 골프 채널의 1라운드 중계는 목요일 동부 오후 1시다. 이 데스크에 월요일 선두자는 없다.",
+      "골프위크와 PGA 투어는 과거 우승자 다섯 명을 적는다. 브렌던 토드(2019), 셰이머스 파워(2022), 카밀로 비예가스(2023), 라파엘 캄포스(2024), 그리고 2025년 디펜딩 챔피언 애덤 솅크. 골프 채널은 마리오 르뮤의 아들인 30세 오스틴 르뮤가 오픈 예선을 통과해 PGA 투어에 처음 나선다고 적는다. 마일스 러셀은 아마추어에 포함된다. 마이클 브레넌의 베이커런트 16언더 우승은 그대로다. 키스 미첼과 제이컵 브리지먼은 15언더로 공동 2위였다. 그 대회는 끝났다."
+    ]
+  },
+  "ar": {
+    "title": "قائمة برمودا اكتملت: 120 لاعبا، ولا جولة يوم الاثنين",
+    "subtitle": "بورت رويال يفتح الخميس 22 أكتوبر. الجائزة 6 ملايين دولار. حامل اللقب آدم شينك. فوز برينان بـ16 تحت البار ما زال قائما.",
+    "excerpt": "لا جولة في جولة PGA يوم 19 أكتوبر. بطولة برمودا ثابتة عند 120 لاعبا، مع خمسة أبطال سابقين وانطلاق الخميس في بورت رويال.",
+    "body": [
+      "الاثنين 19 أكتوبر ليس يوم منافسة في جولة PGA. بطولة برمودا تبدأ الخميس 22 أكتوبر وتنتهي الأحد 25 أكتوبر على ملعب بورت رويال في ساوثهامبتون. هذه النسخة الثامنة. جولة PGA تضع 120 لاعبا، جائزة 6 ملايين دولار، 1.08 مليون للفائز و500 نقطة في كأس فيديكس. خط القطع هو أفضل 65 والتعادلات بعد 36 حفرة. قناة غولف تبدأ تغطية الجولة الأولى الخميس عند 1:00 ظهرا بتوقيت الشرق. لا متصدر لاثنين على هذا المكتب.",
+      "غولف ويك وجولة PGA تذكران خمسة أبطال سابقين: بريندون تود (2019)، شيموس باور (2022)، كاميلو فييغاس (2023)، رافاييل كامبوس (2024) وآدم شينك حامل لقب 2025. تلاحظ قناة غولف أن أوستن لوميو، 30 عاما، نجل ماريو لوميو، تأهل عبر بطولة مفتوحة وسيخوض أول مشاركة له في الجولة. مايلز راسل بين الهواة. فوز مايكل برينان في بايكرنت بـ16 تحت البار ما زال قائما. كيث ميتشل وجاكوب بريدجمان تعادلا في المركز الثاني عند 15 تحت البار. تلك البطولة مغلقة."
+    ]
+  }
+},
+"f1-austin-monday-no-session-antonelli-title-math-2026": {
+  "fr": {
+    "title": "Lundi en F1 : pas de séance à Austin, Antonelli mène toujours de 102 points",
+    "subtitle": "Le Grand Prix des États-Unis est du 23 au 25 octobre. Course le 25 octobre à 15:00 locale. Antonelli 340, Russell 238. Mercedes 578.",
+    "excerpt": "Rien ne roule le 19 octobre. Kimi Antonelli ne peut être champion au Texas qu'en gagnant le Grand Prix. Mercedes devance Ferrari de 134 points.",
+    "body": [
+      "Il n'y a pas de séance de Formule 1 lundi 19 octobre. Sky Sports place le Grand Prix des États-Unis au Circuit of the Americas du 23 au 25 octobre, avec la course le dimanche 25 octobre. Ce bureau garde l'horaire à 15:00 locale et ne le convertit pas. Aucun tour d'Austin n'a de chrono. Le championnat pilotes est inchangé depuis Singapour. Kimi Antonelli a 340 points. George Russell en a 238. L'écart est de 102. Lewis Hamilton est troisième avec 229, Max Verstappen quatrième avec 221, Charles Leclerc cinquième avec 215 et Lando Norris sixième avec 201. Mercedes a 578 points constructeurs. Ferrari en a 444. L'écart est de 134. Les 339 de McLaren sont le total de l'écurie.",
+      "La permutation de RacingNews365 du 19 octobre dit qu'Antonelli ne peut être champion au Texas qu'en gagnant le Grand Prix. Une victoire le mènerait à 365 points. Russell devrait finir huitième ou mieux pour garder le déficit sous 125 points. Une neuvième place vaut deux points et laisserait l'écart exactement à 125, ce que ce papier dit suffisant pour qu'Antonelli l'emporte au nombre de victoires : neuf contre trois pour Russell. Le même tableau dit qu'Hamilton doit finir quatrième ou mieux pour rester en vie si Antonelli gagne. De la deuxième à la dixième place, Antonelli ne peut pas clore le titre ce week-end. Une page qui nomme déjà un vainqueur du Grand Prix des États-Unis n'est pas utilisée ici. La course est dimanche."
+    ]
+  },
+  "es": {
+    "title": "Lunes de F1: no hay sesión en Austin y Antonelli sigue 102 puntos arriba",
+    "subtitle": "El Gran Premio de Estados Unidos es del 23 al 25 de octubre. La carrera es el 25 de octubre a las 15:00 local. Antonelli 340, Russell 238. Mercedes 578.",
+    "excerpt": "El 19 de octubre no se rueda. Kimi Antonelli solo puede ser campeón en Texas si gana el gran premio. Mercedes aventaja a Ferrari por 134 puntos.",
+    "body": [
+      "No hay sesión de Fórmula 1 el lunes 19 de octubre. Sky Sports sitúa el Gran Premio de Estados Unidos en el Circuito de las Américas del 23 al 25 de octubre, con la carrera el domingo 25. Esta mesa mantiene la hora en las 15:00 local y no la convierte. Ninguna vuelta de Austin tiene tiempo. El campeonato de pilotos no se mueve desde Singapur. Kimi Antonelli tiene 340 puntos. George Russell tiene 238. La ventaja es de 102. Lewis Hamilton es tercero con 229, Max Verstappen cuarto con 221, Charles Leclerc quinto con 215 y Lando Norris sexto con 201. Mercedes suma 578 puntos de constructores. Ferrari suma 444. La ventaja es de 134. Los 339 de McLaren son el total del equipo.",
+      "La permutación de RacingNews365 del 19 de octubre dice que Antonelli solo puede ser campeón en Texas ganando el gran premio. Una victoria lo dejaría en 365 puntos. Russell tendría que acabar octavo o mejor para mantener el déficit por debajo de 125. Un noveno puesto son dos puntos y dejaría la diferencia exactamente en 125, y ese texto dice que Antonelli ganaría entonces por número de victorias: nueve frente a tres de Russell. La misma tabla dice que Hamilton debe acabar cuarto o mejor para seguir vivo si Antonelli gana. Del segundo al décimo puesto, Antonelli no puede cerrar el título este fin de semana. Aquí no se usa una página que ya nombre un ganador del Gran Premio de Estados Unidos. La carrera es el domingo."
+    ]
+  },
+  "de": {
+    "title": "F1-Montag: keine Session in Austin, Antonelli führt weiter mit 102 Punkten",
+    "subtitle": "Der Große Preis der USA ist vom 23. bis 25. Oktober. Rennen am 25. Oktober um 15:00 Ortszeit. Antonelli 340, Russell 238. Mercedes 578.",
+    "excerpt": "Am 19. Oktober wird nicht gefahren. Kimi Antonelli kann in Texas nur Meister werden, wenn er den Grand Prix gewinnt. Mercedes führt vor Ferrari mit 134 Punkten.",
+    "body": [
+      "Am Montag, 19. Oktober, gibt es keine Formel-1-Session. Sky Sports setzt den Großen Preis der USA auf dem Circuit of the Americas für den 23. bis 25. Oktober an, das Rennen am Sonntag, 25. Oktober. Dieser Desk behält 15:00 Ortszeit und rechnet nicht um. Keine Austin-Runde hat eine Zeit. Die Fahrerwertung ist seit Singapur unverändert. Kimi Antonelli hat 340 Punkte. George Russell hat 238. Der Abstand ist 102. Lewis Hamilton ist Dritter mit 229, Max Verstappen Vierter mit 221, Charles Leclerc Fünfter mit 215 und Lando Norris Sechster mit 201. Mercedes hat 578 Konstrukteurspunkte. Ferrari hat 444. Der Abstand ist 134. McLarens 339 sind die Teamsumme.",
+      "Die Permutation von RacingNews365 vom 19. Oktober sagt, Antonelli könne in Texas nur Meister werden, wenn er den Grand Prix gewinnt. Ein Sieg brächte ihn auf 365 Punkte. Russell müsste Achter oder besser werden, damit der Rückstand unter 125 Punkten bleibt. Ein neunter Platz sind zwei Punkte und ließe den Abstand genau bei 125, und jener Text sagt, Antonelli gewänne dann über die Zahl der Siege: neun zu drei für Russell. Dieselbe Tabelle sagt, Hamilton müsse Vierter oder besser werden, um im Titelkampf zu bleiben, falls Antonelli gewinnt. Von Platz zwei bis zehn kann Antonelli den Titel an diesem Wochenende nicht holen. Eine Seite, die schon einen Sieger des USA-Grand-Prix nennt, wird hier nicht benutzt. Das Rennen ist am Sonntag."
+    ]
+  },
+  "it": {
+    "title": "Lunedì di F1: nessuna sessione ad Austin, Antonelli guida ancora di 102 punti",
+    "subtitle": "Il Gran Premio degli Stati Uniti è dal 23 al 25 ottobre. Gara il 25 ottobre alle 15:00 locali. Antonelli 340, Russell 238. Mercedes 578.",
+    "excerpt": "Il 19 ottobre non si corre. Kimi Antonelli può essere campione in Texas solo vincendo il gran premio. La Mercedes precede la Ferrari di 134 punti.",
+    "body": [
+      "Lunedì 19 ottobre non c'è una sessione di Formula 1. Sky Sports mette il Gran Premio degli Stati Uniti al Circuit of the Americas dal 23 al 25 ottobre, con la gara domenica 25 ottobre. Questa redazione tiene l'orario alle 15:00 locali e non lo converte. Nessun giro di Austin ha un tempo. Il mondiale piloti è fermo a Singapore. Kimi Antonelli ha 340 punti. George Russell ne ha 238. Il distacco è 102. Lewis Hamilton è terzo con 229, Max Verstappen quarto con 221, Charles Leclerc quinto con 215 e Lando Norris sesto con 201. La Mercedes ha 578 punti costruttori. La Ferrari ne ha 444. Il distacco è 134. I 339 della McLaren sono il totale della squadra.",
+      "La permutazione di RacingNews365 del 19 ottobre dice che Antonelli può essere campione in Texas solo vincendo il gran premio. Una vittoria lo porterebbe a 365 punti. Russell dovrebbe arrivare ottavo o meglio per tenere il distacco sotto i 125 punti. Un nono posto vale due punti e lascerebbe il gap esattamente a 125, e quel testo dice che Antonelli vincerebbe allora per numero di vittorie: nove contro tre di Russell. La stessa tabella dice che Hamilton deve arrivare quarto o meglio per restare in vita se Antonelli vince. Dal secondo al decimo posto Antonelli non può chiudere il titolo questo weekend. Una pagina che nomina già un vincitore del Gran Premio degli Stati Uniti non si usa qui. La gara è domenica."
+    ]
+  },
+  "pl": {
+    "title": "Poniedziałek w F1: nie ma sesji w Austin, Antonelli nadal prowadzi o 102 punkty",
+    "subtitle": "Grand Prix Stanów Zjednoczonych jest 23-25 października. Wyścig 25 października o 15:00 czasu lokalnego. Antonelli 340, Russell 238. Mercedes 578.",
+    "excerpt": "19 października nic nie jeździ. Kimi Antonelli może zostać mistrzem w Teksasie tylko wygrywając grand prix. Mercedes prowadzi przed Ferrari o 134 punkty.",
+    "body": [
+      "W poniedziałek 19 października nie ma sesji Formuły 1. Sky Sports stawia Grand Prix Stanów Zjednoczonych na Circuit of the Americas na 23-25 października, z wyścigiem w niedzielę 25 października. To biuro zostawia godzinę 15:00 czasu lokalnego i jej nie przelicza. Żadne okrążenie w Austin nie ma czasu. Klasyfikacja kierowców stoi od Singapuru. Kimi Antonelli ma 340 punktów. George Russell ma 238. Różnica to 102. Lewis Hamilton jest trzeci z 229, Max Verstappen czwarty z 221, Charles Leclerc piąty z 215, a Lando Norris szósty z 201. Mercedes ma 578 punktów konstruktorów. Ferrari ma 444. Różnica to 134. 339 McLarena to suma zespołu.",
+      "Permutacja RacingNews365 z 19 października mówi, że Antonelli może zostać mistrzem w Teksasie tylko wygrywając grand prix. Wygrana dałaby mu 365 punktów. Russell musiałby być ósmy lub wyżej, by deficyt został poniżej 125 punktów. Dziewiąte miejsce to dwa punkty i zostawiłoby różnicę dokładnie na 125, a ten tekst mówi, że Antonelli wygrałby wtedy liczbą zwycięstw: dziewięć do trzech Russella. Ta sama tabela mówi, że Hamilton musi być czwarty lub wyżej, by zostać w grze, jeśli Antonelli wygra. Od drugiego do dziesiątego miejsca Antonelli nie zamknie tytułu w ten weekend. Strona, która już wymienia zwycięzcę Grand Prix Stanów Zjednoczonych, nie jest tu używana. Wyścig jest w niedzielę."
+    ]
+  },
+  "zh": {
+    "title": "F1周一：奥斯汀无赛程，安东内利仍领先102分",
+    "subtitle": "美国大奖赛在10月23日至25日。正赛10月25日当地时间15:00。安东内利340分，拉塞尔238分。梅赛德斯578分。",
+    "excerpt": "10月19日没有任何行驶。基米·安东内利只有赢得大奖赛才能在得克萨斯封王。梅赛德斯领先法拉利134分。",
+    "body": [
+      "10月19日周一没有一级方程式赛程。天空体育把美国大奖赛放在美洲赛道，日期为10月23日至25日，正赛在10月25日周日。本报保留当地时间15:00，不做时区换算。奥斯汀没有任何一圈计时。车手积分榜自新加坡站之后没有变化。基米·安东内利340分。乔治·拉塞尔238分。差距102分。刘易斯·汉密尔顿第三，229分。马克斯·维斯塔潘第四，221分。夏尔·勒克莱尔第五，215分。兰多·诺里斯第六，201分。梅赛德斯车队积分578。法拉利444。差距134。迈凯伦的339是车队总分。",
+      "RacingNews365在10月19日的排位推演说，安东内利只有赢得大奖赛才能在得克萨斯封王。一场胜利会把他带到365分。拉塞尔需要第八或更好，才能把差距压在125分以内。第九名是2分，差距会正好停在125，该文称安东内利届时将以胜场数胜出：九胜对拉塞尔的三胜。同一张表说，如果安东内利获胜，汉密尔顿必须第四或更好才能留在争夺里。安东内利若拿第二到第十，本周末不能锁定冠军。这里不采用已经写出美国大奖赛冠军名字的页面。比赛在周日。"
+    ]
+  },
+  "ja": {
+    "title": "F1の月曜: オースティンにセッションはなく、アントネッリは102点リードのまま",
+    "subtitle": "アメリカGPは10月23日から25日。決勝は10月25日の現地15:00。アントネッリ340、ラッセル238。メルセデス578。",
+    "excerpt": "10月19日は何も走らない。キミ・アントネッリがテキサスで王者になるにはグランプリに勝つしかない。メルセデスはフェラーリに134点差。",
+    "body": [
+      "10月19日月曜にフォーミュラ1のセッションはない。スカイ・スポーツはアメリカGPをサーキット・オブ・ジ・アメリカズ、10月23日から25日、決勝を10月25日日曜としている。このデスクは現地15:00のままにし、換算しない。オースティンのラップにタイムはない。ドライバーズはシンガポールから動いていない。キミ・アントネッリが340点。ジョージ・ラッセルが238点。差は102。ルイス・ハミルトンが3位で229、マックス・フェルスタッペンが4位で221、シャルル・ルクレールが5位で215、ランド・ノリスが6位で201。メルセデスのコンストラクターズは578点。フェラーリは444点。差は134。マクラーレンの339はチーム合計だ。",
+      "RacingNews365の10月19日の場合分けは、アントネッリがテキサスで王者になるのはグランプリ勝利のときだけだとしている。勝てば365点になる。ラッセルは差を125点未満に保つため8位以上が必要だ。9位は2点で、差はちょうど125になり、その記事はアントネッリが勝利数のカウントバックで決めるとしている。アントネッリ9勝、ラッセル3勝。同じ表では、アントネッリが勝った場合、ハミルトンは4位以上でないとタイトル争いに残れない。2位から10位では、アントネッリはこの週末にタイトルを決められない。すでにアメリカGPの勝者の名を書くページは使わない。レースは日曜だ。"
+    ]
+  },
+  "ko": {
+    "title": "F1 월요일: 오스틴에 세션이 없고, 안토넬리는 102점 차 선두",
+    "subtitle": "미국 그랑프리는 10월 23일부터 25일. 경주는 10월 25일 현지 15:00. 안토넬리 340, 러셀 238. 메르세데스 578.",
+    "excerpt": "10월 19일에는 아무것도 달리지 않는다. 키미 안토넬리가 텍사스에서 챔피언이 되려면 그랑프리에서 이겨야 한다. 메르세데스는 페라리보다 134점 앞선다.",
+    "body": [
+      "10월 19일 월요일에는 포뮬러 1 세션이 없다. 스카이 스포츠는 미국 그랑프리를 서킷 오브 디 아메리카스, 10월 23일부터 25일, 경기는 10월 25일 일요일로 둔다. 이 데스크는 현지 15:00를 유지하고 환산하지 않는다. 오스틴의 어떤 랩에도 기록이 없다. 드라이버 챔피언십은 싱가포르 이후 그대로다. 키미 안토넬리 340점. 조지 러셀 238점. 차이는 102. 루이스 해밀턴이 3위 229점, 막스 베르스타펜이 4위 221점, 샤를 르클레르가 5위 215점, 랜도 노리스가 6위 201점. 메르세데스 컨스트럭터는 578점. 페라리는 444점. 차이는 134. 맥라렌의 339는 팀 합계다.",
+      "RacingNews365의 10월 19일 경우의 수는 안토넬리가 텍사스에서 챔피언이 되려면 그랑프리 우승뿐이라고 한다. 이기면 365점이 된다. 러셀은 차이를 125점 아래로 지키려면 8위 이상이 필요하다. 9위는 2점이고 차이가 정확히 125가 되며, 그 글은 안토넬리가 우승 횟수 카운트백으로 이긴다고 적는다. 안토넬리 9승, 러셀 3승. 같은 표에서 안토넬리가 이기면 해밀턴은 4위 이상이어야 타이틀 싸움에 남는다. 2위부터 10위로는 안토넬리가 이번 주말에 타이틀을 닫을 수 없다. 이미 미국 그랑프리 우승자 이름을 적은 페이지는 쓰지 않는다. 경기는 일요일이다."
+    ]
+  },
+  "ar": {
+    "title": "اثنين الفورمولا 1: لا حصة في أوستن وأنتونيللي ما زال متقدما بـ102 نقطة",
+    "subtitle": "جائزة الولايات المتحدة من 23 إلى 25 أكتوبر. السباق في 25 أكتوبر عند 15:00 بالتوقيت المحلي. أنتونيللي 340، راسل 238. مرسيدس 578.",
+    "excerpt": "لا شيء يسير في 19 أكتوبر. كيمي أنتونيللي لا يصبح بطلا في تكساس إلا إذا فاز بالجائزة الكبرى. مرسيدس تتقدم على فيراري بـ134 نقطة.",
+    "body": [
+      "لا توجد حصة فورمولا 1 يوم الاثنين 19 أكتوبر. سكاي سبورتس تضع جائزة الولايات المتحدة على حلبة الأمريكتين من 23 إلى 25 أكتوبر، والسباق يوم الأحد 25 أكتوبر. هذا المكتب يبقي الساعة 15:00 بالتوقيت المحلي ولا يحولها. لا لفة في أوستن لها زمن. بطولة السائقين لم تتحرك منذ سنغافورة. كيمي أنتونيللي عنده 340 نقطة. جورج راسل عنده 238. الفارق 102. لويس هاميلتون ثالث برصيد 229، ماكس فيرستابن رابع برصيد 221، شارل لوكلير خامس برصيد 215 ولاندو نوريس سادس برصيد 201. مرسيدس عندها 578 نقطة صانعين. فيراري عندها 444. الفارق 134. نقاط مكلارين الـ339 هي مجموع الفريق.",
+      "احتمال RacingNews365 في 19 أكتوبر يقول إن أنتونيللي لا يحسم اللقب في تكساس إلا بالفوز بالجائزة الكبرى. الفوز يرفعه إلى 365 نقطة. على راسل أن ينهي ثامنا أو أفضل ليبقى العجز تحت 125 نقطة. المركز التاسع نقطتان ويترك الفارق عند 125 بالضبط، ويقول ذلك التقرير إن أنتونيللي يفوز حينها بعدد الانتصارات: تسعة مقابل ثلاثة لراسل. الجدول نفسه يقول إن هاميلتون يجب أن ينهي رابعا أو أفضل ليبقى في السباق إذا فاز أنتونيللي. من الثاني إلى العاشر لا يستطيع أنتونيللي إغلاق اللقب هذه العطلة. صفحة تسمي فائزا بجائزة الولايات المتحدة مسبقا لا تُستخدم هنا. السباق يوم الأحد."
+    ]
+  }
+},
 "shanghai-masters-2026-final-sunday-zverev-vs-medvedev": {
   "fr": {
-    "title": "Finale du Masters de Shanghai : Zverev défie Medvedev pour le trophée",
-    "subtitle": "Le n°1 mondial Alexander Zverev affronte le champion 2019 Daniil Medvedev pour leur 20e duel sur le circuit.",
-    "excerpt": "Alexander Zverev et Daniil Medvedev se disputent le titre du Rolex Shanghai Masters dimanche après deux solides victoires en demi-finale samedi.",
+    "title": "Finale de Shanghai : Davidovich Fokina bat Jodar, pas un Zverev-Medvedev",
+    "subtitle": "Résultat ATP : Alejandro Davidovich Fokina bat Rafael Jodar 1-6, 7-6(5), 6-4. Zverev a perdu sa demie.",
+    "excerpt": "Le titre du Rolex Shanghai Masters est allé à Alejandro Davidovich Fokina. La finale était espagnole après les défaites de Zverev et Medvedev samedi.",
     "body": [
-          "La finale du Rolex Shanghai Masters a été officialisée samedi après-midi à la Qizhong Forest Sports City Arena au terme de deux démonstrations d'autorité. La tête de série n°1 Alexander Zverev a dominé l'Espagnol Alejandro Davidovich Fokina 6-4, 6-3 en 1 h 28. Zverev a réalisé une prestation remarquable au service, remportant 31 de ses 37 points sur premier service sans concéder la moindre balle de break.",
-          "Dans la seconde demi-finale, la tête de série n°5 Daniil Medvedev a stoppé la série héroïque du jeune Rafael Jodar (20 ans), s'imposant 7-6(4), 6-3. Jodar avait enflammé Shanghai avec quatre victoires renversantes consécutives, mais Medvedev a fait valoir sa régularité en fond de court et 14 services gagnants.",
-          "La finale de dimanche constitue le 20e duel en carrière entre Zverev et Medvedev sur le circuit principal. Medvedev mène 12-7 au face-à-face, mais Zverev arrive fort de sa place de n°1 mondial de fin d'année déjà assurée pour tenter de décrocher son deuxième Masters 1000 de 2026. Medvedev, titré à Shanghai en 2019, vise un premier sacre en Masters 1000 cette saison."
+      "Dimanche 18 octobre, Stadium Court, 2 heures 27 minutes : Davidovich Fokina, tête de série n° 25, bat Jodar, n° 12, 1-6, 7-6(5), 6-4. Arbitre Greg Allensworth. Demies : Fokina bat Zverev 5-7, 6-4, 6-3. Jodar bat Medvedev 6-3, 6-4. L'avant-papier Zverev contre Medvedev est retiré.",
+      "Zverev reste le n° 1 de fin d'année. Jodar, 20 ans, jouait sa première finale de Masters 1000. Le trophée est le deuxième passage en finale de Masters 1000 pour Davidovich Fokina, après Monte-Carlo 2022."
     ]
   },
   "es": {
-    "title": "Final del Masters de Shanghái: Zverev frente a Medvedev por la corona",
-    "subtitle": "El número 1 mundial Alexander Zverev choca con el campeón de 2019 Daniil Medvedev en su vigésimo clásico en el circuito.",
-    "excerpt": "Alexander Zverev y Daniil Medvedev se enfrentan este domingo por el título en Shanghái tras firmar convincentes triunfos en las semifinales del sábado.",
+    "title": "Final de Shanghái: Davidovich Fokina vence a Jodar, no hubo Zverev-Medvedev",
+    "subtitle": "Resultado ATP: Alejandro Davidovich Fokina a Rafael Jodar 1-6, 7-6(5), 6-4. Zverev perdió su semifinal.",
+    "excerpt": "El título del Rolex Shanghai Masters fue para Alejandro Davidovich Fokina. La final fue española después de que Zverev y Medvedev cayeran el sábado.",
     "body": [
-          "El Rolex Shanghai Masters definió su gran final el sábado con dos triunfos autoritarios en la Stadium Court de Qizhong. El primer cabeza de serie Alexander Zverev derrotó a Alejandro Davidovich Fokina por 6-4 y 6-3 en 1 hora y 28 minutos. El alemán estuvo intratable con el saque, ganando el 84 por ciento de sus primeros servicios y sin conceder opciones de quiebre.",
-          "En la segunda semifinal, Daniil Medvedev (quinto favorito) frenó el cuento de hadas de Rafael Jodar, de 20 años, imponiéndose por 7-6(4) y 6-3. Jodar había deslumbrado en Shanghái con cuatro remontadas épicas, pero la solidez y los 14 servicios directos de Medvedev inclinaron la balanza.",
-          "El duelo del domingo marca el enfrentamiento número 20 entre Zverev y Medvedev en el circuito ATP. Medvedev domina el cara a cara histórico por 12-7, pero Zverev llega avalado por su condición asegurada de número 1 de final de temporada, buscando su segundo trofeo de Masters 1000 de 2026."
+      "Domingo 18 de octubre, Stadium Court, 2 horas y 27 minutos: Davidovich Fokina, cabeza de serie 25, vence a Jodar, 12, por 1-6, 7-6(5) y 6-4. Árbitro Greg Allensworth. Semis: Fokina a Zverev 5-7, 6-4, 6-3. Jodar a Medvedev 6-3, 6-4. El previo de Zverev contra Medvedev queda retirado.",
+      "Zverev sigue siendo el número 1 de fin de año. Jodar, de 20 años, jugaba su primera final de Masters 1000. Es la segunda final de Masters 1000 de Davidovich Fokina, tras Montecarlo 2022."
     ]
   },
   "de": {
-    "title": "Shanghai Masters Finale: Zverev trifft auf Medvedev im Titelduell",
-    "subtitle": "Die Nummer 1 der Welt Alexander Zverev kämpft gegen den Champion von 2019 Daniil Medvedev im 20. direkten Aufeinandertreffen.",
-    "excerpt": "Alexander Zverev und Daniil Medvedev bestreiten am Sonntag das Finale des Rolex Shanghai Masters nach souveränen Halbfinalsiegen am Samstag.",
+    "title": "Shanghai-Finale: Davidovich Fokina schlägt Jodar, kein Zverev-Medvedev",
+    "subtitle": "ATP-Ergebnis: Alejandro Davidovich Fokina besiegt Rafael Jodar 1:6, 7:6(5), 6:4. Zverev verlor sein Halbfinale.",
+    "excerpt": "Der Titel der Rolex Shanghai Masters ging an Alejandro Davidovich Fokina. Das Finale war spanisch, nachdem Zverev und Medvedev am Samstag verloren.",
     "body": [
-          "Das Finale des Rolex Shanghai Masters steht fest: Am Samstagnachmittag setzten sich die Favoriten in der Qizhong Forest Sports City Arena durch. Alexander Zverev bezwang Alejandro Davidovich Fokina mit 6:4, 6:3 in 88 Minuten. Zverev servierte makellos, holte 31 von 37 Punkten über den ersten Aufschlag und ließ keinen einzigen Breakball zu.",
-          "Im zweiten Halbfinale beendete Daniil Medvedev den Traumlauf des 20-jährigen Rafael Jodar mit 7:6(4), 6:3. Jodar hatte das Turnier mit vier Comeback-Erfolgen begeistert, fand gegen Medvedevs Grundlinienspiel und 14 Asse aber kein Rezept.",
-          "Das Endspiel am Sonntag ist das 20. Aufeinandertreffen zwischen Zverev und Medvedev auf der ATP-Tour. Medvedev führt im direkten Vergleich mit 12:7, doch Zverev tritt mit dem Rückenwind der feststehenden Nummer 1 zum Jahresende an, um seinen zweiten Masters-1000-Titel der Saison 2026 einzufahren."
+      "Sonntag, 18. Oktober, Stadium Court, 2 Stunden 27 Minuten: Davidovich Fokina, gesetzt als 25, besiegt Jodar, gesetzt als 12, 1:6, 7:6(5), 6:4. Schiedsrichter Greg Allensworth. Halbfinale: Fokina besiegt Zverev 5:7, 6:4, 6:3. Jodar besiegt Medvedev 6:3, 6:4. Die Vorschau Zverev gegen Medvedev ist zurückgezogen.",
+      "Zverev bleibt die Nummer 1 zum Jahresende. Jodar, 20, spielte sein erstes Masters-1000-Finale. Für Davidovich Fokina ist es das zweite, nach Monte Carlo 2022."
     ]
   },
   "it": {
-    "title": "Finale Masters Shanghai: Zverev contro Medvedev per il titolo",
-    "subtitle": "Il numero 1 mondiale Alexander Zverev affronta il campione del 2019 Daniil Medvedev nel loro 20° confronto sul circuito.",
-    "excerpt": "Alexander Zverev e Daniil Medvedev si contenderanno domenica il titolo a Shanghai dopo le nette vittorie in semifinale di sabato.",
+    "title": "Finale di Shanghai: Davidovich Fokina batte Jodar, non uno Zverev-Medvedev",
+    "subtitle": "Risultato ATP: Alejandro Davidovich Fokina batte Rafael Jodar 1-6, 7-6(5), 6-4. Zverev ha perso la semifinale.",
+    "excerpt": "Il titolo del Rolex Shanghai Masters è andato ad Alejandro Davidovich Fokina. La finale è stata spagnola dopo le sconfitte di Zverev e Medvedev sabato.",
     "body": [
-          "Il Rolex Shanghai Masters ha decretato i suoi finalisti sabato a Qizhong al termine di due prove di forza. La testa di serie numero 1 Alexander Zverev ha superato Alejandro Davidovich Fokina per 6-4, 6-3 in un'ora e 28 minuti, vincendo l'84% dei punti sulla prima palla e senza concedere palle break.",
-          "Nella seconda semifinale Daniil Medvedev ha interrotto la favola del ventenne Rafael Jodar vincendo 7-6(4), 6-3. Jodar aveva stupito il pubblico con quattro rimonte consecutive, ma la regolarità da fondo campo e i 14 ace di Medvedev hanno fatto la differenza.",
-          "La finale di domenica rappresenta il 20° capitolo della rivalità tra Zverev e Medvedev. Il russo guida per 12-7 nei precedenti, ma il tedesco scende in campo da numero 1 di fine anno già confermato, a caccia del secondo Masters 1000 stagionale."
+      "Domenica 18 ottobre, Stadium Court, 2 ore e 27 minuti: Davidovich Fokina, testa di serie 25, batte Jodar, 12, 1-6, 7-6(5), 6-4. Arbitro Greg Allensworth. Semifinali: Fokina batte Zverev 5-7, 6-4, 6-3. Jodar batte Medvedev 6-3, 6-4. L'anteprima Zverev contro Medvedev è ritirata.",
+      "Zverev resta il numero 1 di fine anno. Jodar, 20 anni, giocava la sua prima finale di Masters 1000. Per Davidovich Fokina è la seconda, dopo Monte Carlo 2022."
     ]
   },
   "pl": {
-    "title": "Finał Shanghai Masters: Zverev kontra Miedwiediew w meczu o tytuł",
-    "subtitle": "Lider rankingu Alexander Zverev zmierzy sie z triumfatorem z 2019 roku Daniiłem Miedwiediewem w ich 20. pojedynku.",
-    "excerpt": "Alexander Zverev i Daniił Miedwiediew zagrają w niedzielę o trofeum w Szanghaju po przekonujących zwycięstwach w sobotnich półfinałach.",
+    "title": "Finał Szanghaju: Davidovich Fokina pokonuje Jodara, nie było Zvereva z Miedwiediewem",
+    "subtitle": "Wynik ATP: Alejandro Davidovich Fokina pokonuje Rafaela Jodara 1-6, 7-6(5), 6-4. Zverev przegrał półfinał.",
+    "excerpt": "Tytuł Rolex Shanghai Masters trafił do Alejandro Davidovicha Fokiny. Finał był hiszpański po sobotnich porażkach Zvereva i Miedwiediewa.",
     "body": [
-          "Skład finału turnieju Rolex Shanghai Masters został wyłoniony w sobotnie popołudnie w Qizhong Arena. Najwyżej rozstawiony Alexander Zverev pokonał Alejandro Davidovicha Fokinę 6-4, 6-3 w 88 minut. Niemiec zagrał perfekcyjnie przy własnym podaniu, nie broniąc ani jednego break pointa.",
-          "W drugim półfinale Daniił Miedwiediew zatrzymał rewelacyjnego 20-latka Rafaela Jodara, wygrywając 7-6(4), 6-3. Jodar zachwycił kibiców czterema kolejnymi trzysetowymi powrotami, lecz precyzja i 14 asów Miedwiediewa okazały się decydujące.",
-          "Niedzielne starcie będzie 20. bezpośrednim meczem Zvereva z Miedwiediewem. Rosjanin prowadzi w bilansie 12-7, lecz pewny pozycji lidera na koniec sezonu Zverev celuje w drugi tytuł rangi Masters 1000 w 2026 roku."
+      "Niedziela 18 października, Stadium Court, 2 godziny 27 minut: Davidovich Fokina, rozstawiony z 25, pokonuje Jodara, z 12, 1-6, 7-6(5), 6-4. Sędzia Greg Allensworth. Półfinały: Fokina pokonuje Zvereva 5-7, 6-4, 6-3. Jodar pokonuje Miedwiediewa 6-3, 6-4. Zapowiedź Zverev kontra Miedwiediew jest wycofana.",
+      "Zverev zostaje numerem 1 na koniec roku. Jodar, lat 20, grał pierwszy finał Masters 1000. Dla Davidovicha Fokiny to drugi, po Monte Carlo 2022."
     ]
   },
   "zh": {
-    "title": "上海大师赛决赛：兹维列夫对决梅德韦杰夫争夺桂冠",
-    "subtitle": "年终世界第一兹维列夫与2019年赛会冠军梅德韦杰夫在中央球场上演第20次巅峰对决。",
-    "excerpt": "兹维列夫与梅德韦杰夫在周六半决赛双双取胜，顺利会师周日旗忠网球中心的劳力士上海大师赛男单争冠战。",
+    "title": "上海决赛：达维多维奇·福基纳击败霍达尔，不是兹维列夫对梅德韦杰夫",
+    "subtitle": "ATP赛果：达维多维奇·福基纳胜霍达尔1-6、7-6(5)、6-4。兹维列夫输掉了半决赛。",
+    "excerpt": "劳力士上海大师赛冠军是亚历杭德罗·达维多维奇·福基纳。周六兹维列夫和梅德韦杰夫双双出局后，决赛成了西班牙德比。",
     "body": [
-          "周六下午劳力士上海大师赛两场男单半决赛在旗忠森林体育城网球中心落幕。头号种子亚历山大·兹维列夫以6-4、6-3力克西班牙选手达维多维奇·福基纳，全场比赛耗时1小时28分钟，兹维列夫一发得分率高达84%，未送出任何破发点。",
-          "随后进行的第二场半决赛中，五号种子丹尼尔·梅德韦杰夫以7-6(4)、6-3战胜20岁西班牙黑马拉斐尔·霍达尔。霍达尔此前连胜四场逆转好戏，但梅德韦杰夫凭借标志性的底线相持与14记ACE球锁定胜局。",
-          "周日的冠军争夺战将是兹维列夫与梅德韦杰夫在巡回赛的第20次交锋。梅德韦杰夫以12胜7负领跑交锋记录，而已经锁定年终世界第一的兹维列夫则力争斩获本赛季第二座大师赛奖杯。"
+      "10月18日周日中央球场，2小时27分：25号种子达维多维奇·福基纳以1-6、7-6(5)、6-4击败12号种子霍达尔。主裁格雷格·阿伦斯沃思。半决赛：福基纳胜兹维列夫5-7、6-4、6-3。霍达尔胜梅德韦杰夫6-3、6-4。原先的兹维列夫对梅德韦杰夫预告已经撤回。",
+      "兹维列夫仍是年终世界第一。20岁的霍达尔打进个人首个大师赛1000决赛。对达维多维奇·福基纳来说，这是2022年蒙特卡洛亚军之后的第二个大师赛1000决赛。"
     ]
   },
   "ja": {
-    "title": "上海マスターズ決勝：ズベレフ対メドベージェフ、第20回対決の頂上決戦",
-    "subtitle": "世界ランク1位ズベレフと2019年王者メドベージェフがセンターコートで激突。",
-    "excerpt": "アレクサンダー・ズベレフとダニール・メドベージェフが土曜日の準決勝を制し、日曜日の上海マスターズ決勝で顔を合わせます。",
+    "title": "上海決勝: ダビドビッチ・フォキナがホダルを破る。ズベレフ対メドベージェフではない",
+    "subtitle": "ATPの結果: ダビドビッチ・フォキナがホダルに1-6, 7-6(5), 6-4。ズベレフは準決勝で負けた。",
+    "excerpt": "ロレックス上海マスターズのタイトルはアレハンドロ・ダビドビッチ・フォキナへ。土曜にズベレフとメドベージェフが落ち、決勝はスペイン勢同士になった。",
     "body": [
-          "土曜日の旗忠テニスセンターで行われた準決勝で上海マスターズの決勝カードが確定しました。第1シードのアレクサンダー・ズベレフはアレハンドロ・ダビドビッチ・フォキナを6-4、6-3で退け、ファーストサーブでの勝率84パーセントを記録してブレークポイントを1つも与えませんでした。",
-          "第2試合では第5シードのダニール・メドベージェフが、快進撃を続けていた20歳のラファエル・ホダルを7-6(4)、6-3で下しました。ホダルの力強いストロークを封じたメドベージェフは14本のエースを叩き込みました。",
-          "日曜日の決勝は両者にとって通算20度目のツアー対戦となります。対戦成績はメドベージェフが12勝7敗とリードしていますが、年間1位を確定させたズベレフも今季2度目のマスターズ1000制覇を狙います。"
+      "10月18日日曜、スタジアムコート、2時間27分。第25シードのダビドビッチ・フォキナが第12シードのホダルを1-6, 7-6(5), 6-4で破った。主審グレッグ・アレンズワース。準決勝はフォキナがズベレフに5-7, 6-4, 6-3、ホダルがメドベージェフに6-3, 6-4。ズベレフ対メドベージェフという展望は撤回する。",
+      "ズベレフは年間1位のまま。20歳のホダルはマスターズ1000初の決勝。ダビドビッチ・フォキナにとっては2022年モンテカルロ以来2度目のマスターズ1000決勝。"
     ]
   },
   "ko": {
-    "title": "상하이 마스터스 결승: 츠베레프 대 메드베데프 20번째 맞대결",
-    "subtitle": "연말 세계 1위 츠베레프와 2019년 챔피언 메드베데프가 스타디움 코트에서 격돌합니다.",
-    "excerpt": "알렉산더 츠베레프와 다닐 메드베데프가 토요일 준결승에서 완승을 거두고 일요일 상하이 마스터스 결승에 진출했습니다.",
+    "title": "상하이 결승: 다비도비치 포키나가 호다르를 꺾다. 츠베레프 대 메드베데프가 아니다",
+    "subtitle": "ATP 결과: 다비도비치 포키나가 호다르를 1-6, 7-6(5), 6-4로 이김. 츠베레프는 준결승에서 졌다.",
+    "excerpt": "롤렉스 상하이 마스터스 타이틀은 알레한드로 다비도비치 포키나에게 갔다. 토요일 츠베레프와 메드베데프가 떨어져 결승은 스페인 대결이 됐다.",
     "body": [
-          "토요일 오후 치중 테니스 센터에서 열린 준결승을 통해 결승 대진이 확정되었습니다. 톱시드 알렉산더 츠베레프는 알레한드로 다비도비치 포키나를 6-4, 6-3으로 꺾었습니다. 츠베레프는 첫 서브 득점률 84%를 기록하며 단 하나의 브레이크 포인트도 내주지 않았습니다.",
-          "이어진 경기에서는 5번 시드 다닐 메드베데프가 20세 신성 라파엘 호다르의 돌풍을 7-6(4), 6-3으로 잠재웠습니다. 호다르는 4경기 연속 역전승으로 팬들을 열광시켰지만 메드베데프의 견고한 스트로크와 14개의 에이스를 넘지 못했습니다.",
-          "일요일 결승전은 두 선수의 통산 20번째 맞대결입니다. 역대 전적에서는 메드베데프가 12승 7패로 앞서 있으나 연말 1위를 확정한 츠베레프는 2026년 두 번째 마스터스 1000 트로피를 조준합니다."
+      "10월 18일 일요일 스타디움 코트, 2시간 27분. 25번 시드 다비도비치 포키나가 12번 시드 호다르를 1-6, 7-6(5), 6-4로 이겼다. 심판 그레그 앨런스워스. 준결승은 포키나가 츠베레프를 5-7, 6-4, 6-3, 호다르가 메드베데프를 6-3, 6-4. 츠베레프 대 메드베데프 예고는 철회한다.",
+      "츠베레프는 연말 1위다. 20세 호다르는 마스터스 1000 첫 결승. 다비도비치 포키나에게는 2022년 몬테카를로 이후 두 번째 마스터스 1000 결승이다."
     ]
   },
   "ar": {
-    "title": "نهائي بطولة شنغهاي للأساتذة: زفيريف يواجه ميدفيديف على اللقب",
-    "subtitle": "المصنف الأول عالميا ألكسندر زفيريف يلتقي بطل 2019 دانييل ميدفيديف في مواجهتهما العشرين.",
-    "excerpt": "يلتقي ألكسندر زفيريف مع دانييل ميدفيديف يوم الأحد في قمة نهائي شنغهاي للأساتذة بعد تأهلهما المستحق من نصف النهائي يوم السبت.",
+    "title": "نهائي شنغهاي: دافيدوفيتش فوكينا يهزم خودار، لا مواجهة بين زفيريف وميدفيديف",
+    "subtitle": "نتيجة ATP: أليخاندرو دافيدوفيتش فوكينا على رافاييل خودار 1-6 و7-6(5) و6-4. زفيريف خسر نصف النهائي.",
+    "excerpt": "لقب رولكس شنغهاي ذهب إلى أليخاندرو دافيدوفيتش فوكينا. النهائي صار إسبانيا بعد خسارة زفيريف وميدفيديف السبت.",
     "body": [
-          "تحددت ملامح المباراة النهائية لبطولة رولكس شنغهاي للأساتذة يوم السبت في مجمع تشيتشونغ للتنس بعد عرضين قويين. تغلب المصنف الأول ألكسندر زفيريف على الإسباني أليخاندرو دافيدوفيتش فوكينا بنتيجة 6-4 و6-3 خلال ساعة و28 دقيقة دون أن يواجه أي نقطة لكسر إرساله.",
-          "وفي نصف النهائي الثاني، أوقف المصنف الخامس دانييل ميدفيديف مغامرة الإسباني الشاب رافاييل خودار البالغ 20 عاما وتغلب عليه بنتيجة 7-6(4) و6-3، معتمدا على انضباطه الدفاعي و14 إرسالا ساحقا.",
-          "المباراة النهائية يوم الأحد تشهد اللقاء رقم 20 بين زفيريف وميدفيديف في بطولات المحترفين. يتفوق ميدفيديف بـ12 انتصارا مقابل 7، لكن زفيريف يدخل المواجهة بصفته المصنف الأول عالميا بنهاية العام ساعيا للقبه الثاني في فئة الماسترز هذا الموسم."
+      "الأحد 18 أكتوبر، الملعب الرئيسي، ساعتان و27 دقيقة: دافيدوفيتش فوكينا المصنف 25 يهزم خودار المصنف 12 بنتيجة 1-6 و7-6(5) و6-4. الحكم غريغ ألينزوورث. نصف النهائي: فوكينا على زفيريف 5-7 و6-4 و6-3. خودار على ميدفيديف 6-3 و6-4. المعاينة التي جمعت زفيريف بميدفيديف سُحبت.",
+      "زفيريف يبقى الأول في نهاية العام. خودار، 20 عاما، لعب أول نهائي ماسترز 1000. وهي المرة الثانية لدافيدوفيتش فوكينا بعد مونتي كارلو 2022."
     ]
   }
 },
+
 "wnba-finals-2026-game1-valkyries-edge-dream-lead-1-0": {
   "fr": {
-    "title": "Finales WNBA match 1 : les Valkyries battent le Dream 82-76 et mènent 1-0",
-    "subtitle": "Golden State brille pour son premier match de finale devant le public en feu du Chase Center. Match 2 lundi soir.",
-    "excerpt": "Les Golden State Valkyries ont remporté le match 1 des Finales WNBA 2026 samedi en dominant l'Atlanta Dream 82-76 grâce à une défense de fer dans le money-time.",
+    "title": "Finales WNBA, match 1 : les Valkyries battent le Dream 68-64 et mènent 1-0",
+    "subtitle": "ESPN et CBS Sports donnent 68-64 samedi au Chase Center. Le match 2 est lundi à 20 h 00 ET.",
+    "excerpt": "Golden State a pris le match 1 68-64. Gabby Williams a marqué 26 points. La série est 1-0, et le match 2 n'est pas joué.",
     "body": [
-          "Les Finales WNBA 2026 ont débuté dans une ambiance électrique samedi après-midi au Chase Center de San Francisco, où les Valkyries de Golden State se sont imposées 82-76 face à l'Atlanta Dream dans le match 1. Pour la première rencontre de finale de leur histoire, les Valkyries ont résisté au retour d'Atlanta pour mener 1-0 dans cette série au meilleur des sept manches.",
-          "Une salle comble de 18 064 spectateurs a vu Golden State mener 46-38 à la mi-temps grâce à une circulation de balle fluide. Atlanta a réagi dans le troisième quart-temps sous l'impulsion d'Angel Reese, auteure de 19 points et 14 rebonds, pour ramener le Dream à 68-66 à cinq minutes du terme.",
-          "Golden State a alors verrouillé sa raquette lors des trois dernières minutes, provoquant trois pertes de balle consécutives d'Atlanta pour valider la victoire. Le match 2 aura lieu lundi 19 octobre à 20 h 00 ET au Chase Center avant le déplacement en Géorgie."
+      "ESPN et CBS Sports donnent Valkyries 68, Dream 64, samedi 17 octobre au Chase Center. Gabby Williams 26 points, le banc de Golden State 20. Angel Reese : 14 points et 12 rebonds, sans panier en seconde mi-temps. Allisha Gray, avec une blessure à la main, a mené Atlanta avec 19 points. Une ligne 82-76 est retirée.",
+      "Le match 2 est lundi 19 octobre à 20 h 00 ET au Chase Center, sur USA, Peacock et CNBC. Pas de score. Série 1-0."
     ]
   },
   "es": {
-    "title": "Finales WNBA Juego 1: Valkyries superan a Dream 82-76 y se adelantan 1-0",
-    "subtitle": "Golden State debuta en las Finales con victoria ante el fervor del Chase Center. El Juego 2 será el lunes.",
-    "excerpt": "Las Golden State Valkyries ganaron el Juego 1 de las Finales WNBA 2026 el sábado, derrotando al Atlanta Dream 82-76 con un brillante cierre defensivo.",
+    "title": "Finales WNBA, Juego 1: las Valkyries vencen al Dream 68-64 y lideran 1-0",
+    "subtitle": "ESPN y CBS Sports dan 68-64 el sábado en el Chase Center. El Juego 2 es el lunes a las 8:00 p.m. ET.",
+    "excerpt": "Golden State ganó el Juego 1 por 68-64. Gabby Williams anotó 26. La serie va 1-0 y el Juego 2 no se ha jugado.",
     "body": [
-          "Las Finales de la WNBA 2026 arrancaron el sábado en San Francisco con el triunfo 82-76 de las Golden State Valkyries sobre el Atlanta Dream en el Juego 1. En su primera aparición en una serie por el título, la franquicia californiana pegó primero en la serie al mejor de siete.",
-          "Ante 18.064 espectadores en el Chase Center, Golden State dominó la primera mitad por 46-38. Atlanta apretó en el tercer parcial impulsada por Angel Reese (19 puntos y 14 rebotes), apretando el marcador a 68-66 a mediados del último periodo.",
-          "En los minutos finales, la férrea defensa de las Valkyries forzó tres pérdidas consecutivas de Atlanta para sellar el resultado. El Juego 2 se disputará el lunes 19 de octubre a las 20:00 ET en San Francisco."
+      "ESPN y CBS Sports dan Valkyries 68, Dream 64, el sábado 17 de octubre en el Chase Center. Gabby Williams 26 puntos, la banca de Golden State 20. Angel Reese: 14 puntos y 12 rebotes, sin anotar en la segunda mitad. Allisha Gray, con una lesión en la mano, lideró a Atlanta con 19. La línea de 82-76 queda retirada.",
+      "El Juego 2 es el lunes 19 de octubre a las 8:00 p.m. ET en el Chase Center, por USA, Peacock y CNBC. Sin marcador. Serie 1-0."
     ]
   },
   "de": {
-    "title": "WNBA Finals Spiel 1: Valkyries besiegen Dream 82-76 und führen 1-0",
-    "subtitle": "Golden State triumphiert im ersten Finalspiel der Teamgeschichte im Chase Center. Spiel 2 folgt am Montag.",
-    "excerpt": "Die Golden State Valkyries holten am Samstag Spiel 1 der WNBA Finals 2026 mit einem 82-76 über die Atlanta Dream dank starker Abwehrarbeit in der Schlussphase.",
+    "title": "WNBA Finals, Spiel 1: die Valkyries schlagen die Dream 68:64 und führen 1:0",
+    "subtitle": "ESPN und CBS Sports nennen 68:64 am Samstag im Chase Center. Spiel 2 ist am Montag um 20:00 ET.",
+    "excerpt": "Golden State gewann Spiel 1 mit 68:64. Gabby Williams erzielte 26 Punkte. Die Serie steht 1:0, Spiel 2 ist nicht gespielt.",
     "body": [
-          "Die WNBA Finals 2026 begannen am Samstagnachmittag im ausverkauften Chase Center in San Francisco mit einem 82-76-Erfolg der Golden State Valkyries gegen die Atlanta Dream. Im ersten Finalspiel der Klubgeschichte erarbeitete sich das Heimteam die 1-0-Führung in der Best-of-Seven-Serie.",
-          "Vor 18.064 Fans führte Golden State zur Halbzeit mit 46-38. Atlanta kam im dritten Viertel angeführt von Angel Reese (19 Punkte, 14 Rebounds) zurück und verkürzte im Schlussviertel auf 68-66.",
-          "In der Schlussphase erzwang Golden States Defensive drei entscheidende Ballverluste der Dream. Vier verwandelte Freiwürfe in den letzten Sekunden machten den Auftaktsieg perfekt. Spiel 2 findet am Montagabend im Chase Center statt."
+      "ESPN und CBS Sports nennen Valkyries 68, Dream 64, Samstag, 17. Oktober, im Chase Center. Gabby Williams 26 Punkte, die Bank von Golden State 20. Angel Reese: 14 Punkte und 12 Rebounds, in der zweiten Halbzeit ohne Korb. Allisha Gray führte Atlanta mit 19 Punkten an, trotz einer Handverletzung. Eine 82:76-Zeile ist zurückgezogen.",
+      "Spiel 2 ist am Montag, 19. Oktober, um 20:00 ET im Chase Center, auf USA, Peacock und CNBC. Kein Spielstand. Serie 1:0."
     ]
   },
   "it": {
-    "title": "WNBA Finals Gara 1: Valkyries piegano le Dream 82-76 e vanno sull'1-0",
-    "subtitle": "Golden State esulta nella prima gara di finale della sua storia davanti ai tifosi del Chase Center. Gara 2 lunedì.",
-    "excerpt": "Le Golden State Valkyries conquistano Gara 1 delle WNBA Finals 2026 battendo le Atlanta Dream 82-76 con una grande difesa nel finale.",
+    "title": "Finali WNBA, gara 1: le Valkyries battono le Dream 68-64 e conducono 1-0",
+    "subtitle": "ESPN e CBS Sports danno 68-64 sabato al Chase Center. Gara 2 è lunedì alle 20:00 ET.",
+    "excerpt": "Golden State ha vinto gara 1 68-64. Gabby Williams ha segnato 26 punti. La serie è 1-0 e gara 2 non è stata giocata.",
     "body": [
-          "Le WNBA Finals 2026 si sono aperte sabato a San Francisco con il successo delle Golden State Valkyries per 82-76 sulle Atlanta Dream in Gara 1. All'esordio assoluto nelle Finals, Golden State si è portata avanti 1-0 nella serie al meglio delle sette gare.",
-          "Davanti a 18.064 spettatori al Chase Center, le padrone di casa hanno chiuso il primo tempo sul 46-38. Atlanta è rientrata nel terzo quarto con i 19 punti e 14 rimbalzi di Angel Reese, toccando il 68-66 nel quarto periodo.",
-          "La difesa delle Valkyries ha fatto la differenza negli ultimi tre minuti provocando tre palle perse decisive. Gara 2 si giocherà lunedì 19 ottobre al Chase Center."
+      "ESPN e CBS Sports danno Valkyries 68, Dream 64, sabato 17 ottobre al Chase Center. Gabby Williams 26 punti, la panchina di Golden State 20. Angel Reese: 14 punti e 12 rimbalzi, a secco nel secondo tempo. Allisha Gray ha guidato Atlanta con 19 punti, con un infortunio alla mano. La riga 82-76 è ritirata.",
+      "Gara 2 è lunedì 19 ottobre alle 20:00 ET al Chase Center, su USA, Peacock e CNBC. Nessun punteggio. Serie 1-0."
     ]
   },
   "pl": {
-    "title": "Finały WNBA Mecz 1: Valkyries pokonują Dream 82-76 i prowadzą 1-0",
-    "subtitle": "Golden State wygrywa pierwszy mecz finałowy w historii klubu w Chase Center. Mecz numer 2 w poniedziałek.",
-    "excerpt": "Golden State Valkyries rozpoczęły finały WNBA 2026 od triumfu 82-76 nad Atlanta Dream dzięki żelaznej obronie w końcówce spotkania.",
+    "title": "Finały WNBA, mecz 1: Valkyries wygrywają z Dream 68-64 i prowadzą 1-0",
+    "subtitle": "ESPN i CBS Sports podają 68-64 w sobotę w Chase Center. Mecz 2 jest w poniedziałek o 20:00 ET.",
+    "excerpt": "Golden State wzięło mecz 1 wynikiem 68-64. Gabby Williams zdobyła 26 punktów. Seria to 1-0, a mecz 2 nie został rozegrany.",
     "body": [
-          "Finały WNBA 2026 wystartowały w sobotę w San Francisco od zwycięstwa Golden State Valkyries nad Atlanta Dream 82-76 w pierwszym meczu serii. Klub z Zatoki objął prowadzenie 1-0 w rywalizacji do czterech zwycięstw.",
-          "Komplet 18 064 widzów w Chase Center oglądał prowadzenie gospodyń 46-38 do przerwy. Atlanta odpowiedziała w trzeciej kwarcie za sprawą Angel Reese (19 punktów i 14 zbiórek), zmniejszając stratę do 68-66 w czwartej części.",
-          "W decydujących minutach Valkyries wymusiły trzy straty rywalek i bezbłędnie egzekwowały rzuty wolne. Mecz numer 2 zaplanowano na poniedziałek w Chase Center."
+      "ESPN i CBS Sports podają Valkyries 68, Dream 64, sobota 17 października w Chase Center. Gabby Williams 26 punktów, ławka Golden State 20. Angel Reese: 14 punktów i 12 zbiórek, bez punktu w drugiej połowie. Allisha Gray poprowadziła Atlantę z 19 punktami, z kontuzją ręki. Linia 82-76 jest wycofana.",
+      "Mecz 2 jest w poniedziałek 19 października o 20:00 ET w Chase Center, na USA, Peacock i CNBC. Brak wyniku. Seria 1-0."
     ]
   },
   "zh": {
-    "title": "WNBA总决赛G1：女武神82-76力克梦想拔得头筹，总比分1-0领先",
-    "subtitle": "金州女武神在大通中心迎来队史总决赛首胜，系列赛第二战将于周一打响。",
-    "excerpt": "金州女武神在周六进行的2026年WNBA总决赛首战中以82-76击败亚特兰大梦想，依靠末节关键防守抢得开门红。",
+    "title": "WNBA总决赛第一场：女武神68-64击败梦想，系列赛1-0",
+    "subtitle": "ESPN与CBS把周六大通中心的终场记为68-64。第二场是周一美东晚8:00。",
+    "excerpt": "金州以68-64拿下第一场。加比·威廉姆斯得到26分。系列赛1-0，第二场尚未进行。",
     "body": [
-          "2026年WNBA总决赛周六在旧金山大通中心揭开战幕，主场作战的金州女武神在总决赛首场较量中以82-76战胜亚特兰大梦想，在七场四胜制系列赛中取得1-0领先。",
-          "现场18064名球迷见证了女武神在半场打出流畅进攻以46-38占得先机。下半场亚特兰大梦想在前锋安吉尔·里斯（19分14个篮板）带领下发起反扑，在第四节一度将比分迫近至66-68。",
-          "决胜时刻女武神全队众志成城连续造成对手3次关键失误，并在最后30秒稳稳罚中4记罚球锁定胜局。总决赛第二场将于当地时间周一晚在大通中心继续进行。"
+      "ESPN与CBS：10月17日周六大通中心，女武神68，梦想64。加比·威廉姆斯26分，金州替补20分。安杰尔·里斯14分12篮板，下半场没有得分。阿莉沙·格雷带着手伤得到19分。早先的82-76已经撤回。",
+      "第二场是10月19日周一美东晚8:00，大通中心，USA、Peacock与CNBC。无比分。系列赛1-0。"
     ]
   },
   "ja": {
-    "title": "WNBAファイナル第1戦：ヴァルキリーズがドリームを82-76で下し1勝目",
-    "subtitle": "チェイス・センターの熱狂の中、球団初のファイナルを白星で発進。第2戦は月曜夜。",
-    "excerpt": "ゴールデンステイト・ヴァルキリーズが土曜日のWNBAファイナル開幕戦でアトランタ・ドリームを82-76で破り、シリーズ1-0とリードしました。",
+    "title": "WNBAファイナル第1戦: ヴァルキリーズがドリームを68-64で下し1勝0敗",
+    "subtitle": "ESPNとCBSは土曜のチェイス・センターを68-64とする。第2戦は月曜の東部午後8時。",
+    "excerpt": "ゴールデンステートが第1戦を68-64で取った。ギャビー・ウィリアムズが26得点。シリーズは1勝0敗で、第2戦は未実施。",
     "body": [
-          "2026年のWNBAファイナルが土曜日にサンフランシスコのチェイス・センターで開幕し、ゴールデンステイト・ヴァルキリーズがアトランタ・ドリームを82-76で破って初戦を飾りました。",
-          "超満員18,064人の観客の前でヴァルキリーズは前半を46-38でリード。ドリームは後半にエンジェル・リース（19得点、14リバウンド）のインサイド攻撃で反撃し、第4クォーター中盤に66-68と2点差まで迫りました。",
-          "しかしヴァルキリーズは終盤3分間にドリームから3つのターンオーバーを奪い、クラッチフリースローを沈めて逃げ切りました。第2戦は月曜日夜にチェイス・センターで開催されます。"
+      "ESPNとCBSは10月17日土曜、チェイス・センターでヴァルキリーズ68、ドリーム64。ギャビー・ウィリアムズ26得点、ベンチ20得点。エンジェル・リースは14得点12リバウンドで後半無得点。アリシャ・グレイは手のけがを抱えて19得点。82-76という行は撤回する。",
+      "第2戦は10月19日月曜、東部午後8時、チェイス・センター、USA、Peacock、CNBC。スコアなし。シリーズ1勝0敗。"
     ]
   },
   "ko": {
-    "title": "WNBA 파이널 1차전: 발키리스, 드림에 82-76 승리하며 시리즈 1-0 리드",
-    "subtitle": "체이스 센터 만원 관중 앞에서 창단 첫 파이널 승리. 2차전은 월요일 밤 격돌.",
-    "excerpt": "골든스테이트 발키리스가 토요일 WNBA 파이널 1차전에서 아틀란타 드림을 82-76으로 제압하고 7전 4선승제 승부에서 기선 제압에 성공했습니다.",
+    "title": "WNBA 파이널 1차전: 발키리스가 드림을 68-64로 꺾고 1-0",
+    "subtitle": "ESPN과 CBS는 토요일 체이스 센터를 68-64로 적는다. 2차전은 월요일 동부 오후 8시.",
+    "excerpt": "골든스테이트가 1차전을 68-64로 가져갔다. 개비 윌리엄스가 26점을 넣었다. 시리즈는 1-0이고 2차전은 아직이다.",
     "body": [
-          "2026 WNBA 파이널 1차전이 토요일 샌프란시스코 체이스 센터에서 열려 골든스테이트 발키리스가 아틀란타 드림을 82-76으로 꺾었습니다. 창단 첫 파이널 무대에서 값진 첫 승을 거두며 1-0으로 앞서 나갔습니다.",
-          "18,064명의 홈 관중의 응원을 등에 업은 발키리스는 전반을 46-38로 앞섰습니다. 드림은 엔젤 리스(19점 14리바운드)를 앞세워 4쿼터 중반 66-68까지 추격하며 압박했습니다.",
-          "승부처에서 발키리스는 경기 막판 3분간 드림의 실책을 3차례 유도하며 리드를 지켜냈습니다. 시리즈 2차전은 월요일 체이스 센터에서 펼쳐집니다."
+      "ESPN과 CBS: 10월 17일 토요일 체이스 센터, 발키리스 68, 드림 64. 개비 윌리엄스 26점, 벤치 20점. 앤젤 리스는 14점 12리바운드, 후반 무득점. 앨리샤 그레이는 손 부상과 함께 19점. 82-76이라는 줄은 철회한다.",
+      "2차전은 10월 19일 월요일 동부 오후 8시, 체이스 센터, USA, Peacock, CNBC. 스코어 없음. 시리즈 1-0."
     ]
   },
   "ar": {
-    "title": "نهائي WNBA المباراة 1: فالكيريز تفوز على دريم 82-76 وتتقدم 1-0",
-    "subtitle": "غولدن ستيت تفتتح أول نهائي في تاريخها بفوز ثمين أمام جماهير تشيس سنتر. المباراة 2 مساء الاثنين.",
-    "excerpt": "حققت غولدن ستيت فالكيريز الفوز في افتتاح نهائي دوري السيدات WNBA يوم السبت بعد تغلبها على أتلانتا دريم بنتيجة 82-76 بفضل دفاع قوي في اللحظات الحاسمة.",
+    "title": "نهائيات WNBA المباراة 1: فالكيريز تهزم دريم 68-64 وتتقدم 1-0",
+    "subtitle": "ESPN وCBS Sports تضعان 68-64 السبت في تشيس سنتر. المباراة 2 الاثنين عند 8:00 مساء بتوقيت الشرق.",
+    "excerpt": "غولدن ستيت أخذت المباراة 1 بنتيجة 68-64. غابي ويليامز سجلت 26 نقطة. السلسلة 1-0 والمباراة 2 لم تُلعب.",
     "body": [
-          "انطلقت سلسلة نهائي دوري السلة الأمريكي للسيدات 2026 يوم السبت في صالة تشيس سنتر بسان فرانسيسكو بفوز غولدن ستيت فالكيريز على أتلانتا دريم 82-76 في المباراة الأولى، لتتقدم 1-0 في السلسلة المكونة من سبع مباريات.",
-          "وأمام 18,064 متفرجا، أنهت فالكيريز الشوط الأول متقدمة 46-38. وعادت أتلانتا في الربع الثالث بفضل تألق أنجيل ريس (19 نقطة و14 متابعة) لتقلص الفارق إلى 68-66 في الربع الأخير.",
-          "لكن دفاع فالكيريز أحكم قبضته في الدقائق الثلاث الأخيرة وأجبر لاعبات دريم على ارتكاب ثلاث تمريرات خاطئة حاسمة. وتلتقي التشكيلتان في المباراة الثانية مساء الاثنين في سان فرانسيسكو."
+      "ESPN وCBS: السبت 17 أكتوبر في تشيس سنتر، فالكيريز 68، دريم 64. غابي ويليامز 26 نقطة ودكة غولدن ستيت 20. أنجل ريس: 14 نقطة و12 متابعة وبلا نقاط في الشوط الثاني. أليشا غراي قادت أتلانتا بـ19 نقطة مع إصابة في اليد. سطر 82-76 سُحب.",
+      "المباراة 2 الاثنين 19 أكتوبر عند 8:00 مساء بتوقيت الشرق في تشيس سنتر على USA وPeacock وCNBC. لا نتيجة. السلسلة 1-0."
     ]
   }
 },
+
 "nfl-week6-sunday-chiefs-down-chargers-stay-perfect-at-5-0": {
   "fr": {
-    "title": "NFL Semaine 6 dimanche : les Chiefs dominent les Chargers 27-20 et restent invaincus à 5-0",
-    "subtitle": "Patrick Mahomes lance deux touchdowns dans le dernier quart-temps à Arrowhead. Buffalo surclasse Las Vegas 31-13.",
-    "excerpt": "Les Kansas City Chiefs ont conservé leur bilan parfait dimanche en battant les Los Angeles Chargers 27-20 à l'Arrowhead Stadium, consolidant leur emprise sur l'AFC Ouest.",
+    "title": "Semaine 6, dimanche : les Chiefs battent les Chargers 22-6 et restent à 5-0",
+    "subtitle": "Score ESPN à Arrowhead. Les Bills battent les Raiders 33-30 et passent à 5-1. Le lundi soir n'est pas joué.",
+    "excerpt": "Kansas City est resté invaincu en gagnant 22-6 contre les Chargers, qui tombent à 0-6. Buffalo a tenu 33-30 contre Las Vegas.",
     "body": [
-          "Le choc de l'AFC Ouest entre les Kansas City Chiefs et les Los Angeles Chargers a tenu toutes ses promesses dimanche à l'Arrowhead Stadium. A égalité 13-13 au début du quatrième quart-temps, Patrick Mahomes a orchestré deux séries offensives victorieuses pour offrir un succès 27-20 aux siens.",
-          "Mahomes a trouvé Rashee Rice sur 18 yards avant de servir Travis Kelce pour un touchdown de 6 yards à 4 minutes du terme. Justin Herbert a répliqué en trouvant Quentin Johnston pour ramener les Chargers à sept points, mais Kansas City a recouvert l'onside kick pour passer à 5-0.",
-          "Cette victoire conforte Kansas City en tête de l'AFC Ouest devant les Denver Broncos (4-2). Dans les autres rencontres, les Buffalo Bills ont surclassé les Las Vegas Raiders 31-13 pour passer à 5-1 grâce à trois passes de touchdown de Josh Allen. En NFC, Minnesota et San Francisco restent parfaits à 5-0."
+      "Le tableau ESPN donne Los Angeles Chargers 6, Kansas City Chiefs 22. Quart-temps : Chargers 3, 0, 3, 0 et Chiefs 9, 10, 0, 3. Patrick Mahomes 272 yards à la passe, Kenneth Walker III 128 au sol, Xavier Worthy 73 en réception. Chiefs 5-0. Chargers 0-6. Une ligne 27-20, avec des touchdowns inventés au quatrième quart-temps, est retirée.",
+      "Buffalo a battu Las Vegas 33-30. Bills 5-1. Raiders 3-3. Le lundi, Commanders chez les 49ers, n'a pas de score."
     ]
   },
   "es": {
-    "title": "NFL Semana 6 domingo: Chiefs vencen a Chargers 27-20 y siguen invictos 5-0",
-    "subtitle": "Patrick Mahomes firma dos pases de anotación en el último cuarto. Buffalo arrolla 31-13 a Las Vegas y se coloca 5-1.",
-    "excerpt": "Los Kansas City Chiefs mantuvieron su marcha perfecta al imponerse 27-20 a Los Angeles Chargers en un disputado encuentro divisional en Arrowhead.",
+    "title": "Domingo de la semana 6: los Chiefs vencen 22-6 a los Chargers y siguen 5-0",
+    "subtitle": "Final de ESPN en Arrowhead. Los Bills ganan 33-30 a los Raiders y quedan 5-1. El lunes por la noche no se ha jugado.",
+    "excerpt": "Kansas City siguió invicto con un 22-6 sobre los Chargers, que caen a 0-6. Buffalo aguantó 33-30 ante Las Vegas.",
     "body": [
-          "El clásico de la AFC Oeste regaló otro emocionante desenlace en el Arrowhead Stadium. Empatados 13-13 al iniciar el último cuarto, Patrick Mahomes condujo dos series anotadoras consecutivas para asegurar el triunfo 27-20 de Kansas City sobre los Chargers.",
-          "Mahomes conectó con Rashee Rice en un envío de 18 yardas y después encontró a Travis Kelce en la zona de anotación a 4 minutos del final. Justin Herbert descontó con pase a Quentin Johnston, pero los Chiefs recuperaron la patada corta para ponerse 5-0.",
-          "En otros resultados, los Buffalo Bills aplastaron 31-13 a Las Vegas Raiders en el Allegiant Stadium con tres pases de anotación de Josh Allen para ponerse 5-1. En la NFC, los Minnesota Vikings y los San Francisco 49ers siguen invictos con récord de 5-0."
+      "El marcador de ESPN cierra Chargers 6, Chiefs 22. Cuartos: Chargers 3, 0, 3, 0 y Chiefs 9, 10, 0, 3. Mahomes 272 yardas de pase, Kenneth Walker III 128 de carrera, Worthy 73 de recepción. Chiefs 5-0. Chargers 0-6. La línea de 27-20, con touchdowns inventados en el último cuarto, queda retirada.",
+      "Buffalo venció a Las Vegas 33-30. Bills 5-1. Raiders 3-3. El lunes, Commanders en 49ers, no tiene marcador."
     ]
   },
   "de": {
-    "title": "NFL Woche 6 Sonntag: Chiefs bezwingen Chargers 27-20 und bleiben makellos bei 5-0",
-    "subtitle": "Patrick Mahomes wirft zwei Touchdowns im Schlussviertel im Arrowhead. Buffalo fegt Las Vegas mit 31-13 vom Feld.",
-    "excerpt": "Die Kansas City Chiefs wahrten am Sonntag ihre weiße Weste mit einem 27-20 über die Los Angeles Chargers und behaupten die Spitze der AFC West.",
+    "title": "Sonntag, Woche 6: die Chiefs schlagen die Chargers 22:6 und bleiben 5-0",
+    "subtitle": "ESPN-Endstand in Arrowhead. Die Bills schlagen die Raiders 33:30 und stehen 5-1. Montagabend ist nicht gespielt.",
+    "excerpt": "Kansas City blieb mit 22:6 gegen die Chargers ungeschlagen. Die Chargers fallen auf 0-6. Buffalo hielt 33:30 gegen Las Vegas.",
     "body": [
-          "Der Showdown in der AFC West endete am Sonntag im GEHA Field at Arrowhead Stadium mit einem 27-20-Sieg der Kansas City Chiefs gegen die Los Angeles Chargers. Beim Stand von 13-13 im vierten Viertel führte Patrick Mahomes zwei entscheidende Angriffsserien an.",
-          "Mahomes bediente Rashee Rice über 18 Yards und fand anschließend Travis Kelce für einen 6-Yard-Touchdown. Justin Herbert verkürzte mit einem Pass auf Quentin Johnston, doch Kansas City sicherte den Onside-Kick und verbesserte sich auf 5-0.",
-          "Die Buffalo Bills setzten sich parallel bei den Las Vegas Raiders mit 31-13 durch und stehen bei 5-1, angeführt von drei Touchdown-Pässen von Josh Allen. In der NFC halten die Minnesota Vikings und San Francisco 49ers bei 5-0 die Spitzenplätze."
+      "Der ESPN-Spielplan endet Chargers 6, Chiefs 22. Viertel: Chargers 3, 0, 3, 0 und Chiefs 9, 10, 0, 3. Mahomes 272 Passing-Yards, Kenneth Walker III 128 Rushing-Yards, Worthy 73 Receiving-Yards. Chiefs 5-0. Chargers 0-6. Eine 27:20-Zeile mit erfundenen Touchdowns im letzten Viertel ist zurückgezogen.",
+      "Buffalo schlug Las Vegas 33:30. Bills 5-1. Raiders 3-3. Montag, Commanders bei den 49ers, hat keinen Spielstand."
     ]
   },
   "it": {
-    "title": "NFL Week 6 domenica: Chiefs superano i Chargers 27-20 e restano imbattuti sul 5-0",
-    "subtitle": "Patrick Mahomes lancia due touchdown nel quarto periodo all'Arrowhead. Buffalo travolge Las Vegas 31-13 e sale a 5-1.",
-    "excerpt": "I Kansas City Chiefs continuano la loro marcia impeccabile piegando i Los Angeles Chargers 27-20 nella sfida divisionale di domenica.",
+    "title": "Domenica, settimana 6: i Chiefs battono i Chargers 22-6 e restano 5-0",
+    "subtitle": "Finale ESPN ad Arrowhead. I Bills battono i Raiders 33-30 e vanno a 5-1. Il lunedì sera non è stato giocato.",
+    "excerpt": "Kansas City è rimasta imbattuta con un 22-6 sui Chargers, che scendono a 0-6. Buffalo ha tenuto 33-30 contro Las Vegas.",
     "body": [
-          "La sfida di AFC West tra Kansas City Chiefs e Los Angeles Chargers si è decisa nel quarto periodo all'Arrowhead Stadium. Sul 13-13, Patrick Mahomes ha guidato due drive da touchdown consecutivi portando i Chiefs sul 27-20 finale.",
-          "Mahomes ha trovato prima Rashee Rice per 18 yard e poi Travis Kelce per la meta da 6 yard a quattro minuti dal termine. Justin Herbert ha accorciato con un passaggio per Quentin Johnston, ma Kansas City ha ricoperto l'onside kick salendo a 5-0.",
-          "Nelle altre gare i Buffalo Bills hanno espugnato il campo dei Las Vegas Raiders per 31-13 con tre mete aeree di Josh Allen, salendo a 5-1. Nella NFC, Minnesota Vikings e San Francisco 49ers restano perfetti sul 5-0."
+      "Il tabellone ESPN chiude Chargers 6, Chiefs 22. Quarti: Chargers 3, 0, 3, 0 e Chiefs 9, 10, 0, 3. Mahomes 272 yard passate, Kenneth Walker III 128 corse, Worthy 73 ricevute. Chiefs 5-0. Chargers 0-6. La riga 27-20, con touchdown inventati nell'ultimo quarto, è ritirata.",
+      "Buffalo ha battuto Las Vegas 33-30. Bills 5-1. Raiders 3-3. Lunedì, Commanders dai 49ers, non ha punteggio."
     ]
   },
   "pl": {
-    "title": "NFL Tydzien 6 niedziela: Chiefs pokonują Chargers 27-20 i zachowują bilans 5-0",
-    "subtitle": "Patrick Mahomes rzuca dwa przyłożenia w czwartej kwarcie w Arrowhead. Buffalo gromi Las Vegas 31-13 i ma bilans 5-1.",
-    "excerpt": "Kansas City Chiefs pozostają niepokonani po niedzielnym zwycięstwie 27-20 nad Los Angeles Chargers w dywizyjnym starciu w Arrowhead Stadium.",
+    "title": "Niedziela, tydzień 6: Chiefs wygrywają z Chargers 22-6 i zostają 5-0",
+    "subtitle": "Wynik ESPN na Arrowhead. Bills wygrywają z Raiders 33-30 i są 5-1. Poniedziałek wieczór nie został rozegrany.",
+    "excerpt": "Kansas City zostało niepokonane po 22-6 z Chargers, którzy spadają do 0-6. Buffalo utrzymało 33-30 z Las Vegas.",
     "body": [
-          "Niedzielne spotkanie w AFC West przyniosło zaciętą walkę na Arrowhead Stadium. Przy stanie 13-13 przed czwartą kwartą Patrick Mahomes poprowadził dwie serie punktowe, dając Kansas City triumf 27-20 nad Chargers.",
-          "Mahomes posłał podanie na przyłożenie do Rashee Rice'a, a następnie odnalazł Travisa Kelce w polu punktowym. Justin Herbert odpowiedział trafieniem do Quentina Johnstona, lecz Chiefs odzyskali piłkę po onside kicku i awansowali na bilans 5-0.",
-          "W innym meczu Buffalo Bills pokonali na wyjeździe Las Vegas Raiders 31-13 dzięki trzem podaniom na touchdown Josha Allena, poprawiając bilans na 5-1. W konferencji NFC Minnesota Vikings oraz San Francisco 49ers nadal nie zaznali porażki (5-0)."
+      "Tabela ESPN: Chargers 6, Chiefs 22. Kwarty: Chargers 3, 0, 3, 0 i Chiefs 9, 10, 0, 3. Mahomes 272 jardy podaniami, Kenneth Walker III 128 biegiem, Worthy 73 przyjęciami. Chiefs 5-0. Chargers 0-6. Linia 27-20, z wymyślonymi przyłożeniami w czwartej kwarcie, jest wycofana.",
+      "Buffalo pokonało Las Vegas 33-30. Bills 5-1. Raiders 3-3. Poniedziałek, Commanders u 49ers, nie ma wyniku."
     ]
   },
   "zh": {
-    "title": "NFL第6周周日：酋长27-20力克冲锋者保持5胜0负不败，比尔31-13大胜突袭者",
-    "subtitle": "马霍姆斯在箭头球场末节连线赖斯与凯尔西斩获两达阵，布法罗客场轻取拉斯维加斯升至5胜1负。",
-    "excerpt": "堪萨斯城酋长在周日的AFC西区焦点战中以27-20险胜洛杉矶冲锋者，继续捍卫全胜战绩并领跑分区。",
+    "title": "第6周周日：酋长22-6击败闪电，保持5胜0负",
+    "subtitle": "ESPN在箭牌球场的终场。比尔33-30击败突袭者，战绩5胜1负。周一夜间比赛尚未进行。",
+    "excerpt": "堪萨斯城以22-6保持不败。闪电降至0胜6负。布法罗以33-30压住拉斯维加斯。",
     "body": [
-          "周日NFL第6周在箭头球场上演了一场精彩的AFC西区对决。双方带着13-13的平局进入第四节，帕特里克·马霍姆斯关键时刻展现MVP水准，连续组织两次达阵攻势率领酋长以27-20锁定胜局。",
-          "马霍姆斯先是连线拉希·赖斯完成18码接球达阵，随后在比赛还剩4分12秒时助攻特拉维斯·凯尔西完成6码致胜达阵。贾斯汀·赫伯特虽在最后关头助攻约翰斯顿达阵迫近分差，但酋长成功抢下随后的内侧开球将战绩改写为5胜0负。",
-          "另一场较量中，布法罗比尔在客场以31-13击败拉斯维加斯突袭者，四分卫乔希·阿伦送出3次达阵传球，比尔战绩升至5胜1负。在NFC方面，明尼苏达维京人与旧金山49人同样保持5胜0负的完美开局。"
+      "ESPN记分牌：闪电6，酋长22。节次：闪电3、0、3、0，酋长9、10、0、3。马霍姆斯传球272码，肯尼思·沃克三世冲球128码，沃西接球73码。酋长5胜0负。闪电0胜6负。早先的27-20，以及编造的第四节达阵，已经撤回。",
+      "布法罗33-30击败拉斯维加斯。比尔5胜1负。突袭者3胜3负。周一指挥官对49人没有比分。"
     ]
   },
   "ja": {
-    "title": "NFL第6週日曜：チーフスがチャージャーズを27-20で下し5戦全勝キープ",
-    "subtitle": "マホームズが第4Qに2本のTDパスを通しアローヘッドで勝利。ビルズはレイダースに31-13で快勝。",
-    "excerpt": "カンザスシティ・チーフスが日曜日のAFC西地区首位攻防戦でロサンゼルス・チャージャーズを27-20で退け、開幕5連勝を達成しました。",
+    "title": "第6週日曜: チーフスがチャージャーズを22-6で下し5勝0敗",
+    "subtitle": "アローヘッドのESPN終了スコア。ビルズがレイダースを33-30で下し5勝1敗。月曜夜は未実施。",
+    "excerpt": "カンザスシティは22-6で無敗を守った。チャージャーズは0勝6敗。バッファローはラスベガスを33-30で退けた。",
     "body": [
-          "日曜日のアローヘッド・スタジアムで行われたAFC西地区のライバル対決は、第4クォーターに劇的な展開を迎えました。13-13の同点で迎えた勝負どころでパトリック・マホームズが本領を発揮し、チーフスが27-20で競り勝ちました。",
-          "マホームズはラシー・ライスへの18ヤードTDパスに続き、残り4分12秒にトラビス・ケルシーへ6ヤードの勝ち越しTDパスを成功。ジャスティン・ハーバートの反撃を振り切ったチーフスは5勝0敗と無敗を守りました。",
-          "同日行われた試合ではバッファロー・ビルズがラスベガス・レイダースを31-13で圧倒し5勝1敗に。NFCではミネソタ・バイキングスとサンフランシスコ・49ersが5勝0敗を維持しています。"
+      "ESPNはチャージャーズ6、チーフス22。クォーターは3、0、3、0と9、10、0、3。マホームズのパス272ヤード、ケネス・ウォーカー三世のラン128ヤード、ワーシーのレシーブ73ヤード。チーフスは5勝0敗。チャージャーズは0勝6敗。27-20という行と、作られた第4Qのタッチダウンは撤回する。",
+      "バッファローがラスベガスを33-30。ビルズは5勝1敗。レイダースは3勝3敗。月曜のコマンダーズ対49ersにスコアはない。"
     ]
   },
   "ko": {
-    "title": "NFL 6주 차 일요일: 치프스, 차저스에 27-20 신승 거두며 5승 무패 행진",
-    "subtitle": "패트릭 마홈스가 4쿼터 터치다운 2개를 배달하며 승리 견인. 빌스는 레이더스를 31-13으로 대파.",
-    "excerpt": "캔자스시티 치프스가 일요일 애로헤드 스타디움에서 열린 AFC 서부지구 맞대결에서 로스앤젤레스 차저스를 27-20으로 꺾고 무패를 이어갔습니다.",
+    "title": "6주차 일요일: 치프스가 차저스를 22-6으로 꺾고 5승 0패",
+    "subtitle": "애로헤드의 ESPN 종료 스코어. 빌스가 레이더스를 33-30으로 꺾고 5승 1패. 월요일 밤은 아직이다.",
+    "excerpt": "캔자스시티는 22-6으로 무패를 지켰다. 차저스는 0승 6패. 버펄로는 라스베이거스를 33-30으로 버텼다.",
     "body": [
-          "NFL 6주 차 일요일 애로헤드 스타디움에서 열린 AFC 서부지구 명승부에서 캔자스시티 치프스가 차저스를 27-20으로 제압했습니다. 13-13 동점으로 맞선 4쿼터에서 패트릭 마홈스가 경기 흐름을 장악했습니다.",
-          "마홈스는 라시 라이스에게 18야드 터치다운 패스를 연결한 데 이어 트래비스 켈시에게 6야드 쐐기 터치다운을 전달했습니다. 차저스는 저스틴 허버트가 퀜틴 존스턴에게 터치다운을 던지며 추격했으나 치프스가 온사이드 킥을 안전하게 확보하며 5승 고지에 올랐습니다.",
-          "한편 버팔로 빌스는 라스베이거스 레이더스를 31-13으로 완파하고 5승 1패를 기록했습니다. NFC에서는 미네소타 바이킹스와 샌프란시스코 포티나이너스가 나란히 5승 무패를 달리고 있습니다."
+      "ESPN은 차저스 6, 치프스 22. 쿼터는 3, 0, 3, 0과 9, 10, 0, 3. 마홈스 패스 272야드, 케네스 워커 3세 러시 128야드, 워디 리시브 73야드. 치프스는 5승 0패. 차저스는 0승 6패. 27-20이라는 줄과 만들어진 4쿼터 터치다운은 철회한다.",
+      "버펄로가 라스베이거스를 33-30. 빌스는 5승 1패. 레이더스는 3승 3패. 월요일 커맨더스 대 49ers에는 스코어가 없다."
     ]
   },
   "ar": {
-    "title": "دوري NFL الأسبوع 6 الأحد: تشيفس يهزم تشارجرز 27-20 ويحافظ على سجله المثالي 5-0",
-    "subtitle": "باتريك ماهومز يرمي تمريرتي هبوط في الربع الأخير بملعب أروهيد. وبافالو يسحق لاس فيغاس 31-13.",
-    "excerpt": "حافظ كانساس سيتي تشيفس على سجله الخالي من الهزائم بتغلبه على لوس أنجلوس تشارجرز 27-20 يوم الأحد ليواصل تصدر القسم الغربي.",
+    "title": "أحد الأسبوع 6: تشيفس يهزم تشارجرز 22-6 ويبقى 5-0",
+    "subtitle": "نهاية ESPN في أروهد. بيلز يهزم ريدرز 33-30 ويصبح 5-1. مساء الاثنين لم يُلعب.",
+    "excerpt": "كانساس سيتي بقيت بلا هزيمة بعد 22-6 على تشارجرز، الذي يهبط إلى 0-6. بافلو صمدت 33-30 أمام لاس فيغاس.",
     "body": [
-          "شهد ملعب أروهيد فصلا جديدا من الإثارة في دوري كرة القدم الأمريكية NFL يوم الأحد، حيث فاز كانساس سيتي تشيفس على لوس أنجلوس تشارجرز 27-20. بعد التعادل 13-13 عند انطلاق الربع الأخير، قاد باتريك ماهومز هجوم فريقه لتسجيل هبوطين متتاليين.",
-          "مرر ماهومز كرة الهبوط الأولى إلى راشي رايس لمسافة 18 ياردة، ثم أرسل تمريرة ثانية إلى ترافيس كيلسي لمسافة 6 ياردات. ورغم رد جاستن هربرت بتمريرة هبوط لصالح تشارجرز، نجح تشيفس في حسم اللقاء ورفع رصيده إلى 5 انتصارات دون خسارة.",
-          "وفي مباريات أخرى، تغلب بافالو بيلز على لاس فيغاس رايدرز بنتيجة 31-13 ليرفع سجله إلى 5-1. وفي القسم الوطني NFC، يواصل مينيسوتا فايكنغز وسان فرانسيسكو 49 سجلهما المثالي بـ5 انتصارات متتالية."
+      "لوحة ESPN: تشارجرز 6، تشيفس 22. الأشواط 3 و0 و3 و0 مقابل 9 و10 و0 و3. ماهومز 272 ياردة تمرير، كينيث ووكر الثالث 128 ركضا، وورثي 73 استقبالا. تشيفس 5-0. تشارجرز 0-6. سطر 27-20، مع لمسات مخترعة في الربع الأخير، سُحب.",
+      "بافلو فازت 33-30 على لاس فيغاس. بيلز 5-1. ريدرز 3-3. الاثنين، كوماندرز عند 49ers، بلا نتيجة."
     ]
   }
 },
+
 "premier-league-mw7-sunday-arsenal-blank-forest-chase-city": {
   "fr": {
-    "title": "Premier League 7e journée dimanche : Arsenal bat Forest 2-0 et reste au contact de City",
-    "subtitle": "Saka et Havertz trouvent la faille au City Ground. Les Gunners répondent à la victoire de City contre Ipswich.",
-    "excerpt": "Arsenal a maintenu la pression sur Manchester City dimanche en s'imposant 2-0 sur le terrain de Nottingham Forest, revenant à trois longueurs du leader.",
+    "title": "Dimanche de Premier League : Madueke donne à Arsenal un 1-0 à Forest",
+    "subtitle": "Le but est arrivé à la 80e minute. City mène toujours avec 21 points. Brighton a battu Palace 5-0.",
+    "excerpt": "Arsenal reste à trois points de Manchester City grâce à un 1-0 à Nottingham Forest. Noni Madueke a marqué le seul but.",
     "body": [
-          "La pression pesait sur les épaules des Gunners au coup d'envoi dimanche au City Ground. La veille, Manchester City avait enchaîné un septième succès consécutif en dominant Ipswich Town 3-1 à l'Etihad Stadium.",
-          "L'équipe de Mikel Arteta a répondu avec une grande maîtrise. Bukayo Saka a ouvert le score à la 34e minute d'une frappe enroulée du gauche avant que Kai Havertz ne double la mise de la tête à la 68e sur un corner de Declan Rice. Cette victoire 2-0 permet à Arsenal d'atteindre 18 points (6-0-1) et de rester à trois points de City.",
-          "Dans l'autre match dominical, Brighton (3e) a battu Crystal Palace 2-1 à l'Amex Stadium pour monter à 16 points. Samedi, Brentford avait dominé Liverpool 2-1 tandis qu'Everton et Chelsea s'étaient neutralisés 1-1. La 7e journée se refermera lundi avec Tottenham contre Coventry."
+      "Dimanche 18 octobre au City Ground : Nottingham Forest 0, Arsenal 1. Noni Madueke à la 80e. L'AFP : seul tir cadré d'Arsenal, Murillo proche en temps additionnel. Mi-temps 0-0. Arsenal 18 points (6-0-1), trois derrière City. Une ligne 2-0, avec des buteurs inventés, est retirée.",
+      "Brighton 5-0 Palace. Leeds 1-1 United. Bournemouth 2-0 Sunderland. Samedi sur le tableau : City 3-2 Ipswich, Everton 0-2 Chelsea, Brentford 1-2 Liverpool, Newcastle 0-1 Aston Villa, Fulham 1-0 Hull. City 21 points, 19 buts pour et 7 contre. Lundi, Tottenham contre Coventry, pas de score."
     ]
   },
   "es": {
-    "title": "Premier League Jornada 7 domingo: Arsenal vence 2-0 a Forest y no da tregua al City",
-    "subtitle": "Saka y Havertz anotan en el City Ground para responder al 3-1 del City sobre Ipswich.",
-    "excerpt": "El Arsenal cumplió este domingo a domicilio superando 2-0 a Nottingham Forest para mantenerse a solo tres puntos del líder Manchester City.",
+    "title": "Domingo de Premier League: Madueke da al Arsenal un 1-0 en Forest",
+    "subtitle": "El gol llegó en el minuto 80. El City sigue con 21. El Brighton ganó 5-0 al Palace.",
+    "excerpt": "El Arsenal se quedó a tres puntos del Manchester City con un 1-0 en Nottingham Forest. Noni Madueke marcó el único gol.",
     "body": [
-          "El Arsenal no falló a su cita en el City Ground este domingo. Conscientes del triunfo sabatino del Manchester City por 3-1 frente a Ipswich Town, los hombres de Mikel Arteta saltaron obligados a sumar los tres puntos.",
-          "Bukayo Saka abrió el marcador en el minuto 34 con un remate ajustado tras recorte hacia adentro. En el segundo tiempo, Kai Havertz cabeceó a la red en el minuto 68 un centro de Declan Rice para firmar el 2-0 definitivo. Los Gunners alcanzan 18 puntos (6-0-1) y sostienen el pulso por el liderato.",
-          "En el otro duelo del domingo, el Brighton venció 2-1 a Crystal Palace y se coloca tercero con 16 puntos. El sábado Brentford sorprendió 2-1 a Liverpool y Everton empató 1-1 con Chelsea. La fecha concluirá el lunes con Tottenham frente a Coventry."
+      "Domingo 18 de octubre en el City Ground: Nottingham Forest 0, Arsenal 1. Noni Madueke al 80. La AFP: único tiro a puerta del Arsenal, Murillo cerca en el descuento. Descanso 0-0. Arsenal 18 puntos (6-0-1), a tres del City. La línea de 2-0, con goleadores inventados, queda retirada.",
+      "Brighton 5-0 Palace. Leeds 1-1 United. Bournemouth 2-0 Sunderland. Sábado en la tabla: City 3-2 Ipswich, Everton 0-2 Chelsea, Brentford 1-2 Liverpool, Newcastle 0-1 Aston Villa, Fulham 1-0 Hull. City 21 puntos, 19 a favor y 7 en contra. El lunes, Tottenham contra Coventry, sin marcador."
     ]
   },
   "de": {
-    "title": "Premier League 7. Spieltag Sonntag: Arsenal siegt 2-0 bei Forest und jagt City",
-    "subtitle": "Saka und Havertz treffen im City Ground. Die Gunners antworten auf Manchester Citys 3-1 gegen Ipswich.",
-    "excerpt": "Arsenal hielt am Sonntag mit einem souveränen 2-0-Auswärtssieg bei Nottingham Forest den Anschluss an Tabellenführer Manchester City.",
+    "title": "Premier-League-Sonntag: Madueke bringt Arsenal ein 1:0 bei Forest",
+    "subtitle": "Das Tor fiel in der 80. Minute. City führt weiter mit 21 Punkten. Brighton schlug Palace 5:0.",
+    "excerpt": "Arsenal blieb mit einem 1:0 in Nottingham drei Punkte hinter Manchester City. Noni Madueke erzielte das einzige Tor.",
     "body": [
-          "Arsenal stand am Sonntagnachmittag im City Ground unter Zugzwang, nachdem Manchester City am Samstag mit einem 3-1 gegen Ipswich Town auf 21 Punkte davongezogen war.",
-          "Die Mannschaft von Mikel Arteta agierte konzentriert. Bukayo Saka erzielte in der 34. Minute die Führung, ehe Kai Havertz in der 68. Minute per Kopf nach einer Ecke von Declan Rice auf 2-0 stellte. Arsenal steht damit bei 18 Punkten (6-0-1) und bleibt bis auf drei Zähler an City dran.",
-          "Am Sonntag setzte sich zudem Brighton mit 2-1 gegen Crystal Palace durch und ist mit 16 Punkten Dritter. Am Samstag hatte Brentford Liverpool mit 2-1 besiegt, während Everton und Chelsea sich 1-1 trennten. Der Spieltag endet am Montag mit Tottenham gegen Coventry."
+      "Sonntag, 18. Oktober, im City Ground: Nottingham Forest 0, Arsenal 1. Noni Madueke in der 80. Die AFP: Arsenals einziger Schuss aufs Tor, Murillo in der Nachspielzeit nah dran. Pause 0:0. Arsenal 18 Punkte (6-0-1), drei hinter City. Eine 2:0-Zeile mit erfundenen Torschützen ist zurückgezogen.",
+      "Brighton 5:0 Palace. Leeds 1:1 United. Bournemouth 2:0 Sunderland. Samstag aus der Tabelle: City 3:2 Ipswich, Everton 0:2 Chelsea, Brentford 1:2 Liverpool, Newcastle 0:1 Aston Villa, Fulham 1:0 Hull. City 21 Punkte, 19 Tore und 7 Gegentore. Montag, Tottenham gegen Coventry, kein Spielstand."
     ]
   },
   "it": {
-    "title": "Premier League 7a giornata domenica: Arsenal vince 2-0 a Forest e insegue il City",
-    "subtitle": "Saka e Havertz a segno al City Ground. I Gunners rispondono al successo del City sull'Ipswich.",
-    "excerpt": "L'Arsenal risponde presente superando 2-0 il Nottingham Forest in trasferta domenica, rimanendo a tre punti dalla vetta del Manchester City.",
+    "title": "Domenica di Premier League: Madueke dà all'Arsenal un 1-0 al Forest",
+    "subtitle": "Il gol è arrivato all'80º. Il City guida ancora con 21 punti. Il Brighton ha battuto il Palace 5-0.",
+    "excerpt": "L'Arsenal è rimasto a tre punti dal Manchester City con un 1-0 a Nottingham Forest. Noni Madueke ha segnato l'unico gol.",
     "body": [
-          "L'Arsenal non ha tremato al City Ground dopo che il Manchester City aveva conquistato la settima vittoria consecutiva battendo 3-1 l'Ipswich Town sabato all'Etihad.",
-          "I Gunners si sono imposti per 2-0 grazie alla rete di Bukayo Saka al 34' e all'incornata vincente di Kai Havertz al 68' su assist di Declan Rice. La squadra di Arteta sale a 18 punti (6-0-1), a tre lunghezze dal Manchester City capolista con 21 punti.",
-          "Nelle altre sfide, il Brighton si è imposto 2-1 sul Crystal Palace salendo al terzo posto con 16 punti. Sabato il Brentford aveva superato il Liverpool 2-1 mentre Everton e Chelsea avevano chiuso sull'1-1. Lunedì chiude Tottenham-Coventry."
+      "Domenica 18 ottobre al City Ground: Nottingham Forest 0, Arsenal 1. Noni Madueke all'80º. L'AFP: unico tiro in porta dell'Arsenal, Murillo vicino nei minuti di recupero. Intervallo 0-0. Arsenal 18 punti (6-0-1), a tre dal City. La riga 2-0, con marcatori inventati, è ritirata.",
+      "Brighton 5-0 Palace. Leeds 1-1 United. Bournemouth 2-0 Sunderland. Sabato dalla classifica: City 3-2 Ipswich, Everton 0-2 Chelsea, Brentford 1-2 Liverpool, Newcastle 0-1 Aston Villa, Fulham 1-0 Hull. City 21 punti, 19 gol fatti e 7 subiti. Lunedì, Tottenham contro Coventry, nessun punteggio."
     ]
   },
   "pl": {
-    "title": "Premier League 7. kolejka niedziela: Arsenal pokonuje Forest 2-0 i goni City",
-    "subtitle": "Saka i Havertz strzelają na City Ground. Kanonierzy odpowiadają na sobotnią wygraną City z Ipswich.",
-    "excerpt": "Arsenal zachował dystans do lidera, wygrywając w niedzielę 2-0 z Nottingham Forest na wyjeździe i gromadząc 18 punktów.",
+    "title": "Niedziela Premier League: Madueke daje Arsenalowi 1-0 u Forest",
+    "subtitle": "Gol padł w 80. minucie. City nadal ma 21 punktów. Brighton wygrało z Palace 5-0.",
+    "excerpt": "Arsenal został trzy punkty za Manchester City po 1-0 w Nottingham Forest. Noni Madueke strzelił jedynego gola.",
     "body": [
-          "Arsenal przystępował do niedzielnego meczu na City Ground ze świadomością, że Manchester City dzień wcześniej pokonał Ipswich Town 3-1 i umocnił się na czele z kompletem 21 punktów.",
-          "Drużyna Mikela Artety zachowała spokój. Bukayo Saka otworzył wynik w 34. minucie precyzyjnym strzałem lewą nogą, a w 68. minucie Kai Havertz podwyższył na 2-0 po dośrodkowaniu Declana Rice'a z rzutu rożnego. Arsenal ma 18 punktów (6-0-1) i traci 3 punkty do lidera.",
-          "W innym niedzielnym meczu Brighton pokonało Crystal Palace 2-1 i zajmuje 3. miejsce z 16 punktami. W sobotę Brentford wygrało z Liverpoolem 2-1, a Everton zremisował z Chelsea 1-1. Kolejkę zakończy poniedziałkowy mecz Tottenhamu z Coventry."
+      "Niedziela 18 października na City Ground: Nottingham Forest 0, Arsenal 1. Noni Madueke w 80. AFP: jedyny celny strzał Arsenalu, Murillo blisko w doliczonym czasie. Do przerwy 0-0. Arsenal 18 punktów (6-0-1), trzy za City. Linia 2-0, z wymyślonymi strzelcami, jest wycofana.",
+      "Brighton 5-0 Palace. Leeds 1-1 United. Bournemouth 2-0 Sunderland. Sobota z tabeli: City 3-2 Ipswich, Everton 0-2 Chelsea, Brentford 1-2 Liverpool, Newcastle 0-1 Aston Villa, Fulham 1-0 Hull. City 21 punktów, 19 goli i 7 straconych. Poniedziałek, Tottenham kontra Coventry, brak wyniku."
     ]
   },
   "zh": {
-    "title": "英超第7轮周日：阿森纳客场2-0轻取森林紧咬曼城，萨卡哈弗茨建功",
-    "subtitle": "枪手在城市球场用稳定表现回应曼城3-1击败伊普斯威奇，继续以3分之差位列积分榜次席。",
-    "excerpt": "阿森纳周日客场2-0战胜诺丁汉森林全取三分，在英超积分榜上以18分紧咬7连胜领跑的曼城。",
+    "title": "英超周日：马杜埃凯让阿森纳在森林1-0取胜",
+    "subtitle": "进球在第80分钟。曼城仍以21分领跑。布莱顿5-0击败水晶宫。",
+    "excerpt": "阿森纳客场1-0诺丁汉森林，仍落后曼城3分。诺尼·马杜埃凯打入唯一进球。",
     "body": [
-          "周日下午在城市球场，阿森纳面临着必须赢球的压力。此前一天，曼城在伊蒂哈德球场以3-1战胜伊普斯威奇豪取联赛开局七连胜，将积分提升至21分。",
-          "阿尔特塔的球队沉着应对。第34分钟布卡约·萨卡内切兜射打破僵局，第68分钟凯·哈弗茨接德克兰·赖斯角球传中头槌破门将比分改写为2-0。枪手凭借本场胜利以6胜0平1负积18分，继续对曼城保持紧追之势。",
-          "周日另一场比赛中，布莱顿主场2-1力克水晶宫积16分暂居第三。周六的比赛中布伦特福德2-1爆冷战胜利物浦，埃弗顿1-1战平切尔西。本轮最后一场较量将于周一晚在热刺与考文垂之间展开。"
+      "10月18日周日城市球场：诺丁汉森林0，阿森纳1。马杜埃凯第80分钟。法新社：阿森纳全场唯一射正，穆里略补时险些破门。半场0-0。阿森纳18分（6胜0平1负），落后曼城3分。早先的2-0以及编造的进球者已经撤回。",
+      "布莱顿5-0水晶宫。利兹1-1曼联。伯恩茅斯2-0桑德兰。周六对照积分榜：曼城3-2伊普斯维奇，埃弗顿0-2切尔西，布伦特福德1-2利物浦，纽卡斯尔0-1维拉，富勒姆1-0赫尔。曼城21分，进19球失7球。周一热刺对考文垂无比分。"
     ]
   },
   "ja": {
-    "title": "プレミア第7節日曜：アーセナルがフォレストを2-0で下し首位シティを追走",
-    "subtitle": "サカとハフェルツが得点。シティのイプスウィッチ戦3-1勝利に敵地でしっかり応答。",
-    "excerpt": "アーセナルは日曜日に敵地シティ・グラウンドでノッティンガム・フォレストを2-0で退け、首位マンチェスター・シティと3ポイント差を維持しました。",
+    "title": "プレミアリーグ日曜: マドゥエケがアーセナルにフォレストでの1-0を与える",
+    "subtitle": "得点は80分。シティは勝ち点21のまま。ブライトンはパレスに5-0。",
+    "excerpt": "アーセナルはノッティンガム・フォレストに1-0で勝ち、マンチェスター・シティと3点差。ノニ・マドゥエケが唯一の得点者。",
     "body": [
-          "土曜日にマンチェスター・シティがイプスウィッチ・タウンに3-1で勝利し7連勝（勝ち点21）を飾ったため、日曜日にシティ・グラウンドに乗り込んだアーセナルには勝利が必須でした。",
-          "ミケル・アルテタ監督のチームは冷静な試合運びを披露。34分にブカヨ・サカが巧みなミドルシュートを決めて先制し、68分にはデクラン・ライスのコーナーキックからカイ・ハフェルツが頭で押し込んで2-0の勝利を収めました。アーセナルは勝ち点18（6勝0分1敗）としました。",
-          "日曜のもう1試合ではブライトンがクリスタル・パレスに2-1で勝利し勝ち点16の3位に浮上。土曜日にはブレントフォードがリヴァプールを2-1で下し、エヴァートン対チェルシーは1-1で引き分けました。月曜日にトッテナム対コヴェントリーが行われます。"
+      "10月18日日曜、シティ・グラウンドはノッティンガム・フォレスト0、アーセナル1。マドゥエケが80分。AFPはアーセナル唯一の枠内シュートで、ムリージョがアディショナルタイムに惜しかったと伝えた。ハーフタイム0-0。アーセナルは勝ち点18（6勝0分1敗）でシティに3点差。2-0という行と、作られた得点者は撤回する。",
+      "ブライトン5-0パレス。リーズ1-1ユナイテッド。ボーンマス2-0サンダーランド。土曜の表: シティ3-2イプスウィッチ、エバートン0-2チェルシー、ブレントフォード1-2リバプール、ニューカッスル0-1ビラ、フラム1-0ハル。シティは勝ち点21、得点19、失点7。月曜のトッテナム対コベントリーにスコアはない。"
     ]
   },
   "ko": {
-    "title": "EPL 7라운드 일요일: 아스널, 포레스트에 2-0 완승 거두며 맨시티 추격",
-    "subtitle": "사카와 하베르츠 연속 골. 맨시티의 입스위치전 3-1 승리에 원정 승리로 응수.",
-    "excerpt": "아스널이 일요일 노팅엄 포레스트 원정에서 2-0으로 승리하며 7연승을 달린 선두 맨체스터 시티와의 승점 3점 차를 유지했습니다.",
+    "title": "프리미어리그 일요일: 마두에케가 아스널에 포리스트 원정 1-0을 안기다",
+    "subtitle": "골은 80분. 시티는 여전히 승점 21. 브라이턴이 팰리스를 5-0으로 이겼다.",
+    "excerpt": "아스널은 노팅엄 포리스트에서 1-0으로 이겨 맨체스터 시티와 3점 차. 노니 마두에케가 유일한 득점자.",
     "body": [
-          "토요일 맨체스터 시티가 입스위치 타운을 3-1로 제압하고 7전 전승(승점 21)을 기록하자, 일요일 노팅엄 원정에 나선 아스널로서도 승리가 절실했습니다.",
-          "미켈 아르테타 감독의 아스널은 흔들리지 않았습니다. 전반 34분 부카요 사카가 절묘한 감아차기로 선제골을 뽑아냈고, 후반 68분 데클란 라이스의 코너킥을 카이 하베르츠가 헤더로 마무리해 2-0 완승을 거두었습니다. 아스널은 승점 18(6승 1패)을 기록했습니다.",
-          "일요일 또 다른 경기에서는 브라이턴이 크리스탈 팰리스를 2-1로 꺾고 승점 16으로 3위를 지켰습니다. 토요일에는 브렌트퍼드가 리버풀을 2-1로 꺾었고 에버턴과 첼시는 1-1로 비겼습니다. 7라운드는 월요일 토트넘과 코번트리의 경기로 마무리됩니다."
+      "10월 18일 일요일 시티 그라운드: 노팅엄 포리스트 0, 아스널 1. 마두에케 80분. AFP는 아스널의 유일한 유효 슈팅이었고 무리요가 추가 시간에 가까웠다고 전했다. 전반 0-0. 아스널은 승점 18(6승 0무 1패)로 시티에 3점 차. 2-0이라는 줄과 만들어진 득점자는 철회한다.",
+      "브라이턴 5-0 팰리스. 리즈 1-1 유나이티드. 본머스 2-0 선덜랜드. 토요일 표: 시티 3-2 입스위치, 에버턴 0-2 첼시, 브렌트퍼드 1-2 리버풀, 뉴캐슬 0-1 빌라, 풀럼 1-0 헐. 시티는 승점 21, 득점 19, 실점 7. 월요일 토트넘 대 코번트리에는 스코어가 없다."
     ]
   },
   "ar": {
-    "title": "الدوري الإنجليزي الجولة 7 الأحد: أرسنال يفوز على فورست 2-0 ويواصل مطاردة سيتي",
-    "subtitle": "ساكا وهافرتز يسجلان في سيتي غراوند. والغانرز يردون على فوز مانشستر سيتي على إيبسويتش.",
-    "excerpt": "حافظ أرسنال على فارق النقاط الثلاث مع المتصدر مانشستر سيتي بعد فوزه المستحق خارج أرضه على نوتنغهام فورست بنتيجة 2-0 يوم الأحد.",
+    "title": "أحد البريميرليج: مادويكي يمنح أرسنال الفوز 1-0 عند فورست",
+    "subtitle": "الهدف في الدقيقة 80. سيتي ما زال على 21 نقطة. برايتون فاز على بالاس 5-0.",
+    "excerpt": "أرسنال بقي على بعد ثلاث نقاط من مانشستر سيتي بفوز 1-0 في نوتينغهام فورست. نوني مادويكي سجل الهدف الوحيد.",
     "body": [
-          "دخل أرسنال مباراته أمام نوتنغهام فورست يوم الأحد تحت ضغط تحقيق الفوز بعد أن وسع مانشستر سيتي الفارق بتغلبه على إيبسويتش تاون 3-1 يوم السبت ليرفع رصيده إلى 21 نقطة بالعلامة الكاملة.",
-          "وأظهر فريق المدرب ميكيل أرتيتا تركيزا عاليا، حيث افتتح بوكايو ساكا التسجيل في الدقيقة 34 بتسديدة متقنة، قبل أن يضيف كاي هافرتز الهدف الثاني في الدقيقة 68 برأسية إثر ركنية ديكلان رايس. وبهذا الفوز رفع أرسنال رصيده إلى 18 نقطة (6 انتصارات وهزيمة واحدة).",
-          "وفي مواجهة أخرى يوم الأحد، فاز برايتون على كريستال بالاس 2-1 ليعزز مركزه الثالث بـ16 نقطة. وكان برينتفورد قد تغلب على ليفربول 2-1 يوم السبت، بينما تعادل إيفرتون مع تشيلسي 1-1. وتختتم الجولة مساء الاثنين بمباراة توتنهام ضد كوفنتري."
+      "الأحد 18 أكتوبر على سيتي غراوند: نوتينغهام فورست 0، أرسنال 1. نوني مادويكي في 80. وكالة الصحافة الفرنسية: التسديدة الوحيدة على المرمى لأرسنال، وموريلو اقترب في الوقت بدل الضائع. الشوط الأول 0-0. أرسنال 18 نقطة (6-0-1)، بفارق ثلاث عن سيتي. سطر 2-0، مع هدافين مخترعين، سُحب.",
+      "برايتون 5-0 بالاس. ليدز 1-1 يونايتد. بورنموث 2-0 سندرلاند. السبت من الجدول: سيتي 3-2 إبسويتش، إيفرتون 0-2 تشيلسي، برينتفورد 1-2 ليفربول، نيوكاسل 0-1 أستون فيلا، فولهام 1-0 هال. سيتي 21 نقطة، 19 له و7 عليه. الاثنين، توتنهام ضد كوفنتري، بلا نتيجة."
     ]
   }
 },
+
 "f1-austin-race-week-begins-mercedes-title-countdown-2026": {
   "fr": {
     "title": "F1 GP des Etats-Unis : la semaine de course s'ouvre à Austin, Mercedes vise le titre",

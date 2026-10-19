@@ -1,10 +1,10 @@
 {
   "slug": "united-states-gp-austin-2026",
-  "headline": "United States GP: Circuit of the Americas, 23-25 October, race on 25 October",
+  "headline": "United States GP: no session on Monday, race 25 October at 15:00 local",
   "whyCareScore": 8.6,
-  "whyCareReason": "Formula1.com lists Austin next. Antonelli still leads by 102 points after Singapore. No session has a result.",
-  "teaser": "Formula1.com's full timetable lists the grand prix at 15:00 local time. This desk does not convert that clock. Status stays upcoming.",
-  "story": "There is no Grand Prix on 13 October. Formula1.com lists the United States Grand Prix at the Circuit of the Americas for 23-25 October 2026, with the race on 25 October. The full timetable lists the grand prix at 15:00 local time and notes that the timetable can change. This desk does not convert that clock into US Eastern time. The circuit is 5.513 km, with 56 laps and a race distance of 308.405 km. The first grand prix there was in 2012. After Singapore, Kimi Antonelli has 340 points and George Russell 238, a gap of 102. Mercedes have 578 constructor points and Ferrari 444. McLaren's 339 is the team total. No Austin session has a result.",
+  "whyCareReason": "Antonelli leads by 102 points. He can be champion in Austin only by winning the grand prix.",
+  "teaser": "Nothing runs on 19 October. COTA is 23-25 October. Mercedes lead Ferrari by 134 points.",
+  "story": "There is no Formula 1 session on Monday 19 October. Formula1.com lists the United States Grand Prix at the Circuit of the Americas for 23-25 October 2026, with the race on 25 October. The full timetable lists the grand prix at 15:00 local time and notes that the timetable can change. This desk does not convert that clock into US Eastern time. The circuit is 5.513 km, with 56 laps and a race distance of 308.405 km. The first grand prix there was in 2012. After Singapore, Kimi Antonelli has 340 points and George Russell 238, a gap of 102. Mercedes have 578 constructor points and Ferrari 444, a gap of 134. McLaren's 339 is the team total. RacingNews365's 19 October permutation says Antonelli can be champion in Texas only by winning the grand prix, which would take him to 365. That is a permutation, not a result. No Austin lap has a time.",
   "stakes": "The lead is 102 points with Austin, Mexico, Brazil, Las Vegas, Qatar and Abu Dhabi still to run. Nothing in Texas has been timed yet.",
   "rivalryAngle": "The championship does not move on a Tuesday. The next chance to move it is Austin.",
   "funFacts": [
@@ -13,12 +13,30 @@
     "Standings unchanged: Antonelli 340, Russell 238, gap 102. Mercedes 578, Ferrari 444, McLaren 339 constructors."
   ],
   "keyPlayers": [
-    {"name": "Kimi Antonelli", "team": "Mercedes", "hook": "Leads the drivers' championship with 340 points, 102 ahead of Russell."},
-    {"name": "Max Verstappen", "team": "Red Bull", "hook": "Won the Singapore Grand Prix from pole. Has 221 points."},
-    {"name": "George Russell", "team": "Mercedes", "hook": "Second on 238 points after finishing ninth in Singapore from 19th on the grid."}
+    {
+      "name": "Kimi Antonelli",
+      "team": "Mercedes",
+      "hook": "Leads the drivers' championship with 340 points, 102 ahead of Russell."
+    },
+    {
+      "name": "Max Verstappen",
+      "team": "Red Bull",
+      "hook": "Won the Singapore Grand Prix from pole. Has 221 points."
+    },
+    {
+      "name": "George Russell",
+      "team": "Mercedes",
+      "hook": "Second on 238 points after finishing ninth in Singapore from 19th on the grid."
+    }
   ],
   "headToHead": "No Austin session has been run. Singapore remains the last classified race.",
-  "tags": ["f1", "austin", "united-states-gp", "cota", "antonelli"],
+  "tags": [
+    "f1",
+    "austin",
+    "united-states-gp",
+    "cota",
+    "antonelli"
+  ],
   "home": "United States Grand Prix",
   "away": "Formula 1",
   "homeCode": null,
@@ -45,11 +63,17 @@
   "format": "race",
   "season": "2026",
   "roundLabel": "Formula 1 · United States Grand Prix",
-  "resultSummary": "UPCOMING: Austin, 23-25 October 2026, race on 25 October. Antonelli leads by 102 points. No result.",
+  "resultSummary": "UPCOMING: race Sunday 25 October, 15:00 local. No session on 19 October. Antonelli 340, Russell 238.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
-    {"name": "Formula 1 United States GP", "url": "https://www.formula1.com/en/racing/2026/united-states"},
-    {"name": "Formula 1 full timetable", "url": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-united-states-grand-prix-2026.2u6li2pzNhPzL3TSYaagrm"}
+    {
+      "name": "Formula 1 United States GP",
+      "url": "https://www.formula1.com/en/racing/2026/united-states"
+    },
+    {
+      "name": "Formula 1 full timetable",
+      "url": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-united-states-grand-prix-2026.2u6li2pzNhPzL3TSYaagrm"
+    }
   ]
 }

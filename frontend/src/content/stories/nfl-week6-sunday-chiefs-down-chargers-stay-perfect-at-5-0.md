@@ -1,8 +1,8 @@
 ---
-title: "NFL Week 6 Sunday: Chiefs edge Chargers 27-20 to stay unbeaten at 5-0"
-subtitle: "Patrick Mahomes throws two fourth-quarter touchdowns at Arrowhead. Buffalo routs Las Vegas 31-13 to move to 5-1."
+title: "NFL Week 6 Sunday: Chiefs beat Chargers 22-6 and stay 5-0"
+subtitle: "ESPN final at Arrowhead. Bills beat the Raiders 33-30 and move to 5-1. Monday night is still unplayed."
 category: "Desk"
-excerpt: "The Kansas City Chiefs preserved their unblemished record on Sunday, outlasting the Los Angeles Chargers 27-20 at Arrowhead Stadium as AFC contenders jockey for playoff positioning."
+excerpt: "Kansas City stayed unbeaten with a 22-6 win over the Chargers, who fall to 0-6. Buffalo held off Las Vegas 33-30."
 image: "https://images.pexels.com/photos/1618269/pexels-photo-1618269.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 readingTime: 5
 pubDate: 2026-10-18
@@ -10,20 +10,18 @@ sport: football
 competition: nfl-2026
 relatedSlug: chiefs-vs-chargers-week6-2026
 sources:
-  - name: "NFL.com Week 6 scores"
-    url: "https://www.nfl.com/scores"
   - name: "ESPN NFL Week 6 scoreboard"
     url: "https://www.espn.com/nfl/scoreboard/_/week/6/year/2026"
+  - name: "Associated Press NFL glance"
+    url: "https://www.wfmz.com/news/ap/ap-spanish/nfl-glance/article_f46ea0f9-9795-5303-a5ee-8076cc20a751.html"
 ---
 
-## Mahomes delivers late in Arrowhead thriller
+## Arrowhead finished 22-6, not a one-score game
 
-NFL Week 6 Sunday produced another dramatic chapter in the AFC West rivalry between the Kansas City Chiefs and Los Angeles Chargers. Tied 13-13 entering the final quarter at GEHA Field at Arrowhead Stadium, Patrick Mahomes orchestrated back-to-back scoring drives to guide Kansas City to a hard-fought 27-20 victory.
+The ESPN scoreboard for Sunday, 18 October, lists the Los Angeles Chargers at the Kansas City Chiefs as a final: Chargers 6, Chiefs 22. Quarters: Chargers 3, 0, 3, 0 and Chiefs 9, 10, 0, 3. ESPN lists Patrick Mahomes with 272 passing yards, Kenneth Walker III with 128 rushing yards and Xavier Worthy with 73 receiving yards. The Chiefs are 5-0. The Chargers are 0-6.
 
-Mahomes hit Rashee Rice on an 18-yard crossing route before finding tight end Travis Kelce for a 6-yard touchdown with 4:12 remaining. Justin Herbert answered with a touchdown pass to Quentin Johnston to draw Los Angeles within seven, but Kansas City secured the ensuing onside kick to seal the triumph and move to 5-0.
+An earlier card on this desk that read 27-20, with invented fourth-quarter touchdowns, is withdrawn. The sourced final is 22-6.
 
-## AFC contenders solidify standings
+## The rest of the Sunday board
 
-The victory keeps Kansas City atop the AFC West, widening their lead over the second-placed Denver Broncos (4-2), who edged Seattle 17-14 in overtime on Thursday Night Football. The Chargers fall to 3-3 following consecutive division setbacks.
-
-Elsewhere in the afternoon window, the Buffalo Bills dismantled the Las Vegas Raiders 31-13 at Allegiant Stadium. Josh Allen accounted for three passing touchdowns and James Cook added 94 rushing yards as Buffalo advanced to 5-1. Across the NFC, the Minnesota Vikings and San Francisco 49ers stand at 5-0, preserving a thrilling battle of unbeatens across both conferences.
+Buffalo Bills 33, Las Vegas Raiders 30 at Allegiant Stadium. Quarters: Bills 3, 10, 10, 10 and Raiders 7, 6, 0, 17. The Bills are 5-1. The Raiders are 3-3. Sunday night: Dallas Cowboys 13, Green Bay Packers 23 at Lambeau Field. Thursday still stands: Denver Broncos 17, Seattle Seahawks 14 in overtime. Broncos 4-2, Seahawks 3-3. The Vikings are 5-0 on a bye. The 49ers are 5-0 and host the Commanders on Monday at 8:15 p.m. ET. That game has no score.

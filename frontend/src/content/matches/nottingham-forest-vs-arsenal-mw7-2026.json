@@ -1,24 +1,43 @@
 {
   "slug": "nottingham-forest-vs-arsenal-mw7-2026",
-  "headline": "Premier League MW7: Arsenal defeat Forest 2-0 to maintain pressure on City",
+  "headline": "Premier League MW7: Madueke gives Arsenal a 1-0 win at Forest",
   "whyCareScore": 9.1,
-  "whyCareReason": "Bukayo Saka and Kai Havertz strike at the City Ground as Arsenal collect their sixth win and stay three points behind Manchester City.",
-  "teaser": "Arsenal respond to City's Saturday victory with a commanding 2-0 away display in Nottingham to reach 18 points.",
-  "story": "Premier League Matchweek 7 continued on Sunday 18 October as Arsenal secured a crucial 2-0 victory over Nottingham Forest at the City Ground. Knowing league leaders Manchester City had extended their tally to 21 points with Saturday's 3-1 win over Ipswich, Mikel Arteta's side needed all three points to protect their title chase. Bukayo Saka opened the scoring in the 34th minute with a curling left-footed finish into the far corner. Kai Havertz doubled the advantage in the 68th minute, heading home a pinpoint Declan Rice delivery from a set piece. Forest mounted late pressure with Morgan Gibbs-White, but David Raya made two decisive saves to keep a clean sheet. The win lifts Arsenal to 18 points (6-0-1), keeping them firmly within three points of the summit.",
-  "stakes": "Second-placed Arsenal needed three points to prevent Manchester City from establishing a six-point advantage at the top of the table.",
-  "rivalryAngle": "The City Ground has proven a dangerous venue in past title races, making Arteta's composed victory an emphatic statement.",
+  "whyCareReason": "Noni Madueke scored in the 80th minute. Arsenal stay three points behind City on 18.",
+  "teaser": "Forest 0, Arsenal 1. AFP called it Arsenal's only shot on target. Murillo went close in stoppage time.",
+  "story": "Sunday 18 October at the City Ground finished Nottingham Forest 0, Arsenal 1. Noni Madueke scored in the 80th minute. AFP reported it was Arsenal's only shot on target, and that Murillo went close in stoppage time. Half-time was 0-0. Arsenal are second on 18 points from 6 wins and 1 loss, three behind Manchester City. An earlier 2-0 line, with unnamed invented scorers, is withdrawn. Madueke told Sky: We did it all together. It was champion spirit.",
+  "stakes": "Three points keep Arsenal on 18, three behind City on 21. Forest are 18th on 5 points.",
+  "rivalryAngle": "A title-chasing side took one goal from a single shot on target.",
   "funFacts": [
-    "Bukayo Saka scored his fourth Premier League goal of the 2026/27 campaign.",
-    "Arsenal have kept four clean sheets in seven league fixtures.",
-    "Arsenal reach 18 points (6-0-1), sitting three points behind leaders Manchester City (21 points, 7-0-0)."
+    "Scorer: Noni Madueke, 80th minute. Half-time 0-0.",
+    "AFP: Arsenal's only shot on target. Murillo went close in stoppage time.",
+    "Arsenal 18 points (6-0-1), 11 for and 5 against. City lead on 21."
   ],
   "keyPlayers": [
-    {"name": "Bukayo Saka", "team": "Arsenal", "hook": "Broke the deadlock in the 34th minute with a trademark cut-inside and curling finish."},
-    {"name": "Kai Havertz", "team": "Arsenal", "hook": "Secured the points with a clinical header from Rice's 68th-minute cross."},
-    {"name": "David Raya", "team": "Arsenal", "hook": "Preserved the clean sheet with two vital second-half stops."}
+    {
+      "name": "Noni Madueke",
+      "team": "Arsenal",
+      "hook": "Scored the only goal in the 80th minute."
+    },
+    {
+      "name": "Murillo",
+      "team": "Nottingham Forest",
+      "hook": "Went close in stoppage time, per AFP."
+    },
+    {
+      "name": "Arsenal",
+      "team": "Arsenal",
+      "hook": "18 points, goal difference +6, three behind City."
+    }
   ],
-  "headToHead": "Sunday 18 October 2026. Final score: Nottingham Forest 0, Arsenal 2.",
-  "tags": ["soccer", "premier-league", "arsenal", "nottingham-forest", "mw7", "saka"],
+  "headToHead": "Sunday 18 October 2026. Final: Nottingham Forest 0, Arsenal 1.",
+  "tags": [
+    "soccer",
+    "premier-league",
+    "arsenal",
+    "nottingham-forest",
+    "mw7",
+    "saka"
+  ],
   "home": "Nottingham Forest",
   "away": "Arsenal",
   "homeCode": null,
@@ -33,7 +52,7 @@
   "city": "Nottingham",
   "status": "FINISHED",
   "homeScore": 0,
-  "awayScore": 2,
+  "awayScore": 1,
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/60778/pexels-photo-60778.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
@@ -45,11 +64,17 @@
   "format": "team-match",
   "season": "2026/27",
   "roundLabel": "Premier League · Matchweek 7",
-  "resultSummary": "FINAL: Sunday 18 October, The City Ground. Nottingham Forest 0, Arsenal 2. Arsenal reach 18 points (6-0-1).",
+  "resultSummary": "FINAL: Sunday 18 October, City Ground. Forest 0, Arsenal 1. Madueke 80. Arsenal 18 points.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
-    {"name": "PremierLeague.com match centre", "url": "https://www.premierleague.com/match/nottingham-forest-vs-arsenal-2026"},
-    {"name": "NBC Sports Premier League table", "url": "https://www.nbcsports.com/soccer/news/premier-league-table-for-2026-27-season"}
+    {
+      "name": "AFP via Dawn",
+      "url": "https://www.dawn.com/news/2038200"
+    },
+    {
+      "name": "Xinhua Premier League standings",
+      "url": "https://english.news.cn/20261019/b078eb594d5f401a875ec4ddaee82dbd/c.html"
+    }
   ]
 }

@@ -1,26 +1,46 @@
 {
   "slug": "shanghai-masters-2026-semifinals-saturday",
-  "headline": "Shanghai Semifinals Saturday: Zverev-Davidovich Fokina and Medvedev-Jodar",
+  "headline": "Shanghai semifinals: Davidovich Fokina beats Zverev, Jodar beats Medvedev",
   "whyCareScore": 9.4,
-  "whyCareReason": "Top seed Alexander Zverev faces Alejandro Davidovich Fokina, while Daniil Medvedev meets 20-year-old sensation Rafael Jodar on Stadium Court.",
-  "teaser": "Saturday at Qizhong: Zverev vs Davidovich Fokina, followed by Medvedev vs Jodar. The winners advance to Sunday's championship final.",
-  "story": "Saturday 17 October at the Rolex Shanghai Masters showcases both men's singles semifinals on Stadium Court at Qizhong Forest Sports City Arena. The afternoon session opens with top seed Alexander Zverev facing Spain's Alejandro Davidovich Fokina. Zverev, already confirmed as year-end ATP world No. 1, defeated Alex de Minaur 6-4, 6-4 in the quarterfinals, while Davidovich Fokina advanced past Arthur Gea. The second semifinal features fifth seed Daniil Medvedev against 20-year-old Rafael Jodar. Jodar reached the last four with a historic 4-6, 6-4, 6-3 comeback over Casper Ruud, while Medvedev defeated Tommy Paul 6-3, 1-6, 6-3 with 16 aces.",
-  "stakes": "A place in Sunday's Masters 1000 final. Zverev seeks to cap his year-end No. 1 season with a trophy, while Jodar chases his first ATP final.",
-  "rivalryAngle": "Medvedev's veteran Masters pedigree clashes with Jodar's fairytale breakout run in Shanghai.",
+  "whyCareReason": "Both seeds lost. The final became an all-Spanish match.",
+  "teaser": "Davidovich Fokina d. Zverev 5-7, 6-4, 6-3. Jodar d. Medvedev 6-3, 6-4.",
+  "story": "Saturday 17 October at Qizhong did not follow the seeding. Alejandro Davidovich Fokina beat Alexander Zverev 5-7, 6-4, 6-3 in 2 hours 2 minutes, umpire Mohamed Lahyani. Rafael Jodar beat Daniil Medvedev 6-3, 6-4 in 1 hour 44 minutes, umpire Adel Nour. The earlier card that had Zverev beating Fokina and Medvedev beating Jodar is withdrawn.",
+  "stakes": "The winners met in Sunday's final, which Davidovich Fokina won.",
+  "rivalryAngle": "A 25th seed and a 20-year-old removed the year-end No. 1 and the 2019 champion.",
   "funFacts": [
-    "Semifinal 1: Alexander Zverev (1) vs Alejandro Davidovich Fokina.",
-    "Semifinal 2: Daniil Medvedev (5) vs Rafael Jodar (12).",
-    "Jodar is the youngest semifinalist in the history of the Rolex Shanghai Masters."
+    "SF1: Alejandro Davidovich Fokina d. Alexander Zverev 5-7, 6-4, 6-3 in 2:02.",
+    "SF2: Rafael Jodar d. Daniil Medvedev 6-3, 6-4 in 1:44.",
+    "Zverev remains the year-end No. 1 after the loss."
   ],
   "keyPlayers": [
-    {"name": "Alexander Zverev", "team": "Germany", "hook": "Year-end world No. 1, won 80 percent of first-serve points against de Minaur."},
-    {"name": "Rafael Jodar", "team": "Spain", "hook": "Youngest semifinalist in Shanghai history, four straight comeback wins."},
-    {"name": "Daniil Medvedev", "team": "Neutral", "hook": "Reaches his 19th ATP Masters 1000 semifinal with 16 aces against Paul."}
+    {
+      "name": "Alejandro Davidovich Fokina",
+      "team": "Spain",
+      "hook": "Beat Zverev 5-7, 6-4, 6-3."
+    },
+    {
+      "name": "Rafael Jodar",
+      "team": "Spain",
+      "hook": "Beat Medvedev 6-3, 6-4. Age 20."
+    },
+    {
+      "name": "Alexander Zverev",
+      "team": "Germany",
+      "hook": "Lost in three sets. Still the year-end No. 1."
+    }
   ],
-  "headToHead": "Saturday 17 October 2026. Status upcoming. No score.",
-  "tags": ["tennis", "atp", "shanghai", "semifinals", "zverev", "jodar", "medvedev"],
-  "home": "Alexander Zverev",
-  "away": "Alejandro Davidovich Fokina",
+  "headToHead": "Saturday 17 October 2026. Fokina d. Zverev 5-7, 6-4, 6-3. Jodar d. Medvedev 6-3, 6-4.",
+  "tags": [
+    "tennis",
+    "atp",
+    "shanghai",
+    "semifinals",
+    "zverev",
+    "jodar",
+    "medvedev"
+  ],
+  "home": "Alejandro Davidovich Fokina",
+  "away": "Alexander Zverev",
   "homeCode": null,
   "awayCode": null,
   "homeFlag": "",
@@ -33,7 +53,7 @@
   "city": "Shanghai",
   "status": "FINISHED",
   "homeScore": 2,
-  "awayScore": 0,
+  "awayScore": 1,
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/1103828/pexels-photo-1103828.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
@@ -45,17 +65,43 @@
   "format": "singles",
   "season": "2026",
   "roundLabel": "Shanghai Masters · Semifinals",
-  "resultSummary": "FINAL: Saturday 17 October. SF1: Zverev d. Davidovich Fokina 6-4, 6-3. SF2: Medvedev d. Jodar 7-6(4), 6-3. Sunday Final: Zverev vs Medvedev.",
+  "resultSummary": "FINAL: Fokina d. Zverev 5-7, 6-4, 6-3. Jodar d. Medvedev 6-3, 6-4.",
   "leaderboard": [
-    {"pos": "SF1", "name": "Alexander Zverev d. Alejandro Davidovich Fokina", "score": "6-4, 6-3", "note": "Stadium Court"},
-    {"pos": "SF2", "name": "Daniil Medvedev d. Rafael Jodar", "score": "7-6(4), 6-3", "note": "Stadium Court"}
+    {
+      "pos": "SF1",
+      "name": "Alejandro Davidovich Fokina d. Alexander Zverev",
+      "score": "5-7, 6-4, 6-3",
+      "note": "2:02, umpire Mohamed Lahyani"
+    },
+    {
+      "pos": "SF2",
+      "name": "Rafael Jodar d. Daniil Medvedev",
+      "score": "6-3, 6-4",
+      "note": "1:44, umpire Adel Nour"
+    }
   ],
   "tennisSets": [
-    {"p1": "6", "p2": "4"},
-    {"p1": "6", "p2": "3"}
+    {
+      "p1": "5",
+      "p2": "7"
+    },
+    {
+      "p1": "6",
+      "p2": "4"
+    },
+    {
+      "p1": "6",
+      "p2": "3"
+    }
   ],
   "sources": [
-    {"name": "ATP Tour Saturday order of play", "url": "https://www.atptour.com/en/news/shanghai-2026-schedule"},
-    {"name": "Rolex Shanghai Masters", "url": "https://en.rolexshanghaimasters.com/en/media/news/shanghai-2026-semifinals-preview"}
+    {
+      "name": "ATP Tour Shanghai results",
+      "url": "https://www.atptour.com/en/scores/current/shanghai/5014/results"
+    },
+    {
+      "name": "beIN Sports",
+      "url": "https://www.beinsports.com/en-nz/tennis/atp-tour/articles-video/zverev-and-medvedev-undone-in-shanghai-surprises-2026-10-17"
+    }
   ]
 }

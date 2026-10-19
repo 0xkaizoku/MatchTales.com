@@ -1,10 +1,10 @@
 {
   "slug": "butterfield-bermuda-championship-2026",
-  "headline": "Butterfield Bermuda Championship: Port Royal, 22-25 October, no score yet",
+  "headline": "Butterfield Bermuda: field of 120 is set, Port Royal opens Thursday, no score",
   "whyCareScore": 7.4,
-  "whyCareReason": "The PGA Tour is off the week of 13 October. ESPN lists the next event at Port Royal, with Adam Schenk as the previous winner.",
-  "teaser": "Purse $6 million. First round 22 October. Brennan's Baycurrent win at 16 under still stands. This event is not live.",
-  "story": "The PGA Tour schedule has no tournament in the week of 13 October. The next event is the Butterfield Bermuda Championship, 22-25 October 2026, at Port Royal Golf Course in Southampton, Bermuda. ESPN lists a purse of $6 million and Adam Schenk as the previous winner. Michael Brennan's Baycurrent Classic win still stands: a closing 68, a total of 268, 16 under, and $1.44 million. There is no score on the Bermuda board.",
+  "whyCareReason": "No round on Monday 19 October. First round is Thursday 22 October. Adam Schenk defends.",
+  "teaser": "120 players, a $6 million purse, 500 FedExCup points. The cut is the low 65 and ties after 36 holes.",
+  "story": "Monday 19 October is not a PGA Tour round. The Butterfield Bermuda Championship is 22-25 October 2026 at Port Royal Golf Course in Southampton, the eighth playing. The PGA Tour lists a 120-player field, a $6 million purse, a winner's share of $1.08 million and 500 FedExCup points. The cut is the low 65 and ties after 36 holes. Golf Channel's first-round coverage is 1:00 p.m. ET on Thursday. Past champions in the field: Brendon Todd (2019), Seamus Power (2022), Camilo Villegas (2023), Rafael Campos (2024) and defending champion Adam Schenk (2025). Michael Brennan's Baycurrent win still stands: a closing 68, a total of 268, 16 under, and $1.44 million. There is no Monday leader.",
   "stakes": "The next PGA Tour start is 22 October. Nothing in Bermuda has been played.",
   "rivalryAngle": "A week off sits between Yokohama and the next full-field start in Bermuda.",
   "funFacts": [
@@ -13,11 +13,25 @@
     "Baycurrent still stands: Brennan 16 under, final-round 68, $1.44 million."
   ],
   "keyPlayers": [
-    {"name": "Adam Schenk", "team": "PGA Tour", "hook": "ESPN lists him as the previous winner at Port Royal."},
-    {"name": "Michael Brennan", "team": "PGA Tour", "hook": "Won the Baycurrent Classic at 16 under. That board is closed."}
+    {
+      "name": "Adam Schenk",
+      "team": "PGA Tour",
+      "hook": "ESPN lists him as the previous winner at Port Royal."
+    },
+    {
+      "name": "Michael Brennan",
+      "team": "PGA Tour",
+      "hook": "Won the Baycurrent Classic at 16 under. That board is closed."
+    }
   ],
-  "headToHead": "No Bermuda round has been played. The event opens on 22 October 2026.",
-  "tags": ["golf", "pga-tour", "bermuda", "port-royal", "butterfield"],
+  "headToHead": "No round has been played. Port Royal opens Thursday 22 October.",
+  "tags": [
+    "golf",
+    "pga-tour",
+    "bermuda",
+    "port-royal",
+    "butterfield"
+  ],
   "home": "Butterfield Bermuda Championship",
   "away": "PGA Tour",
   "homeCode": null,
@@ -44,11 +58,17 @@
   "format": "leaderboard",
   "season": "2026",
   "roundLabel": "PGA Tour · Butterfield Bermuda Championship",
-  "resultSummary": "UPCOMING: 22-25 October 2026, Port Royal, Southampton. Purse $6 million. Previous winner Adam Schenk. No score.",
+  "resultSummary": "UPCOMING: first round Thursday 22 October. Field of 120. No score on 19 October.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
-    {"name": "ESPN golf schedule", "url": "https://www.espn.com/golf/schedule"},
-    {"name": "PGA Tour schedule", "url": "https://www.pgatour.com/schedule"}
+    {
+      "name": "ESPN golf schedule",
+      "url": "https://www.espn.com/golf/schedule"
+    },
+    {
+      "name": "PGA Tour schedule",
+      "url": "https://www.pgatour.com/schedule"
+    }
   ]
 }
