@@ -1,0 +1,142 @@
+{
+  "slug": "atp-lyon-2026-tuesday-moutet-humbert",
+  "headline": "Lyon: Moutet beats Humbert 6-2, 6-7(5), 7-6(4)",
+  "whyCareScore": 8.7,
+  "whyCareReason": "The two-time champion lost on Tuesday in three hours and 21 minutes. Almaty's first round is also through.",
+  "teaser": "ATP 250 in Lyon, 20 October. Moutet, ranked 94, beat the No. 7 seed.",
+  "story": "Corentin Moutet beat Ugo Humbert 6-2, 6-7(5), 7-6(4) in 3 hours 21 minutes on Tuesday at the ATP 250 in Lyon. The ATP match report is dated 20 October 2026. Humbert, the No. 7 seed and a two-time champion of this event when it was held in Marseille, lost. Moutet is ranked 94 and said he played with his heart. ATP lists his next match against Felix Balshaw. Also on the ATP Tuesday card in Lyon: Borna Gojo beat Arthur Fery 6-3, 7-6(2), and Pierre-Hugues Herbert beat Sebastian Baez 6-3, 6-4. In Almaty, ATP's Tuesday block has Facundo Diaz Acosta, Nikoloz Basilashvili, James Duckworth, Mikhail Kukushkin and Adrian Mannarino through. Shanghai still stands: Alejandro Davidovich Fokina beat Rafael Jodar.",
+  "stakes": "Humbert was the first seed to fall in Lyon. Moutet was playing his first match since retiring at the US Open.",
+  "rivalryAngle": "An all-French first-round match against the two-time champion.",
+  "funFacts": [
+    "Moutet d. Humbert 6-2, 6-7(5), 7-6(4) in 3:21. Umpire Timo Janzen.",
+    "Gojo d. Fery 6-3, 7-6(2). Herbert d. Baez 6-3, 6-4.",
+    "Almaty Tuesday: Diaz Acosta, Basilashvili, Duckworth, Kukushkin and Mannarino won."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Corentin Moutet",
+      "team": "France",
+      "hook": "Beat Humbert in three sets. Ranked 94."
+    },
+    {
+      "name": "Ugo Humbert",
+      "team": "France",
+      "hook": "No. 7 seed and two-time champion. Lost in 3 hours 21 minutes."
+    },
+    {
+      "name": "Karen Khachanov",
+      "team": "Almaty",
+      "hook": "ATP scoreboard shows 6-2, 6-4 against Rei Sakamoto on the next session block."
+    }
+  ],
+  "headToHead": "Tuesday 20 October 2026. Moutet d. Humbert 6-2, 6-7(5), 7-6(4).",
+  "tags": [
+    "tennis",
+    "atp",
+    "lyon",
+    "moutet",
+    "humbert",
+    "almaty"
+  ],
+  "home": "Corentin Moutet",
+  "away": "Ugo Humbert",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "ATP 250",
+  "matchday": 1,
+  "date": "2026-10-20",
+  "time": "14:00",
+  "venue": "Court Central Auvergne-Rhone-Alpes",
+  "city": "Lyon",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 1,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209841/pexels-photo-209841.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "sets",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Lyon ATP 250 · Round of 32",
+  "resultSummary": "FINAL: Moutet d. Humbert 6-2, 6-7(5), 7-6(4) in 3:21.",
+  "leaderboard": [
+    {
+      "pos": "LY1",
+      "name": "Corentin Moutet d. Ugo Humbert",
+      "score": "6-2, 6-7(5), 7-6(4)",
+      "note": "3:21, umpire Timo Janzen"
+    },
+    {
+      "pos": "LY2",
+      "name": "Borna Gojo d. Arthur Fery",
+      "score": "6-3, 7-6(2)",
+      "note": "ATP Tuesday card"
+    },
+    {
+      "pos": "LY3",
+      "name": "Pierre-Hugues Herbert d. Sebastian Baez",
+      "score": "6-3, 6-4",
+      "note": "ATP Tuesday card"
+    },
+    {
+      "pos": "AL1",
+      "name": "Facundo Diaz Acosta d. Thiago Agustin Tirante",
+      "score": "6-7(3), 6-1, 6-4",
+      "note": "Almaty, ATP Tuesday block"
+    },
+    {
+      "pos": "AL2",
+      "name": "Nikoloz Basilashvili d. Marin Cilic",
+      "score": "6-2, 7-5",
+      "note": "Almaty, ATP Tuesday block"
+    },
+    {
+      "pos": "AL3",
+      "name": "James Duckworth d. Miomir Kecmanovic",
+      "score": "6-4, 6-3",
+      "note": "Almaty, ATP Tuesday block"
+    },
+    {
+      "pos": "AL4",
+      "name": "Mikhail Kukushkin d. Stefanos Sakellaridis",
+      "score": "7-6(4), 7-6(3)",
+      "note": "Almaty, ATP Tuesday block"
+    },
+    {
+      "pos": "AL5",
+      "name": "Adrian Mannarino d. Aleksandar Vukic",
+      "score": "7-6(4), 4-6, 6-3",
+      "note": "Almaty, ATP Tuesday block"
+    }
+  ],
+  "tennisSets": [
+    {
+      "p1": "6",
+      "p2": "2"
+    },
+    {
+      "p1": "6",
+      "p2": "7(5)"
+    },
+    {
+      "p1": "7",
+      "p2": "6(4)"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP Lyon match report",
+      "url": "https://www.atptour.com/en/news/humbert-moutet-lyon-2026-tuesday"
+    },
+    {
+      "name": "ATP Almaty results",
+      "url": "https://www.atptour.com/en/scores/current/almaty/9410/results"
+    }
+  ]
+}

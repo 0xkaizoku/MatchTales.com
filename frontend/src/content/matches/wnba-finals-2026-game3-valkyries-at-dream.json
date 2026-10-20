@@ -1,0 +1,80 @@
+{
+  "slug": "wnba-finals-2026-game3-valkyries-at-dream",
+  "headline": "WNBA Finals Game 3: Valkyries at Dream, series tied 1-1",
+  "whyCareScore": 9.2,
+  "whyCareReason": "Atlanta tied the series with a 79-65 win. Game 3 is Wednesday at State Farm Arena. No score is posted.",
+  "teaser": "Wednesday 21 October, 8:00 p.m. ET, USA, Peacock and CNBC. ESPN lists Atlanta -3.5.",
+  "story": "Game 3 of the WNBA Finals is Wednesday, 21 October, at State Farm Arena in Atlanta. ESPN, CBS and the league schedule list tip at 8:00 p.m. ET on USA Network, Peacock and CNBC. The Golden State Valkyries visit the Atlanta Dream. The series is tied 1-1 after Atlanta's 79-65 win in Game 2. Game 1 was Valkyries 68, Dream 64. No Game 3 score is posted. ESPN lists Atlanta as a 3.5-point favorite.",
+  "stakes": "The winner of Wednesday leads the Finals 2-1. Both clubs are still chasing a first title.",
+  "rivalryAngle": "The series moves to Atlanta level after the Dream's first Finals win.",
+  "funFacts": [
+    "Game 2 final: Dream 79, Valkyries 65. Reese 30 points and 16 rebounds.",
+    "Game 3: Wednesday 21 October, 8:00 p.m. ET, State Farm Arena. Status upcoming.",
+    "Game 1 still stands: Valkyries 68, Dream 64."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Angel Reese",
+      "team": "Atlanta Dream",
+      "hook": "30 points and 16 rebounds in the Game 2 win."
+    },
+    {
+      "name": "Atlanta Dream",
+      "team": "Atlanta Dream",
+      "hook": "Host Game 3 with the series tied 1-1."
+    },
+    {
+      "name": "Golden State Valkyries",
+      "team": "Golden State Valkyries",
+      "hook": "Won Game 1 by 68-64 and lost Game 2 by 79-65."
+    }
+  ],
+  "headToHead": "Wednesday 21 October 2026, 8:00 p.m. ET. Upcoming. Series tied 1-1.",
+  "tags": [
+    "basketball",
+    "wnba",
+    "finals",
+    "dream",
+    "valkyries",
+    "game3"
+  ],
+  "home": "Atlanta Dream",
+  "away": "Golden State Valkyries",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "Finals",
+  "matchday": 3,
+  "date": "2026-10-21",
+  "time": "20:00",
+  "venue": "State Farm Arena",
+  "city": "Atlanta",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/976874/pexels-photo-976874.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "basketball",
+  "competition": "wnba-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "WNBA Finals · Game 3",
+  "resultSummary": "UPCOMING: Wednesday 21 October, 8:00 p.m. ET, State Farm Arena. Series tied 1-1. No score.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ESPN WNBA schedule",
+      "url": "https://www.espn.com/wnba/schedule"
+    },
+    {
+      "name": "CBS Sports Finals schedule",
+      "url": "https://www.cbssports.com/wnba/news/2026-wnba-playoffs-bracket-schedule/"
+    }
+  ]
+}

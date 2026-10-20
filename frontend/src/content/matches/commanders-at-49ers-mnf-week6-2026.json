@@ -1,24 +1,43 @@
 {
   "slug": "commanders-at-49ers-mnf-week6-2026",
-  "headline": "NFL Week 6 Monday: Commanders at the unbeaten 49ers, 8:15 p.m. ET",
+  "headline": "49ers beat the Commanders 23-17 and move to 6-0",
   "whyCareScore": 9.1,
-  "whyCareReason": "San Francisco are 5-0 and one of three unbeaten teams. Washington are 1-3-1. Kickoff is tonight. No score is posted.",
-  "teaser": "Levi's Stadium, Santa Clara, ESPN and ABC. Sunday finished Chiefs 22-6 and Bills 33-30.",
-  "story": "Monday, 19 October 2026, is the last game of NFL Week 6. The Washington Commanders (1-3-1) visit the San Francisco 49ers (5-0) at Levi's Stadium in Santa Clara. ESPN lists kickoff at 8:15 p.m. ET on ESPN and ABC. The game has not been played, so this card has no score. CBS Sports listed San Francisco as a 7.5-point favorite. The 49ers share an unbeaten record with the Chiefs (5-0) and the Vikings (5-0, on a bye).",
-  "stakes": "A 49ers win would leave San Francisco as the only unbeaten team still to play this week with a chance to stay 6-0. A Commanders win would be their second of the season.",
-  "rivalryAngle": "An NFC meeting between a 5-0 home side and a 1-3-1 visitor, with the rest of Week 6 already final.",
+  "whyCareReason": "San Francisco stayed unbeaten on Monday night. Washington fell to 1-4-1. Thursday is Patriots at Bears.",
+  "teaser": "Levi's Stadium final: Commanders 17, 49ers 23. Purdy threw for 264 yards. McCaffrey ran for two scores.",
+  "story": "Monday night at Levi's Stadium finished Washington Commanders 17, San Francisco 49ers 23. Quarters were Commanders 3, 0, 7, 7 and 49ers 13, 7, 3, 0. ESPN and the Associated Press both list the final. Brock Purdy completed 21 of 29 passes for 264 yards and a touchdown, an 11-yard score to George Kittle. Christian McCaffrey had two rushing touchdowns, 16 carries for 64 yards and nine catches for 53 yards. Jayden Daniels completed 29 of 40 passes for 300 yards and two touchdowns. San Francisco led 20-3 at halftime and 23-3 late in the third quarter. The 49ers are 6-0. The Commanders are 1-4-1. FOX Sports listed the crowd at 71,561.",
+  "stakes": "San Francisco is the NFL's only 6-0 team. The Chiefs and Vikings are 5-0. Week 7 opens Thursday in Chicago.",
+  "rivalryAngle": "An NFC Monday night that the visitors closed to 23-17 after trailing 23-3.",
   "funFacts": [
-    "Kickoff 8:15 p.m. ET, Levi's Stadium, ESPN and ABC. Status: upcoming.",
-    "Sunday: Chiefs 22, Chargers 6. Bills 33, Raiders 30. Packers 23, Cowboys 13.",
-    "Thursday still stands: Broncos 17, Seahawks 14 in overtime. Broncos 4-2, Seahawks 3-3."
+    "FINAL: Commanders 17, 49ers 23. Quarters 3-0-7-7 and 13-7-3-0.",
+    "Purdy 21 of 29 for 264 and a TD. McCaffrey two rushing TDs. Daniels 29 of 40 for 300 and two TDs.",
+    "Thursday 22 October, 8:15 p.m. ET: Patriots at Bears, Soldier Field, Prime Video. No score."
   ],
   "keyPlayers": [
-    {"name": "San Francisco 49ers", "team": "San Francisco 49ers", "hook": "5-0 at home, one of three unbeaten teams in the league."},
-    {"name": "Washington Commanders", "team": "Washington Commanders", "hook": "1-3-1 on the road. No Monday score is posted."},
-    {"name": "Patrick Mahomes", "team": "Kansas City Chiefs", "hook": "ESPN lists 272 passing yards in Sunday's 22-6 win. Chiefs are 5-0."}
+    {
+      "name": "Brock Purdy",
+      "team": "San Francisco 49ers",
+      "hook": "21 of 29, 264 yards, TD to George Kittle. 49ers are 6-0."
+    },
+    {
+      "name": "Christian McCaffrey",
+      "team": "San Francisco 49ers",
+      "hook": "Two rushing touchdowns. 16 carries, 64 yards, plus nine catches for 53."
+    },
+    {
+      "name": "Jayden Daniels",
+      "team": "Washington Commanders",
+      "hook": "29 of 40, 300 yards, two TD passes. Commanders are 1-4-1."
+    }
   ],
-  "headToHead": "Monday 19 October 2026, 8:15 p.m. ET. Upcoming. No score.",
-  "tags": ["football", "nfl", "49ers", "commanders", "monday-night", "week6"],
+  "headToHead": "Monday 19 October 2026. Final. Commanders 17, 49ers 23.",
+  "tags": [
+    "football",
+    "nfl",
+    "49ers",
+    "commanders",
+    "monday-night",
+    "week6"
+  ],
   "home": "San Francisco 49ers",
   "away": "Washington Commanders",
   "homeCode": null,
@@ -31,9 +50,9 @@
   "time": "20:15",
   "venue": "Levi's Stadium",
   "city": "Santa Clara",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 23,
+  "awayScore": 17,
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
@@ -45,11 +64,17 @@
   "format": "team-match",
   "season": "2026",
   "roundLabel": "NFL Week 6 · Monday Night",
-  "resultSummary": "UPCOMING: Monday 19 October, 8:15 p.m. ET, Levi's Stadium. Commanders (1-3-1) at 49ers (5-0). No score.",
+  "resultSummary": "FINAL: 49ers 23, Commanders 17. 49ers 6-0. Commanders 1-4-1.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
-    {"name": "ESPN NFL Week 6 scoreboard", "url": "https://www.espn.com/nfl/scoreboard/_/week/6/year/2026"},
-    {"name": "Associated Press NFL glance", "url": "https://www.wfmz.com/news/ap/ap-spanish/nfl-glance/article_f46ea0f9-9795-5303-a5ee-8076cc20a751.html"}
+    {
+      "name": "ESPN recap",
+      "url": "https://www.espn.com/nfl/recap?gameId=401873008"
+    },
+    {
+      "name": "ESPN Week 7 schedule",
+      "url": "https://www.espn.com/nfl/schedule/_/week/7"
+    }
   ]
 }

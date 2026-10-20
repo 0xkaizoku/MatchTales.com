@@ -1,0 +1,80 @@
+{
+  "slug": "patriots-at-bears-tnf-week7-2026",
+  "headline": "NFL Week 7 Thursday: Patriots at Bears, 8:15 p.m. ET",
+  "whyCareScore": 8.2,
+  "whyCareReason": "Week 6 is complete. The next kickoff is Thursday at Soldier Field. No score is posted.",
+  "teaser": "Prime Video. ESPN lists Chicago as a 3-point favorite. The 49ers are 6-0 after Monday.",
+  "story": "There is no NFL game on Tuesday, 20 October. Week 7 opens Thursday, 22 October, at 8:15 p.m. ET. The New England Patriots visit the Chicago Bears at Soldier Field. ESPN and CBS list the game on Prime Video. ESPN's line is Chicago -3. Schedule listings put both clubs at 4-2. Monday's final still stands: 49ers 23, Commanders 17, with San Francisco 6-0. Byes this week: Bills, Jaguars, Chargers and Commanders.",
+  "stakes": "The first result of Week 7. Both clubs are listed at 4-2, and the line favors Chicago by 3.",
+  "rivalryAngle": "A Thursday night between two 4-2 teams, three days after the 49ers became the only 6-0 club.",
+  "funFacts": [
+    "Thursday 22 October, 8:15 p.m. ET, Soldier Field, Prime Video. Status upcoming.",
+    "ESPN line: Chicago -3.",
+    "Monday final: 49ers 23, Commanders 17. 49ers 6-0."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Chicago Bears",
+      "team": "Chicago Bears",
+      "hook": "Home side, listed at 4-2. Favored by 3 on the ESPN line."
+    },
+    {
+      "name": "New England Patriots",
+      "team": "New England Patriots",
+      "hook": "Visitors, listed at 4-2. No Thursday score is posted."
+    },
+    {
+      "name": "San Francisco 49ers",
+      "team": "San Francisco 49ers",
+      "hook": "Beat Washington 23-17 on Monday and are 6-0."
+    }
+  ],
+  "headToHead": "Thursday 22 October 2026, 8:15 p.m. ET. Upcoming. No score.",
+  "tags": [
+    "football",
+    "nfl",
+    "patriots",
+    "bears",
+    "thursday-night",
+    "week7"
+  ],
+  "home": "Chicago Bears",
+  "away": "New England Patriots",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "AFC-NFC",
+  "matchday": 7,
+  "date": "2026-10-22",
+  "time": "20:15",
+  "venue": "Soldier Field",
+  "city": "Chicago",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618201/pexels-photo-1618201.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "football",
+  "competition": "nfl-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "NFL Week 7 · Thursday Night",
+  "resultSummary": "UPCOMING: Thursday 22 October, 8:15 p.m. ET, Soldier Field. Patriots at Bears. No score.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ESPN Week 7 schedule",
+      "url": "https://www.espn.com/nfl/schedule/_/week/7"
+    },
+    {
+      "name": "CBS NFL schedule",
+      "url": "https://www.cbssports.com/nfl/schedule/"
+    }
+  ]
+}

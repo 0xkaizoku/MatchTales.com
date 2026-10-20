@@ -1,24 +1,42 @@
 {
   "slug": "tottenham-vs-coventry-mw7-2026",
-  "headline": "Premier League Monday: Tottenham host Coventry, 20:00 UK",
+  "headline": "Spurs beat Coventry 3-1 for a first league win",
   "whyCareScore": 8.6,
-  "whyCareReason": "Spurs are 20th on 3 points. Coventry are 16th on 6. The match has not been played. City lead on 21.",
-  "teaser": "Tottenham Hotspur Stadium. FBref still shows a blank score. Arsenal won 1-0 at Forest on Sunday.",
-  "story": "Matchweek 7 closes on Monday, 19 October, at Tottenham Hotspur Stadium. FBref lists Tottenham against Coventry City at 20:00 UK and does not list a score. Tottenham have 3 points from 6 matches (0-3-3). Coventry have 6 points from 6 (2-0-4). Frank Lampard manages Coventry. After Sunday, Manchester City lead on 21 points, Arsenal have 18 after a 1-0 win at Forest, and Brighton have 16 after a 5-0 win against Crystal Palace.",
-  "stakes": "Spurs can leave the bottom of the table only by taking points. Coventry can climb from 16th with a win.",
-  "rivalryAngle": "A Monday night between the bottom club and a side that already beat Newcastle 4-1 in Matchweek 6.",
+  "whyCareReason": "Tottenham left the bottom of the table. City still lead on 21 points. There is no match on Tuesday.",
+  "teaser": "Maddison 14, Rudoni 49, Marmoush 58, Davies 90+6. Spurs are 16th on 6 points.",
+  "story": "Tottenham Hotspur beat Coventry City 3-1 on Monday at Tottenham Hotspur Stadium. James Maddison scored in the 14th minute, Jack Rudoni equalized in the 49th, Omar Marmoush scored in the 58th, and Ben Davies scored in the 90th minute plus 6. Half-time was 1-0. ESPN, the club site and TNT Sports agree. Attendance was 60,913. Referee Andy Madley. The PA report carried by ESPN said Dejan Kulusevski made his first appearance in 526 days and Maddison made his first start in 536 days. Spurs are 16th on 6 points (1-3-3). Coventry are 17th on 6 (2-0-5). Manchester City still lead on 21. There is no Premier League fixture on Tuesday.",
+  "stakes": "A first win of the season moved Spurs off the bottom. Both clubs have 6 points. City, Arsenal and Brighton are unchanged on 21, 18 and 16.",
+  "rivalryAngle": "The bottom club beat a side that had already taken 6 points from six matches.",
   "funFacts": [
-    "Kickoff 20:00 UK. Status upcoming. No score on FBref.",
-    "Sunday: Forest 0-1 Arsenal (Madueke 80). Brighton 5-0 Palace. Leeds 1-1 Manchester United.",
-    "Table: City 21, Arsenal 18, Brighton 16, Chelsea 13, Liverpool 12."
+    "FINAL: Tottenham 3, Coventry 1. HT 1-0. Maddison 14, Rudoni 49, Marmoush 58, Davies 90+6.",
+    "Attendance 60,913. Referee Andy Madley. Roberto De Zerbi started Maddison.",
+    "Table: City 21, Arsenal 18, Brighton 16. Spurs 16th on 6. Coventry 17th on 6."
   ],
   "keyPlayers": [
-    {"name": "Tottenham Hotspur", "team": "Tottenham Hotspur", "hook": "20th on 3 points from 6 matches, still without a win."},
-    {"name": "Coventry City", "team": "Coventry City", "hook": "16th on 6 points. Frank Lampard's side have played 6."},
-    {"name": "Noni Madueke", "team": "Arsenal", "hook": "Scored the 80th-minute winner in Arsenal's 1-0 win at Forest."}
+    {
+      "name": "James Maddison",
+      "team": "Tottenham Hotspur",
+      "hook": "Opened the scoring in the 14th minute on his first start in 536 days."
+    },
+    {
+      "name": "Omar Marmoush",
+      "team": "Tottenham Hotspur",
+      "hook": "Scored in the 58th minute, Spurs' second goal."
+    },
+    {
+      "name": "Jack Rudoni",
+      "team": "Coventry City",
+      "hook": "Equalized in the 49th minute."
+    }
   ],
-  "headToHead": "Monday 19 October 2026, 20:00 UK. Upcoming. No score.",
-  "tags": ["soccer", "premier-league", "tottenham", "coventry", "mw7"],
+  "headToHead": "Monday 19 October 2026. Final. Tottenham 3, Coventry 1.",
+  "tags": [
+    "soccer",
+    "premier-league",
+    "tottenham",
+    "coventry",
+    "mw7"
+  ],
   "home": "Tottenham Hotspur",
   "away": "Coventry City",
   "homeCode": null,
@@ -31,9 +49,9 @@
   "time": "20:00",
   "venue": "Tottenham Hotspur Stadium",
   "city": "London",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 3,
+  "awayScore": 1,
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/8007513/pexels-photo-8007513.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
@@ -45,11 +63,17 @@
   "format": "team-match",
   "season": "2026/27",
   "roundLabel": "Premier League · Matchweek 7",
-  "resultSummary": "UPCOMING: Monday 19 October, 20:00 UK, Tottenham Hotspur Stadium. Tottenham (3 pts) v Coventry (6 pts). No score.",
+  "resultSummary": "FINAL: Tottenham 3, Coventry 1. Spurs 16th on 6. Coventry 17th on 6.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
-    {"name": "FBref 19 October 2026", "url": "https://fbref.com/en/matches/2026-10-19"},
-    {"name": "Xinhua Premier League standings", "url": "https://english.news.cn/20261019/b078eb594d5f401a875ec4ddaee82dbd/c.html"}
+    {
+      "name": "ESPN match report",
+      "url": "https://www.espn.co.uk/football/report/_/gameId/401879257"
+    },
+    {
+      "name": "Tottenham Hotspur match centre",
+      "url": "https://www.tottenhamhotspur.com/match/2645264/tottenham-hotspur-coventry-city"
+    }
   ]
 }

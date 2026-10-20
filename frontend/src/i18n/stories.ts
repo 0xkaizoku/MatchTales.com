@@ -10,6 +10,504 @@ export type StoryI18n = {
 type LocMap = Partial<Record<Exclude<Locale, 'en'>, StoryI18n>>;
 
 export const STORY_I18N: Record<string, LocMap> = {
+"nfl-week6-49ers-beat-commanders-23-17": {
+  "fr": {
+    "title": "Les 49ers battent les Commanders 23-17 et sont a 6-0",
+    "subtitle": "La nuit du lundi a Levi's Stadium est terminee. Le prochain coup d'envoi est jeudi : Patriots chez les Bears.",
+    "excerpt": "San Francisco a contenu Washington. Brock Purdy a lance pour 264 yards, Christian McCaffrey a marque deux fois au sol, et les 49ers sont la seule equipe a 6-0.",
+    "body": [
+      "Levi's Stadium s'est termine sur Commanders 17, 49ers 23. Quart-temps : Commanders 3, 0, 7, 7 et 49ers 13, 7, 3, 0. ESPN et Associated Press donnent ce score. San Francisco est a 6-0. Washington est a 1-4-1. Brock Purdy a reussi 21 passes sur 29 pour 264 yards et une passe de touche de 11 yards pour George Kittle. Christian McCaffrey a marque deux touches au sol, avec 16 courses pour 64 yards et neuf receptions pour 53 yards. Jayden Daniels a reussi 29 passes sur 40 pour 300 yards et deux passes de touche. San Francisco menait 20-3 a la mi-temps et 23-3 tard dans le troisieme quart. FOX Sports a indique 71 561 spectateurs.",
+      "Il n'y a pas de match NFL mardi. La semaine 7 commence jeudi 22 octobre a 20 h 15 ET : Patriots chez les Bears, au Soldier Field, sur Prime Video. ESPN donne Chicago favori de 3 points. Les deux clubs sont listes a 4-2. Les resultats de dimanche tiennent : Chiefs 22, Chargers 6, et Bills 33, Raiders 30. Chiefs et Vikings sont a 5-0."
+    ]
+  },
+  "es": {
+    "title": "Los 49ers vencen 23-17 a los Commanders y quedan 6-0",
+    "subtitle": "El lunes en el Levi's Stadium ya es final. El jueves juegan Patriots en Bears, sin marcador.",
+    "excerpt": "San Francisco contuvo a Washington. Brock Purdy lanzo para 264 yardas, Christian McCaffrey anoto dos veces por tierra y los 49ers son el unico equipo en 6-0.",
+    "body": [
+      "El Levi's Stadium termino Commanders 17, 49ers 23. Parciales: Commanders 3, 0, 7, 7 y 49ers 13, 7, 3, 0. ESPN y Associated Press dan ese final. San Francisco esta 6-0. Washington esta 1-4-1. Brock Purdy completo 21 de 29 pases para 264 yardas y un touchdown de 11 yardas a George Kittle. Christian McCaffrey anoto dos touchdowns por tierra, con 16 acarreos para 64 yardas y nueve recepciones para 53. Jayden Daniels completo 29 de 40 pases para 300 yardas y dos touchdowns. San Francisco iba 20-3 al descanso y 23-3 tarde en el tercer cuarto. FOX Sports anoto 71.561 espectadores.",
+      "El martes no hay partido de NFL. La semana 7 abre el jueves 22 de octubre a las 8:15 p.m. ET: Patriots en Bears, Soldier Field, Prime Video. ESPN da a Chicago favorito por 3. Las fichas ponen a los dos clubes en 4-2. Siguen en pie Chiefs 22, Chargers 6, y Bills 33, Raiders 30. Chiefs y Vikings estan 5-0."
+    ]
+  },
+  "de": {
+    "title": "Die 49ers schlagen die Commanders 23-17 und sind 6-0",
+    "subtitle": "Montagabend im Levi's Stadium ist entschieden. Der naechste Anstoss ist Donnerstag: Patriots bei den Bears.",
+    "excerpt": "San Francisco hielt Washington hin. Brock Purdy warf fuer 264 Yards, Christian McCaffrey lief zwei Touchdowns, und die 49ers sind das einzige Team mit 6-0.",
+    "body": [
+      "Levi's Stadium endete Commanders 17, 49ers 23. Viertel: Commanders 3, 0, 7, 7 und 49ers 13, 7, 3, 0. ESPN und Associated Press nennen diesen Endstand. San Francisco ist 6-0. Washington ist 1-4-1. Brock Purdy traf 21 von 29 Paessen fuer 264 Yards und einen 11-Yard-Touchdown zu George Kittle. Christian McCaffrey erlief zwei Touchdowns, bei 16 Laeufen fuer 64 Yards und neun Fang fuer 53 Yards. Jayden Daniels traf 29 von 40 Paessen fuer 300 Yards und zwei Touchdowns. San Francisco fuehrte zur Halbzeit 20-3 und spaet im dritten Viertel 23-3. FOX Sports nannte 71.561 Zuschauer.",
+      "Dienstag gibt es kein NFL-Spiel. Woche 7 beginnt am Donnerstag, 22. Oktober, um 20:15 ET: Patriots bei den Bears, Soldier Field, Prime Video. ESPN sieht Chicago mit 3 Punkten vorn. Beide Clubs stehen in den Plaenen bei 4-2. Sonntag bleibt: Chiefs 22, Chargers 6, und Bills 33, Raiders 30. Chiefs und Vikings sind 5-0."
+    ]
+  },
+  "it": {
+    "title": "I 49ers battono i Commanders 23-17 e sono 6-0",
+    "subtitle": "Il lunedi al Levi's Stadium e chiuso. Il prossimo calcio d'inizio e giovedi: Patriots dai Bears.",
+    "excerpt": "San Francisco ha retto Washington. Brock Purdy ha lanciato per 264 yard, Christian McCaffrey ha segnato due volte su corsa, e i 49ers sono l'unica squadra a 6-0.",
+    "body": [
+      "Il Levi's Stadium e finito Commanders 17, 49ers 23. Quarti: Commanders 3, 0, 7, 7 e 49ers 13, 7, 3, 0. ESPN e Associated Press danno questo finale. San Francisco e 6-0. Washington e 1-4-1. Brock Purdy ha completato 21 passaggi su 29 per 264 yard e un touchdown da 11 yard per George Kittle. Christian McCaffrey ha segnato due touchdown su corsa, con 16 portate per 64 yard e nove ricezioni per 53. Jayden Daniels ha completato 29 passaggi su 40 per 300 yard e due touchdown. San Francisco conduceva 20-3 all'intervallo e 23-3 nel finale del terzo quarto. FOX Sports ha indicato 71.561 spettatori.",
+      "Martedi non c'e partita NFL. La settimana 7 apre giovedi 22 ottobre alle 20:15 ET: Patriots dai Bears, Soldier Field, Prime Video. ESPN da Chicago favorita di 3. I due club sono indicati a 4-2. Restano Chiefs 22, Chargers 6, e Bills 33, Raiders 30. Chiefs e Vikings sono 5-0."
+    ]
+  },
+  "pl": {
+    "title": "49ers pokonuja Commanders 23-17 i sa 6-0",
+    "subtitle": "Poniedzialkowy wieczor na Levi's Stadium jest zakonczony. Nastepny mecz to czwartek: Patriots u Bears.",
+    "excerpt": "San Francisco powstrzymalo Washington. Brock Purdy rzucil na 264 yardy, Christian McCaffrey zdobyl dwa przylozenia biegiem, a 49ers sa jedyna druzyna z bilansem 6-0.",
+    "body": [
+      "Levi's Stadium skonczyl sie wynikiem Commanders 17, 49ers 23. Kwarty: Commanders 3, 0, 7, 7 i 49ers 13, 7, 3, 0. ESPN i Associated Press podaja ten wynik. San Francisco jest 6-0. Washington jest 1-4-1. Brock Purdy trafil 21 z 29 podan na 264 yardy i przylozenie z 11 yardow do George'a Kittle'a. Christian McCaffrey zdobyl dwa przylozenia biegiem: 16 prob na 64 yardy i dziewiec zlapanych podan na 53 yardy. Jayden Daniels trafil 29 z 40 podan na 300 yardow i dwa przylozenia. San Francisco prowadzilo 20-3 do przerwy i 23-3 pod koniec trzeciej kwarty. FOX Sports podalo 71 561 widzow.",
+      "We wtorek nie ma meczu NFL. Tydzien 7 zaczyna sie w czwartek 22 pazdziernika o 20:15 ET: Patriots u Bears, Soldier Field, Prime Video. ESPN daje Chicago faworytem o 3 punkty. Oba kluby sa wpisane jako 4-2. Zostaja wyniki niedzieli: Chiefs 22, Chargers 6 oraz Bills 33, Raiders 30. Chiefs i Vikings sa 5-0."
+    ]
+  },
+  "zh": {
+    "title": "49人23-17击败指挥官，成为6胜0负",
+    "subtitle": "周一李维斯球场的比赛已经结束。下一场是周四爱国者客场挑战熊，目前无比分。",
+    "excerpt": "旧金山顶住了华盛顿的反扑。布洛克·珀迪传出264码，克里斯蒂安·麦卡弗里跑动得到两次达阵，49人是联盟唯一的6胜0负球队。",
+    "body": [
+      "李维斯球场终场：指挥官17，49人23。节次：指挥官3、0、7、7，49人13、7、3、0。ESPN和美联社都给出这个终场。旧金山6胜0负。华盛顿1胜4负1平。布洛克·珀迪29传21中，264码，一次达阵，其中包括给乔治·基特尔的11码达阵。克里斯蒂安·麦卡弗里两次跑动达阵，16次冲球64码，另有9次接球53码。杰登·丹尼尔斯40传29中，300码，两次达阵传球。旧金山半场领先20-3，第三节后段领先23-3。FOX Sports记录观众人数为71561人。",
+      "周二没有NFL比赛。第7周于10月22日周四美东晚8:15开赛：爱国者客场挑战熊，士兵球场，Prime Video。ESPN让分是芝加哥让3分。赛程把两队都列为4胜2负。周日的结果仍然有效：酋长22、闪电6，比尔33、突袭者30。酋长和维京人是5胜0负。"
+    ]
+  },
+  "ja": {
+    "title": "49ersがコマンダーズを23-17で下し6勝0敗",
+    "subtitle": "月曜のリーバイス・スタジアムは終了。次のキックオフは木曜、ペイトリオッツ対ベアーズで、スコアはない。",
+    "excerpt": "サンフランシスコがワシントンの追い上げをしのいだ。ブロック・パーディは264ヤード、クリスチャン・マカフリーはランで2タッチダウン。49ersは唯一の6勝0敗。",
+    "body": [
+      "リーバイス・スタジアムはコマンダーズ17、49ers 23で終わった。クォーターはコマンダーズ3、0、7、7、49ersが13、7、3、0。ESPNとAPがこの最終スコアを出している。サンフランシスコは6勝0敗。ワシントンは1勝4敗1分。ブロック・パーディは29本中21本成功、264ヤード、ジョージ・キトルへの11ヤードタッチダウン。クリスチャン・マカフリーはランで2タッチダウン、16回64ヤードに、キャッチ9回53ヤード。ジェイデン・ダニエルズは40本中29本、300ヤード、タッチダウンパス2本。サンフランシスコはハーフタイム20-3、第3クォーター終盤に23-3。FOX Sportsは観客を71561人と記した。",
+      "火曜にNFLの試合はない。第7週は10月22日木曜、東部午後8時15分に開く。ペイトリオッツ対ベアーズ、ソルジャー・フィールド、Prime Video。ESPNのラインはシカゴの3点有利。両クラブは4勝2敗と記されている。日曜の結果は残る。チーフス22、チャージャーズ6。ビルズ33、レイダース30。チーフスとバイキングスは5勝0敗。"
+    ]
+  },
+  "ko": {
+    "title": "49ers가 커맨더스를 23-17로 꺾고 6승 0패",
+    "subtitle": "월요일 리바이스 스타디움은 종료됐다. 다음 경기는 목요일 패트리어츠 대 베어스이며 스코어는 없다.",
+    "excerpt": "샌프란시스코가 워싱턴의 추격을 막았다. 브록 퍼디는 264야드, 크리스천 매캐프리는 런으로 터치다운 2개. 49ers는 유일한 6승 0패다.",
+    "body": [
+      "리바이스 스타디움은 커맨더스 17, 49ers 23으로 끝났다. 쿼터는 커맨더스 3, 0, 7, 7, 49ers 13, 7, 3, 0. ESPN과 AP가 이 최종 스코어를 냈다. 샌프란시스코는 6승 0패. 워싱턴은 1승 4패 1무. 브록 퍼디는 29개 중 21개 성공, 264야드, 조지 키틀에게 11야드 터치다운. 크리스천 매캐프리는 런 터치다운 2개, 16회 64야드, 리셉션 9회 53야드. 제이든 대니얼스는 40개 중 29개, 300야드, 터치다운 패스 2개. 샌프란시스코는 하프타임 20-3, 3쿼터 후반 23-3. FOX Sports는 관중 71561명을 적었다.",
+      "화요일 NFL 경기는 없다. 7주차는 10월 22일 목요일 동부 오후 8시 15분에 시작한다. 패트리어츠 대 베어스, 솔저 필드, Prime Video. ESPN 핸디캡은 시카고 -3. 두 클럽은 4승 2패로 적혀 있다. 일요일 결과는 남는다. 치프스 22, 차저스 6. 빌스 33, 레이더스 30. 치프스와 바이킹스는 5승 0패."
+    ]
+  },
+  "ar": {
+    "title": "49ers يهزمون كوماندرز 23-17 ويصبحون 6-0",
+    "subtitle": "ليلة الاثنين في ملعب ليفاي انتهت. الركلة التالية الخميس: باتريوتس عند بيرز، بلا نتيجة.",
+    "excerpt": "سان فرانسيسكو صمدت امام واشنطن. بروك بوردي رمى لمسافة 264 ياردة، وكريستيان مكفري سجل مرتين جريا، و49ers الفريق الوحيد برصيد 6-0.",
+    "body": [
+      "انتهى ملعب ليفاي بنتيجة كوماندرز 17 و49ers 23. الاشواط: كوماندرز 3 و0 و7 و7، و49ers 13 و7 و3 و0. ESPN واسوشيتد برس يعطيان هذه النهاية. سان فرانسيسكو 6-0. واشنطن 1-4-1. اكمل بروك بوردي 21 من 29 تمريرة لمسافة 264 ياردة ولمسة من 11 ياردة لجورج كيتل. سجل كريستيان مكفري لمستين جريا، مع 16 حملة لمسافة 64 ياردة وتسع التقاطات لمسافة 53. اكمل جايدن دانيلز 29 من 40 لمسافة 300 ياردة ولمستين. كانت سان فرانسيسكو متقدمة 20-3 عند الاستراحة و23-3 في اواخر الشوط الثالث. ذكرت فوكس سبورتس الحضور 71561.",
+      "لا مباراة NFL الثلاثاء. يفتح الاسبوع 7 الخميس 22 اكتوبر الساعة 8:15 مساء بتوقيت الشرق: باتريوتس عند بيرز، سولجر فيلد، برايم فيديو. ESPN يعطي شيكاغو افضلية 3 نقاط. الجدول يضع الناديين عند 4-2. تبقى نتائج الاحد: تشيفس 22 وتشارجرز 6، وبيلز 33 وريدرز 30. تشيفس وفايكنغز عند 5-0."
+    ]
+  },
+},
+"premier-league-mw7-spurs-beat-coventry-3-1": {
+  "fr": {
+    "title": "Les Spurs battent Coventry 3-1 et quittent la derniere place",
+    "subtitle": "Maddison, Marmoush et Davies ont marque. Tottenham a une premiere victoire. City mene toujours avec 21 points.",
+    "excerpt": "Tottenham a gagne 3-1 lundi a domicile. Les Spurs sont 16es a 6 points. Coventry est 17e a 6. Pas de match mardi.",
+    "body": [
+      "Tottenham a battu Coventry 3-1 lundi au Tottenham Hotspur Stadium. James Maddison a marque a la 14e minute, Jack Rudoni a egalise a la 49e, Omar Marmoush a marque a la 58e, et Ben Davies a marque a la 90e minute plus 6. La mi-temps etait 1-0. ESPN, le site du club et TNT Sports s'accordent. L'affluence etait de 60 913 spectateurs. L'arbitre etait Andy Madley. Le rapport PA repris par ESPN dit que Dejan Kulusevski faisait sa premiere apparition en 526 jours, et que Maddison faisait sa premiere titularisation en 536 jours.",
+      "Les Spurs etaient derniers, encore sans victoire. Ils sont 16es a 6 points, bilan 1-3-3, 6 buts pour et 10 contre. Coventry est 17e, aussi a 6 points, bilan 2-0-5, 6 pour et 14 contre. Manchester City mene toujours avec 21 points. Arsenal a 18 apres le 1-0 de dimanche a Forest. Brighton a 16 apres le 5-0 contre Crystal Palace. Il n'y a pas de match de Premier League mardi."
+    ]
+  },
+  "es": {
+    "title": "El Spurs vence 3-1 al Coventry y sale del ultimo puesto",
+    "subtitle": "Maddison, Marmoush y Davies marcaron. Tottenham tiene su primer triunfo. El City sigue con 21.",
+    "excerpt": "Tottenham gano 3-1 el lunes en casa. Es 16o con 6 puntos. Coventry es 17o con 6. El martes no hay partido.",
+    "body": [
+      "Tottenham vencio 3-1 al Coventry el lunes en el Tottenham Hotspur Stadium. James Maddison marco al minuto 14, Jack Rudoni empato al 49, Omar Marmoush marco al 58 y Ben Davies marco en el minuto 90 mas 6. El descanso fue 1-0. ESPN, el sitio del club y TNT Sports coinciden. La asistencia fue de 60.913. El arbitro fue Andy Madley. El informe de PA que recoge ESPN dice que Dejan Kulusevski volvio tras 526 dias y que Maddison fue titular por primera vez en 536 dias.",
+      "Los Spurs estaban ultimos y sin victorias. Ahora son 16os con 6 puntos, 1-3-3, 6 goles a favor y 10 en contra. Coventry es 17o, tambien con 6, 2-0-5, 6 a favor y 14 en contra. El Manchester City sigue lider con 21. El Arsenal tiene 18 tras el 1-0 del domingo en Forest. El Brighton tiene 16 tras el 5-0 al Crystal Palace. El martes no hay partido de Premier League."
+    ]
+  },
+  "de": {
+    "title": "Spurs schlagen Coventry 3-1 und verlassen den Tabellengrund",
+    "subtitle": "Maddison, Marmoush und Davies trafen. Tottenham hat den ersten Sieg. City fuehrt weiter mit 21 Punkten.",
+    "excerpt": "Tottenham gewann am Montag 3-1 zu Hause. Spurs sind 16. mit 6 Punkten. Coventry ist 17. mit 6. Dienstag kein Spiel.",
+    "body": [
+      "Tottenham schlug Coventry am Montag 3-1 im Tottenham Hotspur Stadium. James Maddison traf in der 14. Minute, Jack Rudoni glich in der 49. aus, Omar Marmoush traf in der 58. und Ben Davies in der 90. Minute plus 6. Zur Pause stand es 1-0. ESPN, die Klubseite und TNT Sports sind sich einig. Der Zuschauerschnitt lag bei 60.913. Schiedsrichter war Andy Madley. Der von ESPN uebernommene PA-Bericht sagt, Dejan Kulusevski sei nach 526 Tagen zurueck und Maddison habe nach 536 Tagen erstmals von Beginn an gespielt.",
+      "Spurs waren Letzter und ohne Sieg. Sie sind jetzt 16. mit 6 Punkten, Bilanz 1-3-3, 6 Tore und 10 Gegentore. Coventry ist 17., ebenfalls mit 6 Punkten, 2-0-5, 6 Tore und 14 Gegentore. Manchester City fuehrt weiter mit 21 Punkten. Arsenal hat 18 nach dem 1-0 vom Sonntag bei Forest. Brighton hat 16 nach dem 5-0 gegen Crystal Palace. Dienstag gibt es kein Premier-League-Spiel."
+    ]
+  },
+  "it": {
+    "title": "Gli Spurs battono il Coventry 3-1 e lasciano l'ultimo posto",
+    "subtitle": "Maddison, Marmoush e Davies hanno segnato. Tottenham ha la prima vittoria. Il City guida ancora con 21.",
+    "excerpt": "Tottenham ha vinto 3-1 lunedi in casa. E 16esimo a 6 punti. Il Coventry e 17esimo a 6. Martedi non c'e partita.",
+    "body": [
+      "Tottenham ha battuto il Coventry 3-1 lunedi al Tottenham Hotspur Stadium. James Maddison ha segnato al 14o minuto, Jack Rudoni ha pareggiato al 49o, Omar Marmoush ha segnato al 58o e Ben Davies al 90o minuto piu 6. L'intervallo era 1-0. ESPN, il sito del club e TNT Sports concordano. Il pubblico era di 60.913 spettatori. L'arbitro era Andy Madley. Il rapporto PA riportato da ESPN dice che Dejan Kulusevski e tornato dopo 526 giorni e che Maddison ha giocato titolare per la prima volta dopo 536 giorni.",
+      "Gli Spurs erano ultimi e senza vittorie. Ora sono 16esimi a 6 punti, bilancio 1-3-3, 6 gol fatti e 10 subiti. Il Coventry e 17esimo, sempre a 6 punti, 2-0-5, 6 fatti e 14 subiti. Il Manchester City guida ancora con 21 punti. L'Arsenal ha 18 dopo l'1-0 di domenica al Forest. Il Brighton ha 16 dopo il 5-0 al Crystal Palace. Martedi non c'e partita di Premier League."
+    ]
+  },
+  "pl": {
+    "title": "Spurs pokonuja Coventry 3-1 i schodza z ostatniego miejsca",
+    "subtitle": "Maddison, Marmoush i Davies zdobyli gole. Tottenham ma pierwsze zwyciestwo. City dalej ma 21 punktow.",
+    "excerpt": "Tottenham wygral w poniedzialek u siebie 3-1. Spurs sa 16. z 6 punktami. Coventry jest 17. z 6. We wtorek nie ma meczu.",
+    "body": [
+      "Tottenham pokonal Coventry 3-1 w poniedzialek na Tottenham Hotspur Stadium. James Maddison trafil w 14. minucie, Jack Rudoni wyrownal w 49., Omar Marmoush trafil w 58., a Ben Davies w 90. minucie plus 6. Do przerwy bylo 1-0. ESPN, strona klubu i TNT Sports sa zgodne. Na trybunach bylo 60913 widzow. Sedzia byl Andy Madley. Raport PA przytoczony przez ESPN mowi, ze Dejan Kulusevski wrocil po 526 dniach, a Maddison zagral w pierwszym skladzie po raz pierwszy od 536 dni.",
+      "Spurs byli ostatni i bez zwyciestwa. Teraz sa 16. z 6 punktami, bilans 1-3-3, 6 goli strzelonych i 10 straconych. Coventry jest 17., tez z 6 punktami, 2-0-5, 6 strzelonych i 14 straconych. Manchester City dalej prowadzi z 21 punktami. Arsenal ma 18 po niedzielnym 1-0 u Forest. Brighton ma 16 po wygranej 5-0 z Crystal Palace. We wtorek nie ma meczu Premier League."
+    ]
+  },
+  "zh": {
+    "title": "热刺3-1击败考文垂，离开榜尾",
+    "subtitle": "麦迪逊、马尔穆什和戴维斯进球。热刺拿到赛季首胜。曼城仍以21分领先。",
+    "excerpt": "热刺周一主场3-1取胜。热刺列第16名积6分。考文垂列第17名积6分。周二没有英超比赛。",
+    "body": [
+      "热刺周一在热刺球场3-1击败考文垂。詹姆斯·麦迪逊在第14分钟破门，杰克·鲁多尼在第49分钟扳平，奥马尔·马尔穆什在第58分钟进球，本·戴维斯在第90分钟加第6分钟进球。半场1-0。ESPN、俱乐部官网和TNT Sports的比分与进球者一致。观众60913人。主裁判安迪·马德利。ESPN转引的PA报道说，德扬·库卢塞夫斯基时隔526天再次出场，麦迪逊时隔536天首次首发。",
+      "热刺此前垫底且没有联赛胜利。现在他们列第16名，6分，战绩1胜3平3负，进6球失10球。考文垂列第17名，同样6分，2胜0平5负，进6球失14球。曼城仍以21分领跑。阿森纳在周日客场1-0击败森林后积18分。布莱顿在5-0击败水晶宫后积16分。周二没有英超比赛。"
+    ]
+  },
+  "ja": {
+    "title": "スパーズがコベントリーに3-1、最下位を離れる",
+    "subtitle": "マディソン、マルムーシュ、デービスが得点。トッテナムは今季初勝利。シティは21点で首位のまま。",
+    "excerpt": "トッテナムが月曜にホームで3-1。スパーズは16位で6点。コベントリーは17位で6点。火曜に試合はない。",
+    "body": [
+      "トッテナムは月曜、トッテナム・ホットスパースタジアムでコベントリーを3-1で下した。ジェームズ・マディソンが14分、ジャック・ルドーニが49分に同点、オマル・マルムーシュが58分、ベン・デービスが90分＋6。ハーフタイムは1-0。ESPN、クラブ公式、TNTスポーツが一致している。観客は60913人。主審はアンディ・マドリー。ESPNが伝えたPAの記事では、デヤン・クルゼフスキが526日ぶりに出場し、マディソンが536日ぶりに先発した。",
+      "スパーズは最下位で、まだリーグ戦の勝利がなかった。今は16位で6点、成績1勝3分3敗、得点6、失点10。コベントリーは17位、同じく6点、2勝0分5敗、得点6、失点14。マンチェスター・シティは21点で首位のまま。アーセナルは日曜のフォレスト戦1-0のあと18点。ブライトンはクリスタル・パレスに5-0で勝ったあと16点。火曜にプレミアリーグの試合はない。"
+    ]
+  },
+  "ko": {
+    "title": "스퍼스가 코번트리를 3-1로 꺾고 최하위를 벗어남",
+    "subtitle": "매디슨, 마르무시, 데이비스가 골을 넣었다. 토트넘은 시즌 첫 승. 시티는 21점으로 선두.",
+    "excerpt": "토트넘이 월요일 홈에서 3-1로 이겼다. 스퍼스는 16위 6점. 코번트리는 17위 6점. 화요일 경기는 없다.",
+    "body": [
+      "토트넘은 월요일 토트넘 홋스퍼 스타디움에서 코번트리를 3-1로 꺾었다. 제임스 매디슨이 14분, 잭 루도니가 49분에 동점, 오마르 마르무시가 58분, 벤 데이비스가 90분+6. 전반은 1-0. ESPN, 클럽 사이트, TNT 스포츠가 같다. 관중은 60913명. 주심은 앤디 매들리다. ESPN이 전한 PA 보도에 따르면 데얀 쿨루셉스키는 526일 만에 출전했고, 매디슨은 536일 만에 선발 출전했다.",
+      "스퍼스는 최하위였고 리그 승리가 없었다. 지금은 16위 6점, 1승 3무 3패, 6득점 10실점이다. 코번트리는 17위, 역시 6점, 2승 0무 5패, 6득점 14실점. 맨체스터 시티는 21점으로 선두다. 아스널은 일요일 포리스트 원정 1-0 이후 18점. 브라이턴은 크리스털 팰리스를 5-0으로 이긴 뒤 16점. 화요일 프리미어리그 경기는 없다."
+    ]
+  },
+  "ar": {
+    "title": "سبيرز يهزمون كوفنتري 3-1 ويغادرون القاع",
+    "subtitle": "ماديسون ومارموش وديفيز سجلوا. توتنهام يملك اول فوز. سيتي ما زال يتصدر برصيد 21.",
+    "excerpt": "توتنهام فاز 3-1 الاثنين على ارضه. سبيرز 16 برصيد 6. كوفنتري 17 برصيد 6. لا مباراة الثلاثاء.",
+    "body": [
+      "هزم توتنهام كوفنتري 3-1 الاثنين على ملعب توتنهام هوتسبير. سجل جيمس ماديسون في الدقيقة 14، وعادل جاك رودوني في 49، وسجل عمر مارموش في 58، وسجل بن ديفيز في الدقيقة 90 زائد 6. كانت الاستراحة 1-0. ESPN وموقع النادي وTNT Sports متفقون. الحضور 60913. الحكم اندي مادلي. تقرير PA الذي نقلته ESPN يقول ان ديان كولوسيفسكي ظهر لاول مرة بعد 526 يوما، وان ماديسون بدا اساسيا لاول مرة بعد 536 يوما.",
+      "كان سبيرز اخيرا ومن دون فوز. هم الان 16 برصيد 6 نقاط، سجل 1-3-3، 6 اهداف له و10 عليه. كوفنتري 17، ايضا برصيد 6، سجل 2-0-5، 6 له و14 عليه. مانشستر سيتي ما زال يتصدر برصيد 21. ارسنال لديه 18 بعد فوز 1-0 الاحد عند فورست. برايتون لديه 16 بعد الفوز 5-0 على كريستال بالاس. لا مباراة في البريميرليج الثلاثاء."
+    ]
+  },
+},
+"wnba-finals-2026-game2-dream-79-valkyries-65": {
+  "fr": {
+    "title": "Le Dream bat les Valkyries 79-65 et egalise les Finales",
+    "subtitle": "Angel Reese a marque 30 points et pris 16 rebonds. Le match 3 est mercredi a Atlanta, sans score.",
+    "excerpt": "Atlanta a gagne le match 2 au Chase Center. La serie est 1-1. Golden State n'a marque que 9 points dans le troisieme quart.",
+    "body": [
+      "Le Dream d'Atlanta a battu les Valkyries de Golden State 79-65 lundi au Chase Center. Quart-temps : Dream 18, 21, 21, 19 et Valkyries 21, 16, 9, 19. Le rapport officiel et ESPN sont d'accord. La serie est a 1-1. Le match 1 reste Valkyries 68, Dream 64. Angel Reese a marque 30 points et pris 16 rebonds, a 10 sur 16 aux tirs et 9 sur 11 aux lancers. Allisha Gray a marque 18 points. Jordin Canada a ajoute 13 points et 10 passes. Gabby Williams a marque 14 points pour Golden State. Le rapport officiel indique 18 064 spectateurs, salle comble.",
+      "Le match 3 est mercredi 21 octobre a 20 h 00 ET au State Farm Arena d'Atlanta, sur USA, Peacock et CNBC. Aucun score n'est publie. ESPN donne Atlanta favorite de 3,5 points. Le vainqueur de mercredi menera les Finales 2-1."
+    ]
+  },
+  "es": {
+    "title": "Dream vence 79-65 a Valkyries y empata las Finales",
+    "subtitle": "Angel Reese hizo 30 puntos y 16 rebotes. El juego 3 es el miercoles en Atlanta, sin marcador.",
+    "excerpt": "Atlanta gano el juego 2 en el Chase Center. La serie esta 1-1. Golden State anoto solo 9 puntos en el tercer cuarto.",
+    "body": [
+      "El Dream de Atlanta vencio 79-65 a las Valkyries de Golden State el lunes en el Chase Center. Parciales: Dream 18, 21, 21, 19 y Valkyries 21, 16, 9, 19. El acta oficial y ESPN coinciden. La serie esta 1-1. El juego 1 sigue siendo Valkyries 68, Dream 64. Angel Reese hizo 30 puntos y 16 rebotes, con 10 de 16 en tiros y 9 de 11 en libres. Allisha Gray anoto 18. Jordin Canada sumo 13 puntos y 10 asistencias. Gabby Williams anoto 14 para Golden State. El acta oficial da 18.064 espectadores, lleno.",
+      "El juego 3 es el miercoles 21 de octubre a las 8:00 p.m. ET en el State Farm Arena de Atlanta, por USA, Peacock y CNBC. No hay marcador. ESPN da a Atlanta favorita por 3,5. Quien gane el miercoles liderara las Finales 2-1."
+    ]
+  },
+  "de": {
+    "title": "Dream schlaegt die Valkyries 79-65 und gleicht die Finals aus",
+    "subtitle": "Angel Reese hatte 30 Punkte und 16 Rebounds. Spiel 3 ist am Mittwoch in Atlanta, ohne Spielstand.",
+    "excerpt": "Atlanta gewann Spiel 2 im Chase Center. Die Serie steht 1-1. Golden State erzielte im dritten Viertel nur 9 Punkte.",
+    "body": [
+      "Die Atlanta Dream schlugen die Golden State Valkyries am Montag im Chase Center mit 79-65. Viertel: Dream 18, 21, 21, 19 und Valkyries 21, 16, 9, 19. Der offizielle Bericht und ESPN stimmen ueberein. Die Serie steht 1-1. Spiel 1 bleibt Valkyries 68, Dream 64. Angel Reese hatte 30 Punkte und 16 Rebounds, bei 10 von 16 aus dem Feld und 9 von 11 von der Linie. Allisha Gray erzielte 18 Punkte. Jordin Canada kam auf 13 Punkte und 10 Assists. Gabby Williams erzielte 14 fuer Golden State. Der offizielle Bericht nennt 18.064 Zuschauer, ausverkauft.",
+      "Spiel 3 ist am Mittwoch, 21. Oktober, um 20:00 ET in der State Farm Arena in Atlanta, auf USA, Peacock und CNBC. Es gibt keinen Spielstand. ESPN sieht Atlanta mit 3,5 Punkten vorn. Der Sieger vom Mittwoch fuehrt die Finals mit 2-1."
+    ]
+  },
+  "it": {
+    "title": "Dream batte le Valkyries 79-65 e pareggia le Finali",
+    "subtitle": "Angel Reese ha fatto 30 punti e 16 rimbalzi. Gara 3 mercoledi ad Atlanta, senza punteggio.",
+    "excerpt": "Atlanta ha vinto gara 2 al Chase Center. La serie e 1-1. Golden State ha segnato solo 9 punti nel terzo quarto.",
+    "body": [
+      "Le Atlanta Dream hanno battuto le Golden State Valkyries 79-65 lunedi al Chase Center. Quarti: Dream 18, 21, 21, 19 e Valkyries 21, 16, 9, 19. Il referto ufficiale ed ESPN concordano. La serie e 1-1. Gara 1 resta Valkyries 68, Dream 64. Angel Reese ha fatto 30 punti e 16 rimbalzi, con 10 su 16 dal campo e 9 su 11 ai liberi. Allisha Gray ha segnato 18. Jordin Canada ha aggiunto 13 punti e 10 assist. Gabby Williams ha segnato 14 per Golden State. Il referto ufficiale indica 18.064 spettatori, tutto esaurito.",
+      "Gara 3 e mercoledi 21 ottobre alle 20:00 ET alla State Farm Arena di Atlanta, su USA, Peacock e CNBC. Non c'e un punteggio. ESPN da Atlanta favorita di 3,5. Chi vince mercoledi guidera le Finali 2-1."
+    ]
+  },
+  "pl": {
+    "title": "Dream pokonuje Valkyries 79-65 i wyrownuje finaly",
+    "subtitle": "Angel Reese miala 30 punktow i 16 zbiorek. Mecz 3 jest w srode w Atlancie, bez wyniku.",
+    "excerpt": "Atlanta wygrala mecz 2 w Chase Center. Seria jest 1-1. Golden State zdobyla tylko 9 punktow w trzeciej kwarcie.",
+    "body": [
+      "Atlanta Dream pokonala Golden State Valkyries 79-65 w poniedzialek w Chase Center. Kwarty: Dream 18, 21, 21, 19 i Valkyries 21, 16, 9, 19. Oficjalny protokol i ESPN sa zgodne. Seria jest 1-1. Mecz 1 zostaje: Valkyries 68, Dream 64. Angel Reese miala 30 punktow i 16 zbiorek, przy 10 z 16 z gry i 9 z 11 osobistych. Allisha Gray zdobyla 18 punktow. Jordin Canada dodala 13 punktow i 10 asyst. Gabby Williams zdobyla 14 dla Golden State. Protokol podaje 18064 widzow, wyprzedana hala.",
+      "Mecz 3 jest w srode 21 pazdziernika o 20:00 ET w State Farm Arena w Atlancie, w USA, Peacock i CNBC. Wyniku nie ma. ESPN daje Atlancie faworyta o 3,5 punktu. Zwyciezca srody poprowadzi finaly 2-1."
+    ]
+  },
+  "zh": {
+    "title": "梦想79-65击败女武神，总决赛战成1-1",
+    "subtitle": "安赫尔·里斯得到30分和16个篮板。第三场是周三在亚特兰大，目前无比分。",
+    "excerpt": "亚特兰大在大通中心赢下第二场。系列赛1-1。金州在第三节只得到9分。",
+    "body": [
+      "亚特兰大梦想周一在大通中心79-65击败金州女武神。节次：梦想18、21、21、19，女武神21、16、9、19。官方记录表和ESPN一致。系列赛1-1。第一场仍然是女武神68、梦想64。安赫尔·里斯得到30分和16个篮板，投篮16中10，罚球11中9。阿莉莎·格雷得到18分。乔丁·卡纳达得到13分和10次助攻。加比·威廉姆斯为金州得到14分。官方记录观众18064人，满座。",
+      "第三场是10月21日周三美东晚8:00，在亚特兰州立农业球馆，由USA、Peacock和CNBC转播。无比分。ESPN让分是亚特兰大让3.5分。周三的胜者将以2-1领先总决赛。"
+    ]
+  },
+  "ja": {
+    "title": "ドリームがヴァルキリーズを79-65で下し、ファイナルは1勝1敗",
+    "subtitle": "エンジェル・リースは30得点16リバウンド。第3戦は水曜のアトランタで、スコアはない。",
+    "excerpt": "アトランタがチェイスセンターで第2戦を取った。シリーズは1勝1敗。ゴールデンステートの第3クォーターは9点だけだった。",
+    "body": [
+      "アトランタ・ドリームは月曜、チェイスセンターでゴールデンステート・ヴァルキリーズを79-65で下した。クォーターはドリーム18、21、21、19、ヴァルキリーズ21、16、9、19。公式記録とESPNが一致する。シリーズは1勝1敗。第1戦はヴァルキリーズ68、ドリーム64のまま。エンジェル・リースは30得点16リバウンド、フィールドゴール16本中10本、フリースロー11本中9本。アリシャ・グレイは18得点。ジョーディン・カナダは13得点10アシスト。ギャビー・ウィリアムズはゴールデンステートで14得点。公式記録の観客は18064人、満員。",
+      "第3戦は10月21日水曜、東部午後8時、アトランタのステートファーム・アリーナ。USA、Peacock、CNBC。スコアはない。ESPNはアトランタの3.5点有利。水曜の勝者がファイナルを2勝1敗でリードする。"
+    ]
+  },
+  "ko": {
+    "title": "드림이 발키리스를 79-65로 꺾고 파이널을 1-1로 만듦",
+    "subtitle": "앤절 리스는 30점 16리바운드. 3차전은 수요일 애틀랜타이며 스코어는 없다.",
+    "excerpt": "애틀랜타가 체이스 센터에서 2차전을 이겼다. 시리즈는 1-1. 골든스테이트는 3쿼터에 9점만 냈다.",
+    "body": [
+      "애틀랜타 드림은 월요일 체이스 센터에서 골든스테이트 발키리스를 79-65로 꺾었다. 쿼터는 드림 18, 21, 21, 19, 발키리스 21, 16, 9, 19. 공식 기록과 ESPN이 같다. 시리즈는 1-1. 1차전은 발키리스 68, 드림 64가 그대로다. 앤절 리스는 30점 16리바운드, 필드골 16개 중 10개, 자유투 11개 중 9개. 알리샤 그레이는 18점. 조딘 캐나다는 13점 10어시스트. 개비 윌리엄스는 골든스테이트에서 14점. 공식 기록의 관중은 18064명, 매진.",
+      "3차전은 10월 21일 수요일 동부 오후 8시, 애틀랜타 스테이트팜 아레나, USA, Peacock, CNBC. 스코어는 없다. ESPN은 애틀랜타 -3.5. 수요일 승자가 파이널을 2-1로 리드한다."
+    ]
+  },
+  "ar": {
+    "title": "دريم يهزم فالكيريز 79-65 ويعادل النهائيات",
+    "subtitle": "انجل ريس سجلت 30 نقطة واخذت 16 متابعة. المباراة 3 الاربعاء في اتلانتا، بلا نتيجة.",
+    "excerpt": "اتلانتا فازت بالمباراة 2 في تشيس سنتر. السلسلة 1-1. غولدن ستيت سجلت 9 نقاط فقط في الربع الثالث.",
+    "body": [
+      "هزم دريم اتلانتا فالكيريز غولدن ستيت 79-65 الاثنين في تشيس سنتر. الارباع: دريم 18 و21 و21 و19، وفالكيريز 21 و16 و9 و19. التقرير الرسمي وESPN متفقان. السلسلة 1-1. المباراة 1 تبقى فالكيريز 68 ودريم 64. سجلت انجل ريس 30 نقطة واخذت 16 متابعة، بواقع 10 من 16 من الميدان و9 من 11 من الرميات الحرة. سجلت اليسا غراي 18 نقطة. اضافت جوردين كندا 13 نقطة و10 تمريرات حاسمة. سجلت غابي ويليامز 14 نقطة لغولدن ستيت. التقرير الرسمي يذكر 18064 متفرجا، صالة ممتلئة.",
+      "المباراة 3 الاربعاء 21 اكتوبر الساعة 8:00 مساء بتوقيت الشرق في ستيت فارم ارينا في اتلانتا، على USA وPeacock وCNBC. لا نتيجة. ESPN يعطي اتلانتا افضلية 3.5. الفائز الاربعاء سيتقدم في النهائيات 2-1."
+    ]
+  },
+},
+"atp-tuesday-lyon-moutet-beats-humbert-2026": {
+  "fr": {
+    "title": "Moutet bat Humbert a Lyon, 6-2, 6-7(5), 7-6(4)",
+    "subtitle": "Le double champion a perdu mardi en 3 heures 21 minutes. La carte du mardi a Almaty est aussi terminee.",
+    "excerpt": "Corentin Moutet, 94e, a battu la tete de serie numero 7 Ugo Humbert a Lyon. Shanghai tient : Davidovich Fokina a battu Jodar.",
+    "body": [
+      "Corentin Moutet a battu Ugo Humbert 6-2, 6-7(5), 7-6(4) en 3 heures 21 minutes au tournoi ATP 250 de Lyon. Le rapport ATP est date du 20 octobre 2026. Humbert etait tete de serie numero 7 et double champion de l'epreuve quand elle se jouait a Marseille. Moutet, 94e, a dit qu'il avait joue avec le coeur. C'etait son premier match depuis son abandon a l'US Open. L'ATP donne Felix Balshaw comme prochain adversaire. Sur la meme carte du mardi : Borna Gojo a battu Arthur Fery 6-3, 7-6(2), et Pierre-Hugues Herbert a battu Sebastian Baez 6-3, 6-4.",
+      "Le bloc du mardi 20 octobre a Almaty, selon l'ATP : Facundo Diaz Acosta a battu Thiago Agustin Tirante 6-7(3), 6-1, 6-4 ; Nikoloz Basilashvili a battu Marin Cilic 6-2, 7-5 ; James Duckworth a battu Miomir Kecmanovic 6-4, 6-3 ; Mikhail Kukushkin a battu Stefanos Sakellaridis 7-6(4), 7-6(3) ; Adrian Mannarino a battu Aleksandar Vukic 7-6(4), 4-6, 6-3. La finale de Shanghai ne change pas : Alejandro Davidovich Fokina a battu Rafael Jodar 1-6, 7-6(5), 6-4."
+    ]
+  },
+  "es": {
+    "title": "Moutet vence a Humbert en Lyon, 6-2, 6-7(5), 7-6(4)",
+    "subtitle": "El bicampeon perdio el martes en 3 horas y 21 minutos. La jornada del martes en Almaty tambien termino.",
+    "excerpt": "Corentin Moutet, numero 94, vencio al cabeza de serie 7 Ugo Humbert en Lyon. Shangai sigue: Davidovich Fokina vencio a Jodar.",
+    "body": [
+      "Corentin Moutet vencio a Ugo Humbert 6-2, 6-7(5), 7-6(4) en 3 horas y 21 minutos en el ATP 250 de Lyon. El informe de la ATP esta fechado el 20 de octubre de 2026. Humbert era el cabeza de serie numero 7 y bicampeon del torneo cuando se jugaba en Marsella. Moutet, numero 94, dijo que jugo con el corazon. Era su primer partido desde que se retiró en el US Open. La ATP senala a Felix Balshaw como proximo rival. En la misma jornada: Borna Gojo vencio a Arthur Fery 6-3, 7-6(2), y Pierre-Hugues Herbert vencio a Sebastian Baez 6-3, 6-4.",
+      "El bloque del martes 20 de octubre en Almaty, segun la ATP: Facundo Diaz Acosta vencio a Thiago Agustin Tirante 6-7(3), 6-1, 6-4; Nikoloz Basilashvili vencio a Marin Cilic 6-2, 7-5; James Duckworth vencio a Miomir Kecmanovic 6-4, 6-3; Mikhail Kukushkin vencio a Stefanos Sakellaridis 7-6(4), 7-6(3); Adrian Mannarino vencio a Aleksandar Vukic 7-6(4), 4-6, 6-3. La final de Shangai no cambia: Alejandro Davidovich Fokina vencio a Rafael Jodar 1-6, 7-6(5), 6-4."
+    ]
+  },
+  "de": {
+    "title": "Moutet schlaegt Humbert in Lyon, 6-2, 6-7(5), 7-6(4)",
+    "subtitle": "Der zweifache Champion verlor am Dienstag nach 3 Stunden und 21 Minuten. Der Dienstag in Almaty ist ebenfalls durch.",
+    "excerpt": "Corentin Moutet, Nummer 94, schlug die Nummer 7 Ugo Humbert in Lyon. Shanghai steht: Davidovich Fokina schlug Jodar.",
+    "body": [
+      "Corentin Moutet schlug Ugo Humbert 6-2, 6-7(5), 7-6(4) in 3 Stunden und 21 Minuten beim ATP 250 in Lyon. Der ATP-Bericht ist auf den 20. Oktober 2026 datiert. Humbert war die Nummer 7 und zweifacher Champion dieses Turniers, als es in Marseille stattfand. Moutet, Nummer 94, sagte, er habe mit dem Herzen gespielt. Es war sein erstes Match seit der Aufgabe bei den US Open. Die ATP nennt Felix Balshaw als naechsten Gegner. Auf derselben Dienstagskarte: Borna Gojo schlug Arthur Fery 6-3, 7-6(2), und Pierre-Hugues Herbert schlug Sebastian Baez 6-3, 6-4.",
+      "Der ATP-Block vom Dienstag, 20. Oktober, in Almaty: Facundo Diaz Acosta schlug Thiago Agustin Tirante 6-7(3), 6-1, 6-4; Nikoloz Basilashvili schlug Marin Cilic 6-2, 7-5; James Duckworth schlug Miomir Kecmanovic 6-4, 6-3; Mikhail Kukushkin schlug Stefanos Sakellaridis 7-6(4), 7-6(3); Adrian Mannarino schlug Aleksandar Vukic 7-6(4), 4-6, 6-3. Das Shanghai-Finale bleibt: Alejandro Davidovich Fokina schlug Rafael Jodar 1-6, 7-6(5), 6-4."
+    ]
+  },
+  "it": {
+    "title": "Moutet batte Humbert a Lione, 6-2, 6-7(5), 7-6(4)",
+    "subtitle": "Il due volte campione ha perso martedi in 3 ore e 21 minuti. Anche il martedi di Almaty e chiuso.",
+    "excerpt": "Corentin Moutet, numero 94, ha battuto la testa di serie numero 7 Ugo Humbert a Lione. Shanghai resta: Davidovich Fokina ha battuto Jodar.",
+    "body": [
+      "Corentin Moutet ha battuto Ugo Humbert 6-2, 6-7(5), 7-6(4) in 3 ore e 21 minuti all'ATP 250 di Lione. Il resoconto ATP e datato 20 ottobre 2026. Humbert era la testa di serie numero 7 e due volte campione di questo torneo quando si giocava a Marsiglia. Moutet, numero 94, ha detto di aver giocato col cuore. Era la sua prima partita dal ritiro agli US Open. L'ATP indica Felix Balshaw come prossimo avversario. Sulla stessa giornata: Borna Gojo ha battuto Arthur Fery 6-3, 7-6(2), e Pierre-Hugues Herbert ha battuto Sebastian Baez 6-3, 6-4.",
+      "Il blocco ATP di martedi 20 ottobre ad Almaty: Facundo Diaz Acosta ha battuto Thiago Agustin Tirante 6-7(3), 6-1, 6-4; Nikoloz Basilashvili ha battuto Marin Cilic 6-2, 7-5; James Duckworth ha battuto Miomir Kecmanovic 6-4, 6-3; Mikhail Kukushkin ha battuto Stefanos Sakellaridis 7-6(4), 7-6(3); Adrian Mannarino ha battuto Aleksandar Vukic 7-6(4), 4-6, 6-3. La finale di Shanghai non cambia: Alejandro Davidovich Fokina ha battuto Rafael Jodar 1-6, 7-6(5), 6-4."
+    ]
+  },
+  "pl": {
+    "title": "Moutet pokonuje Humberta w Lyonie 6-2, 6-7(5), 7-6(4)",
+    "subtitle": "Dwukrotny mistrz przegral we wtorek po 3 godzinach i 21 minutach. Wtorkowa karta w Almaty tez jest zamknieta.",
+    "excerpt": "Corentin Moutet, numer 94, pokonal rozstawionego z numerem 7 Ugo Humberta w Lyonie. Szanghaj zostaje: Davidovich Fokina pokonal Jodara.",
+    "body": [
+      "Corentin Moutet pokonal Ugo Humberta 6-2, 6-7(5), 7-6(4) w 3 godziny i 21 minut na ATP 250 w Lyonie. Raport ATP jest datowany na 20 pazdziernika 2026. Humbert byl rozstawiony z numerem 7 i dwukrotnym mistrzem tej imprezy, gdy grano ja w Marsylii. Moutet, numer 94, powiedzial, ze zagral sercem. To byl jego pierwszy mecz od kreczu na US Open. ATP wskazuje Felixa Balshawa jako nastepnego rywala. Na tej samej wtorkowej karcie: Borna Gojo pokonal Arthura Fery'ego 6-3, 7-6(2), a Pierre-Hugues Herbert pokonal Sebastiana Baeza 6-3, 6-4.",
+      "Wtorkowy blok ATP z 20 pazdziernika w Almaty: Facundo Diaz Acosta pokonal Thiago Agustina Tirante 6-7(3), 6-1, 6-4; Nikoloz Basilashvili pokonal Marina Cilicia 6-2, 7-5; James Duckworth pokonal Miomira Kecmanovicia 6-4, 6-3; Mikhail Kukushkin pokonal Stefanosa Sakellaridisa 7-6(4), 7-6(3); Adrian Mannarino pokonal Aleksandara Vukicia 7-6(4), 4-6, 6-3. Final Szanghaju sie nie zmienia: Alejandro Davidovich Fokina pokonal Rafaela Jodara 1-6, 7-6(5), 6-4."
+    ]
+  },
+  "zh": {
+    "title": "穆泰在里昂击败安贝尔：6-2、6-7(5)、7-6(4)",
+    "subtitle": "两届冠军周二在3小时21分钟后落败。阿拉木图的周二赛程也已结束。",
+    "excerpt": "排名第94的科朗坦·穆泰在里昂击败7号种子于戈·安贝尔。上海结果不变：达维多维奇·福基纳击败霍达尔。",
+    "body": [
+      "科朗坦·穆泰在里昂ATP250以6-2、6-7(5)、7-6(4)击败于戈·安贝尔，用时3小时21分钟。ATP赛报日期为2026年10月20日。安贝尔是7号种子，也是这项赛事仍在马赛举办时的两届冠军。排名第94的穆泰说他用心脏在打。这是他自美网首轮退赛后的第一场比赛。ATP把他的下一任对手列为费利克斯·鲍尔肖。同一天的周二赛程里，博尔纳·戈约以6-3、7-6(2)击败阿瑟·费里，皮埃尔-于格·埃贝尔以6-3、6-4击败塞巴斯蒂安·巴埃斯。",
+      "ATP的阿拉木图10月20日周二赛果：法昆多·迪亚斯·阿科斯塔以6-7(3)、6-1、6-4击败蒂亚戈·阿古斯丁·蒂兰特；尼科洛兹·巴西拉什维利以6-2、7-5击败马林·西里奇；詹姆斯·达克沃思以6-4、6-3击败米奥米尔·凯茨曼诺维奇；米哈伊尔·库库什金以7-6(4)、7-6(3)击败斯特凡诺斯·萨克拉里迪斯；阿德里安·曼纳里诺以7-6(4)、4-6、6-3击败亚历山大·武基奇。上海决赛不变：亚历杭德罗·达维多维奇·福基纳以1-6、7-6(5)、6-4击败拉斐尔·霍达尔。"
+    ]
+  },
+  "ja": {
+    "title": "リヨンでムテがアンベールに6-2, 6-7(5), 7-6(4)",
+    "subtitle": "2度の優勝者が火曜に3時間21分で敗れた。アルマトイの火曜カードも終わっている。",
+    "excerpt": "ランキング94位のコランタン・ムテが、リヨンで第7シードのウーゴ・アンベールを下した。上海は変わらず、ダビドビッチ・フォキナがホダルに勝った。",
+    "body": [
+      "コランタン・ムテはリヨンのATP250でウーゴ・アンベールを6-2, 6-7(5), 7-6(4)で下した。試合時間は3時間21分。ATPの記事は2026年10月20日付け。アンベールは第7シードで、この大会がマルセイユで開かれていたときの2度の優勝者。94位のムテは心でプレーしたと語った。全米オープンの初戦棄権以来、初めての試合だった。ATPは次の相手をフェリックス・バルショーとしている。同じ火曜のカードでは、ボルナ・ゴヨがアーサー・フェリーを6-3, 7-6(2)、ピエール=ユーグ・エルベールがセバスティアン・バエスを6-3, 6-4で下した。",
+      "ATPのアルマトイ、10月20日火曜のブロック: ファクンド・ディアス・アコスタがティアゴ・アグスティン・ティランテを6-7(3), 6-1, 6-4。ニコロズ・バシラシビリがマリン・チリッチを6-2, 7-5。ジェームズ・ダックワースがミオミル・ケツマノビッチを6-4, 6-3。ミハイル・ククシュキンがステファノス・サケラリディスを7-6(4), 7-6(3)。アドリアン・マナリノがアレクサンダル・ブキッチを7-6(4), 4-6, 6-3。上海の決勝は変わらない。アレハンドロ・ダビドビッチ・フォキナがラファエル・ホダルを1-6, 7-6(5), 6-4で下した。"
+    ]
+  },
+  "ko": {
+    "title": "리옹에서 무테가 윔베르를 6-2, 6-7(5), 7-6(4)로 꺾음",
+    "subtitle": "2회 우승자가 화요일 3시간 21분 만에 졌다. 알마티의 화요일 카드도 끝났다.",
+    "excerpt": "94위 코랑탱 무테가 리옹에서 7번 시드 위고 윔베르를 꺾었다. 상하이는 그대로, 다비도비치 포키나가 호다르를 이겼다.",
+    "body": [
+      "코랑탱 무테는 리옹 ATP 250에서 위고 윔베르를 6-2, 6-7(5), 7-6(4)로 이겼다. 경기 시간은 3시간 21분. ATP 기사는 2026년 10월 20일자다. 윔베르는 7번 시드였고, 대회가 마르세유에서 열릴 때 2회 우승자였다. 94위 무테는 마음으로 쳤다고 말했다. US 오픈 1회전 기권 이후 첫 경기였다. ATP는 다음 상대를 펠릭스 발쇼로 적었다. 같은 화요일 카드에서 보르나 고요는 아서 페리를 6-3, 7-6(2), 피에르위그 에르베르는 세바스티안 바에스를 6-3, 6-4로 이겼다.",
+      "ATP의 알마티 10월 20일 화요일 블록: 파쿤도 디아스 아코스타가 티아고 아구스틴 티란테를 6-7(3), 6-1, 6-4. 니콜로즈 바실라슈빌리가 마린 칠리치를 6-2, 7-5. 제임스 더크워스가 미오미르 케치마노비치를 6-4, 6-3. 미하일 쿠쿠시킨이 스테파노스 사켈라리디스를 7-6(4), 7-6(3). 아드리안 만나리노가 알렉산다르 부키치를 7-6(4), 4-6, 6-3. 상하이 결승은 바뀌지 않는다. 알레한드로 다비도비치 포키나가 라파엘 호다르를 1-6, 7-6(5), 6-4로 이겼다."
+    ]
+  },
+  "ar": {
+    "title": "موتيه يهزم هومبير في ليون 6-2 و6-7(5) و7-6(4)",
+    "subtitle": "البطل مرتين خسر الثلاثاء بعد 3 ساعات و21 دقيقة. بطاقة الثلاثاء في الماتي اكتملت ايضا.",
+    "excerpt": "كورنتان موتيه، المصنف 94، هزم المصنف السابع اوغو هومبير في ليون. شنغهاي تبقى: دافيدوفيتش فوكينا هزم خودار.",
+    "body": [
+      "هزم كورنتان موتيه اوغو هومبير 6-2 و6-7(5) و7-6(4) في 3 ساعات و21 دقيقة في بطولة ATP 250 في ليون. تقرير ATP مؤرخ في 20 اكتوبر 2026. كان هومبير المصنف السابع وبطل هذه البطولة مرتين حين كانت تقام في مارسيليا. قال موتيه، المصنف 94، انه لعب بقلبه. كانت اول مباراة له منذ انسحابه في افتتاح امريكا المفتوحة. تذكر ATP فيليكس بالشو خصما تاليا. على البطاقة نفسها: بورنا غويو هزم ارثر فيري 6-3 و7-6(2)، وبيير-هوغ هيربير هزم سيباستيان بايز 6-3 و6-4.",
+      "كتلة ATP ليوم الثلاثاء 20 اكتوبر في الماتي: فاكندو دياس اكوستا هزم تياغو اغوستين تيرانتي 6-7(3) و6-1 و6-4. نيكولوز باسيلاشفيلي هزم مارين سيليتش 6-2 و7-5. جيمس داكوورث هزم ميومير كيتشمانوفيتش 6-4 و6-3. ميخائيل كوكوشكين هزم ستيفانوس ساكلاريديس 7-6(4) و7-6(3). ادريان مانارينو هزم الكسندر فوكيتش 7-6(4) و4-6 و6-3. نهائي شنغهاي لا يتغير: اليخاندرو دافيدوفيتش فوكينا هزم رافاييل خودار 1-6 و7-6(5) و6-4."
+    ]
+  },
+},
+"pga-tour-bermuda-tuesday-no-round-2026": {
+  "fr": {
+    "title": "Pas de tour mardi : Bermuda ouvre jeudi a Port Royal",
+    "subtitle": "Le champ compte 120 joueurs. Adam Schenk defend son titre. La victoire de Brennan a 16 sous le par tient toujours.",
+    "excerpt": "Le Butterfield Bermuda n'a pas commence. Premier tour jeudi, Golf Channel de 13 h a 16 h ET. Dotation de 6 millions de dollars.",
+    "body": [
+      "Aucun tour du Butterfield Bermuda Championship n'est joue mardi 20 octobre. Le premier tour est jeudi 22 octobre au Port Royal Golf Course de Southampton. Le PGA Tour indique un parcours de 6 828 yards, par 71, dessine par Robert Trent Jones. Le champ compte 120 joueurs. La dotation est de 6 millions de dollars, dont 1 080 000 au vainqueur. Adam Schenk est le tenant du titre. Golf.com et le PGA Tour annoncent Golf Channel de jeudi a dimanche, de 13 h a 16 h ET. Un pro-am est au programme de mercredi. Il n'y a pas de leader mardi.",
+      "La victoire de Michael Brennan au Baycurrent Classic, a 16 sous le par, reste le dernier resultat PGA Tour de ce bureau. L'Associated Press, dans sa note de mardi, classe Corey Conners numero 61 mondial, le mieux classe du champ, et cite les amateurs Miles Russell et Mason Howell. Le PGA Tour place Schenk au 163e rang de la FedExCup."
+    ]
+  },
+  "es": {
+    "title": "No hay vuelta el martes: Bermuda abre el jueves en Port Royal",
+    "subtitle": "El campo es de 120 jugadores. Adam Schenk defiende. El triunfo de Brennan a 16 bajo par sigue en pie.",
+    "excerpt": "El Butterfield Bermuda no ha empezado. Primera ronda el jueves, Golf Channel de 1 a 4 p.m. ET. Bolsa de 6 millones.",
+    "body": [
+      "El martes 20 de octubre no se juega ninguna vuelta del Butterfield Bermuda Championship. La primera ronda es el jueves 22 de octubre en Port Royal Golf Course, Southampton. El PGA Tour lista el campo en 6.828 yardas, par 71, diseno de Robert Trent Jones. El campo es de 120 jugadores. La bolsa es de 6 millones de dolares, con 1.080.000 para el ganador. Adam Schenk defiende el titulo. Golf.com y el PGA Tour anuncian Golf Channel de jueves a domingo, de 1 a 4 p.m. ET. El pro-am es el miercoles. No hay lider el martes.",
+      "La victoria de Michael Brennan en el Baycurrent Classic, a 16 bajo par, sigue siendo el ultimo resultado del PGA Tour en este escritorio. Associated Press, en su nota del martes, pone a Corey Conners como el mejor clasificado del campo, numero 61 del mundo, y nombra a los amateurs Miles Russell y Mason Howell. El PGA Tour situa a Schenk en el puesto 163 de la FedExCup."
+    ]
+  },
+  "de": {
+    "title": "Dienstag keine Runde: Bermuda oeffnet Donnerstag in Port Royal",
+    "subtitle": "Das Feld hat 120 Spieler. Adam Schenk verteidigt. Brennans Sieg mit 16 unter Par steht.",
+    "excerpt": "Die Butterfield Bermuda Championship hat nicht begonnen. Erste Runde Donnerstag, Golf Channel 13 bis 16 Uhr ET. 6 Millionen Dollar Preisgeld.",
+    "body": [
+      "Am Dienstag, 20. Oktober, wird keine Runde der Butterfield Bermuda Championship gespielt. Die erste Runde ist am Donnerstag, 22. Oktober, auf dem Port Royal Golf Course in Southampton. Die PGA Tour gibt den Platz mit 6.828 Yards, Par 71 an, Entwurf Robert Trent Jones. Das Feld hat 120 Spieler. Das Preisgeld betraegt 6 Millionen Dollar, davon 1.080.000 fuer den Sieger. Adam Schenk ist Titelverteidiger. Golf.com und die PGA Tour nennen Golf Channel von Donnerstag bis Sonntag, 13 bis 16 Uhr ET. Ein Pro-Am steht am Mittwoch. Es gibt keinen Dienstagsfuehrenden.",
+      "Michael Brennans Sieg bei der Baycurrent Classic mit 16 unter Par bleibt das letzte PGA-Tour-Ergebnis dieses Desks. Associated Press nennt in der Dienstagsnotiz Corey Conners als bestplatzierten Spieler des Feldes, Nummer 61 der Welt, und die Amateure Miles Russell und Mason Howell. Die PGA Tour setzt Schenk auf Rang 163 der FedExCup."
+    ]
+  },
+  "it": {
+    "title": "Nessun giro martedi: Bermuda apre giovedi a Port Royal",
+    "subtitle": "Il campo e di 120 giocatori. Adam Schenk difende. La vittoria di Brennan a 16 sotto il par resta.",
+    "excerpt": "Il Butterfield Bermuda non e iniziato. Primo giro giovedi, Golf Channel dalle 13 alle 16 ET. Montepremi di 6 milioni.",
+    "body": [
+      "Martedi 20 ottobre non si gioca alcun giro del Butterfield Bermuda Championship. Il primo giro e giovedi 22 ottobre al Port Royal Golf Course di Southampton. Il PGA Tour indica un percorso di 6.828 yard, par 71, disegno di Robert Trent Jones. Il campo e di 120 giocatori. Il montepremi e di 6 milioni di dollari, di cui 1.080.000 al vincitore. Adam Schenk difende il titolo. Golf.com e il PGA Tour indicano Golf Channel da giovedi a domenica, dalle 13 alle 16 ET. Il pro-am e mercoledi. Non c'e un leader di martedi.",
+      "La vittoria di Michael Brennan al Baycurrent Classic, a 16 sotto il par, resta l'ultimo risultato PGA Tour di questa redazione. Associated Press, nella nota di martedi, indica Corey Conners come il meglio classificato del campo, numero 61 del mondo, e cita gli amatori Miles Russell e Mason Howell. Il PGA Tour mette Schenk al 163o posto della FedExCup."
+    ]
+  },
+  "pl": {
+    "title": "We wtorek nie ma rundy: Bermuda startuje w czwartek w Port Royal",
+    "subtitle": "W polu jest 120 graczy. Adam Schenk broni tytulu. Wygrana Brennana na 16 ponizej par zostaje.",
+    "excerpt": "Butterfield Bermuda Championship sie nie zaczal. Pierwsza runda w czwartek, Golf Channel od 13:00 do 16:00 ET. Pula 6 milionow dolarow.",
+    "body": [
+      "We wtorek 20 pazdziernika nie gra sie rundy Butterfield Bermuda Championship. Pierwsza runda jest w czwartek 22 pazdziernika na Port Royal Golf Course w Southampton. PGA Tour podaje pole o dlugosci 6828 yardow, par 71, projekt Roberta Trenta Jonesa. W stawce jest 120 graczy. Pula wynosi 6 milionow dolarow, z czego 1080000 dla zwyciezcy. Adam Schenk broni tytulu. Golf.com i PGA Tour podaja Golf Channel od czwartku do niedzieli, od 13:00 do 16:00 ET. Pro-am jest w srode. Nie ma wtorkowego lidera.",
+      "Wygrana Michaela Brennana w Baycurrent Classic, na 16 ponizej par, zostaje ostatnim wynikiem PGA Tour tego biura. Associated Press w wtorkowej nocie wymienia Coreya Connersa jako najlepiej klasyfikowanego w polu, numer 61 na swiecie, oraz amatorow Milesa Russella i Masona Howella. PGA Tour stawia Schenka na 163. miejscu FedExCup."
+    ]
+  },
+  "zh": {
+    "title": "周二没有轮次：百慕大锦标赛周四在皇家港开杆",
+    "subtitle": "赛场共120人。亚当·申克卫冕。布伦南低于标准杆16杆的胜利仍然有效。",
+    "excerpt": "百慕大锦标赛还没有开始。第一轮在周四，高尔夫频道美东下午1点至4点。奖金600万美元。",
+    "body": [
+      "10月20日周二不进行百慕大锦标赛的任何一轮。第一轮是10月22日周四，在南安普顿的皇家港高尔夫球场。PGA巡回赛列出球场长6828码，标准杆71杆，由罗伯特·特伦特·琼斯设计。赛场共120人。奖金600万美元，冠军108万美元。亚当·申克是卫冕冠军。Golf.com和PGA巡回赛列出高尔夫频道从周四到周日、美东下午1点至4点转播。职业业余配对赛在周三。周二没有领先者。",
+      "迈克尔·布伦南在湾流精英赛以低于标准杆16杆夺冠，仍是本栏目最近的一场PGA巡回赛结果。美联社的周二高尔夫简讯把科里·康纳斯列为赛场世界排名最高的选手，列世界第61，并点名业余选手迈尔斯·拉塞尔和梅森·豪厄尔。PGA巡回赛把申克放在联邦快递杯第163位。"
+    ]
+  },
+  "ja": {
+    "title": "火曜はラウンドなし: バミューダは木曜にポートロイヤルで開幕",
+    "subtitle": "出場は120人。アダム・シェンクが防衛。ブレナンの16アンダー優勝は残る。",
+    "excerpt": "バミューダ選手権は始まっていない。第1ラウンドは木曜、ゴルフチャンネルは東部午後1時から4時。賞金は600万ドル。",
+    "body": [
+      "10月20日火曜にバミューダ選手権のラウンドはない。第1ラウンドは10月22日木曜、サウサンプトンのポートロイヤル・ゴルフコース。PGAツアーはコースを6828ヤード、パー71、ロバート・トレント・ジョーンズの設計としている。出場は120人。賞金は600万ドル、優勝者は108万ドル。アダム・シェンクが前回優勝者。Golf.comとPGAツアーは、ゴルフチャンネルを木から日、東部午後1時から4時としている。プロアマは水曜。火曜の首位はいない。",
+      "マイケル・ブレナンのベイカレント・クラシック、16アンダーの優勝は、このデスクの最新のPGAツアー結果のまま。APの火曜のゴルフメモは、コーリー・コナーズを出場者で世界最高位の61位とし、アマチュアのマイルズ・ラッセルとメイソン・ハウエルの名を挙げた。PGAツアーはシェンクをフェデックス杯163位としている。"
+    ]
+  },
+  "ko": {
+    "title": "화요일 라운드 없음: 버뮤다는 목요일 포트 로열에서 시작",
+    "subtitle": "출전은 120명. 애덤 솅크가 타이틀을 방어한다. 브레넌의 16언더 우승은 그대로다.",
+    "excerpt": "버뮤다 챔피언십은 시작하지 않았다. 1라운드는 목요일, 골프 채널은 동부 오후 1시부터 4시. 상금은 600만 달러.",
+    "body": [
+      "10월 20일 화요일에는 버뮤다 챔피언십 라운드가 없다. 1라운드는 10월 22일 목요일, 사우샘프턴의 포트 로열 골프 코스. PGA 투어는 코스를 6828야드, 파 71, 로버트 트렌트 존스의 설계로 적는다. 출전은 120명. 상금은 600만 달러, 우승자는 108만 달러. 애덤 솅크가 디펜딩 챔피언이다. Golf.com과 PGA 투어는 골프 채널을 목요일부터 일요일, 동부 오후 1시부터 4시로 적는다. 프로암은 수요일. 화요일 선두는 없다.",
+      "마이클 브레넌의 베이커런트 클래식 16언더 우승은 이 데스크의 마지막 PGA 투어 결과로 남는다. AP의 화요일 골프 노트는 코리 코너스를 필드에서 세계 랭킹이 가장 높은 61위로 적고, 아마추어 마일스 러셀과 메이슨 하웰의 이름을 올렸다. PGA 투어는 솅크를 페덱스컵 163위로 둔다."
+    ]
+  },
+  "ar": {
+    "title": "لا جولة الثلاثاء: برمودا تنطلق الخميس في بورت رويال",
+    "subtitle": "الميدان 120 لاعبا. ادم شينك يدافع عن اللقب. فوز برينان بـ16 تحت البار قائم.",
+    "excerpt": "بطولة برمودا لم تبدا. الجولة الاولى الخميس، غولف تشانل من 1 الى 4 مساء بتوقيت الشرق. الجائزة 6 ملايين دولار.",
+    "body": [
+      "لا جولة من بطولة برمودا يوم الثلاثاء 20 اكتوبر. الجولة الاولى الخميس 22 اكتوبر على ملعب بورت رويال في ساوثهامبتون. جولة PGA تذكر الملعب بطول 6828 ياردة، بار 71، تصميم روبرت ترينت جونز. الميدان 120 لاعبا. الجائزة 6 ملايين دولار، منها 1080000 للفائز. ادم شينك هو حامل اللقب. غولف.كوم وجولة PGA تذكران غولف تشانل من الخميس الى الاحد، من 1 الى 4 مساء بتوقيت الشرق. البرو-ام يوم الاربعاء. لا متصدر يوم الثلاثاء.",
+      "فوز مايكل برينان في بايكرنت بـ16 تحت البار يبقى اخر نتيجة لجولة PGA في هذا المكتب. اسوشيتد برس في ملاحظة الثلاثاء تضع كوري كونرز الافضل تصنيفا في الميدان، رقم 61 عالميا، وتسمي الهواة مايلز راسل ومايسون هاول. جولة PGA تضع شينك في المركز 163 بكاس فيديكس."
+    ]
+  },
+},
+"f1-austin-tuesday-no-session-gap-102-2026": {
+  "fr": {
+    "title": "Pas de seance mardi : l'avance d'Antonelli reste de 102 points",
+    "subtitle": "Le week-end du Grand Prix des Etats-Unis commence vendredi. La course est dimanche a 15:00 locale. Aucun vainqueur n'est publie.",
+    "excerpt": "La Formule 1 ne roule pas le 20 octobre. ESPN donne toujours 340 points a Kimi Antonelli et 238 a George Russell. Mercedes en a 578.",
+    "body": [
+      "Aucune seance de Formule 1 n'est prevue mardi 20 octobre. Le week-end du Grand Prix des Etats-Unis est du 23 au 25 octobre au Circuit of the Americas. Les essais libres commencent vendredi. La course est dimanche 25 octobre a 15:00, heure locale. Ce bureau ne convertit pas cette heure et ne publie pas de vainqueur. La course n'a pas eu lieu.",
+      "Le classement ESPN donne toujours 340 points a Kimi Antonelli et 238 a George Russell, un ecart de 102. Lewis Hamilton en a 229, Max Verstappen 221, Charles Leclerc 215 et Lando Norris 201. Mercedes a 578 points, 134 devant Ferrari a 444. Ces chiffres ne bougent pas tant qu'une seance n'attribue pas de points. Austin est la prochaine occasion, et les premiers essais sont dans trois jours."
+    ]
+  },
+  "es": {
+    "title": "No hay sesion el martes: la ventaja de Antonelli sigue en 102",
+    "subtitle": "El fin de semana del GP de Estados Unidos empieza el viernes. La carrera es el domingo a las 15:00 local. No hay ganador.",
+    "excerpt": "La Formula 1 no rueda el 20 de octubre. ESPN sigue con Kimi Antonelli en 340 puntos y George Russell en 238. Mercedes suma 578.",
+    "body": [
+      "No hay sesion de Formula 1 el martes 20 de octubre. El fin de semana del Gran Premio de Estados Unidos es del 23 al 25 de octubre en el Circuit of the Americas. Los libres empiezan el viernes. La carrera es el domingo 25 de octubre a las 15:00, hora local. Este escritorio no convierte esa hora y no publica un ganador. La carrera no se ha corrido.",
+      "La clasificacion de ESPN sigue con Kimi Antonelli en 340 puntos y George Russell en 238, una diferencia de 102. Lewis Hamilton tiene 229, Max Verstappen 221, Charles Leclerc 215 y Lando Norris 201. Mercedes suma 578, 134 por delante de Ferrari con 444. Esas cifras no cambian hasta que una sesion reparta puntos. Austin es la proxima oportunidad, y la primera practica es dentro de tres dias."
+    ]
+  },
+  "de": {
+    "title": "Dienstag keine Session: Antonellis Vorsprung bleibt 102 Punkte",
+    "subtitle": "Das USA-GP-Wochenende beginnt am Freitag. Das Rennen ist am Sonntag um 15:00 Ortszeit. Es gibt keinen Sieger.",
+    "excerpt": "Die Formel 1 faehrt am 20. Oktober nicht. ESPN hat Kimi Antonelli weiter bei 340 Punkten und George Russell bei 238. Mercedes hat 578.",
+    "body": [
+      "Am Dienstag, 20. Oktober, ist keine Formel-1-Session angesetzt. Das Wochenende des Großen Preises der USA ist vom 23. bis 25. Oktober auf dem Circuit of the Americas. Das freie Training beginnt am Freitag. Das Rennen ist am Sonntag, 25. Oktober, um 15:00 Ortszeit. Dieses Desk rechnet die Uhrzeit nicht um und nennt keinen Sieger. Das Rennen ist nicht gefahren.",
+      "Die ESPN-Wertung zeigt weiter Kimi Antonelli mit 340 Punkten und George Russell mit 238, Abstand 102. Lewis Hamilton hat 229, Max Verstappen 221, Charles Leclerc 215 und Lando Norris 201. Mercedes hat 578 Punkte, 134 vor Ferrari mit 444. Diese Zahlen bleiben, bis eine Session Punkte vergibt. Austin ist die naechste Chance, und das erste Training ist in drei Tagen."
+    ]
+  },
+  "it": {
+    "title": "Nessuna sessione martedi: il vantaggio di Antonelli resta di 102",
+    "subtitle": "Il weekend del GP degli Stati Uniti inizia venerdi. La gara e domenica alle 15:00 locali. Nessun vincitore.",
+    "excerpt": "La Formula 1 non gira il 20 ottobre. ESPN ha ancora Kimi Antonelli a 340 punti e George Russell a 238. La Mercedes ne ha 578.",
+    "body": [
+      "Martedi 20 ottobre non e prevista alcuna sessione di Formula 1. Il weekend del Gran Premio degli Stati Uniti e dal 23 al 25 ottobre al Circuit of the Americas. Le prove libere iniziano venerdi. La gara e domenica 25 ottobre alle 15:00, ora locale. Questa redazione non converte quell'orario e non pubblica un vincitore. La gara non si e corsa.",
+      "La classifica ESPN ha ancora Kimi Antonelli a 340 punti e George Russell a 238, distacco 102. Lewis Hamilton ne ha 229, Max Verstappen 221, Charles Leclerc 215 e Lando Norris 201. La Mercedes ha 578 punti, 134 davanti alla Ferrari a 444. Quei numeri non si muovono finche una sessione non assegna punti. Austin e la prossima occasione, e la prima prova e fra tre giorni."
+    ]
+  },
+  "pl": {
+    "title": "We wtorek nie ma sesji: przewaga Antonelliego zostaje 102 punkty",
+    "subtitle": "Weekend Grand Prix Stanow Zjednoczonych zaczyna sie w piatek. Wyscig jest w niedziele o 15:00 czasu lokalnego. Nie ma zwyciezcy.",
+    "excerpt": "Formula 1 nie jedzie 20 pazdziernika. ESPN dalej ma Kimiego Antonelliego na 340 punktach i George'a Russella na 238. Mercedes ma 578.",
+    "body": [
+      "We wtorek 20 pazdziernika nie ma sesji Formuly 1. Weekend Grand Prix Stanow Zjednoczonych trwa od 23 do 25 pazdziernika na Circuit of the Americas. Wolne treningi zaczynaja sie w piatek. Wyscig jest w niedziele 25 pazdziernika o 15:00 czasu lokalnego. To biuro nie przelicza tej godziny i nie podaje zwyciezcy. Wyscig sie nie odbyl.",
+      "Klasyfikacja ESPN dalej pokazuje Kimiego Antonelliego z 340 punktami i George'a Russella z 238, roznica 102. Lewis Hamilton ma 229, Max Verstappen 221, Charles Leclerc 215, a Lando Norris 201. Mercedes ma 578 punktow, 134 przed Ferrari z 444. Te liczby nie rusza sie, dopoki sesja nie przyzna punktow. Austin jest nastepna szansa, a pierwszy trening jest za trzy dni."
+    ]
+  },
+  "zh": {
+    "title": "周二无练习：安东内利的领先仍是102分",
+    "subtitle": "美国大奖赛周末从周五开始。正赛在周日当地15:00。没有公布冠军。",
+    "excerpt": "一级方程式10月20日不跑。ESPN仍把基米·安东内利放在340分，乔治·拉塞尔238分。梅赛德斯是578分。",
+    "body": [
+      "10月20日周二没有一级方程式的任何练习。美国大奖赛周末是10月23日至25日，在美洲赛道。自由练习从周五开始。正赛是10月25日周日，当地时间15:00。本栏目不换算这个时间，也不公布冠军。比赛还没有进行。",
+      "ESPN车手积分仍是基米·安东内利340分，乔治·拉塞尔238分，差距102分。刘易斯·汉密尔顿229分，马克斯·维斯塔潘221分，夏尔·勒克莱尔215分，兰多·诺里斯201分。梅赛德斯578分，领先法拉利的444分共134分。在有练习分配积分之前，这些数字不会变。奥斯汀是下一次机会，距离第一次练习还有三天。"
+    ]
+  },
+  "ja": {
+    "title": "火曜はセッションなし: アントネッリのリードは102点のまま",
+    "subtitle": "アメリカGPの週末は金曜に始まる。決勝は日曜の現地15:00。勝者は出ていない。",
+    "excerpt": "フォーミュラ1は10月20日に走らない。ESPNはキミ・アントネッリを340点、ジョージ・ラッセルを238点のままにしている。メルセデスは578点。",
+    "body": [
+      "10月20日火曜にフォーミュラ1のセッションはない。アメリカGPの週末は10月23日から25日、サーキット・オブ・ジ・アメリカズ。フリー走行は金曜に始まる。決勝は10月25日日曜、現地15:00。このデスクはその時刻を換算せず、勝者も出さない。レースは走っていない。",
+      "ESPNのドライバー順位は、キミ・アントネッリ340点、ジョージ・ラッセル238点、差は102点のまま。ルイス・ハミルトン229、マックス・フェルスタッペン221、シャルル・ルクレール215、ランド・ノリス201。メルセデスは578点、フェラーリの444点に134点差。セッションがポイントを配るまで、この数字は動かない。オースティンが次の機会で、最初の走行まで3日ある。"
+    ]
+  },
+  "ko": {
+    "title": "화요일 세션 없음: 안토넬리의 리드 102점은 그대로",
+    "subtitle": "미국 GP 주말은 금요일에 시작한다. 결승은 일요일 현지 15:00. 우승자는 없다.",
+    "excerpt": "포뮬러 1은 10월 20일에 달리지 않는다. ESPN은 키미 안토넬리를 340점, 조지 러셀을 238점으로 그대로 둔다. 메르세데스는 578점.",
+    "body": [
+      "10월 20일 화요일에는 포뮬러 1 세션이 없다. 미국 GP 주말은 10월 23일부터 25일, 서킷 오브 디 아메리카스. 프리 프랙티스는 금요일에 시작한다. 결승은 10월 25일 일요일 현지 15:00. 이 데스크는 그 시각을 환산하지 않고 우승자도 내지 않는다. 레이스는 치러지지 않았다.",
+      "ESPN 드라이버 순위는 키미 안토넬리 340점, 조지 러셀 238점, 차이 102점이 그대로다. 루이스 해밀턴 229, 막스 베르스타펜 221, 샤를 르클레르 215, 랜도 노리스 201. 메르세데스는 578점, 페라리 444점보다 134점 앞이다. 세션이 포인트를 주기 전에는 이 숫자가 움직이지 않는다. 오스틴이 다음 기회이고, 첫 주행까지 사흘이다."
+    ]
+  },
+  "ar": {
+    "title": "لا حصة الثلاثاء: تقدم أنتونيللي يبقى 102 نقطة",
+    "subtitle": "عطلة جائزة الولايات المتحدة تبدا الجمعة. السباق الاحد الساعة 15:00 بالتوقيت المحلي. لا فائز.",
+    "excerpt": "الفورمولا 1 لا تسير في 20 اكتوبر. ESPN ما زالت تعطي كيمي أنتونيللي 340 نقطة وجورج راسل 238. مرسيدس لديها 578.",
+    "body": [
+      "لا حصة فورمولا 1 مقررة الثلاثاء 20 اكتوبر. عطلة جائزة الولايات المتحدة الكبرى من 23 الى 25 اكتوبر على حلبة الامريكيتين. التجارب الحرة تبدا الجمعة. السباق الاحد 25 اكتوبر الساعة 15:00 بالتوقيت المحلي. هذا المكتب لا يحول تلك الساعة ولا ينشر فائزا. السباق لم يجر.",
+      "ترتيب ESPN ما زال يظهر كيمي أنتونيللي برصيد 340 نقطة وجورج راسل برصيد 238، بفارق 102. لويس هاميلتون 229، وماكس فيرستابن 221، وشارل لوكلير 215، ولاندو نوريس 201. مرسيدس لديها 578 نقطة، بفارق 134 عن فيراري برصيد 444. هذه الارقام لا تتحرك حتى تمنح حصة نقاطا. اوستن هي الفرصة التالية، واول تجربة بعد ثلاثة ايام."
+    ]
+  },
+},
 "nfl-week6-mnf-commanders-at-49ers-2026": {
   "fr": {
     "title": "Lundi NFL, semaine 6 : les Commanders chez les 49ers invaincus",
