@@ -1,0 +1,80 @@
+{
+  "slug": "chelsea-vs-tottenham-mw8-2026",
+  "headline": "Premier League Saturday: Chelsea host Spurs at Stamford Bridge",
+  "whyCareScore": 9.1,
+  "whyCareReason": "Spurs arrive buoyed by their 3-1 win over Coventry. Chelsea sit fourth on 13 points.",
+  "teaser": "Saturday 24 October, 17:30 UK, Stamford Bridge. City lead table on 21; Arsenal have 18.",
+  "story": "Matchweek 8 features a London derby on Saturday, 24 October, at Stamford Bridge. Tottenham Hotspur visit Chelsea at 17:30 UK. Spurs enter fresh off their first league win of the season, a 3-1 comeback over Coventry City that lifted them to 16th on 6 points. Chelsea sit fourth on 13 points (4-1-2). Manchester City lead the Premier League on 21 points with a perfect seven wins from seven, three clear of Arsenal on 18 points. No score is posted for Saturday.",
+  "stakes": "Spurs look to build momentum out of the relegation zone while Chelsea aim to keep pace with the top three.",
+  "rivalryAngle": "Fierce London rivals meet at Stamford Bridge five days after Spurs climbed off the bottom.",
+  "funFacts": [
+    "Saturday 24 October, 17:30 UK, Stamford Bridge, Sky Sports. Status upcoming.",
+    "Table: City 21 (7-0-0), Arsenal 18, Brighton 16, Chelsea 13, Liverpool 12.",
+    "Monday final: Tottenham 3, Coventry 1 (Maddison 14, Rudoni 49, Marmoush 58, Davies 90+6)."
+  ],
+  "keyPlayers": [
+    {
+      "name": "James Maddison",
+      "team": "Tottenham Hotspur",
+      "hook": "Scored the opener on his first start in 536 days against Coventry."
+    },
+    {
+      "name": "Chelsea",
+      "team": "Chelsea",
+      "hook": "Fourth in the Premier League table on 13 points."
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "team": "Tottenham Hotspur",
+      "hook": "Climbed to 16th with 6 points following Monday's 3-1 victory."
+    }
+  ],
+  "headToHead": "Saturday 24 October 2026, 17:30 UK. Upcoming. No score.",
+  "tags": [
+    "soccer",
+    "premier-league",
+    "chelsea",
+    "tottenham",
+    "mw8",
+    "london-derby"
+  ],
+  "home": "Chelsea",
+  "away": "Tottenham Hotspur",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "Premier League",
+  "matchday": 8,
+  "date": "2026-10-24",
+  "time": "17:30",
+  "venue": "Stamford Bridge",
+  "city": "London",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/8007514/pexels-photo-8007514.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "soccer",
+  "competition": "premier-league-2026",
+  "format": "team-match",
+  "season": "2026/27",
+  "roundLabel": "Premier League · Matchweek 8",
+  "resultSummary": "UPCOMING: Saturday 24 October, 17:30 UK, Stamford Bridge. Chelsea (13 pts) v Tottenham (6 pts). No score.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Premier League fixture list",
+      "url": "https://www.premierleague.com/fixtures"
+    },
+    {
+      "name": "ESPN Premier League table",
+      "url": "https://www.espn.com/soccer/standings/_/league/eng.1"
+    }
+  ]
+}

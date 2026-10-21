@@ -1,22 +1,27 @@
 {
   "slug": "butterfield-bermuda-championship-2026",
-  "headline": "Butterfield Bermuda: no round on Tuesday, Port Royal opens Thursday",
-  "whyCareScore": 7.4,
-  "whyCareReason": "No round on Tuesday 20 October. First round is Thursday 22 October. Adam Schenk defends.",
-  "teaser": "120 players, a $6 million purse, 500 FedExCup points. The cut is the low 65 and ties after 36 holes.",
-  "story": "Tuesday 20 October is not a PGA Tour round. The Butterfield Bermuda Championship is 22-25 October 2026 at Port Royal Golf Course in Southampton, the eighth playing. The PGA Tour lists a 120-player field, a $6 million purse, a winner's share of $1.08 million and 500 FedExCup points. The cut is the low 65 and ties after 36 holes. Golf Channel's first-round coverage is 1:00 p.m. ET on Thursday. Past champions in the field: Brendon Todd (2019), Seamus Power (2022), Camilo Villegas (2023), Rafael Campos (2024) and defending champion Adam Schenk (2025). Michael Brennan's Baycurrent win still stands: a closing 68, a total of 268, 16 under, and $1.44 million. There is no Tuesday leader. The course is listed at 6,828 yards, par 71.",
-  "stakes": "The next PGA Tour start is 22 October. Nothing in Bermuda has been played.",
-  "rivalryAngle": "A week off sits between Yokohama and the next full-field start in Bermuda.",
+  "headline": "Butterfield Bermuda: Pro-Am wraps Wednesday, Port Royal opens Thursday",
+  "whyCareScore": 7.5,
+  "whyCareReason": "Pro-Am completed Wednesday 21 October. First round is Thursday 22 October. Adam Schenk defends.",
+  "teaser": "120 players, $6 million purse, 500 FedExCup points. First round Thursday, Golf Channel 1-4 p.m. ET.",
+  "story": "Wednesday 21 October concluded the official Pro-Am at Port Royal Golf Course in Southampton, Bermuda. The Butterfield Bermuda Championship begins Thursday, 22 October, running through 25 October 2026. The PGA Tour lists a 120-player field, a $6 million purse, a winner's share of $1.08 million and 500 FedExCup points. The cut is the low 65 and ties after 36 holes. Golf Channel's first-round coverage airs Thursday from 1:00 to 4:00 p.m. ET. Defending champion Adam Schenk leads a field featuring Corey Conners (world No. 61) and amateurs Miles Russell and Mason Howell. Michael Brennan's 16-under Baycurrent Classic win stands as the most recent PGA Tour result. Port Royal is listed at 6,828 yards, par 71.",
+  "stakes": "The next PGA Tour start is 22 October. Nothing in Bermuda has been scored yet.",
+  "rivalryAngle": "A full-field test in Bermuda brings FedExCup Fall points back into focus.",
   "funFacts": [
-    "ESPN schedule: no tournament this week. Butterfield Bermuda Championship, 22-25 October 2026.",
-    "Port Royal Golf Course, Southampton. Purse $6 million. Previous winner: Adam Schenk.",
+    "Wednesday Pro-Am complete. Round 1 begins Thursday 22 October 2026.",
+    "Port Royal Golf Course, Southampton. Purse $6 million. Defending champion: Adam Schenk.",
     "Baycurrent still stands: Brennan 16 under, final-round 68, $1.44 million."
   ],
   "keyPlayers": [
     {
       "name": "Adam Schenk",
       "team": "PGA Tour",
-      "hook": "ESPN lists him as the previous winner at Port Royal."
+      "hook": "Defending champion seeking back-to-back titles at Port Royal."
+    },
+    {
+      "name": "Corey Conners",
+      "team": "PGA Tour",
+      "hook": "Highest-ranked player in the Bermuda field at world No. 61."
     },
     {
       "name": "Michael Brennan",
@@ -24,7 +29,7 @@
       "hook": "Won the Baycurrent Classic at 16 under. That board is closed."
     }
   ],
-  "headToHead": "No round has been played. Port Royal opens Thursday 22 October.",
+  "headToHead": "Wednesday Pro-Am complete. Port Royal opens Thursday 22 October.",
   "tags": [
     "golf",
     "pga-tour",
@@ -58,17 +63,17 @@
   "format": "leaderboard",
   "season": "2026",
   "roundLabel": "PGA Tour · Butterfield Bermuda Championship",
-  "resultSummary": "UPCOMING: first round Thursday 22 October. Field of 120. No score on 19 October.",
+  "resultSummary": "UPCOMING: Round 1 Thursday 22 October, Port Royal Golf Course. Field of 120. No score.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "ESPN golf schedule",
-      "url": "https://www.espn.com/golf/schedule"
+      "name": "PGA Tour first look",
+      "url": "https://www.pgatour.com/article/news/the-first-look/2026/10/19/butterfield-bermuda-championship-storylines-preview-fedexcup-fall"
     },
     {
-      "name": "PGA Tour schedule",
-      "url": "https://www.pgatour.com/schedule"
+      "name": "Golf.com TV and tee times",
+      "url": "https://golf.com/news/2026-butterfield-bermuda-championship-tv-watch-tee-times/"
     }
   ]
 }

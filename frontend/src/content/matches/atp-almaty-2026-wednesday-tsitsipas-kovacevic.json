@@ -1,0 +1,96 @@
+{
+  "slug": "atp-almaty-2026-wednesday-tsitsipas-kovacevic",
+  "headline": "Almaty Wednesday: Tsitsipas edges Kovacevic in three sets, Khachanov advances",
+  "whyCareScore": 8.8,
+  "whyCareReason": "Tsitsipas saved three set points in an 11-9 first-set tiebreak. Khachanov dismissed Sakamoto 6-2, 6-4.",
+  "teaser": "Tsitsipas d. Kovacevic 7-6(9), 3-6, 6-3 in two hours. Khachanov d. Sakamoto 6-2, 6-4. Duckworth tops Darderi.",
+  "story": "Stefanos Tsitsipas fought past Aleksandar Kovacevic 7-6(9), 3-6, 6-3 in the first round of the Almaty Open on Wednesday, 21 October. Tsitsipas saved three set points in a high-tension opening-set tiebreak to avenge an earlier defeat at Winston-Salem. The match lasted two hours on the indoor hard courts in Kazakhstan. Fifth-seeded Karen Khachanov also advanced to the second round, firing past Japanese qualifier Rei Sakamoto 6-2, 6-4 in just over an hour without facing a break point. James Duckworth earned an upset over second seed Luciano Darderi 7-5, 7-6(7).",
+  "stakes": "Tsitsipas and Khachanov advance to the round of 16 in Almaty as indoor season points heat up.",
+  "rivalryAngle": "Tsitsipas responds to his Winston-Salem loss by denying Kovacevic in an 11-9 tiebreak.",
+  "funFacts": [
+    "Tsitsipas saved three set points in the first-set tiebreak to take it 11-9.",
+    "Khachanov did not face a single break point in his 6-2, 6-4 victory over Sakamoto.",
+    "James Duckworth defeated No. 2 seed Luciano Darderi 7-5, 7-6(7)."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Stefanos Tsitsipas",
+      "team": "Greece",
+      "hook": "Saved three set points to win 7-6(9), 3-6, 6-3 in two hours."
+    },
+    {
+      "name": "Karen Khachanov",
+      "team": "No. 5 Seed",
+      "hook": "Cruised past Rei Sakamoto 6-2, 6-4 without facing a break point."
+    },
+    {
+      "name": "Aleksandar Kovacevic",
+      "team": "United States",
+      "hook": "Pushed Tsitsipas through two hours on indoor hard."
+    }
+  ],
+  "headToHead": "Wednesday 21 October 2026. Almaty Open Round of 32. Final.",
+  "tags": [
+    "tennis",
+    "atp",
+    "almaty",
+    "tsitsipas",
+    "khachanov",
+    "kovacevic"
+  ],
+  "home": "Stefanos Tsitsipas",
+  "away": "Aleksandar Kovacevic",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "Almaty Open",
+  "matchday": 1,
+  "date": "2026-10-21",
+  "time": "14:00",
+  "venue": "Almaty Arena",
+  "city": "Almaty",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 1,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209841/pexels-photo-209841.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "ATP 250 Almaty · Round of 32",
+  "resultSummary": "FINAL: Tsitsipas d. Kovacevic 7-6(9), 3-6, 6-3. Khachanov d. Sakamoto 6-2, 6-4.",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "set": 1,
+      "p1": "7",
+      "p2": "6(9)"
+    },
+    {
+      "set": 2,
+      "p1": "3",
+      "p2": "6"
+    },
+    {
+      "set": 3,
+      "p1": "6",
+      "p2": "3"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP Tour match report",
+      "url": "https://www.atptour.com/en/news/tsitsipas-kovacevic-almaty-2026-wednesday"
+    },
+    {
+      "name": "ATP Almaty results",
+      "url": "https://www.atptour.com/en/scores/current/almaty/9410/results"
+    }
+  ]
+}
