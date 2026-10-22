@@ -1,0 +1,92 @@
+{
+  "slug": "atp-almaty-2026-thursday-tsitsipas-mannarino",
+  "headline": "Almaty Thursday: Tsitsipas beats Kukushkin, Mannarino stuns Rublev",
+  "whyCareScore": 9.0,
+  "whyCareReason": "Tsitsipas ended Kukushkin's 20-year career 6-1, 6-2. Mannarino upset 4th seed Rublev in three sets.",
+  "teaser": "Tsitsipas d. Kukushkin 6-1, 6-2 in Kukushkin's farewell match. Mannarino d. Rublev 6-4, 3-6, 6-3. Duckworth reaches QF.",
+  "story": "The round of 16 at the Almaty Open delivered major milestones and upsets on Thursday, 22 October. Stefanos Tsitsipas ended the singles career of 38-year-old Kazakh stalwart Mikhail Kukushkin with a 6-1, 6-2 victory on center court, concluding Kukushkin's nearly two-decade professional journey in front of an emotional home crowd. In another standout result, veteran Adrian Mannarino upset fourth seed Andrey Rublev 6-4, 3-6, 6-3 with surgical counter-punching. Australian James Duckworth also advanced to the quarterfinals by defeating second seed Luciano Darderi 7-5, 7-6(9), while Mattia Bellucci ousted sixth seed Tomas Martin Etcheverry 7-6(7), 2-6, 6-4.",
+  "stakes": "Quarterfinal matchups are locked in Almaty. Tsitsipas and Mannarino progress into the final eight as high seeds fall.",
+  "rivalryAngle": "Tsitsipas handles the emotional atmosphere of a home favorite's farewell to secure his quarterfinal spot.",
+  "funFacts": [
+    "Tsitsipas defeated Kukushkin 6-1, 6-2 in Kukushkin's final career singles match.",
+    "Mannarino upset fourth seed Andrey Rublev 6-4, 3-6, 6-3.",
+    "James Duckworth reached the quarterfinals with a 7-5, 7-6(9) win over No. 2 seed Darderi."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Stefanos Tsitsipas",
+      "team": "Greece",
+      "hook": "Clinical 6-1, 6-2 win to book a spot in the Almaty quarterfinals."
+    },
+    {
+      "name": "Adrian Mannarino",
+      "team": "France",
+      "hook": "Stunned fourth seed Andrey Rublev in three sets on indoor hard."
+    },
+    {
+      "name": "Mikhail Kukushkin",
+      "team": "Kazakhstan",
+      "hook": "Received an emotional ovation after playing his final professional match."
+    }
+  ],
+  "headToHead": "Thursday 22 October 2026. Almaty Open Round of 16. Final.",
+  "tags": [
+    "tennis",
+    "atp",
+    "almaty",
+    "tsitsipas",
+    "kukushkin",
+    "mannarino",
+    "rublev"
+  ],
+  "home": "Stefanos Tsitsipas",
+  "away": "Mikhail Kukushkin",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "Almaty Open",
+  "matchday": 2,
+  "date": "2026-10-22",
+  "time": "15:00",
+  "venue": "Almaty Arena",
+  "city": "Almaty",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209841/pexels-photo-209841.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "sets",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "ATP 250 Almaty · Round of 16",
+  "resultSummary": "FINAL: Tsitsipas d. Kukushkin 6-1, 6-2. Mannarino d. Rublev 6-4, 3-6, 6-3. Duckworth d. Darderi 7-5, 7-6(9).",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "set": 1,
+      "p1": "6",
+      "p2": "1"
+    },
+    {
+      "set": 2,
+      "p1": "6",
+      "p2": "2"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Xinhua Almaty Open report",
+      "url": "https://english.news.cn/20261022/b078eb594d5f401a875ec4ddaee82dbd/c.html"
+    },
+    {
+      "name": "ATP Tour Almaty scores",
+      "url": "https://www.atptour.com/en/scores/current/almaty/9410/results"
+    }
+  ]
+}

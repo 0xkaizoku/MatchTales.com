@@ -1,0 +1,80 @@
+{
+  "slug": "wnba-finals-2026-game4-valkyries-at-dream",
+  "headline": "WNBA Finals Game 4: Valkyries at Dream, Atlanta leads 2-1",
+  "whyCareScore": 9.6,
+  "whyCareReason": "Atlanta can clinch their first WNBA title with a win on Friday. Valkyries fight to force Game 5.",
+  "teaser": "Friday 23 October, 8:00 p.m. ET, State Farm Arena, USA/Peacock/CNBC. Dream lead 2-1 after 97-71 Game 3 rout.",
+  "story": "Game 4 of the WNBA Finals is scheduled for Friday, 23 October, at State Farm Arena in Atlanta. Tip is listed at 8:00 p.m. ET on USA Network, Peacock and CNBC. The Atlanta Dream hold a 2-1 series lead following their 97-71 blowout victory in Game 3, in which Angel Reese tallied 21 points and 12 rebounds. A victory on Friday would secure the Dream their first championship in franchise history. The Golden State Valkyries must win to extend the series to a deciding Game 5 back in San Francisco. No score is posted for Friday.",
+  "stakes": "Championship point for Atlanta. Golden State face elimination and need a road victory to keep their title hopes alive.",
+  "rivalryAngle": "The expansion Valkyries face their first elimination game of the Finals in Atlanta.",
+  "funFacts": [
+    "Atlanta leads the series 2-1 after winning Games 2 and 3 by double digits.",
+    "Game 4: Friday 23 October, 8:00 p.m. ET, State Farm Arena. Status upcoming.",
+    "Series history: Game 1 Valkyries 68-64; Game 2 Dream 79-65; Game 3 Dream 97-71."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Angel Reese",
+      "team": "Atlanta Dream",
+      "hook": "Three consecutive double-doubles to start her Finals career."
+    },
+    {
+      "name": "Atlanta Dream",
+      "team": "Atlanta Dream",
+      "hook": "Can clinch the franchise's first WNBA crown on home floor."
+    },
+    {
+      "name": "Golden State Valkyries",
+      "team": "Golden State Valkyries",
+      "hook": "Face must-win Game 4 on the road."
+    }
+  ],
+  "headToHead": "Friday 23 October 2026, 8:00 p.m. ET. Upcoming. Series 2-1 Atlanta.",
+  "tags": [
+    "basketball",
+    "wnba",
+    "finals",
+    "dream",
+    "valkyries",
+    "game4"
+  ],
+  "home": "Atlanta Dream",
+  "away": "Golden State Valkyries",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "Finals",
+  "matchday": 4,
+  "date": "2026-10-23",
+  "time": "20:00",
+  "venue": "State Farm Arena",
+  "city": "Atlanta",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/976874/pexels-photo-976874.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "basketball",
+  "competition": "wnba-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "WNBA Finals · Game 4",
+  "resultSummary": "UPCOMING: Friday 23 October, 8:00 p.m. ET, State Farm Arena. Series 2-1 Atlanta. No score.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ESPN WNBA Finals schedule",
+      "url": "https://www.espn.com/wnba/schedule"
+    },
+    {
+      "name": "CBS Sports Finals bracket",
+      "url": "https://www.cbssports.com/wnba/news/2026-wnba-playoffs-bracket-schedule/"
+    }
+  ]
+}
