@@ -1,35 +1,35 @@
 {
   "slug": "butterfield-bermuda-championship-2026",
-  "headline": "Butterfield Bermuda: Round 1 tees off at Port Royal, field of 120",
-  "whyCareScore": 7.6,
-  "whyCareReason": "Round 1 is underway Thursday 22 October. Adam Schenk defends his title. Purse $6 million.",
-  "teaser": "120 players, $6 million purse, 500 FedExCup points. Golf Channel live coverage 1-4 p.m. ET.",
-  "story": "Round 1 of the Butterfield Bermuda Championship opened Thursday morning, 22 October, at Port Royal Golf Course in Southampton, Bermuda. Play started at 7:35 a.m. local time off both the 1st and 10th tees across a 120-player field. The par-71 Robert Trent Jones layout measures 6,828 yards along the Atlantic. The purse is $6 million, with the winner earning $1.08 million and 500 FedExCup points. Golf Channel carries live television coverage Thursday through Sunday from 1:00 to 4:00 p.m. ET. Defending champion Adam Schenk aims to repeat, alongside top-ranked Corey Conners (world No. 61) and teenage amateur Miles Russell.",
-  "stakes": "FedExCup Fall points are on the line as 120 players battle windy Atlantic conditions in Southampton.",
-  "rivalryAngle": "A full-field test in Bermuda brings FedExCup Fall points back into focus.",
+  "headline": "Butterfield Bermuda: Blanchet leads after opening 62; Round 2 underway",
+  "whyCareScore": 8.0,
+  "whyCareReason": "Chandler Blanchet shot a 9-under 62 with two eagles to take the lead. Round 2 is underway at Port Royal.",
+  "teaser": "Blanchet leads at 9-under 62. Conners, Kohles, Walker trail at 63 (-7). Round 2 underway Friday.",
+  "story": "Round 2 of the Butterfield Bermuda Championship opened Friday morning, 23 October, at Port Royal Golf Course in Southampton, Bermuda. Chandler Blanchet set the early tournament pace with a career-low 9-under-par 62 on Thursday, holing two eagles including a 50-foot putt on the par-5 17th hole. A tight chasing pack sits two shots behind, with Canadian Corey Conners, Ben Kohles, Danny Walker and Ben Silverman all tied at 7-under-par 63. The 120-player field is chasing a $6 million purse and 500 FedExCup Fall points along the Robert Trent Jones oceanfront course.",
+  "stakes": "FedExCup Fall points are on the line as 120 players battle ocean crosswinds at Port Royal.",
+  "rivalryAngle": "Blanchet sets the target while established tour stars pursue during Friday's second round.",
   "funFacts": [
-    "Round 1 tee times began 7:35 a.m. local at Port Royal Golf Course.",
-    "Port Royal Golf Course, Southampton. Purse $6 million. Defending champion: Adam Schenk.",
-    "Golf Channel live coverage 1:00 to 4:00 p.m. ET."
+    "Chandler Blanchet leads after a career-low 9-under 62 featuring two eagles in Round 1.",
+    "Corey Conners, Ben Kohles, Danny Walker and Ben Silverman are tied for second at 7-under 63.",
+    "Port Royal Golf Course, Southampton. Purse $6 million, 500 FedExCup Fall points."
   ],
   "keyPlayers": [
     {
-      "name": "Adam Schenk",
+      "name": "Chandler Blanchet",
       "team": "PGA Tour",
-      "hook": "Defending champion seeking back-to-back titles at Port Royal."
+      "hook": "Outright leader following a sparkling opening-round 62 (-9)."
     },
     {
       "name": "Corey Conners",
       "team": "PGA Tour",
-      "hook": "Highest-ranked player in the Bermuda field at world No. 61."
+      "hook": "World No. 61 in the hunt after an opening 7-under 63."
     },
     {
-      "name": "Michael Brennan",
+      "name": "Ben Kohles",
       "team": "PGA Tour",
-      "hook": "Won the Baycurrent Classic at 16 under. That board is closed."
+      "hook": "Carded a bogey-free 63 (-7) to share second place."
     }
   ],
-  "headToHead": "Wednesday Pro-Am complete. Port Royal opens Thursday 22 October.",
+  "headToHead": "Round 1 complete. Round 2 underway Friday 23 October at Port Royal.",
   "tags": [
     "golf",
     "pga-tour",
@@ -45,8 +45,8 @@
   "awayFlag": "",
   "group": "PGA Tour",
   "matchday": 0,
-  "date": "2026-10-22",
-  "time": "First round",
+  "date": "2026-10-23",
+  "time": "Second round",
   "venue": "Port Royal Golf Course",
   "city": "Southampton",
   "status": "UPCOMING",
@@ -63,17 +63,17 @@
   "format": "leaderboard",
   "season": "2026",
   "roundLabel": "PGA Tour · Butterfield Bermuda Championship",
-  "resultSummary": "UPCOMING: Round 1 Thursday 22 October, Port Royal Golf Course. Field of 120. No score.",
+  "resultSummary": "IN PROGRESS: Round 2 Friday 23 October. Blanchet leads at -9 (62). Conners, Kohles at -7 (63).",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "PGA Tour first look",
-      "url": "https://www.pgatour.com/article/news/the-first-look/2026/10/19/butterfield-bermuda-championship-storylines-preview-fedexcup-fall"
+      "name": "PGA Tour leaderboard",
+      "url": "https://www.pgatour.com/tournaments/2026/butterfield-bermuda-championship/leaderboard"
     },
     {
-      "name": "Golf.com TV and tee times",
-      "url": "https://golf.com/news/2026-butterfield-bermuda-championship-tv-watch-tee-times/"
+      "name": "Golf Channel coverage",
+      "url": "https://www.golfchannel.com/tours/pga-tour/2026/butterfield-bermuda-championship"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
   "slug": "patriots-at-bears-tnf-week7-2026",
-  "headline": "NFL Week 7 Thursday: Patriots at Bears, 8:15 p.m. ET",
-  "whyCareScore": 8.4,
-  "whyCareReason": "Week 7 kicks off tonight at Soldier Field. Both teams enter at 4-2. Chicago is favored by 3 points.",
-  "teaser": "Prime Video tonight 8:15 p.m. ET. Bears favored by 3 over Patriots. 49ers stand 6-0.",
-  "story": "Week 7 of the NFL opens Thursday, 22 October, at 8:15 p.m. ET at Soldier Field. The New England Patriots visit the Chicago Bears on Prime Video. ESPN's betting line lists Chicago as a 3-point favorite. Both franchises enter the contest at 4-2. Monday night's result is official: the 49ers beat the Commanders 23-17 to improve to 6-0, while Washington fell to 1-4-1. The Chiefs and Vikings remain undefeated at 5-0. Week 7 byes are the Bills, Jaguars, Chargers and Commanders.",
-  "stakes": "The first result of Week 7. Both clubs are listed at 4-2, and the line favors Chicago by 3.",
-  "rivalryAngle": "A Thursday night between two 4-2 teams, three days after the 49ers became the only 6-0 club.",
+  "headline": "NFL Week 7 Thursday: Bears edge Patriots 30-24 at Soldier Field",
+  "whyCareScore": 8.9,
+  "whyCareReason": "Caleb Williams passed for 308 yards and 2 touchdowns. Cairo Santos drilled a 58-yard field goal to seal the win.",
+  "teaser": "FINAL: Bears 30, Patriots 24. Williams 308 yds, 2 TD; Burden 130 rec yds. Bears 5-2, Patriots 4-3.",
+  "story": "The Chicago Bears held off a furious New England Patriots fourth-quarter charge to secure a 30-24 victory on Thursday Night Football at Soldier Field. Caleb Williams completed 22 of 33 passes for 308 yards and two touchdowns, finishing with a 116.7 passer rating. Rookie receiver Luther Burden III had a breakout performance with four catches for 130 yards and a score in the first half, while D'Andre Swift rushed for 78 yards and a touchdown. Cairo Santos drilled a franchise record-tying 58-yard field goal with 1:34 remaining to put the game out of reach. Drake Maye threw for 321 yards and two touchdowns with one interception for New England. The Bears improve to 5-2, while the Patriots drop to 4-3.",
+  "stakes": "Chicago moves to 5-2 in the competitive NFC playoff race, while New England slips to 4-3 in the AFC East.",
+  "rivalryAngle": "A classic interconference battle comes down to the final two minutes at Soldier Field.",
   "funFacts": [
-    "Thursday 22 October, 8:15 p.m. ET, Soldier Field, Prime Video. Status upcoming.",
-    "ESPN line: Chicago -3. Both teams 4-2.",
-    "Monday final: 49ers 23, Commanders 17. 49ers 6-0."
+    "Final score: Bears 30, Patriots 24. Chicago moves to 5-2, New England to 4-3.",
+    "Caleb Williams: 22-of-33, 308 passing yards, 2 TD, 116.7 passer rating.",
+    "Cairo Santos kicked a 58-yard field goal with 1:34 remaining to seal the victory."
   ],
   "keyPlayers": [
     {
-      "name": "Chicago Bears",
+      "name": "Caleb Williams",
       "team": "Chicago Bears",
-      "hook": "Home side, listed at 4-2. Favored by 3 on the ESPN line."
+      "hook": "22-of-33 passing for 308 yards and two touchdowns in the victory."
     },
     {
-      "name": "New England Patriots",
+      "name": "Luther Burden III",
+      "team": "Chicago Bears",
+      "hook": "Four catches for 130 yards and a first-half touchdown."
+    },
+    {
+      "name": "Drake Maye",
       "team": "New England Patriots",
-      "hook": "Visitors, listed at 4-2. No Thursday score is posted."
-    },
-    {
-      "name": "San Francisco 49ers",
-      "team": "San Francisco 49ers",
-      "hook": "Beat Washington 23-17 on Monday and are 6-0."
+      "hook": "321 passing yards, two touchdowns and one interception in the loss."
     }
   ],
-  "headToHead": "Thursday 22 October 2026, 8:15 p.m. ET. Upcoming. No score.",
+  "headToHead": "Thursday 22 October 2026. Final: Bears 30, Patriots 24.",
   "tags": [
     "football",
     "nfl",
@@ -50,9 +50,9 @@
   "time": "20:15",
   "venue": "Soldier Field",
   "city": "Chicago",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 30,
+  "awayScore": 24,
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/1618201/pexels-photo-1618201.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
@@ -64,17 +64,17 @@
   "format": "team-match",
   "season": "2026",
   "roundLabel": "NFL Week 7 · Thursday Night",
-  "resultSummary": "UPCOMING: Thursday 22 October, 8:15 p.m. ET, Soldier Field. Patriots at Bears. No score.",
+  "resultSummary": "FINAL: Chicago Bears 30, New England Patriots 24. Soldier Field. Bears 5-2, Patriots 4-3.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "ESPN Week 7 schedule",
-      "url": "https://www.espn.com/nfl/schedule/_/week/7"
+      "name": "ESPN Week 7 box score",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772607"
     },
     {
-      "name": "CBS NFL schedule",
-      "url": "https://www.cbssports.com/nfl/schedule/"
+      "name": "Pro Football Reference",
+      "url": "https://www.pro-football-reference.com/boxscores/202610220chi.htm"
     }
   ]
 }

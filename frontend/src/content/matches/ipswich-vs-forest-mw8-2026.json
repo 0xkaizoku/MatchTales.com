@@ -1,14 +1,14 @@
 {
   "slug": "ipswich-vs-forest-mw8-2026",
-  "headline": "Premier League Friday: Ipswich host Forest to open Matchweek 8",
-  "whyCareScore": 8.3,
-  "whyCareReason": "Matchweek 8 begins Friday at Portman Road. Forest sit 19th on 5 points, Ipswich 12th on 8.",
-  "teaser": "Friday 23 October, 20:00 UK, Portman Road. City lead table on 21; Chelsea host Spurs on Saturday.",
-  "story": "Matchweek 8 of the Premier League kicks off on Friday, 23 October, at Portman Road as Ipswich Town host Nottingham Forest at 20:00 UK. Ipswich enter in 12th place with 8 points from seven matches (2-2-3), having pushed leaders Manchester City in a 3-2 defeat last weekend. Forest sit 19th in the relegation zone on 5 points (1-2-4) following a narrow 1-0 home loss to Arsenal. Manchester City lead the table with a perfect 21 points, three ahead of Arsenal on 18. Saturday's slate is headlined by the Chelsea versus Tottenham derby at Stamford Bridge.",
-  "stakes": "Forest seek to climb out of the bottom three while Ipswich aim to solidify their mid-table position.",
-  "rivalryAngle": "Friday night football under the Portman Road lights opens Matchweek 8.",
+  "headline": "Premier League Friday: Ipswich host Forest at Portman Road to open Matchweek 8",
+  "whyCareScore": 8.4,
+  "whyCareReason": "Matchweek 8 kicks off tonight at Portman Road. Forest sit 19th on 5 points, Ipswich 12th on 8.",
+  "teaser": "Friday 23 October, 20:00 UK, Portman Road, Sky Sports. City lead table on 21; Chelsea host Spurs on Saturday.",
+  "story": "Matchweek 8 of the Premier League opens Friday night, 23 October, under the Portman Road lights as Ipswich Town host Nottingham Forest at 20:00 UK. Ipswich enter in 12th place with 8 points from seven matches (2-2-3), having challenged Manchester City in a 3-2 defeat last weekend. Forest sit 19th in the relegation zone on 5 points (1-2-4) following a narrow 1-0 defeat to Arsenal. Manchester City top the table with a perfect 21 points, three clear of Arsenal on 18. Saturday brings the headline London derby between Chelsea and Tottenham at Stamford Bridge.",
+  "stakes": "Forest fight to climb out of the bottom three while Ipswich aim to solidify their mid-table position.",
+  "rivalryAngle": "Friday night football under the Portman Road floodlights opens Matchweek 8.",
   "funFacts": [
-    "Friday 23 October, 20:00 UK, Portman Road, Sky Sports. Status upcoming.",
+    "Friday 23 October, 20:00 UK, Portman Road, Sky Sports. Kickoff tonight.",
     "Table: City 21 (7-0-0), Arsenal 18, Brighton 16. Ipswich 12th on 8, Forest 19th on 5.",
     "Saturday derby: Chelsea host Tottenham at Stamford Bridge."
   ],
@@ -21,7 +21,7 @@
     {
       "name": "Nottingham Forest",
       "team": "Nottingham Forest",
-      "hook": "19th on 5 points, looking to rebound from a 1-0 defeat to Arsenal."
+      "hook": "19th on 5 points, seeking points to escape the drop zone."
     },
     {
       "name": "Manchester City",
@@ -29,7 +29,7 @@
       "hook": "Lead the Premier League with a flawless 7-0-0 record and 21 points."
     }
   ],
-  "headToHead": "Friday 23 October 2026, 20:00 UK. Upcoming. No score.",
+  "headToHead": "Friday 23 October 2026, 20:00 UK. Kickoff tonight. No score yet.",
   "tags": [
     "soccer",
     "premier-league",
@@ -63,7 +63,7 @@
   "format": "team-match",
   "season": "2026/27",
   "roundLabel": "Premier League · Matchweek 8",
-  "resultSummary": "UPCOMING: Friday 23 October, 20:00 UK, Portman Road. Ipswich v Forest. No score.",
+  "resultSummary": "TONIGHT: Friday 23 October, 20:00 UK, Portman Road. Ipswich v Forest. No score yet.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [

@@ -1,0 +1,92 @@
+{
+  "slug": "atp-almaty-2026-friday-tsitsipas-bublik-qf",
+  "headline": "Almaty Friday: Tsitsipas beats Duckworth, Bublik edges Khachanov",
+  "whyCareScore": 9.2,
+  "whyCareReason": "Tsitsipas dispatched Duckworth 6-3, 6-4 to reach the semifinals. Bublik outlasted Khachanov in two tiebreaks.",
+  "teaser": "Tsitsipas d. Duckworth 6-3, 6-4. Bublik d. Khachanov 4-6, 7-6(5), 7-6(5). Medvedev advances to semis.",
+  "story": "The quarterfinals at the Almaty Open on Friday, 23 October, established the tournament's final four. Seventh-seeded Stefanos Tsitsipas continued his imperious indoor form, defeating Australia's James Duckworth 6-3, 6-4 in one hour and 22 minutes to claim a semifinal berth. Tsitsipas conceded only nine points on his first serve and broke Duckworth once in each set. In a thrilling three-set clash, third seed Alexander Bublik rallied past fifth seed Karen Khachanov 4-6, 7-6(5), 7-6(5), setting up a blockbuster Saturday semifinal against Tsitsipas. Top seed Daniil Medvedev also progressed with a 6-4, 6-4 victory over Terence Atmane, while Nikoloz Basilashvili defeated Adrian Mannarino 6-3, 6-1.",
+  "stakes": "Tsitsipas meets crowd favorite Bublik in Saturday's headline semifinal. Medvedev faces Basilashvili.",
+  "rivalryAngle": "Tsitsipas and Bublik set up an explosive contrast of styles in Saturday's semifinal.",
+  "funFacts": [
+    "Tsitsipas defeated Duckworth 6-3, 6-4 without dropping serve.",
+    "Bublik saved multiple break points to edge Khachanov 4-6, 7-6(5), 7-6(5).",
+    "Semifinals set: Tsitsipas vs Bublik, Medvedev vs Basilashvili."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Stefanos Tsitsipas",
+      "team": "Greece",
+      "hook": "Cruised into the semifinals with a clean 6-3, 6-4 victory."
+    },
+    {
+      "name": "Alexander Bublik",
+      "team": "Kazakhstan",
+      "hook": "Fired 19 aces to overcome Khachanov in two dramatic tiebreaks."
+    },
+    {
+      "name": "Daniil Medvedev",
+      "team": "ATP Tour",
+      "hook": "Defeated Terence Atmane 6-4, 6-4 to reach the final four."
+    }
+  ],
+  "headToHead": "Friday 23 October 2026. Almaty Open Quarterfinals. Final.",
+  "tags": [
+    "tennis",
+    "atp",
+    "almaty",
+    "tsitsipas",
+    "bublik",
+    "khachanov",
+    "medvedev"
+  ],
+  "home": "Stefanos Tsitsipas",
+  "away": "James Duckworth",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "Almaty Open",
+  "matchday": 3,
+  "date": "2026-10-23",
+  "time": "15:00",
+  "venue": "Almaty Arena",
+  "city": "Almaty",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209841/pexels-photo-209841.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "sets",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "ATP 250 Almaty · Quarterfinals",
+  "resultSummary": "FINAL: Tsitsipas d. Duckworth 6-3, 6-4. Bublik d. Khachanov 4-6, 7-6(5), 7-6(5). Medvedev d. Atmane 6-4, 6-4. Basilashvili d. Mannarino 6-3, 6-1.",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "set": 1,
+      "p1": "6",
+      "p2": "3"
+    },
+    {
+      "set": 2,
+      "p1": "6",
+      "p2": "4"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP Tour Almaty scores",
+      "url": "https://www.atptour.com/en/scores/current/almaty/9410/results"
+    },
+    {
+      "name": "Tennis Temple Almaty results",
+      "url": "https://en.tennistemple.com/almaty-2026-t9410"
+    }
+  ]
+}

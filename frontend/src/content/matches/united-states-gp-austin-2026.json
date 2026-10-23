@@ -1,15 +1,15 @@
 {
   "slug": "united-states-gp-austin-2026",
-  "headline": "United States GP: Austin media day, one day to Friday practice",
-  "whyCareScore": 8.7,
-  "whyCareReason": "Paddock media day Thursday at COTA. Friday practice begins tomorrow. Antonelli leads Russell by 102.",
-  "teaser": "Austin media briefings Thursday. Friday practice opens tomorrow. Mercedes lead Ferrari by 134.",
-  "story": "Thursday 22 October brought driver press conferences and media briefings to the Circuit of the Americas paddock, one day before practice begins for the United States Grand Prix. Formula1.com lists Free Practice 1 and Sprint Qualifying for Friday, 23 October, followed by the Sprint and Qualifying on Saturday, and the 56-lap Grand Prix on Sunday, 25 October at 15:00 local time. Mercedes driver Kimi Antonelli holds a 102-point lead over George Russell (340 to 238) in the drivers' championship. Mercedes lead Ferrari 578 to 444 in the constructors' standings. No cars run competitively on Thursday.",
-  "stakes": "The American triple-header opens in Austin with 102 points separating the top two drivers. Six races remain in 2026.",
-  "rivalryAngle": "Media day sets the stage before practice commences Friday at COTA.",
+  "headline": "United States GP: Friday practice underway at COTA as Antonelli defends 102-point lead",
+  "whyCareScore": 8.8,
+  "whyCareReason": "Free Practice 1 and 2 open the race weekend at COTA. Antonelli leads Russell by 102 points.",
+  "teaser": "Friday practice underway in Austin. FP1 and FP2 on track. Mercedes lead Ferrari by 134.",
+  "story": "Track running commenced Friday, 23 October, for the 2026 United States Grand Prix at Circuit of the Americas in Austin, Texas. Teams took to the 5.513 km circuit for Free Practice 1 at 12:30 local time, followed by Free Practice 2 at 16:00, evaluating aerodynamic efficiency and tire wear across COTA's famous sweeping esses and long back straight. Championship leader Kimi Antonelli enters the weekend with 340 points and a 102-point advantage over Mercedes teammate George Russell (238). Mercedes lead Ferrari 578 to 444 in the constructors' standings. Saturday features Free Practice 3 and Qualifying ahead of Sunday's 56-lap Grand Prix.",
+  "stakes": "The American triple-header opens in Austin with 102 points separating the top two drivers. Antonelli has his first mathematical shot at the title.",
+  "rivalryAngle": "Teammates Antonelli and Russell take their title duel to the track in Austin.",
   "funFacts": [
-    "Thursday media day complete. Practice 1 begins Friday 23 October at COTA.",
-    "Circuit: 5.513 km, 56 laps, 308.405 km. Race start Sunday 15:00 local time.",
+    "Friday practice sessions FP1 (12:30 local) and FP2 (16:00 local) underway at COTA.",
+    "Circuit: 5.513 km, 20 turns, 56 laps. Race start Sunday 15:00 local time.",
     "Standings: Antonelli 340, Russell 238 (gap 102). Mercedes 578, Ferrari 444."
   ],
   "keyPlayers": [
@@ -21,15 +21,15 @@
     {
       "name": "George Russell",
       "team": "Mercedes",
-      "hook": "Second on 238 points after climbing from 19th to ninth in Singapore."
+      "hook": "Second on 238 points, seeking to delay his teammate's title coronation."
     },
     {
       "name": "Max Verstappen",
       "team": "Red Bull",
-      "hook": "Won the Singapore Grand Prix from pole. Has 221 points."
+      "hook": "Third in line with 221 points following victory in Singapore."
     }
   ],
-  "headToHead": "No Austin session has been run. Singapore remains the last classified race.",
+  "headToHead": "Friday practice underway at COTA. Race Sunday 25 October at 15:00 local.",
   "tags": [
     "f1",
     "austin",
@@ -63,7 +63,7 @@
   "format": "leaderboard",
   "season": "2026",
   "roundLabel": "Formula 1 · United States Grand Prix",
-  "resultSummary": "UPCOMING: Austin weekend 23-25 October. Practice Friday. Antonelli leads by 102.",
+  "resultSummary": "IN PROGRESS: Austin weekend 23-25 October. Practice underway Friday. Antonelli leads by 102.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
