@@ -1,27 +1,27 @@
 {
   "slug": "ipswich-vs-forest-mw8-2026",
-  "headline": "Premier League Friday: Ipswich host Forest at Portman Road to open Matchweek 8",
-  "whyCareScore": 8.4,
-  "whyCareReason": "Matchweek 8 kicks off tonight at Portman Road. Forest sit 19th on 5 points, Ipswich 12th on 8.",
-  "teaser": "Friday 23 October, 20:00 UK, Portman Road, Sky Sports. City lead table on 21; Chelsea host Spurs on Saturday.",
-  "story": "Matchweek 8 of the Premier League opens Friday night, 23 October, under the Portman Road lights as Ipswich Town host Nottingham Forest at 20:00 UK. Ipswich enter in 12th place with 8 points from seven matches (2-2-3), having challenged Manchester City in a 3-2 defeat last weekend. Forest sit 19th in the relegation zone on 5 points (1-2-4) following a narrow 1-0 defeat to Arsenal. Manchester City top the table with a perfect 21 points, three clear of Arsenal on 18. Saturday brings the headline London derby between Chelsea and Tottenham at Stamford Bridge.",
-  "stakes": "Forest fight to climb out of the bottom three while Ipswich aim to solidify their mid-table position.",
-  "rivalryAngle": "Friday night football under the Portman Road floodlights opens Matchweek 8.",
+  "headline": "Premier League Friday: Ipswich and Forest share points in 1-1 draw",
+  "whyCareScore": 8.3,
+  "whyCareReason": "Julio Enciso cancelled out Neco Williams' early strike as points were shared at Portman Road.",
+  "teaser": "FINAL: Ipswich 1, Forest 1. Williams 13', Enciso 41'. Ipswich move to 10 pts, Forest to 6 pts.",
+  "story": "Ipswich Town and Nottingham Forest shared the spoils in a hard-fought 1-1 draw to kick off Premier League Matchweek 8 on Friday night, 23 October, at Portman Road. Forest grabbed an early lead in the 13th minute when full-back Neco Williams drove a low shot into the bottom corner. Ipswich responded before the interval as Paraguayan forward Julio Enciso levelled with a clinical finish in the 41st minute. The point moves Ipswich into 10th position with 10 points (3-1-4), while Nottingham Forest edge out of the bottom two into 18th place on 6 points (1-3-4).",
+  "stakes": "Forest earn a vital road point to move out of the bottom two while Ipswich reach double digits in points.",
+  "rivalryAngle": "Friday night football under the Portman Road floodlights ends in a deserved stalemate.",
   "funFacts": [
-    "Friday 23 October, 20:00 UK, Portman Road, Sky Sports. Kickoff tonight.",
-    "Table: City 21 (7-0-0), Arsenal 18, Brighton 16. Ipswich 12th on 8, Forest 19th on 5.",
-    "Saturday derby: Chelsea host Tottenham at Stamford Bridge."
+    "Final: Ipswich Town 1, Nottingham Forest 1 at Portman Road.",
+    "Neco Williams scored for Forest (13'); Julio Enciso equalised for Ipswich (41').",
+    "Ipswich move to 10 points in 10th place; Forest climb to 18th on 6 points."
   ],
   "keyPlayers": [
     {
-      "name": "Ipswich Town",
+      "name": "Julio Enciso",
       "team": "Ipswich Town",
-      "hook": "12th on 8 points after challenging Manchester City in a 3-2 thriller."
+      "hook": "Scored the 41st-minute equaliser to earn Ipswich a point at home."
     },
     {
-      "name": "Nottingham Forest",
+      "name": "Neco Williams",
       "team": "Nottingham Forest",
-      "hook": "19th on 5 points, seeking points to escape the drop zone."
+      "hook": "Opened the scoring in the 13th minute with a low driven finish."
     },
     {
       "name": "Manchester City",
@@ -29,7 +29,7 @@
       "hook": "Lead the Premier League with a flawless 7-0-0 record and 21 points."
     }
   ],
-  "headToHead": "Friday 23 October 2026, 20:00 UK. Kickoff tonight. No score yet.",
+  "headToHead": "Friday 23 October 2026. Final: Ipswich Town 1, Nottingham Forest 1.",
   "tags": [
     "soccer",
     "premier-league",
@@ -49,9 +49,9 @@
   "time": "20:00",
   "venue": "Portman Road",
   "city": "Ipswich",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 1,
   "marquee": false,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/8007513/pexels-photo-8007513.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
@@ -63,17 +63,17 @@
   "format": "team-match",
   "season": "2026/27",
   "roundLabel": "Premier League · Matchweek 8",
-  "resultSummary": "TONIGHT: Friday 23 October, 20:00 UK, Portman Road. Ipswich v Forest. No score yet.",
+  "resultSummary": "FINAL: Ipswich Town 1, Nottingham Forest 1. Portman Road. Williams 13', Enciso 41'.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "Premier League fixtures",
-      "url": "https://www.premierleague.com/fixtures"
+      "name": "Premier League report",
+      "url": "https://www.premierleague.com/match/115982"
     },
     {
-      "name": "ESPN Premier League table",
-      "url": "https://www.espn.com/soccer/standings/_/league/eng.1"
+      "name": "The Guardian Matchweek 8",
+      "url": "https://www.theguardian.com/football/2026/oct/23/ipswich-town-nottingham-forest-premier-league-match-report"
     }
   ]
 }

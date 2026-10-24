@@ -1,35 +1,35 @@
 {
   "slug": "butterfield-bermuda-championship-2026",
-  "headline": "Butterfield Bermuda: Blanchet leads after opening 62; Round 2 underway",
-  "whyCareScore": 8.0,
-  "whyCareReason": "Chandler Blanchet shot a 9-under 62 with two eagles to take the lead. Round 2 is underway at Port Royal.",
-  "teaser": "Blanchet leads at 9-under 62. Conners, Kohles, Walker trail at 63 (-7). Round 2 underway Friday.",
-  "story": "Round 2 of the Butterfield Bermuda Championship opened Friday morning, 23 October, at Port Royal Golf Course in Southampton, Bermuda. Chandler Blanchet set the early tournament pace with a career-low 9-under-par 62 on Thursday, holing two eagles including a 50-foot putt on the par-5 17th hole. A tight chasing pack sits two shots behind, with Canadian Corey Conners, Ben Kohles, Danny Walker and Ben Silverman all tied at 7-under-par 63. The 120-player field is chasing a $6 million purse and 500 FedExCup Fall points along the Robert Trent Jones oceanfront course.",
-  "stakes": "FedExCup Fall points are on the line as 120 players battle ocean crosswinds at Port Royal.",
-  "rivalryAngle": "Blanchet sets the target while established tour stars pursue during Friday's second round.",
+  "headline": "Butterfield Bermuda: Blanchet and Hirata share 36-hole lead at 13 under",
+  "whyCareScore": 8.1,
+  "whyCareReason": "Chandler Blanchet and Kensei Hirata are tied at 129 (-13). Round 3 is underway Saturday at Port Royal.",
+  "teaser": "Blanchet and Hirata lead at 13-under 129. Conners in chase. Round 3 underway Saturday.",
+  "story": "Round 3 of the Butterfield Bermuda Championship opened Saturday, 24 October, at Port Royal Golf Course in Southampton, Bermuda. Chandler Blanchet followed up his opening 62 with a solid 4-under 67 on Friday, while Japan's Kensei Hirata fired a bogey-free 64 to tie Blanchet for the 36-hole lead at 13-under-par 129. Canadian Corey Conners and Ben Silverman remain well positioned inside the top five heading into moving day. The 120-player field was cut to the top 65 and ties following Friday's action, with players chasing a $6 million purse and 500 FedExCup Fall points along the Atlantic coast.",
+  "stakes": "Moving day in Bermuda brings shifting Atlantic breezes with FedExCup Fall points on the line.",
+  "rivalryAngle": "Blanchet and Hirata share the pace while proven tour veterans mount their weekend charge.",
   "funFacts": [
-    "Chandler Blanchet leads after a career-low 9-under 62 featuring two eagles in Round 1.",
-    "Corey Conners, Ben Kohles, Danny Walker and Ben Silverman are tied for second at 7-under 63.",
+    "Chandler Blanchet (62-67) and Kensei Hirata (65-64) share the 36-hole lead at 13-under 129.",
+    "Kensei Hirata posted a bogey-free 7-under 64 in Friday's second round.",
     "Port Royal Golf Course, Southampton. Purse $6 million, 500 FedExCup Fall points."
   ],
   "keyPlayers": [
     {
       "name": "Chandler Blanchet",
       "team": "PGA Tour",
-      "hook": "Outright leader following a sparkling opening-round 62 (-9)."
+      "hook": "Co-leader at 13 under following rounds of 62 and 67."
+    },
+    {
+      "name": "Kensei Hirata",
+      "team": "PGA Tour",
+      "hook": "Fired a second-round 64 to join Blanchet atop the leaderboard."
     },
     {
       "name": "Corey Conners",
       "team": "PGA Tour",
-      "hook": "World No. 61 in the hunt after an opening 7-under 63."
-    },
-    {
-      "name": "Ben Kohles",
-      "team": "PGA Tour",
-      "hook": "Carded a bogey-free 63 (-7) to share second place."
+      "hook": "World No. 61 within striking distance heading into Saturday."
     }
   ],
-  "headToHead": "Round 1 complete. Round 2 underway Friday 23 October at Port Royal.",
+  "headToHead": "36 holes complete. Round 3 underway Saturday 24 October at Port Royal.",
   "tags": [
     "golf",
     "pga-tour",
@@ -45,8 +45,8 @@
   "awayFlag": "",
   "group": "PGA Tour",
   "matchday": 0,
-  "date": "2026-10-23",
-  "time": "Second round",
+  "date": "2026-10-24",
+  "time": "Third round",
   "venue": "Port Royal Golf Course",
   "city": "Southampton",
   "status": "UPCOMING",
@@ -63,7 +63,7 @@
   "format": "leaderboard",
   "season": "2026",
   "roundLabel": "PGA Tour · Butterfield Bermuda Championship",
-  "resultSummary": "IN PROGRESS: Round 2 Friday 23 October. Blanchet leads at -9 (62). Conners, Kohles at -7 (63).",
+  "resultSummary": "IN PROGRESS: Round 3 Saturday 24 October. Blanchet and Hirata lead at -13 (129). Conners in pursuit.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [

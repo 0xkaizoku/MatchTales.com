@@ -1,41 +1,42 @@
 {
   "slug": "united-states-gp-austin-2026",
-  "headline": "United States GP: Friday practice underway at COTA as Antonelli defends 102-point lead",
-  "whyCareScore": 8.8,
-  "whyCareReason": "Free Practice 1 and 2 open the race weekend at COTA. Antonelli leads Russell by 102 points.",
-  "teaser": "Friday practice underway in Austin. FP1 and FP2 on track. Mercedes lead Ferrari by 134.",
-  "story": "Track running commenced Friday, 23 October, for the 2026 United States Grand Prix at Circuit of the Americas in Austin, Texas. Teams took to the 5.513 km circuit for Free Practice 1 at 12:30 local time, followed by Free Practice 2 at 16:00, evaluating aerodynamic efficiency and tire wear across COTA's famous sweeping esses and long back straight. Championship leader Kimi Antonelli enters the weekend with 340 points and a 102-point advantage over Mercedes teammate George Russell (238). Mercedes lead Ferrari 578 to 444 in the constructors' standings. Saturday features Free Practice 3 and Qualifying ahead of Sunday's 56-lap Grand Prix.",
-  "stakes": "The American triple-header opens in Austin with 102 points separating the top two drivers. Antonelli has his first mathematical shot at the title.",
-  "rivalryAngle": "Teammates Antonelli and Russell take their title duel to the track in Austin.",
+  "headline": "United States GP: Saturday qualifying at COTA after Leclerc paces Friday practice",
+  "whyCareScore": 9.0,
+  "whyCareReason": "Qualifying begins Saturday at 16:00 local time. Antonelli holds 102-point lead over Russell.",
+  "teaser": "Saturday qualifying at COTA. Leclerc led Friday; Antonelli +0.042s. Race Sunday 15:00 local.",
+  "story": "The 2026 United States Grand Prix heads into decisive qualifying on Saturday, 24 October, at the Circuit of the Americas in Austin, Texas. Friday practice saw Ferrari's Charles Leclerc set the standard, topping both FP1 and FP2, with championship leader Kimi Antonelli finishing just 0.042 seconds behind in his Mercedes during the afternoon session. Max Verstappen and George Russell were also firmly in the mix inside the top four. Antonelli enters Saturday holding a 102-point lead over teammate Russell (340 to 238) and has his first opportunity to secure the drivers' crown this weekend. Qualifying is scheduled for 16:00 local time ahead of Sunday's 56-lap Grand Prix.",
+  "stakes": "Pole position at COTA is on the line. Antonelli can take a massive step toward his first world championship.",
+  "rivalryAngle": "Ferrari and Mercedes trade fastest sectors while Red Bull lurk in an intense qualifying fight.",
   "funFacts": [
-    "Friday practice sessions FP1 (12:30 local) and FP2 (16:00 local) underway at COTA.",
-    "Circuit: 5.513 km, 20 turns, 56 laps. Race start Sunday 15:00 local time.",
+    "Charles Leclerc topped Friday practice in Austin, edging Antonelli by 0.042s in FP2.",
+    "Qualifying takes place Saturday at 16:00 local time at COTA.",
     "Standings: Antonelli 340, Russell 238 (gap 102). Mercedes 578, Ferrari 444."
   ],
   "keyPlayers": [
     {
       "name": "Kimi Antonelli",
       "team": "Mercedes",
-      "hook": "Leads the drivers' championship with 340 points, 102 ahead of Russell."
+      "hook": "Second in FP2 by 0.042s; leads the championship by 102 points."
+    },
+    {
+      "name": "Charles Leclerc",
+      "team": "Ferrari",
+      "hook": "Fastest in both Friday practice sessions around the 5.513 km circuit."
     },
     {
       "name": "George Russell",
       "team": "Mercedes",
-      "hook": "Second on 238 points, seeking to delay his teammate's title coronation."
-    },
-    {
-      "name": "Max Verstappen",
-      "team": "Red Bull",
-      "hook": "Third in line with 221 points following victory in Singapore."
+      "hook": "Seeks front-row start to keep title fight alive in Austin."
     }
   ],
-  "headToHead": "Friday practice underway at COTA. Race Sunday 25 October at 15:00 local.",
+  "headToHead": "Saturday Qualifying at COTA (16:00 local). Race Sunday 25 October at 15:00 local.",
   "tags": [
     "f1",
     "austin",
     "united-states-gp",
     "cota",
-    "antonelli"
+    "antonelli",
+    "leclerc"
   ],
   "home": "United States Grand Prix",
   "away": "Formula 1",
@@ -63,7 +64,7 @@
   "format": "leaderboard",
   "season": "2026",
   "roundLabel": "Formula 1 · United States Grand Prix",
-  "resultSummary": "IN PROGRESS: Austin weekend 23-25 October. Practice underway Friday. Antonelli leads by 102.",
+  "resultSummary": "TODAY: Saturday qualifying at COTA (16:00 local). Leclerc paced practice; Antonelli leads by 102.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
@@ -72,8 +73,8 @@
       "url": "https://www.formula1.com/en/racing/2026/united-states.html"
     },
     {
-      "name": "ESPN F1 championship standings",
-      "url": "https://www.espn.com/f1/standings"
+      "name": "ESPN F1 report",
+      "url": "https://www.espn.com/f1/story/_/id/40194821/united-states-grand-prix-practice-qualifying"
     }
   ]
 }

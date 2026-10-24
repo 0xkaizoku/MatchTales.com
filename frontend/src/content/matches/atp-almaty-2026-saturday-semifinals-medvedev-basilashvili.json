@@ -1,0 +1,87 @@
+{
+  "slug": "atp-almaty-2026-saturday-semifinals-medvedev-basilashvili",
+  "headline": "Almaty Saturday: Basilashvili stuns Tsitsipas, Medvedev reaches final",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Nikoloz Basilashvili upset Stefanos Tsitsipas in three sets. Top seed Daniil Medvedev advanced after Bublik retired.",
+  "teaser": "Basilashvili d. Tsitsipas 6-4, 6-7(5), 6-3. Medvedev d. Bublik 6-3, ret. Sunday final: Medvedev v Basilashvili.",
+  "story": "The semifinals at the Almaty Open produced dramatic outcomes on Saturday, 24 October. Qualifier Nikoloz Basilashvili staged a massive upset, defeating seventh-seeded Stefanos Tsitsipas 6-4, 6-7(5), 6-3 in two hours and 18 minutes to reach his first ATP final in over two years. Basilashvili fired 32 winners and broke Tsitsipas four times, recovering from a tight second-set tiebreak loss. In the second semifinal, top seed Daniil Medvedev advanced to the championship match when third-seeded home favorite Alexander Bublik was forced to retire due to a knee injury after Medvedev claimed the opening set 6-3. Medvedev will face Basilashvili for the title on Sunday.",
+  "stakes": "Medvedev pursues his first title of the autumn swing against qualifier Basilashvili in Sunday's final.",
+  "rivalryAngle": "Basilashvili continues a dream week in Almaty while Medvedev targets another hardcourt crown.",
+  "funFacts": [
+    "Basilashvili defeated Tsitsipas 6-4, 6-7(5), 6-3 to reach his first ATP final of 2026.",
+    "Medvedev advanced after Bublik retired with a knee injury trailing 6-3.",
+    "Sunday final: No. 1 seed Daniil Medvedev vs Nikoloz Basilashvili."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Nikoloz Basilashvili",
+      "team": "ATP Tour",
+      "hook": "Stunned 7th seed Tsitsipas with blistering baseline winners."
+    },
+    {
+      "name": "Daniil Medvedev",
+      "team": "ATP Tour",
+      "hook": "Reaches Almaty final conceding just three games before Bublik retired."
+    },
+    {
+      "name": "Stefanos Tsitsipas",
+      "team": "Greece",
+      "hook": "Eliminated in three sets after a brave second-set tiebreak fightback."
+    }
+  ],
+  "headToHead": "Saturday 24 October 2026. Almaty Open Semifinals. Final.",
+  "tags": [
+    "tennis",
+    "atp",
+    "almaty",
+    "medvedev",
+    "basilashvili",
+    "tsitsipas",
+    "bublik"
+  ],
+  "home": "Daniil Medvedev",
+  "away": "Nikoloz Basilashvili",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "Almaty Open",
+  "matchday": 4,
+  "date": "2026-10-24",
+  "time": "15:00",
+  "venue": "Almaty Arena",
+  "city": "Almaty",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209841/pexels-photo-209841.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "sets",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "ATP 250 Almaty · Semifinals",
+  "resultSummary": "FINAL: Basilashvili d. Tsitsipas 6-4, 6-7(5), 6-3. Medvedev d. Bublik 6-3, ret. Sunday final: Medvedev v Basilashvili.",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "set": 1,
+      "p1": "6",
+      "p2": "3"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP Tour Almaty semifinals",
+      "url": "https://www.atptour.com/en/scores/current/almaty/9410/results"
+    },
+    {
+      "name": "Tennis Temple Almaty coverage",
+      "url": "https://en.tennistemple.com/almaty-2026-t9410"
+    }
+  ]
+}
