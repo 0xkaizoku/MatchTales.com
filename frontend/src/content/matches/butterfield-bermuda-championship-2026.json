@@ -1,35 +1,35 @@
 {
   "slug": "butterfield-bermuda-championship-2026",
-  "headline": "Butterfield Bermuda: Blanchet and Hirata share 36-hole lead at 13 under",
-  "whyCareScore": 8.1,
-  "whyCareReason": "Chandler Blanchet and Kensei Hirata are tied at 129 (-13). Round 3 is underway Saturday at Port Royal.",
-  "teaser": "Blanchet and Hirata lead at 13-under 129. Conners in chase. Round 3 underway Saturday.",
-  "story": "Round 3 of the Butterfield Bermuda Championship opened Saturday, 24 October, at Port Royal Golf Course in Southampton, Bermuda. Chandler Blanchet followed up his opening 62 with a solid 4-under 67 on Friday, while Japan's Kensei Hirata fired a bogey-free 64 to tie Blanchet for the 36-hole lead at 13-under-par 129. Canadian Corey Conners and Ben Silverman remain well positioned inside the top five heading into moving day. The 120-player field was cut to the top 65 and ties following Friday's action, with players chasing a $6 million purse and 500 FedExCup Fall points along the Atlantic coast.",
-  "stakes": "Moving day in Bermuda brings shifting Atlantic breezes with FedExCup Fall points on the line.",
-  "rivalryAngle": "Blanchet and Hirata share the pace while proven tour veterans mount their weekend charge.",
+  "headline": "Butterfield Bermuda: Power and Smotherman share 54-hole lead heading into final round",
+  "whyCareScore": 8.3,
+  "whyCareReason": "Seamus Power and Austin Smotherman share the 54-hole lead as the final round begins Sunday at Port Royal.",
+  "teaser": "Power and Smotherman co-lead after 54 holes. Blanchet, Hirata and Conners in pursuit Sunday.",
+  "story": "The final round of the Butterfield Bermuda Championship gets underway Sunday, 25 October, at Port Royal Golf Course in Southampton, Bermuda. Following a testing third round marked by swirling Atlantic gusts, Ireland's Seamus Power and American Austin Smotherman emerged at the top of the leaderboard to share the 54-hole lead. Opening-round pacesetter Chandler Blanchet and Japan's Kensei Hirata remain well within striking distance alongside Canadian Corey Conners. With windy conditions forecast along the ocean cliffs, the battle for 500 FedExCup Fall points and the $1.08 million winner's share will come down to the final back nine.",
+  "stakes": "The tournament champion will be crowned on Sunday afternoon with 500 FedExCup Fall points on the line.",
+  "rivalryAngle": "Power and Smotherman defend a narrow edge over a packed field along the windy Southampton cliffs.",
   "funFacts": [
-    "Chandler Blanchet (62-67) and Kensei Hirata (65-64) share the 36-hole lead at 13-under 129.",
-    "Kensei Hirata posted a bogey-free 7-under 64 in Friday's second round.",
-    "Port Royal Golf Course, Southampton. Purse $6 million, 500 FedExCup Fall points."
+    "Seamus Power and Austin Smotherman share the 54-hole lead heading into Sunday.",
+    "Chandler Blanchet and Kensei Hirata remain in close contention.",
+    "Port Royal Golf Course, Southampton. Purse $6 million, $1.08 million to the champion."
   ],
   "keyPlayers": [
     {
+      "name": "Seamus Power",
+      "team": "PGA Tour",
+      "hook": "Co-leader after 54 holes chasing another PGA Tour title."
+    },
+    {
+      "name": "Austin Smotherman",
+      "team": "PGA Tour",
+      "hook": "Shared the 54-hole lead with composed play in windy conditions."
+    },
+    {
       "name": "Chandler Blanchet",
       "team": "PGA Tour",
-      "hook": "Co-leader at 13 under following rounds of 62 and 67."
-    },
-    {
-      "name": "Kensei Hirata",
-      "team": "PGA Tour",
-      "hook": "Fired a second-round 64 to join Blanchet atop the leaderboard."
-    },
-    {
-      "name": "Corey Conners",
-      "team": "PGA Tour",
-      "hook": "World No. 61 within striking distance heading into Saturday."
+      "hook": "Opened with historic 62 and remains in contention for the trophy."
     }
   ],
-  "headToHead": "36 holes complete. Round 3 underway Saturday 24 October at Port Royal.",
+  "headToHead": "54 holes complete. Final round Sunday 25 October at Port Royal.",
   "tags": [
     "golf",
     "pga-tour",
@@ -45,8 +45,8 @@
   "awayFlag": "",
   "group": "PGA Tour",
   "matchday": 0,
-  "date": "2026-10-24",
-  "time": "Third round",
+  "date": "2026-10-25",
+  "time": "Final round",
   "venue": "Port Royal Golf Course",
   "city": "Southampton",
   "status": "UPCOMING",
@@ -62,9 +62,40 @@
   "competition": "pga-tour-2026",
   "format": "leaderboard",
   "season": "2026",
-  "roundLabel": "PGA Tour · Butterfield Bermuda Championship",
-  "resultSummary": "IN PROGRESS: Round 3 Saturday 24 October. Blanchet and Hirata lead at -13 (129). Conners in pursuit.",
-  "leaderboard": [],
+  "roundLabel": "PGA Tour · Butterfield Bermuda Championship · Final Round",
+  "resultSummary": "TODAY: Sunday 25 October final round. Power and Smotherman co-lead after 54 holes; Blanchet and Hirata in hunt.",
+  "leaderboard": [
+    {
+      "pos": "T1",
+      "name": "Seamus Power",
+      "score": "-14",
+      "note": "Co-leader (68 Saturday)"
+    },
+    {
+      "pos": "T1",
+      "name": "Austin Smotherman",
+      "score": "-14",
+      "note": "Co-leader (67 Saturday)"
+    },
+    {
+      "pos": "T3",
+      "name": "Chandler Blanchet",
+      "score": "-13",
+      "note": "1 back (-13)"
+    },
+    {
+      "pos": "T3",
+      "name": "Kensei Hirata",
+      "score": "-13",
+      "note": "1 back (-13)"
+    },
+    {
+      "pos": "5",
+      "name": "Corey Conners",
+      "score": "-12",
+      "note": "2 back (-12)"
+    }
+  ],
   "tennisSets": [],
   "sources": [
     {

@@ -1,0 +1,89 @@
+{
+  "slug": "atp-almaty-2026-final-medvedev-vs-basilashvili",
+  "headline": "Almaty Final: Medvedev defeats Basilashvili in three sets for 25th career title",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Daniil Medvedev achieved the first title defense of his career, defeating Nikoloz Basilashvili 6-7(6), 6-1, 6-3.",
+  "teaser": "Medvedev d. Basilashvili 6-7(6), 6-1, 6-3 in 1h 53m. 25th career title and fourth trophy of the 2026 season.",
+  "story": "Top seed Daniil Medvedev captured the Almaty Open title on Sunday, 25 October, mounting a resilient comeback to defeat Georgian qualifier Nikoloz Basilashvili 6-7(6), 6-1, 6-3 in one hour and 53 minutes. The victory marked a historic career breakthrough for Medvedev: for the first time in his professional career, he successfully defended a tour-level singles title. Basilashvili, competing in his first ATP final in five years, played fearless tennis to snatch a tight opening tiebreak 8-6. Medvedev responded by raising his return depth and baseline consistency, dropping just four games across the final two sets to lift his 25th career ATP singles trophy.",
+  "stakes": "Medvedev secures his fourth title of 2026 and celebrates his first-ever successful ATP title defense.",
+  "rivalryAngle": "Basilashvili capped a dream week from qualifying while Medvedev proved his hardcourt mastery in Kazakhstan.",
+  "funFacts": [
+    "Final: Daniil Medvedev d. Nikoloz Basilashvili 6-7(6), 6-1, 6-3.",
+    "First time in Medvedev's 25 title wins that he successfully defended a crown.",
+    "Basilashvili reached the final as a qualifier after defeating Tsitsipas in the semifinals."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Daniil Medvedev",
+      "team": "ATP Tour",
+      "hook": "Lifts his 25th career singles title and fourth trophy of 2026."
+    },
+    {
+      "name": "Nikoloz Basilashvili",
+      "team": "ATP Tour",
+      "hook": "Qualifier who took the opening set and pushed the world No. 5 to three sets."
+    }
+  ],
+  "headToHead": "Sunday 25 October 2026. Almaty Open Final. Daniil Medvedev d. Nikoloz Basilashvili 6-7(6), 6-1, 6-3.",
+  "tags": [
+    "tennis",
+    "atp",
+    "almaty",
+    "medvedev",
+    "basilashvili",
+    "championship",
+    "final"
+  ],
+  "home": "Daniil Medvedev",
+  "away": "Nikoloz Basilashvili",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "Almaty Open",
+  "matchday": 5,
+  "date": "2026-10-25",
+  "time": "15:00",
+  "venue": "Almaty Arena",
+  "city": "Almaty",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 1,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209841/pexels-photo-209841.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "sets",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "ATP 250 Almaty · Final",
+  "resultSummary": "FINAL: Medvedev d. Basilashvili 6-7(6), 6-1, 6-3. First career title defense and 25th career ATP title for Medvedev.",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "6",
+      "p2": "7(6)"
+    },
+    {
+      "p1": "6",
+      "p2": "1"
+    },
+    {
+      "p1": "6",
+      "p2": "3"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP Tour Almaty final report",
+      "url": "https://www.atptour.com/en/scores/current/almaty/9410/results"
+    },
+    {
+      "name": "Ubitennis Almaty coverage",
+      "url": "https://www.ubitennis.net/2026/10/almaty-medvedev-title-defense"
+    }
+  ]
+}

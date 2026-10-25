@@ -1,35 +1,35 @@
 {
   "slug": "wnba-finals-2026-game4-valkyries-at-dream",
-  "headline": "WNBA Finals Game 4: Dream chase first championship; Valkyries fight for Game 5",
+  "headline": "WNBA Finals Game 4: Valkyries stun Dream 67-62 to level series 2-2",
   "whyCareScore": 9.7,
-  "whyCareReason": "Atlanta leads the series 2-1 and can clinch the WNBA title today. Golden State face elimination.",
-  "teaser": "Saturday 24 October, State Farm Arena. Dream lead 2-1 after 97-71 blowout. Reese historic double-double run.",
-  "story": "Game 4 of the WNBA Finals takes center stage on Saturday, 24 October, at State Farm Arena in Atlanta, with the Atlanta Dream on the cusp of the first championship in franchise history. Atlanta leads the series 2-1 following Wednesday's 97-71 blowout in Game 3, powered by Angel Reese's historic 21 points, 12 rebounds and three steals. Reese became the first player in WNBA history to record a double-double in each of her first three Finals games. Rhyne Howard and Naz Hillmon have provided balanced scoring and lockdown perimeter defense. The expansion Golden State Valkyries face elimination and must win on the road to send the series back to the Chase Center in San Francisco for Game 5.",
-  "stakes": "Championship point for Atlanta. Golden State face elimination and need a road victory to keep their title dreams alive.",
-  "rivalryAngle": "The expansion Valkyries face their first elimination game of the Finals in Atlanta.",
+  "whyCareReason": "Golden State staved off elimination with a gritty 67-62 road win, tying the Finals 2-2 and forcing Game 5 in San Francisco.",
+  "teaser": "FINAL: Valkyries 67, Dream 62. Williams 17 pts, Hayes 13 pts. Series tied 2-2 heading to Chase Center.",
+  "story": "The Golden State Valkyries refused to let their dream season end on Saturday, 24 October, overcoming a hostile crowd at State Farm Arena to upset the Atlanta Dream 67-62 in Game 4 of the WNBA Finals. The victory leveled the best-of-five series at 2-2 and earned the expansion franchise a winner-take-all Game 5 on their home floor in San Francisco. Gabby Williams spearheaded Golden State with 17 points, five rebounds and three steals, while Tiffany Hayes and Veronica Burton added 13 points apiece. Golden State's swarming interior defense clamped down on Angel Reese, snapping her streak of three straight Finals double-doubles by holding her to eight points on 2-of-12 shooting. Rhyne Howard paced Atlanta with 19 points, but the Dream went cold down the stretch.",
+  "stakes": "The Finals head to a decisive Game 5 in San Francisco after Golden State fought off elimination in Atlanta.",
+  "rivalryAngle": "Expansion Valkyries battle back from the brink to set up a winner-take-all showdown at Chase Center.",
   "funFacts": [
-    "Atlanta leads the series 2-1 after winning Games 2 and 3 by double digits.",
-    "Game 4: Saturday 24 October, State Farm Arena. Series on the line.",
-    "Series history: Game 1 Valkyries 68-64; Game 2 Dream 79-65; Game 3 Dream 97-71."
+    "Game 4 Final: Golden State Valkyries 67, Atlanta Dream 62.",
+    "Series tied 2-2: Game 1 Valkyries 68-64; Game 2 Dream 79-65; Game 3 Dream 97-71; Game 4 Valkyries 67-62.",
+    "Decisive Game 5 moves back to Chase Center in San Francisco."
   ],
   "keyPlayers": [
     {
-      "name": "Angel Reese",
-      "team": "Atlanta Dream",
-      "hook": "Three consecutive double-doubles to start her Finals career (21 pts, 12 reb in Game 3)."
+      "name": "Gabby Williams",
+      "team": "Golden State Valkyries",
+      "hook": "Led all scorers with 17 points, 5 rebounds and 3 steals to keep season alive."
     },
     {
       "name": "Rhyne Howard",
       "team": "Atlanta Dream",
-      "hook": "Scored 16 points with four three-pointers in Wednesday's 97-71 rout."
+      "hook": "Scored team-high 19 points in valiant fourth-quarter fightback."
     },
     {
-      "name": "Tiffany Hayes",
+      "name": "Kiah Stokes",
       "team": "Golden State Valkyries",
-      "hook": "Led Golden State with 14 points in Game 3, fighting to extend the series."
+      "hook": "Anchored defense that limited Angel Reese to just 8 points."
     }
   ],
-  "headToHead": "Saturday 24 October 2026, State Farm Arena. Series 2-1 Atlanta. Game 4 today.",
+  "headToHead": "Saturday 24 October 2026. Game 4: Valkyries 67, Dream 62. Series tied 2-2.",
   "tags": [
     "basketball",
     "wnba",
@@ -50,13 +50,13 @@
   "time": "13:00",
   "venue": "State Farm Arena",
   "city": "Atlanta",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 62,
+  "awayScore": 67,
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/976874/pexels-photo-976874.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": null,
+  "decidedBy": "regular",
   "homePen": null,
   "awayPen": null,
   "sport": "basketball",
@@ -64,7 +64,7 @@
   "format": "team-match",
   "season": "2026",
   "roundLabel": "WNBA Finals · Game 4",
-  "resultSummary": "TODAY: Saturday 24 October, State Farm Arena. Series 2-1 Atlanta. Game 4 tip today.",
+  "resultSummary": "FINAL: Valkyries 67, Dream 62. Gabby Williams 17 pts; Tiffany Hayes 13 pts. Series tied 2-2 heading to Chase Center.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [

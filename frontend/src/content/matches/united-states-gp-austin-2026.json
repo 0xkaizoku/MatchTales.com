@@ -1,16 +1,16 @@
 {
   "slug": "united-states-gp-austin-2026",
-  "headline": "United States GP: Saturday qualifying at COTA after Leclerc paces Friday practice",
-  "whyCareScore": 9.0,
-  "whyCareReason": "Qualifying begins Saturday at 16:00 local time. Antonelli holds 102-point lead over Russell.",
-  "teaser": "Saturday qualifying at COTA. Leclerc led Friday; Antonelli +0.042s. Race Sunday 15:00 local.",
-  "story": "The 2026 United States Grand Prix heads into decisive qualifying on Saturday, 24 October, at the Circuit of the Americas in Austin, Texas. Friday practice saw Ferrari's Charles Leclerc set the standard, topping both FP1 and FP2, with championship leader Kimi Antonelli finishing just 0.042 seconds behind in his Mercedes during the afternoon session. Max Verstappen and George Russell were also firmly in the mix inside the top four. Antonelli enters Saturday holding a 102-point lead over teammate Russell (340 to 238) and has his first opportunity to secure the drivers' crown this weekend. Qualifying is scheduled for 16:00 local time ahead of Sunday's 56-lap Grand Prix.",
-  "stakes": "Pole position at COTA is on the line. Antonelli can take a massive step toward his first world championship.",
-  "rivalryAngle": "Ferrari and Mercedes trade fastest sectors while Red Bull lurk in an intense qualifying fight.",
+  "headline": "United States GP: Sunday race day at COTA as Antonelli starts on pole",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Antonelli captured pole position (1:34.035) ahead of Verstappen and can seal his world title today.",
+  "teaser": "Sunday race at COTA (15:00 local). Antonelli on pole; Verstappen P2, Hadjar P3, Leclerc P4. Antonelli leads by 102.",
+  "story": "The 2026 United States Grand Prix reaches its climax on Sunday, 25 October, at the Circuit of the Americas in Austin, Texas. Mercedes sensation Kimi Antonelli snatched pole position in Saturday's qualifying shootout with a scintillating lap of 1:34.035, outpacing Red Bull's Max Verstappen by 0.179 seconds. Isack Hadjar qualified third ahead of Ferrari's Charles Leclerc and Lewis Hamilton, while Antonelli's title rival George Russell starts down in sixth. Antonelli leads the drivers' championship by 102 points (340 to 238) and enters Sunday's 56-lap Grand Prix with his first mathematical opportunity to clinch the World Championship.",
+  "stakes": "The world championship could be decided today in Texas if Antonelli converts pole position into victory.",
+  "rivalryAngle": "Verstappen lines up alongside Antonelli on the front row with Ferrari's Leclerc lurking in fourth.",
   "funFacts": [
-    "Charles Leclerc topped Friday practice in Austin, edging Antonelli by 0.042s in FP2.",
-    "Qualifying takes place Saturday at 16:00 local time at COTA.",
-    "Standings: Antonelli 340, Russell 238 (gap 102). Mercedes 578, Ferrari 444."
+    "Kimi Antonelli captured pole position with a 1:34.035 lap at COTA.",
+    "Max Verstappen starts alongside on the front row (+0.179s); Hadjar P3, Leclerc P4.",
+    "Antonelli defends a 102-point lead over George Russell (340 to 238) into Sunday's 56-lap race."
   ],
   "keyPlayers": [
     {
@@ -63,9 +63,39 @@
   "competition": "f1-2026",
   "format": "leaderboard",
   "season": "2026",
-  "roundLabel": "Formula 1 · United States Grand Prix",
-  "resultSummary": "TODAY: Saturday qualifying at COTA (16:00 local). Leclerc paced practice; Antonelli leads by 102.",
-  "leaderboard": [],
+  "resultSummary": "TODAY: Sunday 25 October, 15:00 local. Antonelli on pole (1:34.035) ahead of Verstappen (+0.179s). 56 laps at COTA.",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Kimi Antonelli",
+      "score": "1:34.035",
+      "note": "POLE (Mercedes)"
+    },
+    {
+      "pos": "2",
+      "name": "Max Verstappen",
+      "score": "1:34.214",
+      "note": "+0.179s (Red Bull)"
+    },
+    {
+      "pos": "3",
+      "name": "Isack Hadjar",
+      "score": "1:34.250",
+      "note": "+0.215s (RB)"
+    },
+    {
+      "pos": "4",
+      "name": "Charles Leclerc",
+      "score": "1:34.267",
+      "note": "+0.232s (Ferrari)"
+    },
+    {
+      "pos": "5",
+      "name": "Lewis Hamilton",
+      "score": "1:34.311",
+      "note": "+0.276s (Ferrari)"
+    }
+  ],
   "tennisSets": [],
   "sources": [
     {
