@@ -50,50 +50,68 @@
   "time": "15:00 local",
   "venue": "Circuit of the Americas",
   "city": "Austin",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": "1st",
+  "awayScore": "P8",
   "marquee": true,
-  "liveMinute": null,
+  "liveMinute": "FT",
   "image": "https://images.pexels.com/photos/2365457/pexels-photo-2365457.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": null,
+  "decidedBy": "Race winner / World champion",
   "homePen": null,
   "awayPen": null,
   "sport": "f1",
   "competition": "f1-2026",
   "format": "leaderboard",
   "season": "2026",
-  "resultSummary": "TODAY: Sunday 25 October, 15:00 local. Antonelli on pole (1:34.035) ahead of Verstappen (+0.179s). 56 laps at COTA.",
+  "resultSummary": "FINAL: Kimi Antonelli wins US GP from pole; Charles Leclerc P2, Max Verstappen P3, George Russell P8. Antonelli clinches 2026 Formula 1 World Championship!",
   "leaderboard": [
     {
       "pos": "1",
       "name": "Kimi Antonelli",
-      "score": "1:34.035",
-      "note": "POLE (Mercedes)"
+      "score": "1:34:28.140",
+      "note": "WINNER & WORLD CHAMPION (Mercedes)"
     },
     {
       "pos": "2",
-      "name": "Max Verstappen",
-      "score": "1:34.214",
-      "note": "+0.179s (Red Bull)"
+      "name": "Charles Leclerc",
+      "score": "+3.812s",
+      "note": "P2 (Ferrari)"
     },
     {
       "pos": "3",
-      "name": "Isack Hadjar",
-      "score": "1:34.250",
-      "note": "+0.215s (RB)"
+      "name": "Max Verstappen",
+      "score": "+6.405s",
+      "note": "P3 (Red Bull)"
     },
     {
       "pos": "4",
-      "name": "Charles Leclerc",
-      "score": "1:34.267",
-      "note": "+0.232s (Ferrari)"
+      "name": "Lewis Hamilton",
+      "score": "+9.122s",
+      "note": "P4 (Ferrari)"
     },
     {
       "pos": "5",
-      "name": "Lewis Hamilton",
-      "score": "1:34.311",
-      "note": "+0.276s (Ferrari)"
+      "name": "Lando Norris",
+      "score": "+12.441s",
+      "note": "P5 (McLaren)"
+    },
+    {
+      "pos": "6",
+      "name": "Isack Hadjar",
+      "score": "+18.309s",
+      "note": "P6 (Red Bull)"
+    },
+    {
+      "pos": "7",
+      "name": "Oscar Piastri",
+      "score": "+22.114s",
+      "note": "P7 (McLaren)"
+    },
+    {
+      "pos": "8",
+      "name": "George Russell",
+      "score": "+26.901s",
+      "note": "P8 (Mercedes)"
     }
   ],
   "tennisSets": [],

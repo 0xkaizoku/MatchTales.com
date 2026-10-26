@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-25",
+  "asOf": "2026-10-26",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -28,17 +28,29 @@
     {
       "pos": 3,
       "team": "Brighton",
-      "p": 7,
+      "p": 8,
       "w": 5,
       "d": 1,
-      "l": 1,
+      "l": 2,
       "gf": 23,
-      "ga": 5,
-      "gd": 18,
+      "ga": 7,
+      "gd": 16,
       "pts": 16
     },
     {
       "pos": 4,
+      "team": "Liverpool",
+      "p": 8,
+      "w": 4,
+      "d": 3,
+      "l": 1,
+      "gf": 11,
+      "ga": 8,
+      "gd": 3,
+      "pts": 15
+    },
+    {
+      "pos": 5,
       "team": "Chelsea",
       "p": 8,
       "w": 4,
@@ -50,28 +62,28 @@
       "pts": 13
     },
     {
-      "pos": 5,
-      "team": "Liverpool",
-      "p": 7,
-      "w": 3,
-      "d": 3,
-      "l": 1,
-      "gf": 9,
-      "ga": 8,
+      "pos": 6,
+      "team": "Bournemouth",
+      "p": 8,
+      "w": 4,
+      "d": 1,
+      "l": 3,
+      "gf": 11,
+      "ga": 10,
       "gd": 1,
-      "pts": 12
+      "pts": 13
     },
     {
-      "pos": 6,
+      "pos": 7,
       "team": "Brentford",
-      "p": 7,
+      "p": 8,
       "w": 2,
-      "d": 4,
+      "d": 5,
       "l": 1,
-      "gf": 13,
-      "ga": 8,
+      "gf": 14,
+      "ga": 9,
       "gd": 5,
-      "pts": 10
+      "pts": 11
     },
     {
       "pos": 7,
@@ -247,93 +259,93 @@
       "pos": 1,
       "name": "Kimi Antonelli",
       "team": "Mercedes",
-      "pts": 340
+      "pts": 365
     },
     {
       "pos": 2,
       "name": "George Russell",
       "team": "Mercedes",
-      "pts": 238
+      "pts": 242
     },
     {
       "pos": 3,
       "name": "Lewis Hamilton",
       "team": "Ferrari",
-      "pts": 229
+      "pts": 241
     },
     {
       "pos": 4,
       "name": "Max Verstappen",
       "team": "Red Bull",
-      "pts": 221
+      "pts": 236
     },
     {
       "pos": 5,
       "name": "Charles Leclerc",
       "team": "Ferrari",
-      "pts": 215
+      "pts": 233
     },
     {
       "pos": 6,
       "name": "Lando Norris",
       "team": "McLaren",
-      "pts": 201
+      "pts": 211
     },
     {
       "pos": 7,
       "name": "Oscar Piastri",
       "team": "McLaren",
-      "pts": 138
+      "pts": 144
     },
     {
       "pos": 8,
       "name": "Isack Hadjar",
       "team": "Red Bull",
-      "pts": 97
+      "pts": 105
     },
     {
       "pos": 9,
       "name": "Liam Lawson",
       "team": "Racing Bulls",
-      "pts": 75
+      "pts": 77
     },
     {
       "pos": 10,
       "name": "Pierre Gasly",
       "team": "Alpine",
-      "pts": 41
+      "pts": 42
     }
   ],
   "f1Constructors": [
     {
       "pos": 1,
       "name": "Mercedes",
-      "pts": 578
+      "pts": 607
     },
     {
       "pos": 2,
       "name": "Ferrari",
-      "pts": 444
+      "pts": 474
     },
     {
       "pos": 3,
-      "name": "McLaren",
-      "pts": 339
+      "name": "Red Bull",
+      "pts": 357
     },
     {
       "pos": 4,
-      "name": "Red Bull",
-      "pts": 332
+      "name": "McLaren",
+      "pts": 355
     },
     {
       "pos": 5,
       "name": "Racing Bulls",
-      "pts": 100
+      "pts": 102
     },
     {
       "pos": 6,
       "name": "Alpine",
-      "pts": 68
+      "pts": 69
     },
     {
       "pos": 7,
@@ -683,6 +695,27 @@
       "home": "Chicago Bears",
       "away": "New England Patriots",
       "note": "FINAL: Bears 30, Patriots 24. Prime Video. Williams 22-33, 308 yards, 2 TD. Burden 130 rec yds, 1 TD. Santos 58-yd FG. Maye 24-31, 321 yards, 2 TD, 1 INT. Bears 5-2, Patriots 4-3."
+    },
+    {
+      "date": "2026-10-25",
+      "time": "1:00 p.m. ET",
+      "home": "Atlanta Falcons",
+      "away": "San Francisco 49ers",
+      "note": "FINAL: Falcons 29, 49ers 20. FOX. Atlanta pass rush sacks Purdy 4 times; 49ers fall to 6-1, Falcons 4-3."
+    },
+    {
+      "date": "2026-10-25",
+      "time": "1:00 p.m. ET",
+      "home": "Minnesota Vikings",
+      "away": "Indianapolis Colts",
+      "note": "FINAL: Vikings 16, Colts 10. CBS. Minnesota improves to 6-0 to stand as the NFL's only undefeated team."
+    },
+    {
+      "date": "2026-10-25",
+      "time": "8:20 p.m. ET",
+      "home": "Seattle Seahawks",
+      "away": "Kansas City Chiefs",
+      "note": "FINAL: Seahawks 20, Chiefs 3. NBC Sunday Night Football. Seattle defense throttles Mahomes; Chiefs 5-1, Seahawks 4-3."
     }
   ],
   "usOpenQF": [

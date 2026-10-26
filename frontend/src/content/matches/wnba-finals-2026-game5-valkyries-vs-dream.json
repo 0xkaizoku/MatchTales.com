@@ -1,0 +1,80 @@
+{
+  "slug": "wnba-finals-2026-game5-valkyries-vs-dream",
+  "headline": "WNBA Finals Game 5: Valkyries and Dream clash in winner-take-all decider",
+  "whyCareScore": 9.9,
+  "whyCareReason": "The championship is on the line at Chase Center as the expansion Valkyries aim to complete a fairytale inaugural season against the hungry Dream.",
+  "teaser": "TONIGHT: Game 5 at Chase Center in San Francisco (20:00 ET). Series tied 2-2. Winner hoists the WNBA trophy.",
+  "story": "The 2026 WNBA Finals reach a dramatic conclusion on Monday night, 26 October, as the Golden State Valkyries host the Atlanta Dream in a decisive Game 5 at Chase Center in San Francisco. After fighting off elimination with a gritty 67-62 road victory in Game 4 behind Gabby Williams and Kiah Stokes, the expansion Valkyries have a chance to secure the greatest inaugural season in modern sports history in front of their home fans. The Dream, led by All-Stars Rhyne Howard and Angel Reese, will look to regroup and capture their franchise's first-ever WNBA championship.",
+  "stakes": "Winner takes the 2026 WNBA Championship trophy in front of a sellout Chase Center crowd.",
+  "rivalryAngle": "First-year expansion team Valkyries host veteran contender Atlanta Dream in an electrifying final showdown.",
+  "funFacts": [
+    "Game 5 is winner-take-all with the series tied 2-2.",
+    "Previous scores: Game 1 Valkyries 68-64; Game 2 Dream 79-65; Game 3 Dream 97-71; Game 4 Valkyries 67-62.",
+    "Tip-off scheduled for 20:00 ET / 17:00 PT at Chase Center in San Francisco."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Gabby Williams",
+      "team": "Golden State Valkyries",
+      "hook": "Scored team-high 17 points in Game 4 to force tonight's championship decider."
+    },
+    {
+      "name": "Angel Reese",
+      "team": "Atlanta Dream",
+      "hook": "Seeks bounce-back performance after posting three straight double-doubles in Games 1 through 3."
+    },
+    {
+      "name": "Rhyne Howard",
+      "team": "Atlanta Dream",
+      "hook": "Leading scorer for the Dream throughout the playoff postseason."
+    }
+  ],
+  "headToHead": "Monday 26 October 2026. Game 5: Dream at Valkyries. Series tied 2-2.",
+  "tags": [
+    "basketball",
+    "wnba",
+    "finals",
+    "valkyries",
+    "dream",
+    "game5"
+  ],
+  "home": "Golden State Valkyries",
+  "away": "Atlanta Dream",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "Finals",
+  "matchday": 5,
+  "date": "2026-10-26",
+  "time": "20:00",
+  "venue": "Chase Center",
+  "city": "San Francisco",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/976874/pexels-photo-976874.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "basketball",
+  "competition": "wnba-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "WNBA Finals · Game 5 · Decider",
+  "resultSummary": "TONIGHT: 20:00 ET / 17:00 PT. Game 5 at Chase Center. Series tied 2-2.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "WNBA Finals Game 5 schedule",
+      "url": "https://www.wnba.com/schedule"
+    },
+    {
+      "name": "NBC Sports WNBA coverage",
+      "url": "https://www.nbcsports.com/wnba"
+    }
+  ]
+}

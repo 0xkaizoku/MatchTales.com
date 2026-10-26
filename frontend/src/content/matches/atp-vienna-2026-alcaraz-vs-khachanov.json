@@ -1,0 +1,76 @@
+{
+  "slug": "atp-vienna-2026-alcaraz-vs-khachanov",
+  "headline": "ATP Vienna Round 1: Carlos Alcaraz opens against Karen Khachanov in indoor test",
+  "whyCareScore": 9.3,
+  "whyCareReason": "No. 2 seed Carlos Alcaraz begins his indoor European swing in Vienna against dangerous ball-striker Karen Khachanov.",
+  "teaser": "Round of 32 at Wiener Stadthalle. Alcaraz headlines deep ATP 500 field alongside Zverev and Almaty champion Medvedev.",
+  "story": "The Erste Bank Open in Vienna gets underway on Monday, 26 October, featuring a headline first-round clash between world No. 2 Carlos Alcaraz and former Masters champion Karen Khachanov. Alcaraz arrives in Austria seeking rhythm and points as the ATP Finals approach, but faces one of the toughest unseeded opponents in the draw. With defending champion Jannik Sinner sidelined by injury, Alcaraz and top seed Alexander Zverev lead a star-studded field that also features newly crowned Almaty Open champion Daniil Medvedev.",
+  "stakes": "Crucial indoor ranking points and tournament momentum ahead of the Paris Masters and Turin ATP Finals.",
+  "rivalryAngle": "High-powered baseline duel on the fast indoor hard courts of Wiener Stadthalle.",
+  "funFacts": [
+    "Erste Bank Open is an ATP 500 event held at the Wiener Stadthalle.",
+    "Alcaraz enters as the No. 2 seed behind Alexander Zverev.",
+    "Concurrent ATP 500 tournament Swiss Indoors also begins Monday in Basel."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Carlos Alcaraz",
+      "team": "ATP Tour",
+      "hook": "No. 2 seed in Vienna aiming to capture his first indoor title of the 2026 season."
+    },
+    {
+      "name": "Karen Khachanov",
+      "team": "ATP Tour",
+      "hook": "Dangerous power striker with a proven indoor track record."
+    }
+  ],
+  "headToHead": "Monday 26 October 2026. Wiener Stadthalle, Vienna. Round of 32.",
+  "tags": [
+    "tennis",
+    "atp",
+    "vienna",
+    "alcaraz",
+    "khachanov",
+    "erste-bank-open",
+    "round-1"
+  ],
+  "home": "Carlos Alcaraz",
+  "away": "Karen Khachanov",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "Erste Bank Open",
+  "matchday": 1,
+  "date": "2026-10-26",
+  "time": "14:00",
+  "venue": "Wiener Stadthalle",
+  "city": "Vienna",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209841/pexels-photo-209841.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "ATP 500 Vienna · Round of 32",
+  "resultSummary": "TODAY: Monday 26 October. Alcaraz opens Vienna campaign against Khachanov.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ATP Tour Vienna draw and schedule",
+      "url": "https://www.atptour.com/en/tournaments/vienna/337/overview"
+    },
+    {
+      "name": "Erste Bank Open official portal",
+      "url": "https://www.erstebank-open.com/en/"
+    }
+  ]
+}

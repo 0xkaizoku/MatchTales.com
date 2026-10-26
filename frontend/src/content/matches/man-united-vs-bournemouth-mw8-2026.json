@@ -1,0 +1,80 @@
+{
+  "slug": "man-united-vs-bournemouth-mw8-2026",
+  "headline": "Premier League MW8: Bournemouth stun Manchester United 3-0 at Old Trafford",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Bournemouth silenced Old Trafford with three unanswered goals, climbing to 13 points and leaving Manchester United languishing in mid-table.",
+  "teaser": "FINAL: Manchester United 0, Bournemouth 3. Rayan 37', Tavernier 42', Christie 90+2'. Cherries claim famous away win.",
+  "story": "AFC Bournemouth produced one of the most emphatic away performances in their history on Sunday, 25 October, cruising to a 3-0 victory over Manchester United at Old Trafford. The Cherries seized control before the interval when Rayan broke the deadlock in the 37th minute and Marcus Tavernier doubled the lead five minutes later. Ryan Christie sealed the points in stoppage time, condemning Erik ten Hag's side to their fourth league loss of the campaign (10 points) while Bournemouth vaulted up to sixth on 13 points.",
+  "stakes": "Bournemouth rise to 13 points alongside Chelsea, while Manchester United fall to tenth position on 10 points.",
+  "rivalryAngle": "Bournemouth record back-to-back dominant visits to Old Trafford in Premier League history.",
+  "funFacts": [
+    "FINAL: Manchester United 0, AFC Bournemouth 3.",
+    "Scorers: Rayan 37', Marcus Tavernier 42', Ryan Christie 90+2'.",
+    "Bournemouth climb to 13 points (4-1-3) into the upper half of the table."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Marcus Tavernier",
+      "team": "AFC Bournemouth",
+      "hook": "Scored the second goal and dominated midfield transitions throughout."
+    },
+    {
+      "name": "Rayan",
+      "team": "AFC Bournemouth",
+      "hook": "Opened the scoring in the 37th minute to stun the Old Trafford crowd."
+    },
+    {
+      "name": "Bruno Fernandes",
+      "team": "Manchester United",
+      "hook": "Created five chances but could not break down Bournemouth's defensive wall."
+    }
+  ],
+  "headToHead": "Sunday 25 October 2026. Old Trafford, Manchester. Final: Man United 0, Bournemouth 3.",
+  "tags": [
+    "soccer",
+    "premier-league",
+    "man-united",
+    "bournemouth",
+    "mw8",
+    "old-trafford"
+  ],
+  "home": "Manchester United",
+  "away": "AFC Bournemouth",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "Premier League",
+  "matchday": 8,
+  "date": "2026-10-25",
+  "time": "14:00",
+  "venue": "Old Trafford",
+  "city": "Manchester",
+  "status": "FINISHED",
+  "homeScore": 0,
+  "awayScore": 3,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/8007514/pexels-photo-8007514.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "regular",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "soccer",
+  "competition": "premier-league-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "Premier League · Matchweek 8",
+  "resultSummary": "FINAL: Manchester United 0, Bournemouth 3. Rayan 37', Tavernier 42', Christie 90+2'.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Premier League official match report",
+      "url": "https://www.premierleague.com/match/manchester-united-vs-afc-bournemouth-2026"
+    },
+    {
+      "name": "BBC Sport football coverage",
+      "url": "https://www.bbc.com/sport/football"
+    }
+  ]
+}

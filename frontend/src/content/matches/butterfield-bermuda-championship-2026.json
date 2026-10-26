@@ -49,51 +49,51 @@
   "time": "Final round",
   "venue": "Port Royal Golf Course",
   "city": "Southampton",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": "-16",
+  "awayScore": "-16 (PO)",
   "marquee": false,
-  "liveMinute": null,
+  "liveMinute": "FT",
   "image": "https://images.pexels.com/photos/1325659/pexels-photo-1325659.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": null,
+  "decidedBy": "Playoff (3rd extra hole)",
   "homePen": null,
   "awayPen": null,
   "sport": "golf",
   "competition": "pga-tour-2026",
   "format": "leaderboard",
   "season": "2026",
-  "roundLabel": "PGA Tour · Butterfield Bermuda Championship · Final Round",
-  "resultSummary": "TODAY: Sunday 25 October final round. Power and Smotherman co-lead after 54 holes; Blanchet and Hirata in hunt.",
+  "roundLabel": "PGA Tour · Butterfield Bermuda Championship · Final Result",
+  "resultSummary": "FINAL: Austin Smotherman defeats Seamus Power on the third playoff hole (par-3 16th) after 54-hole tie at 16 under par. Second PGA Tour title in a month for Smotherman.",
   "leaderboard": [
     {
-      "pos": "T1",
-      "name": "Seamus Power",
-      "score": "-14",
-      "note": "Co-leader (68 Saturday)"
-    },
-    {
-      "pos": "T1",
+      "pos": "1",
       "name": "Austin Smotherman",
+      "score": "-16",
+      "note": "Winner (Playoff par on 16th)"
+    },
+    {
+      "pos": "2",
+      "name": "Seamus Power",
+      "score": "-16",
+      "note": "Solo 2nd (Playoff bogey on 16th)"
+    },
+    {
+      "pos": "T3",
+      "name": "Taylor Moore",
       "score": "-14",
-      "note": "Co-leader (67 Saturday)"
+      "note": "Final round 66"
     },
     {
       "pos": "T3",
-      "name": "Chandler Blanchet",
-      "score": "-13",
-      "note": "1 back (-13)"
-    },
-    {
-      "pos": "T3",
-      "name": "Kensei Hirata",
-      "score": "-13",
-      "note": "1 back (-13)"
-    },
-    {
-      "pos": "5",
       "name": "Corey Conners",
-      "score": "-12",
-      "note": "2 back (-12)"
+      "score": "-14",
+      "note": "Final round 67"
+    },
+    {
+      "pos": "T3",
+      "name": "Ben Silverman",
+      "score": "-14",
+      "note": "Final round 67"
     }
   ],
   "tennisSets": [],
