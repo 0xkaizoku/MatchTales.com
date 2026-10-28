@@ -1,0 +1,89 @@
+{
+  "slug": "atp-vienna-2026-zverev-vs-landaluce",
+  "headline": "ATP Vienna Round 1: Alexander Zverev survives 13-11 tiebreak epic over Martin Landaluce",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Top seed Alexander Zverev saves match points in a dramatic 7-5, 3-6, 7-6(11) battle against Spanish teenager Martin Landaluce in Vienna.",
+  "teaser": "FINAL: Zverev def. Landaluce 7-5, 3-6, 7-6 (13-11). World No. 3 survives three-set marathon thriller lasting nearly three hours.",
+  "story": "Top seed Alexander Zverev stared down defeat before clawing his way into the second round of the Erste Bank Open on Tuesday, 27 October, outlasting 20-year-old Spanish qualifier Martin Landaluce in a breathtaking 7-5, 3-6, 7-6(11) epic at Wiener Stadthalle. In a contest that lasted two hours and 54 minutes, Landaluce pushed the German to the absolute limit with fearless baseline attacking. The final set culminated in an unforgettable 24-point tiebreak where Zverev saved two match points with booming serves before finally converting his fourth match point when Landaluce netted a running forehand. The victory sets up a Round of 16 encounter for Zverev as he pursues crucial indoor ATP Finals qualification points.",
+  "stakes": "Top seed Zverev survives opening hurdle to advance to the Round of 16 in Vienna.",
+  "rivalryAngle": "First career meeting produces an instant indoor classic in the Austrian capital.",
+  "funFacts": [
+    "Final-set tiebreak featured 24 points with Zverev saving two match points.",
+    "Zverev struck 17 aces and won 76 percent of first-serve points.",
+    "Landaluce earned a standing ovation from the Austrian crowd for his fearless performance."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Alexander Zverev",
+      "team": "ATP Tour",
+      "hook": "Top seed in Vienna fired 17 aces and held his nerve in marathon 13-11 tiebreak."
+    },
+    {
+      "name": "Martin Landaluce",
+      "team": "ATP Tour",
+      "hook": "Spanish rising star earned two match points in sensational 3-hour battle."
+    }
+  ],
+  "headToHead": "Tuesday 27 October 2026. Wiener Stadthalle, Vienna. Final: Zverev def. Landaluce 7-5, 3-6, 7-6 (13-11).",
+  "tags": [
+    "tennis",
+    "atp",
+    "vienna",
+    "zverev",
+    "landaluce",
+    "erste-bank-open",
+    "round-1"
+  ],
+  "home": "Alexander Zverev",
+  "away": "Martin Landaluce",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "Erste Bank Open",
+  "matchday": 1,
+  "date": "2026-10-27",
+  "time": "18:00",
+  "venue": "Wiener Stadthalle",
+  "city": "Vienna",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 1,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209841/pexels-photo-209841.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "regular",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "ATP 500 Vienna · Round of 32",
+  "resultSummary": "FINAL: Alexander Zverev def. Martin Landaluce 7-5, 3-6, 7-6 (13-11). Top seed saves match points in epic marathon.",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "7",
+      "p2": "5"
+    },
+    {
+      "p1": "3",
+      "p2": "6"
+    },
+    {
+      "p1": "7",
+      "p2": "6"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP Tour Vienna match center",
+      "url": "https://www.atptour.com/en/scores/current/vienna/337/results"
+    },
+    {
+      "name": "Erste Bank Open news",
+      "url": "https://www.erstebank-open.com/en/news"
+    }
+  ]
+}

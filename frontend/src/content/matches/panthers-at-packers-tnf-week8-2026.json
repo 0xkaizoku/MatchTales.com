@@ -1,0 +1,80 @@
+{
+  "slug": "panthers-at-packers-tnf-week8-2026",
+  "headline": "NFL Week 8 TNF: Packers host Panthers in Lambeau Field prime-time battle",
+  "whyCareScore": 9.2,
+  "whyCareReason": "Jordan Love and the contending Packers look to defend home turf as Bryce Young and Carolina aim for season-defining road upset.",
+  "teaser": "UPCOMING: Thursday Night Football at Lambeau Field (20:15 ET). Packers (5-2) host Panthers (3-4) under the lights.",
+  "story": "Week 8 of the 2026 NFL season kicks off under the prime-time lights on Thursday night, 29 October, as the Green Bay Packers welcome the Carolina Panthers to iconic Lambeau Field. The Packers enter at 5-2, locked in a fierce battle with the undefeated Minnesota Vikings for NFC North supremacy behind quarterback Jordan Love. Carolina, sitting at 3-4 after a crucial home victory last weekend, faces the ultimate road test against Green Bay's ferocious pass rush. With cold autumn temperatures forecast in Wisconsin, the Panthers must establish their ground attack early to relieve pressure on young quarterback Bryce Young.",
+  "stakes": "Packers aim to climb to 6-2 to pressure division leader Minnesota; Panthers need road upset to return to .500.",
+  "rivalryAngle": "NFC cross-division clash in prime time at historic Lambeau Field.",
+  "funFacts": [
+    "Green Bay has won four of their last five home games on Thursday Night Football.",
+    "Game will be broadcast nationally on Prime Video at 20:15 ET.",
+    "Packers rank top five in NFL passing offense entering Week 8."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Jordan Love",
+      "team": "Green Bay Packers",
+      "hook": "Orchestrates high-powered Green Bay passing attack averaging 272 yards per game."
+    },
+    {
+      "name": "Bryce Young",
+      "team": "Carolina Panthers",
+      "hook": "Faces hostile Lambeau crowd looking to build on multi-touchdown performance."
+    },
+    {
+      "name": "Rashan Gary",
+      "team": "Green Bay Packers",
+      "hook": "Anchor of Packers pass rush seeking disruptive night against Carolina pocket."
+    }
+  ],
+  "headToHead": "Thursday 29 October 2026. Lambeau Field, Green Bay. Kickoff 20:15 ET.",
+  "tags": [
+    "football",
+    "nfl",
+    "packers",
+    "panthers",
+    "tnf",
+    "week-8"
+  ],
+  "home": "Green Bay Packers",
+  "away": "Carolina Panthers",
+  "homeCode": "GB",
+  "awayCode": "CAR",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NFL",
+  "matchday": 8,
+  "date": "2026-10-29",
+  "time": "20:15",
+  "venue": "Lambeau Field",
+  "city": "Green Bay",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618201/pexels-photo-1618201.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "football",
+  "competition": "nfl-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "NFL Week 8 · Thursday Night Football",
+  "resultSummary": "UPCOMING: Thursday 29 October. 20:15 ET. Panthers (3-4) at Packers (5-2) on Prime Video.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NFL Week 8 Official Schedule",
+      "url": "https://www.nfl.com/schedules/2026/reg8"
+    },
+    {
+      "name": "Prime Video Thursday Night Football",
+      "url": "https://www.amazon.com/tnf"
+    }
+  ]
+}

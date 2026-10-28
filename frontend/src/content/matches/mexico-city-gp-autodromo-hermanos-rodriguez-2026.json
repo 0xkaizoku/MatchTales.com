@@ -1,0 +1,81 @@
+{
+  "slug": "mexico-city-gp-autodromo-hermanos-rodriguez-2026",
+  "headline": "Mexico City GP: Kimi Antonelli targets maiden world championship at altitude",
+  "whyCareScore": 9.9,
+  "whyCareReason": "Mercedes phenom Kimi Antonelli needs only ninth place at 2,200 meters in Mexico City to become the youngest champion in F1 history.",
+  "teaser": "UPCOMING: Autodromo Hermanos Rodriguez (Sunday, 1 November). Antonelli leads Russell by 123 points with 125 remaining in 2026 season.",
+  "story": "The Formula 1 paddock reconvenes at the rarefied air of Mexico City this weekend for Round 19 of the 2026 world championship, with Kimi Antonelli standing on the very precipice of sporting history. Fresh off his dominant pole-to-flag victory at Austin, the 20-year-old Italian sensation holds a commanding 123-point lead over Mercedes teammate George Russell. If Antonelli finishes ninth or higher on Sunday afternoon at the Autodromo Hermanos Rodriguez, he will mathematically guarantee his first Drivers' World Championship, shattering Sebastian Vettel's long-standing record as the youngest titleholder in Formula 1 history. Speaking in Mexico City on Wednesday, Antonelli also confirmed he intends to keep his trademark car number 12 next season rather than switching to number 1.",
+  "stakes": "A top-nine finish clinches the 2026 Drivers' World Championship for Antonelli regardless of other finishers.",
+  "rivalryAngle": "Mercedes intra-team championship duel concludes as Antonelli prepares for coronation in the iconic Foro Sol stadium section.",
+  "funFacts": [
+    "Autodromo Hermanos Rodriguez sits 2,285 meters above sea level with low air density.",
+    "Antonelli needs 3 points (P9) from the remaining four races to mathematically seal the title.",
+    "Antonelli confirmed he will keep car #12 in 2027 to honor his childhood hero Ayrton Senna."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kimi Antonelli",
+      "team": "Mercedes",
+      "hook": "Leads championship with 365 points and stands one clean race away from crowning glory."
+    },
+    {
+      "name": "George Russell",
+      "team": "Mercedes",
+      "hook": "Must win on Sunday and hope Antonelli scores zero points to keep mathematical title hopes alive."
+    },
+    {
+      "name": "Max Verstappen",
+      "team": "Red Bull Racing",
+      "hook": "Five-time Mexico City GP winner aiming to play spoiler at his most successful circuit."
+    }
+  ],
+  "headToHead": "Sunday 1 November 2026. Autodromo Hermanos Rodriguez, Mexico City. 71 Laps.",
+  "tags": [
+    "f1",
+    "formula-1",
+    "mexico-gp",
+    "antonelli",
+    "mercedes",
+    "world-champion",
+    "verstappen"
+  ],
+  "home": "Kimi Antonelli",
+  "away": "George Russell",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "Formula 1",
+  "matchday": 19,
+  "date": "2026-11-01",
+  "time": "14:00",
+  "venue": "Autódromo Hermanos Rodríguez",
+  "city": "Mexico City",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/2365457/pexels-photo-2365457.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "f1",
+  "competition": "f1-2026",
+  "format": "race",
+  "season": "2026",
+  "roundLabel": "Formula 1 · Mexico City Grand Prix",
+  "resultSummary": "UPCOMING: Sunday 1 November. Antonelli needs P9 to clinch maiden Formula 1 World Championship.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Formula 1 Mexico City GP Preview",
+      "url": "https://www.formula1.com/en/racing/2026/mexico.html"
+    },
+    {
+      "name": "FIA Championship Standings",
+      "url": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026"
+    }
+  ]
+}

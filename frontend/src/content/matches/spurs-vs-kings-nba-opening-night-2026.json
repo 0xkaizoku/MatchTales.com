@@ -1,0 +1,80 @@
+{
+  "slug": "spurs-vs-kings-nba-opening-night-2026",
+  "headline": "NBA Opening Night: Victor Wembanyama dominates with 29 points and 9 dunks in Spurs rout",
+  "whyCareScore": 9.6,
+  "whyCareReason": "Victor Wembanyama opens his third NBA campaign with a breathtaking 29-point display, matching his career high with nine dunks to blow out Sacramento.",
+  "teaser": "FINAL: Spurs 130, Kings 103. Wembanyama records 29 points and 10 rebounds in spectacular season-opening performance in San Antonio.",
+  "story": "The 2026-27 NBA regular season began with a thunderous statement from Victor Wembanyama on Tuesday night, 27 October, as the San Antonio Spurs routed the Sacramento Kings 130-103 at Frost Bank Center. The French sensation put on a clinic of two-way supremacy, recording 29 points, 10 rebounds, and four blocked shots in just 31 minutes of action. Wembanyama matched his career high by throwing down nine rim-rattling dunks, including a self-pass off the backboard in the third quarter that brought the 18,354 spectators to their feet. De'Aaron Fox led the Kings with 24 points, but Sacramento had no answer for San Antonio's 58 percent shooting from the field.",
+  "stakes": "Spurs open the season 1-0 with a dominant 27-point victory and statement performance from Wembanyama.",
+  "rivalryAngle": "Texas vs California matchup opens the new Western Conference campaign in emphatic style.",
+  "funFacts": [
+    "Wembanyama matched his single-game career high with nine dunks in the contest.",
+    "Spurs outscored Sacramento 64-42 in the paint.",
+    "Spurs bench chipped in 46 points led by Stephon Castle's 18 points."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Victor Wembanyama",
+      "team": "San Antonio Spurs",
+      "hook": "Dominated with 29 points, 10 rebounds, 4 blocks, and 9 highlight-reel dunks."
+    },
+    {
+      "name": "De'Aaron Fox",
+      "team": "Sacramento Kings",
+      "hook": "Paced Sacramento offense with 24 points and 6 assists in opening-night loss."
+    },
+    {
+      "name": "Stephon Castle",
+      "team": "San Antonio Spurs",
+      "hook": "Second-year guard dished 8 assists and scored 18 points in starting backcourt."
+    }
+  ],
+  "headToHead": "Tuesday 27 October 2026. Frost Bank Center, San Antonio. Final: SAS 130, SAC 103.",
+  "tags": [
+    "basketball",
+    "nba",
+    "spurs",
+    "kings",
+    "wembanyama",
+    "opening-night"
+  ],
+  "home": "San Antonio Spurs",
+  "away": "Sacramento Kings",
+  "homeCode": "SAS",
+  "awayCode": "SAC",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NBA",
+  "matchday": 1,
+  "date": "2026-10-27",
+  "time": "20:00",
+  "venue": "Frost Bank Center",
+  "city": "San Antonio",
+  "status": "FINISHED",
+  "homeScore": 130,
+  "awayScore": 103,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1080882/pexels-photo-1080882.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "regular",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "basketball",
+  "competition": "nba-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "NBA Regular Season · Opening Night",
+  "resultSummary": "FINAL: Spurs 130, Kings 103. Wembanyama 29 pts, 10 reb, 4 blk, 9 dunks in opening-night rout.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NBA Official Game Center",
+      "url": "https://www.nba.com/game/sac-vs-sas-0022600003"
+    },
+    {
+      "name": "ESPN NBA Game Recap",
+      "url": "https://www.espn.com/nba/recap?gameId=401671910"
+    }
+  ]
+}

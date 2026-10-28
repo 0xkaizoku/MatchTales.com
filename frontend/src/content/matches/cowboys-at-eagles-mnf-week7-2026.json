@@ -1,35 +1,35 @@
 {
   "slug": "cowboys-at-eagles-mnf-week7-2026",
-  "headline": "NFL Week 7 MNF: Cowboys and Eagles renew rivalry at Lincoln Financial Field",
-  "whyCareScore": 9.4,
-  "whyCareReason": "NFC East battle between 2-4 rivals under the lights in Philadelphia, with Dallas seeking momentum and the Eagles rallying around Tanner McKee.",
-  "teaser": "TONIGHT: Cowboys (2-4) at Eagles (2-4) on Monday Night Football (20:15 ET). Prescott faces McKee in prime time.",
-  "story": "Week 7 of the NFL regular season concludes on Monday night, 26 October, with a fierce NFC East clash as the Dallas Cowboys travel to face the Philadelphia Eagles at Lincoln Financial Field. Both franchises enter the contest tied at 2-4, desperate for a division victory to keep their playoff aspirations alive. Dak Prescott and CeeDee Lamb pace a Cowboys passing attack seeking consistency, while Philadelphia leans on Tanner McKee under center and the backfield production of Saquon Barkley.",
-  "stakes": "The winner moves to 3-4 and stays in the hunt in the NFC East, while the loser falls to 2-5 and faces a steep uphill climb.",
-  "rivalryAngle": "One of the NFL's most hostile divisional rivalries takes center stage on national television.",
+  "headline": "NFL Week 7 MNF: Cowboys overpower Eagles 38-21 in Philadelphia",
+  "whyCareScore": 9.5,
+  "whyCareReason": "Dak Prescott throws three touchdown passes to conquer Lincoln Financial Field and lift Dallas to 3-4 as the Eagles slide to 2-5.",
+  "teaser": "FINAL: Cowboys 38, Eagles 21. Prescott throws 3 TDs and Lamb posts 116 yards in dominant road victory over rival Philadelphia.",
+  "story": "The Dallas Cowboys delivered an emphatic statement on Monday Night Football, dismantling the Philadelphia Eagles 38-21 before a stunned crowd at Lincoln Financial Field. With Philadelphia missing starting quarterback Jalen Hurts due to an ankle injury, backup Tanner McKee battled bravely but could not match the precision of Dak Prescott. Prescott completed 21 of 27 passes for 288 yards and three touchdowns, connecting with CeeDee Lamb on an electric 44-yard score that put the contest out of reach in the fourth quarter. The victory improves Dallas to 3-4 and firmly back in the NFC wild-card picture, while the Eagles drop to 2-5 with mounting concerns across their defense.",
+  "stakes": "Dallas climbs to 3-4 to keep NFC postseason hopes alive, while Philadelphia falls to 2-5 with their third consecutive home defeat.",
+  "rivalryAngle": "Dallas records their highest-scoring performance at Lincoln Financial Field since 2015 to claim bragging rights in this storied rivalry.",
   "funFacts": [
-    "Both teams enter with identical 2-4 records in the NFC East.",
-    "Kickoff set for 20:15 ET on ESPN / ABC at Lincoln Financial Field.",
-    "Vikings (6-0) stand as the NFL's lone undefeated team after Sunday losses by Chiefs and 49ers."
+    "Prescott completed 77.8 percent of his passes with a 145.2 passer rating.",
+    "CeeDee Lamb hauled in seven receptions for 116 yards and one touchdown.",
+    "Minnesota Vikings (6-0) remain the NFL's only undefeated team after Week 7."
   ],
   "keyPlayers": [
     {
       "name": "Dak Prescott",
       "team": "Dallas Cowboys",
-      "hook": "Looks to exploit Philadelphia's secondary in a crucial road atmosphere."
+      "hook": "Threw for 288 yards and 3 touchdowns with zero turnovers in hostile territory."
+    },
+    {
+      "name": "CeeDee Lamb",
+      "team": "Dallas Cowboys",
+      "hook": "Torched Philadelphia secondary for 116 receiving yards and a dagger touchdown."
     },
     {
       "name": "Tanner McKee",
       "team": "Philadelphia Eagles",
-      "hook": "Steps into the national spotlight for Philadelphia in prime time."
-    },
-    {
-      "name": "Saquon Barkley",
-      "team": "Philadelphia Eagles",
-      "hook": "Key engine for the Eagles' ground game against Dallas front seven."
+      "hook": "Passed for 269 yards and 2 touchdowns but was intercepted twice in second half."
     }
   ],
-  "headToHead": "Monday 26 October 2026. Lincoln Financial Field, Philadelphia.",
+  "headToHead": "Monday 26 October 2026. Lincoln Financial Field, Philadelphia. Final: DAL 38, PHI 21.",
   "tags": [
     "football",
     "nfl",
@@ -50,13 +50,13 @@
   "time": "20:15",
   "venue": "Lincoln Financial Field",
   "city": "Philadelphia",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 21,
+  "awayScore": 38,
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/1618201/pexels-photo-1618201.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": null,
+  "decidedBy": "regular",
   "homePen": null,
   "awayPen": null,
   "sport": "football",
@@ -64,17 +64,17 @@
   "format": "team-match",
   "season": "2026",
   "roundLabel": "NFL Week 7 · Monday Night Football",
-  "resultSummary": "TONIGHT: 20:15 ET. Cowboys (2-4) at Eagles (2-4). NFC East rivalry on ESPN / ABC.",
+  "resultSummary": "FINAL: Cowboys 38, Eagles 21. Prescott 288 yds, 3 TD. Dallas improves to 3-4, Eagles slide to 2-5.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "NFL Week 7 schedule",
-      "url": "https://www.nfl.com/schedules/2026/reg7"
+      "name": "NFL Week 7 Game Center",
+      "url": "https://www.nfl.com/games/cowboys-at-eagles-2026-reg-7"
     },
     {
-      "name": "ESPN Monday Night Football preview",
-      "url": "https://www.espn.com/nfl"
+      "name": "ESPN Monday Night Football recap",
+      "url": "https://www.espn.com/nfl/recap?gameId=401671800"
     }
   ]
 }

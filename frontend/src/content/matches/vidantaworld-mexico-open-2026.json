@@ -1,0 +1,80 @@
+{
+  "slug": "vidantaworld-mexico-open-2026",
+  "headline": "VidantaWorld Mexico Open: FedExCup Fall drama heads to VidantaVallarta",
+  "whyCareScore": 8.9,
+  "whyCareReason": "Austin Smotherman carries Bermuda playoff momentum to Mexico as tour pros battle for pivotal 2027 PGA Tour cards.",
+  "teaser": "UPCOMING: VidantaVallarta in Vallarta, Mexico (29 October - 1 November). $6M purse on Greg Norman layout.",
+  "story": "The PGA Tour FedExCup Fall schedule moves south of the border this week for the 2026 VidantaWorld Mexico Open, held at the stunning Greg Norman Signature Course at VidantaVallarta. Arriving with peak confidence is Austin Smotherman, fresh off his thrilling victory on the third playoff hole over Seamus Power at the Butterfield Bermuda Championship. With Smotherman having captured two PGA Tour titles in October alone, the focus shifts to the intense bubble battle, where players ranked 100th through 125th fight for their full tour exemptions for 2027. Lush paspalum fairways, coastal winds, and risk-reward par fives promise high drama under the Mexican sun.",
+  "stakes": "$6,000,000 purse and 500 FedExCup points on the line, alongside critical top-125 card security for the 2027 season.",
+  "rivalryAngle": "Fall season contenders clash on coastal Mexican layout seeking career-altering tour exemptions.",
+  "funFacts": [
+    "VidantaVallarta course measures 7,456 yards and features Greg Norman signature bunkering.",
+    "Smotherman seeks back-to-back victories after his dramatic playoff triumph at Port Royal.",
+    "Event purse is $6,000,000 with the winner receiving $1,080,000."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Austin Smotherman",
+      "team": "PGA Tour",
+      "hook": "Enters on hot streak after winning two PGA Tour events in the last thirty days."
+    },
+    {
+      "name": "Seamus Power",
+      "team": "PGA Tour",
+      "hook": "Bids for redemption following narrow third-playoff-hole loss in Bermuda."
+    },
+    {
+      "name": "Corey Conners",
+      "team": "PGA Tour",
+      "hook": "Elite ball-striker looking to capitalize on favorable tropical course setup."
+    }
+  ],
+  "headToHead": "29 October - 1 November 2026. VidantaVallarta, Vallarta, Mexico. 72 holes stroke play.",
+  "tags": [
+    "golf",
+    "pga-tour",
+    "mexico-open",
+    "vidanta",
+    "smotherman",
+    "fedexcup-fall"
+  ],
+  "home": "Austin Smotherman",
+  "away": "Field",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "PGA Tour",
+  "matchday": 1,
+  "date": "2026-10-29",
+  "time": "08:00",
+  "venue": "VidantaVallarta",
+  "city": "Vallarta",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1325656/pexels-photo-1325656.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "golf",
+  "competition": "pga-tour-2026",
+  "format": "leaderboard",
+  "season": "2026",
+  "roundLabel": "PGA Tour · VidantaWorld Mexico Open",
+  "resultSummary": "UPCOMING: 29 Oct - 1 Nov. VidantaVallarta. Smotherman headlines $6M FedExCup Fall event.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "PGA Tour Mexico Open tournament overview",
+      "url": "https://www.pgatour.com/tournaments/2026/vidantaworld-mexico-open/R2026540"
+    },
+    {
+      "name": "FedExCup Fall Standings",
+      "url": "https://www.pgatour.com/fedexcup"
+    }
+  ]
+}

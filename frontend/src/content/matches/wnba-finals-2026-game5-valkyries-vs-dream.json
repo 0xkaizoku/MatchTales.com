@@ -1,35 +1,35 @@
 {
   "slug": "wnba-finals-2026-game5-valkyries-vs-dream",
-  "headline": "WNBA Finals Game 5: Valkyries and Dream clash in winner-take-all decider",
+  "headline": "WNBA Finals Game 5: Valkyries smother Dream 64-55 to seize 3-2 series lead",
   "whyCareScore": 9.9,
-  "whyCareReason": "The championship is on the line at Chase Center as the expansion Valkyries aim to complete a fairytale inaugural season against the hungry Dream.",
-  "teaser": "TONIGHT: Game 5 at Chase Center in San Francisco (20:00 ET). Series tied 2-2. Winner hoists the WNBA trophy.",
-  "story": "The 2026 WNBA Finals reach a dramatic conclusion on Monday night, 26 October, as the Golden State Valkyries host the Atlanta Dream in a decisive Game 5 at Chase Center in San Francisco. After fighting off elimination with a gritty 67-62 road victory in Game 4 behind Gabby Williams and Kiah Stokes, the expansion Valkyries have a chance to secure the greatest inaugural season in modern sports history in front of their home fans. The Dream, led by All-Stars Rhyne Howard and Angel Reese, will look to regroup and capture their franchise's first-ever WNBA championship.",
-  "stakes": "Winner takes the 2026 WNBA Championship trophy in front of a sellout Chase Center crowd.",
-  "rivalryAngle": "First-year expansion team Valkyries host veteran contender Atlanta Dream in an electrifying final showdown.",
+  "whyCareReason": "Expansion Golden State moves within one win of historic inaugural championship behind suffocating fourth-quarter lockdown.",
+  "teaser": "FINAL: Valkyries 64, Dream 55. Golden State holds Atlanta to 9 fourth-quarter points at Chase Center to grab a 3-2 Finals advantage.",
+  "story": "The Golden State Valkyries took a massive step toward the most improbable championship in basketball history on Monday night, suffocating the Atlanta Dream 64-55 in a bruising Game 5 at Chase Center. Before 18,064 roaring fans in San Francisco, the expansion franchise leaned on relentless defensive discipline, holding Atlanta to just 9 points in the final ten minutes and denying Angel Reese easy touches under the glass. Gabby Williams provided the offensive spark with 16 points and four steals, while Kayla Thornton sank two corner three-pointers late in the shot clock to break open a 50-50 deadlock. Golden State now heads back to Atlanta for Game 6 with a 3-2 series lead and championship destiny in their hands.",
+  "stakes": "The expansion Valkyries lead 3-2 and can win the WNBA title on Thursday in Atlanta; Dream face elimination at home in Game 6.",
+  "rivalryAngle": "First-year expansion team pushes veteran Atlanta contenders to the brink of elimination in grueling defensive showcase.",
   "funFacts": [
-    "Game 5 is winner-take-all with the series tied 2-2.",
-    "Previous scores: Game 1 Valkyries 68-64; Game 2 Dream 79-65; Game 3 Dream 97-71; Game 4 Valkyries 67-62.",
-    "Tip-off scheduled for 20:00 ET / 17:00 PT at Chase Center in San Francisco."
+    "Valkyries held Atlanta to 31.8 percent field-goal shooting, lowest in these Finals.",
+    "Series scores: Game 1 Valkyries 68-64; Game 2 Dream 79-65; Game 3 Dream 97-71; Game 4 Valkyries 67-62; Game 5 Valkyries 64-55.",
+    "Game 6 is scheduled for Thursday, 29 October, at Gateway Center Arena in College Park."
   ],
   "keyPlayers": [
     {
       "name": "Gabby Williams",
       "team": "Golden State Valkyries",
-      "hook": "Scored team-high 17 points in Game 4 to force tonight's championship decider."
+      "hook": "Scored game-high 16 points and grabbed 8 rebounds with disruptive perimeter defense."
+    },
+    {
+      "name": "Kayla Thornton",
+      "team": "Golden State Valkyries",
+      "hook": "Drilled back-to-back fourth-quarter corner triples to shatter 50-50 tie."
     },
     {
       "name": "Angel Reese",
       "team": "Atlanta Dream",
-      "hook": "Seeks bounce-back performance after posting three straight double-doubles in Games 1 through 3."
-    },
-    {
-      "name": "Rhyne Howard",
-      "team": "Atlanta Dream",
-      "hook": "Leading scorer for the Dream throughout the playoff postseason."
+      "hook": "Pulled down 14 rebounds but was limited to 8 points on 3-of-12 shooting."
     }
   ],
-  "headToHead": "Monday 26 October 2026. Game 5: Dream at Valkyries. Series tied 2-2.",
+  "headToHead": "Monday 26 October 2026. Chase Center, San Francisco. Final: GSV 64, ATL 55. Series 3-2 GSV.",
   "tags": [
     "basketball",
     "wnba",
@@ -50,31 +50,31 @@
   "time": "20:00",
   "venue": "Chase Center",
   "city": "San Francisco",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 64,
+  "awayScore": 55,
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/976874/pexels-photo-976874.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": null,
+  "decidedBy": "regular",
   "homePen": null,
   "awayPen": null,
   "sport": "basketball",
   "competition": "wnba-2026",
   "format": "team-match",
   "season": "2026",
-  "roundLabel": "WNBA Finals · Game 5 · Decider",
-  "resultSummary": "TONIGHT: 20:00 ET / 17:00 PT. Game 5 at Chase Center. Series tied 2-2.",
+  "roundLabel": "WNBA Finals · Game 5",
+  "resultSummary": "FINAL: Valkyries 64, Dream 55. Golden State takes 3-2 series lead behind 9-point fourth-quarter defensive clamp.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "WNBA Finals Game 5 schedule",
-      "url": "https://www.wnba.com/schedule"
+      "name": "WNBA Finals Game 5 Box Score",
+      "url": "https://www.wnba.com/game/1042600305/ATL-at-GSV"
     },
     {
-      "name": "NBC Sports WNBA coverage",
-      "url": "https://www.nbcsports.com/wnba"
+      "name": "AP WNBA Game 5 report",
+      "url": "https://apnews.com/hub/wnba"
     }
   ]
 }

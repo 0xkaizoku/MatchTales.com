@@ -1,0 +1,80 @@
+{
+  "slug": "fleetwood-town-vs-arsenal-carabao-cup-2026",
+  "headline": "Carabao Cup Shock: League Two Fleetwood Town knock out Arsenal on penalties",
+  "whyCareScore": 9.8,
+  "whyCareReason": "Fourth-tier Fleetwood Town achieve one of football's greatest modern upsets, holding Premier League co-leaders Arsenal 1-1 and winning 5-3 on penalties.",
+  "teaser": "FINAL (PEN 5-3): Fleetwood Town 1, Arsenal 1. League Two minnows stun Mikel Arteta's Gunners in sensational shootout victory.",
+  "story": "In one of the most staggering upsets in the history of English domestic cup competitions, fourth-tier Fleetwood Town eliminated Premier League co-leaders Arsenal 5-3 on penalties on Tuesday night, 27 October, following a pulsating 1-1 draw at Highbury Stadium. Cheered on by a delirious home crowd of 5,124, Fleetwood stunned the visitors when Aaron Loupalo-Bi headed home from a corner in the 41st minute. Arsenal equalized through Viktor Gyökeres in the 76th minute, but when teenage substitute Max Dowman was sent off for a reckless challenge in the 84th, the momentum swung back to the hosts. In the decisive penalty shootout, Fleetwood goalkeeper David Harrington denied Bukayo Saka before Ryan Broom buried the winning spot-kick to send Fleetwood into the Carabao Cup quarter-finals.",
+  "stakes": "Fourth-division Fleetwood Town advance to the Carabao Cup quarter-finals; title-chasing Arsenal suffer embarrassing early exit.",
+  "rivalryAngle": "David vs Goliath clash on the Lancashire coast delivers an unforgettable chapter in domestic cup lore.",
+  "funFacts": [
+    "Fleetwood Town sit in League Two, 78 places below Arsenal in the English football pyramid.",
+    "Harrington saved Bukayo Saka's second-round penalty with a diving fingertip stop.",
+    "Fleetwood reach the Carabao Cup quarter-finals for the first time in club history."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Aaron Loupalo-Bi",
+      "team": "Fleetwood Town",
+      "hook": "Scored first-half opening header to ignite dream cup run against Gunners."
+    },
+    {
+      "name": "David Harrington",
+      "team": "Fleetwood Town",
+      "hook": "Made eight saves in regulation and stopped Saka's penalty in shootout."
+    },
+    {
+      "name": "Viktor Gyökeres",
+      "team": "Arsenal",
+      "hook": "Came off the bench to score Arsenal's equalizer before shootout heartbreak."
+    }
+  ],
+  "headToHead": "Tuesday 27 October 2026. Highbury Stadium, Fleetwood. Final: FLE 1-1 ARS (5-3 pens).",
+  "tags": [
+    "soccer",
+    "carabao-cup",
+    "fleetwood",
+    "arsenal",
+    "fourth-round",
+    "upset"
+  ],
+  "home": "Fleetwood Town",
+  "away": "Arsenal",
+  "homeCode": "ENG",
+  "awayCode": "ENG",
+  "homeFlag": "gb-eng",
+  "awayFlag": "gb-eng",
+  "group": "Carabao Cup",
+  "matchday": 4,
+  "date": "2026-10-27",
+  "time": "19:45",
+  "venue": "Highbury Stadium",
+  "city": "Fleetwood",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 1,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "penalties",
+  "homePen": 5,
+  "awayPen": 3,
+  "sport": "soccer",
+  "competition": "carabao-cup-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "Carabao Cup · Fourth Round",
+  "resultSummary": "FINAL (5-3 PENS): Fleetwood Town 1, Arsenal 1. League Two underdogs eliminate Arsenal in monumental cup shock.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "EFL Carabao Cup official match report",
+      "url": "https://www.efl.com/competitions/carabao-cup/"
+    },
+    {
+      "name": "BBC Sport Carabao Cup results",
+      "url": "https://www.bbc.com/sport/football/league-cup"
+    }
+  ]
+}

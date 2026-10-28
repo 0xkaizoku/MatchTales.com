@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-26",
+  "asOf": "2026-10-28",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -716,6 +716,13 @@
       "home": "Seattle Seahawks",
       "away": "Kansas City Chiefs",
       "note": "FINAL: Seahawks 20, Chiefs 3. NBC Sunday Night Football. Seattle defense throttles Mahomes; Chiefs 5-1, Seahawks 4-3."
+    },
+    {
+      "date": "2026-10-26",
+      "time": "8:15 p.m. ET",
+      "home": "Philadelphia Eagles",
+      "away": "Dallas Cowboys",
+      "note": "FINAL: Cowboys 38, Eagles 21. ESPN. Prescott 21-27, 288 yards, 3 TD. Lamb 116 rec yds, 1 TD. McKee 269 yards, 2 TD, 2 INT. Cowboys 3-4, Eagles 2-5."
     }
   ],
   "usOpenQF": [
@@ -742,6 +749,18 @@
       "p1": "Carlos Alcaraz",
       "p2": "Ben Shelton",
       "status": "Shelton 6-7 (5), 6-1, 6-3, 1-6, 7-6 (10-7)"
+    },
+    {
+      "draw": "Vienna R1",
+      "p1": "Carlos Alcaraz",
+      "p2": "Karen Khachanov",
+      "status": "Alcaraz 6-4, 7-6 (5)"
+    },
+    {
+      "draw": "Vienna R1",
+      "p1": "Alexander Zverev",
+      "p2": "Martin Landaluce",
+      "status": "Zverev 7-5, 3-6, 7-6 (13-11)"
     }
   ]
 }
