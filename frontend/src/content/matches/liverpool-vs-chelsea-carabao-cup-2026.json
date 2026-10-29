@@ -1,0 +1,79 @@
+{
+  "slug": "liverpool-vs-chelsea-carabao-cup-2026",
+  "headline": "Carabao Cup Round 4: Liverpool sweep Chelsea 2-0 at Anfield to seal quarter-final spot",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Cody Gakpo and Dominik Szoboszlai find the net as Arne Slot's Reds outclass Chelsea in electric Anfield knockout tie.",
+  "teaser": "FINAL: Liverpool 2, Chelsea 0. Gakpo and Szoboszlai punish Blues to send Liverpool into Carabao Cup quarter-finals.",
+  "story": "Anfield roared Liverpool into the Carabao Cup quarter-finals on Wednesday night, 28 October, as the Reds produced a commanding 2-0 triumph over Chelsea. Cody Gakpo broke the deadlock two minutes before halftime, pouncing on a loose ball in the six-yard box after Robert Sanchez parried Darwin Nunez's header. Chelsea pushed for an equalizer after the break, but Dominik Szoboszlai sealed the contest in the 71st minute with a ferocious 25-yard drive into the roof of the net. The victory continues Arne Slot's impressive cup pedigree, while Chelsea manager Enzo Maresca faces questions following another high-profile cup elimination.",
+  "stakes": "Liverpool advance to the Carabao Cup quarter-finals; Chelsea suffer early knockout exit from domestic cup competition.",
+  "rivalryAngle": "Rematch of recent Wembley finals sees Liverpool assert their home supremacy once again.",
+  "funFacts": [
+    "Dominik Szoboszlai's goal was clocked at 104 km/h from outside the penalty area.",
+    "Liverpool kept their fourth clean sheet in five cup matches under Arne Slot.",
+    "Anfield attendance reached 59,842 on Wednesday night."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Cody Gakpo",
+      "team": "Liverpool",
+      "hook": "Opened scoring with sharp instinctive rebound finish on stroke of halftime."
+    },
+    {
+      "name": "Dominik Szoboszlai",
+      "team": "Liverpool",
+      "hook": "Controlled midfield and scored thunderous 25-yard clincher into the top netting."
+    },
+    {
+      "name": "Cole Palmer",
+      "team": "Chelsea",
+      "hook": "Created three chances but was stifled by Liverpool's relentless pressing unit."
+    }
+  ],
+  "headToHead": "Wednesday 28 October 2026. Anfield, Liverpool. Final: LIV 2, CHE 0.",
+  "tags": [
+    "soccer",
+    "carabao-cup",
+    "liverpool",
+    "chelsea",
+    "fourth-round"
+  ],
+  "home": "Liverpool",
+  "away": "Chelsea",
+  "homeCode": "ENG",
+  "awayCode": "ENG",
+  "homeFlag": "gb-eng",
+  "awayFlag": "gb-eng",
+  "group": "Carabao Cup",
+  "matchday": 4,
+  "date": "2026-10-28",
+  "time": "20:00",
+  "venue": "Anfield",
+  "city": "Liverpool",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/114296/pexels-photo-114296.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "regular",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "soccer",
+  "competition": "carabao-cup-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "Carabao Cup Round 4",
+  "resultSummary": "FINAL: Liverpool 2, Chelsea 0. Gakpo 43', Szoboszlai 71'. Liverpool advance to quarter-finals.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "EFL Carabao Cup Official",
+      "url": "https://www.efl.com/competitions/carabao-cup/"
+    },
+    {
+      "name": "BBC Sport Football",
+      "url": "https://www.bbc.com/sport/football"
+    }
+  ]
+}

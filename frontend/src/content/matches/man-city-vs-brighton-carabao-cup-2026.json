@@ -1,0 +1,79 @@
+{
+  "slug": "man-city-vs-brighton-carabao-cup-2026",
+  "headline": "Carabao Cup Round 4: Man City edge Brighton 2-1 to reach quarter-finals",
+  "whyCareScore": 9.1,
+  "whyCareReason": "Erling Haaland and Phil Foden strike at the Etihad as Pep Guardiola's side fend off Brighton's late fightback to advance.",
+  "teaser": "FINAL: Man City 2, Brighton 1. Haaland and Foden fire City into the last eight despite Mitoma's second-half response.",
+  "story": "Manchester City booked their place in the Carabao Cup quarter-finals on Wednesday night, 28 October, securing a hard-fought 2-1 victory over Brighton & Hove Albion at the Etihad Stadium. Erling Haaland opened the scoring in the 34th minute with a powerful near-post finish following Kevin De Bruyne's inch-perfect pass. Phil Foden doubled the advantage midway through the second half, curling an exquisite effort into the top corner. Brighton refused to surrender, pulling a goal back in the 79th minute through Kaoru Mitoma's mazy run and strike. However, City's backline held firm through five minutes of added time to ensure safe passage alongside Liverpool and Fleetwood Town into Thursday's quarter-final draw.",
+  "stakes": "Man City advance to the Carabao Cup quarter-finals, keeping their pursuit of domestic silverware alive; Brighton bow out after spirited fourth-round battle.",
+  "rivalryAngle": "Two of the Premier League's top-three sides clash in knockout competition with City continuing their recent cup dominance over the Seagulls.",
+  "funFacts": [
+    "Haaland scored his 16th goal of the campaign across all competitions.",
+    "Man City have reached the League Cup quarter-finals in seven of the last ten seasons.",
+    "City completed 582 passes with an 89 percent passing accuracy."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Erling Haaland",
+      "team": "Manchester City",
+      "hook": "Broke the deadlock with clinical first-half finish from De Bruyne assist."
+    },
+    {
+      "name": "Phil Foden",
+      "team": "Manchester City",
+      "hook": "Scored sensational curled second goal from edge of box into the top corner."
+    },
+    {
+      "name": "Kaoru Mitoma",
+      "team": "Brighton & Hove Albion",
+      "hook": "Threatened constantly down the left flank and netted late lifeline for visitors."
+    }
+  ],
+  "headToHead": "Wednesday 28 October 2026. Etihad Stadium, Manchester. Final: MCI 2, BHA 1.",
+  "tags": [
+    "soccer",
+    "carabao-cup",
+    "man-city",
+    "brighton",
+    "fourth-round"
+  ],
+  "home": "Manchester City",
+  "away": "Brighton & Hove Albion",
+  "homeCode": "ENG",
+  "awayCode": "ENG",
+  "homeFlag": "gb-eng",
+  "awayFlag": "gb-eng",
+  "group": "Carabao Cup",
+  "matchday": 4,
+  "date": "2026-10-28",
+  "time": "19:45",
+  "venue": "Etihad Stadium",
+  "city": "Manchester",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 1,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "regular",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "soccer",
+  "competition": "carabao-cup-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "Carabao Cup Round 4",
+  "resultSummary": "FINAL: Man City 2, Brighton 1. Haaland 34', Foden 68' / Mitoma 79'. City advance to quarter-finals.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "EFL Carabao Cup Official",
+      "url": "https://www.efl.com/competitions/carabao-cup/"
+    },
+    {
+      "name": "BBC Sport League Cup",
+      "url": "https://www.bbc.com/sport/football/league-cup"
+    }
+  ]
+}

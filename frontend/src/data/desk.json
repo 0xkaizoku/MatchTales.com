@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-28",
+  "asOf": "2026-10-29",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -723,6 +723,13 @@
       "home": "Philadelphia Eagles",
       "away": "Dallas Cowboys",
       "note": "FINAL: Cowboys 38, Eagles 21. ESPN. Prescott 21-27, 288 yards, 3 TD. Lamb 116 rec yds, 1 TD. McKee 269 yards, 2 TD, 2 INT. Cowboys 3-4, Eagles 2-5."
+    },
+    {
+      "date": "2026-10-29",
+      "time": "8:15 p.m. ET",
+      "home": "Green Bay Packers",
+      "away": "Carolina Panthers",
+      "note": "TONIGHT: Prime Video. Lambeau Field. Packers (5-2, Love 14 TD) host Panthers (3-4, Young) in Week 8 Thursday Night Football kickoff."
     }
   ],
   "usOpenQF": [
@@ -751,16 +758,16 @@
       "status": "Shelton 6-7 (5), 6-1, 6-3, 1-6, 7-6 (10-7)"
     },
     {
-      "draw": "Vienna R1",
+      "draw": "Vienna R16",
       "p1": "Carlos Alcaraz",
-      "p2": "Karen Khachanov",
-      "status": "Alcaraz 6-4, 7-6 (5)"
+      "p2": "Matteo Berrettini",
+      "status": "Alcaraz 6-3, 6-4"
     },
     {
-      "draw": "Vienna R1",
+      "draw": "Vienna R16",
       "p1": "Alexander Zverev",
-      "p2": "Martin Landaluce",
-      "status": "Zverev 7-5, 3-6, 7-6 (13-11)"
+      "p2": "Marcos Giron",
+      "status": "Zverev 6-2, 7-5"
     }
   ]
 }

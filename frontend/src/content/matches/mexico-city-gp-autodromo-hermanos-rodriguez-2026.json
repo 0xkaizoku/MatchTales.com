@@ -2,14 +2,14 @@
   "slug": "mexico-city-gp-autodromo-hermanos-rodriguez-2026",
   "headline": "Mexico City GP: Kimi Antonelli targets maiden world championship at altitude",
   "whyCareScore": 9.9,
-  "whyCareReason": "Mercedes phenom Kimi Antonelli needs only ninth place at 2,200 meters in Mexico City to become the youngest champion in F1 history.",
-  "teaser": "UPCOMING: Autodromo Hermanos Rodriguez (Sunday, 1 November). Antonelli leads Russell by 123 points with 125 remaining in 2026 season.",
-  "story": "The Formula 1 paddock reconvenes at the rarefied air of Mexico City this weekend for Round 19 of the 2026 world championship, with Kimi Antonelli standing on the very precipice of sporting history. Fresh off his dominant pole-to-flag victory at Austin, the 20-year-old Italian sensation holds a commanding 123-point lead over Mercedes teammate George Russell. If Antonelli finishes ninth or higher on Sunday afternoon at the Autodromo Hermanos Rodriguez, he will mathematically guarantee his first Drivers' World Championship, shattering Sebastian Vettel's long-standing record as the youngest titleholder in Formula 1 history. Speaking in Mexico City on Wednesday, Antonelli also confirmed he intends to keep his trademark car number 12 next season rather than switching to number 1.",
+  "whyCareReason": "Mercedes phenom Kimi Antonelli needs only ninth place at 2,285 meters in Mexico City to become the youngest champion in F1 history.",
+  "teaser": "PRESS DAY: Autodromo Hermanos Rodriguez. Antonelli (365 pts) confirms car #12 for 2027 as Mercedes prepares for 2,285m thin-air challenge.",
+  "story": "The Formula 1 paddock reconvened under bright Mexican skies on Thursday, 29 October, for official media day at Autodromo Hermanos Rodriguez, with Kimi Antonelli commanding center stage. The 20-year-old Mercedes prodigy holds a 123-point lead over teammate George Russell with only 125 points left to play for in 2026. A finish of ninth or better in Sunday's Grand Prix will mathematically guarantee Antonelli the World Drivers' Championship, eclipsing Sebastian Vettel as the youngest titleholder in the sport's history. Facing global media, Antonelli put an end to speculation by confirming he will retain his permanent car number 12 in 2027 rather than adopting number 1. Meanwhile, Mercedes engineers finalized cooling packages to counter the rarefied air at 2,285 meters altitude.",
   "stakes": "A top-nine finish clinches the 2026 Drivers' World Championship for Antonelli regardless of other finishers.",
-  "rivalryAngle": "Mercedes intra-team championship duel concludes as Antonelli prepares for coronation in the iconic Foro Sol stadium section.",
+  "rivalryAngle": "Mercedes intra-team championship duel reaches culmination as Antonelli prepares for potential coronation in the iconic Foro Sol stadium section.",
   "funFacts": [
-    "Autodromo Hermanos Rodriguez sits 2,285 meters above sea level with low air density.",
-    "Antonelli needs 3 points (P9) from the remaining four races to mathematically seal the title.",
+    "Autodromo Hermanos Rodriguez sits 2,285 meters above sea level with 22 percent lower air density.",
+    "Antonelli needs just two points (P9) to mathematically seal the title on Sunday.",
     "Antonelli confirmed he will keep car #12 in 2027 to honor his childhood hero Ayrton Senna."
   ],
   "keyPlayers": [
@@ -64,18 +64,18 @@
   "competition": "f1-2026",
   "format": "race",
   "season": "2026",
-  "roundLabel": "Formula 1 · Mexico City Grand Prix",
-  "resultSummary": "UPCOMING: Sunday 1 November. Antonelli needs P9 to clinch maiden Formula 1 World Championship.",
+  "roundLabel": "Mexico City Grand Prix",
+  "resultSummary": "MEDIA DAY: Antonelli (365 pts) confirms car #12 for 2027; needs P9 on Sunday to clinch 2026 World Championship.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "Formula 1 Mexico City GP Preview",
-      "url": "https://www.formula1.com/en/racing/2026/mexico.html"
+      "name": "Formula 1 Mexico City GP Official",
+      "url": "https://www.formula1.com/en/racing/2026/Mexico.html"
     },
     {
-      "name": "FIA Championship Standings",
-      "url": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026"
+      "name": "FIA Official Press Conferences",
+      "url": "https://www.fia.com"
     }
   ]
 }

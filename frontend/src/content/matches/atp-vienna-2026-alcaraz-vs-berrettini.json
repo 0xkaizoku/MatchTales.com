@@ -1,0 +1,85 @@
+{
+  "slug": "atp-vienna-2026-alcaraz-vs-berrettini",
+  "headline": "ATP Vienna Round of 16: Carlos Alcaraz sweeps Matteo Berrettini to reach quarter-finals",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Carlos Alcaraz serves with surgical precision to dismantle Matteo Berrettini 6-3, 6-4 and march into the Erste Bank Open quarter-finals.",
+  "teaser": "FINAL: Alcaraz def. Berrettini 6-3, 6-4. World No. 2 fires 28 winners and surrenders zero break points in clinical Wiener Stadthalle masterclass.",
+  "story": "Carlos Alcaraz produced a masterclass in indoor hard-court tennis on Thursday, 29 October, sweeping past Italian powerhouse Matteo Berrettini 6-3, 6-4 at Wiener Stadthalle to reach the quarter-finals of the Erste Bank Open. The Spanish superstar was impenetrable on serve throughout the 78-minute encounter, winning 84 percent of his first-serve points and never facing a break point against one of the tour's most explosive attackers. Alcaraz secured the decisive break in the fourth game of the opening set with a dazzling backhand passing shot, then broke early in the second set before comfortably serving out the victory. The triumph sets up a blockbuster Friday quarter-final in Vienna as Alcaraz pursues his sixth title of the 2026 season.",
+  "stakes": "Alcaraz advances to Friday's quarter-finals in Vienna, bolstering his bid for year-end World No. 1 status.",
+  "rivalryAngle": "Alcaraz improves to 4-1 head-to-head against Berrettini with his sharpest indoor display of the autumn.",
+  "funFacts": [
+    "Alcaraz did not face a single break point across ten service games.",
+    "The Spaniard hit 28 winners against just nine unforced errors.",
+    "Alexander Zverev also advanced on Thursday, defeating Marcos Giron 6-2, 7-5."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Carlos Alcaraz",
+      "team": "ATP Tour",
+      "hook": "Struck 28 winners and won 84 percent of first-serve deliveries in flawless display."
+    },
+    {
+      "name": "Matteo Berrettini",
+      "team": "ATP Tour",
+      "hook": "Fired 11 aces but could not crack Alcaraz's relentless return depth."
+    }
+  ],
+  "headToHead": "Thursday 29 October 2026. Wiener Stadthalle, Vienna. Final: Alcaraz def. Berrettini 6-3, 6-4.",
+  "tags": [
+    "tennis",
+    "atp",
+    "vienna",
+    "alcaraz",
+    "berrettini",
+    "erste-bank-open",
+    "round-of-16"
+  ],
+  "home": "Carlos Alcaraz",
+  "away": "Matteo Berrettini",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "Erste Bank Open",
+  "matchday": 2,
+  "date": "2026-10-29",
+  "time": "16:00",
+  "venue": "Wiener Stadthalle",
+  "city": "Vienna",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209841/pexels-photo-209841.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "regular",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "ATP Vienna Round of 16",
+  "resultSummary": "FINAL: Alcaraz def. Berrettini 6-3, 6-4. Alcaraz 28 winners, 0 break points faced. Zverev def. Giron 6-2, 7-5.",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "6",
+      "p2": "3"
+    },
+    {
+      "p1": "6",
+      "p2": "4"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP Tour Vienna Official",
+      "url": "https://www.atptour.com/en/tournaments/vienna/747/overview"
+    },
+    {
+      "name": "Tennis TV",
+      "url": "https://www.tennistv.com"
+    }
+  ]
+}

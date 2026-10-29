@@ -1,32 +1,32 @@
 {
   "slug": "vidantaworld-mexico-open-2026",
-  "headline": "VidantaWorld Mexico Open: FedExCup Fall drama heads to VidantaVallarta",
-  "whyCareScore": 8.9,
-  "whyCareReason": "Austin Smotherman carries Bermuda playoff momentum to Mexico as tour pros battle for pivotal 2027 PGA Tour cards.",
-  "teaser": "UPCOMING: VidantaVallarta in Vallarta, Mexico (29 October - 1 November). $6M purse on Greg Norman layout.",
-  "story": "The PGA Tour FedExCup Fall schedule moves south of the border this week for the 2026 VidantaWorld Mexico Open, held at the stunning Greg Norman Signature Course at VidantaVallarta. Arriving with peak confidence is Austin Smotherman, fresh off his thrilling victory on the third playoff hole over Seamus Power at the Butterfield Bermuda Championship. With Smotherman having captured two PGA Tour titles in October alone, the focus shifts to the intense bubble battle, where players ranked 100th through 125th fight for their full tour exemptions for 2027. Lush paspalum fairways, coastal winds, and risk-reward par fives promise high drama under the Mexican sun.",
+  "headline": "VidantaWorld Mexico Open Round 1: Raul Pereda leads at VidantaVallarta as Smotherman opens with 66",
+  "whyCareScore": 9.0,
+  "whyCareReason": "Mexico's Raul Pereda fires a 65 to lead VidantaVallarta, while Bermuda champion Austin Smotherman opens with 66 to stay in the hunt.",
+  "teaser": "ROUND 1: Pereda (-6) leads Mexico Open by one over Smotherman (-5) and Rai (-5) as wind whips across Norman Signature Course.",
+  "story": "The 2026 VidantaWorld Mexico Open got underway on Thursday, 29 October, at the Greg Norman Signature Course at VidantaVallarta, delivering immediate drama in windy coastal conditions. Mexican fan favorite Raul Pereda sent local galleries into raptures with a dazzling six-under 65, carding seven birdies against a solitary bogey to claim the solo first-round clubhouse lead. Hot on his heels is Austin Smotherman, carrying supreme confidence after his dramatic third-playoff-hole victory at the Bermuda Championship. Smotherman signed for a five-under 66 featuring six birdies, sharing second place alongside England's Aaron Rai. With 500 FedExCup Fall points on the line, the leaderboard is packed with contenders fighting for their 2027 tour cards.",
   "stakes": "$6,000,000 purse and 500 FedExCup points on the line, alongside critical top-125 card security for the 2027 season.",
-  "rivalryAngle": "Fall season contenders clash on coastal Mexican layout seeking career-altering tour exemptions.",
+  "rivalryAngle": "Mexican home hero Pereda duels with in-form American Smotherman on coastal layout.",
   "funFacts": [
-    "VidantaVallarta course measures 7,456 yards and features Greg Norman signature bunkering.",
-    "Smotherman seeks back-to-back victories after his dramatic playoff triumph at Port Royal.",
-    "Event purse is $6,000,000 with the winner receiving $1,080,000."
+    "Raul Pereda gained 3.8 strokes on the field with his approach play in Round 1.",
+    "Austin Smotherman has shot under par in nine consecutive PGA Tour rounds.",
+    "Round 1 scoring average was 71.4 on the par-71 VidantaVallarta layout."
   ],
   "keyPlayers": [
     {
+      "name": "Raul Pereda",
+      "team": "PGA Tour",
+      "hook": "Mexican star electrified home fans with seven birdies to card opening 65."
+    },
+    {
       "name": "Austin Smotherman",
       "team": "PGA Tour",
-      "hook": "Enters on hot streak after winning two PGA Tour events in the last thirty days."
+      "hook": "Bermuda winner continued red-hot autumn form with five-under 66."
     },
     {
-      "name": "Seamus Power",
+      "name": "Aaron Rai",
       "team": "PGA Tour",
-      "hook": "Bids for redemption following narrow third-playoff-hole loss in Bermuda."
-    },
-    {
-      "name": "Corey Conners",
-      "team": "PGA Tour",
-      "hook": "Elite ball-striker looking to capitalize on favorable tropical course setup."
+      "hook": "Precision ball-striker tied for second after clean five-birdie opening round."
     }
   ],
   "headToHead": "29 October - 1 November 2026. VidantaVallarta, Vallarta, Mexico. 72 holes stroke play.",
@@ -35,11 +35,12 @@
     "pga-tour",
     "mexico-open",
     "vidanta",
+    "pereda",
     "smotherman",
     "fedexcup-fall"
   ],
-  "home": "Austin Smotherman",
-  "away": "Field",
+  "home": "Raul Pereda",
+  "away": "Austin Smotherman",
   "homeCode": null,
   "awayCode": null,
   "homeFlag": "",
@@ -50,7 +51,7 @@
   "time": "08:00",
   "venue": "VidantaVallarta",
   "city": "Vallarta",
-  "status": "UPCOMING",
+  "status": "LIVE",
   "homeScore": null,
   "awayScore": null,
   "marquee": true,
@@ -63,18 +64,49 @@
   "competition": "pga-tour-2026",
   "format": "leaderboard",
   "season": "2026",
-  "roundLabel": "PGA Tour · VidantaWorld Mexico Open",
-  "resultSummary": "UPCOMING: 29 Oct - 1 Nov. VidantaVallarta. Smotherman headlines $6M FedExCup Fall event.",
-  "leaderboard": [],
+  "roundLabel": "Round 1 Completed",
+  "resultSummary": "ROUND 1: Pereda -6 (65), Smotherman -5 (66), Rai -5 (66), Grillo -4 (67), Wallace -4 (67).",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Raul Pereda",
+      "score": "-6",
+      "note": "65"
+    },
+    {
+      "pos": "T2",
+      "name": "Austin Smotherman",
+      "score": "-5",
+      "note": "66"
+    },
+    {
+      "pos": "T2",
+      "name": "Aaron Rai",
+      "score": "-5",
+      "note": "66"
+    },
+    {
+      "pos": "T4",
+      "name": "Emiliano Grillo",
+      "score": "-4",
+      "note": "67"
+    },
+    {
+      "pos": "T4",
+      "name": "Matt Wallace",
+      "score": "-4",
+      "note": "67"
+    }
+  ],
   "tennisSets": [],
   "sources": [
     {
-      "name": "PGA Tour Mexico Open tournament overview",
+      "name": "PGA Tour VidantaWorld Mexico Open Leaderboard",
       "url": "https://www.pgatour.com/tournaments/2026/vidantaworld-mexico-open/R2026540"
     },
     {
-      "name": "FedExCup Fall Standings",
-      "url": "https://www.pgatour.com/fedexcup"
+      "name": "Golf Channel PGA Tour Coverage",
+      "url": "https://www.golfchannel.com"
     }
   ]
 }

@@ -1,0 +1,80 @@
+{
+  "slug": "wnba-finals-2026-game6-valkyries-at-dream",
+  "headline": "WNBA Finals Game 6: Valkyries seek championship clincher at Dream in Atlanta",
+  "whyCareScore": 9.9,
+  "whyCareReason": "Expansion Golden State stands 40 minutes from completing the greatest inaugural season in sports history with a 3-2 series lead in Atlanta.",
+  "teaser": "GAMEDAY TONIGHT: WNBA Finals Game 6 at Gateway Center Arena (20:00 ET). Valkyries (3-2) can clinch maiden title; Dream fight to force Game 7.",
+  "story": "The 2026 WNBA Finals reach their ultimate climax on Thursday night, 29 October, as the Golden State Valkyries take the floor at Gateway Center Arena holding a 3-2 series lead over the Atlanta Dream. Golden State stands just 40 minutes away from completing the most astonishing inaugural campaign in the annals of professional basketball. Natalie Nakase's squad wrestled control of the series on Monday with a suffocating 64-55 defensive clinic at Chase Center, holding Atlanta to nine points in the final quarter. Now in College Park, Angel Reese and Rhyne Howard face elimination on their home court. A Valkyries victory crowns them champions; an Atlanta win sends the series back to the Bay for a winner-take-all Game 7.",
+  "stakes": "Golden State can clinch the 2026 WNBA championship with a victory; Atlanta must win to force Game 7.",
+  "rivalryAngle": "Expansion newcomers look to lift the trophy in the house of the veteran Atlanta contenders.",
+  "funFacts": [
+    "No expansion franchise in major American team sports has won a title in its inaugural year since 1950.",
+    "Golden State holds a 2-1 road record during the 2026 postseason.",
+    "Gateway Center Arena is sold out with 3,500 vocal supporters anticipated."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Gabby Williams",
+      "team": "Golden State Valkyries",
+      "hook": "Averaging 16.2 points and 3.4 steals across the Finals to anchor Golden State."
+    },
+    {
+      "name": "Angel Reese",
+      "team": "Atlanta Dream",
+      "hook": "Double-double powerhouse fighting on home boards to keep Atlanta's championship hopes alive."
+    },
+    {
+      "name": "Rhyne Howard",
+      "team": "Atlanta Dream",
+      "hook": "Go-to perimeter scorer tasked with breaking Golden State's defensive trap."
+    }
+  ],
+  "headToHead": "Thursday 29 October 2026. Gateway Center Arena, College Park. Series: GSV leads 3-2.",
+  "tags": [
+    "basketball",
+    "wnba",
+    "valkyries",
+    "dream",
+    "finals",
+    "game-6"
+  ],
+  "home": "Atlanta Dream",
+  "away": "Golden State Valkyries",
+  "homeCode": "ATL",
+  "awayCode": "GSV",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "WNBA Finals",
+  "matchday": 6,
+  "date": "2026-10-29",
+  "time": "20:00",
+  "venue": "Gateway Center Arena",
+  "city": "College Park",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1080882/pexels-photo-1080882.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "basketball",
+  "competition": "wnba-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "WNBA Finals Game 6",
+  "resultSummary": "GAMEDAY TONIGHT: WNBA Finals Game 6 at Gateway Center Arena (20:00 ET). Series: GSV 3-2 ATL.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "WNBA Finals Official Game Center",
+      "url": "https://www.wnba.com/finals"
+    },
+    {
+      "name": "ESPN Women's Basketball",
+      "url": "https://www.espn.com/wnba"
+    }
+  ]
+}

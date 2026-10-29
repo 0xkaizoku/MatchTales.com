@@ -1,0 +1,80 @@
+{
+  "slug": "thunder-vs-nuggets-nba-opening-week-2026",
+  "headline": "NBA Opening Week: Shai Gilgeous-Alexander scores 34 as Thunder topple Nuggets 122-108",
+  "whyCareScore": 9.4,
+  "whyCareReason": "SGA erupts for 34 points and Holmgren tallies 5 blocks as Oklahoma City opens the season with an emphatic victory over Denver.",
+  "teaser": "FINAL: Thunder 122, Nuggets 108. Gilgeous-Alexander puts on 34-point clinic as OKC outclasses Denver at Paycom Center.",
+  "story": "The Oklahoma City Thunder launched their 2026-27 campaign in scintillating style on Wednesday night, 28 October, securing a 122-108 victory over the Denver Nuggets before a sellout crowd at Paycom Center. Shai Gilgeous-Alexander was in sublime form from the opening tip, pouring in 34 points on 13-of-21 shooting while dishing out eight assists. Chet Holmgren anchored the paint with 18 points, 12 rebounds, and five blocks, repeatedly denying Nikola Jokic at the rim. Despite Jokic's valiant triple-double bid of 24 points, 13 rebounds, and nine assists, Denver could not overcome Oklahoma City's 18 fast-break points and suffocating fourth-quarter defense.",
+  "stakes": "Thunder open their season 1-0 with a dominant division victory; Nuggets begin the year 0-1.",
+  "rivalryAngle": "Northwest Division heavyweights clash in an early measuring-stick contest for Western Conference supremacy.",
+  "funFacts": [
+    "Gilgeous-Alexander scored 14 of his 34 points in the third quarter.",
+    "Chet Holmgren registered five blocked shots, matching his personal opening-week high.",
+    "OKC shot 52 percent from the floor and forced 16 Denver turnovers."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Shai Gilgeous-Alexander",
+      "team": "Oklahoma City Thunder",
+      "hook": "Paced all scorers with 34 points and 8 assists in brilliant opening display."
+    },
+    {
+      "name": "Chet Holmgren",
+      "team": "Oklahoma City Thunder",
+      "hook": "Dominated defense with 18 points, 12 rebounds, and 5 highlight blocks."
+    },
+    {
+      "name": "Nikola Jokic",
+      "team": "Denver Nuggets",
+      "hook": "Rallied Denver with 24 points, 13 rebounds, and 9 assists in defeat."
+    }
+  ],
+  "headToHead": "Wednesday 28 October 2026. Paycom Center, Oklahoma City. Final: OKC 122, DEN 108.",
+  "tags": [
+    "basketball",
+    "nba",
+    "thunder",
+    "nuggets",
+    "sga",
+    "jokic"
+  ],
+  "home": "Oklahoma City Thunder",
+  "away": "Denver Nuggets",
+  "homeCode": "OKC",
+  "awayCode": "DEN",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NBA",
+  "matchday": 1,
+  "date": "2026-10-28",
+  "time": "20:00",
+  "venue": "Paycom Center",
+  "city": "Oklahoma City",
+  "status": "FINISHED",
+  "homeScore": 122,
+  "awayScore": 108,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1752757/pexels-photo-1752757.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "regular",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "basketball",
+  "competition": "nba-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "NBA Regular Season",
+  "resultSummary": "FINAL: Thunder 122, Nuggets 108. SGA 34 pts, 8 ast; Holmgren 18 pts, 12 reb, 5 blk; Jokic 24 pts, 13 reb.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NBA Game Center",
+      "url": "https://www.nba.com/games"
+    },
+    {
+      "name": "ESPN NBA",
+      "url": "https://www.espn.com/nba"
+    }
+  ]
+}

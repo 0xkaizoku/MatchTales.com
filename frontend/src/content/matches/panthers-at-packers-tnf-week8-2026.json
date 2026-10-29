@@ -2,8 +2,8 @@
   "slug": "panthers-at-packers-tnf-week8-2026",
   "headline": "NFL Week 8 TNF: Packers host Panthers in Lambeau Field prime-time battle",
   "whyCareScore": 9.2,
-  "whyCareReason": "Jordan Love and the contending Packers look to defend home turf as Bryce Young and Carolina aim for season-defining road upset.",
-  "teaser": "UPCOMING: Thursday Night Football at Lambeau Field (20:15 ET). Packers (5-2) host Panthers (3-4) under the lights.",
+  "whyCareReason": "Jordan Love and the 5-2 Packers seek to keep pressure on the 6-0 Vikings in NFC North, while Bryce Young and Carolina look for season-defining road shock.",
+  "teaser": "TONIGHT: Thursday Night Football at Lambeau Field (20:15 ET). Packers (5-2) battle Panthers (3-4) under the Wisconsin lights.",
   "story": "Week 8 of the 2026 NFL season kicks off under the prime-time lights on Thursday night, 29 October, as the Green Bay Packers welcome the Carolina Panthers to iconic Lambeau Field. The Packers enter at 5-2, locked in a fierce battle with the undefeated Minnesota Vikings for NFC North supremacy behind quarterback Jordan Love. Carolina, sitting at 3-4 after a crucial home victory last weekend, faces the ultimate road test against Green Bay's ferocious pass rush. With cold autumn temperatures forecast in Wisconsin, the Panthers must establish their ground attack early to relieve pressure on young quarterback Bryce Young.",
   "stakes": "Packers aim to climb to 6-2 to pressure division leader Minnesota; Panthers need road upset to return to .500.",
   "rivalryAngle": "NFC cross-division clash in prime time at historic Lambeau Field.",
@@ -64,17 +64,17 @@
   "format": "team-match",
   "season": "2026",
   "roundLabel": "NFL Week 8 · Thursday Night Football",
-  "resultSummary": "UPCOMING: Thursday 29 October. 20:15 ET. Panthers (3-4) at Packers (5-2) on Prime Video.",
+  "resultSummary": "TONIGHT: Prime Video kickoff at Lambeau Field (20:15 ET). Packers (5-2) host Panthers (3-4).",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "NFL Week 8 Official Schedule",
-      "url": "https://www.nfl.com/schedules/2026/reg8"
+      "name": "NFL Week 8 Game Center",
+      "url": "https://www.nfl.com/games/panthers-at-packers-2026-reg-8"
     },
     {
-      "name": "Prime Video Thursday Night Football",
-      "url": "https://www.amazon.com/tnf"
+      "name": "ESPN NFL",
+      "url": "https://www.espn.com/nfl"
     }
   ]
 }
