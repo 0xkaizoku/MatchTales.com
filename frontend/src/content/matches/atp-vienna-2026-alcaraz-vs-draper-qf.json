@@ -1,0 +1,85 @@
+{
+  "slug": "atp-vienna-2026-alcaraz-vs-draper-qf",
+  "headline": "ATP Vienna Quarter-finals: Carlos Alcaraz sweeps Jack Draper 6-4, 6-4 into semi-finals",
+  "whyCareScore": 9.5,
+  "whyCareReason": "Carlos Alcaraz delivers another clinical indoor masterclass, overpowering Jack Draper in straight sets to advance to the Vienna final four.",
+  "teaser": "FINAL: Alcaraz def. Draper 6-4, 6-4. World No. 2 fires 29 winners and breaks Draper twice at Wiener Stadthalle to reach Vienna semi-finals.",
+  "story": "Carlos Alcaraz surged into the semi-finals of the Erste Bank Open on Friday, 30 October, producing an emphatic 6-4, 6-4 victory over Britain's Jack Draper at Wiener Stadthalle. Building on Thursday's flawless dismissal of Matteo Berrettini, the 23-year-old Spaniard proved unplayable from the baseline, neutralizing Draper's heavy left-handed delivery with razor-sharp returns. Alcaraz secured the vital break in the seventh game of the opening set with an angled forehand passing shot, before taking command of the second set with an early break. Draper fought courageously, saving two match points with aggressive volleying, but Alcaraz served out the contest with an unreturnable body serve to book his spot in Saturday's semi-finals against top seed Alexander Zverev, who earlier defeated Andrey Rublev 7-6 (4), 6-4.",
+  "stakes": "Alcaraz reaches the Vienna semi-finals, setting up a tantalizing Saturday showdown against Alexander Zverev.",
+  "rivalryAngle": "Alcaraz avenges his previous Queen's Club grass loss to Draper with a commanding indoor hard-court performance.",
+  "funFacts": [
+    "Alcaraz has won 20 of his last 22 indoor hard-court sets dating back to September.",
+    "The Spaniard struck 29 winners against just 11 unforced errors in 84 minutes.",
+    "Alexander Zverev defeated Andrey Rublev in straight sets in the preceding quarter-final."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Carlos Alcaraz",
+      "team": "ATP Tour",
+      "hook": "Dominated long rallies and won 81 percent of first-serve points to sweep into semi-finals."
+    },
+    {
+      "name": "Jack Draper",
+      "team": "ATP Tour",
+      "hook": "British star struck nine aces but could not breach Alcaraz's defensive shield."
+    }
+  ],
+  "headToHead": "Friday 30 October 2026. Wiener Stadthalle, Vienna. Final: Alcaraz def. Draper 6-4, 6-4.",
+  "tags": [
+    "tennis",
+    "atp",
+    "vienna",
+    "alcaraz",
+    "draper",
+    "erste-bank-open",
+    "quarter-finals"
+  ],
+  "home": "Carlos Alcaraz",
+  "away": "Jack Draper",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "Erste Bank Open",
+  "matchday": 3,
+  "date": "2026-10-30",
+  "time": "15:30",
+  "venue": "Wiener Stadthalle",
+  "city": "Vienna",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209841/pexels-photo-209841.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "regular",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "ATP Vienna Quarter-finals",
+  "resultSummary": "FINAL: Alcaraz def. Draper 6-4, 6-4. Alcaraz 29 winners, Draper 9 aces. Zverev def. Rublev 7-6 (4), 6-4.",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "6",
+      "p2": "4"
+    },
+    {
+      "p1": "6",
+      "p2": "4"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP Tour Erste Bank Open Official",
+      "url": "https://www.atptour.com/en/tournaments/vienna/747/overview"
+    },
+    {
+      "name": "Tennis TV Vienna Coverage",
+      "url": "https://www.tennistv.com"
+    }
+  ]
+}

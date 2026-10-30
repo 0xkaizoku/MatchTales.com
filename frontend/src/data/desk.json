@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-29",
+  "asOf": "2026-10-30",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -729,7 +729,7 @@
       "time": "8:15 p.m. ET",
       "home": "Green Bay Packers",
       "away": "Carolina Panthers",
-      "note": "TONIGHT: Prime Video. Lambeau Field. Packers (5-2, Love 14 TD) host Panthers (3-4, Young) in Week 8 Thursday Night Football kickoff."
+      "note": "FINAL: Packers 27, Panthers 17. Prime Video. Lambeau Field. Jordan Love 21-30, 248 yds, 2 TD; Josh Jacobs 94 yds, 1 TD; Gary 2 sacks. Packers 6-2, Panthers 3-5."
     }
   ],
   "usOpenQF": [
@@ -768,6 +768,18 @@
       "p1": "Alexander Zverev",
       "p2": "Marcos Giron",
       "status": "Zverev 6-2, 7-5"
+    },
+    {
+      "draw": "Vienna QF",
+      "p1": "Carlos Alcaraz",
+      "p2": "Jack Draper",
+      "status": "Alcaraz 6-4, 6-4"
+    },
+    {
+      "draw": "Vienna QF",
+      "p1": "Alexander Zverev",
+      "p2": "Andrey Rublev",
+      "status": "Zverev 7-6 (4), 6-4"
     }
   ]
 }

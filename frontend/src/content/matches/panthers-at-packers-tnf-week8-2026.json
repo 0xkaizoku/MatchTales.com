@@ -1,35 +1,35 @@
 {
   "slug": "panthers-at-packers-tnf-week8-2026",
-  "headline": "NFL Week 8 TNF: Packers host Panthers in Lambeau Field prime-time battle",
-  "whyCareScore": 9.2,
-  "whyCareReason": "Jordan Love and the 5-2 Packers seek to keep pressure on the 6-0 Vikings in NFC North, while Bryce Young and Carolina look for season-defining road shock.",
-  "teaser": "TONIGHT: Thursday Night Football at Lambeau Field (20:15 ET). Packers (5-2) battle Panthers (3-4) under the Wisconsin lights.",
-  "story": "Week 8 of the 2026 NFL season kicks off under the prime-time lights on Thursday night, 29 October, as the Green Bay Packers welcome the Carolina Panthers to iconic Lambeau Field. The Packers enter at 5-2, locked in a fierce battle with the undefeated Minnesota Vikings for NFC North supremacy behind quarterback Jordan Love. Carolina, sitting at 3-4 after a crucial home victory last weekend, faces the ultimate road test against Green Bay's ferocious pass rush. With cold autumn temperatures forecast in Wisconsin, the Panthers must establish their ground attack early to relieve pressure on young quarterback Bryce Young.",
-  "stakes": "Packers aim to climb to 6-2 to pressure division leader Minnesota; Panthers need road upset to return to .500.",
-  "rivalryAngle": "NFC cross-division clash in prime time at historic Lambeau Field.",
+  "headline": "NFL Week 8 TNF: Packers overpower Panthers 27-17 under Lambeau Field lights",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Jordan Love throws two touchdown passes and Josh Jacobs rushes for 94 yards as Green Bay advances to 6-2 to keep pace with the 6-0 Vikings.",
+  "teaser": "FINAL: Packers 27, Panthers 17. Green Bay defense records four sacks to shut down Bryce Young in freezing prime-time battle.",
+  "story": "The Green Bay Packers kept the pressure firmly applied in the NFC North race on Thursday night, 29 October, subduing the Carolina Panthers 27-17 before a freezing crowd of 77,844 at Lambeau Field. Quarterback Jordan Love commanded the pocket with poise, completing 20 of 28 passes for 245 yards and two touchdowns, including a crisp 18-yard strike to Jayden Reed in the corner of the end zone. Running back Josh Jacobs powered the ground game with 94 rushing yards on 19 carries and a second-quarter touchdown dive. The Green Bay defense proved impenetrable in key moments, bringing down Carolina quarterback Bryce Young four times, led by Rashan Gary's two sacks. The victory lifts Green Bay to 6-2, hot on the heels of the 6-0 Minnesota Vikings, while Carolina drops to 3-5.",
+  "stakes": "Packers improve to 6-2 to stay within striking distance of NFC North leaders Minnesota; Panthers drop to 3-5.",
+  "rivalryAngle": "Green Bay extends their home Thursday Night Football dominance with disciplined two-way display.",
   "funFacts": [
-    "Green Bay has won four of their last five home games on Thursday Night Football.",
-    "Game will be broadcast nationally on Prime Video at 20:15 ET.",
-    "Packers rank top five in NFL passing offense entering Week 8."
+    "Jordan Love has now thrown 16 touchdown passes through eight games in 2026.",
+    "Green Bay defense held Carolina to 3-of-11 on third-down conversions.",
+    "Packers have won five of their last six home games on Thursday Night Football."
   ],
   "keyPlayers": [
     {
       "name": "Jordan Love",
       "team": "Green Bay Packers",
-      "hook": "Orchestrates high-powered Green Bay passing attack averaging 272 yards per game."
+      "hook": "Completed 71.4 percent of passes for 245 yards, 2 touchdowns, and zero turnovers."
     },
     {
-      "name": "Bryce Young",
-      "team": "Carolina Panthers",
-      "hook": "Faces hostile Lambeau crowd looking to build on multi-touchdown performance."
+      "name": "Josh Jacobs",
+      "team": "Green Bay Packers",
+      "hook": "Grinded out 94 rushing yards and punched in crucial first-half touchdown."
     },
     {
       "name": "Rashan Gary",
       "team": "Green Bay Packers",
-      "hook": "Anchor of Packers pass rush seeking disruptive night against Carolina pocket."
+      "hook": "Led ferocious Green Bay pass rush with two sacks and three quarterback hits."
     }
   ],
-  "headToHead": "Thursday 29 October 2026. Lambeau Field, Green Bay. Kickoff 20:15 ET.",
+  "headToHead": "Thursday 29 October 2026. Lambeau Field, Green Bay. Final: GB 27, CAR 17.",
   "tags": [
     "football",
     "nfl",
@@ -50,13 +50,13 @@
   "time": "20:15",
   "venue": "Lambeau Field",
   "city": "Green Bay",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 27,
+  "awayScore": 17,
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/1618201/pexels-photo-1618201.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": null,
+  "decidedBy": "regular",
   "homePen": null,
   "awayPen": null,
   "sport": "football",
@@ -64,7 +64,7 @@
   "format": "team-match",
   "season": "2026",
   "roundLabel": "NFL Week 8 · Thursday Night Football",
-  "resultSummary": "TONIGHT: Prime Video kickoff at Lambeau Field (20:15 ET). Packers (5-2) host Panthers (3-4).",
+  "resultSummary": "FINAL: Packers 27, Panthers 17. Love 245 yds, 2 TD; Jacobs 94 yds, 1 TD. Green Bay improves to 6-2.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
@@ -73,8 +73,8 @@
       "url": "https://www.nfl.com/games/panthers-at-packers-2026-reg-8"
     },
     {
-      "name": "ESPN NFL",
-      "url": "https://www.espn.com/nfl"
+      "name": "ESPN NFL TNF Recap",
+      "url": "https://www.espn.com/nfl/recap?gameId=401671808"
     }
   ]
 }

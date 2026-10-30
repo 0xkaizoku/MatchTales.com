@@ -1,0 +1,80 @@
+{
+  "slug": "arsenal-vs-liverpool-mw9-2026",
+  "headline": "Premier League MW9: Arsenal host Liverpool in heavyweight Emirates showdown",
+  "whyCareScore": 9.8,
+  "whyCareReason": "Premier League co-leaders Arsenal clash with Arne Slot's resurgent Liverpool in an electric North London title battle.",
+  "teaser": "UPCOMING: Emirates Stadium (Saturday, 31 October, 17:30 BST). Arteta's Gunners (21 pts) duel Slot's Reds (15 pts) in blockbuster clash.",
+  "story": "The Premier League title race takes center stage on Saturday, 31 October, as co-leaders Arsenal welcome third-place Liverpool to Emirates Stadium for Matchweek 9. Mikel Arteta's Gunners enter level with Manchester City at the summit on 21 points, desperate to respond after their shock midweek Carabao Cup penalty shootout exit to fourth-tier Fleetwood Town. Liverpool arrive in buoyant mood following Wednesday's commanding 2-0 cup dismissal of Chelsea, with Dominik Szoboszlai and Cody Gakpo firing on all cylinders. A victory for Arsenal opens a nine-point chasm over the Merseyside giants, while three points for Arne Slot would firmly ignite Liverpool's championship credentials in front of 60,000 spectators.",
+  "stakes": "Arsenal seek to maintain joint leadership of the Premier League; Liverpool can slash the deficit to the top to just three points.",
+  "rivalryAngle": "Two of English football's most storied institutions clash in North London with tactical mastery and early-season supremacy at stake.",
+  "funFacts": [
+    "Arsenal have won seven of their opening eight Premier League fixtures (7-0-1).",
+    "Liverpool have conceded just eight league goals this season, boasting the joint-second best defense.",
+    "Last season's corresponding fixture at Emirates Stadium produced a pulsating 3-1 Arsenal victory."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Bukayo Saka",
+      "team": "Arsenal",
+      "hook": "Dynamic winger seeks immediate redemption after midweek shootout heartbreak."
+    },
+    {
+      "name": "Mohamed Salah",
+      "team": "Liverpool",
+      "hook": "Talismanic forward has scored 10 career Premier League goals against the Gunners."
+    },
+    {
+      "name": "Declan Rice",
+      "team": "Arsenal",
+      "hook": "Midfield powerhouse tasked with disrupting Liverpool's quick transition game."
+    }
+  ],
+  "headToHead": "Saturday 31 October 2026. Emirates Stadium, London. Kickoff 17:30 BST.",
+  "tags": [
+    "soccer",
+    "premier-league",
+    "arsenal",
+    "liverpool",
+    "matchweek-9",
+    "emirates"
+  ],
+  "home": "Arsenal",
+  "away": "Liverpool",
+  "homeCode": "ENG",
+  "awayCode": "ENG",
+  "homeFlag": "gb-eng",
+  "awayFlag": "gb-eng",
+  "group": "Premier League",
+  "matchday": 9,
+  "date": "2026-10-31",
+  "time": "17:30",
+  "venue": "Emirates Stadium",
+  "city": "London",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "soccer",
+  "competition": "premier-league-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "Premier League Matchweek 9",
+  "resultSummary": "UPCOMING: Saturday 17:30 BST at Emirates Stadium. Arsenal (21 pts) host Liverpool (15 pts).",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Premier League Matchweek 9 Official Preview",
+      "url": "https://www.premierleague.com/match/115456"
+    },
+    {
+      "name": "BBC Sport Football Match Preview",
+      "url": "https://www.bbc.com/sport/football"
+    }
+  ]
+}

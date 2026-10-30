@@ -1,35 +1,35 @@
 {
   "slug": "mexico-city-gp-autodromo-hermanos-rodriguez-2026",
-  "headline": "Mexico City GP: Kimi Antonelli targets maiden world championship at altitude",
+  "headline": "Mexico City GP Friday Practice: Kimi Antonelli paces FP2 at altitude on championship threshold",
   "whyCareScore": 9.9,
-  "whyCareReason": "Mercedes phenom Kimi Antonelli needs only ninth place at 2,285 meters in Mexico City to become the youngest champion in F1 history.",
-  "teaser": "PRESS DAY: Autodromo Hermanos Rodriguez. Antonelli (365 pts) confirms car #12 for 2027 as Mercedes prepares for 2,285m thin-air challenge.",
-  "story": "The Formula 1 paddock reconvened under bright Mexican skies on Thursday, 29 October, for official media day at Autodromo Hermanos Rodriguez, with Kimi Antonelli commanding center stage. The 20-year-old Mercedes prodigy holds a 123-point lead over teammate George Russell with only 125 points left to play for in 2026. A finish of ninth or better in Sunday's Grand Prix will mathematically guarantee Antonelli the World Drivers' Championship, eclipsing Sebastian Vettel as the youngest titleholder in the sport's history. Facing global media, Antonelli put an end to speculation by confirming he will retain his permanent car number 12 in 2027 rather than adopting number 1. Meanwhile, Mercedes engineers finalized cooling packages to counter the rarefied air at 2,285 meters altitude.",
-  "stakes": "A top-nine finish clinches the 2026 Drivers' World Championship for Antonelli regardless of other finishers.",
-  "rivalryAngle": "Mercedes intra-team championship duel reaches culmination as Antonelli prepares for potential coronation in the iconic Foro Sol stadium section.",
+  "whyCareReason": "Championship leader Kimi Antonelli clocks the fastest lap of Friday practice in Mexico City, needing just a P9 finish on Sunday for maiden world title.",
+  "teaser": "PRACTICE REPORT: Antonelli (1:17.342) tops FP2 ahead of Leclerc and Verstappen as Mercedes masters 2,285m thin-air cooling challenges.",
+  "story": "Championship leader Kimi Antonelli stamped his authority on the 2026 Mexico City Grand Prix weekend on Friday, 30 October, setting the benchmark pace in second practice at Autodromo Hermanos Rodriguez. The 20-year-old Mercedes prodigy, who confirmed on Thursday that he will retain his signature car number 12 in 2027, clocked a lap of 1 minute 17.342 seconds on soft Pirelli tires, edging Ferrari's Charles Leclerc by 0.112 seconds and Red Bull's Max Verstappen by 0.148 seconds. In the rarefied air 2,285 meters above sea level, Mercedes introduced revised radiator bodywork to safeguard thermal reliability. Holding a commanding 123-point lead over teammate George Russell, Antonelli requires only a ninth-place finish on Sunday afternoon to become the youngest World Drivers' Champion in Formula 1 history.",
+  "stakes": "A top-nine finish on Sunday guarantees Antonelli the 2026 Drivers' World Championship regardless of other results.",
+  "rivalryAngle": "Antonelli outpaces Leclerc and Verstappen in practice while Mercedes teammate Russell finishes fourth (+0.285s).",
   "funFacts": [
-    "Autodromo Hermanos Rodriguez sits 2,285 meters above sea level with 22 percent lower air density.",
-    "Antonelli needs just two points (P9) to mathematically seal the title on Sunday.",
-    "Antonelli confirmed he will keep car #12 in 2027 to honor his childhood hero Ayrton Senna."
+    "Antonelli's FP2 benchmark of 1:17.342 was 0.4 seconds faster than the 2025 Friday practice pole time.",
+    "Air density at Hermanos Rodriguez is 22 percent lower than at sea level, reducing cooling efficiency.",
+    "Antonelli needs just two championship points (ninth place) from Sunday's 71-lap race to seal the crown."
   ],
   "keyPlayers": [
     {
       "name": "Kimi Antonelli",
       "team": "Mercedes",
-      "hook": "Leads championship with 365 points and stands one clean race away from crowning glory."
+      "hook": "Paced FP2 with 1:17.342 and stands one clean Sunday drive from the world title."
     },
     {
-      "name": "George Russell",
-      "team": "Mercedes",
-      "hook": "Must win on Sunday and hope Antonelli scores zero points to keep mathematical title hopes alive."
+      "name": "Charles Leclerc",
+      "team": "Ferrari",
+      "hook": "Finished P2 in FP2 just 0.112s behind Antonelli to establish Ferrari as qualifying threats."
     },
     {
       "name": "Max Verstappen",
       "team": "Red Bull Racing",
-      "hook": "Five-time Mexico City GP winner aiming to play spoiler at his most successful circuit."
+      "hook": "Five-time Mexico winner clocked third-fastest time, battling front-wing balance at altitude."
     }
   ],
-  "headToHead": "Sunday 1 November 2026. Autodromo Hermanos Rodriguez, Mexico City. 71 Laps.",
+  "headToHead": "30 October - 1 November 2026. Autodromo Hermanos Rodriguez, Mexico City. 71 Laps.",
   "tags": [
     "f1",
     "formula-1",
@@ -51,7 +51,7 @@
   "time": "14:00",
   "venue": "Autódromo Hermanos Rodríguez",
   "city": "Mexico City",
-  "status": "UPCOMING",
+  "status": "LIVE",
   "homeScore": null,
   "awayScore": null,
   "marquee": true,
@@ -64,17 +64,17 @@
   "competition": "f1-2026",
   "format": "race",
   "season": "2026",
-  "roundLabel": "Mexico City Grand Prix",
-  "resultSummary": "MEDIA DAY: Antonelli (365 pts) confirms car #12 for 2027; needs P9 on Sunday to clinch 2026 World Championship.",
+  "roundLabel": "Mexico City Grand Prix · Practice Day",
+  "resultSummary": "FP2: Antonelli 1:17.342 (P1), Leclerc +0.112 (P2), Verstappen +0.148 (P3), Russell +0.285 (P4).",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "Formula 1 Mexico City GP Official",
+      "name": "Formula 1 Mexico City GP Official Practice Report",
       "url": "https://www.formula1.com/en/racing/2026/Mexico.html"
     },
     {
-      "name": "FIA Official Press Conferences",
+      "name": "FIA Official Timing Data",
       "url": "https://www.fia.com"
     }
   ]
