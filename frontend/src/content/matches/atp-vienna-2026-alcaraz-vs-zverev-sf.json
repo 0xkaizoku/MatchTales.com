@@ -1,0 +1,85 @@
+{
+  "slug": "atp-vienna-2026-alcaraz-vs-zverev-sf",
+  "headline": "Erste Bank Open SF: Carlos Alcaraz outduels Alexander Zverev 6-4, 7-6 to reach Vienna final",
+  "whyCareScore": 9.6,
+  "whyCareReason": "Carlos Alcaraz strikes 34 winners and saves all three break points faced to advance to the Vienna ATP 500 final in straight sets.",
+  "teaser": "FINAL: Alcaraz def. Zverev 6-4, 7-6 (5). World number one unleashes sublime variety and clutch tiebreak execution at Wiener Stadthalle.",
+  "story": "Carlos Alcaraz booked his ticket to the Erste Bank Open final on Saturday, 31 October, producing a tennis masterclass to defeat world number three Alexander Zverev 6-4, 7-6 (5) inside a packed Wiener Stadthalle. The top-seeded Spaniard was imperious on serve throughout the one-hour and 48-minute encounter, winning 84 percent of his first-serve points and never relinquishing his delivery. After claiming the opening set with a clinical break in the fifth game, Alcaraz withstood Zverev's barrage of 13 aces in a knife-edge second set. Trailing 3-4 in the tiebreak, Alcaraz produced a miraculous dipping forehand passing shot followed by a disguised drop shot winner to turn the tide and close out the match on his second match point. Alcaraz moves into Sunday's championship match having not dropped a single set all week in Vienna.",
+  "stakes": "Alcaraz reaches his ninth final of the 2026 ATP season and extends his head-to-head advantage over Zverev; Zverev heads to Paris Masters.",
+  "rivalryAngle": "The 12th professional meeting between Alcaraz and Zverev delivers electric shotmaking under the Vienna roof.",
+  "funFacts": [
+    "Carlos Alcaraz has saved eight consecutive break points across his last three matches in Vienna.",
+    "Alcaraz has now won 62 matches on the ATP Tour in 2026, leading all players.",
+    "Wiener Stadthalle saw a capacity crowd of 9,800 fans for Saturday's semi-final."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Carlos Alcaraz",
+      "team": "Spain",
+      "hook": "Hit 34 winners against only 12 unforced errors in a breathtaking display of all-court aggression."
+    },
+    {
+      "name": "Alexander Zverev",
+      "team": "Germany",
+      "hook": "Fired 13 aces and fought valiantly in second-set tiebreak before bowing out."
+    }
+  ],
+  "headToHead": "Saturday 31 October 2026. Wiener Stadthalle, Vienna. Final: Alcaraz 6-4, 7-6 (5).",
+  "tags": [
+    "tennis",
+    "atp",
+    "vienna",
+    "erste-bank-open",
+    "alcaraz",
+    "zverev",
+    "semi-final"
+  ],
+  "home": "Carlos Alcaraz",
+  "away": "Alexander Zverev",
+  "homeCode": "ESP",
+  "awayCode": "GER",
+  "homeFlag": "es",
+  "awayFlag": "de",
+  "group": "ATP 500 Vienna",
+  "matchday": 5,
+  "date": "2026-10-31",
+  "time": "15:00",
+  "venue": "Wiener Stadthalle",
+  "city": "Vienna",
+  "status": "FINISHED",
+  "homeScore": "2",
+  "awayScore": "0",
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "sets",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-500-vienna-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Semi-final",
+  "resultSummary": "FINAL: Carlos Alcaraz def. Alexander Zverev 6-4, 7-6 (5).",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "6",
+      "p2": "4"
+    },
+    {
+      "p1": "7",
+      "p2": "6"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP Tour Match Centre",
+      "url": "https://www.atptour.com/en/scores/current/vienna/437/live-scores"
+    },
+    {
+      "name": "Erste Bank Open Official",
+      "url": "https://www.erstebank-open.com/en/news"
+    }
+  ]
+}

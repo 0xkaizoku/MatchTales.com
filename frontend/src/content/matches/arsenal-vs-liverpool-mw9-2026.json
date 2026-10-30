@@ -1,35 +1,35 @@
 {
   "slug": "arsenal-vs-liverpool-mw9-2026",
-  "headline": "Premier League MW9: Arsenal host Liverpool in heavyweight Emirates showdown",
-  "whyCareScore": 9.8,
-  "whyCareReason": "Premier League co-leaders Arsenal clash with Arne Slot's resurgent Liverpool in an electric North London title battle.",
-  "teaser": "UPCOMING: Emirates Stadium (Saturday, 31 October, 17:30 BST). Arteta's Gunners (21 pts) duel Slot's Reds (15 pts) in blockbuster clash.",
-  "story": "The Premier League title race takes center stage on Saturday, 31 October, as co-leaders Arsenal welcome third-place Liverpool to Emirates Stadium for Matchweek 9. Mikel Arteta's Gunners enter level with Manchester City at the summit on 21 points, desperate to respond after their shock midweek Carabao Cup penalty shootout exit to fourth-tier Fleetwood Town. Liverpool arrive in buoyant mood following Wednesday's commanding 2-0 cup dismissal of Chelsea, with Dominik Szoboszlai and Cody Gakpo firing on all cylinders. A victory for Arsenal opens a nine-point chasm over the Merseyside giants, while three points for Arne Slot would firmly ignite Liverpool's championship credentials in front of 60,000 spectators.",
-  "stakes": "Arsenal seek to maintain joint leadership of the Premier League; Liverpool can slash the deficit to the top to just three points.",
-  "rivalryAngle": "Two of English football's most storied institutions clash in North London with tactical mastery and early-season supremacy at stake.",
+  "headline": "Premier League MW9: Arsenal and Liverpool battle to pulsating 2-2 draw at Emirates",
+  "whyCareScore": 9.9,
+  "whyCareReason": "Mohamed Salah strikes in the 81st minute to earn Liverpool a point in North London after Bukayo Saka and Mikel Merino had put Arsenal ahead.",
+  "teaser": "FINAL: Arsenal 2, Liverpool 2. Emirates Stadium crowd of 60,383 witnesses electric title clash; Saka and Salah both on target.",
+  "story": "The Premier League title race delivered another instant classic on Saturday, 31 October, as Arsenal and Liverpool fought to a breathtaking 2-2 draw before 60,383 spectators at Emirates Stadium. Bukayo Saka electrified the home crowd after just nine minutes, dancing past Andy Robertson before firing a ferocious strike inside Caoimhin Kelleher's near post. Liverpool responded nine minutes later when Virgil van Dijk nodded in from a corner, but Mikel Arteta's side restored their advantage on the stroke of halftime through Mikel Merino's thumping header. Arsenal suffered defensive blows as Gabriel Magalhaes and Jurrien Timber were forced off injured in the second half, and Liverpool capitalized in the 81st minute when Trent Alexander-Arnold unlocked the defense for Darwin Nunez to square for Mohamed Salah's clinical finish. The result leaves Manchester City alone at the summit following their 1-0 win over Southampton, with Arsenal and Liverpool locked in relentless pursuit.",
+  "stakes": "Manchester City take sole possession of first place with 23 points; Arsenal sit second on 22 points, while Liverpool stay hot on their heels with 16 points.",
+  "rivalryAngle": "Two Premier League heavyweights produce an end-to-end tactical masterpiece that keeps the championship race on a knife edge.",
   "funFacts": [
-    "Arsenal have won seven of their opening eight Premier League fixtures (7-0-1).",
-    "Liverpool have conceded just eight league goals this season, boasting the joint-second best defense.",
-    "Last season's corresponding fixture at Emirates Stadium produced a pulsating 3-1 Arsenal victory."
+    "Mohamed Salah has now scored 11 career Premier League goals against Arsenal.",
+    "Bukayo Saka reached 50 Premier League career goals at the age of 23 years and 56 days.",
+    "Arsenal remain unbeaten at home in all competitions across the 2026-27 campaign."
   ],
   "keyPlayers": [
     {
       "name": "Bukayo Saka",
       "team": "Arsenal",
-      "hook": "Dynamic winger seeks immediate redemption after midweek shootout heartbreak."
+      "hook": "Scored magnificent early opener and created four chances in scintillating 85-minute display."
     },
     {
       "name": "Mohamed Salah",
       "team": "Liverpool",
-      "hook": "Talismanic forward has scored 10 career Premier League goals against the Gunners."
+      "hook": "Showed ice-cold composure to slot home 81st-minute equalizer from Nunez cross."
     },
     {
-      "name": "Declan Rice",
+      "name": "Mikel Merino",
       "team": "Arsenal",
-      "hook": "Midfield powerhouse tasked with disrupting Liverpool's quick transition game."
+      "hook": "Towered above Liverpool defense to head home first Arsenal goal on stroke of halftime."
     }
   ],
-  "headToHead": "Saturday 31 October 2026. Emirates Stadium, London. Kickoff 17:30 BST.",
+  "headToHead": "Saturday 31 October 2026. Emirates Stadium, London. Final: ARS 2, LIV 2. Crowd 60,383.",
   "tags": [
     "soccer",
     "premier-league",
@@ -50,31 +50,31 @@
   "time": "17:30",
   "venue": "Emirates Stadium",
   "city": "London",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 2,
   "marquee": true,
-  "liveMinute": null,
+  "liveMinute": 90,
   "image": "https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": null,
+  "decidedBy": "draw",
   "homePen": null,
   "awayPen": null,
   "sport": "soccer",
-  "competition": "premier-league-2026",
+  "competition": "premier-league-2026-27",
   "format": "team-match",
-  "season": "2026",
-  "roundLabel": "Premier League Matchweek 9",
-  "resultSummary": "UPCOMING: Saturday 17:30 BST at Emirates Stadium. Arsenal (21 pts) host Liverpool (15 pts).",
+  "season": "2026-27",
+  "roundLabel": "Matchweek 9",
+  "resultSummary": "FINAL: Arsenal 2-2 Liverpool. Saka 9', Merino 43'; Van Dijk 18', Salah 81'.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "Premier League Matchweek 9 Official Preview",
-      "url": "https://www.premierleague.com/match/115456"
+      "name": "Premier League Official Match Centre",
+      "url": "https://www.premierleague.com/match/115982"
     },
     {
-      "name": "BBC Sport Football Match Preview",
-      "url": "https://www.bbc.com/sport/football"
+      "name": "BBC Sport Football Report",
+      "url": "https://www.bbc.com/sport/football/live/c4ge8y279xjt"
     }
   ]
 }

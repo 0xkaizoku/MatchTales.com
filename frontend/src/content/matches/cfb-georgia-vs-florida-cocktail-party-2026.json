@@ -1,0 +1,81 @@
+{
+  "slug": "cfb-georgia-vs-florida-cocktail-party-2026",
+  "headline": "College Football Week 10: Georgia pulls away from Florida 34-20 in Jacksonville Cocktail Party",
+  "whyCareScore": 9.5,
+  "whyCareReason": "Carson Beck throws three touchdown passes and Trevor Etienne rushes for 112 yards as number two Georgia overcomes rival Florida in neutral-site rivalry.",
+  "teaser": "FINAL: Georgia 34, Florida 20. EverBank Stadium crowd of 76,824 sees Bulldogs explode for 21 unanswered second-half points.",
+  "story": "The historic rivalry known as the World's Largest Outdoor Cocktail Party delivered signature drama on Saturday, 31 October, as number two Georgia pulled away for a 34-20 victory over Florida before 76,824 fans at EverBank Stadium in Jacksonville. Florida had grabbed a surprise 13-10 halftime lead thanks to a pair of field goals and a 42-yard touchdown pass from DJ Lagway, but Kirby Smart's Bulldogs seized complete control after the break. Quarterback Carson Beck was surgical in the second half, finishing with 285 passing yards and three touchdowns, including a 31-yard rainbow to Dillon Bell. Running back Trevor Etienne, playing against his former school, pounded out 112 yards on 18 carries and put the contest away with a four-yard touchdown scamper in the fourth quarter. The victory keeps Georgia undefeated at 8-0 atop the SEC standings.",
+  "stakes": "Georgia remains perfect at 8-0 and strengthens their grip on a College Football Playoff top seed; Florida falls to 4-4.",
+  "rivalryAngle": "One of college football's fiercest neutral-site rivalries sees Georgia claim their fourth straight victory over Florida in Jacksonville.",
+  "funFacts": [
+    "Georgia has scored 30 or more points against Florida in four consecutive meetings.",
+    "Carson Beck completed 15 of his final 17 passes in the second half.",
+    "EverBank Stadium hosted its 92nd edition of the border war."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Carson Beck",
+      "team": "Georgia Bulldogs",
+      "hook": "Completed 22 of 29 passes for 285 yards and three touchdowns without an interception."
+    },
+    {
+      "name": "Trevor Etienne",
+      "team": "Georgia Bulldogs",
+      "hook": "Rushed for 112 yards and sealed victory with fourth-quarter touchdown run."
+    },
+    {
+      "name": "DJ Lagway",
+      "team": "Florida Gators",
+      "hook": "Passed for 214 yards and a touchdown in spirited rivalry start."
+    }
+  ],
+  "headToHead": "Saturday 31 October 2026. EverBank Stadium, Jacksonville. Final: UGA 34, FLA 20.",
+  "tags": [
+    "football",
+    "cfb",
+    "georgia",
+    "florida",
+    "cocktail-party",
+    "week-10",
+    "sec"
+  ],
+  "home": "Florida Gators",
+  "away": "Georgia Bulldogs",
+  "homeCode": "USA",
+  "awayCode": "USA",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NCAA SEC",
+  "matchday": 10,
+  "date": "2026-10-31",
+  "time": "15:30",
+  "venue": "EverBank Stadium",
+  "city": "Jacksonville",
+  "status": "FINISHED",
+  "homeScore": 20,
+  "awayScore": 34,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618269/pexels-photo-1618269.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "points",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "football",
+  "competition": "ncaa-sec-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "Week 10",
+  "resultSummary": "FINAL: Georgia 34, Florida 20. Beck 285 yds, 3 TD; Etienne 112 yds, 1 TD.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NCAA Official Game Summary",
+      "url": "https://www.ncaa.com/game/football/fbs/2026/10/31/georgia-florida"
+    },
+    {
+      "name": "ESPN College Football Recap",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401673890"
+    }
+  ]
+}

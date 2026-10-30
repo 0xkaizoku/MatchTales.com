@@ -1,29 +1,29 @@
 {
-  "asOf": "2026-10-30",
+  "asOf": "2026-10-31",
   "premierLeagueTable": [
     {
       "pos": 1,
       "team": "Manchester City",
-      "p": 8,
-      "w": 7,
+      "p": 9,
+      "w": 8,
       "d": 0,
       "l": 1,
-      "gf": 20,
+      "gf": 21,
       "ga": 9,
-      "gd": 11,
-      "pts": 21
+      "gd": 12,
+      "pts": 24
     },
     {
       "pos": 2,
       "team": "Arsenal",
-      "p": 8,
+      "p": 9,
       "w": 7,
-      "d": 0,
+      "d": 1,
       "l": 1,
-      "gf": 13,
-      "ga": 5,
+      "gf": 15,
+      "ga": 7,
       "gd": 8,
-      "pts": 21
+      "pts": 22
     },
     {
       "pos": 3,
@@ -40,14 +40,14 @@
     {
       "pos": 4,
       "team": "Liverpool",
-      "p": 8,
+      "p": 9,
       "w": 4,
-      "d": 3,
+      "d": 4,
       "l": 1,
-      "gf": 11,
-      "ga": 8,
+      "gf": 13,
+      "ga": 10,
       "gd": 3,
-      "pts": 15
+      "pts": 16
     },
     {
       "pos": 5,
@@ -780,6 +780,12 @@
       "p1": "Alexander Zverev",
       "p2": "Andrey Rublev",
       "status": "Zverev 7-6 (4), 6-4"
+    },
+    {
+      "draw": "Vienna SF",
+      "p1": "Carlos Alcaraz",
+      "p2": "Alexander Zverev",
+      "status": "Alcaraz 6-4, 7-6 (5)"
     }
   ]
 }

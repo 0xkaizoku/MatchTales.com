@@ -1,0 +1,81 @@
+{
+  "slug": "nba-spurs-vs-suns-2026",
+  "headline": "NBA Saturday: Victor Wembanyama dominates with 31 points and 6 blocks as Spurs tame Suns 118-106",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Victor Wembanyama records 31 points, 14 rebounds, and 6 blocks in Phoenix as San Antonio moves to 3-1 with dominant road victory.",
+  "teaser": "FINAL: Spurs 118, Suns 106. Footprint Center witnesses Wembanyama two-way masterclass; Chris Paul orchestrates 12 assists.",
+  "story": "Victor Wembanyama put together a terrifying display of two-way basketball on Saturday night, 31 October, propelling the San Antonio Spurs to a 118-106 road victory over the Phoenix Suns at Footprint Center. The 22-year-old French phenomenon scored 31 points on 12-of-19 shooting, collected 14 rebounds, rejected six shots, and swiped three steals in 34 minutes of action. With veteran point guard Chris Paul directing the offense with 12 assists and zero turnovers, the Spurs seized control with a 36-22 second-quarter blitz. Phoenix cut the deficit to five midway through the fourth quarter behind Kevin Durant's 28 points, but Wembanyama answered with a monstrous alley-oop slam and consecutive rim protections to seal the contest. The victory lifts San Antonio to 3-1 on the young NBA season.",
+  "stakes": "San Antonio improves to 3-1 to assert themselves as Western Conference contenders; Phoenix drops to 2-2.",
+  "rivalryAngle": "Wembanyama and Durant trade superstar moments in a classic clash of basketball generations.",
+  "funFacts": [
+    "Victor Wembanyama becomes the first player in Spurs franchise history with 30+ pts, 10+ reb, and 5+ blk in multiple games before turning 23.",
+    "Chris Paul passed 12,000 career regular-season assists during the contest.",
+    "San Antonio held Phoenix to 41.2 percent field-goal shooting."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Victor Wembanyama",
+      "team": "San Antonio Spurs",
+      "hook": "Totaled 31 points, 14 rebounds, 6 blocks, and 3 steals in complete two-way exhibition."
+    },
+    {
+      "name": "Chris Paul",
+      "team": "San Antonio Spurs",
+      "hook": "Delivered 12 assists with zero turnovers to orchestrate the Spurs half-court offense."
+    },
+    {
+      "name": "Kevin Durant",
+      "team": "Phoenix Suns",
+      "hook": "Poured in 28 points on 10-of-18 shooting in valiant home effort."
+    }
+  ],
+  "headToHead": "Saturday 31 October 2026. Footprint Center, Phoenix. Final: SAS 118, PHX 106.",
+  "tags": [
+    "basketball",
+    "nba",
+    "spurs",
+    "suns",
+    "wembanyama",
+    "durant",
+    "regular-season"
+  ],
+  "home": "Phoenix Suns",
+  "away": "San Antonio Spurs",
+  "homeCode": "USA",
+  "awayCode": "USA",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NBA Regular Season",
+  "matchday": 4,
+  "date": "2026-10-31",
+  "time": "20:00",
+  "venue": "Footprint Center",
+  "city": "Phoenix",
+  "status": "FINISHED",
+  "homeScore": 106,
+  "awayScore": 118,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1752757/pexels-photo-1752757.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "points",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "basketball",
+  "competition": "nba-2026-27",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "Regular Season",
+  "resultSummary": "FINAL: Spurs 118, Suns 106. Wembanyama 31 pts, 14 reb, 6 blk; Durant 28 pts.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NBA Official Box Score",
+      "url": "https://www.nba.com/game/sas-vs-phx-0022600045"
+    },
+    {
+      "name": "ESPN NBA Gamecast",
+      "url": "https://www.espn.com/nba/game/_/gameId/401672450"
+    }
+  ]
+}
