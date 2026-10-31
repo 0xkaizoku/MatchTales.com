@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-31",
+  "asOf": "2026-11-01",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -52,14 +52,14 @@
     {
       "pos": 5,
       "team": "Chelsea",
-      "p": 8,
-      "w": 4,
+      "p": 9,
+      "w": 5,
       "d": 1,
       "l": 3,
-      "gf": 17,
-      "ga": 15,
-      "gd": 2,
-      "pts": 13
+      "gf": 19,
+      "ga": 16,
+      "gd": 3,
+      "pts": 16
     },
     {
       "pos": 6,
@@ -259,37 +259,37 @@
       "pos": 1,
       "name": "Kimi Antonelli",
       "team": "Mercedes",
-      "pts": 365
+      "pts": 383
     },
     {
       "pos": 2,
-      "name": "George Russell",
-      "team": "Mercedes",
-      "pts": 242
+      "name": "Charles Leclerc",
+      "team": "Ferrari",
+      "pts": 258
     },
     {
       "pos": 3,
-      "name": "Lewis Hamilton",
-      "team": "Ferrari",
-      "pts": 241
+      "name": "George Russell",
+      "team": "Mercedes",
+      "pts": 252
     },
     {
       "pos": 4,
       "name": "Max Verstappen",
       "team": "Red Bull",
-      "pts": 236
+      "pts": 251
     },
     {
       "pos": 5,
-      "name": "Charles Leclerc",
+      "name": "Lewis Hamilton",
       "team": "Ferrari",
-      "pts": 233
+      "pts": 249
     },
     {
       "pos": 6,
       "name": "Lando Norris",
       "team": "McLaren",
-      "pts": 211
+      "pts": 223
     },
     {
       "pos": 7,
@@ -730,6 +730,13 @@
       "home": "Green Bay Packers",
       "away": "Carolina Panthers",
       "note": "FINAL: Packers 27, Panthers 17. Prime Video. Lambeau Field. Jordan Love 21-30, 248 yds, 2 TD; Josh Jacobs 94 yds, 1 TD; Gary 2 sacks. Packers 6-2, Panthers 3-5."
+    },
+    {
+      "date": "2026-11-01",
+      "time": "1:00 p.m. ET",
+      "home": "Minnesota Vikings",
+      "away": "Indianapolis Colts",
+      "note": "FINAL: Vikings 24, Colts 17. CBS. Darnold 274 yds, 2 TD to Jefferson. Flores defense forces 3 turnovers as Minnesota moves to 7-0."
     }
   ],
   "usOpenQF": [
@@ -786,6 +793,12 @@
       "p1": "Carlos Alcaraz",
       "p2": "Alexander Zverev",
       "status": "Alcaraz 6-4, 7-6 (5)"
+    },
+    {
+      "draw": "Vienna Final",
+      "p1": "Carlos Alcaraz",
+      "p2": "Lorenzo Musetti",
+      "status": "Alcaraz 6-3, 6-4"
     }
   ]
 }

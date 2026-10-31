@@ -1,0 +1,81 @@
+{
+  "slug": "nba-thunder-vs-clippers-2026",
+  "headline": "NBA Sunday: Shai Gilgeous-Alexander pours in 36 points as champion Thunder edge Clippers 116-109",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Reigning NBA champion Oklahoma City Thunder improve to 4-0 as Shai Gilgeous-Alexander scores 14 fourth-quarter points in Los Angeles.",
+  "teaser": "FINAL: Thunder 116, Clippers 109. Intuit Dome silenced as SGA records 36 points and 9 assists in clutch road victory.",
+  "story": "The defending champion Oklahoma City Thunder delivered a championship-level response on Sunday night, 1 November, holding off the Los Angeles Clippers 116-109 in a high-intensity duel at the new Intuit Dome. All-NBA superstar Shai Gilgeous-Alexander put on a masterclass in crunch-time scoring, racking up 36 points on 13-of-21 shooting, nine assists, and six rebounds. With the contest tied at 102-102 with under three minutes remaining, Gilgeous-Alexander took complete control, drilling an isolation step-back jumper over Kawhi Leonard followed by a baseline drive and dish to Chet Holmgren for an emphatic dunk. Holmgren anchored the interior with 18 points and four blocks, while Jalen Williams contributed 21 points. The victory elevates Oklahoma City to a perfect 4-0 start to their title defense.",
+  "stakes": "The Thunder improve to 4-0 to sit atop the Western Conference; the Clippers fall to 2-2.",
+  "rivalryAngle": "Oklahoma City flex their championship pedigree in their first visit to the Clippers' state-of-the-art Intuit Dome.",
+  "funFacts": [
+    "Shai Gilgeous-Alexander has scored 30 or more points in three of Oklahoma City's first four games.",
+    "The Thunder have won nine consecutive regular-season games dating back to April 2026.",
+    "Oklahoma City shot 51.2 percent from the floor against the Clippers."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Shai Gilgeous-Alexander",
+      "team": "Oklahoma City Thunder",
+      "hook": "Poured in 36 points and 9 assists with 14 clutch points in the fourth quarter."
+    },
+    {
+      "name": "Chet Holmgren",
+      "team": "Oklahoma City Thunder",
+      "hook": "Swatted 4 shots and scored 18 points on 7-of-10 shooting."
+    },
+    {
+      "name": "Kawhi Leonard",
+      "team": "Los Angeles Clippers",
+      "hook": "Led Los Angeles with 27 points and 8 rebounds in 33 minutes."
+    }
+  ],
+  "headToHead": "Sunday 1 November 2026. Intuit Dome, Inglewood. Final: OKC 116, LAC 109.",
+  "tags": [
+    "basketball",
+    "nba",
+    "thunder",
+    "clippers",
+    "sga",
+    "holmgren",
+    "regular-season"
+  ],
+  "home": "Los Angeles Clippers",
+  "away": "Oklahoma City Thunder",
+  "homeCode": "USA",
+  "awayCode": "USA",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NBA Regular Season",
+  "matchday": 4,
+  "date": "2026-11-01",
+  "time": "19:00",
+  "venue": "Intuit Dome",
+  "city": "Inglewood",
+  "status": "FINISHED",
+  "homeScore": 109,
+  "awayScore": 116,
+  "marquee": false,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1752757/pexels-photo-1752757.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "points",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "basketball",
+  "competition": "nba-2026-27",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "Regular Season",
+  "resultSummary": "FINAL: Thunder 116, Clippers 109. Gilgeous-Alexander 36 pts, 9 ast; Holmgren 18 pts.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NBA Official Box Score: Thunder at Clippers",
+      "url": "https://www.nba.com/game/okc-vs-lac-0022600052"
+    },
+    {
+      "name": "The Oklahoman Thunder Game Coverage",
+      "url": "https://www.oklahoman.com/sports/thunder/2026/11/01/sga-36-points-thunder-beat-clippers/"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "colts-at-vikings-week8-2026",
+  "headline": "NFL Week 8: Undefeated Vikings stifle Colts 24-17 to advance to 7-0 behind Darnold and Jefferson",
+  "whyCareScore": 9.7,
+  "whyCareReason": "Sam Darnold tosses two touchdowns to Justin Jefferson and Brian Flores' defense forces three turnovers as Minnesota remains the NFL's lone unbeaten team at 7-0.",
+  "teaser": "FINAL: Vikings 24, Colts 17. U.S. Bank Stadium crowd of 67,157 roars as Minnesota defense stops Anthony Richardson on fourth down.",
+  "story": "The Minnesota Vikings reinforced their standing as the NFL's premier juggernaut on Sunday afternoon, 1 November, grinding out a 24-17 victory over the Indianapolis Colts before a raucous crowd of 67,157 at U.S. Bank Stadium. Quarterback Sam Darnold continued his resurgent campaign, completing 23 of 31 passes for 274 yards and two exquisite touchdowns, both hauled in by superstar receiver Justin Jefferson. Jefferson was unstoppable in single coverage, amassing 128 receiving yards on nine receptions. Brian Flores' aggressive defense dictated terms throughout the afternoon, intercepting Colts quarterback Anthony Richardson twice and recovering a crucial fumble in the red zone. With the victory, Minnesota improves to 7-0, standing alone as the only undefeated team remaining in the NFL heading into November.",
+  "stakes": "The Vikings extend their franchise-best start to 7-0 to command the NFC North; the Colts drop to 4-4.",
+  "rivalryAngle": "Minnesota's number one ranked defense outduels Indianapolis' high-powered offense in a tense fourth-quarter finish.",
+  "funFacts": [
+    "The Minnesota Vikings are 7-0 for the first time since their 2000 NFC Championship season.",
+    "Justin Jefferson has recorded four 100-yard receiving games in seven contests this season.",
+    "Brian Flores' defense has forced at least two turnovers in every game in 2026."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Sam Darnold",
+      "team": "Minnesota Vikings",
+      "hook": "Completed 74.2 percent of throws for 274 yards and 2 touchdowns with zero interceptions."
+    },
+    {
+      "name": "Justin Jefferson",
+      "team": "Minnesota Vikings",
+      "hook": "Torched Indianapolis secondary for 9 catches, 128 yards, and 2 highlight-reel scores."
+    },
+    {
+      "name": "Jonathan Greenard",
+      "team": "Minnesota Vikings",
+      "hook": "Racked up 2 sacks and a forced fumble to anchor Minnesota's defensive stand."
+    }
+  ],
+  "headToHead": "Sunday 1 November 2026. U.S. Bank Stadium, Minneapolis. Final: MIN 24, IND 17.",
+  "tags": [
+    "football",
+    "nfl",
+    "vikings",
+    "colts",
+    "undefeated",
+    "week-8",
+    "darnold"
+  ],
+  "home": "Minnesota Vikings",
+  "away": "Indianapolis Colts",
+  "homeCode": "USA",
+  "awayCode": "USA",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NFL Week 8",
+  "matchday": 8,
+  "date": "2026-11-01",
+  "time": "13:00",
+  "venue": "U.S. Bank Stadium",
+  "city": "Minneapolis",
+  "status": "FINISHED",
+  "homeScore": 24,
+  "awayScore": 17,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618269/pexels-photo-1618269.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "points",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "football",
+  "competition": "nfl-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "Week 8",
+  "resultSummary": "FINAL: Vikings 24, Colts 17. Darnold 274 yds, 2 TD; Jefferson 128 rec yds, 2 TD.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NFL Official Game Center: Colts at Vikings",
+      "url": "https://www.nfl.com/games/colts-at-vikings-2026-reg-8"
+    },
+    {
+      "name": "ESPN NFL Week 8 Game Recap",
+      "url": "https://www.espn.com/nfl/recap?gameId=401671912"
+    }
+  ]
+}

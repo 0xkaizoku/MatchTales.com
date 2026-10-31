@@ -1,113 +1,112 @@
 {
   "slug": "mexico-city-gp-autodromo-hermanos-rodriguez-2026",
-  "headline": "Mexico City GP Qualifying: Kimi Antonelli storms to pole position on brink of world title",
-  "whyCareScore": 9.8,
-  "whyCareReason": "Mercedes rookie sensation Kimi Antonelli clocks 1:16.892 at 2,285 meters to edge Charles Leclerc for pole; needs only P9 on Sunday to clinch championship.",
-  "teaser": "POLE POSITION: Antonelli (1:16.892) takes pole ahead of Leclerc (+0.076) and Verstappen (+0.142) in thrilling high-altitude qualifying.",
-  "story": "Kimi Antonelli moved one step closer to Formula 1 history on Saturday, 31 October, claiming a sensational pole position for the Mexico City Grand Prix at Autodromo Hermanos Rodriguez. The 20-year-old Mercedes prodigy delivered an inch-perfect lap of 1:16.892 in the final moments of Q3, eclipsing Ferrari's Charles Leclerc by just 0.076 seconds before an ecstatic Foro Sol stadium section. Red Bull's Max Verstappen qualified third, 0.142 seconds adrift, with McLaren's Lando Norris alongside him on the second row. Antonelli, who leads the drivers' championship with 365 points, requires only a ninth-place finish in Sunday's 71-lap Grand Prix to become the youngest world champion in Formula 1 history. Despite intense pressure and thin air at 2,285 meters above sea level, Antonelli showed nerves of steel across all three knockout qualifying segments.",
-  "stakes": "Antonelli starts from pole needing only two points on Sunday to mathematically secure the 2026 Formula 1 World Drivers' Championship.",
-  "rivalryAngle": "Antonelli, Leclerc, and Verstappen qualify within a tenth and a half, setting up an explosive sprint into the heavy braking zone of Turn 1.",
+  "headline": "Mexico City GP: Kimi Antonelli finishes P2 behind Leclerc to become youngest F1 World Champion in history",
+  "whyCareScore": 10.0,
+  "whyCareReason": "At 20 years and 68 days, Kimi Antonelli seals the 2026 Formula 1 World Drivers' Championship with a composed runner-up drive behind race winner Charles Leclerc.",
+  "teaser": "WORLD CHAMPION: Antonelli (P2) mathematically secures maiden title at Autodromo Hermanos Rodriguez; Charles Leclerc wins 71-lap Mexican thriller.",
+  "story": "History was written in the thin air of Mexico City on Sunday, 1 November, as 20-year-old Kimi Antonelli crossed the line in second place at Autodromo Hermanos Rodriguez to become the youngest World Drivers' Champion in Formula 1 history. Starting from pole, the Italian rookie drove with maturity beyond his years, conceding the lead to Ferrari's Charles Leclerc on lap 15 before controlling the gap to third-place Max Verstappen. Leclerc took a deserved fifth victory of the season, taking the checkered flag by 4.2 seconds, but all eyes were on Antonelli as he steered his Mercedes through the roar of the Foro Sol stadium section. With 383 points and an unassailable 131-point advantage over teammate George Russell with three races to spare, Antonelli shatters Sebastian Vettel's 16-year-old record to claim the greatest prize in motorsport.",
+  "stakes": "Antonelli clinches the 2026 Formula 1 World Championship with three rounds remaining; Mercedes secure their first drivers' title since 2020.",
+  "rivalryAngle": "A passing of the torch as young prodigy Antonelli ascends to the summit of motorsport, flanked on the podium by Leclerc and Verstappen.",
   "funFacts": [
-    "Kimi Antonelli secures his fourth career Formula 1 pole position in his rookie campaign.",
-    "The top four qualifiers were separated by less than two-tenths of a second at Hermanos Rodriguez.",
-    "Mercedes locked in their sixth pole position of the 2026 season."
+    "At 20 years, 2 months and 7 days, Kimi Antonelli breaks Sebastian Vettel's record from 2010 (23 years, 134 days).",
+    "Antonelli becomes the first Italian Formula 1 World Champion since Alberto Ascari in 1953.",
+    "Over 150,000 fans packed into Autodromo Hermanos Rodriguez for Sunday's Grand Prix."
   ],
   "keyPlayers": [
     {
       "name": "Kimi Antonelli",
       "team": "Mercedes-AMG Petronas",
-      "hook": "Set purple sectors in the middle and stadium complexes to secure pole with 1:16.892."
+      "hook": "Drove an impeccably disciplined 71 laps to take P2 and secure the 2026 World Championship."
     },
     {
       "name": "Charles Leclerc",
       "team": "Scuderia Ferrari",
-      "hook": "Pushed Antonelli to the limit, missing pole by just 76 thousandths on final flyer."
+      "hook": "Captured his fifth Grand Prix victory of 2026 with an aggressive one-stop tire strategy."
     },
     {
       "name": "Max Verstappen",
       "team": "Red Bull Racing",
-      "hook": "Starts P3 with a slipstream advantage heading into the long run down to Turn 1."
+      "hook": "Completed the podium in P3 after a race-long duel with McLaren's Lando Norris."
     }
   ],
-  "headToHead": "Saturday 31 October 2026. Autodromo Hermanos Rodriguez, Mexico City. Pole: Antonelli 1:16.892.",
+  "headToHead": "Sunday 1 November 2026. Autodromo Hermanos Rodriguez, Mexico City. 71 laps completed.",
   "tags": [
     "f1",
     "formula-1",
     "mexico-city-gp",
     "antonelli",
-    "mercedes",
+    "world-champion",
     "leclerc",
-    "qualifying",
-    "pole"
+    "mercedes"
   ],
-  "home": "Kimi Antonelli",
-  "away": "Charles Leclerc",
-  "homeCode": "ITA",
-  "awayCode": "MON",
-  "homeFlag": "it",
-  "awayFlag": "mc",
+  "home": "Charles Leclerc",
+  "away": "Kimi Antonelli",
+  "homeCode": "MON",
+  "awayCode": "ITA",
+  "homeFlag": "mc",
+  "awayFlag": "it",
   "group": "Formula 1",
   "matchday": 20,
-  "date": "2026-10-31",
-  "time": "15:00",
+  "date": "2026-11-01",
+  "time": "14:00",
   "venue": "Autodromo Hermanos Rodriguez",
   "city": "Mexico City",
-  "status": "LIVE",
-  "homeScore": "1:16.892",
-  "awayScore": "+0.076",
+  "status": "FINISHED",
+  "homeScore": "Winner",
+  "awayScore": "Champion",
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/12795/pexels-photo-12795.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": "time",
+  "decidedBy": "points",
   "homePen": null,
   "awayPen": null,
   "sport": "f1",
   "competition": "f1-2026",
   "format": "race",
   "season": "2026",
-  "roundLabel": "Qualifying",
-  "resultSummary": "QUALIFYING: Antonelli (1:16.892) takes pole ahead of Leclerc (+0.076) and Verstappen (+0.142).",
+  "roundLabel": "Race Final",
+  "resultSummary": "FINAL: Leclerc wins Mexico City GP; Antonelli finishes P2 to win 2026 World Championship.",
   "leaderboard": [
     {
       "pos": "1",
-      "name": "Kimi Antonelli (Mercedes)",
-      "score": "1:16.892",
-      "note": "POLE"
+      "name": "Charles Leclerc (Ferrari)",
+      "score": "1:38:24.450",
+      "note": "Race Winner"
     },
     {
       "pos": "2",
-      "name": "Charles Leclerc (Ferrari)",
-      "score": "+0.076",
-      "note": "Front row"
+      "name": "Kimi Antonelli (Mercedes)",
+      "score": "+4.281s",
+      "note": "2026 WORLD CHAMPION"
     },
     {
       "pos": "3",
       "name": "Max Verstappen (Red Bull)",
-      "score": "+0.142",
-      "note": "Row 2"
+      "score": "+8.914s",
+      "note": "Podium"
     },
     {
       "pos": "4",
       "name": "Lando Norris (McLaren)",
-      "score": "+0.198",
-      "note": "Row 2"
+      "score": "+12.430s",
+      "note": "P4"
     },
     {
       "pos": "5",
       "name": "George Russell (Mercedes)",
-      "score": "+0.285",
-      "note": "Row 3"
+      "score": "+18.105s",
+      "note": "P5"
     }
   ],
   "tennisSets": [],
   "sources": [
     {
-      "name": "Formula 1 Official Qualifying Timing",
-      "url": "https://www.formula1.com/en/results/2026/races/1247/mexico/qualifying"
+      "name": "Formula 1 Official Grand Prix Classification",
+      "url": "https://www.formula1.com/en/results/2026/races/1247/mexico/race-result"
     },
     {
-      "name": "Autosport F1 Live Commentary",
-      "url": "https://www.autosport.com/f1/live-text/mexico-city-gp-qualifying/11204892/"
+      "name": "Sky Sports F1 Championship Report",
+      "url": "https://www.skysports.com/f1/news/antonelli-champion-mexico-gp-2026"
     }
   ]
 }

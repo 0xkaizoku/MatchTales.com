@@ -1,60 +1,60 @@
 {
   "slug": "vidantaworld-mexico-open-2026",
-  "headline": "VidantaWorld Mexico Open Round 3: Smotherman clings to lead as Pereda charges into Sunday duel",
-  "whyCareScore": 9.1,
-  "whyCareReason": "Austin Smotherman cards 69 to hold 54-hole lead at 13-under 200, with local hero Raul Pereda firing 67 to sit one shot back.",
-  "teaser": "ROUND 3 FINAL: Smotherman (-13, 200) holds 1-shot lead over Mexico's Raul Pereda (-12, 201) and Aaron Rai (-11, 202).",
-  "story": "The stage is set for a dramatic Sunday finish at VidantaVallarta as Austin Smotherman retained his lead at the VidantaWorld Mexico Open on Saturday, 31 October, carding a gritty two-under 69 in testing coastal breezes to stand at 13-under 200. Smotherman, seeking back-to-back PGA Tour victories following his triumph in Bermuda, scrambled brilliantly on the back nine, saving par from the greenside bunker on the 17th. However, the roars echoing across the course belonged to Mexican favorite Raul Pereda. The 29-year-old Veracruz native electrified the home gallery with five birdies against a lone bogey for a four-under 67, climbing to 12-under 201 to earn a spot in Sunday's final pairing. England's Aaron Rai sits just two shots back at 11-under 202 after posting a steady 69, with Argentina's Emiliano Grillo lurking at 10-under.",
-  "stakes": "Smotherman seeks his second PGA Tour title in three weeks; Pereda plays for history to become the first Mexican player to win the event on the PGA Tour.",
-  "rivalryAngle": "An American in top form duels a passionate Mexican hero carrying the hopes of the host nation into Sunday's final round.",
+  "headline": "VidantaWorld Mexico Open: Raul Pereda shoots 66 to become first Mexican PGA Tour winner on home soil",
+  "whyCareScore": 9.8,
+  "whyCareReason": "Raul Pereda birdies three of the final four holes to card a closing 66 (-5) and edge Austin Smotherman by two shots for historic maiden victory.",
+  "teaser": "HISTORIC FINAL: Raul Pereda (-17, 267) wins Mexico Open; Austin Smotherman (-15, 269) finishes solo second at VidantaVallarta.",
+  "story": "Mexican golf celebrated its crowning moment on Sunday, 1 November, as 29-year-old Raul Pereda fired a breathtaking final-round five-under 66 to win the VidantaWorld Mexico Open at VidantaVallarta. Entering the final round trailing 54-hole leader Austin Smotherman by one stroke, Pereda electrified the thousands of home supporters chanting his name along the fairways. After matching Smotherman blow-for-blow through the outward nine, Pereda seized the outright lead with a magnificent 22-foot birdie putt on the par-four 15th. When Smotherman found the sand on the 16th and made bogey, Pereda sealed the triumph in style with a laser-guided approach to five feet on the 17th for another birdie. Two-putting the 18th green for par, Pereda tapped in to finish at 17-under 267, becoming the first Mexican in modern PGA Tour history to lift the Mexico Open trophy.",
+  "stakes": "Pereda secures a two-year PGA Tour exemption, invitations to the 2027 Masters and PGA Championship, and jumps into the top 50 in the world.",
+  "rivalryAngle": "Pereda overcomes an in-form Austin Smotherman in a high-pressure Sunday duel that brought tears of joy to Mexican golf fans.",
   "funFacts": [
-    "Austin Smotherman has led or shared the lead after all three rounds at VidantaVallarta.",
-    "Raul Pereda gained 3.42 strokes on the field with his short game on Saturday.",
-    "VidantaVallarta played to an average score of 71.45 in the afternoon wind."
+    "Raul Pereda is the first Mexican golfer to win on the PGA Tour since Carlos Ortiz in 2020.",
+    "Pereda played the back nine on Sunday in three-under 33 without a single bogey.",
+    "A record crowd of 28,000 spectators attended Sunday's final round at Puerto Vallarta."
   ],
   "keyPlayers": [
     {
-      "name": "Austin Smotherman",
-      "team": "United States",
-      "hook": "Demonstrated iron discipline in coastal breeze to hold the 54-hole lead at 13-under."
-    },
-    {
       "name": "Raul Pereda",
       "team": "Mexico",
-      "hook": "Fired sensational 67 with five birdies to ignite the home gallery and pull within one."
+      "hook": "Carded six birdies in a flawless 66 to claim emotional maiden PGA Tour victory."
+    },
+    {
+      "name": "Austin Smotherman",
+      "team": "United States",
+      "hook": "Posted a solid one-under 70 to finish runner-up at 15-under 269."
     },
     {
       "name": "Aaron Rai",
       "team": "England",
-      "hook": "Carded 69 with zero three-putts to remain within striking distance at 11-under."
+      "hook": "Closed with a 68 to take third place at 13-under 271."
     }
   ],
-  "headToHead": "Saturday 31 October 2026. VidantaVallarta, Vallarta, Mexico. 54 holes completed.",
+  "headToHead": "Sunday 1 November 2026. VidantaVallarta, Vallarta, Mexico. 72 holes completed.",
   "tags": [
     "golf",
     "pga-tour",
     "mexico-open",
-    "smotherman",
     "pereda",
-    "rai",
-    "round-3"
+    "champion",
+    "smotherman",
+    "vidanta"
   ],
-  "home": "Austin Smotherman",
-  "away": "Raul Pereda",
-  "homeCode": "USA",
-  "awayCode": "MEX",
-  "homeFlag": "us",
-  "awayFlag": "mx",
+  "home": "Raul Pereda",
+  "away": "Austin Smotherman",
+  "homeCode": "MEX",
+  "awayCode": "USA",
+  "homeFlag": "mx",
+  "awayFlag": "us",
   "group": "PGA Tour",
-  "matchday": 3,
-  "date": "2026-10-31",
+  "matchday": 4,
+  "date": "2026-11-01",
   "time": "14:00",
   "venue": "VidantaVallarta",
   "city": "Vallarta",
-  "status": "LIVE",
-  "homeScore": "-13",
-  "awayScore": "-12",
-  "marquee": false,
+  "status": "FINISHED",
+  "homeScore": "-17",
+  "awayScore": "-15",
+  "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/914682/pexels-photo-914682.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
   "decidedBy": "score",
@@ -64,49 +64,49 @@
   "competition": "pga-tour-2026",
   "format": "leaderboard",
   "season": "2026",
-  "roundLabel": "Round 3",
-  "resultSummary": "ROUND 3: Smotherman -13 (200), Pereda -12 (201), Rai -11 (202), Grillo -10 (203).",
+  "roundLabel": "Final Round",
+  "resultSummary": "FINAL: Raul Pereda (-17, 267) wins by two shots over Austin Smotherman (-15, 269).",
   "leaderboard": [
     {
       "pos": "1",
-      "name": "Austin Smotherman",
-      "score": "-13 (200)",
-      "note": "66-65-69"
+      "name": "Raul Pereda",
+      "score": "-17 (267)",
+      "note": "CHAMPION (65-68-67-66)"
     },
     {
       "pos": "2",
-      "name": "Raul Pereda",
-      "score": "-12 (201)",
-      "note": "65-68-67"
+      "name": "Austin Smotherman",
+      "score": "-15 (269)",
+      "note": "Solo 2nd (66-65-69-70)"
     },
     {
       "pos": "3",
       "name": "Aaron Rai",
-      "score": "-11 (202)",
-      "note": "66-67-69"
+      "score": "-13 (271)",
+      "note": "3rd (66-67-69-68)"
     },
     {
       "pos": "4",
       "name": "Emiliano Grillo",
-      "score": "-10 (203)",
-      "note": "67-68-68"
+      "score": "-12 (272)",
+      "note": "4th (67-68-68-69)"
     },
     {
-      "pos": "T5",
+      "pos": "5",
       "name": "Stephan Jaeger",
-      "score": "-9 (204)",
-      "note": "68-68-68"
+      "score": "-11 (273)",
+      "note": "5th (68-68-68-69)"
     }
   ],
   "tennisSets": [],
   "sources": [
     {
-      "name": "PGA Tour Leaderboard",
-      "url": "https://www.pgatour.com/tournaments/2026/vidantaworld-mexico-open/R2026540"
+      "name": "PGA Tour Official Tournament Final Standings",
+      "url": "https://www.pgatour.com/tournaments/2026/vidantaworld-mexico-open/leaderboard"
     },
     {
-      "name": "Golf Channel Live Scores",
-      "url": "https://www.golfchannel.com/tours/pga-tour/2026/mexico-open-vidanta"
+      "name": "Golf Channel Final Round Wrap",
+      "url": "https://www.golfchannel.com/news/raul-pereda-historic-mexico-open-victory-2026"
     }
   ]
 }

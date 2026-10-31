@@ -1,0 +1,80 @@
+{
+  "slug": "chelsea-vs-newcastle-mw9-2026",
+  "headline": "Premier League MW9: Cole Palmer strikes winner as Chelsea edge Newcastle 2-1 at Stamford Bridge",
+  "whyCareScore": 9.2,
+  "whyCareReason": "Cole Palmer lashes home a 47th-minute winner after Nicolas Jackson and Alexander Isak trade first-half goals to propel Chelsea to 16 points.",
+  "teaser": "FINAL: Chelsea 2, Newcastle 1. Stamford Bridge roars as Enzo Maresca's side withstand late barrage to claim vital three points.",
+  "story": "Chelsea produced a disciplined and spirited display on Sunday afternoon, 1 November, holding off Newcastle United for a crucial 2-1 victory before 39,812 supporters at Stamford Bridge. Nicolas Jackson opened the scoring in the 18th minute, finishing off a sweeping counterattack orchestrated by Pedro Neto. Newcastle responded on 32 minutes when Alexander Isak tapped in Lewis Hall's precise low cross, but Chelsea struck decisively right after the interval. Collecting the ball 40 yards from goal, talisman Cole Palmer drove purposefully into the Newcastle box before unleashing a ferocious left-footed strike past Nick Pope into the bottom corner. Chelsea's defense held firm during seven minutes of stoppage time to seal their fifth league win of the campaign, climbing to fifth in the Premier League table on 16 points.",
+  "stakes": "Chelsea move to 16 points, level with Liverpool in fourth; Newcastle remain on 12 points.",
+  "rivalryAngle": "Two European qualification contenders trade high-octane blows in West London.",
+  "funFacts": [
+    "Cole Palmer has been directly involved in 12 Premier League goals in nine appearances this season.",
+    "Nicolas Jackson has scored six Premier League goals in his last eight appearances.",
+    "Chelsea have won four of their last five home matches against Newcastle in all competitions."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Cole Palmer",
+      "team": "Chelsea",
+      "hook": "Scored magnificent 47th-minute winner and created three chances in MOTM display."
+    },
+    {
+      "name": "Nicolas Jackson",
+      "team": "Chelsea",
+      "hook": "Slotted home 18th-minute opener and harassed Newcastle center-backs with relentless running."
+    },
+    {
+      "name": "Alexander Isak",
+      "team": "Newcastle United",
+      "hook": "Scored sharp first-half equalizer and registered three shots on target."
+    }
+  ],
+  "headToHead": "Sunday 1 November 2026. Stamford Bridge, London. Final: CHE 2, NEW 1.",
+  "tags": [
+    "soccer",
+    "premier-league",
+    "chelsea",
+    "newcastle",
+    "cole-palmer",
+    "stamford-bridge"
+  ],
+  "home": "Chelsea",
+  "away": "Newcastle United",
+  "homeCode": "ENG",
+  "awayCode": "ENG",
+  "homeFlag": "gb-eng",
+  "awayFlag": "gb-eng",
+  "group": "Premier League",
+  "matchday": 9,
+  "date": "2026-11-01",
+  "time": "14:00",
+  "venue": "Stamford Bridge",
+  "city": "London",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 1,
+  "marquee": false,
+  "liveMinute": 90,
+  "image": "https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "goals",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "soccer",
+  "competition": "premier-league-2026-27",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "Matchweek 9",
+  "resultSummary": "FINAL: Chelsea 2-1 Newcastle United. Jackson 18', Palmer 47'; Isak 32'.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Premier League Official Chelsea vs Newcastle Report",
+      "url": "https://www.premierleague.com/match/115984"
+    },
+    {
+      "name": "BBC Sport Football Match Center",
+      "url": "https://www.bbc.com/sport/football/live/c14k2g89dxjt"
+    }
+  ]
+}

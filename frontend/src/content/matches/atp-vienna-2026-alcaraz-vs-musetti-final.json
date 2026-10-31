@@ -1,0 +1,85 @@
+{
+  "slug": "atp-vienna-2026-alcaraz-vs-musetti-final",
+  "headline": "Erste Bank Open Final: Carlos Alcaraz sweeps Lorenzo Musetti 6-3, 6-4 to lift Vienna crown",
+  "whyCareScore": 9.6,
+  "whyCareReason": "Carlos Alcaraz claims his sixth ATP title of 2026 without dropping a set all week, firing 28 winners to defeat Lorenzo Musetti in 84 minutes.",
+  "teaser": "CHAMPION: Carlos Alcaraz def. Lorenzo Musetti 6-3, 6-4. Spanish maestro lifts Erste Bank Open trophy in front of 9,800 spectators.",
+  "story": "Carlos Alcaraz put the exclamation point on a flawless week of indoor tennis on Sunday, 1 November, defeating Italy's Lorenzo Musetti 6-3, 6-4 to capture the Erste Bank Open championship inside Wiener Stadthalle. The 23-year-old world number one was in complete control from the outset, breaking Musetti in the third game of the opening set with a blazing backhand down the line. Musetti produced flashes of his trademark one-handed backhand magic, but Alcaraz's relentless depth and speed forced 26 unforced errors from the Italian. Alcaraz did not drop a single set in five matches in Vienna, winning 50 of his 52 service games and striking 142 total winners across the tournament. The victory marks Alcaraz's sixth title of the 2026 ATP campaign and extends his season match record to an astonishing 63-7.",
+  "stakes": "Alcaraz collects 500 ATP ranking points to extend his lead at world number one heading into the Paris Masters; Musetti climbs to world number 12.",
+  "rivalryAngle": "Two generational shotmakers produce breathtaking all-court tennis in Vienna's marquee indoor hardcourt finale.",
+  "funFacts": [
+    "Carlos Alcaraz is the first player to win Vienna without dropping a set since 2017.",
+    "Alcaraz has now won 18 career ATP Tour singles titles at age 23.",
+    "Alcaraz won 88 percent of first-serve points during Sunday's championship match."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Carlos Alcaraz",
+      "team": "Spain",
+      "hook": "Crushed 28 winners and did not face a single break point in 84-minute final victory."
+    },
+    {
+      "name": "Lorenzo Musetti",
+      "team": "Italy",
+      "hook": "Reached his third final of 2026, displaying dazzling shotmaking and touch."
+    }
+  ],
+  "headToHead": "Sunday 1 November 2026. Wiener Stadthalle, Vienna. Final: Alcaraz 6-3, 6-4.",
+  "tags": [
+    "tennis",
+    "atp",
+    "vienna",
+    "erste-bank-open",
+    "alcaraz",
+    "musetti",
+    "champion"
+  ],
+  "home": "Carlos Alcaraz",
+  "away": "Lorenzo Musetti",
+  "homeCode": "ESP",
+  "awayCode": "ITA",
+  "homeFlag": "es",
+  "awayFlag": "it",
+  "group": "ATP 500 Vienna",
+  "matchday": 6,
+  "date": "2026-11-01",
+  "time": "14:00",
+  "venue": "Wiener Stadthalle",
+  "city": "Vienna",
+  "status": "FINISHED",
+  "homeScore": "2",
+  "awayScore": "0",
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "sets",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-500-vienna-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Championship Final",
+  "resultSummary": "FINAL: Carlos Alcaraz def. Lorenzo Musetti 6-3, 6-4 to win Vienna title.",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "6",
+      "p2": "3"
+    },
+    {
+      "p1": "6",
+      "p2": "4"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP Tour Vienna Championship Official Report",
+      "url": "https://www.atptour.com/en/news/alcaraz-vienna-final-2026-sunday"
+    },
+    {
+      "name": "Erste Bank Open Tournament Wrap",
+      "url": "https://www.erstebank-open.com/en/alcaraz-champion-2026"
+    }
+  ]
+}
