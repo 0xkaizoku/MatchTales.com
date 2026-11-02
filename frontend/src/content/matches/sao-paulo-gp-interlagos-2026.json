@@ -1,0 +1,107 @@
+{
+  "slug": "sao-paulo-gp-interlagos-2026",
+  "headline": "São Paulo GP Preview: Fresh off Antonelli's coronation, F1 heads to Interlagos for high-stakes Sprint and Constructors' showdown",
+  "whyCareScore": 9.4,
+  "whyCareReason": "One day after 20-year-old Kimi Antonelli clinched the Drivers' Championship in Mexico, Mercedes and Ferrari prepare for a fierce Constructors' title clash at legendary Interlagos.",
+  "teaser": "INTERLAGOS CALLS: Fresh from Antonelli's historic title, the grid descends on São Paulo for the penultimate Sprint weekend of 2026.",
+  "story": "The Formula 1 paddock touched down in Brazil on Monday, 2 November, with the championship narrative shifting dramatically from individual glory to team supremacy. Just 24 hours after Kimi Antonelli became the youngest World Drivers' Champion in Formula 1 history with a composed P2 finish in Mexico City, Mercedes and Ferrari are locked in a fierce confrontation for the 2026 World Constructors' Championship heading into the Grande Premio de São Paulo at Autodromo Jose Carlos Pace. Mercedes hold a 133-point advantage (607 vs 474) with three rounds remaining, but with 34 maximum points available at Interlagos courtesy of Saturday's Sprint format, Ferrari team principal Frederic Vasseur has vowed that Charles Leclerc and Lewis Hamilton will fight aggressively for a Scuderia 1-2. Interlagos' iconic anti-clockwise layout, unpredictable weather, and tight Senna S complex promise high drama.",
+  "stakes": "Mercedes can mathematically seal their first Constructors' World Championship since 2021 if they outscore Ferrari by 14 points across the Interlagos Sprint and Grand Prix.",
+  "rivalryAngle": "Mercedes and Ferrari resume their historic rivalry at the cathedral of Brazilian motorsport, with Leclerc and Hamilton pushing to derail the silver arrows' celebration.",
+  "funFacts": [
+    "The 2026 São Paulo Grand Prix hosts the fifth of six Sprint races on the Formula 1 calendar.",
+    "Lewis Hamilton has won the Brazilian Grand Prix three times, including his historic 2021 comeback drive.",
+    "Kimi Antonelli arrives in Brazil having scored points in 19 of the 20 Grands Prix contested in 2026."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kimi Antonelli",
+      "team": "Mercedes-AMG Petronas",
+      "hook": "Arrives at Interlagos as the newly crowned 2026 World Champion aiming to help Mercedes clinch the Constructors' title."
+    },
+    {
+      "name": "Charles Leclerc",
+      "team": "Scuderia Ferrari",
+      "hook": "Fresh off his Mexican GP victory, leads Ferrari's late-season charge at Interlagos."
+    },
+    {
+      "name": "Lewis Hamilton",
+      "team": "Scuderia Ferrari",
+      "hook": "Fan favorite in Brazil chasing his first victory in Ferrari scarlet at his beloved Interlagos."
+    }
+  ],
+  "headToHead": "Upcoming: 6-8 November 2026. Autodromo Jose Carlos Pace, São Paulo, Brazil. Sprint weekend.",
+  "tags": [
+    "f1",
+    "formula-1",
+    "sao-paulo-gp",
+    "interlagos",
+    "antonelli",
+    "ferrari",
+    "mercedes",
+    "constructors-championship"
+  ],
+  "home": "Mercedes-AMG Petronas",
+  "away": "Scuderia Ferrari",
+  "homeCode": "DEU",
+  "awayCode": "ITA",
+  "homeFlag": "de",
+  "awayFlag": "it",
+  "group": "Formula 1",
+  "matchday": 21,
+  "date": "2026-11-02",
+  "time": "12:00",
+  "venue": "Autodromo Jose Carlos Pace",
+  "city": "São Paulo",
+  "status": "UPCOMING",
+  "homeScore": "607 pts",
+  "awayScore": "474 pts",
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/12795/pexels-photo-12795.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "points",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "f1",
+  "competition": "f1-2026",
+  "format": "race",
+  "season": "2026",
+  "roundLabel": "Race Preview",
+  "resultSummary": "PREVIEW: Antonelli brings world title to Interlagos; Mercedes lead Ferrari by 133 pts in Constructors battle.",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Mercedes",
+      "score": "607 pts",
+      "note": "Constructors Leader"
+    },
+    {
+      "pos": "2",
+      "name": "Ferrari",
+      "score": "474 pts",
+      "note": "P2 Constructors"
+    },
+    {
+      "pos": "3",
+      "name": "McLaren",
+      "score": "367 pts",
+      "note": "P3 Constructors"
+    },
+    {
+      "pos": "4",
+      "name": "Red Bull Racing",
+      "score": "356 pts",
+      "note": "P4 Constructors"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Formula 1 Official São Paulo GP Preview",
+      "url": "https://www.formula1.com/en/latest/article.2026-sao-paulo-grand-prix-preview.html"
+    },
+    {
+      "name": "Sky Sports F1 Championship Analysis",
+      "url": "https://www.skysports.com/f1/news/sao-paulo-gp-constructors-battle-interlagos-2026"
+    }
+  ]
+}

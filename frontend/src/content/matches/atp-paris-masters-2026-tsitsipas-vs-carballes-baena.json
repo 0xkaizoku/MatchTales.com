@@ -1,0 +1,89 @@
+{
+  "slug": "atp-paris-masters-2026-tsitsipas-vs-carballes-baena",
+  "headline": "Rolex Paris Masters: Stefanos Tsitsipas rallies past Roberto Carballes Baena 4-6, 6-3, 6-3 in Bercy opener",
+  "whyCareScore": 9.2,
+  "whyCareReason": "Tenth-seeded Stefanos Tsitsipas fires 37 winners and 11 aces to overcome an opening-set deficit and keep his ATP Finals qualification hopes alive at Accor Arena.",
+  "teaser": "FINAL: Stefanos Tsitsipas def. Roberto Carballes Baena 4-6, 6-3, 6-3. Greek star overcomes slow start to advance to Round of 32 in Paris.",
+  "story": "Stefanos Tsitsipas launched his Rolex Paris Masters campaign with grit and determination on Monday, 2 November, coming from a set down to defeat Spain's Roberto Carballes Baena 4-6, 6-3, 6-3 on Court Central inside Accor Arena. In a grueling battle lasting two hours and seven minutes, the 10th-seeded Greek struggled with timing early on against Carballes Baena's heavy baseline topspin. After dropping the opening set, Tsitsipas elevated his aggression, stepping inside the baseline to dictate with his forehand and striking 37 total winners alongside 11 aces. Tsitsipas broke serve in the fourth game of the second set and carried that momentum through the decider, breaking twice more to secure a vital victory. With 50 ATP ranking points banked, Tsitsipas keeps pressure on the contenders in the race to qualify for the season-ending Nitto ATP Finals in Turin.",
+  "stakes": "Tsitsipas advances to the Round of 32 in Paris and maintains his push for a top-eight berth in the ATP Finals race; Carballes Baena bows out.",
+  "rivalryAngle": "Tsitsipas improves to 4-0 in career head-to-head encounters against the resolute Spanish clay specialist.",
+  "funFacts": [
+    "Tsitsipas won 81 percent of his first-serve points across the final two sets in Bercy.",
+    "This marks Tsitsipas' 45th ATP Tour match win of the 2026 season.",
+    "Fresh off his Vienna title, world number one Carlos Alcaraz arrived in Paris on Monday ahead of his opening match on Wednesday."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Stefanos Tsitsipas",
+      "team": "Greece",
+      "hook": "Fired 37 winners and 11 aces to fight back from a set down in a two-hour battle."
+    },
+    {
+      "name": "Roberto Carballes Baena",
+      "team": "Spain",
+      "hook": "Took the opening set with tenacious defense and relentless baseline depth."
+    }
+  ],
+  "headToHead": "Monday 2 November 2026. Accor Arena, Paris. Final: Tsitsipas 4-6, 6-3, 6-3.",
+  "tags": [
+    "tennis",
+    "atp",
+    "paris-masters",
+    "rolex-paris-masters",
+    "tsitsipas",
+    "carballes-baena",
+    "bercy"
+  ],
+  "home": "Stefanos Tsitsipas",
+  "away": "Roberto Carballes Baena",
+  "homeCode": "GRE",
+  "awayCode": "ESP",
+  "homeFlag": "gr",
+  "awayFlag": "es",
+  "group": "Rolex Paris Masters",
+  "matchday": 1,
+  "date": "2026-11-02",
+  "time": "14:30",
+  "venue": "Accor Arena",
+  "city": "Paris",
+  "status": "FINISHED",
+  "homeScore": "2",
+  "awayScore": "1",
+  "marquee": false,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "sets",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-1000-paris-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Round of 64",
+  "resultSummary": "FINAL: Stefanos Tsitsipas def. Roberto Carballes Baena 4-6, 6-3, 6-3 to reach Paris R32.",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "4",
+      "p2": "6"
+    },
+    {
+      "p1": "6",
+      "p2": "3"
+    },
+    {
+      "p1": "6",
+      "p2": "3"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP Tour Rolex Paris Masters Official Report",
+      "url": "https://www.atptour.com/en/news/tsitsipas-carballes-baena-paris-2026-monday"
+    },
+    {
+      "name": "Tennis Channel Paris Masters Match Center",
+      "url": "https://www.tennischannel.com/tournaments/atp-1000-paris-masters-2026"
+    }
+  ]
+}

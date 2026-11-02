@@ -1,0 +1,82 @@
+{
+  "slug": "giants-at-steelers-mnf-week8-2026",
+  "headline": "NFL Week 8 MNF: Steelers overpower Giants 26-18 behind Calvin Austin's two touchdowns and ferocious pass rush",
+  "whyCareScore": 9.6,
+  "whyCareReason": "Calvin Austin III scores on a 73-yard punt return and a 29-yard reception, while T.J. Watt and Alex Highsmith terrorize Daniel Jones to send Pittsburgh to 6-2 atop the AFC North.",
+  "teaser": "FINAL: Steelers 26, Giants 18. Acrisure Stadium rocks on Monday Night Football as Pittsburgh defense forces two crucial fourth-quarter turnovers.",
+  "story": "The Pittsburgh Steelers solidified their hold on first place in the AFC North with an authoritative 26-18 victory over the New York Giants on Monday Night Football, 2 November, before a sellout crowd of 67,430 at Acrisure Stadium. Wide receiver Calvin Austin III delivered the game-changing moments in the third quarter, first fielding a punt at his own 27-yard line and weaving through traffic for a sensational 73-yard return touchdown. Moments later, veteran quarterback Russell Wilson connected with Austin on a perfectly weighted 29-yard touchdown strike. Wilson completed 20 of 28 passes for 278 yards with zero turnovers, orchestrating four Chris Boswell field goals. On defense, superstar edge rusher T.J. Watt dominated with two sacks, a forced fumble, and a fumble recovery, while rookie cornerback Beanie Bishop Jr. intercepted Daniel Jones with 34 seconds remaining to extinguish New York's final drive.",
+  "stakes": "The Steelers improve to 6-2 to take sole possession of first place in the AFC North; the Giants drop to 2-6.",
+  "rivalryAngle": "Historic non-conference rivalry features a defensive masterclass as Pittsburgh's front four overwhelms New York's offensive line under the prime-time lights.",
+  "funFacts": [
+    "Calvin Austin III is the first Steelers player with a punt return touchdown and a receiving touchdown in the same game since 2017.",
+    "Russell Wilson is 2-0 as Steelers starting quarterback, generating over 400 total yards of offense in back-to-back games.",
+    "T.J. Watt recorded his 100th career tackle for loss during Monday's victory."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Calvin Austin III",
+      "team": "Pittsburgh Steelers",
+      "hook": "Scored two electrifying touchdowns in the third quarter on a 73-yard punt return and 29-yard reception."
+    },
+    {
+      "name": "Russell Wilson",
+      "team": "Pittsburgh Steelers",
+      "hook": "Completed 71.4 percent of his passes for 278 yards, one touchdown, and zero turnovers."
+    },
+    {
+      "name": "T.J. Watt",
+      "team": "Pittsburgh Steelers",
+      "hook": "Totaled 2 sacks, a forced fumble, and a fumble recovery in a dominant defensive showcase."
+    }
+  ],
+  "headToHead": "Monday 2 November 2026. Acrisure Stadium, Pittsburgh. Final: PIT 26, NYG 18.",
+  "tags": [
+    "football",
+    "nfl",
+    "steelers",
+    "giants",
+    "mnf",
+    "monday-night-football",
+    "russell-wilson",
+    "tj-watt"
+  ],
+  "home": "Pittsburgh Steelers",
+  "away": "New York Giants",
+  "homeCode": "USA",
+  "awayCode": "USA",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NFL Week 8",
+  "matchday": 8,
+  "date": "2026-11-02",
+  "time": "20:15",
+  "venue": "Acrisure Stadium",
+  "city": "Pittsburgh",
+  "status": "FINISHED",
+  "homeScore": 26,
+  "awayScore": 18,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618269/pexels-photo-1618269.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "points",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "football",
+  "competition": "nfl-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "Week 8 MNF",
+  "resultSummary": "FINAL: Steelers 26, Giants 18. Austin 2 TD (73-yd punt ret, 29-yd rec); Wilson 278 yds; Watt 2 sacks.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NFL Official Game Center: Giants at Steelers",
+      "url": "https://www.nfl.com/games/giants-at-steelers-2026-reg-8"
+    },
+    {
+      "name": "ESPN NFL Week 8 MNF Recap",
+      "url": "https://www.espn.com/nfl/recap?gameId=401671916"
+    }
+  ]
+}

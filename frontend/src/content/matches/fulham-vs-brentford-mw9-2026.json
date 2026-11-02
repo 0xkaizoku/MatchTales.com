@@ -1,0 +1,81 @@
+{
+  "slug": "fulham-vs-brentford-mw9-2026",
+  "headline": "Premier League MW9: Harry Wilson scores sensational stoppage-time brace as Fulham stun Brentford 2-1",
+  "whyCareScore": 9.5,
+  "whyCareReason": "Substitute Harry Wilson strikes in the 92nd and 97th minutes with an acrobatic flick and looping header to overturn Brentford's lead in a dramatic West London derby.",
+  "teaser": "FINAL: Fulham 2, Brentford 1. Craven Cottage erupts as Harry Wilson's 97th-minute header snatches victory from the jaws of defeat.",
+  "story": "Craven Cottage witnessed one of the most extraordinary finishes in Premier League derby history on Monday night, 2 November, as super-sub Harry Wilson scored two miraculous stoppage-time goals to give Fulham a breathtaking 2-1 comeback victory over Brentford. Brentford had looked poised to take all three points following Vitaly Janelt's 24th-minute screamer from 30 yards. Marco Silva brought on Wilson in the 82nd minute, and the Welsh international produced magic. In the 92nd minute, Adama Traore whipped in a cross from the right flank, and Wilson met it mid-air with an audacious back-heel flick that looped over goalkeeper Mark Flekken into the far top corner. Five minutes later in the 97th minute, Antonee Robinson delivered another teasing cross, and Wilson adjusted his body to direct a looping header into the net, triggering pandemonium on the banks of the River Thames.",
+  "stakes": "Fulham climb to 8 points with their second win of the season; Brentford stay on 11 points after conceding twice in added time.",
+  "rivalryAngle": "West London derby concludes in sheer euphoria for Fulham supporters and utter heartbreak for Brentford.",
+  "funFacts": [
+    "Harry Wilson is only the second player in Premier League history to score an equalizing and winning goal in stoppage time after coming on as a substitute.",
+    "Fulham registered 26 total shots against Brentford, their highest tally in a Premier League match this season.",
+    "Over 24,000 fans packed into Craven Cottage for Monday's derby."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Harry Wilson",
+      "team": "Fulham",
+      "hook": "Came on in the 82nd minute and scored in the 92nd and 97th minutes to secure a legendary derby victory."
+    },
+    {
+      "name": "Vitaly Janelt",
+      "team": "Brentford",
+      "hook": "Fired Brentford into the lead with a thunderous 30-yard first-half strike."
+    },
+    {
+      "name": "Antonee Robinson",
+      "team": "Fulham",
+      "hook": "Delivered the pinpoint 97th-minute assist for Wilson's dramatic match-winner."
+    }
+  ],
+  "headToHead": "Monday 2 November 2026. Craven Cottage, London. Final: FUL 2, BRE 1.",
+  "tags": [
+    "soccer",
+    "premier-league",
+    "fulham",
+    "brentford",
+    "harry-wilson",
+    "craven-cottage",
+    "west-london-derby"
+  ],
+  "home": "Fulham",
+  "away": "Brentford",
+  "homeCode": "ENG",
+  "awayCode": "ENG",
+  "homeFlag": "gb-eng",
+  "awayFlag": "gb-eng",
+  "group": "Premier League",
+  "matchday": 9,
+  "date": "2026-11-02",
+  "time": "20:00",
+  "venue": "Craven Cottage",
+  "city": "London",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 1,
+  "marquee": false,
+  "liveMinute": 90,
+  "image": "https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "goals",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "soccer",
+  "competition": "premier-league-2026-27",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "Matchweek 9",
+  "resultSummary": "FINAL: Fulham 2-1 Brentford. Wilson 90+2', 90+7'; Janelt 24'.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Premier League Official Fulham vs Brentford Report",
+      "url": "https://www.premierleague.com/match/115990"
+    },
+    {
+      "name": "BBC Sport Football Match Center",
+      "url": "https://www.bbc.com/sport/football/live/c0lpmx4n08dt"
+    }
+  ]
+}

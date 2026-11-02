@@ -1,0 +1,101 @@
+{
+  "slug": "wwt-championship-diamante-cabo-2026",
+  "headline": "WWT Championship Preview: Following Pereda's historic triumph, PGA Tour arrives in Cabo with FedExCup cards on the line",
+  "whyCareScore": 9.1,
+  "whyCareReason": "Fresh off Raul Pereda's emotional home victory at VidantaWorld, the PGA Tour stays in Mexico at Tiger Woods-designed El Cardonal at Diamante with top-125 card battles intensifying.",
+  "teaser": "NEXT IN MEXICO: Following Pereda's breakthrough, the PGA Tour heads to El Cardonal at Diamante in Los Cabos for high-stakes Fall showdown.",
+  "story": "The PGA Tour's Mexican swing shifted across the Sea of Cortez on Monday, 2 November, as players arrived at El Cardonal at Diamante in Los Cabos for the 2026 World Wide Technology Championship. Just 24 hours earlier in Puerto Vallarta, Veracruz native Raul Pereda sent shockwaves through the golf world by carding a closing 66 to become the first Mexican player to win the national open on the PGA Tour. Pereda's historic win propelled him into the top 50 in the Official World Golf Ranking, securing a two-year PGA Tour exemption and invitations to the 2027 Masters and PGA Championship. As the celebration ripples across the nation, attention turns to Tiger Woods' signature design in Cabo San Lucas, where runner-up Austin Smotherman and England's Aaron Rai aim to bounce back amidst a desperate scramble for players fighting to finish inside the top 125 of the FedExCup Fall standings.",
+  "stakes": "Players compete for 500 FedExCup Fall points and critical exemptions with only three events remaining in the 2026 PGA Tour Fall season.",
+  "rivalryAngle": "Smotherman seeks instant redemption after finishing two shots behind Pereda on Sunday in Puerto Vallarta.",
+  "funFacts": [
+    "El Cardonal at Diamante is the first golf course designed by Tiger Woods to host an official PGA Tour event.",
+    "Raul Pereda jumped over 120 spots in the Official World Golf Ranking following his Sunday victory.",
+    "The 2026 WWT Championship purse stands at 8.2 million dollars, with 1.476 million dollars awarded to the champion."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Raul Pereda",
+      "team": "Mexico",
+      "hook": "Riding the crest of a wave after becoming the first Mexican home winner of the Mexico Open."
+    },
+    {
+      "name": "Austin Smotherman",
+      "team": "United States",
+      "hook": "Runner-up at VidantaVallarta (-15) looking to convert sharp ball-striking into a victory in Cabo."
+    },
+    {
+      "name": "Aaron Rai",
+      "team": "England",
+      "hook": "Finished third in Puerto Vallarta (-13) and brings pristine iron play to Diamante."
+    }
+  ],
+  "headToHead": "Upcoming: 5-8 November 2026. El Cardonal at Diamante, Los Cabos, Mexico. 72 holes.",
+  "tags": [
+    "golf",
+    "pga-tour",
+    "wwt-championship",
+    "los-cabos",
+    "el-cardonal",
+    "diamante",
+    "pereda",
+    "smotherman"
+  ],
+  "home": "World Wide Technology Championship",
+  "away": "PGA Tour",
+  "homeCode": "MEX",
+  "awayCode": "USA",
+  "homeFlag": "mx",
+  "awayFlag": "us",
+  "group": "PGA Tour",
+  "matchday": 5,
+  "date": "2026-11-02",
+  "time": "12:00",
+  "venue": "El Cardonal at Diamante",
+  "city": "Los Cabos",
+  "status": "UPCOMING",
+  "homeScore": "Par 72",
+  "awayScore": "7,452 yds",
+  "marquee": false,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/914682/pexels-photo-914682.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "score",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "golf",
+  "competition": "pga-tour-2026",
+  "format": "leaderboard",
+  "season": "2026",
+  "roundLabel": "Tournament Preview",
+  "resultSummary": "PREVIEW: Tour moves to Los Cabos following Pereda's historic win; Smotherman and Rai pursue redemption at Diamante.",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Raul Pereda",
+      "score": "-17 (267)",
+      "note": "Mexico Open Champion"
+    },
+    {
+      "pos": "2",
+      "name": "Austin Smotherman",
+      "score": "-15 (269)",
+      "note": "Vidanta Runner-Up"
+    },
+    {
+      "pos": "3",
+      "name": "Aaron Rai",
+      "score": "-13 (271)",
+      "note": "3rd in Puerto Vallarta"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "PGA Tour Official World Wide Technology Championship Preview",
+      "url": "https://www.pgatour.com/tournaments/2026/world-wide-technology-championship/overview"
+    },
+    {
+      "name": "Golf Channel FedExCup Fall Standings Update",
+      "url": "https://www.golfchannel.com/news/fedexcup-fall-update-pereda-historic-victory-cabo-preview"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "nba-cavaliers-vs-bucks-2026",
+  "headline": "NBA Thriller: Donovan Mitchell sinks baseline jumper with 0.3 seconds left as undefeated Cavaliers edge Bucks 114-113",
+  "whyCareScore": 9.7,
+  "whyCareReason": "Donovan Mitchell scores 30 points and hits the game-winning baseline fadeaway jumper over Gary Trent Jr. to overcome Damian Lillard's 41 points (10 threes) and Giannis Antetokounmpo's 34 points.",
+  "teaser": "FINAL: Cavaliers 114, Bucks 113. Donovan Mitchell silences Fiserv Forum with 0.3 seconds on the clock as Cleveland improves to 7-0.",
+  "story": "In one of the most breathtaking regular-season duels of the young NBA campaign, Donovan Mitchell drained a high-arcing baseline fadeaway jumper with 0.3 seconds remaining to propel the Cleveland Cavaliers to a sensational 114-113 victory over the Milwaukee Bucks on Monday night, 2 November, at Fiserv Forum. Mitchell's game-winner capped a 30-point performance and preserved Cleveland's flawless 7-0 start under head coach Kenny Atkinson. The contest was an offensive showcase from two Eastern Conference heavyweights. Damian Lillard scorched the nets with 41 points, connecting on 10 of 15 three-point attempts, while Giannis Antetokounmpo produced a monstrous 34 points, 16 rebounds, and 9 assists. But after Lillard gave Milwaukee a 113-112 lead with 9.8 seconds left, Mitchell isolated on the right baseline and rose over Gary Trent Jr. to drill the dagger as time expired.",
+  "stakes": "The Cavaliers improve to 7-0 to stay atop the Eastern Conference; the Bucks slide to 1-4.",
+  "rivalryAngle": "Central Division rivals trade clutch blow for clutch blow in a playoff-caliber atmosphere in Milwaukee.",
+  "funFacts": [
+    "Cleveland is 7-0 for the first time since their 1976-77 campaign.",
+    "Damian Lillard's 10 three-pointers are the most by any player in a single NBA game this season.",
+    "Donovan Mitchell has scored 25 or more points in five of Cleveland's seven victories."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Donovan Mitchell",
+      "team": "Cleveland Cavaliers",
+      "hook": "Scored 30 points and buried the game-winning baseline jumper with 0.3 seconds left."
+    },
+    {
+      "name": "Damian Lillard",
+      "team": "Milwaukee Bucks",
+      "hook": "Erupted for 41 points and 9 assists while drilling 10 of 15 shots from three-point range."
+    },
+    {
+      "name": "Giannis Antetokounmpo",
+      "team": "Milwaukee Bucks",
+      "hook": "Dominated inside with 34 points, 16 rebounds, and 9 assists on 15-of-27 shooting."
+    }
+  ],
+  "headToHead": "Monday 2 November 2026. Fiserv Forum, Milwaukee. Final: CLE 114, MIL 113.",
+  "tags": [
+    "basketball",
+    "nba",
+    "cavaliers",
+    "bucks",
+    "donovan-mitchell",
+    "giannis",
+    "damian-lillard",
+    "buzzer-beater"
+  ],
+  "home": "Milwaukee Bucks",
+  "away": "Cleveland Cavaliers",
+  "homeCode": "USA",
+  "awayCode": "USA",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NBA Regular Season",
+  "matchday": 7,
+  "date": "2026-11-02",
+  "time": "20:00",
+  "venue": "Fiserv Forum",
+  "city": "Milwaukee",
+  "status": "FINISHED",
+  "homeScore": 113,
+  "awayScore": 114,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1752757/pexels-photo-1752757.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "points",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "basketball",
+  "competition": "nba-2026-27",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "Regular Season",
+  "resultSummary": "FINAL: Cavaliers 114, Bucks 113. Mitchell 30 pts (game-winner 0.3s); Lillard 41 pts, 10 3PM; Giannis 34 pts, 16 reb.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NBA Official Box Score: Cavaliers at Bucks",
+      "url": "https://www.nba.com/game/cle-vs-mil-0022600142"
+    },
+    {
+      "name": "ESPN NBA Game Recap",
+      "url": "https://www.espn.com/nba/recap?gameId=401704732"
+    }
+  ]
+}

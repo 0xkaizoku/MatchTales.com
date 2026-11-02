@@ -10,6 +10,505 @@ export type StoryI18n = {
 type LocMap = Partial<Record<Exclude<Locale, 'en'>, StoryI18n>>;
 
 export const STORY_I18N: Record<string, LocMap> = {
+
+"nfl-week8-mnf-steelers-beat-giants-26-18-watt-austin-2026": {
+  "fr": {
+    "title": "NFL Semaine 8 MNF : Les Steelers domptent les Giants 26-18 grace a Calvin Austin et une defense de fer",
+    "subtitle": "Calvin Austin III signe deux touchdowns au troisieme quart-temps et T.J. Watt etouffe New York pour placer Pittsburgh en tete de l'AFC Nord a 6-2.",
+    "excerpt": "Les Steelers de Pittsburgh ont pris les commandes de l'AFC Nord lundi soir en dominant les Giants 26-18 au Acrisure Stadium.",
+    "body": [
+      "Les Steelers de Pittsburgh ont confirme leur statut d'equipe redoutable en prime time lundi 2 novembre, s'imposant 26-18 face aux Giants de New York devant 67 430 spectateurs au Acrisure Stadium. L'equipe de Mike Tomlin passe a 6-2 et prend seule la tete de l'AFC Nord.",
+      "Le receveur Calvin Austin III a fait basculer la rencontre au troisieme quart avec un spectaculaire retour de coup de pied de 73 yards pour un touchdown, suivi d'une reception de 29 yards signee Russell Wilson (278 yards, 0 interception). En defense, T.J. Watt a totalise 2 sacks et provoque un fumble decisif pour repousser l'assaut final new-yorkais."
+    ]
+  },
+  "es": {
+    "title": "NFL Semana 8 MNF: Los Steelers doblegan 26-18 a los Giants impulsados por Calvin Austin y una defensa feroz",
+    "subtitle": "Calvin Austin III anota en un retorno de 73 yardas y en una recepcion de 29 yardas mientras T.J. Watt lidera a Pittsburgh a colocarse 6-2.",
+    "excerpt": "Los Pittsburgh Steelers se consolidaron como lideres en solitario de la AFC Norte al batir 26-18 a los New York Giants en Monday Night Football.",
+    "body": [
+      "Los Pittsburgh Steelers dieron un golpe sobre la mesa este lunes 2 de noviembre al vencer 26-18 a los New York Giants ante 67.430 hinchas en el Acrisure Stadium. La victoria coloca al equipo de Mike Tomlin con marca de 6-2 como puntero solitario de la division AFC Norte.",
+      "Calvin Austin III dinamito el choque en el tercer cuarto con una espectacular escapada de 73 yardas tras patada de despeje y una recepcion anotadora de 29 yardas enviada por Russell Wilson. La defensa acerera completo la faena con dos capturas de T.J. Watt y una intercepcion del novato Beanie Bishop Jr. en el tramo final."
+    ]
+  },
+  "de": {
+    "title": "NFL Woche 8 MNF: Steelers dominieren Giants mit 26:18 dank Doppelpack von Calvin Austin und starker Defense",
+    "subtitle": "Calvin Austin III Glaenzt mit 73-Yard-Punt-Return und 29-Yard-Touchdown; T.J. Watt fuehrt Pittsburgh zu Platz eins in der AFC North.",
+    "excerpt": "Die Pittsburgh Steelers sicherten sich am Montagabend mit einem 26:18-Sieg ueber die New York Giants die alleinige Tabellenfuehrung der AFC North.",
+    "body": [
+      "Die Pittsburgh Steelers setzten am Montagabend, den 2. November, vor 67.430 Zuschauern im Acrisure Stadium ein Ausrufezeichen und schlugen die New York Giants mit 26:18. Das Team von Head Coach Mike Tomlin verbesserte seine Bilanz auf 6-2.",
+      "Matchwinner war Calvin Austin III, der im dritten Viertel erst einen Punt ueber 73 Yards in die Endzone trug und wenig spaeter einen 29-Yard-Touchdown-Pass von Quarterback Russell Wilson fing. In der Abwehr glaenzte Superstar T.J. Watt mit zwei Sacks und einem eroberten Fumble."
+    ]
+  },
+  "it": {
+    "title": "NFL Week 8 MNF: Gli Steelers piegano i Giants 26-18 trascinati da Calvin Austin e da una difesa soffocante",
+    "subtitle": "Due touchdown da urlo per Calvin Austin III e due sack di T.J. Watt lanciano Pittsburgh in vetta all'AFC North con un record di 6-2.",
+    "excerpt": "I Pittsburgh Steelers conquistano il primato solitario nell'AFC North superando i New York Giants 26-18 nel Monday Night Football.",
+    "body": [
+      "Serata di grande football all'Acrisure Stadium lunedi 2 novembre, dove 67.430 spettatori hanno spinto i Pittsburgh Steelers al successo per 26-18 sui New York Giants. La formazione di Mike Tomlin sale a 6-2 conquistando il comando solitario della divisione.",
+      "Il protagonista assoluto e stato il ricevitore Calvin Austin III, autore nel terzo quarto di un travolgente ritorno di punt da 73 yard e di un touchdown da 29 yard su lancio perfetto di Russell Wilson. In difesa T.J. Watt ha fatto la differenza con 2 sack e un fumble forzato nei momenti chiave."
+    ]
+  },
+  "pl": {
+    "title": "NFL Tydzien 8 MNF: Steelers pokonuja Giants 26:18 dzieki popisom Calvina Austina i zelaznej defensywie",
+    "subtitle": "Calvin Austin III zdobywa dwa przylozenia w trzeciej kwarcie, a T.J. Watt prowadzi Pittsburgh na fotel lidera AFC North z bilansem 6-2.",
+    "excerpt": "Pittsburgh Steelers objeli samodzielne prowadzenie w dywizji AFC North, wygrywajac w poniedzialek z New York Giants 26:18.",
+    "body": [
+      "Pittsburgh Steelers potwierdzili wysoka forme w prime-time, pokonujac w poniedzialek 2 listopada New York Giants 26:18 na oczach 67 430 fanow na Acrisure Stadium. Druzyna Mike'a Tomlina awansowala na bilans 6-2.",
+      "Bohaterem nocy zostal Calvin Austin III, ktory popisal sie 73-jardowym returnem na przylozenie z puntu oraz 29-jardowa zlapana pilka w endzone od Russella Wilsona. W defensywie rzadzil T.J. Watt, notujac 2 sacki i wymuszone fumble."
+    ]
+  },
+  "zh": {
+    "title": "NFL第8周周一夜赛：奥斯汀连下两城防线发威，钢人26-18击溃巨人领跑美北",
+    "subtitle": "卡尔文·奥斯汀上演73码弃踢回攻达阵加29码接球达阵，瓦特两记擒杀力助匹兹堡战绩升至6胜2负。",
+    "excerpt": "匹兹堡钢人队周一在主场阿克里苏尔球场26-18力克纽约巨人队，战绩提升至6胜2负独占美联北区榜首。",
+    "body": [
+      "11月2日周一晚间，匹兹堡钢人队在67430名现场球迷见证下，坐镇阿克里苏尔球场以26-18战胜纽约巨人队，凭借这场关键胜利以6胜2负的战绩独占美联北区第一位。",
+      "外接手卡尔文·奥斯汀在第三节爆发神威，先是完成一记震撼全场的73码弃踢回攻达阵，随后又接四分卫拉塞尔·威尔逊29码精准传球完成本场第二记达阵。防守端超级巨星T.J.瓦特贡献2次擒杀与1次制造掉球，彻底击碎了巨人的反扑希望。"
+    ]
+  },
+  "ja": {
+    "title": "NFL第8週MNF：スティーラーズがオースティンの2TDと強固な守備でジャイアンツを26-18で破り地区首位浮上",
+    "subtitle": "カルビン・オースティンが73ヤードのリターンTDと29ヤードのレシーブTDを記録し、T.J.ワットが守備陣を牽引。",
+    "excerpt": "ピッツバーグ・スティーラーズがマンデーナイトでニューヨーク・ジャイアンツを26-18で退け、6勝2敗でAFC北地区単独首位に立ちました。",
+    "body": [
+      "11月2日月曜日、アクリシュア・スタジアムで行われたマンデーナイトフットボールで、ピッツバーグ・スティーラーズがニューヨーク・ジャイアンツを26-18で下しました。マイク・トムリン率いるスティーラーズは通算6勝2敗としています。",
+      "第3クォーターにカルビン・オースティン3世が圧巻の73ヤードパントリターンタッチダウンを決めると、直後にもラッセル・ウィルソンからの29ヤードパスをキャッチして追加点を奪取。守備ではT.J.ワットが2サックをマークし、相手の反撃を封じ込めました。"
+    ]
+  },
+  "ko": {
+    "title": "NFL 8주차 MNF: 스틸러스, 캘빈 오스틴의 2TD 대폭발 앞세워 자이언츠 26-18 격파하고 AFC 북부 선두",
+    "subtitle": "캘빈 오스틴 73야드 펀트 리턴 및 29야드 패스 리시빙 터치다운 작렬; T.J. 와트 2색 맹활약으로 6승 2패 도약.",
+    "excerpt": "피츠버그 스틸러스가 먼데이 나이트 풋볼에서 뉴욕 자이언츠를 26-18로 꺾고 6승 2패로 AFC 북부지구 단독 1위에 올랐습니다.",
+    "body": [
+      "11월 2일 월요일 아크리슈어 스타디움에서 열린 먼데이 나이트 풋볼 경기에서 피츠버그 스틸러스가 뉴욕 자이언츠를 26-18로 완파했습니다. 이 승리로 스틸러스는 6승 2패를 기록하며 지구 단독 선두로 올라섰습니다.",
+      "와이드 리시버 캘빈 오스틴 3세가 3쿼터에 73야드 펀트 리턴 터치다운에 이어 러셀 윌슨의 29야드 패스를 받아 연속 터치다운을 기록하며 경기 흐름을 장악했습니다. 수비진에서는 에이스 T.J. 와트가 2개의 색을 기록하며 자이언츠의 막판 추격을 원천 봉쇄했습니다."
+    ]
+  },
+  "ar": {
+    "title": "دوري NFL الأسبوع 8: ستيلرز يتفوق على جاينتس 26-18 بفضل تألق كالفين أوستن ودفاع صلب",
+    "subtitle": "كالفين أوستن يسجل هدفين رائعين وتي جيه وات يقود بيتسبرغ لتصدر مجموعته بسجل 6 انتصارات وهزيمتين.",
+    "excerpt": "انفرد بيتسبرغ ستيلرز بصدارة مجموعته في دوري كرة القدم الأمريكية بعد فوزه المثير 26-18 على نيويورك جاينتس مساء الإثنين.",
+    "body": [
+      "حقق بيتسبرغ ستيلرز فوزا ثمينا بنتيجة 26-18 على ضيفه نيويورك جاينتس مساء الإثنين 2 نوفمبر على ملعب أكرسور ستاديوم أمام أكثر من 67 ألف متفرج، ليرفع رصيده إلى 6 انتصارات وهزيمتين في صدارة المجموعة.",
+      "وتألق المستقبل كالفين أوستن بتسجيل هبوطين تاريخيين في الربع الثالث بعد ركضة مذهلة لمسافة 73 ياردة واستقبال كرة لمسافة 29 ياردة من راسل ويلسون. وفي الدفاع، فرض تي جيه وات سيطرته بإسقاطين حاسمين ليقود فريقه نحو حسم اللقاء."
+    ]
+  }
+},
+"nba-cavaliers-edge-bucks-114-113-mitchell-buzzer-beater-2026": {
+  "fr": {
+    "title": "NBA thriller : Donovan Mitchell crucifie les Bucks a 0,3 seconde de la fin, Cleveland toujours invaincu a 7-0",
+    "subtitle": "Mitchell marque 30 points et rentre le tir de la gagne pour repondre aux 41 points de Damian Lillard dans un match d'anthologie (114-113).",
+    "excerpt": "Donovan Mitchell a inscrit un shoot miraculeux sur le gong pour offrir la victoire aux Cavaliers 114-113 a Milwaukee et preserver leur invincibilite.",
+    "body": [
+      "Le Fiserv Forum a ete le theatre d'un match de legende lundi 2 novembre. Donovan Mitchell a reussi un panier desespere en arriere le long de la ligne de fond a 0,3 seconde du buzzer final, offrant aux Cavaliers de Cleveland une victoire magistrale 114-113 face aux Bucks de Milwaukee.",
+      "Ce duel au sommet a vu Damian Lillard flamber avec 41 points dont 10 paniers a trois points, epaule par Giannis Antetokounmpo (34 points, 16 rebonds). Mais Mitchell, auteur de 30 points, a eu le dernier mot pour permettre a Cleveland de porter son bilan parfait a 7-0."
+    ]
+  },
+  "es": {
+    "title": "NBA Thriller: Donovan Mitchell encesta a 0.3 segundos del final y los invictos Cavaliers baten 114-113 a los Bucks",
+    "subtitle": "Mitchell firma 30 puntos y la canasta de la victoria para frenar los 41 puntos de Damian Lillard y mantener a Cleveland con 7-0.",
+    "excerpt": "Donovan Mitchell clavo una suspension agonica sobre la bocina para sellar el triunfo de los Cavaliers 114-113 ante los Bucks en Milwaukee.",
+    "body": [
+      "Un final para el recuerdo se vivio este lunes 2 de noviembre en el Fiserv Forum. Con 0.3 segundos por jugar, Donovan Mitchell se elevo sobre Gary Trent Jr. desde la linea de fondo para clavar una suspension magistral que dio a Cleveland la victoria 114-113 sobre Milwaukee.",
+      "Damian Lillard tuvo una noche antologica con 41 puntos y 10 triples, mientras Giannis Antetokounmpo domino la pintura con 34 puntos y 16 rebotes. Sin embargo, los 30 puntos de Mitchell mantuvieron a los Cavaliers como el unico equipo invicto del Este con un arranque perfecto de 7-0."
+    ]
+  },
+  "de": {
+    "title": "NBA Thriller: Donovan Mitchell trifft 0,3 Sekunden vor Schluss, Cavaliers schlagen Bucks 114:113 und bleiben bei 7:0",
+    "subtitle": "Mitchell erzielt 30 Punkte und den Game-Winner gegen Damian Lillards 41-Punkte-Gala in einem packenden Schlagabtausch.",
+    "excerpt": "Mit einem sensationellen Buzzer-Beater fuehrte Donovan Mitchell die ungeschlagenen Cleveland Cavaliers zu einem dramatischen 114:113-Erfolg in Milwaukee.",
+    "body": [
+      "Das Fiserv Forum erlebte am Montag, den 2. November, ein Spektakel der Extraklasse. Donovan Mitchell versenkte 0,3 Sekunden vor der Schlusssirene einen schweren Wurf aus der Rueckwaertsbewegung zum 114:113-Endstand fuer die Cleveland Cavaliers gegen die Milwaukee Bucks.",
+      "Damian Lillard ragte mit 41 Punkten und 10 verwandelten Dreiern fuer die Bucks heraus, unterstuetzt von Giannis Antetokounmpo mit 34 Punkten und 16 Rebounds. Mitchell konterte mit 30 Punkten und sicherte Cleveland damit den siebten Sieg im siebten Saisonspiel."
+    ]
+  },
+  "it": {
+    "title": "NBA Thriller: Donovan Mitchell gela i Bucks a 0.3 secondi dalla sirena, Cleveland resta imbattuta sul 7-0 (114-113)",
+    "subtitle": "Mitchell realizza 30 punti e il canestro decisivo rispondendo ai 41 punti con 10 triple di Damian Lillard in un finale da batticuore.",
+    "excerpt": "Canestro prodigioso di Donovan Mitchell a tre decimi dalla sirena: i Cavaliers espugnano Milwaukee 114-113 e conservano l'imbattibilita.",
+    "body": [
+      "Finale al cardiopalma al Fiserv Forum lunedi 2 novembre. Donovan Mitchell ha realizzato un canestro in fadeaway a 0.3 secondi dalla fine regalando ai Cleveland Cavaliers un pazzesco successo per 114-113 sui Milwaukee Bucks.",
+      "I padroni di casa si erano affidati a un monumentale Damian Lillard da 41 punti (10 triple) e ai 34 punti con 16 rimbalzi di Giannis Antetokounmpo. Ma Mitchell, autore di 30 punti, ha piazzato il colpo del k.o. permettendo a Cleveland di confermarsi in vetta a Est con un impeccabile 7-0."
+    ]
+  },
+  "pl": {
+    "title": "NBA dreszczowiec: Donovan Mitchell trafia na 0,3 sekundy przed koncem, Cavaliers pokonuja Bucks 114:113",
+    "subtitle": "Mitchell zdobywa 30 punktow i rzut meczowy, neutralizujac 41 punktow Damiana Lillarda i zapewniajac bilans 7-0.",
+    "excerpt": "Niesamowity rzut Donovana Mitchella w koncowce zapewnil Cleveland Cavaliers triumf 114:113 nad Bucks i przedluzyl passe zwyciestw.",
+    "body": [
+      "Prawdziwy spektakl koszykowki w Fiserv Forum w poniedzialek 2 listopada. Donovan Mitchell trafil z polodleglosci na 0,3 sekundy przed syrena koncowa, dajac Cleveland Cavaliers wygrana 114:113 nad Milwaukee Bucks.",
+      "Gospodarze mieli w swoich szeregach genialnego Damiana Lillarda, ktory trafil 10 trojek i rzucil 41 punktow, a Giannis Antetokounmpo dolozyl 34 punkty i 16 zbiorek. Jednak to 30 punktow Mitchella i jego zimna krew w koncowce pozwolily Cleveland zachowac status niepokonanych z bilansem 7-0."
+    ]
+  },
+  "zh": {
+    "title": "NBA焦点战：米切尔终场前0.3秒中投绝杀，骑士114-113险胜雄鹿豪取开季7连胜",
+    "subtitle": "利拉德狂飙10记三分轰下41分，米切尔空砍30分后奉献致命绝杀，克利夫兰保持全胜领跑东部。",
+    "excerpt": "多诺万·米切尔在终场前0.3秒命中后仰跳投绝杀，帮助骑士队客场114-113险胜雄鹿，豪取开季7连胜保持不败。",
+    "body": [
+      "11月2日周一晚间，密尔沃基费瑟夫球馆见证了一场载入赛季史册的绝杀对决。在全场还剩0.3秒时，克利夫兰骑士队当家球星米切尔在底线面对严防后仰跳投空心入网，帮助球队以114-113反超绝杀雄鹿队。",
+      "雄鹿队双星此役火力全开，利拉德三分球15投10中狂砍41分，字母哥揽下34分16篮板的大号两双。但得到30分的米切尔在最后时刻接管了比赛，率领骑士以7胜0负的不败金身创下队史近50年来的最佳开局纪录。"
+    ]
+  },
+  "ja": {
+    "title": "NBA激闘：ミッチェルが残り0.3秒で決勝ブザービーター、無敗キャバリアーズがバックスを114-113で破る",
+    "subtitle": "リラードの10本3P含む41得点に対し、ミッチェルが30得点と劇的ショットで応戦し開幕7連勝達成。",
+    "excerpt": "ドノバン・ミッチェルが残り0.3秒に奇跡の決勝シュートを沈め、キャブズがバックスに114-113で競り勝ちました。",
+    "body": [
+      "11月2日月曜日、ファイサーブ・フォーラムで行われたNBA屈指の好カードは劇的な結末を迎えました。残り0.3秒、ドノバン・ミッチェルが高難度のフェイダウェイジャンパーを沈め、クリーブランド・キャバリアーズが114-113でミルウォーキー・バックスを下しました。",
+      "バックスはデイミアン・リラードがスリーポイント10本を含む41得点、ヤニス・アデトクンボが34得点16リバウンドと躍動。しかし30得点を挙げたミッチェルが最後の最後で試合を決め、キャブズは開幕無傷の7連勝を飾りました。"
+    ]
+  },
+  "ko": {
+    "title": "NBA 명승부: 도노반 미첼 0.3초 남기고 위닝샷 작렬, 무패 캐벌리어스 벅스 114-113 제압",
+    "subtitle": "데미안 릴라드의 3점 10방 41점 폭발에도 미첼이 30점과 결승 버저비터로 응수하며 클리블랜드 7연승 질주.",
+    "excerpt": "도노반 미첼이 경기 종료 0.3초 전 환상적인 위닝 점퍼를 꽂아 넣으며 클리블랜드가 밀워키를 114-113으로 꺾었습니다.",
+    "body": [
+      "11월 2일 월요일 밀워키 파이서브 포럼에서 이번 시즌 최고의 명승부가 펼쳐졌습니다. 경기 종료 0.3초 전, 도노반 미첼이 베이스라인 페이드어웨이 슛을 깨끗하게 적중시키며 클리블랜드 캐벌리어스가 밀워키 벅스를 114-113으로 제압했습니다.",
+      "밀워키는 릴라드가 3점슛 10개를 꽂으며 41점, 쿤보가 34점 16리바운드로 맹폭했으나 마지막 순간 미첼(30점)의 클러치 샷 한 방에 무릎을 꿇었습니다. 클리블랜드는 개막 7연승을 달리며 동부 1위를 굳건히 지켰습니다."
+    ]
+  },
+  "ar": {
+    "title": "دوري السلة الأمريكي: دونوفان ميتشل يسجل سلة الفوز القاتلة قبل 0.3 ثانية وكافالييرز يهزم باكس 114-113",
+    "subtitle": "ميتشل يسجل 30 نقطة ويبطل مفعول 41 نقطة من داميان ليلارد ليحافظ كليفلاند على سجله المثالي بـ 7 انتصارات دون هزيمة.",
+    "excerpt": "خطف دونوفان ميتشل فوزا تاريخيا لكليفلاند كافالييرز برمية قاتلة قبل ثلاثة أعشار من الثانية أمام ميلووكي باكس (114-113).",
+    "body": [
+      "شهدت صالة فايسرف فورم في ميلووكي ليلة الإثنين 2 نوفمبر واحدة من أكثر مباريات الدوري إثارة هذا الموسم، عندما خطف دونوفان ميتشل رمية النصر لكليفلاند كافالييرز قبل 0.3 ثانية من النهاية ليفوز فريقه بنتيجة 114-113.",
+      "وتألق داميان ليلارد بتسجيله 41 نقطة منها 10 ثلاثيات إلى جانب 34 نقطة و16 متابعة من يانيس أنتيتوكونمبو، غير أن ميتشل (30 نقطة) حسم اللقاء ببراعة مذهلة ليقود كافالييرز لتحقيق فوزه السابع تواليا دون أي هزيمة."
+    ]
+  }
+},
+"premier-league-mw9-fulham-stun-brentford-2-1-wilson-stoppage-time-brace-2026": {
+  "fr": {
+    "title": "Premier League J9 : Harry Wilson signe un double historique dans le temps additionnel, Fulham renverse Brentford 2-1",
+    "subtitle": "Entre en jeu a la 82e, l'international gallois marque a la 92e et a la 97e pour faire basculer le derby de l'ouest londonien a Craven Cottage.",
+    "excerpt": "Craven Cottage a chavire dans la folie lundi soir : Harry Wilson a inscrit deux buts miraculeux dans les arrets de jeu pour battre Brentford 2-1.",
+    "body": [
+      "Le derby de l'ouest de Londres a bascule dans l'irrationnel lundi soir 2 novembre sur les bords de la Tamise. Menes 1-0 par Brentford suite a un boulet de canon de Vitaly Janelt, les joueurs de Fulham ont arrache un succes inespere 2-1 grace au joker Harry Wilson.",
+      "Entre a la 82e minute, le Gallois a d'abord realise une reprise acrobatique d'une aile de pigeon subtile a la 92e minute, avant de sceller la victoire a la 97e minute d'une tete lobee magnifique sur un centre d'Antonee Robinson. Fulham remonte au classement avec 8 points."
+    ]
+  },
+  "es": {
+    "title": "Premier League J9: Harry Wilson anota un doblete milagroso en el anadido y el Fulham tumba 2-1 al Brentford",
+    "subtitle": "El suplente de lujo remonta el derbi del oeste de Londres marcando en el 92 y en el 97 para desatar la locura en Craven Cottage.",
+    "excerpt": "El Fulham logro una remontada epica en Craven Cottage con dos goles en el descuento de Harry Wilson para vencer 2-1 al Brentford.",
+    "body": [
+      "Craven Cottage vivio un final legendario este lunes 2 de noviembre en el derbi del oeste londinense. El Brentford se habia adelantado con un zapatazo lejano de Vitaly Janelt, pero la entrada al campo de Harry Wilson en el minuto 82 cambio por completo el destino del encuentro.",
+      "En el minuto 92, Wilson firmo una genialidad rematando con el exterior del pie en el aire para superar al portero Mark Flekken. Y en el 97, conecto un cabezazo bombeado tras centro de Antonee Robinson que dio al Fulham una victoria inolvidable por 2-1 para sumar 8 puntos."
+    ]
+  },
+  "de": {
+    "title": "Premier League 9. Spieltag: Harry Wilson schockt Brentford mit Nachspielzeit-Doppelpack zum 2:1-Derbysieg fuer Fulham",
+    "subtitle": "Der Joker trifft in der 92. und 97. Minute per artistischem Fersentrick und Kopfball und sorgt fuer Ekstase im Craven Cottage.",
+    "excerpt": "Wahnsinn an der Themse: Harry Wilson drehte das West-London-Derby mit zwei Toren in der Nachspielzeit zum 2:1-Triumph ueber Brentford.",
+    "body": [
+      "Das Craven Cottage stand am Montagabend, den 2. November, Kopf. Der FC Brentford lag nach einem Gewaltschuss von Vitaly Janelt lange vorne, ehe Fulhams Einwechselspieler Harry Wilson zur historischen Derby-Aufholjagd ansetzte.",
+      "In der 92. Minute traf der Waliser spektakulaer mit der Hacke im Flug zum Ausgleich. In der 97. Minute kroente Wilson die Aufholjagd mit einem feinen Kopfballbogen nach Flanke von Robinson zum 2:1-Endstand. Fulham klettert auf 8 Punkte."
+    ]
+  },
+  "it": {
+    "title": "Premier League 9ª giornata: Favola Harry Wilson, doppietta nei minuti di recupero e il Fulham ribalta il Brentford 2-1",
+    "subtitle": "Il gallese entra all'82' e segna al 92' al volo e al 97' di testa, regalando un derby memorabile al pubblico di Craven Cottage.",
+    "excerpt": "Apoteosi Fulham a Craven Cottage: due reti incredibili di Harry Wilson nel recupero piegano il Brentford 2-1 nel derby londinese.",
+    "body": [
+      "Finale surreale nel derby del West London lunedi 2 novembre a Craven Cottage. Sotto 1-0 contro il Brentford per via della gran botta di Janelt, il Fulham ha rovesciato l'esito della sfida grazie a un clamoroso Harry Wilson.",
+      "Subentrato all'82', l'esterno gallese ha pareggiato al 92' con un tocco aereo al volo da cineteca, per poi completare il sorpasso al 97' con un colpo di testa a pallonetto su cross di Robinson. I Cottagers festeggiano salendo a 8 punti in classifica."
+    ]
+  },
+  "pl": {
+    "title": "Premier League 9. kolejka: Magiczny dublet Harry'ego Wilsona w doliczonym czasie gry, Fulham ogrywa Brentford 2:1",
+    "subtitle": "Wprowadzony z lawki skrzydlowy trafia w 92. i 97. minucie, wywolujac szalenstwo radosci na Craven Cottage.",
+    "excerpt": "Niewiarygodna koncowka derbow zachodniego Londynu: Harry Wilson strzelil dwa gole w doliczonym czasie, dajac Fulham wygrana 2:1 nad Brentfordem.",
+    "body": [
+      "Craven Cottage eksplodowalo z radosci w poniedzialkowy wieczor 2 listopada. Brentford prowadzil po znakomitym uderzeniu Vitaly'ego Janelta z 30 metrow, lecz koncowka nalezala do rezerwowego Harry'ego Wilsona.",
+      "Walijczyk najpierw w 92. minucie zlozyl sie do ekwilibrystycznego uderzenia pieta w powietrzu, pokonujac Flekkena, a w 97. minucie precyzyjna glowka przelobowal bramkarza gosci. Fulham triumfowalo 2:1 i ma na koncie 8 punktow."
+    ]
+  },
+  "zh": {
+    "title": "英超第9轮：威尔逊补时连进两球演神奇逆转，富勒姆2-1绝杀布伦特福德德比告捷",
+    "subtitle": "第82分钟替补登场的威尔逊在第92和97分钟奉献神级蝎子摆尾与吊射头球，克拉文农场陷入疯狂。",
+    "excerpt": "克拉文农场见证了英超西伦敦德比的永恒名局，哈里·威尔逊在补时阶段连入两球助富勒姆2-1绝杀布伦特福德。",
+    "body": [
+      "11月2日周一晚间，泰晤士河畔的克拉文农场球场上演了不可思议的绝地逆转。布伦特福德凭借雅内尔特上半场的重炮轰门取得领先，并将优势保持到了全场常规时间最后阶段。",
+      "第82分钟替补上阵的哈里·威尔逊在补时阶段封神。第92分钟，他接特劳雷传中凌空用外脚背垫出绝妙吊射破门；第97分钟，他又接罗宾逊传中轻巧头球挑过门将弗莱肯，帮助富勒姆2-1逆转绝杀，积分升至8分。"
+    ]
+  },
+  "ja": {
+    "title": "プレミアリーグ第9節：ハリー・ウィルソンが劇的AT2発！フラムがブレントフォードに2-1逆転勝利",
+    "subtitle": "82分投入のスーパーサブが92分のアクロバティック弾と97分のループヘッドで西ロンドンダービーを制す。",
+    "excerpt": "クレイヴン・コテージが熱狂！アディショナルタイムにウィルソンが2得点を奪い、フラムが2-1でブレントフォードを下しました。",
+    "body": [
+      "11月2日月曜日、クレイヴン・コテージで行われた西ロンドンダービーは伝説的な幕切れとなりました。ヤネルトの鮮烈なロングシュートで先制されたフラムでしたが、途中出場のハリー・ウィルソンが奇跡を起こしました。",
+      "92分にトラオレのクロスをアクロバティックなボレーで流し込んで同点とすると、97分にはロビンソンのクロスをふわりとしたヘディングで沈めて劇的決勝ゴール。フラムが2-1で逆転勝利を収め勝ち点8に到達しました。"
+    ]
+  },
+  "ko": {
+    "title": "프리미어리그 9R: 해리 윌슨 추가시간 멀티골 기적, 풀럼 브렌트퍼드 2-1 대역전승",
+    "subtitle": "82분 교체 투입된 윌슨이 92분 힐킥 동점골과 97분 헤더 결승골 작렬하며 서런던 더비 장악.",
+    "excerpt": "크레이븐 코티지에서 기적이 일어났습니다. 해리 윌슨이 후반 추가시간에만 2골을 몰아치며 풀럼의 2-1 역전승을 이끌었습니다.",
+    "body": [
+      "11월 2일 월요일 런던 크레이븐 코티지에서 열린 프리미어리그 서런던 더비는 축구사에 남을 대역전극으로 마무리되었습니다. 야넬트에게 선제골을 내주고 끌려가던 풀럼은 마르코 실바 감독의 용병술로 경기를 뒤집었습니다.",
+      "82분에 교체로 들어간 해리 윌슨은 92분에 트라오레의 크로스를 감각적인 공중 뒤꿈치 슈팅으로 마무리해 동점을 만들었고, 97분에는 로빈슨의 크로스를 절묘한 로빙 헤더로 연결해 2-1 승리를 완성했습니다. 풀럼은 승점 8점으로 도약했습니다."
+    ]
+  },
+  "ar": {
+    "title": "الدوري الإنجليزي الجولة 9: هاري ويلسون يقلب الطاولة بثنائية إعجازية في الوقت القاتل وفولهام يهزم برينتفورد 2-1",
+    "subtitle": "البديل الويلزي يسجل في الدقيقتين 92 و97 بلمستين فنيتين ساحرتين ليمنح فريقه دربي غرب لندن في كرافن كوتيج.",
+    "excerpt": "عاش ملعب كرافن كوتيج ليلة تاريخية الإثنين بعدما سجل هاري ويلسون هدفين في الوقت بدل الضائع ليقود فولهام للفوز 2-1 على برينتفورد.",
+    "body": [
+      "شهد دربي غرب لندن يوم الإثنين 2 نوفمبر إثارة لا مثيل لها على ملعب كرافن كوتيج. وتقدم برينتفورد أولا بتسديدة صاروخية من يانيلت، وظل متقدما حتى الدقيقة 90 وسط صمود دفاعي كبير.",
+      "لكن البديل هاري ويلسون، الذي شارك في الدقيقة 82، صنع المعجزة بتسجيل هدف التعادل في الدقيقة 92 بلمسة أكروباتية رائعة في الشباك، قبل أن يسجل هدف الفوز القاتل في الدقيقة 97 برأسية ساقطة من فوق الحارس لتنتهي المباراة 2-1 ويرتفع رصيد فولهام إلى 8 نقاط."
+    ]
+  }
+},
+"atp-paris-masters-2026-tsitsipas-battles-past-carballes-baena-bercy-opener": {
+  "fr": {
+    "title": "Rolex Paris Masters : Stefanos Tsitsipas renverse Roberto Carballes Baena (4-6, 6-3, 6-3) pour son entree a Bercy",
+    "subtitle": "Auteur de 37 coups gagnants et 11 aces, le Grec comble un set de retard et preserve ses chances de qualification pour les ATP Finals.",
+    "excerpt": "Stefanos Tsitsipas s'est extirpe d'un piege lundi a Bercy en venant a bout de l'Espagnol Carballes Baena en trois manches.",
+    "body": [
+      "Le Rolex Paris Masters a demarre sous haute tension lundi 2 novembre a l'Accor Arena. Tete de serie numero 10, Stefanos Tsitsipas s'est employe pendant plus de deux heures pour ecarter le coriace Roberto Carballes Baena 4-6, 6-3, 6-3.",
+      "Apres une premiere manche dominee par l'Espagnol, le joueur hellene a hausse son niveau en frappant 37 winners et en verrouillant sa mise en jeu avec 81% de points gagnes sur premiere balle. Tsitsipas engrange 50 points capitaux dans la course pour le Masters de Turin."
+    ]
+  },
+  "es": {
+    "title": "Rolex Paris Masters: Stefanos Tsitsipas remonta a Roberto Carballes Baena (4-6, 6-3, 6-3) en su estreno en Bercy",
+    "subtitle": "El griego firma 37 golpes ganadores y 11 saques directos para alcanzar la segunda ronda y seguir en la carrera por Turín.",
+    "excerpt": "Stefanos Tsitsipas debuto con victoria trabajada en el Masters 1000 de Paris al batir en tres sets al espanol Carballes Baena.",
+    "body": [
+      "Jornada inaugural intensa en el Accor Arena este lunes 2 de noviembre. Stefanos Tsitsipas tuvo que emplearse a fondo durante 2 horas y 7 minutos para doblegar al espanol Roberto Carballes Baena por 4-6, 6-3 y 6-3 en la pista central.",
+      "Carballes se anoto el primer parcial gracias a su solidez de fondo, pero el decimo cabeza de serie reacciono atacando la red y conectando 37 golpes ganadores y 11 aces. Tsitsipas suma 50 valiosos puntos ATP para mantener vivas sus opciones de estar en las ATP Finals de Turin."
+    ]
+  },
+  "de": {
+    "title": "Rolex Paris Masters: Stefanos Tsitsipas kaempft Roberto Carballes Baena mit 4:6, 6:3, 6:3 nieder",
+    "subtitle": "Der an Position zehn gesetzte Grieche schlaegt 37 Winner und wahrt mit dem Dreisatzerfolg seine Chance auf die ATP Finals.",
+    "excerpt": "Stefanos Tsitsipas drehte am Montag in Paris einen Satzrueckstand gegen Roberto Carballes Baena und zog in die zweite Runde ein.",
+    "body": [
+      "Das Rolex Paris Masters in der Accor Arena startete am Montag, den 2. November, mit harter Arbeit fuer Stefanos Tsitsipas. Der Grieche bezwang den spanischen Sandplatzspezialisten Roberto Carballes Baena nach Satzrueckstand mit 4:6, 6:3, 6:3.",
+      "Tsitsipas benoetigte zwei Stunden und sieben Minuten und stellte im zweiten Durchgang seine Taktik um. Mit 37 direkten Gewinnschlaegen und 11 Assen sicherte sich der Athener den Sieg und wichtige Punkte fuer das Saisonfinale in Turin."
+    ]
+  },
+  "it": {
+    "title": "Rolex Paris Masters: Stefanos Tsitsipas rimonta Roberto Carballes Baena 4-6, 6-3, 6-3 all'esordio a Bercy",
+    "subtitle": "Il greco piazza 37 vincenti e 11 ace per accedere ai sedicesimi e alimentare il sogno delle Nitto ATP Finals di Torino.",
+    "excerpt": "Esordio vincente ma sofferto per Stefanos Tsitsipas all'Accor Arena di Parigi: vittoria in tre set su Carballes Baena.",
+    "body": [
+      "Inizia con una battaglia il cammino di Stefanos Tsitsipas al Rolex Paris Masters lunedi 2 novembre. Il tennista greco, testa di serie numero 10, ha superato lo spagnolo Roberto Carballes Baena con lo score di 4-6, 6-3, 6-3.",
+      "Perso il primo parziale sotto la spinta del dritto arrotato dell'iberico, Tsitsipas ha preso in mano lo scambio mettendo a segno 37 colpi vincenti. Il successo vale l'accesso al secondo turno e 50 punti preziosi nella Race to Turin."
+    ]
+  },
+  "pl": {
+    "title": "Rolex Paris Masters: Stefanos Tsitsipas odrabia straty i pokonuje Roberto Carballesa Baene 4:6, 6:3, 6:3",
+    "subtitle": "Grek poslal 37 uderzen konczacych i 11 asow, meldujac sie w drugiej rundzie i przedluzajac szanse na Turyn.",
+    "excerpt": "Stefanos Tsitsipas po ciezkim trzysetowym boju pokonal Hiszpana Carballesa Baene na otwarcie turnieju Masters 1000 w Paryzu.",
+    "body": [
+      "W poniedzialek 2 listopada w paryskiej hali Accor Arena rozpoczal sie turniej Rolex Paris Masters. Rozstawiony z numerem 10 Stefanos Tsitsipas musial mocno sie napracowac, by pokonac Roberto Carballesa Baene 4:6, 6:3, 6:3.",
+      "Grek przegral partig otwarcia, lecz w dwoch kolejnych setach dominowal dzieki swietnemu serwisowi i odwaznym atakom. Tsitsipas zapisal na swoim koncie 37 winnerow oraz 11 asow i zachowal realne szanse na awans do turnieju ATP Finals."
+    ]
+  },
+  "zh": {
+    "title": "劳力士巴黎大师赛：西西帕斯4-6、6-3、6-3逆转卡巴列斯，首战告捷保留总决赛希望",
+    "subtitle": "10号种子全场轰出37记制胜分与11记发球得分，苦战三盘挺进贝尔西次轮。",
+    "excerpt": "在巴黎大师赛首轮较量中，希腊名将西西帕斯上演三盘逆转，以4-6、6-3、6-3击败西班牙好手卡巴列斯晋级32强。",
+    "body": [
+      "11月2日周一，年度最后一站ATP1000大师赛在巴黎贝尔西体育馆拉开战幕。10号种子西西帕斯经历2小时零7分钟的激战，以4-6、6-3、6-3逆转击败西班牙红土好手卡巴列斯·巴埃纳。",
+      "在首盘受阻的不利局面下，西西帕斯调整战术加强正手进攻，全场轰出37记制胜分并赢下81%的一发得分。凭借这场胜利，希腊名将收获50个积分，继续保留着入围都灵ATP年终总决赛的微弱希望。"
+    ]
+  },
+  "ja": {
+    "title": "ロレックス・パリ・マスターズ：チチパスがカルバレス・バエナに4-6, 6-3, 6-3で逆転勝利し初戦突破",
+    "subtitle": "第10シードが37本のウィナーと11本のエースを浴びせ、トリノ最終戦への望みをつなぐ2回戦進出。",
+    "excerpt": "パリのアコー・アリーナでチチパスがセットを失いながらもカルバレス・バエナに競り勝ち、幸先の良いスタートを切りました。",
+    "body": [
+      "11月2日月曜日、パリのアコー・アリーナで今季最後のマスターズ1000が開幕しました。第10シードのステファノス・チチパスがスペインのロベルト・カルバレス・バエナに4-6、6-3、6-3で逆転勝ちを収めました。",
+      "初めのセットを落としたチチパスでしたが、アグレッシブな攻めに切り替えてウィナー37本、サービスエース11本を記録。2時間7分の激闘を制し、ATPファイナルズ出場権獲得へ向けて貴重な勝ち点50を積み上げました。"
+    ]
+  },
+  "ko": {
+    "title": "롤렉스 파리 마스터스: 치치파스, 카르바예스 바에나에 4-6, 6-3, 6-3 역전승 거두고 베르시 2회전 진출",
+    "subtitle": "위너 37개와 에이스 11개 폭발시킨 10번 시드, 세트스코어 뒤집으며 투린 파이널스 진출 희망 이어가.",
+    "excerpt": "스테파노스 치치파스가 파리 마스터스 1회전에서 카르바예스 바에나를 상대로 3세트 접전 끝에 역전승을 거뒀습니다.",
+    "body": [
+      "11월 2일 월요일 파리 아코르 아레나에서 열린 롤렉스 파리 마스터스 개막전에서 10번 시드 스테파노스 치치파스가 스페인의 로베르토 카르바예스 바에나를 4-6, 6-3, 6-3으로 꺾었습니다.",
+      "첫 세트를 내준 치치파스는 공격적인 네트 대시와 포핸드 강타로 37개의 위너를 기록하며 분위기를 반전시켰습니다. 2시간 7분의 혈투 끝에 승리한 치치파스는 랭킹 포인트 50점을 획득하며 투린 ATP 파이널스 출전 경쟁을 이어갔습니다."
+    ]
+  },
+  "ar": {
+    "title": "بطولة باريس للماسترز: ستيفانوس تسيتسيباس يقلب تأخره ويهزم كارباييس باينا 4-6 و6-3 و6-3 في الدور الأول",
+    "subtitle": "اللاعب اليوناني يسدد 37 ضربة قاضية و11 إرسالا ساحقا ليبلغ دور الـ32 ويحافظ على آماله في التأهل للبطولة الختامية في تورينو.",
+    "excerpt": "افتتح تسيتسيباس مشواره في بطولة باريس للماسترز بفوز شاق على الإسباني كارباييس باينا بعد ثلاث مجموعات في قاعة بيرسي.",
+    "body": [
+      "انطلقت منافسات بطولة رولكس باريس للماسترز يوم الإثنين 2 نوفمبر في صالة أكور أرينا بلقاء حماسي نجح خلاله اليوناني ستيفانوس تسيتسيباس المصنف العاشر في تعويض خسارته للمجموعة الأولى ليفوز على الإسباني روبرتو كارباييس باينا بنتيجة 4-6 و6-3 و6-3.",
+      "واحتاج تسيتسيباس إلى ساعتين و7 دقائق لكسر مقاومة منافسه، معتمدا على قوة إرساله وتسديد 37 ضربة ناجحة و11 إرسالا ساحقا، ليحصد 50 نقطة هامة تعزز حظوظه في التأهل إلى نهائيات رابطة المحترفين في تورينو."
+    ]
+  }
+},
+"f1-sao-paulo-gp-2026-preview-antonelli-coronation-interlagos-constructors-fight": {
+  "fr": {
+    "title": "F1 GP de São Paulo présentation : Apres le sacre d'Antonelli, cap sur Interlagos pour la bataille des constructeurs",
+    "subtitle": "Mercedes devance Ferrari de 133 points alors que le format Sprint promet un spectacle electrique au Bresil.",
+    "excerpt": "Au lendemain du titre historique de Kimi Antonelli a Mexico, la Formule 1 s'installe a Interlagos pour le duel Mercedes-Ferrari chez les constructeurs.",
+    "body": [
+      "Le paddock de la Formule 1 a pose ses valises au Bresil ce lundi 2 novembre, encore emu par le sacre historique de Kimi Antonelli dimanche a Mexico. A seulement 20 ans et 68 jours, le pilote Mercedes est devenu le plus jeune champion du monde des pilotes de l'histoire.",
+      "Avec le titre pilotes scelle, tous les regards se tournent vers le championnat du monde des constructeurs. Mercedes mene avec 133 points d'avance sur Ferrari (607 contre 474). A Interlagos, circuit mythique avec la course Sprint de samedi, Leclerc et Hamilton comptent tout donner pour faire briller la Scuderia."
+    ]
+  },
+  "es": {
+    "title": "F1 Previa GP de São Paulo: Tras la coronacion de Antonelli, Interlagos acoge la batalla final de constructores",
+    "subtitle": "Mercedes aventaja a Ferrari en 133 puntos con el penultimo fin de semana con formato Sprint de la temporada 2026.",
+    "excerpt": "Tras el historico titulo de Kimi Antonelli en Mexico, la Formula 1 llega a Brasil con el duelo Mercedes vs Ferrari por el campeonato de escuderias.",
+    "body": [
+      "La Formula 1 llego este lunes 2 de noviembre a Brasil con el eco del historico triunfo de Kimi Antonelli, quien el domingo se convirtio en el campeon del mundo mas joven de todos los tiempos en la Ciudad de Mexico.",
+      "Ahora la atencion se traslada al legendario Autodromo Jose Carlos Pace de Interlagos, donde Mercedes defiende una renta de 133 puntos frente a Ferrari en la lucha por el mundial de constructores (607 contra 474). El formato Sprint del sabado anadira maxima emocion a un fin de semana decisivo."
+    ]
+  },
+  "de": {
+    "title": "Formel 1 Sao Paulo GP Vorschau: Nach Antonellis Kroenung tobt in Interlagos der Kampf um die Konstrukteurs-WM",
+    "subtitle": "Mercedes fuehrt mit 133 Punkten Vorsprung auf Ferrari vor dem vorletzten Sprint-Wochenende der Saison 2026.",
+    "excerpt": "Nur einen Tag nach Kimi Antonellis historischem Titelgewinn zieht der Formel-1-Zirkus weiter nach Brasilien zum Showdown in Interlagos.",
+    "body": [
+      "Der Formel-1-Tross erreichte am Montag, den 2. November, Brasilien. Nach dem Sensationserfolg von Kimi Antonelli, der in Mexiko mit 20 Jahren zum juengsten Fahrer-Weltmeister der Geschichte avancierte, rueckt die Team-Weltmeisterschaft in den Fokus.",
+      "Mercedes geht mit 133 Punkten Vorsprung auf Ferrari (607 zu 474) in das traditionsreiche Rennwochenende auf dem Autodromo Jose Carlos Pace. Mit dem Sprintrennen am Samstag stehen bis zu 59 Punkte auf dem Spiel, waehrend Leclerc und Hamilton den Angriff auf die Silberpfeile planen."
+    ]
+  },
+  "it": {
+    "title": "F1 Presentazione GP San Paolo: Dopo il trionfo iridato di Antonelli, a Interlagos e sfida aperta tra Mercedes e Ferrari",
+    "subtitle": "Mercedes in vantaggio di 133 punti sulla Rossa mentre la penultima gara Sprint del 2026 accende l'Autodromo Jose Carlos Pace.",
+    "excerpt": "All'indomani del mondiale vinto da Kimi Antonelli in Messico, la Formula 1 approda in Brasile per il duello costruttori.",
+    "body": [
+      "Il paddock della Formula 1 e sbarcato a San Paolo lunedi 2 novembre con l'entusiasmo ancora alle stelle per il titolo mondiale conquistato da Kimi Antonelli, il piu giovane iridato nella storia della F1.",
+      "Archiviato il titolo piloti, a Interlagos andra in scena il verdetto del mondiale costruttori: la Mercedes comanda con 607 punti davanti alla Ferrari a quota 474. Charles Leclerc e Lewis Hamilton cercheranno il colpaccio sulla pista paulista sfruttando la gara Sprint di sabato."
+    ]
+  },
+  "pl": {
+    "title": "F1 Zapowiedz GP Sao Paulo: Po koronacji Antonellego na torze Interlagos zaplonie walka o mistrzostwo konstruktorow",
+    "subtitle": "Mercedes wyprzedza Ferrari o 133 punkty przed przedostatnim weekendem ze sprintem w sezonie 2026.",
+    "excerpt": "Dzien po tym, jak Kimi Antonelli zostal najmlodszym mistrzem swiata F1, karawana wyscigowa zawitala do Brazylii na starcie na torze Interlagos.",
+    "body": [
+      "Padok Formuly 1 dotarl w poniedzialek 2 listopada do Brazylii. Po niedzielnym triumfie 20-letniego Kimiego Antonellego w Meksyku, uwaga calego swiata motorsportu przenosi sie na rywalizacje konstruktorow.",
+      "Na kultowym torze Interlagos Mercedes broni 133 punktow przewagi nad Ferrari (607 do 474). Sobotni wyscig sprinterski i niedzielne Grand Prix zwiastuja wielkie emocje, w ktorych Leclerc i Hamilton beda polowac na dublet dla stajni z Maranello."
+    ]
+  },
+  "zh": {
+    "title": "F1圣保罗大奖赛前瞻：安东内利加冕后F1移师英特拉格斯，梅赛德斯与法拉利打响车队冠军决战",
+    "subtitle": "梅赛德斯手握133分领先优势，年度倒数第二场冲刺赛即将引爆巴西传奇赛道狂潮。",
+    "excerpt": "在安东内利创纪录加冕车手世界冠军的次日，F1全员抵达巴西，英特拉格斯将迎来梅赛德斯与法拉利的车队争霸战。",
+    "body": [
+      "11月2日周一，F1围场正式进驻巴西圣保罗英特拉格斯赛道。就在周日，20岁的梅赛德斯超新星安东内利在墨西哥城登顶，成为F1史上最年轻的车手世界冠军。",
+      "随着车手总冠军悬念揭晓，车队世界冠军之争进入白热化阶段。目前梅赛德斯以607分领先法拉利（474分）达133分。巴西站包含冲刺赛赛制，最多可产生59个车队积分，勒克莱尔与汉密尔顿将全力向银箭发起最后反扑。"
+    ]
+  },
+  "ja": {
+    "title": "F1サンパウロGPプレビュー：アントネッリ戴冠の興奮冷めやらぬ中、名門インテルラゴスで熱きコンストラクターズ決戦",
+    "subtitle": "メルセデスがフェラーリに133点差リード；今季5度目のスプリントフォーマットが波乱を呼ぶ。",
+    "excerpt": "アントネッリが最年少王者に輝いた翌日、F1はブラジルへ移動。インテルラゴスを舞台にチームタイトルを懸けた激突が始まります。",
+    "body": [
+      "11月2日月曜日、F1サーカスはブラジルのインテルラゴス・サーキットに到着しました。日曜日のメキシコGPでキミ・アントネッリが史上最年少でのワールドチャンピオン獲得を決めた興奮がまだ残っています。",
+      "個人タイトルの次はチームの栄冠を懸けた戦いです。コンストラクターズ選手権首位のメルセデス（607点）と追うフェラーリ（474点）の差は133ポイント。土曜日のスプリントを含むブラジルGPでルクレールとハミルトンが逆転を目指します。"
+    ]
+  },
+  "ko": {
+    "title": "F1 상파울루 GP 프리뷰: 안토넬리 대관식 뒤이어 인테를라고스서 메르세데스 대 페라리 컨스트럭터 혈전",
+    "subtitle": "메르세데스가 페라리에 133점 앞선 가운데 2026시즌 5번째 스프린트 레이스가 펼쳐지는 브라질 결전.",
+    "excerpt": "키미 안토넬리의 최연소 월드 챔피언 등극 다음 날, F1 그리드가 브라질 상파울루로 이동해 팀 챔피언십 쟁탈전에 돌입합니다.",
+    "body": [
+      "11월 2일 월요일 F1 패덕이 브라질 인테를라고스 서킷에 도착했습니다. 멕시코시티에서 20세 안토넬리가 페텔의 기록을 깨고 역대 최연소 챔피언에 오른 지 불과 하루 만입니다.",
+      "드라이버 타이틀이 확정된 가운데 이제 시선은 컨스트럭터 챔피언십으로 향합니다. 메르세데스가 페라리에 133점 차(607점 대 474점)로 앞서 있지만, 토요일 스프린트가 포함된 인테를라고스에서는 르클레르와 해밀턴의 거센 반격이 예상됩니다."
+    ]
+  },
+  "ar": {
+    "title": "فورمولا 1 تقديم جائزة ساو باولو: بعد تتويج أنتونيللي التاريخي، حلبة إنترلاغوس تشهد صراع الصانعين بين مرسيدس وفيراري",
+    "subtitle": "مرسيدس تتصدر بفارق 133 نقطة أمام فيراري مع انطلاق عطلة سباق السرعة القبل أخير لموسم 2026.",
+    "excerpt": "بعد يوم واحد من تتويج الإيطالي أنتونيللي بلقب العالم، تنتقل فورمولا 1 إلى البرازيل لحسم معركة بطولة الصانعين في إنترلاغوس.",
+    "body": [
+      "وصلت فرق الفورمولا 1 إلى البرازيل يوم الإثنين 2 نوفمبر وسط أجواء احتفالية بتتويج كيمي أنتونيللي كأصغر بطل عالم في تاريخ الرياضة بعد إنهائه سباق المكسيك في المركز الثاني خلف شارل لوكلير.",
+      "ومع حسم لقب السائقين، يتحول التركيز بالكامل إلى بطولة العالم للصانعين، حيث تتقدم مرسيدس برصيد 607 نقاط مقابل 474 لفيراري. وتوفر حلبة إنترلاغوس الشهيرة، مع سباق السرعة يوم السبت، فرصة كبيرة للوكلير وهاميلتون لتقليص الفارق وإشعال المنافسة."
+    ]
+  }
+},
+"pga-tour-wwt-championship-2026-preview-cabo-pereda-momentum-diamante": {
+  "fr": {
+    "title": "PGA Tour WWT Championship présentation : Dans l'elan du sacre de Pereda, le circuit debarque a Cabo pour la course aux cartes",
+    "subtitle": "Le parcours El Cardonal concu par Tiger Woods accueille l'epreuve alors que la lutte pour le top 125 de la FedExCup Fall bat son plein.",
+    "excerpt": "Apres l'emotion de la victoire historique de Raul Pereda au Mexico Open, le PGA Tour se rend a Los Cabos pour le WWT Championship a Diamante.",
+    "body": [
+      "Le golf mexicain est sur un nuage ce lundi 2 novembre alors que le PGA Tour pose son sac a Los Cabos pour le World Wide Technology Championship 2026. Dimanche a VidantaVallarta, Raul Pereda est entre dans l'histoire en remportant l'Open national grace a un dernier tour en 66.",
+      "Ce succes retentissant offre a Pereda une exemption de deux ans et le propulse dans le top 50 mondial. Desormais, sur le splendide trace d'El Cardonal at Diamante dessine par Tiger Woods, Austin Smotherman et le reste du plateau bataillent pour assurer leur avenir parmi les 125 premiers de la FedExCup Fall."
+    ]
+  },
+  "es": {
+    "title": "PGA Tour Previa WWT Championship: Tras la hazaña historica de Pereda, el tour llega a Cabo con las tarjetas en juego",
+    "subtitle": "El campo El Cardonal diseñado por Tiger Woods recibe a los golfistas en plena pugna por entrar al top 125 de la FedExCup Fall.",
+    "excerpt": "Tras la apoteosica victoria de Raul Pereda en Puerto Vallarta, el PGA Tour viaja a Los Cabos para disputar el torneo en Diamante.",
+    "body": [
+      "El golf mexicano vive dias de ensueño este lunes 2 de noviembre con la llegada del PGA Tour a Los Cabos para disputar el World Wide Technology Championship 2026. La historica victoria de Raul Pereda en VidantaWorld lo catapulto al top 50 mundial con pase al Masters y al PGA Championship.",
+      "Ahora, los focos se dirigen a El Cardonal en Diamante, el primer trazado diseñado por Tiger Woods en acoger un torneo oficial del circuito. Con solo tres citas para concluir el calendario otoñal, jugadores como Austin Smotherman y Aaron Rai buscan puntos vitales para salvar sus tarjetas dentro del top 125."
+    ]
+  },
+  "de": {
+    "title": "PGA Tour WWT Championship Vorschau: Nach Peredas historischem Coup schlaegt die Tour in Los Cabos ab",
+    "subtitle": "Tiger Woods' Meisterschaftsplatz El Cardonal at Diamante fordert die Profis im dramatischen Kampf um die Top-125-Karten.",
+    "excerpt": "Befluegelt von Raul Peredas Heimsieg reist die PGA Tour weiter nach Cabo San Lucas zur World Wide Technology Championship.",
+    "body": [
+      "Mexikos Golfwelt feiert am Montag, den 2. November, noch immer den historischen Sieg von Raul Pereda bei den VidantaWorld Mexico Open. Mit einer finalen 66er-Runde hatte sich der Lokalmatador den Titel gesichert und sich bis unter die Top 50 der Weltrangliste vorgeschoben.",
+      "In dieser Woche gastiert die Tour auf dem von Tiger Woods entworfenen Kurs El Cardonal at Diamante in Los Cabos. Waehrend Pereda gefeiert wird, geht es fuer Austin Smotherman und viele weitere Akteure um das Ueberleben auf der PGA Tour im Kampf um die 125 besten Plaetze des FedExCup Fall."
+    ]
+  },
+  "it": {
+    "title": "PGA Tour Presentazione WWT Championship: Sulle ali del trionfo di Pereda, il circuito sbarca a Cabo San Lucas",
+    "subtitle": "Il percorso El Cardonal disegnato da Tiger Woods ospita la sfida decisiva per le carte del tour tra i migliori 125 della FedExCup Fall.",
+    "excerpt": "Dopo l'emozionante successo di Raul Pereda a Puerto Vallarta, il PGA Tour resta in Messico per il torneo di Diamante a Los Cabos.",
+    "body": [
+      "Clima di festa per il golf messicano lunedi 2 novembre con l'arrivo della carovana del PGA Tour a Los Cabos per il World Wide Technology Championship 2026. L'indimenticabile vittoria casalinga di Raul Pereda ha regalato al ventinovenne l'ingresso nei primi 50 al mondo e l'invito al Masters.",
+      "La nuova tappa si gioca sul celebre tracciato di El Cardonal a Diamante, firmato da Tiger Woods. In palio ci sono 500 punti FedExCup fondamentali per chi cerca di chiudere la stagione tra i primi 125 e garantire la propria carta per il 2027."
+    ]
+  },
+  "pl": {
+    "title": "PGA Tour Zapowiedz WWT Championship: Na fali historycznego triumfu Peredy golfisci graja w Cabo o karty na 2027",
+    "subtitle": "Pole El Cardonal projektu Tigera Woodsa gosci zawodnikow walczacych o utrzymanie w czołowej 125 rankingu FedExCup Fall.",
+    "excerpt": "Po wielkim sukcesie Raula Peredy w Mexico Open cykl PGA Tour przenosi sie do Los Cabos na prestizowe zawody w Diamante.",
+    "body": [
+      "Meksykanski golf przezyl chwile chwaly, a w poniedzialek 2 listopada PGA Tour zawitalo do Los Cabos na World Wide Technology Championship 2026. Triumf Raula Peredy z wynikiem 17 ponizej par zapewnil mu skok do czolowej 50 rankingu i przepustke do turniejow wielkoszlemowych.",
+      "Rywalizacja przenosi sie na pole El Cardonal w osrodku Diamante, zaprojektowane przez Tigera Woodsa. Austin Smotherman oraz Aaron Rai powalcza o cenne punkty FedExCup Fall, ktore zadecyduja o kartach PGA Tour na przyszly sezon."
+    ]
+  },
+  "zh": {
+    "title": "美巡赛WWT锦标赛前瞻：佩雷达历史性夺冠余威尚存，美巡转战卡博打响保卡生死战",
+    "subtitle": "老虎伍兹操刀设计的迪亚曼特卡多纳尔球场迎战群雄，秋季赛前125名全卡争夺进入白热化阶段。",
+    "excerpt": "在劳尔·佩雷达捧得墨西哥公开赛冠军后，美巡赛移师下加利福尼亚，迪亚曼特球场即将上演保卡大戏。",
+    "body": [
+      "11月2日周一，墨西哥高尔夫界沉浸在空前的自豪与喜悦之中。劳尔·佩雷达周日在巴亚尔塔港以两杆优势夺冠，成为美巡赛时代首位在本土夺冠的墨西哥球手，不仅世界排名跻身前50，更锁定了大师赛与PGA锦标赛参赛席位。",
+      "本周美巡赛继续留在墨西哥，转战由老虎·伍兹亲自设计的洛斯卡波斯卡多纳尔球场。除了携荣耀登场的佩雷达外，斯莫瑟曼、阿龙·莱等一众名将也将全力出击，在仅剩3站的秋季赛中为确保前125名参赛全卡奋力搏杀。"
+    ]
+  },
+  "ja": {
+    "title": "PGAツアー WWT選手権プレビュー：ペレダの歴史的快挙に沸くメキシコ、カボでシード権争奪戦が開幕",
+    "subtitle": "タイガー・ウッズ設計のエル・カルドナルが舞台；フェデックスカップ・フォール上位125名を巡る激戦。",
+    "excerpt": "ラウル・ペレダの感動的なメキシコオープン制覇の熱気そのままに、PGAツアーはロスカボスのディアマンテへと舞台を移します。",
+    "body": [
+      "11月2日月曜日、メキシコ・ゴルフ界が熱狂に包まれる中、PGAツアーはロスカボスでのワールドワイド・テクノロジー選手権へと移動しました。日曜日、ラウル・ペレダが母国初優勝を飾り世界ランキングトップ50入りとマスターズ出場権を獲得しました。",
+      "今週の舞台はタイガー・ウッズが設計した名コース、エル・カルドナル・アット・ディアマンテ。ペレダの凱旋とともに、来季の出場権確保となるフォールシリーズ上位125位以内を目指す選手たちの熱い戦いが幕を開けます。"
+    ]
+  },
+  "ko": {
+    "title": "PGA 투어 WWT 챔피언십 프리뷰: 페레다의 역사적 우승 열기 속 카보서 펼쳐지는 시드권 쟁탈전",
+    "subtitle": "타이거 우즈가 설계한 엘 카르도날 코스서 격돌; 페덱스컵 가을 시리즈 톱125 보장 카드 전쟁.",
+    "excerpt": "라울 페레다의 감격적인 멕시코 오픈 제패에 이어, PGA 투어는 로스카보스의 디아만테로 무대를 옮깁니다.",
+    "body": [
+      "11월 2일 월요일 멕시코 골프계가 페레다의 우승 열기로 가득 찬 가운데, PGA 투어가 로스카보스에서 2026 월드와이드 테크놀로지 챔피언십을 개최합니다. 전날 페레다는 17언더파로 자국 대회 정상에 오르며 세계랭킹 50위권 진입과 마스터스 출전권을 따냈습니다.",
+      "이번 대회는 타이거 우즈가 설계한 명문 코스인 엘 카르도날 앳 디아만테에서 열립니다. 준우승자 오스틴 스모더먼을 비롯한 선수들은 2027년 풀 시드가 주어지는 페덱스컵 가을 시리즈 상위 125위 진입을 위해 치열한 샷 대결을 벌입니다."
+    ]
+  },
+  "ar": {
+    "title": "جولة بي جي إيه تقديم بطولة دابليو دابليو تي: بعد إنجاز بيريدا التاريخي، الجولة تنتقل إلى كابو لحسم بطاقات الموسم",
+    "subtitle": "ملعب إل كاردونال من تصميم تايغر وودز يستضيف البطولة مع اشتعال المنافسة لحجز مقعد ضمن أفضل 125 لاعبا.",
+    "excerpt": "بعد التتويج التاريخي للبطل المكسيكي راؤول بيريدا، تحط جولة الجولف الأمريكية رحالها في لوس كابوس لخوض منافسات بطولة ديامانتي.",
+    "body": [
+      "تعيش رياضة الجولف المكسيكية أياما من الفخر يوم الإثنين 2 نوفمبر مع وصول نجوم جولة بي جي إيه إلى لوس كابوس لخوض بطولة التكنولوجيا العالمية لعام 2026. وتوج راؤول بيريدا يوم الأحد بلقب بطولة المكسيك ليقفز إلى قائمة أفضل 50 لاعبا عالميا ويضمن المشاركة في الماسترز وبطولة بي جي إيه الكبرى.",
+      "وتقام منافسات هذا الأسبوع على ملعب إل كاردونال في ديامانتي، وهو أول ملعب من تصميم الأسطورة تايغر وودز يستضيف حدثا رسميا للجولة. ويسعى أوستن سموذر مان وآرون راي لجمع نقاط ثمينة تضمن بقاءهما ضمن أفضل 125 لاعبا في تصنيف الخريف لضمان بطاقة المشاركة للموسم المقبل."
+    ]
+  }
+},
 "f1-mexico-city-gp-2026-antonelli-crowned-world-champion-history": {
   "fr": {
     "title": "GP du Mexique : Kimi Antonelli termine 2e derriere Leclerc et devient le plus jeune champion du monde de F1",
@@ -508,89 +1007,6 @@ export const STORY_I18N: Record<string, LocMap> = {
     ]
   }
 },
-"f1-mexico-city-gp-2026-antonelli-crowned-world-champion-history": {
-  "fr": {
-    "title": "GP du Mexique : Kimi Antonelli termine 2e derriere Leclerc et devient le plus jeune champion du monde de F1",
-    "subtitle": "A 20 ans et 68 jours, le prodige italien de Mercedes efface le record de Sebastian Vettel et decroche le titre mondial 2026.",
-    "excerpt": "Kimi Antonelli est entre dans la legende dimanche a Mexico en devenant le plus jeune champion du monde de l'histoire de la F1.",
-    "body": [
-      "L'Autodromo Hermanos Rodriguez a ete le theatre d'un moment d'histoire ce dimanche 1er novembre. En franchissant la ligne d'arrivee en deuxieme position derriere Charles Leclerc, l'Italien Kimi Antonelli a officiellement coiffe la couronne de champion du monde des pilotes 2026.",
-      "Parti en pole position, le rookie de Mercedes a gere sa course avec un sang-froid remarquable pour securiser les 18 points necessaires. Leclerc s'est impose pour Ferrari, mais le heros du jour est bien Antonelli, qui devient le premier Italien titre depuis Alberto Ascari en 1953 et le plus jeune champion de l'histoire a 20 ans et 68 jours."
-    ]
-  },
-  "es": {
-    "title": "GP de Mexico: Kimi Antonelli finaliza segundo tras Leclerc y se corona como el campeon del mundo mas joven de la F1",
-    "subtitle": "A sus 20 anos y 68 dias, el prodigio de Mercedes bate el historico registro de Sebastian Vettel y gana el Mundial 2026.",
-    "excerpt": "Kimi Antonelli escribio su nombre en los libros de oro del deporte al proclamarse campeon del mundo de Formula 1 en Mexico.",
-    "body": [
-      "El Autodromo Hermanos Rodriguez vivio una jornada para la posteridad este domingo 1 de noviembre. Al terminar segundo tras Charles Leclerc, Kimi Antonelli se proclamo campeon del mundo de Formula 1 2026 a falta de tres grandes premios para el final.",
-      "El piloto de Mercedes, que partia desde la pole, controlo el ritmo sin asumir riesgos innecesarios. Charles Leclerc se llevo el triunfo para Ferrari, mientras Antonelli desataba la fiesta en el Foro Sol al convertirse en el primer italiano campeon desde Alberto Ascari en 1953 y el mas joven de todos los tiempos."
-    ]
-  },
-  "de": {
-    "title": "Formel 1 Mexiko GP: Kimi Antonelli wird Zweiter hinter Leclerc und kroent sich zum juengsten Weltmeister aller Zeiten",
-    "subtitle": "Mit 20 Jahren und 68 Tagen bricht das Mercedes-Talent den Rekord von Sebastian Vettel und sichert sich den WM-Titel 2026.",
-    "excerpt": "Kimi Antonelli hat am Sonntag in Mexiko-Stadt Motorsportgeschichte geschrieben und die Formel-1-Weltmeisterschaft gewonnen.",
-    "body": [
-      "Das Autodromo Hermanos Rodriguez erlebte am Sonntag, den 1. November, einen historischen Moment. Kimi Antonelli beendete den Grossen Preis von Mexiko auf Platz zwei hinter Charles Leclerc und kroente sich zum Weltmeister 2026.",
-      "Der von der Pole Position gestartete Mercedes-Youngster fuhr ein fehlerfreies Rennen. Leclerc holte den Sieg fuer Ferrari, doch der Tag gehoerte Antonelli, der mit 20 Jahren und 68 Tagen den 16 Jahre alten Rekord von Sebastian Vettel ausloeschte und erster italienischer Champion seit Alberto Ascari 1953 ist."
-    ]
-  },
-  "it": {
-    "title": "GP Messico: Kimi Antonelli e nella leggenda, 2° dietro a Leclerc e campione del mondo di Formula 1 piu giovane della storia",
-    "subtitle": "A 20 anni e 68 giorni il fenomeno della Mercedes batte il record di Vettel e riporta il titolo iridato in Italia dopo 73 anni.",
-    "excerpt": "Kimi Antonelli conquista il titolo mondiale di Formula 1 2026 sul circuito di Citta del Messico al termine di una gara memorabile.",
-    "body": [
-      "L'Italia dei motori torna sul tetto del mondo dopo 73 anni di attesa. Domenica 1 novembre all'Autodromo Hermanos Rodriguez, Kimi Antonelli ha chiuso al secondo posto il Gran Premio del Messico laureandosi campione del mondo 2026.",
-      "Gara vinta con merito dalla Ferrari di Charles Leclerc, ma il trionfo iridato e tutto del ventenne bolognese della Mercedes. Antonelli supera il primato di Sebastian Vettel diventando il piu giovane campione nella storia della F1 e il primo italiano iridato dai tempi di Alberto Ascari nel 1953."
-    ]
-  },
-  "pl": {
-    "title": "GP Meksyku: Kimi Antonelli drugi za Leclerkiem i zostaje najmlodszym mistrzem swiata w historii Formuly 1",
-    "subtitle": "Maja 20 lat i 68 dni mlodzieniec Mercedesa pobija rekord Sebastiana Vettela i zdobywa tytul mistrzowski 2026.",
-    "excerpt": "Kimi Antonelli przypieczetowal w niedziele mistrzostwo swiata F1, konczac wyscig w Meksyku na drugim stopniu podium.",
-    "body": [
-      "W niedziele 1 listopada tor Autodromo Hermanos Rodriguez byl swiadkiem wiekopomnego wydarzenia. Kimi Antonelli minal linie mety na drugim miejscu za Charlesem Leclerkiem i zapewnil sobie tytul mistrza swiata kierowcow F1 2026 roku.",
-      "Wloch prowadzil po starcie z pole position, po czym bezblednie dowiozl drugie miejsce. Leclerc wygral dla Ferrari, ale bohaterem dnia zostal Antonelli, stajac sie pierwszym wloskim mistrzem od Alberto Ascariego w 1953 roku i najmlodszym czempionem w dziejach motorsportu."
-    ]
-  },
-  "zh": {
-    "title": "F1墨西哥大奖赛：安东内利屈居亚军仍提前加冕，刷新维特尔纪录成F1史上最年轻世界冠军",
-    "subtitle": "20岁零68天！梅赛德斯意大利超新星紧随勒克莱尔冲线，提前三站锁定2026年度车手总冠军。",
-    "excerpt": "基米·安东内利周日在墨西哥城以亚军完赛，正式登顶2026赛季F1世界冠军宝座，书写历史神迹。",
-    "body": [
-      "11月1日周日下午，墨西哥城罗德里格斯赛道见证了F1全新历史的诞生。年仅20岁零68天的梅赛德斯新秀基米·安东内利在71圈正赛中稳健完赛收获亚军，正式提前锁定2026年F1车手世界总冠军。",
-      "法拉利车手勒克莱尔夺得分站冠军，但领奖台上最大的焦点属于安东内利。他以打破维特尔16年前纪录的姿态，成为F1历史上最年轻的年度世界冠军，也是自1953年传奇车手阿斯卡里之后首位加冕F1世界冠军的意大利人。"
-    ]
-  },
-  "ja": {
-    "title": "F1メキシコGP：アントネッリが2位フィニッシュで史上最年少ワールドチャンピオンに輝く",
-    "subtitle": "20歳68日！メルセデスの至宝がルクレールに次ぐ表彰台でベッテルの記録を塗り替え2026年王座戴冠。",
-    "excerpt": "キミ・アントネッリが日曜日のメキシコGPで2位に入り、F1史上最年少での年間ワールドチャンピオン獲得を決めました。",
-    "body": [
-      "11月1日日曜日、エルマノス・ロドリゲス・サーキットでF1の歴史が塗り替えられました。メルセデスの20歳キミ・アントネッリがルクレールに続く2位でチェッカーを受け、2026年のドライバーズ世界王者に輝きました。",
-      "フェラーリのルクレールが今季5勝目を飾る中、アントネッリは冷静沈着なドライビングで必要なポイントを獲得。セバスチャン・ベッテルの史上最年少記録を更新し、1953年のアルベルト・アスカリ以来となるイタリア人世界王者が誕生しました。"
-    ]
-  },
-  "ko": {
-    "title": "F1 멕시코 GP: 키미 안토넬리 2위 완주로 역대 최연소 F1 월드 챔피언 등극",
-    "subtitle": "20세 68일! 메르세데스 신예, 르클레르에 이어 준우승하며 페텔의 기록 깨고 2026년 세계 챔피언 확정.",
-    "excerpt": "키미 안토넬리가 멕시코시티에서 2위로 결승선을 통과하며 F1 역사상 가장 어린 나이에 세계 챔피언에 올랐습니다.",
-    "body": [
-      "11월 1일 일요일 멕시코시티 엘마노스 로드리게스 서킷에서 새로운 모터스포츠 전설이 탄생했습니다. 메르세데스의 20세 드라이버 키미 안토넬리가 샤를 르클레르에 이어 2위를 차지하며 2026 F1 월드 챔피언 타이틀을 확정지었습니다.",
-      "르클레르가 페라리에 우승을 안긴 가운데, 안토넬리는 안정적인 레이스 운영으로 18점을 추가했습니다. 이로써 안토넬리는 2010년 페텔의 최연소 기록을 3년 이상 앞당겼으며, 1953년 알베르토 아스카리 이후 73년 만에 이탈리아 출신 월드 챔피언이 되었습니다."
-    ]
-  },
-  "ar": {
-    "title": "جائزة المكسيك الكبرى: كيمي أنتونيللي ينهي السباق ثانيا خلف لوكلير ويصبح أصغر بطل عالم في تاريخ الفورمولا 1",
-    "subtitle": "في عمر 20 عاما و68 يوما، سائق مرسيدس الإيطالي يحطم رقم فيتيل ويتوج بلقب بطولة العالم لعام 2026 رسميا.",
-    "excerpt": "دخل الإيطالي الشاب كيمي أنتونيللي التاريخ من أوسع أبوابه يوم الأحد بحسمه لقب بطولة العالم للفورمولا 1 في المكسيك.",
-    "body": [
-      "شهدت حلبة هيرمانوس رودريغيز يوما للتاريخ يوم الأحد 1 نوفمبر بتتويج السائق الإيطالي كيمي أنتونيللي بلقب بطولة العالم لسائقي الفورمولا 1 لعام 2026 بعد إنهائه السباق في المركز الثاني خلف شارل لوكلير.",
-      "وقاد سائق مرسيدس الشاب سباقا تكتيكيا هادئا ضمن له اللقب العالمي قبل 3 جولات من النهاية. وبات أنتونيللي أصغر بطل عالم في تاريخ الفورمولا 1 بعمر 20 عاما و68 يوما، ليكسر رقم سيباستيان فيتيل القياسي ويصبح أول إيطالي يتوج باللقب منذ ألبرتو أسكاري عام 1953."
-    ]
-  }
-},
 "pga-tour-mexico-open-2026-final-pereda-historic-triumph-vidanta.md": {
   "fr": {
     "title": "PGA Tour VidantaWorld Mexico Open : Raul Pereda vainqueur historique avec une derniere carte de 66",
@@ -671,338 +1087,6 @@ export const STORY_I18N: Record<string, LocMap> = {
     "body": [
       "عاشت جماهير الجولف المكسيكية يوما تاريخيا لا ينسى يوم الأحد 1 نوفمبر بتتويج ابن بلادها راؤول بيريدا بلقب بطولة فيدانتا وورلد المكسيك المفتوحة بعد أن سجل 66 ضربة (-5) في الجولة الأخيرة ليصل إلى مجموع 17 تحت المعدل (267 ضربة).",
       "وتفوق بيريدا على الأمريكي أوستن سموذر مان بفارق ضربتين بفضل ضربات بيردي حاسمة في الحفرتين 15 و17. وأصبح بيريدا أول لاعب مكسيكي يتوج بالبطولة الوطنية في العصر الحديث لجولة بي جي إيه ليضمن مقعده في بطولة الماسترز لعام 2027."
-    ]
-  }
-},
-"nfl-week8-vikings-beat-colts-24-17-undefeated-7-0-2026": {
-  "fr": {
-    "title": "NFL Semaine 8 : Les Vikings toujours invaincus (7-0) apres leur victoire 24-17 contre les Colts",
-    "subtitle": "Sam Darnold distribue deux touchdowns a Justin Jefferson et la defense de Flores provoque trois pertes de balle.",
-    "excerpt": "Minnesota reste la seule equipe invaincue de la NFL cette saison apres son succes 24-17 a domicile face a Indianapolis.",
-    "body": [
-      "Les Minnesota Vikings poursuivent leur sans-faute en 2026. Ce dimanche 1er novembre au U.S. Bank Stadium, les hommes de Kevin O'Connell ont dispose des Indianapolis Colts sur le score de 24-17 devant 67 157 spectateurs.",
-      "Sam Darnold a ete imperial avec 274 yards et 2 touchdowns, tous deux captes par un Justin Jefferson etincelant (128 yards). La defense etouffante de Brian Flores a fait le reste en interceptant Anthony Richardson a deux reprises pour porter le bilan des Vikings a 7 victoires et 0 defaite."
-    ]
-  },
-  "es": {
-    "title": "NFL Semana 8: Los Vikings siguen invictos (7-0) tras superar 24-17 a los Colts con show de Darnold y Jefferson",
-    "subtitle": "Sam Darnold conecta dos pases de anotacion con Justin Jefferson y la defensiva de Minnesota roba tres balones clave.",
-    "excerpt": "Minnesota se mantiene como el unico equipo invicto de la NFL tras vencer este domingo 24-17 a los Indianapolis Colts.",
-    "body": [
-      "Los Minnesota Vikings confirmaron su condicion de equipo mas solido de la NFL este domingo 1 de noviembre al vencer 24-17 a los Indianapolis Colts en Minneapolis, alcanzando un registro perfecto de 7-0.",
-      "El mariscal Sam Darnold firmo otro gran encuentro con 274 yardas y 2 touchdowns hacia su receptor estrella Justin Jefferson (128 yardas en 9 recepciones). La defensa orquestada por Brian Flores provoco tres perdidas de balon para sellar la victoria y liderar la division NFC Norte."
-    ]
-  },
-  "de": {
-    "title": "NFL Woche 8: Ungeschlagene Vikings bezwingen Colts mit 24:17 und stehen dank Darnold bei 7:0",
-    "subtitle": "Sam Darnold wirft zwei Touchdowns auf Superstar Justin Jefferson; Vikings-Defense forciert drei Ballverluste.",
-    "excerpt": "Die Minnesota Vikings bleiben nach dem 24:17-Erfolg ueber Indianapolis das einzige ungeschlagene Team der NFL.",
-    "body": [
-      "Die Minnesota Vikings sind in der NFL-Saison 2026 weiter das Maß aller Dinge. Am Sonntag, den 1. November, setzte sich das Team von Head Coach Kevin O'Connell mit 24:17 gegen die Indianapolis Colts durch und feierte den siebten Sieg im siebten Spiel.",
-      "Quarterback Sam Darnold ueberzeugte mit 274 Yards und zwei Touchdown-Paessen auf Justin Jefferson, der 128 Receiving-Yards verbuchte. Die Verteidigung von Brian Flores fing Anthony Richardson zweimal ab und sicherte in der Schlussminute den perfekten 7:0-Start."
-    ]
-  },
-  "it": {
-    "title": "NFL Week 8: I Vikings restano imbattuti sul 7-0, Colts piegati 24-17 con la coppia Darnold-Jefferson",
-    "subtitle": "Due touchdown sull'asse Darnold-Jefferson e tre palle recuperate dalla difesa di Flores lanciano Minnesota in vetta.",
-    "excerpt": "Minnesota e l'unica squadra della NFL ancora senza sconfitte grazie al successo casalingo per 24-17 su Indianapolis.",
-    "body": [
-      "Continua la marcia trionfale dei Minnesota Vikings. Domenica 1 novembre al U.S. Bank Stadium, i padroni di casa hanno superato 24-17 gli Indianapolis Colts salendo sul 7-0 in classifica.",
-      "Sam Darnold ha brillato con 274 yard e 2 mete per Justin Jefferson, autore di una gara magistrale da 128 yard. La difesa di Brian Flores ha chiuso ogni varco a Richardson nel finale, certificando il primato assoluto dei Vikings."
-    ]
-  },
-  "pl": {
-    "title": "NFL Tydzien 8: Niepokonani Vikings wygrywaja z Colts 24:17 i maja bilans 7-0 dzieki akcjom Darnolda i Jeffersona",
-    "subtitle": "Dwa przylozenia duetu Darnold-Jefferson i trzy straty wymuszone przez obrone utrzymuja Minnesote na czele ligi.",
-    "excerpt": "Minnesota Vikings pozostaja jedyna niepokonana druzyna w NFL po niedzielnym zwyciestwie 24:17 nad Indianapolis Colts.",
-    "body": [
-      "Minnesota Vikings potwierdzili swoja dominacje w NFL, pokonujac w niedziele 1 listopada Indianapolis Colts 24:17 przed wlasna publicznoscia i poprawiajac swoj bilans do nieskazitelnego 7-0.",
-      "Sam Darnold rzucil 274 jardy i 2 przylozenia do Justina Jeffersona, ktory zlapal 9 pilek na 128 jardow. Obrona prowadzona przez Briana Floresa przechwycila dwa podania rywali i powstrzymala decydujaca probe Colts w czwartej kwarcie."
-    ]
-  },
-  "zh": {
-    "title": "NFL常规赛第8周：明尼苏达维京人24-17力克小马，7战全胜独步全联盟",
-    "subtitle": "达诺德连线杰弗森砍下两记达阵，弗洛雷斯铁血防守制造3次球权转换锁定胜局。",
-    "excerpt": "维京人队周日在主场以24-17力克印第安纳波利斯小马队，成为本赛季全联盟唯一保持不败的球队（7胜0负）。",
-    "body": [
-      "11月1日周日下午，明尼苏达维京人队在合众银行体育场以24-17力克印第安纳波利斯小马队，将赛季战绩刷新至全联盟独一无二的7胜0负。",
-      "四分卫萨姆·达诺德发挥出色，全场31投23中轰下274码和2次达阵，两次均由外接手贾斯廷·杰弗森完成连线（9次接球128码）。防守协调员弗洛雷斯的战术彻底压制了小马四分卫理查森，全场送出4次擒杀并完成两次关键拦截。"
-    ]
-  },
-  "ja": {
-    "title": "NFL第8週：バイキングスが開幕7連勝、コルツを24-17で下しリーグ唯一の無敗を堅持",
-    "subtitle": "QBダーノルドがエースWRジェファーソンへ2TDパス；強力ディフェンスが3ターンオーバーを奪取。",
-    "excerpt": "ミネソタ・バイキングスが日曜日、コルツを24-17で下して開幕7勝0敗とし、NFL唯一の無敗チームとして快走しています。",
-    "body": [
-      "11月1日日曜日、U.S.バンク・スタジアムで行われた一戦で、ミネソタ・バイキングスがインディアナポリス・コルツを24-17で退け、開幕7連勝を飾りました。",
-      "QBサム・ダーノルドが274ヤード、2タッチダウンを投げ、ターゲットのジャスティン・ジェファーソンが128ヤードを獲得。ブライアン・フローレス率いる強力守備陣が相手QBリチャードソンから2インターセプトを奪い、僅差のリードを守り抜きました。"
-    ]
-  },
-  "ko": {
-    "title": "NFL 8주차: 무패의 바이킹스, 콜츠 24-17로 꺾고 개막 7연승 질주",
-    "subtitle": "샘 다놀드-저스틴 제퍼슨 2TD 합작과 플로레스 수비진의 3턴오버 유도로 전승 행진 고수.",
-    "excerpt": "미네소타 바이킹스가 일요일 홈에서 인디애나폴리스 콜츠를 24-17로 제압하고 NFL 유일의 무패 팀(7승 0패)으로 남았습니다.",
-    "body": [
-      "11월 1일 일요일 미네아폴리스 U.S. 뱅크 스타디움에서 열린 경기에서 미네소타 바이킹스가 인디애나폴리스 콜츠를 24-17로 따돌렸습니다.",
-      "쿼터백 샘 다놀드는 274야드 패싱과 2개의 터치다운을 기록했고, 와이드리시버 저스틴 제퍼슨이 128야드 2TD를 잡아내며 공격을 주도했습니다. 브라이언 플로레스의 질식 수비진은 상대 실책 3개를 유도하며 7승 무패로 NFC 북부지구 선두를 굳건히 지켰습니다."
-    ]
-  },
-  "ar": {
-    "title": "دوري كرة القدم الأمريكية الأسبوع 8: فايكنغز يحافظ على سجله خاليا من الهزائم (7-0) بعد الفوز 24-17 على كولتس",
-    "subtitle": "سام دارنولد يسجل تمريرتي هبوط إلى جيفرسون ودفاع مينيسوتا يجبر الخصم على 3 خسائر للكرة.",
-    "excerpt": "واصل مينيسوتا فايكنغز انطلاقته المثالية في دوري NFL بفوزه 24-17 على إنديانابوليس كولتس ليبقى الفريق الوحيد دون هزيمة.",
-    "body": [
-      "أكد مينيسوتا فايكنغز تفوقه التام في موسم 2026 يوم الأحد 1 نوفمبر بالفوز 24-17 على إنديانابوليس كولتس في ملعب يو إس بانك ستاديوم، ليصل إلى 7 انتصارات دون أي هزيمة.",
-      "وقدم سام دارنولد أداء رائعا بتسجيله 274 ياردة وتمريرتي هبوط إلى النجم جاستن جيفرسون الذي حصد 128 ياردة، بينما فرض دفاع المدرب براين فلوريس حصارا محكما وتصدى لكرات حاسمة في الربع الأخير ليحسم الفوز."
-    ]
-  }
-},
-"atp-vienna-2026-alcaraz-sweeps-musetti-claims-austrian-title": {
-  "fr": {
-    "title": "Tournoi de Vienne finale : Carlos Alcaraz surclasse Lorenzo Musetti 6-3, 6-4 et s'offre le titre",
-    "subtitle": "Le numero un mondial boucle une semaine parfaite sans perdre un set pour remporter son 6e trophee de l'annee 2026.",
-    "excerpt": "Carlos Alcaraz a remporte le tournoi ATP 500 de Vienne dimanche en dominant Lorenzo Musetti en deux manches maitrisees.",
-    "body": [
-      "Carlos Alcaraz a couronne une semaine de reve en Autriche ce dimanche 1er novembre. En finale de l'Erste Bank Open, le prodige espagnol a domine l'Italien Lorenzo Musetti 6-3, 6-4 en 1 heure et 24 minutes a la Wiener Stadthalle.",
-      "Alcaraz n'a pas cede le moindre set en cinq matchs dans le tournoi viennois, s'appuyant sur un service intouchable (88 % de points gagnes derriere sa premiere balle) et 28 coups gagnants. C'est son sixieme titre de la saison 2026 avant d'aborder le Rolex Paris Masters."
-    ]
-  },
-  "es": {
-    "title": "ATP Viena final: Carlos Alcaraz supera 6-3, 6-4 a Lorenzo Musetti y levanta la corona austriaca",
-    "subtitle": "El murciano completa una semana immaculada sin perder un solo set para conquistar su sexto titulo del ano 2026.",
-    "excerpt": "Carlos Alcaraz derroto con autoridad a Lorenzo Musetti en Viena y levanto el trofeo del Erste Bank Open este domingo.",
-    "body": [
-      "Carlos Alcaraz se proclamo campeon del torneo ATP 500 de Viena este domingo 1 de noviembre al vencer a Lorenzo Musetti por 6-3 y 6-4 en un partido de enorme precision y velocidad.",
-      "El numero uno del mundo domino de principio a fin, firmando 28 golpes ganadores y sin ceder una sola oportunidad de quiebre. Alcaraz cierra el torneo sin ceder un solo set y suma su 18° titulo profesional a los 23 anos, consolidando su ventaja en la cima del ranking mundial."
-    ]
-  },
-  "de": {
-    "title": "Erste Bank Open Finale: Carlos Alcaraz besiegt Lorenzo Musetti 6:3, 6:4 und holt den Titel in Wien",
-    "subtitle": "Weltranglistenerster bleibt im gesamten Turnier ohne Satzverlust und feiert seinen sechsten Turniersieg 2026.",
-    "excerpt": "Carlos Alcaraz kroente sich am Sonntag in der Wiener Stadthalle mit einem 6:3, 6:4 ueber Lorenzo Musetti zum Champion.",
-    "body": [
-      "Carlos Alcaraz feierte am Sonntag, den 1. November, einen souveraenen Turniersieg bei den Erste Bank Open in Wien. Vor 9.800 Fans in der Wiener Stadthalle setzte sich der topgesetzte Spanier mit 6:3, 6:4 gegen den Italiener Lorenzo Musetti durch.",
-      "Alcaraz dominierte das Endspiel mit 28 Winnern und musste keinen einzigen Breakball abwehren. Fuer den 23-Jaehrigen war es der sechste ATP-Titel der laufenden Saison 2026, den er ohne einen einzigen Satzverlust im Turnierverlauf unter Dach und Fach brachte."
-    ]
-  },
-  "it": {
-    "title": "ATP Vienna finale: Carlos Alcaraz supera Lorenzo Musetti 6-3, 6-4 e conquista il titolo austriaco",
-    "subtitle": "Lo spagnolo chiude una settimana immacolata senza cedere set e festeggia il sesto trofeo del 2026.",
-    "excerpt": "Carlos Alcaraz vince l'Erste Bank Open di Vienna superando Lorenzo Musetti in due set nella finale di domenica.",
-    "body": [
-      "Trionfo di Carlos Alcaraz nella finale dell'Erste Bank Open a Vienna domenica 1 novembre. Lo spagnolo ha battuto Lorenzo Musetti con il punteggio di 6-3, 6-4 in un'ora e 24 minuti di gioco impeccabile.",
-      "Alcaraz ha chiuso il torneo senza perdere neppure un set, mettendo a referto 28 vincenti e l'88% di punti con la prima palla. Per Musetti un ottimo torneo, ma il numero uno del mondo ha dimostrato una superiorita schiacciante nei momenti caldi."
-    ]
-  },
-  "pl": {
-    "title": "ATP Wieden final: Carlos Alcaraz pokonuje Lorenzo Musettiego 6:3, 6:4 i wznosi puchar",
-    "subtitle": "Lider rankingu zakonczyl caly turniej bez straty seta, zdobywajac swoj szosty tytul w sezonie 2026.",
-    "excerpt": "Carlos Alcaraz wygral turniej ATP 500 w Wiedniu, pokonujac w niedzielnym finale Lorenzo Musettiego w dwoch setach.",
-    "body": [
-      "Carlos Alcaraz potwierdzil mistrzowska forme w niedziele 1 listopada, wygrywajac turniej Erste Bank Open w Wiedniu po zwyciestwie 6:3, 6:4 nad Wlochem Lorenzo Musettim.",
-      "Hiszpan byl bezbledny przy wlasnym serwisie, nie bronic ani jednego break pointa i posylajac 28 uderzen konczacych. To szosty tytul Alcaraza w 2026 roku, zdobyty bez straty chocby jednego seta w pieciu rozegranych meczach."
-    ]
-  },
-  "zh": {
-    "title": "ATP维也纳站决赛：阿尔卡拉斯6-3、6-4完胜穆塞蒂加冕，不失一盘夺今年第6冠",
-    "subtitle": "世界第一一发得分率高达88%全场零破发点，耗时84分钟捧得维也纳赛男单冠军奖杯。",
-    "excerpt": "阿尔卡拉斯在周日的维也纳决赛中直落两盘击败穆塞蒂，完美包揽整周比赛冠军并不丢一盘。",
-    "body": [
-      "11月1日周日，维也纳斯塔德哈勒体育馆9800名观众共同见证了阿尔卡拉斯的统治级表现。在维也纳公开赛决赛中，世界第一阿尔卡拉斯耗时84分钟以6-3、6-4击败意大利名将穆塞蒂，捧起冠军奖杯。",
-      "阿尔卡拉斯整场轰出28记制胜分且未送出任何破发点，全周5场比赛未失一盘。这是阿尔卡拉斯本赛季斩获的第6座巡回赛单打冠军，也是他职业生涯第18冠，将世界第一的领先优势进一步扩大。"
-    ]
-  },
-  "ja": {
-    "title": "ATPウィーン決勝：アルカラスがムゼッティを6-3、6-4で圧倒し全試合ストレート勝ちで戴冠",
-    "subtitle": "世界1位のアルカラスがファーストサーブ獲得率88％を記録し、今季ツアー6勝目をマーク。",
-    "excerpt": "カルロス・アルカラスが日曜日のウィーン決勝でムゼッティを下し、1セットも落とさずに大会制覇を果たしました。",
-    "body": [
-      "11月1日日曜日、オーストリアのウィーンで行われたエルステ・バンク・オープン男子シングルス決勝で、カルロス・アルカラスがロレンツォ・ムゼッティを6-3、6-4で下して優勝を飾りました。",
-      "アルカラスは28本のウィナーを決め、ブレークポイントを1度も許さない完璧な内容で84分で勝利。今大会5試合すべてストレート勝ちで飾り、今季6勝目、通算18個目のタイトルを獲得しました。"
-    ]
-  },
-  "ko": {
-    "title": "ATP 빈 오픈 결승: 카를로스 알카라스, 무세티 6-3 6-4 완파하고 무실세트 우승",
-    "subtitle": "세계 1위 알카라스, 단 하나의 세트도 내주지 않고 시즌 6번째 투어 우승 트로피 획득.",
-    "excerpt": "알카라스가 일요일 빈 오픈 결승에서 무세티를 꺾고 대회 내내 단 한 세트도 잃지 않는 압도적 우승을 차지했습니다.",
-    "body": [
-      "11월 1일 일요일 오스트리아 빈에서 열린 ATP 500 대회 결승에서 세계 1위 카를로스 알카라스가 이탈리아의 로렌초 무세티를 6-3, 6-4로 제압하고 정상에 올랐습니다.",
-      "알카라스는 88%의 첫 서브 득점률과 28개의 위너를 뿜어내며 단 한 번의 브레이크 위기 없이 84분 만에 경기를 끝냈습니다. 이번 대회 5경기를 모두 무실세트로 마친 알카라스는 올 시즌 6번째이자 통산 18번째 투어 단독 타이틀을 거머쥐었습니다."
-    ]
-  },
-  "ar": {
-    "title": "بطولة فيينا للتنس النهائي: كارلوس ألكاراز يهزم لورينزو موسيتي 6-3 و6-4 ويتوج باللقب دون خسارة أي مجموعة",
-    "subtitle": "المصنف الأول عالميا يحقق لقبه السادس في عام 2026 بعد عرض مثالي في العاصمة النمساوية.",
-    "excerpt": "توج الإسباني كارلوس ألكاراز بلقب بطولة فيينا المفتوحة يوم الأحد بعد فوزه المستحق بمجموعتين دون رد على موسيتي.",
-    "body": [
-      "أكد الإسباني كارلوس ألكاراز هيمنته التامة على ملاعب التنس بتتويجه بلقب بطولة فيينا الدولية يوم الأحد 1 نوفمبر إثر فوزه في النهائي على الإيطالي لورينزو موسيتي بنتيجة 6-3 و6-4 في 84 دقيقة.",
-      "وحقق ألكاراز اللقب دون أن يخسر أي مجموعة في مبارياته الخمس طوال الأسبوع، مسجلا 28 ضربة قاضية دون مواجهة أي نقطة لكسر إرساله، ليرفع رصيده إلى 6 ألقاب في موسم 2026 و18 لقبا في مسيرته الاحترافية."
-    ]
-  }
-},
-"nba-thunder-edge-clippers-116-109-sga-36-points-2026": {
-  "fr": {
-    "title": "NBA dimanche : Shai Gilgeous-Alexander marque 36 points et le Thunder bat les Clippers 116-109",
-    "subtitle": "Le champion en titre reste parfait a 4-0 grace au sang-froid de son meneur canadien dans le dernier quart a Los Angeles.",
-    "excerpt": "Oklahoma City s'est impose 116-109 sur le parquet des Clippers dimanche soir avec un SGA decisif dans le money-time.",
-    "body": [
-      "Le champion en titre de la NBA a montre toute sa force de caractere ce dimanche 1er novembre a l'Intuit Dome. Emmenes par un Shai Gilgeous-Alexander magistral (36 points, 9 passes, 6 rebonds), les Oklahoma City Thunder ont domine les Los Angeles Clippers 116-109.",
-      "A 102-102 a trois minutes de la sirene, SGA a inscrit 14 points dans le quatrieme quart-temps pour forcer la decision face a Kawhi Leonard (27 points). Chet Holmgren a ajoute 18 points et 4 contres pour permettre au Thunder de demarrer sa saison sur un 4-0 parfait."
-    ]
-  },
-  "es": {
-    "title": "NBA domingo: Shai Gilgeous-Alexander firma 36 puntos y el campeon Thunder vence 116-109 a Clippers",
-    "subtitle": "Oklahoma City se mantiene invicto con 4-0 tras una actuacion colosal de su estrella canadiense en el Intuit Dome.",
-    "excerpt": "Shai Gilgeous-Alexander anoto 36 puntos para liderar la victoria de los Thunder por 116-109 ante los Clippers en Los Angeles.",
-    "body": [
-      "Los vigentes campeones de la NBA volvieron a dar un golpe sobre la mesa este domingo 1 de noviembre en Inglewood. El Oklahoma City Thunder supero 116-109 a Los Angeles Clippers apoyado en una noche sublime de Shai Gilgeous-Alexander.",
-      "El base canadiense registro 36 puntos, 9 asistencias y 6 rebotes, anotando 14 puntos vitales en el ultimo periodo para desarticular la resistencia de Kawhi Leonard (27 puntos). Con el apoyo defensivo de Chet Holmgren (4 tapones), OKC se coloca con un inmaculado 4-0."
-    ]
-  },
-  "de": {
-    "title": "NBA Sonntag: Shai Gilgeous-Alexander erzielt 36 Punkte beim 116:109 des Meisters Thunder gegen die Clippers",
-    "subtitle": "Oklahoma City bleibt mit 4:0 ungeschlagen dank einer herausragenden Schlussphase von SGA im Intuit Dome.",
-    "excerpt": "Titelverteidiger Oklahoma City Thunder bezwang die LA Clippers am Sonntag mit 116:109 dank 36 Punkten von Gilgeous-Alexander.",
-    "body": [
-      "Die Oklahoma City Thunder untermauerten am Sonntag, den 1. November, ihren Status als Meister. Angefuehrt von Shai Gilgeous-Alexander, der 36 Punkte und 9 Assists verbuchte, siegte OKC mit 116:109 bei den Los Angeles Clippers.",
-      "SGA erzielte 14 seiner Punkte im Schlussviertel und entschied das packende Duell gegen Kawhi Leonard (27 Punkte). Chet Holmgren ueberzeugte mit 18 Punkten und 4 Blocks, womit die Thunder die Tabelle im Westen mit 4:0 Siegen anfuehren."
-    ]
-  },
-  "it": {
-    "title": "NBA domenica: Shai Gilgeous-Alexander ne mette 36 e i campioni Thunder espugnano i Clippers 116-109",
-    "subtitle": "Oklahoma City vola sul 4-0 grazie ai canestri decisivi della sua stella nel finale caldo all'Intuit Dome.",
-    "excerpt": "Shai Gilgeous-Alexander firma 36 punti e 9 assist nel successo dei campioni NBA Thunder sui Clippers a Los Angeles.",
-    "body": [
-      "Grande prova di forza dei campioni in carica di Oklahoma City domenica sera 1 novembre. Il Thunder ha espugnato il nuovissimo Intuit Dome superando i Los Angeles Clippers per 116-109.",
-      "Shai Gilgeous-Alexander e stato immarcabile con 36 punti (14 nell'ultimo quarto) e 9 assistenze. A nulla sono valsi i 27 punti di Kawhi Leonard per i padroni di casa: con Holmgren autore di 4 stoppate, OKC mantiene la testa della Western Conference sul 4-0."
-    ]
-  },
-  "pl": {
-    "title": "NBA niedziela: Shai Gilgeous-Alexander rzuca 36 punktow, a mistrzowie Thunder pokonuja Clippers 116:109",
-    "subtitle": "Oklahoma City ma bilans 4-0 po wysmienitym wystepie kanadyjskiego lidera w Intuit Dome w Los Angeles.",
-    "excerpt": "Shai Gilgeous-Alexander poprowadzil obroncow tytulu Thunder do wygranej 116:109 nad Clippers, zdobywajac 36 punktow.",
-    "body": [
-      "Oklahoma City Thunder udowodnili swoja klase mistrzowska w niedziele 1 listopada w Los Angeles. Druzyna z Oklahomy pokonala Clippers 116:109 po porywajacym meczu w nowej hali Intuit Dome.",
-      "Shai Gilgeous-Alexander rzucil 36 punktow i mial 9 asyst, brylujac w koncowce z 14 punktami w czwartej kwarcie. Chet Holmgren dolozyl 18 punktow i 4 bloki, a Thunder pozostaja niepokonani na starcie sezonu z bilansem 4-0."
-    ]
-  },
-  "zh": {
-    "title": "NBA常规赛周日：亚历山大狂砍36分9助攻制胜，卫冕冠军雷霆116-109力克快船豪取4连胜",
-    "subtitle": "SGA末节独揽14分浇灭快船反扑，霍姆格伦送出4次大帽，雷霆全胜领跑西部积分榜。",
-    "excerpt": "亚历山大周日晚在洛杉矶打出MVP级表现轰下36分，带领卫冕冠军雷霆以116-109击败快船队。",
-    "body": [
-      "11月1日周日晚，卫冕冠军俄克拉荷马城雷霆队做客英格尔伍德直觉穹顶球馆，以116-109力克洛杉矶快船队，赛季开局取得四战全胜。",
-      "雷霆当家球星谢伊·吉尔杰斯-亚历山大全场21投13中，砍下36分、9次助攻和6个篮板，并在第四节决胜时刻独得14分。霍姆格伦贡献18分并送出4次封盖，助雷霆在客场顶住了莱昂纳德（27分）与哈登的反攻。"
-    ]
-  },
-  "ja": {
-    "title": "NBA日曜：SGAが36得点9アシストの無双、王者サンダーがクリッパーズを116-109で破り開幕4連勝",
-    "subtitle": "第4クォーターに14得点を集中させたエースの活躍で接戦を制し、西地区単独首位をキープ。",
-    "excerpt": "シェイ・ギルジャス・アレクサンダーが36得点をマークし、王者オクラホマシティ・サンダーが敵地で快勝しました。",
-    "body": [
-      "11月1日日曜日、ロサンゼルスで行われたNBA公式戦で、昨季王者オクラホマシティ・サンダーがロサンゼルス・クリッパーズを116-109で退けました。",
-      "大黒柱のシェイ・ギルジャス・アレクサンダーが36得点、9アシストと大車輪の活躍をみせ、勝負の第4クォーターだけで14得点を奪取。チェット・ホルムグレンも4ブロックとゴール下を死守し、サンダーが開幕4連勝を飾りました。"
-    ]
-  },
-  "ko": {
-    "title": "NBA 일요일: 샤이 길저스-알렉산더 36점 폭발, 디펜딩 챔피언 썬더 클리퍼스 116-109 격파",
-    "subtitle": "4쿼터에만 14점을 몰아친 SGA의 클러치 활약으로 오클라호마시티 개막 4연승 질주.",
-    "excerpt": "SGA가 36점 9어시스트를 기록하며 오클라호마시티 썬더를 클리퍼스전 116-109 승리로 이끌었습니다.",
-    "body": [
-      "11월 1일 일요일 인튜이트 돔에서 열린 NBA 경기에서 오클라호마시티 썬더가 LA 클리퍼스를 116-109로 꺾고 개막 4연승을 달렸습니다.",
-      "샤이 길저스-알렉산더는 36점 9어시스트 6리바운드를 기록했고 4쿼터 막판 14점을 쏟아부으며 카와이 레너드(27점)가 분전한 클리퍼스를 제압했습니다. 쳇 홈그렌도 18점 4블록으로 골밑을 장악했습니다."
-    ]
-  },
-  "ar": {
-    "title": "دوري السلة الأمريكي الأحد: شاي غيلجيوس-ألكسندر يسجل 36 نقطة ويقود حامل اللقب ثاندر للفوز على كليبرز 116-109",
-    "subtitle": "أوكلاهوما سيتي يحافظ على سجله المثالي 4-0 بفضل 14 نقطة حاسمة لنجمه في الربع الأخير بلوس أنجلوس.",
-    "excerpt": "تألق النجم شاي غيلجيوس-ألكسندر بتسجيله 36 نقطة ليقود أوكلاهوما سيتي ثاندر لإسقاط لوس أنجلوس كليبرز.",
-    "body": [
-      "واصل حامل لقب دوري السلة الأمريكي أوكلاهوما سيتي ثاندر عروضه القوية مساء الأحد 1 نوفمبر بالفوز على لوس أنجلوس كليبرز 116-109 في صالة إنتويت دوم.",
-      "وسجل النجم الكندي شاي غيلجيوس-ألكسندر 36 نقطة و9 تمريرات حاسمة، منها 14 نقطة في الربع الرابع الحاسم، ليحسم المواجهة أمام كواي ليونارد (27 نقطة) ويقود ثاندر لانتصاره الرابع على التوالي في صدارة القسم الغربي."
-    ]
-  }
-},
-"premier-league-mw9-chelsea-downs-newcastle-2-1-palmer-winner": {
-  "fr": {
-    "title": "Premier League J9 : Cole Palmer offre la victoire a Chelsea 2-1 contre Newcastle a Stamford Bridge",
-    "subtitle": "Nicolas Jackson et Cole Palmer marquent pour les Blues qui rejoignent Liverpool au pied du podium avec 16 points.",
-    "excerpt": "Chelsea a domine Newcastle 2-1 a Londres dimanche grace a un but splendide de Cole Palmer au retour des vestiaires.",
-    "body": [
-      "Chelsea a renoue avec le succes en Premier League ce dimanche 1er novembre en dominant Newcastle United 2-1 a Stamford Bridge dans une rencontre disputee a un rythme effrene.",
-      "Nicolas Jackson a ouvert le score a la 18e minute a la conclusion d'un contre rapide, mais Alexander Isak a egalise pour les Magpies avant la pause. Au retour des vestiaires, l'incontournable Cole Palmer a fait lever la foule d'un tir puissant a l'entree de la surface. Chelsea grimpe a la 5e place avec 16 points."
-    ]
-  },
-  "es": {
-    "title": "Premier League J9: Cole Palmer firma un golazo para dar la victoria al Chelsea 2-1 sobre el Newcastle",
-    "subtitle": "Nicolas Jackson y Palmer anotan para los Blues, que empatan con el Liverpool en la cuarta plaza con 16 puntos.",
-    "excerpt": "El Chelsea vencio 2-1 al Newcastle United este domingo en Stamford Bridge con una brillante actuacion de Cole Palmer.",
-    "body": [
-      "El Chelsea se llevo tres puntos de oro este domingo 1 de noviembre en Stamford Bridge al superar 2-1 al Newcastle United en un choque vibrante.",
-      "Nicolas Jackson abrio la cuenta en el minuto 18, pero Alexander Isak emparejo la contienda poco despues. Recien iniciada la segunda mitad, Cole Palmer mostro toda su clase con una conduccion letal y un disparo seco que batio a Nick Pope. El equipo de Enzo Maresca alcanza los 16 puntos en la tabla."
-    ]
-  },
-  "de": {
-    "title": "Premier League 9. Spieltag: Cole Palmer schiesst Chelsea zum 2:1-Sieg ueber Newcastle United",
-    "subtitle": "Nicolas Jackson und Palmer treffen fuer die Blues, die mit 16 Punkten zu Liverpool aufschliessen.",
-    "excerpt": "Chelsea behauptete sich am Sonntag an der Stamford Bridge mit 2:1 gegen Newcastle dank eines Treffers von Cole Palmer.",
-    "body": [
-      "Der FC Chelsea feierte am Sonntag, den 1. November, einen wichtigen 2:1-Heimsieg ueber Newcastle United. Vor 39.812 Zuschauern an der Stamford Bridge zeigten die Blues eine reife Leistung.",
-      "Jackson brachte die Hausherren frueh in Fuehrung, Isak glich fuer die Gaeste aus. Kurz nach dem Wiederanpfiff erzielte Ausnahmekoenner Cole Palmer in der 47. Minute mit einem sehenswerten Distanzschuss den Siegtreffer. Chelsea klettert mit 16 Punkten auf Platz fuenf."
-    ]
-  },
-  "it": {
-    "title": "Premier League 9ª giornata: Cole Palmer decisivo, il Chelsea piega il Newcastle 2-1 a Stamford Bridge",
-    "subtitle": "Jackson e Palmer regalano il successo ai Blues che agganciano il Liverpool a quota 16 punti.",
-    "excerpt": "Il Chelsea batte 2-1 il Newcastle United grazie alla perla di Cole Palmer all'inizio del secondo tempo.",
-    "body": [
-      "Preziosa vittoria del Chelsea domenica 1 novembre a Stamford Bridge. I Blues di Enzo Maresca hanno sconfitto il Newcastle United per 2-1 in una sfida ad alta intensita.",
-      "Dopo il vantaggio di Jackson e il pari di Isak, a decidere l'incontro e stato ancora una volta Cole Palmer con uno splendido sinistro al 47'. Il Chelsea sale a 16 punti in classifica agganciando il Liverpool al quarto posto."
-    ]
-  },
-  "pl": {
-    "title": "Premier League 9. kolejka: Cole Palmer daje Chelsea zwyciestwo 2:1 nad Newcastle na Stamford Bridge",
-    "subtitle": "Nicolas Jackson i Cole Palmer strzelaja gole dla The Blues, ktorzy zrownuja sie punktami z Liverpoolem.",
-    "excerpt": "Chelsea pokonala Newcastle United 2:1 w niedzielnym meczu ligi angielskiej po pieknym trafieniu Cole'a Palmera.",
-    "body": [
-      "Chelsea zdobyla wazne trzy punkty w niedziele 1 listopada, wygrywajac u siebie z Newcastle United 2:1. Bohaterem kibicow w Londynie zostal Cole Palmer.",
-      "Wynik meczu otworzyl Nicolas Jackson w 18. minucie, lecz przed przerwa wyrownal Alexander Isak. Decydujacy cios zadal Palmer tuz po zmianie stron w 47. minucie, oddajac potezny strzal zza pola karnego. Chelsea ma na koncie 16 punktow."
-    ]
-  },
-  "zh": {
-    "title": "英超第9轮：帕尔默下半场开局破门锁定胜局，切尔西主场2-1力克纽卡斯尔联",
-    "subtitle": "杰克逊与帕尔默建功，伊萨克破门难救主；蓝军积分升至16分追平利物浦。",
-    "excerpt": "切尔西周日在斯坦福桥球场2-1力克纽卡斯尔联队，帕尔默打进制胜进球助球队重返前五。",
-    "body": [
-      "11月1日周日下午，切尔西坐镇斯坦福桥球场以2-1战胜纽卡斯尔联队。比赛第18分钟，佩德罗·内托助攻杰克逊推射破门首开纪录，伊萨克随后在第32分钟为客队扳平比分。",
-      "下半场开场仅两分钟，核心帕尔默带球突施冷箭，左脚劲射近角破门打进个人本赛季联赛第7球。全场战罢，切尔西积16分升至积分榜第五位，在积分上追平了利物浦。"
-    ]
-  },
-  "ja": {
-    "title": "プレミアリーグ第9節：コール・パーマーの鮮烈な決勝点でチェルシーがニューカッスルに2-1で勝利",
-    "subtitle": "ジャクソンとパーマーの得点で勝ち点3獲得；勝ち点16でリヴァプールと並び上位追走。",
-    "excerpt": "チェルシーが日曜日、スタンフォード・ブリッジでニューカッスルを2-1で下し、パーマーが再び輝きを放ちました。",
-    "body": [
-      "11月1日日曜日、スタンフォード・ブリッジで行われたプレミアリーグ第9節で、チェルシーがニューカッスル・ユナイテッドを2-1で破りました。",
-      "前半18分にジャクソンが先制ゴールを決め、イサクの同点弾で追いつかれるも、後半開始直後の47分にコール・パーマーが強烈な左足ミドルを突き刺して勝ち越し。チェルシーは勝ち点を16に伸ばしました。"
-    ]
-  },
-  "ko": {
-    "title": "프리미어리그 9R: 콜 파머 결승골 작렬, 첼시 뉴캐슬 2-1 꺾고 승점 16점 도약",
-    "subtitle": "니콜라 잭슨 선제골과 파머의 47분 벼락 결승골로 스탬퍼드 브리지서 짜릿한 승리.",
-    "excerpt": "첼시가 일요일 뉴캐슬 유나이티드를 2-1로 물리치며 리버풀과 동률인 승점 16점을 기록했습니다.",
-    "body": [
-      "11월 1일 일요일 스탬퍼드 브리지에서 열린 프리미어리그 9라운드 경기에서 첼시가 뉴캐슬 유나이티드를 2-1로 제압했습니다.",
-      "전반 18분 잭슨의 골로 앞서간 첼시는 이삭에게 동점을 내줬으나, 후반 2분 콜 파머가 환상적인 왼발 슈팅으로 골망을 흔들며 결승골을 터뜨렸습니다. 첼시는 승점 16점으로 리버풀과 어깨를 나란히 했습니다."
-    ]
-  },
-  "ar": {
-    "title": "الدوري الإنجليزي الجولة 9: كول بالمر يسجل هدفا رائعا ويقود تشيلسي للفوز 2-1 على نيوكاسل في ستامفورد بريدج",
-    "subtitle": "نيكولاس جاكسون وبالمر يمنحان البلوز ثلاث نقاط ثمينة ليرفع الفريق رصيده إلى 16 نقطة.",
-    "excerpt": "تغلب تشيلسي على نيوكاسل يونايتد 2-1 يوم الأحد في لندن بفضل هدف حاسم من نجمه كول بالمر.",
-    "body": [
-      "حقق تشيلسي فوزا مستحقا على ضيفه نيوكاسل يونايتد بنتيجة 2-1 يوم الأحد 1 نوفمبر على ملعب ستامفورد بريدج ضمن الجولة التاسعة من الدوري الإنجليزي الممتاز.",
-      "وافتتح نيكولاس جاكسون التسجيل للبلوز في الدقيقة 18، قبل أن يعادل ألكسندر إيساك النتيجة لنيوكاسل. وفي الدقيقة 47 من الشوط الثاني، أطلق كول بالمر تسديدة صاروخية سكنت الشباك لتمنح تشيلسي نقاط المباراة كاملة ويرفع رصيده إلى 16 نقطة."
     ]
   }
 },
@@ -2497,504 +2581,6 @@ export const STORY_I18N: Record<string, LocMap> = {
     "body": [
       "عاش عشاق الغولف في المكسيك يوما استثنائيا يوم الخميس 29 أكتوبر مع انطلاق بطولة فيدانتا وورلد المكسيك المفتوحة 2026. فعلى ملعب غريغ نورمان في فيدانتا فايارتا، تألق المكسيكي راؤول بيريدا بتسجيل سبع ضربات بيردي لينهي اليوم بـ 65 ضربة (6 تحت المعدل) منفردا بالصدارة.",
       "وعلى بعد ضربة واحدة فقط، حل الأمريكي أوستن سموذر مان في المركز الثاني مناصفة مع الإنجليزي آرون راي بـ 66 ضربة. ودخل سموذر مان المنافسات بثقة هائلة بعد فوزه الملحمي في بطولة برمودا يوم الأحد الماضي، ليؤكد عزمه على مواصلة حصد نقاط كأس فيديكس الخريفية."
-    ]
-  }
-},
-"carabao-cup-2026-fleetwood-town-stun-arsenal-shootout-miracle": {
-  "fr": {
-    "title": "Exploit en Carabao Cup : Fleetwood Town (D4) elimine Arsenal au bout d'une seance de tirs au but epique",
-    "subtitle": "Le club de League Two tient les Gunners en echec 1-1 avant qu'Harrington ne repousse le tir de Saka pour une victoire 5-3.",
-    "excerpt": "Fleetwood Town a signe mardi l'une des plus grandes surprises de l'histoire de la Coupe de la Ligue en sortant Arsenal aux tirs au but.",
-    "body": [
-      "Le football anglais a vecu une soiree magique ce mardi 27 octobre avec l'elimination d'Arsenal, co-leader de Premier League, par Fleetwood Town, pensionnaire de quatrieme division. Dans un Highbury Stadium balaye par le vent de la cote du Lancashire, les 5 124 supporters locaux ont porte leur equipe tout au long d'un match heroique conclu par une seance de tirs au but historique (5-3) apres un score de 1-1. Aaron Loupalo-Bi a fait exploser les tribunes juste avant la mi-temps en reprenant de la tete un corner au second poteau.",
-      "Mikel Arteta a du faire appel a son banc en seconde periode, et Viktor Gyokeres a egalise a la 76e minute d'une frappe rasee. Mais l'expulsion directe du jeune Max Dowman a la 84e minute a redonne foi aux locaux. Lors de la seance de penalties, le gardien David Harrington a detourne la frappe de Bukayo Saka avant que Ryan Broom ne scelle la qualification pour les quarts de finale, une premiere en 118 ans d'existence pour Fleetwood."
-    ]
-  },
-  "es": {
-    "title": "Milagro en la Copa de la Liga: Fleetwood Town de cuarta division elimina a Arsenal en los penaltis",
-    "subtitle": "El humilde equipo de League Two empata 1-1 y Harrington detiene el tiro de Saka en un memorable 5-3 en Highbury.",
-    "excerpt": "Fleetwood Town protagonizo el martes una de las mayores sorpresas del futbol moderno al apear al Arsenal en los penaltis.",
-    "body": [
-      "La magia de la copa inglesa brillo en todo su esplendor este martes 27 de octubre, cuando el Fleetwood Town, modesto equipo de la cuarta division, echo de la Carabao Cup al colider de la Premier League, el Arsenal. En un Highbury Stadium desatado por 5.124 espectadores, el equipo costero resistio con bravura para sellar el 1-1 y llevarse la gloria en los penaltis por 5-3. Aaron Loupalo-Bi desato el delirio al filo del descanso con un soberbio cabezazo a la salida de un corner.",
-      "Pese a que Viktor Gyokeres igualo el choque en el minuto 76 tras entrar desde el banquillo, la expulsion por roja directa del juvenil Max Dowman en el minuto 84 devolvio la energia al conjunto local. En la tanda fatidica, el portero David Harrington se convirtio en leyenda al desviar el tiro de Bukayo Saka, dejando en bandeja a Ryan Broom el penal definitivo que clasifico a Fleetwood a cuartos de final por primera vez en 118 anos de historia."
-    ]
-  },
-  "de": {
-    "title": "Pokal-Wunder an der Kueste: Viertligist Fleetwood Town wirft Arsenal im Elfmeterschießen raus",
-    "subtitle": "Der League-Two-Klub trotzt den Gunners ein 1:1 ab; Harrington pariert gegen Saka beim dramatischen 5:3-Triumph.",
-    "excerpt": "Fleetwood Town sorgte am Dienstag fuer eine der groessten Pokal-Sensationen der Moderne und warf Arsenal im Elfmeterschießen aus dem Wettbewerb.",
-    "body": [
-      "Der englische Pokalfussball erlebte am Dienstag, den 27. Oktober, eine Sternstunde: Der viertklassige Klub Fleetwood Town warf den Premier-League-Spitzenreiter Arsenal mit 5:3 im Elfmeterschießen aus dem Carabao Cup. Im windigen Highbury Stadium peitschten 5.124 Fans ihr Team zu einer heroischen Abwehrschlacht. Aaron Loupalo-Bi brachte die Gastgeber kurz vor der Pause per Kopfball nach einer Ecke in Fuehrung.",
-      "Arsenal glich in der 76. Minute durch den eingewechselten Viktor Gyokeres aus, verlor jedoch kurz vor Schluss Nachwuchshoffnung Max Dowman nach einer Notbremse per Roter Karte. Im Elfmeterschießen avancierte Torhueter David Harrington zum Helden, indem er den Schuss von Bukayo Saka parierte, ehe Ryan Broom den entscheidenden Elfmeter verwandelte und Fleetwood zum ersten Mal in der 118-jaehrigen Vereinsgeschichte ins Viertelfinale schoss."
-    ]
-  },
-  "it": {
-    "title": "Miracolo in Carabao Cup: il Fleetwood Town (D4) elimina l'Arsenal ai calci di rigore",
-    "subtitle": "La formazione di quarta serie ferma i Gunners sull'1-1 prima della parata decisiva di Harrington su Saka nel 5-3 finale.",
-    "excerpt": "Il Fleetwood Town ha firmato martedi una delle imprese piu clamorose della storia della Coppa di Lega, estromettendo l'Arsenal dal dischetto.",
-    "body": [
-      "La magia del calcio inglese si e manifestata martedi 27 ottobre con l'incredibile successo del Fleetwood Town, club di League Two, che ha eliminato l'Arsenal dalla Carabao Cup. Davanti ai 5.124 tifosi di Highbury Stadium, la squadra di quarta serie ha disputato una gara commovente chiusa sull'1-1 prima di trionfare 5-3 ai rigori. Aaron Loupalo-Bi ha sbloccato la sfida al 41' minuto con un imperioso colpo di testa da corner.",
-      "Mikel Arteta ha inserito i suoi titolari e Viktor Gyokeres ha trovato il pareggio al 76', ma il cartellino rosso sventolato a Max Dowman all'84' ha restituito coraggio ai padroni di casa. Nella serie di rigori il portiere David Harrington ha neutralizzato il tiro di Bukayo Saka, consentendo a Ryan Broom di realizzare il rigore decisivo e regalare al Fleetwood i primi quarti di finale nei suoi 118 anni di vita."
-    ]
-  },
-  "pl": {
-    "title": "Cud w Pucharze Ligi: Czwartoligowe Fleetwood Town wyrzuca Arsenal po rzutach karnych",
-    "subtitle": "Druzyna z League Two remisuje 1:1, a Harrington broni karny Saki przy historycznym triumfie 5:3 w serii jedenastek.",
-    "excerpt": "Fleetwood Town sprawilo we wtorek jedna z najwiekszych sensacji w dziejach Carabao Cup, eliminujac Arsenal w rzutach karnych.",
-    "body": [
-      "Angielski futbol pucharowy napisal we wtorek 27 pazdziernika niesamowity rozdzial: czwartoligowe Fleetwood Town wyeliminowalo wspolnego lidera Premier League, Arsenal. Na stadionie Highbury 5 124 kibicow ogladalo heroiczna walke zakonczona remisem 1:1 i zwycieska seria karnych 5:3. Gospodarze objeli prowadzenie w 41. minucie po strzale glowa Aarona Loupalo-Bi z rzutu roznego.",
-      "W drugiej polowie rezerwowy Viktor Gyokeres wyrownal stan meczu w 76. minucie, lecz czerwona kartka dla nastoletniego Maxa Dowmana w 84. minucie przywrocila wiare gospodarzom. W konkursie jedenastek bramkarz David Harrington obronil strzal Bukayo Saki, a decydujacy strzal Ryana Brooma wprowadzil Fleetwood do cwiercfinalu po raz pierwszy w 118-letniej historii klubu."
-    ]
-  },
-  "zh": {
-    "title": "联赛杯奇迹之夜：英乙弗利特伍德点球大战淘汰阿森纳爆出惊天大冷",
-    "subtitle": "第四级别弱旅常规时间1-1逼平枪手，门将哈灵顿扑出萨卡点球助球队5-3创造建队118年历史。",
-    "excerpt": "弗利特伍德在周二创造了现代英格兰联赛杯历史上最不可思议的奇迹之一，点球大战击溃阿森纳挺进八强。",
-    "body": [
-      "英格兰足球在10月27日周二见证了最具浪漫色彩的杯赛爆冷：英乙联赛排名靠后的弗利特伍德坐镇海布里球场，在5124名主场球迷的呐喊声中，鏖战120分钟战成1-1平，最终通过点球大战5-3将英超领头羊阿森纳淘汰出局。上半场第41分钟，阿隆·卢帕洛-比接角球头球破门，引爆了整座海滨球场。",
-      "下半场阿尔特塔换上主力救场，约克雷斯在第76分钟低射扳平比分。然而第84分钟阿森纳新星道曼因飞铲被直接红牌罚下，比赛天平再次倾斜。进入点球大战后，弗利特伍德门将哈灵顿飞身扑出萨卡的射门，随后布鲁姆罚入制胜点球，弗利特伍德建队118年来首次杀入联赛杯四分之一决赛。"
-    ]
-  },
-  "ja": {
-    "title": "リーグ杯の大波乱：英4部フリートウッドがPK戦で名門アーセナルを撃破する歴史的勝利",
-    "subtitle": "4部クラブが1-1と耐え抜き、守護神ハリントンがサカのPKを阻止して5-3のジャイアントキリングを完遂。",
-    "excerpt": "フリートウッド・タウンは火曜日、アーセナルをPK戦の末に破り、現代カラバオ杯史上最大級の大番狂わせを成し遂げた。",
-    "body": [
-      "イングランドのカップ戦の醍醐味が10月27日火曜日に凝縮された。英4部リーグ2に属するフリートウッド・タウンが、プレミアリーグ首位タイのアーセナルをPK戦5-3で破り大会から敗退させた。風吹きすさぶハイバリー・スタジアムの5124人の観衆の前で、前半41分にアーロン・ルパロ・ビがCKからヘディングシュートを突き刺し先制した。",
-      "後半にアルテタ監督が投入したヴィクトル・ギョケレシュが76分に同点弾を決めたものの、84分に若手マックス・ドウマンが一発退場となり流れが急変。もつれ込んだPK戦では守護神デイヴィッド・ハリントンがブカヨ・サカのシュートを見事にストップ。ライアン・ブルームが最後のPKをネットに突き刺し、クラブ創設118年目で初のベスト8進出を決めた。"
-    ]
-  },
-  "ko": {
-    "title": "카라바오컵 대이변: 4부 플리트우드 타운, 승부차기 끝에 아스널 제압하고 8강 진출",
-    "subtitle": "4부 언더독 1-1 맞선 뒤 해링턴 골키퍼가 사카 킥 막아내며 하이버리 스타디움서 5-3 승부차기 승리.",
-    "excerpt": "플리트우드 타운이 화요일 승부차기 접전 끝에 아스널을 탈락시키며 현대 리그컵 역사상 가장 위대한 이변을 연출했다.",
-    "body": [
-      "잉글랜드 컵대회의 마법이 10월 27일 화요일 밤 하이버리 스타디움에서 폭발했다. 4부 리그 소속 플리트우드 타운이 프리미어리그 공동 1위 아스널을 상대로 1-1 무승부 후 승부차기 5-3 승리를 거두는 초대형 이변을 일으켰다. 전반 41분 아론 루팔로-비의 헤더 선제골로 기선을 제압하며 5,124명의 홈 팬들을 열광의 도가니에 빠뜨렸다.",
-      "아스널은 후반 31분 교체 투입된 빅토르 요케레스의 동점골로 균형을 맞췄으나, 후반 39분 맥스 도먼이 다이렉트 퇴장을 당하며 수세에 몰렸다. 이어진 승부차기에서 플리트우드의 수문장 데이비드 해링턴이 부카요 사카의 킥을 환상적으로 막아냈고, 라이언 브룸이 마지막 키커로 골망을 흔들며 창단 118년 만에 최초로 8강 무대를 밟았다."
-    ]
-  },
-  "ar": {
-    "title": "معجزة كأس الرابطة: فليتوود تاون من الدرجة الرابعة يقصي أرسنال بركلات الترجيح",
-    "subtitle": "فريق الدرجة الرابعة يجبر الغانرز على التعادل 1-1 قبل أن يتصدى هارينغتون لركلة ساكا في فوز تاريخي 5-3.",
-    "excerpt": "حقق فليتوود تاون يوم الثلاثاء واحدة من أعظم المفاجآت في تاريخ كأس الرابطة بإقصاء متصدر الدوري الإنجليزي أرسنال.",
-    "body": [
-      "عاشت كرة القدم الإنجليزية ليلة استثنائية يوم الثلاثاء 27 أكتوبر عندما نجح فليتوود تاون، القابع في دوري الدرجة الرابعة، في إقصاء أرسنال متصدر الدوري الممتاز من كأس الرابطة. أمام 5124 مشجعا في ملعب هايبوري، تقدم أصحاب الأرض برأسية متقنة من آرون لوبالو-بي في الدقيقة 41 من ركلة ركنية ليشعل حماس الجماهير.",
-      "وعلى الرغم من تعادل أرسنال عبر فيكتور غيوكيريس في الدقيقة 76، إلا أن طرد البديل الشاب ماكس دومان بالبطاقة الحمراء المباشرة في الدقيقة 84 أعاد التوازن لفليتوود. وفي ركلات الترجيح تألق الحارس ديفيد هارينغتون وتصدى لتسديدة بوكايو ساكا، قبل أن يسجل رايان بروم الركلة الحاسمة ليتأهل فليتوود لربع النهائي لأول مرة في تاريخه الممتد لـ 118 عاما."
-    ]
-  }
-},
-"wnba-finals-2026-game5-valkyries-edge-dream-nba-opening-night-wembanyama": {
-  "fr": {
-    "title": "Les Valkyries prennent l'avantage 3-2 en Finales tandis que la NBA s'enflamme avec Wembanyama",
-    "subtitle": "Golden State etouffe Atlanta 64-55 lors du match 5 ; Wembanyama cumule 29 points et 9 dunks a San Antonio.",
-    "excerpt": "L'equipe d'expansion des Valkyries n'est plus qu'a une victoire du titre WNBA apres son succes 64-55, pendant que Wembanyama illuminait la reprise NBA.",
-    "body": [
-      "Les Golden State Valkyries ont pris une option majeure sur le titre WNBA lundi 26 octobre en s'imposant 64-55 face a l'Atlanta Dream dans un match 5 ultra-defensif au Chase Center. Portee par 18 064 supporters en fusion a San Francisco, l'equipe californienne a limite Atlanta a seulement neuf petits points dans le dernier quart-temps. Gabby Williams a ete magistrale avec 16 points, 8 rebonds et 4 interceptions, tandis que Kayla Thornton a rentre deux tirs primes consecutifs pour faire basculer la rencontre.",
-      "Le lendemain, la saison reguliere NBA 2026-27 s'est ouverte sur une demonstration magistrale de Victor Wembanyama. L'interieur francais des Spurs a compile 29 points, 10 rebonds et 4 contres en seulement 31 minutes dans une victoire ecrasante 130-103 contre Sacramento, egalant son record en carriere avec neuf dunks spectaculaires. Dans le meme temps, Jayson Tatum a inscrit 40 points pour Boston face a Brooklyn."
-    ]
-  },
-  "es": {
-    "title": "Valkyries acarician el titulo de la WNBA con ventaja 3-2 y Wembanyama asombra en el debut NBA",
-    "subtitle": "Golden State frena a Atlanta 64-55 en el Partido 5; Wembanyama brilla con 29 puntos y nueve mates con los Spurs.",
-    "excerpt": "Las debutantes Valkyries se colocan a un paso del anillo tras ganar 64-55, mientras Victor Wembanyama inaugura la NBA con una actuacion estelar.",
-    "body": [
-      "Las Golden State Valkyries dieron un paso de gigante hacia el campeonato de la WNBA este lunes 26 de octubre, al derrotar 64-55 a las Atlanta Dream en el quinto partido disputado en el Chase Center. Con una defensa ferrea que solo permitio nueve puntos en el ultimo cuarto a las visitantes, Gabby Williams lidero la ofensiva con 16 puntos y cuatro robos. Kayla Thornton rompio la igualdad con dos triples decisivos desde la esquina para poner la serie 3-2 a favor de la franquicia debutante.",
-      "La noche del martes marco el arranque de la temporada NBA 2026-27 con una exhibicion portentosa de Victor Wembanyama. El prodigio galo lidero a los San Antonio Spurs en el triunfo 130-103 sobre Sacramento Kings, firmando 29 puntos, 10 rebotes, cuatro tapones e igualando su mejor marca con nueve mates demoledores. En el Este, Jayson Tatum sumo 40 puntos en la ajustada victoria de Boston ante Brooklyn."
-    ]
-  },
-  "de": {
-    "title": "Valkyries fuehren 3:2 in den WNBA-Finals waehrend Wembanyama die NBA-Saison eroeffnet",
-    "subtitle": "Golden State bezwingt Atlanta mit 64:55 in Spiel 5; Wembanyama verbucht 29 Punkte und neun Dunks in San Antonio.",
-    "excerpt": "Das Expansion-Team der Valkyries steht nach einem defensiven 64:55-Sieg kurz vor der Krone, waehrend Victor Wembanyama die NBA verzaubert.",
-    "body": [
-      "Die Golden State Valkyries rueckten am Montag, den 26. Oktober, dem WNBA-Titel ganz nah: Vor 18.064 Fans im Chase Center bezwangen sie die Atlanta Dream mit 64:55 in Spiel 5. Eine eisenharte Defensivleistung hielt Atlanta im vierten Viertel bei nur neun Zaehlern. Gabby Williams ueberragte mit 16 Punkten und vier Steals, waehrend Kayla Thornton mit zwei Dreiern in der Schlussphase die 3:2-Serienfuehrung besiegelte.",
-      "Am Dienstagabend startete die NBA-Saison 2026-27 mit einem Ausrufezeichen von Victor Wembanyama. Der franzoesische Ausnahmespieler dominierte beim 130:103-Auftaktsieg der San Antonio Spurs gegen Sacramento mit 29 Punkten, zehn Rebounds und vier Blocks. Mit neun Dunks egalisierte er seinen persoenlichen Karrierebestwert. Parallel steuerte Jayson Tatum 40 Punkte zum 125:124-Sieg der Celtics gegen Brooklyn bei."
-    ]
-  },
-  "it": {
-    "title": "Le Valkyries volano sul 3-2 nelle Finals WNBA e l'NBA riparte con la magia di Wembanyama",
-    "subtitle": "Golden State piega Atlanta 64-55 in Gara 5; Wembanyama domina con 29 punti e nove schiacciate a San Antonio.",
-    "excerpt": "Le debuttanti Valkyries sono a una vittoria dal titolo WNBA dopo il successo per 64-55, mentre Wembanyama incanta all'esordio stagionale NBA.",
-    "body": [
-      "Le Golden State Valkyries si sono portate sul 3-2 nelle Finals WNBA lunedi 26 ottobre, superando le Atlanta Dream per 64-55 in una tiratissima Gara 5 al Chase Center di San Francisco. La difesa guidata da Natalie Nakase ha concesso appena nove punti alle rivali nella quarta frazione. Gabby Williams e stata il faro con 16 punti e quattro recuperi, mentre Kayla Thornton ha spaccato l'equilibrio con due triple pesantissime dall'angolo.",
-      "Martedi sera l'opening night NBA ha regalato subito spettacolo grazie a Victor Wembanyama. Il fenomeno francese ha trascinato i San Antonio Spurs al travolgente 130-103 sui Sacramento Kings con 29 punti, 10 rimbalzi e 4 stoppate in appena 31 minuti, pareggiando il suo primato in carriera con nove schiacciate. A Est, Jayson Tatum ne ha messi 40 nel successo al fotofinish di Boston su Brooklyn."
-    ]
-  },
-  "pl": {
-    "title": "Valkyries obejmuja prowadzenie 3-2 w Finalach WNBA, a Wembanyama otwiera sezon NBA z przytupem",
-    "subtitle": "Golden State pokonuje Atlante 64:55 w meczu numer 5; Wembanyama notuje 29 punktow i dziewiec wsadow dla Spurs.",
-    "excerpt": "Debiutujace Valkyries dzieli jedno zwyciestwo od tytulu mistrzowskiego po triumfie 64:55, podczas gdy Victor Wembanyama zachwycil na inauguracje NBA.",
-    "body": [
-      "Koszykarki Golden State Valkyries sa o krok od historycznego mistrzostwa WNBA po wygranej 64:55 z Atlanta Dream w poniedzialkowym meczu numer 5 w Chase Center. Przed kompletem 18 064 widzow defensywa gospodyn pozwolila rywalkom na zdobycie zaledwie dziewieciu punktow w czwartej kwarcie. Gabby Williams poprowadzila zespol z 16 punktami i czterema przechwytami, a seria rzutow za trzy Kayli Thornton dala prowadzenie 3-2 w finale.",
-      "Zaledwie dobe pozniej we wtorek wystartowal sezon NBA 2026-27, a show skradl Victor Wembanyama. Gwiazdor San Antonio Spurs zdobyl 29 punktow, zebral 10 pilek i zablokowal cztery rzuty w wygranym 130:103 meczu z Sacramento Kings, wyrownujac swoj rekord kariery dzieki dziewieciu efektownym wsadom. W Bostonie Jayson Tatum rzucil 40 punktow w wygranym 125:124 dreszczowcu z Brooklynem."
-    ]
-  },
-  "zh": {
-    "title": "金州女武神总决赛3-2夺得赛点，文班亚马29分9记暴扣引爆NBA揭幕战",
-    "subtitle": "女武神末节仅让老鹰得9分以64-55取胜；文班亚马统治攻防助马刺大胜国王，塔图姆空砍40分助绿军险胜。",
-    "excerpt": "新军女武神在总决赛天王山之战中以64-55击败老鹰手握赛点，文班亚马则在NBA揭幕战中打出统治级表现。",
-    "body": [
-      "金州女武神在10月26日周一的大通中心迈出了创造历史的关键一步。在这场总决赛G5防守大战中，女武神末节上演窒息防守仅让亚特兰大梦想得到9分，最终以64-55锁定胜局，在七场四胜制系列赛中以3-2抢下赛点。威廉姆斯砍下全队最高的16分并送出4次抢断，桑顿在第四节胶着时刻连中两记底角三分彻底杀死比赛悬念。",
-      "周二晚间2026-27赛季NBA常规赛正式揭幕，文班亚马用无可阻挡的统治力点燃全场。在马刺130-103大胜国王的比赛中，这位法国超级巨星出场31分钟便轰下29分、10个篮板和4次封盖，全场奉献9次势大力沉的暴扣追平个人生涯最高纪录。同日凯尔特人双加时125-124险胜篮网，塔图姆独得40分。"
-    ]
-  },
-  "ja": {
-    "title": "ヴァルキリーズがWNBAファイナルで3-2と王手、NBA開幕戦ではウェンバンヤマが29得点9ダンクの大暴れ",
-    "subtitle": "GSVが第4Qをわずか9点に抑え64-55で勝利；スパーズのウェンバンヤマが攻守で圧倒しキングスを粉砕。",
-    "excerpt": "新規参入のヴァルキリーズが64-55の守備戦を制して初優勝に王手をかけ、NBAではウェンバンヤマが衝撃の開幕戦を飾った。",
-    "body": [
-      "ゴールデンステート・ヴァルキリーズが10月26日月曜日、チェイス・センターの大観衆の前でアトランタ・ドリームを64-55で退け、WNBAファイナル制覇まであと1勝に迫った。第4クォーターに相手をわずか9点に抑え込む鉄壁のディフェンスを披露。ギャビー・ウィリアムズが16得点4スティールを記録し、ケイラ・ソーントンが勝負どころで2本の3ポイントを沈めて3勝2敗とした。",
-      "翌27日火曜日にはNBAの2026-27シーズンが開幕し、ビクター・ウェンバンヤマが衝撃的なパフォーマンスを見せた。キングス戦でわずか31分の出場ながら29得点、10リバウンド、4ブロックを記録し130-103の圧勝を牽引。キャリアハイに並ぶ9本の豪快ダンクを叩き込んだ。ボストンではジェイソン・テイタムが40得点を挙げ、ネッツを125-124で下している。"
-    ]
-  },
-  "ko": {
-    "title": "발키리스 파이널 3-2로 우승 눈앞, NBA 개막전서는 웸반야마 29득점 9덩크 대폭발",
-    "subtitle": "골든스테이트, 4쿼터 실점 9점으로 묶고 64-55 승리; 웸반야마 공수 장악하며 스퍼스 130-103 대승 견인.",
-    "excerpt": "창단 첫해 발키리스가 64-55로 파이널 5차전을 잡으며 우승에 단 1승만 남겼고, NBA 무대선 웸반야마가 개막전 영웅으로 떴다.",
-    "body": [
-      "골든스테이트 발키리스가 10월 26일 월요일 체이스 센터에서 열린 2026 WNBA 파이널 5차전에서 애틀랜타 드림을 64-55로 제압했다. 4쿼터 상대 득점을 9점으로 묶는 완벽한 질식 수비를 앞세워 시리즈 전적 3-2를 만들었다. 개비 윌리엄스가 16득점 8리바운드 4스틸로 맹활약했고, 케일라 손턴이 4쿼터 연속 코너 3점포를 터뜨리며 승부에 쐐기를 박았다.",
-      "화요일 밤에는 2026-27 NBA 정규리그가 개막하며 빅터 웸반야마의 독무대가 펼쳐졌다. 웸반야마는 새크라멘토 킹스와의 개막전에서 31분간 29득점 10리바운드 4블록을 기록하고 개인 최다 타이인 9개의 덩크슛을 꽂아 넣으며 130-103 압승을 이끌었다. 보스턴의 제이슨 테이텀도 40득점을 쏟아부으며 브루클린을 125-124로 꺾었다."
-    ]
-  },
-  "ar": {
-    "title": "فالكيريز يتقدمون 3-2 في نهائي السيدات، وضربة بداية نارية لموسم السلة الأمريكي بقيادة ويمبانياما",
-    "subtitle": "غولدن ستيت يقيد أتلانتا بـ 9 نقاط في الربع الرابع ليفوز 64-55؛ وويمبانياما يسجل 29 نقطة و9 دنك في سان أنطونيو.",
-    "excerpt": "أصبح فريق فالكيريز الوافد الجديد على بعد فوز واحد من التتويج بلقب WNBA بعد الفوز 64-55، بينما أشعل ويمبانياما انطلاقة NBA.",
-    "body": [
-      "اقترب فريق غولدن ستيت فالكيريز من كتابة التاريخ في نهائي دوري السيدات الأمريكي لكرة السلة يوم الاثنين 26 أكتوبر، بعد فوزه الدفاعي المثير 64-55 على أتلانتا دريم في المباراة الخامسة على ملعب تشيس سنتر. ونجحت دفاعات فالكيريز في حرمان أتلانتا من التسجيل، مكتفية بـ 9 نقاط فقط في الربع الأخير، بفضل تألق غابي ويليامز بـ 16 نقطة و4 قطوعات للكرة.",
-      "وفي مساء الثلاثاء، انطلق موسم دوري الرجال 2026-27 بعرض استثنائي من العملاق الفرنسي فيكتور ويمبانياما. قاد ويمبي فريقه سان أنطونيو سبيرز لسحق سكرامنتو كينغز 130-103، مسجلا 29 نقطة و10 متابعات و4 تصديات، مع معادلة رقمه القياسي بـ 9 ضربات ساحقة دنك في 31 دقيقة فقط. كما سجل جايسون تاتوم 40 نقطة ليقود بوسطن للفوز على بروكلين 125-124."
-    ]
-  }
-},
-"nfl-week7-wrap-cowboys-blow-out-eagles-packers-panthers-tnf-2026": {
-  "fr": {
-    "title": "Les Cowboys corrigent les Eagles 38-21 au MNF : Prescott lance trois TD avant Packers-Panthers jeudi",
-    "subtitle": "Dallas s'impose avec autorite a Philadelphie et remonte a 3-4 ; Minnesota (6-0) reste la seule franchise invaincue.",
-    "excerpt": "Dak Prescott a mystifie la defense des Eagles avec 288 yards et trois passes de touchdown, relancant Dallas dans la course aux playoffs.",
-    "body": [
-      "Les Dallas Cowboys ont fait taire les critiques lundi soir 26 octobre en allant s'imposer 38-21 sur la pelouse de leurs rivaux historiques, les Philadelphia Eagles. En l'absence de Jalen Hurts blesse a la cheville, Philadelphie s'en remettait a Tanner McKee. Mais le quarterback remplacant n'a rien pu faire face a la masterclass de Dak Prescott, auteur d'une prestation magistrale avec 21 passes reussies sur 27 pour 288 yards et trois touchdowns.",
-      "CeeDee Lamb a martyrise la defense aerienne des Eagles avec 116 yards et un touchdown de 44 yards en solitaire. Cette victoire replace Dallas a 3-4 tandis que Philadelphie s'enfonce a 2-5. Apres les revers des Chiefs et des 49ers dimanche, les Vikings du Minnesota (6-0) demeurent la seule equipe invaincue de la ligue avant le coup d'envoi de la semaine 8 entre Packers et Panthers a Lambeau Field jeudi soir."
-    ]
-  },
-  "es": {
-    "title": "Cowboys arrollan a Eagles 38-21 en el MNF: Prescott lanza tres TD antes del Packers-Panthers",
-    "subtitle": "Dallas conquista el Lincoln Financial Field para situarse 3-4; Vikings (6-0) queda como unico invicto antes del TNF.",
-    "excerpt": "Dak Prescott lidero la exhibicion de Dallas con 288 yardas de pase y tres touchdowns en Filadelfia para reavivar la temporada de los Cowboys.",
-    "body": [
-      "Los Dallas Cowboys respondieron con contundencia este lunes 26 de octubre, imponiendose 38-21 a los Philadelphia Eagles a domicilio en el cierre de la semana 7. Con Jalen Hurts ausente por una lesion de tobillo, los Eagles confiaron en el suplente Tanner McKee, pero no pudieron frenar a un inspiradisimo Dak Prescott, que completo 21 de 27 pases para 288 yardas y tres touchdowns sin perdidas de balon.",
-      "CeeDee Lamb fue una pesadilla constante para la secundaria local, sumando 116 yardas y una anotacion de 44 yardas en el ultimo cuarto. El triunfo eleva a Dallas a 3-4 y deja a los Eagles tocados con 2-5. Con las derrotas de Chiefs y 49ers el domingo, los Minnesota Vikings (6-0) lideran la NFL como unico equipo invicto antes del choque entre Packers y Panthers en Lambeau Field el jueves por la noche."
-    ]
-  },
-  "de": {
-    "title": "Cowboys fegen Eagles mit 38:21 im MNF vom Feld: Prescott wirft 3 TDs vor Packers gegen Panthers",
-    "subtitle": "Dallas dominiert in Philadelphia und verbessert sich auf 3-4; Vikings (6-0) bleiben einziges ungeschlagenes Team der NFL.",
-    "excerpt": "Dak Prescott zerlegte die Eagles-Defense mit 288 Passing-Yards und drei Touchdowns und fuehrte die Cowboys zu einem wichtigen Auswaertssieg.",
-    "body": [
-      "Die Dallas Cowboys setzten am Montagabend, den 26. Oktober, ein dickes Ausrufezeichen im Lincoln Financial Field und schlugen die Philadelphia Eagles deutlich mit 38:21. Bei den Eagles fehlte Starting-Quarterback Jalen Hurts verletzungsbedingt, und Ersatzmann Tanner McKee war gegen einen souveraen aufspielenden Dak Prescott chancenlos. Prescott brachte 21 von 27 Paessen fuer 288 Yards und drei Touchdowns an den Mann.",
-      "Receiver-Star CeeDee Lamb brillierte mit 116 Yards und einem spektakulaeren 44-Yard-Touchdown im Schlussviertel. Waehrend Dallas auf 3-4 klettert, rutschen die Eagles auf 2-5 ab. Nach den Niederlagen der Chiefs und 49ers am Sonntag sind die Minnesota Vikings (6-0) das einzige ungeschlagene Team der Liga, ehe am Donnerstag die Green Bay Packers auf die Carolina Panthers treffen."
-    ]
-  },
-  "it": {
-    "title": "I Cowboys travolgono gli Eagles 38-21 al MNF: 3 TD per Prescott in vista di Packers-Panthers",
-    "subtitle": "Dallas espugna Philadelphia e sale a 3-4; i Minnesota Vikings (6-0) restano l'unica squadra imbattuta della NFL.",
-    "excerpt": "Dak Prescott ha incantato con 288 yard e tre passaggi da touchdown nel Monday Night Football, rilanciando le ambizioni di Dallas.",
-    "body": [
-      "I Dallas Cowboys hanno risposto sul campo alle critiche lunedi sera 26 ottobre, espugnando il Lincoln Financial Field con un roboante 38-21 sui Philadelphia Eagles. Privi del titolare Jalen Hurts per una distorsione alla caviglia, gli Eagles si sono affidati a Tanner McKee, ma non hanno retto l'urto contro un Dak Prescott chirurgico: 21 completi su 27 per 288 yard e tre touchdown senza turnover.",
-      "CeeDee Lamb ha fatto ammattire i defensive back avversari con 116 yard ricevute e un touchdown da 44 yard nel quarto periodo. Con questo successo Dallas sale a 3-4 e condanna Philadelphia al 2-5. Con i Chiefs e i 49ers battuti domenica, i Vikings (6-0) rimangono gli unici imbattuti della NFL in attesa del Thursday Night tra Packers e Panthers a Green Bay."
-    ]
-  },
-  "pl": {
-    "title": "Cowboys rozbijaja Eagles 38:21 w MNF: Prescott z trzema TD przed meczem Packers z Panthers",
-    "subtitle": "Dallas dominuje na wyjezdzie i awansuje na bilans 3-4; Vikings (6-0) jedynym zespolem bez porazki w NFL.",
-    "excerpt": "Dak Prescott rozmontowal obrone Eagles, zdobywajac 288 jardow i trzy touchdowny w poniedzialkowym klasyku w Filadelfii.",
-    "body": [
-      "Dallas Cowboys zamkneli 7. tydzien NFL efektownym zwyciestwem w poniedzialek 26 pazdziernika, gromiac Philadelphia Eagles 38:21 na ich wlasnym terenie. Pod nieobecnosc kontuzjowanego Jalena Hurtsa gospodarzy prowadzil Tanner McKee, jednak to Dak Prescott zagral perfekcyjne zawody: zaliczyl 21 celnych podan na 27 prob, 288 jardow i trzy przylozenia bez straty pilki.",
-      "Gwiazda ataku CeeDee Lamb uzbieral 116 jardow i przypieczetowal sukces 44-jardowym touchdownem w czwartej kwarcie. Wygrana poprawia bilans Dallas do 3-4, podczas gdy Eagles spadaja na 2-5. Po niedzielnych porazkach Chiefs i 49ers, Minnesota Vikings (6-0) pozostaje jedyna niezwyciezona ekipa ligi przed czwartkowym starciem Packers z Panthers na Lambeau Field."
-    ]
-  },
-  "zh": {
-    "title": "牛仔周一夜赛38-21大胜老鹰：普雷斯科特3记达阵带队反弹，包装工周四迎战黑豹",
-    "subtitle": "达拉斯攻陷费城主场战绩来到3胜4负，明尼苏达维京人（6胜0负）成为全联盟唯一不败金身。",
-    "excerpt": "普雷斯科特传出288码和3次达阵，带领牛仔客场38-21击溃缺少赫茨的费城老鹰。",
-    "body": [
-      "达拉斯牛仔在10月26日周一夜赛中展现了强大的进攻火力，客场38-21大胜宿敌费城老鹰。由于老鹰当家四分卫赫茨脚踝扭伤缺阵，替补麦基临危受命，但在发挥极其稳定的普雷斯科特面前相形见绌。普雷斯科特全场27投21中，狂揽288码和3次达阵，且未出现任何失误。",
-      "当家外接手兰姆完成7次接球斩获116码，并在第四节完成一记精彩绝伦的44码长传达阵锁定胜局。牛仔此役过后战绩提升至3胜4负重燃季后赛希望，而老鹰战绩下滑至2胜5负。随着酋长和49人在周日双双落败，6胜0负的维京人成为联盟唯一不败球队，目光已转向周四包装工主场迎战黑豹的第八周首战。"
-    ]
-  },
-  "ja": {
-    "title": "カウボーイズがMNFでイーグルスを38-21で粉砕：プレスコットが3TDパス、木曜TNFはパッカーズ対パンサーズ",
-    "subtitle": "ダラスが敵地フィラデルフィアで大勝し3勝4敗に浮上；バイキングス（6勝0敗）がNFL唯一の無敗を維持。",
-    "excerpt": "ダック・プレスコットが288ヤード、3TDパスを記録し、カウボーイズが敵地でイーグルスに38-21で圧勝した。",
-    "body": [
-      "ダラス・カウボーイズは10月26日月曜日のMNFで、宿敵フィラデルフィア・イーグルスを敵地で38-21と圧倒した。足首の負傷で欠場した先発QBジェイレン・ハーツに代わりタナー・マッキーが出場したが、ダック・プレスコットの正確無比なパスワークの前に屈した。プレスコットはパス27回中21回成功、288ヤード、3TD、ターンオーバーなしの完璧な数字を残した。",
-      "ワイドレシーバーのシーディー・ラムは116ヤードを獲得し、第4クォーターに44ヤードのダメ押しTDパスをキャッチ。カウボーイズは3勝4敗へと持ち直し、イーグルスは2勝5敗へ後退した。日曜にチーフスと49ersが敗れたため、6勝0敗のミネソタ・バイキングスがNFL唯一の全勝チームとして第8週のサーズデーナイト（パッカーズ対パンサーズ）を迎える。"
-    ]
-  },
-  "ko": {
-    "title": "카우보이스 MNF서 이글스 38-21 격파: 프레스콧 3TD 대폭발, 목요일엔 패커스-팬서스 격돌",
-    "subtitle": "댈러스, 필라델피아 원정 완승으로 3승 4패 반등; 바이킹스(6승 무패) 유일한 전승 팀으로 8주차 돌입.",
-    "excerpt": "닥 프레스콧이 288야드 3터치다운 패스를 기록하며 카우보이스를 이끌고 필라델피아 원정에서 38-21 대승을 거뒀다.",
-    "body": [
-      "댈러스 카우보이스가 10월 26일 월요일 밤 라이벌 필라델피아 이글스를 38-21로 완파했다. 이글스는 주전 쿼터백 제일런 허츠가 발목 부상으로 빠진 가운데 태너 맥키가 분전했으나, 무결점 플레이를 펼친 닥 프레스콧의 벽을 넘지 못했다. 프레스콧은 27차례 패스 시도 중 21개를 적중시키며 288패싱야드 3터치다운을 기록했다.",
-      "리시버 시디 램은 116야드를 기록하고 4쿼터에 쐐기 44야드 터치다운을 터뜨리며 승리를 굳혔다. 댈러스는 3승 4패로 반등에 성공했고, 이글스는 2승 5패로 추락했다. 일요일 치프스와 49ers가 모두 무너지며 6승 무패의 미네소타 바이킹스가 유일한 무패 팀으로 남은 가운데, 시선은 목요일 패커스와 팬서스의 8주차 오프닝전으로 쏠린다."
-    ]
-  },
-  "ar": {
-    "title": "كاوبويز يسحقون إيغلز 38-21 في ليلة الاثنين: بريسكوت يمرر 3 لمسات هبوط وباكرز يستعدون لبانثرز",
-    "subtitle": "دالاس يفرض سيطرته في فيلادلفيا ويرتقي إلى 3-4؛ وفايكنغز (6-0) ينفرد بصدارة الفرق الخالية من الهزيمة.",
-    "excerpt": "تألق داك بريسكوت بـ 288 ياردة و3 تمريرات حاسمة ليقود دالاس كاوبويز لفوز عريض على فيلادلفيا إيغلز في ليلة الاثنين.",
-    "body": [
-      "رد دالاس كاوبويز بقوة على منتقديه مساء الاثنين 26 أكتوبر بعدما تفوق على غريمه فيلادلفيا إيغلز بنتيجة 38-21 على أرض الأخير. في ظل غياب النجم جالين هيرتس بسبب إصابة في الكاحل، اعتمد إيغلز على الحارس البديل تانر ماكي، لكن داك بريسكوت كان في قمة مستواه بتمريره 21 كرة ناجحة من أصل 27 محاولة محققا 288 ياردة و3 لمسات هبوط دون أي خطأ.",
-      "ولمع النجم سيدي لامب بالتقاطه 116 ياردة وتسجيله لمسة هبوط رائعة من مسافة 44 ياردة في الربع الأخير. الفوز رفع رصيد دالاس إلى 3 انتصارات مقابل 4 هزائم، بينما تراجع إيغلز إلى 2-5. ومع سقوط تشيفز وفورتي ناينرز يوم الأحد، ينفرد مينيسوتا فايكنغز (6-0) بسجل ناصع في انتظار انطلاق الأسبوع الثامن ليلة الخميس بلقاء باكرز وبانثرز."
-    ]
-  }
-},
-"atp-vienna-2026-alcaraz-subdues-khachanov-zverev-survives-epic-tiebreak": {
-  "fr": {
-    "title": "Frissons a Vienne : Alcaraz ecarte Khachanov en deux manches, Zverev survit a un tiebreak de folie 13-11",
-    "subtitle": "Carlos Alcaraz rejoint les huitiemes de finale ; le numero 3 mondial Zverev ecarte des balles de match face a Landaluce.",
-    "excerpt": "Carlos Alcaraz et Alexander Zverev ont surmonte des tests d'une rare intensite au premier tour de l'Erste Bank Open de Vienne mardi.",
-    "body": [
-      "Carlos Alcaraz a lance sa campagne indoor europeenne avec brio mardi 27 octobre en dominant Karen Khachanov 6-4, 7-6(5) lors du premier tour de l'Erste Bank Open a Vienne. Face a la puissance de frappe du Russe, l'Espagnol de 23 ans a remonte un break d'entree dans le premier set avant de faire parler sa vista. Au terme d'un tiebreak ultra-tendu dans la deuxieme manche, Alcaraz a fait la difference a 5-5 grace a un amorti de revers millimetre pour s'imposer en 1h48.",
-      "De son cote, la tete de serie numero un Alexander Zverev est passee a un cheveu de l'elimination face au jeune espoir espagnol Martin Landaluce. Dans un combat de pres de trois heures, l'Allemand a du sauver deux balles de match dans un tiebreak d'anthologie avant de triompher 7-5, 3-6, 7-6(11). Avec la presence de Daniil Medvedev egalement en lice, le tournoi viennois s'impose deja comme le grand spectacle de cette fin de saison ATP."
-    ]
-  },
-  "es": {
-    "title": "Batalla en Viena: Alcaraz frena a Khachanov en dos sets y Zverev sobrevive a un tiebreak titanico de 13-11",
-    "subtitle": "Carlos Alcaraz accede a octavos de final; el aleman Zverev levanta bolas de partido ante el joven Landaluce tras tres horas.",
-    "excerpt": "Carlos Alcaraz y Alexander Zverev superaron durisimas pruebas en sus respectivos estrenos en el Erste Bank Open de Viena el martes.",
-    "body": [
-      "Carlos Alcaraz inicio con paso firme su gira europea bajo techo este martes 27 de octubre al batir a Karen Khachanov por 6-4 y 7-6(5) en el Erste Bank Open de Viena. Pese a ceder un quiebre en los primeros compases, el murciano reacciono con su habitual despliegue defensivo y golpes ganadores. En un tenso desempate en la segunda manga, Alcaraz rompio el 5-5 con una magistral dejada de reves antes de cerrar el partido tras una hora y 48 minutos de juego.",
-      "Por su parte, el maximo favorito Alexander Zverev rozo la catastrofe frente al prometedor espanol Martin Landaluce. En un combate memorable de casi tres horas, el germano tuvo que salvar dos puntos de partido con su primer servicio antes de imponerse por 7-5, 3-6 y 7-6(11) en un desempate de 24 puntos. Con Daniil Medvedev tambien en el cuadro, Viena concentra todas las miradas del circuito en la pugna por las ATP Finals de Turin."
-    ]
-  },
-  "de": {
-    "title": "Wiener Hallenkrimi: Alcaraz besiegt Khachanov in zwei Saetzen, Zverev zittert sich durch 13:11-Tiebreak",
-    "subtitle": "Carlos Alcaraz zieht ins Achtelfinale ein; Top-Seed Zverev wehrt Matchbaelle gegen Teenager Landaluce ab.",
-    "excerpt": "Carlos Alcaraz und Alexander Zverev haben am Dienstag bei den Erste Bank Open in Wien packende Erstrunden-Krimis fuer sich entschieden.",
-    "body": [
-      "Carlos Alcaraz startete am Dienstag, den 27. Oktober, souveraen in die europaeische Hallensaison und bezwang Karen Khachanov mit 6:4 und 7:6(5) in der Wiener Stadthalle. Nach einem fruehen Break-Rueckstand kaempfte sich der 23-jaehrige Spanier mit druckvollen Vorhaenden zurueck. Im hochklassigen Tiebreak des zweiten Satzes gelang Alcaraz beim Stand von 5:5 mit einem brillanten Rueckhand-Stopp der vorentscheidende Punkt zum Matchgewinn nach 108 Minuten.",
-      "Wesentlich mehr Muehe hatte Turnierfavorit Alexander Zverev, der gegen den spanischen Qualifikanten Martin Landaluce ueber fast drei Stunden an den Rand einer Niederlage gedraengt wurde. In einem dramatischen 24-Punkte-Tiebreak des dritten Satzes wehrte der Weltranglistendritte zwei Matchbaelle ab und setzte sich schließlich mit 7:5, 3:6 und 7:6(11) durch. Zusammen mit Daniil Medvedev verspricht das Wiener Feld absolute Weltklasse im Kampf um die ATP Finals in Turin."
-    ]
-  },
-  "it": {
-    "title": "Brividi a Vienna: Alcaraz piega Khachanov in due set, Zverev si salva in un tiebreak infinito per 13-11",
-    "subtitle": "Carlos Alcaraz approda agli ottavi; il numero 3 del mondo Zverev cancella match point contro il giovane Landaluce.",
-    "excerpt": "Carlos Alcaraz e Alexander Zverev hanno superato esordi ad altissima tensione all'Erste Bank Open di Vienna martedi.",
-    "body": [
-      "Carlos Alcaraz ha aperto la sua stagione indoor con una prestazione di grande spessore martedi 27 ottobre, sconfiggendo Karen Khachanov con il punteggio di 6-4, 7-6(5) a Vienna. Il fuoriclasse iberico ha rimontato un break iniziale nel primo set, imponendo il proprio ritmo negli scambi prolungati. Sul 5-5 del tiebreak della seconda frazione, Alcaraz ha inventato una sontuosa palla corta di rovescio che gli ha regalato il match point decisivo dopo un'ora e 48 minuti.",
-      "Giornata di sofferenza estrema invece per la prima testa di serie Alexander Zverev, trascinato al terzo set dal ventenne spagnolo Martin Landaluce. In una maratona di quasi tre ore culminata in un tiebreak da 24 punti, il tedesco ha dovuto annullare due match point prima di spuntarla per 7-5, 3-6, 7-6(11). Con Daniil Medvedev pronto a scendere in campo, il torneo austriaco accende la corsa ai punti per le Finals di Torino."
-    ]
-  },
-  "pl": {
-    "title": "Tenisowe grzmoty w Wiedniu: Alcaraz pokonuje Chaczanowa, Zverev wygrywa tiebreak 13:11 po obronie pilek meczowych",
-    "subtitle": "Carlos Alcaraz melduje sie w 1/8 finalu; turniejowa jedynka Alexander Zverev unika kleski z Landaluce po trzygodzinnej batalii.",
-    "excerpt": "Carlos Alcaraz i Alexander Zverev przeszli przez niezwykle wymagajace sprawdziany w pierwszej rundzie Erste Bank Open w Wiedniu.",
-    "body": [
-      "Carlos Alcaraz znakomicie zainaugurowal europejska czesc sezonu halowego we wtorek 27 pazdziernika, pokonujac Karena Chaczanowa 6:4, 7:6(5) w wiedenskiej Stadthalle. Drugi tenisista swiata musial odrabiac strate przelamania w pierwszej partii, po czym zaprezentowal swoj najlepszy tenis w defensywie. Przy stanie 5:5 w tiebreaku Hiszpan popisal sie genialnym skrotem z bekhendu i zamknal spotkanie po godzinie i 48 minutach.",
-      "Jeszcze wiekszych emocji dostarczyl wystep Alexandra Zvereva, ktory musial stoczyc blisko trzygodzinna walke z 20-letnim Martinem Landaluce. Niemiec obronil dwie pilki meczowe w morderczym tiebreaku decydujacego seta, zwyciezajac ostatecznie 7:5, 3:6, 7:6(11). Wobec startu Daniila Miedwiediewa turniej w Wiedniu gromadzi najwieksze gwiazdy walczace o awans do turyńskich finałów ATP."
-    ]
-  },
-  "zh": {
-    "title": "维也纳惊险开局：阿尔卡拉斯直落两盘力克哈恰诺夫，兹维列夫抢七13-11挽救赛点史诗晋级",
-    "subtitle": "世界第二阿尔卡拉斯晋级十六强；头号种子兹维列夫鏖战近三小时经历24分抢七惊险击败兰达鲁塞。",
-    "excerpt": "阿尔卡拉斯与兹维列夫在周二的维也纳公开赛首轮均经受住了严峻考验，双双闯入第二轮。",
-    "body": [
-      "卡洛斯·阿尔卡拉斯在10月27日周二开启了他的欧洲室内赛季征程，在维也纳公开赛首轮以6-4、7-6(5)击败俄罗斯名将哈恰诺夫。虽然开局遭遇破发，但西班牙名将迅速找回节奏依靠强大的底线穿透力完成逆转。在关键的第二盘抢七打到5-5平分时，阿尔卡拉斯用一记精妙绝伦的反手放短球拿到赛点，并在1小时48分钟内锁定胜利顺利杀入十六强。",
-      "相比之下头号种子兹维列夫则经历了真正的生死时刻。面对年仅20岁的西班牙资格赛黑马兰达鲁塞，德国名将苦战近三个小时，在决胜盘挽救了两个赛点，最终在一场打满24分的惊心动魄抢七中以7-5、3-6、7-6(11)艰难突围。随着梅德韦杰夫即将登场，维也纳站正成为通往都灵年终总决赛最关键的战场。"
-    ]
-  },
-  "ja": {
-    "title": "ウィーン熱戦：アルカラスがハチャノフにストレート勝ち、ズベレフは13-11の死闘タイブレークを制す",
-    "subtitle": "カルロス・アルカラスが16強へ進出；第1シードのズベレフはマッチポイントをしのぎ3時間の激闘を制覇。",
-    "excerpt": "火曜日のエルステ・バンク・オープンでアルカラスとズベレフが揃って白熱の1回戦を突破した。",
-    "body": [
-      "カルロス・アルカラスが10月27日火曜日、ウィーンで行われたエルステ・バンク・オープンの1回戦でカレン・ハチャノフを6-4、7-6(5)で下し、ヨーロッパ室内シーズンを白星で滑り出した。序盤で先にブレークを許したものの持ち前の驚異的なフットワークとフォアハンドで挽回。第2セットのタイブレーク5-5からは見事なバックハンドのドロップショットを決めて1時間48分で試合を締めくくった。",
-      "一方、第1シードのアレクサンダー・ズベレフは20歳のスペイン新鋭マルティン・ランダルーチェを相手に大苦戦。3時間近くに及んだ死闘の最終セットタイブレークでは相手に2本のマッチポイントを握られながらも強力なサーブで凌ぎ、7-5、3-6、7-6(11)で薄氷の勝利を収めた。メドベージェフも参戦するウィーンは、トリノ最終戦に向けた熱いポイント争いの中心地となっている。"
-    ]
-  },
-  "ko": {
-    "title": "빈 오픈 격돌: 알카라스 하차노프 제압, 츠베레프는 13-11 혈투 끝 매치포인트 극복 승리",
-    "subtitle": "알카라스 16강 안착; 톱시드 츠베레프, 20세 신예 린다루세와 3시간 접전 끝 대역전승.",
-    "excerpt": "카를로스 알카라스와 알렉산더 츠베레프가 화요일 에르스테 방크 오픈 1회전에서 극적인 승리를 거두고 나란히 16강에 올랐다.",
-    "body": [
-      "카를로스 알카라스가 10월 27일 화요일 에르스테 방크 오픈 1회전에서 카렌 하차노프를 6-4, 7-6(5)으로 꺾고 유럽 실내 하드코트 시즌을 산뜻하게 출발했다. 1세트 초반 브레이크를 허용했으나 특유의 폭발적인 기동력으로 경기를 뒤집었다. 2세트 타이브레이크 5-5 승부처에서 환상적인 백핸드 드롭샷으로 매치포인트를 잡은 뒤 1시간 48분 만에 승리를 확정지었다.",
-      "반면 톱시드 알렉산더 츠베레프는 스페인의 20세 신예 마르틴 린다루세를 상대로 벼랑 끝까지 몰렸다. 장장 2시간 54분간 이어진 접전 끝에 3세트 24포인트 타이브레이크에서 두 차례 매치포인트를 막아내며 7-5, 3-6, 7-6(11)으로 간신히 승리했다. 메드베데프까지 합류한 빈 오픈은 토리노 파이널스를 향한 랭킹 포인트 전쟁의 중심지가 되고 있다."
-    ]
-  },
-  "ar": {
-    "title": "إثارة بالغة في فيينا: ألكاراز يجتاز خاتشانوف وزفيريف ينجو في شوط كسر تعادل ماراثوني 13-11",
-    "subtitle": "كارلوس ألكاراز يبلغ ثمن النهائي؛ والمصنف الأول زفيريف ينقذ كرات المباراة بعد ملحمة استمرت 3 ساعات أمام لاندالوس.",
-    "excerpt": "تجاوز كارلوس ألكاراز وألكسندر زفيريف اختبارين في غاية الصعوبة في افتتاح بطولة فيينا للتنس يوم الثلاثاء.",
-    "body": [
-      "افتتح كارلوس ألكاراز جولته الأوروبية في الملاعب المغلقة بنجاح يوم الثلاثاء 27 أكتوبر بفوزه الصعب على كارين خاتشانوف بنتيجة 6-4 و7-6(5) في بطولة فيينا. ورغم تأخره بكسر إرسال مبكر في المجموعة الأولى، استعاد النجم الإسباني إيقاعه بفضل تغطيته الرائعة للملعب، وحسم شوط كسر التعادل في المجموعة الثانية بكرة ساقطة ساحرة عند التعادل 5-5 منهيا اللقاء في ساعة و48 دقيقة.",
-      "في المقابل، واجه المصنف الأول ألكسندر زفيريف خطرا حقيقيا أمام الشاب الإسباني الصاعد مارتن لاندالوس في مواجهة دامت قرابة ثلاث ساعات. ونجح النجم الألماني في إنقاذ كرتين حاسمتين للمباراة في شوط كسر التعادل المثير للمجموعة الثالثة (24 نقطة) ليفوز في النهاية 7-5 و3-6 و7-6(11). ومع انضمام دانييل ميدفيديف للمنافسات، تصبح فيينا بؤرة الصراع على التأهل لنهائيات تورينو."
-    ]
-  }
-},
-"f1-mexico-city-gp-2026-preview-antonelli-threshold-youngest-title": {
-  "fr": {
-    "title": "Presentation du GP du Mexique : Kimi Antonelli aux portes d'un titre mondial historique",
-    "subtitle": "Le prodige de Mercedes n'a besoin que d'une 9e place a Mexico pour etre sacre ; Antonelli confirme qu'il gardera le numero 12.",
-    "excerpt": "Fort de 123 points d'avance apres son triomphe a Austin, Antonelli arrive a Mexico ou deux points lui suffisent pour entrer dans la legende.",
-    "body": [
-      "Le paddock de la Formule 1 prend ses quartiers a Mexico cette semaine pour la 19e manche du championnat 2026, ou Andrea Kimi Antonelli se tient au seuil de l'immortalite sportive. Apres sa victoire eclatante depuis la pole au Texas, le prodige italien de 20 ans totalise 365 points et possede 123 points d'avance sur son equipier George Russell alors qu'il n'en reste que 125 en jeu.",
-      "L'equation du titre est simple : une 9e place dimanche sur l'Autodromo Hermanos Rodriguez fera d'Antonelli le plus jeune champion du monde de l'histoire de la F1, surpassant Sebastian Vettel. Dans le paddock mexicain mercredi, Antonelli a egalement confirme qu'il conserverait son numero fetiche 12 la saison prochaine pour rendre hommage a son idole Ayrton Senna, refusant d'adopter le numero 1 reserve au champion."
-    ]
-  },
-  "es": {
-    "title": "Previa del GP de Mexico: Kimi Antonelli a las puertas del campeonato mundial de F1 mas joven de la historia",
-    "subtitle": "La joya de Mercedes necesita acabar noveno en el Hermanos Rodriguez para coronarse; Antonelli confirma que mantendra el numero 12.",
-    "excerpt": "Con 123 puntos de ventaja tras su recital en Austin, Kimi Antonelli aterriza en Mexico a un paso de sellar la gloria eterna en la Formula 1.",
-    "body": [
-      "El gran circo de la Formula 1 aterriza en la Ciudad de Mexico para la disputa de la 19ª cita del Mundial 2026, con Andrea Kimi Antonelli acariciando el trofeo de campeon. Tras su incontestable victoria de principio a fin en Austin, el piloto italiano de Mercedes lidera la clasificacion con 365 puntos, 123 por delante de su companero George Russell con solo 125 puntos en liza.",
-      "Las cuentas son claras para el domingo en el Autodromo Hermanos Rodriguez: si Antonelli termina en novena posicion o mejor, se convertira en el campeon del mundo mas joven de todos los tiempos, batiendo el registro de Sebastian Vettel. Ademas, el joven piloto confirmo en el paddock que en 2027 seguira luciendo el numero 12 en honor a su gran referente de la infancia, Ayrton Senna."
-    ]
-  },
-  "de": {
-    "title": "Vorschau GP von Mexiko: Kimi Antonelli vor historischer Kroenung zum juengsten Formel-1-Weltmeister",
-    "subtitle": "Dem Mercedes-Youngster genuegt Rang neun im Autodromo Hermanos Rodriguez zum WM-Titel; Antonelli behaelt die Startnummer 12.",
-    "excerpt": "Mit 123 Punkten Vorsprung nach dem Triumph in Austin benoetigt Kimi Antonelli in Mexiko nur noch zwei Punkte, um Formel-1-Geschichte zu schreiben.",
-    "body": [
-      "Die Formel 1 gastiert an diesem Wochenende in Mexiko-Stadt zum 19. Saisonlauf 2026, und Kimi Antonelli steht unmittelbar vor dem groessten Meilenstein seiner jungen Karriere. Nach seinem Start-Ziel-Sieg beim Großen Preis der USA auf dem COTA fuehrt der 20-jaehrige Italiener die Fahrerwertung mit 365 Punkten an und liegt uneinholbare 123 Zaehler vor Teamkollege George Russell.",
-      "Die Titelrechnung fuer das Rennen im Autodromo Hermanos Rodriguez ist denkbar einfach: Erreicht Antonelli Platz neun oder besser, ist er der juengste Formel-1-Weltmeister aller Zeiten und loest Sebastian Vettel ab. Zudem verriet Antonelli am Mittwoch im Fahrerlager, dass er auch als Weltmeister 2027 auf die traditionelle Startnummer 1 verzichten und zu Ehren seines Idols Ayrton Senna weiterhin mit der Nummer 12 antreten wird."
-    ]
-  },
-  "it": {
-    "title": "Presentazione GP del Messico: Kimi Antonelli a un passo dal titolo mondiale di Formula 1 piu precoce di sempre",
-    "subtitle": "Al bolognese della Mercedes basta un nono posto all'Hermanos Rodriguez per laurearsi campione; confermata la vettura numero 12 per il 2027.",
-    "excerpt": "Con 123 punti di margine dopo il dominio di Austin, Kimi Antonelli arriva all'alta quota di Citta del Messico per chiudere i conti iridati.",
-    "body": [
-      "Il paddock della Formula 1 approda a Citta del Messico per il 19° appuntamento del campionato 2026, dove Andrea Kimi Antonelli attende solo la consacrazione definitiva. Reduce dal trionfo senza sbavature al COTA in Texas, il ventenne talento della Mercedes guida la classifica con 365 punti, forte di un vantaggio di 123 lunghezze su George Russell con appena 125 punti ancora in palio.",
-      "I calcoli per domenica sono elementari: con un nono posto o migliore sul circuito Hermanos Rodriguez, Antonelli diventera matematicamente il piu giovane campione del mondo nella storia della Formula 1, battendo il primato di Sebastian Vettel. Nel paddock messicano il pilota italiano ha confermato che nel 2027 non utilizzera il numero 1, mantenendo con orgoglio il numero 12 in omaggio al suo idolo di sempre, Ayrton Senna."
-    ]
-  },
-  "pl": {
-    "title": "Zapowiedz GP Meksyku: Kimi Antonelli o krok od przejscia do historii Formuly 1",
-    "subtitle": "Wloski talent Mercedes potrzebuje 9. miejsca w Meksyku do tytulu mistrza swiata; Antonelli potwierdza numer 12 na bolidzie w 2027 roku.",
-    "excerpt": "Mając 123 punkty przewagi po triumfie w Austin, Kimi Antonelli staje przed szansa zostania najmlodszym mistrzem swiata w dziejach F1.",
-    "body": [
-      "Formuła 1 zawitala do Meksyku na 19. runde sezonu 2026, w ktorej Andrea Kimi Antonelli moze ostatecznie przypieczetowac tytul mistrza swiata kierowcow. Po dominujacym zwyciestwie z pole position na torze COTA w Austin 20-letni Wloch zgromadzil 365 punktow i wyprzedza zespolowego partnera George'a Russella o 123 punkty przy zaledwie 125 mozliwych do zdobycia.",
-      "Rachunek przed niedzielnym wyscigiem na Autodromo Hermanos Rodriguez jest prosty: dziewiate miejsce lub wyzsze zapewni Antonellemu tytul najmlodszego czempiona w 76-letniej historii dyscypliny, odbierajac rekord Sebastianowi Vettelowi. W srode w padoku Antonelli oswiadczyl rowniez, ze w sezonie 2027 nie wezmie numeru 1, zachowujac swoj ulubiony numer 12 dla uczczenia pamieci Ayrtona Senny."
-    ]
-  },
-  "zh": {
-    "title": "F1墨西哥大奖赛前瞻：安东内利即将加冕史上最年轻F1世界冠军",
-    "subtitle": "梅赛德斯超级新星罗德里格斯赛道获第九即可锁定年度车手总冠军，确认2027赛季保留12号车号致敬塞纳。",
-    "excerpt": "手握123分巨大优势，安东内利进军墨西哥高原赛道，距离打破维特尔保持的历史最年轻总冠军纪录仅差2个积分。",
-    "body": [
-      "2026赛季F1锦标赛第19站本周移师墨西哥城罗德里格斯赛道，年仅20岁的安东内利即将迎来职业生涯的最高光时刻。在上一站美洲赛道斩获杆位并以统治级表现夺冠后，这位意大利新星的个人积分达到365分，在赛季仅剩125分可拿的情况下领先队友拉塞尔达123分之多。",
-      "周日正赛的争冠数学计算极为明朗：只要安东内利在71圈的正赛中取得第九名或更好的成绩，就将正式加冕F1历史上最年轻的年度车手总冠军，打破维特尔在2010年创下的纪录。周三在墨西哥赛道围场接受采访时，安东内利还确认即便夺冠下赛季也将继续使用12号车号，以此向儿时偶像塞纳致敬。"
-    ]
-  },
-  "ja": {
-    "title": "F1メキシコGP展望：キミ・アントネッリが史上最年少ワールドチャンピオン戴冠へ王手",
-    "subtitle": "メルセデスの至宝はエルマノス・ロドリゲスで9位以上なら王座確定；2027年もセナを称えるカーナンバー12を継続使用へ。",
-    "excerpt": "オースティンでの圧勝により123点差を築いたアントネッリは、高地のメキシコで史上最年少F1王者誕生の瞬間を迎える。",
-    "body": [
-      "2026年F1第19戦メキシコGPが今週末に開幕し、20歳のアンドレア・キミ・アントネッリが歴史的戴冠を目前にしている。前戦アメリカGPでポール・トゥ・ウィンを飾り、ドライバーズポイントを365点まで伸ばしたアントネッリは、チームメイトのジョージ・ラッセルに123点の大差をつけている（残り最大125点）。",
-      "日曜日に行われる決勝でのタイトル獲得条件はシンプルそのものだ。アントネッリが9位以上でフィニッシュすれば、セバスチャン・ベッテルが持つ史上最年少ワールドチャンピオン記録を塗り替える。また水曜日のパドックでアントネッリは、タイトルを獲得した場合でも2027年にカーナンバー1を付けず、憧れのアイルトン・セナに捧げるナンバー12を維持すると明言した。"
-    ]
-  },
-  "ko": {
-    "title": "F1 멕시코시티 GP 프리뷰: 키미 안토넬리, 역대 최연소 월드 챔피언 등극 초읽기",
-    "subtitle": "메르세데스 신성, 에르마노스 로드리게스서 9위만 해도 조기 우승 확정; 2027년에도 세나 기리는 12번 유지 선언.",
-    "excerpt": "오스틴 완승으로 123점 리드를 확보한 안토넬리가 멕시코시티에서 F1 역대 최연소 챔피언 타이틀에 단 2점만을 남겨두고 있다.",
-    "body": [
-      "2026 포뮬러 원 19라운드가 멕시코시티에서 펼쳐지는 가운데, 만 20세의 키미 안토넬리가 모터스포츠 역사상 가장 눈부신 대기록을 눈앞에 두고 있다. COTA에서 폴투윈 압승을 거두며 365점을 쌓은 안토넬리는 팀 동료 조지 러셀을 123점 차로 따돌렸으며, 시즌 종료까지 남은 점수는 최대 125점에 불과하다.",
-      "일요일 에르마노스 로드리게스 결선에서 안토넬리가 9위 이상으로 결승선을 통과하면 제바스티안 페텔을 넘어 F1 76년 역사상 최연소 월드 챔피언에 등극한다. 또한 안토넬리는 수요일 패덕 인터뷰에서 내년 시즌에도 1번 대신 우상 아일톤 세나를 기리는 12번을 그대로 달고 달릴 것이라고 공식 발표했다."
-    ]
-  },
-  "ar": {
-    "title": "نظرة على جائزة المكسيك: كيمي أنتونيللي على عتبة التتويج التاريخي بلقب بطولة العالم للفورمولا 1",
-    "subtitle": "نجم مرسيدس الشاب بحاجة فقط للمركز التاسع في حلبة هيرمانوس رودريغيز؛ ويؤكد احتفاظه بالرقم 12 تكريما لسينا.",
-    "excerpt": "بفارق 123 نقطة عقب تتويجه في أوستن، يصل كيمي أنتونيللي إلى مكسيكو سيتي لحسم أصغر لقب بطولة عالم في تاريخ الفئة الأولى.",
-    "body": [
-      "تحط بطولة العالم للفورمولا 1 رحالها هذا الأسبوع في العاصمة المكسيكية لخوض الجولة التاسعة عشرة من موسم 2026، حيث يقف الإيطالي كيمي أنتونيللي (20 عاما) على حافة المجد الرياضي. فبعد فوزه الساحق من نقطة الانطلاق في أوستن، وصل رصيده إلى 365 نقطة متقدما بفارق 123 نقطة على زميله جورج راسل مع بقاء 125 نقطة فقط في الحسبان.",
-      "معادلة التتويج بسيطة للغاية: إنهاء سباق الأحد في المركز التاسع أو أفضل يمنح أنتونيللي رسميا لقب أصغر بطل عالم في تاريخ فورمولا 1 محطما رقم سيباستيان فيتيل. وفي حديثه في حلبة هيرمانوس رودريغيز يوم الأربعاء، أكد السائق الإيطالي أنه سيحتفظ برقمه المفضل 12 في موسم 2027 تكريما لقدوته البرازيلي الراحل آيرتون سينا بدلا من حمل الرقم 1."
-    ]
-  }
-},
-"pga-tour-mexico-open-2026-preview-smotherman-momentum-vidantavallarta": {
-  "fr": {
-    "title": "Presentation du VidantaWorld Mexico Open : Smotherman surfe sur son exploit des Bermudes a Vallarta",
-    "subtitle": "Le PGA Tour pose ses valises sur le parcours signe Greg Norman alors que les joueurs se battent pour leur carte 2027.",
-    "excerpt": "Apres son sacre au 3e trou de playoff aux Bermudes, Austin Smotherman emmene le peloton du VidantaWorld Mexico Open dote de 6M$.",
-    "body": [
-      "La serie d'automne de la FedExCup quitte les falaises des Bermudes pour la cote Pacifique du Mexique cette semaine a l'occasion du VidantaWorld Mexico Open 2026. Dispute sur le splendide parcours concu par Greg Norman a VidantaVallarta, ce tournoi dote de six millions de dollars represente un champ de bataille decisif pour les golfeurs en quete d'une exemption pleine pour la saison 2027.",
-      "Austin Smotherman arrive avec le plein de confiance apres avoir remporte son deuxieme titre PGA Tour du mois dimanche a Port Royal, en venant a bout de Seamus Power au troisieme trou de playoff a -16. Tandis que Smotherman joue desormais l'esprit libere, la lutte fait rage pour les joueurs situes entre la 100e et la 125e place du classement, seuls garants de conserver leurs droits de jeu complets."
-    ]
-  },
-  "es": {
-    "title": "Previa del VidantaWorld Mexico Open: Smotherman traslada a Vallarta la inercia de su triunfo en Bermudas",
-    "subtitle": "El PGA Tour se traslada al diseno de Greg Norman mientras los golfistas pelean por las cruciales tarjetas del circuito 2027.",
-    "excerpt": "Tras su emocionante triunfo en el desempate en Bermudas, Austin Smotherman encabeza el plantel en el torneo de 6 millones en Vallarta.",
-    "body": [
-      "El calendario de otono de la FedExCup viaja de las islas atlanticas a las costas del Pacifico mexicano esta semana con la celebracion del VidantaWorld Mexico Open 2026. Con sede en el magnifico trazado Signature de Greg Norman en VidantaVallarta, el torneo de seis millones de dolares ofrece una oportunidad de oro para aquellos golfistas que pelean por asegurar sus derechos de juego para 2027.",
-      "Nadie aterriza en Jalisco en mejor momento de forma que Austin Smotherman, quien sumo el domingo su segundo titulo del PGA Tour del mes de octubre tras derrotar al irlandes Seamus Power en el tercer hoyo de desempate en Port Royal. Mientras Smotherman compite con la tranquilidad de estar exento durante dos anos, la atencion se centra en la batalla de la burbuja entre los puestos 100 y 125 de la clasificacion."
-    ]
-  },
-  "de": {
-    "title": "Vorschau VidantaWorld Mexico Open: Smotherman bringt Bermuda-Schwung zum 6-Mio-Dollar-Turnier nach Vallarta",
-    "subtitle": "PGA Tour schlaegt auf dem Greg-Norman-Kurs ab, waehrend Profis um ihre Spielberechtigungen fuer 2027 kaempfen.",
-    "excerpt": "Nach seinem dramatischen Playoff-Triumph auf Bermuda fuehrt Austin Smotherman das Starterfeld bei der VidantaWorld Mexico Open an.",
-    "body": [
-      "Die FedExCup Fall Series zieht in dieser Woche von den Klippen Bermudas an die sonnige Pazifikkueste Mexikos zur VidantaWorld Mexico Open 2026. Auf dem spektakulaeren Greg Norman Signature Course in VidantaVallarta kaempft die Golf-Elite bei einem Preisgeld von 6.000.000 US-Dollar um entscheidende Punkte fuer die Tour-Karten der Saison 2027.",
-      "Topfavorit Austin Smotherman reist mit breiter Brust an, nachdem er am Sonntag bei der Butterfield Bermuda Championship Seamus Power am dritten Playoff-Loch niederrang und seinen zweiten PGA-Tour-Titel innerhalb eines Monats feierte. Waehrend Smotherman seine Tour-Zukunft gesichert hat, kaempfen die Profis auf den Plaetzen 100 bis 125 um ihr sportliches Ueberleben fuer das kommende Jahr."
-    ]
-  },
-  "it": {
-    "title": "Presentazione VidantaWorld Mexico Open: Smotherman cerca il bis a Vallarta dopo il capolavoro a Bermuda",
-    "subtitle": "Il PGA Tour sbarca sul tracciato disegnato da Greg Norman con in palio le carte per la stagione 2027.",
-    "excerpt": "Reduce dal trionfo al playoff a Port Royal, Austin Smotherman guida il field del torneo da 6 milioni di dollari in Messico.",
-    "body": [
-      "La FedExCup Fall lascia le scogliere di Bermuda e sbarca sulle coste del Pacifico per il VidantaWorld Mexico Open 2026. Ospitato sul suggestivo percorso firmato Greg Norman a VidantaVallarta, l'evento mette in palio un montepremi di sei milioni di dollari e punti vitali per i golfisti a caccia dell'esenzione completa per la stagione 2027.",
-      "Il giocatore piu atteso e senza dubbio Austin Smotherman, reduce dalla vittoria al terzo buco di playoff contro Seamus Power domenica scorsa. Con due titoli vinti nel solo mese di ottobre e la carta blindata per due anni, l'americano gioca senza pressioni, mentre per molti altri atleti posizionati a ridosso della 125ª posizione mondiale ogni colpo sul percorso messicano sara decisivo per il proprio futuro professionale."
-    ]
-  },
-  "pl": {
-    "title": "Zapowiedz VidantaWorld Mexico Open: Smotherman przywozi do Vallarty forme po dogrywce na Bermudach",
-    "subtitle": "PGA Tour przenosi sie na pole projektu Grega Normana, gdzie trwa walka o pelne karty turniejowe na sezon 2027.",
-    "excerpt": "Po emocjonujacym triumfie w dogrywce na Bermudach Austin Smotherman jest glowna postacia turnieju z pula 6 mln dolarow w Meksyku.",
-    "body": [
-      "Jesienna seria FedExCup Fall opuszcza atlantyckie Bermudy i zawita na pacyficzne wybrzeze Meksyku na turniej VidantaWorld Mexico Open 2026. Rozgrywane na malowniczym polu Greg Norman Signature w VidantaVallarta zawody z pula nagrod wynoszaca szesc milionow dolarow stanowia kluczowy etap walki o prawo gry w PGA Tour w 2027 roku.",
-      "Nikt nie przyjezdza do Meksyku w lepszym nastroju niz Austin Smotherman. 32-letni Amerykanin wygral w niedziele swoj drugi tytul w pazdzierniku, pokonujac Seamusa Powera na trzecim dolku dogrywki w Bermuda Championship. Podczas gdy Smotherman ma juz zapewnione zwolnienie na dwa lata, gracze z miejsc 100-125 na liscie rankingowej toczyc beda dramatyczna walke o utrzymanie w elicie."
-    ]
-  },
-  "zh": {
-    "title": "维丹塔世界墨西哥公开赛前瞻：斯莫瑟曼携百慕大加洞赛夺冠之势转战瓦亚塔",
-    "subtitle": "美巡赛秋季赛移师诺曼设计的锦标赛级球场，众球员为2027赛季全卡资格展开殊死搏斗。",
-    "excerpt": "在百慕大第三个加洞赛艰难夺冠后，斯莫瑟曼领衔出战总奖金达600万美元的墨西哥公开赛。",
-    "body": [
-      "美巡赛联邦快递杯秋季赛本周从百慕大群岛转战墨西哥太平洋沿岸，2026年维丹塔世界墨西哥公开赛正式打响。在维丹塔瓦亚塔风景如画的诺曼签名球场上，总奖金高达600万美元的赛事将成为众多职业球员争夺2027赛季全卡豁免权的最关键舞台。",
-      "美国名将斯莫瑟曼无疑是目前手感最火热的球员。周日他在百慕大锦标赛第三个加洞赛中击败爱尔兰名将鲍尔，一个月内斩获两座美巡赛冠军奖杯。在斯莫瑟曼提前锁定未来两年参赛资格的同时，积分榜排名第100位至125位之间的球员则面临巨大的保卡压力，每个推杆都事关职业生涯走向。"
-    ]
-  },
-  "ja": {
-    "title": "ヴィダンタ・ワールド・メキシコ・オープン展望：バミューダを制したスモザーマンが賞金600万ドル大会へ挑む",
-    "subtitle": "PGAツアーはグレッグ・ノーマン設計コースへ移動；選手たちは2027年ツアーカード獲得へ死闘を展開。",
-    "excerpt": "バミューダでの劇的なプレーオフ勝利を飾ったオースティン・スモザーマンがメキシコ・オープンで連勝を狙う。",
-    "body": [
-      "PGAツアーのフェデックスカップ・フォールは今週、大西洋のバミューダから太平洋に面したメキシコのリゾート地へ舞台を移し、2026年ヴィダンタ・ワールド・メキシコ・オープンが開幕する。ヴィダンタ・バジャルタのグレッグ・ノーマン設計コースを舞台に、賞金総額600万ドルを懸けて2027年シーズンのシード権を巡る激戦が繰り広げられる。",
-      "今大会の主役はオースティン・スモザーマンだ。日曜日に行われたバミューダ選手権でシェイマス・パワーとのプレーオフ3ホール目を制し、10月だけで2勝目を挙げた。2年間のシード権を獲得し余裕を持って臨むスモザーマンに対し、ランキング100位から125位のボーダーライン上にいる選手たちはフルシード維持を懸けて一打も無駄にできない戦いに挑む。"
-    ]
-  },
-  "ko": {
-    "title": "비단타월드 멕시코 오픈 프리뷰: 버뮤다 연장 우승 스머더먼, 600만 달러 가을 무대 출격",
-    "subtitle": "PGA 투어, 그렉 노먼 설계 코스서 개막; 2027시즌 투어 카드 확보 위한 살얼음판 경쟁 시작.",
-    "excerpt": "버뮤다에서 3차 연장 끝에 우승을 차지한 오스틴 스머더먼이 멕시코 바야르타에서 열리는 600만 달러 대회에 출전한다.",
-    "body": [
-      "PGA 투어 페덱스컵 폴 시리즈가 대서양 버뮤다를 떠나 멕시코 태평양 연안으로 무대를 옮겨 2026 비단타월드 멕시코 오픈을 개최한다. 비단타바야르타의 아름다운 그렉 노먼 시그니처 코스에서 펼쳐지는 이번 대회는 총상금 600만 달러가 걸려 있으며, 2027시즌 풀시드 확보를 위한 치열한 격전지가 될 전망이다.",
-      "가장 주목받는 선수는 단연 오스틴 스머더먼이다. 지난 일요일 버뮤다 챔피언십 3차 연장전에서 셰이머스 파워를 꺾고 10월에만 2승을 거두는 절정의 샷감을 자랑하고 있다. 2년 시드를 확보한 스머더먼과 달리, 페덱스컵 랭킹 100위에서 125위 사이에 위치한 선수들은 투어 카드를 지키기 위해 사활을 걸고 티샷을 날린다."
-    ]
-  },
-  "ar": {
-    "title": "نظرة على بطولة المكسيك المفتوحة: سموذر مان يدخل المنافسات بزخم تتويجه في برمودا بجوائز 6 ملايين دولار",
-    "subtitle": "جولة بي جي إيه تحط رحالها في ملعب غريغ نورمان مع احتدام الصراع على بطاقات التأهل الكاملة لموسم 2027.",
-    "excerpt": "بعد فوزه الدرامي في الحفرة الإضافية الثالثة في برمودا، يتصدر أوستن سموذر مان قائمة النجوم في بطولة المكسيك المفتوحة.",
-    "body": [
-      "تنتقل سلسلة الخريف لجولة بي جي إيه هذا الأسبوع من شواطئ برمودا إلى ساحل المكسيك على المحيط الهادئ لإقامة بطولة فيدانتا وورلد المكسيك المفتوحة 2026. وتستضيف حلبة فيدانتا فايارتا بتصميمها الرائع من غريغ نورمان منافسات البطولة البالغ مجموع جوائزها ستة ملايين دولار، والتي تشكل مرحلة حاسمة للاعبين الساعين لتأمين بطاقات المشاركة الكاملة لموسم 2027.",
-      "ويدخل الأمريكي أوستن سموذر مان المنافسات بمعنويات مرتفعة للغاية بعد فوزه بلقبه الثاني في شهر أكتوبر يوم الأحد الماضي، متفوقا على الإيرلندي شيموس باور في الحفرة الفاصلة الثالثة. وفي حين يخوض سموذر مان المنافسات بأريحية بعد ضمانه بطاقة العامين، يحتدم الصراع بين اللاعبين المصنفين بين المراكز 100 و125 لضمان مقاعدهم في دوري النخبة."
     ]
   }
 },
@@ -7590,7 +7176,6 @@ export const STORY_I18N: Record<string, LocMap> = {
     ]
   }
 },
-
 "wnba-finals-2026-game1-valkyries-edge-dream-lead-1-0": {
   "fr": {
     "title": "Finales WNBA, match 1 : les Valkyries battent le Dream 68-64 et mènent 1-0",
@@ -7674,7 +7259,6 @@ export const STORY_I18N: Record<string, LocMap> = {
     ]
   }
 },
-
 "nfl-week6-sunday-chiefs-down-chargers-stay-perfect-at-5-0": {
   "fr": {
     "title": "Semaine 6, dimanche : les Chiefs battent les Chargers 22-6 et restent à 5-0",
@@ -7758,7 +7342,6 @@ export const STORY_I18N: Record<string, LocMap> = {
     ]
   }
 },
-
 "premier-league-mw7-sunday-arsenal-blank-forest-chase-city": {
   "fr": {
     "title": "Dimanche de Premier League : Madueke donne à Arsenal un 1-0 à Forest",
@@ -7842,7 +7425,6 @@ export const STORY_I18N: Record<string, LocMap> = {
     ]
   }
 },
-
 "f1-austin-race-week-begins-mercedes-title-countdown-2026": {
   "fr": {
     "title": "F1 GP des Etats-Unis : la semaine de course s'ouvre à Austin, Mercedes vise le titre",
@@ -24372,5 +23954,5 @@ export const STORY_I18N: Record<string, LocMap> = {
         "تستأنف المنافسات الأسبوع المقبل مع بطولة باترفيلد برمودا من 22 إلى 25 أكتوبر في ملعب بورت رويال في ساوثهامبتون ببرمودا، بجوائز إجمالية 6 ملايين دولار. ويعد آدم شينك حامل اللقب، وتظهر الالتزامات الأولية المعلنة يوم الخميس منافسة قوية لتأمين بطاقات الموسم المقبل.",
       ],
     },
-  },
+  }
 };

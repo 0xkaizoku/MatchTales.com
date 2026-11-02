@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-01",
+  "asOf": "2026-11-02",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -39,18 +39,6 @@
     },
     {
       "pos": 4,
-      "team": "Liverpool",
-      "p": 9,
-      "w": 4,
-      "d": 4,
-      "l": 1,
-      "gf": 13,
-      "ga": 10,
-      "gd": 3,
-      "pts": 16
-    },
-    {
-      "pos": 5,
       "team": "Chelsea",
       "p": 9,
       "w": 5,
@@ -58,6 +46,18 @@
       "l": 3,
       "gf": 19,
       "ga": 16,
+      "gd": 3,
+      "pts": 16
+    },
+    {
+      "pos": 5,
+      "team": "Liverpool",
+      "p": 9,
+      "w": 4,
+      "d": 4,
+      "l": 1,
+      "gf": 13,
+      "ga": 10,
       "gd": 3,
       "pts": 16
     },
@@ -76,77 +76,17 @@
     {
       "pos": 7,
       "team": "Brentford",
-      "p": 8,
+      "p": 9,
       "w": 2,
       "d": 5,
-      "l": 1,
-      "gf": 14,
-      "ga": 9,
-      "gd": 5,
+      "l": 2,
+      "gf": 15,
+      "ga": 11,
+      "gd": 4,
       "pts": 11
     },
     {
-      "pos": 7,
-      "team": "Leeds United",
-      "p": 7,
-      "w": 2,
-      "d": 4,
-      "l": 1,
-      "gf": 9,
-      "ga": 6,
-      "gd": 3,
-      "pts": 10
-    },
-    {
       "pos": 8,
-      "team": "Everton",
-      "p": 7,
-      "w": 2,
-      "d": 4,
-      "l": 1,
-      "gf": 8,
-      "ga": 7,
-      "gd": 1,
-      "pts": 10
-    },
-    {
-      "pos": 9,
-      "team": "Hull City",
-      "p": 7,
-      "w": 2,
-      "d": 3,
-      "l": 2,
-      "gf": 8,
-      "ga": 7,
-      "gd": 1,
-      "pts": 9
-    },
-    {
-      "pos": 10,
-      "team": "Ipswich",
-      "p": 8,
-      "w": 3,
-      "d": 1,
-      "l": 4,
-      "gf": 12,
-      "ga": 16,
-      "gd": -4,
-      "pts": 10
-    },
-    {
-      "pos": 11,
-      "team": "Newcastle United",
-      "p": 7,
-      "w": 2,
-      "d": 2,
-      "l": 3,
-      "gf": 10,
-      "ga": 14,
-      "gd": -4,
-      "pts": 8
-    },
-    {
-      "pos": 12,
       "team": "Aston Villa",
       "p": 8,
       "w": 3,
@@ -158,43 +98,55 @@
       "pts": 11
     },
     {
-      "pos": 13,
-      "team": "Manchester United",
-      "p": 7,
-      "w": 1,
-      "d": 4,
-      "l": 2,
-      "gf": 10,
-      "ga": 10,
-      "gd": 0,
-      "pts": 7
-    },
-    {
-      "pos": 14,
-      "team": "Crystal Palace",
+      "pos": 9,
+      "team": "Leeds United",
       "p": 7,
       "w": 2,
+      "d": 4,
+      "l": 1,
+      "gf": 9,
+      "ga": 6,
+      "gd": 3,
+      "pts": 10
+    },
+    {
+      "pos": 10,
+      "team": "Everton",
+      "p": 7,
+      "w": 2,
+      "d": 4,
+      "l": 1,
+      "gf": 8,
+      "ga": 7,
+      "gd": 1,
+      "pts": 10
+    },
+    {
+      "pos": 11,
+      "team": "Ipswich",
+      "p": 8,
+      "w": 3,
       "d": 1,
       "l": 4,
-      "gf": 9,
-      "ga": 17,
-      "gd": -8,
-      "pts": 7
-    },
-    {
-      "pos": 15,
-      "team": "Bournemouth",
-      "p": 7,
-      "w": 1,
-      "d": 3,
-      "l": 3,
-      "gf": 9,
-      "ga": 13,
+      "gf": 12,
+      "ga": 16,
       "gd": -4,
-      "pts": 6
+      "pts": 10
     },
     {
-      "pos": 16,
+      "pos": 12,
+      "team": "Hull City",
+      "p": 7,
+      "w": 2,
+      "d": 3,
+      "l": 2,
+      "gf": 8,
+      "ga": 7,
+      "gd": 1,
+      "pts": 9
+    },
+    {
+      "pos": 13,
       "team": "Tottenham Hotspur",
       "p": 8,
       "w": 2,
@@ -206,19 +158,67 @@
       "pts": 9
     },
     {
-      "pos": 17,
-      "team": "Coventry City",
+      "pos": 14,
+      "team": "Fulham",
+      "p": 8,
+      "w": 2,
+      "d": 2,
+      "l": 4,
+      "gf": 9,
+      "ga": 11,
+      "gd": -2,
+      "pts": 8
+    },
+    {
+      "pos": 15,
+      "team": "Newcastle United",
       "p": 7,
       "w": 2,
-      "d": 0,
-      "l": 5,
-      "gf": 6,
+      "d": 2,
+      "l": 3,
+      "gf": 10,
       "ga": 14,
+      "gd": -4,
+      "pts": 8
+    },
+    {
+      "pos": 16,
+      "team": "Manchester United",
+      "p": 7,
+      "w": 1,
+      "d": 4,
+      "l": 2,
+      "gf": 10,
+      "ga": 10,
+      "gd": 0,
+      "pts": 7
+    },
+    {
+      "pos": 17,
+      "team": "Crystal Palace",
+      "p": 7,
+      "w": 2,
+      "d": 1,
+      "l": 4,
+      "gf": 9,
+      "ga": 17,
       "gd": -8,
-      "pts": 6
+      "pts": 7
     },
     {
       "pos": 18,
+      "team": "Bournemouth",
+      "p": 7,
+      "w": 1,
+      "d": 3,
+      "l": 3,
+      "gf": 9,
+      "ga": 13,
+      "gd": -4,
+      "pts": 6
+    },
+    {
+      "pos": 19,
       "team": "Nottingham Forest",
       "p": 8,
       "w": 1,
@@ -230,19 +230,19 @@
       "pts": 6
     },
     {
-      "pos": 19,
-      "team": "Fulham",
+      "pos": 20,
+      "team": "Coventry City",
       "p": 7,
-      "w": 1,
-      "d": 2,
-      "l": 4,
-      "gf": 7,
-      "ga": 10,
-      "gd": -3,
-      "pts": 5
+      "w": 2,
+      "d": 0,
+      "l": 5,
+      "gf": 6,
+      "ga": 14,
+      "gd": -8,
+      "pts": 6
     },
     {
-      "pos": 20,
+      "pos": 21,
       "team": "Sunderland",
       "p": 7,
       "w": 1,
@@ -737,6 +737,13 @@
       "home": "Minnesota Vikings",
       "away": "Indianapolis Colts",
       "note": "FINAL: Vikings 24, Colts 17. CBS. Darnold 274 yds, 2 TD to Jefferson. Flores defense forces 3 turnovers as Minnesota moves to 7-0."
+    },
+    {
+      "date": "2026-11-02",
+      "time": "8:15 p.m. ET",
+      "home": "Pittsburgh Steelers",
+      "away": "New York Giants",
+      "note": "FINAL: Steelers 26, Giants 18. ESPN Monday Night Football. Austin 73-yd punt ret TD, 29-yd rec TD. Wilson 278 yds, 1 TD. Watt 2 sacks, FF. Steelers 6-2, Giants 2-6."
     }
   ],
   "usOpenQF": [
@@ -799,6 +806,12 @@
       "p1": "Carlos Alcaraz",
       "p2": "Lorenzo Musetti",
       "status": "Alcaraz 6-3, 6-4"
+    },
+    {
+      "draw": "Paris R64",
+      "p1": "Stefanos Tsitsipas",
+      "p2": "Roberto Carballes Baena",
+      "status": "Tsitsipas 4-6, 6-3, 6-3"
     }
   ]
 }
