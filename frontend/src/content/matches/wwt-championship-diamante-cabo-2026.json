@@ -1,35 +1,35 @@
 {
   "slug": "wwt-championship-diamante-cabo-2026",
-  "headline": "WWT Championship Preview: Following Pereda's historic triumph, PGA Tour arrives in Cabo with FedExCup cards on the line",
+  "headline": "WWT Championship Round 1: Chris Kirk fires bogey-free 63 to lead by one at El Cardonal",
   "whyCareScore": 9.1,
-  "whyCareReason": "Fresh off Raul Pereda's emotional home victory at VidantaWorld, the PGA Tour stays in Mexico at Tiger Woods-designed El Cardonal at Diamante with top-125 card battles intensifying.",
-  "teaser": "NEXT IN MEXICO: Following Pereda's breakthrough, the PGA Tour heads to El Cardonal at Diamante in Los Cabos for high-stakes Fall showdown.",
-  "story": "The PGA Tour's Mexican swing shifted across the Sea of Cortez on Monday, 2 November, as players arrived at El Cardonal at Diamante in Los Cabos for the 2026 World Wide Technology Championship. Just 24 hours earlier in Puerto Vallarta, Veracruz native Raul Pereda sent shockwaves through the golf world by carding a closing 66 to become the first Mexican player to win the national open on the PGA Tour. Pereda's historic win propelled him into the top 50 in the Official World Golf Ranking, securing a two-year PGA Tour exemption and invitations to the 2027 Masters and PGA Championship. As the celebration ripples across the nation, attention turns to Tiger Woods' signature design in Cabo San Lucas, where runner-up Austin Smotherman and England's Aaron Rai aim to bounce back amidst a desperate scramble for players fighting to finish inside the top 125 of the FedExCup Fall standings.",
-  "stakes": "Players compete for 500 FedExCup Fall points and critical exemptions with only three events remaining in the 2026 PGA Tour Fall season.",
-  "rivalryAngle": "Smotherman seeks instant redemption after finishing two shots behind Pereda on Sunday in Puerto Vallarta.",
+  "whyCareReason": "Kirk, 110th in FedExCup Fall, shoots 9-under 63 with every fairway hit to lead Nick Dunlap and Zac Blair by one as 2027 PGA Tour cards hang in the balance.",
+  "teaser": "R1 COMPLETE: Chris Kirk 63 (-9) leads Dunlap and Blair 64. T4 at 65: Pavon, Hall, Montgomery, Hirata, Ben James. Purse $6 million. Round 2 in progress, not final.",
+  "story": "Chris Kirk posted a bogey-free 9-under 63 on Thursday, 5 November, to lead the World Wide Technology Championship after round one at El Cardonal at Diamante in Los Cabos. Associated Press and PGA Tour reports say he hit every fairway and missed only one green on the Tiger Woods design (par 72, 7,452 yards). Nick Dunlap and Zac Blair shot 64. Tied for fourth at 65: Matthieu Pavon, Harry Hall, Taylor Montgomery, Kensei Hirata and Ben James. More than half of the 120-player field broke 70. Kirk sits about 110th in FedExCup Fall with three events left to finish inside the top 100 and keep a full 2027 card. The purse is $6 million. Round 2 was in progress on Friday and is not published as a finished board.",
+  "stakes": "Fall Series card race: Kirk needs a top-100 FedExCup Fall finish. Winner takes the $6 million purse event.",
+  "rivalryAngle": "Kirk's first 18-hole lead of the week vs Dunlap, Blair and a five-way logjam at 7-under on the Baja coast.",
   "funFacts": [
-    "El Cardonal at Diamante is the first golf course designed by Tiger Woods to host an official PGA Tour event.",
-    "Raul Pereda jumped over 120 spots in the Official World Golf Ranking following his Sunday victory.",
-    "The 2026 WWT Championship purse stands at 8.2 million dollars, with 1.476 million dollars awarded to the champion."
+    "Kirk putted for birdie on 17 of 18 holes; his only missed green was the par-3 second.",
+    "The 63 matches his lowest round of the season and sits one off his career-low 62.",
+    "Ben James, No. 1 from PGA Tour University, is already locked for a 2027 card and opened 65."
   ],
   "keyPlayers": [
     {
-      "name": "Raul Pereda",
-      "team": "Mexico",
-      "hook": "Riding the crest of a wave after becoming the first Mexican home winner of the Mexico Open."
-    },
-    {
-      "name": "Austin Smotherman",
+      "name": "Chris Kirk",
       "team": "United States",
-      "hook": "Runner-up at VidantaVallarta (-15) looking to convert sharp ball-striking into a victory in Cabo."
+      "hook": "Bogey-free 63, one-shot lead, FedExCup Fall No. 110."
     },
     {
-      "name": "Aaron Rai",
-      "team": "England",
-      "hook": "Finished third in Puerto Vallarta (-13) and brings pristine iron play to Diamante."
+      "name": "Nick Dunlap",
+      "team": "United States",
+      "hook": "Opening 64, tied for second with Zac Blair."
+    },
+    {
+      "name": "Zac Blair",
+      "team": "United States",
+      "hook": "Birdied four of his last five holes to reach 8-under 64."
     }
   ],
-  "headToHead": "Upcoming: 5-8 November 2026. El Cardonal at Diamante, Los Cabos, Mexico. 72 holes.",
+  "headToHead": "Thursday 5 November 2026. El Cardonal at Diamante, Los Cabos. Round 1 complete.",
   "tags": [
     "golf",
     "pga-tour",
@@ -37,27 +37,26 @@
     "los-cabos",
     "el-cardonal",
     "diamante",
-    "pereda",
-    "smotherman"
+    "chris-kirk"
   ],
-  "home": "World Wide Technology Championship",
-  "away": "PGA Tour",
-  "homeCode": "MEX",
+  "home": "Chris Kirk",
+  "away": "Nick Dunlap",
+  "homeCode": "USA",
   "awayCode": "USA",
-  "homeFlag": "mx",
+  "homeFlag": "us",
   "awayFlag": "us",
   "group": "PGA Tour",
   "matchday": 5,
-  "date": "2026-11-02",
-  "time": "12:00",
+  "date": "2026-11-05",
+  "time": "08:00",
   "venue": "El Cardonal at Diamante",
   "city": "Los Cabos",
-  "status": "UPCOMING",
-  "homeScore": "Par 72",
-  "awayScore": "7,452 yds",
+  "status": "FINISHED",
+  "homeScore": "-9",
+  "awayScore": "-8",
   "marquee": false,
   "liveMinute": null,
-  "image": "https://images.pexels.com/photos/914682/pexels-photo-914682.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "image": "https://images.pexels.com/photos/274133/pexels-photo-274133.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
   "decidedBy": "score",
   "homePen": null,
   "awayPen": null,
@@ -65,37 +64,71 @@
   "competition": "pga-tour-2026",
   "format": "leaderboard",
   "season": "2026",
-  "roundLabel": "Tournament Preview",
-  "resultSummary": "PREVIEW: Tour moves to Los Cabos following Pereda's historic win; Smotherman and Rai pursue redemption at Diamante.",
+  "roundLabel": "Round 1",
+  "resultSummary": "R1: Chris Kirk 63 (-9) leads Nick Dunlap and Zac Blair 64. Purse $6 million.",
   "leaderboard": [
     {
       "pos": "1",
-      "name": "Raul Pereda",
-      "score": "-17 (267)",
-      "note": "Mexico Open Champion"
+      "name": "Chris Kirk",
+      "score": "-9 (63)",
+      "note": "Leader, bogey-free"
     },
     {
-      "pos": "2",
-      "name": "Austin Smotherman",
-      "score": "-15 (269)",
-      "note": "Vidanta Runner-Up"
+      "pos": "T2",
+      "name": "Nick Dunlap",
+      "score": "-8 (64)",
+      "note": "T2"
     },
     {
-      "pos": "3",
-      "name": "Aaron Rai",
-      "score": "-13 (271)",
-      "note": "3rd in Puerto Vallarta"
+      "pos": "T2",
+      "name": "Zac Blair",
+      "score": "-8 (64)",
+      "note": "T2"
+    },
+    {
+      "pos": "T4",
+      "name": "Matthieu Pavon",
+      "score": "-7 (65)",
+      "note": "T4"
+    },
+    {
+      "pos": "T4",
+      "name": "Harry Hall",
+      "score": "-7 (65)",
+      "note": "T4"
+    },
+    {
+      "pos": "T4",
+      "name": "Taylor Montgomery",
+      "score": "-7 (65)",
+      "note": "T4"
+    },
+    {
+      "pos": "T4",
+      "name": "Kensei Hirata",
+      "score": "-7 (65)",
+      "note": "T4"
+    },
+    {
+      "pos": "T4",
+      "name": "Ben James",
+      "score": "-7 (65)",
+      "note": "T4"
     }
   ],
   "tennisSets": [],
   "sources": [
     {
-      "name": "PGA Tour Official World Wide Technology Championship Preview",
-      "url": "https://www.pgatour.com/tournaments/2026/world-wide-technology-championship/overview"
+      "name": "PGA Tour: Kirk fires bogey-free 63, grabs early lead",
+      "url": "https://www.pgatour.com/article/news/daily-wrapup/2026/11/05/round-1-world-wide-technology-championship-recap-el-cardonal-scores-leaderboard-results"
     },
     {
-      "name": "Golf Channel FedExCup Fall Standings Update",
-      "url": "https://www.golfchannel.com/news/fedexcup-fall-update-pereda-historic-victory-cabo-preview"
+      "name": "ESPN/AP: Chris Kirk leads after 63",
+      "url": "https://www.espn.com/golf/story/_/id/50394522/chris-kirk-leads-pga-tour-world-wide-technology-champ"
+    },
+    {
+      "name": "AP News par scores, purse $6 million",
+      "url": "https://apnews.com/article/golf-3c730f124aa1ce9bd091b57cb2bc60fd"
     }
   ]
 }

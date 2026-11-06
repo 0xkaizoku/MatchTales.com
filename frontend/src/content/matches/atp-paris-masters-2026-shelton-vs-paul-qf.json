@@ -1,0 +1,89 @@
+{
+  "slug": "atp-paris-masters-2026-shelton-vs-paul-qf",
+  "headline": "Rolex Paris Masters QF: Ben Shelton beats Tommy Paul 6-4, 4-6, 6-3 to reach first Bercy semi-final",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Third seed Shelton fires 19 aces in 1 hour 46 minutes, ends Paul's Turin bid and locks Frances Tiafoe into the Nitto ATP Finals.",
+  "teaser": "FINAL: Shelton def. Paul 6-4, 4-6, 6-3. First Paris Masters semi-final for Shelton; Paul out of the race to Turin.",
+  "story": "Ben Shelton beat fellow American Tommy Paul 6-4, 4-6, 6-3 on Friday, 6 November, in the Rolex Paris Masters quarter-finals at Accor Arena. The third seed needed 1 hour 46 minutes, struck 19 aces to Paul's 7, converted two of four break points and won 81 of 154 points. Shelton had already qualified for Turin; this result ended Paul's Nitto ATP Finals hopes and confirmed Frances Tiafoe's first qualification. Shelton is the first American into the Paris last four since Jack Sock and John Isner in 2017. He next plays Luca Van Assche or Rinky Hijikata. Thursday round of 16 still stands: Shelton d Rinderknech 3-6, 6-4, 7-6(5); Fritz d Fils 6-3, 6-4; Paul d Halys 7-6(3), 6-4. Alcaraz vs Fritz and Ruud vs Borges were still to play Friday night. Van Assche vs Hijikata was in progress and is not published as finished.",
+  "stakes": "Shelton reaches his first Bercy semi-final. Paul is eliminated from the Turin race. Tiafoe is into the ATP Finals.",
+  "rivalryAngle": "All-American quarter-final between close friends: Shelton leads the head-to-head 3-2 after this win.",
+  "funFacts": [
+    "Shelton served 19 aces and won 82 percent of first-serve points (48 of 63).",
+    "This is Shelton's first ATP Masters 1000 semi-final outside his two title runs in Canada.",
+    "Frances Tiafoe became the seventh qualifier for Turin after Zverev, Alcaraz, Shelton, Medvedev, Cobolli and Fils."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Ben Shelton",
+      "team": "United States",
+      "hook": "Won 6-4, 4-6, 6-3 with 19 aces to reach his first Paris Masters semi-final."
+    },
+    {
+      "name": "Tommy Paul",
+      "team": "United States",
+      "hook": "Took the second set 6-4 but lost the decider; Turin bid ends."
+    }
+  ],
+  "headToHead": "Friday 6 November 2026. Accor Arena, Paris. Final: Shelton 6-4, 4-6, 6-3.",
+  "tags": [
+    "tennis",
+    "atp",
+    "paris-masters",
+    "rolex-paris-masters",
+    "shelton",
+    "paul",
+    "bercy"
+  ],
+  "home": "Ben Shelton",
+  "away": "Tommy Paul",
+  "homeCode": "USA",
+  "awayCode": "USA",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "Rolex Paris Masters",
+  "matchday": 5,
+  "date": "2026-11-06",
+  "time": "14:00",
+  "venue": "Accor Arena",
+  "city": "Paris",
+  "status": "FINISHED",
+  "homeScore": "2",
+  "awayScore": "1",
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/2291006/pexels-photo-2291006.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "sets",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-1000-paris-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Quarter-final",
+  "resultSummary": "FINAL: Ben Shelton def. Tommy Paul 6-4, 4-6, 6-3 to reach Paris SFs.",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "6",
+      "p2": "4"
+    },
+    {
+      "p1": "4",
+      "p2": "6"
+    },
+    {
+      "p1": "6",
+      "p2": "3"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP Tour: Shelton shuts down Paul's Turin hopes, reaches Paris SFs",
+      "url": "https://www.atptour.com/en/news/shelton-paul-paris-2026-qf"
+    },
+    {
+      "name": "ATP Tour Paris results",
+      "url": "https://www.atptour.com/en/scores/current/paris/352/results"
+    }
+  ]
+}

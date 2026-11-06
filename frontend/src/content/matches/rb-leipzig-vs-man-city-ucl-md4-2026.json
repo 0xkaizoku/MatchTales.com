@@ -1,0 +1,84 @@
+{
+  "slug": "rb-leipzig-vs-man-city-ucl-md4-2026",
+  "headline": "UCL MD4: Haaland winner as Manchester City edge RB Leipzig 3-2",
+  "whyCareScore": 9.5,
+  "whyCareReason": "Captain Erling Haaland taps in Elliot Anderson's 78th-minute cross for a 3-2 win that lifts City to 3-1 in the league phase, seventh in the table.",
+  "teaser": "FINAL: RB Leipzig 2-3 Manchester City. Lukeba OG 37, Baku 49, Enzo Fernandez 58, Nusa 61, Haaland 78. City 3-1 in league phase.",
+  "story": "Manchester City beat RB Leipzig 3-2 on Wednesday, 4 November, at Red Bull Arena on Champions League matchday 4. Castello Lukeba turned Nico O'Reilly's cross into his own net in the 37th minute. Ridle Baku equalised in the 49th, squeezing a finish in at Gianluigi Donnarumma's near post. Enzo Fernandez headed City back in front in the 58th from Iliman Ndiaye's cross. Antonio Nusa levelled in the 61st from Christopher Nkunku's pass. Haaland, captain for the night, slid in Anderson's low cross in the 78th for the winner, his 13th goal in nine appearances against Leipzig. City sit 3-1 in the league phase, seventh, inside the automatic last-16 places. Enzo Maresca's side had lost to Brighton in the Premier League. Other MD4 results include Slavia Prague 1-2 Arsenal. Premier League table after matchweek 9 (BBC, NBC, 6 November): Arsenal 24, Manchester City 21, Brighton 19, Chelsea 16, Liverpool 15. Next Premier League fixture is Everton vs Coventry on Friday 6 November at 20:00 GMT, unpublished here as unfinished.",
+  "stakes": "City move to 3-1 in the UCL league phase and seventh place. Leipzig suffer a third European defeat after losses to Como and Real Madrid.",
+  "rivalryAngle": "Haaland vs his former Bundesliga club: 13 goals in nine games against Leipzig, his most versus any opponent.",
+  "funFacts": [
+    "Haaland scored with his first real chance after a quiet night, his 14th goal of the season.",
+    "Leipzig had won five straight home matches without conceding before this game.",
+    "Both sides hit the woodwork late: David Raum and Rayan Cherki struck the bar."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Erling Haaland",
+      "team": "Manchester City",
+      "hook": "78th-minute winner from Anderson's cross; 13th goal in nine games vs Leipzig."
+    },
+    {
+      "name": "Enzo Fernandez",
+      "team": "Manchester City",
+      "hook": "Powerful 58th-minute header from Ndiaye's cross."
+    },
+    {
+      "name": "Antonio Nusa",
+      "team": "RB Leipzig",
+      "hook": "61st-minute equaliser from Nkunku's pass after Baku's 49th-minute strike."
+    }
+  ],
+  "headToHead": "Wednesday 4 November 2026. Red Bull Arena, Leipzig. Final: Leipzig 2-3 Manchester City.",
+  "tags": [
+    "soccer",
+    "ucl",
+    "champions-league",
+    "manchester-city",
+    "rb-leipzig",
+    "haaland"
+  ],
+  "home": "RB Leipzig",
+  "away": "Manchester City",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "UCL",
+  "matchday": 4,
+  "date": "2026-11-04",
+  "time": "21:00",
+  "venue": "Red Bull Arena",
+  "city": "Leipzig",
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 3,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "soccer",
+  "competition": "champions-league-2026-27",
+  "format": "team-match",
+  "season": "2026/27",
+  "roundLabel": "Champions League · Matchday 4",
+  "resultSummary": "FINAL: RB Leipzig 2-3 Manchester City (Lukeba OG 37, Baku 49, Fernandez 58, Nusa 61, Haaland 78).",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Manchester City official match report",
+      "url": "https://www.mancity.com/news/mens/rb-leipzig-manchester-city-uefa-champions-league-match-report-63929402"
+    },
+    {
+      "name": "Sky Sports: Haaland late winner at Leipzig",
+      "url": "https://www.skysports.com/football/news/13607404/rb-leipzig-2-3-man-city-erling-haaland-haunts-bundesliga-side-again-with-late-winner-in-champions-league-thriller"
+    },
+    {
+      "name": "The Guardian: Haaland settles thriller",
+      "url": "https://www.theguardian.com/football/2026/nov/04/rb-leipzig-manchester-city-champions-league-match-report"
+    }
+  ]
+}

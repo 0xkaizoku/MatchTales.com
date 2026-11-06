@@ -1,0 +1,85 @@
+{
+  "slug": "nba-spurs-vs-mavericks-wembanyama-52-2026",
+  "headline": "NBA: Wembanyama posts 52 points, 24 rebounds, 8 blocks as Spurs edge Mavericks 112-111",
+  "whyCareScore": 9.8,
+  "whyCareReason": "Victor Wembanyama becomes the first player since Bob McAdoo in 1974 with 50-plus points, 20-plus rebounds and 5-plus blocks, then hits the winning free throw with 24.2 seconds left.",
+  "teaser": "FINAL: Spurs 112, Mavericks 111. Wembanyama 52-24-8; winning FT 24.2s left; Irving miss at 2.5s. San Antonio sixth straight, 6-2.",
+  "story": "Victor Wembanyama set career highs of 52 points and 24 rebounds, added eight blocks, and sank the winning free throw with 24.2 seconds left as the San Antonio Spurs beat the Dallas Mavericks 112-111 on Wednesday night, 4 November, at Frost Bank Center. The French center went 16 of 28 from the field, 19 of 23 from the line and 1 of 8 from three in 34 minutes, playing through a recent virus and a rolled ankle. He had 29 points, 15 rebounds and five blocks in the first half. Dylan Harper scored 21, Stephon Castle 17 with 10 rebounds, De'Aaron Fox 10. Naji Marshall had 22, P.J. Washington 21, Cooper Flagg 19. Kyrie Irving scored 29 and missed a contested turnaround with 2.5 seconds left. The Spurs are 6-2 on a six-game winning streak. Philadelphia leads the East at 8-1. Cleveland is 4-4 after a 124-116 loss at Oklahoma City on 4 November.",
+  "stakes": "Spurs extend their winning streak to six and sit 6-2. Dallas falls in a one-possession finish after Wembanyama's historic line.",
+  "rivalryAngle": "Texas rivalry night: Wembanyama's career night holds off Irving, Marshall, Washington and Flagg after Dallas erased a 19-point deficit.",
+  "funFacts": [
+    "Wembanyama is the first player since Bob McAdoo in 1974 with at least 50 points, 20 rebounds and 5 blocks in a game.",
+    "He is the first player in the play-by-play era (since 1996-97) with 25 points, 10 rebounds and 5 blocks in a half.",
+    "San Antonio was plus-23 with Wembanyama on the floor."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Victor Wembanyama",
+      "team": "San Antonio Spurs",
+      "hook": "Career highs 52 points and 24 rebounds plus 8 blocks; winning free throw with 24.2 seconds left."
+    },
+    {
+      "name": "Dylan Harper",
+      "team": "San Antonio Spurs",
+      "hook": "Added 21 points beside Wembanyama in the 112-111 win."
+    },
+    {
+      "name": "Kyrie Irving",
+      "team": "Dallas Mavericks",
+      "hook": "Scored 29 points and missed the potential winner with 2.5 seconds left."
+    }
+  ],
+  "headToHead": "Wednesday 4 November 2026. Frost Bank Center, San Antonio. Final: SAS 112, DAL 111.",
+  "tags": [
+    "basketball",
+    "nba",
+    "spurs",
+    "mavericks",
+    "wembanyama",
+    "irving",
+    "harper"
+  ],
+  "home": "San Antonio Spurs",
+  "away": "Dallas Mavericks",
+  "homeCode": "USA",
+  "awayCode": "USA",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NBA Regular Season",
+  "matchday": 8,
+  "date": "2026-11-04",
+  "time": "20:00",
+  "venue": "Frost Bank Center",
+  "city": "San Antonio",
+  "status": "FINISHED",
+  "homeScore": 112,
+  "awayScore": 111,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1337386/pexels-photo-1337386.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "points",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "basketball",
+  "competition": "nba-2026-27",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "Regular Season",
+  "resultSummary": "FINAL: Spurs 112, Mavericks 111. Wembanyama 52 pts, 24 reb, 8 blk; Harper 21; Irving 29.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NBA.com: Wembanyama 52 points, 24 rebounds as Spurs top Mavs",
+      "url": "https://www.nba.com/news/spurs-victor-wembanyama-52-points-mavericks"
+    },
+    {
+      "name": "Reuters: Wembanyama pours in 52 as Spurs edge Mavericks",
+      "url": "https://www.reuters.com/sports/basketball/victor-wembanyama-pours-52-spurs-edge-mavericks--flm-2026-11-05/"
+    },
+    {
+      "name": "BBC Sport: Career-best Wembanyama display seals Spurs win",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/cw4g1m6rlvxpo"
+    }
+  ]
+}
