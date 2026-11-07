@@ -1,0 +1,85 @@
+{
+  "slug": "leeds-vs-tottenham-mw10-2026",
+  "headline": "Premier League MW10: Noah Okafor winner as Leeds beat Tottenham 1-0",
+  "whyCareScore": 9.5,
+  "whyCareReason": "Okafor scores 97 seconds after replacing Lukas Nmecha, a 79th-minute finish that ends Leeds' five-match winless run and Spurs' three-match winning run.",
+  "teaser": "FINAL: Leeds 1-0 Tottenham. Okafor 79'. Attendance 36,921. Friday: Everton 3-1 Coventry (Gboho 52, Barry 56, 61, Dewsbury-Hall 81). Arsenal vs Hull unpublished.",
+  "story": "Noah Okafor scored in the 79th minute as Leeds United beat Tottenham Hotspur 1-0 on Saturday, 7 November, at Elland Road. ESPN, Opta and PA report that Okafor needed 97 seconds after replacing Lukas Nmecha, finishing after Harry Wilson kept a long throw alive. It was Leeds' first substitute goal of the Premier League season and ended a five-match winless run. Tottenham's three-match winning run ended. Attendance: 36,921. Referee: John Brooks. Friday still stands: Everton 3-1 Coventry at Hill Dickinson Stadium, Yann Gboho 52, Thierno Barry 56 and 61, Kiernan Dewsbury-Hall 81, attendance 52,395, referee Stuart Attwell. David Moyes equalled Harry Catterick's club record of 592 games. Conservative Premier League table after those two finished MW10 matches only: Arsenal 24 from 9, Manchester City 21 from 9, Brighton 19 from 9, Chelsea 16 from 9, Everton 16 from 10, Liverpool 15 from 9, Brentford 14 from 9, Leeds 14 from 10. Arsenal vs Hull, Fulham vs Newcastle and the rest of Saturday's round are unpublished as unfinished.",
+  "stakes": "Leeds climb to 14 points from 10 matches. Tottenham drop to 12 from 10. Everton sit fifth on 16 from 10 after Friday. Arsenal remain on 24 from 9 until Hull is finished.",
+  "rivalryAngle": "Elland Road under Daniel Farke vs Roberto De Zerbi's Tottenham, with Okafor's first touch after a long throw deciding a tight game.",
+  "funFacts": [
+    "Okafor scored 97 seconds after coming on, the fastest substitute goal in the Premier League this season.",
+    "Everton came from 0-1 down on Friday as Barry scored twice and assisted Dewsbury-Hall.",
+    "Arsenal vs Hull is not published with a full-time score on this desk."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Noah Okafor",
+      "team": "Leeds United",
+      "hook": "79th-minute winner, 97 seconds after replacing Nmecha."
+    },
+    {
+      "name": "Thierno Barry",
+      "team": "Everton",
+      "hook": "Two goals and an assist in Friday's 3-1 win over Coventry."
+    },
+    {
+      "name": "Harry Wilson",
+      "team": "Leeds United",
+      "hook": "Helped keep the long throw alive for Okafor's finish."
+    }
+  ],
+  "headToHead": "Saturday 7 November 2026. Elland Road, Leeds. Final: Leeds 1-0 Tottenham.",
+  "tags": [
+    "soccer",
+    "premier-league",
+    "leeds",
+    "tottenham",
+    "okafor",
+    "everton",
+    "mw10"
+  ],
+  "home": "Leeds United",
+  "away": "Tottenham Hotspur",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "Premier League",
+  "matchday": 10,
+  "date": "2026-11-07",
+  "time": "15:00",
+  "venue": "Elland Road",
+  "city": "Leeds",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1171084/pexels-photo-1171084.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "soccer",
+  "competition": "premier-league-2026-27",
+  "format": "team-match",
+  "season": "2026/27",
+  "roundLabel": "Premier League · Matchweek 10",
+  "resultSummary": "FINAL: Leeds 1-0 Tottenham (Okafor 79). Friday: Everton 3-1 Coventry. Arsenal vs Hull unpublished.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ESPN: Leeds 1-0 Tottenham, Okafor winner",
+      "url": "https://www.espn.co.uk/football/match/_/gameId/401878758/tottenham-hotspur-leeds-united"
+    },
+    {
+      "name": "Opta Analyst: Okafor 97 seconds after coming on",
+      "url": "https://theanalyst.com/articles/leeds-1-0-tottenham-stats-premier-league-11-2026"
+    },
+    {
+      "name": "Everton FC: Barry double in 3-1 vs Coventry",
+      "url": "https://www.evertonfc.com/news/2026/november/06/coventry-report/"
+    }
+  ]
+}

@@ -1,63 +1,63 @@
 {
   "slug": "sao-paulo-gp-interlagos-2026",
-  "headline": "São Paulo GP FP1: Lando Norris leads Kimi Antonelli and Max Verstappen at Interlagos",
-  "whyCareScore": 9.3,
-  "whyCareReason": "Norris posts 1:11.717 in an upgraded McLaren, 0.082s clear of newly crowned champion Antonelli, on a standard weekend with no Sprint. Mercedes lead Ferrari 630-504 in constructors.",
-  "teaser": "FP1: Norris 1:11.717; Antonelli +0.082s; Verstappen +0.236s; Hamilton +0.324s. No Sprint this weekend. Qualifying Saturday, race Sunday.",
-  "story": "Lando Norris finished fastest in Free Practice 1 for the Grande Premio de São Paulo on Friday, 6 November, at Autodromo Jose Carlos Pace. The McLaren driver lapped in 1:11.717, 0.082 seconds ahead of world champion Kimi Antonelli and 0.236s ahead of Max Verstappen. Lewis Hamilton was fourth (+0.324s) on his 400th Grand Prix weekend, George Russell fifth (+0.386s). Isack Hadjar was sixth, Gabriel Mini seventh in for Pierre Gasly, Gabriel Bortoleto eighth at his home race. Leonardo Fornaroli ran Piastri's McLaren. Rafael Camara made his Haas Grand Prix weekend debut in 18th. Dino Beganovic ran for Ferrari with Charles Leclerc away after the birth of his daughter. Freddie Slater stopped in Nico Hulkenberg's Audi. This is a conventional weekend: FP1 and FP2 Friday, FP3 and qualifying Saturday, race Sunday. There is no Sprint. After Mexico, ESPN and FIA standings list Antonelli champion on 380 points, Verstappen 261, Hamilton 259, Russell 250, Leclerc 245, Norris 221. Constructors: Mercedes 630, Ferrari 504 (gap 126), Red Bull 382, McLaren 365. Mexico City race result: Verstappen won, Hamilton second, Antonelli third to clinch the title. FP2 times are not published here.",
-  "stakes": "Mercedes can clinch the constructors' championship this weekend with a 126-point lead over Ferrari and four races remaining. Drivers' title is already settled.",
-  "rivalryAngle": "McLaren upgrades vs champion Mercedes vs Verstappen's Red Bull vs Hamilton's Ferrari on the Interlagos climb.",
+  "headline": "Sao Paulo GP FP3: Max Verstappen leads Kimi Antonelli by 0.025s at Interlagos",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Verstappen posts 1:11.622 in final practice, 0.025s clear of newly crowned champion Antonelli. Qualifying is unpublished. No Sprint this weekend. Mercedes 630, Ferrari 504.",
+  "teaser": "FP3 COMPLETE: Verstappen 1:11.622; Antonelli +0.025s; Norris +0.131s; Russell +0.184s; Leclerc +0.274s. Qualifying unpublished.",
+  "story": "Max Verstappen finished fastest in Free Practice 3 for the Grande Premio de Sao Paulo on Saturday, 7 November, at Autodromo Jose Carlos Pace. The FIA classification lists Verstappen in 1:11.622 from 19 laps, Kimi Antonelli second at 1:11.647 (+0.025s), Lando Norris third (+0.131s), George Russell fourth (+0.184s), Charles Leclerc fifth (+0.274s) and Oscar Piastri sixth (+0.313s). Arvid Lindblad was seventh, Liam Lawson eighth, Isack Hadjar ninth, Gabriel Bortoleto and Pierre Gasly tenth and 11th on identical +1.022s. Lewis Hamilton was 12th after seven laps. Friday still stands: FP1 Norris 1:11.717 from Antonelli and Verstappen; FP2 Antonelli 1:10.763, Norris +0.253s, Verstappen +0.259s, Russell +0.273s, Piastri +0.321s, Hamilton +0.450s. There is no Sprint. Qualifying on Saturday afternoon is unpublished as unfinished. After Mexico, standings are unchanged: Antonelli 380, Verstappen 261, Hamilton 259, Russell 250, Leclerc 245, Norris 221. Constructors: Mercedes 630, Ferrari 504, Red Bull 382, McLaren 365.",
+  "stakes": "Mercedes can clinch the constructors' championship this weekend with a 126-point lead over Ferrari. Drivers' title is already settled. Qualifying and the race are unpublished.",
+  "rivalryAngle": "Verstappen's Red Bull vs champion Mercedes vs Norris's McLaren in the last practice before an unpublished qualifying hour.",
   "funFacts": [
-    "There is no Sprint in São Paulo in 2026: FP1, FP2, FP3, qualifying, race.",
-    "Hamilton is contesting his 400th Grand Prix weekend.",
-    "Rafael Camara made his Haas F1 race-weekend debut at his home circuit and finished 18th in FP1."
+    "There is no Sprint in Sao Paulo in 2026: FP1, FP2, FP3, qualifying, race.",
+    "Antonelli was 0.025 seconds off Verstappen after topping Friday FP2 in 1:10.763.",
+    "Hamilton completed only seven FP3 laps and finished 12th."
   ],
   "keyPlayers": [
     {
-      "name": "Lando Norris",
-      "team": "McLaren",
-      "hook": "Set the FP1 benchmark at 1:11.717 in an upgraded McLaren."
+      "name": "Max Verstappen",
+      "team": "Red Bull",
+      "hook": "FP3 fastest in 1:11.622 from 19 laps."
     },
     {
       "name": "Kimi Antonelli",
       "team": "Mercedes",
-      "hook": "Second, 0.082s off Norris, beginning his title reign on 380 points."
+      "hook": "Second, +0.025s, world champion on 380 points."
     },
     {
-      "name": "Max Verstappen",
-      "team": "Red Bull",
-      "hook": "Third at +0.236s after winning the Mexico City Grand Prix."
+      "name": "Lando Norris",
+      "team": "McLaren",
+      "hook": "Third in FP3 at +0.131s after leading FP1 on Friday."
     }
   ],
-  "headToHead": "Friday 6 November 2026. Autodromo Jose Carlos Pace, São Paulo. FP1 complete.",
+  "headToHead": "Saturday 7 November 2026. Autodromo Jose Carlos Pace, Sao Paulo. FP3 complete. Qualifying unpublished.",
   "tags": [
     "f1",
     "formula-1",
     "sao-paulo-gp",
     "interlagos",
-    "norris",
-    "antonelli",
     "verstappen",
-    "fp1"
+    "antonelli",
+    "norris",
+    "fp3"
   ],
-  "home": "Lando Norris",
+  "home": "Max Verstappen",
   "away": "Kimi Antonelli",
-  "homeCode": "GBR",
+  "homeCode": "NED",
   "awayCode": "ITA",
-  "homeFlag": "gb-eng",
+  "homeFlag": "nl",
   "awayFlag": "it",
   "group": "Formula 1",
   "matchday": 21,
-  "date": "2026-11-06",
-  "time": "11:30",
+  "date": "2026-11-07",
+  "time": "12:30",
   "venue": "Autodromo Jose Carlos Pace",
-  "city": "São Paulo",
+  "city": "Sao Paulo",
   "status": "FINISHED",
   "homeScore": "P1",
   "awayScore": "P2",
   "marquee": true,
   "liveMinute": null,
-  "image": "https://images.pexels.com/photos/1280361/pexels-photo-1280361.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "image": "https://images.pexels.com/photos/627678/pexels-photo-627678.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
   "decidedBy": "time",
   "homePen": null,
   "awayPen": null,
@@ -65,53 +65,59 @@
   "competition": "f1-2026",
   "format": "race",
   "season": "2026",
-  "roundLabel": "Free Practice 1",
-  "resultSummary": "FP1: Norris 1:11.717; Antonelli +0.082s; Verstappen +0.236s; Hamilton +0.324s. No Sprint weekend.",
+  "roundLabel": "Free Practice 3",
+  "resultSummary": "FP3: Verstappen 1:11.622; Antonelli +0.025s; Norris +0.131s. Qualifying unpublished. No Sprint.",
   "leaderboard": [
     {
       "pos": "1",
-      "name": "Lando Norris (McLaren)",
-      "score": "1:11.717",
-      "note": "FP1 fastest"
+      "name": "Max Verstappen (Red Bull)",
+      "score": "1:11.622",
+      "note": "FP3 fastest"
     },
     {
       "pos": "2",
       "name": "Kimi Antonelli (Mercedes)",
-      "score": "+0.082s",
+      "score": "+0.025s",
       "note": "World Champion"
     },
     {
       "pos": "3",
-      "name": "Max Verstappen (Red Bull)",
-      "score": "+0.236s",
-      "note": "Mexico winner"
+      "name": "Lando Norris (McLaren)",
+      "score": "+0.131s",
+      "note": "P3"
     },
     {
       "pos": "4",
-      "name": "Lewis Hamilton (Ferrari)",
-      "score": "+0.324s",
-      "note": "400th GP weekend"
+      "name": "George Russell (Mercedes)",
+      "score": "+0.184s",
+      "note": "P4"
     },
     {
       "pos": "5",
-      "name": "George Russell (Mercedes)",
-      "score": "+0.386s",
+      "name": "Charles Leclerc (Ferrari)",
+      "score": "+0.274s",
       "note": "P5"
+    },
+    {
+      "pos": "6",
+      "name": "Oscar Piastri (McLaren)",
+      "score": "+0.313s",
+      "note": "P6"
     }
   ],
   "tennisSets": [],
   "sources": [
     {
-      "name": "Formula 1: FP1 Norris leads Antonelli and Verstappen",
-      "url": "https://www.formula1.com/en/latest/article/fp1-norris-leads-antonelli-and-verstappen-in-opening-sao-paulo-gp-practice-session.3GXL3rAROwHsLxnxn9hReY"
+      "name": "FIA FP3 classification, Sao Paulo 2026",
+      "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_free_practice_3_classification.pdf"
+    },
+    {
+      "name": "ESPN F1 Sao Paulo weekend results",
+      "url": "https://www.espn.com/f1/results/_/id/600057448"
     },
     {
       "name": "ESPN F1 2026 drivers standings",
       "url": "https://www.espn.com/f1/standings"
-    },
-    {
-      "name": "Sky Sports F1: Norris tops Brazil first practice",
-      "url": "https://www.skysports.com/f1/news/13608857/sao-paulo-gp-lando-norris-tops-brazil-first-practice-in-upgraded-mclaren-from-kimi-antonelli-and-max-verstappen"
     }
   ]
 }

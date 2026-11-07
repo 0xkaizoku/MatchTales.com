@@ -1,0 +1,85 @@
+{
+  "slug": "bengals-at-falcons-madrid-week9-2026",
+  "headline": "NFL Week 9 Madrid: Bengals visit Falcons at Bernabeu on Sunday, 9:30 a.m. ET",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Joe Burrow takes 5-2 Cincinnati to Spain against 3-5 Atlanta in the NFL's second regular-season game at Santiago Bernabeu. Saturday has no NFL game. TNF still stands: Jaguars 33, Ravens 10.",
+  "teaser": "UPCOMING Sunday 8 Nov, 9:30 a.m. ET / 3:30 p.m. local, NFL Network. Bengals 5-2, Falcons 3-5. Designated home: Atlanta. No score. Pittsburgh and Tennessee are on bye.",
+  "story": "The Cincinnati Bengals play the Atlanta Falcons on Sunday, 8 November, at Santiago Bernabeu Stadium in Madrid in NFL Week 9. Kickoff is 9:30 a.m. ET, 3:30 p.m. local, on NFL Network. Atlanta is the designated home team. Cincinnati is 5-2 after a three-game winning streak and a 43-36 overtime win over Tennessee. Atlanta is 3-5 after a loss to Tampa Bay. Bengals.com lists Burrow as the NFL leader in completion percentage (73.0), passing touchdowns (20) and passing yards per game (302.1), with at least four touchdown passes in each of the past three games. Bijan Robinson leads the league with 780 rushing yards at 5.2 yards per carry. Saturday 7 November has no NFL game. The last finished board remains Thursday Night Football on 5 November: Jacksonville 33, Baltimore 10. Steelers stay 6-2 atop the AFC North on a Week 9 bye. Sunday's other Week 9 scores are unpublished.",
+  "stakes": "A Bengals win would put Cincinnati at 6-2, matching Pittsburgh before they meet on 15 November. Falcons remain in the NFC South race at 3-5.",
+  "rivalryAngle": "International window at Real Madrid's stadium: Burrow and Ja'Marr Chase against Robinson and a Falcons side still hunting a .500 record.",
+  "funFacts": [
+    "Kickoff is 9:30 a.m. ET, 3:30 p.m. in Madrid, exclusive on NFL Network.",
+    "The Bengals are 0-1-1 in two previous international games, both at Wembley.",
+    "Pittsburgh and Tennessee are on bye in Week 9. TNF still stands: Jaguars 33, Ravens 10."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Joe Burrow",
+      "team": "Cincinnati Bengals",
+      "hook": "NFL lead in completion percentage, passing TDs and yards per game entering Madrid."
+    },
+    {
+      "name": "Bijan Robinson",
+      "team": "Atlanta Falcons",
+      "hook": "League-leading 780 rushing yards at 5.2 yards per carry."
+    },
+    {
+      "name": "Trevor Lawrence",
+      "team": "Jacksonville Jaguars",
+      "hook": "Last NFL final: 242 yards and a 50-yard TD in Jacksonville's 33-10 TNF win."
+    }
+  ],
+  "headToHead": "Sunday 8 November 2026. Santiago Bernabeu, Madrid. Status UPCOMING. No score.",
+  "tags": [
+    "football",
+    "nfl",
+    "bengals",
+    "falcons",
+    "madrid",
+    "international",
+    "week9"
+  ],
+  "home": "Atlanta Falcons",
+  "away": "Cincinnati Bengals",
+  "homeCode": "USA",
+  "awayCode": "USA",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NFL Week 9",
+  "matchday": 9,
+  "date": "2026-11-08",
+  "time": "09:30",
+  "venue": "Santiago Bernabeu Stadium",
+  "city": "Madrid",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209954/pexels-photo-209954.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "football",
+  "competition": "nfl-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "Week 9 Madrid",
+  "resultSummary": "UPCOMING: Bengals at Falcons, Sunday 8 Nov, 9:30 a.m. ET, Bernabeu. CIN 5-2, ATL 3-5. No score.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NFL.com: Bengals vs Falcons Week 9 Madrid preview",
+      "url": "https://www.nfl.com/news/bengals-vs-falcons-preview-week-9-madrid-game"
+    },
+    {
+      "name": "Bengals.com: What to watch in Madrid",
+      "url": "https://www.bengals.com/news/game-preview-2026-week-9-bengals-falcons"
+    },
+    {
+      "name": "Bengals international Madrid hub",
+      "url": "https://www.bengals.com/international-madrid-2026/"
+    }
+  ]
+}

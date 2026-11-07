@@ -1,0 +1,93 @@
+{
+  "slug": "atp-paris-masters-2026-shelton-vs-van-assche-sf",
+  "headline": "Rolex Paris Masters SF: Ben Shelton beats Luca Van Assche 5-7, 6-3, 6-4 to reach the final",
+  "whyCareScore": 9.6,
+  "whyCareReason": "Third seed Shelton rallies from a break down in the decider to become the first American Paris Masters finalist since Jack Sock in 2017. Alcaraz vs Ruud is unpublished.",
+  "teaser": "FINAL: Shelton def. Van Assche 5-7, 6-3, 6-4. First American in the Bercy final since Sock 2017. Alcaraz vs Ruud later Saturday is unpublished.",
+  "story": "Ben Shelton beat Luca Van Assche 5-7, 6-3, 6-4 on Saturday, 7 November, in the Rolex Paris Masters semi-finals at Accor Arena. Associated Press and Reuters record a three-set win in which the unseeded Frenchman took the opener and broke for 3-1 in the third before Shelton won four straight games and served it out. Shelton is the first American to reach the Paris final since Jack Sock won the title in 2017. It is his third ATP Masters 1000 final and his first outside Canada. Van Assche, ranked 47th, was in his first Masters semi-final. Friday quarter-finals still stand: Shelton d Paul 6-4, 4-6, 6-3; Alcaraz d Fritz 6-7(10), 7-5, 6-3 after saving two match points; Ruud d Borges 7-6(5), 6-4; Van Assche d Hijikata 6-4, 6-7(4), 7-5. The second Saturday semi-final, Alcaraz vs Ruud, is unpublished as unfinished. Sunday's final is unpublished.",
+  "stakes": "Shelton plays for a third Masters 1000 title on Sunday against Alcaraz or Ruud. Van Assche's home run ends in the last four.",
+  "rivalryAngle": "American third seed vs the last Frenchman in the draw on Court Central, with a hometown crowd behind Van Assche.",
+  "funFacts": [
+    "Shelton is the first American Paris Masters finalist since Jack Sock in 2017.",
+    "Van Assche broke for 3-1 in the third set before Shelton won the next four games.",
+    "Friday: Alcaraz saved two match points to beat Fritz 6-7(10), 7-5, 6-3."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Ben Shelton",
+      "team": "United States",
+      "hook": "Won 5-7, 6-3, 6-4 after trailing 3-1 in the third; first Paris final since Sock 2017."
+    },
+    {
+      "name": "Luca Van Assche",
+      "team": "France",
+      "hook": "Took the first set 7-5 and broke for 3-1 in the third in his first Masters semi-final."
+    }
+  ],
+  "headToHead": "Saturday 7 November 2026. Accor Arena, Paris. Final: Shelton 5-7, 6-3, 6-4.",
+  "tags": [
+    "tennis",
+    "atp",
+    "paris-masters",
+    "rolex-paris-masters",
+    "shelton",
+    "van-assche",
+    "bercy"
+  ],
+  "home": "Ben Shelton",
+  "away": "Luca Van Assche",
+  "homeCode": "USA",
+  "awayCode": "FRA",
+  "homeFlag": "us",
+  "awayFlag": "fr",
+  "group": "Rolex Paris Masters",
+  "matchday": 6,
+  "date": "2026-11-07",
+  "time": "14:30",
+  "venue": "Accor Arena",
+  "city": "Paris",
+  "status": "FINISHED",
+  "homeScore": "2",
+  "awayScore": "1",
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618210/pexels-photo-1618210.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "sets",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-1000-paris-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Semi-final",
+  "resultSummary": "FINAL: Ben Shelton def. Luca Van Assche 5-7, 6-3, 6-4. Alcaraz vs Ruud unpublished.",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "5",
+      "p2": "7"
+    },
+    {
+      "p1": "6",
+      "p2": "3"
+    },
+    {
+      "p1": "6",
+      "p2": "4"
+    }
+  ],
+  "sources": [
+    {
+      "name": "AP: Shelton rallies to reach Paris Masters final",
+      "url": "https://apnews.com/article/paris-masters-alcaraz-shelton-ruud-van-assche-3d7b1f4f30531b1424f2539089383f73"
+    },
+    {
+      "name": "Reuters via Straits Times: Shelton outwits Van Assche",
+      "url": "https://www.straitstimes.com/sport/tennis/shelton-outwits-hometown-hope-van-assche-to-reach-paris-masters-final"
+    },
+    {
+      "name": "ATP Paris results",
+      "url": "https://www.atptour.com/en/scores/current/paris/352/results"
+    }
+  ]
+}

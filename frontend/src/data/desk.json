@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-06",
+  "asOf": "2026-11-07",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -51,6 +51,18 @@
     },
     {
       "pos": 5,
+      "team": "Everton",
+      "p": 10,
+      "w": 4,
+      "d": 4,
+      "l": 2,
+      "gf": 12,
+      "ga": 10,
+      "gd": 2,
+      "pts": 16
+    },
+    {
+      "pos": 6,
       "team": "Liverpool",
       "p": 9,
       "w": 4,
@@ -62,7 +74,7 @@
       "pts": 15
     },
     {
-      "pos": 6,
+      "pos": 7,
       "team": "Brentford",
       "p": 9,
       "w": 3,
@@ -74,19 +86,19 @@
       "pts": 14
     },
     {
-      "pos": 7,
-      "team": "Everton",
-      "p": 9,
+      "pos": 8,
+      "team": "Leeds United",
+      "p": 10,
       "w": 3,
-      "d": 4,
+      "d": 5,
       "l": 2,
-      "gf": 9,
-      "ga": 9,
-      "gd": 0,
-      "pts": 13
+      "gf": 10,
+      "ga": 8,
+      "gd": 2,
+      "pts": 14
     },
     {
-      "pos": 8,
+      "pos": 9,
       "team": "Bournemouth",
       "p": 9,
       "w": 3,
@@ -98,19 +110,19 @@
       "pts": 12
     },
     {
-      "pos": 9,
+      "pos": 10,
       "team": "Tottenham Hotspur",
-      "p": 9,
+      "p": 10,
       "w": 3,
       "d": 3,
-      "l": 3,
+      "l": 4,
       "gf": 10,
-      "ga": 10,
-      "gd": 0,
+      "ga": 11,
+      "gd": -1,
       "pts": 12
     },
     {
-      "pos": 10,
+      "pos": 11,
       "team": "Aston Villa",
       "p": 9,
       "w": 3,
@@ -122,7 +134,7 @@
       "pts": 12
     },
     {
-      "pos": 11,
+      "pos": 12,
       "team": "Hull City",
       "p": 9,
       "w": 2,
@@ -130,18 +142,6 @@
       "l": 2,
       "gf": 11,
       "ga": 10,
-      "gd": 1,
-      "pts": 11
-    },
-    {
-      "pos": 12,
-      "team": "Leeds United",
-      "p": 9,
-      "w": 2,
-      "d": 5,
-      "l": 2,
-      "gf": 9,
-      "ga": 8,
       "gd": 1,
       "pts": 11
     },
@@ -184,13 +184,13 @@
     {
       "pos": 16,
       "team": "Coventry",
-      "p": 9,
+      "p": 10,
       "w": 3,
       "d": 0,
-      "l": 6,
-      "gf": 9,
-      "ga": 16,
-      "gd": -7,
+      "l": 7,
+      "gf": 10,
+      "ga": 19,
+      "gd": -9,
       "pts": 9
     },
     {
@@ -739,6 +739,13 @@
       "home": "Baltimore Ravens",
       "away": "Jacksonville Jaguars",
       "note": "FINAL: Jaguars 33, Ravens 10. ESPN/Prime TNF. Lawrence 16/26, 242 yds, 50-yd TD. Little 4 FGs. Fagnano 10/18, 60 yds, 2 INT. Jaguars 6-2, Ravens 4-5."
+    },
+    {
+      "date": "2026-11-08",
+      "time": "9:30 a.m. ET",
+      "home": "Atlanta Falcons",
+      "away": "Cincinnati Bengals",
+      "note": "UPCOMING: Bengals at Falcons, Santiago Bernabeu, Madrid. NFL Network. CIN 5-2, ATL 3-5. No score. Saturday 7 Nov has no NFL game. Last final: Jaguars 33, Ravens 10."
     }
   ],
   "usOpenQF": [
@@ -813,6 +820,30 @@
       "p1": "Ben Shelton",
       "p2": "Tommy Paul",
       "status": "Shelton 6-4, 4-6, 6-3"
+    },
+    {
+      "draw": "Paris QF",
+      "p1": "Carlos Alcaraz",
+      "p2": "Taylor Fritz",
+      "status": "Alcaraz 6-7(10), 7-5, 6-3"
+    },
+    {
+      "draw": "Paris QF",
+      "p1": "Casper Ruud",
+      "p2": "Nuno Borges",
+      "status": "Ruud 7-6(5), 6-4"
+    },
+    {
+      "draw": "Paris QF",
+      "p1": "Luca Van Assche",
+      "p2": "Rinky Hijikata",
+      "status": "Van Assche 6-4, 6-7(4), 7-5"
+    },
+    {
+      "draw": "Paris SF",
+      "p1": "Ben Shelton",
+      "p2": "Luca Van Assche",
+      "status": "Shelton 5-7, 6-3, 6-4"
     }
   ]
 }

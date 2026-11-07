@@ -1,35 +1,35 @@
 {
   "slug": "wwt-championship-diamante-cabo-2026",
-  "headline": "WWT Championship Round 1: Chris Kirk fires bogey-free 63 to lead by one at El Cardonal",
-  "whyCareScore": 9.1,
-  "whyCareReason": "Kirk, 110th in FedExCup Fall, shoots 9-under 63 with every fairway hit to lead Nick Dunlap and Zac Blair by one as 2027 PGA Tour cards hang in the balance.",
-  "teaser": "R1 COMPLETE: Chris Kirk 63 (-9) leads Dunlap and Blair 64. T4 at 65: Pavon, Hall, Montgomery, Hirata, Ben James. Purse $6 million. Round 2 in progress, not final.",
-  "story": "Chris Kirk posted a bogey-free 9-under 63 on Thursday, 5 November, to lead the World Wide Technology Championship after round one at El Cardonal at Diamante in Los Cabos. Associated Press and PGA Tour reports say he hit every fairway and missed only one green on the Tiger Woods design (par 72, 7,452 yards). Nick Dunlap and Zac Blair shot 64. Tied for fourth at 65: Matthieu Pavon, Harry Hall, Taylor Montgomery, Kensei Hirata and Ben James. More than half of the 120-player field broke 70. Kirk sits about 110th in FedExCup Fall with three events left to finish inside the top 100 and keep a full 2027 card. The purse is $6 million. Round 2 was in progress on Friday and is not published as a finished board.",
-  "stakes": "Fall Series card race: Kirk needs a top-100 FedExCup Fall finish. Winner takes the $6 million purse event.",
-  "rivalryAngle": "Kirk's first 18-hole lead of the week vs Dunlap, Blair and a five-way logjam at 7-under on the Baja coast.",
+  "headline": "WWT Championship Round 2: Ben James shoots 64 to lead at 15 under at El Cardonal",
+  "whyCareScore": 9.2,
+  "whyCareReason": "James runs off five straight birdies around the turn and posts 65-64=129 to lead Peter Malnati by one. Round 3 is unpublished as final.",
+  "teaser": "R2 COMPLETE: James 129 (-15) leads Malnati 130, Blair 132, T4 Jaeger and McCarthy 133. Kirk 63-72=135. Cut 5-under 139. Round 3 unpublished.",
+  "story": "Ben James posted an 8-under 64 on Friday, 6 November, to take a one-shot lead after 36 holes at the World Wide Technology Championship. Associated Press and PGA Tour copy say he ran off five straight birdies around the turn and finished with a birdie after an aggressive tee shot, reaching 15-under 129 at El Cardonal at Diamante (par 72, 7,452 yards). Peter Malnati shot 66-64=130. Zac Blair had 64-68=132. Tied for fourth at 133: Stephan Jaeger and Denny McCarthy. Chris Kirk, the round-one leader after a bogey-free 63, shot 72 and sits 135. The cut fell at 5-under 139. The purse is $6 million. Round 3 on Saturday is in progress and is not published as a finished 54-hole board.",
+  "stakes": "Fall Series card race continues on the Baja coast. Winner takes the $6 million purse event. 54-hole and 72-hole boards are unpublished.",
+  "rivalryAngle": "James, already locked for a 2027 PGA Tour card from PGA Tour University, vs Malnati chasing a weekend lead after years of grinding.",
   "funFacts": [
-    "Kirk putted for birdie on 17 of 18 holes; his only missed green was the par-3 second.",
-    "The 63 matches his lowest round of the season and sits one off his career-low 62.",
-    "Ben James, No. 1 from PGA Tour University, is already locked for a 2027 card and opened 65."
+    "James hit every fairway in the second round, per OpenGolf's recap of the PGA Tour notes.",
+    "Kirk opened 63 and followed with 72 to drop from the lead to 135.",
+    "The 36-hole cut was 5-under 139."
   ],
   "keyPlayers": [
     {
+      "name": "Ben James",
+      "team": "United States",
+      "hook": "65-64=129, 15 under, one-shot 36-hole lead."
+    },
+    {
+      "name": "Peter Malnati",
+      "team": "United States",
+      "hook": "66-64=130, one shot back after a Friday 64."
+    },
+    {
       "name": "Chris Kirk",
       "team": "United States",
-      "hook": "Bogey-free 63, one-shot lead, FedExCup Fall No. 110."
-    },
-    {
-      "name": "Nick Dunlap",
-      "team": "United States",
-      "hook": "Opening 64, tied for second with Zac Blair."
-    },
-    {
-      "name": "Zac Blair",
-      "team": "United States",
-      "hook": "Birdied four of his last five holes to reach 8-under 64."
+      "hook": "Round-one leader with 63, then 72, now 135."
     }
   ],
-  "headToHead": "Thursday 5 November 2026. El Cardonal at Diamante, Los Cabos. Round 1 complete.",
+  "headToHead": "Friday 6 November 2026. El Cardonal at Diamante, Los Cabos. Round 2 complete. Round 3 unpublished.",
   "tags": [
     "golf",
     "pga-tour",
@@ -37,26 +37,26 @@
     "los-cabos",
     "el-cardonal",
     "diamante",
-    "chris-kirk"
+    "ben-james"
   ],
-  "home": "Chris Kirk",
-  "away": "Nick Dunlap",
+  "home": "Ben James",
+  "away": "Peter Malnati",
   "homeCode": "USA",
   "awayCode": "USA",
   "homeFlag": "us",
   "awayFlag": "us",
   "group": "PGA Tour",
-  "matchday": 5,
-  "date": "2026-11-05",
+  "matchday": 6,
+  "date": "2026-11-06",
   "time": "08:00",
   "venue": "El Cardonal at Diamante",
   "city": "Los Cabos",
   "status": "FINISHED",
-  "homeScore": "-9",
-  "awayScore": "-8",
+  "homeScore": "-15",
+  "awayScore": "-14",
   "marquee": false,
   "liveMinute": null,
-  "image": "https://images.pexels.com/photos/274133/pexels-photo-274133.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "image": "https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
   "decidedBy": "score",
   "homePen": null,
   "awayPen": null,
@@ -64,71 +64,59 @@
   "competition": "pga-tour-2026",
   "format": "leaderboard",
   "season": "2026",
-  "roundLabel": "Round 1",
-  "resultSummary": "R1: Chris Kirk 63 (-9) leads Nick Dunlap and Zac Blair 64. Purse $6 million.",
+  "roundLabel": "Round 2",
+  "resultSummary": "R2: Ben James 129 (-15) leads Peter Malnati 130. Blair 132. Cut 139. Round 3 unpublished.",
   "leaderboard": [
     {
       "pos": "1",
-      "name": "Chris Kirk",
-      "score": "-9 (63)",
-      "note": "Leader, bogey-free"
-    },
-    {
-      "pos": "T2",
-      "name": "Nick Dunlap",
-      "score": "-8 (64)",
-      "note": "T2"
-    },
-    {
-      "pos": "T2",
-      "name": "Zac Blair",
-      "score": "-8 (64)",
-      "note": "T2"
-    },
-    {
-      "pos": "T4",
-      "name": "Matthieu Pavon",
-      "score": "-7 (65)",
-      "note": "T4"
-    },
-    {
-      "pos": "T4",
-      "name": "Harry Hall",
-      "score": "-7 (65)",
-      "note": "T4"
-    },
-    {
-      "pos": "T4",
-      "name": "Taylor Montgomery",
-      "score": "-7 (65)",
-      "note": "T4"
-    },
-    {
-      "pos": "T4",
-      "name": "Kensei Hirata",
-      "score": "-7 (65)",
-      "note": "T4"
-    },
-    {
-      "pos": "T4",
       "name": "Ben James",
-      "score": "-7 (65)",
+      "score": "-15 (65-64)",
+      "note": "36-hole leader"
+    },
+    {
+      "pos": "2",
+      "name": "Peter Malnati",
+      "score": "-14 (66-64)",
+      "note": "One back"
+    },
+    {
+      "pos": "3",
+      "name": "Zac Blair",
+      "score": "-12 (64-68)",
+      "note": "P3"
+    },
+    {
+      "pos": "T4",
+      "name": "Stephan Jaeger",
+      "score": "-11 (133)",
       "note": "T4"
+    },
+    {
+      "pos": "T4",
+      "name": "Denny McCarthy",
+      "score": "-11 (133)",
+      "note": "T4"
+    },
+    {
+      "pos": "T16",
+      "name": "Chris Kirk",
+      "score": "-9 (63-72)",
+      "note": "R1 leader"
     }
   ],
   "tennisSets": [],
   "sources": [
     {
-      "name": "PGA Tour: Kirk fires bogey-free 63, grabs early lead",
-      "url": "https://www.pgatour.com/article/news/daily-wrapup/2026/11/05/round-1-world-wide-technology-championship-recap-el-cardonal-scores-leaderboard-results"
+      "name": "AP/CBS: James fires 64 to take one-shot lead",
+      "url": "https://www.cbssports.com/golf/leaderboard/pga-tour/31000136/world-wide-technology-championship/recap/"
     },
     {
-      "name": "ESPN/AP: Chris Kirk leads after 63",
-      "url": "https://www.espn.com/golf/story/_/id/50394522/chris-kirk-leads-pga-tour-world-wide-technology-champ"
-    },
-    {
-      "name": "AP News par scores, purse $6 million",
+      "name": "AP News WWT Championship",
       "url": "https://apnews.com/article/golf-3c730f124aa1ce9bd091b57cb2bc60fd"
+    },
+    {
+      "name": "PGA Tour WWT Championship recap",
+      "url": "https://www.pgatour.com/article/news/daily-wrapup/2026/11/05/round-1-world-wide-technology-championship-recap-el-cardonal-scores-leaderboard-results"
     }
   ]
 }

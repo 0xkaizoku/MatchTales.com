@@ -1,0 +1,85 @@
+{
+  "slug": "nba-lakers-vs-blazers-doncic-53-2026",
+  "headline": "NBA: Luka Doncic scores 53 as Lakers rally past Trail Blazers 124-118",
+  "whyCareScore": 9.7,
+  "whyCareReason": "Doncic's 11th career 50-point game, a 62-foot heave at the half and a jumper with 28 seconds left carry Los Angeles to a fourth straight win in NBA Cup Group C.",
+  "teaser": "FINAL: Lakers 124, Trail Blazers 118. Doncic 53 (17-33 FG, 5-15 3PT), Reaves 25, Kessler 16 and 12. Avdija 22-9-11, Lillard 22.",
+  "story": "Luka Doncic scored 53 points and hit a jumper in the lane with 28 seconds left as the Los Angeles Lakers beat the Portland Trail Blazers 124-118 on Friday, 6 November, at Crypto.com Arena. Associated Press and Reuters recorded his 11th career 50-point game and his fourth with Los Angeles. He went 17 of 33 from the field and 5 of 15 from three, added five rebounds and five assists, and drained a 62-foot heave at the halftime buzzer after Portland had led by as many as 16. Austin Reaves scored 25. Walker Kessler had 16 points and 12 rebounds. Deni Avdija posted 22 points, nine rebounds and 11 assists. Damian Lillard scored 22. Quarters ran 20-33-34-37 for the Lakers and 29-31-15-43 for Portland. The Lakers are on a four-game winning streak and 1-1 in NBA Cup group play. Other Friday finals: Spurs 124, Kings 109 (Wembanyama 30 points, 14 rebounds; San Antonio 7-2 on a seventh straight win); Cavaliers 119, 76ers 95 (Mitchell 23, Mobley 22; Cleveland 5-4, Philadelphia 8-2); Celtics 119, Hornets 80 (Tatum 34). Saturday NBA games are unpublished.",
+  "stakes": "Lakers take a fourth straight win and even NBA Cup Group C at 1-1. Portland falls to 0-1 in group play after a three-game winning streak.",
+  "rivalryAngle": "Doncic answers Portland's 136-129 win in Los Angeles on 27 October with 53 points in the NBA Cup rematch.",
+  "funFacts": [
+    "Doncic's 53 is the highest single-game total in the NBA this season.",
+    "He has six 40-point games in the Lakers' first stretch, including four in a row.",
+    "Portland's 43-point fourth quarter cut a 12-point Lakers lead to four before Doncic and Reaves closed it."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Luka Doncic",
+      "team": "Los Angeles Lakers",
+      "hook": "53 points, 17 of 33, 5 of 15 from three, jumper with 28 seconds left."
+    },
+    {
+      "name": "Austin Reaves",
+      "team": "Los Angeles Lakers",
+      "hook": "25 points beside Doncic in the 124-118 win."
+    },
+    {
+      "name": "Deni Avdija",
+      "team": "Portland Trail Blazers",
+      "hook": "22 points, 9 rebounds, 11 assists in the loss."
+    }
+  ],
+  "headToHead": "Friday 6 November 2026. Crypto.com Arena, Los Angeles. Final: LAL 124, POR 118.",
+  "tags": [
+    "basketball",
+    "nba",
+    "lakers",
+    "blazers",
+    "doncic",
+    "reaves",
+    "nba-cup"
+  ],
+  "home": "Los Angeles Lakers",
+  "away": "Portland Trail Blazers",
+  "homeCode": "USA",
+  "awayCode": "USA",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NBA Regular Season",
+  "matchday": 10,
+  "date": "2026-11-06",
+  "time": "22:00",
+  "venue": "Crypto.com Arena",
+  "city": "Los Angeles",
+  "status": "FINISHED",
+  "homeScore": 124,
+  "awayScore": 118,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/248547/pexels-photo-248547.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "points",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "basketball",
+  "competition": "nba-2026-27",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "Regular Season / NBA Cup",
+  "resultSummary": "FINAL: Lakers 124, Trail Blazers 118. Doncic 53 pts; Reaves 25; Kessler 16-12; Avdija 22-9-11; Lillard 22.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NBA.com: Doncic scores 53, Lakers beat Blazers 124-118",
+      "url": "https://www.nba.com/game/por-vs-lal-0022600032"
+    },
+    {
+      "name": "Reuters: Doncic pours in 53 as Lakers rally past Blazers",
+      "url": "https://www.reuters.com/sports/basketball/luka-doncic-pours-53-lakers-rally-past-blazers--flm-2026-11-07/"
+    },
+    {
+      "name": "AP via NBA recap",
+      "url": "https://apnews.com/article/lakers-trail-blazers-doncic-reaves-nba-bb443859434a2393d510a4db8d84795c"
+    }
+  ]
+}
