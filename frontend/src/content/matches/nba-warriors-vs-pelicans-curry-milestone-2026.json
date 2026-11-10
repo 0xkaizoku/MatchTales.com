@@ -1,0 +1,85 @@
+{
+  "slug": "nba-warriors-vs-pelicans-curry-milestone-2026",
+  "headline": "NBA: Stephen Curry passes DeRozan for 16th all-time as Warriors crush Pelicans 138-87",
+  "whyCareScore": 9.7,
+  "whyCareReason": "Curry scores 25 points in 20 minutes to surpass DeMar DeRozan on the NBA all-time scoring list as Golden State rolls to its eighth consecutive victory.",
+  "teaser": "FINAL: Warriors 138, Pelicans 87. Curry 25 pts (passes DeRozan for 16th all-time), Podziemski 25, Lendeborg 23-7-4. Warriors win 8th straight.",
+  "story": "Stephen Curry scored 25 points in 21 minutes and passed DeMar DeRozan for 16th place on the NBA's all-time scoring list as the Golden State Warriors defeated the New Orleans Pelicans 138-87 on Monday, 9 November, at Chase Center in San Francisco. Curry made 6 of 10 shots, including 4 of 7 from three-point range, and reached 26,803 career regular-season points to move past DeRozan (26,800). Brandin Podziemski matched Curry with 25 points, shooting 5 of 8 from beyond the arc. Rookie forward Yaxel Lendeborg delivered 23 points, seven rebounds and four assists in 24 minutes off the bench on 9-of-12 shooting. Golden State outscored New Orleans 38-19 in the first quarter and led by as many as 53 points in the second half. The blowout victory was Golden State's eighth consecutive win, lifting their record to 8-3. New Orleans fell to 3-7. Elsewhere on Monday: Charlotte 124, Cleveland 112; Lakers 124, Hawks 114; Mavericks 125, Pacers 122 (Cooper Flagg 43 points); Spurs 122, Suns 96.",
+  "stakes": "Golden State improves to 8-3 with an eighth straight win, climbing into the top three in the Western Conference. Curry adds another historic scoring milestone.",
+  "rivalryAngle": "Curry's lights-out efficiency dismantling New Orleans, punctuated by young guards Podziemski and Lendeborg carrying the scoring load.",
+  "funFacts": [
+    "Curry reached 26,803 career points, surpassing DeMar DeRozan (26,800) for 16th in NBA history.",
+    "The 51-point margin of victory is Golden State's largest of the season.",
+    "Golden State's bench accounted for 64 points, led by rookie Yaxel Lendeborg's 23."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Stephen Curry",
+      "team": "Golden State Warriors",
+      "hook": "25 points in 21 minutes; passes DeMar DeRozan for 16th all-time."
+    },
+    {
+      "name": "Brandin Podziemski",
+      "team": "Golden State Warriors",
+      "hook": "25 points, 5 three-pointers, 6 assists."
+    },
+    {
+      "name": "Yaxel Lendeborg",
+      "team": "Golden State Warriors",
+      "hook": "23 points, 7 rebounds, 4 assists on 9-of-12 shooting off the bench."
+    }
+  ],
+  "headToHead": "Monday 9 November 2026. Chase Center, San Francisco. Final: GSW 138, NOP 87.",
+  "tags": [
+    "basketball",
+    "nba",
+    "warriors",
+    "pelicans",
+    "curry",
+    "podziemski",
+    "milestone"
+  ],
+  "home": "Golden State Warriors",
+  "away": "New Orleans Pelicans",
+  "homeCode": "USA",
+  "awayCode": "USA",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NBA Regular Season",
+  "matchday": 11,
+  "date": "2026-11-09",
+  "time": "22:00",
+  "venue": "Chase Center",
+  "city": "San Francisco",
+  "status": "FINISHED",
+  "homeScore": 138,
+  "awayScore": 87,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/248547/pexels-photo-248547.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "points",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "basketball",
+  "competition": "nba-2026-27",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "Regular Season",
+  "resultSummary": "FINAL: Warriors 138, Pelicans 87. Curry 25 pts (passes DeRozan); Podziemski 25; Lendeborg 23-7-4. GSW 8-3.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NBA.com: Warriors cruise past Pelicans 138-87 for 8th straight win",
+      "url": "https://www.nba.com/game/nop-vs-gsw-0022600041"
+    },
+    {
+      "name": "Associated Press: Curry reaches scoring milestone in Warriors rout",
+      "url": "https://apnews.com/article/warriors-pelicans-curry-derozan-milestone-nba-9f220311bc4742a033bca01297e6821b"
+    },
+    {
+      "name": "Reuters: Golden State crushes New Orleans behind balanced attack",
+      "url": "https://www.reuters.com/sports/basketball/stephen-curry-moves-up-all-time-list-warriors-blow-out-pelicans-2026-11-10/"
+    }
+  ]
+}

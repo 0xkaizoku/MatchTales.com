@@ -1,4 +1,4 @@
-export const SITE_TODAY = '2026-11-07';
+export const SITE_TODAY = '2026-11-10';
 
 export const SPORT_SLUGS = ['soccer', 'tennis', 'golf', 'football', 'basketball', 'f1'] as const;
 export type SportSlug = (typeof SPORT_SLUGS)[number];
@@ -22,68 +22,42 @@ export type SportMeta = {
 /** Order is "what is on right now", not soccer first. */
 export const SPORTS: SportMeta[] = [
   {
-    slug: 'football',
-    label: 'Football',
-    short: 'NFL',
-    href: '/sport/football',
-    tagline: 'NFL Week 9 Madrid: Bengals visit Falcons at Bernabeu on Sunday, 9:30 a.m. ET. Saturday has no NFL game.',
-    liveNow: 'UPCOMING Sunday in Madrid: Bengals (5-2) at Falcons (3-5), 9:30 a.m. ET, NFL Network. Last final: Jaguars 33, Ravens 10. No Saturday game.',
-    accent: 'coral',
-    hue: '14 86% 60%',
-    pulse: 'NFL WEEK 9 MADRID: BENGALS AT FALCONS SUNDAY 9:30 A.M. ET; LAST FINAL JAGUARS 33-10',
-    board: 'Open the field',
-    span: 'hero',
-  },
-  {
-    slug: 'basketball',
-    label: 'Basketball',
-    short: 'Hoops',
-    href: '/sport/basketball',
-    tagline: 'NBA: Luka Doncic scores 53 as Lakers rally past Trail Blazers 124-118.',
-    liveNow: 'Final in Los Angeles: Lakers 124, Trail Blazers 118. Doncic 53; Reaves 25. Spurs 7-2. Cavs are 5-4.',
-    accent: 'coral',
-    hue: '24 90% 48%',
-    pulse: 'NBA: DONCIC 53 AS LAKERS BEAT TRAIL BLAZERS 124-118; SPURS 7-2, CAVS 5-4',
-    board: 'Open the floor',
-    span: 'side',
-  },
-  {
-    slug: 'soccer',
-    label: 'Soccer',
-    short: 'Soccer',
-    href: '/sport/soccer',
-    tagline: 'Premier League MW10: Noah Okafor winner as Leeds beat Tottenham 1-0. Arsenal still 24 from 9.',
-    liveNow: 'Final at Elland Road: Leeds 1-0 Tottenham (Okafor 79). Friday: Everton 3-1 Coventry. Arsenal vs Hull unpublished.',
-    accent: 'pitch',
-    hue: '158 42% 22%',
-    pulse: 'PREMIER LEAGUE MW10: OKAFOR 79TH-MINUTE WINNER LIFTS LEEDS PAST TOTTENHAM 1-0',
-    board: 'Open the pitch',
-    span: 'half',
-  },
-  {
     slug: 'tennis',
     label: 'Tennis',
     short: 'Tennis',
     href: '/sport/tennis',
-    tagline: 'Rolex Paris Masters SF: Ben Shelton beats Luca Van Assche 5-7, 6-3, 6-4 to reach the final.',
-    liveNow: 'Paris Masters SF: Shelton def. Van Assche 5-7, 6-3, 6-4. First American finalist since Sock 2017. Alcaraz vs Ruud unpublished.',
+    tagline: 'Rolex Paris Masters Final: Carlos Alcaraz battles past Ben Shelton 7-6(5), 7-5 to capture maiden Bercy crown.',
+    liveNow: 'Paris Masters Final: Alcaraz def. Shelton 7-6(5), 7-5. Alcaraz saves key break points and captures his 9th ATP Masters 1000 title.',
     accent: 'sky',
     hue: '198 88% 45%',
-    pulse: 'ROLEX PARIS MASTERS: BEN SHELTON BEATS VAN ASSCHE TO REACH THE BERCY FINAL',
+    pulse: 'ROLEX PARIS MASTERS FINAL: CARLOS ALCARAZ DOWNS BEN SHELTON IN STRAIGHT SETS FOR 9TH MASTERS CROWN',
     board: 'Open the court',
-    span: 'half',
+    span: 'hero',
   },
   {
     slug: 'f1',
     label: 'Formula 1',
     short: 'F1',
     href: '/sport/f1',
-    tagline: 'Sao Paulo GP FP3: Max Verstappen leads Kimi Antonelli by 0.025s at Interlagos.',
-    liveNow: 'FP3: Verstappen 1:11.622, Antonelli +0.025s, Norris +0.131s. Qualifying unpublished. Mercedes 630, Ferrari 504.',
+    tagline: 'São Paulo GP: Lando Norris wins chaotic Interlagos race as Mercedes officially clinches 2026 Constructors title.',
+    liveNow: 'Interlagos Race Final: Norris P1 (McLaren), Verstappen P2 (from 21st), Hadjar P3. Russell P4 and Antonelli P5 seal title for Mercedes.',
     accent: 'sky',
     hue: '210 90% 48%',
-    pulse: 'F1 INTERLAGOS FP3: VERSTAPPEN LEADS ANTONELLI BY 0.025S; QUALIFYING UNPUBLISHED',
+    pulse: 'F1 SAO PAULO GP: LANDO NORRIS WINS DRAMATIC WET RACE AS MERCEDES CLINCHES CONSTRUCTORS TITLE',
     board: 'Open the grid',
+    span: 'side',
+  },
+  {
+    slug: 'football',
+    label: 'Football',
+    short: 'NFL',
+    href: '/sport/football',
+    tagline: 'NFL Week 9 MNF: James Cook rushes for 107 yards as Bills stifle Vikings 23-6 in Minneapolis.',
+    liveNow: 'Final at U.S. Bank Stadium: Bills 23, Vikings 6. Cook 107 yds, 1 TD; Allen 235 yds, 1 TD. Buffalo hands Minnesota (7-1) its first defeat.',
+    accent: 'coral',
+    hue: '14 86% 60%',
+    pulse: 'NFL WEEK 9 MNF: BUFFALO BILLS STIFLE VIKINGS 23-6 TO HAND MINNESOTA FIRST DEFEAT',
+    board: 'Open the field',
     span: 'half',
   },
   {
@@ -91,12 +65,38 @@ export const SPORTS: SportMeta[] = [
     label: 'Golf',
     short: 'Golf',
     href: '/sport/golf',
-    tagline: 'WWT Championship Round 2: Ben James shoots 64 to lead at 15 under at El Cardonal.',
-    liveNow: 'R2 complete: James 129 (-15) leads Malnati 130. Kirk 135. Cut 139. Round 3 unpublished as final.',
+    tagline: 'WWT Championship: 19-year-old Blades Brown edges Ben James in playoff for historic maiden PGA Tour victory.',
+    liveNow: 'Final Round at Diamante: Blades Brown (-24) def. Ben James (-24) on 2nd playoff hole to become youngest PGA Tour winner in 95 years.',
     accent: 'lime',
     hue: '84 55% 38%',
-    pulse: 'PGA TOUR CABO R2: BEN JAMES 129 LEADS WWT CHAMPIONSHIP; ROUND 3 UNPUBLISHED',
+    pulse: 'PGA TOUR CABO: BLADES BROWN EDGES BEN JAMES IN PLAYOFF TO WIN HISTORIC WWT CHAMPIONSHIP',
     board: 'Open the course',
+    span: 'half',
+  },
+  {
+    slug: 'soccer',
+    label: 'Soccer',
+    short: 'Soccer',
+    href: '/sport/soccer',
+    tagline: 'Premier League MW10: Martin Ødegaard winner against Hull sends Arsenal six points clear atop the table.',
+    liveNow: 'Final at Emirates: Arsenal 1-0 Hull City (Odegaard 72\'). Arsenal move to 27 points from 10 matches after City fall 3-1 at Forest.',
+    accent: 'pitch',
+    hue: '158 42% 22%',
+    pulse: 'PREMIER LEAGUE MW10: MARTIN ODEGAARD 72ND-MINUTE STRIKE FIRES ARSENAL SIX POINTS CLEAR',
+    board: 'Open the pitch',
+    span: 'half',
+  },
+  {
+    slug: 'basketball',
+    label: 'Basketball',
+    short: 'Hoops',
+    href: '/sport/basketball',
+    tagline: 'NBA: Stephen Curry scores 25 points and passes DeRozan for 16th all-time as Warriors demolish Pelicans 138-87.',
+    liveNow: 'Final at Chase Center: Warriors 138, Pelicans 87. Curry 25 pts (passes DeRozan); Podziemski 25 pts; Lendeborg 23 pts. Golden State wins 8th straight.',
+    accent: 'coral',
+    hue: '24 90% 48%',
+    pulse: 'NBA: STEPHEN CURRY HITS ALL-TIME MILESTONE AS WARRIORS DEMOLISH PELICANS 138-87',
+    board: 'Open the floor',
     span: 'half',
   },
 ];
@@ -118,8 +118,9 @@ export function isWorldCup(entry: { competition?: string | null }): boolean {
 export function initials(name: string) {
   return name
     .split(/\s+/)
+    .map((p) => p[0])
     .filter(Boolean)
     .slice(0, 2)
-    .map((w) => w[0]?.toUpperCase() || '')
-    .join('');
+    .join('')
+    .toUpperCase();
 }

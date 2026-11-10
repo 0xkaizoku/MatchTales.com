@@ -1,35 +1,35 @@
 {
   "slug": "wwt-championship-diamante-cabo-2026",
-  "headline": "WWT Championship Round 2: Ben James shoots 64 to lead at 15 under at El Cardonal",
-  "whyCareScore": 9.2,
-  "whyCareReason": "James runs off five straight birdies around the turn and posts 65-64=129 to lead Peter Malnati by one. Round 3 is unpublished as final.",
-  "teaser": "R2 COMPLETE: James 129 (-15) leads Malnati 130, Blair 132, T4 Jaeger and McCarthy 133. Kirk 63-72=135. Cut 5-under 139. Round 3 unpublished.",
-  "story": "Ben James posted an 8-under 64 on Friday, 6 November, to take a one-shot lead after 36 holes at the World Wide Technology Championship. Associated Press and PGA Tour copy say he ran off five straight birdies around the turn and finished with a birdie after an aggressive tee shot, reaching 15-under 129 at El Cardonal at Diamante (par 72, 7,452 yards). Peter Malnati shot 66-64=130. Zac Blair had 64-68=132. Tied for fourth at 133: Stephan Jaeger and Denny McCarthy. Chris Kirk, the round-one leader after a bogey-free 63, shot 72 and sits 135. The cut fell at 5-under 139. The purse is $6 million. Round 3 on Saturday is in progress and is not published as a finished 54-hole board.",
-  "stakes": "Fall Series card race continues on the Baja coast. Winner takes the $6 million purse event. 54-hole and 72-hole boards are unpublished.",
-  "rivalryAngle": "James, already locked for a 2027 PGA Tour card from PGA Tour University, vs Malnati chasing a weekend lead after years of grinding.",
+  "headline": "WWT Championship: 19-year-old Blades Brown beats Ben James in playoff for historic maiden win",
+  "whyCareScore": 9.5,
+  "whyCareReason": "Brown fires a final-round 64 and sinks birdie on the second playoff hole against Ben James, becoming the youngest PGA Tour winner in 95 years at El Cardonal.",
+  "teaser": "FINAL: Blades Brown 264 (-24) def. Ben James 264 (-24) on 2nd playoff hole. Brown shoots Sunday 64 to become youngest PGA Tour winner in 95 years.",
+  "story": "Nineteen-year-old Blades Brown captured his first PGA Tour victory on Sunday, 8 November, defeating 54-hole leader Ben James on the second playoff hole at the World Wide Technology Championship at El Cardonal at Diamante in Los Cabos. Brown closed with an 8-under 64, making five birdies on his back nine to match James (69) at 24-under 264 after 72 holes. On the first playoff hole at the par-5 18th, both players made routine birdie putts. On the second extra trip down the 18th, Brown reached the green in two and two-putted for birdie, while James missed an eight-foot birdie attempt to extend the playoff. Brown became the youngest PGA Tour winner in 95 years. Peter Malnati finished solo third at 21-under 267 (66-64-68-69). Zac Blair took fourth at 19-under 269, while Stephan Jaeger and Denny McCarthy tied for fifth at 18-under 270.",
+  "stakes": "Brown secures a two-year PGA Tour exemption, entry into the Masters and PGA Championship, and vaults into the FedExCup top 50.",
+  "rivalryAngle": "Two rising American phenoms going toe-to-toe on Tiger Woods' layout in Baja California Sur.",
   "funFacts": [
-    "James hit every fairway in the second round, per OpenGolf's recap of the PGA Tour notes.",
-    "Kirk opened 63 and followed with 72 to drop from the lead to 135.",
-    "The 36-hole cut was 5-under 139."
+    "Brown is the youngest PGA Tour winner in 95 years at 19 years old.",
+    "Both players birdied the 18th hole three times on Sunday (regulation and playoff).",
+    "Brown shot 67-66-67-64 for a 72-hole total of 264 (-24)."
   ],
   "keyPlayers": [
     {
+      "name": "Blades Brown",
+      "team": "United States",
+      "hook": "Final-round 64; birdied 18th twice in playoff for historic maiden title."
+    },
+    {
       "name": "Ben James",
       "team": "United States",
-      "hook": "65-64=129, 15 under, one-shot 36-hole lead."
+      "hook": "65-64-66-69=264 (-24); runner-up after leading through 54 holes."
     },
     {
       "name": "Peter Malnati",
       "team": "United States",
-      "hook": "66-64=130, one shot back after a Friday 64."
-    },
-    {
-      "name": "Chris Kirk",
-      "team": "United States",
-      "hook": "Round-one leader with 63, then 72, now 135."
+      "hook": "Solo third at 21-under 267."
     }
   ],
-  "headToHead": "Friday 6 November 2026. El Cardonal at Diamante, Los Cabos. Round 2 complete. Round 3 unpublished.",
+  "headToHead": "Sunday 8 November 2026. El Cardonal at Diamante, Los Cabos. Final: Blades Brown (-24) def. Ben James (-24) in playoff.",
   "tags": [
     "golf",
     "pga-tour",
@@ -37,86 +37,87 @@
     "los-cabos",
     "el-cardonal",
     "diamante",
+    "blades-brown",
     "ben-james"
   ],
-  "home": "Ben James",
-  "away": "Peter Malnati",
+  "home": "Blades Brown",
+  "away": "Ben James",
   "homeCode": "USA",
   "awayCode": "USA",
   "homeFlag": "us",
   "awayFlag": "us",
   "group": "PGA Tour",
-  "matchday": 6,
-  "date": "2026-11-06",
+  "matchday": 7,
+  "date": "2026-11-08",
   "time": "08:00",
   "venue": "El Cardonal at Diamante",
   "city": "Los Cabos",
   "status": "FINISHED",
-  "homeScore": "-15",
-  "awayScore": "-14",
+  "homeScore": "-24",
+  "awayScore": "-24",
   "marquee": false,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": "score",
+  "decidedBy": "playoff",
   "homePen": null,
   "awayPen": null,
   "sport": "golf",
   "competition": "pga-tour-2026",
   "format": "leaderboard",
   "season": "2026",
-  "roundLabel": "Round 2",
-  "resultSummary": "R2: Ben James 129 (-15) leads Peter Malnati 130. Blair 132. Cut 139. Round 3 unpublished.",
+  "roundLabel": "Final Round",
+  "resultSummary": "FINAL: Blades Brown (-24) def. Ben James (-24) on 2nd playoff hole. Malnati -21, Blair -19.",
   "leaderboard": [
     {
       "pos": "1",
-      "name": "Ben James",
-      "score": "-15 (65-64)",
-      "note": "36-hole leader"
+      "name": "Blades Brown",
+      "score": "-24 (67-66-67-64)",
+      "note": "Won on 2nd playoff hole"
     },
     {
       "pos": "2",
-      "name": "Peter Malnati",
-      "score": "-14 (66-64)",
-      "note": "One back"
+      "name": "Ben James",
+      "score": "-24 (65-64-66-69)",
+      "note": "Runner-up"
     },
     {
       "pos": "3",
+      "name": "Peter Malnati",
+      "score": "-21 (66-64-68-69)",
+      "note": "Solo 3rd"
+    },
+    {
+      "pos": "4",
       "name": "Zac Blair",
-      "score": "-12 (64-68)",
-      "note": "P3"
+      "score": "-19 (64-68-68-69)",
+      "note": "Solo 4th"
     },
     {
-      "pos": "T4",
+      "pos": "T5",
       "name": "Stephan Jaeger",
-      "score": "-11 (133)",
-      "note": "T4"
+      "score": "-18 (270)",
+      "note": "T5"
     },
     {
-      "pos": "T4",
+      "pos": "T5",
       "name": "Denny McCarthy",
-      "score": "-11 (133)",
-      "note": "T4"
-    },
-    {
-      "pos": "T16",
-      "name": "Chris Kirk",
-      "score": "-9 (63-72)",
-      "note": "R1 leader"
+      "score": "-18 (270)",
+      "note": "T5"
     }
   ],
   "tennisSets": [],
   "sources": [
     {
-      "name": "AP/CBS: James fires 64 to take one-shot lead",
-      "url": "https://www.cbssports.com/golf/leaderboard/pga-tour/31000136/world-wide-technology-championship/recap/"
+      "name": "PGA Tour: Blades Brown captures playoff win at World Wide Technology Championship",
+      "url": "https://www.pgatour.com/article/news/daily-wrapup/2026/11/08/final-round-world-wide-technology-championship-blades-brown-ben-james-playoff"
     },
     {
-      "name": "AP News WWT Championship",
-      "url": "https://apnews.com/article/golf-3c730f124aa1ce9bd091b57cb2bc60fd"
+      "name": "Associated Press: Brown becomes youngest PGA Tour winner in 95 years",
+      "url": "https://apnews.com/article/golf-wwt-championship-blades-brown-ben-james-cabo-c0147982f1bba488d01"
     },
     {
-      "name": "PGA Tour WWT Championship recap",
-      "url": "https://www.pgatour.com/article/news/daily-wrapup/2026/11/05/round-1-world-wide-technology-championship-recap-el-cardonal-scores-leaderboard-results"
+      "name": "Golf Monthly: 19-year-old Brown beats James in Cabo thriller",
+      "url": "https://www.golfmonthly.com/news/blades-brown-wins-world-wide-technology-championship-2026"
     }
   ]
 }

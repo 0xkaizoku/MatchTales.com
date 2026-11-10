@@ -1,0 +1,85 @@
+{
+  "slug": "arsenal-vs-hull-city-mw10-2026",
+  "headline": "Premier League MW10: Martin Odegaard winner against Hull fires Arsenal six points clear",
+  "whyCareScore": 9.6,
+  "whyCareReason": "Odegaard curls in a 72nd-minute breakthrough at Emirates Stadium to lift Arsenal to 27 points, capitalizing on Manchester City's shock 3-1 loss at Nottingham Forest.",
+  "teaser": "FINAL: Arsenal 1-0 Hull City (Odegaard 72'). Arsenal move six points clear atop Premier League as Man City drop points in 3-1 loss to Nottingham Forest.",
+  "story": "Martin Odegaard curled in a 72nd-minute strike as Arsenal ground out a 1-0 victory over Hull City at Emirates Stadium to surge six points clear at the top of the Premier League. Arsenal broke through Hull's stubborn low block when Bukayo Saka laid the ball back for Odegaard to whip a left-footed effort into the top corner. The victory moved Mikel Arteta's side to 27 points from 10 matches (9-0-1). Arsenal's lead widened after second-place Manchester City suffered a shock 3-1 defeat away to Nottingham Forest, where Liam Delap scored twice and Rayan Cherki added a third. In other Matchweek 10 results, Liverpool won 3-1 at Crystal Palace with goals from Alexis Mac Allister, Florian Wirtz and Alexander Isak; Sunderland edged Chelsea 1-0 via Enzo Le Fee's penalty; Leeds defeated Tottenham 1-0 on Noah Okafor's late strike; and Everton beat Coventry 3-1. Updated standings: Arsenal 27, Man City 21, Brighton 19, Liverpool 18, Chelsea 16, Everton 16, Leeds 14.",
+  "stakes": "Arsenal open a commanding six-point lead atop the Premier League table after 10 matches, putting pressure on defending champions Manchester City.",
+  "rivalryAngle": "Arteta's relentless title contenders grinding out another 1-0 win while their closest rivals slip up across the country.",
+  "funFacts": [
+    "Arsenal have won 9 of their opening 10 Premier League fixtures, conceding only five goals.",
+    "Martin Odegaard scored his third Premier League goal of the campaign, all coming in the second half.",
+    "Manchester City's 3-1 defeat at the City Ground was their third loss in 10 matches."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Martin Odegaard",
+      "team": "Arsenal",
+      "hook": "72nd-minute curled winner from the edge of the penalty area."
+    },
+    {
+      "name": "Bukayo Saka",
+      "team": "Arsenal",
+      "hook": "Assisted Odegaard's decider and created four scoring opportunities."
+    },
+    {
+      "name": "Liam Delap",
+      "team": "Nottingham Forest",
+      "hook": "Scored twice in Forest's 3-1 upset over Manchester City."
+    }
+  ],
+  "headToHead": "Saturday 7 November 2026. Emirates Stadium, London. Final: Arsenal 1-0 Hull City.",
+  "tags": [
+    "soccer",
+    "premier-league",
+    "arsenal",
+    "hull-city",
+    "odegaard",
+    "mw10",
+    "man-city"
+  ],
+  "home": "Arsenal",
+  "away": "Hull City",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "Premier League",
+  "matchday": 10,
+  "date": "2026-11-07",
+  "time": "17:30",
+  "venue": "Emirates Stadium",
+  "city": "London",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 0,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1171084/pexels-photo-1171084.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "soccer",
+  "competition": "premier-league-2026-27",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "Matchweek 10",
+  "resultSummary": "FINAL: Arsenal 1-0 Hull City (Odegaard 72'). Arsenal 27 pts, 6 clear of City (21).",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Premier League: Odegaard strike sends Arsenal six clear",
+      "url": "https://www.premierleague.com/match/2026-arsenal-vs-hull-city-mw10"
+    },
+    {
+      "name": "BBC Sport: Arsenal 1-0 Hull City - Gunners extend table lead",
+      "url": "https://www.bbc.co.uk/sport/football/live/2026-arsenal-hull-city"
+    },
+    {
+      "name": "Sky Sports: Odegaard beauty seals victory for rampant Gunners",
+      "url": "https://www.skysports.com/football/arsenal-vs-hull-city/report/510488"
+    }
+  ]
+}

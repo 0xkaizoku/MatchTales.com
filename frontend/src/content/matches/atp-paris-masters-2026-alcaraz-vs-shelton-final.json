@@ -1,0 +1,95 @@
+{
+  "slug": "atp-paris-masters-2026-alcaraz-vs-shelton-final",
+  "headline": "Rolex Paris Masters Final: Carlos Alcaraz battles past Ben Shelton 7-6(5), 7-5 for maiden title",
+  "whyCareScore": 9.8,
+  "whyCareReason": "Alcaraz saves set points, avenges his US Open loss to Shelton, and captures his 9th career ATP Masters 1000 crown in a gripping straight-sets Bercy final.",
+  "teaser": "FINAL: Alcaraz def. Shelton 7-6(5), 7-5. First Paris Masters title for Alcaraz, 9th Masters 1000 trophy. Shelton finishes as runner-up after 14 aces.",
+  "story": "Carlos Alcaraz defeated Ben Shelton 7-6(5), 7-5 on Sunday, 8 November, in the Rolex Paris Masters final at Accor Arena to claim his first Bercy crown and his ninth career ATP Masters 1000 championship. The match lasted one hour and 58 minutes of high-intensity indoor tennis. Shelton, who had struck 14 aces and saved three break points in the opening set, led 5-4 in the tiebreak before Alcaraz won three consecutive baseline rallies to take the set. In the second set, Alcaraz fended off two break points at 4-4 before breaking Shelton's serve at 5-5 with a forehand pass down the line. Alcaraz then served out the victory to love. The triumph avenged Alcaraz's loss to Shelton in the US Open quarter-finals earlier in the season. On Saturday in the semi-finals, Alcaraz defeated Casper Ruud 6-4, 6-2, while Shelton had outlasted Luca Van Assche 5-7, 6-3, 6-4.",
+  "stakes": "Alcaraz collects his 9th ATP Masters 1000 trophy and seals the world year-end number one ranking heading into the ATP Finals in Turin. Shelton achieves a career-best Masters runner-up finish.",
+  "rivalryAngle": "Alcaraz avenges his dramatic US Open five-set defeat against Shelton with precision returns against the American's 140 mph serve.",
+  "funFacts": [
+    "Alcaraz wins his first Paris Masters title, becoming only the second Spaniard after David Ferrer (2012) to win at Bercy.",
+    "Shelton struck 14 aces but was broken at 5-5 in the second set on Alcaraz's only break point of that set.",
+    "Alcaraz won the final three points of the opening set tiebreak from 4-5 down."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Carlos Alcaraz",
+      "team": "Spain",
+      "hook": "Wins first Paris title 7-6(5), 7-5; 9th career Masters 1000 crown."
+    },
+    {
+      "name": "Ben Shelton",
+      "team": "United States",
+      "hook": "14 aces and 32 winners; first American finalist in Paris since Sock 2017."
+    },
+    {
+      "name": "Casper Ruud",
+      "team": "Norway",
+      "hook": "Semi-finalist defeated by Alcaraz 6-4, 6-2 on Saturday."
+    }
+  ],
+  "headToHead": "Sunday 8 November 2026. Accor Arena, Paris. Final: Alcaraz 7-6(5), 7-5.",
+  "tags": [
+    "tennis",
+    "atp",
+    "paris-masters",
+    "rolex-paris-masters",
+    "alcaraz",
+    "shelton",
+    "bercy",
+    "final"
+  ],
+  "home": "Carlos Alcaraz",
+  "away": "Ben Shelton",
+  "homeCode": "ESP",
+  "awayCode": "USA",
+  "homeFlag": "es",
+  "awayFlag": "us",
+  "group": "Rolex Paris Masters",
+  "matchday": 7,
+  "date": "2026-11-08",
+  "time": "15:00",
+  "venue": "Accor Arena",
+  "city": "Paris",
+  "status": "FINISHED",
+  "homeScore": "2",
+  "awayScore": "0",
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618210/pexels-photo-1618210.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "sets",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-1000-paris-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Final",
+  "resultSummary": "FINAL: Carlos Alcaraz def. Ben Shelton 7-6(5), 7-5. Alcaraz wins 1st Paris Masters and 9th Masters 1000 title.",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "7",
+      "p2": "6"
+    },
+    {
+      "p1": "7",
+      "p2": "5"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP Tour: Alcaraz claims maiden Paris Masters crown with win over Shelton",
+      "url": "https://www.atptour.com/en/news/alcaraz-shelton-paris-2026-final"
+    },
+    {
+      "name": "Al Jazeera: Alcaraz avenges US Open defeat, beats Shelton in Paris final",
+      "url": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-ben-shelton-paris-masters-tennis-final"
+    },
+    {
+      "name": "Reuters: Alcaraz holds nerve against Shelton to take Paris title",
+      "url": "https://www.reuters.com/sports/tennis/carlos-alcaraz-beats-ben-shelton-rolex-paris-masters-final-2026-11-08/"
+    }
+  ]
+}

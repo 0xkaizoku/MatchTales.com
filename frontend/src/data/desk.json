@@ -1,56 +1,68 @@
 {
-  "asOf": "2026-11-07",
+  "asOf": "2026-11-10",
   "premierLeagueTable": [
     {
       "pos": 1,
       "team": "Arsenal",
-      "p": 9,
-      "w": 8,
+      "p": 10,
+      "w": 9,
       "d": 0,
       "l": 1,
-      "gf": 14,
+      "gf": 15,
       "ga": 5,
-      "gd": 9,
-      "pts": 24
+      "gd": 10,
+      "pts": 27
     },
     {
       "pos": 2,
       "team": "Manchester City",
-      "p": 9,
+      "p": 10,
       "w": 7,
       "d": 0,
-      "l": 2,
-      "gf": 20,
-      "ga": 10,
-      "gd": 10,
+      "l": 3,
+      "gf": 21,
+      "ga": 13,
+      "gd": 8,
       "pts": 21
     },
     {
       "pos": 3,
       "team": "Brighton",
-      "p": 9,
+      "p": 10,
       "w": 6,
       "d": 1,
-      "l": 2,
+      "l": 3,
       "gf": 24,
-      "ga": 7,
-      "gd": 17,
+      "ga": 9,
+      "gd": 15,
       "pts": 19
     },
     {
       "pos": 4,
-      "team": "Chelsea",
-      "p": 9,
+      "team": "Liverpool",
+      "p": 10,
       "w": 5,
-      "d": 1,
-      "l": 3,
-      "gf": 19,
-      "ga": 15,
+      "d": 3,
+      "l": 2,
+      "gf": 14,
+      "ga": 10,
       "gd": 4,
-      "pts": 16
+      "pts": 18
     },
     {
       "pos": 5,
+      "team": "Chelsea",
+      "p": 10,
+      "w": 5,
+      "d": 1,
+      "l": 4,
+      "gf": 19,
+      "ga": 16,
+      "gd": 3,
+      "pts": 16
+    },
+    {
+      "pos": 6,
       "team": "Everton",
       "p": 10,
       "w": 4,
@@ -62,303 +74,106 @@
       "pts": 16
     },
     {
-      "pos": 6,
-      "team": "Liverpool",
-      "p": 9,
-      "w": 4,
-      "d": 3,
-      "l": 2,
-      "gf": 11,
-      "ga": 9,
-      "gd": 2,
-      "pts": 15
-    },
-    {
       "pos": 7,
-      "team": "Brentford",
-      "p": 9,
-      "w": 3,
-      "d": 5,
-      "l": 1,
-      "gf": 16,
-      "ga": 9,
-      "gd": 7,
+      "team": "Leeds",
+      "p": 10,
+      "w": 4,
+      "d": 2,
+      "l": 4,
+      "gf": 11,
+      "ga": 12,
+      "gd": -1,
       "pts": 14
     },
     {
       "pos": 8,
-      "team": "Leeds United",
+      "team": "Brentford",
       "p": 10,
       "w": 3,
       "d": 5,
       "l": 2,
-      "gf": 10,
-      "ga": 8,
-      "gd": 2,
+      "gf": 17,
+      "ga": 13,
+      "gd": 4,
       "pts": 14
     },
     {
       "pos": 9,
-      "team": "Bournemouth",
-      "p": 9,
+      "team": "Tottenham",
+      "p": 10,
       "w": 3,
       "d": 3,
-      "l": 3,
-      "gf": 14,
-      "ga": 13,
-      "gd": 1,
+      "l": 4,
+      "gf": 13,
+      "ga": 11,
+      "gd": 2,
       "pts": 12
     },
     {
       "pos": 10,
-      "team": "Tottenham Hotspur",
-      "p": 10,
-      "w": 3,
-      "d": 3,
-      "l": 4,
-      "gf": 10,
-      "ga": 11,
-      "gd": -1,
-      "pts": 12
-    },
-    {
-      "pos": 11,
       "team": "Aston Villa",
-      "p": 9,
-      "w": 3,
-      "d": 3,
-      "l": 3,
-      "gf": 10,
-      "ga": 13,
-      "gd": -3,
-      "pts": 12
-    },
-    {
-      "pos": 12,
-      "team": "Hull City",
-      "p": 9,
-      "w": 2,
-      "d": 5,
-      "l": 2,
-      "gf": 11,
-      "ga": 10,
-      "gd": 1,
-      "pts": 11
-    },
-    {
-      "pos": 13,
-      "team": "Newcastle United",
-      "p": 9,
-      "w": 3,
-      "d": 2,
-      "l": 4,
-      "gf": 12,
-      "ga": 15,
-      "gd": -3,
-      "pts": 11
-    },
-    {
-      "pos": 14,
-      "team": "Ipswich",
-      "p": 9,
-      "w": 3,
-      "d": 2,
-      "l": 4,
-      "gf": 14,
-      "ga": 18,
-      "gd": -4,
-      "pts": 11
-    },
-    {
-      "pos": 15,
-      "team": "Fulham",
-      "p": 9,
-      "w": 2,
-      "d": 3,
-      "l": 4,
-      "gf": 9,
-      "ga": 11,
-      "gd": -2,
-      "pts": 9
-    },
-    {
-      "pos": 16,
-      "team": "Coventry",
       "p": 10,
       "w": 3,
-      "d": 0,
-      "l": 7,
-      "gf": 10,
-      "ga": 19,
-      "gd": -9,
-      "pts": 9
-    },
-    {
-      "pos": 17,
-      "team": "Manchester United",
-      "p": 9,
-      "w": 1,
-      "d": 4,
-      "l": 4,
-      "gf": 10,
-      "ga": 15,
-      "gd": -5,
-      "pts": 7
-    },
-    {
-      "pos": 18,
-      "team": "Crystal Palace",
-      "p": 9,
-      "w": 2,
-      "d": 1,
-      "l": 6,
-      "gf": 9,
-      "ga": 21,
-      "gd": -12,
-      "pts": 7
-    },
-    {
-      "pos": 19,
-      "team": "Nottingham Forest",
-      "p": 9,
-      "w": 1,
       "d": 3,
-      "l": 5,
-      "gf": 6,
-      "ga": 12,
-      "gd": -6,
-      "pts": 6
-    },
-    {
-      "pos": 20,
-      "team": "Sunderland",
-      "p": 9,
-      "w": 1,
-      "d": 2,
-      "l": 6,
-      "gf": 7,
-      "ga": 17,
-      "gd": -10,
-      "pts": 5
+      "l": 4,
+      "gf": 11,
+      "ga": 15,
+      "gd": -4,
+      "pts": 12
     }
   ],
   "f1Drivers": [
     {
       "pos": 1,
-      "name": "Kimi Antonelli",
-      "team": "Mercedes",
-      "pts": 380
+      "name": "Kimi Antonelli (Champion)",
+      "pts": 390
     },
     {
       "pos": 2,
       "name": "Max Verstappen",
-      "team": "Red Bull",
-      "pts": 261
+      "pts": 279
     },
     {
       "pos": 3,
-      "name": "Lewis Hamilton",
-      "team": "Ferrari",
-      "pts": 259
+      "name": "George Russell",
+      "pts": 262
     },
     {
       "pos": 4,
-      "name": "George Russell",
-      "team": "Mercedes",
-      "pts": 250
+      "name": "Lewis Hamilton",
+      "pts": 259
     },
     {
       "pos": 5,
       "name": "Charles Leclerc",
-      "team": "Ferrari",
-      "pts": 245
+      "pts": 253
     },
     {
       "pos": 6,
       "name": "Lando Norris",
-      "team": "McLaren",
-      "pts": 221
-    },
-    {
-      "pos": 7,
-      "name": "Oscar Piastri",
-      "team": "McLaren",
-      "pts": 144
-    },
-    {
-      "pos": 8,
-      "name": "Isack Hadjar",
-      "team": "Red Bull",
-      "pts": 107
-    },
-    {
-      "pos": 9,
-      "name": "Liam Lawson",
-      "team": "Racing Bulls",
-      "pts": 83
-    },
-    {
-      "pos": 10,
-      "name": "Pierre Gasly",
-      "team": "Alpine",
-      "pts": 42
+      "pts": 246
     }
   ],
   "f1Constructors": [
     {
       "pos": 1,
-      "name": "Mercedes",
-      "pts": 630
+      "name": "Mercedes (Champions)",
+      "pts": 652
     },
     {
       "pos": 2,
       "name": "Ferrari",
-      "pts": 504
+      "pts": 512
     },
     {
       "pos": 3,
       "name": "Red Bull",
-      "pts": 382
+      "pts": 415
     },
     {
       "pos": 4,
       "name": "McLaren",
-      "pts": 365
-    },
-    {
-      "pos": 5,
-      "name": "Racing Bulls",
-      "pts": 108
-    },
-    {
-      "pos": 6,
-      "name": "Alpine",
-      "pts": 69
-    },
-    {
-      "pos": 7,
-      "name": "Haas",
-      "pts": 31
-    },
-    {
-      "pos": 8,
-      "name": "Audi",
-      "pts": 27
-    },
-    {
-      "pos": 9,
-      "name": "Williams",
-      "pts": 12
-    },
-    {
-      "pos": 10,
-      "name": "Aston Martin",
-      "pts": 7
-    },
-    {
-      "pos": 11,
-      "name": "Cadillac",
-      "pts": 0
+      "pts": 390
     }
   ],
   "wnbaSeeds": [
@@ -746,6 +561,20 @@
       "home": "Atlanta Falcons",
       "away": "Cincinnati Bengals",
       "note": "UPCOMING: Bengals at Falcons, Santiago Bernabeu, Madrid. NFL Network. CIN 5-2, ATL 3-5. No score. Saturday 7 Nov has no NFL game. Last final: Jaguars 33, Ravens 10."
+    },
+    {
+      "date": "2026-11-08",
+      "time": "9:30 a.m. ET",
+      "home": "Atlanta Falcons",
+      "away": "Cincinnati Bengals",
+      "note": "FINAL: Bengals 34, Falcons 17. NFL Network Madrid Game at Santiago Bernabeu. Burrow 24-29, 271 yds, 4 total TDs (3 pass, 1 rush). Chase 10 rec, 155 yds, 1 TD. Bengals 6-2, Falcons 3-6."
+    },
+    {
+      "date": "2026-11-09",
+      "time": "8:15 p.m. ET",
+      "home": "Minnesota Vikings",
+      "away": "Buffalo Bills",
+      "note": "FINAL: Bills 23, Vikings 6. ESPN Monday Night Football at U.S. Bank Stadium. Cook 107 yds, 1 TD; Allen 235 yds, 1 TD. Bills defense hands Minnesota (7-1) first loss. Bills improve to 7-2."
     }
   ],
   "usOpenQF": [
@@ -844,6 +673,18 @@
       "p1": "Ben Shelton",
       "p2": "Luca Van Assche",
       "status": "Shelton 5-7, 6-3, 6-4"
+    },
+    {
+      "draw": "Paris SF",
+      "p1": "Carlos Alcaraz",
+      "p2": "Casper Ruud",
+      "status": "Alcaraz 6-4, 6-2"
+    },
+    {
+      "draw": "Paris Final",
+      "p1": "Carlos Alcaraz",
+      "p2": "Ben Shelton",
+      "status": "Alcaraz 7-6 (5), 7-5"
     }
   ]
 }
