@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-10",
+  "asOf": "2026-11-11",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -15,6 +15,18 @@
     },
     {
       "pos": 2,
+      "team": "Brighton",
+      "p": 10,
+      "w": 7,
+      "d": 1,
+      "l": 2,
+      "gf": 26,
+      "ga": 7,
+      "gd": 19,
+      "pts": 22
+    },
+    {
+      "pos": 3,
       "team": "Manchester City",
       "p": 10,
       "w": 7,
@@ -24,18 +36,6 @@
       "ga": 13,
       "gd": 8,
       "pts": 21
-    },
-    {
-      "pos": 3,
-      "team": "Brighton",
-      "p": 10,
-      "w": 6,
-      "d": 1,
-      "l": 3,
-      "gf": 24,
-      "ga": 9,
-      "gd": 15,
-      "pts": 19
     },
     {
       "pos": 4,
@@ -75,15 +75,15 @@
     },
     {
       "pos": 7,
-      "team": "Leeds",
+      "team": "Bournemouth",
       "p": 10,
       "w": 4,
-      "d": 2,
-      "l": 4,
-      "gf": 11,
-      "ga": 12,
-      "gd": -1,
-      "pts": 14
+      "d": 3,
+      "l": 3,
+      "gf": 16,
+      "ga": 14,
+      "gd": 2,
+      "pts": 15
     },
     {
       "pos": 8,
@@ -92,65 +92,71 @@
       "w": 3,
       "d": 5,
       "l": 2,
-      "gf": 17,
-      "ga": 13,
-      "gd": 4,
+      "gf": 16,
+      "ga": 11,
+      "gd": 5,
       "pts": 14
     },
     {
       "pos": 9,
-      "team": "Tottenham",
+      "team": "Leeds",
       "p": 10,
       "w": 3,
-      "d": 3,
-      "l": 4,
-      "gf": 13,
-      "ga": 11,
+      "d": 5,
+      "l": 2,
+      "gf": 10,
+      "ga": 8,
       "gd": 2,
-      "pts": 12
+      "pts": 14
     },
     {
       "pos": 10,
       "team": "Aston Villa",
       "p": 10,
       "w": 3,
-      "d": 3,
-      "l": 4,
-      "gf": 11,
-      "ga": 15,
-      "gd": -4,
-      "pts": 12
+      "d": 4,
+      "l": 3,
+      "gf": 14,
+      "ga": 17,
+      "gd": -3,
+      "pts": 13
     }
   ],
   "f1Drivers": [
     {
       "pos": 1,
       "name": "Kimi Antonelli (Champion)",
+      "team": "Mercedes",
       "pts": 390
     },
     {
       "pos": 2,
       "name": "Max Verstappen",
+      "team": "Red Bull",
       "pts": 279
     },
     {
       "pos": 3,
       "name": "George Russell",
+      "team": "Mercedes",
       "pts": 262
     },
     {
       "pos": 4,
       "name": "Lewis Hamilton",
-      "pts": 259
+      "team": "Ferrari",
+      "pts": 261
     },
     {
       "pos": 5,
       "name": "Charles Leclerc",
-      "pts": 253
+      "team": "Ferrari",
+      "pts": 249
     },
     {
       "pos": 6,
       "name": "Lando Norris",
+      "team": "McLaren",
       "pts": 246
     }
   ],
@@ -163,7 +169,7 @@
     {
       "pos": 2,
       "name": "Ferrari",
-      "pts": 512
+      "pts": 510
     },
     {
       "pos": 3,
@@ -173,7 +179,7 @@
     {
       "pos": 4,
       "name": "McLaren",
-      "pts": 390
+      "pts": 398
     }
   ],
   "wnbaSeeds": [
@@ -574,7 +580,14 @@
       "time": "8:15 p.m. ET",
       "home": "Minnesota Vikings",
       "away": "Buffalo Bills",
-      "note": "FINAL: Bills 23, Vikings 6. ESPN Monday Night Football at U.S. Bank Stadium. Cook 107 yds, 1 TD; Allen 235 yds, 1 TD. Bills defense hands Minnesota (7-1) first loss. Bills improve to 7-2."
+      "note": "FINAL: Bills 23, Vikings 6. Cook 31 car, 107 yds, 5-yd TD; Allen 21-31, 234 yds, TD to Latu; Wentz 8-25, 2 INTs. BUF 7-1, MIN 6-2."
+    },
+    {
+      "date": "2026-11-12",
+      "time": "8:15 p.m. ET",
+      "home": "New York Giants",
+      "away": "Washington Commanders",
+      "note": "WEEK 10 TNF (Prime Video, MetLife White Out): Commanders (2-5-1) at Giants (5-2-1). J.J. McCarthy full participant; rematch of Week 5 27-27 tie."
     }
   ],
   "usOpenQF": [
@@ -685,6 +698,24 @@
       "p1": "Carlos Alcaraz",
       "p2": "Ben Shelton",
       "status": "Alcaraz 7-6 (5), 7-5"
+    },
+    {
+      "draw": "Stockholm R32",
+      "p1": "Ugo Humbert",
+      "p2": "Adolfo Daniel Vallejo",
+      "status": "Humbert 6-4, 6-3"
+    },
+    {
+      "draw": "Stockholm R32",
+      "p1": "Holger Rune",
+      "p2": "Zizou Bergs",
+      "status": "Rune 6-3, 6-4"
+    },
+    {
+      "draw": "Stockholm R16",
+      "p1": "Lorenzo Musetti",
+      "p2": "Toby Samuel",
+      "status": "Musetti 6-1, 6-4"
     }
   ]
 }

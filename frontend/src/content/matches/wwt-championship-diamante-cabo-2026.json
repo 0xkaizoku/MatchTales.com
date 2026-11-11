@@ -1,35 +1,35 @@
 {
   "slug": "wwt-championship-diamante-cabo-2026",
-  "headline": "WWT Championship: 19-year-old Blades Brown beats Ben James in playoff for historic maiden win",
+  "headline": "WWT Championship: 19-year-old Blades Brown rallies from 7 back to beat Ben James in playoff",
   "whyCareScore": 9.5,
-  "whyCareReason": "Brown fires a final-round 64 and sinks birdie on the second playoff hole against Ben James, becoming the youngest PGA Tour winner in 95 years at El Cardonal.",
-  "teaser": "FINAL: Blades Brown 264 (-24) def. Ben James 264 (-24) on 2nd playoff hole. Brown shoots Sunday 64 to become youngest PGA Tour winner in 95 years.",
-  "story": "Nineteen-year-old Blades Brown captured his first PGA Tour victory on Sunday, 8 November, defeating 54-hole leader Ben James on the second playoff hole at the World Wide Technology Championship at El Cardonal at Diamante in Los Cabos. Brown closed with an 8-under 64, making five birdies on his back nine to match James (69) at 24-under 264 after 72 holes. On the first playoff hole at the par-5 18th, both players made routine birdie putts. On the second extra trip down the 18th, Brown reached the green in two and two-putted for birdie, while James missed an eight-foot birdie attempt to extend the playoff. Brown became the youngest PGA Tour winner in 95 years. Peter Malnati finished solo third at 21-under 267 (66-64-68-69). Zac Blair took fourth at 19-under 269, while Stephan Jaeger and Denny McCarthy tied for fifth at 18-under 270.",
-  "stakes": "Brown secures a two-year PGA Tour exemption, entry into the Masters and PGA Championship, and vaults into the FedExCup top 50.",
-  "rivalryAngle": "Two rising American phenoms going toe-to-toe on Tiger Woods' layout in Baja California Sur.",
+  "whyCareReason": "Brown closes with a Sunday 63 to reach 23-under 265 and wins on the second playoff hole at El Cardonal, becoming the youngest PGA Tour winner in 95 years.",
+  "teaser": "FINAL: Blades Brown 265 (-23, 66-68-68-63) def. Ben James 265 (-23, 65-64-66-70) on 2nd playoff hole. Michael Kim 3rd (-22, 266), Kensei Hirata 4th (-21, 267).",
+  "story": "Nineteen-year-old Blades Brown produced an unforgettable comeback to win the World Wide Technology Championship on Sunday, 8 November, at El Cardonal at Diamante in Los Cabos. Starting the final round seven strokes behind Ben James, Brown surged with a bogey-free final-round 63 to sign for a 72-hole total of 23-under 265 (66-68-68-63). James eagled the 72nd hole to shoot 70 and tie Brown at 265 (-23, 65-64-66-70). Returning to the par-5 18th in sudden death, Brown secured victory on the second playoff hole to become the youngest PGA Tour champion in 95 years at 19 years, 5 months and 18 days old. Michael Kim finished solo third one shot back at 22-under 266, Kensei Hirata took fourth at 21-under 267, Peter Malnati tied for 18th at 16-under 272 and Zac Blair finished tied for 25th at 14-under 274.",
+  "stakes": "At 19 years, 5 months and 18 days, Brown breaks nearly a century of PGA Tour youth records and locks up full Tour status through 2028.",
+  "rivalryAngle": "A seven-shot final-day chase settled only after James's dramatic 72nd-hole eagle forced two extra trips down the 18th.",
   "funFacts": [
-    "Brown is the youngest PGA Tour winner in 95 years at 19 years old.",
-    "Both players birdied the 18th hole three times on Sunday (regulation and playoff).",
-    "Brown shot 67-66-67-64 for a 72-hole total of 264 (-24)."
+    "At 19 years, 5 months and 18 days, Blades Brown is the youngest PGA Tour winner in 95 years.",
+    "Brown carded rounds of 66-68-68-63 for 265 (-23), overcoming a seven-stroke deficit on Sunday.",
+    "Ben James eagled the 72nd hole to reach 265 (-23) before falling on the second playoff hole."
   ],
   "keyPlayers": [
     {
       "name": "Blades Brown",
       "team": "United States",
-      "hook": "Final-round 64; birdied 18th twice in playoff for historic maiden title."
+      "hook": "Sunday 63 (-23, 265 total); wins on second playoff hole from seven behind."
     },
     {
       "name": "Ben James",
       "team": "United States",
-      "hook": "65-64-66-69=264 (-24); runner-up after leading through 54 holes."
+      "hook": "65-64-66-70 (265, -23); eagled the 72nd hole to force sudden death."
     },
     {
-      "name": "Peter Malnati",
+      "name": "Michael Kim",
       "team": "United States",
-      "hook": "Solo third at 21-under 267."
+      "hook": "Finished solo third at 22-under 266, one shot outside the playoff."
     }
   ],
-  "headToHead": "Sunday 8 November 2026. El Cardonal at Diamante, Los Cabos. Final: Blades Brown (-24) def. Ben James (-24) in playoff.",
+  "headToHead": "Sunday 8 November 2026. El Cardonal at Diamante, Los Cabos. Final: Blades Brown (-23) def. Ben James (-23) on 2nd playoff hole.",
   "tags": [
     "golf",
     "pga-tour",
@@ -53,8 +53,8 @@
   "venue": "El Cardonal at Diamante",
   "city": "Los Cabos",
   "status": "FINISHED",
-  "homeScore": "-24",
-  "awayScore": "-24",
+  "homeScore": "-23",
+  "awayScore": "-23",
   "marquee": false,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
@@ -66,58 +66,54 @@
   "format": "leaderboard",
   "season": "2026",
   "roundLabel": "Final Round",
-  "resultSummary": "FINAL: Blades Brown (-24) def. Ben James (-24) on 2nd playoff hole. Malnati -21, Blair -19.",
+  "resultSummary": "FINAL: Blades Brown (-23, 265) def. Ben James (-23, 265) on 2nd playoff hole. Kim -22, Hirata -21.",
   "leaderboard": [
     {
       "pos": "1",
       "name": "Blades Brown",
-      "score": "-24 (67-66-67-64)",
+      "score": "-23 (66-68-68-63)",
       "note": "Won on 2nd playoff hole"
     },
     {
       "pos": "2",
       "name": "Ben James",
-      "score": "-24 (65-64-66-69)",
-      "note": "Runner-up"
+      "score": "-23 (65-64-66-70)",
+      "note": "Eagle on 72nd hole; runner-up"
     },
     {
       "pos": "3",
-      "name": "Peter Malnati",
-      "score": "-21 (66-64-68-69)",
+      "name": "Michael Kim",
+      "score": "-22 (266)",
       "note": "Solo 3rd"
     },
     {
       "pos": "4",
-      "name": "Zac Blair",
-      "score": "-19 (64-68-68-69)",
+      "name": "Kensei Hirata",
+      "score": "-21 (267)",
       "note": "Solo 4th"
     },
     {
-      "pos": "T5",
-      "name": "Stephan Jaeger",
-      "score": "-18 (270)",
-      "note": "T5"
+      "pos": "T18",
+      "name": "Peter Malnati",
+      "score": "-16 (272)",
+      "note": "T18"
     },
     {
-      "pos": "T5",
-      "name": "Denny McCarthy",
-      "score": "-18 (270)",
-      "note": "T5"
+      "pos": "T25",
+      "name": "Zac Blair",
+      "score": "-14 (274)",
+      "note": "T25"
     }
   ],
   "tennisSets": [],
   "sources": [
     {
-      "name": "PGA Tour: Blades Brown captures playoff win at World Wide Technology Championship",
-      "url": "https://www.pgatour.com/article/news/daily-wrapup/2026/11/08/final-round-world-wide-technology-championship-blades-brown-ben-james-playoff"
+      "name": "PGA Tour: World Wide Technology Championship final results",
+      "url": "https://www.pgatour.com/tournaments/2026/world-wide-technology-championship/R2026457"
     },
     {
-      "name": "Associated Press: Brown becomes youngest PGA Tour winner in 95 years",
-      "url": "https://apnews.com/article/golf-wwt-championship-blades-brown-ben-james-cabo-c0147982f1bba488d01"
-    },
-    {
-      "name": "Golf Monthly: 19-year-old Brown beats James in Cabo thriller",
-      "url": "https://www.golfmonthly.com/news/blades-brown-wins-world-wide-technology-championship-2026"
+      "name": "Golf Digest / AP: Blades Brown youngest PGA Tour winner in 95 years",
+      "url": "https://apnews.com/article/golf-wwt-championship-blades-brown-ben-james-2026"
     }
   ]
 }

@@ -1,0 +1,81 @@
+{
+  "slug": "uwcl-psg-vs-bayern-munich-md4-2026",
+  "headline": "UWCL MD4: Klara Buhl strikes as Bayern Munich edge PSG 2-1 at Parc des Princes",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Klara Buhl doubles Bayern's lead in the 40th minute after Katarzyna Kiedrzynek's own goal before holding off Paulina Dudek's penalty on an eventful Matchday 4 opener.",
+  "teaser": "FINAL: PSG 1-2 Bayern Munich (Kiedrzynek 29' og, Buhl 40'; Dudek 65' pen). Elsewhere Tuesday: Real Madrid 3-0 Paris FC, Hacken 0-0 Chelsea. Tonight: Juventus vs OL Lyonnes.",
+  "story": "Bayern Munich claimed a vital 2-1 Women's Champions League Matchday 4 victory away to Paris Saint-Germain on Tuesday, 10 November, at the Parc des Princes. After a tight opening half-hour, Bayern capitalized in the 29th minute through a Katarzyna Kiedrzynek own goal before Klara Buhl finished smoothly in the 40th minute to give the visitors a two-goal cushion before halftime. Paris Saint-Germain fought back in the second half when Paulina Dudek converted from the penalty spot in the 65th minute, but Bayern protected its advantage cleanly through the closing stages. Elsewhere in Tuesday's UWCL action, Real Madrid swept Paris FC 3-0 at Estadio Alfredo Di Stefano with second-half goals from Arianna Caruso, Lineth Beerensteyn and Linda Caicedo, while Chelsea fired 28 shots in a frustrated 0-0 draw at BK Hacken. Action continues tonight (11 November) with OH Leuven vs HB Koge (17:45 UTC) and Juventus vs OL Lyonnes (20:00 UTC), while FC Barcelona hosts Arsenal at Spotify Camp Nou on Thursday (12 November, 18:45 CET) following its one-day shift due to general strikes in Spain.",
+  "stakes": "Bayern pockets three priceless away points in Paris as Matchday 4 splits into tonight's clashes in Leuven and Biella and Thursday's blockbuster at Spotify Camp Nou.",
+  "rivalryAngle": "Heavyweight league-phase collision in Paris decided by a 11-minute first-half swing from Bayern's attack.",
+  "funFacts": [
+    "Real Madrid hit three second-half goals (Caruso, Beerensteyn, Caicedo) to shut out Paris FC 3-0 on Tuesday.",
+    "Chelsea outshot BK Hacken heavily (28 attempts) but settled for a 0-0 away draw in Gothenburg.",
+    "Spain's general strike moved Barcelona vs Arsenal to Thursday 12 Nov (18:45 CET) at Spotify Camp Nou."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Klara Buhl",
+      "team": "Bayern Munich",
+      "hook": "Struck Bayern's crucial second goal in the 40th minute in Paris."
+    },
+    {
+      "name": "Paulina Dudek",
+      "team": "Paris Saint-Germain",
+      "hook": "Converted a 65th-minute penalty to halve the deficit for PSG."
+    },
+    {
+      "name": "Linda Caicedo",
+      "team": "Real Madrid",
+      "hook": "Among the second-half scorers in Real Madrid's 3-0 win over Paris FC."
+    }
+  ],
+  "headToHead": "Tuesday 10 November 2026. Parc des Princes, Paris. Final: PSG 1-2 Bayern Munich.",
+  "tags": [
+    "soccer",
+    "uwcl",
+    "psg",
+    "bayern-munich",
+    "champions-league",
+    "real-madrid",
+    "chelsea"
+  ],
+  "home": "Paris Saint-Germain",
+  "away": "Bayern Munich",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "UWCL League Phase",
+  "matchday": 4,
+  "date": "2026-11-10",
+  "time": "21:00",
+  "venue": "Parc des Princes",
+  "city": "Paris",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 2,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1171084/pexels-photo-1171084.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "goals",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "soccer",
+  "competition": "uwcl-2026-27",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "UWCL Matchday 4",
+  "resultSummary": "FINAL: PSG 1-2 Bayern Munich (Kiedrzynek 29' og, Buhl 40'; Dudek 65' pen). Real Madrid 3-0 Paris FC; Hacken 0-0 Chelsea.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "PSG.fr: Paris Saint-Germain 1-2 FC Bayern Munich match report",
+      "url": "https://en.psg.fr/teams/womens-football/content/paris-saint-germain-bayern-munich-uwcl-2026"
+    },
+    {
+      "name": "UEFA Women's Champions League Matchday 4 results",
+      "url": "https://www.uefa.com/womenschampionsleague/fixtures-results/"
+    }
+  ]
+}

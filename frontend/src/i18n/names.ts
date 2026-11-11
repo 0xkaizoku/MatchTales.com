@@ -82,6 +82,8 @@ const TEAMS: Record<string, Partial<Record<Locale, string>>> = {
   // Formula 1 Constructors
   Mercedes: { fr: 'Mercedes', es: 'Mercedes', de: 'Mercedes', it: 'Mercedes', pl: 'Mercedes', zh: '梅赛德斯', ja: 'メルセデス', ko: '메르세데스', ar: 'مرسيدس' },
   Ferrari: { fr: 'Ferrari', es: 'Ferrari', de: 'Ferrari', it: 'Ferrari', pl: 'Ferrari', zh: '法拉利', ja: 'フェラーリ', ko: '페라리', ar: 'فيراري' },
+
+
   McLaren: { fr: 'McLaren', es: 'McLaren', de: 'McLaren', it: 'McLaren', pl: 'McLaren', zh: '迈凯伦', ja: 'マクラーレン', ko: '맥라렌', ar: 'ماكلارين' },
   'Red Bull': { fr: 'Red Bull', es: 'Red Bull', de: 'Red Bull', it: 'Red Bull', pl: 'Red Bull', zh: '红牛', ja: 'レッドブル', ko: '레드불', ar: 'ريد بُل' },
   // WNBA & Basketball
@@ -139,6 +141,16 @@ const TEAMS: Record<string, Partial<Record<Locale, string>>> = {
   'Azerbaijan GP field': { fr: 'plateau du GP d’Azerbaïdjan', es: 'parrilla del GP de Azerbaiyán', de: 'Aserbaidschan-GP-Feld', it: 'schieramento GP Azerbaijan', pl: 'stawka GP Azerbejdżanu', zh: '阿塞拜疆大奖赛车手', ja: 'アゼルバイジャンGPグリッド', ko: '아제르바이잔 GP 그리드', ar: 'شبكة جائزة أذربيجان' },
   'Paris Saint-Germain': { fr: 'Paris Saint-Germain', es: 'París Saint-Germain', de: 'Paris Saint-Germain', it: 'Paris Saint-Germain', pl: 'Paris Saint-Germain', zh: '巴黎圣日耳曼', ja: 'パリ・サンジェルマン', ko: '파리 생제르맹', ar: 'باريس سان جيرمان' },
   PSG: { fr: 'PSG', es: 'PSG', de: 'PSG', it: 'PSG', pl: 'PSG', zh: '巴黎', ja: 'PSG', ko: 'PSG', ar: 'باريس' },
+  'Boston Celtics': { fr: 'Boston Celtics', es: 'Boston Celtics', de: 'Boston Celtics', it: 'Boston Celtics', pl: 'Boston Celtics', zh: '波士顿凯尔特人', ja: 'ボストン・セルティックス', ko: '보스턴 셀틱스', ar: 'بوسطن سلتيكس' },
+  'Philadelphia 76ers': { fr: 'Philadelphia 76ers', es: 'Philadelphia 76ers', de: 'Philadelphia 76ers', it: 'Philadelphia 76ers', pl: 'Philadelphia 76ers', zh: '费城76人', ja: 'フィラデルフィア・76ers', ko: '필라델피아 76ers', ar: 'فيلادلفيا سفنتي سيكسرز' },
+  'Cleveland Cavaliers': { fr: 'Cleveland Cavaliers', es: 'Cleveland Cavaliers', de: 'Cleveland Cavaliers', it: 'Cleveland Cavaliers', pl: 'Cleveland Cavaliers', zh: '克利夫兰骑士', ja: 'クリーブランド・キャバリアーズ', ko: '클리블랜드 캐벌리어스', ar: 'كليفلاند كافالييرز' },
+  'Washington Commanders': { fr: 'Washington Commanders', es: 'Washington Commanders', de: 'Washington Commanders', it: 'Washington Commanders', pl: 'Washington Commanders', zh: '华盛顿指挥官', ja: 'ワシントン・コマンダーズ', ko: '워싱턴 커맨더스', ar: 'واشنطن كوماندرز' },
+  'Juventus Women': { fr: 'Juventus Women', es: 'Juventus', de: 'Juventus Turin', it: 'Juventus Women', pl: 'Juventus Women', zh: '尤文图斯女足', ja: 'ユヴェントス女子', ko: '유벤투스 위민', ar: 'يوفنتوس للسيدات' },
+  'OL Lyonnes': { fr: 'OL Lyonnes', es: 'OL Lyonnes', de: 'OL Lyonnes', it: 'OL Lyonnes', pl: 'OL Lyonnes', zh: '里昂女足', ja: 'OLリヨンヌ', ko: 'OL 리옹', ar: 'أولمبيك ليون للسيدات' },
+
+
+
+
 };
 
 const PLACES: Record<string, Partial<Record<Locale, string>>> = {
@@ -207,6 +219,11 @@ const PLACES: Record<string, Partial<Record<Locale, string>>> = {
   'Stadio Olimpico': { zh: '罗马奥林匹克体育场', ja: 'スタディオ・オリンピコ', ko: '스타디오 올림피코', ar: 'ملعب أولمبيكو' },
   Yokohama: { zh: '横滨', ja: '横浜', ko: '요코하마', ar: 'يوكوهاما' },
   'Yokohama Country Club': { zh: '横滨乡村俱乐部', ja: '横浜カントリークラブ', ko: '요코하마 컨트리 클럽', ar: 'نادي يوكوهاما الريفي' },
+  Dubai: { fr: 'Dubaï', es: 'Dubái', de: 'Dubai', it: 'Dubai', pl: 'Dubaj', zh: '迪拜', ja: 'ドバイ', ko: '두바이', ar: 'دبي' },
+  Biella: { fr: 'Biella', es: 'Biella', de: 'Biella', it: 'Biella', pl: 'Biella', zh: '比耶拉', ja: 'ビエッラ', ko: '비엘라', ar: 'بييلا' },
+  Stockholm: { fr: 'Stockholm', es: 'Estocolmo', de: 'Stockholm', it: 'Stoccolma', pl: 'Sztokholm', zh: '斯德哥尔摩', ja: 'ストックホルム', ko: '스톡홀름', ar: 'ستوكهولم' },
+  'Las Vegas': { fr: 'Las Vegas', es: 'Las Vegas', de: 'Las Vegas', it: 'Las Vegas', pl: 'Las Vegas', zh: '拉斯维加斯', ja: 'ラスベガス', ko: '라스베이거스', ar: 'لاس فيغاس' },
+  'East Rutherford': { fr: 'East Rutherford', es: 'East Rutherford', de: 'East Rutherford', it: 'East Rutherford', pl: 'East Rutherford', zh: '东卢瑟福', ja: 'イーストラザフォード', ko: '이스트러더퍼드', ar: 'إيست راذرفورد' },
 };
 
 const COMPETITIONS: Record<string, Partial<Record<Locale, string>>> = {
@@ -397,6 +414,50 @@ const COMPETITIONS: Record<string, Partial<Record<Locale, string>>> = {
     ko: '2026 상하이 마스터스',
     ar: 'بطولة شنغهاي للأساتذة 2026',
   },
+  'nba-2026-27': {
+    fr: 'NBA 2026-27',
+    es: 'NBA 2026-27',
+    de: 'NBA 2026/27',
+    it: 'NBA 2026-27',
+    pl: 'NBA 2026/27',
+    zh: '2026-27赛季NBA',
+    ja: 'NBA 2026-27',
+    ko: '2026-27 NBA',
+    ar: 'دوري NBA 2026-27',
+  },
+  'uwcl-2026-27': {
+    fr: 'Ligue des champions féminine 2026-27',
+    es: 'Champions League Femenina 2026-27',
+    de: 'UEFA Women’s Champions League 2026/27',
+    it: 'UEFA Women’s Champions League 2026-27',
+    pl: 'Liga Mistrzyń UEFA 2026/27',
+    zh: '2026-27赛季女足欧冠',
+    ja: 'UEFA女子チャンピオンズリーグ 2026-27',
+    ko: '2026-27 UEFA 여자 챔피언스리그',
+    ar: 'دوري أبطال أوروبا للسيدات 2026-27',
+  },
+  'atp-250-stockholm-2026': {
+    fr: 'Open de Stockholm 2026',
+    es: 'Abierto de Estocolmo 2026',
+    de: 'Stockholm Open 2026',
+    it: 'Stockholm Open 2026',
+    pl: 'Stockholm Open 2026',
+    zh: '2026斯德哥尔摩公开赛',
+    ja: '2026ストックホルム・オープン',
+    ko: '2026 스톡홀름 오픈',
+    ar: 'بطولة ستوكهولم المفتوحة 2026',
+  },
+  'dp-world-tour-2026': {
+    fr: 'DP World Tour 2026',
+    es: 'DP World Tour 2026',
+    de: 'DP World Tour 2026',
+    it: 'DP World Tour 2026',
+    pl: 'DP World Tour 2026',
+    zh: '2026 DP世界巡回赛',
+    ja: 'DPワールドツアー 2026',
+    ko: '2026 DP 월드투어',
+    ar: 'جولة دي بي ورلد 2026',
+  },
 };
 
 export function entityName(name: string | null | undefined, locale: Locale): string {
@@ -419,7 +480,10 @@ export function competitionName(competition: string | null | undefined, locale: 
     if (competition === 'davis-cup-2026') return 'Davis Cup';
     if (competition === 'f1-2026') return 'Formula 1';
     if (competition === 'wnba-2026') return 'WNBA';
-    if (competition === 'uwcl-2026') return "Women's Champions League";
+    if (competition === 'uwcl-2026' || competition === 'uwcl-2026-27') return "Women's Champions League";
+    if (competition === 'nba-2026-27') return 'NBA';
+    if (competition === 'atp-250-stockholm-2026') return 'Stockholm Open';
+    if (competition === 'dp-world-tour-2026') return 'DP World Tour';
     if (competition === 'nations-league-2026-27' || competition === 'UEFA Nations League') return 'UEFA Nations League';
     if (competition === 'shanghai-masters-2026') return 'Shanghai Masters';
     return competition;

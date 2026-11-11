@@ -1,0 +1,99 @@
+{
+  "slug": "dp-world-tour-championship-dubai-2026",
+  "headline": "DP World Tour Championship: Rory McIlroy chases Race to Dubai leader Eugenio Chacarra in R1 pairing",
+  "whyCareScore": 9.4,
+  "whyCareReason": "No. 1 Eugenio Chacarra (4,243.79 pts) and Masters champion Rory McIlroy (3,709.86 pts) go head-to-head in Thursday's final group for 2,000 points and the Harry Vardon Trophy.",
+  "teaser": "TOMORROW R1 (Thu 12 Nov, 12:40 GST / 08:40 GMT): Eugenio Chacarra (+533.93 pts lead) paired with Rory McIlroy at Jumeirah Golf Estates. $10M purse; $3M winner's share.",
+  "story": "The DP World Tour season builds toward a direct two-man showdown on the Earth Course at Jumeirah Golf Estates in Dubai starting Thursday, 12 November ($10 million purse, $3 million winner's prize, 2,000 Race to Dubai points). Race to Dubai leader Eugenio Chacarra enters the finale on 4,243.79 points after three wins in 2026, holding a 533.93-point lead over second-placed Rory McIlroy (3,709.86 points). After finishing third at last week's Abu Dhabi Aldar Championship to overtake Patrick Reed into second, 2026 Masters champion McIlroy tees off alongside Chacarra in Thursday's anchor pairing at 12:40 p.m. local time (8:40 a.m. GMT / 3:40 a.m. ET). Victory in Dubai guarantees Chacarra the season crown outright, while McIlroy must finish inside the projected top four or better and hope results tilt his way to capture a record-equalling eighth Harry Vardon Trophy alongside Colin Montgomerie. Stateside, the PGA Tour opens the Austin Championship from 12-15 November ($6 million purse).",
+  "stakes": "Two thousand Race to Dubai points on the line: Chacarra clinches with a Dubai win, while McIlroy fights for an eighth Harry Vardon Trophy to tie Colin Montgomerie.",
+  "rivalryAngle": "Spaniard Chacarra's breakout three-win season meets Masters champion McIlroy in Thursday's headline anchor pairing in Dubai.",
+  "funFacts": [
+    "Eugenio Chacarra leads the Race to Dubai with 4,243.79 points, 533.93 clear of Rory McIlroy (3,709.86).",
+    "McIlroy won the 2026 Masters and sits one Harry Vardon Trophy shy of Colin Montgomerie's all-time record of eight.",
+    "Final Round 1 group: Eugenio Chacarra and Rory McIlroy tee off Thursday at 12:40 GST (08:40 GMT)."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Eugenio Chacarra",
+      "team": "Spain",
+      "hook": "Race to Dubai No. 1 (4,243.79 pts, +533.93 lead) after three 2026 wins."
+    },
+    {
+      "name": "Rory McIlroy",
+      "team": "Northern Ireland",
+      "hook": "No. 2 (3,709.86 pts); chasing record-tying 8th Harry Vardon Trophy after 3rd in Abu Dhabi."
+    },
+    {
+      "name": "Patrick Reed",
+      "team": "United States",
+      "hook": "Overhauled by McIlroy into third following last week's Abu Dhabi Aldar Championship."
+    }
+  ],
+  "headToHead": "Thursday 12 November - Sunday 15 November 2026. Earth Course, Jumeirah Golf Estates, Dubai. Final R1 tee time: 12:40 GST.",
+  "tags": [
+    "golf",
+    "dp-world-tour",
+    "dubai",
+    "rory-mcilroy",
+    "eugenio-chacarra",
+    "race-to-dubai"
+  ],
+  "home": "Eugenio Chacarra",
+  "away": "Rory McIlroy",
+  "homeCode": "ESP",
+  "awayCode": "ENG",
+  "homeFlag": "es",
+  "awayFlag": "gb-eng",
+  "group": "Race to Dubai Finale",
+  "matchday": 1,
+  "date": "2026-11-12",
+  "time": "12:40",
+  "venue": "Earth Course, Jumeirah Golf Estates",
+  "city": "Dubai",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "golf",
+  "competition": "dp-world-tour-2026",
+  "format": "leaderboard",
+  "season": "2026",
+  "roundLabel": "Round 1 Preview",
+  "resultSummary": "TOMORROW 12:40 GST: Chacarra (4,243.79 pts) and McIlroy (3,709.86 pts) pair off in Dubai finale.",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Eugenio Chacarra",
+      "score": "4,243.79 pts",
+      "note": "Race to Dubai leader (3 wins in 2026)"
+    },
+    {
+      "pos": "2",
+      "name": "Rory McIlroy",
+      "score": "3,709.86 pts",
+      "note": "-533.93 pts; chasing 8th Harry Vardon Trophy"
+    },
+    {
+      "pos": "3",
+      "name": "Patrick Reed",
+      "score": "Top contender",
+      "note": "Passed by McIlroy at Abu Dhabi Championship"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "European Tour: Eugenio Chacarra and Rory McIlroy paired together in Dubai Round 1",
+      "url": "https://www.europeantour.com/dpworld-tour/news/articles/dp-world-tour-championship-2026-tee-times/"
+    },
+    {
+      "name": "Golf Monthly: How Rory McIlroy can win an eighth Race to Dubai crown in Dubai",
+      "url": "https://www.golfmonthly.com/news/rory-mcilroy-eugenio-chacarra-dp-world-tour-championship-2026"
+    }
+  ]
+}

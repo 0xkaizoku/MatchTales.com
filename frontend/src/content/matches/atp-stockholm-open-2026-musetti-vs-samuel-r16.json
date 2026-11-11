@@ -1,0 +1,91 @@
+{
+  "slug": "atp-stockholm-open-2026-musetti-vs-samuel-r16",
+  "headline": "ATP Stockholm Open: Musetti 6-1, 6-4 & Rune advance smoothly before Thursday's Turin Finals draw",
+  "whyCareScore": 8.8,
+  "whyCareReason": "Third seed Lorenzo Musetti cruises into the Stockholm quarter-finals while Holger Rune, Ugo Humbert and Alex Michelsen advance on the eve of the 2026 Nitto ATP Finals draw.",
+  "teaser": "STOCKHOLM R16: Lorenzo Musetti def. Toby Samuel 6-1, 6-4; Holger Rune def. Zizou Bergs 6-3, 6-4; Ugo Humbert def. Vallejo 6-4, 6-3. Turin 8-man draw: Thu 12 Nov, 12:00 CET.",
+  "story": "Indoor hard-court form held firm in Sweden on Tuesday, 10 November, as third-seeded Italian Lorenzo Musetti needed crisp efficiency to dispatch Toby Samuel 6-1, 6-4 in the Stockholm Open Round of 16 at Kungliga Tennishallen. Former champion Holger Rune opened his week cleanly with a 6-3, 6-4 win over eighth seed Zizou Bergs, while seventh seed Ugo Humbert overcame Adolfo Daniel Vallejo 6-4, 6-3 on Monday. Alex Michelsen (6) cruised past Juan Manuel Cerundolo 6-3, 6-2, Alejandro Tabilo edged Lorenzo Sonego 7-6, 2-6, 7-5, and Miomir Kecmanovic outlasted Arthur Rinderknech 7-6(4), 4-6, 6-4, while Thiago Agustin Tirante advanced past fifth seed Tomas Martin Etcheverry via walkover. Top seed Taylor Fritz faced Cameron Norrie in Wednesday action, with all eyes in men's tennis already turning to Turin: the official group draw for the Nitto ATP Finals (Nov 15-22 at Inalpi Arena) takes place Thursday, 12 November, at 12:00 p.m. CET featuring Alexander Zverev, Carlos Alcaraz, Ben Shelton, Daniil Medvedev, Flavio Cobolli, Arthur Fils, Frances Tiafoe and Rafael Jodar.",
+  "stakes": "Last regular-week ATP 250 momentum in Stockholm directly precedes Thursday's Turin round-robin draw splitting the season's elite eight.",
+  "rivalryAngle": "Clean indoor wins in Stockholm frame the final prelude before Zverev, Alcaraz, Shelton and Medvedev discover their Turin groups.",
+  "funFacts": [
+    "Musetti dropped just five games against Toby Samuel (6-1, 6-4) to reach the Stockholm quarter-finals.",
+    "Other confirmed Stockholm winners: Holger Rune (6-3, 6-4), Ugo Humbert (6-4, 6-3) and Alex Michelsen (6-3, 6-2).",
+    "Nitto ATP Finals 8 qualifiers for Thursday 12:00 CET draw: Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe, Jodar."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Lorenzo Musetti",
+      "team": "Italy",
+      "hook": "No. 3 seed swept Toby Samuel 6-1, 6-4 on Tuesday at Kungliga Tennishallen."
+    },
+    {
+      "name": "Holger Rune",
+      "team": "Denmark",
+      "hook": "Defeated eighth seed Zizou Bergs 6-3, 6-4 in Stockholm opening action."
+    },
+    {
+      "name": "Carlos Alcaraz",
+      "team": "Spain",
+      "hook": "Fresh Paris Masters champion headlines Thursday's Nitto ATP Finals draw in Turin."
+    }
+  ],
+  "headToHead": "Tuesday 10 November 2026. Kungliga Tennishallen, Stockholm. Result: Lorenzo Musetti def. Toby Samuel 6-1, 6-4.",
+  "tags": [
+    "tennis",
+    "atp",
+    "stockholm-open",
+    "musetti",
+    "rune",
+    "humbert",
+    "atp-finals",
+    "turin"
+  ],
+  "home": "Lorenzo Musetti",
+  "away": "Toby Samuel",
+  "homeCode": "ITA",
+  "awayCode": "ENG",
+  "homeFlag": "it",
+  "awayFlag": "gb-eng",
+  "group": "Bybit Stockholm Open",
+  "matchday": 2,
+  "date": "2026-11-10",
+  "time": "18:00",
+  "venue": "Kungliga Tennishallen",
+  "city": "Stockholm",
+  "status": "FINISHED",
+  "homeScore": "2",
+  "awayScore": "0",
+  "marquee": false,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618210/pexels-photo-1618210.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "sets",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-250-stockholm-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Stockholm R16",
+  "resultSummary": "Musetti def. Samuel 6-1, 6-4; Rune def. Bergs 6-3, 6-4; Humbert def. Vallejo 6-4, 6-3. Turin draw Thu 12:00 CET.",
+  "leaderboard": [],
+  "tennisSets": [
+    {
+      "p1": "6",
+      "p2": "1"
+    },
+    {
+      "p1": "6",
+      "p2": "4"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP Tour: Lorenzo Musetti vs Toby Samuel Stockholm Open 2026 result",
+      "url": "https://www.atptour.com/en/scores/archive/stockholm/429/2026/results"
+    },
+    {
+      "name": "ATP Tour: 2026 Nitto ATP Finals qualifiers and Turin draw time",
+      "url": "https://www.nittoatpfinals.com/en/news/turin-2026-qualifiers-draw"
+    }
+  ]
+}

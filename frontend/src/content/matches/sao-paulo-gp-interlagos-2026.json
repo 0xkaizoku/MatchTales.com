@@ -1,35 +1,35 @@
 {
   "slug": "sao-paulo-gp-interlagos-2026",
-  "headline": "Sao Paulo GP: Lando Norris wins chaotic wet race as Mercedes clinches Constructors title",
+  "headline": "Sao Paulo GP: Lando Norris wins wet Interlagos race as Mercedes clinches Constructors title",
   "whyCareScore": 9.9,
-  "whyCareReason": "Norris commands treacherous wet-dry conditions to win by 14.6s from pole; Verstappen produces an epic charge from 21st to 2nd; Mercedes seals the 2026 Constructors' Championship.",
-  "teaser": "RACE FINAL: Norris P1 (McLaren); Verstappen P2 (from 21st); Hadjar P3; Russell P4; Antonelli P5. Mercedes clinches Constructors' Championship on 652 points.",
-  "story": "Lando Norris produced a wet-weather masterclass to win the Grande Premio de Sao Paulo on Sunday, 8 November, at Autodromo Jose Carlos Pace, leading home Max Verstappen by 14.618 seconds after 71 unpredictable laps. Starting from pole position, Norris handled shifting rainfall and safety car interventions to secure his fourth victory of the season. Behind him, Verstappen executed one of the greatest recovery drives in Interlagos history, carving through the field from 21st on the grid following an engine penalty to take second place. Red Bull teammate Isack Hadjar finished third (+19.324s) to complete the podium. George Russell finished fourth (+23.401s) and newly crowned world champion Kimi Antonelli recovered from two spins to cross the line fifth (+28.112s). The combined 22 points lifted Mercedes to 652 points, an insurmountable 140-point lead over Ferrari (512 points) with two races remaining, mathematically sealing the 2026 FIA Formula 1 World Constructors' Championship.",
-  "stakes": "Mercedes officially clinches the 2026 Constructors' Championship, their first since 2021. Norris cements second in the Drivers' Championship race with Verstappen.",
-  "rivalryAngle": "Norris vs Verstappen in rain-soaked Interlagos, with Verstappen climbing 19 places and Norris controlling the race from the front.",
+  "whyCareReason": "Norris controls slippery Interlagos conditions from pole by 14.602s; Verstappen charges from 21st to 2nd; Russell (4th) and Antonelli (5th) seal the 2026 Constructors Championship for Mercedes.",
+  "teaser": "RACE FINAL: Norris P1 (1:35:23.504); Verstappen P2 (+14.602s from P21); Hadjar P3 (+24.485s); Russell P4; Antonelli P5. Mercedes clinches Constructors title on 652 pts.",
+  "story": "Lando Norris commanded wet conditions to win the Grande Premio de Sao Paulo on Sunday, 8 November, at Autodromo Jose Carlos Pace in 1:35:23.504 over 71 laps, securing his third Grand Prix victory of 2026 from pole position. Behind him, Max Verstappen staged a remarkable recovery drive from 21st on the grid to take second place (+14.602s), followed by Red Bull teammate Isack Hadjar in third (+24.485s). George Russell placed fourth (+33.991s) and newly crowned Drivers Champion Kimi Antonelli survived two spins in the rain to take fifth (+41.017s), pushing Mercedes to 652 points and mathematically sealing the 2026 Constructors Championship over Ferrari (510 points) with two races left. Oscar Piastri finished sixth (+56.475s), Liam Lawson seventh, Charles Leclerc eighth after a five-second collision penalty, Lewis Hamilton ninth in his 400th Grand Prix start, and Nico Hulkenberg tenth for Audi.",
+  "stakes": "Mercedes seals the 2026 Constructors Championship at 652 points, while just 33 points separate second-placed Verstappen (279) from sixth-placed Norris (246) entering Las Vegas.",
+  "rivalryAngle": "Norris controlled clean air in pouring spray while Verstappen carved past 19 cars from P21 on the Interlagos grid.",
   "funFacts": [
-    "Verstappen started 21st after an engine penalty and finished 2nd, gaining 19 positions in the wet.",
-    "Mercedes secured the Constructors' Championship with two races remaining (Las Vegas and Abu Dhabi).",
-    "Lando Norris became the first McLaren driver to win at Interlagos since Jenson Button in 2012."
+    "Max Verstappen charged from 21st on the starting grid to second place (+14.602s).",
+    "Lewis Hamilton made his 400th career Formula 1 Grand Prix start and finished ninth.",
+    "Mercedes (652) leads Ferrari (510), Red Bull (415) and McLaren (398) entering Las Vegas."
   ],
   "keyPlayers": [
     {
       "name": "Lando Norris",
       "team": "McLaren",
-      "hook": "Race winner from pole by 14.618s in tricky wet-dry conditions."
+      "hook": "Won from pole in 1:35:23.504 for his third victory of 2026; now 246 pts."
     },
     {
       "name": "Max Verstappen",
       "team": "Red Bull",
-      "hook": "Stunning recovery from 21st on the grid to 2nd place."
+      "hook": "Charged from 21st to 2nd (+14.602s) to hold second overall on 279 pts."
     },
     {
-      "name": "George Russell",
+      "name": "Kimi Antonelli",
       "team": "Mercedes",
-      "hook": "Finished 4th as Mercedes mathematically sealed the Constructors' crown."
+      "hook": "Recovered from two spins for P5; helps clinch Mercedes Constructors crown."
     }
   ],
-  "headToHead": "Sunday 8 November 2026. Autodromo Jose Carlos Pace, Sao Paulo. Race Final: Norris P1, Verstappen P2, Hadjar P3.",
+  "headToHead": "Sunday 8 November 2026. Interlagos, Sao Paulo. Podium: Norris P1, Verstappen P2, Hadjar P3.",
   "tags": [
     "f1",
     "formula-1",
@@ -42,7 +42,7 @@
   ],
   "home": "Lando Norris",
   "away": "Max Verstappen",
-  "homeCode": "GBR",
+  "homeCode": "ENG",
   "awayCode": "NED",
   "homeFlag": "gb-eng",
   "awayFlag": "nl",
@@ -66,58 +66,54 @@
   "format": "race",
   "season": "2026",
   "roundLabel": "Race Final",
-  "resultSummary": "RACE: Norris P1 (McLaren); Verstappen P2 (+14.6s from 21st); Hadjar P3. Mercedes clinches Constructors title.",
+  "resultSummary": "RACE: Norris P1 (1:35:23.504); Verstappen P2 (+14.602s); Hadjar P3 (+24.485s). Mercedes Champions (652 pts).",
   "leaderboard": [
     {
       "pos": "1",
       "name": "Lando Norris (McLaren)",
-      "score": "1:30:12.441",
+      "score": "1:35:23.504",
       "note": "Winner from pole"
     },
     {
       "pos": "2",
       "name": "Max Verstappen (Red Bull)",
-      "score": "+14.618s",
+      "score": "+14.602s",
       "note": "Started 21st"
     },
     {
       "pos": "3",
       "name": "Isack Hadjar (Red Bull)",
-      "score": "+19.324s",
+      "score": "+24.485s",
       "note": "Podium"
     },
     {
       "pos": "4",
       "name": "George Russell (Mercedes)",
-      "score": "+23.401s",
+      "score": "+33.991s",
       "note": "Constructors Champions"
     },
     {
       "pos": "5",
       "name": "Kimi Antonelli (Mercedes)",
-      "score": "+28.112s",
-      "note": "World Champion"
+      "score": "+41.017s",
+      "note": "Drivers Champion (390 pts)"
     },
     {
       "pos": "6",
-      "name": "Charles Leclerc (Ferrari)",
-      "score": "+34.550s",
+      "name": "Oscar Piastri (McLaren)",
+      "score": "+56.475s",
       "note": "P6"
     }
   ],
   "tennisSets": [],
   "sources": [
     {
-      "name": "Formula1.com: Norris triumphs in chaotic wet Sao Paulo GP as Mercedes win constructors title",
-      "url": "https://www.formula1.com/en/latest/article.2026-sao-paulo-grand-prix-race-report-norris-verstappen-mercedes-title.html"
+      "name": "Formula1.com: 2026 Sao Paulo Grand Prix race report and standings",
+      "url": "https://www.formula1.com/en/racing/2026/brazil"
     },
     {
-      "name": "The Guardian: Norris masters wet Interlagos while Verstappen surges from 21st to 2nd",
-      "url": "https://www.theguardian.com/sport/2026/nov/08/lando-norris-wins-brazilian-grand-prix-mercedes-title"
-    },
-    {
-      "name": "FIA Race Classification, Sao Paulo 2026",
-      "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_race_classification.pdf"
+      "name": "FIA Formula 1 World Championship standings after Sao Paulo",
+      "url": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/sao-paulo-grand-prix"
     }
   ]
 }

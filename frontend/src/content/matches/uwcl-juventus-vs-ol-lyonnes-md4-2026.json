@@ -1,0 +1,81 @@
+{
+  "slug": "uwcl-juventus-vs-ol-lyonnes-md4-2026",
+  "headline": "Tonight in UWCL MD4: Juventus Women host OL Lyonnes in Biella before Camp Nou Thursday",
+  "whyCareScore": 8.9,
+  "whyCareReason": "After Bayern stunned PSG and Real Madrid dispatched Paris FC on Tuesday, Wednesday's Champions League spotlight lands on Biella at 21:00 CET before Barcelona host Arsenal tomorrow.",
+  "teaser": "TONIGHT (Wed 11 Nov, 20:00 UTC / 21:00 CET): Juventus Women vs OL Lyonnes at Stadio Vittorio Pozzo-Lamarmora. Earlier: OH Leuven vs HB Koge (17:45 UTC). Thu: Barcelona vs Arsenal.",
+  "story": "UEFA Women's Champions League Matchday 4 resumes tonight, Wednesday 11 November, with two European fixtures topped by Juventus Women hosting OL Lyonnes at Stadio Comunale Vittorio Pozzo-Lamarmora in Biella at 20:00 UTC (21:00 CET), preceded by OH Leuven vs HB Koge at 17:45 UTC. Both games follow Tuesday's away wins for Bayern Munich (2-1 at PSG) and Chelsea's frustrated 0-0 stalemate in Gothenburg. Elsewhere on the European calendar, Benfica vs Austria Wien was postponed to Thursday due to Storm Charles red weather alerts in Portugal, while FC Barcelona vs Arsenal opens Thursday night at 18:45 CET at Spotify Camp Nou alongside men's UEFA Nations League Matchday 5 ties including England vs Croatia, Spain vs Czechia and France vs Italy.",
+  "stakes": "Key midweek league-phase test in Biella ahead of Thursday's postponed ties, Barcelona-Arsenal at Camp Nou and the return of men's international football.",
+  "rivalryAngle": "Italian hosts seeking statement European points against French powerhouses OL Lyonnes under floodlights in Biella.",
+  "funFacts": [
+    "Wednesday UWCL schedule: OH Leuven vs HB Koge (17:45 UTC) followed by Juventus vs OL Lyonnes (20:00 UTC).",
+    "Storm Charles weather alerts forced Benfica vs Austria Wien back to Thursday 12 November.",
+    "Thursday features Barcelona vs Arsenal (18:45 CET) plus Nations League MD5: England-Croatia, Spain-Czechia, France-Italy."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Juventus Women",
+      "team": "Juventus Women",
+      "hook": "Hosting OL Lyonnes in Biella in Wednesday's marquee 20:00 UTC fixture."
+    },
+    {
+      "name": "OL Lyonnes",
+      "team": "OL Lyonnes",
+      "hook": "Visiting northern Italy on Matchday 4 after PSG fell to Bayern in Paris."
+    },
+    {
+      "name": "Barcelona & Arsenal",
+      "team": "Barcelona",
+      "hook": "Rescheduled to Thursday 12 November (18:45 CET) at Spotify Camp Nou."
+    }
+  ],
+  "headToHead": "Wednesday 11 November 2026, 20:00 UTC (21:00 CET). Stadio Comunale Vittorio Pozzo-Lamarmora, Biella.",
+  "tags": [
+    "soccer",
+    "uwcl",
+    "juventus",
+    "ol-lyonnes",
+    "barcelona",
+    "arsenal",
+    "nations-league"
+  ],
+  "home": "Juventus Women",
+  "away": "OL Lyonnes",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "UWCL League Phase",
+  "matchday": 4,
+  "date": "2026-11-11",
+  "time": "20:00",
+  "venue": "Stadio Comunale Vittorio Pozzo-Lamarmora",
+  "city": "Biella",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": false,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1171084/pexels-photo-1171084.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "soccer",
+  "competition": "uwcl-2026-27",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "UWCL MD4 Tonight",
+  "resultSummary": "TONIGHT 20:00 UTC: Juventus Women vs OL Lyonnes in Biella; OH Leuven vs HB Koge at 17:45 UTC.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Sofascore: Juventus vs OL Lyonnes UWCL 11 Nov 2026 preview",
+      "url": "https://www.sofascore.com/football/match/juventus-ol-lyonnes/uwcl-2026-11-11"
+    },
+    {
+      "name": "Arsenal.com: UWCL fixture against Barcelona moved to Thursday 12 Nov",
+      "url": "https://www.arsenal.com/news/barcelona-vs-arsenal-uwcl-rescheduled-november-12-2026"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "nba-celtics-vs-76ers-george-36-2026",
+  "headline": "NBA: Paul George drops 36 in Philly return as Celtics rout 76ers 123-101 to take 1st in East",
+  "whyCareScore": 9.8,
+  "whyCareReason": "Traded to Boston over the summer, Paul George drills six threes for 36 points back at Xfinity Mobile Arena while Jayson Tatum outduels former co-star Jaylen Brown in a 26-3 run.",
+  "teaser": "FINAL: Celtics 123, 76ers 101. George 36 pts (6-11 3PT, 14 in 4Q); Tatum 21, Pritchard 18; Maxey 24, Brown 13. Boston moves to 9-2 atop the East ahead of 9-3 Philadelphia.",
+  "story": "Paul George poured in 36 points in his first game back in Philadelphia on Tuesday, 10 November, leading the Boston Celtics to a 123-101 rout of the 76ers at Xfinity Mobile Arena. In 30:09 of action against the franchise that traded him in the summer, George shot 6 of 11 from three-point range, grabbed five rebounds and scored 14 fourth-quarter points to break open a deadlock. Tied 79-79 late in the third quarter, Boston exploded on a 26-3 run bridging the third and fourth frames. Jayson Tatum added 21 points after a frosty pregame sequence in which former Boston teammate Jaylen Brown appeared to bypass a tap-up before tipoff; Brown battled early foul trouble and finished with 13 points against his old club. Payton Pritchard scored 18 and Sam Hauser added 12 for Boston (9-2), which overtook Philadelphia (9-3) for first place in the Eastern Conference. Tyrese Maxey led the 76ers with 24 points. Elsewhere Tuesday, Portland defeated Oklahoma City 123-103 behind Damian Lillard's 25 points, Deni Avdija's 24 points and 8 assists, and a 38-21 third quarter against Shai Gilgeous-Alexander (26 pts, 8 reb) and Jared McCain (21 pts); the Knicks beat the Bucks 117-85, Suns topped the Clippers 133-110, Magic beat the Kings 107-100, and Heat edged the Jazz 115-109.",
+  "stakes": "Boston claims solo possession of first place in the Eastern Conference at 9-2 ahead of tonight's road visit to Toronto, while Philadelphia slips to 9-3.",
+  "rivalryAngle": "Double summer-trade homecoming: Paul George torched Philadelphia for 36 while Jaylen Brown struggled in foul trouble facing Jayson Tatum and Boston.",
+  "funFacts": [
+    "Game was tied 79-79 late in the third quarter before Boston unleashed a 26-3 surge.",
+    "Paul George scored 14 of his 36 points in the fourth quarter (6 of 11 from three in 30:09).",
+    "Other Nov 10 NBA finals: Trail Blazers 123-103 Thunder, Knicks 117-85 Bucks, Suns 133-110 Clippers."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Paul George",
+      "team": "Boston Celtics",
+      "hook": "36 points, 6-11 3PT, 5 rebounds and 14 fourth-quarter points in his Philly return."
+    },
+    {
+      "name": "Jayson Tatum",
+      "team": "Boston Celtics",
+      "hook": "Scored 21 points as Boston improved to 9-2 and took first in the East."
+    },
+    {
+      "name": "Tyrese Maxey",
+      "team": "Philadelphia 76ers",
+      "hook": "Led Philadelphia with 24 points; Jaylen Brown was held to 13 points."
+    }
+  ],
+  "headToHead": "Tuesday 10 November 2026. Xfinity Mobile Arena, Philadelphia. Final: Celtics 123, 76ers 101.",
+  "tags": [
+    "basketball",
+    "nba",
+    "celtics",
+    "76ers",
+    "paul-george",
+    "jayson-tatum",
+    "jaylen-brown"
+  ],
+  "home": "Philadelphia 76ers",
+  "away": "Boston Celtics",
+  "homeCode": "USA",
+  "awayCode": "USA",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NBA Regular Season",
+  "matchday": 11,
+  "date": "2026-11-10",
+  "time": "19:30",
+  "venue": "Xfinity Mobile Arena",
+  "city": "Philadelphia",
+  "status": "FINISHED",
+  "homeScore": 101,
+  "awayScore": 123,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/248547/pexels-photo-248547.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "points",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "basketball",
+  "competition": "nba-2026-27",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "Eastern Showdown",
+  "resultSummary": "FINAL: Celtics 123, 76ers 101. George 36 pts (6-11 3PT), Tatum 21, Pritchard 18; Maxey 24, Brown 13. BOS 9-2, PHI 9-3.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "The Washington Post: Paul George gets revenge, Tatum and Brown collide in Boston's 123-101 win",
+      "url": "https://www.washingtonpost.com/sports/2026/11/10/celtics-76ers-paul-george-jaylen-brown/"
+    },
+    {
+      "name": "Northeast Times: Boston pulls away with 26-3 run to pass Sixers for East top spot",
+      "url": "https://northeasttimes.com/sports/2026/11/10/celtics-123-76ers-101-paul-george-36/"
+    }
+  ]
+}

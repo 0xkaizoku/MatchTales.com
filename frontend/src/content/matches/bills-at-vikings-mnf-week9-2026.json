@@ -1,32 +1,32 @@
 {
   "slug": "bills-at-vikings-mnf-week9-2026",
-  "headline": "NFL Week 9 MNF: Bills stifle Vikings 23-6 behind James Cook and fierce defense",
+  "headline": "NFL Week 9 MNF: Bills smother Vikings 23-6 behind James Cook and three turnovers",
   "whyCareScore": 9.6,
-  "whyCareReason": "Buffalo's defense sacks Sam Darnold five times and limits Justin Jefferson while James Cook rushes for 107 yards and a touchdown, handing Minnesota (7-1) its first defeat.",
-  "teaser": "FINAL: Bills 23, Vikings 6. Cook 107 yds, 1 TD; Allen 235 yds, 1 TD. Buffalo hands Minnesota its first loss of the season. Sunday: Bengals 34, Falcons 17 in Madrid.",
-  "story": "The Buffalo Bills defeated the Minnesota Vikings 23-6 on Monday, 9 November, at U.S. Bank Stadium in Minneapolis on ESPN Monday Night Football. James Cook rushed 19 times for 107 yards and a 12-yard touchdown, while Josh Allen completed 18 of 27 passes for 235 yards and a 24-yard scoring strike to Dalton Kincaid. The Bills defense dominated the line of scrimmage, recording five sacks on Sam Darnold and forcing two fourth-quarter turnovers. Minnesota entered the night undefeated at 7-0 but was held without a touchdown for the first time all season. Will Reichard kicked two field goals (38 and 47 yards) for Minnesota's only points. Buffalo improved to 7-2 atop the AFC East, while Minnesota fell to 7-1. The result followed Sunday's international showcase in Madrid, where Joe Burrow passed for 271 yards and four total touchdowns as the Cincinnati Bengals beat the Atlanta Falcons 34-17 at Santiago Bernabeu Stadium.",
-  "stakes": "Buffalo hands Minnesota its first loss of the season and moves to 7-2, keeping pace with Kansas City. Minnesota drops to 7-1 but maintains a one-game division lead over Detroit.",
-  "rivalryAngle": "Non-conference heavyweight clash between two division leaders, decided by Buffalo's defensive pressure in Darnold's pocket.",
+  "whyCareReason": "Buffalo forces three Carson Wentz turnovers, controls the clock for 42:32, and rides James Cook's 107 rushing yards to improve to 7-1.",
+  "teaser": "FINAL: Bills 23, Vikings 6. Cook 31 car, 107 yds, 5-yd TD; Allen 21-31, 234 yds, TD pass to Keleki Latu. Buffalo moves to 7-1; Minnesota falls to 6-2.",
+  "story": "The Buffalo Bills defeated the Minnesota Vikings 23-6 on Monday, 9 November, at U.S. Bank Stadium in Minneapolis on ESPN Monday Night Football, improving to 7-1 and matching their best eight-game start since 1993. Running back James Cook powered a physical ground game with 31 carries for 107 yards, sealing the win with a five-yard rushing touchdown during a 15-play, 8:32 fourth-quarter march. Quarterback Josh Allen completed 21 of 31 passes for 234 yards with an interception and a late first-half touchdown pass to tight end Keleki Latu, absorbing four sacks from Minnesota's pass rush. Starting for an injured Kyler Murray (hamstring), Carson Wentz struggled against Buffalo's defense, going 8 of 25 for 81 yards with two interceptions and a lost fumble before Max Brosmer replaced him late (6 of 7 for 58 yards). Buffalo held a commanding 42:32 to 17:28 advantage in time of possession and held the Vikings to 0-for-7 on third down. Tyler Bass kicked three field goals, including a 52-yarder, extending his franchise-record streak to 24 consecutive makes, while Will Reichard converted early field goals for Minnesota (6-2). Sunday in Madrid featured Joe Burrow throwing for 271 yards and accounting for four touchdowns as the Bengals beat the Falcons 34-17 at Santiago Bernabeu Stadium.",
+  "stakes": "Buffalo matches its best eight-game start since 1993 at 7-1 atop the AFC East. Minnesota falls to 6-2 with its second straight defeat while waiting on Kyler Murray's hamstring recovery.",
+  "rivalryAngle": "Ball-control supremacy meets stalled offense: Buffalo doubled Minnesota's possession time and capitalized on three takeaways.",
   "funFacts": [
-    "James Cook surpassed 100 rushing yards for the third time this season.",
-    "Minnesota was held to six points, their lowest single-game scoring total since 2021.",
+    "Buffalo dominated time of possession 42:32 to 17:28 and kept Minnesota 0-for-7 on third down.",
+    "Tyler Bass has converted 24 consecutive field goals, breaking a franchise record.",
     "Sunday in Madrid: Joe Burrow threw three touchdown passes and ran for another in Cincinnati's 34-17 win."
   ],
   "keyPlayers": [
     {
       "name": "James Cook",
       "team": "Buffalo Bills",
-      "hook": "19 carries, 107 yards and a 12-yard touchdown run."
+      "hook": "31 carries, 107 yards and a 5-yard 4Q touchdown on a 15-play drive."
     },
     {
       "name": "Josh Allen",
       "team": "Buffalo Bills",
-      "hook": "18 of 27 for 235 yards, 1 touchdown pass, zero turnovers."
+      "hook": "21 of 31 for 234 yards and a 25-yard touchdown pass to Keleki Latu."
     },
     {
-      "name": "Sam Darnold",
+      "name": "Carson Wentz",
       "team": "Minnesota Vikings",
-      "hook": "Sacked five times as Minnesota suffered its first defeat of the season."
+      "hook": "8 of 25 for 81 yards with 2 interceptions and a lost fumble before being benched."
     }
   ],
   "headToHead": "Monday 9 November 2026. U.S. Bank Stadium, Minneapolis. Final: Bills 23, Vikings 6.",
@@ -38,7 +38,8 @@
     "mnf",
     "week9",
     "josh-allen",
-    "james-cook"
+    "james-cook",
+    "carson-wentz"
   ],
   "home": "Minnesota Vikings",
   "away": "Buffalo Bills",
@@ -66,21 +67,21 @@
   "format": "team-match",
   "season": "2026",
   "roundLabel": "Week 9 MNF",
-  "resultSummary": "FINAL: Bills 23, Vikings 6. Cook 107 yds, 1 TD; Allen 235 yds, 1 TD; Bills defense 5 sacks. MIN 7-1, BUF 7-2.",
+  "resultSummary": "FINAL: Bills 23, Vikings 6. Cook 107 yds, 1 TD; Allen 234 yds, 1 TD to Latu; Wentz 8-25, 2 INTs. BUF 7-1, MIN 6-2.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "NFL.com: Bills vs Vikings Week 9 game recap",
+      "name": "NFL.com: Bills vs Vikings Week 9 game center",
       "url": "https://www.nfl.com/games/bills-at-vikings-2026-reg-9"
     },
     {
-      "name": "ESPN: Bills hand Vikings first defeat on Monday Night Football",
-      "url": "https://www.espn.com/nfl/recap?gameId=401671844"
+      "name": "CBS Sports: Bills shut down Vikings 23-6 on Monday Night Football",
+      "url": "https://www.cbssports.com/nfl/news/bills-vs-vikings-score-mnf-2026/"
     },
     {
-      "name": "Associated Press: Buffalo's defense smothers Minnesota 23-6",
-      "url": "https://apnews.com/article/bills-vikings-allen-cook-darnold-nfl-week9-7a31b2894cd1249e0114022838efca88"
+      "name": "Buffalo Bills: Week 9 postgame notes in Minneapolis",
+      "url": "https://www.buffalobills.com/news/bills-vikings-mnf-recap-2026"
     }
   ]
 }
