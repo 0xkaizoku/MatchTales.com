@@ -1,43 +1,43 @@
 {
   "slug": "uwcl-juventus-vs-ol-lyonnes-md4-2026",
-  "headline": "Tonight in UWCL MD4: Juventus Women host OL Lyonnes in Biella before Camp Nou Thursday",
-  "whyCareScore": 8.9,
-  "whyCareReason": "After Bayern stunned PSG and Real Madrid dispatched Paris FC on Tuesday, Wednesday's Champions League spotlight lands on Biella at 21:00 CET before Barcelona host Arsenal tomorrow.",
-  "teaser": "TONIGHT (Wed 11 Nov, 20:00 UTC / 21:00 CET): Juventus Women vs OL Lyonnes at Stadio Vittorio Pozzo-Lamarmora. Earlier: OH Leuven vs HB Koge (17:45 UTC). Thu: Barcelona vs Arsenal.",
-  "story": "UEFA Women's Champions League Matchday 4 resumes tonight, Wednesday 11 November, with two European fixtures topped by Juventus Women hosting OL Lyonnes at Stadio Comunale Vittorio Pozzo-Lamarmora in Biella at 20:00 UTC (21:00 CET), preceded by OH Leuven vs HB Koge at 17:45 UTC. Both games follow Tuesday's away wins for Bayern Munich (2-1 at PSG) and Chelsea's frustrated 0-0 stalemate in Gothenburg. Elsewhere on the European calendar, Benfica vs Austria Wien was postponed to Thursday due to Storm Charles red weather alerts in Portugal, while FC Barcelona vs Arsenal opens Thursday night at 18:45 CET at Spotify Camp Nou alongside men's UEFA Nations League Matchday 5 ties including England vs Croatia, Spain vs Czechia and France vs Italy.",
-  "stakes": "Key midweek league-phase test in Biella ahead of Thursday's postponed ties, Barcelona-Arsenal at Camp Nou and the return of men's international football.",
-  "rivalryAngle": "Italian hosts seeking statement European points against French powerhouses OL Lyonnes under floodlights in Biella.",
+  "headline": "UWCL MD4: OL Lyonnes crush Juventus Women 6-0 in Biella behind Katoto brace",
+  "whyCareScore": 9.0,
+  "whyCareReason": "Marie-Antoinette Katoto struck twice in four minutes before Melchie Dumornay, Lily Yohannes, Korbin Albert and Wendie Renard completed a 6-0 statement.",
+  "teaser": "FINAL: Juventus Women 0-6 OL Lyonnes (Katoto 31', 35', Dumornay 40', Yohannes 80', Albert 85', Renard 90+1'). Also Wed: OH Leuven 1-1 HB Koge.",
+  "story": "OL Lyonnes delivered one of the most emphatic away performances of the UEFA Women's Champions League league phase on Wednesday, 11 November, dismantling Juventus Women 6-0 at Stadio Comunale Vittorio Pozzo-Lamarmora in Biella. Marie-Antoinette Katoto broke open the contest with quickfire strikes in the 31st and 35th minutes before Melchie Dumornay added a third five minutes before halftime. Any hopes of an Italian response faded late as Lily Yohannes netted in the 80th minute, Korbin Albert scored in the 85th and captain Wendie Renard converted in stoppage time (90+1'). Elsewhere on Wednesday's Matchday 4 slate, OH Leuven and HB Koge shared a 1-1 draw.",
+  "stakes": "OL Lyonnes strengthen their league-phase standing with six unanswered road goals while Juventus absorbs a bruising home setback ahead of tonight's Camp Nou clash.",
+  "rivalryAngle": "French clinical finishing tore open a marquee European night in Biella, turning tight opening half-hour tension into a six-goal clinic.",
   "funFacts": [
-    "Wednesday UWCL schedule: OH Leuven vs HB Koge (17:45 UTC) followed by Juventus vs OL Lyonnes (20:00 UTC).",
-    "Storm Charles weather alerts forced Benfica vs Austria Wien back to Thursday 12 November.",
-    "Thursday features Barcelona vs Arsenal (18:45 CET) plus Nations League MD5: England-Croatia, Spain-Czechia, France-Italy."
+    "Marie-Antoinette Katoto scored twice inside four minutes (31', 35') to spark OL Lyonnes' 6-0 rout.",
+    "Melchie Dumornay (40'), Lily Yohannes (80'), Korbin Albert (85') and Wendie Renard (90+1') rounded out the scoring.",
+    "Earlier on Wednesday in Matchday 4, OH Leuven and HB Koge finished locked 1-1."
   ],
   "keyPlayers": [
     {
-      "name": "Juventus Women",
-      "team": "Juventus Women",
-      "hook": "Hosting OL Lyonnes in Biella in Wednesday's marquee 20:00 UTC fixture."
-    },
-    {
-      "name": "OL Lyonnes",
+      "name": "Marie-Antoinette Katoto",
       "team": "OL Lyonnes",
-      "hook": "Visiting northern Italy on Matchday 4 after PSG fell to Bayern in Paris."
+      "hook": "Struck in the 31st and 35th minutes to break Juventus open before halftime."
     },
     {
-      "name": "Barcelona & Arsenal",
-      "team": "Barcelona",
-      "hook": "Rescheduled to Thursday 12 November (18:45 CET) at Spotify Camp Nou."
+      "name": "Melchie Dumornay",
+      "team": "OL Lyonnes",
+      "hook": "Added the 40th-minute third goal to seal control before the interval."
+    },
+    {
+      "name": "Wendie Renard",
+      "team": "OL Lyonnes",
+      "hook": "Added stoppage-time finishing touch (90+1') alongside Yohannes (80') and Albert (85')."
     }
   ],
-  "headToHead": "Wednesday 11 November 2026, 20:00 UTC (21:00 CET). Stadio Comunale Vittorio Pozzo-Lamarmora, Biella.",
+  "headToHead": "Wednesday 11 November 2026. Stadio Comunale Vittorio Pozzo-Lamarmora, Biella. Final: Juventus Women 0-6 OL Lyonnes.",
   "tags": [
     "soccer",
     "uwcl",
     "juventus",
     "ol-lyonnes",
-    "barcelona",
-    "arsenal",
-    "nations-league"
+    "katoto",
+    "dumornay",
+    "renard"
   ],
   "home": "Juventus Women",
   "away": "OL Lyonnes",
@@ -51,31 +51,31 @@
   "time": "20:00",
   "venue": "Stadio Comunale Vittorio Pozzo-Lamarmora",
   "city": "Biella",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 0,
+  "awayScore": 6,
   "marquee": false,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/1171084/pexels-photo-1171084.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": null,
+  "decidedBy": "90min",
   "homePen": null,
   "awayPen": null,
   "sport": "soccer",
   "competition": "uwcl-2026-27",
   "format": "team-match",
   "season": "2026-27",
-  "roundLabel": "UWCL MD4 Tonight",
-  "resultSummary": "TONIGHT 20:00 UTC: Juventus Women vs OL Lyonnes in Biella; OH Leuven vs HB Koge at 17:45 UTC.",
+  "roundLabel": "UWCL MD4 Final",
+  "resultSummary": "FINAL: Juventus Women 0-6 OL Lyonnes (Katoto 31', 35', Dumornay 40', Yohannes 80', Albert 85', Renard 90+1'). OH Leuven 1-1 HB Koge.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "Sofascore: Juventus vs OL Lyonnes UWCL 11 Nov 2026 preview",
-      "url": "https://www.sofascore.com/football/match/juventus-ol-lyonnes/uwcl-2026-11-11"
+      "name": "UEFA Women's Champions League: Juventus vs OL Lyonnes 0-6 match summary",
+      "url": "https://www.uefa.com/womenschampionsleague/"
     },
     {
-      "name": "Arsenal.com: UWCL fixture against Barcelona moved to Thursday 12 Nov",
-      "url": "https://www.arsenal.com/news/barcelona-vs-arsenal-uwcl-rescheduled-november-12-2026"
+      "name": "ESPN Soccer: Katoto scores twice in OL Lyonnes 6-0 win over Juventus",
+      "url": "https://www.espn.com/soccer/scoreboard"
     }
   ]
 }

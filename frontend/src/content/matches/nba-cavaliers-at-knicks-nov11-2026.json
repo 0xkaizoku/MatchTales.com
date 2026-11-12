@@ -1,42 +1,43 @@
 {
   "slug": "nba-cavaliers-at-knicks-nov11-2026",
-  "headline": "Tonight on ESPN: Knicks host Cavaliers at Madison Square Garden opening 10-game Wednesday slate",
-  "whyCareScore": 8.7,
-  "whyCareReason": "Fresh off a 117-85 demolition of Milwaukee on Tuesday, New York opens ESPN's Wednesday doubleheader at 7:00 p.m. ET before Warriors at Rockets (9:30 p.m. ET).",
-  "teaser": "TONIGHT (Wed 11 Nov, 7:00 p.m. ET, ESPN): Cleveland Cavaliers at New York Knicks at MSG. Nightcap: Golden State at Houston (9:30 p.m. ET); Boston visits Toronto.",
-  "story": "Eastern Conference intensity carries straight into Wednesday night, 11 November, as the New York Knicks host the Cleveland Cavaliers at Madison Square Garden at 7:00 p.m. ET in the opener of ESPN's national doubleheader. New York enters the back-to-back brimming with momentum after crushing the Milwaukee Bucks 117-85 on Tuesday night. The 9:30 p.m. ET ESPN nightcap sends the Golden State Warriors to Houston to face the Rockets, while newly minted East leader Boston (9-2) travels to Toronto after blowing out Philadelphia 123-101 and Oklahoma City meets Portland in an immediate rematch of Tuesday's 123-103 Trail Blazers upset.",
-  "stakes": "Headline national test for New York on back-to-back nights, alongside Warriors-Rockets on ESPN and Boston opening its stay atop the Eastern Conference.",
-  "rivalryAngle": "Garden primetime test on the front end of a loaded 10-game NBA Wednesday card.",
+  "headline": "NBA: James Harden drops 32 at MSG as Cavaliers top Knicks 115-107",
+  "whyCareScore": 9.1,
+  "whyCareReason": "James Harden scores 32 with five three-pointers and Donovan Mitchell adds 23 at Madison Square Garden, handing New York a home defeat after Tuesday's rout of Milwaukee.",
+  "teaser": "FINAL: Cavaliers 115, Knicks 107. Harden 32 pts (5 threes), Mitchell 23; Brunson 27, Towns 21. Cleveland pulls away at Madison Square Garden.",
+  "story": "James Harden poured in a game-high 32 points with five three-pointers on Wednesday night, 11 November, powering the Cleveland Cavaliers past the New York Knicks 115-107 on ESPN at Madison Square Garden. Donovan Mitchell added 23 points as Cleveland spoiled the second night of New York's back-to-back following Tuesday's 117-85 win over Milwaukee. Jalen Brunson led the Knicks with 27 points and Karl-Anthony Towns chipped in 21, but Cleveland's perimeter shot-making carried the decisive stretch in the fourth quarter.",
+  "stakes": "Cleveland picks up a statement Eastern Conference road win at Madison Square Garden while halting New York's home momentum.",
+  "rivalryAngle": "Veteran guard duel under MSG lights: Harden (32) and Mitchell (23) outgun Brunson (27) and Towns (21) on national television.",
   "funFacts": [
-    "New York tips off ESPN's Wednesday doubleheader at 7:00 p.m. ET before Warriors at Rockets at 9:30 p.m. ET.",
-    "Ten NBA games fill Wednesday's card, including Boston at Toronto and Oklahoma City's rematch in Portland.",
-    "The Knicks routed the Milwaukee Bucks 117-85 on Tuesday before returning to Madison Square Garden."
+    "James Harden knocked down five three-pointers on his way to a game-high 32 points.",
+    "Donovan Mitchell contributed 23 points alongside Harden for 55 combined Cleveland guard points.",
+    "Jalen Brunson (27) and Karl-Anthony Towns (21) combined for 48 points in the Knicks defeat."
   ],
   "keyPlayers": [
     {
-      "name": "New York Knicks",
+      "name": "James Harden",
+      "team": "Cleveland Cavaliers",
+      "hook": "Scored a game-high 32 points with five made three-pointers at MSG."
+    },
+    {
+      "name": "Donovan Mitchell",
+      "team": "Cleveland Cavaliers",
+      "hook": "Backed up Harden with 23 points in Cleveland's 115-107 road victory."
+    },
+    {
+      "name": "Jalen Brunson",
       "team": "New York Knicks",
-      "hook": "Home at Madison Square Garden on Wednesday night after beating Milwaukee 117-85."
-    },
-    {
-      "name": "Boston Celtics",
-      "team": "Boston Celtics",
-      "hook": "Visit Toronto as East No. 1 (9-2) one night after beating Philadelphia 123-101."
-    },
-    {
-      "name": "Golden State Warriors",
-      "team": "Golden State Warriors",
-      "hook": "Headliner in ESPN's 9:30 p.m. ET nightcap at the Houston Rockets."
+      "hook": "Led New York with 27 points alongside Karl-Anthony Towns' 21."
     }
   ],
-  "headToHead": "Wednesday 11 November 2026. Madison Square Garden, New York. Tipoff 7:00 p.m. ET on ESPN.",
+  "headToHead": "Wednesday 11 November 2026. Madison Square Garden, New York. Final: Cavaliers 115, Knicks 107.",
   "tags": [
     "basketball",
     "nba",
-    "knicks",
     "cavaliers",
-    "espn",
-    "msg"
+    "knicks",
+    "james-harden",
+    "donovan-mitchell",
+    "jalen-brunson"
   ],
   "home": "New York Knicks",
   "away": "Cleveland Cavaliers",
@@ -44,37 +45,37 @@
   "awayCode": "USA",
   "homeFlag": "us",
   "awayFlag": "us",
-  "group": "NBA Wednesday Slate",
-  "matchday": 11,
+  "group": "NBA Regular Season",
+  "matchday": 12,
   "date": "2026-11-11",
   "time": "19:00",
   "venue": "Madison Square Garden",
   "city": "New York",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 107,
+  "awayScore": 115,
   "marquee": false,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/248547/pexels-photo-248547.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": null,
+  "decidedBy": "points",
   "homePen": null,
   "awayPen": null,
   "sport": "basketball",
   "competition": "nba-2026-27",
   "format": "team-match",
   "season": "2026-27",
-  "roundLabel": "Wed ESPN Doubleheader",
-  "resultSummary": "TONIGHT: Cavaliers at Knicks (7:00 p.m. ET, ESPN), followed by Warriors at Rockets (9:30 p.m. ET, ESPN).",
+  "roundLabel": "ESPN Recap",
+  "resultSummary": "FINAL: Cavaliers 115, Knicks 107. Harden 32 pts (5 threes), Mitchell 23; Brunson 27, Towns 21.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "StatMuse: Cavaliers at Knicks Nov 11 2026 schedule and 7:00 PM ET tipoff",
-      "url": "https://www.statmuse.com/nba/ask/cavaliers-at-knicks-november-11-2026"
+      "name": "ESPN: Cavaliers vs Knicks Nov 11 2026 box score",
+      "url": "https://www.espn.com/nba/scoreboard"
     },
     {
-      "name": "NBA Schedule: Golden State Warriors at Houston Rockets 9:30 PM ET ESPN",
-      "url": "https://www.nba.com/schedule"
+      "name": "NBA.com: Harden 32 powers Cavaliers past Knicks at MSG",
+      "url": "https://www.nba.com/games"
     }
   ]
 }

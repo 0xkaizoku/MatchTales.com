@@ -1,0 +1,75 @@
+{
+  "slug": "atp-stockholm-open-2026-fritz-vs-rune-qf",
+  "headline": "Stockholm Open QF Today: Top seed Taylor Fritz faces former champion Holger Rune",
+  "whyCareScore": 8.6,
+  "whyCareReason": "After Fritz defeated Cameron Norrie 7-5, 6-3 and Rune rallied past Miomir Kecmanovic 2-6, 6-1, 6-4 on Wednesday, both meet on Center Court today.",
+  "teaser": "TODAY QF (Thu 12 Nov, Stockholm Center Court): Taylor Fritz vs Holger Rune. Wed R16: Fritz def. Norrie 7-5, 6-3; Rune def. Kecmanovic 2-6, 6-1, 6-4.",
+  "story": "The Bybit Stockholm Open delivers a marquee indoor quarterfinal today, Thursday 12 November, on Center Court at Kungliga Tennishallen as top seed Taylor Fritz meets former champion Holger Rune. Both punched their tickets with impressive Wednesday wins: Fritz dismissed Cameron Norrie in straight sets, 7-5, 6-3, while Rune recovered from a slow opening frame to subdue Miomir Kecmanovic 2-6, 6-1, 6-4. Elsewhere in Stockholm's draw, third seed Lorenzo Musetti had earlier beaten Toby Samuel 6-1, 6-4 and seventh seed Ugo Humbert defeated Adolfo Daniel Vallejo 6-4, 6-3.",
+  "stakes": "A semifinal berth at Kungliga Tennishallen goes to the winner between No. 1 seed Fritz and former Stockholm titleholder Rune.",
+  "rivalryAngle": "Fritz's heavy indoor first strike faces Rune's counterpunching athleticism right after Rune's three-set comeback over Kecmanovic.",
+  "funFacts": [
+    "Wednesday R16 finals: Taylor Fritz def. Cameron Norrie 7-5, 6-3; Holger Rune def. Miomir Kecmanovic 2-6, 6-1, 6-4.",
+    "Wednesday victory over Kecmanovic marked Holger Rune's second consecutive win in Stockholm after defeating Zizou Bergs 6-3, 6-4.",
+    "Played alongside Thursday's official Nitto ATP Finals Turin group draw."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Taylor Fritz",
+      "team": "United States",
+      "hook": "Top seed into the Stockholm QFs after a 7-5, 6-3 win over Cameron Norrie."
+    },
+    {
+      "name": "Holger Rune",
+      "team": "Denmark",
+      "hook": "Came back from a set down to beat Miomir Kecmanovic 2-6, 6-1, 6-4 on Wednesday."
+    }
+  ],
+  "headToHead": "Thursday 12 November 2026. Kungliga Tennishallen, Stockholm. Center Court quarterfinal.",
+  "tags": [
+    "tennis",
+    "atp",
+    "stockholm-open",
+    "taylor-fritz",
+    "holger-rune",
+    "quarterfinal"
+  ],
+  "home": "Taylor Fritz",
+  "away": "Holger Rune",
+  "homeCode": "USA",
+  "awayCode": "DEN",
+  "homeFlag": "us",
+  "awayFlag": "dk",
+  "group": "Stockholm Open QF",
+  "matchday": 4,
+  "date": "2026-11-12",
+  "time": "17:30",
+  "venue": "Kungliga Tennishallen",
+  "city": "Stockholm",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": false,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618210/pexels-photo-1618210.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-250-stockholm-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Stockholm QF Today",
+  "resultSummary": "TODAY QF: Taylor Fritz vs Holger Rune (Wed: Fritz 7-5, 6-3 Norrie; Rune 2-6, 6-1, 6-4 Kecmanovic).",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ATP Tour: Stockholm Open 2026 Thursday Center Court order of play",
+      "url": "https://www.atptour.com/en/scores/current/stockholm/429/daily-schedule"
+    },
+    {
+      "name": "Sportskeeda: Fritz vs Rune Stockholm Open quarterfinal preview",
+      "url": "https://www.sportskeeda.com/tennis"
+    }
+  ]
+}

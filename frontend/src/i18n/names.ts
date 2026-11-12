@@ -151,6 +151,11 @@ const TEAMS: Record<string, Partial<Record<Locale, string>>> = {
 
 
 
+  "FC Barcelona Femeni": {"fr": "FC Barcelone Femeni", "es": "FC Barcelona Femenino", "de": "FC Barcelona Frauen", "it": "FC Barcellona Femminile", "pl": "FC Barcelona Kobiety", "zh": "巴塞罗那女足", "ja": "FCバルセロナ女子", "ko": "FC 바르셀로나 페메니", "ar": "برشلونة للسيدات"},
+  "Arsenal Women": {"fr": "Arsenal Women", "es": "Arsenal Femenino", "de": "Arsenal Frauen", "it": "Arsenal Femminile", "pl": "Arsenal Kobiety", "zh": "阿森纳女足", "ja": "アーセナル女子", "ko": "아스널 위민", "ar": "أرسنال للسيدات"},
+  "Houston Rockets": {"zh": "休斯敦火箭", "ja": "ヒューストン・ロケッツ", "ko": "휴스턴 로케츠", "ar": "هيوستن روكتس"},
+  "Golden State Warriors": {"zh": "金州勇士", "ja": "ゴールデンステート・ウォリアーズ", "ko": "골든스테이트 워리어스", "ar": "غولدن ستيت ووريورز"},
+
 };
 
 const PLACES: Record<string, Partial<Record<Locale, string>>> = {
@@ -224,6 +229,13 @@ const PLACES: Record<string, Partial<Record<Locale, string>>> = {
   Stockholm: { fr: 'Stockholm', es: 'Estocolmo', de: 'Stockholm', it: 'Stoccolma', pl: 'Sztokholm', zh: '斯德哥尔摩', ja: 'ストックホルム', ko: '스톡홀름', ar: 'ستوكهولم' },
   'Las Vegas': { fr: 'Las Vegas', es: 'Las Vegas', de: 'Las Vegas', it: 'Las Vegas', pl: 'Las Vegas', zh: '拉斯维加斯', ja: 'ラスベガス', ko: '라스베이거스', ar: 'لاس فيغاس' },
   'East Rutherford': { fr: 'East Rutherford', es: 'East Rutherford', de: 'East Rutherford', it: 'East Rutherford', pl: 'East Rutherford', zh: '东卢瑟福', ja: 'イーストラザフォード', ko: '이스트러더퍼드', ar: 'إيست راذرفورد' },
+  "Spotify Camp Nou": {"zh": "诺坎普球场", "ja": "カンプ・ノウ", "ko": "스포티파이 캄프 누", "ar": "سبوتيفاي كامب نو"},
+  "Barcelona": {"fr": "Barcelone", "es": "Barcelona", "de": "Barcelona", "it": "Barcellona", "pl": "Barcelona", "zh": "巴塞罗那", "ja": "バルセロナ", "ko": "바르셀로나", "ar": "برشلونة"},
+  "Wembley Stadium": {"fr": "Stade de Wembley", "es": "Estadio de Wembley", "de": "Wembley-Stadion", "it": "Wembley", "pl": "Stadion Wembley", "zh": "温布利球场", "ja": "ウェンブリー・スタジアム", "ko": "웸블리 스타디움", "ar": "ملعب ويمبلي"},
+  "Turin": {"fr": "Turin", "es": "Turín", "de": "Turin", "it": "Torino", "pl": "Turyn", "zh": "都灵", "ja": "トリノ", "ko": "토리노", "ar": "تورينو"},
+  "Inalpi Arena": {"zh": "伊纳尔皮体育馆", "ja": "インアルピ・アリーナ", "ko": "이날피 아레나", "ar": "إنالبي أرينا"},
+  "Toyota Center": {"zh": "丰田中心", "ja": "トヨタ・センター", "ko": "도요타 센터", "ar": "مركز تويوتا"},
+
 };
 
 const COMPETITIONS: Record<string, Partial<Record<Locale, string>>> = {
@@ -458,6 +470,8 @@ const COMPETITIONS: Record<string, Partial<Record<Locale, string>>> = {
     ko: '2026 DP 월드투어',
     ar: 'جولة دي بي ورلد 2026',
   },
+  "atp-finals-2026": {"fr": "Nitto ATP Finals 2026", "es": "Nitto ATP Finals 2026", "de": "Nitto ATP Finals 2026", "it": "Nitto ATP Finals 2026", "pl": "Nitto ATP Finals 2026", "zh": "2026 ATP年终总决赛", "ja": "Nitto ATPファイナルズ 2026", "ko": "2026 니토 ATP 파이널스", "ar": "نهائيات ATP 2026"},
+
 };
 
 export function entityName(name: string | null | undefined, locale: Locale): string {
@@ -483,6 +497,7 @@ export function competitionName(competition: string | null | undefined, locale: 
     if (competition === 'uwcl-2026' || competition === 'uwcl-2026-27') return "Women's Champions League";
     if (competition === 'nba-2026-27') return 'NBA';
     if (competition === 'atp-250-stockholm-2026') return 'Stockholm Open';
+    if (competition === 'atp-finals-2026') return 'Nitto ATP Finals';
     if (competition === 'dp-world-tour-2026') return 'DP World Tour';
     if (competition === 'nations-league-2026-27' || competition === 'UEFA Nations League') return 'UEFA Nations League';
     if (competition === 'shanghai-masters-2026') return 'Shanghai Masters';

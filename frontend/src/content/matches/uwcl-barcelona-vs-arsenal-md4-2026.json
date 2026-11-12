@@ -1,0 +1,82 @@
+{
+  "slug": "uwcl-barcelona-vs-arsenal-md4-2026",
+  "headline": "Tonight at Camp Nou: Barcelona host Arsenal in 2025 Lisbon final rematch",
+  "whyCareScore": 9.7,
+  "whyCareReason": "After Storm Charles forced a 24-hour move, unbeaten UWCL leader Barcelona plays holders Arsenal in Arsenal Women's first official match at Spotify Camp Nou.",
+  "teaser": "TONIGHT (Thu 12 Nov, 18:45 CET / 17:45 UTC): FC Barcelona Femeni (9 pts) vs Arsenal Women (7 pts) at Spotify Camp Nou. Bonmati & Putellas vs Russo.",
+  "story": "UEFA Women's Champions League Matchday 4 saves its grandest stage for Thursday night, 12 November (6:45 p.m. CET / 5:45 p.m. UTC / 12:45 p.m. ET), as FC Barcelona Femeni hosts Arsenal Women at Spotify Camp Nou. Rescheduled by 24 hours after Storm Charles weather warnings, the fixture marks Arsenal Women's first official match inside Camp Nou and a high-stakes rematch of the 2025 Lisbon final. Barcelona enters top of the table with three wins from three (5-2 vs Paris FC, 6-0 vs Roma, 8-0 at HB Koge) alongside a 7-0 domestic rout of Real Madrid, anchored by Ballon d'Or stars Aitana Bonmati and Alexia Putellas. Arsenal sits third on seven points and arrives on the back of a 2-1 Women's Super League win at Liverpool led by forward Alessia Russo.",
+  "stakes": "Group supremacy on the line at Camp Nou: Barcelona chases 12 points from four matches while third-placed Arsenal aims to leapfrog the unbeaten hosts.",
+  "rivalryAngle": "A Lisbon final rematch under Camp Nou floodlights pairing Barcelona's Ballon d'Or midfield with Alessia Russo and Arsenal's European pedigree.",
+  "funFacts": [
+    "Arsenal Women play their first official competitive fixture at Spotify Camp Nou tonight.",
+    "Barcelona enters 3-from-3 in the UWCL (19 goals scored in wins over Paris FC, Roma and HB Koge).",
+    "Rescheduled from Wednesday night following Storm Charles weather alerts in Spain and Portugal."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Aitana Bonmati",
+      "team": "FC Barcelona Femeni",
+      "hook": "Drives Barcelona's unbeaten UWCL attack after a 7-0 domestic Clasico win."
+    },
+    {
+      "name": "Alexia Putellas",
+      "team": "FC Barcelona Femeni",
+      "hook": "Anchors midfield as Barcelona hunts four wins from four in Europe."
+    },
+    {
+      "name": "Alessia Russo",
+      "team": "Arsenal Women",
+      "hook": "Leads Arsenal's frontline at Camp Nou fresh off a 2-1 WSL win at Liverpool."
+    }
+  ],
+  "headToHead": "Thursday 12 November 2026, 18:45 CET (17:45 UTC). Spotify Camp Nou, Barcelona. Repeat of the 2025 UWCL final.",
+  "tags": [
+    "soccer",
+    "uwcl",
+    "barcelona",
+    "arsenal",
+    "camp-nou",
+    "bonmati",
+    "putellas",
+    "russo"
+  ],
+  "home": "FC Barcelona Femeni",
+  "away": "Arsenal Women",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "UWCL League Phase",
+  "matchday": 4,
+  "date": "2026-11-12",
+  "time": "17:45",
+  "venue": "Spotify Camp Nou",
+  "city": "Barcelona",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1171084/pexels-photo-1171084.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "soccer",
+  "competition": "uwcl-2026-27",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "UWCL MD4 Tonight",
+  "resultSummary": "TONIGHT 18:45 CET: Barcelona (9 pts) host Arsenal (7 pts) at Spotify Camp Nou in 2025 final rematch.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "FC Barcelona: UWCL Matchday 4 vs Arsenal at Spotify Camp Nou preview",
+      "url": "https://www.fcbarcelona.com/en/football/womens-football"
+    },
+    {
+      "name": "Arsenal.com: Rescheduled Camp Nou UWCL tie on Thursday 12 Nov",
+      "url": "https://www.arsenal.com/news/barcelona-vs-arsenal-uwcl-rescheduled-november-12-2026"
+    }
+  ]
+}

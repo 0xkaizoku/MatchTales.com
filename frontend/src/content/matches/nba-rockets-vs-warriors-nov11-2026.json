@@ -1,0 +1,82 @@
+{
+  "slug": "nba-rockets-vs-warriors-nov11-2026",
+  "headline": "NBA: Rockets top Warriors 115-108 as Curry exits early; Celtics rally from 22 down in Toronto",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Stephen Curry departs early in the first quarter with an injury (3 pts) as Houston's balanced attack beats Golden State, while Jayson Tatum's 24 rallies Boston past Toronto 98-93.",
+  "teaser": "FINAL: Rockets 115, Warriors 108 (Sengun 19, Smith Jr. 14, Sheppard 13; Lendeborg 25, Curry injured 1Q). Also Wed: Celtics 98-93 Raptors (-22 comeback). Thu: 4 games.",
+  "story": "The Houston Rockets closed ESPN's Wednesday nightcap on 11 November with a 115-108 home victory over a Golden State Warriors side shaken early when Stephen Curry left the game in the first quarter due to injury after scoring three points. Alperen Sengun paced Houston's balanced scoring with 19 points, Jabari Smith Jr. scored 14 and Reed Sheppard contributed 13 at Toyota Center. Yaxel Lendeborg led all Warriors scorers with 25 points alongside Brandin Podziemski (22), L.J. Cryer (13) and De'Anthony Melton (11) in defeat. Earlier in Toronto, East-leading Boston stormed back from a 22-point deficit behind Jayson Tatum's 24 points to defeat the Raptors 98-93. Tonight, Thursday 12 November, features a four-game NBA slate: Raptors at 76ers (7:00 p.m. ET), Pistons at Wizards (7:00 p.m. ET), Mavericks at Timberwolves (8:00 p.m. ET) and Hornets at Suns (9:00 p.m. ET).",
+  "stakes": "Stephen Curry's injury watch looms over Golden State while Boston stays unbeaten on its road trip before tonight's four-game Thursday card.",
+  "rivalryAngle": "Houston's young core outlasts Golden State's shorthanded surge after Curry's premature first-quarter departure.",
+  "funFacts": [
+    "Stephen Curry exited in the first quarter with an injury after scoring three points.",
+    "Rockets balanced leaders: Alperen Sengun (19 pts), Jabari Smith Jr. (14) and Reed Sheppard (13); Warriors led by Yaxel Lendeborg (25) and Brandin Podziemski (22).",
+    "Wednesday also saw Boston erase a 22-point deficit in Toronto behind Jayson Tatum (24) to win 98-93; Thursday hosts TOR@PHI, DET@WAS, DAL@MIN, CHA@PHX."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Alperen Sengun",
+      "team": "Houston Rockets",
+      "hook": "Led Houston's balanced attack with 19 points alongside Jabari Smith Jr. (14) and Reed Sheppard (13)."
+    },
+    {
+      "name": "Yaxel Lendeborg",
+      "team": "Golden State Warriors",
+      "hook": "Scored 25 points with Brandin Podziemski adding 22 after Stephen Curry exited in Q1."
+    },
+    {
+      "name": "Jayson Tatum",
+      "team": "Boston Celtics",
+      "hook": "Scored 24 points as Boston rallied from 22 behind to beat Toronto 98-93."
+    }
+  ],
+  "headToHead": "Wednesday 11 November 2026. Toyota Center, Houston. Final: Rockets 115, Warriors 108. Celtics 98, Raptors 93.",
+  "tags": [
+    "basketball",
+    "nba",
+    "rockets",
+    "warriors",
+    "stephen-curry",
+    "sengun",
+    "celtics",
+    "tatum"
+  ],
+  "home": "Houston Rockets",
+  "away": "Golden State Warriors",
+  "homeCode": "USA",
+  "awayCode": "USA",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NBA Regular Season",
+  "matchday": 12,
+  "date": "2026-11-11",
+  "time": "21:30",
+  "venue": "Toyota Center",
+  "city": "Houston",
+  "status": "FINISHED",
+  "homeScore": 115,
+  "awayScore": 108,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/248547/pexels-photo-248547.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "points",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "basketball",
+  "competition": "nba-2026-27",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "ESPN Nightcap",
+  "resultSummary": "FINAL: Rockets 115, Warriors 108 (Curry injured 1Q, Sengun 19); Celtics 98-93 Raptors (-22). Thu: 4 NBA games.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ESPN: Warriors vs Rockets Nov 11 2026 box score and Curry injury report",
+      "url": "https://www.espn.com/nba/scoreboard"
+    },
+    {
+      "name": "NBA.com: Celtics erase 22-point hole in Toronto; Nov 12 Thursday slate",
+      "url": "https://www.nba.com/schedule"
+    }
+  ]
+}

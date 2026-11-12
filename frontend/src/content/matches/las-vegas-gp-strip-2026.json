@@ -1,35 +1,35 @@
 {
   "slug": "las-vegas-gp-strip-2026",
-  "headline": "F1 Standings Entering Las Vegas: 33 points split Verstappen to Norris in five-way P2 battle",
+  "headline": "F1 Countdown to Las Vegas (Round 21): 33 points split Verstappen to Norris behind Antonelli",
   "whyCareScore": 9.1,
-  "whyCareReason": "With Kimi Antonelli (390) and Mercedes (652) crowned, only 33 points cover 2nd through 6th in Drivers and Ferrari (510), Red Bull (415) and McLaren (398) duel behind.",
-  "teaser": "NEXT RACE (19-21 Nov, Las Vegas Strip): Antonelli 390 (Champion); Verstappen 279, Russell 262, Hamilton 261, Leclerc 249, Norris 246. Constructors: Mercedes 652, Ferrari 510, Red Bull 415, McLaren 398.",
-  "story": "Both 2026 Formula 1 titles are wrapped up after Interlagos, yet the flight to Las Vegas (19-21 November, race Saturday at 8:00 p.m. PST, 50 laps) carries real championship heat. Kimi Antonelli sits uncatchable on 390 points and Mercedes holds 652 Constructors points, leaving just 33 points separating second through sixth in the Drivers standings: Max Verstappen leads the chase on 279 points after surging from 21st to second in Brazil, closely pursued by George Russell (262), Lewis Hamilton (261), Charles Leclerc (249) and Sao Paulo winner Lando Norris (246). In the Constructors table, Ferrari holds second on 510 points, while Red Bull (415) sits only 17 points ahead of McLaren (398) heading down the Las Vegas Strip.",
-  "stakes": "Drivers P2 through P6 sit separated by 33 points with two Grands Prix left, while Red Bull (415) and McLaren (398) fight over third in the Constructors.",
-  "rivalryAngle": "Interlagos winner Norris and recovery star Verstappen share the spotlight with teammates Russell, Hamilton and Leclerc under Nevada lights.",
+  "whyCareReason": "Entering Round 21 on the 6.201 km Las Vegas Strip Circuit (19-21 Nov), Kimi Antonelli (390) and Mercedes (652) are Champions while five drivers pack within 33 points for P2.",
+  "teaser": "ROUND 21 NEXT (19-21 Nov, Las Vegas Strip): Antonelli 390 (Champion); Verstappen 279, Russell 262, Hamilton 261, Leclerc 249, Norris 246. Mercedes 652, Ferrari 510, Red Bull 415, McLaren 398.",
+  "story": "One week ahead of Round 21 of the 2026 FIA Formula One World Championship under the neon lights of the 6.201-kilometre Las Vegas Strip Circuit (19-21 November, Grand Prix Saturday night 21 November), both major crowns are settled after Interlagos, yet the race for second overall remains razor sharp. Drivers Champion Kimi Antonelli sits uncatchable on 390 points and Mercedes holds 652 Constructors points, leaving just 33 points separating second through sixth in the Drivers table: Max Verstappen leads that five-way fight on 279 points after surging from 21st to second in Sao Paulo, pursued by George Russell (262), Lewis Hamilton (261), Charles Leclerc (249) and Interlagos winner Lando Norris (246). In the Constructors battle behind Mercedes, Ferrari sits second on 510 points while Red Bull (415) protects a 17-point gap over McLaren (398).",
+  "stakes": "Thirty-three points divide Drivers P2 (Verstappen 279) through P6 (Norris 246) ahead of next week's Round 21 night race on the Strip, with Red Bull (415) 17 ahead of McLaren (398).",
+  "rivalryAngle": "Interlagos winner Norris and P21-to-P2 charger Verstappen lead a five-driver dash with Russell, Hamilton and Leclerc entering Nevada.",
   "funFacts": [
-    "Just 33 points separate 2nd-placed Max Verstappen (279) from 6th-placed Lando Norris (246).",
-    "George Russell (262) and Lewis Hamilton (261) enter Las Vegas separated by one single point.",
-    "Red Bull (415) leads McLaren (398) by 17 points for third in the Constructors standings."
+    "Las Vegas (19-21 Nov) marks Round 21 of the 2026 season around the 6.201 km Las Vegas Strip Circuit.",
+    "George Russell (262) leads Ferrari's Lewis Hamilton (261) by a single point, with Charles Leclerc (249) and Lando Norris (246) in range.",
+    "Red Bull (415) defends third in Constructors just 17 points ahead of McLaren (398)."
   ],
   "keyPlayers": [
     {
       "name": "Max Verstappen",
       "team": "Red Bull",
-      "hook": "Holds P2 in the Drivers standings on 279 points after his P21-to-P2 drive in Brazil."
+      "hook": "Holds P2 on 279 points entering Round 21 after climbing from 21st to second in Sao Paulo."
     },
     {
       "name": "Lando Norris",
       "team": "McLaren",
-      "hook": "Up to 246 points after his third win of 2026 at Sao Paulo."
+      "hook": "Surged to 246 points with his wet-weather victory in Brazil as McLaren chases Red Bull."
     },
     {
       "name": "Lewis Hamilton",
       "team": "Ferrari",
-      "hook": "261 points, sitting one behind Russell (262) after his 400th start."
+      "hook": "Sits on 261 points, one behind George Russell (262) in a tightly packed top six."
     }
   ],
-  "headToHead": "19-21 November 2026. Las Vegas Strip Circuit, 50 laps (Race Sat 8:00 p.m. PST).",
+  "headToHead": "19-21 November 2026 (Round 21). 6.201 km Las Vegas Strip Circuit, Saturday night GP on 21 November.",
   "tags": [
     "f1",
     "formula-1",
@@ -48,7 +48,7 @@
   "homeFlag": "nl",
   "awayFlag": "gb-eng",
   "group": "Formula 1",
-  "matchday": 22,
+  "matchday": 21,
   "date": "2026-11-21",
   "time": "20:00",
   "venue": "Las Vegas Strip Circuit",
@@ -66,8 +66,8 @@
   "competition": "f1-2026",
   "format": "race",
   "season": "2026",
-  "roundLabel": "Las Vegas Preview",
-  "resultSummary": "DRIVERS P2 RACE: Verstappen 279, Russell 262, Hamilton 261, Leclerc 249, Norris 246. Mercedes Champion (652); Ferrari 510, Red Bull 415, McLaren 398.",
+  "roundLabel": "Round 21 Countdown",
+  "resultSummary": "ROUND 21 VEGAS (19-21 Nov): Verstappen 279, Russell 262, Hamilton 261, Leclerc 249, Norris 246 (Antonelli Champion 390; Mercedes 652).",
   "leaderboard": [
     {
       "pos": "1",
@@ -79,7 +79,7 @@
       "pos": "2",
       "name": "Max Verstappen (Red Bull)",
       "score": "279 pts",
-      "note": "P2 after Sao Paulo P2"
+      "note": "P2 entering Round 21"
     },
     {
       "pos": "3",
@@ -109,11 +109,11 @@
   "tennisSets": [],
   "sources": [
     {
-      "name": "Formula1.com: 2026 Las Vegas Grand Prix event guide",
+      "name": "Formula1.com: 2026 Heineken Las Vegas Grand Prix Round 21 event guide",
       "url": "https://www.formula1.com/en/racing/2026/las-vegas"
     },
     {
-      "name": "Formula1.com: 2026 F1 Drivers and Constructors Championship standings",
+      "name": "FIA / Formula1.com: 2026 Drivers and Constructors Championship standings",
       "url": "https://www.formula1.com/en/results/2026/drivers"
     }
   ]

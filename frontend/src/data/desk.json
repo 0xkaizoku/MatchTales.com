@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-11",
+  "asOf": "2026-11-12",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -587,7 +587,7 @@
       "time": "8:15 p.m. ET",
       "home": "New York Giants",
       "away": "Washington Commanders",
-      "note": "WEEK 10 TNF (Prime Video, MetLife White Out): Commanders (2-5-1) at Giants (5-2-1). J.J. McCarthy full participant; rematch of Week 5 27-27 tie."
+      "note": "TONIGHT TNF (Prime Video, MetLife White Out): Commanders (2-5-1) at Giants (5-2-1). Jayden Daniels & J.J. McCarthy cleared; C Lucas Patrick & TE Colson Yankoff OUT."
     }
   ],
   "usOpenQF": [
@@ -700,22 +700,40 @@
       "status": "Alcaraz 7-6 (5), 7-5"
     },
     {
-      "draw": "Stockholm R32",
-      "p1": "Ugo Humbert",
-      "p2": "Adolfo Daniel Vallejo",
-      "status": "Humbert 6-4, 6-3"
-    },
-    {
-      "draw": "Stockholm R32",
-      "p1": "Holger Rune",
-      "p2": "Zizou Bergs",
-      "status": "Rune 6-3, 6-4"
-    },
-    {
       "draw": "Stockholm R16",
       "p1": "Lorenzo Musetti",
       "p2": "Toby Samuel",
       "status": "Musetti 6-1, 6-4"
+    },
+    {
+      "draw": "Stockholm R16",
+      "p1": "Taylor Fritz",
+      "p2": "Cameron Norrie",
+      "status": "Fritz 7-5, 6-3"
+    },
+    {
+      "draw": "Stockholm R16",
+      "p1": "Holger Rune",
+      "p2": "Miomir Kecmanovic",
+      "status": "Rune 2-6, 6-1, 6-4"
+    },
+    {
+      "draw": "Stockholm QF",
+      "p1": "Taylor Fritz",
+      "p2": "Holger Rune",
+      "status": "Today Center Court"
+    },
+    {
+      "draw": "Turin McEnroe Group",
+      "p1": "Alexander Zverev (1)",
+      "p2": "Ben Shelton (3)",
+      "status": "w/ Fils (6), Jodar (8)"
+    },
+    {
+      "draw": "Turin Lendl Group",
+      "p1": "Carlos Alcaraz (2)",
+      "p2": "Daniil Medvedev (4)",
+      "status": "w/ Cobolli (5), Tiafoe (7)"
     }
   ]
 }

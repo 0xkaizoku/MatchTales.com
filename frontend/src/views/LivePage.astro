@@ -17,6 +17,14 @@ const upcomingAll = matches
   .sort((a, b) => a.date.localeCompare(b.date) || b.whyCareScore - a.whyCareScore);
 const liveMatch =
   matches.find((m) => m.status === 'LIVE') ||
+  matches.find((m) => m.slug === 'uwcl-barcelona-vs-arsenal-md4-2026') ||
+  matches.find((m) => m.slug === 'commanders-at-giants-tnf-week10-2026') ||
+  matches.find((m) => m.slug === 'england-vs-croatia-nations-league-2026') ||
+  matches.find((m) => m.slug === 'atp-stockholm-open-2026-fritz-vs-rune-qf') ||
+  matches.find((m) => m.slug === 'atp-nitto-finals-2026-turin-draw') ||
+  matches.find((m) => m.slug === 'dp-world-tour-championship-dubai-2026') ||
+  matches.find((m) => m.slug === 'nba-rockets-vs-warriors-nov11-2026') ||
+  matches.find((m) => m.slug === 'nba-cavaliers-at-knicks-nov11-2026') ||
   matches.find((m) => m.slug === 'nba-celtics-vs-76ers-george-36-2026') ||
   matches.find((m) => m.slug === 'commanders-at-giants-tnf-week10-2026') ||
   matches.find((m) => m.slug === 'uwcl-juventus-vs-ol-lyonnes-md4-2026') ||

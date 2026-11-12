@@ -1,35 +1,35 @@
 {
   "slug": "commanders-at-giants-tnf-week10-2026",
-  "headline": "NFL Week 10 TNF: Giants (5-2-1) host Commanders in Vintage White Out after Week 5 tie",
-  "whyCareScore": 9.4,
-  "whyCareReason": "After playing to a dramatic 27-27 overtime deadlock in Week 5, NFC East leader New York (5-2-1) gets full practice participant J.J. McCarthy back under center on Thursday Night Football.",
-  "teaser": "TOMORROW (Thu 12 Nov, 8:15 p.m. ET, Prime Video): Washington (2-5-1) at New York Giants (5-2-1, 2-0-1 NFC East). Week 5 ended 27-27 OT; McCarthy set to start.",
-  "story": "Thursday Night Football opens NFL Week 10 under the MetLife Stadium lights on 12 November (8:15 p.m. ET, Prime Video) with an NFC East rematch carrying unfinished business from Week 5's 27-27 overtime tie. John Harbaugh's New York Giants lead the division at 5-2-1 (2-0-1 NFC East), fresh off a 19-11 road win in Philadelphia on Sunday that marked New York's first victory there since 2013. Quarterback J.J. McCarthy (hip) practiced in full this week and is expected to start alongside Malik Nabers, Cam Skattebo and Darnell Mooney as the Giants host a Vintage White Out crowd. Washington arrives at 2-5-1 still adjusting after Jayden Daniels's Week 2 left elbow injury, though wide receiver Treylon Burks is expected to play alongside tight ends Chig Okonkwo and John Bates.",
-  "stakes": "A win moves New York to 6-2-1 and tightens its grip on the NFC East race, while 2-5-1 Washington needs an upset in East Rutherford to revive its season.",
-  "rivalryAngle": "Unsettled score from Week 5's 27-27 OT draw: both rosters wear scars at quarterback entering Thursday night in East Rutherford.",
+  "headline": "TONIGHT TNF Week 10: Giants (5-2-1) & McCarthy host Commanders & cleared Jayden Daniels in White Out",
+  "whyCareScore": 9.6,
+  "whyCareReason": "Both Week 5 27-27 OT rivals are led by cleared QBs tonight as J.J. McCarthy (no designation) meets full participant Jayden Daniels on Prime Video, while Washington misses center Lucas Patrick.",
+  "teaser": "TONIGHT (Thu 12 Nov, 8:15 p.m. ET, Prime Video): Commanders (2-5-1) at Giants (5-2-1, Vintage White Out). Jayden Daniels & J.J. McCarthy cleared; C Lucas Patrick & TE Yankoff OUT.",
+  "story": "NFL Week 10 opens tonight, Thursday 12 November (8:15 p.m. ET, Prime Video), under MetLife Stadium floodlights with an NFC East rematch loaded with fresh stakes from Week 5's 27-27 overtime deadlock. John Harbaugh's first-place New York Giants enter at 5-2-1 (2-0-1 NFC East) after Sunday's 19-11 upset win in Philadelphia, New York's first victory there since 2013, with quarterback J.J. McCarthy (hip), running back Cam Skattebo (hamstring), wideout Malik Nabers (knee), left tackle Andrew Thomas (groin) and tight end Theo Johnson (neck) all cleared with no game status designation (only LB Malik Harrison is questionable with a groin injury). Washington (2-5-1) also receives massive quarterback news for tonight's Vintage White Out: Jayden Daniels practiced fully with his left elbow and carries no injury designation, though center Lucas Patrick (concussion; Nick Allegretti starts) and tight end Colson Yankoff (knee) are officially OUT, and receiver Treylon Burks (foot) is expected to play despite missing short-week practices.",
+  "stakes": "A victory pushes New York to 6-2-1 atop the NFC East; a healthy Jayden Daniels tries to reignite 2-5-1 Washington without starting center Lucas Patrick.",
+  "rivalryAngle": "Rematch of Week 5's 27-27 tie features both young quarterbacks cleared for primetime at MetLife Stadium.",
   "funFacts": [
-    "Their Week 5 meeting finished tied 27-27 after overtime, leaving both records carrying an extra tie column.",
-    "New York (5-2-1) beat Philadelphia 19-11 on Sunday for its first road win against the Eagles since 2013.",
-    "The Giants are calling for a White Out at MetLife Stadium while wearing Vintage White uniforms."
+    "Final TNF injury report: Jayden Daniels (left elbow) and J.J. McCarthy (hip) both carry zero injury designation tonight.",
+    "Commanders OUT: Center Lucas Patrick (concussion, Nick Allegretti starts) and TE Colson Yankoff (knee). Giants questionable: LB Malik Harrison (groin).",
+    "Week 5 between these rivals ended 27-27 in overtime; MetLife Stadium stages a Vintage White Out tonight at 8:15 p.m. ET."
   ],
   "keyPlayers": [
     {
       "name": "J.J. McCarthy",
       "team": "New York Giants",
-      "hook": "Full practice participant (hip) expected to start for division-leading 5-2-1 New York."
+      "hook": "Cleared (no designation after hip) with Skattebo, Nabers and Andrew Thomas active for 5-2-1 New York."
     },
     {
-      "name": "Malik Nabers",
-      "team": "New York Giants",
-      "hook": "Full participant and centerpiece of John Harbaugh's NFC East passing attack."
-    },
-    {
-      "name": "Treylon Burks",
+      "name": "Jayden Daniels",
       "team": "Washington Commanders",
-      "hook": "Expected to suit up as 2-5-1 Washington tries to split the season series."
+      "hook": "Full practice participant (left elbow) with zero designation entering tonight's White Out."
+    },
+    {
+      "name": "Nick Allegretti",
+      "team": "Washington Commanders",
+      "hook": "Steps in at center tonight with Lucas Patrick ruled OUT (concussion)."
     }
   ],
-  "headToHead": "Thursday 12 November 2026, 8:15 p.m. ET. MetLife Stadium, East Rutherford. Prime Video. Week 5 meeting ended 27-27 OT.",
+  "headToHead": "TONIGHT Thursday 12 November 2026, 8:15 p.m. ET. MetLife Stadium, East Rutherford. Prime Video. Week 5 meeting ended 27-27 OT.",
   "tags": [
     "football",
     "nfl",
@@ -38,6 +38,7 @@
     "giants",
     "commanders",
     "jj-mccarthy",
+    "jayden-daniels",
     "nfc-east"
   ],
   "home": "New York Giants",
@@ -65,22 +66,18 @@
   "competition": "nfl-2026",
   "format": "team-match",
   "season": "2026",
-  "roundLabel": "Week 10 TNF",
-  "resultSummary": "TOMORROW 8:15 p.m. ET (Prime Video): Commanders (2-5-1) at Giants (5-2-1). Rematch of Week 5 27-27 OT tie.",
+  "roundLabel": "TNF Tonight",
+  "resultSummary": "TONIGHT 8:15 p.m. ET (Prime Video): Commanders (2-5-1, Daniels cleared, C Patrick OUT) at Giants (5-2-1, McCarthy/Nabers/Skattebo active).",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "Giants.com: Week 10 Thursday Night Football White Out preview",
+      "name": "NFL.com: Commanders at Giants Week 10 Thursday Night Football injury report",
+      "url": "https://www.nfl.com/games/commanders-at-giants-2026-reg-10"
+    },
+    {
+      "name": "Giants.com: Week 10 TNF White Out preview & final designations",
       "url": "https://www.giants.com/news/giants-commanders-week-10-thursday-night-football-2026"
-    },
-    {
-      "name": "Pro-Football-Reference: Commanders at Giants Week 10 matchup",
-      "url": "https://www.pro-football-reference.com/boxscores/202611120nyg.htm"
-    },
-    {
-      "name": "Sports Illustrated: J.J. McCarthy injury status and TNF starter update",
-      "url": "https://www.si.com/nfl/giants/news/jj-mccarthy-giants-commanders-week-10-tnf-2026"
     }
   ]
 }

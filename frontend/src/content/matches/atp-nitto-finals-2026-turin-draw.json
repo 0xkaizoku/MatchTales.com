@@ -1,0 +1,132 @@
+{
+  "slug": "atp-nitto-finals-2026-turin-draw",
+  "headline": "Nitto ATP Finals Draw Set: Zverev heads McEnroe Group while Alcaraz leads Lendl Group in Turin",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Thursday's official draw splits Alexander Zverev, Ben Shelton, Arthur Fils and Rafael Jodar into the John McEnroe Group, opposite Carlos Alcaraz, Daniil Medvedev, Flavio Cobolli and Frances Tiafoe.",
+  "teaser": "TURIN GROUPS SET (15-22 Nov): McEnroe Group = Zverev (1), Shelton (3), Fils (6), Jodar (8). Lendl Group = Alcaraz (2), Medvedev (4), Cobolli (5), Tiafoe (7).",
+  "story": "The 2026 Nitto ATP Finals draw is officially locked after Thursday's ceremony in Turin ahead of Sunday's tournament opener (15-22 November) at Inalpi Arena. Top seed Alexander Zverev headlines the John McEnroe Group alongside third seed Ben Shelton, sixth seed Arthur Fils and eighth seed Rafael Jodar. Fresh off his Paris Masters triumph, second seed Carlos Alcaraz anchors the Ivan Lendl Group alongside fourth seed Daniil Medvedev, fifth seed and home favourite Flavio Cobolli, and seventh seed Frances Tiafoe. Meanwhile in Stockholm today, top seed Taylor Fritz and Holger Rune meet in a blockbuster Center Court quarterfinal.",
+  "stakes": "Eight season finalists now have clear round-robin paths inside Turin's Inalpi Arena starting Sunday, 15 November.",
+  "rivalryAngle": "Power servers Zverev and Shelton meet young risers Fils and Jodar in McEnroe; Alcaraz and Medvedev share Lendl with Cobolli and Tiafoe.",
+  "funFacts": [
+    "John McEnroe Group: Alexander Zverev (1), Ben Shelton (3), Arthur Fils (6), Rafael Jodar (8).",
+    "Ivan Lendl Group: Carlos Alcaraz (2), Daniil Medvedev (4), Flavio Cobolli (5), Frances Tiafoe (7).",
+    "Group-stage play runs 15-22 November on indoor hard courts at Inalpi Arena in Turin."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Alexander Zverev",
+      "team": "Germany",
+      "hook": "No. 1 seed heading the John McEnroe Group with Ben Shelton, Arthur Fils and Rafael Jodar."
+    },
+    {
+      "name": "Carlos Alcaraz",
+      "team": "Spain",
+      "hook": "No. 2 seed anchoring the Ivan Lendl Group alongside Daniil Medvedev, Flavio Cobolli and Frances Tiafoe."
+    },
+    {
+      "name": "Flavio Cobolli",
+      "team": "Italy",
+      "hook": "Home No. 5 seed drawn into the Ivan Lendl Group at Inalpi Arena."
+    }
+  ],
+  "headToHead": "Official draw completed Thursday 12 November 2026. Tournament dates: 15-22 November 2026, Inalpi Arena, Turin.",
+  "tags": [
+    "tennis",
+    "atp",
+    "nitto-atp-finals",
+    "turin",
+    "alcaraz",
+    "zverev",
+    "medvedev",
+    "shelton",
+    "cobolli"
+  ],
+  "home": "Alexander Zverev",
+  "away": "Carlos Alcaraz",
+  "homeCode": "GER",
+  "awayCode": "ESP",
+  "homeFlag": "de",
+  "awayFlag": "es",
+  "group": "Nitto ATP Finals Groups",
+  "matchday": 1,
+  "date": "2026-11-15",
+  "time": "14:00",
+  "venue": "Inalpi Arena",
+  "city": "Turin",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618210/pexels-photo-1618210.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-finals-2026",
+  "format": "leaderboard",
+  "season": "2026",
+  "roundLabel": "Turin Draw Set",
+  "resultSummary": "MCENROE GROUP: Zverev (1), Shelton (3), Fils (6), Jodar (8) | LENDL GROUP: Alcaraz (2), Medvedev (4), Cobolli (5), Tiafoe (7).",
+  "leaderboard": [
+    {
+      "pos": "McEnroe",
+      "name": "Alexander Zverev (1)",
+      "score": "Top Seed",
+      "note": "John McEnroe Group"
+    },
+    {
+      "pos": "McEnroe",
+      "name": "Ben Shelton (3)",
+      "score": "No. 3 Seed",
+      "note": "John McEnroe Group"
+    },
+    {
+      "pos": "McEnroe",
+      "name": "Arthur Fils (6)",
+      "score": "No. 6 Seed",
+      "note": "John McEnroe Group"
+    },
+    {
+      "pos": "McEnroe",
+      "name": "Rafael Jodar (8)",
+      "score": "No. 8 Seed",
+      "note": "John McEnroe Group"
+    },
+    {
+      "pos": "Lendl",
+      "name": "Carlos Alcaraz (2)",
+      "score": "No. 2 Seed",
+      "note": "Ivan Lendl Group"
+    },
+    {
+      "pos": "Lendl",
+      "name": "Daniil Medvedev (4)",
+      "score": "No. 4 Seed",
+      "note": "Ivan Lendl Group"
+    },
+    {
+      "pos": "Lendl",
+      "name": "Flavio Cobolli (5)",
+      "score": "No. 5 Seed",
+      "note": "Ivan Lendl Group"
+    },
+    {
+      "pos": "Lendl",
+      "name": "Frances Tiafoe (7)",
+      "score": "No. 7 Seed",
+      "note": "Ivan Lendl Group"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Nitto ATP Finals: 2026 Turin official group draw announcement",
+      "url": "https://www.nittoatpfinals.com/en/news/turin-2026-qualifiers-draw"
+    },
+    {
+      "name": "ATP Tour: Zverev and Alcaraz head 2026 Turin groups",
+      "url": "https://www.atptour.com/en/tournaments/nitto-atp-finals/605/overview"
+    }
+  ]
+}
