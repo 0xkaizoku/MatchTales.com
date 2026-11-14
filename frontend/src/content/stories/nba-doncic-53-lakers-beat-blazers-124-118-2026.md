@@ -13,7 +13,7 @@ sources:
   - name: "NBA.com: Doncic scores 53, Lakers beat Blazers 124-118"
     url: "https://www.nba.com/game/por-vs-lal-0022600032"
   - name: "Reuters: Doncic pours in 53 as Lakers rally past Blazers"
-    url: "https://www.reuters.com/sports/basketball/luka-doncic-pours-53-lakers-rally-past-blazers--flm-2026-11-07/"
+    url: "https://www.reuters.com/sports/basketball/luka-doncic-pours-53-lakers-rally-past-blazers-flm-2026-11-07/"
   - name: "AP via NBA recap"
     url: "https://apnews.com/article/lakers-trail-blazers-doncic-reaves-nba-bb443859434a2393d510a4db8d84795c"
 ---

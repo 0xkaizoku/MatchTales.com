@@ -98,7 +98,14 @@ function vsWord(locale: Locale): string {
 
 export function localizeMatch(m: any, locale: Locale): any {
   if (!m) return m;
-  if (locale === 'en') return m;
+  if (locale === 'en') {
+    const stage = stageLabelI18n('en', m.group, m.roundLabel) || m.roundLabel || '';
+    return {
+      ...m,
+      _stage: stage,
+      _vs: vsWord('en'),
+    };
+  }
   const d = dict(locale);
   const n = d.narrative;
   const home = entityName(m.home, locale);

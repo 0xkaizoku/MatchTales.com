@@ -1,129 +1,122 @@
 {
   "slug": "dp-world-tour-championship-dubai-2026",
-  "headline": "Dubai R2 complete: McIlroy and Hatton share the lead on 139 (-5); R3 in progress unpublished",
-  "whyCareScore": 9.4,
-  "whyCareReason": "Associated Press Friday totals put Rory McIlroy (69-70) and Tyrrell Hatton (70-69) at 139, one clear of Joost Luiten and Kristoffer Reitan. Round 3 is not posted as final.",
-  "teaser": "R2 FINAL (AP, Earth Course): T1 McIlroy 69-70=139 (-5), Hatton 70-69=139; T3 Luiten 67-73=140, Reitan 70-70=140. Chacarra 72-71=143 (T11). R3 Saturday in progress, no final.",
-  "story": "The DP World Tour Championship second round closed Friday, 13 November, at the Earth Course, Jumeirah Golf Estates, Dubai (par 72, 7,706 yards, $10 million purse). Associated Press posted complete 36-hole totals: Rory McIlroy 69-70 for 139 (five under) shares the lead with Tyrrell Hatton 70-69. Joost Luiten, Thursday's 67 leader, carded 73 for 140 alongside Kristoffer Reitan (70-70). A shot further back at 141: Mikael Lindberg 72-69, Victor Perez 69-72, Freddy Schott 69-72. Jon Rahm is 71-71=142 with David Puig and Jayden Schaper. Race to Dubai leader Eugenio Lopez-Chacarra shot 72-71 for 143, tied for 11th with Francesco Laporta, Adrian Meronk and Jacob Skov Olesen (68-75). Round 3 is underway Saturday 14 November and is not published as a final. Sunday is Round 4.",
-  "stakes": "McIlroy and Hatton take a one-shot 36-hole lead into the weekend while Chacarra sits four back on 143.",
-  "rivalryAngle": "McIlroy's 139 matches Hatton at the top; Luiten dropped from the R1 lead with a 73; Chacarra is four off the pace.",
+  "headline": "Dubai R3 complete: Tyrrell Hatton leads on 207 (-9) as Eugenio Chacarra (68) ties Rory McIlroy (72) at -5",
+  "whyCareScore": 9.7,
+  "whyCareReason": "Tyrrell Hatton's third-round 68 earns a one-shot lead over Victor Perez (67), while Race leader Eugenio Chacarra's 68 pulls level with Rory McIlroy (72) at five under entering Sunday.",
+  "teaser": "R3 FINAL (Earth Course): 1. Tyrrell Hatton -9 (207); 2. Victor Perez -8 (208); 3. Mikael Lindberg -6 (210); T4. Rory McIlroy -5 (211) & Eugenio Chacarra -5 (211). Sunday final round.",
+  "story": "Tyrrell Hatton grabbed the solo 54-hole lead at the DP World Tour Championship on Saturday, 14 November, firing a four-under 68 to reach nine-under 207 at the Earth Course, Jumeirah Golf Estates in Dubai. France's Victor Perez carded a 67 to sit solo second on 208 (-8), one shot ahead of Sweden's Mikael Lindberg (69, 210). The headline duel for the season-long Race to Dubai crown converged in dramatic fashion: Race leader Eugenio Chacarra produced a four-under 68 to reach five-under 211, erasing a four-shot overnight deficit to tie Rory McIlroy. McIlroy, who held a share of the 36-hole lead, battled three consecutive bogeys around the turn before recovering for a level-par 72 to join Chacarra at 211 (-5, T4). Jon Rahm sits at three-under 213 after a third straight 71. Sunday's final round will decide both the $10 million tournament and the Harry Vardon Trophy.",
+  "stakes": "Hatton takes a one-shot lead over Perez into Sunday while Chacarra's 68 puts him in projected position to clinch the Race to Dubai over McIlroy.",
+  "rivalryAngle": "Chacarra and McIlroy stand deadlocked at five under with 18 holes left in the Race to Dubai after Chacarra erased a four-stroke margin on Saturday.",
   "funFacts": [
-    "AP Friday: McIlroy 69-70=139, Hatton 70-69=139, both five under par.",
-    "Luiten 67-73=140 after the first-round lead; Olesen 68-75=143.",
-    "Round 3 Saturday is live and unpublished as a final."
+    "Tyrrell Hatton leads on 207 (-9, 70-69-68) with Victor Perez one back on 208 (-8, 69-72-67).",
+    "Eugenio Chacarra shot 68 to tie Rory McIlroy (72) at five-under 211 in fourth place.",
+    "Sunday 15 November is the fourth and final round of the $10 million season finale in Dubai."
   ],
   "keyPlayers": [
     {
-      "name": "Rory McIlroy",
-      "team": "Northern Ireland",
-      "hook": "69-70=139, shares the 36-hole lead at five under."
-    },
-    {
       "name": "Tyrrell Hatton",
       "team": "England",
-      "hook": "70-69=139 to join McIlroy at the top after 36 holes."
+      "hook": "70-69-68=207 (-9) to take the solo 54-hole lead by one shot."
+    },
+    {
+      "name": "Victor Perez",
+      "team": "France",
+      "hook": "Fired a Saturday 67 to move into solo second at 208 (-8)."
     },
     {
       "name": "Eugenio Chacarra",
       "team": "Spain",
-      "hook": "Race leader 72-71=143, four shots back, tied for 11th."
+      "hook": "Saturday 68 to tie Rory McIlroy at five under and lead projected Race to Dubai."
+    },
+    {
+      "name": "Rory McIlroy",
+      "team": "Northern Ireland",
+      "hook": "Level-par 72 after three bogeys around the turn, tied with Chacarra at 211 (-5)."
     }
   ],
-  "headToHead": "Friday 13 November 2026, Round 2 complete. Earth Course, Jumeirah Golf Estates, Dubai. R3 Saturday unpublished.",
+  "headToHead": "Saturday 14 November 2026, Round 3 complete. Earth Course, Jumeirah Golf Estates, Dubai. Sunday final round.",
   "tags": [
     "golf",
     "dp-world-tour",
     "dubai",
-    "rory-mcilroy",
     "tyrrell-hatton",
-    "joost-luiten",
-    "eugenio-chacarra"
+    "rory-mcilroy",
+    "eugenio-chacarra",
+    "victor-perez"
   ],
-  "home": "Rory McIlroy",
-  "away": "Tyrrell Hatton",
+  "home": "Tyrrell Hatton",
+  "away": "Victor Perez",
   "homeCode": "ENG",
-  "awayCode": "ENG",
+  "awayCode": "FRA",
   "homeFlag": "gb-eng",
-  "awayFlag": "gb-eng",
+  "awayFlag": "fr",
   "group": "DP World Tour Finale",
-  "matchday": 2,
-  "date": "2026-11-13",
+  "matchday": 3,
+  "date": "2026-11-14",
   "time": "12:40",
   "venue": "Earth Course, Jumeirah Golf Estates",
   "city": "Dubai",
   "status": "FINISHED",
-  "homeScore": "-5 (139)",
-  "awayScore": "-5 (139)",
+  "homeScore": "-9 (207)",
+  "awayScore": "-8 (208)",
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": "round2",
+  "decidedBy": "round3",
   "homePen": null,
   "awayPen": null,
   "sport": "golf",
   "competition": "dp-world-tour-2026",
   "format": "leaderboard",
   "season": "2026",
-  "roundLabel": "Round 2 Complete",
-  "resultSummary": "R2 DUBAI (AP): T1 McIlroy & Hatton -5 (139); T3 Luiten & Reitan -4 (140); Chacarra -1 (143, T11). R3 Saturday in progress, unpublished.",
+  "roundLabel": "Round 3 Complete",
+  "resultSummary": "R3 DUBAI: 1. Hatton -9 (207); 2. Perez -8 (208); 3. Lindberg -6 (210); T4. McIlroy (72) & Chacarra (68) -5 (211); Rahm -3 (213). Sunday final round.",
   "leaderboard": [
     {
-      "pos": "T1",
-      "name": "Rory McIlroy",
-      "score": "-5 (69-70=139)",
-      "note": "Shares 36-hole lead"
-    },
-    {
-      "pos": "T1",
+      "pos": "1",
       "name": "Tyrrell Hatton",
-      "score": "-5 (70-69=139)",
-      "note": "Shares 36-hole lead"
+      "score": "-9 (70-69-68=207)",
+      "note": "Solo 54-hole leader"
     },
     {
-      "pos": "T3",
-      "name": "Joost Luiten",
-      "score": "-4 (67-73=140)",
-      "note": "R1 leader; Friday 73"
-    },
-    {
-      "pos": "T3",
-      "name": "Kristoffer Reitan",
-      "score": "-4 (70-70=140)",
-      "note": "Two even-par 70s"
-    },
-    {
-      "pos": "T5",
-      "name": "Mikael Lindberg",
-      "score": "-3 (72-69=141)",
-      "note": "Friday 69"
-    },
-    {
-      "pos": "T5",
+      "pos": "2",
       "name": "Victor Perez",
-      "score": "-3 (69-72=141)",
-      "note": "T5 after 36"
+      "score": "-8 (69-72-67=208)",
+      "note": "Solo 2nd; Saturday 67"
     },
     {
-      "pos": "T5",
-      "name": "Freddy Schott",
-      "score": "-3 (69-72=141)",
-      "note": "T5 after 36"
+      "pos": "3",
+      "name": "Mikael Lindberg",
+      "score": "-6 (72-69-69=210)",
+      "note": "Solo 3rd"
     },
     {
-      "pos": "T11",
+      "pos": "T4",
+      "name": "Rory McIlroy",
+      "score": "-5 (69-70-72=211)",
+      "note": "Saturday 72; T4"
+    },
+    {
+      "pos": "T4",
       "name": "Eugenio Chacarra",
-      "score": "-1 (72-71=143)",
-      "note": "Race to Dubai leader"
+      "score": "-5 (72-71-68=211)",
+      "note": "Saturday 68; ties McIlroy"
+    },
+    {
+      "pos": "T6",
+      "name": "Jon Rahm",
+      "score": "-3 (71-71-71=213)",
+      "note": "Three straight 71s"
     }
   ],
   "tennisSets": [],
   "sources": [
     {
-      "name": "Associated Press via WTOP: DP World Tour Championship second-round scores",
-      "url": "https://wtop.com/sports/2026/11/dp-world-tour-championship-scores-2/"
+      "name": "GolfMagic: DP World Tour Championship Round 3 leaderboard and report",
+      "url": "https://www.golfmagic.com/dp-world-tour/dp-world-tour-championship-2026-round-3-scores"
     },
     {
-      "name": "DP World Tour: Championship Dubai leaderboard",
+      "name": "European Tour: DP World Tour Championship Dubai official scores",
       "url": "https://www.europeantour.com/dpworld-tour/dp-world-tour-championship-dubai-2026/leaderboard"
     }
   ]

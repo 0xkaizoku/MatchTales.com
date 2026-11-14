@@ -369,86 +369,86 @@ export const STORY_I18N: Record<string, LocMap> = {
     ]
   }
 },
-  "dp-world-tour-dubai-r2-mcilroy-hatton-share-lead-2026": {
+  "dp-world-tour-dubai-r3-hatton-leads-chacarra-ties-mcilroy-2026": {
   "fr": {
-    "title": "Dubai 36 trous : McIlroy et Hatton partagent 139, Luiten recule ; T3 non publiee",
-    "subtitle": "Les totaux AP de vendredi placent Rory McIlroy et Tyrrell Hatton a cinq sous le par, un coup devant Joost Luiten. Le troisieme tour samedi n'est pas affiche comme final.",
-    "excerpt": "T2 terminee : McIlroy 69-70 et Hatton 70-69 menent a 139. Luiten 67-73=140. Chacarra 72-71=143 (T11). Le T3 samedi est en cours et non publie.",
+    "title": "Dubai 54 trous : Hatton en tete a 207 (-9), Perez en embuscade ; Chacarra (68) rejoint McIlroy",
+    "subtitle": "Tyrrell Hatton prend un coup d'avance sur Victor Perez grace a un 68, tandis qu'Eugenio Chacarra (68) rejoint Rory McIlroy (72) a cinq sous le par avant dimanche.",
+    "excerpt": "T3 termine : Hatton 207 (-9) devance Perez 208 (-8) et Lindberg 210 (-6). McIlroy (72) et Chacarra (68) se partagent la 4e place a 211 (-5) avant la finale.",
     "body": [
-      "Associated Press a publie les scores complets du deuxieme tour vendredi 13 novembre sur l'Earth Course a Jumeirah Golf Estates. Rory McIlroy signe 69-70 pour 139 (cinq sous le par) et partage la tete du DP World Tour Championship avec Tyrrell Hatton (70-69). Joost Luiten, auteur d'un 67 jeudi, ajoute un 73 pour 140 aux cotes de Kristoffer Reitan (70-70). Mikael Lindberg, Victor Perez et Freddy Schott sont a 141.",
-      "Le leader de la Race to Dubai Eugenio Lopez-Chacarra est a 72-71 pour 143, a egalite pour la 11e place avec Francesco Laporta, Adrian Meronk et le dauphin du premier tour Jacob Skov Olesen (68-75). La finale a 10 millions de dollars a encore 36 trous. Le troisieme tour est en cours samedi 14 novembre et n'est pas publie comme final. Dimanche aura lieu le quatrieme tour."
+      "Tyrrell Hatton a rendu une carte de 68 (-4) samedi 14 novembre pour prendre seul les commandes du DP World Tour Championship a neuf sous le par (207) sur l'Earth Course a Dubai. Le Francais Victor Perez a brille avec un 67 (-5) pour s'installer seul deuxieme a 208 (-8), devant le Suedois Mikael Lindberg (210, -6).",
+      "Pour la Race to Dubai, le leader Eugenio Chacarra a signe un superbe 68 (-4) pour atteindre 211 (-5) et combler ses quatre coups de retard sur Rory McIlroy, freine par trois bogeys pour un 72 dans le par. Tous deux partagent la 4e place a cinq sous le par, placant Chacarra en position ideale avant le dernier tour dimanche."
     ]
   },
   "es": {
-    "title": "Dubai 36 hoyos: McIlroy y Hatton comparten 139, Luiten cede; R3 no publicada",
-    "subtitle": "Los totales de Associated Press del viernes ponen a Rory McIlroy y Tyrrell Hatton a cinco bajo, uno por delante de Joost Luiten. La tercera ronda del sabado no se publica como final.",
-    "excerpt": "R2 cerrada: McIlroy 69-70 y Hatton 70-69 lideran con 139. Luiten 67-73=140. Chacarra 72-71=143 (T11). La R3 del sabado esta en juego y no se publica.",
+    "title": "Dubai 54 hoyos: Hatton lidera con 207 (-9) seguido de Perez; Chacarra (68) empata con McIlroy",
+    "subtitle": "Tyrrell Hatton firma 68 para tomar un golpe de ventaja sobre Victor Perez, mientras Eugenio Chacarra (68) alcanza a Rory McIlroy (72) con -5 antes del domingo.",
+    "excerpt": "R3 completa: Hatton 207 (-9) lidera ante Perez 208 (-8) y Lindberg 210 (-6). McIlroy (72) y Chacarra (68) comparten la cuarta plaza con 211 (-5) hacia la final.",
     "body": [
-      "Associated Press publico las tarjetas completas de la segunda ronda el viernes 13 de noviembre en Earth Course, Jumeirah Golf Estates. Rory McIlroy firma 69-70 para 139 (cinco bajo par) y comparte el liderato del DP World Tour Championship con Tyrrell Hatton (70-69). Joost Luiten, que abrio con 67, suma un 73 para 140 junto a Kristoffer Reitan (70-70). Mikael Lindberg, Victor Perez y Freddy Schott estan en 141.",
-      "El lider de la Race to Dubai Eugenio Lopez-Chacarra va 72-71 para 143, empatado en el 11 con Francesco Laporta, Adrian Meronk y el segundo de la primera ronda Jacob Skov Olesen (68-75). La final de 10 millones de dolares tiene 36 hoyos por delante. La tercera ronda esta en juego el sabado 14 de noviembre y no se publica como final. El domingo es la cuarta ronda."
+      "Tyrrell Hatton firmo una tarjeta de 68 golpes (-4) este sabado 14 de noviembre para situarse lider en solitario tras 54 hoyos con 207 (-9) en el DP World Tour Championship en el Earth Course de Dubai. El frances Victor Perez entrego un brillante 67 (-5) para colocarse segundo a un golpe (208, -8), seguido por el sueco Mikael Lindberg (210, -6).",
+      "En la batalla por la Race to Dubai, el lider espanol Eugenio Chacarra se lucio con un 68 (-4) para alcanzar 211 (-5), remontando cuatro golpes a Rory McIlroy, quien firmo 72 tras sufrir tres bogeys en el tramo central. Ambos comparten la cuarta posicion con -5, dejando a Chacarra como lider virtual hacia la jornada final del domingo."
     ]
   },
   "de": {
-    "title": "Dubai 36 Loecher: McIlroy und Hatton teilen 139, Luiten rutscht; R3 unveröffentlicht",
-    "subtitle": "Die AP-Totals vom Freitag setzen Rory McIlroy und Tyrrell Hatton auf fünf unter Par, einen vor Joost Luiten. Die dritte Runde am Samstag gilt nicht als Finale.",
-    "excerpt": "R2 komplett: McIlroy 69-70 und Hatton 70-69 führen mit 139. Luiten 67-73=140. Chacarra 72-71=143 (T11). R3 samstags laeuft und wird nicht veroeffentlicht.",
+    "title": "Dubai 54 Loecher: Hatton fuehrt mit 207 (-9) vor Perez; Chacarra (68) schliesst zu McIlroy auf",
+    "subtitle": "Tyrrell Hatton sichert sich mit einer 68 die Spitze vor Victor Perez (67), waehrend Eugenio Chacarra (68) mit Rory McIlroy (72) bei fuenf unter gleichzieht.",
+    "excerpt": "Runde 3 beendet: Hatton 207 (-9) fuehrt vor Perez 208 (-8) und Lindberg 210 (-6). McIlroy (72) und Chacarra (68) teilen sich Platz vier bei 211 (-5) vor dem Finale.",
     "body": [
-      "Associated Press stellte am Freitag, 13. November, vollstaendige Zweitrounden-Scores vom Earth Course in Jumeirah Golf Estates ein. Rory McIlroy spielt 69-70 auf 139 (fünf unter Par) und teilt die Fuehrung der DP World Tour Championship mit Tyrrell Hatton (70-69). Joost Luiten, der mit 67 eroeffnete, legt eine 73 nach und steht bei 140 neben Kristoffer Reitan (70-70). Mikael Lindberg, Victor Perez und Freddy Schott liegen bei 141.",
-      "Race-to-Dubai-Fuehrer Eugenio Lopez-Chacarra steht 72-71 fuer 143, gleichauf auf Platz 11 mit Francesco Laporta, Adrian Meronk und dem R1-Zweiten Jacob Skov Olesen (68-75). Das 10-Millionen-Saisonfinale hat noch 36 Loecher. Runde 3 laeuft am Samstag, 14. November, und wird nicht als Finale veroeffentlicht. Sonntag folgt Runde 4."
+      "Tyrrell Hatton spielte am Samstag, 14. November, eine 68 (-4) und uebernahm mit insgesamt 207 Schlaegen (-9) die alleinige 54-Loch-Fuehrung beim DP World Tour Championship auf dem Earth Course in Dubai. Der Franzose Victor Perez rueckte mit einer starken 67 (-5) auf Rang zwei vor (208, -8), vor dem Schweden Mikael Lindberg (210, -6).",
+      "Im Duell um die Race to Dubai schloss Spitzenreiter Eugenio Chacarra dank einer 68 (-4) mit 211 Schlaegen (-5) zu Rory McIlroy auf, der nach drei Bogeys um den Turn eine 72 unterschrieb. Beide teilen sich Rang vier bei fuenf unter Par, womit Chacarra vor der Finalrunde am Sonntag im Titelrennen die Nase vorn hat."
     ]
   },
   "it": {
-    "title": "Dubai 36 buche: McIlroy e Hatton condividono 139, Luiten scivola; R3 non pubblicata",
-    "subtitle": "I totali AP di venerdi mettono Rory McIlroy e Tyrrell Hatton a cinque sotto, uno sopra Joost Luiten. Il terzo giro di sabato non e pubblicato come finale.",
-    "excerpt": "R2 chiusa: McIlroy 69-70 e Hatton 70-69 in testa a 139. Luiten 67-73=140. Chacarra 72-71=143 (T11). La R3 di sabato e in corso e non pubblicata.",
+    "title": "Dubai 54 buche: Hatton guida a 207 (-9) su Perez; Chacarra (68) aggancia McIlroy al quarto posto",
+    "subtitle": "Tyrrell Hatton gira in 68 per un colpo di margine su Victor Perez, mentre Eugenio Chacarra (68) raggiunge Rory McIlroy (72) a -5 verso domenica.",
+    "excerpt": "R3 concluso: Hatton 207 (-9) precede Perez 208 (-8) e Lindberg 210 (-6). McIlroy (72) e Chacarra (68) condividono il 4o posto a 211 (-5) prima della finale.",
     "body": [
-      "Associated Press ha pubblicato i punteggi completi del secondo giro venerdi 13 novembre sull'Earth Course a Jumeirah Golf Estates. Rory McIlroy firma 69-70 per 139 (cinque sotto par) e condivide il comando del DP World Tour Championship con Tyrrell Hatton (70-69). Joost Luiten, partito con 67, aggiunge un 73 per 140 insieme a Kristoffer Reitan (70-70). Mikael Lindberg, Victor Perez e Freddy Schott sono a 141.",
-      "Il leader della Race to Dubai Eugenio Lopez-Chacarra e 72-71 per 143, a pari 11esimo con Francesco Laporta, Adrian Meronk e il secondo del primo giro Jacob Skov Olesen (68-75). La finale da 10 milioni di dollari ha ancora 36 buche. Il terzo giro e in corso sabato 14 novembre e non e pubblicato come finale. Domenica e il quarto giro."
+      "Tyrrell Hatton ha firmato un giro in 68 colpi (-4) sabato 14 novembre portandosi al comando solitario a quota 207 (-9) dopo 54 buche nel DP World Tour Championship all'Earth Course di Dubai. Il francese Victor Perez ha brillato con un 67 (-5) risalendo al secondo posto (208, -8), davanti allo svedese Mikael Lindberg (210, -6).",
+      "Per il titolo della Race to Dubai, il leader spagnolo Eugenio Chacarra ha piazzato un ottimo 68 (-4) salendo a 211 (-5) e colmando quattro colpi su Rory McIlroy, fermato da tre bogey per un 72 finale. Entrambi dividono la quarta piazza a -5, con Chacarra virtualmente campione prima del giro conclusivo di domenica."
     ]
   },
   "pl": {
-    "title": "Dubaj 36 dolek: McIlroy i Hatton dziela 139, Luiten spada; R3 niepublikowana",
-    "subtitle": "Piatekowe sumy AP stawiają Rory'ego McIlroya i Tyrrella Hattona na piec pod parem, jeden przed Joostem Luitenem. Sobotnia trzecia runda nie jest publikowana jako final.",
-    "excerpt": "R2 zakonczona: McIlroy 69-70 i Hatton 70-69 prowadza z 139. Luiten 67-73=140. Chacarra 72-71=143 (T11). R3 w sobote trwa i nie jest publikowana.",
+    "title": "Dubaj po 54 dolkach: Hatton prowadzi z wynikiem 207 (-9) przed Perezem; Chacarra (68) dopada McIlroya",
+    "subtitle": "Tyrrell Hatton uzyskal 68 uderzen i prowadzi jednym uderzeniem przed Victorem Perezem, a Eugenio Chacarra (68) zrownal sie z Rorym McIlroyem (72) na -5.",
+    "excerpt": "Runda 3 zakonczona: Hatton 207 (-9) przed Perezem 208 (-8) i Lindbergiem 210 (-6). McIlroy (72) i Chacarra (68) dziela czwarte miejsce (211, -5) przed finalem.",
     "body": [
-      "Associated Press opublikowalo pelne wyniki drugiej rundy w piatek 13 listopada na Earth Course w Jumeirah Golf Estates. Rory McIlroy gra 69-70 na 139 (piec pod parem) i dzieli prowadzenie DP World Tour Championship z Tyrrellem Hattonem (70-69). Joost Luiten, ktory otworzyl 67, doklada 73 na 140 obok Kristoffera Reitana (70-70). Mikael Lindberg, Victor Perez i Freddy Schott sa na 141.",
-      "Lider Race to Dubai Eugenio Lopez-Chacarra ma 72-71 na 143, ex aequo na 11. miejscu z Francesco Laporta, Adrianem Meronkiem i wiceliderem pierwszej rundy Jacobem Skovem Olesenem (68-75). Final za 10 milionow dolarow ma jeszcze 36 dolek. Trzecia runda trwa w sobote 14 listopada i nie jest publikowana jako final. Niedziela to czwarta runda."
+      "Tyrrell Hatton zagral w sobote 14 listopada runde 68 (-4) i z wynikiem 207 (-9) objal samodzielne prowadzenie po 54 dolkach w turnieju DP World Tour Championship na Earth Course w Dubaju. Francuz Victor Perez zrobil 67 (-5) i awansowal na drugie miejsce (208, -8), wyprzedzajac Szweda Mikaela Lindberga (210, -6).",
+      "W walce o puchar Race to Dubai lider klasyfikacji Eugenio Chacarra zanotowal swietne 68 (-4) osiagajac 211 (-5) i odrabiajac cztery uderzenia straty do Rory'ego McIlroya, ktory po trzech bogeyach zagral 72. Obaj dziela czwarte miejsce przed niedzielna runda finalowa, co stawia Chakarre w roli wirtualnego mistrza sezonu."
     ]
   },
   "zh": {
-    "title": "迪拜36洞：麦克罗伊与哈顿并列139杆，吕腾下滑；第三轮不作为完场",
-    "subtitle": "美联社周五总计将麦克罗伊与哈顿排在五杆低于标准杆，领先吕腾一杆。周六第三轮不作为完场发布。",
-    "excerpt": "第二轮收杆：麦克罗伊69-70、哈顿70-69并列139。吕腾67-73=140。查卡拉72-71=143（并列11）。周六第三轮进行中未发布。",
+    "title": "迪拜总决赛54洞战罢：哈顿207杆（-9）单独领跑，佩雷斯居次，查卡拉68杆追平麦克罗伊",
+    "subtitle": "哈顿第三轮打出68杆领先佩雷斯一杆，积分榜首查卡拉抓下68杆追平打出72杆的麦克罗伊，同以-5进入周日决胜轮。",
+    "excerpt": "第三轮结束：哈顿207杆（-9）领先佩雷斯208杆（-8）与林德伯格210杆（-6）。麦克罗伊（72杆）与查卡拉（68杆）同以211杆（-5）并列第四。",
     "body": [
-      "美联社于11月13日周五公布朱美拉高尔夫庄园地球球场完整第二轮成绩。罗里·麦克罗伊69-70合计139杆（低于标准杆五杆），与泰瑞尔·哈顿（70-69）并列DP世界巡回赛锦标赛领先。周四打出67杆的约斯特·吕腾再打73杆合计140，与克里斯托弗·雷坦（70-70）并列。林德贝里、佩雷斯与肖特位于141杆。",
-      "迪拜积分榜领跑者欧亨尼奥·查卡拉72-71合计143杆，与拉波尔塔、梅龙克及首轮第二雅各布·斯科夫·奥勒森（68-75）并列第11。千万美元赛季收官战还剩36洞。第三轮于11月14日周六进行中，不作为完场发布。周日为第四轮。"
+      "11月14日周六在迪拜朱美拉高尔夫庄园大地球场，英格兰名将泰瑞尔·哈顿第三轮打出68杆（-4），以54洞总成绩207杆（-9）独自登上DP世界巡回锦标赛领先榜首位。法国球员维克托·佩雷斯轰出67杆（-5）以208杆（-8）位列单独第二，瑞典选手米卡埃尔·林德伯格以210杆（-6）位列第三。",
+      "迪拜竞赛总冠军争夺战在周六掀起高潮。积分领跑者欧亨尼奥·查卡拉交出全场亮眼的68杆（-4），总成绩来到211杆（-5），抹平此前四杆劣势，追平了因转场连吞三个柏忌而交出平标准杆72杆的罗里·麦克罗伊。两人同以-5并列第四位，查卡拉在周日决战前占据了夺得哈里·瓦登奖杯的先机。"
     ]
   },
   "ja": {
-    "title": "ドバイ36ホール：マキロイとハットンが139で首位タイ、ルイテン後退；3日目は非掲載",
-    "subtitle": "金曜のAP集計でローリー・マキロイとティレル・ハットンが5アンダー、ヨスト・ルイテンに1打差。土曜の第3ラウンドは最終として掲載しない。",
-    "excerpt": "2日目終了：マキロイ69-70、ハットン70-69が139で首位。ルイテン67-73=140。チャカラ72-71=143（T11）。土曜3日目は進行中で非掲載。",
+    "title": "ドバイ54ホール終了：ハットンが207（-9）で単独首位、ペレス追走；チャカラ68でマキロイに並ぶ",
+    "subtitle": "ティレル・ハットンが68でビクトル・ペレスに1打差首位。エウヘニオ・チャカラが68をマークし72のマキロイと5アンダーで並び最終日へ。",
+    "excerpt": "第3R終了：ハットン207（-9）がペレス208（-8）とリンドバーグ210（-6）をリード。マキロイ（72）とチャカラ（68）が211（-5）の4位タイで最終日を迎える。",
     "body": [
-      "AP通信は11月13日金曜、ジュメイラ・ゴルフ・エステーツのアースコースから完全な2日目スコアを配信した。ローリー・マキロイは69-70で139（5アンダー）とし、ティレル・ハットン（70-69）とDPワールドツアー選手権の首位を分け合う。木曜67のヨスト・ルイテンは73を加えて140、クリストフェル・レイタン（70-70）と並ぶ。リンドベリ、ペレス、ショットは141。",
-      "レース・トゥ・ドバイ首位のエウヘニオ・チャカラは72-71で143、ラポルタ、メロンク、初日2位のヤコブ・スコウ・オレセン（68-75）と11位タイ。1000万ドルのシーズン最終戦は残り36ホール。第3ラウンドは11月14日土曜進行中で最終としては掲載しない。日曜が第4ラウンド。"
+      "11月14日土曜日、ドバイのジュメイラ・ゴルフ・エステーツ（アースコース）で行われたDPワールドツアー選手権第3ラウンドで、イングランドのティレル・ハットンが68（-4）をマークし、通算207（-9）で単独首位に立った。フランスのビクトル・ペレスが67（-5）で208（-8）の単独2位、スウェーデンのミカエル・リンドバーグが210（-6）で3位につけている。",
+      "年間王者レース・トゥ・ドバイを巡る頂上決戦は土曜午後に白熱。ポイントリーダーのエウヘニオ・チャカラが会心の68（-4）で通算211（-5）とし、ターン付近の3連続ボギーで72（イーブンパー）にとどまったローリー・マキロイに4打差を追いついた。両者は通算5アンダーの4位タイで並び、チャカラが年間タイトル獲得の優位を保って日曜の最終ラウンドに入る。"
     ]
   },
   "ko": {
-    "title": "두바이 36홀: 매킬로이·해튼 139 공동 선두, 라위텐 하락; 3R 미게시",
-    "subtitle": "AP 금요일 합계가 로리 매킬로이와 타렐 해튼을 5언더, 요스트 라위텐보다 1타 앞에 둡니다. 토요일 3라운드는 최종으로 올리지 않습니다.",
-    "excerpt": "2R 종료: 매킬로이 69-70, 해튼 70-69이 139로 선두. 라위텐 67-73=140. 차카라 72-71=143(T11). 토요일 3R는 진행 중이며 미게시.",
+    "title": "두바이 54홀 종료: 해튼 207타(-9) 단독 선두, 페레스 추격… 차카라 68타로 매킬로이와 동률",
+    "subtitle": "티럴 해튼이 68타를 치며 빅토르 페레스에 1타 앞선 선두로 나섰고, 에우헤니오 차카라(68타)는 72타의 로리 매킬로이와 5언더파 동률을 이뤘습니다.",
+    "excerpt": "3R 완료: 해튼 207타(-9) 선두, 페레스 208타(-8), 린드베리 210타(-6). 매킬로이(72타)와 차카라(68타)가 211타(-5)로 공동 4위에 올랐습니다.",
     "body": [
-      "AP가 11월 13일 금요일 주메이라 골프 에스테이트 어스 코스에서 완전한 2라운드 스코어를 발표했습니다. 로리 매킬로이가 69-70으로 139타(5언더)를 쳐 DP 월드 투어 챔피언십 선두를 타렐 해튼(70-69)과 나눕니다. 목요일 67타의 요스트 라위텐은 73타를 더해 140, 크리스토페르 레이탄(70-70)과 함께입니다. 린드베리, 페레스, 쇼트는 141타입니다.",
-      "레이스 투 두바이 선두 에우헤니오 차카라는 72-71로 143타, 라포르타, 메롱크, 1라운드 2위 야코브 스코브 올레센(68-75)과 공동 11위입니다. 1000만 달러 시즌 최종전은 36홀이 남았습니다. 3라운드는 11월 14일 토요일 진행 중이며 최종으로 게시하지 않습니다. 일요일이 4라운드입니다."
+      "11월 14일 토요일 두바이 주메이라 골프 에스테이트 어스 코스에서 열린 DP 월드투어 챔피언십 3라운드에서 잉글랜드의 티럴 해튼이 68타(-4)를 기록, 54홀 합계 207타(-9)로 단독 선두에 올랐습니다. 프랑스의 빅토르 페레스가 67타(-5)를 쳐 208타(-8)로 단독 2위, 스웨덴의 미카엘 린드베리가 210타(-6)로 3위를 달렸습니다.",
+      "시즌 최종전 레이스 투 두바이 챔피언 경쟁에서는 포인트 1위 에우헤니오 차카라가 68타(-4)를 적어내며 4타 차 열세를 극복하고 211타(-5)로 올라섰습니다. 중반 3연속 보기로 72타(이븐파)에 그친 로리 매킬로이와 나란히 공동 4위(-5)를 마크한 차카라는 일요일 최종 라운드를 앞두고 해리 바든 트로피 수성의 유리한 고지를 점했습니다."
     ]
   },
   "ar": {
-    "title": "دبي 36 حفرة: ماكلروي وهاتون يقتسمان 139 ويتراجع لويتن؛ الجولة 3 غير منشورة",
-    "subtitle": "مجاميع أسوشيتد برس يوم الجمعة تضع روري ماكلروي وتيريل هاتون عند خمسة تحت البار، ضربة أمام جوست لويتن. الجولة الثالثة السبت لا تُنشر كنهاية.",
-    "excerpt": "الجولة 2 مكتملة: ماكلروي 69-70 وهاتون 70-69 يتصدران بـ139. لويتن 67-73=140. تشاكارا 72-71=143 (ح11). الجولة 3 السبت جارية وغير منشورة.",
+    "title": "دبي بعد 54 حفرة: هاتون يتصدر بـ207 ضربات (-9) أمام بيريز؛ وتشاكارا (68) يعادل مكلروي",
+    "subtitle": "تيريل هاتون يسجل 68 لينفرد بالصدارة بفارق ضربة عن فيكتور بيريز، ويوجينيو تشاكارا يعوض الفارق بـ68 ليتعادل مع روري مكلروي (72) عند 5 تحت المعدل.",
+    "excerpt": "الجولة الثالثة مكتملة: هاتون 207 (-9) يتصدر أمام بيريز 208 (-8) وليندبرغ 210 (-6). مكلروي (72) وتشاكارا (68) يتقاسمان المركز الرابع بـ211 (-5) قبل الحسم الأحد.",
     "body": [
-      "نشرت أسوشيتد برس نتائج الجولة الثانية الكاملة الجمعة 13 نوفمبر من إيرث كورس في جميرا غولف إستيتس. سجل روري ماكلروي 69-70 لـ139 (خمسة تحت البار) ويشارك صدارة بطولة جولة DP العالمية مع تيريل هاتون (70-69). جوست لويتن، صاحب 67 يوم الخميس، أضاف 73 لـ140 إلى جانب كريستوفر ريتان (70-70). ميكائيل ليندبرغ وفيكتور بيريز وفريدي شوت عند 141.",
-      "متصدر سباق دبي أوخينيو لوبيز تشاكارا عند 72-71 لـ143، متعادل في المركز 11 مع فرانشيسكو لابورتا وأدريان ميرونك ووصيف الجولة الأولى يعقوب سكوف أولسن (68-75). النهائي بجائزة 10 ملايين دولار ما زال فيه 36 حفرة. الجولة الثالثة جارية السبت 14 نوفمبر ولا تُنشر كنهاية. الأحد الجولة الرابعة."
+      "سجل الإنجليزي تيريل هاتون 68 ضربة (4 تحت المعدل) يوم السبت 14 نوفمبر ليتصدر بمفرده بطولة جولة دي بي ورلد بعد 54 حفرة بمجموع 207 ضربات (-9) في ملعب إيرث بدبي. وحل الفرنسي فيكتور بيريز ثانياً بتسجيله 67 ضربة (-5) وبمجموع 208 (-8)، متقدماً على السويدي ميكائيل ليندبرغ (210، -6).",
+      "وفي صراع لقب السباق إلى دبي للموسم كاملاً، أبدع المتصدر الإسباني يوجينيو تشاكارا بـ68 ضربة (-4) ليرفع رصيده إلى 211 (-5) معادلاً روري مكلروي الذي اكتفى بـ72 ضربة بعد ثلاث بوغي متتالية حول منتصف الجولة. ويتقاسم النجمان المركز الرابع بـ5 تحت المعدل، مما يمنح تشاكارا الأفضلية التقديرية لحسم اللقب قبل الجولة الختامية الأحد."
     ]
   }
 },

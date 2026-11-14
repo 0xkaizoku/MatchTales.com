@@ -13,7 +13,7 @@ sources:
   - name: "NBA.com: Wembanyama 52 points, 24 rebounds as Spurs top Mavs"
     url: "https://www.nba.com/news/spurs-victor-wembanyama-52-points-mavericks"
   - name: "Reuters: Wembanyama pours in 52 as Spurs edge Mavericks"
-    url: "https://www.reuters.com/sports/basketball/victor-wembanyama-pours-52-spurs-edge-mavericks--flm-2026-11-05/"
+    url: "https://www.reuters.com/sports/basketball/victor-wembanyama-pours-52-spurs-edge-mavericks-flm-2026-11-05/"
   - name: "BBC Sport: Career-best Wembanyama display seals Spurs win"
     url: "https://www.bbc.co.uk/sport/basketball/articles/cw4g1m6rlvxpo"
 ---

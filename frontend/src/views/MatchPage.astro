@@ -29,7 +29,7 @@ const sportMeta = sportBySlug(sport);
 const sportL = sportCopy(locale, sport);
 const related = all.filter((x: any) => x.slug !== raw.slug && sportOf(x) === sport && (x.group === raw.group || (x.tags || []).some((t: string) => (raw.tags || []).includes(t)))).slice(0, 3);
 const label = `${m.home} ${d.common.vs} ${m.away}`;
-const stage = m._stage;
+const stage = m._stage || m.roundLabel || '';
 const stageBadge = m.matchday && m.matchday <= 3 ? `${stage} · ${fill(d.stage.matchdayLong, { n: m.matchday })}` : stage;
 const score = scoreDisplayI18n(locale, m);
 const ogImage = contentImage(m.image, m.slug, 1200, 80) || SITE.ogImage;
