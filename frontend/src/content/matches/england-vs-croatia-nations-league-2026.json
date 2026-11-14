@@ -1,41 +1,41 @@
 {
   "slug": "england-vs-croatia-nations-league-2026",
-  "headline": "UEFA Nations League MD5 Tonight: England host Croatia at Wembley alongside Italy vs France",
-  "whyCareScore": 9.3,
-  "whyCareReason": "England need only a point at Wembley to reach the Nations League quarterfinals, on a stacked Thursday night featuring Czechia vs Spain and Italy vs France.",
-  "teaser": "TONIGHT (Thu 12 Nov, 19:45 UK / 20:45 CET): England vs Croatia at Wembley (Group A3). Also tonight: Italy vs France (San Siro, 20:45 CET), Czechia vs Spain (20:45 CET).",
-  "story": "Men's international football steals the Thursday evening spotlight on 12 November across UEFA Nations League Matchday 5. In Group A3 at Wembley Stadium (7:45 p.m. UK / 8:45 p.m. CET), England host Croatia needing at least a draw to clinch a Nations League quarterfinal berth, while Spain already holds its quarterfinal spot ahead of its 8:45 p.m. CET visit to Czechia at Letna Stadium in Prague. In Group A1, heavyweights Italy and France collide at San Siro in Milan (8:45 p.m. CET) after Turkiye faces Belgium in Izmir (6:00 p.m. CET). Entering the international window, Arsenal still tops the Premier League table on 27 points, five ahead of Brighton (22) and six above Manchester City (21).",
-  "stakes": "England seals a Nations League quarterfinal berth with a point or win at Wembley while Italy and France duel at San Siro in Group A1.",
-  "rivalryAngle": "Wembley knockout math for England vs Croatia headlines alongside Group A1 giants Italy and France in Milan.",
+  "headline": "Nations League: Kane penalty wins it 2-1 on his 126th England cap; Italy 3-1 France, Spain 2-0 Czechia",
+  "whyCareScore": 9.6,
+  "whyCareReason": "Harry Kane became England's most-capped men's player (126) and scored the 64th-minute penalty that sealed a Nations League quarterfinal place, 2-1 over Croatia.",
+  "teaser": "FINAL: England 2-1 Croatia (Rogers 24', Kane 64' pen; Sucic 59'). Also Thu: Italy 3-1 France; Czechia 0-2 Spain. Sunday: Spain vs England, Metropolitano, 19:45 GMT.",
+  "story": "Harry Kane marked a record 126th England appearance by converting a 64th-minute penalty as the Three Lions beat Croatia 2-1 at Wembley on Thursday, 12 November, and booked a UEFA Nations League quarterfinal place. Morgan Rogers bundled in the opener in the 24th minute after Jude Bellingham's volleyed delivery. Petar Sucic equalised in the 59th minute from close range. Four minutes later VAR awarded a penalty for Ivan Smolcic's shirt pull on Jarell Quansah, and Kane (92nd England goal) rolled it down the middle. England sit second in Group A3 on 12 points; Spain lead on 15 after beating 10-man Czechia 2-0 in Prague (Alex Baena 39' pen, Marc Pubill 90+6'; Ladislav Krejci sent off 69'). In Group A1, Italy came from behind to beat France 3-1 at San Siro: Michael Olise 10', Francesco Pio Esposito 26' and 75' pen, Davide Frattesi 63' (Sebastiano Esposito missed a 60th-minute penalty). Sunday 15 November, Spain host England at the Metropolitano (19:45 GMT) for first place. Premier League: Arsenal 27, Brighton 22, Manchester City 21.",
+  "stakes": "England are into the quarterfinals on 12 points; Sunday's trip to Madrid decides whether Spain or England top Group A3.",
+  "rivalryAngle": "Kane's record cap night at Wembley sets up a Sunday group-title shootout against world champions Spain in Madrid.",
   "funFacts": [
-    "England needs a draw or victory at Wembley tonight to confirm a Nations League quarterfinal place.",
-    "Men's Nations League Thursday slate: Turkiye vs Belgium (18:00 CET), England vs Croatia, Italy vs France, Czechia vs Spain (all 20:45 CET).",
-    "Spain has already clinched a quarterfinal berth in Group A3 before visiting Prague."
+    "Harry Kane's 126th cap broke Peter Shilton's England men's appearance record; he scored his 92nd England goal from the spot.",
+    "Italy 3-1 France at San Siro (Olise 10', Pio Esposito 26' and 75' pen, Frattesi 63') handed Zinedine Zidane a first defeat as France coach.",
+    "Spain made it five from five with a 2-0 win in Prague (Baena pen, Pubill 90+6') and host England on Sunday."
   ],
   "keyPlayers": [
     {
-      "name": "England",
+      "name": "Harry Kane",
       "team": "England",
-      "hook": "Host Croatia at Wembley at 19:45 UK needing one point to advance."
+      "hook": "Record 126th cap and 64th-minute penalty winner in a 2-1 victory."
     },
     {
-      "name": "Croatia",
-      "team": "Croatia",
-      "hook": "Looking to disrupt Wembley celebrations on Matchday 5 in Group A3."
+      "name": "Morgan Rogers",
+      "team": "England",
+      "hook": "Opened the scoring in the 24th minute at Wembley."
     },
     {
-      "name": "Italy & France",
+      "name": "Francesco Pio Esposito",
       "team": "Italy",
-      "hook": "Lock horns at San Siro in Milan at 20:45 CET in Group A1."
+      "hook": "Scored twice (26', 75' pen) in Italy's 3-1 win over France."
     }
   ],
-  "headToHead": "Thursday 12 November 2026, 19:45 GMT (20:45 CET). Wembley Stadium, London. UEFA Nations League Group A3 MD5.",
+  "headToHead": "Thursday 12 November 2026, 19:45 GMT. Wembley Stadium, London. Final: England 2-1 Croatia.",
   "tags": [
     "soccer",
     "nations-league",
     "england",
     "croatia",
-    "wembley",
+    "harry-kane",
     "italy",
     "france",
     "spain"
@@ -52,31 +52,31 @@
   "time": "19:45",
   "venue": "Wembley Stadium",
   "city": "London",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
-  "marquee": false,
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 1,
+  "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/1171084/pexels-photo-1171084.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": null,
+  "decidedBy": "90min",
   "homePen": null,
   "awayPen": null,
   "sport": "soccer",
   "competition": "nations-league-2026-27",
   "format": "team-match",
   "season": "2026-27",
-  "roundLabel": "Nations League MD5",
-  "resultSummary": "TONIGHT 19:45 UK: England vs Croatia (Wembley); also Italy vs France & Czechia vs Spain (20:45 CET).",
+  "roundLabel": "Nations League MD5 Final",
+  "resultSummary": "FINAL: England 2-1 Croatia (Rogers 24', Kane 64' pen; Sucic 59'). Italy 3-1 France. Czechia 0-2 Spain. Sunday: Spain vs England 19:45 GMT.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "UEFA.com: Nations League MD5 England vs Croatia & Italy vs France schedule",
-      "url": "https://www.uefa.com/uefanationsleague/"
+      "name": "England Football: England 2-1 Croatia match report",
+      "url": "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2026-27/nations-league/england-v-croatia-uefa-nations-league-thursday-12-november-2026-match-centre"
     },
     {
-      "name": "BBC Sport: England Nations League Group A3 permutations at Wembley",
-      "url": "https://www.bbc.com/sport/football"
+      "name": "UEFA Nations League: Italy 3-1 France; Czechia 0-2 Spain",
+      "url": "https://www.uefa.com/uefanationsleague/"
     }
   ]
 }

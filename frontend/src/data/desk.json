@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-12",
+  "asOf": "2026-11-14",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -587,7 +587,14 @@
       "time": "8:15 p.m. ET",
       "home": "New York Giants",
       "away": "Washington Commanders",
-      "note": "TONIGHT TNF (Prime Video, MetLife White Out): Commanders (2-5-1) at Giants (5-2-1). Jayden Daniels & J.J. McCarthy cleared; C Lucas Patrick & TE Colson Yankoff OUT."
+      "note": "FINAL: Commanders 24, Giants 21. Daniels 23/33, 249 yds, 3 TD; Diggs 32-yd TD at 0:57; Douglas INT. Skattebo 2 rush TD. WSH 3-5-1, NYG 5-3-1."
+    },
+    {
+      "date": "2026-11-15",
+      "time": "9:30 a.m. ET",
+      "home": "Detroit Lions",
+      "away": "New England Patriots",
+      "note": "UPCOMING Sunday Munich (FOX, Allianz Arena): Patriots (5-4) vs Lions (6-2), 9:30 a.m. ET. Saturday 14 Nov has no NFL game. Last final: Commanders 24, Giants 21."
     }
   ],
   "usOpenQF": [
@@ -701,12 +708,6 @@
     },
     {
       "draw": "Stockholm R16",
-      "p1": "Lorenzo Musetti",
-      "p2": "Toby Samuel",
-      "status": "Musetti 6-1, 6-4"
-    },
-    {
-      "draw": "Stockholm R16",
       "p1": "Taylor Fritz",
       "p2": "Cameron Norrie",
       "status": "Fritz 7-5, 6-3"
@@ -721,19 +722,37 @@
       "draw": "Stockholm QF",
       "p1": "Taylor Fritz",
       "p2": "Holger Rune",
+      "status": "Fritz walkover"
+    },
+    {
+      "draw": "Stockholm SF",
+      "p1": "Taylor Fritz",
+      "p2": "Lorenzo Musetti",
+      "status": "Fritz 6-4, 6-2"
+    },
+    {
+      "draw": "Stockholm SF",
+      "p1": "Thiago Agustin Tirante",
+      "p2": "Alejandro Tabilo",
+      "status": "Tirante 7-5, 7-6 (1)"
+    },
+    {
+      "draw": "Stockholm Final",
+      "p1": "Taylor Fritz",
+      "p2": "Thiago Agustin Tirante",
       "status": "Today Center Court"
     },
     {
       "draw": "Turin McEnroe Group",
       "p1": "Alexander Zverev (1)",
       "p2": "Ben Shelton (3)",
-      "status": "w/ Fils (6), Jodar (8)"
+      "status": "Sun: Zverev vs Jodar; Shelton vs Fils"
     },
     {
       "draw": "Turin Lendl Group",
       "p1": "Carlos Alcaraz (2)",
       "p2": "Daniil Medvedev (4)",
-      "status": "w/ Cobolli (5), Tiafoe (7)"
+      "status": "Mon: Alcaraz vs Tiafoe; Medvedev vs Cobolli"
     }
   ]
 }

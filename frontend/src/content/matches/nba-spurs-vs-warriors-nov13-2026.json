@@ -1,0 +1,81 @@
+{
+  "slug": "nba-spurs-vs-warriors-nov13-2026",
+  "headline": "NBA Cup: Castle scores 32 as Spurs rout Curry-less Warriors 123-85 for 11th straight win",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Stephon Castle's season-high 32 points and Victor Wembanyama's 12-12-6 power San Antonio to 11-2 while Golden State plays without Stephen Curry (oblique tear).",
+  "teaser": "FINAL Fri: Spurs 123, Warriors 85 (Castle 32, Wemby 12/12/6; Cryer 20). Also Thu: Cunningham 52, Pistons 144-140 2OT. Tonight Sat: 5 NBA games, none live as final.",
+  "story": "The San Antonio Spurs demolished the Golden State Warriors 123-85 on Friday, 13 November, at Frost Bank Center on Prime Video, stretching their winning streak to 11 games and improving to 11-2 (unbeaten in NBA Cup group play). Stephon Castle scored a season-high 32 points (12 of 18, 5 of 8 from three) with six assists in 25 minutes. Victor Wembanyama added 12 points, 12 rebounds, six assists and two blocks. Keldon Johnson scored 18 off the bench. Golden State, missing Stephen Curry for at least two weeks after a right oblique tear suffered Wednesday in Houston, managed 14 first-quarter points. L.J. Cryer led the Warriors with 20; Charles Bassey had 11. Thursday's board still stands as the other headline: Cade Cunningham scored 52 points with 11 assists and no turnovers as Detroit beat Washington 144-140 in double overtime. Friday also: Heat 133-121 Cavaliers (Giannis 37), Pacers 106-104 Knicks (Brunson 33), Magic 107-99 Bucks (Wagner 35), Bulls 125-117 OT Hawks (Powell 33), Grizzlies 142-111 Pelicans, Rockets 125-118 Jazz (Sengun 43), Trail Blazers 120-107 Kings, Clippers 113-112 Thunder. Saturday 14 November (upcoming, unpublished as final): Nuggets at Pelicans 7:00 p.m. ET, Mavericks at Cavaliers 7:30, Pistons at Heat, Nets at Grizzlies, Bulls at Timberwolves (all 8:00).",
+  "stakes": "San Antonio sits 11-2 with an 11-game streak; Golden State is 8-5 without Curry for at least two weeks.",
+  "rivalryAngle": "Castle's 32-point explosion met a Curry-less Warriors side that scored 33 points in a first half.",
+  "funFacts": [
+    "Stephon Castle: 32 points on 12-of-18 shooting, 5-of-8 threes, six assists in 25 minutes.",
+    "Spurs led 38-14 after one quarter and 63-33 at halftime in an NBA Cup group game.",
+    "Thursday: Cade Cunningham 52 points, Pistons 144-140 2OT at Washington. Saturday: five upcoming NBA games."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Stephon Castle",
+      "team": "San Antonio Spurs",
+      "hook": "Season-high 32 points (12-18 FG) in a 123-85 NBA Cup blowout."
+    },
+    {
+      "name": "Victor Wembanyama",
+      "team": "San Antonio Spurs",
+      "hook": "12 points, 12 rebounds, six assists as San Antonio went to 11-2."
+    },
+    {
+      "name": "Cade Cunningham",
+      "team": "Detroit Pistons",
+      "hook": "Thursday: 52 points, 11 assists, zero turnovers in a 144-140 2OT win."
+    }
+  ],
+  "headToHead": "Friday 13 November 2026. Frost Bank Center, San Antonio. Final: Spurs 123, Warriors 85.",
+  "tags": [
+    "basketball",
+    "nba",
+    "spurs",
+    "warriors",
+    "stephon-castle",
+    "wembanyama",
+    "nba-cup"
+  ],
+  "home": "San Antonio Spurs",
+  "away": "Golden State Warriors",
+  "homeCode": "USA",
+  "awayCode": "USA",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NBA Cup Group Play",
+  "matchday": 13,
+  "date": "2026-11-13",
+  "time": "21:30",
+  "venue": "Frost Bank Center",
+  "city": "San Antonio",
+  "status": "FINISHED",
+  "homeScore": 123,
+  "awayScore": 85,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/248547/pexels-photo-248547.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": "points",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "basketball",
+  "competition": "nba-2026-27",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "NBA Cup Friday",
+  "resultSummary": "FINAL: Spurs 123, Warriors 85. Castle 32, Wemby 12/12/6. Spurs 11-2, 11-game streak. Thu: Cunningham 52, DET 144-140 2OT WAS. Sat: 5 games upcoming.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ESPN: Spurs 123-85 Warriors recap, Castle 32",
+      "url": "https://www.espn.com/nba/recap?gameId=401909302"
+    },
+    {
+      "name": "NBA.com: Warriors at Spurs November 13 2026 box score",
+      "url": "https://www.nba.com/game/gsw-vs-sas-0022600040/box-score"
+    }
+  ]
+}

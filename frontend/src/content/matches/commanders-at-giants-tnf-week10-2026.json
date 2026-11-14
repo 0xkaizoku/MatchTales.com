@@ -1,45 +1,43 @@
 {
   "slug": "commanders-at-giants-tnf-week10-2026",
-  "headline": "TONIGHT TNF Week 10: Giants (5-2-1) & McCarthy host Commanders & cleared Jayden Daniels in White Out",
-  "whyCareScore": 9.6,
-  "whyCareReason": "Both Week 5 27-27 OT rivals are led by cleared QBs tonight as J.J. McCarthy (no designation) meets full participant Jayden Daniels on Prime Video, while Washington misses center Lucas Patrick.",
-  "teaser": "TONIGHT (Thu 12 Nov, 8:15 p.m. ET, Prime Video): Commanders (2-5-1) at Giants (5-2-1, Vintage White Out). Jayden Daniels & J.J. McCarthy cleared; C Lucas Patrick & TE Yankoff OUT.",
-  "story": "NFL Week 10 opens tonight, Thursday 12 November (8:15 p.m. ET, Prime Video), under MetLife Stadium floodlights with an NFC East rematch loaded with fresh stakes from Week 5's 27-27 overtime deadlock. John Harbaugh's first-place New York Giants enter at 5-2-1 (2-0-1 NFC East) after Sunday's 19-11 upset win in Philadelphia, New York's first victory there since 2013, with quarterback J.J. McCarthy (hip), running back Cam Skattebo (hamstring), wideout Malik Nabers (knee), left tackle Andrew Thomas (groin) and tight end Theo Johnson (neck) all cleared with no game status designation (only LB Malik Harrison is questionable with a groin injury). Washington (2-5-1) also receives massive quarterback news for tonight's Vintage White Out: Jayden Daniels practiced fully with his left elbow and carries no injury designation, though center Lucas Patrick (concussion; Nick Allegretti starts) and tight end Colson Yankoff (knee) are officially OUT, and receiver Treylon Burks (foot) is expected to play despite missing short-week practices.",
-  "stakes": "A victory pushes New York to 6-2-1 atop the NFC East; a healthy Jayden Daniels tries to reignite 2-5-1 Washington without starting center Lucas Patrick.",
-  "rivalryAngle": "Rematch of Week 5's 27-27 tie features both young quarterbacks cleared for primetime at MetLife Stadium.",
+  "headline": "TNF: Diggs 32-yard TD with 0:57 left lifts Commanders 24-21 over Giants at MetLife",
+  "whyCareScore": 9.7,
+  "whyCareReason": "Jayden Daniels (23 of 33, 249 yards, 3 TD, 2 INT) hit Stefon Diggs for a 32-yard go-ahead score with 57 seconds left, then Rasul Douglas intercepted J.J. McCarthy to seal it.",
+  "teaser": "FINAL: Commanders 24, Giants 21. Quarters 0-10-7-7 / 0-7-7-7. WSH 3-5-1, NYG 5-3-1. Sunday: Patriots vs Lions in Munich, 9:30 a.m. ET FOX. No Saturday NFL game.",
+  "story": "Jayden Daniels and the Washington Commanders stunned the New York Giants 24-21 on Thursday Night Football, 12 November, at MetLife Stadium (attendance 80,450). After a scoreless first quarter, Drew Stevens kicked a 46-yard field goal and Daniels found Ben Sinnott from a yard out just before halftime. Cam Skattebo scored twice on the ground (1 yard, 13 yards) and J.J. McCarthy hit Isaiah Likely for a 66-yard touchdown to put New York up 21-17 with 8:13 left. Daniels, who threw his first two interceptions of the season on consecutive fourth-quarter drives, answered with a 32-yard strike to Stefon Diggs (6 catches, 83 yards) with 57 seconds remaining. Rasul Douglas then intercepted McCarthy's deep ball intended for Malik Nabers. Daniels finished 23 of 33 for 249 yards and three touchdowns plus 11 rushes for 28 yards. McCarthy went 23 of 36 for 293 yards, one TD and one INT. Skattebo had 18 carries for 78 yards and two scores; Likely caught nine for 127. Washington is 3-5-1, two games behind the NFC East-leading Giants (5-3-1) with the head-to-head tiebreaker after October's 27-27 draw. Saturday 14 November has no NFL game. Sunday Week 10 opens in Munich: New England Patriots (5-4) vs Detroit Lions (6-2), 9:30 a.m. ET on FOX, then a 12-game domestic slate. Monday: Chargers at Ravens, 8:15 p.m. ET.",
+  "stakes": "Washington stays alive in the NFC East at 3-5-1; the Giants fall to 5-3-1 heading into Sunday's Munich kickoff and a 12-game Week 10 slate.",
+  "rivalryAngle": "Five weeks after a 27-27 overtime tie, Daniels and Diggs stole MetLife's White Out in the final minute.",
   "funFacts": [
-    "Final TNF injury report: Jayden Daniels (left elbow) and J.J. McCarthy (hip) both carry zero injury designation tonight.",
-    "Commanders OUT: Center Lucas Patrick (concussion, Nick Allegretti starts) and TE Colson Yankoff (knee). Giants questionable: LB Malik Harrison (groin).",
-    "Week 5 between these rivals ended 27-27 in overtime; MetLife Stadium stages a Vintage White Out tonight at 8:15 p.m. ET."
+    "Scoring: Stevens 46 FG; Skattebo 1-yd rush; Sinnott 1-yd pass; Skattebo 13-yd rush; Williams 31-yd pass; Likely 66-yd pass; Diggs 32-yd pass at 0:57.",
+    "Jayden Daniels: 23/33, 249 yards, 3 TD, 2 INT. J.J. McCarthy: 23/36, 293 yards, 1 TD, 1 INT (Douglas).",
+    "No NFL game Saturday 14 Nov. Next: Patriots vs Lions, Munich, Sunday 9:30 a.m. ET FOX."
   ],
   "keyPlayers": [
     {
-      "name": "J.J. McCarthy",
-      "team": "New York Giants",
-      "hook": "Cleared (no designation after hip) with Skattebo, Nabers and Andrew Thomas active for 5-2-1 New York."
-    },
-    {
       "name": "Jayden Daniels",
       "team": "Washington Commanders",
-      "hook": "Full practice participant (left elbow) with zero designation entering tonight's White Out."
+      "hook": "23 of 33, 249 yards, three TDs including the 32-yard winner to Diggs."
     },
     {
-      "name": "Nick Allegretti",
+      "name": "Stefon Diggs",
       "team": "Washington Commanders",
-      "hook": "Steps in at center tonight with Lucas Patrick ruled OUT (concussion)."
+      "hook": "Six catches, 83 yards, 32-yard go-ahead TD with 57 seconds left."
+    },
+    {
+      "name": "Cam Skattebo",
+      "team": "New York Giants",
+      "hook": "18 carries, 78 yards, rushing TDs of 1 and 13 yards in his return."
     }
   ],
-  "headToHead": "TONIGHT Thursday 12 November 2026, 8:15 p.m. ET. MetLife Stadium, East Rutherford. Prime Video. Week 5 meeting ended 27-27 OT.",
+  "headToHead": "Thursday 12 November 2026, 8:15 p.m. ET. MetLife Stadium, East Rutherford. Final: Commanders 24, Giants 21.",
   "tags": [
     "football",
     "nfl",
-    "tnf",
-    "week10",
-    "giants",
     "commanders",
-    "jj-mccarthy",
+    "giants",
     "jayden-daniels",
-    "nfc-east"
+    "stefon-diggs",
+    "thursday-night-football"
   ],
   "home": "New York Giants",
   "away": "Washington Commanders",
@@ -53,31 +51,31 @@
   "time": "20:15",
   "venue": "MetLife Stadium",
   "city": "East Rutherford",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 21,
+  "awayScore": 24,
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/209954/pexels-photo-209954.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": null,
+  "decidedBy": "regulation",
   "homePen": null,
   "awayPen": null,
   "sport": "football",
   "competition": "nfl-2026",
   "format": "team-match",
   "season": "2026",
-  "roundLabel": "TNF Tonight",
-  "resultSummary": "TONIGHT 8:15 p.m. ET (Prime Video): Commanders (2-5-1, Daniels cleared, C Patrick OUT) at Giants (5-2-1, McCarthy/Nabers/Skattebo active).",
+  "roundLabel": "TNF Final",
+  "resultSummary": "FINAL: Commanders 24, Giants 21. Daniels 3 TD, Diggs 32-yd winner, Douglas INT. WSH 3-5-1, NYG 5-3-1. Next: Sunday Munich Patriots vs Lions 9:30 a.m. ET.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "NFL.com: Commanders at Giants Week 10 Thursday Night Football injury report",
-      "url": "https://www.nfl.com/games/commanders-at-giants-2026-reg-10"
+      "name": "ESPN: Commanders 24-21 Giants box score and recap",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873052/commanders-giants"
     },
     {
-      "name": "Giants.com: Week 10 TNF White Out preview & final designations",
-      "url": "https://www.giants.com/news/giants-commanders-week-10-thursday-night-football-2026"
+      "name": "Pro-Football-Reference: Commanders at Giants November 12 2026",
+      "url": "https://www.pro-football-reference.com/boxscores/202611120nyg.htm"
     }
   ]
 }

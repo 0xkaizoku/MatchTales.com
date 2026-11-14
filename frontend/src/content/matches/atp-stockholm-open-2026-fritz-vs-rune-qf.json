@@ -1,75 +1,89 @@
 {
   "slug": "atp-stockholm-open-2026-fritz-vs-rune-qf",
-  "headline": "Stockholm Open QF Today: Top seed Taylor Fritz faces former champion Holger Rune",
-  "whyCareScore": 8.6,
-  "whyCareReason": "After Fritz defeated Cameron Norrie 7-5, 6-3 and Rune rallied past Miomir Kecmanovic 2-6, 6-1, 6-4 on Wednesday, both meet on Center Court today.",
-  "teaser": "TODAY QF (Thu 12 Nov, Stockholm Center Court): Taylor Fritz vs Holger Rune. Wed R16: Fritz def. Norrie 7-5, 6-3; Rune def. Kecmanovic 2-6, 6-1, 6-4.",
-  "story": "The Bybit Stockholm Open delivers a marquee indoor quarterfinal today, Thursday 12 November, on Center Court at Kungliga Tennishallen as top seed Taylor Fritz meets former champion Holger Rune. Both punched their tickets with impressive Wednesday wins: Fritz dismissed Cameron Norrie in straight sets, 7-5, 6-3, while Rune recovered from a slow opening frame to subdue Miomir Kecmanovic 2-6, 6-1, 6-4. Elsewhere in Stockholm's draw, third seed Lorenzo Musetti had earlier beaten Toby Samuel 6-1, 6-4 and seventh seed Ugo Humbert defeated Adolfo Daniel Vallejo 6-4, 6-3.",
-  "stakes": "A semifinal berth at Kungliga Tennishallen goes to the winner between No. 1 seed Fritz and former Stockholm titleholder Rune.",
-  "rivalryAngle": "Fritz's heavy indoor first strike faces Rune's counterpunching athleticism right after Rune's three-set comeback over Kecmanovic.",
+  "headline": "Stockholm: Fritz advances by walkover over Rune, then beats Musetti 6-4, 6-2 to reach today's final",
+  "whyCareScore": 8.8,
+  "whyCareReason": "Taylor Fritz reached the Bybit Stockholm Open final in 63 minutes over Lorenzo Musetti after Holger Rune withdrew from Thursday's quarterfinal.",
+  "teaser": "QF: Fritz walkover Rune. SF Fri: Fritz d Musetti 6-4, 6-2; Tirante d Tabilo 7-5, 7-6 (1). TODAY Final: Fritz vs Thiago Agustin Tirante. Turin starts Sunday.",
+  "story": "Taylor Fritz is into the Bybit Stockholm Open final on Saturday, 14 November, at Kungliga Tennishallen. The top seed advanced through Thursday's quarterfinal when Holger Rune withdrew (walkover), then needed only 63 minutes on Friday to beat third seed Lorenzo Musetti 6-4, 6-2. In the other semifinal, Argentina's Thiago Agustin Tirante (ATP 51) reached the first ATP Tour final of his career by defeating fourth seed Alejandro Tabilo 7-5, 7-6 (1). Thursday's other quarters: Musetti d Ugo Humbert 7-6 (5), 3-6, 6-4; Tirante d Aleksandr Shevchenko 7-6 (5), 6-7 (5), 6-3; Tabilo d Alex Michelsen 7-5, 7-6 (2). The final is today. The Nitto ATP Finals in Turin open Sunday 15 November at Inalpi Arena: Alexander Zverev vs Rafael Jodar (not before 2:00 p.m. CET) and Ben Shelton vs Arthur Fils (not before 8:30 p.m.); Carlos Alcaraz vs Frances Tiafoe and Daniil Medvedev vs Flavio Cobolli play Monday.",
+  "stakes": "Fritz chases a sixth indoor ATP final of 2026 against first-time finalist Tirante, one day before Turin group play begins.",
+  "rivalryAngle": "A walkover over Rune and a 63-minute dismissal of Musetti put Fritz across from Tirante's maiden tour final.",
   "funFacts": [
-    "Wednesday R16 finals: Taylor Fritz def. Cameron Norrie 7-5, 6-3; Holger Rune def. Miomir Kecmanovic 2-6, 6-1, 6-4.",
-    "Wednesday victory over Kecmanovic marked Holger Rune's second consecutive win in Stockholm after defeating Zizou Bergs 6-3, 6-4.",
-    "Played alongside Thursday's official Nitto ATP Finals Turin group draw."
+    "Holger Rune withdrew from the Thursday quarterfinal; Fritz advanced by walkover.",
+    "Friday SF: Fritz d Musetti 6-4, 6-2 in 63 minutes; Tirante d Tabilo 7-5, 7-6 (1).",
+    "Turin Sunday: Zverev vs Jodar (14:00 CET), Shelton vs Fils (20:30 CET)."
   ],
   "keyPlayers": [
     {
       "name": "Taylor Fritz",
       "team": "United States",
-      "hook": "Top seed into the Stockholm QFs after a 7-5, 6-3 win over Cameron Norrie."
+      "hook": "Walkover vs Rune, then 6-4, 6-2 over Musetti into today's Stockholm final."
     },
     {
-      "name": "Holger Rune",
-      "team": "Denmark",
-      "hook": "Came back from a set down to beat Miomir Kecmanovic 2-6, 6-1, 6-4 on Wednesday."
+      "name": "Thiago Agustin Tirante",
+      "team": "Argentina",
+      "hook": "First ATP Tour final after 7-5, 7-6 (1) over Alejandro Tabilo."
+    },
+    {
+      "name": "Lorenzo Musetti",
+      "team": "Italy",
+      "hook": "Beaten 6-4, 6-2 in Friday's semifinal in 63 minutes."
     }
   ],
-  "headToHead": "Thursday 12 November 2026. Kungliga Tennishallen, Stockholm. Center Court quarterfinal.",
+  "headToHead": "Friday 13 November 2026 SF. Kungliga Tennishallen, Stockholm. Fritz d Musetti 6-4, 6-2.",
   "tags": [
     "tennis",
     "atp",
     "stockholm-open",
     "taylor-fritz",
-    "holger-rune",
-    "quarterfinal"
+    "tirante",
+    "musetti"
   ],
   "home": "Taylor Fritz",
-  "away": "Holger Rune",
+  "away": "Lorenzo Musetti",
   "homeCode": "USA",
-  "awayCode": "DEN",
+  "awayCode": "ITA",
   "homeFlag": "us",
-  "awayFlag": "dk",
-  "group": "Stockholm Open QF",
-  "matchday": 4,
-  "date": "2026-11-12",
-  "time": "17:30",
+  "awayFlag": "it",
+  "group": "Stockholm Open SF",
+  "matchday": 5,
+  "date": "2026-11-13",
+  "time": "16:00",
   "venue": "Kungliga Tennishallen",
   "city": "Stockholm",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 0,
   "marquee": false,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/1618210/pexels-photo-1618210.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
-  "decidedBy": null,
+  "decidedBy": "sets",
   "homePen": null,
   "awayPen": null,
   "sport": "tennis",
   "competition": "atp-250-stockholm-2026",
   "format": "singles",
   "season": "2026",
-  "roundLabel": "Stockholm QF Today",
-  "resultSummary": "TODAY QF: Taylor Fritz vs Holger Rune (Wed: Fritz 7-5, 6-3 Norrie; Rune 2-6, 6-1, 6-4 Kecmanovic).",
+  "roundLabel": "Stockholm SF Final",
+  "resultSummary": "SF: Fritz d Musetti 6-4, 6-2; Tirante d Tabilo 7-5, 7-6 (1). QF: Fritz walkover Rune. TODAY F: Fritz vs Tirante.",
   "leaderboard": [],
-  "tennisSets": [],
-  "sources": [
+  "tennisSets": [
     {
-      "name": "ATP Tour: Stockholm Open 2026 Thursday Center Court order of play",
-      "url": "https://www.atptour.com/en/scores/current/stockholm/429/daily-schedule"
+      "p1": "6",
+      "p2": "4"
     },
     {
-      "name": "Sportskeeda: Fritz vs Rune Stockholm Open quarterfinal preview",
-      "url": "https://www.sportskeeda.com/tennis"
+      "p1": "6",
+      "p2": "2"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ATP Tour: Stockholm results, Fritz d Musetti 6-4, 6-2",
+      "url": "https://www.atptour.com/en/scores/current/stockholm/429/results"
+    },
+    {
+      "name": "ATP Tour: Nitto ATP Finals 2026 Sunday-Monday order of play",
+      "url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-schedule-sunday-monday"
     }
   ]
 }

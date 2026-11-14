@@ -156,6 +156,12 @@ const TEAMS: Record<string, Partial<Record<Locale, string>>> = {
   "Houston Rockets": {"zh": "休斯敦火箭", "ja": "ヒューストン・ロケッツ", "ko": "휴스턴 로케츠", "ar": "هيوستن روكتس"},
   "Golden State Warriors": {"zh": "金州勇士", "ja": "ゴールデンステート・ウォリアーズ", "ko": "골든스테이트 워리어스", "ar": "غولدن ستيت ووريورز"},
 
+  "Thiago Agustin Tirante": {"fr": "Thiago Agustin Tirante", "es": "Thiago Agustin Tirante", "de": "Thiago Agustin Tirante", "it": "Thiago Agustin Tirante", "pl": "Thiago Agustin Tirante", "zh": "蒂兰特", "ja": "ティアゴ・アグスティン・ティランテ", "ko": "티아고 아구스틴 티란테", "ar": "تياغو أغوستين تيرانت"},
+  "San Antonio Spurs": {"zh": "圣安东尼奥马刺", "ja": "サンアントニオ・スパーズ", "ko": "샌안토니오 스퍼스", "ar": "سان أنطونيو سبرز"},
+  "Detroit Pistons": {"zh": "底特律活塞", "ja": "デトロイト・ピストンズ", "ko": "디트로이트 피스톤스", "ar": "ديترويت بيستونز"},
+  "Tyrrell Hatton": {"zh": "泰瑞尔·哈顿", "ja": "ティレル・ハットン", "ko": "타렐 해튼", "ar": "تيريل هاتون"},
+  "Stephon Castle": {"zh": "斯蒂芬·卡斯尔", "ja": "ステフォン・キャッスル", "ko": "스테폰 캐슬", "ar": "ستيفون كاسل"},
+
 };
 
 const PLACES: Record<string, Partial<Record<Locale, string>>> = {
@@ -235,6 +241,10 @@ const PLACES: Record<string, Partial<Record<Locale, string>>> = {
   "Turin": {"fr": "Turin", "es": "Turín", "de": "Turin", "it": "Torino", "pl": "Turyn", "zh": "都灵", "ja": "トリノ", "ko": "토리노", "ar": "تورينو"},
   "Inalpi Arena": {"zh": "伊纳尔皮体育馆", "ja": "インアルピ・アリーナ", "ko": "이날피 아레나", "ar": "إنالبي أرينا"},
   "Toyota Center": {"zh": "丰田中心", "ja": "トヨタ・センター", "ko": "도요타 센터", "ar": "مركز تويوتا"},
+
+  "Frost Bank Center": {"zh": "霜冻银行中心", "ja": "フロスト・バンク・センター", "ko": "프로스트 뱅크 센터", "ar": "فروست بانك سنتر"},
+  "Metropolitano": {"fr": "Metropolitano", "es": "Metropolitano", "de": "Metropolitano", "it": "Metropolitano", "pl": "Metropolitano", "zh": "大都会球场", "ja": "メトロポリターノ", "ko": "메트로폴리타노", "ar": "المتروبوليتانو"},
+  "Kungliga Tennishallen": {"zh": "皇家网球馆", "ja": "クングリガ・テニスハレン", "ko": "쿵리가 테니스할렌", "ar": "كونغليغا تنيسهالن"},
 
 };
 

@@ -17,19 +17,19 @@ const upcomingAll = matches
   .sort((a, b) => a.date.localeCompare(b.date) || b.whyCareScore - a.whyCareScore);
 const liveMatch =
   matches.find((m) => m.status === 'LIVE') ||
-  matches.find((m) => m.slug === 'uwcl-barcelona-vs-arsenal-md4-2026') ||
   matches.find((m) => m.slug === 'commanders-at-giants-tnf-week10-2026') ||
+  matches.find((m) => m.slug === 'nba-spurs-vs-warriors-nov13-2026') ||
   matches.find((m) => m.slug === 'england-vs-croatia-nations-league-2026') ||
-  matches.find((m) => m.slug === 'atp-stockholm-open-2026-fritz-vs-rune-qf') ||
-  matches.find((m) => m.slug === 'atp-nitto-finals-2026-turin-draw') ||
+  matches.find((m) => m.slug === 'uwcl-barcelona-vs-arsenal-md4-2026') ||
+  matches.find((m) => m.slug === 'atp-stockholm-open-2026-fritz-vs-tirante-final') ||
   matches.find((m) => m.slug === 'dp-world-tour-championship-dubai-2026') ||
+  matches.find((m) => m.slug === 'atp-nitto-finals-2026-turin-draw') ||
+  matches.find((m) => m.slug === 'atp-stockholm-open-2026-fritz-vs-rune-qf') ||
   matches.find((m) => m.slug === 'nba-rockets-vs-warriors-nov11-2026') ||
   matches.find((m) => m.slug === 'nba-cavaliers-at-knicks-nov11-2026') ||
   matches.find((m) => m.slug === 'nba-celtics-vs-76ers-george-36-2026') ||
-  matches.find((m) => m.slug === 'commanders-at-giants-tnf-week10-2026') ||
   matches.find((m) => m.slug === 'uwcl-juventus-vs-ol-lyonnes-md4-2026') ||
   matches.find((m) => m.slug === 'uwcl-psg-vs-bayern-munich-md4-2026') ||
-  matches.find((m) => m.slug === 'dp-world-tour-championship-dubai-2026') ||
   matches.find((m) => m.slug === 'nba-lakers-vs-blazers-doncic-53-2026') ||
   matches.find((m) => m.slug === 'jaguars-at-ravens-tnf-week9-2026') ||
   matches.find((m) => m.slug === 'bills-at-rams-mnf-week5-2026') ||
@@ -53,7 +53,6 @@ const liveMatch =
   matches.find((m) => m.slug === 'buccaneers-at-cowboys-tnf-week5-2026') ||
   matches.find((m) => m.slug === 'baycurrent-classic-yokohama-2026') ||
   matches.find((m) => m.slug === 'valkyries-at-aces-wnba-sf-g3-2026') ||
-  matches.find((m) => m.slug === 'liverpool-vs-manchester-city-mw6-2026') ||
   matches.find((m) => m.slug === 'france-4-1-belgium-nations-league-2026') ||
   matches.find((m) => m.slug === 'liberty-at-dream-wnba-sf-g2-2026') ||
   matches.find((m) => m.slug === 'aces-at-valkyries-wnba-sf-g2-2026') ||

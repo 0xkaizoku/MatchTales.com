@@ -1,0 +1,75 @@
+{
+  "slug": "atp-stockholm-open-2026-fritz-vs-tirante-final",
+  "headline": "Stockholm Final Today: Taylor Fritz faces first-time ATP finalist Thiago Agustin Tirante",
+  "whyCareScore": 8.7,
+  "whyCareReason": "Top seed Fritz, into a sixth indoor final of 2026, meets Argentina's Tirante in the Bybit Stockholm Open championship match. No final score published.",
+  "teaser": "TODAY Final (Sat 14 Nov, Kungliga Tennishallen): Taylor Fritz vs Thiago Agustin Tirante. Turin round robin starts Sunday 15 Nov.",
+  "story": "The Bybit Stockholm Open championship match is today, Saturday 14 November, at Kungliga Tennishallen. Top seed Taylor Fritz (walkover vs Holger Rune in the quarterfinals, 6-4, 6-2 vs Lorenzo Musetti in the semifinals) meets Thiago Agustin Tirante, who is in his first ATP Tour final after beating Alejandro Tabilo 7-5, 7-6 (1). The match is upcoming. Do not treat any in-progress score as final. The Nitto ATP Finals open Sunday in Turin: Zverev vs Jodar not before 2:00 p.m. CET, Shelton vs Fils not before 8:30 p.m. CET.",
+  "stakes": "Fritz seeks his first Stockholm title; Tirante plays for a maiden ATP trophy the day before Turin begins.",
+  "rivalryAngle": "American top seed versus Argentine first-time finalist on indoor hard in Sweden.",
+  "funFacts": [
+    "Fritz reached the final via a Rune walkover and a 6-4, 6-2 win over Musetti.",
+    "Tirante (ATP 51) is in his first tour final after 7-5, 7-6 (1) over Tabilo.",
+    "Turin starts Sunday 15 November at Inalpi Arena."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Taylor Fritz",
+      "team": "United States",
+      "hook": "Top seed into the Stockholm final; sixth indoor final of 2026."
+    },
+    {
+      "name": "Thiago Agustin Tirante",
+      "team": "Argentina",
+      "hook": "First ATP Tour final of his career."
+    }
+  ],
+  "headToHead": "Saturday 14 November 2026. Kungliga Tennishallen, Stockholm. Final upcoming. No score.",
+  "tags": [
+    "tennis",
+    "atp",
+    "stockholm-open",
+    "taylor-fritz",
+    "tirante",
+    "final"
+  ],
+  "home": "Taylor Fritz",
+  "away": "Thiago Agustin Tirante",
+  "homeCode": "USA",
+  "awayCode": "ARG",
+  "homeFlag": "us",
+  "awayFlag": "ar",
+  "group": "Stockholm Open Final",
+  "matchday": 6,
+  "date": "2026-11-14",
+  "time": "13:00",
+  "venue": "Kungliga Tennishallen",
+  "city": "Stockholm",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618210/pexels-photo-1618210.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "atp-250-stockholm-2026",
+  "format": "singles",
+  "season": "2026",
+  "roundLabel": "Stockholm Final Today",
+  "resultSummary": "TODAY Final: Taylor Fritz vs Thiago Agustin Tirante. No score. Turin starts Sunday.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "ATP Tour: Stockholm draw and Saturday final",
+      "url": "https://www.atptour.com/en/scores/current/stockholm/429/results"
+    },
+    {
+      "name": "Nitto ATP Finals: Sunday 15 November order of play",
+      "url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-schedule-sunday-monday"
+    }
+  ]
+}
