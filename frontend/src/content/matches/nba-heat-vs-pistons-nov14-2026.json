@@ -1,0 +1,65 @@
+{
+  "slug": "nba-heat-vs-pistons-nov14-2026",
+  "sport": "basketball",
+  "competition": "nba",
+  "format": "team-match",
+  "home": "Miami Heat",
+  "away": "Detroit Pistons",
+  "homeCode": null,
+  "awayCode": null,
+  "date": "2026-11-14",
+  "time": "8:00 PM ET",
+  "status": "FINISHED",
+  "roundLabel": "Regular Season",
+  "group": "NBA",
+  "venue": "Kaseya Center, Miami",
+  "city": "Miami",
+  "homeScore": "137",
+  "awayScore": "117",
+  "whyCareScore": 7,
+  "headline": "NBA: Giannis drops 34 and Klay returns with 26 as Heat pull away from Pistons 137-117",
+  "teaser": "Miami puts on a second-half offensive clinic at Kaseya Center as Giannis Antetokounmpo posts 34 points, 14 rebounds, and 8 assists, overpowering Cade Cunningham's 33 points for Detroit.",
+  "story": "The Miami Heat delivered an offensive masterpiece on Saturday night, 14 November, pulling away from the Detroit Pistons for a 137-117 victory at Kaseya Center.\n\nGiannis Antetokounmpo paced the Heat with 34 points, 14 rebounds, and 8 assists, shooting 13 of 19 from the field. Sharpshooter Klay Thompson returned after missing two games with stiffness, catching fire from the perimeter to hit 7 three-pointers on his way to 26 points.\n\nDetroit fought courageously behind guard Cade Cunningham, who finished with 33 points and 8 assists, but Miami's bench outscored Detroit's reserves 48-28 to secure the comfortable home victory.",
+  "whyCareReason": "Giannis and Klay power a resurgent Miami offense while Cunningham continues his torrid November scoring streak.",
+  "stakes": "Miami improves to 8-4 in the Eastern Conference, while Detroit falls to 6-6.",
+  "rivalryAngle": "Eastern Conference rivalry rekindled with dynamic star power leading modern iterations of both historic franchises.",
+  "funFacts": [
+    "Klay Thompson made seven three-pointers on nine attempts in his return from a two-game absence.",
+    "Giannis Antetokounmpo was two assists shy of his 49th career triple-double.",
+    "Cade Cunningham logged his fifth 30-point performance through twelve games this season."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Giannis Antetokounmpo",
+      "team": "Miami Heat",
+      "hook": "Dominated the paint with 34 points, 14 boards, and 8 assists on 13 of 19 shooting."
+    },
+    {
+      "name": "Cade Cunningham",
+      "team": "Detroit Pistons",
+      "hook": "Kept Detroit competitive with 33 points and 8 assists against Miami's switching defense."
+    }
+  ],
+  "tags": [
+    "nba",
+    "miami-heat",
+    "detroit-pistons",
+    "giannis-antetokounmpo",
+    "klay-thompson",
+    "cade-cunningham"
+  ],
+  "sources": [
+    {
+      "name": "NBA.com",
+      "url": "https://www.nba.com/game/det-vs-mia-20261114/box-score"
+    },
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com/article/heat-pistons-nba-recap-20261114"
+    },
+    {
+      "name": "CBS Sports",
+      "url": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261114_DET@MIA/"
+    }
+  ]
+}

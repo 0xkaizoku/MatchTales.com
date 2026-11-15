@@ -1,0 +1,66 @@
+{
+  "slug": "patriots-vs-lions-munich-week10-2026",
+  "sport": "football",
+  "competition": "nfl",
+  "format": "team-match",
+  "home": "New England Patriots",
+  "away": "Detroit Lions",
+  "homeCode": null,
+  "awayCode": null,
+  "date": "2026-11-15",
+  "time": "9:30 a.m. ET",
+  "status": "LIVE",
+  "roundLabel": "Week 10 · Munich International Game",
+  "group": "NFL",
+  "venue": "Allianz Arena, Munich",
+  "city": "Munich",
+  "homeScore": "3",
+  "awayScore": "21",
+  "whyCareScore": 8,
+  "headline": "NFL Munich Live: Lions lead Patriots 21-3 at half; Drake Maye exits with ankle injury",
+  "teaser": "Detroit explodes for three first-half touchdowns at Allianz Arena via St. Brown, TeSlaa, and Gibbs, while New England starter Drake Maye is ruled out after an Aidan Hutchinson sack.",
+  "story": "The Detroit Lions surged to a 21-3 halftime lead over the New England Patriots in the NFL Week 10 international contest at Allianz Arena in Munich on Sunday, 15 November.\n\nDan Campbell's offense dominated early proceedings, with Jared Goff finding Amon-Ra St. Brown on a 56-yard touchdown bomb and Isaac TeSlaa on a 12-yard strike before Jahmyr Gibbs plunged in from 5 yards out. New England answered only with Andy Borregales' 33-yard field goal.\n\nThe Patriots suffered a devastating blow when rookie quarterback Drake Maye injured his ankle during an Aidan Hutchinson sack in the opening quarter. Maye was helped to the locker room and ruled out, turning the offense over to backup Tommy DeVito as the second half gets underway.",
+  "whyCareReason": "The final European fixture of the 2026 NFL international series features Detroit chasing NFC North supremacy against a reeling Patriots squad.",
+  "stakes": "Detroit (7-2) aims to keep pace atop the NFC, while New England fights to salvage its playoff hopes.",
+  "rivalryAngle": "Historic cross-conference clash taking center stage at Bayern Munich's Allianz Arena in front of 70,000 passionate German football fans.",
+  "funFacts": [
+    "Amon-Ra St. Brown, whose mother is German, was greeted with massive ovations in Munich before catching a 56-yard touchdown.",
+    "Aidan Hutchinson recorded his ninth sack of the season during the first quarter.",
+    "Tommy DeVito entered in relief of Drake Maye for his first regular season action of 2026."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Amon-Ra St. Brown",
+      "team": "Detroit Lions",
+      "hook": "Electrified the Munich crowd with a 56-yard touchdown reception on Detroit's opening drive."
+    },
+    {
+      "name": "Jahmyr Gibbs",
+      "team": "Detroit Lions",
+      "hook": "Pounded in a 5-yard score and totaled 68 rushing yards in the opening two quarters."
+    }
+  ],
+  "tags": [
+    "nfl",
+    "munich",
+    "detroit-lions",
+    "new-england-patriots",
+    "drake-maye",
+    "amon-ra-st-brown",
+    "jahmyr-gibbs"
+  ],
+  "sources": [
+    {
+      "name": "NFL.com",
+      "url": "https://www.nfl.com/games/patriots-at-lions-2026-reg-10"
+    },
+    {
+      "name": "FOX Sports",
+      "url": "https://www.foxsports.com/nfl/patriots-vs-lions-game-boxscore-2026-11-15"
+    },
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com/article/patriots-lions-munich-game-2026"
+    }
+  ]
+}

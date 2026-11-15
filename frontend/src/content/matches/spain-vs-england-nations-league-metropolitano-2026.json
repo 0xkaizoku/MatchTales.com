@@ -1,0 +1,67 @@
+{
+  "slug": "spain-vs-england-nations-league-metropolitano-2026",
+  "sport": "soccer",
+  "competition": "uefa-nations-league",
+  "format": "team-match",
+  "home": "Spain",
+  "away": "England",
+  "homeCode": "ESP",
+  "awayCode": "ENG",
+  "date": "2026-11-15",
+  "time": "19:45 GMT",
+  "status": "UPCOMING",
+  "roundLabel": "Matchday 6",
+  "group": "A3",
+  "venue": "Riyadh Air Metropolitano, Madrid",
+  "city": "Madrid",
+  "homeScore": null,
+  "awayScore": null,
+  "whyCareScore": 9,
+  "headline": "Nations League: Spain host England in winner-take-all Group A3 decider in Madrid",
+  "teaser": "European champions Spain need only a point at the Metropolitano to lock up first place in Group A3, while Thomas Tuchel's England require an away triumph to claim top seeding.",
+  "story": "European champions Spain welcome England to the Riyadh Air Metropolitano in Madrid on Sunday night, 15 November, for the decisive Matchday 6 showdown in UEFA Nations League Group A3.\n\nSpain enter atop the group with 13 points, having won four and drawn one of their five fixtures, including a 2-0 win over Czechia on Thursday. England, revitalized under manager Thomas Tuchel, sit on 12 points following their 2-1 victory over Croatia at Wembley, where Harry Kane converted a decisive penalty on his record-extending 126th cap.\n\nA draw secures first place and seeded quarter-final status for Luis de la Fuente's side, while England must secure a rare away win in Madrid to leapfrog the hosts in front of 68,000 supporters.",
+  "whyCareReason": "The rematch of the Euro 2024 final decides top seed in UEFA Nations League Group A3 with global football supremacy on the line.",
+  "stakes": "First place in Group A3 earns home advantage in the two-legged quarter-finals in March 2027.",
+  "rivalryAngle": "Rematch of the Euro 2024 final in Berlin where Mikel Oyarzabal struck late to deny England their first major trophy since 1966.",
+  "funFacts": [
+    "Harry Kane scored his 72nd international goal on his 126th cap against Croatia on Thursday.",
+    "Spain have not lost a competitive fixture on home soil in over four years.",
+    "Thomas Tuchel is managing his first official away fixture in Spain since taking over the England post."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Lamine Yamal",
+      "team": "Spain",
+      "hook": "Creative talisman looking to break down England's defensive block from the right flank."
+    },
+    {
+      "name": "Harry Kane",
+      "team": "England",
+      "hook": "Captained England to victory over Croatia with a clinical second-half penalty."
+    }
+  ],
+  "tags": [
+    "soccer",
+    "uefa-nations-league",
+    "spain",
+    "england",
+    "metropolitano",
+    "tuchel",
+    "kane",
+    "yamal"
+  ],
+  "sources": [
+    {
+      "name": "UEFA Official",
+      "url": "https://www.uefa.com/uefanationsleague/match/spain-vs-england-2026/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/sports/soccer/spain-england-nations-league-decider-madrid-2026-11-15/"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league"
+    }
+  ]
+}
