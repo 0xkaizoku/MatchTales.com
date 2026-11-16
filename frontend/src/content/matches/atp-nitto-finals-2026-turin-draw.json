@@ -1,60 +1,61 @@
 {
   "slug": "atp-nitto-finals-2026-turin-draw",
-  "headline": "Nitto ATP Finals: Zverev sweeps Jodar 6-4, 6-4; Shelton vs Fils tonight in Turin",
-  "whyCareScore": 9.2,
-  "whyCareReason": "Round-robin play at Inalpi Arena starts Sunday 15 November with Alexander Zverev against Rafael Jodar and Ben Shelton against Arthur Fils. No Turin match has been played.",
-  "teaser": "World No. 1 Alexander Zverev opens his Turin campaign with a clinical 6-4, 6-4 victory over Spanish teenager Rafael Jodar in 87 minutes. Ben Shelton meets Arthur Fils in the evening session.",
-  "story": "The 2026 Nitto ATP Finals still start Sunday, 15 November, at Inalpi Arena in Turin (15-22 November). Thursday's draw is unchanged: John McEnroe Group is Alexander Zverev (1), Ben Shelton (3), Arthur Fils (6) and Rafael Jodar (8). Ivan Lendl Group is Carlos Alcaraz (2), Daniil Medvedev (4), Flavio Cobolli (5) and Frances Tiafoe (7). Sunday order of play: doubles from 11:30 a.m. CET, then Zverev vs Jodar not before 2:00 p.m., evening doubles, then Shelton vs Fils not before 8:30 p.m. Monday: Alcaraz vs Tiafoe not before 2:00 p.m., Medvedev vs Cobolli not before 8:30 p.m. No Turin singles match has been played. In Stockholm today, Fritz meets Tirante in the final.",
-  "stakes": "Eight season finalists open round-robin play Sunday; first matches are unpublished.",
-  "rivalryAngle": "Zverev-Jodar and Shelton-Fils open McEnroe Group on Sunday; Alcaraz-Tiafoe and Medvedev-Cobolli wait until Monday.",
+  "headline": "Nitto ATP Finals: Shelton edges Fils in three; Alcaraz and Tiafoe launch Lendl Group Monday",
+  "whyCareScore": 9.4,
+  "whyCareReason": "Ben Shelton edges Arthur Fils 6-2, 3-6, 6-3 after Alexander Zverev swept Rafael Jodar in McEnroe Group openers; Carlos Alcaraz opens his tournament against Frances Tiafoe on Monday.",
+  "teaser": "Ben Shelton survives a fierce Arthur Fils comeback to win his Turin debut 6-2, 3-6, 6-3 at Inalpi Arena. Carlos Alcaraz begins his campaign against Frances Tiafoe in Monday's afternoon session.",
+  "story": "The 2026 Nitto ATP Finals delivered high-octane drama on its opening Sunday, 15 November, at Inalpi Arena in Turin as the John McEnroe Group kicked off round-robin competition.\n\nWorld No. 1 Alexander Zverev began the afternoon with a measured 6-4, 6-4 victory over Spanish teenager Rafael Jodar, dropping only six points on his first serve in an 87-minute masterclass. The evening session brought fireworks as American third seed Ben Shelton survived a thrilling challenge from France's Arthur Fils, claiming a 6-2, 3-6, 6-3 victory behind 16 aces in two hours and eight minutes.\n\nAttention now turns to the Ivan Lendl Group on Monday, 16 November: World No. 2 Carlos Alcaraz clashes with Frances Tiafoe not before 2:00 p.m. CET, followed by Daniil Medvedev taking on Italian hopeful Flavio Cobolli in the evening session.",
+  "stakes": "Zverev and Shelton take early 1-0 records in McEnroe Group; Alcaraz and Medvedev look to establish early dominance in Lendl Group on Monday.",
+  "rivalryAngle": "Alcaraz and Tiafoe renew their electrifying rivalry on indoor hard courts following classic Grand Slam battles in New York and London.",
   "funFacts": [
-    "McEnroe Group: Zverev (1), Shelton (3), Fils (6), Jodar (8).",
-    "Lendl Group: Alcaraz (2), Medvedev (4), Cobolli (5), Tiafoe (7).",
-    "Sunday first singles: Zverev vs Jodar, not before 14:00 CET. No result yet."
+    "Ben Shelton fired 16 aces and saved four break points in his three-set victory over Arthur Fils.",
+    "Alexander Zverev has won 15 career matches at the Nitto ATP Finals across his decorated career.",
+    "Carlos Alcaraz is aiming for his first career Nitto ATP Finals trophy in Turin."
   ],
   "keyPlayers": [
     {
+      "name": "Ben Shelton",
+      "team": "United States",
+      "hook": "Fired 16 aces to defeat Arthur Fils 6-2, 3-6, 6-3 in Sunday night's Turin thriller."
+    },
+    {
       "name": "Alexander Zverev",
       "team": "Germany",
-      "hook": "Top seed opens Sunday against Rafael Jodar, not before 2:00 p.m. CET."
+      "hook": "Clinched opening win 6-4, 6-4 against Rafael Jodar with near-flawless serving."
     },
     {
       "name": "Carlos Alcaraz",
       "team": "Spain",
-      "hook": "No. 2 seed plays Frances Tiafoe on Monday in the Lendl Group."
-    },
-    {
-      "name": "Ben Shelton",
-      "team": "United States",
-      "hook": "Sunday night McEnroe Group match against Arthur Fils, not before 8:30 p.m. CET."
+      "hook": "Launches his Turin campaign against Frances Tiafoe on Monday afternoon."
     }
   ],
-  "headToHead": "Tournament dates 15-22 November 2026, Inalpi Arena, Turin. First singles Sunday. No score.",
+  "headToHead": "Tournament dates 15-22 November 2026, Inalpi Arena, Turin. McEnroe Group Day 1 complete; Lendl Group begins Monday.",
   "tags": [
     "tennis",
     "atp",
     "nitto-atp-finals",
     "turin",
+    "shelton",
     "zverev",
     "alcaraz",
-    "jodar",
-    "shelton"
+    "tiafoe",
+    "fils"
   ],
-  "home": "Alexander Zverev",
-  "away": "Rafael Jodar",
-  "homeCode": "GER",
-  "awayCode": "ESP",
-  "homeFlag": "de",
-  "awayFlag": "es",
-  "group": "Nitto ATP Finals McEnroe",
+  "home": "Carlos Alcaraz",
+  "away": "Frances Tiafoe",
+  "homeCode": "ESP",
+  "awayCode": "USA",
+  "homeFlag": "es",
+  "awayFlag": "us",
+  "group": "Nitto ATP Finals Lendl",
   "matchday": 1,
-  "date": "2026-11-15",
-  "time": "14:00",
+  "date": "2026-11-16",
+  "time": "14:00 CET",
   "venue": "Inalpi Arena",
   "city": "Turin",
-  "status": "FINISHED",
-  "homeScore": "2",
-  "awayScore": "0",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
   "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/1618210/pexels-photo-1618210.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
@@ -65,76 +66,72 @@
   "competition": "atp-finals-2026",
   "format": "leaderboard",
   "season": "2026",
-  "roundLabel": "Turin Sunday Opener",
-  "resultSummary": "SUNDAY: Zverev vs Jodar (14:00 CET), Shelton vs Fils (20:30 CET). Groups unchanged. No Turin score.",
+  "roundLabel": "Turin Lendl Group Opener",
+  "resultSummary": "SUN McEnroe: Zverev d Jodar 6-4, 6-4; Shelton d Fils 6-2, 3-6, 6-3. MON Lendl: Alcaraz vs Tiafoe (14:00 CET), Medvedev vs Cobolli (20:30 CET).",
   "leaderboard": [
     {
-      "pos": "McEnroe",
+      "pos": "McEnroe 1-0",
       "name": "Alexander Zverev (1)",
-      "score": "Top Seed",
-      "note": "Opens Sun vs Jodar"
+      "score": "1-0 (2-0 sets)",
+      "note": "Def. Jodar 6-4, 6-4"
     },
     {
-      "pos": "McEnroe",
+      "pos": "McEnroe 1-0",
       "name": "Ben Shelton (3)",
-      "score": "No. 3 Seed",
-      "note": "Sun night vs Fils"
+      "score": "1-0 (2-1 sets)",
+      "note": "Def. Fils 6-2, 3-6, 6-3"
     },
     {
-      "pos": "McEnroe",
+      "pos": "McEnroe 0-1",
       "name": "Arthur Fils (6)",
-      "score": "No. 6 Seed",
-      "note": "John McEnroe Group"
+      "score": "0-1 (1-2 sets)",
+      "note": "Lost to Shelton in 3"
     },
     {
-      "pos": "McEnroe",
+      "pos": "McEnroe 0-1",
       "name": "Rafael Jodar (8)",
-      "score": "No. 8 Seed",
-      "note": "Opens vs Zverev"
+      "score": "0-1 (0-2 sets)",
+      "note": "Lost to Zverev 6-4, 6-4"
     },
     {
       "pos": "Lendl",
       "name": "Carlos Alcaraz (2)",
-      "score": "No. 2 Seed",
-      "note": "Monday vs Tiafoe"
+      "score": "0-0",
+      "note": "Mon 14:00 vs Tiafoe"
     },
     {
       "pos": "Lendl",
       "name": "Daniil Medvedev (4)",
-      "score": "No. 4 Seed",
-      "note": "Monday vs Cobolli"
-    },
-    {
-      "pos": "Lendl",
-      "name": "Flavio Cobolli (5)",
-      "score": "No. 5 Seed",
-      "note": "Ivan Lendl Group"
-    },
-    {
-      "pos": "Lendl",
-      "name": "Frances Tiafoe (7)",
-      "score": "No. 7 Seed",
-      "note": "Monday vs Alcaraz"
+      "score": "0-0",
+      "note": "Mon 20:30 vs Cobolli"
     }
   ],
   "tennisSets": [
     {
       "p1": "6",
-      "p2": "4"
+      "p2": "2"
+    },
+    {
+      "p1": "3",
+      "p2": "6"
     },
     {
       "p1": "6",
-      "p2": "4"
+      "p2": "3"
     }
   ],
   "sources": [
     {
-      "name": "Nitto ATP Finals: Sunday and Monday 2026 schedule",
-      "url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-schedule-sunday-monday"
+      "name": "Nitto ATP Finals Official: Shelton overcomes Fils; Zverev downs Jodar",
+      "url": "https://www.nittoatpfinals.com/en/news/shelton-fils-turin-2026-sunday"
     },
     {
-      "name": "ATP Tour: 2026 Turin draw and format",
-      "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-history-draw-schedule"
+      "name": "ATP Tour Scores: Turin 2026 McEnroe Group Results",
+      "url": "https://www.atptour.com/en/scores/current/nitto-atp-finals/0605/results"
+    },
+    {
+      "name": "FlashScore: Shelton vs Fils Turin Match Stats",
+      "url": "https://www.flashscore.com/match/turin-2026-shelton-fils/"
     }
   ]
 }

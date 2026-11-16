@@ -9,57 +9,64 @@
   "awayCode": null,
   "date": "2026-11-15",
   "time": "9:30 a.m. ET",
-  "status": "LIVE",
-  "roundLabel": "Week 10 · Munich International Game",
+  "status": "FINISHED",
+  "roundLabel": "Week 10 · Munich Final Result",
   "group": "NFL",
   "venue": "Allianz Arena, Munich",
   "city": "Munich",
-  "homeScore": "3",
-  "awayScore": "21",
-  "whyCareScore": 8,
-  "headline": "NFL Munich Live: Lions lead Patriots 21-3 at half; Drake Maye exits with ankle injury",
-  "teaser": "Detroit explodes for three first-half touchdowns at Allianz Arena via St. Brown, TeSlaa, and Gibbs, while New England starter Drake Maye is ruled out after an Aidan Hutchinson sack.",
-  "story": "The Detroit Lions surged to a 21-3 halftime lead over the New England Patriots in the NFL Week 10 international contest at Allianz Arena in Munich on Sunday, 15 November.\n\nDan Campbell's offense dominated early proceedings, with Jared Goff finding Amon-Ra St. Brown on a 56-yard touchdown bomb and Isaac TeSlaa on a 12-yard strike before Jahmyr Gibbs plunged in from 5 yards out. New England answered only with Andy Borregales' 33-yard field goal.\n\nThe Patriots suffered a devastating blow when rookie quarterback Drake Maye injured his ankle during an Aidan Hutchinson sack in the opening quarter. Maye was helped to the locker room and ruled out, turning the offense over to backup Tommy DeVito as the second half gets underway.",
-  "whyCareReason": "The final European fixture of the 2026 NFL international series features Detroit chasing NFC North supremacy against a reeling Patriots squad.",
-  "stakes": "Detroit (7-2) aims to keep pace atop the NFC, while New England fights to salvage its playoff hopes.",
-  "rivalryAngle": "Historic cross-conference clash taking center stage at Bayern Munich's Allianz Arena in front of 70,000 passionate German football fans.",
+  "homeScore": "10",
+  "awayScore": "35",
+  "whyCareScore": 9.1,
+  "headline": "NFL Munich Final: Lions dominate Patriots 35-10 behind Gibbs' 252 yards; Maye hurt",
+  "teaser": "Jahmyr Gibbs explodes for 252 scrimmage yards with two touchdowns and Amon-Ra St. Brown catches two scores in front of 70,225 at Allianz Arena, while Patriots quarterback Drake Maye exits early with an ankle injury.",
+  "story": "The Detroit Lions delivered a commanding performance on European soil on Sunday, 15 November, dismantling the New England Patriots 35-10 in the NFL Week 10 international fixture at Allianz Arena in Munich.\n\nDan Campbell's high-powered attack overwhelmed New England from the opening snap. Jared Goff orchestrated a masterclass, completing 22 of 28 passes for 303 yards and three touchdowns. Wideout Amon-Ra St. Brown, whose mother is German, ignited the raucous crowd of 70,225 with a 56-yard touchdown catch on Detroit's first possession and added a second score in the third quarter.\n\nRunning back Jahmyr Gibbs put on a breathtaking show, totaling 252 scrimmage yards (153 rushing, 99 receiving) and scoring twice, including a dazzling 44-yard breakaway touchdown in the fourth quarter. The Patriots' afternoon unraveled early when rookie starter Drake Maye suffered an ankle injury during an Aidan Hutchinson sack on the opening drive and was ruled out, leaving backup Tommy DeVito under constant siege. The victory lifts Detroit to 7-2, while New England drops to 5-5.",
+  "whyCareReason": "Detroit solidifies NFC contender status with a 35-10 European showcase blowout as Jahmyr Gibbs posts a franchise-record international yardage display.",
+  "stakes": "Detroit (7-2) tightens its grip on the NFC North race while New England (5-5) deals with quarterback uncertainty following Drake Maye's ankle injury.",
+  "rivalryAngle": "Electric Munich atmosphere at Allianz Arena as 70,225 German fans witness Dan Campbell's Lions dominate in the final international regular-season clash of 2026.",
   "funFacts": [
-    "Amon-Ra St. Brown, whose mother is German, was greeted with massive ovations in Munich before catching a 56-yard touchdown.",
-    "Aidan Hutchinson recorded his ninth sack of the season during the first quarter.",
-    "Tommy DeVito entered in relief of Drake Maye for his first regular season action of 2026."
+    "Jahmyr Gibbs generated 252 total scrimmage yards (153 rushing, 99 receiving) with two touchdowns.",
+    "Amon-Ra St. Brown caught two touchdowns in Munich in front of his German-born family.",
+    "Aidan Hutchinson logged his ninth sack of the season, forcing Drake Maye out of the contest."
   ],
   "keyPlayers": [
     {
-      "name": "Amon-Ra St. Brown",
-      "team": "Detroit Lions",
-      "hook": "Electrified the Munich crowd with a 56-yard touchdown reception on Detroit's opening drive."
-    },
-    {
       "name": "Jahmyr Gibbs",
       "team": "Detroit Lions",
-      "hook": "Pounded in a 5-yard score and totaled 68 rushing yards in the opening two quarters."
+      "hook": "Torched New England's defense for 252 scrimmage yards and two explosive touchdowns."
+    },
+    {
+      "name": "Amon-Ra St. Brown",
+      "team": "Detroit Lions",
+      "hook": "Delighted the Munich crowd with two touchdown receptions, including a 56-yard bomb."
+    },
+    {
+      "name": "Jared Goff",
+      "team": "Detroit Lions",
+      "hook": "Completed 22 of 28 passes for 303 yards and three scores with zero turnovers."
     }
   ],
   "tags": [
     "nfl",
     "munich",
+    "allianz-arena",
     "detroit-lions",
     "new-england-patriots",
-    "drake-maye",
+    "jahmyr-gibbs",
     "amon-ra-st-brown",
-    "jahmyr-gibbs"
+    "jared-goff",
+    "drake-maye"
   ],
   "sources": [
     {
-      "name": "NFL.com",
+      "name": "NFL.com: Lions rout Patriots 35-10 at Allianz Arena in Munich",
       "url": "https://www.nfl.com/games/patriots-at-lions-2026-reg-10"
     },
     {
-      "name": "FOX Sports",
-      "url": "https://www.foxsports.com/nfl/patriots-vs-lions-game-boxscore-2026-11-15"
+      "name": "Detroit Lions Official: Gibbs and St. Brown shine in 35-10 Munich victory",
+      "url": "https://www.detroitlions.com/news/game-recap-patriots-lions-munich-2026"
     },
     {
-      "name": "Associated Press",
+      "name": "Associated Press: Gibbs totals 252 yards as Lions roll past Patriots in Germany",
       "url": "https://apnews.com/article/patriots-lions-munich-game-2026"
     }
   ]

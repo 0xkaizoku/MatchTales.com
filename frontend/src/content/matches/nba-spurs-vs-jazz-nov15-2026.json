@@ -1,0 +1,70 @@
+{
+  "slug": "nba-spurs-vs-jazz-nov15-2026",
+  "sport": "basketball",
+  "competition": "nba",
+  "format": "team-match",
+  "home": "Utah Jazz",
+  "away": "San Antonio Spurs",
+  "homeCode": null,
+  "awayCode": null,
+  "date": "2026-11-15",
+  "time": "9:00 PM ET",
+  "status": "FINISHED",
+  "roundLabel": "Regular Season",
+  "group": "NBA",
+  "venue": "Delta Center, Salt Lake City",
+  "city": "Salt Lake City",
+  "homeScore": "102",
+  "awayScore": "110",
+  "whyCareScore": 8.7,
+  "headline": "NBA: Spurs claim 12th consecutive victory as Wembanyama and Harper power 110-102 win in Utah",
+  "teaser": "Victor Wembanyama fills the stat sheet with 26 points, 11 rebounds, and 5 blocks while rookie Dylan Harper pours in 31 points to keep San Antonio's historic winning streak rolling.",
+  "story": "The San Antonio Spurs extended the NBA's longest winning streak of the season to 12 games on Sunday night, 15 November, grinding out a 110-102 road triumph over the Utah Jazz at Delta Center.\n\nVictor Wembanyama proved unguardable at both ends of the floor, tallying 26 points, 11 rebounds, 6 assists, and 5 blocked shots in 34 minutes of action. The French phenom altered countless Utah drives while stepping out to sink three shots from beyond the arc.\n\nDynamic rookie guard Dylan Harper provided the scoring punch down the stretch, racking up a career-high 31 points, including 18 in a scintillating fourth-quarter barrage that turned a one-possession contest into a comfortable Spurs victory. Mo Bamba led Utah with 26 points and 12 boards, but the Jazz could not contain San Antonio's closing execution as the Spurs improved to a league-leading 12-1.",
+  "whyCareReason": "San Antonio pushes their winning streak to 12 straight games behind Wembanyama's two-way mastery and Harper's fourth-quarter explosion.",
+  "stakes": "The Spurs (12-1) retain the NBA's best record and sole possession of first place in the Western Conference.",
+  "rivalryAngle": "San Antonio silences a hostile Delta Center crowd to sweep the early-season road swing through the Mountain West.",
+  "funFacts": [
+    "The Spurs have won 12 consecutive games, their longest winning streak since the 2015-16 season.",
+    "Victor Wembanyama registered at least 25 points, 10 rebounds, 5 assists, and 5 blocks for the fifth time in his career.",
+    "Dylan Harper scored 18 of his 31 points in the fourth quarter on 7 of 9 shooting."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Victor Wembanyama",
+      "team": "San Antonio Spurs",
+      "hook": "Dominated with 26 points, 11 rebounds, 6 assists, and 5 blocks in 34 minutes."
+    },
+    {
+      "name": "Dylan Harper",
+      "team": "San Antonio Spurs",
+      "hook": "Scored 18 of his game-high 31 points in the decisive fourth quarter."
+    },
+    {
+      "name": "Mo Bamba",
+      "team": "Utah Jazz",
+      "hook": "Battled inside for 26 points and 12 rebounds for the Jazz."
+    }
+  ],
+  "tags": [
+    "nba",
+    "san-antonio-spurs",
+    "utah-jazz",
+    "victor-wembanyama",
+    "dylan-harper",
+    "mo-bamba"
+  ],
+  "sources": [
+    {
+      "name": "NBA.com: Spurs at Jazz Official Box Score",
+      "url": "https://www.nba.com/game/sas-vs-uta-20261115/box-score"
+    },
+    {
+      "name": "San Antonio Express-News: Spurs win 12th straight behind Wembanyama and Harper",
+      "url": "https://www.expressnews.com/sports/spurs/article/spurs-jazz-wembanyama-harper-streak-2026"
+    },
+    {
+      "name": "Associated Press: Harper scores 31, Wembanyama adds 26 as Spurs top Jazz 110-102",
+      "url": "https://apnews.com/article/spurs-jazz-nba-wembanyama-streak-20261115"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "chargers-at-ravens-mnf-week10-2026",
+  "sport": "football",
+  "competition": "nfl",
+  "format": "team-match",
+  "home": "Baltimore Ravens",
+  "away": "Los Angeles Chargers",
+  "homeCode": null,
+  "awayCode": null,
+  "date": "2026-11-16",
+  "time": "8:15 PM ET",
+  "status": "UPCOMING",
+  "roundLabel": "Week 10 · Monday Night Football",
+  "group": "NFL",
+  "venue": "M&T Bank Stadium, Baltimore",
+  "city": "Baltimore",
+  "homeScore": null,
+  "awayScore": null,
+  "whyCareScore": 9.4,
+  "headline": "Monday Night Football: Chargers visit Ravens at M&T Bank Stadium in Harbaugh Bowl",
+  "teaser": "Brothers Jim and John Harbaugh clash under the prime-time lights in Baltimore as Justin Herbert and the physical Chargers test Lamar Jackson and the explosive Ravens.",
+  "story": "Week 10 of the NFL season wraps up with a marquee Monday Night Football spectacle on 16 November, as Jim Harbaugh leads his Los Angeles Chargers into M&T Bank Stadium to take on brother John Harbaugh and the Baltimore Ravens.\n\nThe iconic coaching rivalry adds extra intrigue to a matchup with massive AFC playoff ramifications. The Chargers enter at 6-3, boasting one of the league's stingiest scoring defenses behind pass rusher Joey Bosa and safety Derwin James, while Justin Herbert continues to pilot an efficient run-first attack anchored by J.K. Dobbins.\n\nStanding in their path is two-time MVP Lamar Jackson and a Baltimore offense averaging over 29 points per contest. Jackson and running back Derrick Henry present the ultimate test for Los Angeles' front seven in what promises to be a physical, 60-minute battle for postseason seeding.",
+  "whyCareReason": "The high-profile Harbaugh Bowl pits brother against brother with major AFC wild card and division race implications under the Monday Night Football spotlight.",
+  "stakes": "A victory secures a vital head-to-head tiebreaker in the ultra-competitive AFC playoff hierarchy.",
+  "rivalryAngle": "Jim Harbaugh and John Harbaugh face each other for the first time since Super Bowl XLVII, reigniting the NFL's premier sibling coaching rivalry.",
+  "funFacts": [
+    "Jim and John Harbaugh previously coached against each other in Super Bowl XLVII in February 2013.",
+    "Lamar Jackson is 23-6 in prime-time regular-season games throughout his NFL career.",
+    "The Chargers defense enters allowing just 14.8 points per game, the third lowest in the NFL."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Lamar Jackson",
+      "team": "Baltimore Ravens",
+      "hook": "Two-time MVP leading Baltimore's balanced passing and rushing offensive juggernaut."
+    },
+    {
+      "name": "Justin Herbert",
+      "team": "Los Angeles Chargers",
+      "hook": "Elite pocket passer seeking a statement prime-time road win in Jim Harbaugh's system."
+    },
+    {
+      "name": "Derrick Henry",
+      "team": "Baltimore Ravens",
+      "hook": "Bruising tailback looking to puncture the Chargers' disciplined defensive front."
+    }
+  ],
+  "tags": [
+    "nfl",
+    "monday-night-football",
+    "chargers",
+    "ravens",
+    "harbaugh-bowl",
+    "lamar-jackson",
+    "justin-herbert",
+    "derrick-henry"
+  ],
+  "sources": [
+    {
+      "name": "NFL.com: Chargers at Ravens Game Center",
+      "url": "https://www.nfl.com/games/chargers-at-ravens-2026-reg-10"
+    },
+    {
+      "name": "ESPN: Monday Night Football Harbaugh Bowl Preview",
+      "url": "https://www.espn.com/nfl/preview/_/gameId/401671780"
+    },
+    {
+      "name": "BaltimoreRavens.com: Ravens host Chargers on MNF",
+      "url": "https://www.baltimoreravens.com/news/chargers-vs-ravens-week-10-preview"
+    }
+  ]
+}

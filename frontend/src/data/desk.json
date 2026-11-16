@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-15",
+  "asOf": "2026-11-16",
   "premierLeagueTable": [
     {
       "pos": 1,
@@ -594,7 +594,14 @@
       "time": "9:30 a.m. ET",
       "home": "Detroit Lions",
       "away": "New England Patriots",
-      "note": "UPCOMING Sunday Munich (FOX, Allianz Arena): Patriots (5-4) vs Lions (6-2), 9:30 a.m. ET. Saturday 14 Nov has no NFL game. Last final: Commanders 24, Giants 21."
+      "note": "FINAL: Lions 35, Patriots 10 at Allianz Arena in Munich. Gibbs 252 scrimmage yds, 2 TDs; St. Brown 2 TDs. Maye hurt ankle. Lions 7-2, Patriots 5-5."
+    },
+    {
+      "date": "2026-11-16",
+      "time": "8:15 p.m. ET",
+      "home": "Baltimore Ravens",
+      "away": "Los Angeles Chargers",
+      "note": "UPCOMING Monday Night Football (ESPN, M&T Bank Stadium): Chargers (6-3) at Ravens (7-2). Harbaugh Bowl."
     }
   ],
   "usOpenQF": [
@@ -740,19 +747,19 @@
       "draw": "Stockholm Final",
       "p1": "Taylor Fritz",
       "p2": "Thiago Agustin Tirante",
-      "status": "Today Center Court"
+      "status": "Fritz 6-2, 4-6, 7-6 (3)"
     },
     {
       "draw": "Turin McEnroe Group",
       "p1": "Alexander Zverev (1)",
       "p2": "Ben Shelton (3)",
-      "status": "Sun: Zverev vs Jodar; Shelton vs Fils"
+      "status": "Sun: Zverev d Jodar 6-4, 6-4; Shelton d Fils 6-2, 3-6, 6-3"
     },
     {
       "draw": "Turin Lendl Group",
       "p1": "Carlos Alcaraz (2)",
       "p2": "Daniil Medvedev (4)",
-      "status": "Mon: Alcaraz vs Tiafoe; Medvedev vs Cobolli"
+      "status": "Mon: Alcaraz vs Tiafoe (14:00 CET); Medvedev vs Cobolli (20:30 CET)"
     }
   ]
 }
