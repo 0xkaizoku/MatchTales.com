@@ -1,0 +1,70 @@
+{
+  "slug": "nba-magic-vs-celtics-nov16-2026",
+  "sport": "basketball",
+  "competition": "nba",
+  "format": "team-match",
+  "home": "Boston Celtics",
+  "away": "Orlando Magic",
+  "homeCode": null,
+  "awayCode": null,
+  "date": "2026-11-16",
+  "time": "7:30 PM ET",
+  "status": "FINISHED",
+  "roundLabel": "Regular Season",
+  "group": "NBA",
+  "venue": "TD Garden, Boston",
+  "city": "Boston",
+  "homeScore": "105",
+  "awayScore": "115",
+  "whyCareScore": 8.8,
+  "headline": "NBA: Magic rally in fourth quarter to halt Celtics' six-game winning streak 115-105",
+  "teaser": "Desmond Bane scores 24 points and Orlando outscores Boston 34-21 in the final frame to pull off a 115-105 upset at TD Garden, while Miami wins its fifth straight.",
+  "story": "The Orlando Magic pulled off one of the most impressive road comebacks of the young NBA season on Monday night, 16 November, overcoming a double-digit second-half deficit to beat the Boston Celtics 115-105 at TD Garden.\n\nSharpshooter Desmond Bane paced the Magic with 24 points and 8 rebounds, connecting on 5 three-pointers to ignite a 34-21 fourth-quarter run that shocked the Boston faithful. Franz Wagner added 22 points and 7 assists, while Orlando's interior defense held Jayson Tatum and Jaylen Brown to just 8-of-25 shooting combined across the final 18 minutes.\n\nThe victory snapped Boston's six-game winning streak and improved Orlando to 8-5. Elsewhere on Monday, the Miami Heat won their fifth straight game behind Giannis Antetokounmpo (20 points, 13 rebounds) in a 128-110 rout of Houston, while Joel Embiid dropped a season-high 37 points in Philadelphia's 135-123 triumph over Brooklyn.",
+  "whyCareReason": "Orlando proves its Eastern Conference contender credentials by halting the defending finalists' six-game winning streak in Boston.",
+  "stakes": "Orlando (8-5) climbs to fourth in the East while Boston (9-4) drops into second behind Cleveland.",
+  "rivalryAngle": "Heated Eastern clash at TD Garden where Orlando's perimeter shooting cracked Boston's top-rated perimeter defense.",
+  "funFacts": [
+    "Desmond Bane scored 14 of his 24 points during Orlando's decisive 34-21 fourth-quarter surge.",
+    "Orlando held the Celtics to just 39 percent shooting from the field in the second half.",
+    "The Magic have won three consecutive regular-season meetings against Boston in Massachusetts."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Desmond Bane",
+      "team": "Orlando Magic",
+      "hook": "Exploded for 24 points, 8 rebounds, and 5 three-pointers to lead the fourth-quarter rally."
+    },
+    {
+      "name": "Franz Wagner",
+      "team": "Orlando Magic",
+      "hook": "Orchestrated the offense with 22 points, 7 assists, and stellar point-of-attack defense."
+    },
+    {
+      "name": "Jayson Tatum",
+      "team": "Boston Celtics",
+      "hook": "Scored 28 points but was held to two fourth-quarter field goals by Orlando's blitzing traps."
+    }
+  ],
+  "tags": [
+    "nba",
+    "orlando-magic",
+    "boston-celtics",
+    "desmond-bane",
+    "franz-wagner",
+    "jayson-tatum"
+  ],
+  "sources": [
+    {
+      "name": "NBA.com: Magic at Celtics Box Score and Recap",
+      "url": "https://www.nba.com/game/orl-vs-bos-20261116/box-score"
+    },
+    {
+      "name": "Boston Globe: Magic stun Celtics 115-105 at TD Garden behind fourth-quarter flurry",
+      "url": "https://www.bostonglobe.com/sports/celtics/2026/11/16/celtics-magic-recap/"
+    },
+    {
+      "name": "Associated Press: Bane scores 24 as Magic snap Celtics' six-game winning streak",
+      "url": "https://apnews.com/article/magic-celtics-nba-bane-recap-20261116"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "rsm-classic-sea-island-preview-2026",
+  "sport": "golf",
+  "competition": "pga-tour-2026",
+  "format": "leaderboard",
+  "home": "Davis Thompson",
+  "away": "Mackenzie Hughes",
+  "homeCode": "USA",
+  "awayCode": "CAN",
+  "date": "2026-11-19",
+  "time": "07:30 EST",
+  "status": "UPCOMING",
+  "roundLabel": "PGA Tour Fall Finale Preview",
+  "group": "PGA Tour FedExCup Fall",
+  "venue": "Sea Island Golf Club (Seaside & Plantation)",
+  "city": "St. Simons Island, Georgia",
+  "homeScore": null,
+  "awayScore": null,
+  "whyCareScore": 9.2,
+  "headline": "The RSM Classic: FedExCup Fall drama arrives at Sea Island with 2027 Tour cards on the line",
+  "teaser": "The PGA Tour season concludes on the Georgia coast as players battle for crucial FedExCup points, full-status top-125 exemptions, and signature event invites.",
+  "story": "Practice rounds got underway on Tuesday, 17 November, at Sea Island Golf Club on St. Simons Island, Georgia, setting the stage for the dramatic conclusion of the PGA Tour's FedExCup Fall at The RSM Classic (19-22 November).\n\nHosted by Davis Love III, the tournament represents the final opportunity for competitors to secure top-125 positioning in the FedExCup standings and guarantee fully exempt status for the 2027 PGA Tour campaign. Players finishing 126 through 150 retain conditional status, while those inside the top 60 earn entry into the lucrative early-season Signature Events.\n\nContested across the par-70 Seaside Course and par-72 Plantation Course, the event features a stacked field of Georgia residents and bubble contenders including Davis Thompson, two-time champion Mackenzie Hughes, and Austin Smotherman. Following Rory McIlroy's record-equalling eighth Race to Dubai crown on the European circuit, the focus now turns to pure survival golf along the Atlantic marshes.",
+  "whyCareReason": "The final official PGA Tour tournament of 2026 decides which players retain full playing privileges and exemptions for the 2027 campaign.",
+  "stakes": "Top-125 cutoff locks in full tour cards for 2027, while Nos. 51-60 qualify for AT&T Pebble Beach and The Genesis Invitational.",
+  "rivalryAngle": "High-pressure survival golf where a single putt on Sunday afternoon can determine a player's career trajectory and tour status.",
+  "funFacts": [
+    "The RSM Classic uses both the Seaside and Plantation courses for the opening two rounds before the Seaside hosts the weekend.",
+    "Davis Love III has hosted the event since its inception at Sea Island in 2010.",
+    "Mackenzie Hughes is a two-time champion at Sea Island, winning in 2016 and 2022."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Davis Thompson",
+      "team": "United States",
+      "hook": "Sea Island resident and recent PGA Tour winner headlining the local contingent."
+    },
+    {
+      "name": "Mackenzie Hughes",
+      "team": "Canada",
+      "hook": "Two-time RSM Classic champion seeking a historic third victory on the Georgia links."
+    },
+    {
+      "name": "Austin Smotherman",
+      "team": "United States",
+      "hook": "Bermuda Championship winner looking to cement his position in the FedExCup top 60."
+    }
+  ],
+  "tags": [
+    "golf",
+    "pga-tour",
+    "the-rsm-classic",
+    "sea-island",
+    "fedexcup-fall",
+    "davis-thompson",
+    "mackenzie-hughes"
+  ],
+  "leaderboard": [
+    {
+      "pos": "Bubble",
+      "name": "Top-125 Card Battle",
+      "score": "Cutoff Event",
+      "note": "Final 2026 Tour stop"
+    },
+    {
+      "pos": "Field",
+      "name": "Davis Thompson",
+      "score": "Local Favorite",
+      "note": "Sea Island resident"
+    },
+    {
+      "pos": "Field",
+      "name": "Mackenzie Hughes",
+      "score": "2x Champion",
+      "note": "Won 2016, 2022"
+    },
+    {
+      "pos": "Field",
+      "name": "Austin Smotherman",
+      "score": "Fall Winner",
+      "note": "Bermuda champion"
+    }
+  ],
+  "sources": [
+    {
+      "name": "PGA Tour Official: The RSM Classic Tournament Field and Preview",
+      "url": "https://www.pgatour.com/tournaments/2026/the-rsm-classic/R2026493"
+    },
+    {
+      "name": "Golf Channel: FedExCup Fall bubble watch entering Sea Island finale",
+      "url": "https://www.golfchannel.com/news/rsm-classic-bubble-watch-2026"
+    },
+    {
+      "name": "Sea Island Official: 2026 RSM Classic Event Details",
+      "url": "https://www.seaisland.com/event/the-rsm-classic-2026/"
+    }
+  ]
+}

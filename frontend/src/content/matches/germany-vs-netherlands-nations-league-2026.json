@@ -1,0 +1,73 @@
+{
+  "slug": "germany-vs-netherlands-nations-league-2026",
+  "sport": "soccer",
+  "competition": "uefa-nations-league",
+  "format": "team-match",
+  "home": "Germany",
+  "away": "Netherlands",
+  "homeCode": "DEU",
+  "awayCode": "NLD",
+  "homeFlag": "de",
+  "awayFlag": "nl",
+  "date": "2026-11-16",
+  "time": "20:45 CET",
+  "status": "FINISHED",
+  "roundLabel": "Matchday 6 · Final Result",
+  "group": "A2",
+  "venue": "Red Bull Arena, Leipzig",
+  "city": "Leipzig",
+  "homeScore": "5",
+  "awayScore": "0",
+  "whyCareScore": 9.6,
+  "headline": "Nations League: Germany crush Netherlands 5-0 to seal Group A2 top spot",
+  "teaser": "Florian Wirtz scores twice while Derry Scherhant, Nico Schlotterbeck, and Brajan Gruda add goals as Germany inflict the Netherlands' heaviest defeat in 67 years to win Group A2.",
+  "story": "Germany produced a masterclass of attacking football on Monday night, 16 November, dismantling traditional rivals the Netherlands 5-0 in Leipzig to capture first place in UEFA Nations League Group A2.\n\nJulian Nagelsmann's side took control late in the first half when 23-year-old winger Derry Scherhant opened the scoring on 41 minutes with a crisp angled drive. The floodgates opened after the break as Florian Wirtz curled home a magnificent 20-yard effort on the hour mark. Nico Schlotterbeck headed in a corner on 65 minutes, substitute Brajan Gruda slotted home a fourth on 72 minutes, and Wirtz completed his brace in the 77th minute with a delicate chip over Bart Verbruggen.\n\nThe 5-0 scoreline represents the Netherlands' worst defeat in an international fixture since 1959. Although both nations advance to the quarter-finals in March 2027, Germany secure seeded status while Ronald Koeman's squad face an inquest after an uncharacteristically fragile defensive collapse.",
+  "whyCareReason": "Germany hand their fiercest rivals their worst defeat since 1959, securing the top seed in Nations League Group A2 in emphatic fashion.",
+  "stakes": "Germany finish top of Group A2 to earn seeded quarter-final status in March 2027, sending the Dutch through as unseeded runners-up.",
+  "rivalryAngle": "Historic renewal of one of international football's fiercest rivalries, ending in unprecedented German dominance before 42,000 in Leipzig.",
+  "funFacts": [
+    "The 5-0 defeat was the Netherlands' heaviest margin of defeat in any international match since November 1959.",
+    "Florian Wirtz recorded his second career international brace, scoring in the 60th and 77th minutes.",
+    "Germany scored four goals in a blistering 17-minute second-half stretch."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Florian Wirtz",
+      "team": "Germany",
+      "hook": "Dictated the midfield tempo and scored two spectacular second-half goals."
+    },
+    {
+      "name": "Derry Scherhant",
+      "team": "Germany",
+      "hook": "Broke the deadlock in the 41st minute with a clinical low strike to set Germany on their way."
+    },
+    {
+      "name": "Virgil van Dijk",
+      "team": "Netherlands",
+      "hook": "Captained the Dutch defense during a torrid second-half onslaught in Leipzig."
+    }
+  ],
+  "tags": [
+    "soccer",
+    "uefa-nations-league",
+    "germany",
+    "netherlands",
+    "florian-wirtz",
+    "derry-scherhant",
+    "virgil-van-dijk"
+  ],
+  "sources": [
+    {
+      "name": "UEFA Official: Germany 5-0 Netherlands Match Report",
+      "url": "https://www.uefa.com/uefanationsleague/match/germany-vs-netherlands-2026/"
+    },
+    {
+      "name": "Goal.com: Wirtz sparkles as Germany hammer Dutch 5-0 in Leipzig",
+      "url": "https://www.goal.com/en/news/germany-netherlands-nations-league-20261116"
+    },
+    {
+      "name": "Reuters: Germany inflict worst Dutch defeat in 67 years with 5-0 Nations League romp",
+      "url": "https://www.reuters.com/sports/soccer/germany-crush-netherlands-5-0-nations-league-2026-11-16/"
+    }
+  ]
+}

@@ -9,40 +9,40 @@
   "awayCode": null,
   "date": "2026-11-16",
   "time": "8:15 PM ET",
-  "status": "UPCOMING",
-  "roundLabel": "Week 10 · Monday Night Football",
+  "status": "FINISHED",
+  "roundLabel": "Week 10 · Monday Night Football Final",
   "group": "NFL",
   "venue": "M&T Bank Stadium, Baltimore",
   "city": "Baltimore",
-  "homeScore": null,
-  "awayScore": null,
-  "whyCareScore": 9.4,
-  "headline": "Monday Night Football: Chargers visit Ravens at M&T Bank Stadium in Harbaugh Bowl",
-  "teaser": "Brothers Jim and John Harbaugh clash under the prime-time lights in Baltimore as Justin Herbert and the physical Chargers test Lamar Jackson and the explosive Ravens.",
-  "story": "Week 10 of the NFL season wraps up with a marquee Monday Night Football spectacle on 16 November, as Jim Harbaugh leads his Los Angeles Chargers into M&T Bank Stadium to take on brother John Harbaugh and the Baltimore Ravens.\n\nThe iconic coaching rivalry adds extra intrigue to a matchup with massive AFC playoff ramifications. The Chargers enter at 6-3, boasting one of the league's stingiest scoring defenses behind pass rusher Joey Bosa and safety Derwin James, while Justin Herbert continues to pilot an efficient run-first attack anchored by J.K. Dobbins.\n\nStanding in their path is two-time MVP Lamar Jackson and a Baltimore offense averaging over 29 points per contest. Jackson and running back Derrick Henry present the ultimate test for Los Angeles' front seven in what promises to be a physical, 60-minute battle for postseason seeding.",
-  "whyCareReason": "The high-profile Harbaugh Bowl pits brother against brother with major AFC wild card and division race implications under the Monday Night Football spotlight.",
-  "stakes": "A victory secures a vital head-to-head tiebreaker in the ultra-competitive AFC playoff hierarchy.",
-  "rivalryAngle": "Jim Harbaugh and John Harbaugh face each other for the first time since Super Bowl XLVII, reigniting the NFL's premier sibling coaching rivalry.",
+  "homeScore": "20",
+  "awayScore": "23",
+  "whyCareScore": 9.5,
+  "headline": "Monday Night Football: Chargers edge Ravens 23-20 as Jim Harbaugh tops John in brotherly clash",
+  "teaser": "Justin Herbert runs for a 22-yard touchdown, rookie Omarion Hampton rushes for 105 yards, and Tarheeb Still forces a late fumble on Zay Flowers to seal a 23-20 road triumph for Los Angeles.",
+  "story": "Jim Harbaugh secured bragging rights in the family rivalry on Monday night, 16 November, as his Los Angeles Chargers held off John Harbaugh and the Baltimore Ravens for a gritty 23-20 road victory at M&T Bank Stadium.\n\nJustin Herbert set the tone early for the visitors, scrambling out of pressure and diving inside the pylon for a 22-yard touchdown run to give Los Angeles a lead they would never surrender. Rookie running back Omarion Hampton delivered a breakout prime-time performance, pounding Baltimore's front seven for 105 yards on 21 carries, including a physical 4-yard touchdown plunge in the third quarter.\n\nLamar Jackson rallied the Ravens in the fourth quarter, connecting with Mark Andrews on a 14-yard touchdown pass to pull within three points. But with Baltimore driving into field goal range in the final two minutes, Chargers cornerback Tarheeb Still punched the ball loose from Zay Flowers, allowing Los Angeles to recover and run out the clock to improve to 7-3.",
+  "whyCareReason": "Jim Harbaugh edges John Harbaugh in the second official coaching clash between brothers, earning Los Angeles a pivotal tiebreaker in the AFC playoff race.",
+  "stakes": "The Chargers (7-3) cement their position in the AFC wild card race while the Ravens (7-3) lose critical ground in the AFC North.",
+  "rivalryAngle": "First meeting between Jim and John Harbaugh since Super Bowl XLVII in New Orleans, with Jim claiming his first head-to-head NFL win over his older brother.",
   "funFacts": [
-    "Jim and John Harbaugh previously coached against each other in Super Bowl XLVII in February 2013.",
-    "Lamar Jackson is 23-6 in prime-time regular-season games throughout his NFL career.",
-    "The Chargers defense enters allowing just 14.8 points per game, the third lowest in the NFL."
+    "The Chargers outrushed the Ravens 160 yards to 16, holding Derrick Henry to just 12 rushing yards.",
+    "Justin Herbert recorded his first career 20-plus-yard rushing touchdown on Monday Night Football.",
+    "Tarheeb Still's fourth-quarter forced fumble was his third turnover created in the last four games."
   ],
   "keyPlayers": [
     {
-      "name": "Lamar Jackson",
-      "team": "Baltimore Ravens",
-      "hook": "Two-time MVP leading Baltimore's balanced passing and rushing offensive juggernaut."
-    },
-    {
       "name": "Justin Herbert",
       "team": "Los Angeles Chargers",
-      "hook": "Elite pocket passer seeking a statement prime-time road win in Jim Harbaugh's system."
+      "hook": "Scored the opening touchdown on a 22-yard scramble and managed a mistake-free offense."
     },
     {
-      "name": "Derrick Henry",
+      "name": "Omarion Hampton",
+      "team": "Los Angeles Chargers",
+      "hook": "Ran for 105 yards and a touchdown on 21 carries in his breakout prime-time performance."
+    },
+    {
+      "name": "Lamar Jackson",
       "team": "Baltimore Ravens",
-      "hook": "Bruising tailback looking to puncture the Chargers' disciplined defensive front."
+      "hook": "Threw two touchdown passes but was sacked four times by the relentless Chargers pass rush."
     }
   ],
   "tags": [
@@ -51,22 +51,22 @@
     "chargers",
     "ravens",
     "harbaugh-bowl",
-    "lamar-jackson",
     "justin-herbert",
-    "derrick-henry"
+    "omarion-hampton",
+    "lamar-jackson"
   ],
   "sources": [
     {
-      "name": "NFL.com: Chargers at Ravens Game Center",
+      "name": "NFL.com: Chargers 23-20 Ravens Final Box Score",
       "url": "https://www.nfl.com/games/chargers-at-ravens-2026-reg-10"
     },
     {
-      "name": "ESPN: Monday Night Football Harbaugh Bowl Preview",
-      "url": "https://www.espn.com/nfl/preview/_/gameId/401671780"
+      "name": "ESPN: Jim Harbaugh tops John as Chargers edge Ravens on MNF",
+      "url": "https://www.espn.com/nfl/recap/_/gameId/401671780"
     },
     {
-      "name": "BaltimoreRavens.com: Ravens host Chargers on MNF",
-      "url": "https://www.baltimoreravens.com/news/chargers-vs-ravens-week-10-preview"
+      "name": "Associated Press: Herbert, Hampton lead Chargers past Ravens 23-20 in Harbaugh Bowl",
+      "url": "https://apnews.com/article/chargers-ravens-nfl-harbaugh-bowl-20261116"
     }
   ]
 }
