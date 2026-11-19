@@ -1,9 +1,9 @@
 {
   "slug": "las-vegas-gp-strip-2026",
-  "headline": "Two days to Round 21 Las Vegas: Strip setup finishes as five-driver battle for P2 heats up",
+  "headline": "Las Vegas Grand Prix: Engines roar tonight on the Strip as Thursday practice gets underway",
   "whyCareScore": 9.0,
-  "whyCareReason": "Formula 1 descends on Nevada with 33 points covering Verstappen (279) to Norris (246) across the final three rounds, while Ferrari defends P2 constructors from Red Bull and McLaren.",
-  "teaser": "The Las Vegas Strip is ready for action with two days until Thursday night practice: 33 points cover Max Verstappen through Lando Norris in the fight for championship runner-up behind Kimi Antonelli.",
+  "whyCareReason": "Cars hit the Strip under the neon lights for FP1 and FP2, kicking off the high-speed desert weekend where Verstappen, Russell, Hamilton, Leclerc, and Norris fight for P2.",
+  "teaser": "Formula 1 takes to the 6.201 km Las Vegas Strip circuit tonight for Free Practice 1 and 2: five drivers separated by 33 points battle for championship runner-up behind Kimi Antonelli.",
   "story": "Saturday 14 November sits five days before Round 21 of the 2026 FIA Formula One World Championship on the 6.201-kilometre Las Vegas Strip Circuit (19-21 November, Saturday night Grand Prix 21 November). Both titles remain settled after Interlagos: Kimi Antonelli is Drivers Champion on 390 points, Mercedes Constructors Champion on 652. The fight for second is unchanged because no race has been held since Sao Paulo: Max Verstappen 279, George Russell 262, Lewis Hamilton 261, Charles Leclerc 249, Lando Norris 246. Constructors behind Mercedes: Ferrari 510, Red Bull 415, McLaren 398. Qatar follows on 29 November and Abu Dhabi on 6 December. Do not publish a Las Vegas race result, pole, or practice time.",
   "stakes": "Thirty-three points still divide Drivers P2 through P6 heading into next week's night race on the Strip.",
   "rivalryAngle": "Verstappen's 279-point hold on P2 remains 17 clear of Russell and 33 clear of Norris until cars run in Nevada.",
@@ -47,8 +47,8 @@
   "awayFlag": "gb-eng",
   "group": "Formula 1",
   "matchday": 21,
-  "date": "2026-11-21",
-  "time": "20:00",
+  "date": "2026-11-19",
+  "time": "21:30 ET",
   "venue": "Las Vegas Strip Circuit",
   "city": "Las Vegas",
   "status": "UPCOMING",
@@ -64,7 +64,7 @@
   "competition": "f1-2026",
   "format": "race",
   "season": "2026",
-  "roundLabel": "Round 21 · Two Days to Las Vegas",
+  "roundLabel": "Round 21 · Las Vegas Free Practice Tonight",
   "resultSummary": "ROUND 21 VEGAS (19-21 Nov): Verstappen 279, Russell 262, Hamilton 261, Leclerc 249, Norris 246 (Antonelli Champion 390; Mercedes 652). No race result.",
   "leaderboard": [
     {

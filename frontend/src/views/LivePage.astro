@@ -17,6 +17,12 @@ const upcomingAll = matches
   .sort((a, b) => a.date.localeCompare(b.date) || b.whyCareScore - a.whyCareScore);
 const liveMatch =
   matches.find((m) => m.status === 'LIVE') ||
+  matches.find((m) => m.slug === 'atp-nitto-finals-2026-turin-draw') ||
+  matches.find((m) => m.slug === 'rsm-classic-sea-island-preview-2026') ||
+  matches.find((m) => m.slug === 'colts-at-texans-tnf-week11-2026') ||
+  matches.find((m) => m.slug === 'las-vegas-gp-strip-2026') ||
+  matches.find((m) => m.slug === 'nba-heat-vs-bucks-nov18-2026') ||
+  matches.find((m) => m.slug === 'norway-vs-denmark-nations-league-2026') ||
   matches.find((m) => m.slug === 'germany-vs-netherlands-nations-league-2026') ||
   matches.find((m) => m.slug === 'chargers-at-ravens-mnf-week10-2026') ||
   matches.find((m) => m.slug === 'atp-nitto-finals-2026-turin-draw') ||

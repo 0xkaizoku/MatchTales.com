@@ -1,0 +1,73 @@
+{
+  "slug": "norway-vs-denmark-nations-league-2026",
+  "sport": "soccer",
+  "competition": "uefa-nations-league",
+  "format": "team-match",
+  "home": "Denmark",
+  "away": "Norway",
+  "homeCode": "DNK",
+  "awayCode": "NOR",
+  "homeFlag": "dk",
+  "awayFlag": "no",
+  "date": "2026-11-17",
+  "time": "20:45 CET",
+  "status": "FINISHED",
+  "roundLabel": "Matchday 6 · Final Result",
+  "group": "A4",
+  "venue": "Parken Stadium, Copenhagen",
+  "city": "Copenhagen",
+  "homeScore": "2",
+  "awayScore": "3",
+  "whyCareScore": 9.3,
+  "headline": "Nations League: Haaland scores dramatic late winner as Norway edge Denmark 3-2 in Nordic thriller",
+  "teaser": "Erling Haaland strikes in the 88th minute to crown a sensational five-goal Scandinavian clash at Parken Stadium, capping a dramatic group finale across Europe.",
+  "story": "Erling Haaland provided an unforgettable finale to the UEFA Nations League group stage on Tuesday night, 17 November, firing home an 88th-minute winner to seal a dramatic 3-2 victory for Norway over Denmark at a stunned Parken Stadium in Copenhagen.\n\nThe Nordic rivals produced an instant classic in their Group A4 finale. Denmark seized the lead early through Rasmus Hojlund, but Alexander Sorloth equalized for Norway before halftime with a bullet header. Antonio Nusa put Norway ahead 2-1 on 61 minutes with a curling effort from the edge of the box, only for Christian Eriksen to level the score with a trademark free kick on 74 minutes.\n\nWith both sides trading frantic attacks in the closing stages, Martin Odegaard threaded a through-ball into the Danish penalty area, where Haaland held off Joachim Andersen and slotted a low left-footed finish into the bottom corner to silence the Copenhagen crowd. The result concludes the 2026 Nations League group phase, setting the stage for the resumption of European domestic league action this weekend.",
+  "whyCareReason": "Erling Haaland delivers an 88th-minute winner in a five-goal Scandinavian thriller to conclude the Nations League group stage.",
+  "stakes": "Norway wrap up their campaign with a landmark away win over Denmark, locking in their ranking ahead of 2027 competitive draws.",
+  "rivalryAngle": "Historic Scandinavian derby played at ferocious intensity before 38,000 passionate supporters in Copenhagen.",
+  "funFacts": [
+    "Erling Haaland has scored 41 international goals in 43 appearances for Norway.",
+    "Norway earned their first competitive victory on Danish soil since 1990.",
+    "The match produced 31 total shots and five goals in an end-to-end Scandinavian classic."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Erling Haaland",
+      "team": "Norway",
+      "hook": "Showed world-class composure to net the 88th-minute match-winner at Parken Stadium."
+    },
+    {
+      "name": "Martin Odegaard",
+      "team": "Norway",
+      "hook": "Captained Norway and delivered the exquisite assist for Haaland's decisive goal."
+    },
+    {
+      "name": "Christian Eriksen",
+      "team": "Denmark",
+      "hook": "Delivered a sensational 74th-minute free kick to bring Denmark level before the late heartbreak."
+    }
+  ],
+  "tags": [
+    "soccer",
+    "uefa-nations-league",
+    "norway",
+    "denmark",
+    "erling-haaland",
+    "martin-odegaard",
+    "christian-eriksen"
+  ],
+  "sources": [
+    {
+      "name": "UEFA Official: Denmark 2-3 Norway Match Report",
+      "url": "https://www.uefa.com/uefanationsleague/match/denmark-vs-norway-2026/"
+    },
+    {
+      "name": "Goal.com: Haaland strikes late as Norway edge Denmark 3-2 in Copenhagen classic",
+      "url": "https://www.goal.com/en/news/denmark-norway-nations-league-haaland-20261117"
+    },
+    {
+      "name": "Reuters: Haaland 88th-minute strike gives Norway 3-2 Nations League win over Denmark",
+      "url": "https://www.reuters.com/sports/soccer/haaland-winner-norway-beat-denmark-2026-11-17/"
+    }
+  ]
+}
