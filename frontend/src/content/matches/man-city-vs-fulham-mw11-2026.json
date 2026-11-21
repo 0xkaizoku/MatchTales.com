@@ -1,0 +1,71 @@
+{
+  "slug": "man-city-vs-fulham-mw11-2026",
+  "sport": "soccer",
+  "competition": "premier-league",
+  "format": "team-match",
+  "home": "Manchester City",
+  "away": "Fulham",
+  "homeCode": null,
+  "awayCode": null,
+  "date": "2026-11-21",
+  "time": "12:30 GMT",
+  "status": "LIVE",
+  "liveMinute": "38",
+  "roundLabel": "Matchweek 11 · Live First Half",
+  "group": "Premier League",
+  "venue": "Etihad Stadium, Manchester",
+  "city": "Manchester",
+  "homeScore": "0",
+  "awayScore": "1",
+  "whyCareScore": 9.3,
+  "headline": "Premier League: Muniz strike gives Fulham shock early 1-0 lead over Manchester City at the Etihad",
+  "teaser": "Rodrigo Muniz scores in the 16th minute to stun the Etihad Stadium as Fulham lead Manchester City 1-0 in a tense Premier League restart.",
+  "story": "The Premier League returned with immediate drama on Saturday, 21 November, as Fulham shocked Manchester City by taking a 1-0 first-half lead at the Etihad Stadium in the Matchweek 11 lunchtime kickoff.\n\nFulham striker Rodrigo Muniz stunned the home supporters in the 16th minute, peeling off his marker to head home an inch-perfect cross from Antonee Robinson past Gianluigi Donnarumma. The goal put immense pressure on Enzo Maresca's City, who entered the match seeking to halt a three-match league losing skid.\n\nWith Erling Haaland and Phil Foden probing for an equalizer against a resolute Fulham backline anchored by Calvin Bassey, the contest has unfolded with ferocious intensity. Later on Saturday, title-race drama continues as league leaders Arsenal (27 points) visit Newcastle United at St. James' Park.",
+  "whyCareReason": "Fulham take a shock early lead at the Etihad, putting severe pressure on Manchester City's title chase as the Premier League resumes.",
+  "stakes": "A victory would pull City level with Brighton on 22 points, while a defeat would leave them six points adrift of Arsenal ahead of the Gunners' clash at Newcastle.",
+  "rivalryAngle": "Fulham have not won at the Etihad Stadium since 2009, making their early advantage one of the most unexpected twists of the young season.",
+  "funFacts": [
+    "Rodrigo Muniz has scored five goals in his last seven Premier League appearances for Fulham.",
+    "Manchester City have conceded the opening goal in four consecutive Premier League matches.",
+    "Fulham have registered four shots on target inside the opening half-hour in Manchester."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Rodrigo Muniz",
+      "team": "Fulham",
+      "hook": "Stunned the Etihad with a clinical 16th-minute header to break the deadlock."
+    },
+    {
+      "name": "Erling Haaland",
+      "team": "Manchester City",
+      "hook": "Looking to rally City with his league-leading attacking presence inside the penalty area."
+    },
+    {
+      "name": "Antonee Robinson",
+      "team": "Fulham",
+      "hook": "Delivered the pinpoint assist for Muniz's opening goal from the left flank."
+    }
+  ],
+  "tags": [
+    "soccer",
+    "premier-league",
+    "manchester-city",
+    "fulham",
+    "erling-haaland",
+    "rodrigo-muniz"
+  ],
+  "sources": [
+    {
+      "name": "Premier League Official: Manchester City vs Fulham Match Hub",
+      "url": "https://www.premierleague.com/match/manchester-city-vs-fulham-20261121"
+    },
+    {
+      "name": "The Guardian: Manchester City vs Fulham live updates and scores",
+      "url": "https://www.theguardian.com/football/live/2026/nov/21/manchester-city-v-fulham-premier-league-live"
+    },
+    {
+      "name": "Sky Sports: Muniz strikes as Fulham take shock lead at Manchester City",
+      "url": "https://www.skysports.com/football/man-city-vs-fulham/report/20261121"
+    }
+  ]
+}

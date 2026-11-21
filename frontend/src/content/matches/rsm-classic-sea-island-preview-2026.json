@@ -3,46 +3,46 @@
   "sport": "golf",
   "competition": "pga-tour-2026",
   "format": "leaderboard",
-  "home": "Davis Thompson",
-  "away": "Mackenzie Hughes",
+  "home": "Michael Thorbjornsen",
+  "away": "Marco Penge",
   "homeCode": "USA",
-  "awayCode": "CAN",
-  "date": "2026-11-19",
-  "time": "07:30 EST",
+  "awayCode": "GBR",
+  "date": "2026-11-21",
+  "time": "08:30 EST",
   "status": "LIVE",
-  "roundLabel": "Round 1 · Live at Sea Island",
+  "roundLabel": "Round 3 · Moving Day at Sea Island",
   "group": "PGA Tour FedExCup Fall",
-  "venue": "Sea Island Golf Club (Seaside & Plantation)",
+  "venue": "Sea Island Golf Club (Seaside Course)",
   "city": "St. Simons Island, Georgia",
-  "homeScore": "-5",
-  "awayScore": "-4",
+  "homeScore": "-9",
+  "awayScore": "-9",
   "whyCareScore": 9.4,
-  "headline": "The RSM Classic: Round 1 underway at Sea Island with 2027 PGA Tour cards on the line",
-  "teaser": "Opening round action is officially underway on the Georgia coast as players battle for crucial FedExCup points, full-status top-125 exemptions, and signature event invites.",
-  "story": "Round 1 of The RSM Classic got underway under ideal coastal conditions on Thursday morning, 19 November, at Sea Island Golf Club on St. Simons Island, Georgia, launching the dramatic finale of the PGA Tour's FedExCup Fall.\n\nHosted by Davis Love III, the tournament represents the final chance for competitors to earn top-125 positioning in the FedExCup standings and guarantee fully exempt playing privileges for the 2027 campaign. Early action across the Seaside Course saw local resident Davis Thompson ignite the leaderboard with a blistering 5-under-par start through 14 holes, firing six birdies against a lone bogey.\n\nTwo-time RSM Classic champion Mackenzie Hughes and Bermuda Championship winner Austin Smotherman are among the early pacesetters at 4-under par, while bubble contenders like Joel Dahmen and Zac Blair battle with immense tension where every single stroke carries massive career stakes.",
-  "whyCareReason": "Round 1 is live at Sea Island as players fight for the final top-125 exemptions for the 2027 PGA Tour season.",
-  "stakes": "Top-125 cutoff locks in full tour cards for 2027, while Nos. 51-60 qualify for AT&T Pebble Beach and The Genesis Invitational.",
-  "rivalryAngle": "High-pressure survival golf along the Atlantic marshes where every putt alters the projected FedExCup bubble standings in real time.",
+  "headline": "The RSM Classic: Moving Day underway as Thorbjornsen, Penge, and Neergaard-Petersen share lead at -9",
+  "teaser": "Moving Day is live at Sea Island where a three-way tie atop the leaderboard at 9-under par sets the tone for weekend survival battles and 2027 Tour card drama.",
+  "story": "Round 3 of The RSM Classic got underway in crisp, breezy conditions on Saturday morning, 21 November, at Sea Island Golf Club on St. Simons Island, Georgia, with the field condensed onto the par-70 Seaside Course for the weekend.\n\nFollowing a dramatic 36-hole cut that fell at 2-under par, 65 players advanced to Moving Day. Young American talent Michael Thorbjornsen, England's Marco Penge, and Denmark's Rasmus Neergaard-Petersen share the 36-hole clubhouse lead at 9-under-par 131, setting up a high-stakes duel across the coastal marshlands.\n\nFor the players hovering near the top-125 cutoff in the FedExCup Fall standings, Saturday represents the pivotal round. Joel Dahmen safely survived the cut on the 2-under line to keep his 2027 PGA Tour playing privileges alive, while local favorite Davis Thompson enters Moving Day within striking distance at 5-under par.",
+  "whyCareReason": "Moving Day is underway at Sea Island with a three-way tie at 9-under par and life-altering 2027 PGA Tour cards hanging on every shot.",
+  "stakes": "The winner locks up a two-year PGA Tour exemption and Masters invite, while players on the bubble battle for top-125 and top-60 status.",
+  "rivalryAngle": "Intense head-to-head leaderboard scrap between young PGA Tour University graduates and seasoned European tour qualifiers.",
   "funFacts": [
-    "The RSM Classic uses both the Seaside and Plantation courses for the opening two rounds before the Seaside hosts the weekend.",
-    "Davis Love III has hosted the event since its inception at Sea Island in 2010.",
-    "Mackenzie Hughes is a two-time champion at Sea Island, winning in 2016 and 2022."
+    "The 36-hole cut of 2-under par sent 65 competitors into the weekend rounds on the Seaside Course.",
+    "Michael Thorbjornsen fired a second-round 64 on Friday to surge into a share of the lead.",
+    "Six different players entered Moving Day within three shots of the 9-under lead."
   ],
   "keyPlayers": [
     {
-      "name": "Davis Thompson",
+      "name": "Michael Thorbjornsen",
       "team": "United States",
-      "hook": "Sea Island resident who grabbed the early clubhouse lead with a 5-under start."
+      "hook": "Former top collegiate star who shares the 36-hole lead at 9-under par."
     },
     {
-      "name": "Mackenzie Hughes",
-      "team": "Canada",
-      "hook": "Two-time champion opening strongly at 4-under par across the Plantation course."
+      "name": "Marco Penge",
+      "team": "England",
+      "hook": "European tour qualifier matching the leaders with back-to-back sub-66 rounds."
     },
     {
       "name": "Joel Dahmen",
       "team": "United States",
-      "hook": "Fan favorite sitting right on the top-125 bubble battling for his 2027 PGA Tour card."
+      "hook": "Made the cut on the 2-under number to keep his 2027 PGA Tour card hopes alive."
     }
   ],
   "tags": [
@@ -51,53 +51,59 @@
     "the-rsm-classic",
     "sea-island",
     "fedexcup-fall",
-    "davis-thompson",
-    "mackenzie-hughes"
+    "michael-thorbjornsen",
+    "joel-dahmen"
   ],
   "leaderboard": [
     {
-      "pos": "1",
+      "pos": "T1",
+      "name": "Michael Thorbjornsen",
+      "score": "-9",
+      "note": "36-hole co-leader"
+    },
+    {
+      "pos": "T1",
+      "name": "Marco Penge",
+      "score": "-9",
+      "note": "36-hole co-leader"
+    },
+    {
+      "pos": "T1",
+      "name": "Rasmus Neergaard-Petersen",
+      "score": "-9",
+      "note": "36-hole co-leader"
+    },
+    {
+      "pos": "T4",
       "name": "Davis Thompson",
       "score": "-5",
-      "note": "Thru 14 (Seaside)"
+      "note": "Local favorite"
     },
     {
-      "pos": "T2",
-      "name": "Mackenzie Hughes",
-      "score": "-4",
-      "note": "Thru 16 (Plantation)"
-    },
-    {
-      "pos": "T2",
+      "pos": "T4",
       "name": "Austin Smotherman",
       "score": "-4",
-      "note": "F (Seaside)"
+      "note": "Bermuda champion"
     },
     {
-      "pos": "T4",
-      "name": "Joel Dahmen",
-      "score": "-3",
-      "note": "Thru 11 (Plantation, bubble)"
-    },
-    {
-      "pos": "T4",
-      "name": "Zac Blair",
-      "score": "-3",
-      "note": "F (Seaside)"
+      "pos": "Cut",
+      "name": "Top-125 Cut Line",
+      "score": "-2",
+      "note": "65 players made cut"
     }
   ],
   "sources": [
     {
-      "name": "PGA Tour Official: The RSM Classic Live Leaderboard and Round 1 Scores",
+      "name": "PGA Tour Official: The RSM Classic Round 3 Live Leaderboard",
       "url": "https://www.pgatour.com/tournaments/2026/the-rsm-classic/R2026493"
     },
     {
-      "name": "Golf Channel: Live coverage of The RSM Classic Round 1 at Sea Island",
-      "url": "https://www.golfchannel.com/news/rsm-classic-round1-live-2026"
+      "name": "Golf Channel: Moving Day at Sea Island: Co-leaders at 9-under in RSM Classic",
+      "url": "https://www.golfchannel.com/news/rsm-classic-round3-live-2026"
     },
     {
-      "name": "Associated Press: Thompson, Hughes set early pace at RSM Classic with tour cards on line",
-      "url": "https://apnews.com/article/rsm-classic-pga-tour-round1-20261119"
+      "name": "Associated Press: Thorbjornsen, Penge share RSM Classic lead entering weekend",
+      "url": "https://apnews.com/article/rsm-classic-pga-tour-round2-leaders-20261120"
     }
   ]
 }

@@ -9,40 +9,40 @@
   "awayCode": null,
   "date": "2026-11-19",
   "time": "8:15 PM ET",
-  "status": "UPCOMING",
-  "roundLabel": "Week 11 · Thursday Night Football",
+  "status": "FINISHED",
+  "roundLabel": "Week 11 · Thursday Night Football Final",
   "group": "NFL",
   "venue": "NRG Stadium, Houston",
   "city": "Houston",
-  "homeScore": null,
-  "awayScore": null,
-  "whyCareScore": 9.3,
-  "headline": "Thursday Night Football: Colts visit Texans in high-stakes AFC South Week 11 battle",
-  "teaser": "C.J. Stroud and the division-leading Texans defend home turf at NRG Stadium against Anthony Richardson and the dangerous Colts with AFC playoff seeding on the line.",
-  "story": "Week 11 of the NFL season kicks off under the prime-time lights on Thursday night, 19 November, as the Houston Texans host the Indianapolis Colts in a pivotal AFC South showdown at NRG Stadium.\n\nHouston enters Thursday aiming to tighten its grip on first place in the division behind quarterback C.J. Stroud and an aggressive front seven led by Will Anderson Jr. The Texans defense has ranked among the league leaders in quarterback pressure rate, which will be tested against the electrifying athleticism of Colts signal-caller Anthony Richardson.\n\nIndianapolis arrives with plenty of momentum and an explosive ground attack powered by Jonathan Taylor. With both franchises locked in the competitive AFC playoff picture, Thursday's clash offers decisive head-to-head tiebreaker consequences heading into the season's final stretch.",
-  "whyCareReason": "A marquee divisional showdown between C.J. Stroud and Anthony Richardson that directly influences the AFC South championship race.",
-  "stakes": "The winner takes command of the AFC South tiebreaker and strengthens their standing in the crowded AFC playoff bracket.",
-  "rivalryAngle": "Bitter divisional rivalry between two young, ascending quarterbacks who have split their regular-season meetings over the past two seasons.",
+  "homeScore": "26",
+  "awayScore": "3",
+  "whyCareScore": 9.2,
+  "headline": "Thursday Night Football: Texans stifle Colts 26-3 to seize command of AFC South",
+  "teaser": "C.J. Stroud throws two touchdown passes and Houston's relentless pass rush forces three turnovers, limiting Anthony Richardson to 112 passing yards in a 26-3 blowout.",
+  "story": "The Houston Texans delivered a resounding defensive masterclass on Thursday night, 19 November, smothering the Indianapolis Colts 26-3 at NRG Stadium to solidify their position atop the AFC South.\n\nQuarterback C.J. Stroud was clinical under the prime-time lights, completing 22 of 29 passes for 248 yards and two touchdowns without a turnover. Meanwhile, Houston's defense suffocated the Colts, holding Anthony Richardson to just 112 yards through the air and intercepting him twice. Running back Jonathan Taylor was held to 48 yards on 14 carries as Indianapolis failed to reach the end zone all night.\n\nWith the 26-3 rout, Houston improves to 7-4 and sweeps the season tiebreaker against Indianapolis (6-5), giving the Texans a commanding edge in the divisional championship race as Week 11 action heads toward Sunday.",
+  "whyCareReason": "Houston dominates their fiercest division rival 26-3 to seize total control of the AFC South tiebreaker.",
+  "stakes": "The Texans (7-4) take a full game lead in the AFC South, while the Colts (6-5) slide into the wild card bubble.",
+  "rivalryAngle": "Houston held Indianapolis without a touchdown for the first time in their last nine head-to-head meetings.",
   "funFacts": [
-    "The Colts and Texans have split their last four meetings, with three of those games decided by seven points or fewer.",
-    "Anthony Richardson has recorded at least one rushing touchdown in four consecutive games.",
-    "Houston edge rusher Will Anderson Jr. leads the AFC with 10 sacks through the opening 10 weeks."
+    "Houston's defense recorded four sacks and three total turnovers on Thursday night.",
+    "C.J. Stroud has now thrown multiple touchdown passes in five consecutive games against AFC South opponents.",
+    "The 23-point margin of victory is Houston's largest over Indianapolis since 2012."
   ],
   "keyPlayers": [
     {
       "name": "C.J. Stroud",
       "team": "Houston Texans",
-      "hook": "Leads the Texans aerial attack with 18 touchdown passes and only four interceptions this season."
+      "hook": "Threw two touchdown passes with zero turnovers in a commanding prime-time showing."
+    },
+    {
+      "name": "Will Anderson Jr.",
+      "team": "Houston Texans",
+      "hook": "Recorded two sacks and three tackles for loss to pace Houston's dominant defensive front."
     },
     {
       "name": "Anthony Richardson",
       "team": "Indianapolis Colts",
-      "hook": "Dual-threat dynamo capable of breaking open games with his arm strength and rushing ability."
-    },
-    {
-      "name": "Jonathan Taylor",
-      "team": "Indianapolis Colts",
-      "hook": "Pounds opposing defenses between the tackles, averaging over five yards per carry."
+      "hook": "Struggled under relentless pressure, throwing two interceptions and completing just 12 passes."
     }
   ],
   "tags": [
@@ -51,21 +51,21 @@
     "colts",
     "texans",
     "cj-stroud",
-    "anthony-richardson",
-    "jonathan-taylor"
+    "will-anderson",
+    "anthony-richardson"
   ],
   "sources": [
     {
-      "name": "NFL.com: Colts at Texans Game Preview and Matchup Guide",
+      "name": "NFL.com: Texans 26-3 Colts Final Box Score and Recap",
       "url": "https://www.nfl.com/games/colts-at-texans-2026-reg-11"
     },
     {
-      "name": "Houston Chronicle: Texans prepare for prime-time division clash with Colts",
-      "url": "https://www.houstonchronicle.com/sports/texans/article/colts-texans-preview-20261119.php"
+      "name": "Houston Chronicle: Texans defense smothers Colts 26-3 to take charge of AFC South",
+      "url": "https://www.houstonchronicle.com/sports/texans/article/texans-colts-recap-20261119.php"
     },
     {
-      "name": "Associated Press: Stroud, Texans host Richardson and Colts on Thursday Night Football",
-      "url": "https://apnews.com/article/colts-texans-nfl-thursday-preview-20261119"
+      "name": "Associated Press: Stroud, defense lead Texans to 26-3 blowout of Colts on TNF",
+      "url": "https://apnews.com/article/colts-texans-nfl-thursday-recap-20261119"
     }
   ]
 }

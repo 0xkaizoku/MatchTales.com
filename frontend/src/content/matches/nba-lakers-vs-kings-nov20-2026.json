@@ -1,0 +1,69 @@
+{
+  "slug": "nba-lakers-vs-kings-nov20-2026",
+  "sport": "basketball",
+  "competition": "nba",
+  "format": "team-match",
+  "home": "Sacramento Kings",
+  "away": "Los Angeles Lakers",
+  "homeCode": null,
+  "awayCode": null,
+  "date": "2026-11-20",
+  "time": "10:00 PM ET",
+  "status": "FINISHED",
+  "roundLabel": "Regular Season Final",
+  "group": "NBA",
+  "venue": "Golden 1 Center, Sacramento",
+  "city": "Sacramento",
+  "homeScore": "104",
+  "awayScore": "106",
+  "whyCareScore": 9.1,
+  "headline": "NBA: Lakers survive late Kings rally to escape Sacramento with thrilling 106-104 victory",
+  "teaser": "A crucial defensive stop in the final seconds and clutch free throws seal a dramatic 106-104 road triumph for the Lakers, while Nikola Jokic records a 32-point triple-double for Denver.",
+  "story": "The Los Angeles Lakers held their nerve in a classic California rivalry thriller on Friday night, 20 November, fending off a ferocious fourth-quarter rally by the Sacramento Kings for a 106-104 victory at Golden 1 Center.\n\nLeading by seven with under two minutes remaining, the Lakers withstood back-to-back three-pointers from De'Aaron Fox, who paced Sacramento with 29 points. With the game tied at 104 and 14 seconds on the clock, Los Angeles executed a clean pick-and-roll to draw a foul, converting two pressure-packed free throws. Sacramento had one final chance to win or force overtime, but a suffocating perimeter trap forced an off-balance jumper at the horn that clanged off the rim.\n\nThe hard-fought victory improves the Lakers to 10-4. Elsewhere in NBA Friday action, Nikola Jokic notched a 32-point, 12-rebound, 10-assist triple-double in Denver's 133-124 shootout victory over Houston, while Cleveland held off Indiana 128-119.",
+  "whyCareReason": "The Lakers survive a heart-stopping finish in Sacramento to earn their tenth win of the season.",
+  "stakes": "Los Angeles (10-4) keeps pace with the top of the Western Conference, while Sacramento (7-7) drops to .500.",
+  "rivalryAngle": "Heated Pacific Division rivalry that has now seen four of the last five meetings decided by three points or fewer.",
+  "funFacts": [
+    "The Lakers held Sacramento to just 18 points in the decisive third quarter.",
+    "Nikola Jokic recorded his fifth triple-double of the season on Friday in Denver's win over Houston.",
+    "The Kings missed their final four three-point attempts over the closing 75 seconds."
+  ],
+  "keyPlayers": [
+    {
+      "name": "De'Aaron Fox",
+      "team": "Sacramento Kings",
+      "hook": "Scored a game-high 29 points, nearly carrying Sacramento to a miraculous late comeback."
+    },
+    {
+      "name": "Austin Reaves",
+      "team": "Los Angeles Lakers",
+      "hook": "Sank the game-winning free throws with 12 seconds remaining in Sacramento."
+    },
+    {
+      "name": "Nikola Jokic",
+      "team": "Denver Nuggets",
+      "hook": "Exploded for 32 points, 12 rebounds, and 10 assists in Denver's 133-124 Friday win."
+    }
+  ],
+  "tags": [
+    "nba",
+    "los-angeles-lakers",
+    "sacramento-kings",
+    "de-aaron-fox",
+    "nikola-jokic"
+  ],
+  "sources": [
+    {
+      "name": "NBA.com: Lakers at Kings Box Score and Recap",
+      "url": "https://www.nba.com/game/lal-vs-sac-20261120/box-score"
+    },
+    {
+      "name": "Los Angeles Times: Lakers survive late flurry by Kings for 106-104 victory",
+      "url": "https://www.latimes.com/sports/lakers/story/2026-11-20/lakers-kings-nba-recap"
+    },
+    {
+      "name": "Associated Press: Lakers hold on for 106-104 win over Kings in Sacramento",
+      "url": "https://apnews.com/article/lakers-kings-nba-recap-20261120"
+    }
+  ]
+}
