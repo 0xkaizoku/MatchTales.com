@@ -1,0 +1,85 @@
+{
+  "slug": "davis-cup-finals-2026-bologna-knockout",
+  "headline": "Davis Cup Final 8 in Bologna: Defending champions Italy lead South Korea 1-0 as quarterfinals unfold",
+  "whyCareScore": 8.9,
+  "whyCareReason": "Three-time defending champions Italy launch their Bologna title defense through Lorenzo Musetti straight-sets rout after Czechia eliminated Canada 2-0.",
+  "teaser": "Lorenzo Musetti sweeps Seongchan Hong 6-0, 7-6(5) to hand Italy a 1-0 quarterfinal lead ahead of Flavio Cobolli vs Soonwoo Kwon in Bologna.",
+  "story": "The 2026 Davis Cup Final 8 knockout stage in Bologna moved into full swing at SuperTennis Arena (BolognaFiere) on Wednesday, 25 November, with three-time defending champions Italy seizing early momentum against South Korea.\n\nLorenzo Musetti delivered a ferocious opening singles display in front of packed home stands, dismissing Seongchan Hong 6-0, 7-6(5) in 92 minutes to put the Azzurri 1-0 ahead. Flavio Cobolli takes on Soonwoo Kwon in the second singles rubber, with Matteo Berrettini and Andrea Vavassori slated for doubles against Hyeon Chung and Kwon if needed.\n\nEarlier in the Final 8 bracket on Tuesday, Czechia became the first nation into the semifinals by sweeping Canada 2-0 behind Tomas Machac three-set victory (6-2, 3-6, 6-2) over Liam Draxl. Thursday quarterfinal doubleheader sees Great Britain face Germany at 10:00 CET before Austria meet Spain.",
+  "stakes": "A semifinal berth against the remaining Final 8 field awaits the winner as Italy chase a historic fourth consecutive Davis Cup crown.",
+  "rivalryAngle": "Italy open their home title defense backed by noisy Bologna support, with Musetti and Cobolli leading the singles charge.",
+  "funFacts": [
+    "Musetti bageled Seongchan Hong in 25 minutes during the first set before sealing the tiebreak 7-6(5).",
+    "Czechia swept Canada 2-0 on Tuesday to become the first team into Saturday semifinals.",
+    "Great Britain vs Germany opens Thursday Bologna schedule at 10:00 CET, followed by Austria vs Spain."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Lorenzo Musetti",
+      "team": "Italy",
+      "hook": "Blitzed Seongchan Hong 6-0, 7-6(5) in 1 hour and 32 minutes for Italy opening point."
+    },
+    {
+      "name": "Flavio Cobolli",
+      "team": "Italy",
+      "hook": "Lined up against Soonwoo Kwon in the pivotal second singles rubber."
+    },
+    {
+      "name": "Tomas Machac",
+      "team": "Czechia",
+      "hook": "Pushed Czechia past Canada with a 6-2, 3-6, 6-2 singles win over Liam Draxl."
+    }
+  ],
+  "headToHead": "25 November 2026. SuperTennis Arena, BolognaFiere. Italy lead South Korea 1-0.",
+  "tags": [
+    "tennis",
+    "davis-cup",
+    "bologna",
+    "italy",
+    "south-korea",
+    "musetti",
+    "czechia"
+  ],
+  "home": "Italy",
+  "away": "South Korea",
+  "homeCode": "ITA",
+  "awayCode": "KOR",
+  "homeFlag": "it",
+  "awayFlag": "kr",
+  "group": "Davis Cup Final 8",
+  "matchday": 0,
+  "date": "2026-11-25",
+  "time": "16:00 CET",
+  "venue": "SuperTennis Arena, BolognaFiere",
+  "city": "Bologna",
+  "status": "LIVE",
+  "homeScore": "1",
+  "awayScore": "0",
+  "marquee": true,
+  "liveMinute": "Rubber 2",
+  "image": "https://images.pexels.com/photos/1618210/pexels-photo-1618210.jpeg",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "davis-cup-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "Davis Cup Final 8 · Quarterfinals",
+  "resultSummary": "LIVE: Italy 1-0 South Korea (Musetti d. Hong 6-0, 7-6(5); Cobolli vs Kwon next). Tue QF: Czechia 2-0 Canada.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Davis Cup Official: Italy vs South Korea Quarterfinal Tie",
+      "url": "https://www.daviscup.com/en/draws-results/tie.aspx"
+    },
+    {
+      "name": "ATP Tour / CNA: Musetti gives Italy 1-0 lead over South Korea in Bologna",
+      "url": "https://www.channelnewsasia.com/sport/tennis-musetti-italy-davis-cup-south-korea-2026"
+    },
+    {
+      "name": "GuelphToday / CP: Czechia sweep Canada 2-0 in Davis Cup quarterfinals",
+      "url": "https://www.guelphtoday.com/sports/czechia-canada-davis-cup-2026"
+    }
+  ]
+}

@@ -3,46 +3,46 @@
   "sport": "golf",
   "competition": "pga-tour-2026",
   "format": "leaderboard",
-  "home": "Michael Thorbjornsen",
-  "away": "Marco Penge",
-  "homeCode": "USA",
-  "awayCode": "GBR",
-  "date": "2026-11-21",
+  "home": "Marco Penge",
+  "away": "Haotong Li",
+  "homeCode": "ENG",
+  "awayCode": "CHN",
+  "date": "2026-11-23",
   "time": "08:30 EST",
-  "status": "LIVE",
-  "roundLabel": "Round 3 · Moving Day at Sea Island",
+  "status": "FINISHED",
+  "roundLabel": "Final · Monday Playoff Winner",
   "group": "PGA Tour FedExCup Fall",
   "venue": "Sea Island Golf Club (Seaside Course)",
   "city": "St. Simons Island, Georgia",
-  "homeScore": "-9",
-  "awayScore": "-9",
-  "whyCareScore": 9.4,
-  "headline": "The RSM Classic: Moving Day underway as Thorbjornsen, Penge, and Neergaard-Petersen share lead at -9",
-  "teaser": "Moving Day is live at Sea Island where a three-way tie atop the leaderboard at 9-under par sets the tone for weekend survival battles and 2027 Tour card drama.",
-  "story": "Round 3 of The RSM Classic got underway in crisp, breezy conditions on Saturday morning, 21 November, at Sea Island Golf Club on St. Simons Island, Georgia, with the field condensed onto the par-70 Seaside Course for the weekend.\n\nFollowing a dramatic 36-hole cut that fell at 2-under par, 65 players advanced to Moving Day. Young American talent Michael Thorbjornsen, England's Marco Penge, and Denmark's Rasmus Neergaard-Petersen share the 36-hole clubhouse lead at 9-under-par 131, setting up a high-stakes duel across the coastal marshlands.\n\nFor the players hovering near the top-125 cutoff in the FedExCup Fall standings, Saturday represents the pivotal round. Joel Dahmen safely survived the cut on the 2-under line to keep his 2027 PGA Tour playing privileges alive, while local favorite Davis Thompson enters Moving Day within striking distance at 5-under par.",
-  "whyCareReason": "Moving Day is underway at Sea Island with a three-way tie at 9-under par and life-altering 2027 PGA Tour cards hanging on every shot.",
-  "stakes": "The winner locks up a two-year PGA Tour exemption and Masters invite, while players on the bubble battle for top-125 and top-60 status.",
+  "homeScore": "-16",
+  "awayScore": "-16",
+  "whyCareScore": 9.3,
+  "headline": "The RSM Classic: Marco Penge wins four-man sudden-death playoff for maiden PGA Tour title",
+  "teaser": "Englishman Marco Penge claims his first PGA Tour crown on the first extra hole after a four-way tie at 16-under 266 in Monday finish at Sea Island.",
+  "story": "England Marco Penge delivered a career-defining breakthrough on Monday, 23 November, sinking a clutch putt on the first sudden-death playoff hole to win The RSM Classic at Sea Island Golf Club.\n\nSunday weather delays pushed the closing holes of the FedExCup Fall finale to Monday morning on the Seaside Course. Penge rallied with a final-round 65 to finish regulation locked at 16-under-par 266 alongside China Haotong Li, American Michael Thorbjornsen, and Max Greyserman.\n\nReturning to the 18th hole for the four-man playoff, Penge seized the moment to collect his first career PGA Tour victory and a $1,332,000 winner share. Next on the calendar is Tiger Woods Hero World Challenge at Albany, Bahamas from 3 to 6 December.",
+  "whyCareReason": "Penge captures a $1,332,000 winner check and locks in his PGA Tour exemption after weather pushed Sea Island final round into Monday.",
+  "stakes": "The FedExCup Fall finale concludes with Marco Penge securing full PGA Tour membership and top-125 cards settled for 2027.",
   "rivalryAngle": "Intense head-to-head leaderboard scrap between young PGA Tour University graduates and seasoned European tour qualifiers.",
   "funFacts": [
-    "The 36-hole cut of 2-under par sent 65 competitors into the weekend rounds on the Seaside Course.",
-    "Michael Thorbjornsen fired a second-round 64 on Friday to surge into a share of the lead.",
-    "Six different players entered Moving Day within three shots of the 9-under lead."
+    "Sunday weather forced a Monday tournament conclusion for the second straight week on the PGA Tour.",
+    "Four players deadlocked at 16-under 266: Marco Penge, Haotong Li, Michael Thorbjornsen, and Max Greyserman.",
+    "Penge took home $1,332,000 for his maiden PGA Tour victory on the first playoff hole."
   ],
   "keyPlayers": [
     {
-      "name": "Michael Thorbjornsen",
-      "team": "United States",
-      "hook": "Former top collegiate star who shares the 36-hole lead at 9-under par."
-    },
-    {
       "name": "Marco Penge",
       "team": "England",
-      "hook": "European tour qualifier matching the leaders with back-to-back sub-66 rounds."
+      "hook": "Closed with a final-round 65 and won on the first extra hole for his maiden PGA Tour trophy."
     },
     {
-      "name": "Joel Dahmen",
+      "name": "Haotong Li",
+      "team": "China",
+      "hook": "Shared 16-under 266 regulation lead to reach the four-way Sea Island playoff."
+    },
+    {
+      "name": "Michael Thorbjornsen",
       "team": "United States",
-      "hook": "Made the cut on the 2-under number to keep his 2027 PGA Tour card hopes alive."
+      "hook": "Held leads throughout the week and finished tied at -16 after regulation."
     }
   ],
   "tags": [
@@ -56,40 +56,28 @@
   ],
   "leaderboard": [
     {
-      "pos": "T1",
-      "name": "Michael Thorbjornsen",
-      "score": "-9",
-      "note": "36-hole co-leader"
-    },
-    {
-      "pos": "T1",
+      "pos": "1",
       "name": "Marco Penge",
-      "score": "-9",
-      "note": "36-hole co-leader"
+      "score": "-16 (266)",
+      "note": "Winner (1st playoff hole)"
     },
     {
-      "pos": "T1",
-      "name": "Rasmus Neergaard-Petersen",
-      "score": "-9",
-      "note": "36-hole co-leader"
+      "pos": "T2",
+      "name": "Haotong Li",
+      "score": "-16 (266)",
+      "note": "Playoff runner-up"
     },
     {
-      "pos": "T4",
-      "name": "Davis Thompson",
-      "score": "-5",
-      "note": "Local favorite"
+      "pos": "T2",
+      "name": "Michael Thorbjornsen",
+      "score": "-16 (266)",
+      "note": "Playoff runner-up"
     },
     {
-      "pos": "T4",
-      "name": "Austin Smotherman",
-      "score": "-4",
-      "note": "Bermuda champion"
-    },
-    {
-      "pos": "Cut",
-      "name": "Top-125 Cut Line",
-      "score": "-2",
-      "note": "65 players made cut"
+      "pos": "T2",
+      "name": "Max Greyserman",
+      "score": "-16 (266)",
+      "note": "Playoff runner-up"
     }
   ],
   "sources": [
@@ -105,5 +93,8 @@
       "name": "Associated Press: Thorbjornsen, Penge share RSM Classic lead entering weekend",
       "url": "https://apnews.com/article/rsm-classic-pga-tour-round2-leaders-20261120"
     }
-  ]
+  ],
+  "resultSummary": "FINAL: Marco Penge (-16, 266) wins 1st playoff hole over Haotong Li, Michael Thorbjornsen, and Max Greyserman.",
+  "tennisSets": [],
+  "image": "https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg"
 }

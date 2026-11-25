@@ -1,0 +1,82 @@
+{
+  "slug": "bears-at-lions-thanksgiving-week12-2026",
+  "headline": "Thanksgiving Day classic: Identical 8-2 Lions and Bears collide at Ford Field for NFC North summit",
+  "whyCareScore": 9.6,
+  "whyCareReason": "Both heated NFC North rivals enter Thanksgiving Day with matching 8-2 records, as Ben Johnson returns to Detroit leading Caleb Williams resurgent Bears.",
+  "teaser": "First place in the NFC North belongs to the winner as Dan Campbell 6-0 home Lions host Ben Johnson five-game-winning Bears on CBS (1:00 PM ET).",
+  "story": "For only the fourth time in 193 all-time meetings, the Detroit Lions and Chicago Bears meet on Thanksgiving Day with identical 8-2 records, putting sole possession of first place in the NFC North on the line at Ford Field.\n\nDetroit carries a six-game winning streak and a spotless 6-0 home mark into the 1:00 PM ET holiday kickoff. Coach Dan Campbell offense continues to surge behind efficient quarterback Jared Goff (leaning on Jameson Williams) and explosive running back Jahmyr Gibbs, who scored twice against Tampa Bay in Week 11.\n\nAcross the sideline stands Chicago head coach Ben Johnson returning to Ford Field after steering the Bears on a five-game winning streak. Quarterback Caleb Williams has guided Chicago through five straight games without trailing even once, matching the 1985 Bears franchise streak alongside receivers Rome Odunze and Luther Burden and pass rushers Jeffery Simmons and Montez Sweat.",
+  "stakes": "Winner takes sole possession of 1st place in the NFC North and keeps pace with 9-1 San Francisco for the NFC top seed.",
+  "rivalryAngle": "Former Lions coordinator Ben Johnson coaches Chicago against Dan Campbell Detroit in a historic 8-2 vs 8-2 holiday clash.",
+  "funFacts": [
+    "Chicago has gone five consecutive games without trailing at any point since Caleb Williams returned from injury.",
+    "Detroit enters Thanksgiving on a six-game win streak and undefeated (6-0) inside Ford Field in 2026.",
+    "This marks only the 4th time in 193 meetings that Bears vs Lions features matching 8-2 marks on Thanksgiving."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Caleb Williams",
+      "team": "Chicago Bears",
+      "hook": "Has steered Chicago through five consecutive games without trailing."
+    },
+    {
+      "name": "Jahmyr Gibbs",
+      "team": "Detroit Lions",
+      "hook": "Scored twice in Week 11 win over Tampa Bay to fuel Detroit six-game streak."
+    },
+    {
+      "name": "Jared Goff",
+      "team": "Detroit Lions",
+      "hook": "Facing a Chicago front anchored by Jeffery Simmons and Montez Sweat."
+    }
+  ],
+  "headToHead": "26 November 2026. 1:00 PM ET (CBS). Ford Field, Detroit. 194th all-time meeting (both 8-2).",
+  "tags": [
+    "football",
+    "nfl",
+    "thanksgiving",
+    "lions",
+    "bears",
+    "nfc-north",
+    "caleb-williams",
+    "jahmyr-gibbs"
+  ],
+  "home": "Detroit Lions",
+  "away": "Chicago Bears",
+  "homeCode": "USA",
+  "awayCode": "USA",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NFL Week 12",
+  "matchday": 12,
+  "date": "2026-11-26",
+  "time": "1:00 PM ET",
+  "venue": "Ford Field",
+  "city": "Detroit",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209954/pexels-photo-209954.jpeg",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "football",
+  "competition": "nfl-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "NFL Week 12 · Thanksgiving Classic",
+  "resultSummary": "UPCOMING (Thu 1:00 PM ET CBS): Chicago Bears (8-2) at Detroit Lions (8-2). First place in NFC North.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NFL / DAZN: Bears at Lions Week 12 Thanksgiving Broadcast & Matchup",
+      "url": "https://www.nfl.com/news/nfl-thanksgiving-2026"
+    },
+    {
+      "name": "ChicagoBears.com / DetroitLions.com: Both 8-2 squads clash in historic holiday game",
+      "url": "https://www.chicagobears.com/news/"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "qatar-gp-lusail-preview-2026",
+  "headline": "Qatar Grand Prix preview: Three points split Hamilton, Russell, and Norris as grid arrives in Lusail",
+  "whyCareScore": 8.8,
+  "whyCareReason": "Fresh off 35 lead changes in Las Vegas, Formula 1 returns to standard weekend format in Lusail with P3 in both championships on a knife-edge.",
+  "teaser": "Round 22 heads to Lusail International Circuit (27-29 Nov) with Hamilton on 267 points just ahead of Russell and Norris (264 each) behind Verstappen.",
+  "story": "Formula 1 trades Las Vegas neon for the floodlights of Lusail International Circuit as Round 22 of the 2026 World Championship unfolds in Qatar from Friday, 27 November through Sunday, 29 November.\n\nUnlike previous seasons, the 2026 Qatar Grand Prix runs under the standard weekend format with three practice sessions, Saturday qualifying (21:00 AST), and a 57-lap Grand Prix on Sunday night (19:00 AST). Practice opens on Friday with FP1 at 16:30 local time and night practice FP2 at 20:00.\n\nAlthough Mercedes driver Kimi Antonelli has wrapped up the Drivers crown (402 pts) and Mercedes own the Constructors title (666 pts), intense scraps remain live. Max Verstappen sits comfortably second on 304 points following his Vegas triumph, while just three points divide Lewis Hamilton (267) from George Russell and Lando Norris (264 apiece). Meanwhile, McLaren (431) sit just nine points shy of Red Bull (440) for third in Constructors.",
+  "stakes": "Just two Grands Prix remain (Qatar and Abu Dhabi) to settle Drivers P3 through P5 and the $10M Constructors battle between Red Bull and McLaren.",
+  "rivalryAngle": "After Norris and Piastri stormed the Vegas podium, McLaren carry huge high-downforce momentum into Lusail fast sweepers.",
+  "funFacts": [
+    "Qatar 2026 follows the traditional three-practice format with no Formula 1 Sprint race.",
+    "Grand Prix lights out is Sunday, 29 November at 19:00 local AST (16:00 UTC) for 57 laps.",
+    "Ferrari (517) hold a 77-point advantage over Red Bull (440), who lead McLaren (431) by 9 points."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Max Verstappen",
+      "team": "Red Bull",
+      "hook": "Hunts consecutive victories after securing his 75th Grand Prix triumph in Las Vegas."
+    },
+    {
+      "name": "Lando Norris",
+      "team": "McLaren",
+      "hook": "Tied on 264 points with George Russell and only 3 behind Lewis Hamilton."
+    }
+  ],
+  "headToHead": "27-29 November 2026. Round 22. Lusail International Circuit, Qatar. Upcoming.",
+  "tags": [
+    "f1",
+    "formula-1",
+    "qatar-gp",
+    "lusail",
+    "verstappen",
+    "norris",
+    "hamilton"
+  ],
+  "home": "Max Verstappen",
+  "away": "Lando Norris",
+  "homeCode": "NED",
+  "awayCode": "ENG",
+  "homeFlag": "nl",
+  "awayFlag": "gb-eng",
+  "group": "Formula 1",
+  "matchday": 22,
+  "date": "2026-11-27",
+  "time": "16:30 AST",
+  "venue": "Lusail International Circuit",
+  "city": "Lusail",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/627678/pexels-photo-627678.jpeg",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "f1",
+  "competition": "f1-2026",
+  "format": "race",
+  "season": "2026",
+  "roundLabel": "Round 22 · Qatar GP Preview",
+  "resultSummary": "UPCOMING (27-29 Nov): Antonelli 402 (Champ), Verstappen 304, Hamilton 267, Russell 264, Norris 264.",
+  "leaderboard": [
+    {
+      "pos": "1",
+      "name": "Kimi Antonelli (Champion)",
+      "score": "402 pts",
+      "note": "Mercedes"
+    },
+    {
+      "pos": "2",
+      "name": "Max Verstappen",
+      "score": "304 pts",
+      "note": "Red Bull"
+    },
+    {
+      "pos": "3",
+      "name": "Lewis Hamilton",
+      "score": "267 pts",
+      "note": "Ferrari"
+    },
+    {
+      "pos": "4",
+      "name": "George Russell",
+      "score": "264 pts",
+      "note": "Mercedes"
+    },
+    {
+      "pos": "5",
+      "name": "Lando Norris",
+      "score": "264 pts",
+      "note": "McLaren"
+    }
+  ],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Formula 1 Official: 2026 Qatar Grand Prix Schedule & Timetable",
+      "url": "https://www.formula1.com/en/racing/2026/qatar"
+    },
+    {
+      "name": "GridGuy / OneRacing: 2026 Drivers Standings Post-Las Vegas GP",
+      "url": "https://www.formula1.com/en/results/2026/drivers"
+    }
+  ]
+}

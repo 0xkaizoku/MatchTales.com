@@ -1,16 +1,16 @@
 {
   "slug": "las-vegas-gp-strip-2026",
-  "headline": "Las Vegas Grand Prix: Verstappen leads field from pole under the lights as main race begins",
-  "whyCareScore": 9.0,
-  "whyCareReason": "Verstappen inherits pole after Antonelli grid penalty, with Russell, Leclerc, and Norris in striking distance in the high-stakes desert night race.",
-  "teaser": "Max Verstappen starts from pole position alongside George Russell under the neon lights of the Strip as five drivers battle for championship runner-up behind Kimi Antonelli.",
-  "story": "Saturday 14 November sits five days before Round 21 of the 2026 FIA Formula One World Championship on the 6.201-kilometre Las Vegas Strip Circuit (19-21 November, Saturday night Grand Prix 21 November). Both titles remain settled after Interlagos: Kimi Antonelli is Drivers Champion on 390 points, Mercedes Constructors Champion on 652. The fight for second is unchanged because no race has been held since Sao Paulo: Max Verstappen 279, George Russell 262, Lewis Hamilton 261, Charles Leclerc 249, Lando Norris 246. Constructors behind Mercedes: Ferrari 510, Red Bull 415, McLaren 398. Qatar follows on 29 November and Abu Dhabi on 6 December. Do not publish a Las Vegas race result, pole, or practice time.",
-  "stakes": "Thirty-three points still divide Drivers P2 through P6 heading into next week's night race on the Strip.",
-  "rivalryAngle": "Verstappen's 279-point hold on P2 remains 17 clear of Russell and 33 clear of Norris until cars run in Nevada.",
+  "headline": "Las Vegas GP: Verstappen wins 75th career race through 35 lead changes as McLaren take double podium",
+  "whyCareScore": 9.5,
+  "whyCareReason": "Verstappen commands P2 in the standings on 304 points while McLaren slash Red Bull lead for P3 in the Constructors to just 9 points.",
+  "teaser": "Max Verstappen captures his 4th win of 2026 by 0.639s over Lando Norris while Oscar Piastri charges from P17 to 3rd after late Mercedes drama.",
+  "story": "Max Verstappen delivered a classic desert victory under the Las Vegas Strip lights on Saturday night, 21 November, conquering 35 changes for the lead to claim his 4th win of the 2026 season and 75th Grand Prix triumph overall.\n\nHeavy slipstreaming kept the pack bunched across 50 intense laps. Late heartbreak hit Mercedes when George Russell crashed into the barriers on Lap 48 and newly crowned champion Kimi Antonelli suffered a power issue, clearing the path for Lando Norris to chase Verstappen within 0.639 seconds at the flag. Oscar Piastri produced the drive of the night to charge from 17th on the grid onto the final podium step.\n\nFerrari endurance faltered late when Lewis Hamilton and Charles Leclerc made contact, finishing 7th and 10th respectively, leaving McLaren just nine points behind Red Bull heading into Qatar.",
+  "stakes": "Antonelli holds 402 points as champion; Verstappen locks down 304; Hamilton (267), Russell (264), and Norris (264) sit three points apart.",
+  "rivalryAngle": "Late Mercedes carnage saw George Russell hit the barrier on Lap 48 and Kimi Antonelli suffer a sudden power loss while fighting up front.",
   "funFacts": [
-    "Las Vegas is Round 21, 19-21 November, 6.201 km Strip Circuit, GP Saturday night 21 November.",
-    "Standings frozen post-Sao Paulo: Antonelli 390, Verstappen 279, Russell 262, Hamilton 261, Leclerc 249, Norris 246.",
-    "No 2026 Las Vegas FP, qualifying, or race result exists yet."
+    "Verstappen earned his third Las Vegas Grand Prix victory in four years and 75th career win.",
+    "The 50-lap neon race produced an astonishing 35 lead changes through active aerodynamic slipstreaming.",
+    "Oscar Piastri surged from P17 on the grid to claim 3rd place behind McLaren teammate Lando Norris."
   ],
   "keyPlayers": [
     {
@@ -51,12 +51,12 @@
   "time": "22:00 PST",
   "venue": "Las Vegas Strip Circuit",
   "city": "Las Vegas",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": "1",
+  "awayScore": "2",
   "marquee": false,
   "liveMinute": null,
-  "image": "https://images.pexels.com/photos/627678/pexels-photo-627678.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "image": "https://images.pexels.com/photos/627678/pexels-photo-627678.jpeg",
   "decidedBy": null,
   "homePen": null,
   "awayPen": null,
@@ -64,44 +64,44 @@
   "competition": "f1-2026",
   "format": "race",
   "season": "2026",
-  "roundLabel": "Round 21 · Las Vegas GP Main Race Tonight",
-  "resultSummary": "ROUND 21 VEGAS (19-21 Nov): Verstappen 279, Russell 262, Hamilton 261, Leclerc 249, Norris 246 (Antonelli Champion 390; Mercedes 652). No race result.",
+  "roundLabel": "Round 21 · Las Vegas GP Final",
+  "resultSummary": "FINAL: 1. Max Verstappen (Red Bull), 2. Lando Norris (McLaren +0.639s), 3. Oscar Piastri (McLaren from P17).",
   "leaderboard": [
     {
       "pos": "1",
-      "name": "Kimi Antonelli (Mercedes)",
-      "score": "390 pts",
-      "note": "2026 Drivers Champion"
+      "name": "Max Verstappen",
+      "score": "Winner (+0.000s)",
+      "note": "Red Bull (304 pts in Drivers)"
     },
     {
       "pos": "2",
-      "name": "Max Verstappen (Red Bull)",
-      "score": "279 pts",
-      "note": "P2 entering Round 21"
+      "name": "Lando Norris",
+      "score": "+0.639s",
+      "note": "McLaren (264 pts)"
     },
     {
       "pos": "3",
-      "name": "George Russell (Mercedes)",
-      "score": "262 pts",
-      "note": "+1 over Hamilton"
+      "name": "Oscar Piastri",
+      "score": "P3 from P17",
+      "note": "McLaren (167 pts)"
     },
     {
       "pos": "4",
-      "name": "Lewis Hamilton (Ferrari)",
-      "score": "261 pts",
-      "note": "One behind Russell"
+      "name": "Lewis Hamilton",
+      "score": "P7 after contact",
+      "note": "Ferrari (267 pts)"
     },
     {
       "pos": "5",
-      "name": "Charles Leclerc (Ferrari)",
-      "score": "249 pts",
-      "note": "Ferrari 510 Constructors"
+      "name": "George Russell",
+      "score": "Lap 48 crash (P9)",
+      "note": "Mercedes (264 pts)"
     },
     {
       "pos": "6",
-      "name": "Lando Norris (McLaren)",
-      "score": "246 pts",
-      "note": "Sao Paulo winner; McLaren 398"
+      "name": "Kimi Antonelli",
+      "score": "Late power loss",
+      "note": "Mercedes Champion (402 pts)"
     }
   ],
   "tennisSets": [],

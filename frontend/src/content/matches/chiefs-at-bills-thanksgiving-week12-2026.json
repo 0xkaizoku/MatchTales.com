@@ -1,0 +1,72 @@
+{
+  "slug": "chiefs-at-bills-thanksgiving-week12-2026",
+  "headline": "Thanksgiving Nightcap: Kansas City Chiefs (8-2) visit AFC top-seed Buffalo Bills (9-1) in Orchard Park",
+  "whyCareScore": 9.5,
+  "whyCareReason": "The AFC top two heavyweights square off in Thanksgiving primetime as Patrick Mahomes 8-2 Chiefs challenge Josh Allen 9-1 Bills.",
+  "teaser": "Buffalo (9-1) defend the AFC No. 1 seed under the lights of Highmark Stadium against the 8-2 Chiefs at 8:20 PM ET on NBC.",
+  "story": "NFL Week 12 Thanksgiving tripleheader culminates in a heavyweight AFC showdown on Thursday night, 26 November, as the Kansas City Chiefs (8-2) travel to Highmark Stadium to face the conference-leading Buffalo Bills (9-1).\n\nBoth teams arrive fresh off emphatic Week 11 wins: Buffalo handled Miami 26-9 to improve to 9-1 atop the AFC East, while Kansas City crushed Arizona 34-7 to reach 8-2 in the AFC West alongside Denver (also 8-2).\n\nWith the No. 1 seed and only first-round bye in the AFC potentially riding on the head-to-head tiebreaker, Patrick Mahomes and Josh Allen renew one of the defining quarterback rivalries of this era.",
+  "stakes": "A Buffalo win pushes the Bills two full games clear of Kansas City with the head-to-head tiebreaker for the AFC No. 1 seed.",
+  "rivalryAngle": "Mahomes vs Allen under Thanksgiving primetime lights with the AFC top seed firmly in view.",
+  "funFacts": [
+    "Buffalo holds the AFC best record at 9-1 entering Thanksgiving night.",
+    "Kansas City enters 8-2 after routing the Arizona Cardinals 34-7 in Week 11.",
+    "Part of a rare five-day NFL Week 12 holiday stretch featuring Packers-Rams on Netflix (Wed) and Broncos-Steelers (Fri)."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Josh Allen",
+      "team": "Buffalo Bills",
+      "hook": "Guides 9-1 Buffalo offense in front of a raucous holiday crowd in Orchard Park."
+    },
+    {
+      "name": "Patrick Mahomes",
+      "team": "Kansas City Chiefs",
+      "hook": "Aims to steal a critical head-to-head road tiebreaker to pull 9-2 alongside Buffalo."
+    }
+  ],
+  "headToHead": "26 November 2026. 8:20 PM ET (NBC/Peacock). Highmark Stadium, Orchard Park, NY.",
+  "tags": [
+    "football",
+    "nfl",
+    "thanksgiving",
+    "chiefs",
+    "bills",
+    "mahomes",
+    "josh-allen"
+  ],
+  "home": "Buffalo Bills",
+  "away": "Kansas City Chiefs",
+  "homeCode": "USA",
+  "awayCode": "USA",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NFL Week 12",
+  "matchday": 12,
+  "date": "2026-11-26",
+  "time": "8:20 PM ET",
+  "venue": "Highmark Stadium",
+  "city": "Orchard Park",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/209954/pexels-photo-209954.jpeg",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "football",
+  "competition": "nfl-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "NFL Week 12 · Thanksgiving Night",
+  "resultSummary": "UPCOMING (Thu 8:20 PM ET NBC): Kansas City Chiefs (8-2) at Buffalo Bills (9-1).",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NFL / NBC Sports: Chiefs at Bills Week 12 Thanksgiving Night Preview",
+      "url": "https://www.nfl.com/schedules/2026/reg12/"
+    }
+  ]
+}

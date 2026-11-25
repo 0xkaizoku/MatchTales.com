@@ -1,0 +1,72 @@
+{
+  "slug": "davis-cup-britain-vs-germany-nov26-2026",
+  "headline": "Davis Cup Quarterfinal: Great Britain clash with Germany to launch Thursday Final 8 doubleheader in Bologna",
+  "whyCareScore": 8.6,
+  "whyCareReason": "Thursday knockout tennis opens early in Bologna with Great Britain facing Germany before Austria collide with Spain in the evening tie.",
+  "teaser": "Great Britain meet Germany at 10:00 CET at SuperTennis Arena on Thursday, launching day three of the 2026 Davis Cup Final 8.",
+  "story": "Quarterfinal action continues in Bologna on Thursday, 26 November, as Great Britain take on Germany in the opening 10:00 CET session at SuperTennis Arena before Austria face Spain in the evening session (not before 17:00 CET).\n\nWith Czechia already booked into the semifinals following Tuesday 2-0 sweep of Canada and Italy competing against South Korea on Wednesday, the lower half of the knockout bracket takes center stage. Short best-of-three ties leave zero margin for slow starts across two singles matches and a potential decisive doubles showdown.",
+  "stakes": "Two semifinal tickets are up for grabs on Thursday as Bologna determines the full Davis Cup Final 4 lineup.",
+  "rivalryAngle": "European knockout tension in Bologna where every serve, break, and doubles pairing can tilt the nation tie.",
+  "funFacts": [
+    "Great Britain vs Germany starts Thursday day session at 10:00 CET (9:00 AM GMT / 4:00 AM EST).",
+    "Austria vs Spain follows in the evening session not before 17:00 CET on the same Bologna court.",
+    "All Final 8 ties consist of two singles rubbers and one decisive doubles match if tied 1-1."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Alexander Zverev",
+      "team": "Germany",
+      "hook": "Germany anchor following his runner-up finish at the Nitto ATP Finals in Turin."
+    },
+    {
+      "name": "Jack Draper",
+      "team": "Great Britain",
+      "hook": "Key British left-hander spearheading singles competition in Bologna."
+    }
+  ],
+  "headToHead": "26 November 2026. 10:00 CET. SuperTennis Arena, Bologna. Quarterfinal.",
+  "tags": [
+    "tennis",
+    "davis-cup",
+    "great-britain",
+    "germany",
+    "spain",
+    "austria",
+    "bologna"
+  ],
+  "home": "Great Britain",
+  "away": "Germany",
+  "homeCode": "ENG",
+  "awayCode": "GER",
+  "homeFlag": "gb-eng",
+  "awayFlag": "de",
+  "group": "Davis Cup Final 8",
+  "matchday": 0,
+  "date": "2026-11-26",
+  "time": "10:00 CET",
+  "venue": "SuperTennis Arena, BolognaFiere",
+  "city": "Bologna",
+  "status": "UPCOMING",
+  "homeScore": null,
+  "awayScore": null,
+  "marquee": false,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618210/pexels-photo-1618210.jpeg",
+  "decidedBy": null,
+  "homePen": null,
+  "awayPen": null,
+  "sport": "tennis",
+  "competition": "davis-cup-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "Davis Cup Final 8 · Thursday Quarterfinal",
+  "resultSummary": "UPCOMING Thu 26 Nov: Great Britain vs Germany (10:00 CET), Austria vs Spain (17:00 CET).",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Davis Cup Official: Thursday Bologna Schedule and Final 8 Ties",
+      "url": "https://www.daviscup.com/en/news/bologna-finals-2026-thursday-schedule"
+    }
+  ]
+}

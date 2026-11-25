@@ -17,32 +17,32 @@
   "homeScore": "26",
   "awayScore": "3",
   "whyCareScore": 9.2,
-  "headline": "Thursday Night Football: Texans stifle Colts 26-3 to seize command of AFC South",
-  "teaser": "C.J. Stroud throws two touchdown passes and Houston's relentless pass rush forces three turnovers, limiting Anthony Richardson to 112 passing yards in a 26-3 blowout.",
-  "story": "The Houston Texans delivered a resounding defensive masterclass on Thursday night, 19 November, smothering the Indianapolis Colts 26-3 at NRG Stadium to solidify their position atop the AFC South.\n\nQuarterback C.J. Stroud was clinical under the prime-time lights, completing 22 of 29 passes for 248 yards and two touchdowns without a turnover. Meanwhile, Houston's defense suffocated the Colts, holding Anthony Richardson to just 112 yards through the air and intercepting him twice. Running back Jonathan Taylor was held to 48 yards on 14 carries as Indianapolis failed to reach the end zone all night.\n\nWith the 26-3 rout, Houston improves to 7-4 and sweeps the season tiebreaker against Indianapolis (6-5), giving the Texans a commanding edge in the divisional championship race as Week 11 action heads toward Sunday.",
-  "whyCareReason": "Houston dominates their fiercest division rival 26-3 to seize total control of the AFC South tiebreaker.",
-  "stakes": "The Texans (7-4) take a full game lead in the AFC South, while the Colts (6-5) slide into the wild card bubble.",
-  "rivalryAngle": "Houston held Indianapolis without a touchdown for the first time in their last nine head-to-head meetings.",
+  "headline": "Thursday Night Football: C.J. Stroud tosses 3 TDs as Texans overwhelm Colts 26-3",
+  "teaser": "Stroud goes 21/27 for 194 yards and 3 touchdowns while David Montgomery runs for 107 yards and Will Anderson Jr. records a safety in a 26-3 rout.",
+  "story": "The Houston Texans snapped their early-season slide on Thursday night, 19 November, rolling past the Indianapolis Colts 26-3 at NRG Stadium to improve to 4-7.\n\nC.J. Stroud was sharp from start to finish, completing 21 of 27 passes for 194 yards and three touchdowns to Nico Collins (42 yards), Kayshon Boutte (24 yards), and Marlin Klein (13 yards). Running back David Montgomery pounded Indianapolis on the ground with 26 carries for 107 rushing yards.\n\nOn defense, Will Anderson Jr. sacked Colts quarterback Daniel Jones in the end zone for a safety, while Houston limited Indianapolis (3-8) to 182 total yards and 1-of-11 on third down.",
+  "whyCareReason": "Houston notches a statement 26-3 divisional victory on Thursday Night Football behind three Stroud touchdowns and a safety.",
+  "stakes": "Houston improves to 4-7 to stay alive in the AFC chase while dropping Indianapolis to 3-8; Jacksonville leads the AFC South at 7-3.",
+  "rivalryAngle": "Houston limited Daniel Jones to 12-of-27 passing for 144 yards and zero touchdowns.",
   "funFacts": [
-    "Houston's defense recorded four sacks and three total turnovers on Thursday night.",
-    "C.J. Stroud has now thrown multiple touchdown passes in five consecutive games against AFC South opponents.",
-    "The 23-point margin of victory is Houston's largest over Indianapolis since 2012."
+    "Houston held the ball for 37:46 and outgained Indianapolis 361 to 182 in total yards.",
+    "C.J. Stroud completed 77.8 percent of his throws (21/27, 118.2 rating) with 3 TD passes.",
+    "Will Anderson Jr. registered a defensive safety by bringing down Daniel Jones in the end zone."
   ],
   "keyPlayers": [
     {
       "name": "C.J. Stroud",
       "team": "Houston Texans",
-      "hook": "Threw two touchdown passes with zero turnovers in a commanding prime-time showing."
+      "hook": "Completed 21 of 27 for 194 yards and three TDs (Collins, Boutte, Klein)."
+    },
+    {
+      "name": "David Montgomery",
+      "team": "Houston Texans",
+      "hook": "Workhorse 26-carry, 107-yard rushing performance controlled time of possession."
     },
     {
       "name": "Will Anderson Jr.",
       "team": "Houston Texans",
-      "hook": "Recorded two sacks and three tackles for loss to pace Houston's dominant defensive front."
-    },
-    {
-      "name": "Anthony Richardson",
-      "team": "Indianapolis Colts",
-      "hook": "Struggled under relentless pressure, throwing two interceptions and completing just 12 passes."
+      "hook": "Delivered a crucial end-zone sack for a defensive safety against Daniel Jones."
     }
   ],
   "tags": [
@@ -67,5 +67,7 @@
       "name": "Associated Press: Stroud, defense lead Texans to 26-3 blowout of Colts on TNF",
       "url": "https://apnews.com/article/colts-texans-nfl-thursday-recap-20261119"
     }
-  ]
+  ],
+  "image": "https://images.pexels.com/photos/209954/pexels-photo-209954.jpeg",
+  "resultSummary": "FINAL: Texans 26, Colts 3 (Stroud 3 TDs, Montgomery 107 rush yds, Anderson safety). TEX 4-7, IND 3-8."
 }

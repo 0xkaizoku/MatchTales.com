@@ -1,125 +1,125 @@
 {
-  "asOf": "2026-11-21",
+  "asOf": "2026-11-26",
   "premierLeagueTable": [
     {
       "pos": 1,
       "team": "Arsenal",
-      "p": 10,
+      "p": 11,
       "w": 9,
-      "d": 0,
+      "d": 1,
       "l": 1,
-      "gf": 15,
-      "ga": 5,
+      "gf": 17,
+      "ga": 7,
       "gd": 10,
-      "pts": 27
+      "pts": 28
     },
     {
       "pos": 2,
       "team": "Brighton",
-      "p": 10,
+      "p": 11,
       "w": 7,
       "d": 1,
-      "l": 2,
+      "l": 3,
       "gf": 26,
-      "ga": 7,
-      "gd": 19,
+      "ga": 9,
+      "gd": 17,
       "pts": 22
     },
     {
       "pos": 3,
       "team": "Manchester City",
-      "p": 10,
+      "p": 11,
       "w": 7,
-      "d": 0,
+      "d": 1,
       "l": 3,
-      "gf": 21,
-      "ga": 13,
+      "gf": 22,
+      "ga": 14,
       "gd": 8,
-      "pts": 21
+      "pts": 22
     },
     {
       "pos": 4,
       "team": "Liverpool",
-      "p": 10,
-      "w": 5,
+      "p": 11,
+      "w": 6,
       "d": 3,
       "l": 2,
-      "gf": 14,
+      "gf": 18,
       "ga": 10,
+      "gd": 8,
+      "pts": 21
+    },
+    {
+      "pos": 5,
+      "team": "Bournemouth",
+      "p": 11,
+      "w": 5,
+      "d": 3,
+      "l": 3,
+      "gf": 18,
+      "ga": 14,
       "gd": 4,
       "pts": 18
     },
     {
-      "pos": 5,
-      "team": "Chelsea",
-      "p": 10,
-      "w": 5,
-      "d": 1,
-      "l": 4,
-      "gf": 19,
-      "ga": 16,
-      "gd": 3,
-      "pts": 16
-    },
-    {
       "pos": 6,
-      "team": "Everton",
-      "p": 10,
+      "team": "Brentford",
+      "p": 11,
       "w": 4,
-      "d": 4,
+      "d": 5,
       "l": 2,
-      "gf": 12,
-      "ga": 10,
-      "gd": 2,
-      "pts": 16
+      "gf": 20,
+      "ga": 11,
+      "gd": 9,
+      "pts": 17
     },
     {
       "pos": 7,
-      "team": "Bournemouth",
-      "p": 10,
+      "team": "Leeds",
+      "p": 11,
       "w": 4,
-      "d": 3,
-      "l": 3,
-      "gf": 16,
-      "ga": 14,
-      "gd": 2,
-      "pts": 15
+      "d": 5,
+      "l": 2,
+      "gf": 14,
+      "ga": 9,
+      "gd": 5,
+      "pts": 17
     },
     {
       "pos": 8,
-      "team": "Brentford",
-      "p": 10,
-      "w": 3,
-      "d": 5,
-      "l": 2,
-      "gf": 16,
-      "ga": 11,
-      "gd": 5,
-      "pts": 14
+      "team": "Chelsea",
+      "p": 11,
+      "w": 5,
+      "d": 1,
+      "l": 5,
+      "gf": 20,
+      "ga": 20,
+      "gd": 0,
+      "pts": 16
     },
     {
       "pos": 9,
-      "team": "Leeds",
-      "p": 10,
-      "w": 3,
-      "d": 5,
-      "l": 2,
-      "gf": 10,
-      "ga": 8,
-      "gd": 2,
-      "pts": 14
+      "team": "Everton",
+      "p": 11,
+      "w": 4,
+      "d": 4,
+      "l": 3,
+      "gf": 12,
+      "ga": 14,
+      "gd": -2,
+      "pts": 16
     },
     {
       "pos": 10,
-      "team": "Aston Villa",
-      "p": 10,
-      "w": 3,
-      "d": 4,
-      "l": 3,
-      "gf": 14,
-      "ga": 17,
-      "gd": -3,
-      "pts": 13
+      "team": "Tottenham",
+      "p": 11,
+      "w": 4,
+      "d": 3,
+      "l": 4,
+      "gf": 12,
+      "ga": 11,
+      "gd": 1,
+      "pts": 15
     }
   ],
   "f1Drivers": [
@@ -127,59 +127,59 @@
       "pos": 1,
       "name": "Kimi Antonelli (Champion)",
       "team": "Mercedes",
-      "pts": 390
+      "pts": 402
     },
     {
       "pos": 2,
       "name": "Max Verstappen",
       "team": "Red Bull",
-      "pts": 279
+      "pts": 304
     },
     {
       "pos": 3,
-      "name": "George Russell",
-      "team": "Mercedes",
-      "pts": 262
+      "name": "Lewis Hamilton",
+      "team": "Ferrari",
+      "pts": 267
     },
     {
       "pos": 4,
-      "name": "Lewis Hamilton",
-      "team": "Ferrari",
-      "pts": 261
+      "name": "George Russell",
+      "team": "Mercedes",
+      "pts": 264
     },
     {
       "pos": 5,
-      "name": "Charles Leclerc",
-      "team": "Ferrari",
-      "pts": 249
+      "name": "Lando Norris",
+      "team": "McLaren",
+      "pts": 264
     },
     {
       "pos": 6,
-      "name": "Lando Norris",
-      "team": "McLaren",
-      "pts": 246
+      "name": "Charles Leclerc",
+      "team": "Ferrari",
+      "pts": 250
     }
   ],
   "f1Constructors": [
     {
       "pos": 1,
       "name": "Mercedes (Champions)",
-      "pts": 652
+      "pts": 666
     },
     {
       "pos": 2,
       "name": "Ferrari",
-      "pts": 510
+      "pts": 517
     },
     {
       "pos": 3,
       "name": "Red Bull",
-      "pts": 415
+      "pts": 440
     },
     {
       "pos": 4,
       "name": "McLaren",
-      "pts": 398
+      "pts": 431
     }
   ],
   "wnbaSeeds": [
@@ -602,6 +602,62 @@
       "home": "Baltimore Ravens",
       "away": "Los Angeles Chargers",
       "note": "UPCOMING Monday Night Football (ESPN, M&T Bank Stadium): Chargers (6-3) at Ravens (7-2). Harbaugh Bowl."
+    },
+    {
+      "date": "2026-11-19",
+      "time": "8:15 p.m. ET",
+      "home": "Houston Texans",
+      "away": "Indianapolis Colts",
+      "note": "FINAL: Texans 26, Colts 3. Stroud 21/27, 194 yds, 3 TDs; Montgomery 107 rush yds; Anderson safety. Texans 4-7, Colts 3-8."
+    },
+    {
+      "date": "2026-11-22",
+      "time": "1:00 p.m. ET",
+      "home": "Buffalo Bills",
+      "away": "Miami Dolphins",
+      "note": "FINAL: Bills 26, Dolphins 9. Buffalo leads AFC East at 9-1."
+    },
+    {
+      "date": "2026-11-22",
+      "time": "4:25 p.m. ET",
+      "home": "San Francisco 49ers",
+      "away": "Minnesota Vikings",
+      "note": "FINAL: 49ers 35, Vikings 10 in Mexico City. 49ers sit atop NFC at 9-1."
+    },
+    {
+      "date": "2026-11-25",
+      "time": "8:15 p.m. ET",
+      "home": "Los Angeles Rams",
+      "away": "Green Bay Packers",
+      "note": "UPCOMING Thanksgiving Eve (Netflix): Both teams 6-4 at SoFi Stadium."
+    },
+    {
+      "date": "2026-11-26",
+      "time": "1:00 p.m. ET",
+      "home": "Detroit Lions",
+      "away": "Chicago Bears",
+      "note": "UPCOMING Thanksgiving Day (CBS): Both rivals 8-2 at Ford Field for NFC North lead."
+    },
+    {
+      "date": "2026-11-26",
+      "time": "4:30 p.m. ET",
+      "home": "Dallas Cowboys",
+      "away": "Philadelphia Eagles",
+      "note": "UPCOMING Thanksgiving Day (FOX): Cowboys (5-6) host Eagles (3-7) at AT&T Stadium."
+    },
+    {
+      "date": "2026-11-26",
+      "time": "8:20 p.m. ET",
+      "home": "Buffalo Bills",
+      "away": "Kansas City Chiefs",
+      "note": "UPCOMING Thanksgiving Night (NBC): Chiefs (8-2) at Bills (9-1) in AFC heavyweight clash."
+    },
+    {
+      "date": "2026-11-27",
+      "time": "3:00 p.m. ET",
+      "home": "Pittsburgh Steelers",
+      "away": "Denver Broncos",
+      "note": "UPCOMING Black Friday (Prime Video): Broncos (8-2) visit Steelers (6-4)."
     }
   ],
   "usOpenQF": [
@@ -760,6 +816,30 @@
       "p1": "Carlos Alcaraz (2)",
       "p2": "Daniil Medvedev (4)",
       "status": "Mon: Alcaraz vs Tiafoe (14:00 CET); Medvedev vs Cobolli (20:30 CET)"
+    },
+    {
+      "draw": "Turin Final",
+      "p1": "Carlos Alcaraz",
+      "p2": "Alexander Zverev",
+      "status": "Alcaraz 6-2, 7-6 (7) on 22 Nov; undefeated 5-0 maiden champion"
+    },
+    {
+      "draw": "Davis Cup QF",
+      "p1": "Czechia",
+      "p2": "Canada",
+      "status": "Czechia won 2-0 on 24 Nov (Machac d. Draxl 6-2, 3-6, 6-2)"
+    },
+    {
+      "draw": "Davis Cup QF",
+      "p1": "Italy",
+      "p2": "South Korea",
+      "status": "25 Nov: Italy lead 1-0 (Musetti d. Hong 6-0, 7-6 (5)); Cobolli vs Kwon underway"
+    },
+    {
+      "draw": "Davis Cup QF",
+      "p1": "Great Britain",
+      "p2": "Germany",
+      "status": "Thu 26 Nov (10:00 CET) in Bologna; Austria vs Spain (17:00 CET) follows"
     }
   ]
 }

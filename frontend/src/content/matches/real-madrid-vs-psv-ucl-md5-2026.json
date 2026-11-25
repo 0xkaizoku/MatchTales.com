@@ -1,0 +1,81 @@
+{
+  "slug": "real-madrid-vs-psv-ucl-md5-2026",
+  "headline": "Champions League: Real Madrid hit five after halftime shock to crush PSV 5-1 and stay top on 15 points",
+  "whyCareScore": 9.3,
+  "whyCareReason": "Five unanswered second-half goals from Valverde, Bellingham, Mbappe (twice), and Vinicius keep Real Madrid sole leaders with a 5-0-0 record.",
+  "teaser": "After Ivan Perisic penalty gave PSV a 32nd-minute lead, Real Madrid explode for five second-half goals to dominate 5-1 at the Bernabeu.",
+  "story": "Real Madrid turned a tense Champions League Matchday 5 test into a second-half exhibition on Tuesday night, 24 November, erasing a halftime deficit to dismantle PSV Eindhoven 5-1 at the Santiago Bernabeu.\n\nVeteran winger Ivan Perisic stunned the home crowd by converting a 32nd-minute penalty for PSV. Real Madrid emerged transformed after the break: Federico Valverde leveled in the 50th minute before Jude Bellingham bent home a sensational wonder-goal in the 60th to turn the tie.\n\nKylian Mbappe took over down the stretch with goals in the 64th and 84th minutes before Vinicius Junior completed the five-goal barrage in the 87th minute. The win makes Real Madrid the sole club on 15 points atop the 36-team Champions League table, ahead of Arsenal (11 pts after 1-1 vs Dortmund) and Man City (10 pts after 2-2 vs Napoli).",
+  "stakes": "Madrid take complete control of the automatic top-eight seeding race with a five-match winning run and +10 goal difference.",
+  "rivalryAngle": "Valverde, Bellingham, Mbappe, and Vinicius struck in a blistering 37-minute second-half blitz at the Bernabeu.",
+  "funFacts": [
+    "All five Real Madrid goals came in a 37-minute second-half explosion between minutes 50 and 87.",
+    "Real Madrid sit alone atop the 36-team table with 15 points from 5 matches (5W-0D-0L, +10 GD).",
+    "In Tuesday other marquee ties, Arsenal drew Dortmund 1-1 (Gyokeres 10; Beier 55) and Man City drew Napoli 2-2."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Kylian Mbappe",
+      "team": "Real Madrid",
+      "hook": "Struck twice in the 64th and 84th minutes to turn victory into a five-goal showcase."
+    },
+    {
+      "name": "Jude Bellingham",
+      "team": "Real Madrid",
+      "hook": "Produced a stunning 60th-minute strike that permanently swung momentum Madrid way."
+    },
+    {
+      "name": "Federico Valverde",
+      "team": "Real Madrid",
+      "hook": "Ignited the comeback with a 50th-minute equalizer right after the restart."
+    }
+  ],
+  "headToHead": "24 November 2026. UEFA Champions League Matchday 5. Santiago Bernabeu, Madrid. Final: 5-1.",
+  "tags": [
+    "soccer",
+    "champions-league",
+    "real-madrid",
+    "psv",
+    "mbappe",
+    "bellingham",
+    "valverde"
+  ],
+  "home": "Real Madrid",
+  "away": "PSV Eindhoven",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "UCL",
+  "matchday": 5,
+  "date": "2026-11-24",
+  "time": "21:00 CET",
+  "venue": "Santiago Bernabeu",
+  "city": "Madrid",
+  "status": "FINISHED",
+  "homeScore": 5,
+  "awayScore": 1,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1171084/pexels-photo-1171084.jpeg",
+  "decidedBy": "regular",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "soccer",
+  "competition": "champions-league-2026",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "Champions League · Matchday 5",
+  "resultSummary": "FINAL: Real Madrid 5-1 PSV (Valverde 50, Bellingham 60, Mbappe 64, 84, Vinicius Jr 87; Perisic 32 pen).",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "UEFA.com / beIN SPORTS: Real Madrid 5-1 PSV Matchday 5 Report",
+      "url": "https://www.uefa.com/uefachampionsleague/"
+    },
+    {
+      "name": "AS / FootGoal: 2026-27 Champions League Standings After Tuesday MD5",
+      "url": "https://en.as.com/soccer/"
+    }
+  ]
+}

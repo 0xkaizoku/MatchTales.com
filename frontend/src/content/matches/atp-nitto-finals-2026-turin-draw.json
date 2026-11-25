@@ -1,35 +1,30 @@
 {
   "slug": "atp-nitto-finals-2026-turin-draw",
-  "headline": "Nitto ATP Finals Semifinals: Alcaraz meets Shelton before Zverev takes on Medvedev in Turin",
-  "whyCareScore": 9.7,
-  "whyCareReason": "Carlos Alcaraz battles Ben Shelton in the afternoon semifinal before World No. 1 Alexander Zverev faces Daniil Medvedev tonight for a place in Sunday's championship match.",
-  "teaser": "The final four at the 2026 Nitto ATP Finals is set: Carlos Alcaraz takes on American powerhouse Ben Shelton at 14:00 CET, followed by Alexander Zverev facing familiar rival Daniil Medvedev at 20:30 CET at Inalpi Arena.",
-  "story": "The 2026 Nitto ATP Finals in Turin reached the semifinal stage on Saturday, 21 November, setting up two blockbuster clashes between the tournament's top-performing stars at Inalpi Arena.\n\nIn the afternoon semifinal at 2:00 p.m. CET, World No. 2 Carlos Alcaraz faces explosive third seed Ben Shelton. Alcaraz arrives with supreme confidence after sweeping the Ivan Lendl Group with an unblemished 3-0 record, having dropped only 16 total games across six sets. Shelton secured the runner-up spot in the John McEnroe Group with a clinical 6-3, 6-4 victory over Rafael Jodar on Thursday, relying on his booming left-handed serve to reach his maiden ATP Finals semifinal.\n\nThe evening semifinal at 8:30 p.m. CET features a heavyweight rivalry between World No. 1 Alexander Zverev and 2020 champion Daniil Medvedev. Zverev marched through the McEnroe Group with a flawless 3-0 record, culminating in a 6-4, 7-6 (5) victory over Arthur Fils. Medvedev earned his final four berth by defeating Frances Tiafoe 6-4, 6-4 on Friday. With a spot in Sunday's final on the line, both showdowns promise world-class indoor hard-court tennis.",
-  "stakes": "The winners advance to Sunday's Nitto ATP Finals championship match, competing for 1,500 ranking points and the prestigious season-ending trophy.",
-  "rivalryAngle": "Zverev and Medvedev contest their 21st career meeting at tour level, while Alcaraz and Shelton renew their rivalry following their thrilling US Open quarterfinal clash.",
+  "headline": "Turin ATP Finals: Carlos Alcaraz sweeps Alexander Zverev 6-2, 7-6 to lift maiden crown",
+  "whyCareScore": 9.8,
+  "whyCareReason": "Alcaraz captures his maiden Nitto ATP Finals trophy with a 14-match winning streak, joining Agassi, Federer, and Djokovic as Career Super Slam winners.",
+  "teaser": "Carlos Alcaraz completes a flawless 5-0 week in Turin, saving three set points in the second-set tiebreak to defeat World No. 1 Alexander Zverev 6-2, 7-6(7).",
+  "story": "Carlos Alcaraz etched his name into tennis history on Sunday, 22 November, producing an indoor hard-court masterclass to defeat World No. 1 Alexander Zverev 6-2, 7-6(7) at Inalpi Arena in Turin.\n\nHaving rallied past Ben Shelton 3-6, 6-3, 7-6(1) in Saturday semifinals while Zverev eliminated Daniil Medvedev 7-6(0), 6-4, the championship clash pitted the two sharpest servers in the draw. Alcaraz struck twice to breeze through the opening set before saving three set points in a breathtaking second-set tiebreak (9-7).\n\nThe triumph capped an undefeated 5-0 campaign worth $5,171,000 and marked the 23-year-old Spaniard 14th consecutive match win. Joining Andre Agassi, Roger Federer, and Novak Djokovic, Alcaraz became only the fourth man ever to win all four Grand Slam titles plus the year-end championship.",
+  "stakes": "Undefeated champion Alcaraz pockets the maximum $5,171,000 payout from the $15,750,000 prize pool and secures 1,500 ranking points.",
+  "rivalryAngle": "World No. 2 Alcaraz outlasted World No. 1 Zverev after surviving Ben Shelton in a three-set semifinal.",
   "funFacts": [
-    "Alexander Zverev has won 22 of his last 24 sets played indoors at the Inalpi Arena.",
-    "Carlos Alcaraz did not face a single break point across his last two group-stage victories in Turin.",
-    "Ben Shelton has fired 43 aces across his three group-stage matches, the most of any player in the tournament."
+    "Alcaraz completed a perfect 5-0 undefeated week to claim the maximum $5,171,000 champion payout.",
+    "At age 23, he became the fourth man in history to own all four Grand Slams and the ATP Finals crown.",
+    "French debutants Theo Arribage and Albano Olivetti lifted the doubles trophy 3-6, 7-6(2), [10-6] over Arevalo and Pavic."
   ],
   "keyPlayers": [
     {
       "name": "Carlos Alcaraz",
       "team": "Spain",
-      "hook": "Undefeated 3-0 group winner seeking his first career Nitto ATP Finals championship match."
+      "hook": "Saved three set points in the second-set tiebreak (9-7) to complete an undefeated 5-0 week."
     },
     {
       "name": "Alexander Zverev",
       "team": "Germany",
-      "hook": "Two-time ATP Finals champion who has not dropped a set all week in Turin."
-    },
-    {
-      "name": "Ben Shelton",
-      "team": "United States",
-      "hook": "First-time semifinalist looking to overpower Alcaraz with his devastating serve and forehand."
+      "hook": "Reached the Turin final without dropping a set until Sunday clash against Alcaraz."
     }
   ],
-  "headToHead": "Tournament dates 15-22 November 2026, Inalpi Arena, Turin. Semifinals Saturday: Alcaraz vs Shelton (14:00 CET), Zverev vs Medvedev (20:30 CET).",
+  "headToHead": "22 November 2026. Final: Carlos Alcaraz def. Alexander Zverev 6-2, 7-6(7).",
   "tags": [
     "tennis",
     "atp",
@@ -41,66 +36,41 @@
     "medvedev"
   ],
   "home": "Carlos Alcaraz",
-  "away": "Ben Shelton",
+  "away": "Alexander Zverev",
   "homeCode": "ESP",
-  "awayCode": "USA",
+  "awayCode": "GER",
   "homeFlag": "es",
-  "awayFlag": "us",
+  "awayFlag": "de",
   "group": "Nitto ATP Finals Semifinals",
   "matchday": 6,
-  "date": "2026-11-21",
-  "time": "14:00 CET",
+  "date": "2026-11-22",
+  "time": "18:00 CET",
   "venue": "Inalpi Arena",
   "city": "Turin",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
+  "status": "FINISHED",
+  "homeScore": "2",
+  "awayScore": "0",
   "marquee": true,
   "liveMinute": null,
-  "image": "https://images.pexels.com/photos/1618210/pexels-photo-1618210.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop",
+  "image": "https://images.pexels.com/photos/1618210/pexels-photo-1618210.jpeg",
   "decidedBy": null,
   "homePen": null,
   "awayPen": null,
   "sport": "tennis",
   "competition": "atp-finals-2026",
-  "format": "leaderboard",
+  "format": "singles",
   "season": "2026",
-  "roundLabel": "Turin Semifinals Saturday",
-  "resultSummary": "SEMIFINALS SATURDAY: Alcaraz (3-0) vs Shelton (2-1) at 14:00 CET; Zverev (3-0) vs Medvedev (2-1) at 20:30 CET. Winners advance to Sunday final.",
-  "leaderboard": [
-    {
-      "pos": "SF 1",
-      "name": "Carlos Alcaraz (2)",
-      "score": "3-0 (6-0 sets)",
-      "note": "vs Ben Shelton 14:00"
-    },
-    {
-      "pos": "SF 1",
-      "name": "Ben Shelton (3)",
-      "score": "2-1 (4-3 sets)",
-      "note": "vs Carlos Alcaraz 14:00"
-    },
-    {
-      "pos": "SF 2",
-      "name": "Alexander Zverev (1)",
-      "score": "3-0 (6-0 sets)",
-      "note": "vs Daniil Medvedev 20:30"
-    },
-    {
-      "pos": "SF 2",
-      "name": "Daniil Medvedev (4)",
-      "score": "2-1 (4-2 sets)",
-      "note": "vs Alexander Zverev 20:30"
-    }
-  ],
+  "roundLabel": "Nitto ATP Finals · Championship Final",
+  "resultSummary": "FINAL: Carlos Alcaraz def. Alexander Zverev 6-2, 7-6(7). Alcaraz finishes 5-0 ($5,171,000 payout).",
+  "leaderboard": [],
   "tennisSets": [
     {
       "p1": "6",
-      "p2": "4"
+      "p2": "2"
     },
     {
       "p1": "7",
-      "p2": "6"
+      "p2": "6(7)"
     }
   ],
   "sources": [
