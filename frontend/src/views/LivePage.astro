@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { SITE, sportOf, fmtDate } from '../lib/site';
+import { SITE_TODAY } from '../data/sports';
 import CompetitorMark from '../components/CompetitorMark.astro';
 import { dict, localeFromPath, localePath, sportCopy } from '../i18n';
 import { scoreDisplayI18n, statusLabelI18n } from '../i18n/content';
@@ -13,7 +14,7 @@ const lp = (p: string) => localePath(locale, p);
 const entries = await getCollection('matches');
 const matches = entries.map((e) => e.data);
 const upcomingAll = matches
-  .filter((m) => m.status === 'UPCOMING')
+  .filter((m) => m.status === 'UPCOMING' && m.date >= SITE_TODAY)
   .sort((a, b) => a.date.localeCompare(b.date) || b.whyCareScore - a.whyCareScore);
 const liveMatch =
   matches.find((m) => m.status === 'LIVE') ||

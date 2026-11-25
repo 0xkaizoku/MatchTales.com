@@ -1,8 +1,8 @@
 ---
-title: "Davis Cup Final 8 in Bologna: Defending champions Italy lead South Korea after Alcaraz sweeps Turin"
-subtitle: "Lorenzo Musetti routs Seongchan Hong as Bologna hosts the knockout team climax on the heels of Carlos Alcaraz undefeated Nitto ATP Finals crown."
+title: "Davis Cup Final 8 in Bologna: Czechia through, Italy vs Korea still open after Alcaraz sweeps Turin"
+subtitle: "Lorenzo Musetti beats Seongchan Hong as Bologna hosts the knockout climax on the heels of Carlos Alcaraz undefeated Nitto ATP Finals crown."
 category: "tennis"
-excerpt: "Three-time defending champions Italy open 1-0 over South Korea in Bologna after Czechia beat Canada 2-0, days after Carlos Alcaraz lifted his maiden Turin title."
+excerpt: "Czechia beat Canada 2-0 and Lorenzo Musetti wins the opening rubber for Italy. Official Davis Cup still lists Italy vs Korea in progress. Thursday: Great Britain vs Germany."
 image: "https://images.pexels.com/photos/1618210/pexels-photo-1618210.jpeg"
 readingTime: 5
 pubDate: 2026-11-26
@@ -22,4 +22,4 @@ World tennis remains anchored in northern Italy this week as the 2026 Davis Cup 
 
 In Sunday Turin final (22 November), 23-year-old Alcaraz conquered World No. 1 Alexander Zverev 6-2, 7-6(7), saving three set points in a nerve-shredding second-set tiebreak (9-7) to cap an undefeated 5-0 week and extend his winning streak to 14 matches. Taking home the maximum $5,171,000 undefeated payout out of the $15,750,000 purse, Alcaraz joined Andre Agassi, Roger Federer, and Novak Djokovic as only the fourth man in tennis history to capture all four career Grand Slams alongside the year-end trophy.
 
-Now attention shifts to national pride in Bologna (24-29 November). On Tuesday, Czechia swept Canada 2-0 to claim the first semifinal spot as Tomas Machac outlasted Liam Draxl 6-2, 3-6, 6-2. On Wednesday, three-time defending champions Italy seized a 1-0 advantage over South Korea when Lorenzo Musetti swept Seongchan Hong 6-0, 7-6(5) in 92 minutes ahead of Flavio Cobolli against Soonwoo Kwon. Thursday quarterfinal doubleheader sees Great Britain face Germany at 10:00 CET before Austria meet Spain at 17:00 CET.
+Now attention shifts to national pride in Bologna (24-29 November). On Tuesday, Czechia swept Canada 2-0 to claim the first semifinal spot as Tomas Machac outlasted Liam Draxl 6-2, 3-6, 6-2 and Jiri Lehecka beat Felix Auger-Aliassime 7-6(4), 6-2. On Wednesday, Lorenzo Musetti beat Seongchan Hong 6-0, 7-6(5) in Italy's opening rubber against South Korea. Official Davis Cup still lists that tie in progress, so Flavio Cobolli vs Soonwoo Kwon is unpublished as a final. Thursday quarterfinals: Great Britain vs Germany at 10:00 CET, then Austria vs Spain at 17:00 CET.

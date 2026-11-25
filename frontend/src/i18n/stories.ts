@@ -17,7 +17,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "Pour la quatrieme fois seulement en 193 duels, Chicago et Detroit se retrouvent a Thanksgiving avec un bilan identique de 8-2 et la premiere place en jeu.",
       "body": [
         "La grande fete americaine du football debute jeudi 26 novembre par un choc monumental au Ford Field entre les Detroit Lions et les Chicago Bears (13h00 ET, CBS), avec deux rivaux historiques presents a egalite parfaite de 8 victoires pour 2 defaites.",
-        "Les Lions de Dan Campbell arrivent sur six succes consecutifs et un bilan parfait de 6-0 a domicile apres leur victoire 31-21 contre Tampa Bay, portes par Jared Goff, Jameson Williams et Jahmyr Gibbs.",
+        "Les Lions de Dan Campbell arrivent sur six succes consecutifs et toujours invaincus a Ford Field apres leur victoire 31-21 contre Tampa Bay, portes par Jared Goff, Jameson Williams et Jahmyr Gibbs.",
         "Sur la ligne de touche opposee, l'ancien coordinateur Ben Johnson retrouve Detroit avec des Bears invaincus depuis cinq matchs. Depuis son retour de blessure, Caleb Williams n'a jamais concede l'avantage au score lors des cinq dernieres rencontres, avant le grand choc nocturne entre Chiefs (8-2) et Bills (9-1)."
       ]
     },
@@ -27,7 +27,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "Por cuarta vez en 193 duelos historicos, Chicago y Detroit se miden en Thanksgiving con identico registro de 8-2 y el liderato de la NFC Norte en juego.",
       "body": [
         "La tradicional jornada de Accion de Gracias abre el jueves 26 de noviembre con un duelo enorme en Ford Field (13:00 ET, CBS), donde los Detroit Lions y los Chicago Bears llegan igualados a 8-2.",
-        "Detroit defiende un invicto de 6-0 en casa y seis victorias consecutivas tras superar 31-21 a Tampa Bay, guiado por Jared Goff, Jameson Williams y dos touchdowns de Jahmyr Gibbs.",
+        "Detroit defiende su invicto en Ford Field y seis victorias consecutivas tras superar 31-21 a Tampa Bay, guiado por Jared Goff, Jameson Williams y dos touchdowns de Jahmyr Gibbs.",
         "En la banda visitante, el excoordinador Ben Johnson lidera unos Bears con cinco triunfos al hilo sin haber ido por detras en el marcador en ninguno de ellos desde el regreso de Caleb Williams, antes del estelar Chiefs (8-2) ante Bills (9-1)."
       ]
     },
@@ -37,7 +37,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "Zum vierten Mal in 193 Duellen treffen Chicago und Detroit am Thanksgiving Day mit identischer 8-2-Bilanz um die Fuehrung in der NFC North aufeinander.",
       "body": [
         "Der amerikanische Football-Feiertag beginnt am Donnerstag, 26. November, mit einem Spitzenspiel im Ford Field (13:00 Uhr ET, CBS), wenn die Detroit Lions die Chicago Bears bei jeweils 8-2 empfangen.",
-        "Dan Campbells Lions gehen mit sechs Siegen in Serie und makelloser 6-0-Heimbilanz nach dem 31:21 gegen Tampa Bay ins Rennen, angefuehrt von Jared Goff und Jahmyr Gibbs.",
+        "Dan Campbells Lions gehen mit sechs Siegen in Serie und unbesiegt im Ford Field nach dem 31:21 gegen Tampa Bay ins Rennen, angefuehrt von Jared Goff und Jahmyr Gibbs.",
         "Auf der Gegenseite kehrt Ex-Koordinator Ben Johnson als Bears-Headcoach mit fuenf Siegen am Stueck zurueck. Caleb Williams lag dabei in keinem einzigen Spiel sekundenlang hinten, bevor am Abend die Chiefs (8-2) bei den Bills (9-1) antreten."
       ]
     },
@@ -47,7 +47,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "Per la quarta volta in 193 sfide storiche, Chicago e Detroit si incontrano nel giorno del Ringraziamento con record identico di 8-2.",
       "body": [
         "La grande tradizione del Ringraziamento americano scatta giovedi 26 novembre al Ford Field (13:00 ET, CBS) con un confronto ad altissima tensione tra Detroit Lions e Chicago Bears, appaiati a quota 8-2.",
-        "I Lions di Dan Campbell vantano una striscia di sei successi e un percorso netto di 6-0 in casa dopo il 31-21 su Tampa Bay, spinti da Jared Goff, Jameson Williams e Jahmyr Gibbs.",
+        "I Lions di Dan Campbell vantano una striscia di sei successi e restano imbattuti al Ford Field dopo il 31-21 su Tampa Bay, spinti da Jared Goff, Jameson Williams e Jahmyr Gibbs.",
         "Sulla panchina ospite siede l'ex Ben Johnson alla guida di Chicago, capace di cinque vittorie di fila con Caleb Williams senza mai inseguire nel punteggio, prima della sfida serale tra Chiefs (8-2) e Bills (9-1)."
       ]
     },
@@ -57,7 +57,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "Czwarty raz w historii 193 spotkan Chicago i Detroit staja naprzeciw siebie w Thanksgiving z identycznym bilansem 8-2 i pierwszym miejscem w dywizji w stawce.",
       "body": [
         "Tradycyjny maraton futbolowy w czwartek 26 listopada otworzy starcie na szczycie na Ford Field (13:00 ET, CBS), gdzie Detroit Lions podejma Chicago Bears przy rownym bilansie 8-2 obu druzyn.",
-        "Zespol Dana Campbella moze pochwalic sie sześcioma wygranymi z rzedu i bilansem 6-0 u siebie po zwyciestwie 31:21 nad Tampa Bay, napedzany przez Jareda Goffa i Jahmyr Gibbsa.",
+        "Zespol Dana Campbella moze pochwalic sie sześcioma wygranymi z rzedu i bez porazki na Ford Field po zwyciestwie 31:21 nad Tampa Bay, napedzany przez Jareda Goffa i Jahmyr Gibbsa.",
         "Po drugiej stronie boiska byly koordynator z Detroit Ben Johnson prowadzi Bears po pieciu wygranych z rzedu bez ani jednej sekundy straty punktowej od powrotu Caleba Williamsa, a wieczorem Chiefs (8-2) zagraja z Bills (9-1)."
       ]
     },
@@ -67,7 +67,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "芝加哥熊队与底特律雄狮队史193次交锋仅第4次在感恩节以同为8胜2负的战绩正面碰撞。",
       "body": [
         "美国传统橄榄球节日大战将于11月26日周四拉开帷幕，底特律雄狮坐镇福特球场迎战芝加哥熊（美东13:00，CBS直播），两支宿敌同以8胜2负并列国联北区榜首。",
-        "丹·坎贝尔执教的雄狮目前主场6胜0负且豪取六连胜，上一轮31比21击败坦帕湾海盗的比赛中，四分卫贾里德·戈夫与跑卫贾迈尔·吉布斯表现极其稳健。",
+        "丹·坎贝尔执教的雄狮目前主场保持不败且豪取六连胜，上一轮31比21击败坦帕湾海盗的比赛中，四分卫贾里德·戈夫与跑卫贾迈尔·吉布斯表现极其稳健。",
         "熊队主帅本·约翰逊此番重返旧地福特球场。自四分卫凯勒布·威廉姆斯伤愈复出以来，芝加哥已豪取五连胜且连续五场一秒未落后，而在夜场酋长（8胜2负）还将客战比尔（9胜1负）。"
       ]
     },
@@ -77,7 +77,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "通算193回の対戦で史上4度目となる同率8勝2敗でのサンクスギビング決戦、勝利チームが単独首位に立つ。",
       "body": [
         "11月26日木曜日、NFL伝統の感謝祭トリプルヘッダーはフォード・フィールドでの大一番（米東部13:00、CBS）で開幕する。デトロイト・ライオンズとシカゴ・ベアーズがともに8勝2敗で相まみえる。",
-        "ダン・キャンベル率いるライオンズは今季ホーム6戦全勝で6連勝中。タンパベイ戦を31-21で制したジェレッド・ゴフとジャミア・ギブスの攻撃陣が火を吹く。",
+        "ダン・キャンベル率いるライオンズは今季ホーム無敗で6連勝中。タンパベイ戦を31-21で制したジェレッド・ゴフとジャミア・ギブスの攻撃陣が火を吹く。",
         "敵将ベンチには元ライオンズ攻撃陣の知将ベン・ジョンソンが座る。ケイレブ・ウィリアムズの復帰後、ベアーズは5連勝中すべてで一度もリードを許さずに進撃しており、夜にはチーフス（8勝2敗）対ビルズ（9勝1敗）も控える。"
       ]
     },
@@ -87,7 +87,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "역대 193차례 맞대결 중 단 네 번째로 양 팀이 8승 2패 동률 상태에서 추수감사절에 충돌한다.",
       "body": [
         "11월 26일 목요일, 미국의 추수감사절 풋볼 축제가 포드 필드에서 열리는 디트로이트 라이온스와 시카고 베어스의 빅매치(미 동부 13:00 CBS)로 막을 올린다.",
-        "댄 캠벨 감독의 라이온스는 탬파베이전 31-21 승리를 포함해 6연승과 홈 6전 전승을 달리고 있으며, 재러드 고프와 자미르 깁스가 막강한 공격을 이끌고 있다.",
+        "댄 캠벨 감독의 라이온스는 탬파베이전 31-21 승리를 포함해 6연승과 홈 무패를 달리고 있으며, 재러드 고프와 자미르 깁스가 막강한 공격을 이끌고 있다.",
         "원정팀 벤치에는 친정팀 디트로이트로 돌아온 벤 존슨 감독이 자리한다. 케일럽 윌리엄스 복귀 이후 5연승 동안 단 한 순간도 리드를 내주지 않은 베어스는 야간 칩스(8-2)-빌스(9-1)전에 앞서 단독 선두를 노린다."
       ]
     },
@@ -97,7 +97,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "للمرة الرابعة فقط في 193 مواجهة تاريخية، يلتقي شيكاغو وديترويت في عيد الشكر بسجل متطابق 8-2 والصدارة على المحك.",
       "body": [
         "تنطلق احتفالات كرة القدم الامريكية يوم الخميس 26 نوفمبر بقمة من العيار الثقيل في فورد فيلد (1:00 ظهرا بتوقيت شرق امريكا على CBS)، حيث يستضيف ديترويت لايونز غريمه شيكاغو بيرز بسجل متطابق 8-2 لكل فريق.",
-        "يدخل فريق لايونز بقيادة دان كامبل المواجهة بسلسلة ستة انتصارات متتالية وسجل مثالي على ارضه (6-0) بعد الفوز 31-21 على تامبا باي بتالق جارد غوف وجامير جيبس.",
+        "يدخل فريق لايونز بقيادة دان كامبل المواجهة بسلسلة ستة انتصارات متتالية وسجل دون هزيمة على ارض فورد فيلد بعد الفوز 31-21 على تامبا باي بتالق جارد غوف وجامير جيبس.",
         "على الخط المقابل يقود المدرب بن جونسون فريق بيرز العائد بسلسلة خمسة انتصارات متتالية دون ان يتاخر في النتيجة ولو لثانية واحدة منذ عودة كالب ويليامز، قبل القمة الليلية بين كانساس سيتي تشيفز (8-2) وبافالو بيلز (9-1)."
       ]
     }
@@ -109,7 +109,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "Apres un penalty d'Ivan Perisic avant la pause, le Real Madrid se dechaine au retour des vestiaires pour ecraser le PSV 5-1 au Bernabeu.",
       "body": [
         "Le Real Madrid a frappe un grand coup mardi soir 24 novembre en retournant une situation delicate pour surclasser le PSV Eindhoven 5-1 au Santiago Bernabeu et rester l'unique equipe avec 15 points apres cinq journees.",
-        "Ivan Perisic avait donne l'avantage aux Neerlandais sur penalty a la 32e minute. Mais cinq minutes apres la reprise, Federico Valverde a egalise avant qu'un bijou de Jude Bellingham a la 60e ne fasse basculer le match.",
+        "Ivan Perisic avait donne l'avantage aux Neerlandais sur penalty a la 32e minute. Mais cinq minutes apres la reprise, Federico Valverde a egalise avant qu'un bijou de Jude Bellingham a la 59e ne fasse basculer le match.",
         "Kylian Mbappe a ensuite inscrit un double (64e, 84e) avant que Vinicius Junior ne scelle le score a la 87e. Ailleurs, Arsenal a partage 1-1 avec Dortmund (Gyokeres 10e, Beier 55e) et Man City a fait 2-2 contre Naples, tandis qu'Arsenal mene la Premier League avec 28 points."
       ]
     },
@@ -196,121 +196,121 @@ export const STORY_I18N: Record<string, LocMap> = {
   },
   "f1-qatar-gp-lusail-preview-verstappen-vegas-triumph-norris-battle-2026": {
     "fr": {
-      "title": "Avant le GP du Qatar : Verstappen arrive fort de son 75e succes avec un podium mondial ultra serre",
-      "subtitle": "Apres 35 changements de leader a Las Vegas, la Formule 1 retrouve son format classique a Lusail.",
+      "title": "Avant le GP du Qatar : Verstappen arrive fort de Las Vegas avec un podium mondial ultra serre",
+      "subtitle": "Apres un Grand Prix serre a Las Vegas, la Formule 1 retrouve son format classique a Lusail, sans sprint.",
       "excerpt": "Max Verstappen aborde la 22e manche a 304 points devant Hamilton (267), Russell (264) et Norris (264) pour le podium final.",
       "body": [
         "La Formule 1 quitte les neons de Las Vegas pour les virages rapides de Lusail lors de la 22e manche, le Grand Prix du Qatar (27-29 novembre). Le week-end revient au format traditionnel avec trois essais libres, qualifications samedi soir et Grand Prix de 57 tours dimanche a 19h00 heure locale.",
-        "Max Verstappen arrive fort d'un classique instantane dans le Nevada : au terme de 35 changements en tete, il a signe sa 4e victoire de l'annee et 75e en carriere pour 0,639 seconde devant Lando Norris et Oscar Piastri parti 17e.",
+        "Max Verstappen arrive fort d'un classique instantane dans le Nevada : il a signe sa 4e victoire de l'annee en 1:27:39.624, 0,639 seconde devant Lando Norris, Oscar Piastri parti 17e, et George Russell neuvieme apres un contact avec le mur.",
         "Meme si Kimi Antonelli (402 pts) et Mercedes (666 pts) sont deja titres, le classement reste brulant : trois points seulement separent Lewis Hamilton (267) de Russell et Norris (264), tandis que McLaren (431) menace Red Bull (440)."
       ]
     },
     "es": {
-      "title": "Previa GP de Catar: Verstappen llega a Lusail tras su victoria 75 con el podio separado por tres puntos",
-      "subtitle": "Tras 35 cambios de lider en Las Vegas, la Formula 1 retoma el formato tradicional en Losail del 27 al 29 de noviembre.",
+      "title": "Previa GP de Catar: Verstappen llega a Lusail tras Las Vegas con el podio separado por tres puntos",
+      "subtitle": "Tras un Gran Premio apretado en Las Vegas, la Formula 1 retoma el formato tradicional en Lusail del 27 al 29 de noviembre, sin sprint.",
       "excerpt": "Max Verstappen suma 304 puntos antes de Catar, con Hamilton (267) apenas tres por delante de Russell y Norris (264) en lucha cerrada.",
       "body": [
         "La Formula 1 cambia el asfalto nocturno de Nevada por el circuito de Lusail para la Ronda 22, el Gran Premio de Catar (27 al 29 de noviembre), regresando al formato clasico sin carrera Sprint antes de los 57 giros dominicales.",
-        "Max Verstappen aterriza impulsado por su 75.a victoria tras ganar por apenas 0,639 segundos a Lando Norris en un caotico Las Vegas con 35 adelantamientos en cabeza y doble podio de McLaren junto a Oscar Piastri desde el 17.o puesto.",
+        "Max Verstappen aterriza tras ganar por 0,639 segundos a Lando Norris en Las Vegas, con Oscar Piastri desde el 17.o puesto y George Russell noveno tras rozar el muro.",
         "Con Kimi Antonelli (402) y Mercedes (666) ya campeones, tres puntos separan a Lewis Hamilton (267) de George Russell y Lando Norris (264), mientras McLaren (431) acecha a solo nueve puntos de Red Bull (440)."
       ]
     },
     "de": {
-      "title": "Vorschau Katar GP: Verstappen reist nach 75. Sieg nach Lusail waehrend drei Punkte Platz drei trennen",
-      "subtitle": "Nach 35 Fuehrungswechseln auf dem Strip kehrt die Formel 1 in Katar zum gewohnten Drei-Trainings-Format zurueck.",
+      "title": "Vorschau Katar GP: Verstappen reist nach Las Vegas nach Lusail waehrend drei Punkte Platz drei trennen",
+      "subtitle": "Nach einem engen Rennen auf dem Strip kehrt die Formel 1 in Katar zum gewohnten Drei-Trainings-Format ohne Sprint zurueck.",
       "excerpt": "Max Verstappen (304 Pkt.) kommt als Las-Vegas-Sieger nach Lusail, wo Hamilton (267) knapp vor Russell und Norris (je 264) liegt.",
       "body": [
         "Von Las Vegas zieht die Formel 1 direkt weiter auf den Lusail International Circuit zu Runde 22 in Katar (27.-29. November). Anders als zuletzt wird das Wochenende dort im klassischen Format ohne Sprint gefahren, mit dem 57-Runden-Rennen am Sonntagabend.",
-        "Max Verstappen feierte in Nevada nach 35 Fuehrungswechseln seinen 75. Grand-Prix-Triumph knapp 0,639 Sekunden vor Lando Norris und Oscar Piastri (von Startplatz 17), waehrend beide Mercedes spaet Pech hatten.",
+        "Max Verstappen siegte in Nevada in 1:27:39.624, 0,639 Sekunden vor Lando Norris und Oscar Piastri (von Startplatz 17). George Russell wurde nach einer Mauerberuehrung Neunter.",
         "Waehrend Weltmeister Kimi Antonelli (402) und Mercedes (666) bereits feststehen, trennen Lewis Hamilton (267) nur drei Punkte von Russell und Norris (264), und McLaren (431) liegt lediglich neun Zaehler hinter Red Bull (440)."
       ]
     },
     "it": {
-      "title": "Anteprima GP del Qatar: Verstappen arriva a Lusail forte del 75esimo successo nella volata per il podio",
-      "subtitle": "Dopo i 35 sorpassi in testa a Las Vegas, la Formula 1 torna al weekend tradizionale in Qatar dal 27 al 29 novembre.",
+      "title": "Anteprima GP del Qatar: Verstappen arriva a Lusail forte del successo di Las Vegas nella volata per il podio",
+      "subtitle": "Dopo un Gran Premio tirato a Las Vegas, la Formula 1 torna al weekend tradizionale in Qatar dal 27 al 29 novembre, senza sprint.",
       "excerpt": "Verstappen si presenta a 304 punti, mentre appena tre lunghezze dividono Hamilton (267) da Russell e Norris (264).",
       "body": [
         "La Formula 1 lascia i neon di Las Vegas per i riflettori del Lusail International Circuit in vista del round 22 in Qatar (27-29 novembre). L'evento seguira il formato classico con tre prove libere, qualifiche e gara da 57 giri domenica alle 19:00 locali.",
-        "Max Verstappen arriva sulle ali del 75esimo trionfo in carriera conquistato in Nevada al termine di 35 cambi di leader, precedendo Lando Norris per 0,639 secondi e Oscar Piastri risalito dal 17esimo posto.",
+        "Max Verstappen arriva sulle ali del trionfo in Nevada in 1:27:39.624, precedendo Lando Norris per 0,639 secondi e Oscar Piastri risalito dal 17esimo posto. George Russell chiude nono dopo un contatto col muro.",
         "Nonostante i titoli gia assegnati a Kimi Antonelli (402) e Mercedes (666), tre soli punti separano Lewis Hamilton (267) da George Russell e Lando Norris (264), mentre McLaren (431) insegue la Red Bull (440) a soli nove punti."
       ]
     },
     "pl": {
-      "title": "Zapowiedz GP Kataru: Verstappen przybywa do Lusail po 75. triumfie przy pasjonujacej walce o podium",
-      "subtitle": "Po szalonym wyscigu z 35 zmianami lidera w Las Vegas F1 wraca do klasycznego formatu bez sprintu.",
+      "title": "Zapowiedz GP Kataru: Verstappen przybywa do Lusail po triumfie w Las Vegas przy pasjonujacej walce o podium",
+      "subtitle": "Po ciasnym wyscigu w Las Vegas F1 wraca do klasycznego formatu bez sprintu.",
       "excerpt": "Max Verstappen ma 304 punkty przed runda nr 22 w Katarze, a Lewisa Hamiltona (267) od Russella i Norrisa (264) dziela trzy oczka.",
       "body": [
         "Formula 1 przenosi sie z Las Vegas na tor Lusail przed przedostatnia runda sezonu w Katarze (27-29 listopada), gdzie obowiazywac bedzie klasyczny format weekendowy zakonczony 57-okrozeniowym wyscigiem w niedziele wieczorem.",
-        "Max Verstappen przyjezdza po 75. zwyciestwie w karierze wywalczonym w Nevadzie po 35 zmianach prowadzenia o zaledwie 0,639 sekundy przed Lando Norrisem oraz Oscarem Piastrim startujacym z 17. pola.",
+        "Max Verstappen przyjezdza po zwyciestwie w Nevadzie (1:27:39.624) o 0,639 sekundy przed Lando Norrisem oraz Oscarem Piastrim z 17. pola. George Russell finiszowal dziewiaty po kontakcie ze sciana.",
         "Mistrzowie Kimi Antonelli (402 pkt) i Mercedes (666) maja juz pewny tytul, lecz Walka o P3 miedzy Hamiltonem (267), Russellem (264) i Norrisem (264) oraz pojedynek Red Bulla (440) z McLarenem (431) trwaja."
       ]
     },
     "zh": {
-      "title": "F1卡塔尔站前瞻：维斯塔潘挟75胜莅临卢赛尔，季军之争仅差3分",
-      "subtitle": "历经拉斯维加斯35次领跑交替的史诗对决后，F1卡塔尔周末回归常规赛制并于周五揭幕。",
+      "title": "F1卡塔尔站前瞻：维斯塔潘挟拉斯维加斯胜利莅临卢赛尔，季军之争仅差3分",
+      "subtitle": "拉斯维加斯激战后，F1卡塔尔周末回归常规赛制、不设冲刺赛，并于周五揭幕。",
       "excerpt": "维斯塔潘在拉斯维加斯险胜诺里斯夺冠积304分，车手榜第三名汉密尔顿（267分）仅领先拉塞尔与诺里斯3分。",
       "body": [
         "世界一级方程式锦标赛移师卢赛尔国际赛道，第22站卡塔尔大奖赛将于11月27日至29日打响。本站回归包含三次自由练习赛、周六排位赛与周日57圈正赛的传统比赛周末安排，不设F1冲刺赛。",
-        "红牛车手维斯塔潘刚刚在拉斯维加斯历经35次头名交替的激战，以0.639秒惊险击败诺里斯夺得生涯第75胜，迈凯伦车手皮亚斯特里则从第17位发车强势登上领奖台。",
+        "红牛车手维斯塔潘在拉斯维加斯以1:27:39.624、0.639秒击败诺里斯夺冠，迈凯伦车手皮亚斯特里从第17位发车登上领奖台，拉塞尔擦墙后仍收第9。",
         "尽管安东内利（402分）和梅赛德斯（666分）已提前夺冠，目前汉密尔顿（267分）与并列264分的拉塞尔、诺里斯仅差3分，车队榜迈凯伦（431分）也紧追红牛（440分）仅落后9分。"
       ]
     },
     "ja": {
-      "title": "F1カタールGP展望：通算75勝のフェルスタッペンがルサイルへ、3位争いはわずか3点差",
-      "subtitle": "35回の首位交代を演じたラスベガスの激闘を経て、第22戦カタールは伝統の通常フォーマットで開催。",
+      "title": "F1カタールGP展望：ラスベガス勝者フェルスタッペンがルサイルへ、3位争いはわずか3点差",
+      "subtitle": "ラスベガスの接戦を経て、第22戦カタールはスプリントなしの伝統フォーマットで開催。",
       "excerpt": "ラスベガスを制したフェルスタッペンが304点、3位のハミルトン（267点）とラッセル、ノリス（264点）が3点差で迫る。",
       "body": [
         "F1世界選手権第22戦カタールGPは11月27日から29日にかけてルサイル国際サーキットで開催される。今年のカタールはF1スプリントを含まない通常の3セッション構成となり、日曜現地19時に57周の決勝を迎える。",
-        "前戦ラスベガスでは35回の首位交代劇の末にマックス・フェルスタッペンがランド・ノリスを0.639秒抑えてキャリア通算75勝目を飾り、17番手スタートのオスカー・ピアストリも3位表彰台へ駆け上がった。",
+        "前戦ラスベガスではマックス・フェルスタッペンが1:27:39.624でランド・ノリスを0.639秒抑え、17番手スタートのオスカー・ピアストリが3位。ジョージ・ラッセルはウォール接触後に9位で完走した。",
         "キミ・アントネッリ（402点）とメルセデス（666点）がすでに王座を決めた一方、ルイス・ハミルトン（267点）とラッセル、ノリス（264点）はわずか3点差、マクラーレン（431点）もレッドブル（440点）に9点差へ迫る。"
       ]
     },
     "ko": {
-      "title": "F1 카타르 GP 프리뷰: 통산 75승 페르스타펜 루사일 입성, 3위 경쟁은 단 3점 차",
-      "subtitle": "라스베이거스 35회 선두 교대 혈투를 뒤로하고 카타르 대회가 스핀트 없는 전통 주말 일정으로 돌아온다.",
+      "title": "F1 카타르 GP 프리뷰: 라스베이거스 우승 페르스타펜 루사일 입성, 3위 경쟁은 단 3점 차",
+      "subtitle": "라스베이거스 접전을 뒤로하고 카타르 대회가 스프린트 없는 전통 주말 일정으로 돌아온다.",
       "excerpt": "라스베이거스에서 우승한 페르스타펜(304점)의 뒤로 해밀턴(267점)과 러셀, 노리스(264점)가 3점 차 접전을 벌인다.",
       "body": [
         "포뮬러 1 22라운드 카타르 그랑프리가 11월 27일부터 29일까지 루사일 인터내셔널 서킷에서 열린다. 이번 카타르 주말은 F1 스프린트 레이스 없이 3차례 연습주행과 토요일 예선, 일요일 57랩 결승의 정통 일정으로 치러진다.",
-        "막스 페르스타펜은 지난 라스베이거스 야간 레이스에서 무려 35차례 선두가 바뀐 격전 끝에 랜도 노리스를 0.639초 차로 따돌리고 커리어 75승을 거뒀으며, 오스카 피아스트리도 17그리드에서 포디움에 올랐다.",
+        "막스 페르스타펜은 라스베이거스를 1:27:39.624, 0.639초 차로 랜도 노리스를 제치고 우승했고 오스카 피아스트리는 17그리드에서 포디움에 올랐으며 조지 러셀은 벽 접촉 후 9위로 들어왔다.",
         "키미 안토넬리(402점)와 메르세데스(666점)가 조기 우승을 확정한 가운데, 루이스 해밀턴(267점)과 러셀, 노리스(이상 264점)가 단 3점 차, 맥라렌(431점) 역시 레드불(440점)을 9점 차로 추격 중이다."
       ]
     },
     "ar": {
-      "title": "تقديم جائزة قطر الكبرى: فيرستابن يصل الى لوسيل بفوزه الـ75 وصراع المركز الثالث بفارق 3 نقاط",
-      "subtitle": "بعد 35 تغييرا للصدارة في لاس فيغاس، تعود الفورمولا 1 الى الصيغة التقليدية في حلبة لوسيل.",
+      "title": "تقديم جائزة قطر الكبرى: فيرستابن يصل الى لوسيل بفوز لاس فيغاس وصراع المركز الثالث بفارق 3 نقاط",
+      "subtitle": "بعد سباق متقارب في لاس فيغاس، تعود الفورمولا 1 الى الصيغة التقليدية بلا سبرنت في حلبة لوسيل.",
       "excerpt": "فيرستابن يرفع رصيده الى 304 نقاط بعد ليلة فيغاس بينما يفصل ثلاث نقاط فقط بين هاميلتون (267) وراسل ونوريس (264).",
       "body": [
         "تنتقل الفورمولا 1 من أضواء لاس فيغاس الى حلبة لوسيل الدولية لخوض الجولة 22 في قطر من 27 الى 29 نوفمبر، مع العودة الى نظام عطلة نهاية الأسبوع التقليدي بثلاث حصص تجارب وتأهيلي وسباق من 57 لفة يوم الأحد.",
-        "يدخل ماكس فيرستابن السباق منتشيا بانتصاره الـ75 في مسيرته بعدما حسم سباق فيغاس بفارق 0.639 ثانية امام لاندو نوريس رغم 35 تبديلا للصدارة، مع صعود أوسكار بياستري ثالثا من المركز 17.",
+        "يدخل ماكس فيرستابن السباق منتشيا بفوز فيغاس في 1:27:39.624 بفارق 0.639 ثانية امام لاندو نوريس، مع صعود أوسكار بياستري ثالثا من المركز 17 وجورج راسل تاسعا بعد ملامسة الجدار.",
         "ومع حسم كيمي أنتونيللي (402 نقطة) ومرسيدس (666) للقبين العالميين، تفصل ثلاث نقاط فقط لويس هاميلتون (267) عن راسل ونوريس (264)، فيما يلاحق مكلارين (431) ريد بول (440) بفارق 9 نقاط."
       ]
     }
   },
   "davis-cup-finals-bologna-italy-musetti-alcaraz-turin-glory-2026": {
     "fr": {
-      "title": "Coupe Davis a Bologne : L'Italie mene face a la Coree du Sud apres le triomphe d'Alcaraz a Turin",
+      "title": "Coupe Davis a Bologne : La Tchequie se qualifie, l'Italie et la Coree restent ouvertes apres le triomphe d'Alcaraz a Turin",
       "subtitle": "Lorenzo Musetti ecrase Seongchan Hong pour lancer les tenants du titre tandis que la Tchequie domine le Canada 2-0.",
-      "excerpt": "L'Italie s'offre un depart 1-0 en quarts de finale a Bologne apres la semaine parfaite de Carlos Alcaraz a Turin (6-2, 7-6 face a Zverev).",
+      "excerpt": "La Tchequie balaye le Canada 2-0. Lorenzo Musetti bat Seongchan Hong 6-0, 7-6(5) ; la rencontre Italie-Coree reste ouverte. Jeudi : Grande-Bretagne - Allemagne.",
       "body": [
         "Le tennis mondial reste ancre en Italie du Nord cette semaine pour le Final 8 de la Coupe Davis a Bologne, quelques jours apres le sacre historique de Carlos Alcaraz aux Nitto ATP Finals de Turin.",
         "Dimanche a Turin, l'Espagnol de 23 ans a battu le numero 1 mondial Alexander Zverev 6-2, 7-6(7) en sauvant trois balles de set dans le tie-break, achevant un tournoi invaincu (5-0, 5,171 millions de dollars) pour devenir le quatrieme homme a remporter tous les Grands Chelems et le Masters.",
-        "Desormais place aux nations a Bologne : apres la qualification de la Tchequie face au Canada (2-0), Lorenzo Musetti a balaye Seongchan Hong 6-0, 7-6(5) pour placer l'Italie a 1-0 contre la Coree du Sud avant Grande-Bretagne - Allemagne et Autriche - Espagne jeudi."
+        "A Bologne, apres la qualification de la Tchequie face au Canada (2-0), Lorenzo Musetti a balaye Seongchan Hong 6-0, 7-6(5). La rencontre Italie-Coree reste ouverte. Jeudi : Grande-Bretagne - Allemagne a 10h00 puis Autriche - Espagne."
       ]
     },
     "es": {
-      "title": "Copa Davis en Bolonia: Italia toma ventaja sobre Corea del Sur tras la corona invicta de Alcaraz",
+      "title": "Copa Davis en Bolonia: Chequia avanza e Italia-Corea sigue abierta tras la corona invicta de Alcaraz",
       "subtitle": "Lorenzo Musetti vence 6-0, 7-6(5) a Seongchan Hong luego de que Chequia derrotara 2-0 a Canada.",
-      "excerpt": "Los campeones defensores arrancan 1-0 en Bolonia dias despues de que Carlos Alcaraz levantara invicto su primer titulo de Maestro en Turin.",
+      "excerpt": "Chequia vence 2-0 a Canada. Musetti gana el primer punto de Italia; Davis Cup sigue listando Italia-Corea en juego. Jueves: Gran Bretana vs Alemania.",
       "body": [
         "El tenis masculino sigue centrado en el norte de Italia con la Final 8 de la Copa Davis en Bolonia, apenas dias despues de la apoteosica coronacion de Carlos Alcaraz en las Nitto ATP Finals de Turin.",
         "El domingo 22 de noviembre, Alcaraz vencio 6-2, 7-6(7) a Alexander Zverev tras levantar tres bolas de set en el desempate para completar un 5-0 perfecto (5,171 millones de dolares) y convertirse en el cuarto hombre con los cuatro Grand Slams y la Copa de Maestros.",
-        "En Bolonia, Chequia selló el primer pase semifinal venciendo 2-0 a Canada (Machac sobre Draxl), y el miercoles Lorenzo Musetti arrollo 6-0, 7-6(5) a Seongchan Hong para dar el 1-0 a Italia antes de los cruces del jueves."
+        "En Bolonia, Chequia selló el primer pase semifinal venciendo 2-0 a Canada (Machac sobre Draxl), y el miercoles Lorenzo Musetti arrollo 6-0, 7-6(5) a Seongchan Hong. El choque Italia-Corea sigue abierto antes de Gran Bretana-Alemania y Austria-Espana el jueves."
       ]
     },
     "de": {
-      "title": "Davis Cup Bologna: Italien fuehrt gegen Suedkorea nach Alcaraz' ungeschlagenem Turin-Triumph",
+      "title": "Davis Cup Bologna: Tschechien ist durch, Italien gegen Korea noch offen nach Alcaraz' Turin-Triumph",
       "subtitle": "Lorenzo Musetti besiegt Seongchan Hong glatt mit 6:0, 7:6(5), nachdem Tschechien Kanada 2:0 schlug.",
-      "excerpt": "Titelverteidiger Italien geht im Viertelfinale von Bologna mit 1:0 in Fuehrung, kurz nachdem Carlos Alcaraz in Turin 5:0 den Gesamtsieg feierte.",
+      "excerpt": "Tschechien schlaegt Kanada 2:0. Musetti gewinnt den ersten Punkt fuer Italien; Italien gegen Korea bleibt offen. Donnerstag: Grossbritannien gegen Deutschland.",
       "body": [
         "Das Welt-Tennis bleibt in Norditalien, wo das Final 8 des Davis Cups in Bologna steigt, wenige Tage nach der kroenenden Woche von Carlos Alcaraz bei den Nitto ATP Finals in Turin.",
         "Am Sonntag in Turin besiegte der 23-jaehrige Spanier den Weltranglistenersten Alexander Zverev mit 6:2, 7:6(7), wehrte drei Satzbaelle im Tiebreak ab und kassierte mit einer perfekten 5:0-Bilanz 5,171 Millionen Dollar als erst vierter Spieler mit allen Slams plus Saisonfinale.",
@@ -477,8 +477,8 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "Boston bat Washington 131-116 et Dallas surprend Denver 120-101 avec 24 points et 12 passes de Cooper Flagg avant le repos de jeudi.",
       "body": [
         "La NBA marque sa pause traditionnelle de Thanksgiving jeudi 26 novembre apres une semaine spectaculaire d'Emirates NBA Cup marquee par les offensives de Boston et Dallas mardi soir.",
-        "A Washington, Jayson Tatum (41 points, 8 passes) et Paul George (28 points, 6/9 a trois points) ont porte les Celtics a 80 points a la pause vers un succes 131-116 malgre les 33 points et 13 rebonds d'Anthony Davis et les 20 points, 11 rebonds et 7 passes d'AJ Dybantsa.",
-        "Dans le meme temps a Denver, Cooper Flagg a compile 24 points, 6 rebonds et 12 passes pour offrir aux Mavericks une victoire nette 120-101 face a Nikola Jokic (18/11), tandis que Detroit sans Cade Cunningham battait Orlando 104-86."
+        "A Washington, Jayson Tatum (41 points, 8 passes) et Paul George (28 points, 6/9 a trois points) ont porte les Celtics a 80 points a la pause vers un succes 131-116 malgre les 33 points et 13 rebonds d'Anthony Davis.",
+        "Dans le meme temps a Denver, Cooper Flagg a compile 24 points, 6 rebonds et 12 passes pour offrir aux Mavericks une victoire nette 120-101, Jamal Murray inscrivant 20 points, tandis que Detroit sans Cade Cunningham battait Orlando 104-86."
       ]
     },
     "es": {
@@ -488,7 +488,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "body": [
         "La NBA descansa el jueves 26 de noviembre por Accion de Gracias tras una intensa jornada de Emirates NBA Cup que dejo grandes exhibiciones el martes.",
         "En la capital, Boston anoto 80 puntos en la primera mitad rumbo a un 131-116 sobre Washington comandado por Jayson Tatum (41 puntos, 8 asistencias) y Paul George (28 puntos, 6 triples), superando los 33 puntos y 13 rebotes de Anthony Davis.",
-        "Ademas en Denver, Cooper Flagg brilló con 24 puntos y 12 asistencias para llevar a Dallas al 120-101 sobre los Nuggets de Nikola Jokic (18 puntos, 11 rebotes), mientras Detroit sin Cade Cunningham vencia 104-86 a Orlando con 21 puntos de Isaiah Joe."
+        "Ademas en Denver, Cooper Flagg brilló con 24 puntos y 12 asistencias para llevar a Dallas al 120-101, con 20 puntos de Jamal Murray, mientras Detroit sin Cade Cunningham vencia 104-86 a Orlando con 21 puntos de Isaiah Joe."
       ]
     },
     "de": {
@@ -498,7 +498,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "body": [
         "Am Donnerstag, 26. November, legt die NBA ihre traditionelle Thanksgiving-Spielpause ein, nachdem zuvor im Emirates NBA Cup am Dienstag spektakulare Resultate gefallen waren.",
         "Boston erzielte schon zur Halbzeit 80 Punkte gegen Washington und siegte 131:116 dank Jayson Tatum (41 Punkte, 8 Assists) und Paul George (28 Punkte), obgleich Anthony Davis 33 Punkte und 13 Rebounds fuer die Wizards holte.",
-        "In Denver glaenzte Cooper Flagg mit 24 Punkten und 12 Assists beim 120:101-Auswaertssieg der Mavericks gegen Nikola Jokic (18/11), waehrend Detroit auch ohne den verletzten Cade Cunningham durch Isaiah Joes 21 Punkte 104:86 in Orlando gewann."
+        "In Denver glaenzte Cooper Flagg mit 24 Punkten und 12 Assists beim 120:101-Auswaertssieg der Mavericks (Jamal Murray 20 Punkte), waehrend Detroit auch ohne den verletzten Cade Cunningham durch Isaiah Joes 21 Punkte 104:86 in Orlando gewann."
       ]
     },
     "it": {
@@ -508,17 +508,17 @@ export const STORY_I18N: Record<string, LocMap> = {
       "body": [
         "La NBA osserva il tradizionale turno di riposo del Ringraziamento giovedi 26 novembre dopo le spettacolari sfide di Emirates NBA Cup disputate in settimana.",
         "Nella capitale Boston ha segnato 80 punti gia all'intervallo imponendosi 131-116 con 41 punti e 8 assist di Jayson Tatum e 28 punti di Paul George, rendendo vani i 33 punti e 13 rimbalzi di Anthony Davis per Washington.",
-        "A Denver invece Cooper Flagg ha brillato con 24 punti, 6 rimbalzi e 12 assist guidando i Mavericks al 120-101 sui Nuggets di Nikola Jokic, mentre i Pistons privi di Cade Cunningham hanno battuto Orlando 104-86 con 21 punti di Isaiah Joe."
+        "A Denver invece Cooper Flagg ha brillato con 24 punti, 6 rimbalzi e 12 assist guidando i Mavericks al 120-101 (Jamal Murray 20 punti), mentre i Pistons privi di Cade Cunningham hanno battuto Orlando 104-86 con 21 punti di Isaiah Joe."
       ]
     },
     "pl": {
       "title": "Swiateczna przerwa w NBA: 41 punktow Tatuma i wielki wystep Coopera Flagga dla Dallas",
       "subtitle": "Tatum i Paul George zdobyli 69 punktow w Waszyngtonie, a Mavericks rozbili Denver 120:101 przed czwartkowa pauza.",
-      "excerpt": "Celtics ograli Wizards 131:116, a Dallas rozgromilo Nuggets 120:101 po 24 punktach i 12 asystach Coopera Flagga.",
+      "excerpt": "Celtics ograli Wizards 131:116, a Dallas rozgromilo Nuggets 120:101 po 24 punktach, 6 zbiorkach i 12 asystach Coopera Flagga (Murray 20).",
       "body": [
         "W czwartek 26 listopada cala liga NBA pauzuje z okazji Swieta Dziekczynienia po ekscytujacych meczach fazy grupowej Emirates NBA Cup we wtorek i srode.",
         "W Waszyngtonie koszykarze Boston Celtics rzucili 80 punktow do przerwy i wygrali 131:116 dzieki 41 punktom i 8 asystom Jaysona Tatuma oraz 28 punktom Paula George'a, mimo ze Anthony Davis zanotowal 33 punkty i 13 zbiorek.",
-        "W Denver Cooper Flagg zapisal na koncie 24 punkty, 6 zbiorek i 12 asyst, prowadzac Dallas Mavericks do triumfu 120:101 nad ekipa Nikoli Jokicia, a osłabieni Pistons bez Cade'a Cunninghama wygrali w Orlando 104:86."
+        "W Denver Cooper Flagg zapisal na koncie 24 punkty, 6 zbiorek i 12 asyst, prowadzac Dallas Mavericks do triumfu 120:101 (Jamal Murray 20 punktow), a oslabieni Pistons bez Cade'a Cunninghama wygrali w Orlando 104:86."
       ]
     },
     "zh": {
@@ -527,8 +527,8 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "NBA周四进入全联盟感恩节休战日，此前周二凯尔特人131-116击退奇才，弗拉格24分12助攻闪耀丹佛。",
       "body": [
         "周四11月26日感恩节期间NBA全联盟照例休战一天，此前周二与周三多场阿联酋NBA杯小组赛已将对抗气氛推向顶点。",
-        "周二夜在华盛顿，凯尔特人上半场爆砍80分以131比116大胜奇才。杰森·塔图姆独得41分6篮板8助攻，保罗·乔治三分9投6中拿下28分9助攻，化解了安东尼·戴维斯空砍33分13篮板及阿杰·迪班萨20分11篮板7助攻的反扑。",
-        "同日在丹佛，库珀·弗拉格交出24分6篮板12助攻的全面数据，助独行侠120比101轻取掘金；缺少康宁汉姆的活塞则凭借以赛亚·乔的21分在奥兰多104比86获胜。"
+        "周二夜在华盛顿，凯尔特人上半场爆砍80分以131比116大胜奇才。杰森·塔图姆独得41分6篮板8助攻，保罗·乔治三分9投6中拿下28分9助攻，化解了安东尼·戴维斯空砍33分13篮板的反扑。",
+        "同日在丹佛，库珀·弗拉格交出24分6篮板12助攻的全面数据，助独行侠120比101轻取掘金（穆雷20分）；缺少康宁汉姆的活塞则凭借以赛亚·乔的21分在奥兰多104比86获胜。"
       ]
     },
     "ja": {
@@ -547,7 +547,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "목요일 추수감사절 전 구단 휴식을 앞두고 보스턴이 131-116 승리를 거뒀으며 댈러스는 쿠퍼 플래그의 활약으로 덴버 원정을 챙겼다.",
       "body": [
         "11월 26일 목요일 추수감사절을 맞아 NBA가 전통적인 휴식일을 보내는 가운데, 직전 화요일 에미레이츠 NBA 컵에서는 폭발적인 득점전이 이어졌다.",
-        "워싱턴 원정에서 보스턴 셀틱스는 전반에만 80점을 몰아친 끝에 131-116 완승을 거뒀다. 제이슨 테이텀이 41점 8어시스트, 폴 조지가 3점슛 6개 포함 28점 9어시스트로 앤서니 데이비스(33점 13리바운드)와 AJ 디반사(20점 11리바운드)의 추격을 따돌렸다.",
+        "워싱턴 원정에서 보스턴 셀틱스는 전반에만 80점을 몰아친 끝에 131-116 완승을 거뒀다. 제이슨 테이텀이 41점 8어시스트, 폴 조지가 28점 9어시스트로 앤서니 데이비스(33점 13리바운드)의 추격을 따돌렸다.",
         "덴버에서는 쿠퍼 플래그가 24점 6리바운드 12어시스트로 맹활약하며 댈러스의 120-101 대승을 이끌었고, 케이드 커닝햄이 결장한 디트로이트도 올랜도를 104-86으로 제압했다."
       ]
     },

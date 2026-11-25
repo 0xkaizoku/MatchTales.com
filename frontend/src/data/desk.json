@@ -283,13 +283,6 @@
     },
     {
       "date": "2026-09-20",
-      "time": "4:05 p.m. ET",
-      "home": "Sunday late window",
-      "away": "Five finals",
-      "note": "Broncos 20-13 Jaguars, Raiders 26-14 Chargers, Seahawks 31-7 Cardinals, Cowboys 37-20 Commanders, 49ers 35-13 Dolphins."
-    },
-    {
-      "date": "2026-09-20",
       "time": "8:20 p.m. ET",
       "home": "Kansas City Chiefs",
       "away": "Indianapolis Colts",
@@ -343,13 +336,6 @@
       "home": "Washington Commanders",
       "away": "Indianapolis Colts",
       "note": "FINAL: Colts 30, Commanders 13 in London. ESPN. Quarters: Colts 0-10-10-10, Commanders 6-0-7-0. Colts 2-2, Commanders 1-3. Jonathan Taylor 20 carries, 95 yards, 2 TD."
-    },
-    {
-      "date": "2026-10-04",
-      "time": "1:00 p.m. ET",
-      "home": "Buffalo Bills",
-      "away": "New England Patriots",
-      "note": "FINAL: Patriots 29, Bills 26. ESPN. Quarters: Patriots 7-7-7-8, Bills 0-17-0-9. Patriots 2-2, Bills 3-1. Drake Maye 22 of 37, 269 yards, 3 TD."
     },
     {
       "date": "2026-10-04",
@@ -608,7 +594,7 @@
       "time": "8:15 p.m. ET",
       "home": "Houston Texans",
       "away": "Indianapolis Colts",
-      "note": "FINAL: Texans 26, Colts 3. Stroud 21/27, 194 yds, 3 TDs; Montgomery 107 rush yds; Anderson safety. Texans 4-7, Colts 3-8."
+      "note": "FINAL: Texans 26, Colts 3. Stroud 21/27, 194 yds, 3 TDs, 1 INT; Montgomery 107 rush yds; Anderson safety. Texans 4-6, Colts 3-8."
     },
     {
       "date": "2026-11-22",
@@ -619,17 +605,17 @@
     },
     {
       "date": "2026-11-22",
-      "time": "4:25 p.m. ET",
+      "time": "8:20 p.m. ET",
       "home": "San Francisco 49ers",
       "away": "Minnesota Vikings",
       "note": "FINAL: 49ers 35, Vikings 10 in Mexico City. 49ers sit atop NFC at 9-1."
     },
     {
       "date": "2026-11-25",
-      "time": "8:15 p.m. ET",
+      "time": "8:00 p.m. ET",
       "home": "Los Angeles Rams",
       "away": "Green Bay Packers",
-      "note": "UPCOMING Thanksgiving Eve (Netflix): Both teams 6-4 at SoFi Stadium."
+      "note": "UPCOMING Thanksgiving Eve (Netflix): Both teams 6-4 at SoFi Stadium. No final published."
     },
     {
       "date": "2026-11-26",
@@ -806,18 +792,6 @@
       "status": "Fritz 6-2, 4-6, 7-6 (3)"
     },
     {
-      "draw": "Turin McEnroe Group",
-      "p1": "Alexander Zverev (1)",
-      "p2": "Ben Shelton (3)",
-      "status": "Sun: Zverev d Jodar 6-4, 6-4; Shelton d Fils 6-2, 3-6, 6-3"
-    },
-    {
-      "draw": "Turin Lendl Group",
-      "p1": "Carlos Alcaraz (2)",
-      "p2": "Daniil Medvedev (4)",
-      "status": "Mon: Alcaraz vs Tiafoe (14:00 CET); Medvedev vs Cobolli (20:30 CET)"
-    },
-    {
       "draw": "Turin Final",
       "p1": "Carlos Alcaraz",
       "p2": "Alexander Zverev",
@@ -827,19 +801,19 @@
       "draw": "Davis Cup QF",
       "p1": "Czechia",
       "p2": "Canada",
-      "status": "Czechia won 2-0 on 24 Nov (Machac d. Draxl 6-2, 3-6, 6-2)"
+      "status": "Czechia won 2-0 on 24 Nov (Machac d Draxl 6-2, 3-6, 6-2)"
     },
     {
       "draw": "Davis Cup QF",
       "p1": "Italy",
       "p2": "South Korea",
-      "status": "25 Nov: Italy lead 1-0 (Musetti d. Hong 6-0, 7-6 (5)); Cobolli vs Kwon underway"
+      "status": "25 Nov still open: Musetti d Hong 6-0, 7-6 (5); Cobolli vs Kwon unpublished as final"
     },
     {
       "draw": "Davis Cup QF",
       "p1": "Great Britain",
       "p2": "Germany",
-      "status": "Thu 26 Nov (10:00 CET) in Bologna; Austria vs Spain (17:00 CET) follows"
+      "status": "Thu 26 Nov 10:00 CET in Bologna; Austria vs Spain 17:00 CET follows"
     }
   ]
 }
