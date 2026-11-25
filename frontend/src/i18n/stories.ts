@@ -119,7 +119,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "Ivan Perisic adelanto de penalti al PSV, pero cinco goles blancos en la segunda mitad dejan al Real Madrid con pleno de cinco victorias.",
       "body": [
         "El Real Madrid confirmo su dominio europeo la noche del martes 24 de noviembre al desatar un vendaval ofensivo tras el descanso para arrollar 5-1 al PSV Eindhoven en el Santiago Bernabeu y quedar como lider solitario con 15 puntos.",
-        "Ivan Perisic habia sorprendido transformando un penalti en el minuto 32 para el PSV. En el 50 igualo Federico Valverde y diez minutos despues Jude Bellingham giro el partido con un golazo desde fuera del area.",
+        "Ivan Perisic habia sorprendido transformando un penalti en el minuto 32 para el PSV. En el 50 igualo Federico Valverde y nueve minutos despues Jude Bellingham giro el partido con un golazo desde fuera del area.",
         "Kylian Mbappe sentencio con un doblete en los minutos 64 y 84 y Vinicius Junior redondeo la manita en el 87. En los otros grandes duelos del martes, el Arsenal empato 1-1 con el Dortmund (Gyokeres 10; Beier 55) y el Manchester City firmo un 2-2 ante el Napoles."
       ]
     },
@@ -129,7 +129,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "Nach Ivan Perisics Elfmeter zur PSV-Pausenfuerung erzielt Real Madrid fuenf Tore in der zweiten Halbzeit zum 5:1-Triumph mit maximalen 15 Punkten.",
       "body": [
         "Real Madrid setzte am Dienstagabend, 24. November, ein klares Zeichen an der Tabellenspitze und fertigte PSV Eindhoven nach Rueckstand noch mit 5:1 im Santiago Bernabeu ab - als einziges Team mit makellosen 15 Punkten.",
-        "Ivan Perisic hatte PSV in der 32. Minute per Strafstoss in Fuehrung gebracht. Doch Federico Valverde glich in der 50. Minute aus, ehe Jude Bellingham in der 60. mit einem Traumtor die Partie drehte.",
+        "Ivan Perisic hatte PSV in der 32. Minute per Strafstoss in Fuehrung gebracht. Doch Federico Valverde glich in der 50. Minute aus, ehe Jude Bellingham in der 59. mit einem Traumtor die Partie drehte.",
         "Kylian Mbappe traf in der 64. und 84. Minute doppelt, und Vinicius Junior markierte den 5:1-Endstand (87.). Zuvor trennten sich Arsenal und Borussia Dortmund 1:1 (Gyokeres 10., Beier 55.) sowie Man City und Neapel 2:2."
       ]
     },
@@ -139,7 +139,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "Dopo il rigore di Ivan Perisic per gli olandesi, cinque reti nella ripresa regalano al Real Madrid la quinta vittoria in cinque partite.",
       "body": [
         "Il Real Madrid ha confermato la sua leadership europea martedi sera 24 novembre ribaltando con autorita il PSV Eindhoven fino al 5-1 finale al Santiago Bernabeu, restando l'unica squadra a punteggio pieno a quota 15.",
-        "Ivan Perisic aveva portato avanti il PSV su rigore al 32' minuto. Al rientro dagli spogliatoi sono pero bastati cinque minuti a Federico Valverde (50') per pareggiare, prima della perla di Jude Bellingham al 60'.",
+        "Ivan Perisic aveva portato avanti il PSV su rigore al 32' minuto. Al rientro dagli spogliatoi sono pero bastati cinque minuti a Federico Valverde (50') per pareggiare, prima della perla di Jude Bellingham al 59'.",
         "Kylian Mbappe ha firmato la doppietta (64' e 84') e Vinicius Junior ha chiuso i conti all'87'. Negli altri big match di martedi, Arsenal-Dortmund e finita 1-1 (Gyokeres 10', Beier 55') e Manchester City-Napoli 2-2."
       ]
     },
@@ -149,7 +149,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "Po rzucie karnym Ivana Perisicia Real Madryt odpowiedzial piecioma golami w drugiej polowie, utrzymujac bilans pieciu zwyciestw w pieciu meczach.",
       "body": [
         "Real Madryt potwierdzil europejska dominacje we wtorek wieczorem 24 listopada, odrabiajac straty z pierwszej polowy i rozbijajac PSV Eindhoven 5:1 na Santiago Bernabeu jako jedyny klub z 15 punktami w tabeli.",
-        "W 32. minucie Ivan Perisic wykorzystal rzut karny dla PSV. Po zmianie stron sygnal do ataku dal Federico Valverde (50.), a po dziesieciu minutach pieknym trafieniem wynik odmienil Jude Bellingham (60.).",
+        "W 32. minucie Ivan Perisic wykorzystal rzut karny dla PSV. Po zmianie stron sygnal do ataku dal Federico Valverde (50.), a po dziesieciu minutach pieknym trafieniem wynik odmienil Jude Bellingham (59.).",
         "Dwa ciosy zadal Kylian Mbappe (64., 84.), a wynik zamknal Vinicius Junior w 87. minucie. W innych hitach wtorku Arsenal zremisowal z Dortmundem 1:1 (Gyokeres 10., Beier 55.), a Manchester City podzielil sie punktami z Napoli (2:2)."
       ]
     },
@@ -159,7 +159,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "佩里西奇上半场点射破门后，皇家马德里在下半场连下五城5-1横扫埃因霍温，成为36强唯一15分领跑者。",
       "body": [
         "11月24日周二欧冠第5轮，皇家马德里在伯纳乌球场上演酣畅淋漓的下半场逆转，以5比1大胜埃因霍温，以五战全胜积15分傲视36强积分榜。",
-        "上半场第32分钟，老将伊万·佩里西奇主罚点球为客队先声夺人。但下半场第50分钟费德里科·巴尔韦德率先扳平比分，随后第60分钟祖德·贝林厄姆禁区外兜射世界波反超。",
+        "上半场第32分钟，老将伊万·佩里西奇主罚点球为客队先声夺人。但下半场第50分钟费德里科·巴尔韦德率先扳平比分，随后第59分钟祖德·贝林厄姆禁区外兜射世界波反超。",
         "基利安·姆巴佩在第64和第84分钟连进两球扩大优势，维尼修斯在第87分钟完成绝杀锦上添花。同日其他焦点战中，阿森纳1比1战平多特蒙德（哲凯赖什第10分钟、拜尔第55分钟），曼城2比2战平那不勒斯。"
       ]
     },
@@ -169,7 +169,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "ペリシッチのPKで先制を許したマドリードが後半に5得点を奪う猛攻を見せ、36チーム中唯一の勝ち点15に到達。",
       "body": [
         "11月24日火曜日のUEFAチャンピオンズリーグ第5節で、レアル・マドリードはサンティアゴ・ベルナベウでPSVアイントホーフェンを後半のゴールラッシュで5-1と粉砕し、5戦全勝の勝ち点15で首位を独走している。",
-        "前半32分、イヴァン・ペリシッチのPKでPSVが先行する波乱の展開となったが、後半50分にフェデリコ・バルベルデが同点弾を叩き込み、60分にはジュード・ベリンガムの美しいミドルシュートで一気に逆転した。",
+        "前半32分、イヴァン・ペリシッチのPKでPSVが先行する波乱の展開となったが、後半50分にフェデリコ・バルベルデが同点弾を叩き込み、59分にはジュード・ベリンガムの美しいミドルシュートで一気に逆転した。",
         "さらにキリアン・ムバッペが64分と84分に連続ゴールを挙げ、87分にヴィニシウス・ジュニオールが締めくくった。同時開催の注目カードでは、アーセナルがドルトムントと1-1（ギェケレシュ10分、バイアー55分）、マンチェスター・シティがナポリと2-2で引き分けた。"
       ]
     },
@@ -179,7 +179,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "페리시치에게 페널티킥 선제골을 허용한 레알 마드리드가 후반전 5득점 화력을 앞세워 PSV를 5-1로 대파했다.",
       "body": [
         "11월 24일 화요일 UEFA 챔피언스리그 리그 페이즈 5차전에서 레알 마드리드가 산티아고 베르나베우 홈팬들 앞에서 PSV 에인트호번에 5-1 역전 대승을 거두고 유일한 5전 전승 승점 15점 선두에 올랐다.",
-        "전반 32분 이반 페리시치의 페널티킥으로 리드를 내준 레알 마드리드는 후반 50분 페데리코 발베르데의 동점골로 반격을 시작한 뒤 60분 주드 벨링엄의 환상적인 역전골로 흐름을 완벽히 뒤집었다.",
+        "전반 32분 이반 페리시치의 페널티킥으로 리드를 내준 레알 마드리드는 후반 50분 페데리코 발베르데의 동점골로 반격을 시작한 뒤 59분 주드 벨링엄의 환상적인 역전골로 흐름을 완벽히 뒤집었다.",
         "이어 킬리안 음바페가 64분과 84분 연속골을 터뜨렸고, 87분 비니시우스 주니오르가 대미를 장식했다. 같은 날 아스널은 도르트문트와 1-1(요케레스 10분, 바이어 55분), 맨시티는 나폴리와 2-2 무승부를 기록했다."
       ]
     },
@@ -189,7 +189,7 @@ export const STORY_I18N: Record<string, LocMap> = {
       "excerpt": "بعد تقدم ايفان بيريسيتش من علامة الجزاء، انفجر هجوم ريال مدريد بخمسة اهداف بعد الاستراحة ليواصل السجل المثالي بخمسة انتصارات.",
       "body": [
         "اكد ريال مدريد سطوته الاوروبية مساء الثلاثاء 24 نوفمبر بعد قلب تاخره في الشوط الاول الى فوز كاسح 5-1 على بي اس في ايندهوفن في ملعب سانتياغو برنابيو، ليصبح الفريق الوحيد بالعلامة الكاملة 15 نقطة.",
-        "فاجا ايفان بيريسيتش الجماهير بهدف التقدم لايندهوفن من ركلة جزاء في الدقيقة 32. لكن فيديريكو فالفيردي ادرك التعادل في الدقيقة 50، قبل ان يطلق جود بيلينغهام تسديدة ساحرة في الدقيقة 60.",
+        "فاجا ايفان بيريسيتش الجماهير بهدف التقدم لايندهوفن من ركلة جزاء في الدقيقة 32. لكن فيديريكو فالفيردي ادرك التعادل في الدقيقة 50، قبل ان يطلق جود بيلينغهام تسديدة ساحرة في الدقيقة 59.",
         "واضاف كيليان مبابي ثنائية في الدقيقتين 64 و84 قبل ان يختتم فينيسيوس جونيور الخماسية في الدقيقة 87. وفي بقية قمم الثلاثاء تعادل ارسنال 1-1 مع دورتموند ومانشستر سيتي 2-2 مع نابولي."
       ]
     }
@@ -318,57 +318,57 @@ export const STORY_I18N: Record<string, LocMap> = {
       ]
     },
     "it": {
-      "title": "Coppa Davis a Bologna: Italia avanti sulla Corea del Sud dopo il trionfo imbattuto di Alcaraz a Torino",
+      "title": "Coppa Davis a Bologna: la Ceca avanza, Italia-Corea resta aperta dopo il trionfo imbattuto di Alcaraz a Torino",
       "subtitle": "Lorenzo Musetti batte Seongchan Hong 6-0, 7-6(5) dopo il successo per 2-0 della Repubblica Ceca sul Canada.",
-      "excerpt": "Gli azzurri tre volte campioni in carica scattano sull'1-0 nei quarti alla SuperTennis Arena pochi giorni dopo lo storico sigillo di Alcaraz.",
+      "excerpt": "La Repubblica Ceca passa 2-0. Musetti vince il primo punto; Italia-Corea resta aperta. Giovedi: Gran Bretagna vs Germania.",
       "body": [
         "Il grande tennis resta di casa nel Nord Italia per le Final 8 di Coppa Davis a BolognaFiere, all'indomani dell'indimenticabile settimana torinese firmata da Carlos Alcaraz alle Nitto ATP Finals.",
         "Domenica a Torino lo spagnolo ha superato Alexander Zverev 6-2, 7-6(7) annullando tre set point al tie-break (9-7), chiudendo imbattuto 5-0 (5,171 milioni di dollari) da quarto giocatore nella storia capace di vincere tutti gli Slam e le Finals.",
-        "A Bologna la Repubblica Ceca ha aperto il tabellone battendo il Canada 2-0, mentre mercoledi Lorenzo Musetti ha piegato Seongchan Hong 6-0, 7-6(5) portando l'Italia sull'1-0 prima di Cobolli-Kwon e delle sfide di giovedi."
+        "A Bologna la Repubblica Ceca ha aperto il tabellone battendo il Canada 2-0, mentre mercoledi Lorenzo Musetti ha piegato Seongchan Hong 6-0, 7-6(5) lasciando Italia-Corea ancora aperta prima di Cobolli-Kwon e delle sfide di giovedi."
       ]
     },
     "pl": {
-      "title": "Puchar Davisa w Bolonii: Wlosi prowadza z Korea Pld po triumfie bez porazki Alcaraza w Turynie",
+      "title": "Puchar Davisa w Bolonii: Czechy w polfinale, Wlochy-Korea nadal otwarte po triumfie Alcaraza w Turynie",
       "subtitle": "Lorenzo Musetti pokonal Seongchana Honga 6:0, 7:6(5), wczesniej Czechy wyeliminowaly Kanade 2:0.",
-      "excerpt": "Obroncy trofeum prowadza 1:0 w cwiercfinale w Bolonii kilka dni po tym, jak Carlos Alcaraz zdobyl pierwszy tytul Nitto ATP Finals.",
+      "excerpt": "Czechy wygrywaja 2:0 z Kanada. Musetti wygrywa pierwszy punkt; Wlochy-Korea pozostaja otwarte. Czwartek: Wielka Brytania vs Niemcy.",
       "body": [
         "Tenisowa elita przeniosla sie z Turynu do Bolonii na turniej Final 8 Pucharu Davisa, zaledwie kilka dni po historycznym wystepie Carlosa Alcaraza w Nitto ATP Finals.",
         "W niedzielnym finale 22 listopada Alcaraz pokonal lidera rankingu Alexandra Zvereva 6:2, 7:6(7), broniac trzech pilek setowych w tie-breaku i zgarniajac 5,171 miliona dolarow jako czwarty tenisista w dziejach ze wszystkimi Szlemami i tytulem mistrza sezonu.",
-        "W Bolonii Czechy ograly Kanade 2:0, a w srode Lorenzo Musetti rozbil Seongchana Honga 6:0, 7:6(5), dajac Wlochom prowadzenie 1:0 przed czwartkowymi meczami Wielka Brytania - Niemcy i Austria - Hiszpania."
+        "W Bolonii Czechy ograly Kanade 2:0, a w srode Lorenzo Musetti rozbil Seongchana Honga 6:0, 7:6(5), z Wlochami i Korea nadal otwartymi przed czwartkowymi meczami Wielka Brytania - Niemcy i Austria - Hiszpania."
       ]
     },
     "zh": {
-      "title": "戴维斯杯博洛尼亚总决赛：卫冕冠军意大利领先韩国，阿尔卡拉斯刚在都灵全胜封王",
+      "title": "戴维斯杯博洛尼亚总决赛：捷克晋级，意大利对韩国仍在进行，阿尔卡拉斯刚在都灵全胜封王",
       "subtitle": "穆塞蒂直落两盘击败洪性成，此前捷克2比0淘汰加拿大率先晋级四强。",
       "excerpt": "博洛尼亚八强淘汰赛激战正酣，穆塞蒂为意大利先拔头筹；几天前阿尔卡拉斯刚直落两盘击败兹维列夫夺得年终首冠。",
       "body": [
         "网坛本周聚焦意大利北部博洛尼亚的戴维斯杯八强决赛，紧随卡洛斯·阿尔卡拉斯在都灵Nitto ATP年终总决赛上的历史性加冕之后登场。",
         "11月22日周日都灵决赛中，23岁的阿尔卡拉斯在第二盘抢七挽救三个盘点，以6比2、7比6(7)力克头号种子兹维列夫，五战全胜独揽517.1万美元最高奖金，成为史上第四位集齐四大满贯与年终总决赛的男子选手。",
-        "转战博洛尼亚团体舞台，捷克周二2比0完胜加拿大率先晋级四强，周三洛伦佐·穆塞蒂6比0、7比6(5)力克洪性成助意大利1比0领先韩国，周四英国对德国以及奥地利对西班牙还将接连打响。"
+        "转战博洛尼亚团体舞台，捷克周二2比0完胜加拿大率先晋级四强，周三洛伦佐·穆塞蒂6比0、7比6(5)力克洪性成意大利对韩国仍未完结。周四英国对德国以及奥地利对西班牙还将接连打响。"
       ]
     },
     "ja": {
-      "title": "デビスカップ・ボローニャ：王者イタリアが韓国に先勝、直前のトリノではアルカラスが全勝V",
+      "title": "デビスカップ・ボローニャ：チェコ通過、イタリア対韓国は未決着、直前のトリノではアルカラスが全勝V",
       "subtitle": "ムゼッティがホン・ソンチャンをストレートで下し先制点、チェコはカナダに2-0で完勝。",
-      "excerpt": "ボローニャでのファイナル8準々決勝が開幕しイタリアが1-0と先行、トリノではアルカラスがズベレフを破り初の年間王者へ。",
+      "excerpt": "チェコがカナダに2-0。ムゼッティが先勝するもイタリア対韓国は未決着。木曜はイギリス対ドイツ。",
       "body": [
         "男子テニスの舞台はトリノから同じくイタリア北部のボローニャへ移り、デビスカップ・ファイナル8のノックアウト決戦が展開されている。",
         "22日のNitto ATPファイナルズ決勝では、23歳のカルロス・アルカラスが世界1位アレクサンダー・ズベレフを6-2、7-6(7)で撃破。5戦全勝で最高賞金517万1000ドルを獲得し、4大大会すべてと年間最終戦を制した史上4人目の選手となった。",
-        "ボローニャでは火曜日にチェコがカナダを2-0で下して準決勝一番乗りを決め、水曜日にはイタリアのロレンツォ・ムゼッティがホン・ソンチャンに6-0、7-6(5)で勝利して先制、木曜はイギリス対ドイツとオーストリア対スペインが行われる。"
+        "ボローニャでは火曜日にチェコがカナダを2-0で下して準決勝一番乗りを決め、水曜日にはイタリアのロレンツォ・ムゼッティがホン・ソンチャンに6-0、7-6(5)で勝利。イタリア対韓国は未決着で、木曜はイギリス対ドイツとオーストリア対スペインが行われる。"
       ]
     },
     "ko": {
-      "title": "데이비스 컵 볼로냐 파이널: 이탈리아 한국전 리드, 알카라스는 토리노 무패 우승 위업",
+      "title": "데이비스 컵 볼로냐 파이널: 체코 통과, 이탈리아-한국은 진행 중, 알카라스는 토리노 무패 우승",
       "subtitle": "로렌초 무세티가 홍성찬을 제압하며 디펜딩 챔피언에 1승 안겨, 체코는 캐나다에 2-0 완승.",
       "excerpt": "볼로냐 파이널 8 토너먼트에서 이탈리아가 먼저 승기를 잡은 가운데, 직전 토리노에서는 카를로스 알카라스가 5전 전승으로 생애 첫 파이널스 정상에 올랐다.",
       "body": [
         "세계 남자 테니스의 열기가 토리노 ATP 파이널스에 이어 이탈리아 북부 볼로냐에서 열리는 2026 데이비스 컵 파이널 8 토너먼트로 그대로 이어지고 있다.",
         "지난 일요일 토리노 결승에서는 카를로스 알카라스가 세계 1위 알렉산더 즈베레프를 상대로 2세트 타이브레이크 3개의 세트포인트를 막아내며 6-2, 7-6(7) 완승을 거뒀다. 무패 우승으로 517만 1천 달러를 수확하며 커리어 슈퍼 슬램에 파이널스까지 석권한 역대 네 번째 선수가 됐다.",
-        "이어진 볼로냐 국가대항전에서는 체코가 캐나다를 2-0으로 꺾고 4강에 선착했고, 수요일 이탈리아의 무세티가 한국의 홍성찬을 6-0, 7-6(5)으로 제압하며 1-0 리드를 잡았다."
+        "이어진 볼로냐 국가대항전에서는 체코가 캐나다를 2-0으로 꺾고 4강에 선착했고, 수요일 이탈리아의 무세티가 한국의 홍성찬을 6-0, 7-6(5)으로 제압했다. 이탈리아-한국 경기는 아직 진행 중이다."
       ]
     },
     "ar": {
-      "title": "كاس ديفيز في بولونيا: ايطاليا تتقدم على كوريا الجنوبية بعد تتويج الكاراز في تورينو",
+      "title": "كاس ديفيز في بولونيا: التشيك يعبر وايطاليا-كوريا ما زالت مفتوحة بعد تتويج الكاراز في تورينو",
       "subtitle": "لورينزو موسيتي يكتسح هونغ سونغ تشان 6-0 و7-6 ليمنح حامل اللقب التقدم بعد تاهل التشيك على حساب كندا.",
       "excerpt": "المتنافسون يدخلون ربع النهائي في بولونيا اياما بعد فوز كارلوس الكاراز بلقب نهائيات التنس دون هزيمة على حساب زفيريف.",
       "body": [
