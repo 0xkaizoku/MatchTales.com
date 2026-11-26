@@ -1,0 +1,81 @@
+{
+  "slug": "nba-sixers-vs-heat-nov25-2026",
+  "headline": "Emirates NBA Cup: LeBron posts first Sixers triple-double in 111-104 win over Heat",
+  "whyCareScore": 8.9,
+  "whyCareReason": "LeBron James records 25 points, 10 rebounds and 12 assists in Philadelphia first Sixers triple-double, snapping Miami seven-game streak.",
+  "teaser": "LeBron 25/10/12 and Maxey 30 beat Giannis 32/14 as the Sixers win 111-104. Portland beat San Antonio 116-111, Wembanyama 44 and 16.",
+  "story": "The Philadelphia 76ers beat the Miami Heat 111-104 on Wednesday, 25 November, in Emirates NBA Cup play, then the league paused for Thanksgiving rest on Thursday.\n\nLeBron James posted 25 points, 10 rebounds and 12 assists for his first triple-double in a Sixers uniform. Tyrese Maxey scored 30. Giannis Antetokounmpo had 32 points and 14 rebounds in the loss. Philadelphia moved to 15-4 and ended Miami seven-game winning streak.\n\nThe same night Portland beat San Antonio 116-111: Deni Avdija scored 33 with 12 rebounds and 7 assists, Damian Lillard added 29 points on 10-of-10 free throws, and Victor Wembanyama had 44 points and 16 rebounds. Tuesday still stands: Mavericks 120-101 Nuggets, Celtics 131-116 Wizards, Pistons 104-86 Magic.",
+  "stakes": "Philadelphia sit 15-4 heading into the Thanksgiving pause after snapping Miami seven-game run.",
+  "rivalryAngle": "LeBron first Sixers triple-double came against a Heat team that had won seven in a row.",
+  "funFacts": [
+    "LeBron James: 25 points, 10 rebounds, 12 assists, first triple-double as a Sixer.",
+    "Tyrese Maxey scored 30; Giannis Antetokounmpo had 32 and 14 in the Heat loss.",
+    "Portland 116-111 San Antonio: Wembanyama 44 and 16; Avdija 33/12/7; Lillard 29."
+  ],
+  "keyPlayers": [
+    {
+      "name": "LeBron James",
+      "team": "Philadelphia 76ers",
+      "hook": "25 points, 10 rebounds, 12 assists in his first Sixers triple-double."
+    },
+    {
+      "name": "Tyrese Maxey",
+      "team": "Philadelphia 76ers",
+      "hook": "Scored 30 points in the 111-104 Cup win."
+    },
+    {
+      "name": "Victor Wembanyama",
+      "team": "San Antonio Spurs",
+      "hook": "44 points and 16 rebounds in a 116-111 loss at Portland."
+    }
+  ],
+  "headToHead": "25 November 2026. Emirates NBA Cup. Final: 76ers 111, Heat 104.",
+  "tags": [
+    "basketball",
+    "nba",
+    "nba-cup",
+    "sixers",
+    "heat",
+    "lebron",
+    "maxey"
+  ],
+  "home": "Philadelphia 76ers",
+  "away": "Miami Heat",
+  "homeCode": "USA",
+  "awayCode": "USA",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "Emirates NBA Cup",
+  "matchday": 6,
+  "date": "2026-11-25",
+  "time": "Evening ET",
+  "venue": "Wells Fargo Center",
+  "city": "Philadelphia",
+  "status": "FINISHED",
+  "homeScore": 111,
+  "awayScore": 104,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1752757/pexels-photo-1752757.jpeg",
+  "decidedBy": "regular",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "basketball",
+  "competition": "nba-2026-27",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "Emirates NBA Cup · Wednesday",
+  "resultSummary": "FINAL: 76ers 111, Heat 104 (LeBron 25/10/12, Maxey 30; Giannis 32/14). Also: Blazers 116-111 Spurs (Wemby 44/16).",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "NBA.com / ESPN: 76ers 111-104 Heat box",
+      "url": "https://www.nba.com/"
+    },
+    {
+      "name": "NBA.com: Trail Blazers 116-111 Spurs",
+      "url": "https://www.nba.com/games"
+    }
+  ]
+}

@@ -1,25 +1,25 @@
 ---
-title: "Davis Cup Final 8 in Bologna: Czechia through, Italy vs Korea still open after Alcaraz sweeps Turin"
-subtitle: "Lorenzo Musetti beats Seongchan Hong as Bologna hosts the knockout climax on the heels of Carlos Alcaraz undefeated Nitto ATP Finals crown."
+title: "Davis Cup Bologna: Italy 2-1 Korea and Great Britain 2-1 Germany reach the last four"
+subtitle: "Berrettini and Vavassori close Italy title defense; Patten and Skupski send Great Britain to a first semifinal since 2019."
 category: "tennis"
-excerpt: "Czechia beat Canada 2-0 and Lorenzo Musetti wins the opening rubber for Italy. Official Davis Cup still lists Italy vs Korea in progress. Thursday: Great Britain vs Germany."
+excerpt: "Italy beat South Korea 2-1 on Wednesday and Great Britain beat Germany 2-1 on Thursday in Bologna. Austria vs Spain at 17:00 CET is unpublished."
 image: "https://images.pexels.com/photos/1618210/pexels-photo-1618210.jpeg"
 readingTime: 5
 pubDate: 2026-11-26
 sport: "tennis"
 competition: "davis-cup-2026"
-relatedSlug: "davis-cup-finals-2026-bologna-knockout"
+relatedSlug: "davis-cup-britain-vs-germany-nov26-2026"
 sources:
-  - name: "Davis Cup Official: Bologna Final 8 Results & Thursday Schedule"
-    url: "https://www.daviscup.com/en/news/bologna-finals-2026-knockout-preview"
-  - name: "ATP Tour: Alcaraz Completes Undefeated 5-0 Run to Win Maiden Turin Title"
-    url: "https://www.atptour.com/en/news/alcaraz-zverev-turin-final-2026"
-  - name: "Al Jazeera / Channel NewsAsia: Alcaraz Joins Career Super Slam Elite & Musetti Opens Bologna"
-    url: "https://www.aljazeera.com/sports/"
+  - name: "BBC Sport: Great Britain beat Germany to reach Davis Cup semi-finals"
+    url: "https://www.bbc.co.uk/sport/tennis/articles/c5m2lvevrk1mo"
+  - name: "LTA: Great Britain 2-1 Germany"
+    url: "https://www.lta.org.uk/fan-zone/davis-cup/news/final-8-great-britain-vs-germany-results-updates"
+  - name: "Davis Cup official: Bologna Final 8"
+    url: "https://www.daviscup.com/"
 ---
 
-World tennis remains anchored in northern Italy this week as the 2026 Davis Cup Final 8 knockout championship unfolds inside SuperTennis Arena at BolognaFiere, arriving days after Carlos Alcaraz delivered an unforgettable coronation at the Nitto ATP Finals in Turin.
+The Davis Cup Final 8 in Bologna now has three quarterfinals in the book and one still to play.
 
-In Sunday Turin final (22 November), 23-year-old Alcaraz conquered World No. 1 Alexander Zverev 6-2, 7-6(7), saving three set points in a nerve-shredding second-set tiebreak (9-7) to cap an undefeated 5-0 week and extend his winning streak to 14 matches. Taking home the maximum $5,171,000 undefeated payout out of the $15,750,000 purse, Alcaraz joined Andre Agassi, Roger Federer, and Novak Djokovic as only the fourth man in tennis history to capture all four career Grand Slams alongside the year-end trophy.
+On Wednesday, Italy beat South Korea 2-1. Lorenzo Musetti defeated Seongchan Hong 6-0, 7-6(5). Soonwoo Kwon leveled by beating Flavio Cobolli 3-6, 7-6(3), 7-6(5). Matteo Berrettini and Andrea Vavassori then won the doubles 7-6(2), 7-6(11) over Hyeon Chung and Kwon. Czechia had already swept Canada 2-0 on Tuesday (Machac d Draxl 6-2, 3-6, 6-2; Lehecka d Auger-Aliassime 7-6(4), 6-2). Italy meet Czechia on Friday at 16:00 CET.
 
-Now attention shifts to national pride in Bologna (24-29 November). On Tuesday, Czechia swept Canada 2-0 to claim the first semifinal spot as Tomas Machac outlasted Liam Draxl 6-2, 3-6, 6-2 and Jiri Lehecka beat Felix Auger-Aliassime 7-6(4), 6-2. On Wednesday, Lorenzo Musetti beat Seongchan Hong 6-0, 7-6(5) in Italy's opening rubber against South Korea. Official Davis Cup still lists that tie in progress, so Flavio Cobolli vs Soonwoo Kwon is unpublished as a final. Thursday quarterfinals: Great Britain vs Germany at 10:00 CET, then Austria vs Spain at 17:00 CET.
+On Thursday, Great Britain beat Germany 2-1 for a first semifinal since 2019. Cameron Norrie beat Jan-Lennard Struff 6-3, 3-6, 6-2. Alexander Zverev leveled 6-3, 6-2 over Arthur Fery. Henry Patten and Neal Skupski closed 6-2, 7-6(6) against Kevin Krawietz and Tim Puetz. Austria vs Spain at 17:00 CET remains unpublished. Carlos Alcaraz Turin title still stands: 6-2, 7-6(7) over Zverev on 22 November, unbeaten 5-0.

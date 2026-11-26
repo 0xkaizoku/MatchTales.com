@@ -1,35 +1,35 @@
 {
   "slug": "davis-cup-finals-2026-bologna-knockout",
-  "headline": "Davis Cup Final 8 in Bologna: Czechia through; Italy vs Korea still open after Musetti",
-  "whyCareScore": 8.9,
-  "whyCareReason": "Three-time defending champions Italy host South Korea in Bologna after Czechia booked the first semifinal, with Great Britain vs Germany on Thursday.",
-  "teaser": "Czechia sweep Canada 2-0. Lorenzo Musetti beats Seongchan Hong 6-0, 7-6(5); Flavio Cobolli vs Soonwoo Kwon unpublished as final. Thursday: GB vs Germany.",
-  "story": "The 2026 Davis Cup Final 8 knockout stage is underway at SuperTennis Arena (BolognaFiere).\n\nOn Tuesday, Czechia became the first nation into the semifinals by beating Canada 2-0, Tomas Machac defeating Liam Draxl 6-2, 3-6, 6-2 and Jiri Lehecka beating Felix Auger-Aliassime 7-6(4), 6-2.\n\nOn Wednesday, Lorenzo Musetti gave Italy the opening rubber against South Korea, 6-0, 7-6(5) over Seongchan Hong. The tie remains open: official Davis Cup lists Italy vs Korea in progress, so Flavio Cobolli vs Soonwoo Kwon is unpublished as a final. Thursday quarterfinals: Great Britain vs Germany at 10:00 CET, Austria vs Spain at 17:00 CET.",
-  "stakes": "A semifinal berth against the remaining Final 8 field awaits the winner as Italy chase a historic fourth consecutive Davis Cup crown.",
-  "rivalryAngle": "Italy open their home title defense backed by noisy Bologna support, with Musetti and Cobolli leading the singles charge.",
+  "headline": "Davis Cup Bologna: Italy beat South Korea 2-1; Czechia already through",
+  "whyCareScore": 9.0,
+  "whyCareReason": "Defending champions Italy survive Kwon beating Cobolli and close the tie in doubles, joining Czechia in the last four.",
+  "teaser": "Musetti d Hong 6-0, 7-6(5); Kwon d Cobolli 3-6, 7-6(3), 7-6(5); Berrettini and Vavassori d Chung and Kwon 7-6(2), 7-6(11).",
+  "story": "Italy beat South Korea 2-1 in the Davis Cup Final 8 quarterfinals on Wednesday, 25 November, at SuperTennis Arena in Bologna.\n\nLorenzo Musetti opened with a 6-0, 7-6(5) win over Seongchan Hong. Soonwoo Kwon leveled the tie by beating Flavio Cobolli 3-6, 7-6(3), 7-6(5). Matteo Berrettini and Andrea Vavassori then won the doubles 7-6(2), 7-6(11) over Hyeon Chung and Kwon.\n\nCzechia had already booked a semifinal by beating Canada 2-0 on Tuesday. Great Britain later beat Germany 2-1 on Thursday. Austria vs Spain at 17:00 CET on Thursday remains unpublished. Italy meet Czechia in Friday semifinals (16:00 CET).",
+  "stakes": "Italy join Czechia in the last four and meet them on Friday in Bologna.",
+  "rivalryAngle": "Home doubles from Berrettini and Vavassori rescued the title defense after Kwon leveled the singles.",
   "funFacts": [
-    "Musetti took the first set 6-0 then the second-set tiebreak 7-6(5).",
-    "Czechia swept Canada 2-0 on Tuesday to become the first team into the semifinals.",
-    "Great Britain vs Germany opens Thursday at 10:00 CET, followed by Austria vs Spain."
+    "Musetti won the opener 6-0, 7-6(5) before Kwon leveled against Cobolli in two tiebreaks.",
+    "Berrettini and Vavassori closed 7-6(2), 7-6(11) in the decisive doubles.",
+    "Czechia swept Canada 2-0 on Tuesday; Italy vs Czechia is Friday at 16:00 CET."
   ],
   "keyPlayers": [
     {
       "name": "Lorenzo Musetti",
       "team": "Italy",
-      "hook": "Blitzed Seongchan Hong 6-0, 7-6(5) in 1 hour and 32 minutes for Italy opening point."
+      "hook": "Beat Seongchan Hong 6-0, 7-6(5) for Italy opening point."
     },
     {
-      "name": "Flavio Cobolli",
+      "name": "Matteo Berrettini",
       "team": "Italy",
-      "hook": "Lined up against Soonwoo Kwon in the pivotal second singles rubber."
+      "hook": "Won the decisive doubles with Andrea Vavassori 7-6(2), 7-6(11)."
     },
     {
-      "name": "Tomas Machac",
-      "team": "Czechia",
-      "hook": "Pushed Czechia past Canada with a 6-2, 3-6, 6-2 singles win over Liam Draxl."
+      "name": "Soonwoo Kwon",
+      "team": "South Korea",
+      "hook": "Leveled the tie by beating Flavio Cobolli 3-6, 7-6(3), 7-6(5)."
     }
   ],
-  "headToHead": "24-26 November 2026. SuperTennis Arena, BolognaFiere. Czechia 2-0 Canada complete; Italy vs Korea still open.",
+  "headToHead": "25 November 2026. SuperTennis Arena, BolognaFiere. Final: Italy 2-1 South Korea.",
   "tags": [
     "tennis",
     "davis-cup",
@@ -51,13 +51,13 @@
   "time": "16:00 CET",
   "venue": "SuperTennis Arena, BolognaFiere",
   "city": "Bologna",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
-  "marquee": false,
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 1,
+  "marquee": true,
   "liveMinute": null,
   "image": "https://images.pexels.com/photos/1618210/pexels-photo-1618210.jpeg",
-  "decidedBy": null,
+  "decidedBy": "regular",
   "homePen": null,
   "awayPen": null,
   "sport": "tennis",
@@ -65,7 +65,7 @@
   "format": "team-match",
   "season": "2026",
   "roundLabel": "Davis Cup Final 8 · Quarterfinals",
-  "resultSummary": "Czechia 2-0 Canada complete. Italy vs Korea open after Musetti d Hong 6-0, 7-6(5). Thu: GB vs Germany 10:00 CET.",
+  "resultSummary": "FINAL: Italy 2-1 South Korea (Musetti d Hong 6-0, 7-6(5); Kwon d Cobolli 3-6, 7-6(3), 7-6(5); Berrettini/Vavassori d Chung/Kwon 7-6(2), 7-6(11)).",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [

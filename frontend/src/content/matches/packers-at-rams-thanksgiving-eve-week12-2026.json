@@ -1,0 +1,85 @@
+{
+  "slug": "packers-at-rams-thanksgiving-eve-week12-2026",
+  "headline": "Thanksgiving Eve: Blake Corum runs for 184 as Rams grind past Packers 26-13",
+  "whyCareScore": 9.1,
+  "whyCareReason": "Los Angeles wins a fifth straight and moves to 7-4 as Green Bay falls to 6-5 after a second-half blanking at SoFi Stadium.",
+  "teaser": "Blake Corum (32 carries, 184 yards, 1 TD) and four Brandon McManus field goals power the Rams past Green Bay 26-13 on Netflix Thanksgiving Eve.",
+  "story": "The Los Angeles Rams used a relentless ground game to beat the Green Bay Packers 26-13 on Wednesday night, 25 November, in the NFL first Thanksgiving Eve game at SoFi Stadium in Inglewood.\n\nBlake Corum rushed 32 times for a career-high 184 yards and a 1-yard touchdown. Kyren Williams added a 7-yard scoring run and Brandon McManus kicked four field goals from 43, 41, 40 and 30 yards. The Rams piled up 241 rushing yards and held the ball 40:40 to Green Bay 19:20.\n\nMatthew Stafford completed 16 of 23 passes for 140 yards with one interception. Jordan Love went 17 of 29 for 198 yards, one touchdown and two interceptions. Christian Watson caught four passes for 65 yards and a score before a helmet-first hit from Kam Kinchens, who was ejected. Watson left with a concussion. Los Angeles is 7-4 on a five-game winning streak. Green Bay is 6-5.",
+  "stakes": "The Rams take the head-to-head tiebreaker and a 7-4 mark into the NFC playoff race while Green Bay drops a second straight.",
+  "rivalryAngle": "Corum birthday night and a 13-0 second half turned a 6-4 vs 6-4 Netflix showcase into a Rams statement.",
+  "funFacts": [
+    "Corum 32 carries were the most by a Rams back since Todd Gurley in 2015.",
+    "Los Angeles rushed for 241 yards and led time of possession 40:40 to 19:20.",
+    "Green Bay managed 16 second-half plays and was shut out after halftime, 13-0."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Blake Corum",
+      "team": "Los Angeles Rams",
+      "hook": "Career-high 184 yards and a touchdown on 32 carries, including 161 yards after halftime."
+    },
+    {
+      "name": "Brandon McManus",
+      "team": "Los Angeles Rams",
+      "hook": "Four field goals from 43, 41, 40 and 30 yards."
+    },
+    {
+      "name": "Jordan Love",
+      "team": "Green Bay Packers",
+      "hook": "17 of 29 for 198 yards, one touchdown and two interceptions as Green Bay went scoreless after the break."
+    }
+  ],
+  "headToHead": "25 November 2026. 8:00 PM ET (Netflix). SoFi Stadium, Inglewood. Final: Rams 26, Packers 13.",
+  "tags": [
+    "football",
+    "nfl",
+    "thanksgiving",
+    "rams",
+    "packers",
+    "blake-corum",
+    "week-12"
+  ],
+  "home": "Los Angeles Rams",
+  "away": "Green Bay Packers",
+  "homeCode": "USA",
+  "awayCode": "USA",
+  "homeFlag": "us",
+  "awayFlag": "us",
+  "group": "NFL Week 12",
+  "matchday": 12,
+  "date": "2026-11-25",
+  "time": "8:00 PM ET",
+  "venue": "SoFi Stadium",
+  "city": "Inglewood",
+  "status": "FINISHED",
+  "homeScore": 26,
+  "awayScore": 13,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/1618269/pexels-photo-1618269.jpeg",
+  "decidedBy": "regular",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "football",
+  "competition": "nfl-2026",
+  "format": "team-match",
+  "season": "2026",
+  "roundLabel": "NFL Week 12 · Thanksgiving Eve",
+  "resultSummary": "FINAL: Rams 26, Packers 13 (Corum 32-184-1, McManus 4 FGs; Love 17/29, 198, 1 TD, 2 INT). LAR 7-4, GB 6-5.",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "CBS Sports: Corum rushes for 184 as Rams power past Packers 26-13",
+      "url": "https://www.cbssports.com/nfl/news/blake-corum-rushes-for-184-yards-as-rams-power-past-packers-26-13/"
+    },
+    {
+      "name": "packers.com: Game recap from Packers loss to Rams Week 12",
+      "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-loss-to-rams-week-12-2026"
+    },
+    {
+      "name": "Sky Sports: Rams beat Packers 26-13 on Thanksgiving Eve",
+      "url": "https://www.skysports.com/nfl/news/13616629/nfl-los-angeles-rams-beat-green-bay-packers-26-13-in-thanksgiving-eve-clash-for-fifth-straight-win-in-playoff-push"
+    }
+  ]
+}

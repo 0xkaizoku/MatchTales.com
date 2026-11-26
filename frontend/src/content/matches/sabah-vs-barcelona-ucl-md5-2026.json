@@ -1,0 +1,85 @@
+{
+  "slug": "sabah-vs-barcelona-ucl-md5-2026",
+  "headline": "Champions League MD5: Gordon double sends Barcelona past Sabah 4-1 in Baku",
+  "whyCareScore": 8.8,
+  "whyCareReason": "Anthony Gordon scores twice as Barcelona take a fourth win from five and sit on 12 points; Liverpool also win 3-0 at Club Brugge.",
+  "teaser": "Gordon 31 and 51, Adeyemi 55 and Jesus 60 sink Sabah 4-1. Mickels replies on 63. Liverpool beat Club Brugge 3-0 the same night.",
+  "story": "Barcelona cruised to a 4-1 Champions League win at Sabah on Wednesday, 25 November, at the Baku Olympic Stadium as Hansi Flick side posted a fourth victory from five league-phase matches.\n\nAnthony Gordon opened on 31 minutes and doubled the lead on 51. Karim Adeyemi scored on 55 and Gabriel Jesus made it 4-0 on 60. Joy-Lance Mickels pulled one back on 63. Gordon was player of the match.\n\nThe same night Liverpool won 3-0 at Club Brugge: Alexander Isak scored in the 13th minute and added a late chip, with Florian Wirtz striking on 79. After five matchdays Real Madrid remain first on 15 points, PSG sit second on 13, and Barcelona and Liverpool are among the 12-point group. Premier League after MW11 is unchanged: Arsenal 28, Brighton 22, Manchester City 22, Liverpool 21.",
+  "stakes": "Barcelona keep a top-eight automatic path on 12 points from five; Real Madrid still lead the 36-team table on 15.",
+  "rivalryAngle": "Flick rotated without Lamine Yamal and still produced a three-goal burst in nine second-half minutes in Baku.",
+  "funFacts": [
+    "Gordon scored on 31 and 51 minutes; Adeyemi 55 and Jesus 60 completed a 4-0 burst before Mickels 63.",
+    "Liverpool won 3-0 at Club Brugge (Isak 13 and late, Wirtz 79) to reach 12 points.",
+    "Table after MD5: Real Madrid 15, PSG 13, Barcelona 12, Liverpool 12. Arsenal 11, City 10 from Tuesday."
+  ],
+  "keyPlayers": [
+    {
+      "name": "Anthony Gordon",
+      "team": "Barcelona",
+      "hook": "Two goals in Baku (31, 51) as player of the match."
+    },
+    {
+      "name": "Karim Adeyemi",
+      "team": "Barcelona",
+      "hook": "Set up the opener and scored the third on 55 minutes."
+    },
+    {
+      "name": "Alexander Isak",
+      "team": "Liverpool",
+      "hook": "Scored twice in a 3-0 win at Club Brugge, including a 13th-minute opener."
+    }
+  ],
+  "headToHead": "25 November 2026. UEFA Champions League Matchday 5. Baku Olympic Stadium. Final: Sabah 1-4 Barcelona.",
+  "tags": [
+    "soccer",
+    "champions-league",
+    "barcelona",
+    "sabah",
+    "gordon",
+    "liverpool",
+    "isak"
+  ],
+  "home": "Sabah",
+  "away": "Barcelona",
+  "homeCode": null,
+  "awayCode": null,
+  "homeFlag": "",
+  "awayFlag": "",
+  "group": "UCL",
+  "matchday": 5,
+  "date": "2026-11-25",
+  "time": "18:45 CET",
+  "venue": "Baku Olympic Stadium",
+  "city": "Baku",
+  "status": "FINISHED",
+  "homeScore": 1,
+  "awayScore": 4,
+  "marquee": true,
+  "liveMinute": null,
+  "image": "https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg",
+  "decidedBy": "regular",
+  "homePen": null,
+  "awayPen": null,
+  "sport": "soccer",
+  "competition": "champions-league-2026",
+  "format": "team-match",
+  "season": "2026-27",
+  "roundLabel": "Champions League · Matchday 5",
+  "resultSummary": "FINAL: Sabah 1-4 Barcelona (Gordon 31, 51; Adeyemi 55; Jesus 60; Mickels 63). Same night: Club Brugge 0-3 Liverpool (Isak 13, Wirtz 79, Isak late).",
+  "leaderboard": [],
+  "tennisSets": [],
+  "sources": [
+    {
+      "name": "Reuters: Gordon double helps Barcelona cruise past Sabah 4-1",
+      "url": "https://www.reuters.com/sports/soccer/gordon-double-helps-barcelona-cruise-past-sabah-4-1-champions-league-2026-11-25/"
+    },
+    {
+      "name": "Liverpool FC: Isak and Wirtz strike in 3-0 win at Club Brugge",
+      "url": "https://www.liverpoolfc.com/news/match-report-liverpool-brugge-champions-league-isak-wirtz"
+    },
+    {
+      "name": "UEFA Champions League: Matchday 5 reports",
+      "url": "https://www.uefa.com/uefachampionsleague/"
+    }
+  ]
+}

@@ -1,30 +1,35 @@
 {
   "slug": "davis-cup-britain-vs-germany-nov26-2026",
-  "headline": "Davis Cup Quarterfinal: Great Britain clash with Germany to launch Thursday Final 8 doubleheader in Bologna",
-  "whyCareScore": 8.6,
-  "whyCareReason": "Thursday knockout tennis opens early in Bologna with Great Britain facing Germany before Austria collide with Spain in the evening tie.",
-  "teaser": "Great Britain meet Germany at 10:00 CET at SuperTennis Arena on Thursday, launching day three of the 2026 Davis Cup Final 8.",
-  "story": "Quarterfinal action continues in Bologna on Thursday, 26 November, as Great Britain take on Germany in the opening 10:00 CET session at SuperTennis Arena before Austria face Spain in the evening session (not before 17:00 CET).\n\nWith Czechia already booked into the semifinals following Tuesday 2-0 sweep of Canada and Italy competing against South Korea on Wednesday, the lower half of the knockout bracket takes center stage. Short best-of-three ties leave zero margin for slow starts across two singles matches and a potential decisive doubles showdown.",
-  "stakes": "Two semifinal tickets are up for grabs on Thursday as Bologna determines the full Davis Cup Final 4 lineup.",
-  "rivalryAngle": "European knockout tension in Bologna where every serve, break, and doubles pairing can tilt the nation tie.",
+  "headline": "Davis Cup: Great Britain beat Germany 2-1 to reach first semifinal since 2019",
+  "whyCareScore": 9.2,
+  "whyCareReason": "Patten and Skupski win the decisive doubles after Norrie beats Struff and Zverev levels against Fery.",
+  "teaser": "Norrie d Struff 6-3, 3-6, 6-2; Zverev d Fery 6-3, 6-2; Patten and Skupski d Krawietz and Puetz 6-2, 7-6(6).",
+  "story": "Great Britain beat Germany 2-1 in the Davis Cup Final 8 quarterfinals on Thursday, 26 November, at SuperTennis Arena in Bologna and reached a first semifinal since 2019.\n\nCameron Norrie beat Jan-Lennard Struff 6-3, 3-6, 6-2, saving four break points at 2-2 in the third set. World No. 1 Alexander Zverev leveled the tie by beating Arthur Fery 6-3, 6-2.\n\nHenry Patten and Neal Skupski then beat Kevin Krawietz and Tim Puetz 6-2, 7-6(6) in the decisive doubles. Great Britain will meet Austria or Spain on Saturday. Austria vs Spain at 17:00 CET on Thursday is unpublished as a final.",
+  "stakes": "Great Britain are into a first Davis Cup Final 4 since 2019 and wait on Austria vs Spain for a Saturday opponent.",
+  "rivalryAngle": "A new Patten-Skupski pairing closed a 1-1 tie against Germany experienced doubles pair.",
   "funFacts": [
-    "Great Britain vs Germany starts Thursday day session at 10:00 CET (9:00 AM GMT / 4:00 AM EST).",
-    "Austria vs Spain follows in the evening session not before 17:00 CET on the same Bologna court.",
-    "All Final 8 ties consist of two singles rubbers and one decisive doubles match if tied 1-1."
+    "Norrie saved four break points at 2-2 in the third set against Struff.",
+    "Zverev leveled 6-3, 6-2 over Fery before the British doubles pair closed it.",
+    "Patten and Skupski won 6-2, 7-6(6) for a first GB semifinal since 2019."
   ],
   "keyPlayers": [
     {
-      "name": "Alexander Zverev",
-      "team": "Germany",
-      "hook": "Germany anchor following his runner-up finish at the Nitto ATP Finals in Turin."
+      "name": "Cameron Norrie",
+      "team": "Great Britain",
+      "hook": "Beat Jan-Lennard Struff 6-3, 3-6, 6-2 to put GB 1-0 up."
     },
     {
-      "name": "Jack Draper",
+      "name": "Henry Patten",
       "team": "Great Britain",
-      "hook": "Key British left-hander spearheading singles competition in Bologna."
+      "hook": "Won the decisive doubles with Neal Skupski 6-2, 7-6(6)."
+    },
+    {
+      "name": "Alexander Zverev",
+      "team": "Germany",
+      "hook": "Leveled the tie 6-3, 6-2 over Arthur Fery."
     }
   ],
-  "headToHead": "26 November 2026. 10:00 CET. SuperTennis Arena, Bologna. Quarterfinal.",
+  "headToHead": "26 November 2026. 10:00 CET. SuperTennis Arena, Bologna. Final: Great Britain 2-1 Germany.",
   "tags": [
     "tennis",
     "davis-cup",
@@ -46,13 +51,13 @@
   "time": "10:00 CET",
   "venue": "SuperTennis Arena, BolognaFiere",
   "city": "Bologna",
-  "status": "UPCOMING",
-  "homeScore": null,
-  "awayScore": null,
-  "marquee": false,
+  "status": "FINISHED",
+  "homeScore": 2,
+  "awayScore": 1,
+  "marquee": true,
   "liveMinute": null,
-  "image": "https://images.pexels.com/photos/1618210/pexels-photo-1618210.jpeg",
-  "decidedBy": null,
+  "image": "https://images.pexels.com/photos/2291006/pexels-photo-2291006.jpeg",
+  "decidedBy": "regular",
   "homePen": null,
   "awayPen": null,
   "sport": "tennis",
@@ -60,13 +65,21 @@
   "format": "team-match",
   "season": "2026",
   "roundLabel": "Davis Cup Final 8 · Thursday Quarterfinal",
-  "resultSummary": "UPCOMING Thu 26 Nov: Great Britain vs Germany (10:00 CET), Austria vs Spain (17:00 CET).",
+  "resultSummary": "FINAL: Great Britain 2-1 Germany (Norrie d Struff 6-3, 3-6, 6-2; Zverev d Fery 6-3, 6-2; Patten/Skupski d Krawietz/Puetz 6-2, 7-6(6)). Austria vs Spain 17:00 CET unpublished.",
   "leaderboard": [],
   "tennisSets": [],
   "sources": [
     {
-      "name": "Davis Cup Official: Thursday Bologna Schedule and Final 8 Ties",
-      "url": "https://www.daviscup.com/en/news/bologna-finals-2026-thursday-schedule"
+      "name": "BBC Sport: Great Britain beat Germany to reach Davis Cup semi-finals",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c5m2lvevrk1mo"
+    },
+    {
+      "name": "LTA: Great Britain 2-1 Germany results",
+      "url": "https://www.lta.org.uk/fan-zone/davis-cup/news/final-8-great-britain-vs-germany-results-updates"
+    },
+    {
+      "name": "Davis Cup official: Final 8 Bologna",
+      "url": "https://www.daviscup.com/"
     }
   ]
 }
